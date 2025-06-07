@@ -29,10 +29,20 @@ jobs:
         path: storage.json
         key: storage-json
 
+    - name: Show contents of restored storage.json
+      run: |
+        echo "🔍 Contents of storage.json after cache restore:"
+        cat storage.json || echo "⚠️ storage.json not found"
+
     - name: Run script
       env:
         GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
       run: python main.py
+
+    - name: Show contents of updated storage.json
+      run: |
+        echo "✅ Updated storage.json:"
+        cat storage.json || echo "⚠️ storage.json not found"
 
     - name: Save updated storage.json
       uses: actions/cache/save@v3
