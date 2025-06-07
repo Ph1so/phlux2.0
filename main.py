@@ -104,7 +104,7 @@ def update_storage(storage_path="storage.json"):
     return new_jobs_message
 
 def format_message_html(message):
-    lines = ["<h2>🚀 New Internship Alerts!</h2><br>"]
+    lines = ["<h2>phi' little minion has found new internships</h2><br>"]
     try:
         response = requests.get("https://api.animechan.io/v1/quotes/random")
         if response.status_code == 200:
@@ -115,7 +115,7 @@ def format_message_html(message):
 
             lines.append(f"<p>As <strong>{character}</strong> from <em>{anime}</em> once said:<br>“{quote}”</p><br>")
         else:
-            lines.append("<p><em>Couldn't fetch an anime quote this time 😅</em></p><br>")
+            lines.append("<p><em>Couldn't fetch a quote this time</em></p><br>")
     except Exception as e:
         lines.append(f"<p><em>Error fetching quote: {e}</em></p><br>")
 
@@ -130,7 +130,7 @@ def format_message_html(message):
 
 def send_email(message):
     msg = EmailMessage()
-    msg['Subject'] = 'New internship alert!'
+    msg['Subject'] = "🚀 New Internship Alerts!"
     msg['From'] = 'phiwe3296@gmail.com'
     msg['To'] = 'phiwe3296@gmail.com'
     msg['Cc'] = 'Nicolezcui@gmail.com'
