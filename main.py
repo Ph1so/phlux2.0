@@ -105,6 +105,20 @@ def update_storage(storage_path="storage.json"):
 
 def format_message_html(message):
     lines = ["<h2>🚀 New Internship Alerts!</h2><br>"]
+    try:
+        response = requests.get("https://api.animechan.io/v1/quotes/random")
+        if response.status_code == 200:
+            data = response.json().get("data", {})
+            quote = data.get("content", "")
+            character = data.get("character", {}).get("name", "Someone")
+            anime = data.get("anime", {}).get("name", "an anime")
+
+            lines.append(f"<p>As <strong>{character}</strong> from <em>{anime}</em> once said:<br>“{quote}”</p><br>")
+        else:
+            lines.append("<p><em>Couldn't fetch an anime quote this time 😅</em></p><br>")
+    except Exception as e:
+        lines.append(f"<p><em>Error fetching quote: {e}</em></p><br>")
+
     for company, info in message["companies"].items():
         lines.append(f"<h3>🔹 {company}</h3>")
         lines.append("<ul>")
