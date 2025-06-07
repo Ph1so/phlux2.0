@@ -18,9 +18,7 @@ from selenium.common.exceptions import TimeoutException
 from tenacity import retry, wait_fixed, stop_after_attempt
 from webdriver_manager.chrome import ChromeDriverManager
 
-# Load Gmail app password from .env
-load_dotenv()
-GMAIL_APP_PASSWORD = os.getenv("GMAIL_APP_PASSWORD")
+GMAIL_APP_PASSWORD = os.environ["GMAIL_APP_PASSWORD"]
 
 # Install ChromeDriver once globally
 CHROME_DRIVER_PATH = ChromeDriverManager().install()
@@ -104,13 +102,15 @@ def update_storage(storage_path="storage.json"):
 
     return new_jobs_message
 
-def format_message(message):
-    lines = ["🚀 New Internship Alerts!\n"]
+def format_message_html(message):
+    lines = ["<h2>🚀 New Internship Alerts!</h2><br>"]
     for company, info in message["companies"].items():
-        lines.append(f"🔹 {company}")
+        lines.append(f"<h3>🔹 {company}</h3>")
+        lines.append("<ul>")
         for job in info["jobs"]:
-            lines.append(f"   • {job}")
-        lines.append(f"   🔗 Link: {info['link']}\n")
+            lines.append(f"<li>{job}</li>")
+        lines.append("</ul>")
+        lines.append(f'<p>🔗 <a href="{info["link"]}">Apply Here</a></p><br>')
     return "\n".join(lines)
 
 def send_email(message):
@@ -119,7 +119,9 @@ def send_email(message):
     msg['From'] = 'phiwe3296@gmail.com'
     msg['To'] = 'phiwe3296@gmail.com'
     msg['Cc'] = 'Nicolezcui@gmail.com'
-    msg.set_content(format_message(message))
+    html_content = format_message_html(message)
+    msg.set_content("This email contains HTML. Please view it in an HTML-compatible client.")
+    msg.add_alternative(html_content, subtype='html')
 
     with smtplib.SMTP_SSL('smtp.gmail.com', 465) as smtp:
         smtp.login('phiwe3296@gmail.com', GMAIL_APP_PASSWORD)
