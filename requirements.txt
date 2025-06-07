@@ -4,3 +4,4 @@ webdriver-manager
 tenacity
 lxml
 python-dotenv
+requests

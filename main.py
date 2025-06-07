@@ -2,6 +2,7 @@ import os
 import time
 import json
 import pandas as pd
+import requests
 import smtplib
 from email.message import EmailMessage
 from dotenv import load_dotenv
