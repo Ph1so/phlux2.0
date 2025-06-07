@@ -146,6 +146,7 @@ def main():
     new_jobs = update_storage()
     if new_jobs["companies"]:
         send_email(new_jobs)
+    # print(get_jobs_headless(("https://www.tesla.com/careers/search/?type=3&department=ai-robotics&region=5&site=US","li div div a")))
 
 if __name__ == "__main__":
     main()

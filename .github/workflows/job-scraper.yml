@@ -2,8 +2,8 @@ name: Job Scraper
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # every 30 minutes
-  workflow_dispatch:        # allows manual run
+    - cron: '0,30 8-20 * * *'
+  workflow_dispatch: 
 
 jobs:
   run:
