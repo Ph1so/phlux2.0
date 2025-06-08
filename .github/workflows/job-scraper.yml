@@ -31,7 +31,7 @@ jobs:
       uses: actions/cache@v3
       with:
         path: storage.json
-        key: storage-json-base
+        key: storage-json-restore
         restore-keys: |
           storage-json-
 
