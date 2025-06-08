@@ -2,7 +2,7 @@ name: Job Scraper
 
 on:
   schedule:
-    - cron: '0,30 10-23,0 * * *'
+    - cron: '0,30 10-23,0 * * *'  # Every 30 mins from 6AM–8PM ET (UTC 10–23,0)
   workflow_dispatch:
 
 jobs:
@@ -23,9 +23,12 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: Compute cache key (by hour)
+    - name: Compute cache key (by hour + half-hour)
       id: keygen
-      run: echo "key=storage-json-$(date +'%H')" >> $GITHUB_OUTPUT
+      run: |
+        MIN=$(date +'%M')
+        if [ "$MIN" -lt 30 ]; then PART="00"; else PART="30"; fi
+        echo "key=storage-json-$(date +'%H')-${PART}" >> $GITHUB_OUTPUT
 
     - name: Restore storage.json cache
       uses: actions/cache@v3
