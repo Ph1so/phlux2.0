@@ -23,6 +23,10 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
+    - name: Compute cache key (by hour)
+      id: keygen
+      run: echo "key=storage-json-$(date +'%H')" >> $GITHUB_OUTPUT
+
     - name: Restore storage.json cache
       uses: actions/cache@v3
       with:
@@ -50,4 +54,4 @@ jobs:
       uses: actions/cache/save@v3
       with:
         path: storage.json
-        key: storage-json-${{ github.run_id }}
+        key: ${{ steps.keygen.outputs.key }}
