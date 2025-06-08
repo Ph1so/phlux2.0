@@ -104,7 +104,7 @@ def update_storage(storage_path="storage.json"):
     return new_jobs_message
 
 def format_message_html(message):
-    lines = ["<h2>phi' little minion has found new internships</h2><br>"]
+    lines = ["<h2>phi's little minion has found new internships</h2><br>"]
     try:
         response = requests.get("https://api.animechan.io/v1/quotes/random")
         if response.status_code == 200:
