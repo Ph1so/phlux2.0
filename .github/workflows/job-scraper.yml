@@ -2,8 +2,11 @@ name: Job Scraper
 
 on:
   schedule:
-    - cron: '0,30 10-23,0 * * *'  # Every 30 mins from 6AM–8PM ET (UTC 10–23,0)
-  workflow_dispatch:
+    - cron: '*/30 * * * *'  # Run every 30 minutes
+  workflow_dispatch:        # Allow manual triggering
+
+permissions:
+  contents: write  # Required to push commits to the repo
 
 jobs:
   run:
@@ -12,49 +15,41 @@ jobs:
     steps:
     - name: Checkout repo
       uses: actions/checkout@v3
+      with:
+        persist-credentials: true
 
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
         python-version: '3.12'
 
+    - name: Cache pip dependencies
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
 
-    - name: Compute cache key (by hour + half-hour)
-      id: keygen
-      run: |
-        MIN=$(date +'%M')
-        if [ "$MIN" -lt 30 ]; then PART="00"; else PART="30"; fi
-        echo "key=storage-json-$(date +'%H')-${PART}" >> $GITHUB_OUTPUT
-
-    - name: Restore storage.json cache
-      uses: actions/cache@v3
-      with:
-        path: storage.json
-        key: storage-json-restore
-        restore-keys: |
-          storage-json-
-
-    - name: Show contents of restored storage.json
-      run: |
-        echo "🔍 Contents of storage.json after cache restore:"
-        cat storage.json || echo "⚠️ storage.json not found"
-
-    - name: Run script
+    - name: Run job scraper
       env:
         GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
       run: python main.py
 
-    - name: Show contents of updated storage.json
+    - name: Commit and push updated storage.json
       run: |
-        echo "✅ Updated storage.json:"
-        cat storage.json || echo "⚠️ storage.json not found"
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-    - name: Save updated storage.json
-      uses: actions/cache/save@v3
-      with:
-        path: storage.json
-        key: ${{ steps.keygen.outputs.key }}
+        git add storage.json
+        if git diff --cached --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update storage.json [bot]"
+          git push
+        fi
