@@ -2,8 +2,8 @@ name: Job Scraper
 
 on:
   schedule:
-    - cron: '0,30 8-20 * * *'
-  workflow_dispatch: 
+    - cron: '0,30 10-23,0 * * *'  # Adjust for your time zone if needed
+  workflow_dispatch:
 
 jobs:
   run:
@@ -28,6 +28,7 @@ jobs:
       with:
         path: storage.json
         key: storage-json
+        restore-keys: storage-json-
 
     - name: Show contents of restored storage.json
       run: |
@@ -48,4 +49,4 @@ jobs:
       uses: actions/cache/save@v3
       with:
         path: storage.json
-        key: storage-json
+        key: storage-json-${{ github.run_id }}
