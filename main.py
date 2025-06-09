@@ -40,12 +40,16 @@ def get_jobs_headless(args):
     driver = webdriver.Chrome(service=Service(CHROME_DRIVER_PATH), options=options)
     try:
         driver.get(url)
-        if needClick != "None":
-            early_talent = WebDriverWait(driver, 10).until(
-                EC.element_to_be_clickable((By.XPATH, f"//p[text()='{needClick}']"))
-            )
-            early_talent.click()
-            time.sleep(2)
+        if needClick and needClick.strip() != "None":
+            try:
+                print(f"🖱️ Clicking '{needClick.strip()}' to reveal jobs...")
+                click_target = WebDriverWait(driver, 10).until(
+                    EC.element_to_be_clickable((By.XPATH, f"//p[text()='{needClick.strip()}']"))
+                )
+                click_target.click()
+                time.sleep(2)
+            except Exception as e:
+                print(f"⚠️ Failed to click '{needClick}': {e}")
         WebDriverWait(driver, 100).until(
             EC.presence_of_all_elements_located((By.CSS_SELECTOR, selector))
         )
@@ -68,10 +72,11 @@ def get_jobs_headless(args):
         driver.quit()
 
 def load_company_data():
-    df = pd.read_csv("companies.csv")
+    df = pd.read_csv("companies.csv", keep_default_na=False)
     df["Link"] = df["Link"].str.strip('"\'')
-
+    print(df.columns.tolist())
     return list(zip(df["Name"], df["Link"], df["ClassName"], df["needClick"]))
+
 
 def update_storage(storage_path="storage.json"):
     if os.path.exists(storage_path):
