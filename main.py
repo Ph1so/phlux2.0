@@ -51,6 +51,7 @@ def get_jobs_headless(args):
                 time.sleep(2)
             except Exception as e:
                 print(f"⚠️ Failed to click '{needClick}': {e}")
+
         WebDriverWait(driver, 10).until(
             EC.presence_of_all_elements_located((By.CSS_SELECTOR, selector))
         )
@@ -63,10 +64,10 @@ def get_jobs_headless(args):
             time.sleep(1)
         return [el.text.strip() for el in elements if el.text.strip()]
     except TimeoutException:
-        print(f"❌ Timeout: Could not find elements for selector '{selector}' at {url}")
+        print(f"❌ Timeout: Could not find elements for selector '{selector}' at {name}")
         return []
     except Exception as e:
-        print(f"❌ Error scraping {url}: {e}")
+        print(f"❌ Error scraping {name}: {e}")
         return []
     finally:
         driver.quit()
@@ -162,13 +163,9 @@ def send_email(message):
         smtp.send_message(msg)
 
 def main():
-    # new_jobs = update_storage()
-    # if new_jobs["companies"]:
-    #     send_email(new_jobs)
-    url = "https://www.sonyjobs.com/jobs.html"
-    selector = "ul li div div div h3.css-19uc56f"
-    needClick = "None"
-    print(get_jobs_headless((url,selector)))
+    new_jobs = update_storage()
+    if new_jobs["companies"]:
+        send_email(new_jobs)
 
 if __name__ == "__main__":
     main()
