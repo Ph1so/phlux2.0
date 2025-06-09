@@ -127,10 +127,10 @@ def format_message_html(message):
         
         response = requests.get("https://api.animechan.io/v1/quotes/random")
         if response.status_code == 200:
-            data = response.json()
-            quote = data.get("quote", "")
-            character = data.get("character", "Someone")
-            anime = data.get("anime", "an anime")
+            data = response.json().data()
+            quote = data.get("content", "")
+            character = data.get("character", "Someone").get("name")
+            anime = data.get("anime", "a show").get("name")
             lines.append(f'<p>As <strong>{character}</strong> from <em>{anime}</em> once said:<br>“{quote}”</p><br>')
         else:
             lines.append("<p><em>Couldn't fetch a quote this time</em></p><br>")
