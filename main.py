@@ -20,13 +20,14 @@ from tenacity import retry, wait_fixed, stop_after_attempt
 from webdriver_manager.chrome import ChromeDriverManager
 
 GMAIL_APP_PASSWORD = os.environ["GMAIL_APP_PASSWORD"]
-
-# Install ChromeDriver once globally
 CHROME_DRIVER_PATH = ChromeDriverManager().install()
+CLICKABLE = {
+    "Robinhood": "EARLY TALENT"
+}
 
 @retry(wait=wait_fixed(5), stop=stop_after_attempt(5))
 def get_jobs_headless(args):
-    url, selector, needClick = args
+    name, url, selector = args
     options = Options()
     options.add_argument("--headless")
     options.add_argument("--disable-gpu")
@@ -40,7 +41,7 @@ def get_jobs_headless(args):
     driver = webdriver.Chrome(service=Service(CHROME_DRIVER_PATH), options=options)
     try:
         driver.get(url)
-        if needClick and needClick.strip() != "None":
+        if needClick := CLICKABLE.get(name, False):
             try:
                 print(f"🖱️ Clicking '{needClick.strip()}' to reveal jobs...")
                 click_target = WebDriverWait(driver, 10).until(
@@ -73,7 +74,7 @@ def get_jobs_headless(args):
 def load_company_data():
     df = pd.read_csv("companies.csv", keep_default_na=False)
     df["Link"] = df["Link"].str.strip('"\'')
-    return list(zip(df["Name"], df["Link"], df["ClassName"], df["needClick"]))
+    return list(zip(df["Name"], df["Link"], df["ClassName"]))
 
 
 def update_storage(storage_path="storage.json"):
@@ -88,8 +89,8 @@ def update_storage(storage_path="storage.json"):
 
     with ProcessPoolExecutor(max_workers=4) as executor:
         futures = {
-            executor.submit(get_jobs_headless, (link, selector, needClick)): (name, link)
-            for name, link, selector, needClick in companies
+            executor.submit(get_jobs_headless, (name, link, selector)): (name, link)
+            for name, link, selector in companies
         }
 
         for future in as_completed(futures):
@@ -161,13 +162,13 @@ def send_email(message):
         smtp.send_message(msg)
 
 def main():
-    new_jobs = update_storage()
-    if new_jobs["companies"]:
-        send_email(new_jobs)
-    # url = "https://jobs.intuit.com/search-jobs/interns%20/"
-    # selector = "section section ul li a h2"
-    # needClick = "None"
-    # print(get_jobs_headless((url,selector, needClick)))
+    # new_jobs = update_storage()
+    # if new_jobs["companies"]:
+    #     send_email(new_jobs)
+    url = "https://www.sonyjobs.com/jobs.html"
+    selector = "ul li div div div h3.css-19uc56f"
+    needClick = "None"
+    print(get_jobs_headless((url,selector)))
 
 if __name__ == "__main__":
     main()
