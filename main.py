@@ -164,8 +164,8 @@ def main():
     new_jobs = update_storage()
     if new_jobs["companies"]:
         send_email(new_jobs)
-    # url = "https://www.spacex.com/careers/jobs/?type=intern"
-    # selector = "table tbody tr td a"
+    # url = "https://jobs.intuit.com/search-jobs/interns%20/"
+    # selector = "section section ul li a h2"
     # needClick = "None"
     # print(get_jobs_headless((url,selector, needClick)))
 
