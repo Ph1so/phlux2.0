@@ -50,7 +50,7 @@ def get_jobs_headless(args):
                 time.sleep(2)
             except Exception as e:
                 print(f"⚠️ Failed to click '{needClick}': {e}")
-        WebDriverWait(driver, 100).until(
+        WebDriverWait(driver, 10).until(
             EC.presence_of_all_elements_located((By.CSS_SELECTOR, selector))
         )
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
