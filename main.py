@@ -60,7 +60,6 @@ def get_jobs_headless(args):
             if elements:
                 break
             time.sleep(1)
-        print(driver.page_source)  # Save or inspect the HTML
         return [el.text.strip() for el in elements if el.text.strip()]
     except TimeoutException:
         print(f"❌ Timeout: Could not find elements for selector '{selector}' at {url}")
@@ -74,7 +73,6 @@ def get_jobs_headless(args):
 def load_company_data():
     df = pd.read_csv("companies.csv", keep_default_na=False)
     df["Link"] = df["Link"].str.strip('"\'')
-    print(df.columns.tolist())
     return list(zip(df["Name"], df["Link"], df["ClassName"], df["needClick"]))
 
 
