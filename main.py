@@ -26,7 +26,7 @@ CHROME_DRIVER_PATH = ChromeDriverManager().install()
 
 @retry(wait=wait_fixed(5), stop=stop_after_attempt(5))
 def get_jobs_headless(args):
-    url, selector = args
+    url, selector, needClick = args
     options = Options()
     options.add_argument("--headless")
     options.add_argument("--disable-gpu")
@@ -40,12 +40,23 @@ def get_jobs_headless(args):
     driver = webdriver.Chrome(service=Service(CHROME_DRIVER_PATH), options=options)
     try:
         driver.get(url)
-        WebDriverWait(driver, 10).until(
+        if needClick != "None":
+            early_talent = WebDriverWait(driver, 10).until(
+                EC.element_to_be_clickable((By.XPATH, f"//p[text()='{needClick}']"))
+            )
+            early_talent.click()
+            time.sleep(2)
+        WebDriverWait(driver, 100).until(
             EC.presence_of_all_elements_located((By.CSS_SELECTOR, selector))
         )
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-        time.sleep(1)
-        elements = driver.find_elements(By.CSS_SELECTOR, selector)
+        time.sleep(2)
+        for _ in range(10):
+            elements = driver.find_elements(By.CSS_SELECTOR, selector)
+            if elements:
+                break
+            time.sleep(1)
+        print(driver.page_source)  # Save or inspect the HTML
         return [el.text.strip() for el in elements if el.text.strip()]
     except TimeoutException:
         print(f"❌ Timeout: Could not find elements for selector '{selector}' at {url}")
@@ -74,8 +85,8 @@ def update_storage(storage_path="storage.json"):
 
     with ProcessPoolExecutor(max_workers=4) as executor:
         futures = {
-            executor.submit(get_jobs_headless, (link, selector)): (name, link)
-            for name, link, selector in companies
+            executor.submit(get_jobs_headless, (link, selector, needClick)): (name, link)
+            for name, link, selector, needClick in companies
         }
 
         for future in as_completed(futures):
@@ -150,9 +161,10 @@ def main():
     new_jobs = update_storage()
     if new_jobs["companies"]:
         send_email(new_jobs)
-    # url = "https://www.tesla.com/careers/search/?type=3&department=ai-robotics&region=5&site=US"
-    # selector = "div div div a.style_TitleLink__PepSM.tds-text--h4.tds-link.tds-link--secondary"
-    # print(get_jobs_headless((url,selector)))
+    # url = "https://careers.robinhood.com/"
+    # selector = "section.section.section-relative div.section-block div div div div.major-container div div.panel.EARLYTALENT p.job a"
+    # needClick = "EARLY TALENT"
+    # print(get_jobs_headless((url,selector, needClick)))
 
 if __name__ == "__main__":
     main()
