@@ -137,7 +137,7 @@ def send_email(message):
     msg['Subject'] = "🚀 New Internship Alerts!"
     msg['From'] = 'phiwe3296@gmail.com'
     msg['To'] = 'phiwe3296@gmail.com'
-    msg['Cc'] = 'Nicolezcui@gmail.com'
+    msg['Cc'] = 'Nicolezcui@gmail.com, pham0579@umn.edu'
     html_content = format_message_html(message)
     msg.set_content("This email contains HTML. Please view it in an HTML-compatible client.")
     msg.add_alternative(html_content, subtype='html')
