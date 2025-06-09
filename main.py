@@ -71,7 +71,7 @@ def load_company_data():
     df = pd.read_csv("companies.csv")
     df["Link"] = df["Link"].str.strip('"\'')
 
-    return list(zip(df["Name"], df["Link"], df["ClassName"]))
+    return list(zip(df["Name"], df["Link"], df["ClassName"], df["needClick"]))
 
 def update_storage(storage_path="storage.json"):
     if os.path.exists(storage_path):
