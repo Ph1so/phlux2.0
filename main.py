@@ -167,7 +167,7 @@ def main():
     if new_jobs["companies"]:
         send_email(new_jobs)
     
-    # print(get_jobs_headless(("Nokia","https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?lastSelectedFacet=TITLES&location=United+States&locationId=300000000480126&locationLevel=country&mode=location&selectedTitlesFacet=TRA",".job-tile__title")))
+    # print(get_jobs_headless(("EA","https://jobs.ea.com/en_US/careers/Home/?8171=%5B10618%5D&8171_format=5683&4537=%5B8693%5D&4537_format=3020&listFilterMode=1&jobRecordsPerPage=20&",".link.link_result")))
 
 if __name__ == "__main__":
     main()
