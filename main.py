@@ -128,7 +128,7 @@ def format_message_html(message):
         
         response = requests.get("https://api.animechan.io/v1/quotes/random")
         if response.status_code == 200:
-            data = response.json().data()
+            data = response.json().get("data")
             quote = data.get("content", "")
             character = data.get("character", "Someone").get("name")
             anime = data.get("anime", "a show").get("name")
