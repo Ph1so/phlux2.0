@@ -164,9 +164,9 @@ def main():
     new_jobs = update_storage()
     if new_jobs["companies"]:
         send_email(new_jobs)
-    # url = "https://careers.robinhood.com/"
-    # selector = "section.section.section-relative div.section-block div div div div.major-container div div.panel.EARLYTALENT p.job a"
-    # needClick = "EARLY TALENT"
+    # url = "https://www.spacex.com/careers/jobs/?type=intern"
+    # selector = "table tbody tr td a"
+    # needClick = "None"
     # print(get_jobs_headless((url,selector, needClick)))
 
 if __name__ == "__main__":
