@@ -25,7 +25,7 @@ Wayfair,https://www.wayfair.com/careers/jobs?countryIds=1&selectedJobTypeIds=8,.
 Citadel,"https://www.citadel.com/careers/open-opportunities?experience-filter=internships&location-filter=americas,chicago,greenwich,houston,miami,new-york&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter",h2.visible.full-visible, None
 Airbnb,https://careers.airbnb.com/positions/?_departments=early-career-program-intern&_offices=united-states,h3.text-size-4, None
 Cisco,https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B169482%5D&21178_format=6020&21180=%5B33821095%2C165%5D&21180_format=6022&listFilterMode=1,td[data-th='Job Title'], None
-DE Shaws,https://www.deshaw.com/careers/internships,section.sc-jlZhew.eyTWIc.InternshipsJobsListing span.job-display-name, None
+DE Shaw,https://www.deshaw.com/careers/internships,section.sc-jlZhew.eyTWIc.InternshipsJobsListing span.job-display-name, None
 Hudson River Trading,https://www.hudsonrivertrading.com/careers/?job-type=internship%2C,.hrt-card-title-wrap a.hrt-card-title, None
 Morgan Stanley,https://www.morganstanley.com/careers/career-opportunities-search?opportunity=sg#,.cmp-jobcard__title, None
 Spotify,https://www.lifeatspotify.com/students,.ma-0.size-6.size-7-mobile.line-150.fw-normal.no-underline.color-ui-black.entry_title__Q0z3u, None
@@ -49,3 +49,5 @@ TikTok,https://lifeattiktok.com/search?keyword=&recruitment_id_list=202%2C301&jo
 Robinhood,https://careers.robinhood.com/,section.section.section-relative div.section-block div div div div.major-container div div.panel.EARLYTALENT p.job a,EARLY TALENT
 SpaceX,https://www.spacex.com/careers/jobs/?type=intern,table tbody tr td a,None
 Intuit,https://jobs.intuit.com/search-jobs/interns/,section section ul li a h2,None
+EA,https://jobs.ea.com/en_US/careers/Home/?8171=%5B10618%5D&8171_format=5683&4537=%5B8693%5D&4537_format=3020&listFilterMode=1&jobRecordsPerPage=20&,.link_result, None
+Dassault Systèmes,https://www.3ds.com/careers/jobs?woc=%257B%2522type%2522%253A%255B%2522type%252FInternship%2522%255D%252C%2522country%2522%253A%255B%2522country%252FUnited%2520States%2522%255D%257D,.job-card-title, None
