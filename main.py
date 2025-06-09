@@ -125,7 +125,7 @@ def format_message_html(message):
             duck_url = response.json().get("url")
             lines.append(f'<img src="{duck_url}" alt="Random Duck" width="300"><br>')
         
-        response = requests.get("https://animechan.xyz/api/quotes/random")
+        response = requests.get("https://api.animechan.io/v1/quotes/random")
         if response.status_code == 200:
             data = response.json()
             quote = data.get("quote", "")
