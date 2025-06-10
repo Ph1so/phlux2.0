@@ -352,6 +352,7 @@
 - OptoElectronic Integration Coop
 - Software Development Coop
 - Video Coding Coop
+- 5G Arch Co-op
 </details>
 
 <details>
