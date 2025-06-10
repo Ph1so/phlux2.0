@@ -64,10 +64,10 @@ def get_jobs_headless(args):
             time.sleep(1)
         return [el.text.strip() for el in elements if el.text.strip()]
     except TimeoutException:
-        print(f"❌ Timeout: Could not find elements for selector '{selector}' at {name}")
+        print(f"❌ {name} - Timeout: Could not find elements for selector '{selector}'")
         return []
     except Exception as e:
-        print(f"❌ Error scraping {name}: {e}")
+        print(f"❌ {name} - Error scraping: {e}")
         return []
     finally:
         driver.quit()
