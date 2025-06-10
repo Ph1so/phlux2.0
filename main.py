@@ -166,11 +166,11 @@ def send_email(message):
         smtp.send_message(msg)
 
 def main():
-    # new_jobs = update_storage()
-    # if new_jobs["companies"]:
-    #     send_email(new_jobs)
+    new_jobs = update_storage()
+    if new_jobs["companies"]:
+        send_email(new_jobs)
     
-    print(get_jobs_headless(("Susquehanna","https://careers.sig.com/global-susquehanna-jobs",".job-title span")))
+    # print(get_jobs_headless(("Susquehanna","https://careers.sig.com/global-susquehanna-jobs",".job-title span")))
 
 if __name__ == "__main__":
     main()
