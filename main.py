@@ -170,7 +170,7 @@ def main():
     if new_jobs["companies"]:
         send_email(new_jobs)
     
-    # print(get_jobs_headless(("Susquehanna","https://careers.sig.com/global-susquehanna-jobs",".job-title span")))
+    # print(get_jobs_headless(("Roblox","https://careers.roblox.com/jobs?groups=early-career-talent&page=1&pageSize=9","main h4")))
 
 if __name__ == "__main__":
     main()
