@@ -90,6 +90,12 @@
 </details>
 
 <details>
+<summary><a href="https://asana.com/jobs/university-recruiting#jobs"><strong>Asana</strong></a></summary>
+
+- Reykjavik Summer Software Engineering Internship
+</details>
+
+<details>
 <summary><a href="https://www.atlassian.com/company/careers/all-jobs?team=Interns&location=&search="><strong>Atlassian</strong></a></summary>
 
 - UX Researcher, 2025/2026 Intern Australia & New Zealand
