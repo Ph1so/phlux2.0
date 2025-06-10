@@ -21,16 +21,17 @@ def load_jobs(json_path: str) -> dict:
 def generate_readme(jobs: dict, links: dict) -> str:
     lines = ["# Phlux\n"]
 
+    lines.append("| Company | Role |")
+    lines.append("| :------ | :--- |")
     for company in sorted(jobs):
         postings = jobs[company]
         if not postings:
             continue
 
         name = f"[{company}]({links[company]})" if company in links else company
-        lines.append(f"## {name}")
-        for role in postings:
-            lines.append(f"- {role.strip().replace("\n", " ")}")
-        lines.append("")
+        lines.append(f"|{name}|{postings[0]}|")
+        for role in postings[1:]:
+            lines.append(f"| ↳ | {role.strip().replace("\n", " ")}|")
 
     return "\n".join(lines)
 
