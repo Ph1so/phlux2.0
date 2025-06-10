@@ -5,7 +5,6 @@ import pandas as pd
 import requests
 import smtplib
 from email.message import EmailMessage
-from dotenv import load_dotenv
 from concurrent.futures import ProcessPoolExecutor, as_completed
 
 from selenium import webdriver
@@ -21,6 +20,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 GMAIL_APP_PASSWORD = os.environ["GMAIL_APP_PASSWORD"]
 CHROME_DRIVER_PATH = ChromeDriverManager().install()
+# Used for dynamically loaded jobs that reuqire user interaction
 CLICKABLE = {
     "Robinhood": "EARLY TALENT"
 }
@@ -167,7 +167,7 @@ def main():
     if new_jobs["companies"]:
         send_email(new_jobs)
     
-    # print(get_jobs_headless(("EA","https://jobs.ea.com/en_US/careers/Home/?8171=%5B10618%5D&8171_format=5683&4537=%5B8693%5D&4537_format=3020&listFilterMode=1&jobRecordsPerPage=20&",".link.link_result")))
+    # print(get_jobs_headless(("Susquehanna","https://careers.sig.com/global-susquehanna-jobs",".job-title span")))
 
 if __name__ == "__main__":
     main()
