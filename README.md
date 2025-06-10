@@ -64,6 +64,7 @@
 - Jr. Software Development Engineer - Santa Cruz, CA
 - Jr. Software Development Engineer- San Luis Obispo
 - Software Development Engineer, EC2 Nitro Deployments
+- Software Development Engineer
 </details>
 
 <details>
