@@ -247,6 +247,26 @@
 </details>
 
 <details>
+<summary><a href="https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=new-york"><strong>Jane Street</strong></a></summary>
+
+- FPGA Engineer (not currently accepting applications)
+- IT Operations Engineer (not currently accepting applications)
+- Linux Engineer (not currently accepting applications)
+- Machine Learning Researcher (not currently accepting applications)
+- Mechanical Engineer (not currently accepting applications)
+- Network Engineer (not currently accepting applications)
+- Procurement Specialist (not currently accepting applications)
+- Quantitative Researcher (not currently accepting applications)
+- Quantitative Trader (not currently accepting applications)
+- Sales and Trading (not currently accepting applications)
+- Software Engineer (not currently accepting applications)
+- Strategy and Product (not currently accepting applications)
+- Tools and Compilers Research and Development (not currently accepting applications)
+- Trading Desk Operations Engineer (not currently accepting applications)
+- Windows Engineer (not currently accepting applications)
+</details>
+
+<details>
 <summary><a href="https://www.metacareers.com/jobs?sort_by_new=true&roles[0]=Internship"><strong>Meta</strong></a></summary>
 
 - Research Scientist Intern, Machine Learning, Health Tech (PhD)
