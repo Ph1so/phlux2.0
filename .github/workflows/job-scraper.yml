@@ -2,7 +2,7 @@ name: Job Scraper
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Run every 30 minutes
+    - cron: '*/30 10-23,0 * * *'  # Run every 30 minutes
   workflow_dispatch:
 
 permissions:
