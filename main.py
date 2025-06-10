@@ -5,7 +5,6 @@ import pandas as pd
 import requests
 import smtplib
 from email.message import EmailMessage
-from dotenv import load_dotenv
 from concurrent.futures import ProcessPoolExecutor, as_completed
 
 from selenium import webdriver
@@ -21,6 +20,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 GMAIL_APP_PASSWORD = os.environ["GMAIL_APP_PASSWORD"]
 CHROME_DRIVER_PATH = ChromeDriverManager().install()
+# Used for dynamically loaded jobs that reuqire user interaction
 CLICKABLE = {
     "Robinhood": "EARLY TALENT"
 }
