@@ -39,6 +39,16 @@
 </details>
 
 <details>
+<summary><a href="https://careers.adobe.com/us/en/search-results?qkexperienceLevel=University%20Intern"><strong>Adobe</strong></a></summary>
+
+- 2025 Intern - Software Engineer
+- Working Student - Sales Programs / Project Management
+- 2025 Digital Academy Intern - Software Development Engineer
+- Werkstudent*in (m/w/d) für Strategische Projekte Sales Operations
+- Intern - Returnship - PM
+</details>
+
+<details>
 <summary><a href="https://careers.airbnb.com/positions/?_departments=early-career-program-intern&_offices=united-states"><strong>Airbnb</strong></a></summary>
 
 - Legal Intern, Privacy (Fall Semester)
