@@ -146,6 +146,9 @@ def format_message_html(message):
             lines.append(f"<li>{job}</li>")
         lines.append("</ul>")
         lines.append(f'<p>🔗 <a href="{info["link"]}">Apply Here</a></p><br>')
+
+    lines.append('<a href="https://github.com/Ph1so/phlux2.0">All Jobs List</a>')
+
     return "\n".join(lines)
 
 def send_email(message):
