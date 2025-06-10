@@ -362,6 +362,16 @@
 </details>
 
 <details>
+<summary><a href="https://careers.oracle.com/en/sites/jobsearch/jobs?lastSelectedFacet=locations&selectedLocationsFacet=300000000106749%3B300000000149325&selectedFlexFieldsFacets=%22AttributeChar14%7CSDR%22"><strong>Oracle</strong></a></summary>
+
+- Sales Development Representative - Burlington - Sept 2025
+- Sales Development Representative - Denver - Sept 2025
+- Sales Development Representative - Santa Monica - Sept 2025
+- Sales Development Representative - Austin - Sept 2025
+- Sales Development Representative - Nashville - Sept 2025
+</details>
+
+<details>
 <summary><a href="https://jobs.lever.co/palantir?commitment=Internship"><strong>Palantir</strong></a></summary>
 
 - Forward Deployed Software Engineer, Internship
@@ -482,6 +492,8 @@
 - Expression of Interest - Quant Trading & Quant Research – 2026 Summer Internship (Dublin Office)
 - Reference data Team Lead
 - Business Analyst - Operations
+- Senior Software Developer | Artificial Intelligence AI/ML Engineering | Experienced Hire
+- DevOps Engineer - AI | Experienced Hire
 </details>
 
 <details>
@@ -513,6 +525,7 @@
 
 - Manufacturing Engineering Intern | Summer 2025
 - Manufacturing Technical Writing Intern | Summer 2025
+- Controls Engineer
 </details>
 
 <details>
