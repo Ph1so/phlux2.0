@@ -75,20 +75,15 @@
 | ↳ | Wealth Management Summer Analyst Program - Private Bank 2026|
 | ↳ | Wealth Management Summer Analyst Program - Merrill Wealth Management 2026|
 | ↳ | Global Markets Sales & Trading Rotational Summer Analyst Program - 2026|
-|[Blue Origin](https://www.blueorigin.com/careers/search?search=undergraduate&category=Intern&employmentType=Intern)|Spring 2026 Guidance, Navigation & Controls Intern - Undergraduate
-Seattle, WA
-Intern
-Full Time
-Intern
-R52503|
-| ↳ | Spring 2026 Return Internship - Undergraduate 4 Locations Intern Full Time Intern R52463|
-| ↳ | Spring 2026 Manufacturing Engineering Intern - Undergraduate 4 Locations Intern Full Time Intern R52485|
-| ↳ | Spring 2026 Structural & Mechanical Engineering Intern - Undergraduate 4 Locations Intern Full Time Intern R52391|
-| ↳ | Spring 2026 Aerospace Systems Engineering Intern - Undergraduate 2 Locations Intern Full Time Intern R52429|
-| ↳ | Spring 2026 Avionics Software Engineering Intern - Undergraduate Seattle, WA Intern Full Time Intern R52403|
-| ↳ | Spring 2026 Electrical Systems Engineering Internship - Undergraduate Seattle, WA Intern Full Time Intern R52404|
-| ↳ | Spring 2026 Test Engineering Intern - Undergraduate 4 Locations Intern Full Time Intern R52410|
-| ↳ | Spring 2026 Fluid Systems Engineering Intern - Undergraduate Seattle, WA Intern Full Time Intern R52406|
+|[Blue Origin](https://www.blueorigin.com/careers/search?search=undergraduate&category=Intern&employmentType=Intern)|Spring 2026 Guidance, Navigation & Controls Intern - Undergraduate-Seattle, WA-Intern-Full Time-Intern-R52503|
+| ↳ | Spring 2026 Return Internship - Undergraduate-4 Locations-Intern-Full Time-Intern-R52463|
+| ↳ | Spring 2026 Manufacturing Engineering Intern - Undergraduate-4 Locations-Intern-Full Time-Intern-R52485|
+| ↳ | Spring 2026 Structural & Mechanical Engineering Intern - Undergraduate-4 Locations-Intern-Full Time-Intern-R52391|
+| ↳ | Spring 2026 Aerospace Systems Engineering Intern - Undergraduate-2 Locations-Intern-Full Time-Intern-R52429|
+| ↳ | Spring 2026 Avionics Software Engineering Intern - Undergraduate-Seattle, WA-Intern-Full Time-Intern-R52403|
+| ↳ | Spring 2026 Electrical Systems Engineering Internship - Undergraduate-Seattle, WA-Intern-Full Time-Intern-R52404|
+| ↳ | Spring 2026 Test Engineering Intern - Undergraduate-4 Locations-Intern-Full Time-Intern-R52410|
+| ↳ | Spring 2026 Fluid Systems Engineering Intern - Undergraduate-Seattle, WA-Intern-Full Time-Intern-R52406|
 |[Cisco](https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B169482%5D&21178_format=6020&21180=%5B33821095%2C165%5D&21180_format=6022&listFilterMode=1)|Product Management Intern Fall 2025 Meraki|
 | ↳ | Software Engineer I (Co-Op) United States|
 | ↳ | Software Engineer II (Co-Op) United States|
@@ -254,5 +249,4 @@ R52503|
 | ↳ | Manufacturing Technical Writing Intern | Summer 2025|
 |[Workday](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/?source=Careers_Website_ec)|Werksstudierende - Sales (f, m, x) - Munich|
 | ↳ | Working Student Sales - Munich|
-|[ispace](https://jobs.lever.co/ispace-inc?commitment=Intern)|Market Analyst Intern for ISRU Market Study by Euro2Moon
-ON-SITE — INTERNLUXEMBOURG|
+|[ispace](https://jobs.lever.co/ispace-inc?commitment=Intern)|Market Analyst Intern for ISRU Market Study by Euro2Moon-ON-SITE — INTERNLUXEMBOURG|

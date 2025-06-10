@@ -29,8 +29,9 @@ def generate_readme(jobs: dict, links: dict) -> str:
             continue
 
         name = f"[{company}]({links[company]})" if company in links else company
-        lines.append(f"|{name}|{postings[0]}|")
+        lines.append(f"|{name}|{postings[0].replace("\n", "-")}|")
         for role in postings[1:]:
+            role = role.replace("\n", "-")
             lines.append(f"| ↳ | {role.strip().replace("\n", " ")}|")
 
     return "\n".join(lines)
