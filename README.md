@@ -94,6 +94,7 @@
 
 - UX Researcher, 2025/2026 Intern Australia & New Zealand
 - Machine Learning Engineer, 2025/2026 PHD Intern Australia & New Zealand
+- Machine Learning Engineer, 2025/2026 Intern Australia & New Zealand
 </details>
 
 <details>
@@ -187,6 +188,7 @@
 - Sales Development Representative (DACH)
 - Sales Development Representative
 - Sales Development Representative
+- Sales Development Representative (Benelux)
 </details>
 
 <details>
@@ -437,6 +439,7 @@
 - Expression of Interest - Quant Trading & Quant Research – 2026 Graduate Programmes (Dublin Office)
 - Expression of Interest - Software Development – 2026 Summer Internship (Dublin Office)
 - Expression of Interest - Quant Trading & Quant Research – 2026 Summer Internship (Dublin Office)
+- Reference data Team Lead
 </details>
 
 <details>
