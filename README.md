@@ -440,6 +440,7 @@
 - Expression of Interest - Software Development – 2026 Summer Internship (Dublin Office)
 - Expression of Interest - Quant Trading & Quant Research – 2026 Summer Internship (Dublin Office)
 - Reference data Team Lead
+- Business Analyst - Operations
 </details>
 
 <details>
