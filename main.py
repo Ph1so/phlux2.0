@@ -167,7 +167,7 @@ def main():
     if new_jobs["companies"]:
         send_email(new_jobs)
     
-    # print(get_jobs_headless(("EA","https://jobs.ea.com/en_US/careers/Home/?8171=%5B10618%5D&8171_format=5683&4537=%5B8693%5D&4537_format=3020&listFilterMode=1&jobRecordsPerPage=20&",".link.link_result")))
+    # print(get_jobs_headless(("Expedia","https://careers.expediagroup.com/jobs/?keyword=emerging+talent+and+careers&&filter[category]=Technology",".Results__list__title.h4.text-blue-2")))
 
 if __name__ == "__main__":
     main()
