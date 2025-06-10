@@ -134,6 +134,21 @@
 </details>
 
 <details>
+<summary><a href="https://jobs.bytedance.com/en/position?keywords=&category=&location=CT_1103355%2CCT_157%2CCT_94%2CCT_114%2CCT_100764%2CCT_75%2CCT_233%2CCT_203&project=7322364514224687370%2C7503447747358361864&type=3&job_hot_flag=&current=1&limit=10&functionCategory=&tag="><strong>ByteDance</strong></a></summary>
+
+- Software Engineer Intern (Privacy & Security- Global Payment) - 2025 Summer(BS/MS)
+- Site Reliability Engineer Intern (Data-Technical Infrastructures-SRE-US) - 2025 Summer (MS)
+- Backend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Customer Business)- 2025 Fall(BS/MS)
+- Site Reliability Engineer Intern (Data-Technical Infrastructures-SRE-US) - 2025 Summer (MS)
+- Backend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Seller Business) - 2025 Fall (BS/MS)
+- Data Scientist Intern (TikTok Ads)- 2025 Fall (BS/MS)
+- Software Development Engineer Intern in Test (Global E-commerce-Quality Assurance) - 2025 Fall (BS/MS)
+- Frontend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Seller Business) - 2025 Start Fall (BS/MS)
+- Frontend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Content) - 2025 Start Fall (BS/MS)
+- Software Engineer Intern (Applied Machine Learning-Enterprise) - 2025 Summer/Fall (BS/MS)
+</details>
+
+<details>
 <summary><a href="https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B169482%5D&21178_format=6020&21180=%5B33821095%2C165%5D&21180_format=6022&listFilterMode=1"><strong>Cisco</strong></a></summary>
 
 - Product Management Intern Fall 2025 Meraki
