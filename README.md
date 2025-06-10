@@ -363,6 +363,12 @@
 </details>
 
 <details>
+<summary><a href="https://careers.roblox.com/jobs?groups=early-career-talent&page=1&pageSize=9"><strong>Roblox</strong></a></summary>
+
+- [2025] Senior Machine Learning Engineer - PhD Early Career
+</details>
+
+<details>
 <summary><a href="https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&jobtype=Intern&pagesize=20#results"><strong>Salesforce</strong></a></summary>
 
 - Summer 2025 Intern - Total Rewards Analyst Intern
