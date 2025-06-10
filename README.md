@@ -226,6 +226,7 @@
 
 - Software Engineering Intern
 - Principal Research Scientist
+- Manager 2, HR Experience and Operations
 </details>
 
 <details>
@@ -432,6 +433,10 @@
 - Software Developer - Sports Analytics
 - AI Project Manager / Technical Business Analyst - Experienced Hire
 - Quantitative Trader Internship: Summer 2026
+- Expression of Interest - Software Development – 2026 Graduate Programmes (Dublin Office)
+- Expression of Interest - Quant Trading & Quant Research – 2026 Graduate Programmes (Dublin Office)
+- Expression of Interest - Software Development – 2026 Summer Internship (Dublin Office)
+- Expression of Interest - Quant Trading & Quant Research – 2026 Summer Internship (Dublin Office)
 </details>
 
 <details>
