@@ -293,6 +293,7 @@
 - Research Scientist Intern, Sensors and Systems Computational Photography (PhD)
 - Research Scientist Intern, Computer Vision for Generative AI (PhD)
 - Research Scientist Intern, Human Computer Interaction (PhD)
+- Research Scientist Intern, Perception for Digital human representation (PhD)
 </details>
 
 <details>
