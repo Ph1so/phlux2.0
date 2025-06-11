@@ -134,6 +134,7 @@
 - Wealth Management Summer Analyst Program - Private Bank 2026
 - Wealth Management Summer Analyst Program - Merrill Wealth Management 2026
 - Global Markets Sales & Trading Rotational Summer Analyst Program - 2026
+- Global Investment Banking Analyst Program - 2025 (TMT)
 </details>
 
 <details>
