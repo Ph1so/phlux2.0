@@ -372,6 +372,7 @@
 - PhD Intern, Applied Research Scientist Retriever - Fall 2025
 - PhD Research Intern, Generalist Embodied Agents Research - Fall 2025
 - Software Engineering Intern, LLM NIM Engineering - Fall 2025
+- Software Engineering Intern, Networking - Fall 2025
 </details>
 
 <details>
