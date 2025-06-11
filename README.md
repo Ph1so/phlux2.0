@@ -164,6 +164,7 @@
 - Frontend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Seller Business) - 2025 Start Fall (BS/MS)
 - Frontend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Content) - 2025 Start Fall (BS/MS)
 - Software Engineer Intern (Applied Machine Learning-Enterprise) - 2025 Summer/Fall (BS/MS)
+- Software Engineer Intern (Doubao (Seed) - Machine Learning System) - 2025 Summer (MS)
 </details>
 
 <details>
@@ -544,6 +545,7 @@
 - Machine Learning Engineer Intern (Search Ads) - 2025 Summer (BS/MS)
 - Machine Learning Engineer Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS)
 - Content Design Intern (TikTok-Design) - 2025 Summer (BS/MS)
+- Machine Learning Engineer Intern (Training Pre-processing) - 2025 Summer (BS/MS)
 </details>
 
 <details>
