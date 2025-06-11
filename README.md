@@ -512,6 +512,16 @@
 - Business Analyst - Operations
 - Senior Software Developer | Artificial Intelligence AI/ML Engineering | Experienced Hire
 - DevOps Engineer - AI | Experienced Hire
+- Trading Systems - C# Developer
+- Quantitative Sports Researcher – Graduate Hire
+- Quant Trading - Engineering Recruiter | Experienced Hiring
+- Python Developer
+- Software Engineer | Order Management System | Experienced Hire
+- Quantitative Systematic Trader – Master's: 2025
+- Quant Developer | Trading Strategies | Experienced Hire
+- Quantitative Systematic Trader – PhD: 2025
+- C++ Developer | Trading Strategies | Experienced Hire
+- Quantitative Systematic Trader – Master's: 2025
 </details>
 
 <details>
