@@ -324,6 +324,7 @@
 - 2025/2026 Investment Banking Summer Analyst Program (Sydney)
 - 2025/2026 Wealth Management Summer Analyst Program (Sydney)
 - 2025 Institutional Equities - Transactional Management Group Off Cycle Internship
+- 2025 Legal and Compliance Industrial Trainee Program (Mumbai)
 </details>
 
 <details>
