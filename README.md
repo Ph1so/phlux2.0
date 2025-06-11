@@ -221,6 +221,7 @@
 - Sales Development Representative
 - Sales Development Representative
 - Sales Development Representative (Benelux)
+- Sales Development Representative Middle East
 </details>
 
 <details>
