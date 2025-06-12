@@ -150,6 +150,7 @@
 - Spring 2026 Test Engineering Intern - Undergraduate 4 Locations Intern Full Time Intern R52410
 - Spring 2026 Fluid Systems Engineering Intern - Undergraduate Seattle, WA Intern Full Time Intern R52406
 - Spring 2026 STEAM Communications & Outreach Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52713
+- Spring 2026 STEAM Communications & Outreach Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52713
 </details>
 
 <details>
