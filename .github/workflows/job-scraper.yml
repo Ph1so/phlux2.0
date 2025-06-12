@@ -11,62 +11,125 @@ permissions:
 jobs:
   run:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout repo
-      uses: actions/checkout@v3
-      with:
-        persist-credentials: true
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.12'
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
 
-    - name: Cache pip download cache
-      uses: actions/cache@v3
-      with:
-        path: ~/.cache/pip
-        key: ${{ runner.os }}-pip-cache-${{ hashFiles('**/requirements.txt') }}
-        restore-keys: |
-          ${{ runner.os }}-pip-cache-
+      - name: Cache pip download cache
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-cache-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-cache-
 
-    - name: Cache virtualenv
-      uses: actions/cache@v3
-      with:
-        path: .venv
-        key: ${{ runner.os }}-venv-${{ hashFiles('**/requirements.txt') }}
-        restore-keys: |
-          ${{ runner.os }}-venv-
+      - name: Cache virtualenv
+        uses: actions/cache@v3
+        with:
+          path: .venv
+          key: ${{ runner.os }}-venv-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-venv-
 
-    - name: Set up virtual environment
-      run: |
-        python -m venv .venv
-        source .venv/bin/activate
-        pip install --upgrade pip
-        pip install -r requirements.txt
+      - name: Set up virtual environment
+        run: |
+          python -m venv .venv
+          source .venv/bin/activate
+          pip install --upgrade pip
+          pip install -r requirements.txt
 
-    - name: Run job scraper
-      env:
-        GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-      run: |
-        source .venv/bin/activate
-        python main.py
+      - name: Run job scraper
+        env:
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: |
+          source .venv/bin/activate
+          python main.py
 
-    - name: Generate README
-      run: |
-        source .venv/bin/activate
-        python generate_readme.py
+      - name: Generate README
+        run: |
+          source .venv/bin/activate
+          python generate_readme.py
 
-    - name: Commit and push updated storage.json and readme
-      run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+      - name: Commit and push updated storage.json and readme
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add storage.json README.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update storage.json and readme [bot]"
+            git push
+          fi
 
-        git add storage.json README.md
-        if git diff --cached --quiet; then
-          echo "No changes to commit"
-        else
-          git commit -m "Update storage.json and readme [bot]"
-          git push
-        fi
+  retry:
+    needs: run
+    if: ${{ failure() }}  # Only run if the "run" job fails
+    runs-on: ubuntu-latest
+    steps:
+      - name: Wait for 5 minutes before retrying
+        run: sleep 300
+
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+
+      - name: Cache pip download cache
+        uses: actions/cache@v3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-cache-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-cache-
+
+      - name: Cache virtualenv
+        uses: actions/cache@v3
+        with:
+          path: .venv
+          key: ${{ runner.os }}-venv-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-venv-
+
+      - name: Set up virtual environment
+        run: |
+          python -m venv .venv
+          source .venv/bin/activate
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run job scraper (Retry)
+        env:
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: |
+          source .venv/bin/activate
+          python main.py
+
+      - name: Generate README
+        run: |
+          source .venv/bin/activate
+          python generate_readme.py
+
+      - name: Commit and push updated storage.json and readme
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add storage.json README.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update storage.json and readme [bot] - Retry"
+            git push
+          fi
