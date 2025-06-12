@@ -165,6 +165,7 @@
 - Frontend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Content) - 2025 Start Fall (BS/MS)
 - Software Engineer Intern (Applied Machine Learning-Enterprise) - 2025 Summer/Fall (BS/MS)
 - Software Engineer Intern (Doubao (Seed) - Machine Learning System) - 2025 Summer (MS)
+- Site Reliability Engineer Intern (Cloud and System) - 2025 Summer/Fall (BS/MS)
 </details>
 
 <details>
@@ -548,6 +549,7 @@
 - Machine Learning Engineer Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS)
 - Content Design Intern (TikTok-Design) - 2025 Summer (BS/MS)
 - Machine Learning Engineer Intern (Training Pre-processing) - 2025 Summer (BS/MS)
+- Software Engineer Intern (Big Data - Data Platform) - 2025 Summer/Fall (MS)
 </details>
 
 <details>
@@ -555,6 +557,14 @@
 
 - 2025 Software Engineering Internship, University of Texas at El Paso
 - 2025 Software Engineering UberSTAR Internship, University of Texas at El Paso
+</details>
+
+<details>
+<summary><a href="https://www.wayfair.com/careers/jobs?countryIds=1&selectedJobTypeIds=8"><strong>Wayfair</strong></a></summary>
+
+- Commercial Strategy Associate - Experienced Graduates (Spring 2025 Starts)
+- Merchant - Experienced Graduates (Spring/Summer 2025 Start)
+- Supply Chain Leadership Development Internship
 </details>
 
 <details>
