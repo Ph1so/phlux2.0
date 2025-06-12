@@ -18,6 +18,8 @@ from selenium.common.exceptions import TimeoutException
 from tenacity import retry, wait_fixed, stop_after_attempt
 from webdriver_manager.chrome import ChromeDriverManager
 
+from apply import AutoApplyBot
+
 GMAIL_APP_PASSWORD = os.environ["GMAIL_APP_PASSWORD"]
 CHROME_DRIVER_PATH = ChromeDriverManager().install()
 # Used for dynamically loaded jobs that reuqire user interaction
@@ -169,7 +171,17 @@ def main():
     new_jobs = update_storage()
     if new_jobs["companies"]:
         send_email(new_jobs)
-    
+    # jobs = [
+    #     {
+    #         "company": "AMD",
+    #         "url": "https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States",
+    #         "titles": ["Software Test Engineering Intern/Co-Op (Undergraduate | Fall 2025 | Hybrid)"]
+    #     }
+    # ]
+    # with open('phi.json', 'r') as file:
+    #     personal_info = json.load(file)
+    # bot = AutoApplyBot(jobs, personal_info)
+    # bot.run()
     # print(get_jobs_headless(("Roblox","https://careers.roblox.com/jobs?groups=early-career-talent&page=1&pageSize=9","main h4")))
 
 if __name__ == "__main__":
