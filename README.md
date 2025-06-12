@@ -166,6 +166,11 @@
 - Software Engineer Intern (Applied Machine Learning-Enterprise) - 2025 Summer/Fall (BS/MS)
 - Software Engineer Intern (Doubao (Seed) - Machine Learning System) - 2025 Summer (MS)
 - Site Reliability Engineer Intern (Cloud and System) - 2025 Summer/Fall (BS/MS)
+- Video Experience Software Engineer Intern (Global StreamingMedia) - 2025 Summer/Fall (BS/MS)
+- Machine Learning Engineer Intern (Search-TikTok Recommendation) - 2025 Summer (BS/MS)
+- Machine Learning Engineer Intern (Search-TikTok Recommendation) - 2025 Summer (BS/MS)
+- GPU/AI Application System Software Engineer Intern (System Technologies and Engineering) - 2025 Summer/Fall (BS/MS)
+- Frontend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce) - 2025 Start Fall (BS/MS)
 </details>
 
 <details>
@@ -550,6 +555,12 @@
 - Content Design Intern (TikTok-Design) - 2025 Summer (BS/MS)
 - Machine Learning Engineer Intern (Training Pre-processing) - 2025 Summer (BS/MS)
 - Software Engineer Intern (Big Data - Data Platform) - 2025 Summer/Fall (MS)
+- Machine Learning Engineer Intern (FeatureStore) - 2025 Summer (BS/MS)
+- (General Hire) Visual Design Intern (TikTok-Design) - 2025 Summer (BS/MS)
+- Software Engineer Intern (Recommendation Infrastructure) - 2025 Summer/Fall (BS/MS)
+- Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS)
+- Software Engineer Intern (Recommendation Infrastructure) - 2025 Summer/Fall (BS/MS)
+- (General Hire) UX Design Intern (TikTok-Design) - 2025 Summer (BS/MS)
 </details>
 
 <details>
