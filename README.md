@@ -546,6 +546,7 @@
 - Quantitative Systematic Trader – PhD: 2025
 - C++ Developer | Trading Strategies | Experienced Hire
 - Quantitative Systematic Trader – Master's: 2025
+- Production Engineer - Gaming
 </details>
 
 <details>
