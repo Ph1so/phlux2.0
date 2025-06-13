@@ -100,7 +100,11 @@ def update_storage(storage_path="storage.json"):
             name, link = futures[future]
             jobs = future.result()
             existing = data["companies"].get(name, [])
-            new_jobs = [job.replace('\n', ' - ') for job in jobs if job not in existing]
+            new_jobs = []
+            for job in jobs:
+                job = job.replace('\n', ' - ')
+                if job not in existing:
+                    new_jobs.append(job)
 
             if name in data["companies"]:   
                 data["companies"][name].extend(new_jobs)
