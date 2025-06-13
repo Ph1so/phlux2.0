@@ -135,6 +135,7 @@
 - Wealth Management Summer Analyst Program - Merrill Wealth Management 2026
 - Global Markets Sales & Trading Rotational Summer Analyst Program - 2026
 - Global Investment Banking Analyst Program - 2025 (TMT)
+- Global Operations Development Analyst Program - 2026
 </details>
 
 <details>
@@ -151,6 +152,8 @@
 - Spring 2026 Fluid Systems Engineering Intern - Undergraduate Seattle, WA Intern Full Time Intern R52406
 - Spring 2026 STEAM Communications & Outreach Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52713
 - Spring 2026 STEAM Communications & Outreach Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52713
+- Spring 2026 STEAM Communications & Outreach Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52713
+- Spring 2026 Finance Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52715
 - Spring 2026 STEAM Communications & Outreach Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52713
 - Spring 2026 Finance Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52715
 - Spring 2026 STEAM Communications & Outreach Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52713
@@ -589,6 +592,7 @@
 
 - 2025 Software Engineering Internship, University of Texas at El Paso
 - 2025 Software Engineering UberSTAR Internship, University of Texas at El Paso
+- Graduate 2025 PhD Scientist (AEA/ASSA Economists Only), United States
 </details>
 
 <details>
