@@ -222,6 +222,12 @@
 </details>
 
 <details>
+<summary><a href="https://www.databricks.com/company/careers/open-positions?department=University%20Recruiting&location=all"><strong>Databricks</strong></a></summary>
+
+- PhD GenAI Research Scientist Intern San Francisco, California
+</details>
+
+<details>
 <summary><a href="https://careers.datadoghq.com/early-careers/"><strong>Datadog</strong></a></summary>
 
 - Sales Development Representative - Japan
