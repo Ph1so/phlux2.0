@@ -157,6 +157,8 @@
 - Spring 2026 Finance Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52715
 - Spring 2026 STEAM Communications & Outreach Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52713
 - Spring 2026 Finance Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52715
+- Spring 2026 STEAM Communications & Outreach Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52713
+- Spring 2026 Finance Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52715
 </details>
 
 <details>
@@ -279,6 +281,7 @@
 - Principal Research Scientist
 - Manager 2, HR Experience and Operations
 - Manager 1, Paid Search
+- Social Media Co-op (12 Months)
 </details>
 
 <details>
