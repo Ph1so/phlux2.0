@@ -151,29 +151,16 @@
 - Spring 2026 Test Engineering Intern - Undergraduate 4 Locations Intern Full Time Intern R52410
 - Spring 2026 Fluid Systems Engineering Intern - Undergraduate Seattle, WA Intern Full Time Intern R52406
 - Spring 2026 STEAM Communications & Outreach Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52713
-- Spring 2026 STEAM Communications & Outreach Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52713
-- Spring 2026 STEAM Communications & Outreach Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52713
 - Spring 2026 Finance Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52715
-- Spring 2026 STEAM Communications & Outreach Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52713
-- Spring 2026 Finance Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52715
-- Spring 2026 STEAM Communications & Outreach Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52713
-- Spring 2026 Finance Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52715
-- Spring 2026 STEAM Communications & Outreach Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52713
-- Spring 2026 Finance Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52715
-- Spring 2026 STEAM Communications & Outreach Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52713
-- Spring 2026 Finance Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52715
-- Spring 2026 STEAM Communications & Outreach Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52713
-- Spring 2026 Finance Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52715
-- Spring 2026 STEAM Communications & Outreach Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52713
-- Spring 2026 Finance Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52715
-- Spring 2026 STEAM Communications & Outreach Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52713
-- Spring 2026 Finance Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52715
-- Spring 2026 STEAM Communications & Outreach Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52713
-- Spring 2026 Finance Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52715
-- Spring 2026 STEAM Communications & Outreach Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52713
-- Spring 2026 Finance Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52715
-- Spring 2026 STEAM Communications & Outreach Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52713
-- Spring 2026 Finance Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52715
+- Spring 2026 Guidance, Navigation & Controls Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52503
+- Spring 2026 Return Internship - Undergraduate - 4 Locations - Intern - Full Time - Intern - R52463
+- Spring 2026 Manufacturing Engineering Intern - Undergraduate - 4 Locations - Intern - Full Time - Intern - R52485
+- Spring 2026 Structural & Mechanical Engineering Intern - Undergraduate - 4 Locations - Intern - Full Time - Intern - R52391
+- Spring 2026 Aerospace Systems Engineering Intern - Undergraduate - 2 Locations - Intern - Full Time - Intern - R52429
+- Spring 2026 Avionics Software Engineering Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52403
+- Spring 2026 Electrical Systems Engineering Internship - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52404
+- Spring 2026 Test Engineering Intern - Undergraduate - 4 Locations - Intern - Full Time - Intern - R52410
+- Spring 2026 Fluid Systems Engineering Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52406
 </details>
 
 <details>
@@ -317,6 +304,21 @@
 - Tools and Compilers Research and Development (not currently accepting applications)
 - Trading Desk Operations Engineer (not currently accepting applications)
 - Windows Engineer (not currently accepting applications)
+- FPGA Engineer - (not currently accepting applications)
+- IT Operations Engineer - (not currently accepting applications)
+- Linux Engineer - (not currently accepting applications)
+- Machine Learning Researcher - (not currently accepting applications)
+- Mechanical Engineer - (not currently accepting applications)
+- Network Engineer - (not currently accepting applications)
+- Procurement Specialist - (not currently accepting applications)
+- Quantitative Researcher - (not currently accepting applications)
+- Quantitative Trader - (not currently accepting applications)
+- Sales and Trading - (not currently accepting applications)
+- Software Engineer - (not currently accepting applications)
+- Strategy and Product - (not currently accepting applications)
+- Tools and Compilers Research and Development - (not currently accepting applications)
+- Trading Desk Operations Engineer - (not currently accepting applications)
+- Windows Engineer - (not currently accepting applications)
 </details>
 
 <details>
@@ -624,4 +626,5 @@
 <summary><a href="https://jobs.lever.co/ispace-inc?commitment=Intern"><strong>ispace</strong></a></summary>
 
 - Market Analyst Intern for ISRU Market Study by Euro2Moon ON-SITE — INTERNLUXEMBOURG
+- Market Analyst Intern for ISRU Market Study by Euro2Moon - ON-SITE — INTERNLUXEMBOURG
 </details>
