@@ -385,6 +385,7 @@
 - PhD Research Intern, Generalist Embodied Agents Research - Fall 2025
 - Software Engineering Intern, LLM NIM Engineering - Fall 2025
 - Software Engineering Intern, Networking - Fall 2025
+- Robotics Software Intern, Sim2Real Deployment - Fall 2025
 </details>
 
 <details>
