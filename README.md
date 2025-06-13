@@ -278,6 +278,8 @@
 - Manager 2, HR Experience and Operations
 - Manager 1, Paid Search
 - Social Media Co-op (12 Months)
+- Social Media Co-op (8 Months)
+- Market Insights Analyst Co-op (8 months)
 </details>
 
 <details>
