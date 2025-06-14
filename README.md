@@ -580,6 +580,7 @@
 - (General Hire) UX Design Intern (TikTok-Design) - 2025 Summer (BS/MS)
 - Product Manager Intern (TikTok-Product-Social and Creation)- 2025Fall Starts (BS/MS)
 - AI/ML Software Engineer Intern (Data Platform) - 2025 Fall (BS/MS)
+- Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Fall Starts (BS/MS)
 </details>
 
 <details>
