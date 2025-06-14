@@ -177,6 +177,7 @@
 - Software Engineer Intern (AIGC Platform - Monetization GenAI) - 2025 Summer/Fall (BS/MS)
 - Software Engineer Intern (Recommendation Infra - Data-Arch-TikTok US) - 2025 Summer (BS/MS)
 - Research Engineer Intern (Doubao (Seed) - Machine Learning System) - 2025 Summer (MS)
+- Strategic Analysis Intern (AI Innovation Business - US) - 2025 Start (BS/MS)
 </details>
 
 <details>
