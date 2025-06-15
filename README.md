@@ -169,6 +169,13 @@ Here's an example:
 </details>
 
 <details>
+<summary><a href="https://bostonscientific.eightfold.ai/careers?start=0&location=United+States&pid=563602797912246&sort_by=distance&filter_include_remote=1&filter_seniority=Intern"><strong>Boston Scientific</strong></a></summary>
+
+- Software Test Engineer Co-op
+- Cardiac Monitoring Technician - Internship/Apprenticeship
+</details>
+
+<details>
 <summary><a href="https://jobs.bytedance.com/en/position?keywords=&category=&location=CT_1103355%2CCT_157%2CCT_94%2CCT_114%2CCT_100764%2CCT_75%2CCT_233%2CCT_203&project=7322364514224687370%2C7503447747358361864&type=3&job_hot_flag=&current=1&limit=10&functionCategory=&tag="><strong>ByteDance</strong></a></summary>
 
 - Software Engineer Intern (Privacy & Security- Global Payment) - 2025 Summer(BS/MS)
@@ -481,6 +488,21 @@ Here's an example:
 <summary><a href="https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&jobtype=Intern&pagesize=20#results"><strong>Salesforce</strong></a></summary>
 
 - Summer 2025 Intern - Total Rewards Analyst Intern
+</details>
+
+<details>
+<summary><a href="https://jobs.sw.siemens.com/locations/usa/jobs/?q=intern"><strong>Siemens</strong></a></summary>
+
+- Business Development Representative Intern (China) Work Type:Hybrid Job Family:Sales Req ID:e37114a7-ffd5-48f4-8e67-b51b4ca51b68
+- Strategic Student Program: Tessent Product Engineering Intern (Fall 2025; EDA TST) Wilsonville, OR Work Type:Hybrid Job Family:Internal Services Req ID:464015
+- Strategic Student Program: Software Product Quality Assurance Intern (EBS, Fall 2025) Huntsville, AL Work Type:Hybrid Job Family:Internal Services Req ID:467157
+- Strategic Student Program: Software Development Intern (Fall 2025; LCS) Milford, OH Work Type:Hybrid Job Family:Internal Services Req ID:463748
+- Go To Market Operations - Internship Boston, MA Work Type:Hybrid Job Family:Sales Req ID:19acd451-756e-454f-964b-4e2f8636d4e6
+- Go To Market Operations - Internship Work Type:Hybrid Job Family:Sales Req ID:64595186-8a9b-4268-b62d-316b9238e9f5
+- Strategic Student Program: 3D Technology Software Engineering Co-Op (Fall 2025, EDA) Huntsville, AL Work Type:Hybrid Job Family:Internal Services Req ID:463749
+- Strategic Student Program: Software Development Co-op (Fall 2025, GSCS) Milford, OH Work Type:Hybrid Job Family:Internal Services Req ID:465146
+- Business Development Representative Intern (Japan) Work Type:Hybrid Job Family:Sales Req ID:5c5fa445-2bea-493f-8cf9-f15996ff38a6
+- Go To Market Operations - Internship Work Type:Hybrid Job Family:Sales Req ID:64595186-8a9b-4268-b62d-316b9238e9f5
 </details>
 
 <details>
