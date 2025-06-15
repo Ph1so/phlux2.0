@@ -367,6 +367,7 @@ Here's an example:
 - 2025/2026 Wealth Management Summer Analyst Program (Sydney)
 - 2025 Institutional Equities - Transactional Management Group Off Cycle Internship
 - 2025 Legal and Compliance Industrial Trainee Program (Mumbai)
+- 2025 Investment Banking MBA Early Insights Program
 </details>
 
 <details>
