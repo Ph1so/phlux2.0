@@ -27,6 +27,10 @@ CLICKABLE = {
     "Robinhood": "EARLY TALENT"
 }
 
+NEEDS_FILTER = {
+    "X": "intern"
+}
+
 @retry(wait=wait_fixed(5), stop=stop_after_attempt(5))
 def get_jobs_headless(args):
     name, url, selector = args
@@ -64,7 +68,10 @@ def get_jobs_headless(args):
             if elements:
                 break
             time.sleep(1)
-        return [el.text.strip() for el in elements if el.text.strip()]
+        jobs = [el.text.strip() for el in elements if el.text.strip()]
+        if job_filter := NEEDS_FILTER.get(name, False):
+            jobs = [job for job in jobs if job_filter.lower() in job.lower()]
+        return jobs
     except TimeoutException:
         print(f"❌ {name} - Timeout: Could not find elements for selector '{selector}'")
         return []
