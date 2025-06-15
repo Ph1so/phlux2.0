@@ -178,6 +178,7 @@
 - Software Engineer Intern (Recommendation Infra - Data-Arch-TikTok US) - 2025 Summer (BS/MS)
 - Research Engineer Intern (Doubao (Seed) - Machine Learning System) - 2025 Summer (MS)
 - Strategic Analysis Intern (AI Innovation Business - US) - 2025 Start (BS/MS)
+- Machine Learning Engineer Intern (Global E-commerce Risk Control) - 2025 Summer/Fall (MS)
 </details>
 
 <details>
