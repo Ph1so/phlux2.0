@@ -414,22 +414,6 @@ Here's an example:
 <details>
 <summary><a href="https://neuralink.com/careers/"><strong>Neuralink</strong></a></summary>
 
-- Internal Auditor Austin, Texas
-- Electrical Engineer Intern, Implant Embedded Systems Fremont, California
-- Electrical Engineer Intern, Robotics and Surgery Engineering Fremont, California
-- Embedded Software Engineer Intern Fremont, California
-- Machine Learning Engineer Intern Fremont, California
-- Mechanical Engineering Intern, Brain Interfaces Austin, Texas
-- Mechanical Engineering Intern, Robotics (Fall 2025+) Fremont, California
-- Robot Optics Intern Fremont, California
-- Software Engineer Intern, BCI Applications Fremont, California
-- Software Engineer Intern, Implant Austin, Texas
-- Software Engineer Intern, Implant Fremont, California
-- Software Engineer Intern, Lab Systems Austin, Texas
-- Software Engineer Intern, Lab Systems Fremont, California
-- Software Engineer Intern, Robotics Austin, Texas
-- Software Engineer Intern, Robotics Fremont, California
-- Software Engineer Intern, Site Reliability Engineer Fremont, California
 - Internal Auditor - Austin, Texas
 - Electrical Engineer Intern, Implant Embedded Systems - Fremont, California
 - Electrical Engineer Intern, Robotics and Surgery Engineering - Fremont, California
@@ -446,6 +430,22 @@ Here's an example:
 - Software Engineer Intern, Robotics - Austin, Texas
 - Software Engineer Intern, Robotics - Fremont, California
 - Software Engineer Intern, Site Reliability Engineer - Fremont, California
+- Internal Auditor Austin, Texas
+- Electrical Engineer Intern, Implant Embedded Systems Fremont, California
+- Electrical Engineer Intern, Robotics and Surgery Engineering Fremont, California
+- Embedded Software Engineer Intern Fremont, California
+- Machine Learning Engineer Intern Fremont, California
+- Mechanical Engineering Intern, Brain Interfaces Austin, Texas
+- Mechanical Engineering Intern, Robotics (Fall 2025+) Fremont, California
+- Robot Optics Intern Fremont, California
+- Software Engineer Intern, BCI Applications Fremont, California
+- Software Engineer Intern, Implant Austin, Texas
+- Software Engineer Intern, Implant Fremont, California
+- Software Engineer Intern, Lab Systems Fremont, California
+- Software Engineer Intern, Lab Systems Austin, Texas
+- Software Engineer Intern, Robotics Austin, Texas
+- Software Engineer Intern, Robotics Fremont, California
+- Software Engineer Intern, Site Reliability Engineer Fremont, California
 </details>
 
 <details>
@@ -735,14 +735,14 @@ Here's an example:
 <details>
 <summary><a href="https://www.verkada.com/careers/"><strong>Verkada</strong></a></summary>
 
-- Solutions Engineering Intern/Graduate Sydney, Australia
-- Software Engineering Intern, Backend - Fall 2025 San Mateo, CA United States
-- Software Engineering Intern, Mobile - Fall 2025 San Mateo, CA United States
-- Technical Support Engineering Intern - Fall 2025 San Mateo, CA United States
 - Solutions Engineering Intern/Graduate - Sydney, Australia
 - Software Engineering Intern, Backend - Fall 2025 - San Mateo, CA United States
 - Software Engineering Intern, Mobile - Fall 2025 - San Mateo, CA United States
 - Technical Support Engineering Intern - Fall 2025 - San Mateo, CA United States
+- Solutions Engineering Intern/Graduate Sydney, Australia
+- Software Engineering Intern, Backend - Fall 2025 San Mateo, CA United States
+- Software Engineering Intern, Mobile - Fall 2025 San Mateo, CA United States
+- Technical Support Engineering Intern - Fall 2025 San Mateo, CA United States
 </details>
 
 <details>
