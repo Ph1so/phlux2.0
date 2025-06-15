@@ -761,6 +761,26 @@ Here's an example:
 - Field Systems Engineering Intern (Fall 2025) 2025 Internships South San Francisco, California, USA
 - Finance Systems Engineer Finance & Administration South San Francisco, California, USA
 - Flight Operations Lead - KE-1 Flight Operations Kisumu, Kenya
+- Annotation Technical Lead - Engineering - Kigali, Rwanda
+- Communications Lead, US Expansion - Marketing, Design & Communications - South San Francisco, California, USA
+- Community Engagement Intern (Fall 2025) - 2025 Internships - Dallas, Texas, USA
+- Construction & Development Intern (Fall 2025) - 2025 Internships - South San Francisco, California, USA
+- Controller (Pilot In Command) - Flight Operations - Concord, North Carolina, USA
+- Controls & Dynamics Intern (Fall 2025) - 2025 Internships - South San Francisco, California, USA
+- Creator, Film + Social - Marketing, Design & Communications - South San Francisco, California, USA
+- Customer Care Advocate - National Service - Country Operations - Omenako, Ghana
+- Customer Success Agent - Operations - Dallas-Fort Worth, Texas, USA
+- Customer Success Manager, U.S. - Customer Success - South San Francisco, California, USA
+- Director of Financial Operations - Finance & Administration - South San Francisco, California, USA
+- Director of U.S. Regulatory Affairs - Legal, Regulatory & Public Affairs - Washington D.C., USA
+- Electrical Engineering Intern (Fall 2025) - 2025 Internships - South San Francisco, California, USA
+- Electrical Project Engineer - Ground Systems Deployment - Engineering - South San Francisco, California, USA
+- Engineering Test Technician (Contract) - Engineering - South San Francisco, California, USA
+- Enterprise Account Manager - Customer Success - South San Francisco, California, USA
+- Executive Assistant - People - South San Francisco, California, USA
+- Field Systems Engineering Intern (Fall 2025) - 2025 Internships - South San Francisco, California, USA
+- Finance Systems Engineer - Finance & Administration - South San Francisco, California, USA
+- Flight Operations Lead - KE-1 - Flight Operations - Kisumu, Kenya
 </details>
 
 <details>
