@@ -485,9 +485,30 @@ Here's an example:
 </details>
 
 <details>
+<summary><a href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers"><strong>Rockwell Automation</strong></a></summary>
+
+- Leadership Development Program, Product Engineering & Development
+- Production Planner
+</details>
+
+<details>
 <summary><a href="https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&jobtype=Intern&pagesize=20#results"><strong>Salesforce</strong></a></summary>
 
 - Summer 2025 Intern - Total Rewards Analyst Intern
+</details>
+
+<details>
+<summary><a href="https://careers.se.com/global/jobs?keywords=internship&sortBy=relevance&page=1&country=United%20States&tags1=Intern"><strong>Scheider Electric</strong></a></summary>
+
+- Quality Engineer Internship: Fall 2025
+- Assembly Process Intern/ Co-Op (Fall 2025)
+- EHS Intern
+- Artificial Intelligence and Machine Learning Intern
+- Electrical Engineer Co-Op
+- Electronics Hardware Engineer Co-Op
+- Electrical Engineer Co-Op
+- Business Intelligence Analyst Co-Op (Fall 2025)
+- Firmware Engineer Co-Op
 </details>
 
 <details>
@@ -503,6 +524,16 @@ Here's an example:
 - Strategic Student Program: Software Development Co-op (Fall 2025, GSCS) Milford, OH Work Type:Hybrid Job Family:Internal Services Req ID:465146
 - Business Development Representative Intern (Japan) Work Type:Hybrid Job Family:Sales Req ID:5c5fa445-2bea-493f-8cf9-f15996ff38a6
 - Go To Market Operations - Internship Work Type:Hybrid Job Family:Sales Req ID:64595186-8a9b-4268-b62d-316b9238e9f5
+- Business Development Representative Intern (China) - Work Type:Hybrid - Job Family:Sales - Req ID:e37114a7-ffd5-48f4-8e67-b51b4ca51b68
+- Strategic Student Program: Tessent Product Engineering Intern (Fall 2025; EDA TST) - Wilsonville, OR - Work Type:Hybrid - Job Family:Internal Services - Req ID:464015
+- Strategic Student Program: Software Product Quality Assurance Intern (EBS, Fall 2025) - Huntsville, AL - Work Type:Hybrid - Job Family:Internal Services - Req ID:467157
+- Strategic Student Program: Software Development Intern (Fall 2025; LCS) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:463748
+- Go To Market Operations - Internship - Boston, MA - Work Type:Hybrid - Job Family:Sales - Req ID:19acd451-756e-454f-964b-4e2f8636d4e6
+- Go To Market Operations - Internship - Work Type:Hybrid - Job Family:Sales - Req ID:64595186-8a9b-4268-b62d-316b9238e9f5
+- Strategic Student Program: 3D Technology Software Engineering Co-Op (Fall 2025, EDA) - Huntsville, AL - Work Type:Hybrid - Job Family:Internal Services - Req ID:463749
+- Strategic Student Program: Software Development Co-op (Fall 2025, GSCS) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:465146
+- Business Development Representative Intern (Japan) - Work Type:Hybrid - Job Family:Sales - Req ID:5c5fa445-2bea-493f-8cf9-f15996ff38a6
+- Go To Market Operations - Internship - Work Type:Hybrid - Job Family:Sales - Req ID:64595186-8a9b-4268-b62d-316b9238e9f5
 </details>
 
 <details>
@@ -658,6 +689,13 @@ Here's an example:
 
 - Werksstudierende - Sales (f, m, x) - Munich
 - Working Student Sales - Munich
+</details>
+
+<details>
+<summary><a href="https://careers.x.com/en#positions"><strong>X</strong></a></summary>
+
+- Data Center Ops Technician Intern
+- Engineering Intern
 </details>
 
 <details>
