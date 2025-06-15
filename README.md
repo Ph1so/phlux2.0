@@ -403,6 +403,22 @@ Here's an example:
 - Software Engineer Intern, Robotics Austin, Texas
 - Software Engineer Intern, Robotics Fremont, California
 - Software Engineer Intern, Site Reliability Engineer Fremont, California
+- Internal Auditor - Austin, Texas
+- Electrical Engineer Intern, Implant Embedded Systems - Fremont, California
+- Electrical Engineer Intern, Robotics and Surgery Engineering - Fremont, California
+- Embedded Software Engineer Intern - Fremont, California
+- Machine Learning Engineer Intern - Fremont, California
+- Mechanical Engineering Intern, Brain Interfaces - Austin, Texas
+- Mechanical Engineering Intern, Robotics (Fall 2025+) - Fremont, California
+- Robot Optics Intern - Fremont, California
+- Software Engineer Intern, BCI Applications - Fremont, California
+- Software Engineer Intern, Implant - Austin, Texas
+- Software Engineer Intern, Implant - Fremont, California
+- Software Engineer Intern, Lab Systems - Austin, Texas
+- Software Engineer Intern, Lab Systems - Fremont, California
+- Software Engineer Intern, Robotics - Austin, Texas
+- Software Engineer Intern, Robotics - Fremont, California
+- Software Engineer Intern, Site Reliability Engineer - Fremont, California
 </details>
 
 <details>
@@ -686,6 +702,10 @@ Here's an example:
 - Software Engineering Intern, Backend - Fall 2025 San Mateo, CA United States
 - Software Engineering Intern, Mobile - Fall 2025 San Mateo, CA United States
 - Technical Support Engineering Intern - Fall 2025 San Mateo, CA United States
+- Solutions Engineering Intern/Graduate - Sydney, Australia
+- Software Engineering Intern, Backend - Fall 2025 - San Mateo, CA United States
+- Software Engineering Intern, Mobile - Fall 2025 - San Mateo, CA United States
+- Technical Support Engineering Intern - Fall 2025 - San Mateo, CA United States
 </details>
 
 <details>
@@ -716,6 +736,31 @@ Here's an example:
 
 - Data Center Ops Technician Intern
 - Engineering Intern
+</details>
+
+<details>
+<summary><a href="https://www.zipline.com/careers/open-roles?search=intern#"><strong>Zipline</strong></a></summary>
+
+- Annotation Technical Lead Engineering Kigali, Rwanda
+- Communications Lead, US Expansion Marketing, Design & Communications South San Francisco, California, USA
+- Community Engagement Intern (Fall 2025) 2025 Internships Dallas, Texas, USA
+- Construction & Development Intern (Fall 2025) 2025 Internships South San Francisco, California, USA
+- Controller (Pilot In Command) Flight Operations Concord, North Carolina, USA
+- Controls & Dynamics Intern (Fall 2025) 2025 Internships South San Francisco, California, USA
+- Creator, Film + Social Marketing, Design & Communications South San Francisco, California, USA
+- Customer Care Advocate - National Service Country Operations Omenako, Ghana
+- Customer Success Agent Operations Dallas-Fort Worth, Texas, USA
+- Customer Success Manager, U.S. Customer Success South San Francisco, California, USA
+- Director of Financial Operations Finance & Administration South San Francisco, California, USA
+- Director of U.S. Regulatory Affairs Legal, Regulatory & Public Affairs Washington D.C., USA
+- Electrical Engineering Intern (Fall 2025) 2025 Internships South San Francisco, California, USA
+- Electrical Project Engineer - Ground Systems Deployment Engineering South San Francisco, California, USA
+- Engineering Test Technician (Contract) Engineering South San Francisco, California, USA
+- Enterprise Account Manager Customer Success South San Francisco, California, USA
+- Executive Assistant People South San Francisco, California, USA
+- Field Systems Engineering Intern (Fall 2025) 2025 Internships South San Francisco, California, USA
+- Finance Systems Engineer Finance & Administration South San Francisco, California, USA
+- Flight Operations Lead - KE-1 Flight Operations Kisumu, Kenya
 </details>
 
 <details>
