@@ -30,7 +30,7 @@ CLICKABLE = {
 # Used for job pages that dont have a filter option
 NEEDS_FILTER = {
     "X": "intern",
-    "Tower Research Capital": "intenr"
+    "Verkada": "intern"
 }
 
 @retry(wait=wait_fixed(5), stop=stop_after_attempt(5))
