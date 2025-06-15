@@ -685,6 +685,24 @@ Here's an example:
 </details>
 
 <details>
+<summary><a href="https://app.careerpuck.com/job-board/welchs/"><strong>Welches</strong></a></summary>
+
+- Controls Engineer North East, PA - Engineering
+- Licensing Innovation Manager Waltham, MA - Innovation
+- Associate Brand Manager Waltham, MA - Marketing
+- General Labor Production Associate North East, PA - Operations
+- Human Resources Specialist Grandview, WA - Supply Chain - Plant
+- Maintenance Mechanic Lawton, MI - Supply Chain - Plant
+- Maintenance Technician Grandview, WA - Supply Chain - Plant
+- Maintenance Technician North East, PA - Supply Chain - Plant
+- Packaging Supervisor North East, PA - Supply Chain - Plant
+- Plant Director Lawton, MI - Supply Chain - Plant
+- Processing Operator Grandview, WA - Supply Chain - Plant
+- Processing Technician Westfield, NY - Supply Chain - Plant
+- Sanitation Manager North East, PA - Supply Chain - Plant
+</details>
+
+<details>
 <summary><a href="https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/?source=Careers_Website_ec"><strong>Workday</strong></a></summary>
 
 - Werksstudierende - Sales (f, m, x) - Munich
