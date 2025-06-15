@@ -77,7 +77,7 @@ def main():
     time.sleep(2)
 
     css_selector = get_specific_css_selector(driver, job_title, name, link)
-    confirm = "n"
+    confirm = "y"
     while not css_selector or confirm == "n":
         css_selector = input("Enter a CSS selector manually: ").strip()
         jobs = get_jobs_headless((name, link, css_selector))
