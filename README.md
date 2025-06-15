@@ -572,6 +572,13 @@ Here's an example:
 </details>
 
 <details>
+<summary><a href="https://careers.tsmc.com/en_US/careers/SearchJobs/?1277=13221&1277_format=1380&542=13100&542_format=486&listFilterMode=1&jobRecordsPerPage=10&"><strong>TSMC</strong></a></summary>
+
+- [Summer 2026] TSMC AZ Internship Opportunities - Facility Roles
+- [Summer 2026] TSMC AZ Internship Opportunities - Engineering Roles
+</details>
+
+<details>
 <summary><a href="https://lifeattiktok.com/search?keyword=&recruitment_id_list=202%2C301&job_category_id_list=&subject_id_list=7322364514224687370%2C7322364513776093449%2C7459987887569733896%2C7459986622530078983&location_code_list=CT_247%2CCT_94%2CCT_243%2CCT_104%2CCT_114%2CCT_75%2CCT_1103355%2CCT_157%2CCT_233&limit=12&offset=0"><strong>TikTok</strong></a></summary>
 
 - Machine Learning Engineer Intern (Creative AI) - 2025 Summer (BS/MS)
