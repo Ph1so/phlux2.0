@@ -22,13 +22,15 @@ from apply import AutoApplyBot
 
 GMAIL_APP_PASSWORD = os.environ["GMAIL_APP_PASSWORD"]
 CHROME_DRIVER_PATH = ChromeDriverManager().install()
-# Used for dynamically loaded jobs that reuqire user interaction
-CLICKABLE = {
-    "Robinhood": "EARLY TALENT"
-}
 
+# Used for dynamically loaded jobs that require user interaction
+CLICKABLE = {
+    "Robinhood": "EARLY TALENT",
+}
+# Used for job pages that dont have a filter option
 NEEDS_FILTER = {
-    "X": "intern"
+    "X": "intern",
+    "Tower Research Capital": "intenr"
 }
 
 @retry(wait=wait_fixed(5), stop=stop_after_attempt(5))
