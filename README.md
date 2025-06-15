@@ -385,6 +385,27 @@ Here's an example:
 </details>
 
 <details>
+<summary><a href="https://neuralink.com/careers/"><strong>Neuralink</strong></a></summary>
+
+- Internal Auditor Austin, Texas
+- Electrical Engineer Intern, Implant Embedded Systems Fremont, California
+- Electrical Engineer Intern, Robotics and Surgery Engineering Fremont, California
+- Embedded Software Engineer Intern Fremont, California
+- Machine Learning Engineer Intern Fremont, California
+- Mechanical Engineering Intern, Brain Interfaces Austin, Texas
+- Mechanical Engineering Intern, Robotics (Fall 2025+) Fremont, California
+- Robot Optics Intern Fremont, California
+- Software Engineer Intern, BCI Applications Fremont, California
+- Software Engineer Intern, Implant Austin, Texas
+- Software Engineer Intern, Implant Fremont, California
+- Software Engineer Intern, Lab Systems Austin, Texas
+- Software Engineer Intern, Lab Systems Fremont, California
+- Software Engineer Intern, Robotics Austin, Texas
+- Software Engineer Intern, Robotics Fremont, California
+- Software Engineer Intern, Site Reliability Engineer Fremont, California
+</details>
+
+<details>
 <summary><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?lastSelectedFacet=TITLES&location=United+States&locationId=300000000480126&locationLevel=country&mode=location&selectedTitlesFacet=TRA"><strong>Nokia</strong></a></summary>
 
 - Network System Co-Op
@@ -514,16 +535,6 @@ Here's an example:
 <details>
 <summary><a href="https://jobs.sw.siemens.com/locations/usa/jobs/?q=intern"><strong>Siemens</strong></a></summary>
 
-- Business Development Representative Intern (China) Work Type:Hybrid Job Family:Sales Req ID:e37114a7-ffd5-48f4-8e67-b51b4ca51b68
-- Strategic Student Program: Tessent Product Engineering Intern (Fall 2025; EDA TST) Wilsonville, OR Work Type:Hybrid Job Family:Internal Services Req ID:464015
-- Strategic Student Program: Software Product Quality Assurance Intern (EBS, Fall 2025) Huntsville, AL Work Type:Hybrid Job Family:Internal Services Req ID:467157
-- Strategic Student Program: Software Development Intern (Fall 2025; LCS) Milford, OH Work Type:Hybrid Job Family:Internal Services Req ID:463748
-- Go To Market Operations - Internship Boston, MA Work Type:Hybrid Job Family:Sales Req ID:19acd451-756e-454f-964b-4e2f8636d4e6
-- Go To Market Operations - Internship Work Type:Hybrid Job Family:Sales Req ID:64595186-8a9b-4268-b62d-316b9238e9f5
-- Strategic Student Program: 3D Technology Software Engineering Co-Op (Fall 2025, EDA) Huntsville, AL Work Type:Hybrid Job Family:Internal Services Req ID:463749
-- Strategic Student Program: Software Development Co-op (Fall 2025, GSCS) Milford, OH Work Type:Hybrid Job Family:Internal Services Req ID:465146
-- Business Development Representative Intern (Japan) Work Type:Hybrid Job Family:Sales Req ID:5c5fa445-2bea-493f-8cf9-f15996ff38a6
-- Go To Market Operations - Internship Work Type:Hybrid Job Family:Sales Req ID:64595186-8a9b-4268-b62d-316b9238e9f5
 - Business Development Representative Intern (China) - Work Type:Hybrid - Job Family:Sales - Req ID:e37114a7-ffd5-48f4-8e67-b51b4ca51b68
 - Strategic Student Program: Tessent Product Engineering Intern (Fall 2025; EDA TST) - Wilsonville, OR - Work Type:Hybrid - Job Family:Internal Services - Req ID:464015
 - Strategic Student Program: Software Product Quality Assurance Intern (EBS, Fall 2025) - Huntsville, AL - Work Type:Hybrid - Job Family:Internal Services - Req ID:467157
@@ -669,6 +680,15 @@ Here's an example:
 </details>
 
 <details>
+<summary><a href="https://www.verkada.com/careers/"><strong>Verkada</strong></a></summary>
+
+- Solutions Engineering Intern/Graduate Sydney, Australia
+- Software Engineering Intern, Backend - Fall 2025 San Mateo, CA United States
+- Software Engineering Intern, Mobile - Fall 2025 San Mateo, CA United States
+- Technical Support Engineering Intern - Fall 2025 San Mateo, CA United States
+</details>
+
+<details>
 <summary><a href="https://www.wayfair.com/careers/jobs?countryIds=1&selectedJobTypeIds=8"><strong>Wayfair</strong></a></summary>
 
 - Commercial Strategy Associate - Experienced Graduates (Spring 2025 Starts)
@@ -682,24 +702,6 @@ Here's an example:
 - Manufacturing Engineering Intern | Summer 2025
 - Manufacturing Technical Writing Intern | Summer 2025
 - Controls Engineer
-</details>
-
-<details>
-<summary><a href="https://app.careerpuck.com/job-board/welchs/"><strong>Welches</strong></a></summary>
-
-- Controls Engineer North East, PA - Engineering
-- Licensing Innovation Manager Waltham, MA - Innovation
-- Associate Brand Manager Waltham, MA - Marketing
-- General Labor Production Associate North East, PA - Operations
-- Human Resources Specialist Grandview, WA - Supply Chain - Plant
-- Maintenance Mechanic Lawton, MI - Supply Chain - Plant
-- Maintenance Technician Grandview, WA - Supply Chain - Plant
-- Maintenance Technician North East, PA - Supply Chain - Plant
-- Packaging Supervisor North East, PA - Supply Chain - Plant
-- Plant Director Lawton, MI - Supply Chain - Plant
-- Processing Operator Grandview, WA - Supply Chain - Plant
-- Processing Technician Westfield, NY - Supply Chain - Plant
-- Sanitation Manager North East, PA - Supply Chain - Plant
 </details>
 
 <details>
