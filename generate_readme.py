@@ -20,7 +20,14 @@ def load_jobs(json_path: str) -> dict:
 
 def generate_readme(jobs: dict, links: dict) -> str:
     lines = ["# Phlux\n"]
-
+    lines.append("## Adding your own companies\n")
+    lines.append("- Run add_company.py\n")
+    lines.append("- Follow the instructions in the command line interface\n")
+    lines.append("- For 'Example job title', when you open the link to the job page just copy and paste the exact title of a random job\n")
+    lines.append("- Just select y or n if the selector is getting all the jobs correctly. Entering y will add the name, link, and selector to companies.csv, so you should make a pr if you want it to be included in the scraping\n")
+    lines.append("Here's an example: ")
+    lines.append("![Using add_company.py](public/cli.png)")
+    lines.append("## Current job listings found by phlux\n")
     for company in sorted(jobs):
         postings = jobs[company]
         if not postings:

@@ -1,5 +1,19 @@
 # Phlux
 
+## Adding your own companies
+
+- Run add_company.py
+
+- Follow the instructions in the command line interface
+
+- For 'Example job title', when you open the link to the job page just copy and paste the exact title of a random job
+
+- Just select y or n if the selector is getting all the jobs correctly. Entering y will add the name, link, and selector to companies.csv, so you should make a pr if you want it to be included in the scraping
+
+Here's an example: 
+![Using add_company.py](public/cli.png)
+## Current job listings found by phlux
+
 <details>
 <summary><a href="https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States"><strong>AMD</strong></a></summary>
 
