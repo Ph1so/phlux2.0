@@ -231,6 +231,7 @@ Here's an example:
 - AI Research Scientist II (Intern) United States
 - AI Machine Learning Engineer PhD (Intern) United States
 - Network Support Engineer, Fall 2025 (Meraki)
+- Software Engineer I (Intern) United States
 </details>
 
 <details>
