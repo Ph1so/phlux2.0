@@ -150,6 +150,16 @@ Here's an example:
 - Global Markets Sales & Trading Rotational Summer Analyst Program - 2026
 - Global Investment Banking Analyst Program - 2025 (TMT)
 - Global Operations Development Analyst Program - 2026
+- Enterprise Credit Summer Analyst Program 2026 - Consumer Credit
+- Enterprise Credit Summer Analyst Program 2026 - Data and Analytics and Business Controls/Process Optimization
+- Enterprise Credit Summer Analyst Program 2026 - Global Commercial Banking Credit, Asset Based Finance & Commercial Real Estate Credit
+- Enterprise Credit Summer Analyst Program 2026 - Global Corporate & Investment Banking Credit and Global Markets Credit
+- Enterprise Credit Summer Analyst Program 2026 - Global Wealth & Investment Management Credit
+- Enterprise Credit Summer Analyst Program 2026 - Leveraged Finance Credit - Acquisition Finance
+- Global Operations Development Summer Analyst Program - 2026
+- Global Operations Development Summer Associate- Program - 2026
+- Global Payments Solutions Summer Analyst Program - 2026
+- Global Quantitative Data Analytics Summer 2026 Analyst - Analytics, Modeling and Insights (AMI)
 </details>
 
 <details>
@@ -685,6 +695,7 @@ Here's an example:
 - Product Manager Intern (TikTok-Product-Social and Creation)- 2025Fall Starts (BS/MS)
 - AI/ML Software Engineer Intern (Data Platform) - 2025 Fall (BS/MS)
 - Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Fall Starts (BS/MS)
+- (General Hire) Machine Learning Engineer Intern (Commerce& Content Service & Search Ads) - 2025 Summer/Fall (BS/MS)
 </details>
 
 <details>
