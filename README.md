@@ -166,17 +166,6 @@ Here's an example:
 - Spring 2026 Electrical Systems Engineering Internship - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52404
 - Spring 2026 Test Engineering Intern - Undergraduate - 4 Locations - Intern - Full Time - Intern - R52410
 - Spring 2026 Fluid Systems Engineering Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52406
-- Spring 2026 STEAM Communications & Outreach Intern - Undergraduate Seattle, WA Intern Full Time Intern R52713
-- Spring 2026 Finance Intern - Undergraduate Seattle, WA Intern Full Time Intern R52715
-- Spring 2026 Guidance, Navigation & Controls Intern - Undergraduate Seattle, WA Intern Full Time Intern R52503
-- Spring 2026 Return Internship - Undergraduate 4 Locations Intern Full Time Intern R52463
-- Spring 2026 Manufacturing Engineering Intern - Undergraduate 4 Locations Intern Full Time Intern R52485
-- Spring 2026 Structural & Mechanical Engineering Intern - Undergraduate 4 Locations Intern Full Time Intern R52391
-- Spring 2026 Aerospace Systems Engineering Intern - Undergraduate 2 Locations Intern Full Time Intern R52429
-- Spring 2026 Avionics Software Engineering Intern - Undergraduate Seattle, WA Intern Full Time Intern R52403
-- Spring 2026 Electrical Systems Engineering Internship - Undergraduate Seattle, WA Intern Full Time Intern R52404
-- Spring 2026 Test Engineering Intern - Undergraduate 4 Locations Intern Full Time Intern R52410
-- Spring 2026 Fluid Systems Engineering Intern - Undergraduate Seattle, WA Intern Full Time Intern R52406
 </details>
 
 <details>
@@ -184,6 +173,16 @@ Here's an example:
 
 - Software Test Engineer Co-op
 - Cardiac Monitoring Technician - Internship/Apprenticeship
+- Software Development Engineer Co-op: Fall
+- Senior Software Development Engineer in Test
+- Software Test Engineer II - Electrophysiology
+- Senior Software Engineer - Electrophysiology
+- Software Quality Engineer III
+- Senior Software Engineer
+- Developer II, AI/IA
+- Software Quality Engineer III
+- Principal Software Engineer
+- Senior Systems Test Supervisor
 </details>
 
 <details>
@@ -259,7 +258,6 @@ Here's an example:
 <summary><a href="https://www.databricks.com/company/careers/open-positions?department=University%20Recruiting&location=all"><strong>Databricks</strong></a></summary>
 
 - PhD GenAI Research Scientist Intern - San Francisco, California
-- PhD GenAI Research Scientist Intern San Francisco, California
 </details>
 
 <details>
@@ -277,6 +275,12 @@ Here's an example:
 - Sales Development Representative
 - Sales Development Representative (Benelux)
 - Sales Development Representative Middle East
+</details>
+
+<details>
+<summary><a href="https://apply.deloitte.com/en_US/careers/SearchJobs/?9339=%5B480%2C477%2C478%5D&9339_format=5915&26444=%5B113185584%2C113185586%2C113185566%2C113185568%2C113185564%5D&26444_format=44221&listFilterMode=1&jobRecordsPerPage=10&sort=relevancy"><strong>Deloitte</strong></a></summary>
+
+- Audit & Assurance Analyst – Technology Controls Advisory (Japanese Services Group) – Summer/Fall 2025, Winter 2026
 </details>
 
 <details>
@@ -341,21 +345,6 @@ Here's an example:
 - Tools and Compilers Research and Development - (not currently accepting applications)
 - Trading Desk Operations Engineer - (not currently accepting applications)
 - Windows Engineer - (not currently accepting applications)
-- FPGA Engineer (not currently accepting applications)
-- IT Operations Engineer (not currently accepting applications)
-- Linux Engineer (not currently accepting applications)
-- Machine Learning Researcher (not currently accepting applications)
-- Mechanical Engineer (not currently accepting applications)
-- Network Engineer (not currently accepting applications)
-- Procurement Specialist (not currently accepting applications)
-- Quantitative Researcher (not currently accepting applications)
-- Quantitative Trader (not currently accepting applications)
-- Sales and Trading (not currently accepting applications)
-- Software Engineer (not currently accepting applications)
-- Strategy and Product (not currently accepting applications)
-- Tools and Compilers Research and Development (not currently accepting applications)
-- Trading Desk Operations Engineer (not currently accepting applications)
-- Windows Engineer (not currently accepting applications)
 </details>
 
 <details>
@@ -430,22 +419,6 @@ Here's an example:
 - Software Engineer Intern, Robotics - Austin, Texas
 - Software Engineer Intern, Robotics - Fremont, California
 - Software Engineer Intern, Site Reliability Engineer - Fremont, California
-- Internal Auditor Austin, Texas
-- Electrical Engineer Intern, Implant Embedded Systems Fremont, California
-- Electrical Engineer Intern, Robotics and Surgery Engineering Fremont, California
-- Embedded Software Engineer Intern Fremont, California
-- Machine Learning Engineer Intern Fremont, California
-- Mechanical Engineering Intern, Brain Interfaces Austin, Texas
-- Mechanical Engineering Intern, Robotics (Fall 2025+) Fremont, California
-- Robot Optics Intern Fremont, California
-- Software Engineer Intern, BCI Applications Fremont, California
-- Software Engineer Intern, Implant Austin, Texas
-- Software Engineer Intern, Implant Fremont, California
-- Software Engineer Intern, Lab Systems Fremont, California
-- Software Engineer Intern, Lab Systems Austin, Texas
-- Software Engineer Intern, Robotics Austin, Texas
-- Software Engineer Intern, Robotics Fremont, California
-- Software Engineer Intern, Site Reliability Engineer Fremont, California
 </details>
 
 <details>
@@ -588,16 +561,6 @@ Here's an example:
 - Strategic Student Program: Software Development Co-op (Fall 2025, GSCS) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:465146
 - Business Development Representative Intern (Japan) - Work Type:Hybrid - Job Family:Sales - Req ID:5c5fa445-2bea-493f-8cf9-f15996ff38a6
 - Go To Market Operations - Internship - Work Type:Hybrid - Job Family:Sales - Req ID:64595186-8a9b-4268-b62d-316b9238e9f5
-- Business Development Representative Intern (China) Work Type:Hybrid Job Family:Sales Req ID:e37114a7-ffd5-48f4-8e67-b51b4ca51b68
-- Strategic Student Program: Tessent Product Engineering Intern (Fall 2025; EDA TST) Wilsonville, OR Work Type:Hybrid Job Family:Internal Services Req ID:464015
-- Strategic Student Program: Software Product Quality Assurance Intern (EBS, Fall 2025) Huntsville, AL Work Type:Hybrid Job Family:Internal Services Req ID:467157
-- Strategic Student Program: Software Development Intern (Fall 2025; LCS) Milford, OH Work Type:Hybrid Job Family:Internal Services Req ID:463748
-- Go To Market Operations - Internship Boston, MA Work Type:Hybrid Job Family:Sales Req ID:19acd451-756e-454f-964b-4e2f8636d4e6
-- Go To Market Operations - Internship Work Type:Hybrid Job Family:Sales Req ID:64595186-8a9b-4268-b62d-316b9238e9f5
-- Strategic Student Program: 3D Technology Software Engineering Co-Op (Fall 2025, EDA) Huntsville, AL Work Type:Hybrid Job Family:Internal Services Req ID:463749
-- Strategic Student Program: Software Development Co-op (Fall 2025, GSCS) Milford, OH Work Type:Hybrid Job Family:Internal Services Req ID:465146
-- Business Development Representative Intern (Japan) Work Type:Hybrid Job Family:Sales Req ID:5c5fa445-2bea-493f-8cf9-f15996ff38a6
-- Go To Market Operations - Internship Work Type:Hybrid Job Family:Sales Req ID:64595186-8a9b-4268-b62d-316b9238e9f5
 </details>
 
 <details>
@@ -739,10 +702,6 @@ Here's an example:
 - Software Engineering Intern, Backend - Fall 2025 - San Mateo, CA United States
 - Software Engineering Intern, Mobile - Fall 2025 - San Mateo, CA United States
 - Technical Support Engineering Intern - Fall 2025 - San Mateo, CA United States
-- Solutions Engineering Intern/Graduate Sydney, Australia
-- Software Engineering Intern, Backend - Fall 2025 San Mateo, CA United States
-- Software Engineering Intern, Mobile - Fall 2025 San Mateo, CA United States
-- Technical Support Engineering Intern - Fall 2025 San Mateo, CA United States
 </details>
 
 <details>
@@ -798,31 +757,10 @@ Here's an example:
 - Field Systems Engineering Intern (Fall 2025) - 2025 Internships - South San Francisco, California, USA
 - Finance Systems Engineer - Finance & Administration - South San Francisco, California, USA
 - Flight Operations Lead - KE-1 - Flight Operations - Kisumu, Kenya
-- Annotation Technical Lead Engineering Kigali, Rwanda
-- Communications Lead, US Expansion Marketing, Design & Communications South San Francisco, California, USA
-- Community Engagement Intern (Fall 2025) 2025 Internships Dallas, Texas, USA
-- Construction & Development Intern (Fall 2025) 2025 Internships South San Francisco, California, USA
-- Controller (Pilot In Command) Flight Operations Concord, North Carolina, USA
-- Controls & Dynamics Intern (Fall 2025) 2025 Internships South San Francisco, California, USA
-- Creator, Film + Social Marketing, Design & Communications South San Francisco, California, USA
-- Customer Care Advocate - National Service Country Operations Omenako, Ghana
-- Customer Success Agent Operations Dallas-Fort Worth, Texas, USA
-- Customer Success Manager, U.S. Customer Success South San Francisco, California, USA
-- Director of Financial Operations Finance & Administration South San Francisco, California, USA
-- Director of U.S. Regulatory Affairs Legal, Regulatory & Public Affairs Washington D.C., USA
-- Electrical Engineering Intern (Fall 2025) 2025 Internships South San Francisco, California, USA
-- Electrical Project Engineer - Ground Systems Deployment Engineering South San Francisco, California, USA
-- Engineering Test Technician (Contract) Engineering South San Francisco, California, USA
-- Enterprise Account Manager Customer Success South San Francisco, California, USA
-- Executive Assistant People South San Francisco, California, USA
-- Field Systems Engineering Intern (Fall 2025) 2025 Internships South San Francisco, California, USA
-- Finance Systems Engineer Finance & Administration South San Francisco, California, USA
-- Flight Operations Lead - KE-1 Flight Operations Kisumu, Kenya
 </details>
 
 <details>
 <summary><a href="https://jobs.lever.co/ispace-inc?commitment=Intern"><strong>ispace</strong></a></summary>
 
 - Market Analyst Intern for ISRU Market Study by Euro2Moon - ON-SITE — INTERNLUXEMBOURG
-- Market Analyst Intern for ISRU Market Study by Euro2Moon ON-SITE — INTERNLUXEMBOURG
 </details>
