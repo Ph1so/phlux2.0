@@ -663,6 +663,7 @@ Here's an example:
 - C++ Developer | Trading Strategies | Experienced Hire
 - Quantitative Systematic Trader – Master's: 2025
 - Production Engineer - Gaming
+- Production Engineer - Gaming | Experienced Hire
 </details>
 
 <details>
