@@ -472,6 +472,7 @@ Here's an example:
 - Software Engineering Intern, LLM NIM Engineering - Fall 2025
 - Software Engineering Intern, Networking - Fall 2025
 - Robotics Software Intern, Sim2Real Deployment - Fall 2025
+- GPU Diagnostic Software Intern - Fall 2025
 </details>
 
 <details>
