@@ -252,6 +252,9 @@ Here's an example:
 - Fundamental Research Analyst Intern (New York) - Summer 2026
 - Strategy and Business Development Intern (New York) – Summer 2026
 - Proprietary Trading Intern (New York) – Summer 2026
+- Trader/Analyst Intern (London) – Summer 2026
+- Investor Relations Intern (London) – Summer 2026
+- Legal & Compliance Intern (New York) – Summer 2026
 </details>
 
 <details>
