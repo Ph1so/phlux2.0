@@ -74,8 +74,6 @@ def get_jobs_headless(args):
         jobs = [el.text.strip() for el in elements if el.text.strip()]
         if job_filter := NEEDS_FILTER.get(name, False):
             jobs = [job for job in jobs if job_filter.lower() in job.lower()]
-        for job in jobs:
-            job = job.replace('\n', ' - ')
         return jobs
     except TimeoutException:
         print(f"❌ {name} - Timeout: Could not find elements for selector '{selector}'")
@@ -114,6 +112,7 @@ def update_storage(storage_path="storage.json"):
             existing = data["companies"].get(name, [])
             new_jobs = []
             for job in jobs:
+                job = job.replace('\n', ' - ')
                 if job not in existing:
                     new_jobs.append(job)
 
