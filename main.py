@@ -185,19 +185,8 @@ def send_email(message):
 def main():
     new_jobs = update_storage()
     if new_jobs["companies"]:
-        send_email(new_jobs)
-    # jobs = [
-    #     {
-    #         "company": "AMD",
-    #         "url": "https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States",
-    #         "titles": ["Software Test Engineering Intern/Co-Op (Undergraduate | Fall 2025 | Hybrid)"]
-    #     }
-    # ]
-    # with open('phi.json', 'r') as file:
-    #     personal_info = json.load(file)
-    # bot = AutoApplyBot(jobs, personal_info)
-    # bot.run()
-    # print(get_jobs_headless(("Roblox","https://careers.roblox.com/jobs?groups=early-career-talent&page=1&pageSize=9","main h4")))
+        print(new_jobs)
+        # send_email(new_jobs)
 
 if __name__ == "__main__":
     main()
