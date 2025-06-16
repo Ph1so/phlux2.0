@@ -700,6 +700,8 @@ Here's an example:
 - AI/ML Software Engineer Intern (Data Platform) - 2025 Fall (BS/MS)
 - Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Fall Starts (BS/MS)
 - (General Hire) Machine Learning Engineer Intern (Commerce& Content Service & Search Ads) - 2025 Summer/Fall (BS/MS)
+- (General Hire) Visual Design Intern (TikTok-Design) - 2025 Fall Starts (BS/MS)
+- (General Hire) UX Design Intern (TikTok-Design) - 2025 Fall Starts (BS/MS)
 </details>
 
 <details>
