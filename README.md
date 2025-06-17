@@ -730,6 +730,7 @@ Here's an example:
 - 2025 Software Engineering Internship, University of Texas at El Paso
 - 2025 Software Engineering UberSTAR Internship, University of Texas at El Paso
 - Graduate 2025 PhD Scientist (AEA/ASSA Economists Only), United States
+- 2025 Fall Software Engineer Internship, University of Waterloo
 </details>
 
 <details>
