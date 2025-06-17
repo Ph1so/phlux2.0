@@ -676,11 +676,11 @@ Here's an example:
 - C++ Developer | Trading Strategies | Experienced Hire
 - Quantitative Systematic Trader – Master's: 2025
 - Production Engineer - Gaming
-- Production Engineer - Gaming | Experienced Hire
 - Quantitative Researcher – PhD: 2025
-- Quantitative Researcher – Master's: 2026
 - Quantitative Systematic Trader – PhD: 2026
+- Quantitative Researcher – Master's: 2026
 - Quantitative Systematic Trader – Master's: 2026
+- Production Engineer - Gaming | Experienced Hire
 </details>
 
 <details>
