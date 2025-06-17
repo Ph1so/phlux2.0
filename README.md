@@ -553,6 +553,7 @@ Here's an example:
 
 - Leadership Development Program, Product Engineering & Development
 - Production Planner
+- EDGE Associate, Information Technology Rotational Program
 </details>
 
 <details>
