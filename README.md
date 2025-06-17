@@ -139,7 +139,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://careers.bankofamerica.com/en-us/students/job-search?ref=search&start=0&rows=10&search=jobsByLocation&searchstring=United+States"><strong>Bank of America</strong></a></summary>
+<summary><a href="https://careers.bankofamerica.com/en-us/students/job-search?ref=search&rows=24&search=jobsByLocation&searchstring=United+States"><strong>Bank of America</strong></a></summary>
 
 - Strategy & Management Summer Analyst Program - 2026
 - Global Risk Summer 2026 Analyst
@@ -160,6 +160,17 @@ Here's an example:
 - Global Operations Development Summer Associate- Program - 2026
 - Global Payments Solutions Summer Analyst Program - 2026
 - Global Quantitative Data Analytics Summer 2026 Analyst - Analytics, Modeling and Insights (AMI)
+- Global Quantitative Data Analytics Summer 2026 Analyst - Enterprise Credit
+- Global Quantitative Data Analytics Summer 2026 Analyst - Global Risk Management
+- Global Technology Summer Analyst 2026 - Business Analyst
+- Global Technology Summer Analyst 2026 - Cybersecurity Analyst
+- Global Technology Summer Analyst 2026 - Software Engineer
+- Chief People Organization Summer 2026 Analyst
+- Commodities Summer Analyst Program – 2026
+- COO - GCIB Regulatory Summer Analyst Program - 2026
+- Corporate Audit Summer 2026 Analyst
+- Corporate Audit Summer 2026 Analyst - Automation & Information Technology Risk Management
+- Global Strategy & Enterprise Platforms Summer 2026 Analyst
 </details>
 
 <details>
