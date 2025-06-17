@@ -184,8 +184,7 @@ def send_email(message):
 def main():
     new_jobs = update_storage()
     if new_jobs["companies"]:
-        print(new_jobs)
-        # send_email(new_jobs)
+        send_email(new_jobs)
 
 if __name__ == "__main__":
     main()
