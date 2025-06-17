@@ -666,6 +666,10 @@ Here's an example:
 - Quantitative Systematic Trader – Master's: 2025
 - Production Engineer - Gaming
 - Production Engineer - Gaming | Experienced Hire
+- Quantitative Researcher – PhD: 2025
+- Quantitative Researcher – Master's: 2026
+- Quantitative Systematic Trader – PhD: 2026
+- Quantitative Systematic Trader – Master's: 2026
 </details>
 
 <details>
@@ -704,6 +708,7 @@ Here's an example:
 - (General Hire) Machine Learning Engineer Intern (Commerce& Content Service & Search Ads) - 2025 Summer/Fall (BS/MS)
 - (General Hire) Visual Design Intern (TikTok-Design) - 2025 Fall Starts (BS/MS)
 - (General Hire) UX Design Intern (TikTok-Design) - 2025 Fall Starts (BS/MS)
+- Software Engineer Intern (TikTok-Social-Product Innovation) - 2025 Fall (BS/MS)
 </details>
 
 <details>
