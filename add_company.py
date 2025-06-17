@@ -6,9 +6,10 @@ import time
 from main import get_jobs_headless
 
 # Set up headless driver
-options = Options()
-options.add_argument("--headless")
-driver = webdriver.Chrome(options=options)
+# options = Options()
+# options.add_argument("--headless")
+# driver = webdriver.Chrome(options=options)
+driver = webdriver.Chrome()
 
 def get_tag_chain_selector(el):
     path = []

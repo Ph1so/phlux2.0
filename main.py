@@ -25,7 +25,8 @@ CHROME_DRIVER_PATH = ChromeDriverManager().install()
 
 # Used for dynamically loaded jobs that require user interaction
 CLICKABLE = {
-    "Robinhood": "EARLY TALENT",
+    "Robinhood": {"text": "EARLY TALENT"},
+    "DE Shaws": {"selector": "div.more-jobs.movable-underline"}
 }
 # Used for job pages that dont have a filter option
 NEEDS_FILTER = {
@@ -52,14 +53,41 @@ def get_jobs_headless(args):
         driver.get(url)
         if needClick := CLICKABLE.get(name, False):
             try:
-                print(f"🖱️ Clicking '{needClick.strip()}' to reveal jobs...")
-                click_target = WebDriverWait(driver, 10).until(
-                    EC.element_to_be_clickable((By.XPATH, f"//p[text()='{needClick.strip()}']"))
-                )
-                click_target.click()
+                print(f"🖱️ Attempting to click for {name}...")
+
+                if "selector" in needClick:
+                    print(f"🔍 Looking for element with selector: {needClick['selector']}")
+                    click_target = WebDriverWait(driver, 5).until(
+                        EC.element_to_be_clickable((By.CSS_SELECTOR, needClick["selector"]))
+                    )
+                elif "text" in needClick:
+                    print(f"🔍 Looking for element with text: {needClick['text']}")
+                    try:
+                        click_target = WebDriverWait(driver, 5).until(
+                            EC.element_to_be_clickable(
+                                (By.XPATH, f"//*[normalize-space(text())='{needClick['text']}']")
+                            )
+                        )
+                    except TimeoutException:
+                        print("⚠️ Exact match failed, trying partial text match...")
+                        click_target = WebDriverWait(driver, 5).until(
+                            EC.element_to_be_clickable(
+                                (By.XPATH, f"//*[contains(normalize-space(), '{needClick['text']}')]")
+                            )
+                        )
+                else:
+                    raise ValueError(f"No valid click strategy defined for {name}")
+
+                print("✅ Element found. Scrolling into view...")
+                driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", click_target)
+                time.sleep(0.5)
+
+                print("👆 Clicking element...")
+                driver.execute_script("arguments[0].click();", click_target)
                 time.sleep(2)
+                print("✅ Click successful.")
             except Exception as e:
-                print(f"⚠️ Failed to click '{needClick}': {e}")
+                print(f"❌ Failed to click for {name}: {e}")
 
         WebDriverWait(driver, 10).until(
             EC.presence_of_all_elements_located((By.CSS_SELECTOR, selector))
