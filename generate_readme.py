@@ -27,7 +27,7 @@ def generate_readme(jobs: dict, links: dict) -> str:
     lines.append("- Just select y or n if the selector is getting all the jobs correctly. Entering y will add the name, link, and selector to companies.csv, so you should make a pr if you want it to be included in the scraping\n")
     lines.append("Here's an example: ")
     lines.append("![Using add_company.py](public/cli.png)")
-    lines.append("## Current job listings found by phlux\n")
+    lines.append(f"## Current job listings found by phlux ({len(jobs)} companies)\n")
     for company in sorted(jobs):
         postings = jobs[company]
         if not postings:
