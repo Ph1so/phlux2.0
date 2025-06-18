@@ -57,9 +57,6 @@ Here's an example:
 
 - 2025 Intern - Software Engineer
 - Working Student - Sales Programs / Project Management
-- 2025 Digital Academy Intern - Software Development Engineer
-- Werkstudent*in (m/w/d) für Strategische Projekte Sales Operations
-- Intern - Returnship - PM
 </details>
 
 <details>
@@ -72,13 +69,10 @@ Here's an example:
 <details>
 <summary><a href="https://amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&country%5B%5D=USA&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=intern&city=&country=&region=&county=&query_options=&"><strong>Amazon</strong></a></summary>
 
-- Jr. Software Development Engineer - Seattle/Bellevue
 - Jr. Software Development Engineer - San Diego, CA
-- Jr. Software Development Engineer - Detroit
 - Jr. Software Development Engineer - Santa Cruz, CA
+- Jr. Software Development Engineer - Detroit
 - Jr. Software Development Engineer- San Luis Obispo
-- Software Development Engineer, EC2 Nitro Deployments
-- Software Development Engineer
 </details>
 
 <details>
@@ -132,24 +126,13 @@ Here's an example:
 <summary><a href="https://autodesk.wd1.myworkdayjobs.com/uni?jobFamilyGroup=f909d7cccc2d480b8f6af996c7bf8352"><strong>Autodesk</strong></a></summary>
 
 - Stagiaire Artiste Technique, Technical Artist Intern
-- Intern, Frontend Software Engineer, Fall 2025
-- Intern, AI Research Scientist, Motion Generation, Fall 2025
 - Intern (PhD), Physics-informed Machine Learning, Fall 2025
-- Intern, Software Engineer (Backend), Data Platform
 </details>
 
 <details>
 <summary><a href="https://careers.bankofamerica.com/en-us/students/job-search?ref=search&rows=24&search=jobsByLocation&searchstring=United+States"><strong>Bank of America</strong></a></summary>
 
-- Strategy & Management Summer Analyst Program - 2026
-- Global Risk Summer 2026 Analyst
-- Finance Management Summer 2026 Analyst
-- Wealth Management Summer Analyst Program - Chief Investment Office, Investment Solutions Group, and Merrill Home Office - 2026
-- Wealth Management Summer Analyst Program - Private Bank 2026
-- Wealth Management Summer Analyst Program - Merrill Wealth Management 2026
-- Global Markets Sales & Trading Rotational Summer Analyst Program - 2026
-- Global Investment Banking Analyst Program - 2025 (TMT)
-- Global Operations Development Analyst Program - 2026
+- Global Markets Chief Operating Office Summer Analyst Program - 2026
 - Enterprise Credit Summer Analyst Program 2026 - Consumer Credit
 - Enterprise Credit Summer Analyst Program 2026 - Data and Analytics and Business Controls/Process Optimization
 - Enterprise Credit Summer Analyst Program 2026 - Global Commercial Banking Credit, Asset Based Finance & Commercial Real Estate Credit
@@ -159,9 +142,6 @@ Here's an example:
 - Global Operations Development Summer Analyst Program - 2026
 - Global Operations Development Summer Associate- Program - 2026
 - Global Payments Solutions Summer Analyst Program - 2026
-- Global Quantitative Data Analytics Summer 2026 Analyst - Analytics, Modeling and Insights (AMI)
-- Global Quantitative Data Analytics Summer 2026 Analyst - Enterprise Credit
-- Global Quantitative Data Analytics Summer 2026 Analyst - Global Risk Management
 - Global Technology Summer Analyst 2026 - Business Analyst
 - Global Technology Summer Analyst 2026 - Cybersecurity Analyst
 - Global Technology Summer Analyst 2026 - Software Engineer
@@ -171,7 +151,9 @@ Here's an example:
 - Corporate Audit Summer 2026 Analyst
 - Corporate Audit Summer 2026 Analyst - Automation & Information Technology Risk Management
 - Global Strategy & Enterprise Platforms Summer 2026 Analyst
-- Global Markets Chief Operating Office Summer Analyst Program - 2026
+- Strategy & Management Summer Analyst Program - 2026
+- Global Risk Summer 2026 Analyst
+- Finance Management Summer 2026 Analyst
 </details>
 
 <details>
@@ -193,57 +175,30 @@ Here's an example:
 <details>
 <summary><a href="https://bostonscientific.eightfold.ai/careers?start=0&location=United+States&pid=563602797912246&sort_by=distance&filter_include_remote=1&filter_seniority=Intern"><strong>Boston Scientific</strong></a></summary>
 
-- Software Test Engineer Co-op
 - Cardiac Monitoring Technician - Internship/Apprenticeship
-- Software Development Engineer Co-op: Fall
-- Senior Software Development Engineer in Test
-- Software Test Engineer II - Electrophysiology
-- Senior Software Engineer - Electrophysiology
-- Software Quality Engineer III
-- Senior Software Engineer
-- Developer II, AI/IA
-- Software Quality Engineer III
-- Principal Software Engineer
-- Senior Systems Test Supervisor
 </details>
 
 <details>
 <summary><a href="https://jobs.bytedance.com/en/position?keywords=&category=&location=CT_1103355%2CCT_157%2CCT_94%2CCT_114%2CCT_100764%2CCT_75%2CCT_233%2CCT_203&project=7322364514224687370%2C7503447747358361864&type=3&job_hot_flag=&current=1&limit=10&functionCategory=&tag="><strong>ByteDance</strong></a></summary>
 
-- Software Engineer Intern (Privacy & Security- Global Payment) - 2025 Summer(BS/MS)
-- Site Reliability Engineer Intern (Data-Technical Infrastructures-SRE-US) - 2025 Summer (MS)
-- Backend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Customer Business)- 2025 Fall(BS/MS)
-- Site Reliability Engineer Intern (Data-Technical Infrastructures-SRE-US) - 2025 Summer (MS)
-- Backend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Seller Business) - 2025 Fall (BS/MS)
-- Data Scientist Intern (TikTok Ads)- 2025 Fall (BS/MS)
-- Software Development Engineer Intern in Test (Global E-commerce-Quality Assurance) - 2025 Fall (BS/MS)
-- Frontend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Seller Business) - 2025 Start Fall (BS/MS)
-- Frontend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Content) - 2025 Start Fall (BS/MS)
-- Software Engineer Intern (Applied Machine Learning-Enterprise) - 2025 Summer/Fall (BS/MS)
-- Software Engineer Intern (Doubao (Seed) - Machine Learning System) - 2025 Summer (MS)
-- Site Reliability Engineer Intern (Cloud and System) - 2025 Summer/Fall (BS/MS)
-- Video Experience Software Engineer Intern (Global StreamingMedia) - 2025 Summer/Fall (BS/MS)
-- Machine Learning Engineer Intern (Search-TikTok Recommendation) - 2025 Summer (BS/MS)
-- Machine Learning Engineer Intern (Search-TikTok Recommendation) - 2025 Summer (BS/MS)
-- GPU/AI Application System Software Engineer Intern (System Technologies and Engineering) - 2025 Summer/Fall (BS/MS)
-- Frontend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce) - 2025 Start Fall (BS/MS)
-- Software Engineer Intern (AIGC Platform - Monetization GenAI) - 2025 Summer/Fall (BS/MS)
-- Software Engineer Intern (Recommendation Infra - Data-Arch-TikTok US) - 2025 Summer (BS/MS)
-- Research Engineer Intern (Doubao (Seed) - Machine Learning System) - 2025 Summer (MS)
 - Strategic Analysis Intern (AI Innovation Business - US) - 2025 Start (BS/MS)
+- Site Reliability Engineer Intern (Data-Technical Infrastructures-SRE-US) - 2025 Summer (MS)
+- Site Reliability Engineer Intern (Data-Technical Infrastructures-SRE-US) - 2025 Summer (MS)
+- Software Engineer Intern (AIGC Platform - Monetization GenAI) - 2025 Summer/Fall (BS/MS)
+- Data Scientist Intern (TikTok Ads)- 2025 Fall (BS/MS)
+- Backend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Customer Business)- 2025 Fall(BS/MS)
+- Research Engineer Intern (Doubao (Seed) - Machine Learning System) - 2025 Summer (MS)
+- Backend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Seller Business) - 2025 Fall (BS/MS)
+- Software Development Engineer Intern in Test (Global E-commerce-Quality Assurance) - 2025 Fall (BS/MS)
 - Machine Learning Engineer Intern (Global E-commerce Risk Control) - 2025 Summer/Fall (MS)
 </details>
 
 <details>
 <summary><a href="https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B169482%5D&21178_format=6020&21180=%5B33821095%2C165%5D&21180_format=6022&listFilterMode=1"><strong>Cisco</strong></a></summary>
 
-- Product Management Intern Fall 2025 Meraki
-- Software Engineer I (Co-Op) United States
-- Software Engineer II (Co-Op) United States
 - AI Research Scientist II (Intern) United States
-- AI Machine Learning Engineer PhD (Intern) United States
-- Network Support Engineer, Fall 2025 (Meraki)
 - Software Engineer I (Intern) United States
+- Network Support Engineer, Fall 2025 (Meraki)
 </details>
 
 <details>
@@ -263,8 +218,6 @@ Here's an example:
 <summary><a href="https://www.deshaw.com/careers/internships"><strong>DE Shaws</strong></a></summary>
 
 - Fundamental Research Analyst Intern (New York) - Summer 2026
-- Strategy and Business Development Intern (New York) – Summer 2026
-- Proprietary Trading Intern (New York) – Summer 2026
 - Trader/Analyst Intern (London) – Summer 2026
 - Investor Relations Intern (London) – Summer 2026
 - Legal & Compliance Intern (New York) – Summer 2026
@@ -273,12 +226,9 @@ Here's an example:
 <details>
 <summary><a href="https://www.3ds.com/careers/jobs?woc=%257B%2522type%2522%253A%255B%2522type%252FInternship%2522%255D%252C%2522country%2522%253A%255B%2522country%252FUnited%2520States%2522%255D%257D"><strong>Dassault Systems</strong></a></summary>
 
-- Internship - Business Development Associate
-- INTERNSHIP: Campaign Marketing
+- INTERNSHIP - Software Engineer
 - INTERNSHIP: User Assistance Development - FALL 2025
 - INTERNSHIP - ENOVIA Software Test Automation Engineer
-- INTERNSHIP: Quality Engineer
-- INTERNSHIP - Software Engineer
 </details>
 
 <details>
@@ -290,24 +240,16 @@ Here's an example:
 <details>
 <summary><a href="https://careers.datadoghq.com/early-careers/"><strong>Datadog</strong></a></summary>
 
+- Software Engineer - Early Career
+- Sales Development Representative Middle East
+- Sales Development Representative (Benelux)
 - Sales Development Representative - Japan
-- Sales Development Representative (UKI)
 - Sales Development Representative
 - Sales Development Representative (Nordics)
 - Sales Development Representative (DACH)
-- Software Engineer - Early Career
 - Sales Development Representative - DACH (Polish/German Speaker)
 - Sales Development Representative (DACH)
 - Sales Development Representative
-- Sales Development Representative
-- Sales Development Representative (Benelux)
-- Sales Development Representative Middle East
-</details>
-
-<details>
-<summary><a href="https://apply.deloitte.com/en_US/careers/SearchJobs/?9339=%5B480%2C477%2C478%5D&9339_format=5915&26444=%5B113185584%2C113185586%2C113185566%2C113185568%2C113185564%5D&26444_format=44221&listFilterMode=1&jobRecordsPerPage=10&sort=relevancy"><strong>Deloitte</strong></a></summary>
-
-- Audit & Assurance Analyst – Technology Controls Advisory (Japanese Services Group) – Summer/Fall 2025, Winter 2026
 </details>
 
 <details>
@@ -339,19 +281,15 @@ Here's an example:
 
 - Facilities Technician Intern
 - Facilities Technician Intern
-- Graduate Intern
 </details>
 
 <details>
 <summary><a href="https://jobs.intuit.com/search-jobs/interns/"><strong>Intuit</strong></a></summary>
 
-- Software Engineering Intern
-- Principal Research Scientist
-- Manager 2, HR Experience and Operations
-- Manager 1, Paid Search
-- Social Media Co-op (12 Months)
 - Social Media Co-op (8 Months)
+- Principal Research Scientist
 - Market Insights Analyst Co-op (8 months)
+- Manager 2, HR Experience and Operations
 </details>
 
 <details>
@@ -377,29 +315,22 @@ Here's an example:
 <details>
 <summary><a href="https://www.metacareers.com/jobs?sort_by_new=true&roles[0]=Internship"><strong>Meta</strong></a></summary>
 
+- Research Scientist Intern, Computer Vision for Generative AI (PhD)
+- Research Scientist Intern, Human Computer Interaction (PhD)
 - Research Scientist Intern, Machine Learning, Health Tech (PhD)
 - Research Scientist Intern, Monetization Generative AI (LLM) - Language (PhD)
 - Research Scientist Intern, Sensors and Systems Computational Photography (PhD)
-- Research Scientist Intern, Computer Vision for Generative AI (PhD)
-- Research Scientist Intern, Human Computer Interaction (PhD)
-- Research Scientist Intern, Perception for Digital human representation (PhD)
 </details>
 
 <details>
 <summary><a href="https://jobs.careers.microsoft.com/global/en/search?lc=United%20States&et=Internship&l=en_us&pg=1&pgSz=20&o=Relevance&flt=true"><strong>Microsoft</strong></a></summary>
 
-- Research Intern - Applied Speech Research
-- Research Intern - Database Internals (PostgreSQL)
-- Research Intern - Microsoft Teams CMD Labs
 - Research Intern - Quantum Computing
-- Mechanical Engineer: Internship Opportunities - PhD - Redmond
-- Research Intern - High performance and Scalable Database Systems
 </details>
 
 <details>
 <summary><a href="https://www.mongodb.com/company/careers/students-and-graduates"><strong>MongoDB</strong></a></summary>
 
-- Forward Deployed AI Engineer
 - Software Engineer - Intern - Sydney
 </details>
 
@@ -411,13 +342,11 @@ Here's an example:
 - 2025 Firm Management Part-Time Off Cycle Internship (Frankfurt)
 - 2025 Human Capital Management Analyst Program (Budapest)
 - 2026 Investment Banking Off-cycle Internship (Dubai)
+- 2025 Investment Banking MBA Early Insights Program
 - 2025/2026 Investment Banking Summer Analyst Program (Melbourne)
 - 2025/2026 Investment Management Summer Analyst Program - Real Estate Investing (Sydney)
 - 2025/2026 Investment Banking Summer Analyst Program (Sydney)
 - 2025/2026 Wealth Management Summer Analyst Program (Sydney)
-- 2025 Institutional Equities - Transactional Management Group Off Cycle Internship
-- 2025 Legal and Compliance Industrial Trainee Program (Mumbai)
-- 2025 Investment Banking MBA Early Insights Program
 </details>
 
 <details>
@@ -439,8 +368,8 @@ Here's an example:
 - Mechanical Engineering Intern, Robotics (Fall 2025+) - Fremont, California
 - Robot Optics Intern - Fremont, California
 - Software Engineer Intern, BCI Applications - Fremont, California
-- Software Engineer Intern, Implant - Austin, Texas
 - Software Engineer Intern, Implant - Fremont, California
+- Software Engineer Intern, Implant - Austin, Texas
 - Software Engineer Intern, Lab Systems - Austin, Texas
 - Software Engineer Intern, Lab Systems - Fremont, California
 - Software Engineer Intern, Robotics - Austin, Texas
@@ -451,14 +380,10 @@ Here's an example:
 <details>
 <summary><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?lastSelectedFacet=TITLES&location=United+States&locationId=300000000480126&locationLevel=country&mode=location&selectedTitlesFacet=TRA"><strong>Nokia</strong></a></summary>
 
-- Network System Co-Op
-- Deepfield Software Engineer Co-op
-- Automation & AI/ML Intern
 - Special Projects Software Dev Coop
 - Wi-Fi CoE Research Coop
 - Electrical Engineering Coop
 - Network Engineer Co-op
-- Hardware Development Co-Op
 - Space and Defense SW Test Engineer Co-Op
 - Silicon Photonics Design & Test Co-op
 - Hardware Failure Analysis Co-op
@@ -467,28 +392,18 @@ Here's an example:
 - OptoElectronic Integration Coop
 - Software Development Coop
 - Video Coding Coop
-- 5G Arch Co-op
 </details>
 
 <details>
 <summary><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"><strong>Nvidia</strong></a></summary>
 
-- Data Science and Insights Intern, Omniverse - Fall 2025
-- Windows AI Engineering Intern - Fall 2025
-- Software Research Intern, AI Networking Team - Fall 2025
-- GPU System Software Intern - Fall 2025
-- Networking Software Intern- Fall 2025
-- Robotics Software Intern, Robotics Platform - Fall 2025
-- Vulkan Driver Performance Intern - Fall 2025
-- PhD Intern, Applied Research Scientist Retriever - Fall 2025
-- PhD Research Intern, Generalist Embodied Agents Research - Fall 2025
-- Software Engineering Intern, LLM NIM Engineering - Fall 2025
-- Software Engineering Intern, Networking - Fall 2025
-- Robotics Software Intern, Sim2Real Deployment - Fall 2025
-- GPU Diagnostic Software Intern - Fall 2025
-- Technical Marketing Engineer Intern, AI Platform Software - Fall 2025
 - System Software Engineering Intern, GPU Server - Fall 2025
 - Compiler Engineering Intern, GPU Compute and CUDA - Fall 2025
+- Technical Marketing Engineer Intern, AI Platform Software - Fall 2025
+- GPU Diagnostic Software Intern - Fall 2025
+- Robotics Software Intern, Sim2Real Deployment - Fall 2025
+- PhD Intern, Applied Research Scientist Retriever - Fall 2025
+- PhD Research Intern, Generalist Embodied Agents Research - Fall 2025
 </details>
 
 <details>
@@ -519,7 +434,6 @@ Here's an example:
 <details>
 <summary><a href="https://www.pinterestcareers.com/jobs/?orderby=0&pagesize=20&page=1&radius=100&team=University"><strong>Pinterest</strong></a></summary>
 
-- 2025 Fall Machine Learning Intern
 - Software Engineering Intern 2025 (Toronto)
 </details>
 
@@ -536,14 +450,6 @@ Here's an example:
 
 - UIUC Research Park Intern - Machine Learning
 - UIUC Research Park Intern - EPC, Propulsion Drives Controls
-- UIUC Research Park Intern - Machine Learning Hardware
-- UIUC Research Park Intern - ADAS HW System Validation
-</details>
-
-<details>
-<summary><a href="https://careers.robinhood.com/"><strong>Robinhood</strong></a></summary>
-
-- Software Developer Intern/Co-op, Backend (Fall 2025)
 </details>
 
 <details>
@@ -555,15 +461,8 @@ Here's an example:
 <details>
 <summary><a href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers"><strong>Rockwell Automation</strong></a></summary>
 
-- Leadership Development Program, Product Engineering & Development
-- Production Planner
 - EDGE Associate, Information Technology Rotational Program
-</details>
-
-<details>
-<summary><a href="https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&jobtype=Intern&pagesize=20#results"><strong>Salesforce</strong></a></summary>
-
-- Summer 2025 Intern - Total Rewards Analyst Intern
+- Production Planner
 </details>
 
 <details>
@@ -584,19 +483,15 @@ Here's an example:
 <summary><a href="https://jobs.sw.siemens.com/locations/usa/jobs/?q=intern"><strong>Siemens</strong></a></summary>
 
 - Business Development Representative Intern (China) - Work Type:Hybrid - Job Family:Sales - Req ID:e37114a7-ffd5-48f4-8e67-b51b4ca51b68
-- Strategic Student Program: Tessent Product Engineering Intern (Fall 2025; EDA TST) - Wilsonville, OR - Work Type:Hybrid - Job Family:Internal Services - Req ID:464015
 - Strategic Student Program: Software Product Quality Assurance Intern (EBS, Fall 2025) - Huntsville, AL - Work Type:Hybrid - Job Family:Internal Services - Req ID:467157
-- Strategic Student Program: Software Development Intern (Fall 2025; LCS) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:463748
-- Go To Market Operations - Internship - Boston, MA - Work Type:Hybrid - Job Family:Sales - Req ID:19acd451-756e-454f-964b-4e2f8636d4e6
-- Go To Market Operations - Internship - Work Type:Hybrid - Job Family:Sales - Req ID:64595186-8a9b-4268-b62d-316b9238e9f5
-- Strategic Student Program: 3D Technology Software Engineering Co-Op (Fall 2025, EDA) - Huntsville, AL - Work Type:Hybrid - Job Family:Internal Services - Req ID:463749
-- Strategic Student Program: Software Development Co-op (Fall 2025, GSCS) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:465146
-- Business Development Representative Intern (Japan) - Work Type:Hybrid - Job Family:Sales - Req ID:5c5fa445-2bea-493f-8cf9-f15996ff38a6
-- Go To Market Operations - Internship - Work Type:Hybrid - Job Family:Sales - Req ID:64595186-8a9b-4268-b62d-316b9238e9f5
 - Strategic Student Program: Search Marketing Internship (Fall 2025, GSM) - Maryland Heights, MO - Work Type:Hybrid - Job Family:Internal Services - Req ID:467161
 - Strategic Student Program: Social Acquisition Marketing Internship (Fall 2025, GSM) - Maryland Heights, MO - Work Type:Hybrid - Job Family:Internal Services - Req ID:467166
+- Strategic Student Program: Software Development Intern (Fall 2025; LCS) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:463748
 - Strategic Student Program: Technical Marketing Internship (Fall 2025, GSM) - Maryland Heights, MO - Work Type:Hybrid - Job Family:Internal Services - Req ID:467163
+- Go To Market Operations - Internship - Boston, MA - Work Type:Hybrid - Job Family:Sales - Req ID:19acd451-756e-454f-964b-4e2f8636d4e6
+- Go To Market Operations - Internship - Work Type:Hybrid - Job Family:Sales - Req ID:64595186-8a9b-4268-b62d-316b9238e9f5
 - Strategic Student Program: R&D Software Engineering Co-Op (Fall 2025, T&I) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:467877
+- Strategic Student Program: 3D Technology Software Engineering Co-Op (Fall 2025, EDA) - Huntsville, AL - Work Type:Hybrid - Job Family:Internal Services - Req ID:463749
 </details>
 
 <details>
@@ -606,15 +501,9 @@ Here's an example:
 - Computer Architecture Intern
 - Software Engineer Intern, AR
 - Sales Coordinator (Working Student)
-- Sales Coordinator
-- Spectacles Student Worker (Software Engineering)
 - Spectacles Student Worker (Computer Vision Engineering)
 - Graduate- Junior Account Management Associate
 - Account Manager Intern - Luxury team - Paris
-- Graduate- Junior Client Partner Associate
-- Graduate Junior Client Partner Associate
-- Graduate- Junior Talent Partnerships Associate
-- Graduate- Junior Marketing Associate
 - Graduate- Junior Production Associate
 </details>
 
@@ -631,13 +520,7 @@ Here's an example:
 <summary><a href="https://www.splunk.com/en_us/careers/search-jobs.html?page=1&type=Intern"><strong>Splunk</strong></a></summary>
 
 - Sales Engineer Intern (Prague, Czechia)
-- Software Engineer Intern - Frontend (US Remote - Fall 2025)
 - Product Manager Intern, Poland
-- Site Reliability Engineer Intern (US remote - Fall 2025)
-- Software Engineer Intern - Backend/Full-stack (US Remote - Fall 2025)
-- Product Manager Intern (US Remote - Fall 2025)
-- Software Engineer Co-Op - Backend/Full-stack - Remote Canada(Fall 2025)
-- Product Manager Co-Op - Remote Canada (Fall 2025)
 - Software Engineer Intern (Frontend)
 - Software Engineering Intern (Backend/Fullstack)
 </details>
@@ -657,41 +540,16 @@ Here's an example:
 <details>
 <summary><a href="https://careers.sig.com/global-susquehanna-jobs"><strong>Susquehanna</strong></a></summary>
 
-- Machine Learning Systems Engineer: Data
-- Machine Learning Researcher - LLM
-- Machine Learning Systems Engineer
-- Machine Learning Systems Engineer: Distributed Training
-- Machine Learning Internship - PhD: 2026
-- Machine Learning Researcher - PhD: 2026
-- Desktop Engineer - CTS - Experienced Hire
-- Software Developer - Sports Analytics
-- AI Project Manager / Technical Business Analyst - Experienced Hire
-- Quantitative Trader Internship: Summer 2026
-- Expression of Interest - Software Development – 2026 Graduate Programmes (Dublin Office)
-- Expression of Interest - Quant Trading & Quant Research – 2026 Graduate Programmes (Dublin Office)
-- Expression of Interest - Software Development – 2026 Summer Internship (Dublin Office)
-- Expression of Interest - Quant Trading & Quant Research – 2026 Summer Internship (Dublin Office)
-- Reference data Team Lead
-- Business Analyst - Operations
-- Senior Software Developer | Artificial Intelligence AI/ML Engineering | Experienced Hire
-- DevOps Engineer - AI | Experienced Hire
+- US Benefits Manager
+- Quantitative Researcher – PhD: 2025
+- Quantitative Researcher – Master's: 2026
+- Quantitative Systematic Trader – PhD: 2026
+- Quantitative Systematic Trader – Master's: 2026
+- Production Engineer - Gaming | Experienced Hire
 - Trading Systems - C# Developer
 - Quantitative Sports Researcher – Graduate Hire
 - Quant Trading - Engineering Recruiter | Experienced Hiring
 - Python Developer
-- Software Engineer | Order Management System | Experienced Hire
-- Quantitative Systematic Trader – Master's: 2025
-- Quant Developer | Trading Strategies | Experienced Hire
-- Quantitative Systematic Trader – PhD: 2025
-- C++ Developer | Trading Strategies | Experienced Hire
-- Quantitative Systematic Trader – Master's: 2025
-- Production Engineer - Gaming
-- Quantitative Researcher – PhD: 2025
-- Quantitative Systematic Trader – PhD: 2026
-- Quantitative Researcher – Master's: 2026
-- Quantitative Systematic Trader – Master's: 2026
-- Production Engineer - Gaming | Experienced Hire
-- US Benefits Manager
 </details>
 
 <details>
@@ -704,43 +562,27 @@ Here's an example:
 <details>
 <summary><a href="https://lifeattiktok.com/search?keyword=&recruitment_id_list=202%2C301&job_category_id_list=&subject_id_list=7322364514224687370%2C7322364513776093449%2C7459987887569733896%2C7459986622530078983&location_code_list=CT_247%2CCT_94%2CCT_243%2CCT_104%2CCT_114%2CCT_75%2CCT_1103355%2CCT_157%2CCT_233&limit=12&offset=0"><strong>TikTok</strong></a></summary>
 
-- Machine Learning Engineer Intern (Creative AI) - 2025 Summer (BS/MS)
-- Full Stack Software Engineer Intern (Foundation Platform) - 2025 Fall (BS/MS)
+- Product Manager Intern (TikTok LIVE-Ecosystem Governance)- 2025 Fall (BS/MS)
+- (General Hire) Visual Design Intern (TikTok-Design) - 2025 Fall Starts (BS/MS)
+- Software Engineer Intern (TikTok-Social-Product Innovation) - 2025 Fall (BS/MS)
+- Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Fall Starts (BS/MS)
+- (General Hire) UX Design Intern (TikTok-Design) - 2025 Fall Starts (BS/MS)
+- Product Manager Intern (TikTok-Product-Social and Creation)- 2025Fall Starts (BS/MS)
 - Machine Learning Engineer Intern (E-commerce-Recommendation) - 2025 Summer/Fall (BS/MS)
-- Machine Learning Engineer Intern (Lead Ads) - 2025 Summer (BS/MS)
-- Machine Learning Engineer Intern (TikTok-Recommendation) - 2025 Fall (Master)
-- (General Hire) Machine Learning Engineer Intern (Commerce& Content Service & Search Ads) - 2025 Summer (BS/MS)
-- Software Engineer Intern (Ads Infra) - 2025 Summer (BS/MS)
+- Full Stack Software Engineer Intern (Foundation Platform) - 2025 Fall (BS/MS)
+- (General Hire) Machine Learning Engineer Intern (Commerce& Content Service & Search Ads) - 2025 Summer/Fall (BS/MS)
+- Machine Learning Engineer Intern (Creative AI) - 2025 Summer (BS/MS)
 - Machine Learning Engineer Intern (E-commerce-Intelligent Customer Service) - 2025 Summer/Fall (MS)
 - Machine Learning Engineer Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS)
-- Machine Learning Engineer Intern (Search Ads) - 2025 Summer (BS/MS)
-- Machine Learning Engineer Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS)
-- Content Design Intern (TikTok-Design) - 2025 Summer (BS/MS)
-- Machine Learning Engineer Intern (Training Pre-processing) - 2025 Summer (BS/MS)
-- Software Engineer Intern (Big Data - Data Platform) - 2025 Summer/Fall (MS)
-- Machine Learning Engineer Intern (FeatureStore) - 2025 Summer (BS/MS)
-- (General Hire) Visual Design Intern (TikTok-Design) - 2025 Summer (BS/MS)
-- Software Engineer Intern (Recommendation Infrastructure) - 2025 Summer/Fall (BS/MS)
-- Data Scientist Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS)
-- Software Engineer Intern (Recommendation Infrastructure) - 2025 Summer/Fall (BS/MS)
-- (General Hire) UX Design Intern (TikTok-Design) - 2025 Summer (BS/MS)
-- Product Manager Intern (TikTok-Product-Social and Creation)- 2025Fall Starts (BS/MS)
-- AI/ML Software Engineer Intern (Data Platform) - 2025 Fall (BS/MS)
-- Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Fall Starts (BS/MS)
-- (General Hire) Machine Learning Engineer Intern (Commerce& Content Service & Search Ads) - 2025 Summer/Fall (BS/MS)
-- (General Hire) Visual Design Intern (TikTok-Design) - 2025 Fall Starts (BS/MS)
-- (General Hire) UX Design Intern (TikTok-Design) - 2025 Fall Starts (BS/MS)
-- Software Engineer Intern (TikTok-Social-Product Innovation) - 2025 Fall (BS/MS)
-- Product Manager Intern (TikTok LIVE-Ecosystem Governance)- 2025 Fall (BS/MS)
 </details>
 
 <details>
 <summary><a href="https://www.uber.com/us/en/careers/list/?department=University&location=USA-California-San%20Francisco&location=USA-California-Culver%20City&location=USA-California-Sunnyvale&location=USA-New%20York-New%20York&location=USA-Illinois-Chicago&location=USA-Washington-Seattle&location=USA-Florida-Miami&location=USA-Texas-Dallas&location=USA-Arizona-Phoenix&location=USA-District%20of%20Columbia-Washington&location=USA-Massachusetts-Boston"><strong>Uber</strong></a></summary>
 
-- 2025 Software Engineering Internship, University of Texas at El Paso
-- 2025 Software Engineering UberSTAR Internship, University of Texas at El Paso
-- Graduate 2025 PhD Scientist (AEA/ASSA Economists Only), United States
 - 2025 Fall Software Engineer Internship, University of Waterloo
+- Graduate 2025 PhD Scientist (AEA/ASSA Economists Only), United States
+- 2025 Software Engineering UberSTAR Internship, University of Texas at El Paso
+- 2025 Software Engineering Internship, University of Texas at El Paso
 </details>
 
 <details>
@@ -753,18 +595,8 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://www.wayfair.com/careers/jobs?countryIds=1&selectedJobTypeIds=8"><strong>Wayfair</strong></a></summary>
-
-- Commercial Strategy Associate - Experienced Graduates (Spring 2025 Starts)
-- Merchant - Experienced Graduates (Spring/Summer 2025 Start)
-- Supply Chain Leadership Development Internship
-</details>
-
-<details>
 <summary><a href="https://app.careerpuck.com/job-board/welchs/?departmentId=6vcaTkfP"><strong>Welch's</strong></a></summary>
 
-- Manufacturing Engineering Intern | Summer 2025
-- Manufacturing Technical Writing Intern | Summer 2025
 - Controls Engineer
 </details>
 
@@ -795,18 +627,16 @@ Here's an example:
 - Customer Care Advocate - National Service - Country Operations - Omenako, Ghana
 - Customer Success Agent - Operations - Dallas-Fort Worth, Texas, USA
 - Customer Success Manager, U.S. - Customer Success - South San Francisco, California, USA
+- Deputy General Counsel, Commercial Transactions - Legal, Regulatory & Public Affairs - South San Francisco, California, USA
 - Director of Financial Operations - Finance & Administration - South San Francisco, California, USA
-- Director of U.S. Regulatory Affairs - Legal, Regulatory & Public Affairs - Washington D.C., USA
 - Electrical Engineering Intern (Fall 2025) - 2025 Internships - South San Francisco, California, USA
 - Electrical Project Engineer - Ground Systems Deployment - Engineering - South San Francisco, California, USA
 - Engineering Test Technician (Contract) - Engineering - South San Francisco, California, USA
 - Enterprise Account Manager - Customer Success - South San Francisco, California, USA
 - Executive Assistant - People - South San Francisco, California, USA
+- Facilities and Inventory Specialist - Operations - Dallas, Texas, USA
 - Field Systems Engineering Intern (Fall 2025) - 2025 Internships - South San Francisco, California, USA
 - Finance Systems Engineer - Finance & Administration - South San Francisco, California, USA
-- Flight Operations Lead - KE-1 - Flight Operations - Kisumu, Kenya
-- Deputy General Counsel, Commercial Transactions - Legal, Regulatory & Public Affairs - South San Francisco, California, USA
-- Facilities and Inventory Specialist - Operations - Dallas, Texas, USA
 </details>
 
 <details>
