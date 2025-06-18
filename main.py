@@ -25,7 +25,7 @@ CHROME_DRIVER_PATH = ChromeDriverManager().install()
 
 # Used for dynamically loaded jobs that require user interaction
 CLICKABLE = {
-    "Robinhood": {"text": "EARLY TALENT"},
+    "Robinhood": {"selector": "div.accordion.EARLYTALENT p"},
     "DE Shaws": {"selector": "div.more-jobs.movable-underline"}
 }
 # Used for job pages that dont have a filter option
