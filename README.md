@@ -486,6 +486,7 @@ Here's an example:
 - Software Engineering Intern, Networking - Fall 2025
 - Robotics Software Intern, Sim2Real Deployment - Fall 2025
 - GPU Diagnostic Software Intern - Fall 2025
+- Technical Marketing Engineer Intern, AI Platform Software - Fall 2025
 </details>
 
 <details>
