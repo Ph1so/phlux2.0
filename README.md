@@ -357,27 +357,6 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://neuralink.com/careers/"><strong>Neuralink</strong></a></summary>
-
-- Internal Auditor - Austin, Texas
-- Electrical Engineer Intern, Implant Embedded Systems - Fremont, California
-- Electrical Engineer Intern, Robotics and Surgery Engineering - Fremont, California
-- Embedded Software Engineer Intern - Fremont, California
-- Machine Learning Engineer Intern - Fremont, California
-- Mechanical Engineering Intern, Brain Interfaces - Austin, Texas
-- Mechanical Engineering Intern, Robotics (Fall 2025+) - Fremont, California
-- Robot Optics Intern - Fremont, California
-- Software Engineer Intern, BCI Applications - Fremont, California
-- Software Engineer Intern, Implant - Fremont, California
-- Software Engineer Intern, Implant - Austin, Texas
-- Software Engineer Intern, Lab Systems - Austin, Texas
-- Software Engineer Intern, Lab Systems - Fremont, California
-- Software Engineer Intern, Robotics - Austin, Texas
-- Software Engineer Intern, Robotics - Fremont, California
-- Software Engineer Intern, Site Reliability Engineer - Fremont, California
-</details>
-
-<details>
 <summary><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?lastSelectedFacet=TITLES&location=United+States&locationId=300000000480126&locationLevel=country&mode=location&selectedTitlesFacet=TRA"><strong>Nokia</strong></a></summary>
 
 - Special Projects Software Dev Coop
@@ -548,8 +527,8 @@ Here's an example:
 
 - US Benefits Manager
 - Quantitative Researcher – PhD: 2025
-- Quantitative Researcher – Master's: 2026
 - Quantitative Systematic Trader – PhD: 2026
+- Quantitative Researcher – Master's: 2026
 - Quantitative Systematic Trader – Master's: 2026
 - Production Engineer - Gaming | Experienced Hire
 - Trading Systems - C# Developer
