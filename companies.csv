@@ -65,7 +65,7 @@ Grammarly,https://www.grammarly.com/careers/jobs#all:all:intern,._15fPM-title
 Adobe,https://careers.adobe.com/us/en/search-results?qkexperienceLevel=University%20Intern,.job-title
 Databricks,https://www.databricks.com/company/careers/open-positions?department=University%20Recruiting&location=all,a.text-navy-06.flex.cursor-pointer
 SpaceX,https://www.spacex.com/careers/jobs/?type=intern,table.jobs > tbody > tr > td > a
-TSMC,https://careers.tsmc.com/en_US/careers/SearchJobs/?1277=13221&1277_format=1380&542=13100&542_format=486&listFilterMode=1&jobRecordsPerPage=10&,h3 a.link
+TSMC,https://careers.tsmc.com/en_US/careers/SearchJobs/?542=13100&542_format=486&listFilterMode=1&jobRecordsPerPage=100&,h3 a.link
 Boston Scientific,https://bostonscientific.eightfold.ai/careers?start=0&location=United+States&pid=563602797912246&sort_by=distance&filter_include_remote=1&filter_seniority=Intern,div.title-1aNJK
 Siemens,https://jobs.sw.siemens.com/locations/usa/jobs/?q=intern,a.space-between.align-center.relative.flex-row
 Rockwell Automation,https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers,.css-19uc56f
