@@ -590,6 +590,10 @@ Here's an example:
 - Strategic Student Program: Software Development Co-op (Fall 2025, GSCS) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:465146
 - Business Development Representative Intern (Japan) - Work Type:Hybrid - Job Family:Sales - Req ID:5c5fa445-2bea-493f-8cf9-f15996ff38a6
 - Go To Market Operations - Internship - Work Type:Hybrid - Job Family:Sales - Req ID:64595186-8a9b-4268-b62d-316b9238e9f5
+- Strategic Student Program: Search Marketing Internship (Fall 2025, GSM) - Maryland Heights, MO - Work Type:Hybrid - Job Family:Internal Services - Req ID:467161
+- Strategic Student Program: Social Acquisition Marketing Internship (Fall 2025, GSM) - Maryland Heights, MO - Work Type:Hybrid - Job Family:Internal Services - Req ID:467166
+- Strategic Student Program: Technical Marketing Internship (Fall 2025, GSM) - Maryland Heights, MO - Work Type:Hybrid - Job Family:Internal Services - Req ID:467163
+- Strategic Student Program: R&D Software Engineering Co-Op (Fall 2025, T&I) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:467877
 </details>
 
 <details>
