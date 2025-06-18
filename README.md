@@ -258,7 +258,6 @@ Here's an example:
 - Machine Learning Intern (Masters/PhD), Summer 2025
 - Software Engineer I, Entry-Level (Graduation Date: Fall 2024-Summer 2025)
 - Software Engineer I, Entry Level (Fall 2024-Spring 2025) – Toronto
-- Software Engineer, Intern, 2024/25 (University Recruiting)
 </details>
 
 <details>
@@ -590,8 +589,8 @@ Here's an example:
 <details>
 <summary><a href="https://www.uber.com/us/en/careers/list/?department=University&location=USA-California-San%20Francisco&location=USA-California-Culver%20City&location=USA-California-Sunnyvale&location=USA-New%20York-New%20York&location=USA-Illinois-Chicago&location=USA-Washington-Seattle&location=USA-Florida-Miami&location=USA-Texas-Dallas&location=USA-Arizona-Phoenix&location=USA-District%20of%20Columbia-Washington&location=USA-Massachusetts-Boston"><strong>Uber</strong></a></summary>
 
-- 2025 Fall Software Engineer Internship, University of Waterloo
 - Graduate 2025 PhD Scientist (AEA/ASSA Economists Only), United States
+- 2025 Fall Software Engineer Internship, University of Waterloo
 - 2025 Software Engineering Internship, University of Texas at El Paso
 - 2025 Software Engineering UberSTAR Internship, University of Texas at El Paso
 </details>
