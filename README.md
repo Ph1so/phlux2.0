@@ -69,8 +69,8 @@ Here's an example:
 <details>
 <summary><a href="https://amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&country%5B%5D=USA&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=intern&city=&country=&region=&county=&query_options=&"><strong>Amazon</strong></a></summary>
 
-- Jr. Software Development Engineer - Santa Cruz, CA
 - Jr. Software Development Engineer - San Diego, CA
+- Jr. Software Development Engineer - Santa Cruz, CA
 - Jr. Software Development Engineer - Detroit
 - Jr. Software Development Engineer- San Luis Obispo
 </details>
@@ -369,8 +369,8 @@ Here's an example:
 - Mechanical Engineering Intern, Robotics (Fall 2025+) - Fremont, California
 - Robot Optics Intern - Fremont, California
 - Software Engineer Intern, BCI Applications - Fremont, California
-- Software Engineer Intern, Implant - Austin, Texas
 - Software Engineer Intern, Implant - Fremont, California
+- Software Engineer Intern, Implant - Austin, Texas
 - Software Engineer Intern, Lab Systems - Austin, Texas
 - Software Engineer Intern, Lab Systems - Fremont, California
 - Software Engineer Intern, Robotics - Austin, Texas
@@ -549,8 +549,8 @@ Here's an example:
 
 - US Benefits Manager
 - Quantitative Researcher – PhD: 2025
-- Quantitative Systematic Trader – PhD: 2026
 - Quantitative Researcher – Master's: 2026
+- Quantitative Systematic Trader – PhD: 2026
 - Quantitative Systematic Trader – Master's: 2026
 - Production Engineer - Gaming | Experienced Hire
 - Trading Systems - C# Developer
