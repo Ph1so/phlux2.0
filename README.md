@@ -723,6 +723,7 @@ Here's an example:
 - (General Hire) Visual Design Intern (TikTok-Design) - 2025 Fall Starts (BS/MS)
 - (General Hire) UX Design Intern (TikTok-Design) - 2025 Fall Starts (BS/MS)
 - Software Engineer Intern (TikTok-Social-Product Innovation) - 2025 Fall (BS/MS)
+- Product Manager Intern (TikTok LIVE-Ecosystem Governance)- 2025 Fall (BS/MS)
 </details>
 
 <details>
