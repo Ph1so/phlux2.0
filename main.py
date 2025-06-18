@@ -36,7 +36,7 @@ NEEDS_FILTER = {
 }
 
 @retry(wait=wait_fixed(5), stop=stop_after_attempt(5))
-def get_jobs_headless(args):
+def get_jobs_headless(args: tuple):
     name, url, selector = args
     options = Options()
     options.add_argument("--headless")
@@ -139,15 +139,14 @@ def update_storage(storage_path="storage.json"):
             jobs = future.result()
             existing = data["companies"].get(name, [])
             new_jobs = []
-            for job in jobs:
+            for i, job in enumerate(jobs):
                 job = job.replace('\n', ' - ')
+                jobs[i] = job
                 if job not in existing:
                     new_jobs.append(job)
 
-            if name in data["companies"]:   
-                data["companies"][name].extend(new_jobs)
-            else:
-                data["companies"][name] = jobs
+            data["companies"][name] = jobs
+            
 
             if new_jobs:
                 new_jobs_message["companies"][name] = {
