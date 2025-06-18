@@ -684,6 +684,7 @@ Here's an example:
 - Quantitative Researcher – Master's: 2026
 - Quantitative Systematic Trader – Master's: 2026
 - Production Engineer - Gaming | Experienced Hire
+- US Benefits Manager
 </details>
 
 <details>
