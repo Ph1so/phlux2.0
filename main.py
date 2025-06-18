@@ -139,14 +139,15 @@ def update_storage(storage_path="storage.json"):
             jobs = future.result()
             existing = data["companies"].get(name, [])
             new_jobs = []
-            for i, job in enumerate(jobs):
+            for job in jobs:
                 job = job.replace('\n', ' - ')
-                jobs[i] = job
                 if job not in existing:
                     new_jobs.append(job)
 
-            data["companies"][name] = jobs
-            
+            if name in data["companies"]:   
+                data["companies"][name].extend(new_jobs)
+            else:
+                data["companies"][name] = jobs
 
             if new_jobs:
                 new_jobs_message["companies"][name] = {
