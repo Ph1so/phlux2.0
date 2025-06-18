@@ -69,8 +69,8 @@ Here's an example:
 <details>
 <summary><a href="https://amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&country%5B%5D=USA&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=intern&city=&country=&region=&county=&query_options=&"><strong>Amazon</strong></a></summary>
 
-- Jr. Software Development Engineer - San Diego, CA
 - Jr. Software Development Engineer - Santa Cruz, CA
+- Jr. Software Development Engineer - San Diego, CA
 - Jr. Software Development Engineer - Detroit
 - Jr. Software Development Engineer- San Luis Obispo
 </details>
@@ -232,6 +232,12 @@ Here's an example:
 </details>
 
 <details>
+<summary><a href="https://www.databricks.com/company/careers/open-positions?department=University%20Recruiting&location=all"><strong>Databricks</strong></a></summary>
+
+- PhD GenAI Research Scientist Intern - San Francisco, California
+</details>
+
+<details>
 <summary><a href="https://careers.datadoghq.com/early-careers/"><strong>Datadog</strong></a></summary>
 
 - Software Engineer - Early Career
@@ -363,8 +369,8 @@ Here's an example:
 - Mechanical Engineering Intern, Robotics (Fall 2025+) - Fremont, California
 - Robot Optics Intern - Fremont, California
 - Software Engineer Intern, BCI Applications - Fremont, California
-- Software Engineer Intern, Implant - Fremont, California
 - Software Engineer Intern, Implant - Austin, Texas
+- Software Engineer Intern, Implant - Fremont, California
 - Software Engineer Intern, Lab Systems - Austin, Texas
 - Software Engineer Intern, Lab Systems - Fremont, California
 - Software Engineer Intern, Robotics - Austin, Texas
@@ -515,6 +521,15 @@ Here's an example:
 - Fall 2025 Engineering Internship/Co-op
 - Fall 2025 Graduate Engineer
 - Fall 2025 Software Engineering Internship/Co-op
+</details>
+
+<details>
+<summary><a href="https://www.splunk.com/en_us/careers/search-jobs.html?page=1&type=Intern"><strong>Splunk</strong></a></summary>
+
+- Sales Engineer Intern (Prague, Czechia)
+- Product Manager Intern, Poland
+- Software Engineer Intern (Frontend)
+- Software Engineering Intern (Backend/Fullstack)
 </details>
 
 <details>
