@@ -803,6 +803,7 @@ Here's an example:
 - Finance Systems Engineer - Finance & Administration - South San Francisco, California, USA
 - Flight Operations Lead - KE-1 - Flight Operations - Kisumu, Kenya
 - Deputy General Counsel, Commercial Transactions - Legal, Regulatory & Public Affairs - South San Francisco, California, USA
+- Facilities and Inventory Specialist - Operations - Dallas, Texas, USA
 </details>
 
 <details>
