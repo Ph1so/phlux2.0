@@ -278,6 +278,7 @@ Here's an example:
 - INTERNSHIP: User Assistance Development - FALL 2025
 - INTERNSHIP - ENOVIA Software Test Automation Engineer
 - INTERNSHIP: Quality Engineer
+- INTERNSHIP - Software Engineer
 </details>
 
 <details>
