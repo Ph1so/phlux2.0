@@ -232,12 +232,6 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://www.databricks.com/company/careers/open-positions?department=University%20Recruiting&location=all"><strong>Databricks</strong></a></summary>
-
-- PhD GenAI Research Scientist Intern - San Francisco, California
-</details>
-
-<details>
 <summary><a href="https://careers.datadoghq.com/early-careers/"><strong>Datadog</strong></a></summary>
 
 - Software Engineer - Early Career
@@ -326,6 +320,7 @@ Here's an example:
 <summary><a href="https://jobs.careers.microsoft.com/global/en/search?lc=United%20States&et=Internship&l=en_us&pg=1&pgSz=20&o=Relevance&flt=true"><strong>Microsoft</strong></a></summary>
 
 - Research Intern - Quantum Computing
+- Mechanical Engineer: Internship Opportunities - PhD - Redmond
 </details>
 
 <details>
@@ -523,15 +518,6 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://www.splunk.com/en_us/careers/search-jobs.html?page=1&type=Intern"><strong>Splunk</strong></a></summary>
-
-- Sales Engineer Intern (Prague, Czechia)
-- Product Manager Intern, Poland
-- Software Engineer Intern (Frontend)
-- Software Engineering Intern (Backend/Fullstack)
-</details>
-
-<details>
 <summary><a href="https://www.lifeatspotify.com/students"><strong>Spotify</strong></a></summary>
 
 - Early Career Program, Growth Associate, South Korea
@@ -544,10 +530,29 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://careers.tsmc.com/en_US/careers/SearchJobs/?1277=13221&1277_format=1380&542=13100&542_format=486&listFilterMode=1&jobRecordsPerPage=10&"><strong>TSMC</strong></a></summary>
+<summary><a href="https://careers.sig.com/global-susquehanna-jobs"><strong>Susquehanna</strong></a></summary>
 
+- US Benefits Manager
+- Quantitative Researcher – PhD: 2025
+- Quantitative Systematic Trader – PhD: 2026
+- Quantitative Researcher – Master's: 2026
+- Quantitative Systematic Trader – Master's: 2026
+- Production Engineer - Gaming | Experienced Hire
+- Trading Systems - C# Developer
+- Quantitative Sports Researcher – Graduate Hire
+- Quant Trading - Engineering Recruiter | Experienced Hiring
+- Python Developer
+</details>
+
+<details>
+<summary><a href="https://careers.tsmc.com/en_US/careers/SearchJobs/?542=13100&542_format=486&listFilterMode=1&jobRecordsPerPage=100&"><strong>TSMC</strong></a></summary>
+
+- 台積身心障礙專業人才_暑期實習
 - [Summer 2026] TSMC AZ Internship Opportunities - Facility Roles
+- AI Hardware Research Intern: Advanced Memory Modeling and Simulation for AI Accelerators (6819)
+- Fall/Winter 2025 - CAD/Software Intern (6591)
 - [Summer 2026] TSMC AZ Internship Opportunities - Engineering Roles
+- Summer 2025 - Transistor Device Research, Intern (6528)
 </details>
 
 <details>
