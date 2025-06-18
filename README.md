@@ -453,6 +453,12 @@ Here's an example:
 </details>
 
 <details>
+<summary><a href="https://careers.robinhood.com/"><strong>Robinhood</strong></a></summary>
+
+- Software Developer Intern/Co-op, Backend (Fall 2025)
+</details>
+
+<details>
 <summary><a href="https://careers.roblox.com/jobs?groups=early-career-talent&page=1&pageSize=9"><strong>Roblox</strong></a></summary>
 
 - [2025] Senior Machine Learning Engineer - PhD Early Career
@@ -538,21 +544,6 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://careers.sig.com/global-susquehanna-jobs"><strong>Susquehanna</strong></a></summary>
-
-- US Benefits Manager
-- Quantitative Researcher – PhD: 2025
-- Quantitative Researcher – Master's: 2026
-- Quantitative Systematic Trader – PhD: 2026
-- Quantitative Systematic Trader – Master's: 2026
-- Production Engineer - Gaming | Experienced Hire
-- Trading Systems - C# Developer
-- Quantitative Sports Researcher – Graduate Hire
-- Quant Trading - Engineering Recruiter | Experienced Hiring
-- Python Developer
-</details>
-
-<details>
 <summary><a href="https://careers.tsmc.com/en_US/careers/SearchJobs/?1277=13221&1277_format=1380&542=13100&542_format=486&listFilterMode=1&jobRecordsPerPage=10&"><strong>TSMC</strong></a></summary>
 
 - [Summer 2026] TSMC AZ Internship Opportunities - Facility Roles
@@ -581,8 +572,8 @@ Here's an example:
 
 - 2025 Fall Software Engineer Internship, University of Waterloo
 - Graduate 2025 PhD Scientist (AEA/ASSA Economists Only), United States
-- 2025 Software Engineering UberSTAR Internship, University of Texas at El Paso
 - 2025 Software Engineering Internship, University of Texas at El Paso
+- 2025 Software Engineering UberSTAR Internship, University of Texas at El Paso
 </details>
 
 <details>
@@ -635,8 +626,8 @@ Here's an example:
 - Enterprise Account Manager - Customer Success - South San Francisco, California, USA
 - Executive Assistant - People - South San Francisco, California, USA
 - Facilities and Inventory Specialist - Operations - Dallas, Texas, USA
+- Field Systems Engineer - Flight Software - Operations - South San Francisco, California, USA
 - Field Systems Engineering Intern (Fall 2025) - 2025 Internships - South San Francisco, California, USA
-- Finance Systems Engineer - Finance & Administration - South San Francisco, California, USA
 </details>
 
 <details>
