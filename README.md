@@ -487,6 +487,8 @@ Here's an example:
 - Robotics Software Intern, Sim2Real Deployment - Fall 2025
 - GPU Diagnostic Software Intern - Fall 2025
 - Technical Marketing Engineer Intern, AI Platform Software - Fall 2025
+- System Software Engineering Intern, GPU Server - Fall 2025
+- Compiler Engineering Intern, GPU Compute and CUDA - Fall 2025
 </details>
 
 <details>
