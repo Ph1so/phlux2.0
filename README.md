@@ -477,6 +477,7 @@ Here's an example:
 
 - EDGE Associate, Information Technology Rotational Program
 - Production Planner
+- Project Planner
 </details>
 
 <details>
