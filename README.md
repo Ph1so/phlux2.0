@@ -478,6 +478,7 @@ Here's an example:
 - EDGE Associate, Information Technology Rotational Program
 - Production Planner
 - Project Planner
+- Early in Career Windows Software Engineer (C++, C#)
 </details>
 
 <details>
