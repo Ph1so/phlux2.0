@@ -253,6 +253,12 @@ Here's an example:
 </details>
 
 <details>
+<summary><a href="https://apply.deloitte.com/en_US/careers/SearchJobs/?9339=%5B480%2C477%2C478%5D&9339_format=5915&26444=%5B113185584%2C113185586%2C113185566%2C113185568%2C113185564%5D&26444_format=44221&listFilterMode=1&jobRecordsPerPage=10&sort=relevancy"><strong>Deloitte</strong></a></summary>
+
+- Audit & Assurance Analyst – Technology Controls Advisory – Summer/Fall 2026, Winter 2027
+</details>
+
+<details>
 <summary><a href="https://careersatdoordash.com/university-careers/"><strong>Doordash</strong></a></summary>
 
 - Machine Learning Intern (Masters/PhD), Summer 2025
