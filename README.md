@@ -191,6 +191,7 @@ Here's an example:
 - Backend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Seller Business) - 2025 Fall (BS/MS)
 - Software Development Engineer Intern in Test (Global E-commerce-Quality Assurance) - 2025 Fall (BS/MS)
 - Machine Learning Engineer Intern (Global E-commerce Risk Control) - 2025 Summer/Fall (MS)
+- Frontend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Content) - 2025 Start Fall (BS/MS)
 </details>
 
 <details>
@@ -505,6 +506,8 @@ Here's an example:
 - Go To Market Operations - Internship - Work Type:Hybrid - Job Family:Sales - Req ID:64595186-8a9b-4268-b62d-316b9238e9f5
 - Strategic Student Program: R&D Software Engineering Co-Op (Fall 2025, T&I) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:467877
 - Strategic Student Program: 3D Technology Software Engineering Co-Op (Fall 2025, EDA) - Huntsville, AL - Work Type:Hybrid - Job Family:Internal Services - Req ID:463749
+- Strategic Student Program: Software Development Co-op (Fall 2025, GSCS) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:465146
+- Strategic Student Program: Software Development R&D Co-op (Fall 2025) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:467719
 </details>
 
 <details>
