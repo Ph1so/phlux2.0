@@ -628,6 +628,7 @@ Here's an example:
 <summary><a href="https://app.careerpuck.com/job-board/welchs/?departmentId=6vcaTkfP"><strong>Welch's</strong></a></summary>
 
 - Controls Engineer
+- Control Engineer
 </details>
 
 <details>
