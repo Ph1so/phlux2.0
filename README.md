@@ -494,6 +494,7 @@ Here's an example:
 - Electrical Engineer Co-Op
 - Business Intelligence Analyst Co-Op (Fall 2025)
 - Firmware Engineer Co-Op
+- Firmware Engineer Intern
 </details>
 
 <details>
