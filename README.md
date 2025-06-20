@@ -511,6 +511,10 @@ Here's an example:
 - Strategic Student Program: 3D Technology Software Engineering Co-Op (Fall 2025, EDA) - Huntsville, AL - Work Type:Hybrid - Job Family:Internal Services - Req ID:463749
 - Strategic Student Program: Software Development Co-op (Fall 2025, GSCS) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:465146
 - Strategic Student Program: Software Development R&D Co-op (Fall 2025) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:467719
+- MECOP Intern (Summer-Fall) - Wilsonville, OR - Work Type:Hybrid - Job Family:Internal Services - Req ID:453386
+- Strategic Student Program: Alliance Partner Marketing Internship (Fall 2025, GSM) - Maryland Heights, MO - Work Type:Hybrid - Job Family:Internal Services - Req ID:467159
+- Strategic Student Program: Events Marketing Internship (Fall 2025, GSM) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:468163
+- Strategic Student Program: Customer Advocacy Internship (Fall 2025, GSM) - Maryland Heights, MO - Work Type:Hybrid - Job Family:Internal Services - Req ID:467165
 </details>
 
 <details>
