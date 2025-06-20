@@ -569,6 +569,7 @@ Here's an example:
 - Quantitative Sports Researcher – Graduate Hire
 - Quant Trading - Engineering Recruiter | Experienced Hiring
 - Python Developer
+- Account Opening Analyst
 </details>
 
 <details>
