@@ -297,6 +297,7 @@ Here's an example:
 - Principal Research Scientist
 - Market Insights Analyst Co-op (8 months)
 - Manager 2, HR Experience and Operations
+- Brand and Integrated Marketing Co-op (8 months)
 </details>
 
 <details>
