@@ -228,7 +228,7 @@ def send_email(message, test = False):
 def main():
     new_jobs = update_storage()
     if new_jobs["companies"]:
-        send_email(new_jobs, test=True)
+        send_email(new_jobs)
 
 if __name__ == "__main__":
     main()
