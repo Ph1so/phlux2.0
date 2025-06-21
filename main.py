@@ -4,24 +4,21 @@ import json
 import pandas as pd
 import requests
 import smtplib
+from typing import Tuple, List
 from email.message import EmailMessage
 from concurrent.futures import ProcessPoolExecutor, as_completed
 
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
-
 from tenacity import retry, wait_fixed, stop_after_attempt
-from webdriver_manager.chrome import ChromeDriverManager
 
-from apply import AutoApplyBot
+from auto_apply import AutoApplyBot
+from custom_scrapers import CompanyScraper, JPMorganScraper
+from utils import get_driver
 
 GMAIL_APP_PASSWORD = os.environ["GMAIL_APP_PASSWORD"]
-CHROME_DRIVER_PATH = ChromeDriverManager().install()
 
 # Used for dynamically loaded jobs that require user interaction
 CLICKABLE = {
@@ -36,19 +33,22 @@ NEEDS_FILTER = {
 }
 
 @retry(wait=wait_fixed(5), stop=stop_after_attempt(5))
-def get_jobs_headless(args: tuple):
-    name, url, selector = args
-    options = Options()
-    options.add_argument("--headless")
-    options.add_argument("--disable-gpu")
-    options.add_argument("--window-size=1920x1080")
-    options.add_argument("--no-sandbox")
-    options.add_argument("--disable-dev-shm-usage")
-    options.add_argument(
-        "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
-    )
+def get_jobs_headless(name: str, url: str, selector: str) -> List[str]:
+    """
+    Scrapes job titles from a given company's careers page using a headless browser.
 
-    driver = webdriver.Chrome(service=Service(CHROME_DRIVER_PATH), options=options)
+    Args:
+        args (tuple): A 3-tuple of the form (company_name, job_page_url, selector), where:
+            - company_name (str): Name of the company (used for filtering/logging).
+            - job_page_url (str): URL of the careers or jobs listing page.
+            - selector (str): CSS selector used to find job title elements on the page.
+
+    Returns:
+        List[str]: A list of visible job titles scraped from the page. The list may be
+        filtered based on company-specific rules defined in `NEEDS_FILTER`.
+    """
+    driver = get_driver()
+
     try:
         driver.get(url)
         if needClick := CLICKABLE.get(name, False):
@@ -112,13 +112,41 @@ def get_jobs_headless(args: tuple):
     finally:
         driver.quit()
 
-def load_company_data():
+def load_company_data() -> List[Tuple[str, str, str]]:
     df = pd.read_csv("companies.csv", keep_default_na=False)
     df["Link"] = df["Link"].str.strip('"\'')
     return list(zip(df["Name"], df["Link"], df["ClassName"]))
 
+def process_jobs(
+    data: dict,
+    name: str,
+    jobs: List[str],
+    link: str,
+    new_jobs_message: dict
+) -> None:
+    existing = data["companies"].get(name, [])
+    new_jobs = []
+    for job in jobs:
+        job = job.replace('\n', ' - ')
+        if job not in existing:
+            new_jobs.append(job)
 
-def update_storage(storage_path="storage.json"):
+    if name in data["companies"]:   
+        data["companies"][name].extend(new_jobs)
+    else:
+        data["companies"][name] = jobs
+
+    if new_jobs:
+        new_jobs_message["companies"][name] = {
+            "jobs": new_jobs,
+            "link": link
+        }
+        print(f"✅ New jobs at {name}!")
+    else:
+        print(f"💢 No new jobs at {name}.")
+
+
+def update_storage(storage_path="storage.json") -> dict:
     if os.path.exists(storage_path):
         with open(storage_path, "r") as f:
             data = json.load(f)
@@ -128,35 +156,22 @@ def update_storage(storage_path="storage.json"):
     new_jobs_message = {"companies": {}}
     companies = load_company_data()
 
-    with ProcessPoolExecutor(max_workers=4) as executor:
+    with ProcessPoolExecutor(max_workers=10) as executor:
         futures = {
-            executor.submit(get_jobs_headless, (name, link, selector)): (name, link)
+            executor.submit(get_jobs_headless, name, link, selector): (name, link)
             for name, link, selector in companies
         }
 
         for future in as_completed(futures):
             name, link = futures[future]
             jobs = future.result()
-            existing = data["companies"].get(name, [])
-            new_jobs = []
-            for job in jobs:
-                job = job.replace('\n', ' - ')
-                if job not in existing:
-                    new_jobs.append(job)
+            process_jobs(data, name, jobs, link, new_jobs_message)
 
-            if name in data["companies"]:   
-                data["companies"][name].extend(new_jobs)
-            else:
-                data["companies"][name] = jobs
-
-            if new_jobs:
-                new_jobs_message["companies"][name] = {
-                    "jobs": new_jobs,
-                    "link": link
-                }
-                print(f"✅ New jobs at {name}!")
-            else:
-                print(f"💢 No new jobs at {name}.")
+    # Run custom scrapers
+    custom_scrapers: List[CompanyScraper] = [JPMorganScraper()]
+    for scraper in custom_scrapers:
+        name, jobs, link = scraper.get_jobs()
+        process_jobs(data, name, jobs, link, new_jobs_message)
 
     with open(storage_path, "w") as f:
         json.dump(data, f, indent=2)
@@ -195,12 +210,13 @@ def format_message_html(message):
 
     return "\n".join(lines)
 
-def send_email(message):
+def send_email(message, test = False):
     msg = EmailMessage()
     msg['Subject'] = "🚀 New Internship Alerts!"
     msg['From'] = 'phiwe3296@gmail.com'
     msg['To'] = 'phiwe3296@gmail.com'
-    msg['Cc'] = 'Nicolezcui@gmail.com, pham0579@umn.edu, ronak@ronakpjain.com'
+    if not test:
+        msg['Cc'] = 'Nicolezcui@gmail.com, pham0579@umn.edu, ronak@ronakpjain.com'
     html_content = format_message_html(message)
     msg.set_content("This email contains HTML. Please view it in an HTML-compatible client.")
     msg.add_alternative(html_content, subtype='html')
@@ -212,7 +228,7 @@ def send_email(message):
 def main():
     new_jobs = update_storage()
     if new_jobs["companies"]:
-        send_email(new_jobs)
+        send_email(new_jobs, test=True)
 
 if __name__ == "__main__":
     main()
