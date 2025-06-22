@@ -226,10 +226,9 @@ def send_email(message, test = False):
         smtp.send_message(msg)
 
 def main():
-    # new_jobs = update_storage()
-    # if new_jobs["companies"]:
-    #     send_email(new_jobs)
-    print(JPMorganScraper().get_jobs())
+    new_jobs = update_storage()
+    if new_jobs["companies"]:
+        send_email(new_jobs)
 
 if __name__ == "__main__":
     main()
