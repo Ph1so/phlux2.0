@@ -47,7 +47,7 @@ def generate_readme(jobs: dict, links: dict) -> str:
     return "\n".join(lines)
 
 if __name__ == "__main__":
-    links = load_company_links("companies.csv") + JPMorganScraper().base_url
+    links = load_company_links("companies.csv") + JPMorganScraper().base_link
     jobs = load_jobs("storage.json")
     readme = generate_readme(jobs, links)
 
