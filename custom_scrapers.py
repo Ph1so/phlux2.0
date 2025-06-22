@@ -16,6 +16,10 @@ class CompanyScraper(ABC):
             - link: str
         """
         pass
+    
+    @property
+    def get_link(self):
+        return self.base_link
 
 class JPMorganScraper(CompanyScraper):
     def __init__(self):
