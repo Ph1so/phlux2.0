@@ -362,6 +362,7 @@ Here's an example:
 - 2025/2026 Investment Management Summer Analyst Program - Real Estate Investing (Sydney)
 - 2025/2026 Investment Banking Summer Analyst Program (Sydney)
 - 2025/2026 Wealth Management Summer Analyst Program (Sydney)
+- 2025 Investment Management Off-cycle Internship - Emerging Markets (London)
 </details>
 
 <details>
