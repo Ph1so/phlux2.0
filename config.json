@@ -1,0 +1,12 @@
+{
+  "CLICKABLE": {
+    "Robinhood": {"selector": "div.accordion.EARLYTALENT p"},
+    "DE Shaws": {"selector": "div.more-jobs.movable-underline"}
+  },
+  "NEEDS_FILTER": {
+    "X": "intern",
+    "Verkada": "intern",
+    "Neuralink": "intern"
+  }
+}
+

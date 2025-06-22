@@ -1,19 +1,13 @@
 import json
-import csv
 from pathlib import Path
 from typing import List
-from custom_scrapers import CompanyScraper, JPMorganScraper
+from phlux.scrapers import CompanyScraper, JPMorganScraper
+
+from phlux.scraping import load_company_data
 
 def load_company_links(csv_path: str) -> dict:
-    links = {}
-    with open(csv_path, newline='', encoding='utf-8') as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            name = row["Name"].strip()
-            link = row["Link"].strip()
-            if name and link:
-                links[name] = link
-    return links
+    return {c.name: c.link for c in load_company_data(Path(csv_path))}
+
 
 def load_jobs(json_path: str) -> dict:
     with open(json_path, encoding='utf-8') as f:
@@ -57,3 +51,4 @@ if __name__ == "__main__":
 
     Path("README.md").write_text(readme, encoding='utf-8')
     print("README.md updated successfully.")
+

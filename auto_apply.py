@@ -5,7 +5,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 import time
-from utils import get_driver
+from phlux.utils import get_driver
 
 class AutoApplyBot:
     def __init__(self, job_list: list, personal_info: dict):
@@ -123,6 +123,7 @@ class AutoApplyBot:
 
 
             print(f"❌ Failed to type into {label or selector}:", e)
+
 
 
 
