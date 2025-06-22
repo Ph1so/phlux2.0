@@ -1,7 +1,8 @@
 import json
 import csv
 from pathlib import Path
-from custom_scrapers import JPMorganScraper
+from typing import List
+from custom_scrapers import CompanyScraper, JPMorganScraper
 
 def load_company_links(csv_path: str) -> dict:
     links = {}
@@ -47,7 +48,10 @@ def generate_readme(jobs: dict, links: dict) -> str:
     return "\n".join(lines)
 
 if __name__ == "__main__":
-    links = load_company_links("companies.csv") + JPMorganScraper().base_link
+    links = load_company_links("companies.csv")
+    custom_scrapers: List[CompanyScraper] = [JPMorganScraper()]
+    for scraper in custom_scrapers:
+        links[scraper.name] = scraper.base_link
     jobs = load_jobs("storage.json")
     readme = generate_readme(jobs, links)
 
