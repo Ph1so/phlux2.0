@@ -45,7 +45,7 @@ class JPMorganScraper(CompanyScraper):
                         EC.presence_of_element_located((By.ID, self.selector))
                     )
                     if elem.is_displayed():
-                        jobs.append(link[len(prefix):].replace("-", " "))
+                        jobs.append(link[len(prefix):].replace("-", " ")).title()
                 except TimeoutException:
                     print(f"❌ {self.name} - Timeout at {link}")
         finally:
