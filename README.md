@@ -12,7 +12,7 @@
 
 Here's an example: 
 ![Using add_company.py](public/cli.png)
-## Current job listings found by phlux (77 companies)
+## Current job listings found by phlux (78 companies)
 
 <details>
 <summary><a href="https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States"><strong>AMD</strong></a></summary>
@@ -298,6 +298,12 @@ Here's an example:
 - Market Insights Analyst Co-op (8 months)
 - Manager 2, HR Experience and Operations
 - Brand and Integrated Marketing Co-op (8 months)
+</details>
+
+<details>
+<summary><a href="https://careers.jpmorgan.com/global/en/students/programs"><strong>JP Morgan Chase</strong></a></summary>
+
+- Cadp Summer Analyst
 </details>
 
 <details>
