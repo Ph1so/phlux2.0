@@ -450,6 +450,7 @@ Here's an example:
 <summary><a href="https://www.pinterestcareers.com/jobs/?orderby=0&pagesize=20&page=1&radius=100&team=University"><strong>Pinterest</strong></a></summary>
 
 - Software Engineering Intern 2025 (Toronto)
+- Senior Director, Ads Product Marketing
 </details>
 
 <details>
