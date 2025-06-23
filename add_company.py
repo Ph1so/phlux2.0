@@ -3,13 +3,11 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 import time
-from main import get_jobs_headless
-
-# Set up headless driver
-# options = Options()
-# options.add_argument("--headless")
-# driver = webdriver.Chrome(options=options)
-driver = webdriver.Chrome()
+from phlux.scraping import get_jobs_headless
+from phlux.utils import get_driver
+from phlux.config import load_config
+CONFIG = load_config()
+driver = get_driver()
 
 def get_tag_chain_selector(el):
     path = []
@@ -55,7 +53,7 @@ def get_specific_css_selector(driver, job_title, name, link):
 
         for selector in candidate_selectors:
             try:
-                jobs = get_jobs_headless((name, link, selector))
+                jobs = get_jobs_headless(name, link, selector, CONFIG)
                 print(f"\n🔍 Candidate Selector: `{selector}`")
                 print(f"⚙️ Total elements matched: {len(jobs)}")
                 for job in jobs:
@@ -81,7 +79,7 @@ def main():
     confirm = "y"
     while not css_selector or confirm == "n":
         css_selector = input("Enter a CSS selector manually: ").strip()
-        jobs = get_jobs_headless((name, link, css_selector))
+        jobs = get_jobs_headless(name, link, css_selector, CONFIG)
         print(f"\n🔍 Candidate Selector: `{css_selector}`")
         print(f"⚙️ Total elements matched: {len(jobs)}")
         for job in jobs:
