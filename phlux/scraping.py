@@ -94,16 +94,20 @@ class ScrapeManager:
     def __init__(self, config_path: Path | str = load_config.__defaults__[0]):
         self.config = load_config(config_path)
 
-    def scrape_companies(self, companies: List[Company]) -> Dict:
-        
-        data: Dict[str, Dict] = {"companies": {}}
+    def scrape_companies(self, companies: List[Company], storage_path = "storage.json", max_workers = os.cpu_count()) -> Dict:
+        data = {"companies": {}}
+        if os.path.exists(storage_path):
+            with open(storage_path, "r") as f:
+                data = json.load(f)
+        else:
+            print(f"`{storage_path}` not foun")
         new_jobs: Dict = {"companies": {}}
-        with ProcessPoolExecutor(max_workers=os.cpu_count()) as executor:
+        with ProcessPoolExecutor(max_workers=max_workers) as executor:
             futures = {
                 executor.submit(get_jobs_headless, c.name, c.link, c.selector, self.config): c
                 for c in companies
             }
-            print(f"max_workers: {os.cpu_count()}")
+            print(f"max_workers: {max_workers}")
             for future in as_completed(futures):
                 company = futures[future]
                 jobs = future.result()

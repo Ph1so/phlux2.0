@@ -61,14 +61,13 @@ def main() -> None:
     config = load_config()
     manager = ScrapeManager()
     companies = load_company_data()
-    result = manager.scrape_companies(companies)
+    result = manager.scrape_companies(companies=companies)
     data = result["data"]
     new_jobs = result["new_jobs"]
 
     Path("storage.json").write_text(json.dumps(data, indent=2), encoding="utf-8")
     if new_jobs.get("companies"):
         send_email(new_jobs, test = True)
-
 
 if __name__ == "__main__":
     main()
