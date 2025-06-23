@@ -658,6 +658,7 @@ Here's an example:
 - Field Systems Engineering Intern (Fall 2025) - 2025 Internships - South San Francisco, California, USA
 - Finance Systems Engineer - Finance & Administration - South San Francisco, California, USA
 - Flight Operations Lead - KE-1 - Flight Operations - Kisumu, Kenya
+- Engineering Technician Lead - Engineering - South San Francisco, California, USA
 </details>
 
 <details>
