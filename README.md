@@ -249,6 +249,7 @@ Here's an example:
 - Sales Development Representative - DACH (Polish/German Speaker)
 - Sales Development Representative (DACH)
 - Sales Development Representative
+- Sales Development Representative (Arabic speaker)
 </details>
 
 <details>
@@ -361,6 +362,27 @@ Here's an example:
 <summary><a href="https://explore.jobs.netflix.net/careers?domain=netflix.com&query=%22internship%22%20-intern&pid=790299250747&sort_by=relevance"><strong>Netflix</strong></a></summary>
 
 - Machine Learning Intern, Fall 2025
+</details>
+
+<details>
+<summary><a href="https://neuralink.com/careers/"><strong>Neuralink</strong></a></summary>
+
+- Internal Auditor - Austin, Texas
+- Electrical Engineer Intern, Implant Embedded Systems - Fremont, California
+- Electrical Engineer Intern, Robotics and Surgery Engineering - Fremont, California
+- Embedded Software Engineer Intern - Fremont, California
+- Machine Learning Engineer Intern - Fremont, California
+- Mechanical Engineering Intern, Brain Interfaces - Austin, Texas
+- Mechanical Engineering Intern, Robotics (Fall 2025+) - Fremont, California
+- Robot Optics Intern - Fremont, California
+- Software Engineer Intern, BCI Applications - Fremont, California
+- Software Engineer Intern, Implant - Austin, Texas
+- Software Engineer Intern, Implant - Fremont, California
+- Software Engineer Intern, Lab Systems - Austin, Texas
+- Software Engineer Intern, Lab Systems - Fremont, California
+- Software Engineer Intern, Robotics - Austin, Texas
+- Software Engineer Intern, Robotics - Fremont, California
+- Software Engineer Intern, Site Reliability Engineer - Fremont, California
 </details>
 
 <details>
@@ -634,6 +656,8 @@ Here's an example:
 - Facilities and Inventory Specialist - Operations - Dallas, Texas, USA
 - Field Systems Engineer - Flight Software - Operations - South San Francisco, California, USA
 - Field Systems Engineering Intern (Fall 2025) - 2025 Internships - South San Francisco, California, USA
+- Finance Systems Engineer - Finance & Administration - South San Francisco, California, USA
+- Flight Operations Lead - KE-1 - Flight Operations - Kisumu, Kenya
 </details>
 
 <details>
