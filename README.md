@@ -575,6 +575,7 @@ Here's an example:
 - Trading Systems - C# Developer
 - Quantitative Sports Researcher – Graduate Hire
 - Quant Trading - Engineering Recruiter | Experienced Hiring
+- Quantitative Campus Recruiter
 </details>
 
 <details>
