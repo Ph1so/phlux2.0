@@ -304,6 +304,7 @@ Here's an example:
 <summary><a href="https://careers.jpmorgan.com/global/en/students/programs"><strong>JP Morgan Chase</strong></a></summary>
 
 - Cadp Summer Analyst
+- Data Analytics Opportunities
 </details>
 
 <details>
@@ -429,6 +430,8 @@ Here's an example:
 - 2025 Shanghai Machine Learning PhD Summer Internship
 - FutureFocus Singapore 2025 – Quantitative Trading
 - Subscribe to receive our latest insights on trading, technology and market structure
+- FutureFocus Sydney – Trading & Research 2025
+- FutureFocus Sydney – Technology 2025
 </details>
 
 <details>
