@@ -13,6 +13,7 @@ from .scrapers import CompanyScraper, JPMorganScraper
 import csv
 import json
 import time
+import os
 
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -94,13 +95,15 @@ class ScrapeManager:
         self.config = load_config(config_path)
 
     def scrape_companies(self, companies: List[Company]) -> Dict:
+        
         data: Dict[str, Dict] = {"companies": {}}
         new_jobs: Dict = {"companies": {}}
-        with ProcessPoolExecutor(max_workers=10) as executor:
+        with ProcessPoolExecutor(max_workers=os.cpu_count()) as executor:
             futures = {
                 executor.submit(get_jobs_headless, c.name, c.link, c.selector, self.config): c
                 for c in companies
             }
+            print(f"max_workers: {os.cpu_count()}")
             for future in as_completed(futures):
                 company = futures[future]
                 jobs = future.result()

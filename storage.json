@@ -1,14 +1,12 @@
 {
   "companies": {
-    "Google": [
-      "Student Researcher, PhD, Winter/Summer 2025",
-      "Student Researcher, BS/MS, Winter/Summer 2025"
+    "Pinterest": [
+      "Software Engineering Intern 2025 (Toronto)"
     ],
     "Uber": [
       "Graduate 2025 PhD Scientist (AEA/ASSA Economists Only), United States",
-      "2025 Fall Software Engineer Internship, University of Waterloo",
-      "2025 Software Engineering Internship, University of Texas at El Paso",
-      "2025 Software Engineering UberSTAR Internship, University of Texas at El Paso"
+      "2025 Software Engineering UberSTAR Internship, University of Texas at El Paso",
+      "2025 Software Engineering Internship, University of Texas at El Paso"
     ],
     "Nvidia": [
       "System Software Engineering Intern, GPU Server - Fall 2025",
@@ -19,9 +17,12 @@
       "PhD Intern, Applied Research Scientist Retriever - Fall 2025",
       "PhD Research Intern, Generalist Embodied Agents Research - Fall 2025"
     ],
-    "Microsoft": [
-      "Research Intern - Quantum Computing",
-      "Mechanical Engineer: Internship Opportunities - PhD - Redmond"
+    "AWS": [
+      "Data Center Security Specialist Intern"
+    ],
+    "Google": [
+      "Student Researcher, PhD, Winter/Summer 2025",
+      "Student Researcher, BS/MS, Winter/Summer 2025"
     ],
     "Meta": [
       "Research Scientist Intern, Computer Vision for Generative AI (PhD)",
@@ -30,75 +31,30 @@
       "Research Scientist Intern, Monetization Generative AI (LLM) - Language (PhD)",
       "Research Scientist Intern, Sensors and Systems Computational Photography (PhD)"
     ],
-    "Pinterest": [
-      "Software Engineering Intern 2025 (Toronto)",
-      "Senior Director, Ads Product Marketing"
-    ],
-    "AWS": [
-      "Data Center Security Specialist Intern"
-    ],
-    "Netflix": [
-      "Video Algorithms Intern, Fall 2025 (6 Months)",
-      "Machine Learning Intern, Fall 2025"
-    ],
+    "ispace": [],
+    "Microsoft": [],
     "Amazon": [
       "Jr. Software Development Engineer - San Diego, CA",
       "Jr. Software Development Engineer - Santa Cruz, CA",
       "Jr. Software Development Engineer - Detroit",
       "Jr. Software Development Engineer- San Luis Obispo"
     ],
-    "ispace": [
-      "Market Analyst Intern for ISRU Market Study by Euro2Moon - ON-SITE \u2014 INTERNLUXEMBOURG"
-    ],
     "Welch's": [
-      "Controls Engineer",
       "Control Engineer"
     ],
-    "Apple": [
-      "Legal and Global Security Internships",
-      "Product Design, Mechanical Engineering and Materials Internships",
-      "Hardware Technology Internships",
-      "Engineering Program Management Internships",
-      "Software Engineering Internships",
-      "Business, Marketing, and G&A Internships",
-      "Machine Learning / AI Internships",
-      "Operations, Manufacturing Design Internships",
-      "Hardware Engineering Internships",
-      "MBA Internships - Summer 2026",
-      "Finance Development Program - 2026 Internship Opportunities",
-      "Finance Development Program - 2026 Internship Opportunities",
-      "Launch@Apple, Finance Development Experience"
+    "Netflix": [
+      "Machine Learning Intern, Fall 2025"
     ],
-    "Salesforce": [],
     "Intel": [
       "Facilities Technician Intern",
       "Facilities Technician Intern"
     ],
+    "LinkedIn": [],
     "Autodesk": [
       "Stagiaire Artiste Technique, Technical Artist Intern",
       "Intern (PhD), Physics-informed Machine Learning, Fall 2025"
     ],
-    "Blue Origin": [
-      "Spring 2026 STEAM Communications & Outreach Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52713",
-      "Spring 2026 Finance Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52715",
-      "Spring 2026 Guidance, Navigation & Controls Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52503",
-      "Spring 2026 Return Internship - Undergraduate - 4 Locations - Intern - Full Time - Intern - R52463",
-      "Spring 2026 Manufacturing Engineering Intern - Undergraduate - 4 Locations - Intern - Full Time - Intern - R52485",
-      "Spring 2026 Structural & Mechanical Engineering Intern - Undergraduate - 4 Locations - Intern - Full Time - Intern - R52391",
-      "Spring 2026 Aerospace Systems Engineering Intern - Undergraduate - 2 Locations - Intern - Full Time - Intern - R52429",
-      "Spring 2026 Avionics Software Engineering Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52403",
-      "Spring 2026 Electrical Systems Engineering Internship - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52404",
-      "Spring 2026 Test Engineering Intern - Undergraduate - 4 Locations - Intern - Full Time - Intern - R52410",
-      "Spring 2026 Fluid Systems Engineering Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52406"
-    ],
-    "LinkedIn": [],
-    "Optiver": [
-      "Expressions of Interest \u2013 Quantitative Research Internship, PhD (Summer 2026 -Shanghai)",
-      "2025 Shanghai Machine Learning PhD Summer Internship",
-      "FutureFocus Singapore 2025 \u2013 Quantitative Trading",
-      "Subscribe to receive our latest insights on trading, technology and market structure"
-    ],
-    "IBM": [],
+    "Salesforce": [],
     "Bank of America": [
       "Global Markets Chief Operating Office Summer Analyst Program - 2026",
       "Enterprise Credit Summer Analyst Program 2026 - Consumer Credit",
@@ -108,7 +64,6 @@
       "Enterprise Credit Summer Analyst Program 2026 - Global Wealth & Investment Management Credit",
       "Enterprise Credit Summer Analyst Program 2026 - Leveraged Finance Credit - Acquisition Finance",
       "Global Operations Development Summer Analyst Program - 2026",
-      "Global Operations Development Summer Associate- Program - 2026",
       "Global Payments Solutions Summer Analyst Program - 2026",
       "Global Technology Summer Analyst 2026 - Business Analyst",
       "Global Technology Summer Analyst 2026 - Cybersecurity Analyst",
@@ -123,7 +78,8 @@
       "Global Risk Summer 2026 Analyst",
       "Finance Management Summer 2026 Analyst"
     ],
-    "Liberty Mutual": [],
+    "Apple": [],
+    "Wayfair": [],
     "Citadel": [
       "Quantitative Researcher \u2013 PhD Intern (US)"
     ],
@@ -131,37 +87,43 @@
       "Legal Intern, Privacy (Fall Semester)",
       "Summer 2025 \u2013 Data Science Intern, Platform (PhD)"
     ],
-    "Wayfair": [],
+    "Optiver": [
+      "Expressions of Interest \u2013 Quantitative Research Internship, PhD (Summer 2026 -Shanghai)",
+      "2025 Shanghai Machine Learning PhD Summer Internship",
+      "FutureFocus Singapore 2025 \u2013 Quantitative Trading",
+      "Subscribe to receive our latest insights on trading, technology and market structure"
+    ],
+    "PayPal": [],
+    "Blue Origin": [
+      "Spring 2026 STEAM Communications & Outreach Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52713",
+      "Spring 2026 Finance Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52715",
+      "Spring 2026 Guidance, Navigation & Controls Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52503",
+      "Spring 2026 Return Internship - Undergraduate - 4 Locations - Intern - Full Time - Intern - R52463",
+      "Spring 2026 Manufacturing Engineering Intern - Undergraduate - 4 Locations - Intern - Full Time - Intern - R52485",
+      "Spring 2026 Structural & Mechanical Engineering Intern - Undergraduate - 4 Locations - Intern - Full Time - Intern - R52391",
+      "Spring 2026 Aerospace Systems Engineering Intern - Undergraduate - 2 Locations - Intern - Full Time - Intern - R52429",
+      "Spring 2026 Avionics Software Engineering Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52403",
+      "Spring 2026 Electrical Systems Engineering Internship - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52404",
+      "Spring 2026 Test Engineering Intern - Undergraduate - 4 Locations - Intern - Full Time - Intern - R52410",
+      "Spring 2026 Fluid Systems Engineering Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52406"
+    ],
+    "Cisco": [
+      "AI Research Scientist II (Intern) United States",
+      "Network Support Engineer, Fall 2025 (Meraki)"
+    ],
     "DE Shaws": [
       "Fundamental Research Analyst Intern (New York) - Summer 2026",
       "Trader/Analyst Intern (London) \u2013 Summer 2026",
       "Investor Relations Intern (London) \u2013 Summer 2026",
       "Legal & Compliance Intern (New York) \u2013 Summer 2026"
     ],
-    "Cisco": [
-      "AI Research Scientist II (Intern) United States",
-      "Software Engineer I (Intern) United States",
-      "Network Support Engineer, Fall 2025 (Meraki)"
-    ],
-    "PayPal": [],
-    "Morgan Stanley": [
-      "2025 Step In, Step Up: Foundations In Finance (London)",
-      "2025 Finance Off Cycle Internship - Part Time (Frankfurt)",
-      "2025 Firm Management Part-Time Off Cycle Internship (Frankfurt)",
-      "2025 Human Capital Management Analyst Program (Budapest)",
-      "2026 Investment Banking Off-cycle Internship (Dubai)",
-      "2025 Investment Banking MBA Early Insights Program",
-      "2025/2026 Investment Banking Summer Analyst Program (Melbourne)",
-      "2025/2026 Investment Management Summer Analyst Program - Real Estate Investing (Sydney)",
-      "2025/2026 Investment Banking Summer Analyst Program (Sydney)",
-      "2025/2026 Wealth Management Summer Analyst Program (Sydney)"
-    ],
-    "Spotify": [
-      "Early Career Program, Growth Associate, South Korea"
-    ],
+    "Hudson River Trading": [],
+    "Liberty Mutual": [],
     "Stripe": [
       "Operations Associate, New Grad (Mexico)"
     ],
+    "TwoSigma": [],
+    "Waymo": [],
     "Snap": [
       "Optical Engineer",
       "Computer Architecture Intern",
@@ -172,18 +134,34 @@
       "Account Manager Intern - Luxury team - Paris",
       "Graduate- Junior Production Associate"
     ],
-    "Hudson River Trading": [],
+    "Morgan Stanley": [
+      "2025 Finance Off Cycle Internship - Part Time (Frankfurt)",
+      "2025 Firm Management Part-Time Off Cycle Internship (Frankfurt)",
+      "2025 Human Capital Management Analyst Program (Budapest)",
+      "2026 Investment Banking Off-cycle Internship (Dubai)",
+      "2025 Investment Banking MBA Early Insights Program",
+      "2025/2026 Investment Banking Summer Analyst Program (Melbourne)",
+      "2025/2026 Investment Management Summer Analyst Program - Real Estate Investing (Sydney)",
+      "2025/2026 Investment Banking Summer Analyst Program (Sydney)",
+      "2025/2026 Wealth Management Summer Analyst Program (Sydney)",
+      "2025 Investment Management Off-cycle Internship - Emerging Markets (London)"
+    ],
     "Ramp": [
       "Software Engineer Internship | Frontend",
       "Software Engineer Internship | iOS",
       "University Grad: Customer Experience Agent"
     ],
-    "Waymo": [],
     "Workday": [
       "Werksstudierende - Sales (f, m, x) - Munich",
       "Working Student Sales - Munich"
     ],
-    "TwoSigma": [],
+    "Cohere": [
+      "Machine Learning Intern/Co-op (Fall 2025)",
+      "Software Engineer Intern/Co-op (Fall 2025)"
+    ],
+    "Spotify": [
+      "Early Career Program, Growth Associate, South Korea"
+    ],
     "Atlassian": [
       "UX Researcher, 2025/2026 Intern Australia & New Zealand",
       "Machine Learning Engineer, 2025/2026 PHD Intern Australia & New Zealand",
@@ -201,19 +179,16 @@
       "Sales Development Representative (DACH)",
       "Sales Development Representative"
     ],
-    "Cohere": [
-      "Machine Learning Intern/Co-op (Fall 2025)",
-      "Software Engineer Intern/Co-op (Fall 2025)"
-    ],
-    "Doordash": [
-      "Machine Learning Intern (Masters/PhD), Summer 2025",
-      "Software Engineer I, Entry-Level (Graduation Date: Fall 2024-Summer 2025)",
-      "Software Engineer I, Entry Level (Fall 2024-Spring 2025) \u2013 Toronto",
-      "Software Engineer, Intern, 2024/25 (University Recruiting)"
-    ],
+    "Riot Games": [],
     "Slack": [],
     "MongoDB": [
       "Software Engineer - Intern - Sydney"
+    ],
+    "Splunk": [
+      "Sales Engineer Intern (Prague, Czechia)",
+      "Product Manager Intern, Poland",
+      "Software Engineer Intern (Frontend)",
+      "Software Engineering Intern (Backend/Fullstack)"
     ],
     "Amazon Robotics": [
       "Amazon Robotics - Technical Artist Co-op - July to December 2025, Virtual Systems",
@@ -227,11 +202,22 @@
       "Amazon Robotics - Data Science Co-op - 2025",
       "Amazon Robotics - Business Intelligence Engineer Co-op - Spring & Fall 2025"
     ],
-    "Splunk": [
-      "Sales Engineer Intern (Prague, Czechia)",
-      "Product Manager Intern, Poland",
-      "Software Engineer Intern (Frontend)",
-      "Software Engineering Intern (Backend/Fullstack)"
+    "TikTok": [
+      "Product Manager Intern (TikTok LIVE-Ecosystem Governance)- 2025 Fall (BS/MS)",
+      "Software Engineer Intern (TikTok-Social-Product Innovation) - 2025 Fall (BS/MS)",
+      "(General Hire) Visual Design Intern (TikTok-Design) - 2025 Fall Starts (BS/MS)",
+      "Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Fall Starts (BS/MS)",
+      "Machine Learning Engineer Intern (E-commerce-Recommendation) - 2025 Summer/Fall (BS/MS)",
+      "(General Hire) UX Design Intern (TikTok-Design) - 2025 Fall Starts (BS/MS)",
+      "Product Manager Intern (TikTok-Product-Social and Creation)- 2025Fall Starts (BS/MS)",
+      "(General Hire) Machine Learning Engineer Intern (Commerce& Content Service & Search Ads) - 2025 Summer/Fall (BS/MS)",
+      "Full Stack Software Engineer Intern (Foundation Platform) - 2025 Fall (BS/MS)",
+      "Machine Learning Engineer Intern (E-commerce-Intelligent Customer Service) - 2025 Summer/Fall (MS)",
+      "Machine Learning Engineer Intern (Creative AI) - 2025 Summer (BS/MS)",
+      "Machine Learning Engineer Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS)"
+    ],
+    "Robinhood": [
+      "Software Developer Intern/Co-op, Backend (Fall 2025)"
     ],
     "AMD": [
       "Machine Learning / Artificial Intelligence Intern/Co-Op (PhD | Fall 2025 | Hybrid)",
@@ -262,38 +248,13 @@
       "Software Engineering Intern/Co-Op (Graduate | Fall 2025 | Hybrid)",
       "Product Development Engineering Intern/Co-Op (Undergrad | Fall 2025 | Hybrid)"
     ],
-    "Riot Games": [],
-    "TikTok": [
-      "Product Manager Intern (TikTok LIVE-Ecosystem Governance)- 2025 Fall (BS/MS)",
-      "(General Hire) Visual Design Intern (TikTok-Design) - 2025 Fall Starts (BS/MS)",
-      "Software Engineer Intern (TikTok-Social-Product Innovation) - 2025 Fall (BS/MS)",
-      "Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Fall Starts (BS/MS)",
-      "(General Hire) UX Design Intern (TikTok-Design) - 2025 Fall Starts (BS/MS)",
-      "Product Manager Intern (TikTok-Product-Social and Creation)- 2025Fall Starts (BS/MS)",
-      "Machine Learning Engineer Intern (E-commerce-Recommendation) - 2025 Summer/Fall (BS/MS)",
-      "Full Stack Software Engineer Intern (Foundation Platform) - 2025 Fall (BS/MS)",
-      "(General Hire) Machine Learning Engineer Intern (Commerce& Content Service & Search Ads) - 2025 Summer/Fall (BS/MS)",
-      "Machine Learning Engineer Intern (Creative AI) - 2025 Summer (BS/MS)",
-      "Machine Learning Engineer Intern (E-commerce-Intelligent Customer Service) - 2025 Summer/Fall (MS)",
-      "Machine Learning Engineer Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS)",
-      "Machine Learning Engineer Intern (Lead Ads) - 2025 Summer (BS/MS)"
-    ],
-    "Robinhood": [
-      "Software Developer Intern/Co-op, Backend (Fall 2025)"
-    ],
     "SpaceX": [
       "Fall 2025 Business Operations Internship/Co-op",
       "Fall 2025 Engineering Internship/Co-op",
       "Fall 2025 Graduate Engineer",
       "Fall 2025 Software Engineering Internship/Co-op"
     ],
-    "Intuit": [
-      "Social Media Co-op (8 Months)",
-      "Principal Research Scientist",
-      "Market Insights Analyst Co-op (8 months)",
-      "Manager 2, HR Experience and Operations",
-      "Brand and Integrated Marketing Co-op (8 months)"
-    ],
+    "IBM": [],
     "Nokia": [
       "Special Projects Software Dev Coop",
       "Wi-Fi CoE Research Coop",
@@ -313,19 +274,30 @@
       "Software Engineer Intern",
       "Systems Software Engineer Intern - Fall 2025"
     ],
+    "Palantir": [
+      "Forward Deployed Software Engineer, Internship"
+    ],
+    "Intuit": [
+      "Social Media Co-op (8 Months)",
+      "Principal Research Scientist",
+      "Brand and Integrated Marketing Co-op (8 months)",
+      "Market Insights Analyst Co-op (8 months)",
+      "Manager 2, HR Experience and Operations"
+    ],
     "Dassault Systems": [
       "INTERNSHIP - Software Engineer",
       "INTERNSHIP: User Assistance Development - FALL 2025",
       "INTERNSHIP - ENOVIA Software Test Automation Engineer"
     ],
+    "Roblox": [
+      "[2025] Senior Machine Learning Engineer - PhD Early Career"
+    ],
     "Rivian": [
       "UIUC Research Park Intern - Machine Learning",
       "UIUC Research Park Intern - EPC, Propulsion Drives Controls"
     ],
-    "Palantir": [
-      "Forward Deployed Software Engineer, Internship"
-    ],
     "Susquehanna": [
+      "Account Opening Analyst",
       "US Benefits Manager",
       "Quantitative Researcher \u2013 PhD: 2025",
       "Quantitative Systematic Trader \u2013 PhD: 2026",
@@ -334,26 +306,7 @@
       "Production Engineer - Gaming | Experienced Hire",
       "Trading Systems - C# Developer",
       "Quantitative Sports Researcher \u2013 Graduate Hire",
-      "Quant Trading - Engineering Recruiter | Experienced Hiring",
-      "Python Developer",
-      "Account Opening Analyst"
-    ],
-    "Expedia": [],
-    "Roblox": [
-      "[2025] Senior Machine Learning Engineer - PhD Early Career"
-    ],
-    "ByteDance": [
-      "Strategic Analysis Intern (AI Innovation Business - US) - 2025 Start (BS/MS)",
-      "Site Reliability Engineer Intern (Data-Technical Infrastructures-SRE-US) - 2025 Summer (MS)",
-      "Site Reliability Engineer Intern (Data-Technical Infrastructures-SRE-US) - 2025 Summer (MS)",
-      "Software Engineer Intern (AIGC Platform - Monetization GenAI) - 2025 Summer/Fall (BS/MS)",
-      "Data Scientist Intern (TikTok Ads)- 2025 Fall (BS/MS)",
-      "Backend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Customer Business)- 2025 Fall(BS/MS)",
-      "Research Engineer Intern (Doubao (Seed) - Machine Learning System) - 2025 Summer (MS)",
-      "Backend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Seller Business) - 2025 Fall (BS/MS)",
-      "Software Development Engineer Intern in Test (Global E-commerce-Quality Assurance) - 2025 Fall (BS/MS)",
-      "Machine Learning Engineer Intern (Global E-commerce Risk Control) - 2025 Summer/Fall (MS)",
-      "Frontend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Content) - 2025 Start Fall (BS/MS)"
+      "Quant Trading - Engineering Recruiter | Experienced Hiring"
     ],
     "Jane Street": [
       "FPGA Engineer - (not currently accepting applications)",
@@ -372,6 +325,14 @@
       "Trading Desk Operations Engineer - (not currently accepting applications)",
       "Windows Engineer - (not currently accepting applications)"
     ],
+    "Expedia": [],
+    "Adobe": [
+      "2025 Intern - Software Engineer",
+      "Working Student - Sales Programs / Project Management"
+    ],
+    "Databricks": [
+      "PhD GenAI Research Scientist Intern - San Francisco, California"
+    ],
     "Oracle": [
       "Sales Development Representative - Burlington - Sept 2025",
       "Sales Development Representative - Denver - Sept 2025",
@@ -379,16 +340,17 @@
       "Sales Development Representative - Austin - Sept 2025",
       "Sales Development Representative - Nashville - Sept 2025"
     ],
-    "Asana": [
-      "Reykjavik Summer Software Engineering Internship"
-    ],
-    "Adobe": [
-      "2025 Intern - Software Engineer",
-      "Working Student - Sales Programs / Project Management"
-    ],
-    "Grammarly": [],
-    "Databricks": [
-      "PhD GenAI Research Scientist Intern - San Francisco, California"
+    "ByteDance": [
+      "Strategic Analysis Intern (AI Innovation Business - US) - 2025 Start (BS/MS)",
+      "Site Reliability Engineer Intern (Data-Technical Infrastructures-SRE-US) - 2025 Summer (MS)",
+      "Software Engineer Intern (AIGC Platform - Monetization GenAI) - 2025 Summer/Fall (BS/MS)",
+      "Data Scientist Intern (TikTok Ads)- 2025 Fall (BS/MS)",
+      "Site Reliability Engineer Intern (Data-Technical Infrastructures-SRE-US) - 2025 Summer (MS)",
+      "Research Engineer Intern (Doubao (Seed) - Machine Learning System) - 2025 Summer (MS)",
+      "Backend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Customer Business)- 2025 Fall(BS/MS)",
+      "Backend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Seller Business) - 2025 Fall (BS/MS)",
+      "Software Development Engineer Intern in Test (Global E-commerce-Quality Assurance) - 2025 Fall (BS/MS)",
+      "Machine Learning Engineer Intern (Global E-commerce Risk Control) - 2025 Summer/Fall (MS)"
     ],
     "TSMC": [
       "\u53f0\u7a4d\u8eab\u5fc3\u969c\u7919\u5c08\u696d\u4eba\u624d_\u6691\u671f\u5be6\u7fd2",
@@ -401,20 +363,19 @@
     "Siemens": [
       "Business Development Representative Intern (China) - Work Type:Hybrid - Job Family:Sales - Req ID:e37114a7-ffd5-48f4-8e67-b51b4ca51b68",
       "Strategic Student Program: Software Product Quality Assurance Intern (EBS, Fall 2025) - Huntsville, AL - Work Type:Hybrid - Job Family:Internal Services - Req ID:467157",
+      "Strategic Student Program: Alliance Partner Marketing Internship (Fall 2025, GSM) - Maryland Heights, MO - Work Type:Hybrid - Job Family:Internal Services - Req ID:467159",
+      "Strategic Student Program: Events Marketing Internship (Fall 2025, GSM) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:468163",
+      "Strategic Student Program: Customer Advocacy Internship (Fall 2025, GSM) - Maryland Heights, MO - Work Type:Hybrid - Job Family:Internal Services - Req ID:467165",
       "Strategic Student Program: Search Marketing Internship (Fall 2025, GSM) - Maryland Heights, MO - Work Type:Hybrid - Job Family:Internal Services - Req ID:467161",
-      "Strategic Student Program: Social Acquisition Marketing Internship (Fall 2025, GSM) - Maryland Heights, MO - Work Type:Hybrid - Job Family:Internal Services - Req ID:467166",
-      "Strategic Student Program: Software Development Intern (Fall 2025; LCS) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:463748",
-      "Strategic Student Program: Technical Marketing Internship (Fall 2025, GSM) - Maryland Heights, MO - Work Type:Hybrid - Job Family:Internal Services - Req ID:467163",
       "Go To Market Operations - Internship - Boston, MA - Work Type:Hybrid - Job Family:Sales - Req ID:19acd451-756e-454f-964b-4e2f8636d4e6",
       "Go To Market Operations - Internship - Work Type:Hybrid - Job Family:Sales - Req ID:64595186-8a9b-4268-b62d-316b9238e9f5",
       "Strategic Student Program: R&D Software Engineering Co-Op (Fall 2025, T&I) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:467877",
-      "Strategic Student Program: 3D Technology Software Engineering Co-Op (Fall 2025, EDA) - Huntsville, AL - Work Type:Hybrid - Job Family:Internal Services - Req ID:463749",
-      "Strategic Student Program: Software Development Co-op (Fall 2025, GSCS) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:465146",
-      "Strategic Student Program: Software Development R&D Co-op (Fall 2025) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:467719",
-      "MECOP Intern (Summer-Fall) - Wilsonville, OR - Work Type:Hybrid - Job Family:Internal Services - Req ID:453386",
-      "Strategic Student Program: Alliance Partner Marketing Internship (Fall 2025, GSM) - Maryland Heights, MO - Work Type:Hybrid - Job Family:Internal Services - Req ID:467159",
-      "Strategic Student Program: Events Marketing Internship (Fall 2025, GSM) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:468163",
-      "Strategic Student Program: Customer Advocacy Internship (Fall 2025, GSM) - Maryland Heights, MO - Work Type:Hybrid - Job Family:Internal Services - Req ID:467165"
+      "Strategic Student Program: Software Development Co-op (Fall 2025, GSCS) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:465146"
+    ],
+    "Rockwell Automation": [
+      "Early in Career Windows Software Engineer (C++, C#)",
+      "Project Planner",
+      "EDGE Associate, Information Technology Rotational Program"
     ],
     "Boston Scientific": [
       "Cardiac Monitoring Technician - Internship/Apprenticeship"
@@ -423,48 +384,21 @@
       "Data Center Ops Technician Intern",
       "Engineering Intern"
     ],
-    "Rockwell Automation": [
-      "EDGE Associate, Information Technology Rotational Program",
-      "Production Planner",
-      "Project Planner",
-      "Early in Career Windows Software Engineer (C++, C#)"
+    "Asana": [
+      "Reykjavik Summer Software Engineering Internship"
     ],
     "Scheider Electric": [
       "Quality Engineer Internship: Fall 2025",
       "Assembly Process Intern/ Co-Op (Fall 2025)",
       "EHS Intern",
       "Artificial Intelligence and Machine Learning Intern",
+      "Firmware Engineer Intern",
       "Electrical Engineer Co-Op",
       "Electronics Hardware Engineer Co-Op",
       "Electrical Engineer Co-Op",
-      "Business Intelligence Analyst Co-Op (Fall 2025)",
-      "Firmware Engineer Co-Op",
-      "Firmware Engineer Intern"
+      "Business Intelligence Analyst Co-Op (Fall 2025)"
     ],
-    "Neuralink": [
-      "Internal Auditor - Austin, Texas",
-      "Electrical Engineer Intern, Implant Embedded Systems - Fremont, California",
-      "Electrical Engineer Intern, Robotics and Surgery Engineering - Fremont, California",
-      "Embedded Software Engineer Intern - Fremont, California",
-      "Machine Learning Engineer Intern - Fremont, California",
-      "Mechanical Engineering Intern, Brain Interfaces - Austin, Texas",
-      "Mechanical Engineering Intern, Robotics (Fall 2025+) - Fremont, California",
-      "Robot Optics Intern - Fremont, California",
-      "Software Engineer Intern, BCI Applications - Fremont, California",
-      "Software Engineer Intern, Implant - Fremont, California",
-      "Software Engineer Intern, Implant - Austin, Texas",
-      "Software Engineer Intern, Lab Systems - Austin, Texas",
-      "Software Engineer Intern, Lab Systems - Fremont, California",
-      "Software Engineer Intern, Robotics - Austin, Texas",
-      "Software Engineer Intern, Robotics - Fremont, California",
-      "Software Engineer Intern, Site Reliability Engineer - Fremont, California"
-    ],
-    "Verkada": [
-      "Solutions Engineering Intern/Graduate - Sydney, Australia",
-      "Software Engineering Intern, Backend - Fall 2025 - San Mateo, CA United States",
-      "Software Engineering Intern, Mobile - Fall 2025 - San Mateo, CA United States",
-      "Technical Support Engineering Intern - Fall 2025 - San Mateo, CA United States"
-    ],
+    "Grammarly": [],
     "Zipline": [
       "Annotation Technical Lead - Engineering - Kigali, Rwanda",
       "Communications Lead, US Expansion - Marketing, Design & Communications - South San Francisco, California, USA",
@@ -487,10 +421,18 @@
       "Field Systems Engineer - Flight Software - Operations - South San Francisco, California, USA",
       "Field Systems Engineering Intern (Fall 2025) - 2025 Internships - South San Francisco, California, USA"
     ],
+    "Verkada": [
+      "Software Engineering Intern, Backend - Fall 2025 - San Mateo, CA United States",
+      "Software Engineering Intern, Mobile - Fall 2025 - San Mateo, CA United States",
+      "Technical Support Engineering Intern - Fall 2025 - San Mateo, CA United States"
+    ],
+    "Neuralink": [],
     "Cloudflare": [],
+    "Deloitte": [],
     "Capital One": [],
-    "Deloitte": [
-      "Audit & Assurance Analyst \u2013 Technology Controls Advisory \u2013 Summer/Fall 2026, Winter 2027"
+    "Doordash": [
+      "Software Engineer I, Entry-Level (Graduation Date: Fall 2024-Summer 2025)",
+      "Software Engineer I, Entry Level (Fall 2024-Spring 2025) \u2013 Toronto"
     ],
     "JP Morgan Chase": [
       "Cadp Summer Analyst"

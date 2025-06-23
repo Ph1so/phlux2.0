@@ -4,14 +4,10 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 import time
 from phlux.scraping import get_jobs_headless
-
+from phlux.utils import get_driver
 from phlux.config import load_config
 CONFIG = load_config()
-# Set up headless driver
-# options = Options()
-# options.add_argument("--headless")
-# driver = webdriver.Chrome(options=options)
-driver = webdriver.Chrome()
+driver = get_driver()
 
 def get_tag_chain_selector(el):
     path = []
