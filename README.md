@@ -297,7 +297,6 @@ Here's an example:
 <summary><a href="https://careers.jpmorgan.com/global/en/students/programs"><strong>JP Morgan Chase</strong></a></summary>
 
 - Cadp Summer Analyst
-- Data Analytics Opportunities
 </details>
 
 <details>
