@@ -309,6 +309,9 @@ Here's an example:
 - Software Developer Co-op, Fall 2025
 - Product Manager Co-op (8 months)
 - Staff Marketing Manager, Paid Search (GBSG)
+- Staff Program Manager- Product Management Community
+- Brand Marketing Co-Op (8 month)
+- Mobile Software Developer Co-op (4 months)
 </details>
 
 <details>
