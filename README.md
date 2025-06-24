@@ -626,6 +626,7 @@ Here's an example:
 - Graduate 2025 PhD Scientist (AEA/ASSA Economists Only), United States
 - 2025 Software Engineering UberSTAR Internship, University of Texas at El Paso
 - 2025 Software Engineering Internship, University of Texas at El Paso
+- 2025 PhD Scientist Internship (Eater Pricing and Incentives), United States
 </details>
 
 <details>
