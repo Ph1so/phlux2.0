@@ -526,6 +526,9 @@ Here's an example:
 - Strategic Student Program: R&D Software Engineering Co-Op (Fall 2025, T&I) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:467877
 - Strategic Student Program: Software Development Co-op (Fall 2025, GSCS) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:465146
 - Strategic Student Program: Academic Enablement Internship (Fall 2025, GSM) - Maryland Heights, MO - Work Type:Hybrid - Job Family:Internal Services - Req ID:467164
+- Strategic Student Program: Functional Design/Verification Applications Engineer Intern – FV (EDAGS) - Waltham, MA - Work Type:Hybrid - Job Family:Internal Services - Req ID:468472 - Single job with flexible work locations
+- Strategic Student Program: Functional Design/Verification Applications Engineer Intern – FV (EDAGS) - Phoenix, AZ - Work Type:Hybrid - Job Family:Internal Services - Req ID:468472 - Single job with flexible work locations
+- Strategic Student Program: Demand Generation Marketing Internship (Fall 2025, GSM) - Maryland Heights, MO - Work Type:Hybrid - Job Family:Internal Services - Req ID:468843
 </details>
 
 <details>
