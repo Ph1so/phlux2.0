@@ -576,6 +576,7 @@ Here's an example:
 - Quantitative Sports Researcher – Graduate Hire
 - Quant Trading - Engineering Recruiter | Experienced Hiring
 - Quantitative Campus Recruiter
+- Quantitative Trading Discovery Day: 2025
 </details>
 
 <details>
