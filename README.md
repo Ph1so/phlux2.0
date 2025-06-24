@@ -430,6 +430,7 @@ Here's an example:
 - PhD Intern, Applied Research Scientist Retriever - Fall 2025
 - PhD Research Intern, Generalist Embodied Agents Research - Fall 2025
 - Software Engineering Intern, Embedded Systems – Fall 2025
+- Software Engineering Intern, Simulation and Virtualization - Fall 2025
 </details>
 
 <details>
