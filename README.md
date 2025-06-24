@@ -304,6 +304,9 @@ Here's an example:
 - Brand and Integrated Marketing Co-op (8 months)
 - Market Insights Analyst Co-op (8 months)
 - Manager 2, HR Experience and Operations
+- Software Developer Co-op, Fall 2025
+- Product Manager Co-op (8 months)
+- Staff Marketing Manager, Paid Search (GBSG)
 </details>
 
 <details>
