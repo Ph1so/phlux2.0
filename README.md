@@ -583,6 +583,7 @@ Here's an example:
 - Quant Trading - Engineering Recruiter | Experienced Hiring
 - Quantitative Campus Recruiter
 - Quantitative Trading Discovery Day: 2025
+- Senior FPGA Engineer
 </details>
 
 <details>
