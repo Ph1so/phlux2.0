@@ -44,6 +44,12 @@ Here's an example:
 - Machine Learning / Artificial Intelligence Intern/Co-Op (PhD | Fall 2025 | Hybrid)
 - Software Engineering Intern/Co-Op (Graduate | Fall 2025 | Hybrid)
 - Product Development Engineering Intern/Co-Op (Undergrad | Fall 2025 | Hybrid)
+- Fall 2025 Masters UEFI Firmware Engineering Co-op/Intern
+- Fall 2025 Undergrad SPSE Server PMO Co-Op/Intern
+- Fall 2025 Undergrad Firmware Engineering Co-Op/Intern
+- Spring 2026 Masters SOC Post-Silicon Debug Engineer Co-op/Intern
+- Fall 2025 Undergrad BIOS Engineering Co-Op/Intern
+- Fall 2025 Undergrad Platform Design Engineering Co-op/Intern
 </details>
 
 <details>
