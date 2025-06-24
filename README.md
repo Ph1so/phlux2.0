@@ -94,6 +94,7 @@ Here's an example:
 - Amazon Robotics - Software Development Engineer Co-Op - Fall 2025
 - Amazon Robotics - Data Science Co-op - 2025
 - Amazon Robotics - Business Intelligence Engineer Co-op - Spring & Fall 2025
+- Amazon Robotics - Applied Scientist II Intern / Co-op - 2025 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)
 </details>
 
 <details>
@@ -428,6 +429,7 @@ Here's an example:
 - Robotics Software Intern, Sim2Real Deployment - Fall 2025
 - PhD Intern, Applied Research Scientist Retriever - Fall 2025
 - PhD Research Intern, Generalist Embodied Agents Research - Fall 2025
+- Software Engineering Intern, Embedded Systems – Fall 2025
 </details>
 
 <details>
