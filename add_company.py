@@ -7,7 +7,7 @@ from phlux.scraping import get_jobs_headless
 from phlux.utils import get_driver
 from phlux.config import load_config
 CONFIG = load_config()
-driver = get_driver()
+driver = get_driver(headless=False)
 
 def get_tag_chain_selector(el):
     path = []
