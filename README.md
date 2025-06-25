@@ -95,6 +95,7 @@ Here's an example:
 - Amazon Robotics - Data Science Co-op - 2025
 - Amazon Robotics - Business Intelligence Engineer Co-op - Spring & Fall 2025
 - Amazon Robotics - Applied Scientist II Intern / Co-op - 2025 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)
+- Amazon Robotics - Data Scientist Co-op - 2025
 </details>
 
 <details>
@@ -539,6 +540,8 @@ Here's an example:
 - Electronics Hardware Engineer Co-Op
 - Electrical Engineer Co-Op
 - Business Intelligence Analyst Co-Op (Fall 2025)
+- Skillbridge Industrial Channel Sales Development Program
+- Skillbridge Industrial Channel Sales Development Program
 </details>
 
 <details>
