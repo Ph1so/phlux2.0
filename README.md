@@ -201,6 +201,26 @@ Here's an example:
 </details>
 
 <details>
+<summary><a href="https://www.capitalonecareers.com/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.Campus%22,%22value%22:%22Internships%22%7D]"><strong>Capital One</strong></a></summary>
+
+- Café Coach- Boulder
+- Inside Sales Coach
+- Cafe Coach- Easton Town Center
+- Capital One Coach- Ross Park Mall
+- Work at Home - Sr. Associate, Operations Coach - Debit and ATM Fraud
+- Senior Manager, Client Development- Capital One Software (Remote)
+- Market Leader, Business Cards & Payments (NorCal & Oregon)
+- Unit Manager, Commercial Client Operations
+- Director, Tech College, Enterprise Learning and Development
+- Manager, HR Business Partner - Enterprise Services
+- Manager, HR Business Partner
+- Sr. Manager, HR Business Partner
+- Principal Process Manager
+- Principal Associate, Process Manager (Hybrid)
+- Manager - HRBP
+</details>
+
+<details>
 <summary><a href="https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B169482%5D&21178_format=6020&21180=%5B33821095%2C165%5D&21180_format=6022&listFilterMode=1"><strong>Cisco</strong></a></summary>
 
 - AI Research Scientist II (Intern) United States
@@ -260,6 +280,7 @@ Here's an example:
 - Sales Development Representative (DACH)
 - Sales Development Representative
 - Sales Development Representative (Arabic speaker)
+- Sales Development Representative (Middle East)
 </details>
 
 <details>
