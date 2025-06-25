@@ -160,6 +160,7 @@ Here's an example:
 - Strategy & Management Summer Analyst Program - 2026
 - Global Risk Summer 2026 Analyst
 - Finance Management Summer 2026 Analyst
+- Global Investment Banking Summer Analyst Program – 2026 (M&A, Palo Alto)
 </details>
 
 <details>
@@ -318,7 +319,6 @@ Here's an example:
 <summary><a href="https://careers.jpmorgan.com/global/en/students/programs"><strong>JP Morgan Chase</strong></a></summary>
 
 - Cadp Summer Analyst
-- Data Analytics Opportunities
 </details>
 
 <details>
@@ -573,6 +573,7 @@ Here's an example:
 <summary><a href="https://www.lifeatspotify.com/students"><strong>Spotify</strong></a></summary>
 
 - Early Career Program, Growth Associate, South Korea
+- Early Career Program, Podcast Associate
 </details>
 
 <details>
@@ -690,6 +691,7 @@ Here's an example:
 - Finance Systems Engineer - Finance & Administration - South San Francisco, California, USA
 - Flight Operations Lead - KE-1 - Flight Operations - Kisumu, Kenya
 - Engineering Technician Lead - Engineering - South San Francisco, California, USA
+- Aviation Sustainment Engineer - Flight Operations - Kigali, Rwanda
 </details>
 
 <details>
