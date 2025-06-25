@@ -621,6 +621,7 @@ Here's an example:
 - Quantitative Trading Discovery Day: 2025
 - Senior FPGA Engineer
 - Production Engineer - Sports| Experienced Hire
+- ETF Sales Internship: Summer 2026
 </details>
 
 <details>
