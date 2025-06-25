@@ -12,7 +12,7 @@
 
 Here's an example: 
 ![Using add_company.py](public/cli.png)
-## Current job listings found by phlux (79 companies)
+## Current job listings found by phlux (80 companies)
 
 <details>
 <summary><a href="https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States"><strong>AMD</strong></a></summary>
@@ -661,6 +661,13 @@ Here's an example:
 </details>
 
 <details>
+<summary><a href="https://unity.com/careers/positions?department=students-early-career"><strong>Unity</strong></a></summary>
+
+- Junior Test Engineer
+- Sales Onboarding Intern
+</details>
+
+<details>
 <summary><a href="https://www.verkada.com/careers/"><strong>Verkada</strong></a></summary>
 
 - Software Engineering Intern, Backend - Fall 2025 - San Mateo, CA United States
@@ -715,6 +722,7 @@ Here's an example:
 - Flight Operations Lead - KE-1 - Flight Operations - Kisumu, Kenya
 - Engineering Technician Lead - Engineering - South San Francisco, California, USA
 - Aviation Sustainment Engineer - Flight Operations - Kigali, Rwanda
+- Aviation Sustainment Engineer - Flight Operations - Abuja, Nigeria; Accra, Ghana; Kigali, Rwanda; Nairobi, Kenya
 </details>
 
 <details>
