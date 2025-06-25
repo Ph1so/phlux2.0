@@ -199,6 +199,7 @@ Here's an example:
 - Backend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Seller Business) - 2025 Fall (BS/MS)
 - Software Development Engineer Intern in Test (Global E-commerce-Quality Assurance) - 2025 Fall (BS/MS)
 - Machine Learning Engineer Intern (Global E-commerce Risk Control) - 2025 Summer/Fall (MS)
+- Camera Engineer Intern (PICO-Camera Technology) - 2025 Fall (MS)
 </details>
 
 <details>
@@ -542,6 +543,7 @@ Here's an example:
 - Business Intelligence Analyst Co-Op (Fall 2025)
 - Skillbridge Industrial Channel Sales Development Program
 - Skillbridge Industrial Channel Sales Development Program
+- Engineering Lab Intern
 </details>
 
 <details>
