@@ -336,6 +336,7 @@ Here's an example:
 - Staff Program Manager- Product Management Community
 - Brand Marketing Co-Op (8 month)
 - Mobile Software Developer Co-op (4 months)
+- Social Media & Public Relations Co-op (8 months)
 </details>
 
 <details>
