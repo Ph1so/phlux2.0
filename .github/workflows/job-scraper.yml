@@ -103,5 +103,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Update storage.json and readme [bot] - Retry"
+            git commit -m "Update storage.json and readme [bot]"
             git push
+          fi
