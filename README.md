@@ -463,6 +463,7 @@ Here's an example:
 - Software Engineering Intern, Simulation and Virtualization - Fall 2025
 - System Software Engineering Intern, CUDA Driver - Fall 2025
 - GeForce Technical Marketing Intern - Fall 2025
+- Software Engineering Intern, CSP Engagements - Fall 2025
 </details>
 
 <details>
