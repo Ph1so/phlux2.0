@@ -744,6 +744,7 @@ Here's an example:
 - Engineering Technician Lead - Engineering - South San Francisco, California, USA
 - Aviation Sustainment Engineer - Flight Operations - Kigali, Rwanda
 - Aviation Sustainment Engineer - Flight Operations - Abuja, Nigeria; Accra, Ghana; Kigali, Rwanda; Nairobi, Kenya
+- Autonomy Software Engineer, Validation Tools - Engineering - South San Francisco, California, USA
 </details>
 
 <details>
