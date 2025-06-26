@@ -631,6 +631,8 @@ Here's an example:
 - Tactical Development Team Lead
 - Billing Analyst
 - ETF Operations Analyst
+- Senior Executive Assistant
+- Devops Engineer | Experienced Hire| EOT
 </details>
 
 <details>
@@ -696,6 +698,8 @@ Here's an example:
 
 - Werksstudierende - Sales (f, m, x) - Munich
 - Working Student Sales - Munich
+- P1 (GW) Associate Information Systems Software Application Engineer
+- (GW) Associate Business Systems Analyst
 </details>
 
 <details>
