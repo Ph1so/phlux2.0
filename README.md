@@ -310,6 +310,13 @@ Here's an example:
 </details>
 
 <details>
+<summary><a href="https://www.hudsonrivertrading.com/careers/?job-type=internship%2C"><strong>Hudson River Trading</strong></a></summary>
+
+- Algorithm Development (Quant Research) Internship – Summer 2026
+- Software Engineering Internship – Summer 2026
+</details>
+
+<details>
 <summary><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><strong>IBM</strong></a></summary>
 
 - Sales - TEST 2A - pre req, net new intern, with coding & video assessments - Internship - Multiple Cities
@@ -374,6 +381,7 @@ Here's an example:
 - Research Scientist Intern, Machine Learning, Health Tech (PhD)
 - Research Scientist Intern, Monetization Generative AI (LLM) - Language (PhD)
 - Research Scientist Intern, Sensors and Systems Computational Photography (PhD)
+- Research Scientist Intern, AI Core Machine Learning (PhD)
 </details>
 
 <details>
