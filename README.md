@@ -628,6 +628,9 @@ Here's an example:
 - Senior FPGA Engineer
 - Production Engineer - Sports| Experienced Hire
 - ETF Sales Internship: Summer 2026
+- Tactical Development Team Lead
+- Billing Analyst
+- ETF Operations Analyst
 </details>
 
 <details>
