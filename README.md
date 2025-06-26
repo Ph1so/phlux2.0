@@ -446,6 +446,7 @@ Here's an example:
 - OptoElectronic Integration Coop
 - Software Development Coop
 - Video Coding Coop
+- Firmware Development Co-op
 </details>
 
 <details>
