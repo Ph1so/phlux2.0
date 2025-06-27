@@ -235,6 +235,8 @@ Here's an example:
 <summary><a href="https://www.citadel.com/careers/open-opportunities?experience-filter=internships&location-filter=americas,chicago,greenwich,houston,miami,new-york&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter"><strong>Citadel</strong></a></summary>
 
 - Quantitative Researcher – PhD Intern (US)
+- Quantitative Research Analyst Intern – BS/MS (US)
+- Quantitative Research Engineer – PhD Intern (US)
 </details>
 
 <details>
