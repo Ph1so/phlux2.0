@@ -333,11 +333,16 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://www.google.com/about/careers/applications/jobs/results/?src=Online%2FGoogle%20Website%2FByF&utm_source=Online%20&utm_medium=careers_site%20&utm_campaign=ByF&distance=50&employment_type=INTERN&location=United%20States&company=X&company=Waymo&company=Wing&company=Verily%20Life%20Sciences&company=GFiber&company=Fitbit&company=Google&company=YouTube&sort_by=relevance"><strong>Google</strong></a></summary>
+<summary><a href="https://www.google.com/about/careers/applications/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&src=Online%2FGoogle%20Website%2FByF&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&location=United%20States"><strong>Google</strong></a></summary>
 
 - Student Researcher, PhD, Winter/Summer 2025
 - Student Researcher, BS/MS, Winter/Summer 2025
 - Student Researcher, BS/MS, Fall 2025
+- Software Engineer, PhD, Early Career, Campus, Machine Learning, Systems and Cloud AI, 2025 start
+- Student Researcher, PhD, Fall 2025
+- Software Engineer, Systems Research, PhD, Early Career
+- Software Engineer, PhD, Early Career, Campus, Embedded Systems and Firmware, 2025 start
+- Software Engineer, PhD, Early Career, Campus, Systems and Infrastructure, 2025 Start
 </details>
 
 <details>
