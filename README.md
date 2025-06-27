@@ -337,6 +337,7 @@ Here's an example:
 
 - Student Researcher, PhD, Winter/Summer 2025
 - Student Researcher, BS/MS, Winter/Summer 2025
+- Student Researcher, BS/MS, Fall 2025
 </details>
 
 <details>
@@ -513,6 +514,8 @@ Here's an example:
 - Subscribe to receive our latest insights on trading, technology and market structure
 - FutureFocus Sydney – Trading & Research 2025
 - FutureFocus Sydney – Technology 2025
+- Quantitative Trading Internship (Singapore) – 2026
+- Quantitative Trading Internship (Taiwan) – 2026
 </details>
 
 <details>
