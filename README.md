@@ -557,6 +557,7 @@ Here's an example:
 - Skillbridge Industrial Channel Sales Development Program
 - Skillbridge Industrial Channel Sales Development Program
 - Engineering Lab Intern
+- Field Service Representative - SkillBridge Internship
 </details>
 
 <details>
