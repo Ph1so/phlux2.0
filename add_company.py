@@ -6,6 +6,9 @@ import time
 from phlux.scraping import get_jobs_headless
 from phlux.utils import get_driver
 from phlux.config import load_config
+import logging
+logging.getLogger().setLevel(logging.ERROR)
+
 CONFIG = load_config()
 driver = get_driver(headless=False)
 
