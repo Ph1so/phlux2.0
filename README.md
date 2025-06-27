@@ -12,7 +12,7 @@
 
 Here's an example: 
 ![Using add_company.py](public/cli.png)
-## Current job listings found by phlux (81 companies)
+## Current job listings found by phlux (82 companies)
 
 <details>
 <summary><a href="https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States"><strong>AMD</strong></a></summary>
@@ -580,6 +580,7 @@ Here's an example:
 - Early in Career Windows Software Engineer (C++, C#)
 - Project Planner
 - EDGE Associate, Information Technology Rotational Program
+- Co-op, Revenue Operations (Fall 2025)
 </details>
 
 <details>
@@ -620,6 +621,7 @@ Here's an example:
 - Strategic Student Program: Software Development Intern/Co-Op (Fall 2025, EBS) - Marlborough, MA - Work Type:Hybrid - Job Family:Internal Services - Req ID:468844 - Single job with flexible work locations
 - Strategic Student Program: Software Development Intern/Co-Op (Fall 2025, EBS) - Huntsville, AL - Work Type:Hybrid - Job Family:Internal Services - Req ID:468844 - Single job with flexible work locations
 - Strategic Student Program: Localization Project Management Co-Op (Fall 2025, T&I) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:468883
+- Strategic Student Program: Strategic Marketing & AI Applications Intern (Fall 2025, GSCS) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:469367
 </details>
 
 <details>
@@ -795,6 +797,7 @@ Here's an example:
 - Aviation Sustainment Engineer - Flight Operations - Kigali, Rwanda
 - Aviation Sustainment Engineer - Flight Operations - Abuja, Nigeria; Accra, Ghana; Kigali, Rwanda; Nairobi, Kenya
 - Autonomy Software Engineer, Validation Tools - Engineering - South San Francisco, California, USA
+- Field Systems Engineer - Flight Software - Engineering - South San Francisco, California, USA
 </details>
 
 <details>
