@@ -698,6 +698,8 @@ Here's an example:
 - Senior Executive Assistant
 - Devops Engineer | Experienced Hire| EOT
 - Learning + Development Coordinator
+- Machine Learning Researcher - PhD: 2026
+- Quantitative Researcher – PhD: 2026
 </details>
 
 <details>
