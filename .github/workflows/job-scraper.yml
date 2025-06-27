@@ -54,6 +54,7 @@ jobs:
           else
             git commit -m "Update storage.json and readme [bot]"
             git push
+          fi
 
   retry:
     needs: run
