@@ -48,14 +48,12 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git stash
-          git pull --rebase origin main
-          git stash pop
           git add storage.json README.md
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Update storage.json and readme [bot]"
+            git commit -m "Update storage.json and readme [bot]"          
+            git pull --rebase origin main
             git push
           fi
 
@@ -103,13 +101,12 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git stash
-          git pull --rebase origin main
-          git stash pop
           git add storage.json README.md
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Update storage.json and readme [bot]"
+            git commit -m "Update storage.json and readme [bot]"          
+            git pull --rebase origin main
             git push
           fi
+
