@@ -12,7 +12,7 @@
 
 Here's an example: 
 ![Using add_company.py](public/cli.png)
-## Current job listings found by phlux (80 companies)
+## Current job listings found by phlux (81 companies)
 
 <details>
 <summary><a href="https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States"><strong>AMD</strong></a></summary>
@@ -300,6 +300,36 @@ Here's an example:
 - Gameplay Software Engineer Intern - Fall 2025
 - Software Engineer Intern
 - Systems Software Engineer Intern - Fall 2025
+</details>
+
+<details>
+<summary><a href="https://www.github.careers/careers-home/jobs?view=search&limit=100&page=1"><strong>Github</strong></a></summary>
+
+- Senior Software Engineer, Supply Chain Security
+- Solutions Engineer III
+- SMB Account Executive - EMEA
+- Senior Enterprise Account Executive III
+- Senior Solutions Engineer
+- Senior Enterprise Account Executive II - New Business
+- Software Engineer III, Runtime Platform
+- SMB Senior Account Executive
+- Software Engineer III, Codespaces & Copilot Workspace
+- Senior Enterprise Account Executive III
+- Strategic Account Manager
+- Senior Enterprise Account Executive III
+- Senior Enterprise Account Executive II
+- SMB Senior Account Executive
+- Solutions Engineer III, Corporate
+- Senior Mid Market Account Executive I
+- Senior Enterprise Sales Executive III
+- Strategic Account Manager
+- Senior Enterprise Account Executive III
+- Senior Mid Market Account Executive I
+- SMB Senior Account Executive
+- Staff Software Engineer - Client Apps
+- Senior Enterprise Account Executive III
+- Senior Enterprise Account Executive II
+- Senior Enterprise Account Executive II
 </details>
 
 <details>
