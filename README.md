@@ -584,6 +584,12 @@ Here's an example:
 </details>
 
 <details>
+<summary><a href="https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&jobtype=Intern&pagesize=20#results"><strong>Salesforce</strong></a></summary>
+
+- Summer 2026 Intern - Associate Product Manager (APM)
+</details>
+
+<details>
 <summary><a href="https://careers.se.com/global/jobs?keywords=internship&sortBy=relevance&page=1&country=United%20States&tags1=Intern"><strong>Scheider Electric</strong></a></summary>
 
 - Quality Engineer Internship: Fall 2025
