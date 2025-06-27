@@ -135,6 +135,7 @@ Here's an example:
 
 - Stagiaire Artiste Technique, Technical Artist Intern
 - Intern (PhD), Physics-informed Machine Learning, Fall 2025
+- Intern, Software Developer/ Stagiaire en développement logiciels
 </details>
 
 <details>
