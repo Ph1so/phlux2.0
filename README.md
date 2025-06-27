@@ -337,6 +337,7 @@ Here's an example:
 
 - Student Researcher, PhD, Winter/Summer 2025
 - Student Researcher, BS/MS, Winter/Summer 2025
+- Student Researcher, BS/MS, Fall 2025
 </details>
 
 <details>
