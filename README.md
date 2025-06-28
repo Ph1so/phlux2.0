@@ -307,6 +307,12 @@ Here's an example:
 </details>
 
 <details>
+<summary><a href="https://careers.expediagroup.com/jobs/?keyword=emerging+talent+and+careers&&filter[category]=Technology"><strong>Expedia</strong></a></summary>
+
+- EGGP - Software Development Engineer I
+</details>
+
+<details>
 <summary><a href="https://www.github.careers/careers-home/jobs?view=search&limit=100&page=1"><strong>Github</strong></a></summary>
 
 - Senior Software Engineer, Supply Chain Security
