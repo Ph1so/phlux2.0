@@ -201,6 +201,7 @@ Here's an example:
 - Software Development Engineer Intern in Test (Global E-commerce-Quality Assurance) - 2025 Fall (BS/MS)
 - Machine Learning Engineer Intern (Global E-commerce Risk Control) - 2025 Summer/Fall (MS)
 - Camera Engineer Intern (PICO-Camera Technology) - 2025 Fall (MS)
+- Backend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Seller Business)- 2025 Fall(BS/MS)
 </details>
 
 <details>
@@ -807,6 +808,7 @@ Here's an example:
 - Aviation Sustainment Engineer - Flight Operations - Abuja, Nigeria; Accra, Ghana; Kigali, Rwanda; Nairobi, Kenya
 - Autonomy Software Engineer, Validation Tools - Engineering - South San Francisco, California, USA
 - Field Systems Engineer - Flight Software - Engineering - South San Francisco, California, USA
+- Country Procurement Lead - Country Operations - Kigali, Rwanda
 </details>
 
 <details>
