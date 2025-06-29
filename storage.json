@@ -627,6 +627,44 @@
       "Systems Software Development Engineer",
       "Simulation Technical Lead"
     ],
-    "Epic Games": []
+    "Epic Games": [],
+    "Twitch": [],
+    "Visa": [
+      "Associate Developer - Software Development/Engineering",
+      "Graduate Software Engineer - Software Development/Engineering",
+      "Consulting & Analytics Graduate - Client Consulting",
+      "Associate \u2013 Client Relationship Management - Sales & Business Development",
+      "Visa Leadership Associate Graduate Programme - Human Resources",
+      "Graduate Software Engineer - Technology and Operations"
+    ],
+    "Replit": [
+      "Brand Design Lead - Design \u2022 Foster City, CA - In office M,W,F \u2022 Full time",
+      "Product Designer - Design \u2022 Foster City, CA - In office M,W,F \u2022 Full time",
+      "Staff Product Designer - Design \u2022 Foster City, CA - In office M,W,F \u2022 Full time",
+      "Design Engineer - Engineering \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time",
+      "Lead Security Engineer - Engineering \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time",
+      "Senior Software Engineer, Money - Engineering \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time",
+      "Site Reliability Engineer - Engineering \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time",
+      "Software Engineer, Distributed Systems - Engineering \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time",
+      "Software Engineer, Frontend Infrastructure - Engineering \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time \u2022 Hybrid",
+      "Software Engineer, Full Stack - Engineering \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time",
+      "Software Engineer, Mobile - Engineering \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time",
+      "Staff Software Engineer, Product - Engineering \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time",
+      "Director of Support - Support \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time",
+      "Senior Manager of Customer Support - Support \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time"
+    ],
+    "Hugging Face": [
+      "MongoDB Technical Architect - US Remote",
+      "Developer Advocate Engineer, Hub/Enterprise - US Remote",
+      "Senior Frontend Engineer - US Remote",
+      "Machine Learning Engineer, WebML - US Remote",
+      "Open-Source Machine Learning Engineer - International Remote",
+      "Wild Card",
+      "Cloud Machine Learning Engineer - US remote",
+      "Machine Learning Engineer, Fast Optimized Inference - US Remote",
+      "Machine Learning Optimization Evangelist - US remote",
+      "Machine Learning Engineer in the Optimization team - US Remote"
+    ],
+    "Vercel": []
   }
 }
