@@ -644,6 +644,21 @@ Here's an example:
 <summary><a href="https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&jobtype=Intern&pagesize=20#results"><strong>Salesforce</strong></a></summary>
 
 - Summer 2026 Intern - Associate Product Manager (APM)
+- Strategic Partnerships Intern
+- Strategic Events Marketing Apprentice
+- LATAM Internship Program | Sales Intern [Brazil]
+- Sales Strategy Intern
+- Tech Sales Internship -Copenhagen
+- Sales Strategy Internship (Milan)
+- LATAM Internship Program | Sales Intern [Mexico]
+- Tech Sales Internship -Oslo
+- LATAM Internship Program | Sales Intern [Argentina]
+- Solution Engineering Internship (Copenhagen)
+- Business Value - Consulting Intern
+- Summer Intern -Sales Strategy (London)
+- Business Development Intern
+- Student Worker- Sales
+- 2025 PhD Intern - AI Research, Singapore
 </details>
 
 <details>
