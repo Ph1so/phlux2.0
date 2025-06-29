@@ -12,7 +12,7 @@
 
 Here's an example: 
 ![Using add_company.py](public/cli.png)
-## Current job listings found by phlux (82 companies)
+## Current job listings found by phlux (84 companies)
 
 <details>
 <summary><a href="https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States"><strong>AMD</strong></a></summary>
@@ -179,6 +179,21 @@ Here's an example:
 - Spring 2026 Electrical Systems Engineering Internship - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52404
 - Spring 2026 Test Engineering Intern - Undergraduate - 4 Locations - Intern - Full Time - Intern - R52410
 - Spring 2026 Fluid Systems Engineering Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52406
+</details>
+
+<details>
+<summary><a href="https://bostondynamics.com/careers/#jobs"><strong>Boston Dynamics</strong></a></summary>
+
+- Senior Supervisor, Field Applications Engineering
+- Electrical Engineer
+- Sales Logistics Coordinator
+- Software Quality Assurance Engineer - Web Automation
+- Software Quality Assurance Engineer - Embedded Focus
+- Staff DevOps Engineer, Central Software
+- Senior Staff Material Buyer/Planner
+- Sales Engineer
+- Systems Software Development Engineer
+- Simulation Technical Lead
 </details>
 
 <details>
