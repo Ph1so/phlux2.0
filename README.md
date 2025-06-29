@@ -135,6 +135,7 @@ Here's an example:
 
 - Stagiaire Artiste Technique, Technical Artist Intern
 - Intern (PhD), Physics-informed Machine Learning, Fall 2025
+- Intern, Software Developer/ Stagiaire en développement logiciels
 </details>
 
 <details>
@@ -200,6 +201,7 @@ Here's an example:
 - Software Development Engineer Intern in Test (Global E-commerce-Quality Assurance) - 2025 Fall (BS/MS)
 - Machine Learning Engineer Intern (Global E-commerce Risk Control) - 2025 Summer/Fall (MS)
 - Camera Engineer Intern (PICO-Camera Technology) - 2025 Fall (MS)
+- Backend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Seller Business)- 2025 Fall(BS/MS)
 </details>
 
 <details>
@@ -302,6 +304,12 @@ Here's an example:
 - Gameplay Software Engineer Intern - Fall 2025
 - Software Engineer Intern
 - Systems Software Engineer Intern - Fall 2025
+</details>
+
+<details>
+<summary><a href="https://careers.expediagroup.com/jobs/?keyword=emerging+talent+and+careers&&filter[category]=Technology"><strong>Expedia</strong></a></summary>
+
+- EGGP - Software Development Engineer I
 </details>
 
 <details>
@@ -698,6 +706,8 @@ Here's an example:
 - Senior Executive Assistant
 - Devops Engineer | Experienced Hire| EOT
 - Learning + Development Coordinator
+- Machine Learning Researcher - PhD: 2026
+- Quantitative Researcher – PhD: 2026
 </details>
 
 <details>
@@ -804,6 +814,7 @@ Here's an example:
 - Aviation Sustainment Engineer - Flight Operations - Abuja, Nigeria; Accra, Ghana; Kigali, Rwanda; Nairobi, Kenya
 - Autonomy Software Engineer, Validation Tools - Engineering - South San Francisco, California, USA
 - Field Systems Engineer - Flight Software - Engineering - South San Francisco, California, USA
+- Country Procurement Lead - Country Operations - Kigali, Rwanda
 </details>
 
 <details>
