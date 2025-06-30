@@ -303,6 +303,7 @@ Here's an example:
 - Sales Development Representative (Arabic speaker)
 - Sales Development Representative (Middle East)
 - Sales Development Representative (CEE)
+- Sales Development Representative (UKI)
 </details>
 
 <details>
@@ -663,6 +664,26 @@ Here's an example:
 - Business Development Intern
 - Student Worker- Sales
 - 2025 PhD Intern - AI Research, Singapore
+- Industry Go To Market - Manufacturing
+- Tableau Alliances - Partner Account Senior Manager
+- Commercial Account Executive - MuleSoft - Denmark
+- Senior Accountant
+- Enterprise Account Executive - MuleSoft - Denmark
+- Renewals Manager - Spanish speaking
+- Lead Solution Engineer, Manufacturing
+- Prime Named Account Executive - Mulesoft - Sweden
+- Alliances - Partner Sales Sr. Manager/Director
+- Cloud Account Executive - Tableau Middle East - Arabic speaking
+- Senior Full Stack Engineer - Backend Focus
+- Customer Success Manager
+- Pre-Sales Technical Architect - SMB EMEA
+- Prime Named Account Executive - Tableau
+- Principal, Technical Architect Data and AI
+- Software Engineering SMTS
+- Manager, Human Centered Change
+- Platform & Security Account Executive - Polish and English speaking
+- Onboarding Specialist - INTERNAL ONLY
+- Senior Manager Software Engineering
 </details>
 
 <details>
