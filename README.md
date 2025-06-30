@@ -424,6 +424,7 @@ Here's an example:
 - Mobile Software Developer Co-op (4 months)
 - Social Media & Public Relations Co-op (8 months)
 - Staff University Recruiter
+- Software Engineer 2
 </details>
 
 <details>
