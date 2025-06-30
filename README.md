@@ -12,7 +12,7 @@
 
 Here's an example: 
 ![Using add_company.py](public/cli.png)
-## Current job listings found by phlux (89 companies)
+## Current job listings found by phlux (90 companies)
 
 <details>
 <summary><a href="https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States"><strong>AMD</strong></a></summary>
@@ -96,6 +96,7 @@ Here's an example:
 - Amazon Robotics - Business Intelligence Engineer Co-op - Spring & Fall 2025
 - Amazon Robotics - Applied Scientist II Intern / Co-op - 2025 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)
 - Amazon Robotics - Data Scientist Co-op - 2025
+- Amazon Robotics - Applied Scientist I Intern / Co-op - 2025
 </details>
 
 <details>
@@ -194,6 +195,7 @@ Here's an example:
 - Sales Engineer
 - Systems Software Development Engineer
 - Simulation Technical Lead
+- Mechanical Engineer
 </details>
 
 <details>
@@ -254,6 +256,8 @@ Here's an example:
 - Quantitative Researcher – PhD Intern (US)
 - Quantitative Research Analyst Intern – BS/MS (US)
 - Quantitative Research Engineer – PhD Intern (US)
+- Launch Intern – (US)
+- Software Engineer – Intern (US)
 </details>
 
 <details>
@@ -302,6 +306,8 @@ Here's an example:
 - Sales Development Representative
 - Sales Development Representative (Arabic speaker)
 - Sales Development Representative (Middle East)
+- Sales Development Representative (CEE)
+- Sales Development Representative (UKI)
 </details>
 
 <details>
@@ -403,6 +409,7 @@ Here's an example:
 
 - Facilities Technician Intern
 - Facilities Technician Intern
+- Photonics Research Graduate Intern
 </details>
 
 <details>
@@ -420,6 +427,8 @@ Here's an example:
 - Brand Marketing Co-Op (8 month)
 - Mobile Software Developer Co-op (4 months)
 - Social Media & Public Relations Co-op (8 months)
+- Staff University Recruiter
+- Software Engineer 2
 </details>
 
 <details>
@@ -465,6 +474,7 @@ Here's an example:
 
 - Research Intern - Quantum Computing
 - Mechanical Engineer: Internship Opportunities - PhD - Redmond
+- Data Center Technicians INTERN
 </details>
 
 <details>
@@ -486,6 +496,8 @@ Here's an example:
 - 2025/2026 Investment Banking Summer Analyst Program (Sydney)
 - 2025/2026 Wealth Management Summer Analyst Program (Sydney)
 - 2025 Investment Management Off-cycle Internship - Emerging Markets (London)
+- 2025 Institutional Equities - Transactional Management Group Off Cycle Internship
+- 2026 Operations Summer Analyst Program (New York)
 </details>
 
 <details>
@@ -548,6 +560,8 @@ Here's an example:
 - System Software Engineering Intern, CUDA Driver - Fall 2025
 - GeForce Technical Marketing Intern - Fall 2025
 - Software Engineering Intern, CSP Engagements - Fall 2025
+- Security Engineering Intern, Omniverse - Fall 2025
+- Applied AI Research Engineering Intern - Fall 2025
 </details>
 
 <details>
@@ -659,6 +673,26 @@ Here's an example:
 - Business Development Intern
 - Student Worker- Sales
 - 2025 PhD Intern - AI Research, Singapore
+- Industry Go To Market - Manufacturing
+- Tableau Alliances - Partner Account Senior Manager
+- Commercial Account Executive - MuleSoft - Denmark
+- Senior Accountant
+- Enterprise Account Executive - MuleSoft - Denmark
+- Renewals Manager - Spanish speaking
+- Lead Solution Engineer, Manufacturing
+- Prime Named Account Executive - Mulesoft - Sweden
+- Alliances - Partner Sales Sr. Manager/Director
+- Cloud Account Executive - Tableau Middle East - Arabic speaking
+- Senior Full Stack Engineer - Backend Focus
+- Customer Success Manager
+- Pre-Sales Technical Architect - SMB EMEA
+- Prime Named Account Executive - Tableau
+- Principal, Technical Architect Data and AI
+- Software Engineering SMTS
+- Manager, Human Centered Change
+- Platform & Security Account Executive - Polish and English speaking
+- Onboarding Specialist - INTERNAL ONLY
+- Senior Manager Software Engineering
 </details>
 
 <details>
@@ -819,6 +853,27 @@ Here's an example:
 </details>
 
 <details>
+<summary><a href="https://mycareer.verizon.com/jobs/?search=&team=Campus+%26+Apprenticeships&pagesize=100#results"><strong>Verizon</strong></a></summary>
+
+- Thrive Accelerate Up- Supervisor- Call Center Tech Customer Service
+- Thrive Accelerate Up- Field Operations Manager
+- Thrive Accelerate Up- Field Operations Manager
+- Thrive Accelerate Up- Field Operations Manager
+- Thrive Accelerate Up- Field Operations Manager
+- Thrive Accelerate Up- Field Operations Manager
+- Thrive Accelerate Up- Field Operations Manager
+- Thrive Accelerate Up- Field Operations Manager
+- Thrive Accelerate Up- Field Operations Manager
+- Thrive Accelerate Up- Field Operations Manager
+- Military Fellowship - IT Service Manager
+- Military Fellowship - Network Assurance Engineer
+- Military Fellowship - Total Employee Experience Lead Engineer
+- Military Fellowship - Offensive Security Engineer
+- Military Fellowship - Network Security Engineer
+- Military Fellowship - Submarine Cable NOC Engineer
+</details>
+
+<details>
 <summary><a href="https://www.verkada.com/careers/"><strong>Verkada</strong></a></summary>
 
 - Software Engineering Intern, Backend - Fall 2025 - San Mateo, CA United States
@@ -835,6 +890,7 @@ Here's an example:
 - Associate – Client Relationship Management - Sales & Business Development
 - Visa Leadership Associate Graduate Programme - Human Resources
 - Graduate Software Engineer - Technology and Operations
+- Associate, Visa Direct Sales Executive - Sales & Business Development
 </details>
 
 <details>
@@ -890,6 +946,8 @@ Here's an example:
 - Autonomy Software Engineer, Validation Tools - Engineering - South San Francisco, California, USA
 - Field Systems Engineer - Flight Software - Engineering - South San Francisco, California, USA
 - Country Procurement Lead - Country Operations - Kigali, Rwanda
+- Deployment Engineer - SCADA and Applications Engineering - Engineering - South San Francisco, California, USA
+- Business Operations Intern (Fall 2025) - 2025 Internships - Dallas, Texas, USA
 </details>
 
 <details>
