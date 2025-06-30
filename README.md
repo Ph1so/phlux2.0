@@ -12,7 +12,7 @@
 
 Here's an example: 
 ![Using add_company.py](public/cli.png)
-## Current job listings found by phlux (89 companies)
+## Current job listings found by phlux (90 companies)
 
 <details>
 <summary><a href="https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States"><strong>AMD</strong></a></summary>
@@ -818,6 +818,27 @@ Here's an example:
 
 - Junior Test Engineer
 - Sales Onboarding Intern
+</details>
+
+<details>
+<summary><a href="https://mycareer.verizon.com/jobs/?search=&team=Campus+%26+Apprenticeships&pagesize=100#results"><strong>Verizon</strong></a></summary>
+
+- Thrive Accelerate Up- Supervisor- Call Center Tech Customer Service
+- Thrive Accelerate Up- Field Operations Manager
+- Thrive Accelerate Up- Field Operations Manager
+- Thrive Accelerate Up- Field Operations Manager
+- Thrive Accelerate Up- Field Operations Manager
+- Thrive Accelerate Up- Field Operations Manager
+- Thrive Accelerate Up- Field Operations Manager
+- Thrive Accelerate Up- Field Operations Manager
+- Thrive Accelerate Up- Field Operations Manager
+- Thrive Accelerate Up- Field Operations Manager
+- Military Fellowship - IT Service Manager
+- Military Fellowship - Network Assurance Engineer
+- Military Fellowship - Total Employee Experience Lead Engineer
+- Military Fellowship - Offensive Security Engineer
+- Military Fellowship - Network Security Engineer
+- Military Fellowship - Submarine Cable NOC Engineer
 </details>
 
 <details>
