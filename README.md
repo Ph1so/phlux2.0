@@ -12,7 +12,7 @@
 
 Here's an example: 
 ![Using add_company.py](public/cli.png)
-## Current job listings found by phlux (84 companies)
+## Current job listings found by phlux (89 companies)
 
 <details>
 <summary><a href="https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States"><strong>AMD</strong></a></summary>
@@ -378,6 +378,21 @@ Here's an example:
 </details>
 
 <details>
+<summary><a href="https://apply.workable.com/huggingface/?not_found=true#jobs"><strong>Hugging Face</strong></a></summary>
+
+- MongoDB Technical Architect - US Remote
+- Developer Advocate Engineer, Hub/Enterprise - US Remote
+- Senior Frontend Engineer - US Remote
+- Machine Learning Engineer, WebML - US Remote
+- Open-Source Machine Learning Engineer - International Remote
+- Wild Card
+- Cloud Machine Learning Engineer - US remote
+- Machine Learning Engineer, Fast Optimized Inference - US Remote
+- Machine Learning Optimization Evangelist - US remote
+- Machine Learning Engineer in the Optimization team - US Remote
+</details>
+
+<details>
 <summary><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><strong>IBM</strong></a></summary>
 
 - Sales - TEST 2A - pre req, net new intern, with coding & video assessments - Internship - Multiple Cities
@@ -579,6 +594,25 @@ Here's an example:
 </details>
 
 <details>
+<summary><a href="https://jobs.ashbyhq.com/replit"><strong>Replit</strong></a></summary>
+
+- Brand Design Lead - Design • Foster City, CA - In office M,W,F • Full time
+- Product Designer - Design • Foster City, CA - In office M,W,F • Full time
+- Staff Product Designer - Design • Foster City, CA - In office M,W,F • Full time
+- Design Engineer - Engineering • Foster City, CA (Hybrid) In office M,W,F • Full time
+- Lead Security Engineer - Engineering • Foster City, CA (Hybrid) In office M,W,F • Full time
+- Senior Software Engineer, Money - Engineering • Foster City, CA (Hybrid) In office M,W,F • Full time
+- Site Reliability Engineer - Engineering • Foster City, CA (Hybrid) In office M,W,F • Full time
+- Software Engineer, Distributed Systems - Engineering • Foster City, CA (Hybrid) In office M,W,F • Full time
+- Software Engineer, Frontend Infrastructure - Engineering • Foster City, CA (Hybrid) In office M,W,F • Full time • Hybrid
+- Software Engineer, Full Stack - Engineering • Foster City, CA (Hybrid) In office M,W,F • Full time
+- Software Engineer, Mobile - Engineering • Foster City, CA (Hybrid) In office M,W,F • Full time
+- Staff Software Engineer, Product - Engineering • Foster City, CA (Hybrid) In office M,W,F • Full time
+- Director of Support - Support • Foster City, CA (Hybrid) In office M,W,F • Full time
+- Senior Manager of Customer Support - Support • Foster City, CA (Hybrid) In office M,W,F • Full time
+</details>
+
+<details>
 <summary><a href="https://careers.rivian.com/careers-home/jobs?sortBy=relevance&page=1&categories=Internships"><strong>Rivian</strong></a></summary>
 
 - UIUC Research Park Intern - Machine Learning
@@ -610,6 +644,21 @@ Here's an example:
 <summary><a href="https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&jobtype=Intern&pagesize=20#results"><strong>Salesforce</strong></a></summary>
 
 - Summer 2026 Intern - Associate Product Manager (APM)
+- Strategic Partnerships Intern
+- Strategic Events Marketing Apprentice
+- LATAM Internship Program | Sales Intern [Brazil]
+- Sales Strategy Intern
+- Tech Sales Internship -Copenhagen
+- Sales Strategy Internship (Milan)
+- LATAM Internship Program | Sales Intern [Mexico]
+- Tech Sales Internship -Oslo
+- LATAM Internship Program | Sales Intern [Argentina]
+- Solution Engineering Internship (Copenhagen)
+- Business Value - Consulting Intern
+- Summer Intern -Sales Strategy (London)
+- Business Development Intern
+- Student Worker- Sales
+- 2025 PhD Intern - AI Research, Singapore
 </details>
 
 <details>
@@ -775,6 +824,17 @@ Here's an example:
 - Software Engineering Intern, Backend - Fall 2025 - San Mateo, CA United States
 - Software Engineering Intern, Mobile - Fall 2025 - San Mateo, CA United States
 - Technical Support Engineering Intern - Fall 2025 - San Mateo, CA United States
+</details>
+
+<details>
+<summary><a href="https://careers.smartrecruiters.com/Visa/university-recruiting"><strong>Visa</strong></a></summary>
+
+- Associate Developer - Software Development/Engineering
+- Graduate Software Engineer - Software Development/Engineering
+- Consulting & Analytics Graduate - Client Consulting
+- Associate – Client Relationship Management - Sales & Business Development
+- Visa Leadership Associate Graduate Programme - Human Resources
+- Graduate Software Engineer - Technology and Operations
 </details>
 
 <details>
