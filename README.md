@@ -420,6 +420,7 @@ Here's an example:
 - Brand Marketing Co-Op (8 month)
 - Mobile Software Developer Co-op (4 months)
 - Social Media & Public Relations Co-op (8 months)
+- Staff University Recruiter
 </details>
 
 <details>
