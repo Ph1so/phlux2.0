@@ -860,6 +860,7 @@ Here's an example:
 - Associate – Client Relationship Management - Sales & Business Development
 - Visa Leadership Associate Graduate Programme - Human Resources
 - Graduate Software Engineer - Technology and Operations
+- Associate, Visa Direct Sales Executive - Sales & Business Development
 </details>
 
 <details>
