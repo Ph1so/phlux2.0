@@ -560,6 +560,7 @@ Here's an example:
 - GeForce Technical Marketing Intern - Fall 2025
 - Software Engineering Intern, CSP Engagements - Fall 2025
 - Security Engineering Intern, Omniverse - Fall 2025
+- Applied AI Research Engineering Intern - Fall 2025
 </details>
 
 <details>
