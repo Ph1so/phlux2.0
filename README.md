@@ -470,6 +470,7 @@ Here's an example:
 
 - Research Intern - Quantum Computing
 - Mechanical Engineer: Internship Opportunities - PhD - Redmond
+- Data Center Technicians INTERN
 </details>
 
 <details>
