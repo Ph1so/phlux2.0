@@ -941,6 +941,7 @@ Here's an example:
 - Field Systems Engineer - Flight Software - Engineering - South San Francisco, California, USA
 - Country Procurement Lead - Country Operations - Kigali, Rwanda
 - Deployment Engineer - SCADA and Applications Engineering - Engineering - South San Francisco, California, USA
+- Business Operations Intern (Fall 2025) - 2025 Internships - Dallas, Texas, USA
 </details>
 
 <details>
