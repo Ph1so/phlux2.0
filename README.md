@@ -302,6 +302,7 @@ Here's an example:
 - Sales Development Representative
 - Sales Development Representative (Arabic speaker)
 - Sales Development Representative (Middle East)
+- Sales Development Representative (CEE)
 </details>
 
 <details>
