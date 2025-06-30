@@ -940,6 +940,7 @@ Here's an example:
 - Autonomy Software Engineer, Validation Tools - Engineering - South San Francisco, California, USA
 - Field Systems Engineer - Flight Software - Engineering - South San Francisco, California, USA
 - Country Procurement Lead - Country Operations - Kigali, Rwanda
+- Deployment Engineer - SCADA and Applications Engineering - Engineering - South San Francisco, California, USA
 </details>
 
 <details>
