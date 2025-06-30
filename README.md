@@ -194,6 +194,7 @@ Here's an example:
 - Sales Engineer
 - Systems Software Development Engineer
 - Simulation Technical Lead
+- Mechanical Engineer
 </details>
 
 <details>
@@ -556,6 +557,7 @@ Here's an example:
 - System Software Engineering Intern, CUDA Driver - Fall 2025
 - GeForce Technical Marketing Intern - Fall 2025
 - Software Engineering Intern, CSP Engagements - Fall 2025
+- Security Engineering Intern, Omniverse - Fall 2025
 </details>
 
 <details>
