@@ -96,6 +96,7 @@ Here's an example:
 - Amazon Robotics - Business Intelligence Engineer Co-op - Spring & Fall 2025
 - Amazon Robotics - Applied Scientist II Intern / Co-op - 2025 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)
 - Amazon Robotics - Data Scientist Co-op - 2025
+- Amazon Robotics - Applied Scientist I Intern / Co-op - 2025
 </details>
 
 <details>
@@ -255,6 +256,7 @@ Here's an example:
 - Quantitative Researcher – PhD Intern (US)
 - Quantitative Research Analyst Intern – BS/MS (US)
 - Quantitative Research Engineer – PhD Intern (US)
+- Launch Intern – (US)
 </details>
 
 <details>
