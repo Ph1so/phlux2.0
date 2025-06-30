@@ -257,6 +257,7 @@ Here's an example:
 - Quantitative Research Analyst Intern – BS/MS (US)
 - Quantitative Research Engineer – PhD Intern (US)
 - Launch Intern – (US)
+- Software Engineer – Intern (US)
 </details>
 
 <details>
