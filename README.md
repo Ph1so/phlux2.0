@@ -196,6 +196,7 @@ Here's an example:
 - Systems Software Development Engineer
 - Simulation Technical Lead
 - Mechanical Engineer
+- Director of Product Management- Warehouse Robotics
 </details>
 
 <details>
@@ -361,6 +362,7 @@ Here's an example:
 - Senior Enterprise Account Executive III
 - Senior Enterprise Account Executive II
 - Senior Enterprise Account Executive II
+- Staff Software Engineer
 </details>
 
 <details>
@@ -591,6 +593,21 @@ Here's an example:
 <summary><a href="https://jobs.lever.co/palantir?commitment=Internship"><strong>Palantir</strong></a></summary>
 
 - Forward Deployed Software Engineer, Internship
+- Forward Deployed Software Engineer, Internship - US Government
+- Forward Deployed Software Engineer, Internship - US Government
+- Software Engineer, Internship
+- Software Engineer, Internship
+- Software Engineer, Internship
+- Software Engineer, Internship
+- Software Engineer, Internship
+- Software Engineer, Internship - Defense Tech
+- Software Engineer, Internship - Defense Tech
+- Software Engineer, Internship - Defense Tech
+- Software Engineer, Internship - Infrastructure
+- Software Engineer, Internship - Production Infrastructure
+- Software Engineer, Internship - Production Infrastructure
+- Forward Deployed Software Engineer, Internship - Defense Tech
+- Forward Deployed Software Engineer, Internship - Commercial
 </details>
 
 <details>
@@ -711,6 +728,7 @@ Here's an example:
 - Skillbridge Industrial Channel Sales Development Program
 - Engineering Lab Intern
 - Field Service Representative - SkillBridge Internship
+- Smart Factory Intern
 </details>
 
 <details>
@@ -806,6 +824,7 @@ Here's an example:
 - Learning + Development Coordinator
 - Machine Learning Researcher - PhD: 2026
 - Quantitative Researcher – PhD: 2026
+- Quantitative Strategy Developer Internship: Summer 2026
 </details>
 
 <details>
@@ -871,6 +890,11 @@ Here's an example:
 - Military Fellowship - Offensive Security Engineer
 - Military Fellowship - Network Security Engineer
 - Military Fellowship - Submarine Cable NOC Engineer
+- Military Fellowship - Consultant - Systems Analyst
+- Military Fellowhsip - Technical Project Manager
+- Military Fellowship - Consultant - Security Risk Management
+- Military Fellowship - ETMS Software Developer
+- Military Fellowship - Technical Project Manager
 </details>
 
 <details>
