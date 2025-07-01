@@ -606,6 +606,7 @@ Here's an example:
 - Software Engineer, Internship - Infrastructure
 - Software Engineer, Internship - Production Infrastructure
 - Software Engineer, Internship - Production Infrastructure
+- Software Engineer, Internship - Production Infrastructure
 - Forward Deployed Software Engineer, Internship - Defense Tech
 - Forward Deployed Software Engineer, Internship - Commercial
 </details>
@@ -752,6 +753,7 @@ Here's an example:
 - Strategic Student Program: Software Development Intern/Co-Op (Fall 2025, EBS) - Huntsville, AL - Work Type:Hybrid - Job Family:Internal Services - Req ID:468844 - Single job with flexible work locations
 - Strategic Student Program: Localization Project Management Co-Op (Fall 2025, T&I) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:468883
 - Strategic Student Program: Strategic Marketing & AI Applications Intern (Fall 2025, GSCS) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:469367
+- Strategic Student Program: Polarion Solution Engineering Internship (Fall 2025, GSCS) - Maryland Heights, MO - Work Type:Hybrid - Job Family:Internal Services - Req ID:467718
 </details>
 
 <details>
@@ -891,6 +893,9 @@ Here's an example:
 - Military Fellowship - Network Security Engineer
 - Military Fellowship - Submarine Cable NOC Engineer
 - Military Fellowship - Consultant - Systems Analyst
+- Military Fellowship - ETMS Software Developer
+- Military Fellowship - Technical Project Manager
+- Military Fellowship - Consultant - Security Risk Management
 - Military Fellowhsip - Technical Project Manager
 - Military Fellowship - Consultant - Security Risk Management
 - Military Fellowship - ETMS Software Developer
