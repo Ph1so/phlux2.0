@@ -21,48 +21,67 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 from tenacity import retry, wait_fixed, stop_after_attempt
 
+CSS = "CSS"
+CLICK = "CLICK"
+FILTER = "FILTER"
+ACTION_TYPES = [CSS, CLICK, FILTER]
+
 
 @retry(wait=wait_fixed(5), stop=stop_after_attempt(5))
-def get_jobs_headless(name: str, url: str, selector: str, config: Dict[str, Dict[str, str]]) -> List[str]:
-    """Scrape job titles from ``url`` using ``selector``."""
-    clickable = config.get("CLICKABLE", {})
-    needs_filter = config.get("NEEDS_FILTER", {})
-
+def get_jobs_headless(name: str, url: str, instructions: str, config: Dict[str, Dict[str, str]]) -> List[str]:
+    """Scrape job titles from ``url`` using a sequence of instructions."""
     driver = get_driver()
+    actions = Actions(instructions.split("->"))
+    jobs = []
     try:
         driver.get(url)
-        if need_click := clickable.get(name):
-            try:
-                if "selector" in need_click:
-                    element = WebDriverWait(driver, 5).until(
-                        EC.element_to_be_clickable((By.CSS_SELECTOR, need_click["selector"]))
-                    )
-                elif "text" in need_click:
-                    element = WebDriverWait(driver, 5).until(
-                        EC.element_to_be_clickable((By.XPATH, f"//*[contains(normalize-space(), '{need_click['text']}')]")
-                        )
-                    )
-                else:
-                    raise ValueError(f"Invalid click config for {name}")
-                driver.execute_script("arguments[0].click();", element)
+        for action in actions:
+            if ":" not in action:
+                print(f"⚠️ Invalid action format: {action}")
+                continue
+
+            action_type = actions.get_type(action)
+            selector = actions.get_selector(action)
+
+            if action_type not in ACTION_TYPES:
+                print(f"⚠️ Unknown action type '{action_type}' for {name}")
+                continue
+
+            if action_type == CSS:
+                WebDriverWait(driver, 10).until(
+                    EC.presence_of_all_elements_located((By.CSS_SELECTOR, selector))
+                )
+                driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
                 time.sleep(2)
-            except Exception as exc:
-                print(f"❌ Failed clicking for {name}: {exc}")
-        WebDriverWait(driver, 10).until(
-            EC.presence_of_all_elements_located((By.CSS_SELECTOR, selector))
-        )
-        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-        time.sleep(2)
-        elements = driver.find_elements(By.CSS_SELECTOR, selector)
-        jobs = [el.text.strip() for el in elements if el.text.strip()]
-        if job_filter := needs_filter.get(name):
-            jobs = [j for j in jobs if job_filter.lower() in j.lower()]
-        return jobs
+                elements = driver.find_elements(By.CSS_SELECTOR, selector)
+                jobs += [el.text.strip() for el in elements if el.text.strip()]
+
+            elif action_type == CLICK:
+                try:
+                    if selector[0] == "'" and selector[-1] == "'":
+                        xpath_text = selector[1:-1]
+                        element = WebDriverWait(driver, 5).until(
+                            EC.element_to_be_clickable((By.XPATH, f"//*[contains(normalize-space(), '{xpath_text}')]"))
+                        )
+                    else:
+                        element = WebDriverWait(driver, 5).until(
+                            EC.element_to_be_clickable((By.CSS_SELECTOR, selector))
+                        )
+                    driver.execute_script("arguments[0].click();", element)
+                    time.sleep(2)
+                except Exception as exc:
+                    print(f"❌ Failed clicking for {name}: {exc}")
+
+            elif action_type == FILTER:
+                jobs = [j for j in jobs if selector.lower() in j.lower()]
+
     except TimeoutException:
         print(f"❌ {name} - Timeout")
         return []
     finally:
         driver.quit()
+
+    return jobs
 
 
 def load_company_data(csv_path: Path = Path("companies.csv")) -> List[Company]:
@@ -94,13 +113,15 @@ class ScrapeManager:
     def __init__(self, config_path: Path | str = load_config.__defaults__[0]):
         self.config = load_config(config_path)
 
-    def scrape_companies(self, companies: List[Company], storage_path = "storage.json", max_workers = os.cpu_count()) -> Dict:
+    def scrape_companies(self, companies: List[Company], storage_path="storage.json", max_workers=os.cpu_count()) -> Dict:
         data = {"companies": {}}
+        total_companies_with_no_jobs = 0
         if os.path.exists(storage_path):
             with open(storage_path, "r") as f:
                 data = json.load(f)
         else:
-            print(f"`{storage_path}` not foun")
+            print(f"`{storage_path}` not found")
+
         new_jobs: Dict = {"companies": {}}
         with ProcessPoolExecutor(max_workers=max_workers) as executor:
             futures = {
@@ -111,11 +132,32 @@ class ScrapeManager:
             for future in as_completed(futures):
                 company = futures[future]
                 jobs = future.result()
+                if jobs == []:
+                    total_companies_with_no_jobs += 1
                 process_jobs(data, ScrapeResult(company.name, jobs, company.link), new_jobs)
+
         # built-in scrapers
         custom: List[CompanyScraper] = [JPMorganScraper()]
         for scraper in custom:
             name, jobs, link = scraper.get_jobs()
             process_jobs(data, ScrapeResult(name, jobs, link), new_jobs)
+            
+        print(f"Total companies with no jobs: {total_companies_with_no_jobs}")
         return {"data": data, "new_jobs": new_jobs}
 
+class Actions:
+    def __init__(self, actions: List[str]):
+        """
+        Example actions:
+            ["CLICK:div.accordion.EARLYTALENT p", "CSS:div.panel.EARLYTALENT p.job a"]
+        """
+        self.actions = actions
+
+    def __iter__(self):
+        return iter(self.actions)
+
+    def get_type(self, action: str) -> str:
+        return action[:action.index(":")].strip()
+
+    def get_selector(self, action: str) -> str:
+        return action[action.index(":") + 1:].strip()
