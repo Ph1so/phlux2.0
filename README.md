@@ -260,6 +260,7 @@ Here's an example:
 - Quantitative Research Engineer – PhD Intern (US)
 - Launch Intern – (US)
 - Software Engineer – Intern (US)
+- Investment & Trading – Intern (US)
 </details>
 
 <details>
@@ -901,6 +902,26 @@ Here's an example:
 - Military Fellowship - Consultant - Security Risk Management
 - Military Fellowship - ETMS Software Developer
 - Military Fellowship - Technical Project Manager
+- Sr Client Partner-Sales
+- Retail Sales Associate
+- Business Sales Account Manager
+- Account Manager Retail SMB Business Sales
+- Retail Sales Associate - Kiosk
+- Retail Sales Associate Spanish Bilingual
+- Engineer III Consultant-Data Engineering
+- Business Sales Account Manager
+- Retail Sales Associate - Kiosk
+- Retail Sales Associate
+- Retail Sales Associate
+- Retail Sales Associate
+- Retail Sales Associate
+- Retail Sales Associate
+- Retail Sales Associate
+- Engineer II-Data Engineering
+- Retail Sales Associate
+- Retail Sales Associate
+- Retail Sales Associate
+- Retail Sales Associate - Kiosk
 </details>
 
 <details>
