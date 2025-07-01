@@ -566,6 +566,7 @@ Here's an example:
 - Software Engineering Intern, CSP Engagements - Fall 2025
 - Security Engineering Intern, Omniverse - Fall 2025
 - Applied AI Research Engineering Intern - Fall 2025
+- Performance Engineer Intern, Gaming - Winter/Spring 2026
 </details>
 
 <details>
@@ -584,6 +585,8 @@ Here's an example:
 - Quantitative Research Intern, PhD (Summer 2026)
 - Quantitative Research Intern, Bachelor’s or Master’s Degree
 - Quantitative Research Intern, Bachelor’s or Master’s Degree
+- Software Engineer Intern (Summer 2026 – Chicago)
+- Software Engineer Intern (Summer 2026 – Austin)
 </details>
 
 <details>
