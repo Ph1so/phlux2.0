@@ -875,6 +875,8 @@ Here's an example:
 - Military Fellowship - Consultant - Systems Analyst
 - Military Fellowhsip - Technical Project Manager
 - Military Fellowship - Consultant - Security Risk Management
+- Military Fellowship - ETMS Software Developer
+- Military Fellowship - Technical Project Manager
 </details>
 
 <details>
