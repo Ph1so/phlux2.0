@@ -711,6 +711,7 @@ Here's an example:
 - Skillbridge Industrial Channel Sales Development Program
 - Engineering Lab Intern
 - Field Service Representative - SkillBridge Internship
+- Smart Factory Intern
 </details>
 
 <details>
@@ -871,6 +872,9 @@ Here's an example:
 - Military Fellowship - Offensive Security Engineer
 - Military Fellowship - Network Security Engineer
 - Military Fellowship - Submarine Cable NOC Engineer
+- Military Fellowship - Consultant - Systems Analyst
+- Military Fellowhsip - Technical Project Manager
+- Military Fellowship - Consultant - Security Risk Management
 </details>
 
 <details>
