@@ -805,6 +805,9 @@ Here's an example:
 <summary><a href="https://stripe.com/jobs/search?office_locations=North+America--Atlanta&office_locations=North+America--Chicago&office_locations=North+America--Mexico+City&office_locations=North+America--New+York&office_locations=North+America--San+Francisco+Bridge+HQ&office_locations=North+America--Seattle&office_locations=North+America--South+San+Francisco&office_locations=North+America--Toronto&office_locations=North+America--Washington+DC&tags=University"><strong>Stripe</strong></a></summary>
 
 - Operations Associate, New Grad (Mexico)
+- Privacy Fellow
+- Privacy Fellow
+- Privacy Fellow
 </details>
 
 <details>
@@ -834,6 +837,9 @@ Here's an example:
 - Machine Learning Researcher - PhD: 2026
 - Quantitative Researcher – PhD: 2026
 - Quantitative Strategy Developer Internship: Summer 2026
+- Fixed Income/Convertible Bonds Operations Co-op with Drexel University: Fall/Winter B Round
+- Portfolio Manager Assistant
+- Audit Co-op with Drexel University: Fall/Winter B Round
 </details>
 
 <details>
