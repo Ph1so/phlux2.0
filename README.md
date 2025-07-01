@@ -79,6 +79,7 @@ Here's an example:
 - Jr. Software Development Engineer - Santa Cruz, CA
 - Jr. Software Development Engineer - Detroit
 - Jr. Software Development Engineer- San Luis Obispo
+- Jr. Software Development Engineer - Sunnyvale, CA
 </details>
 
 <details>
