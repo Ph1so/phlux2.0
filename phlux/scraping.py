@@ -28,9 +28,17 @@ ACTION_TYPES = [CSS, CLICK, FILTER]
 
 
 @retry(wait=wait_fixed(5), stop=stop_after_attempt(5))
-def get_jobs_headless(name: str, url: str, instructions: str, config: Dict[str, Dict[str, str]]) -> List[str]:
+def get_jobs_headless(name: str, url: str, instructions: str, headless=True) -> List[str]:
     """Scrape job titles from ``url`` using a sequence of instructions."""
-    driver = get_driver()
+    driver = get_driver(headless=headless)
+    # driver.execute_cdp_cmd("Page.addScriptToEvaluateOnNewDocument", {
+    #     "source": """
+    #         Object.defineProperty(navigator, 'webdriver', {
+    #             get: () => undefined
+    #         })
+    #     """
+    # })
+
     actions = Actions(instructions.split("->"))
     jobs = []
     try:
@@ -70,7 +78,7 @@ def get_jobs_headless(name: str, url: str, instructions: str, config: Dict[str, 
                     driver.execute_script("arguments[0].click();", element)
                     time.sleep(2)
                 except Exception as exc:
-                    print(f"❌ Failed clicking for {name}: {exc}")
+                    print(f"❌ Failed clicking for {name} - {exc}")
 
             elif action_type == FILTER:
                 jobs = [j for j in jobs if selector.lower() in j.lower()]
