@@ -607,6 +607,7 @@ Here's an example:
 - Software Engineer, Internship - Production Infrastructure
 - Software Engineer, Internship - Production Infrastructure
 - Forward Deployed Software Engineer, Internship - Defense Tech
+- Forward Deployed Software Engineer, Internship - Commercial
 </details>
 
 <details>
@@ -823,6 +824,7 @@ Here's an example:
 - Learning + Development Coordinator
 - Machine Learning Researcher - PhD: 2026
 - Quantitative Researcher – PhD: 2026
+- Quantitative Strategy Developer Internship: Summer 2026
 </details>
 
 <details>
