@@ -1,6 +1,9 @@
 name: Job Scraper
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: '*/30 10-23,0 * * *'  # Run every 30 minutes
   workflow_dispatch:
