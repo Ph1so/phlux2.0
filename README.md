@@ -196,6 +196,7 @@ Here's an example:
 - Systems Software Development Engineer
 - Simulation Technical Lead
 - Mechanical Engineer
+- Director of Product Management- Warehouse Robotics
 </details>
 
 <details>
@@ -591,6 +592,19 @@ Here's an example:
 <summary><a href="https://jobs.lever.co/palantir?commitment=Internship"><strong>Palantir</strong></a></summary>
 
 - Forward Deployed Software Engineer, Internship
+- Forward Deployed Software Engineer, Internship - US Government
+- Forward Deployed Software Engineer, Internship - US Government
+- Software Engineer, Internship
+- Software Engineer, Internship
+- Software Engineer, Internship
+- Software Engineer, Internship
+- Software Engineer, Internship
+- Software Engineer, Internship - Defense Tech
+- Software Engineer, Internship - Defense Tech
+- Software Engineer, Internship - Defense Tech
+- Software Engineer, Internship - Infrastructure
+- Software Engineer, Internship - Production Infrastructure
+- Software Engineer, Internship - Production Infrastructure
 </details>
 
 <details>
