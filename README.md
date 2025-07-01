@@ -579,6 +579,11 @@ Here's an example:
 - FutureFocus Sydney – Technology 2025
 - Quantitative Trading Internship (Singapore) – 2026
 - Quantitative Trading Internship (Taiwan) – 2026
+- Quantitative Trader Intern (Summer 2026 – Chicago)
+- Quantitative Research Intern, PhD (Summer 2026 – Chicago, Austin)
+- Quantitative Research Intern, PhD (Summer 2026)
+- Quantitative Research Intern, Bachelor’s or Master’s Degree
+- Quantitative Research Intern, Bachelor’s or Master’s Degree
 </details>
 
 <details>
