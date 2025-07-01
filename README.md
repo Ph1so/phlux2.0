@@ -362,6 +362,7 @@ Here's an example:
 - Senior Enterprise Account Executive III
 - Senior Enterprise Account Executive II
 - Senior Enterprise Account Executive II
+- Staff Software Engineer
 </details>
 
 <details>
@@ -605,6 +606,7 @@ Here's an example:
 - Software Engineer, Internship - Infrastructure
 - Software Engineer, Internship - Production Infrastructure
 - Software Engineer, Internship - Production Infrastructure
+- Forward Deployed Software Engineer, Internship - Defense Tech
 </details>
 
 <details>
