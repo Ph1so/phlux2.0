@@ -115,6 +115,7 @@ class ScrapeManager:
 
     def scrape_companies(self, companies: List[Company], storage_path="storage.json", max_workers=os.cpu_count()) -> Dict:
         data = {"companies": {}}
+        total_companies_with_no_jobs = 0
         if os.path.exists(storage_path):
             with open(storage_path, "r") as f:
                 data = json.load(f)
@@ -131,6 +132,8 @@ class ScrapeManager:
             for future in as_completed(futures):
                 company = futures[future]
                 jobs = future.result()
+                if jobs == []:
+                    total_companies_with_no_jobs += 1
                 process_jobs(data, ScrapeResult(company.name, jobs, company.link), new_jobs)
 
         # built-in scrapers
@@ -138,7 +141,8 @@ class ScrapeManager:
         for scraper in custom:
             name, jobs, link = scraper.get_jobs()
             process_jobs(data, ScrapeResult(name, jobs, link), new_jobs)
-
+            
+        print(f"Total companies with no jobs: {total_companies_with_no_jobs}")
         return {"data": data, "new_jobs": new_jobs}
 
 class Actions:
