@@ -12,7 +12,7 @@
 
 Here's an example: 
 ![Using add_company.py](public/cli.png)
-## Current job listings found by phlux (91 companies)
+## Current job listings found by phlux (92 companies)
 
 <details>
 <summary><a href="https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States"><strong>AMD</strong></a></summary>
@@ -434,6 +434,13 @@ Here's an example:
 - Social Media & Public Relations Co-op (8 months)
 - Staff University Recruiter
 - Software Engineer 2
+</details>
+
+<details>
+<summary><a href="https://careers.jpmorgan.com/global/en/students/programs/software-engineer-summer"><strong>JP Morgan Chase (SWE)</strong></a></summary>
+
+- 2025 Code For Good - Singapore
+- 2026 Software Engineer Program_Summer Analyst (Singapore)
 </details>
 
 <details>
