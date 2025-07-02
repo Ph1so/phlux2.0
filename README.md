@@ -853,6 +853,8 @@ Here's an example:
 - Audit Co-op with Drexel University: Fall/Winter B Round
 - Market Data Business Analyst
 - Learning and Development Specialist
+- Software Developer - Core Data Services
+- Software Developer | Senior C++ | Experienced Hire
 </details>
 
 <details>
