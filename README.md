@@ -843,6 +843,7 @@ Here's an example:
 - Fixed Income/Convertible Bonds Operations Co-op with Drexel University: Fall/Winter B Round
 - Portfolio Manager Assistant
 - Audit Co-op with Drexel University: Fall/Winter B Round
+- Market Data Business Analyst
 </details>
 
 <details>
