@@ -438,6 +438,8 @@ Here's an example:
 - Social Media & Public Relations Co-op (8 months)
 - Staff University Recruiter
 - Software Engineer 2
+- Senior University Recruiter
+- Strategy & Product Marketing Co-op (8 months)
 </details>
 
 <details>
