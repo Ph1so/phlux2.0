@@ -88,7 +88,10 @@ def get_jobs_headless(name: str, url: str, instructions: str, headless=True) -> 
         return []
     finally:
         driver.quit()
-
+    if jobs == []:
+        print(f"❌ No jobs found - {name}")
+    else:
+        print(f"Jobs found - {name}")
     return jobs
 
 
