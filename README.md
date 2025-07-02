@@ -63,6 +63,7 @@ Here's an example:
 
 - 2025 Intern - Software Engineer
 - Working Student - Sales Programs / Project Management
+- Working Student Digital Media Sales
 </details>
 
 <details>
@@ -850,6 +851,7 @@ Here's an example:
 - Portfolio Manager Assistant
 - Audit Co-op with Drexel University: Fall/Winter B Round
 - Market Data Business Analyst
+- Learning and Development Specialist
 </details>
 
 <details>
