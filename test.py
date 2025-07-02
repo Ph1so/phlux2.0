@@ -1,4 +1,55 @@
 from phlux.scraping import get_jobs_headless
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import TimeoutException
+from tenacity import retry, wait_fixed, stop_after_attempt
+from utils import get_driver
+import time
+# name="Duolingo"
+# url="https://careers.duolingo.com/#careers"
+# instructions="CLICK:.Ku9oD.CCR1m->CLICK:'Industry'"
+# headless=False
+name="Scale AI"
+url="https://scale.com/careers#open-roles"
+instructions="CLICK:'All Departments'->CLICK:'University'"
+headless=False
+driver = get_driver(headless=headless)
 
-# print(get_jobs_headless(name="Duolingo", url="https://careers.duolingo.com/#careers", instructions="CLICK:button[aria-haspopup='listbox']->CSS:#web-ui11 [role='option']", headless=False))
-print(get_jobs_headless(name = "Optiver" , url = "https://optiver.com/working-at-optiver/career-opportunities/page/2/?search=internship&_gl=1*rb345g*_gcl_au*Mjk2MDM5OTE1LjE3NDg5MTM5ODQ.&numberposts=10&level=internship&paged=1" , instructions="CLICK:'Load more'->CSS:h5", headless=False))
+try:
+    driver.get(url)
+    industry_opt = WebDriverWait(driver, 5).until(
+        EC.element_to_be_clickable((By.XPATH, "//*[normalize-space(text())='All Departments']"))
+    )
+    driver.execute_script("arguments[0].click();", industry_opt)
+    print(f"industury: {industry_opt}")
+    industry_opt = WebDriverWait(driver, 5).until(
+        EC.element_to_be_clickable((By.XPATH, "//*[normalize-space(text())='University']"))
+    )
+    driver.execute_script("arguments[0].click();", industry_opt)
+    print(f"industury: {industry_opt}")
+except TimeoutException:
+    print(f"❌ {name} - Timeout")
+finally:
+    print("Done")
+    time.sleep(60)
+    driver.quit() 
+
+# try:
+#     driver.get(url)
+#     dropdown_btn = driver.find_element(By.CSS_SELECTOR, ".Ku9oD.CCR1m")
+#     dropdown_btn.click()
+#     industry_opt = WebDriverWait(driver, 5).until(
+#         EC.element_to_be_clickable((By.XPATH, "//*[normalize-space(text())='Industry']"))
+#     )
+#     driver.execute_script("arguments[0].click();", industry_opt)
+#     print(f"industury: {industry_opt}")
+# except TimeoutException:
+#     print(f"❌ {name} - Timeout")
+# finally:
+#     print("Done")
+#     time.sleep(60)
+#     driver.quit() 
+
+# print(get_jobs_headless(name=name, url=url, instructions=instructions, headless=headless))
+# print(get_jobs_headless(name = "Optiver" , url = "https://optiver.com/working-at-optiver/career-opportunities/page/2/?search=internship&_gl=1*rb345g*_gcl_au*Mjk2MDM5OTE1LjE3NDg5MTM5ODQ.&numberposts=10&level=internship&paged=1" , instructions="CLICK:'Load more'->CSS:h5", headless=False))
