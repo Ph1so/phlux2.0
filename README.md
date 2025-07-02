@@ -437,14 +437,6 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://careers.jpmorgan.com/global/en/students/programs"><strong>JP Morgan Chase</strong></a></summary>
-
-- Cadp Summer Analyst
-- Data Analytics Opportunities
-- Software Engineer Summer
-</details>
-
-<details>
 <summary><a href="https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=new-york"><strong>Jane Street</strong></a></summary>
 
 - FPGA Engineer - (not currently accepting applications)

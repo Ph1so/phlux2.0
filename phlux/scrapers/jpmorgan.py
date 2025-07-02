@@ -8,7 +8,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.by import By
-
+import time
 from ..utils import get_driver
 
 
@@ -27,7 +27,8 @@ class JPMorganScraper(CompanyScraper):
             f"{self._base_link}/software-engineer-summer",
             f"{self._base_link}/data-analytics-opportunities",
         ]
-        self.selector = "programs-apply-now-btn"
+        self.program_selector = "programs-apply-now-btn"
+        self.job_selector = "program-title"
 
     @property
     def name(self) -> str:
@@ -46,10 +47,16 @@ class JPMorganScraper(CompanyScraper):
                 try:
                     driver.get(link)
                     elem = WebDriverWait(driver, 10).until(
-                        EC.presence_of_element_located((By.ID, self.selector))
+                        EC.presence_of_element_located((By.ID, self.program_selector))
                     )
                     if elem.is_displayed():
-                        jobs.append(link[len(prefix):].replace("-", " ").title())
+                        WebDriverWait(driver, 10).until(
+                            EC.presence_of_all_elements_located((By.CSS_SELECTOR, self.job_selector))
+                        )
+                        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+                        time.sleep(2)
+                        elements = driver.find_elements(By.CSS_SELECTOR, self.job_selector)
+                        jobs += [el.text.strip() for el in elements if el.text.strip()]
                 except TimeoutException:
                     print(f"❌ {self._name} - Timeout at {link}")
         finally:

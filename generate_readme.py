@@ -42,10 +42,10 @@ def generate_readme(jobs: dict, links: dict) -> str:
     return "\n".join(lines)
 
 if __name__ == "__main__":
+    # custom_scrapers: List[CompanyScraper] = [JPMorganScraper()]
+    # for scraper in custom_scrapers:
+    #     links[scraper.name] = scraper.base_link
     links = load_company_links("companies.csv")
-    custom_scrapers: List[CompanyScraper] = [JPMorganScraper()]
-    for scraper in custom_scrapers:
-        links[scraper.name] = scraper.base_link
     jobs = load_jobs("storage.json")
     readme = generate_readme(jobs, links)
 

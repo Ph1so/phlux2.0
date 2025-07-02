@@ -148,10 +148,10 @@ class ScrapeManager:
                 process_jobs(data, ScrapeResult(company.name, jobs, company.link), new_jobs)
 
         # built-in scrapers
-        custom: List[CompanyScraper] = [JPMorganScraper()]
-        for scraper in custom:
-            name, jobs, link = scraper.get_jobs()
-            process_jobs(data, ScrapeResult(name, jobs, link), new_jobs)
+        # custom: List[CompanyScraper] = [JPMorganScraper()]
+        # for scraper in custom:
+        #     name, jobs, link = scraper.get_jobs()
+        #     process_jobs(data, ScrapeResult(name, jobs, link), new_jobs)
             
         print(f"Total companies with no jobs: {total_companies_with_no_jobs}")
         return {"data": data, "new_jobs": new_jobs}
