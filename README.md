@@ -12,7 +12,7 @@
 
 Here's an example: 
 ![Using add_company.py](public/cli.png)
-## Current job listings found by phlux (90 companies)
+## Current job listings found by phlux (91 companies)
 
 <details>
 <summary><a href="https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States"><strong>AMD</strong></a></summary>
@@ -547,6 +547,12 @@ Here's an example:
 - Software Development Coop
 - Video Coding Coop
 - Firmware Development Co-op
+</details>
+
+<details>
+<summary><a href="https://app.ripplematch.com/v2/public/company/notion?tl=1edfe69a"><strong>Notion</strong></a></summary>
+
+- Software Engineer, AI Intern (Fall 2025)
 </details>
 
 <details>
