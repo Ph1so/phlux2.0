@@ -99,6 +99,7 @@ Here's an example:
 - Amazon Robotics - Applied Scientist II Intern / Co-op - 2025 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)
 - Amazon Robotics - Data Scientist Co-op - 2025
 - Amazon Robotics - Applied Scientist I Intern / Co-op - 2025
+- Amazon Robotics - Business Analyst Co-op - Spring or Fall 2025, Global Robotics Delivery
 </details>
 
 <details>
@@ -199,6 +200,7 @@ Here's an example:
 - Simulation Technical Lead
 - Mechanical Engineer
 - Director of Product Management- Warehouse Robotics
+- Senior Director of Software Engineering- Warehouse Robotics
 </details>
 
 <details>
