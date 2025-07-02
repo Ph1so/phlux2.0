@@ -401,6 +401,7 @@ Here's an example:
 - Machine Learning Engineer, Fast Optimized Inference - US Remote
 - Machine Learning Optimization Evangelist - US remote
 - Machine Learning Engineer in the Optimization team - US Remote
+- Data Technical Architect, MongoDB Expert - US Remote
 </details>
 
 <details>
