@@ -84,14 +84,14 @@ def get_jobs_headless(name: str, url: str, instructions: str, headless=True) -> 
                 jobs = [j for j in jobs if selector.lower() in j.lower()]
 
     except TimeoutException:
-        print(f"❌ {name} - Timeout")
+        print(f"{name} - Timeout")
         return []
     finally:
         driver.quit()
     if jobs == []:
         print(f"❌ No jobs found - {name}")
     else:
-        print(f"Jobs found - {name}")
+        print(f"✅ Jobs found - {name}")
     return jobs
 
 
