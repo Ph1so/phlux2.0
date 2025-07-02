@@ -10,30 +10,36 @@ import time
 # url="https://careers.duolingo.com/#careers"
 # instructions="CLICK:.Ku9oD.CCR1m->CLICK:'Industry'"
 # headless=False
-name="Scale AI"
-url="https://scale.com/careers#open-roles"
-instructions="CLICK:'All Departments'->CLICK:'University'"
+# name="Scale AI"
+# url="https://scale.com/careers#open-roles"
+# instructions="CLICK:'All Departments'->CLICK:'University'"
+# headless=False
+# driver = get_driver(headless=headless)
+
+name="JP Morgan Chase"
+url="https://careers.jpmorgan.com/global/en/students/programs/software-engineer-summer"
+instructions="CLICK:'Apply now'->CSS:.program-title"
 headless=False
 driver = get_driver(headless=headless)
-
-try:
-    driver.get(url)
-    industry_opt = WebDriverWait(driver, 5).until(
-        EC.element_to_be_clickable((By.XPATH, "//*[normalize-space(text())='All Departments']"))
-    )
-    driver.execute_script("arguments[0].click();", industry_opt)
-    print(f"industury: {industry_opt}")
-    industry_opt = WebDriverWait(driver, 5).until(
-        EC.element_to_be_clickable((By.XPATH, "//*[normalize-space(text())='University']"))
-    )
-    driver.execute_script("arguments[0].click();", industry_opt)
-    print(f"industury: {industry_opt}")
-except TimeoutException:
-    print(f"❌ {name} - Timeout")
-finally:
-    print("Done")
-    time.sleep(60)
-    driver.quit() 
+print(get_jobs_headless(name=name, url=url, instructions=instructions, headless=headless))
+# try:
+#     driver.get(url)
+#     industry_opt = WebDriverWait(driver, 5).until(
+#         EC.element_to_be_clickable((By.XPATH, "//*[normalize-space(text())='All Departments']"))
+#     )
+#     driver.execute_script("arguments[0].click();", industry_opt)
+#     print(f"industury: {industry_opt}")
+#     industry_opt = WebDriverWait(driver, 5).until(
+#         EC.element_to_be_clickable((By.XPATH, "//*[normalize-space(text())='University']"))
+#     )
+#     driver.execute_script("arguments[0].click();", industry_opt)
+#     print(f"industury: {industry_opt}")
+# except TimeoutException:
+#     print(f"❌ {name} - Timeout")
+# finally:
+#     print("Done")
+#     time.sleep(60)
+#     driver.quit() 
 
 # try:
 #     driver.get(url)
@@ -51,5 +57,4 @@ finally:
 #     time.sleep(60)
 #     driver.quit() 
 
-# print(get_jobs_headless(name=name, url=url, instructions=instructions, headless=headless))
 # print(get_jobs_headless(name = "Optiver" , url = "https://optiver.com/working-at-optiver/career-opportunities/page/2/?search=internship&_gl=1*rb345g*_gcl_au*Mjk2MDM5OTE1LjE3NDg5MTM5ODQ.&numberposts=10&level=internship&paged=1" , instructions="CLICK:'Load more'->CSS:h5", headless=False))
