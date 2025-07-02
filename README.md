@@ -865,6 +865,7 @@ Here's an example:
 - Learning and Development Specialist
 - Software Developer - Core Data Services
 - Software Developer | Senior C++ | Experienced Hire
+- Sell Side Research Internship: Summer 2026
 </details>
 
 <details>
