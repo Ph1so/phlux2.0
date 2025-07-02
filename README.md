@@ -441,6 +441,7 @@ Here's an example:
 
 - Cadp Summer Analyst
 - Data Analytics Opportunities
+- Software Engineer Summer
 </details>
 
 <details>
