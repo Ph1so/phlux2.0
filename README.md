@@ -436,12 +436,6 @@ Here's an example:
 - Software Engineer 2
 </details>
 
-<details>
-<summary><a href="https://careers.jpmorgan.com/global/en/students/programs/software-engineer-summer"><strong>JP Morgan Chase (SWE)</strong></a></summary>
-
-- 2025 Code For Good - Singapore
-- 2026 Software Engineer Program_Summer Analyst (Singapore)
-</details>
 
 <details>
 <summary><a href="https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=new-york"><strong>Jane Street</strong></a></summary>

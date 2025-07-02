@@ -28,7 +28,7 @@ ACTION_TYPES = [CSS, CLICK, FILTER]
 
 
 @retry(wait=wait_fixed(5), stop=stop_after_attempt(5))
-def get_jobs_headless(name: str, url: str, instructions: str, headless=True) -> List[str]:
+def get_jobs_headless(name: str, urls: str, instructions: str, headless=True) -> List[str]:
     """Scrape job titles from ``url`` using a sequence of instructions."""
     driver = get_driver(headless=headless)
     # driver.execute_cdp_cmd("Page.addScriptToEvaluateOnNewDocument", {
@@ -42,50 +42,52 @@ def get_jobs_headless(name: str, url: str, instructions: str, headless=True) -> 
     actions = Actions(instructions.split("->"))
     jobs = []
     try:
-        driver.get(url)
-        for action in actions:
-            if ":" not in action:
-                print(f"⚠️ Invalid action format: {action}")
-                continue
+        for url in urls.split("->"):
+            try:
+                driver.get(url)
+                for action in actions:
+                    if ":" not in action:
+                        print(f"⚠️ Invalid action format: {action}")
+                        continue
 
-            action_type = actions.get_type(action)
-            selector = actions.get_selector(action)
+                    action_type = actions.get_type(action)
+                    selector = actions.get_selector(action)
 
-            if action_type not in ACTION_TYPES:
-                print(f"⚠️ Unknown action type '{action_type}' for {name}")
-                continue
+                    if action_type not in ACTION_TYPES:
+                        print(f"⚠️ Unknown action type '{action_type}' for {name}")
+                        continue
 
-            if action_type == CSS:
-                WebDriverWait(driver, 10).until(
-                    EC.presence_of_all_elements_located((By.CSS_SELECTOR, selector))
-                )
-                driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-                time.sleep(2)
-                elements = driver.find_elements(By.CSS_SELECTOR, selector)
-                jobs += [el.text.strip() for el in elements if el.text.strip()]
-
-            elif action_type == CLICK:
-                try:
-                    if selector[0] == "'" and selector[-1] == "'":
-                        xpath_text = selector[1:-1]
-                        element = WebDriverWait(driver, 5).until(
-                            EC.element_to_be_clickable((By.XPATH, f"//*[contains(normalize-space(), '{xpath_text}')]"))
+                    if action_type == CSS:
+                        WebDriverWait(driver, 10).until(
+                            EC.presence_of_all_elements_located((By.CSS_SELECTOR, selector))
                         )
-                    else:
-                        element = WebDriverWait(driver, 5).until(
-                            EC.element_to_be_clickable((By.CSS_SELECTOR, selector))
-                        )
-                    driver.execute_script("arguments[0].click();", element)
-                    time.sleep(2)
-                except Exception as exc:
-                    print(f"❌ Failed clicking for {name} - {exc}")
+                        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+                        time.sleep(2)
+                        elements = driver.find_elements(By.CSS_SELECTOR, selector)
+                        jobs += [el.text.strip() for el in elements if el.text.strip()]
 
-            elif action_type == FILTER:
-                jobs = [j for j in jobs if selector.lower() in j.lower()]
+                    elif action_type == CLICK:
+                        try:
+                            if selector[0] == "'" and selector[-1] == "'":
+                                xpath_text = selector[1:-1]
+                                element = WebDriverWait(driver, 5).until(
+                                    EC.element_to_be_clickable((By.XPATH, f"//*[contains(normalize-space(), '{xpath_text}')]"))
+                                )
+                            else:
+                                element = WebDriverWait(driver, 5).until(
+                                    EC.element_to_be_clickable((By.CSS_SELECTOR, selector))
+                                )
+                            driver.execute_script("arguments[0].click();", element)
+                            time.sleep(2)
+                        except Exception as exc:
+                            print(f"❌ Failed clicking for {name} - {exc}")
 
-    except TimeoutException:
-        print(f"{name} - Timeout")
-        return []
+                    elif action_type == FILTER:
+                        jobs = [j for j in jobs if selector.lower() in j.lower()]
+
+            except TimeoutException:
+                print(f"Timeout for {name} at {url}")
+                continue
     finally:
         driver.quit()
     if jobs == []:

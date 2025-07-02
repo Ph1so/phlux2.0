@@ -17,11 +17,11 @@ import time
 # driver = get_driver(headless=headless)
 
 name="JP Morgan Chase"
-url="https://careers.jpmorgan.com/global/en/students/programs/software-engineer-summer"
+url="https://careers.jpmorgan.com/global/en/students/programs/software-engineer-summer->https://careers.jpmorgan.com/global/en/students/programs/data-analytics-opportunities#careers-section7->https://careers.jpmorgan.com/global/en/students/programs/tfsg-hackathons->https://careers.jpmorgan.com/global/en/students/programs/quant-fin-programs->https://careers.jpmorgan.com/global/en/students/programs/design-dev-summer->https://careers.jpmorgan.com/global/en/students/programs/et-experience"
 instructions="CLICK:'Apply now'->CSS:.program-title"
 headless=False
 driver = get_driver(headless=headless)
-print(get_jobs_headless(name=name, url=url, instructions=instructions, headless=headless))
+print(get_jobs_headless(name=name, urls=url, instructions=instructions, headless=headless))
 # try:
 #     driver.get(url)
 #     industry_opt = WebDriverWait(driver, 5).until(
