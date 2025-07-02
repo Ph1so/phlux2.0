@@ -168,6 +168,9 @@ Here's an example:
 - Global Risk Summer 2026 Analyst
 - Finance Management Summer 2026 Analyst
 - Global Investment Banking Summer Analyst Program – 2026 (M&A, Palo Alto)
+- Global Quantitative Data Analytics Summer 2026 Analyst - Analytics, Modeling and Insights (AMI)
+- Global Quantitative Data Analytics Summer 2026 Analyst - Enterprise Credit
+- Global Quantitative Data Analytics Summer 2026 Analyst - Global Risk Management
 </details>
 
 <details>
@@ -202,6 +205,7 @@ Here's an example:
 - Mechanical Engineer
 - Director of Product Management- Warehouse Robotics
 - Senior Director of Software Engineering- Warehouse Robotics
+- Software Engineer
 </details>
 
 <details>
