@@ -867,12 +867,12 @@ Here's an example:
 - Learning and Development Specialist
 - Software Developer - Core Data Services
 - Software Developer | Senior C++ | Experienced Hire
-- Macro Analyst Internship: Summer 2026
 - Talent Sourcer
 - Technology Recruiter
 - Equity Analyst Internship: Summer 2026
 - Credit Analyst Internship: Summer 2026
 - Sell Side Research Internship: Summer 2026
+- Macro Analyst Internship: Summer 2026
 </details>
 
 <details>
