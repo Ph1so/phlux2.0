@@ -101,6 +101,7 @@ class AutoApplyBot:
         WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.ID, "sbtButton"))).click()
         log.info("Clicked submit button.")
         time.sleep(10)
+        print(f"✅ Applied to {url}")
         driver.save_screenshot("screenshot.png")    
         driver.quit()
         log.info("Application submitted and browser closed.")
