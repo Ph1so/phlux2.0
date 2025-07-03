@@ -121,7 +121,7 @@ def autoApply(jobs: List[str]):
         try:
             driver.quit()
         except Exception:
-            pass  # silently fail if driver wasn't initialized
+            pass
 
 def main() -> None:
     config = load_config()
