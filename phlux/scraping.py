@@ -15,6 +15,8 @@ import json
 import time
 import os
 
+import requests
+from selenium.common.exceptions import NoSuchElementException, WebDriverException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -119,6 +121,72 @@ def process_jobs(data: Dict[str, Dict[str, List[str]]], result: ScrapeResult, ne
         new_jobs.setdefault("companies", {})[result.name] = {"jobs": new_list, "link": result.link}
 
 
+def autoApply(jobs: List[str], url: str):
+    """
+    Takes a list of job names and auto-applies to each job on SIG's careers site.
+    """
+    token = os.environ.get("GH_TOKEN")
+    if not token:
+        raise RuntimeError("GH_TOKEN not set in environment")
+
+    repo = "Ph1so/phlux2.0"
+    workflow_id = "auto-apply.yml"
+
+    try:
+        driver = get_driver()
+        driver.get(url)
+
+        for job in jobs:
+            print(f"Auto Apply Job: {job}")
+            if "Summer 2026" not in job:
+                continue  # skip irrelevant jobs
+
+            try:
+                element = WebDriverWait(driver, 15).until(
+                    EC.presence_of_element_located((By.XPATH,
+                "//a[.//div[contains(@class, 'job-title')]/span[normalize-space() = 'Equity Analyst Internship: Summer 2026']]"))
+                )
+                job_seqno = element.get_attribute("data-ph-at-job-seqno-text")
+            except NoSuchElementException:
+                print(f"⚠️ Element for job '{job}' not found on page.")
+                continue
+
+            if not job_seqno:
+                print(f"⚠️ No job_seqno found for job '{job}'. Skipping.")
+                continue
+
+            apply_url = f"https://careers.sig.com/apply?jobSeqNo={job_seqno}"
+            try:
+                response = requests.post(
+                    f"https://api.github.com/repos/{repo}/actions/workflows/{workflow_id}/dispatches",
+                    headers={
+                        "Accept": "application/vnd.github+json",
+                        "Authorization": f"Bearer {token}",
+                    },
+                    json={
+                        "ref": "main",
+                        "inputs": {
+                            "url": apply_url
+                        }
+                    },
+                    timeout=10  # prevent hanging
+                )
+                if response.status_code == 204:
+                    print(f"✅ Successfully triggered workflow for: {job}")
+                else:
+                    print(f"❌ Failed to trigger workflow for: {job} | Status: {response.status_code} | Response: {response.text}")
+
+            except requests.RequestException as e:
+                print(f"❌ HTTP error while applying to job '{job}': {e}")
+
+    except WebDriverException as e:
+        print(f"❌ WebDriver error: {e}")
+
+    finally:
+        try:
+            driver.quit()
+        except Exception:
+            pass
 class ScrapeManager:
     """Orchestrates scraping of all companies."""
 
