@@ -59,11 +59,10 @@ def send_email(message: dict, test: bool = False) -> None:
         smtp.login("phiwe3296@gmail.com", GMAIL_APP_PASSWORD)
         smtp.send_message(msg)
 
-def autoApply(jobs: List[str]):
+def autoApply(jobs: List[str], url: str):
     """
     Takes a list of job names and auto-applies to each job on SIG's careers site.
     """
-    url = "https://careers.sig.com/global-susquehanna-jobs"
     token = os.environ.get("GH_TOKEN")
     if not token:
         raise RuntimeError("GH_TOKEN not set in environment")
@@ -76,7 +75,7 @@ def autoApply(jobs: List[str]):
         driver.get(url)
 
         for job in jobs:
-            print("Auto Apply Job: {job}")
+            print(f"Auto Apply Job: {job}")
             if "Summer 2026" not in job:
                 continue  # skip irrelevant jobs
 
@@ -133,11 +132,11 @@ def main() -> None:
     new_jobs = result["new_jobs"]
 
     # Special case: run autoApply only after all scraping
-    susquehanna_jobs = new_jobs["companies"].get("Susquehanna", [])
+    susquehanna_jobs = new_jobs["companies"].get("Susquehanna").get("jobs")
     print(new_jobs)
     if susquehanna_jobs:
         print(f"Auto apply: {susquehanna_jobs}")
-        autoApply(susquehanna_jobs)
+        autoApply(susquehanna_jobs, new_jobs["companies"].get("Susquehanna").get("link"))
 
     Path("storage.json").write_text(json.dumps(data, indent=2), encoding="utf-8")
     if new_jobs.get("companies"):
