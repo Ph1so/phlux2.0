@@ -869,10 +869,10 @@ Here's an example:
 - Software Developer | Senior C++ | Experienced Hire
 - Sell Side Research Internship: Summer 2026
 - Macro Analyst Internship: Summer 2026
-- Equity Analyst Internship: Summer 2026
-- Credit Analyst Internship: Summer 2026
 - Talent Sourcer
 - Technology Recruiter
+- Equity Analyst Internship: Summer 2026
+- Credit Analyst Internship: Summer 2026
 </details>
 
 <details>
