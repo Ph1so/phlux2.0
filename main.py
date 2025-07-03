@@ -11,6 +11,7 @@ import os
 
 import requests
 from selenium.webdriver.common.by import By
+from selenium.common.exceptions import NoSuchElementException, WebDriverException
 
 from phlux.config import load_config
 from phlux.scraping import ScrapeManager, load_company_data
@@ -60,7 +61,7 @@ def send_email(message: dict, test: bool = False) -> None:
 
 def autoApply(jobs: List[str]):
     """
-        Takes a list of job names and auto applies to each
+    Takes a list of job names and auto-applies to each job on SIG's careers site.
     """
     url = "https://careers.sig.com/global-susquehanna-jobs"
     token = os.environ.get("GH_TOKEN")
@@ -69,14 +70,28 @@ def autoApply(jobs: List[str]):
 
     repo = "Ph1so/phlux2.0"
     workflow_id = "auto-apply.yml"
-    driver = get_driver()
-    driver.get(url)
-    for job in jobs:
-        if "Summer 2026" in job:
-            element = driver.find_element(By.XPATH, f"//*[contains(normalize-space(), '{job}')]")
-            job_seqno = element.get_attribute("data-ph-at-job-seqno-text")
-            print(f"Job {job} - {job_seqno}")
-            if job_seqno:   
+
+    try:
+        driver = get_driver()
+        driver.get(url)
+
+        for job in jobs:
+            if "Summer 2026" not in job:
+                continue  # skip irrelevant jobs
+
+            try:
+                element = driver.find_element(By.XPATH, f"//*[contains(normalize-space(), '{job}')]")
+                job_seqno = element.get_attribute("data-ph-at-job-seqno-text")
+            except NoSuchElementException:
+                print(f"⚠️ Element for job '{job}' not found on page.")
+                continue
+
+            if not job_seqno:
+                print(f"⚠️ No job_seqno found for job '{job}'. Skipping.")
+                continue
+
+            apply_url = f"https://careers.sig.com/apply?jobSeqNo={job_seqno}"
+            try:
                 response = requests.post(
                     f"https://api.github.com/repos/{repo}/actions/workflows/{workflow_id}/dispatches",
                     headers={
@@ -86,11 +101,27 @@ def autoApply(jobs: List[str]):
                     json={
                         "ref": "main",
                         "inputs": {
-                            "url": f"https://careers.sig.com/apply?jobSeqNo={job_seqno}"
+                            "url": apply_url
                         }
-                    }
+                    },
+                    timeout=10  # prevent hanging
                 )
-                print(response.status_code, response.text)
+                if response.status_code == 204:
+                    print(f"✅ Successfully triggered workflow for: {job}")
+                else:
+                    print(f"❌ Failed to trigger workflow for: {job} | Status: {response.status_code} | Response: {response.text}")
+
+            except requests.RequestException as e:
+                print(f"❌ HTTP error while applying to job '{job}': {e}")
+
+    except WebDriverException as e:
+        print(f"❌ WebDriver error: {e}")
+
+    finally:
+        try:
+            driver.quit()
+        except Exception:
+            pass  # silently fail if driver wasn't initialized
 
 def main() -> None:
     config = load_config()
@@ -104,7 +135,7 @@ def main() -> None:
     susquehanna_jobs = new_jobs["companies"].get("Susquehanna", [])
     if susquehanna_jobs:
         autoApply(susquehanna_jobs)
-        
+
     Path("storage.json").write_text(json.dumps(data, indent=2), encoding="utf-8")
     if new_jobs.get("companies"):
         send_email(new_jobs, test = False)
