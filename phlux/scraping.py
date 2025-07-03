@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 """Core scraping routines and manager class."""
-from concurrent.futures import ProcessPoolExecutor, as_completed
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from typing import Dict, List
 
@@ -32,14 +32,6 @@ ACTION_TYPES = [CSS, CLICK, FILTER]
 def get_jobs_headless(name: str, urls: str, instructions: str, headless=True) -> List[str]:
     """Scrape job titles from ``url`` using a sequence of instructions."""
     driver = get_driver(headless=headless)
-    # driver.execute_cdp_cmd("Page.addScriptToEvaluateOnNewDocument", {
-    #     "source": """
-    #         Object.defineProperty(navigator, 'webdriver', {
-    #             get: () => undefined
-    #         })
-    #     """
-    # })
-
     actions = Actions(instructions.split("->"))
     jobs = []
     try:
@@ -66,8 +58,6 @@ def get_jobs_headless(name: str, urls: str, instructions: str, headless=True) ->
                         time.sleep(2)
                         elements = driver.find_elements(By.CSS_SELECTOR, selector)
                         jobs += [el.text.strip() for el in elements if el.text.strip()]
-                        if name == "Susquehanna":
-                            autoApply(jobs)
 
                     elif action_type == CLICK:
                         try:
@@ -104,7 +94,10 @@ def autoApply(jobs: List[str]):
         Takes a list of job names and auto applies to each
     """
     url = "https://careers.sig.com/global-susquehanna-jobs"
-    token = os.environ["GH_TOKEN"]
+    token = os.environ.get("GH_TOKEN")
+    if not token:
+        raise RuntimeError("GH_TOKEN not set in environment")
+
     repo = "Ph1so/phlux2.0"
     workflow_id = "auto-apply.yml"
     driver = get_driver()
@@ -136,7 +129,7 @@ def load_company_data(csv_path: Path = Path("companies.csv")) -> List[Company]:
     with open(csv_path, newline="", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         for row in reader:
-            companies.append(Company(row["Name"].strip(), row["Link"].strip().strip('"\''), row["ClassName"].strip()))
+            companies.append(Company(row["Name"].strip(), row["Link"].strip().strip('\"\''), row["ClassName"].strip()))
     return companies
 
 
@@ -169,7 +162,7 @@ class ScrapeManager:
             print(f"`{storage_path}` not found")
 
         new_jobs: Dict = {"companies": {}}
-        with ProcessPoolExecutor(max_workers=max_workers) as executor:
+        with ThreadPoolExecutor(max_workers=max_workers) as executor:
             futures = {
                 executor.submit(get_jobs_headless, c.name, c.link, c.selector, self.config): c
                 for c in companies
@@ -182,12 +175,11 @@ class ScrapeManager:
                     total_companies_with_no_jobs += 1
                 process_jobs(data, ScrapeResult(company.name, jobs, company.link), new_jobs)
 
-        # built-in scrapers
-        # custom: List[CompanyScraper] = [JPMorganScraper()]
-        # for scraper in custom:
-        #     name, jobs, link = scraper.get_jobs()
-        #     process_jobs(data, ScrapeResult(name, jobs, link), new_jobs)
-            
+        # Special case: run autoApply only after all scraping
+        susquehanna_jobs = data["companies"].get("Susquehanna", [])
+        if susquehanna_jobs:
+            autoApply(susquehanna_jobs)
+
         print(f"Total companies with no jobs: {total_companies_with_no_jobs}")
         return {"data": data, "new_jobs": new_jobs}
 
