@@ -53,7 +53,7 @@ jobs:
 
     - name: Upload screenshot
       if: always()  # Ensures this runs even if test fails
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: browser-screenshot
         path: screenshot.png
