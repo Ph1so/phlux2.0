@@ -445,6 +445,8 @@ Here's an example:
 - Senior University Recruiter
 - Strategy & Product Marketing Co-op (8 months)
 - Content Marketing Co-op (8 months)
+- Marketing Technology & Data Activation Co-op (8 months)
+- Brand Marketing Co-Op (8 months)
 </details>
 
 <details>
