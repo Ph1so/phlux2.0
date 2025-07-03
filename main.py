@@ -8,6 +8,7 @@ from email.message import EmailMessage
 from pathlib import Path
 from typing import List
 import os
+from datetime import datetime
 
 import requests
 from selenium.webdriver.common.by import By
@@ -67,12 +68,14 @@ def send_email(message: dict, test: bool = False) -> None:
 
 def update_internship_tracker(jobs: List[str]) -> None:
     """
-    Update the Google Sheet with new internship job titles.
+    Update the Google Sheet with new internship job titles, the current date, and "Applied" status.
     - Sheet: https://docs.google.com/spreadsheets/d/1pZMYgV4GJZJIwyTSG4-ufWeUnJNE7ZQzcFk35qJj7QI/edit#gid=393882033
     - Tab: "Phi26"
-    - Column A: One job per row, starting at the first empty row.
+    - Columns:
+        A: Job title
+        B: Date added (MM/DD/YYYY)
+        C: Applied status
     """
-    # Load service account credentials from env var
     creds_dict = json.loads(os.environ["GOOGLE_KEY_JSON"])
     scope = [
         "https://spreadsheets.google.com/feeds",
@@ -81,20 +84,22 @@ def update_internship_tracker(jobs: List[str]) -> None:
     creds = ServiceAccountCredentials.from_json_keyfile_dict(creds_dict, scope)
     client = gspread.authorize(creds)
 
-    # Open sheet
     spreadsheet = client.open_by_key("1pZMYgV4GJZJIwyTSG4-ufWeUnJNE7ZQzcFk35qJj7QI")
     worksheet = spreadsheet.worksheet("Phi26")
 
-    # Find the first empty row in column A
+    # Find first empty row in Column A
     col_values = worksheet.col_values(1)
-    start_row = len(col_values) + 1  # first empty row
+    start_row = len(col_values) + 1
 
-    # Prepare data as a list of lists for batch update
-    data = [[job] for job in jobs]
+    # Current date for all entries
+    now = datetime.now().strftime("%m/%d/%Y")
 
-    # Update range (e.g., A12:A20)
-    cell_range = f"A{start_row}:A{start_row + len(data) - 1}"
-    worksheet.update(cell_range, data)
+    # Prepare rows: [[Job Title, Date, "Applied"]]
+    rows = [[job, now, "Applied"] for job in jobs]
+
+    # Update columns A–C (e.g., A12:C20)
+    end_row = start_row + len(rows) - 1
+    worksheet.update(f"A{start_row}:C{end_row}", rows)
 
 def main() -> None:
     config = load_config()
@@ -114,7 +119,7 @@ def main() -> None:
 
     Path("storage.json").write_text(json.dumps(data, indent=2), encoding="utf-8")
     if new_jobs.get("companies"):
-        send_email(new_jobs, test = False)
+        send_email(new_jobs, test = True)
 
 if __name__ == "__main__":
     main()
