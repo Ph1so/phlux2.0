@@ -18,7 +18,7 @@ from selenium.common.exceptions import NoSuchElementException, WebDriverExceptio
 
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
-from gspread_formatting import CellFormat, set_cell_format, TextFormat, HorizontalAlignment
+from gspread_formatting import CellFormat, format_cell_range
 
 from phlux.config import load_config
 from phlux.scraping import ScrapeManager, load_company_data, autoApply
@@ -91,8 +91,6 @@ def update_internship_tracker(jobs: List[str]) -> None:
     end_row = start_row + len(rows) - 1
     worksheet.update(values=rows, range_name=f"A{start_row}:C{end_row}")
 
-    # Apply right alignment to date cells (Column B)
-    from gspread_formatting import format_cell_range
     right_align = CellFormat(horizontalAlignment='RIGHT')
     format_cell_range(worksheet, f"B{start_row}:B{end_row}", right_align)
 
