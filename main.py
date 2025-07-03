@@ -15,6 +15,9 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.common.exceptions import NoSuchElementException, WebDriverException
 
+import gspread
+from oauth2client.service_account import ServiceAccountCredentials
+
 from phlux.config import load_config
 from phlux.scraping import ScrapeManager, load_company_data, autoApply
 from utils import get_driver
@@ -61,6 +64,38 @@ def send_email(message: dict, test: bool = False) -> None:
         smtp.login("phiwe3296@gmail.com", GMAIL_APP_PASSWORD)
         smtp.send_message(msg)
 
+
+def update_internship_tracker(jobs: List[str]) -> None:
+    """
+    Update the Google Sheet with new internship job titles.
+    - Sheet: https://docs.google.com/spreadsheets/d/1pZMYgV4GJZJIwyTSG4-ufWeUnJNE7ZQzcFk35qJj7QI/edit#gid=393882033
+    - Tab: "Phi26"
+    - Column A: One job per row, starting at the first empty row.
+    """
+    # Load service account credentials from env var
+    creds_dict = json.loads(os.environ["GOOGLE_KEY_JSON"])
+    scope = [
+        "https://spreadsheets.google.com/feeds",
+        "https://www.googleapis.com/auth/drive"
+    ]
+    creds = ServiceAccountCredentials.from_json_keyfile_dict(creds_dict, scope)
+    client = gspread.authorize(creds)
+
+    # Open sheet
+    spreadsheet = client.open_by_key("1pZMYgV4GJZJIwyTSG4-ufWeUnJNE7ZQzcFk35qJj7QI")
+    worksheet = spreadsheet.worksheet("Phi26")
+
+    # Find the first empty row in column A
+    col_values = worksheet.col_values(1)
+    start_row = len(col_values) + 1  # first empty row
+
+    # Prepare data as a list of lists for batch update
+    data = [[job] for job in jobs]
+
+    # Update range (e.g., A12:A20)
+    cell_range = f"A{start_row}:A{start_row + len(data) - 1}"
+    worksheet.update(cell_range, data)
+
 def main() -> None:
     config = load_config()
     manager = ScrapeManager()
@@ -75,6 +110,7 @@ def main() -> None:
     if susquehanna_jobs:
         print(f"Auto apply: {susquehanna_jobs}")
         autoApply(susquehanna_jobs, new_jobs["companies"].get("Susquehanna").get("link"))
+        update_internship_tracker(susquehanna_jobs)
 
     Path("storage.json").write_text(json.dumps(data, indent=2), encoding="utf-8")
     if new_jobs.get("companies"):

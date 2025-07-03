@@ -5,4 +5,5 @@ tenacity
 lxml
 python-dotenv
 requests
-
+gspread
+oauth2client
