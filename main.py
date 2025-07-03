@@ -10,9 +10,11 @@ from typing import List
 import os
 
 import requests
+from selenium.webdriver.common.by import By
 
 from phlux.config import load_config
 from phlux.scraping import ScrapeManager, load_company_data
+from utils import get_driver
 
 GMAIL_APP_PASSWORD = os.environ["GMAIL_APP_PASSWORD"]
 
@@ -56,6 +58,39 @@ def send_email(message: dict, test: bool = False) -> None:
         smtp.login("phiwe3296@gmail.com", GMAIL_APP_PASSWORD)
         smtp.send_message(msg)
 
+def autoApply(jobs: List[str]):
+    """
+        Takes a list of job names and auto applies to each
+    """
+    url = "https://careers.sig.com/global-susquehanna-jobs"
+    token = os.environ.get("GH_TOKEN")
+    if not token:
+        raise RuntimeError("GH_TOKEN not set in environment")
+
+    repo = "Ph1so/phlux2.0"
+    workflow_id = "auto-apply.yml"
+    driver = get_driver()
+    driver.get(url)
+    for job in jobs:
+        if "Summer 2026" in job:
+            element = driver.find_element(By.XPATH, f"//*[contains(normalize-space(), '{job}')]")
+            job_seqno = element.get_attribute("data-ph-at-job-seqno-text")
+            print(f"Job {job} - {job_seqno}")
+            if job_seqno:   
+                response = requests.post(
+                    f"https://api.github.com/repos/{repo}/actions/workflows/{workflow_id}/dispatches",
+                    headers={
+                        "Accept": "application/vnd.github+json",
+                        "Authorization": f"Bearer {token}",
+                    },
+                    json={
+                        "ref": "main",
+                        "inputs": {
+                            "url": f"https://careers.sig.com/apply?jobSeqNo={job_seqno}"
+                        }
+                    }
+                )
+                print(response.status_code, response.text)
 
 def main() -> None:
     config = load_config()
@@ -64,7 +99,12 @@ def main() -> None:
     result = manager.scrape_companies(companies=companies)
     data = result["data"]
     new_jobs = result["new_jobs"]
-    
+
+    # Special case: run autoApply only after all scraping
+    susquehanna_jobs = new_jobs["companies"].get("Susquehanna", [])
+    if susquehanna_jobs:
+        autoApply(susquehanna_jobs)
+        
     Path("storage.json").write_text(json.dumps(data, indent=2), encoding="utf-8")
     if new_jobs.get("companies"):
         send_email(new_jobs, test = False)

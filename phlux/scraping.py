@@ -1,7 +1,7 @@
 from __future__ import annotations
 
 """Core scraping routines and manager class."""
-from concurrent.futures import ThreadPoolExecutor, as_completed
+from concurrent.futures import ProcessPoolExecutor, as_completed
 from pathlib import Path
 from typing import Dict, List
 
@@ -14,7 +14,6 @@ import csv
 import json
 import time
 import os
-import requests
 
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -32,6 +31,14 @@ ACTION_TYPES = [CSS, CLICK, FILTER]
 def get_jobs_headless(name: str, urls: str, instructions: str, headless=True) -> List[str]:
     """Scrape job titles from ``url`` using a sequence of instructions."""
     driver = get_driver(headless=headless)
+    # driver.execute_cdp_cmd("Page.addScriptToEvaluateOnNewDocument", {
+    #     "source": """
+    #         Object.defineProperty(navigator, 'webdriver', {
+    #             get: () => undefined
+    #         })
+    #     """
+    # })
+
     actions = Actions(instructions.split("->"))
     jobs = []
     try:
@@ -89,47 +96,13 @@ def get_jobs_headless(name: str, urls: str, instructions: str, headless=True) ->
         print(f"✅ Jobs found - {name}")
     return jobs
 
-def autoApply(jobs: List[str]):
-    """
-        Takes a list of job names and auto applies to each
-    """
-    url = "https://careers.sig.com/global-susquehanna-jobs"
-    token = os.environ.get("GH_TOKEN")
-    if not token:
-        raise RuntimeError("GH_TOKEN not set in environment")
-
-    repo = "Ph1so/phlux2.0"
-    workflow_id = "auto-apply.yml"
-    driver = get_driver()
-    driver.get(url)
-    for job in jobs:
-        if "Summer 2026" in job:
-            element = driver.find_element(By.XPATH, f"//*[contains(normalize-space(), '{job}')]")
-            job_seqno = element.get_attribute("data-ph-at-job-seqno-text")
-            print(f"Job {job} - {job_seqno}")
-            if job_seqno:   
-                response = requests.post(
-                    f"https://api.github.com/repos/{repo}/actions/workflows/{workflow_id}/dispatches",
-                    headers={
-                        "Accept": "application/vnd.github+json",
-                        "Authorization": f"Bearer {token}",
-                    },
-                    json={
-                        "ref": "main",
-                        "inputs": {
-                            "url": f"https://careers.sig.com/apply?jobSeqNo={job_seqno}"
-                        }
-                    }
-                )
-                print(response.status_code, response.text)
-
 def load_company_data(csv_path: Path = Path("companies.csv")) -> List[Company]:
     """Load ``Company`` entries from ``companies.csv``."""
     companies = []
     with open(csv_path, newline="", encoding="utf-8") as f:
         reader = csv.DictReader(f)
         for row in reader:
-            companies.append(Company(row["Name"].strip(), row["Link"].strip().strip('\"\''), row["ClassName"].strip()))
+            companies.append(Company(row["Name"].strip(), row["Link"].strip().strip('"\''), row["ClassName"].strip()))
     return companies
 
 
@@ -162,7 +135,7 @@ class ScrapeManager:
             print(f"`{storage_path}` not found")
 
         new_jobs: Dict = {"companies": {}}
-        with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        with ProcessPoolExecutor(max_workers=max_workers) as executor:
             futures = {
                 executor.submit(get_jobs_headless, c.name, c.link, c.selector, self.config): c
                 for c in companies
@@ -175,11 +148,12 @@ class ScrapeManager:
                     total_companies_with_no_jobs += 1
                 process_jobs(data, ScrapeResult(company.name, jobs, company.link), new_jobs)
 
-        # Special case: run autoApply only after all scraping
-        susquehanna_jobs = data["companies"].get("Susquehanna", [])
-        if susquehanna_jobs:
-            autoApply(susquehanna_jobs)
-
+        # built-in scrapers
+        # custom: List[CompanyScraper] = [JPMorganScraper()]
+        # for scraper in custom:
+        #     name, jobs, link = scraper.get_jobs()
+        #     process_jobs(data, ScrapeResult(name, jobs, link), new_jobs)
+            
         print(f"Total companies with no jobs: {total_companies_with_no_jobs}")
         return {"data": data, "new_jobs": new_jobs}
 
@@ -199,3 +173,4 @@ class Actions:
 
     def get_selector(self, action: str) -> str:
         return action[action.index(":") + 1:].strip()
+    
