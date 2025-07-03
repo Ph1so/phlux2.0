@@ -670,6 +670,8 @@ Here's an example:
 - Staff Software Engineer, Product - Engineering • Foster City, CA (Hybrid) In office M,W,F • Full time
 - Director of Support - Support • Foster City, CA (Hybrid) In office M,W,F • Full time
 - Senior Manager of Customer Support - Support • Foster City, CA (Hybrid) In office M,W,F • Full time
+- Director of Strategic Finance - Operations • Foster City, CA (Hybrid) In office M,W,F • Full time
+- Senior Financial Analyst - Operations • Foster City, CA (Hybrid) In office M,W,F • Full time
 </details>
 
 <details>
@@ -866,6 +868,11 @@ Here's an example:
 - Software Developer - Core Data Services
 - Software Developer | Senior C++ | Experienced Hire
 - Sell Side Research Internship: Summer 2026
+- Macro Analyst Internship: Summer 2026
+- Equity Analyst Internship: Summer 2026
+- Credit Analyst Internship: Summer 2026
+- Talent Sourcer
+- Technology Recruiter
 </details>
 
 <details>
