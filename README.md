@@ -903,6 +903,7 @@ Here's an example:
 - Machine Learning Engineer Intern (E-commerce-Intelligent Customer Service) - 2025 Summer/Fall (MS)
 - Machine Learning Engineer Intern (Creative AI) - 2025 Summer (BS/MS)
 - Machine Learning Engineer Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS)
+- Machine Learning Engineer Intern (TikTok-Recommendation- E-commerce) - 2025 Fall (Master)
 </details>
 
 <details>
