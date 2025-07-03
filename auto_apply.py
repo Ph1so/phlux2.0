@@ -68,8 +68,24 @@ class AutoApplyBot:
         def select_dropdown(id, value):
             WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, id)))
             select_elem = Select(driver.find_element(By.ID, id))
-            select_elem.select_by_visible_text(value)
-            log.info(f"Selected '{value}' from dropdown '{id}'")
+
+            # Log all dropdown options
+            log.info(f"Available options for '{id}':")
+            for idx, option in enumerate(select_elem.options):
+                log.info(f"  [{idx}] '{option.text}'")
+
+            try:
+                select_elem.select_by_visible_text(value)
+                log.info(f"Selected '{value}' from dropdown '{id}'")
+            except:
+                log.warning(f"Value '{value}' not found in dropdown '{id}', selecting first non-default option.")
+                try:
+                    # Use index 1 if index 0 is a placeholder like "Select..."
+                    select_elem.select_by_index(1)
+                    log.info(f"Selected '{select_elem.options[1].text}' from dropdown '{id}' as fallback")
+                except Exception as e:
+                    log.error(f"Failed to select any option from dropdown '{id}': {e}")
+
 
         select_dropdown("country", "United States")
         select_dropdown("state", STATE)
