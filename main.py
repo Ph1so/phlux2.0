@@ -70,7 +70,7 @@ def main() -> None:
     new_jobs = result["new_jobs"]
 
     # Special case: run autoApply only after all scraping
-    susquehanna_jobs = new_jobs["companies"].get("Susquehanna").get("jobs")
+    susquehanna_jobs = new_jobs["companies"].get("Susquehanna", []).get("jobs", [])
     print(new_jobs)
     if susquehanna_jobs:
         print(f"Auto apply: {susquehanna_jobs}")
