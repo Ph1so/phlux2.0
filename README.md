@@ -444,6 +444,7 @@ Here's an example:
 - Software Engineer 2
 - Senior University Recruiter
 - Strategy & Product Marketing Co-op (8 months)
+- Content Marketing Co-op (8 months)
 </details>
 
 <details>
@@ -859,7 +860,6 @@ Here's an example:
 - Learning + Development Coordinator
 - Machine Learning Researcher - PhD: 2026
 - Quantitative Researcher – PhD: 2026
-- Quantitative Strategy Developer Internship: Summer 2026
 - Fixed Income/Convertible Bonds Operations Co-op with Drexel University: Fall/Winter B Round
 - Portfolio Manager Assistant
 - Audit Co-op with Drexel University: Fall/Winter B Round
@@ -867,12 +867,12 @@ Here's an example:
 - Learning and Development Specialist
 - Software Developer - Core Data Services
 - Software Developer | Senior C++ | Experienced Hire
-- Sell Side Research Internship: Summer 2026
 - Macro Analyst Internship: Summer 2026
 - Talent Sourcer
 - Technology Recruiter
 - Equity Analyst Internship: Summer 2026
 - Credit Analyst Internship: Summer 2026
+- Sell Side Research Internship: Summer 2026
 </details>
 
 <details>
