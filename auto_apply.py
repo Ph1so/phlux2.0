@@ -69,9 +69,13 @@ class AutoApplyBot:
             WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.ID, id)))
             select_elem = Select(driver.find_element(By.ID, id))
 
-            # Log all dropdown options
+            # Wait for options to load dynamically (especially for 'state')
+            WebDriverWait(driver, 10).until(lambda d: len(Select(d.find_element(By.ID, id)).options) > 1)
+            select_elem = Select(driver.find_element(By.ID, id))  # re-select after wait
+
+            options = select_elem.options
             log.info(f"Available options for '{id}':")
-            for idx, option in enumerate(select_elem.options):
+            for idx, option in enumerate(options):
                 log.info(f"  [{idx}] '{option.text}'")
 
             try:
@@ -80,11 +84,13 @@ class AutoApplyBot:
             except:
                 log.warning(f"Value '{value}' not found in dropdown '{id}', selecting first non-default option.")
                 try:
-                    # Use index 1 if index 0 is a placeholder like "Select..."
-                    select_elem.select_by_index(1)
-                    log.info(f"Selected '{select_elem.options[1].text}' from dropdown '{id}' as fallback")
+                    first_valid_index = 1 if options[0].text.lower().startswith("select") else 0
+                    fallback_option = options[first_valid_index].text
+                    select_elem.select_by_index(first_valid_index)
+                    log.info(f"Fallback: selected '{fallback_option}' from dropdown '{id}'")
                 except Exception as e:
                     log.error(f"Failed to select any option from dropdown '{id}': {e}")
+
 
 
         select_dropdown("country", "United States")
@@ -94,9 +100,8 @@ class AutoApplyBot:
 
         WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.ID, "sbtButton"))).click()
         log.info("Clicked submit button.")
-        driver.save_screenshot("screenshot.png")
         time.sleep(10)
-
+        driver.save_screenshot("screenshot.png")    
         driver.quit()
         log.info("Application submitted and browser closed.")
 
