@@ -18,6 +18,7 @@ from selenium.common.exceptions import NoSuchElementException, WebDriverExceptio
 
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
+from gspread_formatting import CellFormat, set_cell_format, TextFormat, HorizontalAlignment
 
 from phlux.config import load_config
 from phlux.scraping import ScrapeManager, load_company_data, autoApply
@@ -68,13 +69,8 @@ def send_email(message: dict, test: bool = False) -> None:
 
 def update_internship_tracker(jobs: List[str]) -> None:
     """
-    Update the Google Sheet with new internship job titles, the current date, and "Applied" status.
-    - Sheet: https://docs.google.com/spreadsheets/d/1pZMYgV4GJZJIwyTSG4-ufWeUnJNE7ZQzcFk35qJj7QI/edit#gid=393882033
-    - Tab: "Phi26"
-    - Columns:
-        A: Job title
-        B: Date added (MM/DD/YYYY)
-        C: Applied status
+    Update the Google Sheet with new internship job titles, the current date (no leading 0s), and "Applied".
+    Right-aligns the date column.
     """
     creds_dict = json.loads(os.environ["GOOGLE_KEY_JSON"])
     scope = [
@@ -87,19 +83,19 @@ def update_internship_tracker(jobs: List[str]) -> None:
     spreadsheet = client.open_by_key("1pZMYgV4GJZJIwyTSG4-ufWeUnJNE7ZQzcFk35qJj7QI")
     worksheet = spreadsheet.worksheet("Phi26")
 
-    # Find first empty row in Column A
     col_values = worksheet.col_values(1)
     start_row = len(col_values) + 1
+    now = f"{datetime.now().month}/{datetime.now().day}/{datetime.now().year}"
 
-    # Current date for all entries
-    now = datetime.now().strftime("%m/%d/%Y")
-
-    # Prepare rows: [[Job Title, Date, "Applied"]]
     rows = [[job, now, "Applied"] for job in jobs]
-
-    # Update columns A–C (e.g., A12:C20)
     end_row = start_row + len(rows) - 1
     worksheet.update(f"A{start_row}:C{end_row}", rows)
+
+    # Apply right alignment to date cells (Column B)
+    from gspread_formatting import format_cell_range
+    right_align = CellFormat(horizontalAlignment='RIGHT')
+    format_cell_range(worksheet, f"B{start_row}:B{end_row}", right_align)
+
 
 def main() -> None:
     config = load_config()
@@ -119,7 +115,7 @@ def main() -> None:
 
     Path("storage.json").write_text(json.dumps(data, indent=2), encoding="utf-8")
     if new_jobs.get("companies"):
-        send_email(new_jobs, test = True)
+        send_email(new_jobs, test = False)
 
 if __name__ == "__main__":
     main()

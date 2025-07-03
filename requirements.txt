@@ -7,3 +7,4 @@ python-dotenv
 requests
 gspread
 oauth2client
+gspread-formatting
