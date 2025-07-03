@@ -24,7 +24,7 @@ class AutoApplyBot:
             {
                 "company": "AMD",
                 "url": "...",
-                "titles": ["Software Test Engineering Intern/Co-Op (Undergraduate | Fall 2025 | Hybrid)"]
+                "jobs": ["Software Test Engineering Intern/Co-Op (Undergraduate | Fall 2025 | Hybrid)"]
             }
         ]
         """

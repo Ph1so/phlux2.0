@@ -89,7 +89,7 @@ def update_internship_tracker(jobs: List[str]) -> None:
 
     rows = [[job, now, "Applied"] for job in jobs]
     end_row = start_row + len(rows) - 1
-    worksheet.update(f"A{start_row}:C{end_row}", rows)
+    worksheet.update(values=rows, range_name=f"A{start_row}:C{end_row}")
 
     # Apply right alignment to date cells (Column B)
     from gspread_formatting import format_cell_range
