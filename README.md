@@ -588,6 +588,7 @@ Here's an example:
 - Security Engineering Intern, Omniverse - Fall 2025
 - Applied AI Research Engineering Intern - Fall 2025
 - Performance Engineer Intern, Gaming - Winter/Spring 2026
+- Software Engineering Intern, Robot Learning Platform - Fall 2025
 </details>
 
 <details>
