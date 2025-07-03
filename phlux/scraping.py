@@ -14,6 +14,7 @@ import csv
 import json
 import time
 import os
+import requests
 
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -65,6 +66,8 @@ def get_jobs_headless(name: str, urls: str, instructions: str, headless=True) ->
                         time.sleep(2)
                         elements = driver.find_elements(By.CSS_SELECTOR, selector)
                         jobs += [el.text.strip() for el in elements if el.text.strip()]
+                        if name == "Susquehanna":
+                            autoApply(jobs)
 
                     elif action_type == CLICK:
                         try:
@@ -96,6 +99,35 @@ def get_jobs_headless(name: str, urls: str, instructions: str, headless=True) ->
         print(f"✅ Jobs found - {name}")
     return jobs
 
+def autoApply(jobs: List[str]):
+    """
+        Takes a list of job names and auto applies to each
+    """
+    url = "https://careers.sig.com/global-susquehanna-jobs"
+    token = os.environ["GH_TOKEN"]
+    repo = "Ph1so/phlux2.0"
+    workflow_id = "auto-apply.yml"
+    driver = get_driver()
+    driver.get(url)
+    for job in jobs:
+        element = driver.find_element(By.XPATH, f"//*[contains(normalize-space(), '{job}')]")
+        job_seqno = element.get_attribute("data-ph-at-job-seqno-text")
+        print(f"Job {job} - {job_seqno}")
+        if job_seqno:   
+            response = requests.post(
+                f"https://api.github.com/repos/{repo}/actions/workflows/{workflow_id}/dispatches",
+                headers={
+                    "Accept": "application/vnd.github+json",
+                    "Authorization": f"Bearer {token}",
+                },
+                json={
+                    "ref": "main",
+                    "inputs": {
+                        "url": f"https://careers.sig.com/apply?jobSeqNo={job_seqno}"
+                    }
+                }
+            )
+            print(response.status_code, response.text)
 
 def load_company_data(csv_path: Path = Path("companies.csv")) -> List[Company]:
     """Load ``Company`` entries from ``companies.csv``."""
