@@ -42,6 +42,7 @@ jobs:
       - name: Run job scraper
         env:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: .venv/bin/python main.py
 
       - name: Generate README
