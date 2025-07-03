@@ -11,6 +11,8 @@ import os
 
 import requests
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.ui import WebDriverWait
 from selenium.common.exceptions import NoSuchElementException, WebDriverException
 
 from phlux.config import load_config
@@ -80,7 +82,10 @@ def autoApply(jobs: List[str], url: str):
                 continue  # skip irrelevant jobs
 
             try:
-                element = driver.find_element(By.XPATH, f"//*[contains(normalize-space(), '{job}')]")
+                element = WebDriverWait(driver, 15).until(
+                    EC.presence_of_element_located((By.XPATH,
+                "//a[.//div[contains(@class, 'job-title')]/span[normalize-space() = 'Equity Analyst Internship: Summer 2026']]"))
+                )
                 job_seqno = element.get_attribute("data-ph-at-job-seqno-text")
             except NoSuchElementException:
                 print(f"⚠️ Element for job '{job}' not found on page.")
