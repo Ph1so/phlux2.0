@@ -76,6 +76,7 @@ def autoApply(jobs: List[str]):
         driver.get(url)
 
         for job in jobs:
+            print("Auto Apply Job: {job}")
             if "Summer 2026" not in job:
                 continue  # skip irrelevant jobs
 
@@ -133,12 +134,14 @@ def main() -> None:
 
     # Special case: run autoApply only after all scraping
     susquehanna_jobs = new_jobs["companies"].get("Susquehanna", [])
+    print(new_jobs)
     if susquehanna_jobs:
+        print(f"Auto apply: {susquehanna_jobs}")
         autoApply(susquehanna_jobs)
 
     Path("storage.json").write_text(json.dumps(data, indent=2), encoding="utf-8")
     if new_jobs.get("companies"):
-        send_email(new_jobs, test = False)
+        send_email(new_jobs, test = True)
 
 if __name__ == "__main__":
     main()
