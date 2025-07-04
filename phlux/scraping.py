@@ -28,19 +28,12 @@ CLICK = "CLICK"
 FILTER = "FILTER"
 ACTION_TYPES = [CSS, CLICK, FILTER]
 
-
 @retry(wait=wait_fixed(5), stop=stop_after_attempt(5))
 def get_jobs_headless(name: str, urls: str, instructions: str, headless=True) -> List[str]:
     """Scrape job titles from ``url`` using a sequence of instructions."""
     driver = get_driver(headless=headless)
-    # driver.execute_cdp_cmd("Page.addScriptToEvaluateOnNewDocument", {
-    #     "source": """
-    #         Object.defineProperty(navigator, 'webdriver', {
-    #             get: () => undefined
-    #         })
-    #     """
-    # })
-
+    if instructions[0] == '"' and instructions[-1] == '"':
+        instructions = instructions[1,-1]
     actions = Actions(instructions.split("->"))
     jobs = []
     try:
@@ -50,40 +43,70 @@ def get_jobs_headless(name: str, urls: str, instructions: str, headless=True) ->
                 time.sleep(3)
                 for action in actions:
                     if ":" not in action:
-                        print(f"⚠️ Invalid action format: {action}")
+                        print(f"\u26a0\ufe0f Invalid action format: {action}")
                         continue
 
                     action_type = actions.get_type(action)
                     selector = actions.get_selector(action)
+                    use_pointer = actions.has_flag(action, "pointer")
 
                     if action_type not in ACTION_TYPES:
-                        print(f"⚠️ Unknown action type '{action_type}' for {name}")
+                        print(f"\u26a0\ufe0f Unknown action type '{action_type}' for {name}")
                         continue
 
-                    if action_type == CSS:
-                        WebDriverWait(driver, 15).until(
-                            EC.presence_of_all_elements_located((By.CSS_SELECTOR, selector))
-                        )
-                        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-                        time.sleep(2)
-                        elements = driver.find_elements(By.CSS_SELECTOR, selector)
-                        jobs += [el.text.strip() for el in elements if el.text.strip()]
+                    elif action_type == CSS:
+                        if ">>" in selector:
+                            parent_selector, child_selector = map(str.strip, selector.split(">>", 1))
+
+                            WebDriverWait(driver, 15).until(
+                                EC.presence_of_all_elements_located((By.CSS_SELECTOR, parent_selector))
+                            )
+                            parents = driver.find_elements(By.CSS_SELECTOR, parent_selector)
+
+                            for el in parents:
+                                try:
+                                    child = el.find_element(By.CSS_SELECTOR, child_selector)
+                                    text = child.text.strip()
+                                    if text:
+                                        jobs.append(text)
+                                except Exception:
+                                    continue
+                        else:
+                            WebDriverWait(driver, 15).until(
+                                EC.presence_of_all_elements_located((By.CSS_SELECTOR, selector))
+                            )
+                            elements = driver.find_elements(By.CSS_SELECTOR, selector)
+                            for el in elements:
+                                text = el.text.strip()
+                                if text:
+                                    jobs.append(text)
+
 
                     elif action_type == CLICK:
                         try:
                             if selector[0] == "'" and selector[-1] == "'":
                                 xpath_text = selector[1:-1]
                                 element = WebDriverWait(driver, 15).until(
-                                    EC.presence_of_element_located((By.XPATH, f"//*[contains(normalize-space(), '{xpath_text}')]"))
+                                    EC.presence_of_element_located((By.XPATH, xpath_text))
                                 )
                             else:
                                 element = WebDriverWait(driver, 15).until(
                                     EC.presence_of_element_located((By.CSS_SELECTOR, selector))
                                 )
-                            driver.execute_script("arguments[0].click();", element)
+
+                            if use_pointer:
+                                driver.execute_script("""
+                                    const el = arguments[0];
+                                    el.dispatchEvent(new MouseEvent('pointerdown', { bubbles: true }));
+                                    el.dispatchEvent(new MouseEvent('mousedown', { bubbles: true }));
+                                    el.dispatchEvent(new MouseEvent('mouseup', { bubbles: true }));
+                                    el.dispatchEvent(new MouseEvent('click', { bubbles: true }));
+                                """, element)
+                            else:
+                                driver.execute_script("arguments[0].click();", element)
                             time.sleep(2)
                         except Exception as exc:
-                            print(f"❌ Failed clicking for {name} - {exc}")
+                            print(f"\u274c Failed clicking for {name} - {exc}")
 
                     elif action_type == FILTER:
                         jobs = [j for j in jobs if selector.lower() in j.lower()]
@@ -94,13 +117,12 @@ def get_jobs_headless(name: str, urls: str, instructions: str, headless=True) ->
     finally:
         driver.quit()
     if jobs == []:
-        print(f"❌ No jobs found - {name}")
+        print(f"\u274c No jobs found - {name}")
     else:
-        print(f"✅ Jobs found - {name}")
+        print(f"\u2705 Jobs found - {name}")
     return jobs
 
 def load_company_data(csv_path: Path = Path("companies.csv")) -> List[Company]:
-    """Load ``Company`` entries from ``companies.csv``."""
     companies = []
     with open(csv_path, newline="", encoding="utf-8") as f:
         reader = csv.DictReader(f)
@@ -108,9 +130,7 @@ def load_company_data(csv_path: Path = Path("companies.csv")) -> List[Company]:
             companies.append(Company(row["Name"].strip(), row["Link"].strip().strip('"\''), row["ClassName"].strip()))
     return companies
 
-
 def process_jobs(data: Dict[str, Dict[str, List[str]]], result: ScrapeResult, new_jobs: Dict) -> None:
-    """Update ``data`` with ``result`` and record any new jobs."""
     existing = data.setdefault("companies", {}).get(result.name, [])
     new_list = []
     for job in result.jobs:
@@ -121,11 +141,7 @@ def process_jobs(data: Dict[str, Dict[str, List[str]]], result: ScrapeResult, ne
     if new_list:
         new_jobs.setdefault("companies", {})[result.name] = {"jobs": new_list, "link": result.link}
 
-
 def autoApply(jobs: List[str], url: str):
-    """
-    Takes a list of job names and auto-applies to each job on SIG's careers site.
-    """
     token = os.environ.get("GH_TOKEN")
     if not token:
         raise RuntimeError("GH_TOKEN not set in environment")
@@ -140,7 +156,7 @@ def autoApply(jobs: List[str], url: str):
         for job in jobs:
             print(f"Auto Apply Job: {job}")
             if "Summer 2026" not in job:
-                continue  # skip irrelevant jobs
+                continue
 
             try:
                 element = WebDriverWait(driver, 15).until(
@@ -149,11 +165,11 @@ def autoApply(jobs: List[str], url: str):
                 )
                 job_seqno = element.get_attribute("data-ph-at-job-seqno-text")
             except NoSuchElementException:
-                print(f"⚠️ Element for job '{job}' not found on page.")
+                print(f"\u26a0\ufe0f Element for job '{job}' not found on page.")
                 continue
 
             if not job_seqno:
-                print(f"⚠️ No job_seqno found for job '{job}'. Skipping.")
+                print(f"\u26a0\ufe0f No job_seqno found for job '{job}'. Skipping.")
                 continue
 
             apply_url = f"https://careers.sig.com/apply?jobSeqNo={job_seqno}"
@@ -170,27 +186,26 @@ def autoApply(jobs: List[str], url: str):
                             "url": apply_url
                         }
                     },
-                    timeout=10  # prevent hanging
+                    timeout=10
                 )
                 if response.status_code == 204:
-                    print(f"✅ Successfully triggered workflow for: {job}")
+                    print(f"\u2705 Successfully triggered workflow for: {job}")
                 else:
-                    print(f"❌ Failed to trigger workflow for: {job} | Status: {response.status_code} | Response: {response.text}")
+                    print(f"\u274c Failed to trigger workflow for: {job} | Status: {response.status_code} | Response: {response.text}")
 
             except requests.RequestException as e:
-                print(f"❌ HTTP error while applying to job '{job}': {e}")
+                print(f"\u274c HTTP error while applying to job '{job}': {e}")
 
     except WebDriverException as e:
-        print(f"❌ WebDriver error: {e}")
+        print(f"\u274c WebDriver error: {e}")
 
     finally:
         try:
             driver.quit()
         except Exception:
             pass
-class ScrapeManager:
-    """Orchestrates scraping of all companies."""
 
+class ScrapeManager:
     def __init__(self, config_path: Path | str = load_config.__defaults__[0]):
         self.config = load_config(config_path)
 
@@ -217,21 +232,11 @@ class ScrapeManager:
                     total_companies_with_no_jobs += 1
                 process_jobs(data, ScrapeResult(company.name, jobs, company.link), new_jobs)
 
-        # built-in scrapers
-        # custom: List[CompanyScraper] = [JPMorganScraper()]
-        # for scraper in custom:
-        #     name, jobs, link = scraper.get_jobs()
-        #     process_jobs(data, ScrapeResult(name, jobs, link), new_jobs)
-            
         print(f"Total companies with no jobs: {total_companies_with_no_jobs}")
         return {"data": data, "new_jobs": new_jobs}
 
 class Actions:
     def __init__(self, actions: List[str]):
-        """
-        Example actions:
-            ["CLICK:div.accordion.EARLYTALENT p", "CSS:div.panel.EARLYTALENT p.job a"]
-        """
         self.actions = actions
 
     def __iter__(self):
@@ -241,5 +246,8 @@ class Actions:
         return action[:action.index(":")].strip()
 
     def get_selector(self, action: str) -> str:
-        return action[action.index(":") + 1:].strip()
-    
+        raw = action[action.index(":") + 1:].strip()
+        return raw.replace(":pointer", "").strip()
+
+    def has_flag(self, action: str, flag: str) -> bool:
+        return f":{flag}" in action
