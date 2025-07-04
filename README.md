@@ -683,6 +683,7 @@ Here's an example:
 - Senior Manager of Customer Support - Support • Foster City, CA (Hybrid) In office M,W,F • Full time
 - Director of Strategic Finance - Operations • Foster City, CA (Hybrid) In office M,W,F • Full time
 - Senior Financial Analyst - Operations • Foster City, CA (Hybrid) In office M,W,F • Full time
+- Agent Platform Engineer - Engineering • Foster City, CA (Hybrid) In office M,W,F • Full time • Hybrid
 </details>
 
 <details>
