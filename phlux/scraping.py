@@ -47,6 +47,7 @@ def get_jobs_headless(name: str, urls: str, instructions: str, headless=True) ->
         for url in urls.split("->"):
             try:
                 driver.get(url)
+                time.sleep(3)
                 for action in actions:
                     if ":" not in action:
                         print(f"⚠️ Invalid action format: {action}")
@@ -60,7 +61,7 @@ def get_jobs_headless(name: str, urls: str, instructions: str, headless=True) ->
                         continue
 
                     if action_type == CSS:
-                        WebDriverWait(driver, 10).until(
+                        WebDriverWait(driver, 15).until(
                             EC.presence_of_all_elements_located((By.CSS_SELECTOR, selector))
                         )
                         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
@@ -72,12 +73,12 @@ def get_jobs_headless(name: str, urls: str, instructions: str, headless=True) ->
                         try:
                             if selector[0] == "'" and selector[-1] == "'":
                                 xpath_text = selector[1:-1]
-                                element = WebDriverWait(driver, 5).until(
-                                    EC.element_to_be_clickable((By.XPATH, f"//*[contains(normalize-space(), '{xpath_text}')]"))
+                                element = WebDriverWait(driver, 15).until(
+                                    EC.presence_of_element_located((By.XPATH, f"//*[contains(normalize-space(), '{xpath_text}')]"))
                                 )
                             else:
-                                element = WebDriverWait(driver, 5).until(
-                                    EC.element_to_be_clickable((By.CSS_SELECTOR, selector))
+                                element = WebDriverWait(driver, 15).until(
+                                    EC.presence_of_element_located((By.CSS_SELECTOR, selector))
                                 )
                             driver.execute_script("arguments[0].click();", element)
                             time.sleep(2)
