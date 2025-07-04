@@ -53,9 +53,11 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://amazon.jobs/content/en/teams/amazon-web-services/internships?country%5B%5D=US&employment-type%5B%5D=Intern"><strong>AWS</strong></a></summary>
+<summary><a href="https://amazon.jobs/content/en/teams/amazon-web-services/internships?country%5B%5D=US"><strong>AWS</strong></a></summary>
 
 - Data Center Security Specialist Intern
+- 2025 ASIC Physical Design Engineer Intern, Annapurna Labs
+- ASIC RTL Engineer, Annapurna Labs
 </details>
 
 <details>
@@ -74,13 +76,22 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&country%5B%5D=USA&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=intern&city=&country=&region=&county=&query_options=&"><strong>Amazon</strong></a></summary>
+<summary><a href="https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=recent&country%5B%5D=USA&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=intern&city=&country=&region=&county=&query_options=&"><strong>Amazon</strong></a></summary>
 
 - Jr. Software Development Engineer - San Diego, CA
 - Jr. Software Development Engineer - Santa Cruz, CA
 - Jr. Software Development Engineer - Detroit
 - Jr. Software Development Engineer- San Luis Obispo
 - Jr. Software Development Engineer - Sunnyvale, CA
+- Fall 2025 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics
+- Fall 2025 Applied Science Internship - United States, PhD Student Science Recruiting, Frontier AI & Robotics
+- Fall 2025 Applied Science Internship - Information & Knowledge Management (Machine Learning) - United States, PhD Student Science Recruiting
+- Fall 2025 Research Science Internship - Robotics - United States, PhD Student Science Recruiting
+- Fall 2025 Applied Science Internship - Recommender Systems/ Information Retrieval (Machine Learning) - United States, PhD Student Science Recruiting
+- Fall 2025 Applied Science Internship - Gen AI & Large Language Models - United States, PhD Student Science Recruiting
+- Fall 2025 Applied Science Internship - Computer Vision - United States, PhD Student Science Recruiting
+- ASIC Engineering Internship (Fall 2025) - RFIC/Communications Systems, Project Kuiper
+- 2026 Amazon Finance Rotation Program - Accounting Intern
 </details>
 
 <details>
