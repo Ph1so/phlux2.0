@@ -12,7 +12,7 @@
 
 Here's an example: 
 ![Using add_company.py](public/cli.png)
-## Current job listings found by phlux (93 companies)
+## Current job listings found by phlux (94 companies)
 
 <details>
 <summary><a href="https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States"><strong>AMD</strong></a></summary>
@@ -765,6 +765,14 @@ Here's an example:
 - Platform & Security Account Executive - Polish and English speaking
 - Onboarding Specialist - INTERNAL ONLY
 - Senior Manager Software Engineering
+</details>
+
+<details>
+<summary><a href="https://scale.com/careers#open-roles"><strong>Scale AI</strong></a></summary>
+
+- Human Frontier Collective Specialist - GenAI
+- Sales Development Intern
+- Sales Development Intern
 </details>
 
 <details>
