@@ -330,6 +330,7 @@ Here's an example:
 - Sales Development Representative (Middle East)
 - Sales Development Representative (CEE)
 - Sales Development Representative (UKI)
+- Sales Development Representative (France)
 </details>
 
 <details>
