@@ -445,6 +445,8 @@ Here's an example:
 - Senior University Recruiter
 - Strategy & Product Marketing Co-op (8 months)
 - Content Marketing Co-op (8 months)
+- Marketing Technology & Data Activation Co-op (8 months)
+- Brand Marketing Co-Op (8 months)
 </details>
 
 <details>
@@ -586,6 +588,7 @@ Here's an example:
 - Security Engineering Intern, Omniverse - Fall 2025
 - Applied AI Research Engineering Intern - Fall 2025
 - Performance Engineer Intern, Gaming - Winter/Spring 2026
+- Software Engineering Intern, Robot Learning Platform - Fall 2025
 </details>
 
 <details>
@@ -901,6 +904,7 @@ Here's an example:
 - Machine Learning Engineer Intern (E-commerce-Intelligent Customer Service) - 2025 Summer/Fall (MS)
 - Machine Learning Engineer Intern (Creative AI) - 2025 Summer (BS/MS)
 - Machine Learning Engineer Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS)
+- Machine Learning Engineer Intern (TikTok-Recommendation- E-commerce) - 2025 Fall (Master)
 </details>
 
 <details>
