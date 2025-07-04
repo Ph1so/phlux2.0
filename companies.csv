@@ -5,9 +5,9 @@ Google,https://www.google.com/about/careers/applications/jobs/results/?category=
 Nvidia,https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8,CSS:.css-19uc56f
 Meta,https://www.metacareers.com/jobs?sort_by_new=true&roles[0]=Internship,CSS:._6g3g.x10lme4x.x26uert.xngnso2.x117nqv4.x1mnlqng.x1e096f4 
 Netflix,https://explore.jobs.netflix.net/careers?domain=netflix.com&query=%22internship%22%20-intern&pid=790299250747&sort_by=relevance,CSS:.position-title.line-clamp.line-clamp-2
-AWS,https://amazon.jobs/content/en/teams/amazon-web-services/internships?country%5B%5D=US&employment-type%5B%5D=Intern,CSS:div h3 a
+AWS,https://amazon.jobs/content/en/teams/amazon-web-services/internships?country%5B%5D=US,CSS:div h3 a
 Pinterest,https://www.pinterestcareers.com/jobs/?orderby=0&pagesize=20&page=1&radius=100&team=University,CSS:.stretched-link.js-view-job
-Amazon,https://amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&country%5B%5D=USA&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=intern&city=&country=&region=&county=&query_options=&,CSS:.job-link
+Amazon,https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=recent&country%5B%5D=USA&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=intern&city=&country=&region=&county=&query_options=&,CSS:.job-link
 ispace,https://jobs.lever.co/ispace-inc?commitment=Intern,CSS:.posting-title
 Welch's,https://app.careerpuck.com/job-board/welchs/?departmentId=6vcaTkfP,CSS:.sc-VLMBG.dQYkAG
 Apple,https://jobs.apple.com/en-us/search?location=united-states-USA&team=internships-STDNT-INTRN,CSS:.link-inline.t-intro.word-wrap-break-word
