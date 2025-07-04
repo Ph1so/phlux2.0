@@ -12,7 +12,7 @@
 
 Here's an example: 
 ![Using add_company.py](public/cli.png)
-## Current job listings found by phlux (91 companies)
+## Current job listings found by phlux (92 companies)
 
 <details>
 <summary><a href="https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States"><strong>AMD</strong></a></summary>
@@ -342,6 +342,13 @@ Here's an example:
 <summary><a href="https://careers.expediagroup.com/jobs/?keyword=emerging+talent+and+careers&&filter[category]=Technology"><strong>Expedia</strong></a></summary>
 
 - EGGP - Software Development Engineer I
+</details>
+
+<details>
+<summary><a href="https://jobs.lever.co/genesistherapeutics?commitment=Internship"><strong>Genesis Therapeutics</strong></a></summary>
+
+- ML Research Intern, BS/MS - 2026
+- ML Research Intern, PhD - 2026
 </details>
 
 <details>
@@ -676,6 +683,7 @@ Here's an example:
 - Senior Manager of Customer Support - Support • Foster City, CA (Hybrid) In office M,W,F • Full time
 - Director of Strategic Finance - Operations • Foster City, CA (Hybrid) In office M,W,F • Full time
 - Senior Financial Analyst - Operations • Foster City, CA (Hybrid) In office M,W,F • Full time
+- Agent Platform Engineer - Engineering • Foster City, CA (Hybrid) In office M,W,F • Full time • Hybrid
 </details>
 
 <details>
