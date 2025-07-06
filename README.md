@@ -12,7 +12,7 @@
 
 Here's an example: 
 ![Using add_company.py](public/cli.png)
-## Current job listings found by phlux (95 companies)
+## Current job listings found by phlux (97 companies)
 
 <details>
 <summary><a href="https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States"><strong>AMD</strong></a></summary>
@@ -347,6 +347,13 @@ Here's an example:
 </details>
 
 <details>
+<summary><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><strong>Disney</strong></a></summary>
+
+- Infrastructure Services Intern, Fall 2025
+- Risk Management Intern, Fall 2025
+</details>
+
+<details>
 <summary><a href="https://careersatdoordash.com/university-careers/"><strong>Doordash</strong></a></summary>
 
 - Software Engineer I, Entry-Level (Graduation Date: Fall 2024-Summer 2025)
@@ -405,6 +412,17 @@ Here's an example:
 - Senior Enterprise Account Executive II
 - Senior Enterprise Account Executive II
 - Staff Software Engineer
+</details>
+
+<details>
+<summary><a href="https://www.goldmansachs.com/careers/students/programs-and-internships?1=gscom%3Aprogram-region-careers%2Famericas"><strong>Goldman Sachs</strong></a></summary>
+
+- 2026 Summer Analyst Program
+- Goldman Sachs Market Madness: HBCU Possibilities Program
+- Emerging Leaders Series
+- Virtual Insight Series
+- Goldman Sachs Possibilities Summits
+- Experienced Professional Hiring
 </details>
 
 <details>
