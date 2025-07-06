@@ -12,7 +12,7 @@
 
 Here's an example: 
 ![Using add_company.py](public/cli.png)
-## Current job listings found by phlux (97 companies)
+## Current job listings found by phlux (99 companies)
 
 <details>
 <summary><a href="https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States"><strong>AMD</strong></a></summary>
@@ -182,6 +182,14 @@ Here's an example:
 - Global Quantitative Data Analytics Summer 2026 Analyst - Analytics, Modeling and Insights (AMI)
 - Global Quantitative Data Analytics Summer 2026 Analyst - Enterprise Credit
 - Global Quantitative Data Analytics Summer 2026 Analyst - Global Risk Management
+</details>
+
+<details>
+<summary><a href="https://beli.breezy.hr/"><strong>Beli</strong></a></summary>
+
+- Senior Product Manager, Growth
+- Software Engineer
+- Resume Drop for Future Roles
 </details>
 
 <details>
