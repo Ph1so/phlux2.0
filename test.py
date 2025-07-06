@@ -9,9 +9,9 @@ from utils import get_driver
 import time
 # f"//*[contains(normalize-space(), '{xpath_text}')]"
 
-name="Scale AI"
-url="https://scale.com/careers#open-roles"
-instructions="CLICK:'//button[contains(text(), 'Accept Cookies')]'->CLICK:'//button[contains(text(), 'All Departments')]':pointer->CLICK:'//div[@role='menu']//div[text()='University']'->CSS:.positions-grid_body__LWSOW a >> p.p-6"
+name="Raytheon"
+url="https://careers.rtx.com/global/en/internship-search-results"
+instructions="CLICK:'United States of America':pointer->CSS:div.job-title span"
 
 headless=False
 driver = get_driver(headless=headless)
