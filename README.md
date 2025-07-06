@@ -12,7 +12,7 @@
 
 Here's an example: 
 ![Using add_company.py](public/cli.png)
-## Current job listings found by phlux (99 companies)
+## Current job listings found by phlux (100 companies)
 
 <details>
 <summary><a href="https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States"><strong>AMD</strong></a></summary>
@@ -713,6 +713,14 @@ Here's an example:
 - Software Engineer Internship | Frontend
 - Software Engineer Internship | iOS
 - University Grad: Customer Experience Agent
+</details>
+
+<details>
+<summary><a href="https://job-boards.greenhouse.io/embed/job_board?for=rsinternboard"><strong>Relativity</strong></a></summary>
+
+- Additive Manufacturing Modeling & Simulation Intern - Fall 2025
+- Propulsion Integration Engineer InternNew
+- Vehicle Structures Engineer Intern - Fall 2025
 </details>
 
 <details>
