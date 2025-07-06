@@ -816,6 +816,7 @@ Here's an example:
 - Strategic Student Program: Localization Project Management Co-Op (Fall 2025, T&I) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:468883
 - Strategic Student Program: Strategic Marketing & AI Applications Intern (Fall 2025, GSCS) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:469367
 - Strategic Student Program: Polarion Solution Engineering Internship (Fall 2025, GSCS) - Maryland Heights, MO - Work Type:Hybrid - Job Family:Internal Services - Req ID:467718
+- Business Development Representative Intern (Japan) - Work Type:Hybrid - Job Family:Sales - Req ID:5c5fa445-2bea-493f-8cf9-f15996ff38a6
 </details>
 
 <details>
