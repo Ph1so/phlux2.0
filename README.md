@@ -12,7 +12,7 @@
 
 Here's an example: 
 ![Using add_company.py](public/cli.png)
-## Current job listings found by phlux (104 companies)
+## Current job listings found by phlux (108 companies)
 
 <details>
 <summary><a href="https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States"><strong>AMD</strong></a></summary>
@@ -359,6 +359,14 @@ Here's an example:
 
 - Infrastructure Services Intern, Fall 2025
 - Risk Management Intern, Fall 2025
+</details>
+
+<details>
+<summary><a href="https://careers.docusign.com/jobs?tags1=Intern&limit=100&page=1"><strong>Docusign</strong></a></summary>
+
+- Marketing Intern
+- Software Engineer Intern (AI)
+- Software Engineer Intern (Post-Quantum Cryptography)
 </details>
 
 <details>
@@ -715,6 +723,21 @@ Here's an example:
 </details>
 
 <details>
+<summary><a href="https://careers.point72.com/?experience=internships"><strong>Point72</strong></a></summary>
+
+- Quantitative Research Intern (NLP)
+- 2025 Warsaw Market Intelligence – Platform Software Engineer Internship
+- Quantitative Research Intern
+- 2026 Point72 Academy Investment Analyst Summer Internship Program - Japan
+- 2026 Point72 Academy Investment Analyst Summer Internship Program - Singapore
+- 2026 Point72 Academy Investment Analyst Summer Internship Program - Hong Kong
+- 2026 Point72 Academy Investment Analyst Summer Internship Program - US
+- Quantitative Alpha Researcher Intern
+- Quantitative Researcher - Intern
+- Quantitative Researcher Intern
+</details>
+
+<details>
 <summary><a href="https://job-boards.greenhouse.io/radixuniversity"><strong>Radix Trading</strong></a></summary>
 
 - Quantitative Researcher (Full-Time - Master’s/Bachelor’s)
@@ -1008,6 +1031,17 @@ Here's an example:
 - Fall/Winter 2025 - CAD/Software Intern (6591)
 - [Summer 2026] TSMC AZ Internship Opportunities - Engineering Roles
 - Summer 2025 - Transistor Device Research, Intern (6528)
+</details>
+
+<details>
+<summary><a href="https://join.qq.com/post.html?query=p_2,w_407,w_408,w_401&c_t=2"><strong>Tencent</strong></a></summary>
+
+- IT Engineer Intern 105661
+- Procurement Intern 105209
+- Global Talent Sourcing Intern 105631
+- Global Talent Sourcing Intern 105630
+- Game Research & Development Intern, Engine Research 105487
+- Applied Machine Learning Intern 105214
 </details>
 
 <details>
