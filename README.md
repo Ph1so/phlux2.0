@@ -12,7 +12,7 @@
 
 Here's an example: 
 ![Using add_company.py](public/cli.png)
-## Current job listings found by phlux (108 companies)
+## Current job listings found by phlux (111 companies)
 
 <details>
 <summary><a href="https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States"><strong>AMD</strong></a></summary>
@@ -452,6 +452,21 @@ Here's an example:
 - Software Engineer, Systems Research, PhD, Early Career
 - Software Engineer, PhD, Early Career, Campus, Embedded Systems and Firmware, 2025 start
 - Software Engineer, PhD, Early Career, Campus, Systems and Infrastructure, 2025 Start
+</details>
+
+<details>
+<summary><a href="https://apply.hp.com/careers?query=internship&Seniority=graduate&Seniority=internship&Seniority=Apprenticeship&domain=hp.com"><strong>HP</strong></a></summary>
+
+- Industrial Engineering - Internship
+- Printing Systems Engineer Internship
+- Data Analyst Internship
+- AI Engineer Internship
+- Computer Security Research Intern
+- Year-round Inside Sales Intern
+- Supply Chain Intern
+- Business Analyst Intern - EMEA Marketplace
+- Business Analyst Intern
+- Electrical Engineer Intern
 </details>
 
 <details>
