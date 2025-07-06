@@ -96,3 +96,4 @@ Duolingo,https://careers.duolingo.com/?type=Intern#careers->https://careers.duol
 Scale AI,https://scale.com/careers#open-roles,"CLICK:'//button[contains(text(), 'Accept Cookies')]'->CLICK:'//button[contains(text(), 'All Departments')]':pointer->CLICK:'//div[@role='menu']//div[text()='University']'->CSS:.positions-grid_body__LWSOW a >> p.p-6"
 Coinbase,https://www.coinbase.com/careers/positions?department=Internships%2520%2526%2520Emerging%2520Talent%2520Positions,CSS:p.cds-typographyResets-t6muwls.cds-title3-t14ui7y5.cds-primary-pgii67x.cds-transition-t1qvlahm.cds-start-s1u0g7ow
 Disney,"https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]",CSS:ul li a h2
+Goldman Sachs,https://www.goldmansachs.com/careers/students/programs-and-internships?1=gscom%3Aprogram-region-careers%2Famericas,CSS:a.gs-link.gs-uitk-c-jdfrbi--link-root--link-anchor--text-content-list-header-link
