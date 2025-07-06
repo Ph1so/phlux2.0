@@ -12,7 +12,7 @@
 
 Here's an example: 
 ![Using add_company.py](public/cli.png)
-## Current job listings found by phlux (100 companies)
+## Current job listings found by phlux (104 companies)
 
 <details>
 <summary><a href="https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States"><strong>AMD</strong></a></summary>
@@ -536,6 +536,13 @@ Here's an example:
 </details>
 
 <details>
+<summary><a href="https://careers.leidos.com/pages/intern-jobs?ns_landing_page_jobs=/search/job-level/intern/jobs/in/country/united-states?ns_landing_page=1"><strong>Leidos</strong></a></summary>
+
+- Business Development Intern
+- Electronics Technician Co-op
+</details>
+
+<details>
 <summary><a href="https://www.metacareers.com/jobs?sort_by_new=true&roles[0]=Internship"><strong>Meta</strong></a></summary>
 
 - Research Scientist Intern, Computer Vision for Generative AI (PhD)
@@ -708,11 +715,49 @@ Here's an example:
 </details>
 
 <details>
+<summary><a href="https://job-boards.greenhouse.io/radixuniversity"><strong>Radix Trading</strong></a></summary>
+
+- Quantitative Researcher (Full-Time - Master’s/Bachelor’s)
+- Quantitative Researcher (Full-Time - PhD+)
+- Quantitative Technologist (Full-Time - DevOps)
+- Quantitative Technologist (Full-Time - DevOps - Night Shift)
+- 2025 Quantitative Technologist - Systems and Infrastructure (Full-Time)
+- Quantitative Technologist (Full-Time - FPGA Engineer, PhD)
+- Quantitative Technologist (C++ Intern - Summer 2026)
+- Quantitative Technologist (Full-Time - C++ Developer)
+</details>
+
+<details>
 <summary><a href="https://ramp.com/emerging-talent"><strong>Ramp</strong></a></summary>
 
 - Software Engineer Internship | Frontend
 - Software Engineer Internship | iOS
 - University Grad: Customer Experience Agent
+</details>
+
+<details>
+<summary><a href="https://razer.wd3.myworkdayjobs.com/Careers?jobFamilyGroup=5f89d961603401a62553f98eab0c3255"><strong>Razer</strong></a></summary>
+
+- Software (Cloud) Intern
+- Merchant Operation Support - Intern
+- Merchant Operation Support - Intern
+- Software Testing Intern
+- Software Testing Intern
+- Product Development (Intern)
+- Software Engineer Intern
+- Technical & Customer Service- Intern
+- Software (Development) Intern
+- Product Management Intern
+- Product Development (Intern)
+- Product Development (Intern)
+- Product UAT Test Writer & Test Coordinator (Intern)
+- Finance Intern
+- Data Analyst Intern
+- Product Development Intern
+- Intern, Sales Support & Operations
+- Business Management Intern
+- Software Engineer - Intern
+- Data Engineer (Intern)
 </details>
 
 <details>
