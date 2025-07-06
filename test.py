@@ -9,9 +9,9 @@ from utils import get_driver
 import time
 # f"//*[contains(normalize-space(), '{xpath_text}')]"
 
-name="Raytheon"
-url="https://careers.rtx.com/global/en/internship-search-results"
-instructions="CLICK:'United States of America':pointer->CSS:div.job-title span"
+name = "Robinhood"
+url = "https://careers.robinhood.com/"
+instructions = "CLICK:div.accordion.EARLYTALENT p->CSS:div.panel.EARLYTALENT p.job a"
 
 headless=False
 driver = get_driver(headless=headless)
