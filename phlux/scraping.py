@@ -29,7 +29,7 @@ FILTER = "FILTER"
 ACTION_TYPES = [CSS, CLICK, FILTER]
 
 @retry(wait=wait_fixed(5), stop=stop_after_attempt(5))
-def get_jobs_headless(name: str, urls: str, instructions: str, headless=True) -> List[str]:
+def get_jobs_headless(name: str, urls: str, instructions: str, headless=True, test=False) -> List[str]:
     """Scrape job titles from ``url`` using a sequence of instructions."""
     driver = get_driver(headless=headless)
     if instructions[0] == '"' and instructions[-1] == '"':
@@ -41,6 +41,9 @@ def get_jobs_headless(name: str, urls: str, instructions: str, headless=True) ->
             try:
                 driver.get(url)
                 time.sleep(3)
+                # with open("debug_page_source.html", "w", encoding="utf-8") as f:
+                #     f.write(driver.page_source)
+                # print("✅ Saved full page HTML to debug_page_source.html")
                 for action in actions:
                     if ":" not in action:
                         print(f"\u26a0\ufe0f Invalid action format: {action}")
@@ -115,6 +118,8 @@ def get_jobs_headless(name: str, urls: str, instructions: str, headless=True) ->
                 print(f"Timeout for {name} at {url}")
                 continue
     finally:
+        if test:
+            time.sleep(60)
         driver.quit()
     if jobs == []:
         print(f"\u274c No jobs found - {name}")

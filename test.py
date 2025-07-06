@@ -9,14 +9,15 @@ from utils import get_driver
 import time
 # f"//*[contains(normalize-space(), '{xpath_text}')]"
 
-name = "Robinhood"
-url = "https://careers.robinhood.com/"
-instructions = "CLICK:div.accordion.EARLYTALENT p->CSS:div.panel.EARLYTALENT p.job a"
+name = "Sony"
+url = "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers"
+instructions = "CLICK:'More':pointer"
+
 
 headless=False
 driver = get_driver(headless=headless)
 
-jobs = get_jobs_headless(name=name, urls=url, instructions=instructions, headless=headless)
+jobs = get_jobs_headless(name=name, urls=url, instructions=instructions, headless=headless, test = True)
 print(f"jobs found: {len(jobs)}\njobs: {jobs}")
 # driver.get(url)
 # try:
