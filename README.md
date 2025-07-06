@@ -12,7 +12,7 @@
 
 Here's an example: 
 ![Using add_company.py](public/cli.png)
-## Current job listings found by phlux (94 companies)
+## Current job listings found by phlux (95 companies)
 
 <details>
 <summary><a href="https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States"><strong>AMD</strong></a></summary>
@@ -287,6 +287,19 @@ Here's an example:
 
 - Machine Learning Intern/Co-op (Fall 2025)
 - Software Engineer Intern/Co-op (Fall 2025)
+</details>
+
+<details>
+<summary><a href="https://www.coinbase.com/careers/positions?department=Internships%2520%2526%2520Emerging%2520Talent%2520Positions"><strong>Coinbase</strong></a></summary>
+
+- Coordinator, Workplace Operations
+- CX WFM Capacity Planning Specialist
+- Offensive Security Engineer, Offensive Security
+- Senior Complaints Analyst
+- Software Engineer, Emerging Talent
+- Software Engineer, Emerging Talent
+- Software Engineer, Emerging Talent
+- Software Engineer, Emerging Talent
 </details>
 
 <details>
