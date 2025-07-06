@@ -12,7 +12,7 @@
 
 Here's an example: 
 ![Using add_company.py](public/cli.png)
-## Current job listings found by phlux (113 companies)
+## Current job listings found by phlux (114 companies)
 
 <details>
 <summary><a href="https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States"><strong>AMD</strong></a></summary>
@@ -1098,6 +1098,12 @@ Here's an example:
 - Machine Learning Engineer Intern (Creative AI) - 2025 Summer (BS/MS)
 - Machine Learning Engineer Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS)
 - Machine Learning Engineer Intern (TikTok-Recommendation- E-commerce) - 2025 Fall (Master)
+</details>
+
+<details>
+<summary><a href="https://apply.ukg.com/careers?pid=893380942429&Seniority=Intern&domain=ukg.com&sort_by=relevance&triggerGoButton=true"><strong>UKG</strong></a></summary>
+
+- Software Engineering Internship - Fall 2025
 </details>
 
 <details>
