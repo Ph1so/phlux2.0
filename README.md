@@ -655,6 +655,7 @@ Here's an example:
 <summary><a href="https://explore.jobs.netflix.net/careers?domain=netflix.com&query=%22internship%22%20-intern&pid=790299250747&sort_by=relevance"><strong>Netflix</strong></a></summary>
 
 - Machine Learning Intern, Fall 2025
+- Security Protocols Engineering Intern
 </details>
 
 <details>
