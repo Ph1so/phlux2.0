@@ -113,7 +113,6 @@ HP,https://apply.hp.com/careers?query=internship&Seniority=graduate&Seniority=in
 Skydio,https://www.skydio.com/careers#job-listing,CSS:.job-listings__title->FILTER:intern
 Sony,https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95,CSS:.css-19uc56f
 UKG,https://apply.ukg.com/careers?pid=893380942429&Seniority=Intern&domain=ukg.com&sort_by=relevance&triggerGoButton=true,CSS:.position-title.line-clamp.line-clamp-2
-Ramp,https://ramp.com/emerging-talent,CSS:div.careers-listings__title div.body-22
 Target,https://corporate.target.com/careers/job-search?referral=job-search-link&currentPage=1&jobAreas=Internships&profiles=Arrows%20Manager%7C%7CEntry%20Level&filtercondition=or,CSS:.search-results--title-link
 Amentum,https://www.amentumcareers.com/jobs/search?page=1&country_codes%5B%5D=US&query=%22Intern%22,CSS:td.job-search-results-title
 Boeing,https://jobs.boeing.com/category/internship-jobs/185/9287/1,CSS:.search-results__job-title
