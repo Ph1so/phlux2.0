@@ -12,7 +12,7 @@
 
 Here's an example: 
 ![Using add_company.py](public/cli.png)
-## Current job listings found by phlux (114 companies)
+## Current job listings found by phlux (117 companies)
 
 <details>
 <summary><a href="https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States"><strong>AMD</strong></a></summary>
@@ -206,6 +206,14 @@ Here's an example:
 - Spring 2026 Electrical Systems Engineering Internship - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52404
 - Spring 2026 Test Engineering Intern - Undergraduate - 4 Locations - Intern - Full Time - Intern - R52410
 - Spring 2026 Fluid Systems Engineering Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52406
+</details>
+
+<details>
+<summary><a href="https://jobs.boeing.com/category/internship-jobs/185/9287/1"><strong>Boeing</strong></a></summary>
+
+- SW Engineer Internship - Robotics
+- SW Engineering Internship - Cloud Systems
+- Digital Research Intern
 </details>
 
 <details>
@@ -1072,6 +1080,14 @@ Here's an example:
 - Fall/Winter 2025 - CAD/Software Intern (6591)
 - [Summer 2026] TSMC AZ Internship Opportunities - Engineering Roles
 - Summer 2025 - Transistor Device Research, Intern (6528)
+</details>
+
+<details>
+<summary><a href="https://corporate.target.com/careers/job-search?referral=job-search-link&currentPage=1&jobAreas=Internships&profiles=Arrows%20Manager%7C%7CEntry%20Level&filtercondition=or"><strong>Target</strong></a></summary>
+
+- Current Interns Only - UX Designer - Summer 2025
+- Current Interns Only Arrows for 2026
+- Inventory Analyst- Hybrid - Minneapolis, MN - (Starting September, 2025)
 </details>
 
 <details>
