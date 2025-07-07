@@ -9,9 +9,9 @@ from utils import get_driver
 import time
 # f"//*[contains(normalize-space(), '{xpath_text}')]"
 
-name = "Sony"
-url = "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers"
-instructions = "CLICK:'More':pointer"
+name = "Amentum"
+url = "https://www.amentumcareers.com/jobs/search?page=1&country_codes%5B%5D=US&query=%22Intern%22"
+instructions = "CLICK:.btn.btn-success.consent-agree->CSS:td.job-search-results-title"
 
 
 headless=False
