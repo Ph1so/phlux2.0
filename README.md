@@ -467,6 +467,7 @@ Here's an example:
 - Business Analyst Intern - EMEA Marketplace
 - Business Analyst Intern
 - Electrical Engineer Intern
+- College Intern - Smart Control Tower System Engineer
 </details>
 
 <details>
@@ -796,6 +797,7 @@ Here's an example:
 - Business Management Intern
 - Software Engineer - Intern
 - Data Engineer (Intern)
+- Regional Marketing Intern
 </details>
 
 <details>
@@ -983,6 +985,7 @@ Here's an example:
 - Research Intern for Deep Generative Modeling
 - Research Intern – Vision Foundation Model & GenAI
 - Intern - UI/UX Researcher – Human Factor Engineer
+- Stage - Assistant(e) communication marketing
 </details>
 
 <details>
