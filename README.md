@@ -114,6 +114,23 @@ Here's an example:
 </details>
 
 <details>
+<summary><a href="https://www.amentumcareers.com/jobs/search?page=1&country_codes%5B%5D=US&query=%22Intern%22"><strong>Amentum</strong></a></summary>
+
+- Intern - HR Projects Intern (Summer 2025)
+- Intern - HR Projects Intern (Summer 2025)
+- Geochemist Intern
+- Intern – Financial/Budget Analyst 1
+- Intern – Financial/Budget Analyst 1
+- Construction Intern Fall 2025 - Scoville, ID
+- Engineering Intern Fall 2025 - Scoville, ID
+- Construction Intern Summer 2025 - Scoville, ID
+- Intern - Project Support (Summer)
+- Telecom Summer Intern-Project Support
+- Supervising Architect I
+- Project Engineer - Countermeasures
+</details>
+
+<details>
 <summary><a href="https://jobs.apple.com/en-us/search?location=united-states-USA&team=internships-STDNT-INTRN"><strong>Apple</strong></a></summary>
 
 - Legal and Global Security Internships
