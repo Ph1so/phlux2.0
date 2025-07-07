@@ -1089,6 +1089,7 @@ Here's an example:
 - Credit Analyst Internship: Summer 2026
 - Sell Side Research Internship: Summer 2026
 - Macro Analyst Internship: Summer 2026
+- Technology Co-op with Drexel University: Fall/Winter B-Round
 </details>
 
 <details>
