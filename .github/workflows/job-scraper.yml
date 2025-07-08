@@ -45,6 +45,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GOOGLE_KEY_JSON: ${{ secrets.GOOGLE_KEY_JSON }}
           ICONS_ID: ${{secrets.ICONS_ID}}
+          ICONS_API: ${{secrets.ICONS_API}}
         run: .venv/bin/python main.py
 
       - name: Generate README
@@ -101,6 +102,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GOOGLE_KEY_JSON: ${{ secrets.GOOGLE_KEY_JSON }}
           ICONS_ID: ${{secrets.ICONS_ID}}
+          ICONS_API: ${{secrets.ICONS_API}}
         run: .venv/bin/python main.py
 
       - name: Generate README

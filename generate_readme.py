@@ -6,6 +6,7 @@ from collections import defaultdict
 from phlux.scrapers import CompanyScraper, JPMorganScraper
 
 from phlux.scraping import load_company_data
+from utils import update_icons
 
 def load_company_links(csv_path: str) -> dict:
     return {c.name: c.link for c in load_company_data(Path(csv_path))}
@@ -18,6 +19,7 @@ def load_jobs(json_path: str) -> dict:
     
 
 def generate_readme(jobs: dict, links: dict) -> str:
+    update_icons(companies=load_company_data())
     try:
         with open("icons.json", "r", encoding="utf-8") as f:
             icons = json.load(f)
@@ -51,7 +53,10 @@ def generate_readme(jobs: dict, links: dict) -> str:
         if not postings:
             continue
 
-        icon_url = icons.get(company)
+        icon_url = icons.get(company, {})
+        if not isinstance(icon_url, str):
+            icon_url = icon_url.get("readme", "")
+
         company_display = f'<img src="{icon_url}" alt="{company}" height="20" style="vertical-align:middle; margin-right:6px;"> {company}' if icon_url else company
         company_link = links.get(company, "#")
         linked_company = f"[{company_display}]({company_link})"

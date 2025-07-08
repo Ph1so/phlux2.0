@@ -21,12 +21,10 @@ from oauth2client.service_account import ServiceAccountCredentials
 from gspread_formatting import CellFormat, format_cell_range
 
 from phlux.config import load_config
-from phlux.models import Company
 from phlux.scraping import ScrapeManager, load_company_data, autoApply
-from utils import get_driver
+from utils import get_driver, update_icons
 
 GMAIL_APP_PASSWORD = os.environ["GMAIL_APP_PASSWORD"]
-ICONS_ID = os.environ["ICONS_ID"]
 
 def format_message_html(message: dict) -> str:
     """Return HTML body for the notification email."""
@@ -54,7 +52,9 @@ def format_message_html(message: dict) -> str:
 
     # Company listings
     for company, jobs in message.get("companies", {}).items():
-        icon_url = icons.get(company)
+        icon_url = icons.get(company, {})
+        if not isinstance(icon_url, str):
+            icon_url = icon_url.get("email", "")
         icon_html = (
             f'<img src="{icon_url}" alt="{company} logo" height="24" style="vertical-align:middle; margin-right:6px;">'
             if icon_url else ""
@@ -119,26 +119,6 @@ def update_internship_tracker(jobs: List[str]) -> None:
 
     right_align = CellFormat(horizontalAlignment='RIGHT')
     format_cell_range(worksheet, f"B{start_row}:B{end_row}", right_align)
-
-def update_icons(companies: List[Company]):
-    try:
-        with open("icons.json", "r", encoding="utf-8") as f:
-            icons = json.load(f)
-    except (FileNotFoundError, json.JSONDecodeError):
-        icons = {}
-
-    for company in companies:
-        name = company.name
-        try:
-            if name not in icons:
-                response = requests.get(f"https://api.brandfetch.io/v2/search/{name}?c={ICONS_ID}")
-                response.raise_for_status()
-                icons[name] = response.json()[0]["icon"]
-        except Exception as e:
-            print(f"❌ Failed to get icon for {name}: {e}")
-
-    with open("icons.json", "w", encoding="utf-8") as f:
-        json.dump(icons, f, indent=2)
     
 
 def main() -> None:
@@ -149,7 +129,6 @@ def main() -> None:
     data = result["data"]
     new_jobs = result["new_jobs"]
 
-    update_icons(companies=companies)
     # Special case: run autoApply only after all scraping
     susquehanna_jobs = new_jobs.get("companies", {}).get("Susquehanna", {}).get("jobs", [])
     print(new_jobs)
@@ -160,6 +139,7 @@ def main() -> None:
 
     Path("storage.json").write_text(json.dumps(data, indent=2), encoding="utf-8")
     if new_jobs.get("companies"):
+        update_icons(companies=companies)
         send_email(new_jobs, test = False)
 
 if __name__ == "__main__":
