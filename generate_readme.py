@@ -24,7 +24,7 @@ def generate_readme(jobs: dict, links: dict) -> str:
     except (FileNotFoundError, json.JSONDecodeError):
         icons = {}
 
-    lines = ["# 🌀 Phlux: Job Tracker\n"]
+    lines = ["# 🌀 Phlux: Phi's Job Tracker\n"]
     lines.append("Easily track jobs across top tech companies.\n")
 
     lines.append("## 🧩 Add Your Own Companies")
