@@ -896,7 +896,7 @@ Easily track jobs across top tech companies.
                 <img src="https://cdn.brandfetch.io/idntgPecbn/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028532049bfumLaCV7mmSJkNlCK" alt="HP logo" height="24" style="vertical-align:middle; margin-right:6px;" />
                 <a href="https://apply.hp.com/careers?query=internship&Seniority=graduate&Seniority=internship&Seniority=Apprenticeship&domain=hp.com" target="_blank"
                 style="font-family: Inconsolata, monospace; font-size: 24px; text-decoration: none;">
-                    <strong>HP</strong> (11 roles)
+                    <strong>HP</strong> (12 roles)
                 </a>
             </div>
 <ul style="font-family: Inconsolata, monospace;">
@@ -911,6 +911,7 @@ Easily track jobs across top tech companies.
 <li>Business Analyst Intern</li>
 <li>Electrical Engineer Intern</li>
 <li>College Intern - Smart Control Tower System Engineer</li>
+<li>College Intern - 3D Printing Manufacturing</li>
 </ul>
 
 ---
