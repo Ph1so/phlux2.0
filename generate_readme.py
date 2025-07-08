@@ -74,9 +74,8 @@ def generate_readme(jobs: dict, links: dict) -> str:
                 {icon_html}
                 <a href="{links[company]}" target="_blank"
                 style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>{company}</strong>
+                    <strong>{company}</strong> ({len(postings)} roles)
                 </a>
-                <sub style="font-family: Inconsolata, monospace;">({len(postings)} roles)</sub>
             </div>
             '''.strip()
 
