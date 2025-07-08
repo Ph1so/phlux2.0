@@ -15,7 +15,7 @@ Here's an example:
 ## Current job listings found by phlux (117 companies)
 
 <details>
-<summary><a href="https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States"><strong><img src="https://cdn.brandfetch.io/idnN8KdbKa/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028516162bfumLaCV7mMiqx5ySz" alt="AMD logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  AMD</strong></a></summary>
+<summary><a href="https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States"><strong><img src="https://cdn.brandfetch.io/idnN8KdbKa/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028516162bfumLaCV7mMiqx5ySz" alt="AMD logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  AMD</strong></a></summary>
 
 - Machine Learning / Artificial Intelligence Intern/Co-Op (PhD | Fall 2025 | Hybrid)
 - Hardware Engineering Intern/ Co-Op (Undergrad | Fall 2025 | Hybrid)
@@ -53,7 +53,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://amazon.jobs/content/en/teams/amazon-web-services/internships?country%5B%5D=US"><strong><img src="https://cdn.brandfetch.io/idVoqFQ-78/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028499279bfumLaCV7m1YMUqKKG" alt="AWS logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  AWS</strong></a></summary>
+<summary><a href="https://amazon.jobs/content/en/teams/amazon-web-services/internships?country%5B%5D=US"><strong><img src="https://cdn.brandfetch.io/idVoqFQ-78/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028499279bfumLaCV7m1YMUqKKG" alt="AWS logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  AWS</strong></a></summary>
 
 - Data Center Security Specialist Intern
 - 2025 ASIC Physical Design Engineer Intern, Annapurna Labs
@@ -61,7 +61,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://careers.adobe.com/us/en/search-results?qkexperienceLevel=University%20Intern"><strong><img src="https://cdn.brandfetch.io/id_KsyK7J9/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028521791bfumLaCV7mv3AE8zc6" alt="Adobe logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Adobe</strong></a></summary>
+<summary><a href="https://careers.adobe.com/us/en/search-results?qkexperienceLevel=University%20Intern"><strong><img src="https://cdn.brandfetch.io/id_KsyK7J9/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028521791bfumLaCV7mv3AE8zc6" alt="Adobe logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Adobe</strong></a></summary>
 
 - 2025 Intern - Software Engineer
 - Working Student - Sales Programs / Project Management
@@ -69,14 +69,14 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://careers.airbnb.com/positions/?_departments=early-career-program-intern&_offices=united-states"><strong><img src="https://cdn.brandfetch.io/idkuvXnjOH/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028504989bfumLaCV7mb6MSMM0r" alt="Airbnb logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Airbnb</strong></a></summary>
+<summary><a href="https://careers.airbnb.com/positions/?_departments=early-career-program-intern&_offices=united-states"><strong><img src="https://cdn.brandfetch.io/idkuvXnjOH/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028504989bfumLaCV7mb6MSMM0r" alt="Airbnb logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Airbnb</strong></a></summary>
 
 - Legal Intern, Privacy (Fall Semester)
 - Summer 2025 – Data Science Intern, Platform (PhD)
 </details>
 
 <details>
-<summary><a href="https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=recent&country%5B%5D=USA&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=intern&city=&country=&region=&county=&query_options=&"><strong><img src="https://cdn.brandfetch.io/idawOgYOsG/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028499681bfumLaCV7m8FRgJgbW" alt="Amazon logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Amazon</strong></a></summary>
+<summary><a href="https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=recent&country%5B%5D=USA&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=intern&city=&country=&region=&county=&query_options=&"><strong><img src="https://cdn.brandfetch.io/idawOgYOsG/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028499681bfumLaCV7m8FRgJgbW" alt="Amazon logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Amazon</strong></a></summary>
 
 - Jr. Software Development Engineer - San Diego, CA
 - Jr. Software Development Engineer - Santa Cruz, CA
@@ -95,7 +95,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://www.amazon.jobs/content/en/teams/ftr/amazon-robotics?country%5B%5D=US&employment-type%5B%5D=Intern"><strong><img src="https://cdn.brandfetch.io/idJU2dPbhX/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028515967bfumLaCV7mPEUn1oAC" alt="Amazon Robotics logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Amazon Robotics</strong></a></summary>
+<summary><a href="https://www.amazon.jobs/content/en/teams/ftr/amazon-robotics?country%5B%5D=US&employment-type%5B%5D=Intern"><strong><img src="https://cdn.brandfetch.io/idJU2dPbhX/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028515967bfumLaCV7mPEUn1oAC" alt="Amazon Robotics logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Amazon Robotics</strong></a></summary>
 
 - Amazon Robotics - Technical Artist Co-op - July to December 2025, Virtual Systems
 - Amazon Robotics - Product Quality Engineer Co-op- Fall 2025
@@ -114,7 +114,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://www.amentumcareers.com/jobs/search?page=1&country_codes%5B%5D=US&query=%22Intern%22"><strong><img src="https://cdn.brandfetch.io/idvuDkuJ3e/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028533067bfumLaCV7mzdJ2qIhY" alt="Amentum logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Amentum</strong></a></summary>
+<summary><a href="https://www.amentumcareers.com/jobs/search?page=1&country_codes%5B%5D=US&query=%22Intern%22"><strong><img src="https://cdn.brandfetch.io/idvuDkuJ3e/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028533067bfumLaCV7mzdJ2qIhY" alt="Amentum logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Amentum</strong></a></summary>
 
 - Intern - HR Projects Intern (Summer 2025)
 - Intern - HR Projects Intern (Summer 2025)
@@ -131,7 +131,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://jobs.apple.com/en-us/search?location=united-states-USA&team=internships-STDNT-INTRN"><strong><img src="https://cdn.brandfetch.io/idnrCPuv87/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028500316bfumLaCV7mEoBXo6Ra" alt="Apple logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Apple</strong></a></summary>
+<summary><a href="https://jobs.apple.com/en-us/search?location=united-states-USA&team=internships-STDNT-INTRN"><strong><img src="https://cdn.brandfetch.io/idnrCPuv87/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028500316bfumLaCV7mEoBXo6Ra" alt="Apple logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Apple</strong></a></summary>
 
 - Legal and Global Security Internships
 - Product Design, Mechanical Engineering and Materials Internships
@@ -149,13 +149,13 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://asana.com/jobs/university-recruiting#jobs"><strong><img src="https://cdn.brandfetch.io/idxPi2Evsk/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028521382bfumLaCV7mMNDlINhQ" alt="Asana logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Asana</strong></a></summary>
+<summary><a href="https://asana.com/jobs/university-recruiting#jobs"><strong><img src="https://cdn.brandfetch.io/idxPi2Evsk/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028521382bfumLaCV7mMNDlINhQ" alt="Asana logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Asana</strong></a></summary>
 
 - Reykjavik Summer Software Engineering Internship
 </details>
 
 <details>
-<summary><a href="https://www.atlassian.com/company/careers/all-jobs?team=Interns&location=&search="><strong><img src="https://cdn.brandfetch.io/idlQIwGMOK/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028513355bfumLaCV7mnR6ztFlh" alt="Atlassian logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Atlassian</strong></a></summary>
+<summary><a href="https://www.atlassian.com/company/careers/all-jobs?team=Interns&location=&search="><strong><img src="https://cdn.brandfetch.io/idlQIwGMOK/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028513355bfumLaCV7mnR6ztFlh" alt="Atlassian logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Atlassian</strong></a></summary>
 
 - UX Researcher, 2025/2026 Intern Australia & New Zealand
 - Machine Learning Engineer, 2025/2026 PHD Intern Australia & New Zealand
@@ -163,7 +163,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://autodesk.wd1.myworkdayjobs.com/uni?jobFamilyGroup=f909d7cccc2d480b8f6af996c7bf8352"><strong><img src="https://cdn.brandfetch.io/id_6bobPbH/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028501598bfumLaCV7mlq-sZN1z" alt="Autodesk logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Autodesk</strong></a></summary>
+<summary><a href="https://autodesk.wd1.myworkdayjobs.com/uni?jobFamilyGroup=f909d7cccc2d480b8f6af996c7bf8352"><strong><img src="https://cdn.brandfetch.io/id_6bobPbH/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028501598bfumLaCV7mlq-sZN1z" alt="Autodesk logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Autodesk</strong></a></summary>
 
 - Stagiaire Artiste Technique, Technical Artist Intern
 - Intern (PhD), Physics-informed Machine Learning, Fall 2025
@@ -172,7 +172,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://careers.bankofamerica.com/en-us/students/job-search?ref=search&rows=24&search=jobsByLocation&searchstring=United+States"><strong><img src="https://cdn.brandfetch.io/ide4lTCz-B/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028502059bfumLaCV7mlHhIUIIo" alt="Bank of America logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Bank of America</strong></a></summary>
+<summary><a href="https://careers.bankofamerica.com/en-us/students/job-search?ref=search&rows=24&search=jobsByLocation&searchstring=United+States"><strong><img src="https://cdn.brandfetch.io/ide4lTCz-B/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028502059bfumLaCV7mlHhIUIIo" alt="Bank of America logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Bank of America</strong></a></summary>
 
 - Global Markets Chief Operating Office Summer Analyst Program - 2026
 - Enterprise Credit Summer Analyst Program 2026 - Consumer Credit
@@ -202,7 +202,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://beli.breezy.hr/"><strong><img src="https://cdn.brandfetch.io/id4Icd7Iax/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028529456bfumLaCV7mn1Faemwo" alt="Beli logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Beli</strong></a></summary>
+<summary><a href="https://beli.breezy.hr/"><strong><img src="https://images.squarespace-cdn.com/content/v1/5d27a2af17e26b0001269fd6/8f86dd75-d05e-41db-a33f-01aa6c7391d4/Beli+Logo_FINAL070423.png" alt="Beli logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Beli</strong></a></summary>
 
 - Senior Product Manager, Growth
 - Software Engineer
@@ -210,7 +210,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://www.blueorigin.com/careers/search?search=undergraduate&category=Intern&employmentType=Intern"><strong><img src="https://cdn.brandfetch.io/idpaQY98E7/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028502441bfumLaCV7m6ygtchpc" alt="Blue Origin logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Blue Origin</strong></a></summary>
+<summary><a href="https://www.blueorigin.com/careers/search?search=undergraduate&category=Intern&employmentType=Intern"><strong><img src="https://cdn.brandfetch.io/idpaQY98E7/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028502441bfumLaCV7m6ygtchpc" alt="Blue Origin logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Blue Origin</strong></a></summary>
 
 - Spring 2026 STEAM Communications & Outreach Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52713
 - Spring 2026 Finance Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52715
@@ -226,7 +226,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://jobs.boeing.com/category/internship-jobs/185/9287/1"><strong><img src="https://cdn.brandfetch.io/idNLUN4t9U/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028533424bfumLaCV7mrK6g4AQj" alt="Boeing logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Boeing</strong></a></summary>
+<summary><a href="https://jobs.boeing.com/category/internship-jobs/185/9287/1"><strong><img src="https://cdn.brandfetch.io/idNLUN4t9U/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028533424bfumLaCV7mrK6g4AQj" alt="Boeing logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Boeing</strong></a></summary>
 
 - SW Engineer Internship - Robotics
 - SW Engineering Internship - Cloud Systems
@@ -234,7 +234,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://bostondynamics.com/careers/#jobs"><strong><img src="https://cdn.brandfetch.io/idtu7CFTG5/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028525852bfumLaCV7mslwWZHYp" alt="Boston Dynamics logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Boston Dynamics</strong></a></summary>
+<summary><a href="https://bostondynamics.com/careers/#jobs"><strong><img src="https://cdn.brandfetch.io/idtu7CFTG5/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028525852bfumLaCV7mslwWZHYp" alt="Boston Dynamics logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Boston Dynamics</strong></a></summary>
 
 - Senior Supervisor, Field Applications Engineering
 - Electrical Engineer
@@ -253,13 +253,13 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://bostonscientific.eightfold.ai/careers?start=0&location=United+States&pid=563602797912246&sort_by=distance&filter_include_remote=1&filter_seniority=Intern"><strong><img src="https://cdn.brandfetch.io/idReCDTTz1/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028522885bfumLaCV7m7VEtUlkF" alt="Boston Scientific logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Boston Scientific</strong></a></summary>
+<summary><a href="https://bostonscientific.eightfold.ai/careers?start=0&location=United+States&pid=563602797912246&sort_by=distance&filter_include_remote=1&filter_seniority=Intern"><strong><img src="https://cdn.brandfetch.io/idReCDTTz1/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028522885bfumLaCV7m7VEtUlkF" alt="Boston Scientific logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Boston Scientific</strong></a></summary>
 
 - Cardiac Monitoring Technician - Internship/Apprenticeship
 </details>
 
 <details>
-<summary><a href="https://jobs.bytedance.com/en/position?keywords=&category=&location=CT_1103355%2CCT_157%2CCT_94%2CCT_114%2CCT_100764%2CCT_75%2CCT_233%2CCT_203&project=7322364514224687370%2C7503447747358361864&type=3&job_hot_flag=&current=1&limit=10&functionCategory=&tag="><strong><img src="https://cdn.brandfetch.io/idpvLdHQW7/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028518932bfumLaCV7mJjzA06QY" alt="ByteDance logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  ByteDance</strong></a></summary>
+<summary><a href="https://jobs.bytedance.com/en/position?keywords=&category=&location=CT_1103355%2CCT_157%2CCT_94%2CCT_114%2CCT_100764%2CCT_75%2CCT_233%2CCT_203&project=7322364514224687370%2C7503447747358361864&type=3&job_hot_flag=&current=1&limit=10&functionCategory=&tag="><strong><img src="https://cdn.brandfetch.io/idpvLdHQW7/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028518932bfumLaCV7mJjzA06QY" alt="ByteDance logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  ByteDance</strong></a></summary>
 
 - Strategic Analysis Intern (AI Innovation Business - US) - 2025 Start (BS/MS)
 - Site Reliability Engineer Intern (Data-Technical Infrastructures-SRE-US) - 2025 Summer (MS)
@@ -276,7 +276,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://www.capitalonecareers.com/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.Campus%22,%22value%22:%22Internships%22%7D]"><strong><img src="https://cdn.brandfetch.io/idYFfMZte4/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028524657bfumLaCV7mugTnzkHM" alt="Capital One logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Capital One</strong></a></summary>
+<summary><a href="https://www.capitalonecareers.com/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.Campus%22,%22value%22:%22Internships%22%7D]"><strong><img src="https://cdn.brandfetch.io/idYFfMZte4/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028524657bfumLaCV7mugTnzkHM" alt="Capital One logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Capital One</strong></a></summary>
 
 - Café Coach- Boulder
 - Inside Sales Coach
@@ -314,7 +314,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B169482%5D&21178_format=6020&21180=%5B33821095%2C165%5D&21180_format=6022&listFilterMode=1"><strong><img src="https://cdn.brandfetch.io/ida_xaMYlM/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028505359bfumLaCV7mV4yVpP13" alt="Cisco logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Cisco</strong></a></summary>
+<summary><a href="https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B169482%5D&21178_format=6020&21180=%5B33821095%2C165%5D&21180_format=6022&listFilterMode=1"><strong><img src="https://cdn.brandfetch.io/ida_xaMYlM/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028505359bfumLaCV7mV4yVpP13" alt="Cisco logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Cisco</strong></a></summary>
 
 - AI Research Scientist II (Intern) United States
 - Software Engineer I (Intern) United States
@@ -323,7 +323,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://www.citadel.com/careers/open-opportunities?experience-filter=internships&location-filter=americas,chicago,greenwich,houston,miami,new-york&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter"><strong><img src="https://cdn.brandfetch.io/idVrQYaF_a/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028504644bfumLaCV7moC2ZUd_l" alt="Citadel logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Citadel</strong></a></summary>
+<summary><a href="https://www.citadel.com/careers/open-opportunities?experience-filter=internships&location-filter=americas,chicago,greenwich,houston,miami,new-york&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter"><strong><img src="https://cdn.brandfetch.io/idVrQYaF_a/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028504644bfumLaCV7moC2ZUd_l" alt="Citadel logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Citadel</strong></a></summary>
 
 - Quantitative Researcher – PhD Intern (US)
 - Quantitative Research Analyst Intern – BS/MS (US)
@@ -334,14 +334,14 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://jobs.ashbyhq.com/cohere?employmentType=Intern"><strong><img src="https://cdn.brandfetch.io/idfDTLvPCK/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028513642bfumLaCV7m6DOxXAnJ" alt="Cohere logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Cohere</strong></a></summary>
+<summary><a href="https://jobs.ashbyhq.com/cohere?employmentType=Intern"><strong><img src="https://cdn.brandfetch.io/idfDTLvPCK/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028513642bfumLaCV7m6DOxXAnJ" alt="Cohere logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Cohere</strong></a></summary>
 
 - Machine Learning Intern/Co-op (Fall 2025)
 - Software Engineer Intern/Co-op (Fall 2025)
 </details>
 
 <details>
-<summary><a href="https://www.coinbase.com/careers/positions?department=Internships%2520%2526%2520Emerging%2520Talent%2520Positions"><strong><img src="https://cdn.brandfetch.io/idwDWo4ONQ/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028528734bfumLaCV7mvItJ6X-r" alt="Coinbase logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Coinbase</strong></a></summary>
+<summary><a href="https://www.coinbase.com/careers/positions?department=Internships%2520%2526%2520Emerging%2520Talent%2520Positions"><strong><img src="https://cdn.brandfetch.io/idwDWo4ONQ/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028528734bfumLaCV7mvItJ6X-r" alt="Coinbase logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Coinbase</strong></a></summary>
 
 - Coordinator, Workplace Operations
 - CX WFM Capacity Planning Specialist
@@ -372,13 +372,13 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://www.databricks.com/company/careers/open-positions?department=University%20Recruiting&location=all"><strong><img src="https://cdn.brandfetch.io/idSUrLOWbH/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028521967bfumLaCV7mzEfA0htB" alt="Databricks logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Databricks</strong></a></summary>
+<summary><a href="https://www.databricks.com/company/careers/open-positions?department=University%20Recruiting&location=all"><strong><img src="https://cdn.brandfetch.io/idSUrLOWbH/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028521967bfumLaCV7mzEfA0htB" alt="Databricks logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Databricks</strong></a></summary>
 
 - PhD GenAI Research Scientist Intern - San Francisco, California
 </details>
 
 <details>
-<summary><a href="https://careers.datadoghq.com/early-careers/"><strong><img src="https://cdn.brandfetch.io/idg33VVWFZ/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028514007bfumLaCV7mUqJe504_" alt="Datadog logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Datadog</strong></a></summary>
+<summary><a href="https://careers.datadoghq.com/early-careers/"><strong><img src="https://cdn.brandfetch.io/idg33VVWFZ/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028514007bfumLaCV7mUqJe504_" alt="Datadog logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Datadog</strong></a></summary>
 
 - Software Engineer - Early Career
 - Sales Development Representative Middle East
@@ -398,14 +398,14 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><strong><img src="https://cdn.brandfetch.io/idhb6W5swq/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028528925bfumLaCV7mQihtGPfo" alt="Disney logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Disney</strong></a></summary>
+<summary><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><strong><img src="https://cdn.brandfetch.io/idhb6W5swq/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028528925bfumLaCV7mQihtGPfo" alt="Disney logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Disney</strong></a></summary>
 
 - Infrastructure Services Intern, Fall 2025
 - Risk Management Intern, Fall 2025
 </details>
 
 <details>
-<summary><a href="https://careers.docusign.com/jobs?tags1=Intern&limit=100&page=1"><strong><img src="https://cdn.brandfetch.io/idZbuqxRqz/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028530642bfumLaCV7mAFpv0wky" alt="Docusign logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Docusign</strong></a></summary>
+<summary><a href="https://careers.docusign.com/jobs?tags1=Intern&limit=100&page=1"><strong><img src="https://cdn.brandfetch.io/idZbuqxRqz/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028530642bfumLaCV7mAFpv0wky" alt="Docusign logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Docusign</strong></a></summary>
 
 - Marketing Intern
 - Software Engineer Intern (AI)
@@ -413,7 +413,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://careersatdoordash.com/university-careers/"><strong><img src="https://cdn.brandfetch.io/idrVhdDocf/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028514222bfumLaCV7mh5nxzVQs" alt="Doordash logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Doordash</strong></a></summary>
+<summary><a href="https://careersatdoordash.com/university-careers/"><strong><img src="https://cdn.brandfetch.io/idrVhdDocf/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028514222bfumLaCV7mh5nxzVQs" alt="Doordash logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Doordash</strong></a></summary>
 
 - Software Engineer I, Entry-Level (Graduation Date: Fall 2024-Summer 2025)
 - Software Engineer I, Entry Level (Fall 2024-Spring 2025) – Toronto
@@ -422,7 +422,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://jobs.ea.com/en_US/careers/Home/?8171=%5B10618%5D&8171_format=5683&4537=%5B8693%5D&4537_format=3020&listFilterMode=1&jobRecordsPerPage=20&"><strong><img src="https://cdn.brandfetch.io/idT4nN4-os/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028517607bfumLaCV7mDcPmy1_t" alt="EA logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  EA</strong></a></summary>
+<summary><a href="https://jobs.ea.com/en_US/careers/Home/?8171=%5B10618%5D&8171_format=5683&4537=%5B8693%5D&4537_format=3020&listFilterMode=1&jobRecordsPerPage=20&"><strong><img src="https://cdn.brandfetch.io/idT4nN4-os/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028517607bfumLaCV7mDcPmy1_t" alt="EA logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  EA</strong></a></summary>
 
 - Gameplay Software Engineer Intern - Fall 2025
 - Software Engineer Intern
@@ -430,20 +430,20 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://careers.expediagroup.com/jobs/?keyword=emerging+talent+and+careers&&filter[category]=Technology"><strong><img src="https://cdn.brandfetch.io/idF_o8slu-/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028518365bfumLaCV7m_gNYH9ie" alt="Expedia logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Expedia</strong></a></summary>
+<summary><a href="https://careers.expediagroup.com/jobs/?keyword=emerging+talent+and+careers&&filter[category]=Technology"><strong><img src="https://cdn.brandfetch.io/idF_o8slu-/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028518365bfumLaCV7m_gNYH9ie" alt="Expedia logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Expedia</strong></a></summary>
 
 - EGGP - Software Development Engineer I
 </details>
 
 <details>
-<summary><a href="https://jobs.lever.co/genesistherapeutics?commitment=Internship"><strong><img src="https://cdn.brandfetch.io/idXNv6cO44/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028528183bfumLaCV7mg7qltc4L" alt="Genesis Therapeutics logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Genesis Therapeutics</strong></a></summary>
+<summary><a href="https://jobs.lever.co/genesistherapeutics?commitment=Internship"><strong><img src="https://cdn.brandfetch.io/idXNv6cO44/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028528183bfumLaCV7mg7qltc4L" alt="Genesis Therapeutics logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Genesis Therapeutics</strong></a></summary>
 
 - ML Research Intern, BS/MS - 2026
 - ML Research Intern, PhD - 2026
 </details>
 
 <details>
-<summary><a href="https://www.github.careers/careers-home/jobs?view=search&limit=100&page=1"><strong><img src="https://cdn.brandfetch.io/idZAyF9rlg/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028525522bfumLaCV7mHr1rFeiK" alt="Github logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Github</strong></a></summary>
+<summary><a href="https://www.github.careers/careers-home/jobs?view=search&limit=100&page=1"><strong><img src="https://cdn.brandfetch.io/idZAyF9rlg/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028525522bfumLaCV7mHr1rFeiK" alt="Github logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Github</strong></a></summary>
 
 - Senior Software Engineer, Supply Chain Security
 - Solutions Engineer III
@@ -474,7 +474,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://www.goldmansachs.com/careers/students/programs-and-internships?1=gscom%3Aprogram-region-careers%2Famericas"><strong><img src="https://cdn.brandfetch.io/id7L59h6d0/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028529201bfumLaCV7mwTtTppuR" alt="Goldman Sachs logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Goldman Sachs</strong></a></summary>
+<summary><a href="https://www.goldmansachs.com/careers/students/programs-and-internships?1=gscom%3Aprogram-region-careers%2Famericas"><strong><img src="https://cdn.brandfetch.io/id7L59h6d0/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028529201bfumLaCV7mwTtTppuR" alt="Goldman Sachs logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Goldman Sachs</strong></a></summary>
 
 - 2026 Summer Analyst Program
 - Goldman Sachs Market Madness: HBCU Possibilities Program
@@ -485,7 +485,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://www.google.com/about/careers/applications/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&src=Online%2FGoogle%20Website%2FByF&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&location=United%20States"><strong><img src="https://cdn.brandfetch.io/id6O2oGzv-/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028498560bfumLaCV7m5aWx7G0V" alt="Google logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Google</strong></a></summary>
+<summary><a href="https://www.google.com/about/careers/applications/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&src=Online%2FGoogle%20Website%2FByF&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&location=United%20States"><strong><img src="https://cdn.brandfetch.io/id6O2oGzv-/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028498560bfumLaCV7m5aWx7G0V" alt="Google logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Google</strong></a></summary>
 
 - Student Researcher, PhD, Winter/Summer 2025
 - Student Researcher, BS/MS, Winter/Summer 2025
@@ -498,7 +498,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://apply.hp.com/careers?query=internship&Seniority=graduate&Seniority=internship&Seniority=Apprenticeship&domain=hp.com"><strong><img src="https://cdn.brandfetch.io/idntgPecbn/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028532049bfumLaCV7mmSJkNlCK" alt="HP logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  HP</strong></a></summary>
+<summary><a href="https://apply.hp.com/careers?query=internship&Seniority=graduate&Seniority=internship&Seniority=Apprenticeship&domain=hp.com"><strong><img src="https://cdn.brandfetch.io/idntgPecbn/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028532049bfumLaCV7mmSJkNlCK" alt="HP logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  HP</strong></a></summary>
 
 - Industrial Engineering - Internship
 - Printing Systems Engineer Internship
@@ -514,14 +514,14 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://www.hudsonrivertrading.com/careers/?job-type=internship%2C"><strong><img src="https://cdn.brandfetch.io/id7aXCgkjv/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028506186bfumLaCV7mumI0b_zw" alt="Hudson River Trading logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Hudson River Trading</strong></a></summary>
+<summary><a href="https://www.hudsonrivertrading.com/careers/?job-type=internship%2C"><strong><img src="https://cdn.brandfetch.io/id7aXCgkjv/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028506186bfumLaCV7mumI0b_zw" alt="Hudson River Trading logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Hudson River Trading</strong></a></summary>
 
 - Algorithm Development (Quant Research) Internship – Summer 2026
 - Software Engineering Internship – Summer 2026
 </details>
 
 <details>
-<summary><a href="https://apply.workable.com/huggingface/?not_found=true#jobs"><strong><img src="https://cdn.brandfetch.io/idGqKHD5xE/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028527182bfumLaCV7mOButuoV0" alt="Hugging Face logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Hugging Face</strong></a></summary>
+<summary><a href="https://apply.workable.com/huggingface/?not_found=true#jobs"><strong><img src="https://cdn.brandfetch.io/idGqKHD5xE/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028527182bfumLaCV7mOButuoV0" alt="Hugging Face logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Hugging Face</strong></a></summary>
 
 - MongoDB Technical Architect - US Remote
 - Developer Advocate Engineer, Hub/Enterprise - US Remote
@@ -537,13 +537,13 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><strong><img src="https://cdn.brandfetch.io/idJBjGx6x1/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028500622bfumLaCV7mF9fD5zld" alt="IBM logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  IBM</strong></a></summary>
+<summary><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><strong><img src="https://cdn.brandfetch.io/idJBjGx6x1/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028500622bfumLaCV7mF9fD5zld" alt="IBM logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  IBM</strong></a></summary>
 
 - Sales - TEST 2A - pre req, net new intern, with coding & video assessments - Internship - Multiple Cities
 </details>
 
 <details>
-<summary><a href="https://intel.wd1.myworkdayjobs.com/External?workerSubType=dc8bf79476611087dfde99931439ae75&locations=1e4a4eb3adf10118b1dfe877bf8162d0"><strong><img src="https://cdn.brandfetch.io/idTGhLyv09/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028501326bfumLaCV7mlY-jRSW5" alt="Intel logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Intel</strong></a></summary>
+<summary><a href="https://intel.wd1.myworkdayjobs.com/External?workerSubType=dc8bf79476611087dfde99931439ae75&locations=1e4a4eb3adf10118b1dfe877bf8162d0"><strong><img src="https://cdn.brandfetch.io/idTGhLyv09/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028501326bfumLaCV7mlY-jRSW5" alt="Intel logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Intel</strong></a></summary>
 
 - Facilities Technician Intern
 - Facilities Technician Intern
@@ -551,7 +551,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://jobs.intuit.com/search-jobs/interns/"><strong><img src="https://cdn.brandfetch.io/idWrWLZ_I5/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028517123bfumLaCV7mITtbRLdL" alt="Intuit logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Intuit</strong></a></summary>
+<summary><a href="https://jobs.intuit.com/search-jobs/interns/"><strong><img src="https://cdn.brandfetch.io/idWrWLZ_I5/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028517123bfumLaCV7mITtbRLdL" alt="Intuit logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Intuit</strong></a></summary>
 
 - Social Media Co-op (8 Months)
 - Principal Research Scientist
@@ -583,7 +583,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=new-york"><strong><img src="https://cdn.brandfetch.io/idfBU0fBY8/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028519117bfumLaCV7mmeUPiP60" alt="Jane Street logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Jane Street</strong></a></summary>
+<summary><a href="https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=new-york"><strong><img src="https://cdn.brandfetch.io/idfBU0fBY8/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028519117bfumLaCV7mmeUPiP60" alt="Jane Street logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Jane Street</strong></a></summary>
 
 - FPGA Engineer - (not currently accepting applications)
 - IT Operations Engineer - (not currently accepting applications)
@@ -603,14 +603,14 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://careers.leidos.com/pages/intern-jobs?ns_landing_page_jobs=/search/job-level/intern/jobs/in/country/united-states?ns_landing_page=1"><strong><img src="https://cdn.brandfetch.io/idWvgGBR4Z/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028530035bfumLaCV7mCRxzRiH5" alt="Leidos logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Leidos</strong></a></summary>
+<summary><a href="https://careers.leidos.com/pages/intern-jobs?ns_landing_page_jobs=/search/job-level/intern/jobs/in/country/united-states?ns_landing_page=1"><strong><img src="https://cdn.brandfetch.io/idWvgGBR4Z/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028530035bfumLaCV7mCRxzRiH5" alt="Leidos logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Leidos</strong></a></summary>
 
 - Business Development Intern
 - Electronics Technician Co-op
 </details>
 
 <details>
-<summary><a href="https://www.metacareers.com/jobs?sort_by_new=true&roles[0]=Internship"><strong><img src="https://cdn.brandfetch.io/id_WfHydn1/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028498898bfumLaCV7mHE-nnjDg" alt="Meta logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Meta</strong></a></summary>
+<summary><a href="https://www.metacareers.com/jobs?sort_by_new=true&roles[0]=Internship"><strong><img src="https://cdn.brandfetch.io/idWvz5T3V7/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028357548bfumLaCV7m78YTfXgP" alt="Meta logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Meta</strong></a></summary>
 
 - Research Scientist Intern, Computer Vision for Generative AI (PhD)
 - Research Scientist Intern, Human Computer Interaction (PhD)
@@ -621,7 +621,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://jobs.careers.microsoft.com/global/en/search?lc=United%20States&et=Internship&l=en_us&pg=1&pgSz=20&o=Relevance&flt=true"><strong><img src="https://cdn.brandfetch.io/idchmboHEZ/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028498169bfumLaCV7mWBFAcJ7u" alt="Microsoft logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Microsoft</strong></a></summary>
+<summary><a href="https://jobs.careers.microsoft.com/global/en/search?lc=United%20States&et=Internship&l=en_us&pg=1&pgSz=20&o=Relevance&flt=true"><strong><img src="https://cdn.brandfetch.io/idchmboHEZ/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028498169bfumLaCV7mWBFAcJ7u" alt="Microsoft logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Microsoft</strong></a></summary>
 
 - Research Intern - Quantum Computing
 - Mechanical Engineer: Internship Opportunities - PhD - Redmond
@@ -629,13 +629,13 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://www.mongodb.com/company/careers/students-and-graduates"><strong><img src="https://cdn.brandfetch.io/ideyyfT0Lp/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028515302bfumLaCV7m2GLOgGoN" alt="MongoDB logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  MongoDB</strong></a></summary>
+<summary><a href="https://www.mongodb.com/company/careers/students-and-graduates"><strong><img src="https://cdn.brandfetch.io/ideyyfT0Lp/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028515302bfumLaCV7m2GLOgGoN" alt="MongoDB logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  MongoDB</strong></a></summary>
 
 - Software Engineer - Intern - Sydney
 </details>
 
 <details>
-<summary><a href="https://www.morganstanley.com/careers/career-opportunities-search?opportunity=sg#"><strong><img src="https://cdn.brandfetch.io/idBGtJQnXa/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028506861bfumLaCV7mwWYdQJrD" alt="Morgan Stanley logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Morgan Stanley</strong></a></summary>
+<summary><a href="https://www.morganstanley.com/careers/career-opportunities-search?opportunity=sg#"><strong><img src="https://cdn.brandfetch.io/idBGtJQnXa/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028506861bfumLaCV7mwWYdQJrD" alt="Morgan Stanley logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Morgan Stanley</strong></a></summary>
 
 - 2025 Finance Off Cycle Internship - Part Time (Frankfurt)
 - 2025 Firm Management Part-Time Off Cycle Internship (Frankfurt)
@@ -652,14 +652,14 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://explore.jobs.netflix.net/careers?domain=netflix.com&query=%22internship%22%20-intern&pid=790299250747&sort_by=relevance"><strong><img src="https://cdn.brandfetch.io/ideQwN5lBE/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028499086bfumLaCV7mzTvBeHFr" alt="Netflix logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Netflix</strong></a></summary>
+<summary><a href="https://explore.jobs.netflix.net/careers?domain=netflix.com&query=%22internship%22%20-intern&pid=790299250747&sort_by=relevance"><strong><img src="https://cdn.brandfetch.io/ideQwN5lBE/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028499086bfumLaCV7mzTvBeHFr" alt="Netflix logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Netflix</strong></a></summary>
 
 - Machine Learning Intern, Fall 2025
 - Security Protocols Engineering Intern
 </details>
 
 <details>
-<summary><a href="https://neuralink.com/careers/"><strong><img src="https://cdn.brandfetch.io/iddV7cvXcS/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028524038bfumLaCV7mD68_Cy0F" alt="Neuralink logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Neuralink</strong></a></summary>
+<summary><a href="https://neuralink.com/careers/"><strong><img src="https://cdn.brandfetch.io/iddV7cvXcS/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028524038bfumLaCV7mD68_Cy0F" alt="Neuralink logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Neuralink</strong></a></summary>
 
 - Internal Auditor - Austin, Texas
 - Electrical Engineer Intern, Implant Embedded Systems - Fremont, California
@@ -680,7 +680,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?lastSelectedFacet=TITLES&location=United+States&locationId=300000000480126&locationLevel=country&mode=location&selectedTitlesFacet=TRA"><strong><img src="https://cdn.brandfetch.io/idM1ou2VCU/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028517317bfumLaCV7mH57i9MLb" alt="Nokia logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Nokia</strong></a></summary>
+<summary><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?lastSelectedFacet=TITLES&location=United+States&locationId=300000000480126&locationLevel=country&mode=location&selectedTitlesFacet=TRA"><strong><img src="https://cdn.brandfetch.io/idM1ou2VCU/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028517317bfumLaCV7mH57i9MLb" alt="Nokia logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Nokia</strong></a></summary>
 
 - Special Projects Software Dev Coop
 - Wi-Fi CoE Research Coop
@@ -698,13 +698,13 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://app.ripplematch.com/v2/public/company/notion?tl=1edfe69a"><strong><img src="https://cdn.brandfetch.io/idPYUoikV7/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028527672bfumLaCV7mc7Tyjbfc" alt="Notion logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Notion</strong></a></summary>
+<summary><a href="https://app.ripplematch.com/v2/public/company/notion?tl=1edfe69a"><strong><img src="https://cdn.brandfetch.io/idPYUoikV7/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028527672bfumLaCV7mc7Tyjbfc" alt="Notion logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Notion</strong></a></summary>
 
 - Software Engineer, AI Intern (Fall 2025)
 </details>
 
 <details>
-<summary><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"><strong><img src="https://cdn.brandfetch.io/idXoj5DuCE/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028498729bfumLaCV7mBOx9zSJd" alt="Nvidia logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Nvidia</strong></a></summary>
+<summary><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"><strong><img src="https://cdn.brandfetch.io/idXoj5DuCE/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028498729bfumLaCV7mBOx9zSJd" alt="Nvidia logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Nvidia</strong></a></summary>
 
 - System Software Engineering Intern, GPU Server - Fall 2025
 - Compiler Engineering Intern, GPU Compute and CUDA - Fall 2025
@@ -725,7 +725,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://optiver.com/working-at-optiver/career-opportunities/page/2/?search=internship&_gl=1*rb345g*_gcl_au*Mjk2MDM5OTE1LjE3NDg5MTM5ODQ.&numberposts=10&level=internship&paged=1"><strong><img src="https://cdn.brandfetch.io/idpGQOL6f-/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028503843bfumLaCV7mO8r9IDmt" alt="Optiver logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Optiver</strong></a></summary>
+<summary><a href="https://optiver.com/working-at-optiver/career-opportunities/page/2/?search=internship&_gl=1*rb345g*_gcl_au*Mjk2MDM5OTE1LjE3NDg5MTM5ODQ.&numberposts=10&level=internship&paged=1"><strong><img src="https://cdn.brandfetch.io/idpGQOL6f-/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028503843bfumLaCV7mO8r9IDmt" alt="Optiver logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Optiver</strong></a></summary>
 
 - Expressions of Interest – Quantitative Research Internship, PhD (Summer 2026 -Shanghai)
 - 2025 Shanghai Machine Learning PhD Summer Internship
@@ -745,7 +745,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://careers.oracle.com/en/sites/jobsearch/jobs?lastSelectedFacet=locations&selectedLocationsFacet=300000000106749%3B300000000149325&selectedFlexFieldsFacets=%22AttributeChar14%7CSDR%22"><strong><img src="https://cdn.brandfetch.io/idnq7H7qT0/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028521095bfumLaCV7mjneUQ99S" alt="Oracle logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Oracle</strong></a></summary>
+<summary><a href="https://careers.oracle.com/en/sites/jobsearch/jobs?lastSelectedFacet=locations&selectedLocationsFacet=300000000106749%3B300000000149325&selectedFlexFieldsFacets=%22AttributeChar14%7CSDR%22"><strong><img src="https://cdn.brandfetch.io/idnq7H7qT0/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028521095bfumLaCV7mjneUQ99S" alt="Oracle logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Oracle</strong></a></summary>
 
 - Sales Development Representative - Burlington - Sept 2025
 - Sales Development Representative - Denver - Sept 2025
@@ -755,7 +755,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://jobs.lever.co/palantir?commitment=Internship"><strong><img src="https://cdn.brandfetch.io/id4EZOUw_e/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028518134bfumLaCV7m3PAFXJ6i" alt="Palantir logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Palantir</strong></a></summary>
+<summary><a href="https://jobs.lever.co/palantir?commitment=Internship"><strong><img src="https://cdn.brandfetch.io/id4EZOUw_e/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028518134bfumLaCV7m3PAFXJ6i" alt="Palantir logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Palantir</strong></a></summary>
 
 - Forward Deployed Software Engineer, Internship
 - Forward Deployed Software Engineer, Internship - US Government
@@ -777,13 +777,13 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://www.pinterestcareers.com/jobs/?orderby=0&pagesize=20&page=1&radius=100&team=University"><strong><img src="https://cdn.brandfetch.io/idGP0S1Jjj/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028499454bfumLaCV7my2EBDaz7" alt="Pinterest logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Pinterest</strong></a></summary>
+<summary><a href="https://www.pinterestcareers.com/jobs/?orderby=0&pagesize=20&page=1&radius=100&team=University"><strong><img src="https://cdn.brandfetch.io/idGP0S1Jjj/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028499454bfumLaCV7my2EBDaz7" alt="Pinterest logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Pinterest</strong></a></summary>
 
 - Software Engineering Intern 2025 (Toronto)
 </details>
 
 <details>
-<summary><a href="https://careers.point72.com/?experience=internships"><strong><img src="https://cdn.brandfetch.io/iddWgJzSBG/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028531384bfumLaCV7mQJKUMm1z" alt="Point72 logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Point72</strong></a></summary>
+<summary><a href="https://careers.point72.com/?experience=internships"><strong><img src="https://cdn.brandfetch.io/iddWgJzSBG/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028531384bfumLaCV7mQJKUMm1z" alt="Point72 logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Point72</strong></a></summary>
 
 - Quantitative Research Intern (NLP)
 - 2025 Warsaw Market Intelligence – Platform Software Engineer Internship
@@ -798,7 +798,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://job-boards.greenhouse.io/radixuniversity"><strong><img src="https://cdn.brandfetch.io/idMdbZclZ_/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028530245bfumLaCV7mVlxJEWHW" alt="Radix Trading logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Radix Trading</strong></a></summary>
+<summary><a href="https://job-boards.greenhouse.io/radixuniversity"><strong><img src="https://cdn.brandfetch.io/idMdbZclZ_/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028530245bfumLaCV7mVlxJEWHW" alt="Radix Trading logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Radix Trading</strong></a></summary>
 
 - Quantitative Researcher (Full-Time - Master’s/Bachelor’s)
 - Quantitative Researcher (Full-Time - PhD+)
@@ -811,7 +811,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://ramp.com/emerging-talent"><strong><img src="https://cdn.brandfetch.io/idWQ_FWEk6/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028512206bfumLaCV7mXFrO3Kwm" alt="Ramp logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Ramp</strong></a></summary>
+<summary><a href="https://ramp.com/emerging-talent"><strong><img src="https://cdn.brandfetch.io/idWQ_FWEk6/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028512206bfumLaCV7mXFrO3Kwm" alt="Ramp logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Ramp</strong></a></summary>
 
 - Software Engineer Internship | Frontend
 - Software Engineer Internship | iOS
@@ -819,7 +819,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://razer.wd3.myworkdayjobs.com/Careers?jobFamilyGroup=5f89d961603401a62553f98eab0c3255"><strong><img src="https://cdn.brandfetch.io/idnspCY_WO/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028530457bfumLaCV7mv0fcNlhJ" alt="Razer logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Razer</strong></a></summary>
+<summary><a href="https://razer.wd3.myworkdayjobs.com/Careers?jobFamilyGroup=5f89d961603401a62553f98eab0c3255"><strong><img src="https://cdn.brandfetch.io/idnspCY_WO/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028530457bfumLaCV7mv0fcNlhJ" alt="Razer logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Razer</strong></a></summary>
 
 - Software (Cloud) Intern
 - Merchant Operation Support - Intern
@@ -845,7 +845,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://job-boards.greenhouse.io/embed/job_board?for=rsinternboard"><strong><img src="https://cdn.brandfetch.io/idQ7FlmwOb/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028529674bfumLaCV7mdykC2Q5e" alt="Relativity logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Relativity</strong></a></summary>
+<summary><a href="https://job-boards.greenhouse.io/embed/job_board?for=rsinternboard"><strong><img src="https://cdn.brandfetch.io/idQ7FlmwOb/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028529674bfumLaCV7mdykC2Q5e" alt="Relativity logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Relativity</strong></a></summary>
 
 - Additive Manufacturing Modeling & Simulation Intern - Fall 2025
 - Propulsion Integration Engineer InternNew
@@ -853,7 +853,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://jobs.ashbyhq.com/replit"><strong><img src="https://cdn.brandfetch.io/ido8Wu58rI/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028526808bfumLaCV7mFc_DJYrm" alt="Replit logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Replit</strong></a></summary>
+<summary><a href="https://jobs.ashbyhq.com/replit"><strong><img src="https://cdn.brandfetch.io/ido8Wu58rI/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028526808bfumLaCV7mFc_DJYrm" alt="Replit logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Replit</strong></a></summary>
 
 - Brand Design Lead - Design • Foster City, CA - In office M,W,F • Full time
 - Product Designer - Design • Foster City, CA - In office M,W,F • Full time
@@ -875,26 +875,26 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://careers.rivian.com/careers-home/jobs?sortBy=relevance&page=1&categories=Internships"><strong><img src="https://cdn.brandfetch.io/idqxjbqPJk/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028517948bfumLaCV7m7t5CAQUy" alt="Rivian logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Rivian</strong></a></summary>
+<summary><a href="https://careers.rivian.com/careers-home/jobs?sortBy=relevance&page=1&categories=Internships"><strong><img src="https://cdn.brandfetch.io/idqxjbqPJk/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028517948bfumLaCV7m7t5CAQUy" alt="Rivian logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Rivian</strong></a></summary>
 
 - UIUC Research Park Intern - Machine Learning
 - UIUC Research Park Intern - EPC, Propulsion Drives Controls
 </details>
 
 <details>
-<summary><a href="https://careers.robinhood.com/"><strong><img src="https://cdn.brandfetch.io/id3WzK3p17/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028516719bfumLaCV7m_Y1YSOBx" alt="Robinhood logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Robinhood</strong></a></summary>
+<summary><a href="https://careers.robinhood.com/"><strong><img src="https://cdn.brandfetch.io/id3WzK3p17/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028516719bfumLaCV7m_Y1YSOBx" alt="Robinhood logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Robinhood</strong></a></summary>
 
 - Software Developer Intern/Co-op, Backend (Fall 2025)
 </details>
 
 <details>
-<summary><a href="https://careers.roblox.com/jobs?groups=early-career-talent&page=1&pageSize=9"><strong><img src="https://cdn.brandfetch.io/id1oKmlNbs/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028518756bfumLaCV7mnPyYVuua" alt="Roblox logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Roblox</strong></a></summary>
+<summary><a href="https://careers.roblox.com/jobs?groups=early-career-talent&page=1&pageSize=9"><strong><img src="https://cdn.brandfetch.io/id1oKmlNbs/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028518756bfumLaCV7mnPyYVuua" alt="Roblox logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Roblox</strong></a></summary>
 
 - [2025] Senior Machine Learning Engineer - PhD Early Career
 </details>
 
 <details>
-<summary><a href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers"><strong><img src="https://cdn.brandfetch.io/idCvCK36Pf/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028523275bfumLaCV7mcOX1SpYp" alt="Rockwell Automation logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Rockwell Automation</strong></a></summary>
+<summary><a href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers"><strong><img src="https://cdn.brandfetch.io/idCvCK36Pf/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028523275bfumLaCV7mcOX1SpYp" alt="Rockwell Automation logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Rockwell Automation</strong></a></summary>
 
 - Early in Career Windows Software Engineer (C++, C#)
 - Project Planner
@@ -903,7 +903,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&jobtype=Intern&pagesize=20#results"><strong><img src="https://cdn.brandfetch.io/idVE84WdIN/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028500826bfumLaCV7mfXoU26sl" alt="Salesforce logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Salesforce</strong></a></summary>
+<summary><a href="https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&jobtype=Intern&pagesize=20#results"><strong><img src="https://cdn.brandfetch.io/idVE84WdIN/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028500826bfumLaCV7mfXoU26sl" alt="Salesforce logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Salesforce</strong></a></summary>
 
 - Summer 2026 Intern - Associate Product Manager (APM)
 - Strategic Partnerships Intern
@@ -944,7 +944,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://scale.com/careers#open-roles"><strong><img src="https://cdn.brandfetch.io/idLdViRnHy/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028528521bfumLaCV7mzfvnsSqJ" alt="Scale AI logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Scale AI</strong></a></summary>
+<summary><a href="https://scale.com/careers#open-roles"><strong><img src="https://cdn.brandfetch.io/idLdViRnHy/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028528521bfumLaCV7mzfvnsSqJ" alt="Scale AI logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Scale AI</strong></a></summary>
 
 - Human Frontier Collective Specialist - GenAI
 - Sales Development Intern
@@ -971,7 +971,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://jobs.sw.siemens.com/locations/usa/jobs/?q=intern"><strong><img src="https://cdn.brandfetch.io/idtwZZpkvB/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028523059bfumLaCV7mmcz2R7hV" alt="Siemens logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Siemens</strong></a></summary>
+<summary><a href="https://jobs.sw.siemens.com/locations/usa/jobs/?q=intern"><strong><img src="https://cdn.brandfetch.io/idtwZZpkvB/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028523059bfumLaCV7mmcz2R7hV" alt="Siemens logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Siemens</strong></a></summary>
 
 - Business Development Representative Intern (China) - Work Type:Hybrid - Job Family:Sales - Req ID:e37114a7-ffd5-48f4-8e67-b51b4ca51b68
 - Strategic Student Program: Software Product Quality Assurance Intern (EBS, Fall 2025) - Huntsville, AL - Work Type:Hybrid - Job Family:Internal Services - Req ID:467157
@@ -996,13 +996,13 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://www.skydio.com/careers#job-listing"><strong><img src="https://cdn.brandfetch.io/idqm3gcTLX/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028532208bfumLaCV7mud-wXmrz" alt="Skydio logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Skydio</strong></a></summary>
+<summary><a href="https://www.skydio.com/careers#job-listing"><strong><img src="https://cdn.brandfetch.io/idqm3gcTLX/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028532208bfumLaCV7mud-wXmrz" alt="Skydio logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Skydio</strong></a></summary>
 
 - Middleware Software Intern - Fall 2025
 </details>
 
 <details>
-<summary><a href="https://careers.snap.com/jobs?type=Intern"><strong><img src="https://cdn.brandfetch.io/id-lroGNM3/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028511867bfumLaCV7mnNxVyeKO" alt="Snap logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Snap</strong></a></summary>
+<summary><a href="https://careers.snap.com/jobs?type=Intern"><strong><img src="https://cdn.brandfetch.io/id-lroGNM3/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028511867bfumLaCV7mnNxVyeKO" alt="Snap logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Snap</strong></a></summary>
 
 - Optical Engineer
 - Computer Architecture Intern
@@ -1015,7 +1015,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95"><strong><img src="https://cdn.brandfetch.io/ido0LYg_hc/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028532418bfumLaCV7mDQUD3la5" alt="Sony logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Sony</strong></a></summary>
+<summary><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95"><strong><img src="https://cdn.brandfetch.io/ido0LYg_hc/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028532418bfumLaCV7mDQUD3la5" alt="Sony logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Sony</strong></a></summary>
 
 - Legal Intern
 - AI/ML Computer Vision Research Intern
@@ -1033,7 +1033,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://www.spacex.com/careers/jobs/?type=intern"><strong><img src="https://cdn.brandfetch.io/id2g3lee9x/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028516915bfumLaCV7mP5j-_rrr" alt="SpaceX logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  SpaceX</strong></a></summary>
+<summary><a href="https://www.spacex.com/careers/jobs/?type=intern"><strong><img src="https://cdn.brandfetch.io/id2g3lee9x/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028516915bfumLaCV7mP5j-_rrr" alt="SpaceX logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  SpaceX</strong></a></summary>
 
 - Fall 2025 Business Operations Internship/Co-op
 - Fall 2025 Engineering Internship/Co-op
@@ -1042,7 +1042,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://www.splunk.com/en_us/careers/search-jobs.html?page=1&type=Intern"><strong><img src="https://cdn.brandfetch.io/idWxR3ZEqC/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028515736bfumLaCV7m_uCR0n7v" alt="Splunk logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Splunk</strong></a></summary>
+<summary><a href="https://www.splunk.com/en_us/careers/search-jobs.html?page=1&type=Intern"><strong><img src="https://cdn.brandfetch.io/idWxR3ZEqC/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028515736bfumLaCV7m_uCR0n7v" alt="Splunk logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Splunk</strong></a></summary>
 
 - Sales Engineer Intern (Prague, Czechia)
 - Product Manager Intern, Poland
@@ -1051,14 +1051,14 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://www.lifeatspotify.com/students"><strong><img src="https://cdn.brandfetch.io/id20mQyGeY/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028507049bfumLaCV7mPyUJ3W7l" alt="Spotify logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Spotify</strong></a></summary>
+<summary><a href="https://www.lifeatspotify.com/students"><strong><img src="https://cdn.brandfetch.io/id20mQyGeY/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028507049bfumLaCV7mPyUJ3W7l" alt="Spotify logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Spotify</strong></a></summary>
 
 - Early Career Program, Growth Associate, South Korea
 - Early Career Program, Podcast Associate
 </details>
 
 <details>
-<summary><a href="https://stripe.com/jobs/search?office_locations=North+America--Atlanta&office_locations=North+America--Chicago&office_locations=North+America--Mexico+City&office_locations=North+America--New+York&office_locations=North+America--San+Francisco+Bridge+HQ&office_locations=North+America--Seattle&office_locations=North+America--South+San+Francisco&office_locations=North+America--Toronto&office_locations=North+America--Washington+DC&tags=University"><strong><img src="https://cdn.brandfetch.io/idxAg10C0L/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028511629bfumLaCV7m7Y8C_AAH" alt="Stripe logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Stripe</strong></a></summary>
+<summary><a href="https://stripe.com/jobs/search?office_locations=North+America--Atlanta&office_locations=North+America--Chicago&office_locations=North+America--Mexico+City&office_locations=North+America--New+York&office_locations=North+America--San+Francisco+Bridge+HQ&office_locations=North+America--Seattle&office_locations=North+America--South+San+Francisco&office_locations=North+America--Toronto&office_locations=North+America--Washington+DC&tags=University"><strong><img src="https://cdn.brandfetch.io/idxAg10C0L/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028511629bfumLaCV7m7Y8C_AAH" alt="Stripe logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Stripe</strong></a></summary>
 
 - Operations Associate, New Grad (Mexico)
 - Privacy Fellow
@@ -1067,7 +1067,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://careers.sig.com/global-susquehanna-jobs"><strong><img src="https://cdn.brandfetch.io/idCAAWH2Y9/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028518566bfumLaCV7mvmNaGP5a" alt="Susquehanna logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Susquehanna</strong></a></summary>
+<summary><a href="https://careers.sig.com/global-susquehanna-jobs"><strong><img src="https://cdn.brandfetch.io/idCAAWH2Y9/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028518566bfumLaCV7mvmNaGP5a" alt="Susquehanna logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Susquehanna</strong></a></summary>
 
 - Account Opening Analyst
 - US Benefits Manager
@@ -1109,7 +1109,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://careers.tsmc.com/en_US/careers/SearchJobs/?542=13100&542_format=486&listFilterMode=1&jobRecordsPerPage=100&"><strong><img src="https://cdn.brandfetch.io/idpuqG_7nu/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028522617bfumLaCV7mi5SpjnW2" alt="TSMC logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  TSMC</strong></a></summary>
+<summary><a href="https://careers.tsmc.com/en_US/careers/SearchJobs/?542=13100&542_format=486&listFilterMode=1&jobRecordsPerPage=100&"><strong><img src="https://cdn.brandfetch.io/idpuqG_7nu/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028522617bfumLaCV7mi5SpjnW2" alt="TSMC logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  TSMC</strong></a></summary>
 
 - 台積身心障礙專業人才_暑期實習
 - [Summer 2026] TSMC AZ Internship Opportunities - Facility Roles
@@ -1120,7 +1120,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://corporate.target.com/careers/job-search?referral=job-search-link&currentPage=1&jobAreas=Internships&profiles=Arrows%20Manager%7C%7CEntry%20Level&filtercondition=or"><strong><img src="https://cdn.brandfetch.io/id0ZfAM4Dt/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028532896bfumLaCV7mUEc3djH7" alt="Target logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Target</strong></a></summary>
+<summary><a href="https://corporate.target.com/careers/job-search?referral=job-search-link&currentPage=1&jobAreas=Internships&profiles=Arrows%20Manager%7C%7CEntry%20Level&filtercondition=or"><strong><img src="https://cdn.brandfetch.io/id0ZfAM4Dt/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028532896bfumLaCV7mUEc3djH7" alt="Target logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Target</strong></a></summary>
 
 - Current Interns Only - UX Designer - Summer 2025
 - Current Interns Only Arrows for 2026
@@ -1128,7 +1128,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://join.qq.com/post.html?query=p_2,w_407,w_408,w_401&c_t=2"><strong><img src="https://cdn.brandfetch.io/idPf1s-Y7S/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028531214bfumLaCV7mrwWhWA0G" alt="Tencent logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Tencent</strong></a></summary>
+<summary><a href="https://join.qq.com/post.html?query=p_2,w_407,w_408,w_401&c_t=2"><strong><img src="https://cdn.brandfetch.io/idPf1s-Y7S/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028531214bfumLaCV7mrwWhWA0G" alt="Tencent logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Tencent</strong></a></summary>
 
 - IT Engineer Intern 105661
 - Procurement Intern 105209
@@ -1139,7 +1139,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://lifeattiktok.com/search?keyword=&recruitment_id_list=202%2C301&job_category_id_list=&subject_id_list=7322364514224687370%2C7322364513776093449%2C7459987887569733896%2C7459986622530078983&location_code_list=CT_247%2CCT_94%2CCT_243%2CCT_104%2CCT_114%2CCT_75%2CCT_1103355%2CCT_157%2CCT_233&limit=12&offset=0"><strong><img src="https://cdn.brandfetch.io/id-0D6OFrq/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028516405bfumLaCV7mQd8CujPD" alt="TikTok logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  TikTok</strong></a></summary>
+<summary><a href="https://lifeattiktok.com/search?keyword=&recruitment_id_list=202%2C301&job_category_id_list=&subject_id_list=7322364514224687370%2C7322364513776093449%2C7459987887569733896%2C7459986622530078983&location_code_list=CT_247%2CCT_94%2CCT_243%2CCT_104%2CCT_114%2CCT_75%2CCT_1103355%2CCT_157%2CCT_233&limit=12&offset=0"><strong><img src="https://cdn.brandfetch.io/id-0D6OFrq/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028516405bfumLaCV7mQd8CujPD" alt="TikTok logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  TikTok</strong></a></summary>
 
 - Product Manager Intern (TikTok LIVE-Ecosystem Governance)- 2025 Fall (BS/MS)
 - Software Engineer Intern (TikTok-Social-Product Innovation) - 2025 Fall (BS/MS)
@@ -1157,13 +1157,13 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://apply.ukg.com/careers?pid=893380942429&Seniority=Intern&domain=ukg.com&sort_by=relevance&triggerGoButton=true"><strong><img src="https://cdn.brandfetch.io/idYNOD4MeX/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028532615bfumLaCV7mjhGntUOb" alt="UKG logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  UKG</strong></a></summary>
+<summary><a href="https://apply.ukg.com/careers?pid=893380942429&Seniority=Intern&domain=ukg.com&sort_by=relevance&triggerGoButton=true"><strong><img src="https://cdn.brandfetch.io/idYNOD4MeX/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028532615bfumLaCV7mjhGntUOb" alt="UKG logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  UKG</strong></a></summary>
 
 - Software Engineering Internship - Fall 2025
 </details>
 
 <details>
-<summary><a href="https://www.uber.com/us/en/careers/list/?department=University&location=USA-California-San%20Francisco&location=USA-California-Culver%20City&location=USA-California-Sunnyvale&location=USA-New%20York-New%20York&location=USA-Illinois-Chicago&location=USA-Washington-Seattle&location=USA-Florida-Miami&location=USA-Texas-Dallas&location=USA-Arizona-Phoenix&location=USA-District%20of%20Columbia-Washington&location=USA-Massachusetts-Boston"><strong><img src="https://cdn.brandfetch.io/ididNbiiOd/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028498352bfumLaCV7mVp3-w5QS" alt="Uber logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Uber</strong></a></summary>
+<summary><a href="https://www.uber.com/us/en/careers/list/?department=University&location=USA-California-San%20Francisco&location=USA-California-Culver%20City&location=USA-California-Sunnyvale&location=USA-New%20York-New%20York&location=USA-Illinois-Chicago&location=USA-Washington-Seattle&location=USA-Florida-Miami&location=USA-Texas-Dallas&location=USA-Arizona-Phoenix&location=USA-District%20of%20Columbia-Washington&location=USA-Massachusetts-Boston"><strong><img src="https://cdn.brandfetch.io/ididNbiiOd/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028498352bfumLaCV7mVp3-w5QS" alt="Uber logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Uber</strong></a></summary>
 
 - Graduate 2025 PhD Scientist (AEA/ASSA Economists Only), United States
 - 2025 Software Engineering UberSTAR Internship, University of Texas at El Paso
@@ -1172,14 +1172,14 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://unity.com/careers/positions?department=students-early-career"><strong><img src="https://cdn.brandfetch.io/idEc0EPR9J/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028525287bfumLaCV7mfxM5OCCY" alt="Unity logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Unity</strong></a></summary>
+<summary><a href="https://unity.com/careers/positions?department=students-early-career"><strong><img src="https://cdn.brandfetch.io/idEc0EPR9J/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028525287bfumLaCV7mfxM5OCCY" alt="Unity logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Unity</strong></a></summary>
 
 - Junior Test Engineer
 - Sales Onboarding Intern
 </details>
 
 <details>
-<summary><a href="https://mycareer.verizon.com/jobs/?search=&team=Campus+%26+Apprenticeships&pagesize=100#results"><strong><img src="https://cdn.brandfetch.io/idXhrQrb5t/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028527395bfumLaCV7mY0OrrA1p" alt="Verizon logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Verizon</strong></a></summary>
+<summary><a href="https://mycareer.verizon.com/jobs/?search=&team=Campus+%26+Apprenticeships&pagesize=100#results"><strong><img src="https://cdn.brandfetch.io/idXhrQrb5t/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028527395bfumLaCV7mY0OrrA1p" alt="Verizon logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Verizon</strong></a></summary>
 
 - Thrive Accelerate Up- Supervisor- Call Center Tech Customer Service
 - Thrive Accelerate Up- Field Operations Manager
@@ -1228,7 +1228,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://www.verkada.com/careers/"><strong><img src="https://cdn.brandfetch.io/idCLXeli5r/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028523867bfumLaCV7msJ09agNg" alt="Verkada logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Verkada</strong></a></summary>
+<summary><a href="https://www.verkada.com/careers/"><strong><img src="https://cdn.brandfetch.io/idCLXeli5r/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028523867bfumLaCV7msJ09agNg" alt="Verkada logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Verkada</strong></a></summary>
 
 - Software Engineering Intern, Backend - Fall 2025 - San Mateo, CA United States
 - Software Engineering Intern, Mobile - Fall 2025 - San Mateo, CA United States
@@ -1236,7 +1236,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://careers.smartrecruiters.com/Visa/university-recruiting"><strong><img src="https://cdn.brandfetch.io/idhem73aId/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028526547bfumLaCV7mlvr3zOJ_" alt="Visa logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Visa</strong></a></summary>
+<summary><a href="https://careers.smartrecruiters.com/Visa/university-recruiting"><strong><img src="https://cdn.brandfetch.io/idhem73aId/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028526547bfumLaCV7mlvr3zOJ_" alt="Visa logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Visa</strong></a></summary>
 
 - Associate Developer - Software Development/Engineering
 - Graduate Software Engineer - Software Development/Engineering
@@ -1249,13 +1249,13 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://app.careerpuck.com/job-board/welchs/?departmentId=6vcaTkfP"><strong><img src="https://cdn.brandfetch.io/idQl2QFj1_/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028500082bfumLaCV7m0jzinmJ6" alt="Welch's logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Welch's</strong></a></summary>
+<summary><a href="https://app.careerpuck.com/job-board/welchs/?departmentId=6vcaTkfP"><strong><img src="https://cdn.brandfetch.io/idQl2QFj1_/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028500082bfumLaCV7m0jzinmJ6" alt="Welch's logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Welch's</strong></a></summary>
 
 - Control Engineer
 </details>
 
 <details>
-<summary><a href="https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/?source=Careers_Website_ec"><strong><img src="https://cdn.brandfetch.io/id0V-YF4nE/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028513165bfumLaCV7m-ypCJYmI" alt="Workday logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Workday</strong></a></summary>
+<summary><a href="https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/?source=Careers_Website_ec"><strong><img src="https://cdn.brandfetch.io/id0V-YF4nE/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028513165bfumLaCV7m-ypCJYmI" alt="Workday logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Workday</strong></a></summary>
 
 - Werksstudierende - Sales (f, m, x) - Munich
 - Working Student Sales - Munich
@@ -1264,14 +1264,14 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://careers.x.com/en#positions"><strong><img src="https://cdn.brandfetch.io/id3elZ9Rhl/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028523698bfumLaCV7mVeg055DW" alt="X logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  X</strong></a></summary>
+<summary><a href="https://careers.x.com/en#positions"><strong><img src="https://cdn.brandfetch.io/id3elZ9Rhl/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028523698bfumLaCV7mVeg055DW" alt="X logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  X</strong></a></summary>
 
 - Data Center Ops Technician Intern
 - Engineering Intern
 </details>
 
 <details>
-<summary><a href="https://www.zipline.com/careers/open-roles?search=intern#"><strong><img src="https://cdn.brandfetch.io/id_oSYol9U/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028524273bfumLaCV7mY4n6coPJ" alt="Zipline logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  Zipline</strong></a></summary>
+<summary><a href="https://www.zipline.com/careers/open-roles?search=intern#"><strong><img src="https://cdn.brandfetch.io/id_oSYol9U/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028524273bfumLaCV7mY4n6coPJ" alt="Zipline logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  Zipline</strong></a></summary>
 
 - Annotation Technical Lead - Engineering - Kigali, Rwanda
 - Communications Lead, US Expansion - Marketing, Design & Communications - South San Francisco, California, USA
@@ -1306,7 +1306,7 @@ Here's an example:
 </details>
 
 <details>
-<summary><a href="https://jobs.lever.co/ispace-inc?commitment=Intern"><strong><img src="https://cdn.brandfetch.io/id-4hpaE3W/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028499865bfumLaCV7m-onK5WQL" alt="ispace logo" height="24" style="vertical-align:middle; position:relative; top:2px;">  ispace</strong></a></summary>
+<summary><a href="https://jobs.lever.co/ispace-inc?commitment=Intern"><strong><img src="https://cdn.brandfetch.io/id-4hpaE3W/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028499865bfumLaCV7m-onK5WQL" alt="ispace logo" height="24" style="vertical-align:middle; position:relative; top:-12px;">  ispace</strong></a></summary>
 
 - Market Analyst Intern for ISRU Market Study by Euro2Moon - ON-SITE — INTERNLUXEMBOURG
 </details>
