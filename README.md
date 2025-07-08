@@ -11,7 +11,7 @@ Easily track jobs across top tech companies.
 
 ---
 
-## 📌 Current Job Listings (117 companies)
+## 📌 Current Job Listings (118 companies)
 
 ### 🔎 Table of Contents
 
