@@ -49,9 +49,11 @@ def format_message_html(message: dict) -> str:
     for company, info in message.get("companies", {}).items():
         icon_url = icons.get(company)
         icon_html = (
-            f'<img src="{icon_url}" alt="{company} logo" height="24" style="vertical-align:middle;"> '
+            f'<img src="{icon_url}" alt="{company} logo" height="24" '
+            f'style="vertical-align:middle; position:relative; top:2px;"> '
             if icon_url else ""
         )
+
         lines.append(f"<h3>{icon_html}  {company}</h3>")
         lines.append("<ul>")
         for job in info["jobs"]:
@@ -147,7 +149,7 @@ def main() -> None:
 
     Path("storage.json").write_text(json.dumps(data, indent=2), encoding="utf-8")
     if new_jobs.get("companies"):
-        send_email(new_jobs, test = True)
+        send_email(new_jobs, test = False)
 
 if __name__ == "__main__":
     main()

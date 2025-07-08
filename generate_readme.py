@@ -36,9 +36,11 @@ def generate_readme(jobs: dict, links: dict) -> str:
             continue
         icon_url = icons.get(company)
         icon_html = (
-            f'<img src="{icon_url}" alt="{company} logo" height="24" style="vertical-align:middle;"> '
+            f'<img src="{icon_url}" alt="{company} logo" height="24" '
+            f'style="vertical-align:middle; position:relative; top:2px;"> '
             if icon_url else ""
         )
+
         name = f'<a href="{links[company]}"><strong>{icon_html} {company}</strong></a>'
         lines.append("<details>")
         lines.append(f"<summary>{name}</summary>\n")
