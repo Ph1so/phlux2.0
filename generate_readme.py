@@ -1,4 +1,5 @@
 import json
+from datetime import datetime
 from pathlib import Path
 from typing import List
 from collections import defaultdict
@@ -35,59 +36,49 @@ def generate_readme(jobs: dict, links: dict) -> str:
         "![CLI Example](public/cli.png)",
     ])
 
-    lines.append(f"\n---\n\n## 📌 Current Job Listings ({len(jobs)} companies)\n")
+    total_jobs = sum(len(v) for v in jobs.values() if v)
+    lines.append(f"\n---\n\n## 📌 Job Listings found by Phlux ({len(jobs)} companies, {total_jobs} roles)\n")
 
-    grouped = defaultdict(list)
-    for company in sorted(jobs):
-        if not jobs[company]:
+
+    # Header row for table
+    lines.append("| Company | Role | Date Found |")
+    lines.append("|---|---|---|")
+
+    # Collect all jobs into a flat list with metadata
+    all_jobs = []
+    for company in jobs:
+        postings = jobs[company]
+        if not postings:
             continue
-        first_letter = company[0].upper()
-        grouped[first_letter].append(company)
 
-    lines.append("### 🔎 Table of Contents\n")
-    for letter in sorted(grouped):
-        lines.append(f"#### {letter}")
-        for company in grouped[letter]:
-            anchor = company.lower().replace(" ", "-")
-            lines.append(f"- [{company}](#{anchor})")
-        lines.append("")
+        icon_url = icons.get(company)
+        company_display = f'<img src="{icon_url}" alt="{company}" height="20" style="vertical-align:middle; margin-right:6px;"> {company}' if icon_url else company
+        company_link = links.get(company, "#")
+        linked_company = f"[{company_display}]({company_link})"
 
-    lines.append("---\n")
+        for role in postings:
+            if isinstance(role, dict):
+                title = role.get("title", "").replace("\n", " ").replace("|", "\\|").strip()
+                date_str = role.get("date", "N/A")
+            else:
+                title = role.replace("\n", " ").replace("|", "\\|").strip()
+                date_str = "N/A"
 
-    for letter in sorted(grouped):
-        for company in grouped[letter]:
-            postings = jobs[company]
-            if not postings:
-                continue
+            # For sorting, convert to datetime (fallback to 1970-01-01 if unknown)
+            try:
+                sort_date = datetime.strptime(date_str, "%m/%d/%Y")
+            except ValueError:
+                sort_date = datetime(1970, 1, 1)
 
-            icon_url = icons.get(company)
-            icon_html = (
-                f'<img src="{icon_url}" alt="{company} logo" height="24" style="vertical-align:middle; margin-right:6px;" />'
-                if icon_url else ""
-            )
+            all_jobs.append((linked_company, title, date_str, sort_date))
 
-            anchor_name = company.lower().replace(" ", "-")
+    # Sort by date descending (most recent first)
+    all_jobs.sort(key=lambda x: x[3], reverse=True)
 
-            header_line = f'''
-            <div style="text-align: center; margin-top: 30px;">
-                <a name="{anchor_name}"></a>
-                {icon_html}
-                <a href="{links[company]}" target="_blank"
-                style="font-family: Inconsolata, monospace; font-size: 24px; text-decoration: none;">
-                    <strong>{company}</strong> ({len(postings)} roles)
-                </a>
-            </div>
-            '''.strip()
+    for company, title, date_str, _ in all_jobs:
+        lines.append(f"| {company} | {title} | {date_str} |")
 
-            lines.append(header_line)
-            lines.append('<ul style="font-family: Inconsolata, monospace;">')
-            for role in postings:
-                cleaned = role.replace("\n", " ").strip()
-                lines.append(f"<li>{cleaned}</li>")
-            lines.append("</ul>")
-
-            lines.append("\n---")
-
+    lines.append("\n---")
 
     return "\n".join(lines)
 

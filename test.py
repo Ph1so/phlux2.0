@@ -7,18 +7,33 @@ from selenium.webdriver.remote.webelement import WebElement
 from tenacity import retry, wait_fixed, stop_after_attempt
 from utils import get_driver
 import time
-# f"//*[contains(normalize-space(), '{xpath_text}')]"
+import json
 
-name = "Amentum"
-url = "https://www.amentumcareers.com/jobs/search?page=1&country_codes%5B%5D=US&query=%22Intern%22"
-instructions = "CLICK:.btn.btn-success.consent-agree->CSS:td.job-search-results-title"
+with open("storage.json", "r") as f:
+    data = json.load(f)
+
+for company, job_list in data["companies"].items():
+    new_job_list = []
+    for job in job_list:
+        new_job_list.append({
+            "title": job,
+            "date": "NA"  # You can later replace this with a real date
+        })
+    data["companies"][company] = new_job_list
+
+with open("storage.json", "w") as f:
+    json.dump(data, f, indent=2)
+
+# name = "Amentum"
+# url = "https://www.amentumcareers.com/jobs/search?page=1&country_codes%5B%5D=US&query=%22Intern%22"
+# instructions = "CLICK:.btn.btn-success.consent-agree->CSS:td.job-search-results-title"
 
 
-headless=False
-driver = get_driver(headless=headless)
+# headless=False
+# driver = get_driver(headless=headless)
 
-jobs = get_jobs_headless(name=name, urls=url, instructions=instructions, headless=headless, test = True)
-print(f"jobs found: {len(jobs)}\njobs: {jobs}")
+# jobs = get_jobs_headless(name=name, urls=url, instructions=instructions, headless=headless, test = True)
+# print(f"jobs found: {len(jobs)}\njobs: {jobs}")
 # driver.get(url)
 # try:
 #     time.sleep(3)

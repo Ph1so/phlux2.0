@@ -1,32 +1,47 @@
-from __future__ import annotations
-
-"""Core scraping routines and manager class."""
-from concurrent.futures import ProcessPoolExecutor, as_completed
+import os
+import csv
+import json
+import time
 from pathlib import Path
 from typing import Dict, List
+from concurrent.futures import ProcessPoolExecutor, as_completed
+from datetime import datetime
+
+import requests
+from selenium.common.exceptions import NoSuchElementException, WebDriverException, TimeoutException
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from tenacity import retry, wait_fixed, stop_after_attempt
 
 from .config import load_config
 from .models import Company, ScrapeResult
 from .utils import get_driver
 from .scrapers import CompanyScraper, JPMorganScraper
 
-import csv
-import json
-import time
-import os
-
-import requests
-from selenium.common.exceptions import NoSuchElementException, WebDriverException
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException
-from tenacity import retry, wait_fixed, stop_after_attempt
 
 CSS = "CSS"
 CLICK = "CLICK"
 FILTER = "FILTER"
 ACTION_TYPES = [CSS, CLICK, FILTER]
+
+class Actions:
+    def __init__(self, actions: List[str]):
+        self.actions = actions
+
+    def __iter__(self):
+        return iter(self.actions)
+
+    def get_type(self, action: str) -> str:
+        return action[:action.index(":")].strip()
+
+    def get_selector(self, action: str) -> str:
+        raw = action[action.index(":") + 1:].strip()
+        return raw.replace(":pointer", "").strip()
+
+    def has_flag(self, action: str, flag: str) -> bool:
+        return f":{flag}" in action
+
 
 @retry(wait=wait_fixed(5), stop=stop_after_attempt(5))
 def get_jobs_headless(name: str, urls: str, instructions: str, headless=True, test=False) -> List[str]:
@@ -135,16 +150,32 @@ def load_company_data(csv_path: Path = Path("companies.csv")) -> List[Company]:
             companies.append(Company(row["Name"].strip(), row["Link"].strip().strip('"\''), row["ClassName"].strip()))
     return companies
 
-def process_jobs(data: Dict[str, Dict[str, List[str]]], result: ScrapeResult, new_jobs: Dict) -> None:
+
+def process_jobs(data, result: ScrapeResult, new_jobs: Dict) -> None:
     existing = data.setdefault("companies", {}).get(result.name, [])
     new_list = []
+
+    today = datetime.now().strftime("%-m/%-d/%Y")
+
+    # Make sure to only compare job titles for uniqueness
+    existing_titles = {j["title"] if isinstance(j, dict) else j for j in existing}
+
     for job in result.jobs:
         job = job.replace("\n", " - ")
-        if job not in existing:
-            new_list.append(job)
-    data.setdefault("companies", {})[result.name] = existing + new_list
+        if job not in existing_titles:
+            new_entry = {
+                "title": job,
+                "date": today
+            }
+            new_list.append(new_entry)
+
+    data["companies"][result.name] = existing + new_list
+
     if new_list:
-        new_jobs.setdefault("companies", {})[result.name] = {"jobs": new_list, "link": result.link}
+        new_jobs.setdefault("companies", {})[result.name] = {
+            "jobs": new_list,
+            "link": result.link
+        }
 
 def autoApply(jobs: List[str], url: str):
     token = os.environ.get("GH_TOKEN")
@@ -240,19 +271,3 @@ class ScrapeManager:
         print(f"Total companies with no jobs: {total_companies_with_no_jobs}")
         return {"data": data, "new_jobs": new_jobs}
 
-class Actions:
-    def __init__(self, actions: List[str]):
-        self.actions = actions
-
-    def __iter__(self):
-        return iter(self.actions)
-
-    def get_type(self, action: str) -> str:
-        return action[:action.index(":")].strip()
-
-    def get_selector(self, action: str) -> str:
-        raw = action[action.index(":") + 1:].strip()
-        return raw.replace(":pointer", "").strip()
-
-    def has_flag(self, action: str, flag: str) -> bool:
-        return f":{flag}" in action

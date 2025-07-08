@@ -1,1053 +1,3564 @@
 {
   "companies": {
     "Pinterest": [
-      "Software Engineering Intern 2025 (Toronto)"
+      {
+        "title": "Software Engineering Intern 2025 (Toronto)",
+        "date": "NA"
+      }
     ],
     "Uber": [
-      "Graduate 2025 PhD Scientist (AEA/ASSA Economists Only), United States",
-      "2025 Software Engineering UberSTAR Internship, University of Texas at El Paso",
-      "2025 Software Engineering Internship, University of Texas at El Paso",
-      "2025 PhD Scientist Internship (Eater Pricing and Incentives), United States"
+      {
+        "title": "Graduate 2025 PhD Scientist (AEA/ASSA Economists Only), United States",
+        "date": "NA"
+      },
+      {
+        "title": "2025 Software Engineering UberSTAR Internship, University of Texas at El Paso",
+        "date": "NA"
+      },
+      {
+        "title": "2025 Software Engineering Internship, University of Texas at El Paso",
+        "date": "NA"
+      },
+      {
+        "title": "2025 PhD Scientist Internship (Eater Pricing and Incentives), United States",
+        "date": "NA"
+      }
     ],
     "Nvidia": [
-      "System Software Engineering Intern, GPU Server - Fall 2025",
-      "Compiler Engineering Intern, GPU Compute and CUDA - Fall 2025",
-      "Technical Marketing Engineer Intern, AI Platform Software - Fall 2025",
-      "GPU Diagnostic Software Intern - Fall 2025",
-      "Robotics Software Intern, Sim2Real Deployment - Fall 2025",
-      "PhD Intern, Applied Research Scientist Retriever - Fall 2025",
-      "PhD Research Intern, Generalist Embodied Agents Research - Fall 2025",
-      "Software Engineering Intern, Embedded Systems \u2013 Fall 2025",
-      "Software Engineering Intern, Simulation and Virtualization - Fall 2025",
-      "System Software Engineering Intern, CUDA Driver - Fall 2025",
-      "GeForce Technical Marketing Intern - Fall 2025",
-      "Software Engineering Intern, CSP Engagements - Fall 2025",
-      "Security Engineering Intern, Omniverse - Fall 2025",
-      "Applied AI Research Engineering Intern - Fall 2025",
-      "Performance Engineer Intern, Gaming - Winter/Spring 2026",
-      "Software Engineering Intern, Robot Learning Platform - Fall 2025"
+      {
+        "title": "System Software Engineering Intern, GPU Server - Fall 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Compiler Engineering Intern, GPU Compute and CUDA - Fall 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Technical Marketing Engineer Intern, AI Platform Software - Fall 2025",
+        "date": "NA"
+      },
+      {
+        "title": "GPU Diagnostic Software Intern - Fall 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Robotics Software Intern, Sim2Real Deployment - Fall 2025",
+        "date": "NA"
+      },
+      {
+        "title": "PhD Intern, Applied Research Scientist Retriever - Fall 2025",
+        "date": "NA"
+      },
+      {
+        "title": "PhD Research Intern, Generalist Embodied Agents Research - Fall 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineering Intern, Embedded Systems \u2013 Fall 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineering Intern, Simulation and Virtualization - Fall 2025",
+        "date": "NA"
+      },
+      {
+        "title": "System Software Engineering Intern, CUDA Driver - Fall 2025",
+        "date": "NA"
+      },
+      {
+        "title": "GeForce Technical Marketing Intern - Fall 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineering Intern, CSP Engagements - Fall 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Security Engineering Intern, Omniverse - Fall 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Applied AI Research Engineering Intern - Fall 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Performance Engineer Intern, Gaming - Winter/Spring 2026",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineering Intern, Robot Learning Platform - Fall 2025",
+        "date": "NA"
+      }
     ],
     "AWS": [
-      "Data Center Security Specialist Intern",
-      "2025 ASIC Physical Design Engineer Intern, Annapurna Labs",
-      "ASIC RTL Engineer, Annapurna Labs"
+      {
+        "title": "Data Center Security Specialist Intern",
+        "date": "NA"
+      },
+      {
+        "title": "2025 ASIC Physical Design Engineer Intern, Annapurna Labs",
+        "date": "NA"
+      },
+      {
+        "title": "ASIC RTL Engineer, Annapurna Labs",
+        "date": "NA"
+      }
     ],
     "Google": [
-      "Student Researcher, PhD, Winter/Summer 2025",
-      "Student Researcher, BS/MS, Winter/Summer 2025",
-      "Student Researcher, BS/MS, Fall 2025",
-      "Software Engineer, PhD, Early Career, Campus, Machine Learning, Systems and Cloud AI, 2025 start",
-      "Student Researcher, PhD, Fall 2025",
-      "Software Engineer, Systems Research, PhD, Early Career",
-      "Software Engineer, PhD, Early Career, Campus, Embedded Systems and Firmware, 2025 start",
-      "Software Engineer, PhD, Early Career, Campus, Systems and Infrastructure, 2025 Start"
+      {
+        "title": "Student Researcher, PhD, Winter/Summer 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Student Researcher, BS/MS, Winter/Summer 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Student Researcher, BS/MS, Fall 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer, PhD, Early Career, Campus, Machine Learning, Systems and Cloud AI, 2025 start",
+        "date": "NA"
+      },
+      {
+        "title": "Student Researcher, PhD, Fall 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer, Systems Research, PhD, Early Career",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer, PhD, Early Career, Campus, Embedded Systems and Firmware, 2025 start",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer, PhD, Early Career, Campus, Systems and Infrastructure, 2025 Start",
+        "date": "NA"
+      }
     ],
     "Meta": [
-      "Research Scientist Intern, Computer Vision for Generative AI (PhD)",
-      "Research Scientist Intern, Human Computer Interaction (PhD)",
-      "Research Scientist Intern, Machine Learning, Health Tech (PhD)",
-      "Research Scientist Intern, Monetization Generative AI (LLM) - Language (PhD)",
-      "Research Scientist Intern, Sensors and Systems Computational Photography (PhD)",
-      "Research Scientist Intern, AI Core Machine Learning (PhD)"
+      {
+        "title": "Research Scientist Intern, Computer Vision for Generative AI (PhD)",
+        "date": "NA"
+      },
+      {
+        "title": "Research Scientist Intern, Human Computer Interaction (PhD)",
+        "date": "NA"
+      },
+      {
+        "title": "Research Scientist Intern, Machine Learning, Health Tech (PhD)",
+        "date": "NA"
+      },
+      {
+        "title": "Research Scientist Intern, Monetization Generative AI (LLM) - Language (PhD)",
+        "date": "NA"
+      },
+      {
+        "title": "Research Scientist Intern, Sensors and Systems Computational Photography (PhD)",
+        "date": "NA"
+      },
+      {
+        "title": "Research Scientist Intern, AI Core Machine Learning (PhD)",
+        "date": "NA"
+      }
     ],
     "ispace": [
-      "Market Analyst Intern for ISRU Market Study by Euro2Moon - ON-SITE \u2014 INTERNLUXEMBOURG"
+      {
+        "title": "Market Analyst Intern for ISRU Market Study by Euro2Moon - ON-SITE \u2014 INTERNLUXEMBOURG",
+        "date": "NA"
+      }
     ],
     "Microsoft": [
-      "Research Intern - Quantum Computing",
-      "Mechanical Engineer: Internship Opportunities - PhD - Redmond",
-      "Data Center Technicians INTERN"
+      {
+        "title": "Research Intern - Quantum Computing",
+        "date": "NA"
+      },
+      {
+        "title": "Mechanical Engineer: Internship Opportunities - PhD - Redmond",
+        "date": "NA"
+      },
+      {
+        "title": "Data Center Technicians INTERN",
+        "date": "NA"
+      }
     ],
     "Amazon": [
-      "Jr. Software Development Engineer - San Diego, CA",
-      "Jr. Software Development Engineer - Santa Cruz, CA",
-      "Jr. Software Development Engineer - Detroit",
-      "Jr. Software Development Engineer- San Luis Obispo",
-      "Jr. Software Development Engineer - Sunnyvale, CA",
-      "Fall 2025 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics",
-      "Fall 2025 Applied Science Internship - United States, PhD Student Science Recruiting, Frontier AI & Robotics",
-      "Fall 2025 Applied Science Internship - Information & Knowledge Management (Machine Learning) - United States, PhD Student Science Recruiting",
-      "Fall 2025 Research Science Internship - Robotics - United States, PhD Student Science Recruiting",
-      "Fall 2025 Applied Science Internship - Recommender Systems/ Information Retrieval (Machine Learning) - United States, PhD Student Science Recruiting",
-      "Fall 2025 Applied Science Internship - Gen AI & Large Language Models - United States, PhD Student Science Recruiting",
-      "Fall 2025 Applied Science Internship - Computer Vision - United States, PhD Student Science Recruiting",
-      "ASIC Engineering Internship (Fall 2025) - RFIC/Communications Systems, Project Kuiper",
-      "2026 Amazon Finance Rotation Program - Accounting Intern"
+      {
+        "title": "Jr. Software Development Engineer - San Diego, CA",
+        "date": "NA"
+      },
+      {
+        "title": "Jr. Software Development Engineer - Santa Cruz, CA",
+        "date": "NA"
+      },
+      {
+        "title": "Jr. Software Development Engineer - Detroit",
+        "date": "NA"
+      },
+      {
+        "title": "Jr. Software Development Engineer- San Luis Obispo",
+        "date": "NA"
+      },
+      {
+        "title": "Jr. Software Development Engineer - Sunnyvale, CA",
+        "date": "NA"
+      },
+      {
+        "title": "Fall 2025 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics",
+        "date": "NA"
+      },
+      {
+        "title": "Fall 2025 Applied Science Internship - United States, PhD Student Science Recruiting, Frontier AI & Robotics",
+        "date": "NA"
+      },
+      {
+        "title": "Fall 2025 Applied Science Internship - Information & Knowledge Management (Machine Learning) - United States, PhD Student Science Recruiting",
+        "date": "NA"
+      },
+      {
+        "title": "Fall 2025 Research Science Internship - Robotics - United States, PhD Student Science Recruiting",
+        "date": "NA"
+      },
+      {
+        "title": "Fall 2025 Applied Science Internship - Recommender Systems/ Information Retrieval (Machine Learning) - United States, PhD Student Science Recruiting",
+        "date": "NA"
+      },
+      {
+        "title": "Fall 2025 Applied Science Internship - Gen AI & Large Language Models - United States, PhD Student Science Recruiting",
+        "date": "NA"
+      },
+      {
+        "title": "Fall 2025 Applied Science Internship - Computer Vision - United States, PhD Student Science Recruiting",
+        "date": "NA"
+      },
+      {
+        "title": "ASIC Engineering Internship (Fall 2025) - RFIC/Communications Systems, Project Kuiper",
+        "date": "NA"
+      },
+      {
+        "title": "2026 Amazon Finance Rotation Program - Accounting Intern",
+        "date": "NA"
+      }
     ],
     "Welch's": [
-      "Control Engineer"
+      {
+        "title": "Control Engineer",
+        "date": "NA"
+      }
     ],
     "Netflix": [
-      "Machine Learning Intern, Fall 2025",
-      "Security Protocols Engineering Intern"
+      {
+        "title": "Machine Learning Intern, Fall 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Security Protocols Engineering Intern",
+        "date": "NA"
+      }
     ],
     "Intel": [
-      "Facilities Technician Intern",
-      "Facilities Technician Intern",
-      "Photonics Research Graduate Intern"
+      {
+        "title": "Facilities Technician Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Facilities Technician Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Photonics Research Graduate Intern",
+        "date": "NA"
+      }
     ],
     "LinkedIn": [],
     "Autodesk": [
-      "Stagiaire Artiste Technique, Technical Artist Intern",
-      "Intern (PhD), Physics-informed Machine Learning, Fall 2025",
-      "Intern, Software Developer/ Stagiaire en d\u00e9veloppement logiciels",
-      "Intern, Software Developer"
+      {
+        "title": "Stagiaire Artiste Technique, Technical Artist Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Intern (PhD), Physics-informed Machine Learning, Fall 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Intern, Software Developer/ Stagiaire en d\u00e9veloppement logiciels",
+        "date": "NA"
+      },
+      {
+        "title": "Intern, Software Developer",
+        "date": "NA"
+      }
     ],
     "Salesforce": [
-      "Summer 2026 Intern - Associate Product Manager (APM)",
-      "Strategic Partnerships Intern",
-      "Strategic Events Marketing Apprentice",
-      "LATAM Internship Program | Sales Intern [Brazil]",
-      "Sales Strategy Intern",
-      "Tech Sales Internship -Copenhagen",
-      "Sales Strategy Internship (Milan)",
-      "LATAM Internship Program | Sales Intern [Mexico]",
-      "Tech Sales Internship -Oslo",
-      "LATAM Internship Program | Sales Intern [Argentina]",
-      "Solution Engineering Internship (Copenhagen)",
-      "Business Value - Consulting Intern",
-      "Summer Intern -Sales Strategy (London)",
-      "Business Development Intern",
-      "Student Worker- Sales",
-      "2025 PhD Intern - AI Research, Singapore",
-      "Industry Go To Market - Manufacturing",
-      "Tableau Alliances - Partner Account Senior Manager",
-      "Commercial Account Executive - MuleSoft - Denmark",
-      "Senior Accountant",
-      "Enterprise Account Executive - MuleSoft - Denmark",
-      "Renewals Manager - Spanish speaking",
-      "Lead Solution Engineer, Manufacturing",
-      "Prime Named Account Executive - Mulesoft - Sweden",
-      "Alliances - Partner Sales Sr. Manager/Director",
-      "Cloud Account Executive - Tableau Middle East - Arabic speaking",
-      "Senior Full Stack Engineer - Backend Focus",
-      "Customer Success Manager",
-      "Pre-Sales Technical Architect - SMB EMEA",
-      "Prime Named Account Executive - Tableau",
-      "Principal, Technical Architect Data and AI",
-      "Software Engineering SMTS",
-      "Manager, Human Centered Change",
-      "Platform & Security Account Executive - Polish and English speaking",
-      "Onboarding Specialist - INTERNAL ONLY",
-      "Senior Manager Software Engineering"
+      {
+        "title": "Summer 2026 Intern - Associate Product Manager (APM)",
+        "date": "NA"
+      },
+      {
+        "title": "Strategic Partnerships Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Strategic Events Marketing Apprentice",
+        "date": "NA"
+      },
+      {
+        "title": "LATAM Internship Program | Sales Intern [Brazil]",
+        "date": "NA"
+      },
+      {
+        "title": "Sales Strategy Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Tech Sales Internship -Copenhagen",
+        "date": "NA"
+      },
+      {
+        "title": "Sales Strategy Internship (Milan)",
+        "date": "NA"
+      },
+      {
+        "title": "LATAM Internship Program | Sales Intern [Mexico]",
+        "date": "NA"
+      },
+      {
+        "title": "Tech Sales Internship -Oslo",
+        "date": "NA"
+      },
+      {
+        "title": "LATAM Internship Program | Sales Intern [Argentina]",
+        "date": "NA"
+      },
+      {
+        "title": "Solution Engineering Internship (Copenhagen)",
+        "date": "NA"
+      },
+      {
+        "title": "Business Value - Consulting Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Summer Intern -Sales Strategy (London)",
+        "date": "NA"
+      },
+      {
+        "title": "Business Development Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Student Worker- Sales",
+        "date": "NA"
+      },
+      {
+        "title": "2025 PhD Intern - AI Research, Singapore",
+        "date": "NA"
+      },
+      {
+        "title": "Industry Go To Market - Manufacturing",
+        "date": "NA"
+      },
+      {
+        "title": "Tableau Alliances - Partner Account Senior Manager",
+        "date": "NA"
+      },
+      {
+        "title": "Commercial Account Executive - MuleSoft - Denmark",
+        "date": "NA"
+      },
+      {
+        "title": "Senior Accountant",
+        "date": "NA"
+      },
+      {
+        "title": "Enterprise Account Executive - MuleSoft - Denmark",
+        "date": "NA"
+      },
+      {
+        "title": "Renewals Manager - Spanish speaking",
+        "date": "NA"
+      },
+      {
+        "title": "Lead Solution Engineer, Manufacturing",
+        "date": "NA"
+      },
+      {
+        "title": "Prime Named Account Executive - Mulesoft - Sweden",
+        "date": "NA"
+      },
+      {
+        "title": "Alliances - Partner Sales Sr. Manager/Director",
+        "date": "NA"
+      },
+      {
+        "title": "Cloud Account Executive - Tableau Middle East - Arabic speaking",
+        "date": "NA"
+      },
+      {
+        "title": "Senior Full Stack Engineer - Backend Focus",
+        "date": "NA"
+      },
+      {
+        "title": "Customer Success Manager",
+        "date": "NA"
+      },
+      {
+        "title": "Pre-Sales Technical Architect - SMB EMEA",
+        "date": "NA"
+      },
+      {
+        "title": "Prime Named Account Executive - Tableau",
+        "date": "NA"
+      },
+      {
+        "title": "Principal, Technical Architect Data and AI",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineering SMTS",
+        "date": "NA"
+      },
+      {
+        "title": "Manager, Human Centered Change",
+        "date": "NA"
+      },
+      {
+        "title": "Platform & Security Account Executive - Polish and English speaking",
+        "date": "NA"
+      },
+      {
+        "title": "Onboarding Specialist - INTERNAL ONLY",
+        "date": "NA"
+      },
+      {
+        "title": "Senior Manager Software Engineering",
+        "date": "NA"
+      }
     ],
     "Bank of America": [
-      "Global Markets Chief Operating Office Summer Analyst Program - 2026",
-      "Enterprise Credit Summer Analyst Program 2026 - Consumer Credit",
-      "Enterprise Credit Summer Analyst Program 2026 - Data and Analytics and Business Controls/Process Optimization",
-      "Enterprise Credit Summer Analyst Program 2026 - Global Commercial Banking Credit, Asset Based Finance & Commercial Real Estate Credit",
-      "Enterprise Credit Summer Analyst Program 2026 - Global Corporate & Investment Banking Credit and Global Markets Credit",
-      "Enterprise Credit Summer Analyst Program 2026 - Global Wealth & Investment Management Credit",
-      "Enterprise Credit Summer Analyst Program 2026 - Leveraged Finance Credit - Acquisition Finance",
-      "Global Operations Development Summer Analyst Program - 2026",
-      "Global Payments Solutions Summer Analyst Program - 2026",
-      "Global Technology Summer Analyst 2026 - Business Analyst",
-      "Global Technology Summer Analyst 2026 - Cybersecurity Analyst",
-      "Global Technology Summer Analyst 2026 - Software Engineer",
-      "Chief People Organization Summer 2026 Analyst",
-      "Commodities Summer Analyst Program \u2013 2026",
-      "COO - GCIB Regulatory Summer Analyst Program - 2026",
-      "Corporate Audit Summer 2026 Analyst",
-      "Corporate Audit Summer 2026 Analyst - Automation & Information Technology Risk Management",
-      "Global Strategy & Enterprise Platforms Summer 2026 Analyst",
-      "Strategy & Management Summer Analyst Program - 2026",
-      "Global Risk Summer 2026 Analyst",
-      "Finance Management Summer 2026 Analyst",
-      "Global Investment Banking Summer Analyst Program \u2013 2026 (M&A, Palo Alto)",
-      "Global Quantitative Data Analytics Summer 2026 Analyst - Analytics, Modeling and Insights (AMI)",
-      "Global Quantitative Data Analytics Summer 2026 Analyst - Enterprise Credit",
-      "Global Quantitative Data Analytics Summer 2026 Analyst - Global Risk Management"
+      {
+        "title": "Global Markets Chief Operating Office Summer Analyst Program - 2026",
+        "date": "NA"
+      },
+      {
+        "title": "Enterprise Credit Summer Analyst Program 2026 - Consumer Credit",
+        "date": "NA"
+      },
+      {
+        "title": "Enterprise Credit Summer Analyst Program 2026 - Data and Analytics and Business Controls/Process Optimization",
+        "date": "NA"
+      },
+      {
+        "title": "Enterprise Credit Summer Analyst Program 2026 - Global Commercial Banking Credit, Asset Based Finance & Commercial Real Estate Credit",
+        "date": "NA"
+      },
+      {
+        "title": "Enterprise Credit Summer Analyst Program 2026 - Global Corporate & Investment Banking Credit and Global Markets Credit",
+        "date": "NA"
+      },
+      {
+        "title": "Enterprise Credit Summer Analyst Program 2026 - Global Wealth & Investment Management Credit",
+        "date": "NA"
+      },
+      {
+        "title": "Enterprise Credit Summer Analyst Program 2026 - Leveraged Finance Credit - Acquisition Finance",
+        "date": "NA"
+      },
+      {
+        "title": "Global Operations Development Summer Analyst Program - 2026",
+        "date": "NA"
+      },
+      {
+        "title": "Global Payments Solutions Summer Analyst Program - 2026",
+        "date": "NA"
+      },
+      {
+        "title": "Global Technology Summer Analyst 2026 - Business Analyst",
+        "date": "NA"
+      },
+      {
+        "title": "Global Technology Summer Analyst 2026 - Cybersecurity Analyst",
+        "date": "NA"
+      },
+      {
+        "title": "Global Technology Summer Analyst 2026 - Software Engineer",
+        "date": "NA"
+      },
+      {
+        "title": "Chief People Organization Summer 2026 Analyst",
+        "date": "NA"
+      },
+      {
+        "title": "Commodities Summer Analyst Program \u2013 2026",
+        "date": "NA"
+      },
+      {
+        "title": "COO - GCIB Regulatory Summer Analyst Program - 2026",
+        "date": "NA"
+      },
+      {
+        "title": "Corporate Audit Summer 2026 Analyst",
+        "date": "NA"
+      },
+      {
+        "title": "Corporate Audit Summer 2026 Analyst - Automation & Information Technology Risk Management",
+        "date": "NA"
+      },
+      {
+        "title": "Global Strategy & Enterprise Platforms Summer 2026 Analyst",
+        "date": "NA"
+      },
+      {
+        "title": "Strategy & Management Summer Analyst Program - 2026",
+        "date": "NA"
+      },
+      {
+        "title": "Global Risk Summer 2026 Analyst",
+        "date": "NA"
+      },
+      {
+        "title": "Finance Management Summer 2026 Analyst",
+        "date": "NA"
+      },
+      {
+        "title": "Global Investment Banking Summer Analyst Program \u2013 2026 (M&A, Palo Alto)",
+        "date": "NA"
+      },
+      {
+        "title": "Global Quantitative Data Analytics Summer 2026 Analyst - Analytics, Modeling and Insights (AMI)",
+        "date": "NA"
+      },
+      {
+        "title": "Global Quantitative Data Analytics Summer 2026 Analyst - Enterprise Credit",
+        "date": "NA"
+      },
+      {
+        "title": "Global Quantitative Data Analytics Summer 2026 Analyst - Global Risk Management",
+        "date": "NA"
+      }
     ],
     "Apple": [
-      "Legal and Global Security Internships",
-      "Product Design, Mechanical Engineering and Materials Internships",
-      "Hardware Technology Internships",
-      "Engineering Program Management Internships",
-      "Software Engineering Internships",
-      "Business, Marketing, and G&A Internships",
-      "Machine Learning / AI Internships",
-      "Operations, Manufacturing Design Internships",
-      "Hardware Engineering Internships",
-      "MBA Internships - Summer 2026",
-      "Finance Development Program - 2026 Internship Opportunities",
-      "Finance Development Program - 2026 Internship Opportunities",
-      "Launch@Apple, Finance Development Experience"
+      {
+        "title": "Legal and Global Security Internships",
+        "date": "NA"
+      },
+      {
+        "title": "Product Design, Mechanical Engineering and Materials Internships",
+        "date": "NA"
+      },
+      {
+        "title": "Hardware Technology Internships",
+        "date": "NA"
+      },
+      {
+        "title": "Engineering Program Management Internships",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineering Internships",
+        "date": "NA"
+      },
+      {
+        "title": "Business, Marketing, and G&A Internships",
+        "date": "NA"
+      },
+      {
+        "title": "Machine Learning / AI Internships",
+        "date": "NA"
+      },
+      {
+        "title": "Operations, Manufacturing Design Internships",
+        "date": "NA"
+      },
+      {
+        "title": "Hardware Engineering Internships",
+        "date": "NA"
+      },
+      {
+        "title": "MBA Internships - Summer 2026",
+        "date": "NA"
+      },
+      {
+        "title": "Finance Development Program - 2026 Internship Opportunities",
+        "date": "NA"
+      },
+      {
+        "title": "Finance Development Program - 2026 Internship Opportunities",
+        "date": "NA"
+      },
+      {
+        "title": "Launch@Apple, Finance Development Experience",
+        "date": "NA"
+      }
     ],
     "Wayfair": [],
     "Citadel": [
-      "Quantitative Researcher \u2013 PhD Intern (US)",
-      "Quantitative Research Analyst Intern \u2013 BS/MS (US)",
-      "Quantitative Research Engineer \u2013 PhD Intern (US)",
-      "Launch Intern \u2013 (US)",
-      "Software Engineer \u2013 Intern (US)",
-      "Investment & Trading \u2013 Intern (US)"
+      {
+        "title": "Quantitative Researcher \u2013 PhD Intern (US)",
+        "date": "NA"
+      },
+      {
+        "title": "Quantitative Research Analyst Intern \u2013 BS/MS (US)",
+        "date": "NA"
+      },
+      {
+        "title": "Quantitative Research Engineer \u2013 PhD Intern (US)",
+        "date": "NA"
+      },
+      {
+        "title": "Launch Intern \u2013 (US)",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer \u2013 Intern (US)",
+        "date": "NA"
+      },
+      {
+        "title": "Investment & Trading \u2013 Intern (US)",
+        "date": "NA"
+      }
     ],
     "Airbnb": [
-      "Legal Intern, Privacy (Fall Semester)",
-      "Summer 2025 \u2013 Data Science Intern, Platform (PhD)"
+      {
+        "title": "Legal Intern, Privacy (Fall Semester)",
+        "date": "NA"
+      },
+      {
+        "title": "Summer 2025 \u2013 Data Science Intern, Platform (PhD)",
+        "date": "NA"
+      }
     ],
     "Optiver": [
-      "Expressions of Interest \u2013 Quantitative Research Internship, PhD (Summer 2026 -Shanghai)",
-      "2025 Shanghai Machine Learning PhD Summer Internship",
-      "FutureFocus Singapore 2025 \u2013 Quantitative Trading",
-      "Subscribe to receive our latest insights on trading, technology and market structure",
-      "FutureFocus Sydney \u2013 Trading & Research 2025",
-      "FutureFocus Sydney \u2013 Technology 2025",
-      "Quantitative Trading Internship (Singapore) \u2013 2026",
-      "Quantitative Trading Internship (Taiwan) \u2013 2026",
-      "Quantitative Trader Intern (Summer 2026 \u2013 Chicago)",
-      "Quantitative Research Intern, PhD (Summer 2026 \u2013 Chicago, Austin)",
-      "Quantitative Research Intern, PhD (Summer 2026)",
-      "Quantitative Research Intern, Bachelor\u2019s or Master\u2019s Degree",
-      "Quantitative Research Intern, Bachelor\u2019s or Master\u2019s Degree",
-      "Software Engineer Intern (Summer 2026 \u2013 Chicago)",
-      "Software Engineer Intern (Summer 2026 \u2013 Austin)"
+      {
+        "title": "Expressions of Interest \u2013 Quantitative Research Internship, PhD (Summer 2026 -Shanghai)",
+        "date": "NA"
+      },
+      {
+        "title": "2025 Shanghai Machine Learning PhD Summer Internship",
+        "date": "NA"
+      },
+      {
+        "title": "FutureFocus Singapore 2025 \u2013 Quantitative Trading",
+        "date": "NA"
+      },
+      {
+        "title": "Subscribe to receive our latest insights on trading, technology and market structure",
+        "date": "NA"
+      },
+      {
+        "title": "FutureFocus Sydney \u2013 Trading & Research 2025",
+        "date": "NA"
+      },
+      {
+        "title": "FutureFocus Sydney \u2013 Technology 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Quantitative Trading Internship (Singapore) \u2013 2026",
+        "date": "NA"
+      },
+      {
+        "title": "Quantitative Trading Internship (Taiwan) \u2013 2026",
+        "date": "NA"
+      },
+      {
+        "title": "Quantitative Trader Intern (Summer 2026 \u2013 Chicago)",
+        "date": "NA"
+      },
+      {
+        "title": "Quantitative Research Intern, PhD (Summer 2026 \u2013 Chicago, Austin)",
+        "date": "NA"
+      },
+      {
+        "title": "Quantitative Research Intern, PhD (Summer 2026)",
+        "date": "NA"
+      },
+      {
+        "title": "Quantitative Research Intern, Bachelor\u2019s or Master\u2019s Degree",
+        "date": "NA"
+      },
+      {
+        "title": "Quantitative Research Intern, Bachelor\u2019s or Master\u2019s Degree",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer Intern (Summer 2026 \u2013 Chicago)",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer Intern (Summer 2026 \u2013 Austin)",
+        "date": "NA"
+      }
     ],
     "PayPal": [],
     "Blue Origin": [
-      "Spring 2026 STEAM Communications & Outreach Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52713",
-      "Spring 2026 Finance Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52715",
-      "Spring 2026 Guidance, Navigation & Controls Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52503",
-      "Spring 2026 Return Internship - Undergraduate - 4 Locations - Intern - Full Time - Intern - R52463",
-      "Spring 2026 Manufacturing Engineering Intern - Undergraduate - 4 Locations - Intern - Full Time - Intern - R52485",
-      "Spring 2026 Structural & Mechanical Engineering Intern - Undergraduate - 4 Locations - Intern - Full Time - Intern - R52391",
-      "Spring 2026 Aerospace Systems Engineering Intern - Undergraduate - 2 Locations - Intern - Full Time - Intern - R52429",
-      "Spring 2026 Avionics Software Engineering Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52403",
-      "Spring 2026 Electrical Systems Engineering Internship - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52404",
-      "Spring 2026 Test Engineering Intern - Undergraduate - 4 Locations - Intern - Full Time - Intern - R52410",
-      "Spring 2026 Fluid Systems Engineering Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52406"
+      {
+        "title": "Spring 2026 STEAM Communications & Outreach Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52713",
+        "date": "NA"
+      },
+      {
+        "title": "Spring 2026 Finance Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52715",
+        "date": "NA"
+      },
+      {
+        "title": "Spring 2026 Guidance, Navigation & Controls Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52503",
+        "date": "NA"
+      },
+      {
+        "title": "Spring 2026 Return Internship - Undergraduate - 4 Locations - Intern - Full Time - Intern - R52463",
+        "date": "NA"
+      },
+      {
+        "title": "Spring 2026 Manufacturing Engineering Intern - Undergraduate - 4 Locations - Intern - Full Time - Intern - R52485",
+        "date": "NA"
+      },
+      {
+        "title": "Spring 2026 Structural & Mechanical Engineering Intern - Undergraduate - 4 Locations - Intern - Full Time - Intern - R52391",
+        "date": "NA"
+      },
+      {
+        "title": "Spring 2026 Aerospace Systems Engineering Intern - Undergraduate - 2 Locations - Intern - Full Time - Intern - R52429",
+        "date": "NA"
+      },
+      {
+        "title": "Spring 2026 Avionics Software Engineering Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52403",
+        "date": "NA"
+      },
+      {
+        "title": "Spring 2026 Electrical Systems Engineering Internship - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52404",
+        "date": "NA"
+      },
+      {
+        "title": "Spring 2026 Test Engineering Intern - Undergraduate - 4 Locations - Intern - Full Time - Intern - R52410",
+        "date": "NA"
+      },
+      {
+        "title": "Spring 2026 Fluid Systems Engineering Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52406",
+        "date": "NA"
+      }
     ],
     "DE Shaws": [
-      "Fundamental Research Analyst Intern (New York) - Summer 2026",
-      "Trader/Analyst Intern (London) \u2013 Summer 2026",
-      "Investor Relations Intern (London) \u2013 Summer 2026",
-      "Legal & Compliance Intern (New York) \u2013 Summer 2026"
+      {
+        "title": "Fundamental Research Analyst Intern (New York) - Summer 2026",
+        "date": "NA"
+      },
+      {
+        "title": "Trader/Analyst Intern (London) \u2013 Summer 2026",
+        "date": "NA"
+      },
+      {
+        "title": "Investor Relations Intern (London) \u2013 Summer 2026",
+        "date": "NA"
+      },
+      {
+        "title": "Legal & Compliance Intern (New York) \u2013 Summer 2026",
+        "date": "NA"
+      }
     ],
     "Cisco": [
-      "AI Research Scientist II (Intern) United States",
-      "Software Engineer I (Intern) United States",
-      "Network Support Engineer, Fall 2025 (Meraki)",
-      "Mechanical Engineer (Intern) United States"
+      {
+        "title": "AI Research Scientist II (Intern) United States",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer I (Intern) United States",
+        "date": "NA"
+      },
+      {
+        "title": "Network Support Engineer, Fall 2025 (Meraki)",
+        "date": "NA"
+      },
+      {
+        "title": "Mechanical Engineer (Intern) United States",
+        "date": "NA"
+      }
     ],
     "Stripe": [
-      "Operations Associate, New Grad (Mexico)",
-      "Privacy Fellow",
-      "Privacy Fellow",
-      "Privacy Fellow"
+      {
+        "title": "Operations Associate, New Grad (Mexico)",
+        "date": "NA"
+      },
+      {
+        "title": "Privacy Fellow",
+        "date": "NA"
+      },
+      {
+        "title": "Privacy Fellow",
+        "date": "NA"
+      },
+      {
+        "title": "Privacy Fellow",
+        "date": "NA"
+      }
     ],
     "TwoSigma": [],
     "Waymo": [],
     "Snap": [
-      "Optical Engineer",
-      "Computer Architecture Intern",
-      "Software Engineer Intern, AR",
-      "Sales Coordinator (Working Student)",
-      "Spectacles Student Worker (Computer Vision Engineering)",
-      "Graduate- Junior Account Management Associate",
-      "Account Manager Intern - Luxury team - Paris",
-      "Graduate- Junior Production Associate"
+      {
+        "title": "Optical Engineer",
+        "date": "NA"
+      },
+      {
+        "title": "Computer Architecture Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer Intern, AR",
+        "date": "NA"
+      },
+      {
+        "title": "Sales Coordinator (Working Student)",
+        "date": "NA"
+      },
+      {
+        "title": "Spectacles Student Worker (Computer Vision Engineering)",
+        "date": "NA"
+      },
+      {
+        "title": "Graduate- Junior Account Management Associate",
+        "date": "NA"
+      },
+      {
+        "title": "Account Manager Intern - Luxury team - Paris",
+        "date": "NA"
+      },
+      {
+        "title": "Graduate- Junior Production Associate",
+        "date": "NA"
+      }
     ],
     "Morgan Stanley": [
-      "2025 Finance Off Cycle Internship - Part Time (Frankfurt)",
-      "2025 Firm Management Part-Time Off Cycle Internship (Frankfurt)",
-      "2025 Human Capital Management Analyst Program (Budapest)",
-      "2026 Investment Banking Off-cycle Internship (Dubai)",
-      "2025 Investment Banking MBA Early Insights Program",
-      "2025/2026 Investment Banking Summer Analyst Program (Melbourne)",
-      "2025/2026 Investment Management Summer Analyst Program - Real Estate Investing (Sydney)",
-      "2025/2026 Investment Banking Summer Analyst Program (Sydney)",
-      "2025/2026 Wealth Management Summer Analyst Program (Sydney)",
-      "2025 Investment Management Off-cycle Internship - Emerging Markets (London)",
-      "2025 Institutional Equities - Transactional Management Group Off Cycle Internship",
-      "2026 Operations Summer Analyst Program (New York)"
+      {
+        "title": "2025 Finance Off Cycle Internship - Part Time (Frankfurt)",
+        "date": "NA"
+      },
+      {
+        "title": "2025 Firm Management Part-Time Off Cycle Internship (Frankfurt)",
+        "date": "NA"
+      },
+      {
+        "title": "2025 Human Capital Management Analyst Program (Budapest)",
+        "date": "NA"
+      },
+      {
+        "title": "2026 Investment Banking Off-cycle Internship (Dubai)",
+        "date": "NA"
+      },
+      {
+        "title": "2025 Investment Banking MBA Early Insights Program",
+        "date": "NA"
+      },
+      {
+        "title": "2025/2026 Investment Banking Summer Analyst Program (Melbourne)",
+        "date": "NA"
+      },
+      {
+        "title": "2025/2026 Investment Management Summer Analyst Program - Real Estate Investing (Sydney)",
+        "date": "NA"
+      },
+      {
+        "title": "2025/2026 Investment Banking Summer Analyst Program (Sydney)",
+        "date": "NA"
+      },
+      {
+        "title": "2025/2026 Wealth Management Summer Analyst Program (Sydney)",
+        "date": "NA"
+      },
+      {
+        "title": "2025 Investment Management Off-cycle Internship - Emerging Markets (London)",
+        "date": "NA"
+      },
+      {
+        "title": "2025 Institutional Equities - Transactional Management Group Off Cycle Internship",
+        "date": "NA"
+      },
+      {
+        "title": "2026 Operations Summer Analyst Program (New York)",
+        "date": "NA"
+      }
     ],
     "Ramp": [
-      "Software Engineer Internship | Frontend",
-      "Software Engineer Internship | iOS",
-      "University Grad: Customer Experience Agent"
+      {
+        "title": "Software Engineer Internship | Frontend",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer Internship | iOS",
+        "date": "NA"
+      },
+      {
+        "title": "University Grad: Customer Experience Agent",
+        "date": "NA"
+      }
     ],
     "Workday": [
-      "Werksstudierende - Sales (f, m, x) - Munich",
-      "Working Student Sales - Munich",
-      "P1 (GW) Associate Information Systems Software Application Engineer",
-      "(GW) Associate Business Systems Analyst"
+      {
+        "title": "Werksstudierende - Sales (f, m, x) - Munich",
+        "date": "NA"
+      },
+      {
+        "title": "Working Student Sales - Munich",
+        "date": "NA"
+      },
+      {
+        "title": "P1 (GW) Associate Information Systems Software Application Engineer",
+        "date": "NA"
+      },
+      {
+        "title": "(GW) Associate Business Systems Analyst",
+        "date": "NA"
+      }
     ],
     "Cohere": [
-      "Machine Learning Intern/Co-op (Fall 2025)",
-      "Software Engineer Intern/Co-op (Fall 2025)"
+      {
+        "title": "Machine Learning Intern/Co-op (Fall 2025)",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer Intern/Co-op (Fall 2025)",
+        "date": "NA"
+      }
     ],
     "Spotify": [
-      "Early Career Program, Growth Associate, South Korea",
-      "Early Career Program, Podcast Associate"
+      {
+        "title": "Early Career Program, Growth Associate, South Korea",
+        "date": "NA"
+      },
+      {
+        "title": "Early Career Program, Podcast Associate",
+        "date": "NA"
+      }
     ],
     "Atlassian": [
-      "UX Researcher, 2025/2026 Intern Australia & New Zealand",
-      "Machine Learning Engineer, 2025/2026 PHD Intern Australia & New Zealand",
-      "Machine Learning Engineer, 2025/2026 Intern Australia & New Zealand"
+      {
+        "title": "UX Researcher, 2025/2026 Intern Australia & New Zealand",
+        "date": "NA"
+      },
+      {
+        "title": "Machine Learning Engineer, 2025/2026 PHD Intern Australia & New Zealand",
+        "date": "NA"
+      },
+      {
+        "title": "Machine Learning Engineer, 2025/2026 Intern Australia & New Zealand",
+        "date": "NA"
+      }
     ],
     "Datadog": [
-      "Software Engineer - Early Career",
-      "Sales Development Representative Middle East",
-      "Sales Development Representative (Benelux)",
-      "Sales Development Representative - Japan",
-      "Sales Development Representative",
-      "Sales Development Representative (Nordics)",
-      "Sales Development Representative (DACH)",
-      "Sales Development Representative - DACH (Polish/German Speaker)",
-      "Sales Development Representative (DACH)",
-      "Sales Development Representative",
-      "Sales Development Representative (Arabic speaker)",
-      "Sales Development Representative (Middle East)",
-      "Sales Development Representative (CEE)",
-      "Sales Development Representative (UKI)",
-      "Sales Development Representative (France)"
+      {
+        "title": "Software Engineer - Early Career",
+        "date": "NA"
+      },
+      {
+        "title": "Sales Development Representative Middle East",
+        "date": "NA"
+      },
+      {
+        "title": "Sales Development Representative (Benelux)",
+        "date": "NA"
+      },
+      {
+        "title": "Sales Development Representative - Japan",
+        "date": "NA"
+      },
+      {
+        "title": "Sales Development Representative",
+        "date": "NA"
+      },
+      {
+        "title": "Sales Development Representative (Nordics)",
+        "date": "NA"
+      },
+      {
+        "title": "Sales Development Representative (DACH)",
+        "date": "NA"
+      },
+      {
+        "title": "Sales Development Representative - DACH (Polish/German Speaker)",
+        "date": "NA"
+      },
+      {
+        "title": "Sales Development Representative (DACH)",
+        "date": "NA"
+      },
+      {
+        "title": "Sales Development Representative",
+        "date": "NA"
+      },
+      {
+        "title": "Sales Development Representative (Arabic speaker)",
+        "date": "NA"
+      },
+      {
+        "title": "Sales Development Representative (Middle East)",
+        "date": "NA"
+      },
+      {
+        "title": "Sales Development Representative (CEE)",
+        "date": "NA"
+      },
+      {
+        "title": "Sales Development Representative (UKI)",
+        "date": "NA"
+      },
+      {
+        "title": "Sales Development Representative (France)",
+        "date": "NA"
+      }
     ],
     "Riot Games": [],
     "Slack": [],
     "MongoDB": [
-      "Software Engineer - Intern - Sydney"
+      {
+        "title": "Software Engineer - Intern - Sydney",
+        "date": "NA"
+      }
     ],
     "Splunk": [
-      "Sales Engineer Intern (Prague, Czechia)",
-      "Product Manager Intern, Poland",
-      "Software Engineer Intern (Frontend)",
-      "Software Engineering Intern (Backend/Fullstack)"
+      {
+        "title": "Sales Engineer Intern (Prague, Czechia)",
+        "date": "NA"
+      },
+      {
+        "title": "Product Manager Intern, Poland",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer Intern (Frontend)",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineering Intern (Backend/Fullstack)",
+        "date": "NA"
+      }
     ],
     "Amazon Robotics": [
-      "Amazon Robotics - Technical Artist Co-op - July to December 2025, Virtual Systems",
-      "Amazon Robotics - Product Quality Engineer Co-op- Fall 2025",
-      "Amazon Robotics- Business Intelligence Engineer Co-op - Fall 2025, Integration, Initiatives, and Sustainability Team",
-      "Amazon Robotics - Hardware Test Engineer Co-op - Fall 2025, Hardware Test Engineering",
-      "Amazon Robotics - Systems Engineer Co-op - Spring & Fall 2025",
-      "Robotics Systems Dev Engineer Co-op - Spring & Fall 2025",
-      "Amazon Robotics - Manufacturing Engineer Co-Op - Spring 2025, Robotics Technical Operations",
-      "Amazon Robotics - Software Development Engineer Co-Op - Fall 2025",
-      "Amazon Robotics - Data Science Co-op - 2025",
-      "Amazon Robotics - Business Intelligence Engineer Co-op - Spring & Fall 2025",
-      "Amazon Robotics - Applied Scientist II Intern / Co-op - 2025 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)",
-      "Amazon Robotics - Data Scientist Co-op - 2025",
-      "Amazon Robotics - Applied Scientist I Intern / Co-op - 2025",
-      "Amazon Robotics - Business Analyst Co-op - Spring or Fall 2025, Global Robotics Delivery"
+      {
+        "title": "Amazon Robotics - Technical Artist Co-op - July to December 2025, Virtual Systems",
+        "date": "NA"
+      },
+      {
+        "title": "Amazon Robotics - Product Quality Engineer Co-op- Fall 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Amazon Robotics- Business Intelligence Engineer Co-op - Fall 2025, Integration, Initiatives, and Sustainability Team",
+        "date": "NA"
+      },
+      {
+        "title": "Amazon Robotics - Hardware Test Engineer Co-op - Fall 2025, Hardware Test Engineering",
+        "date": "NA"
+      },
+      {
+        "title": "Amazon Robotics - Systems Engineer Co-op - Spring & Fall 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Robotics Systems Dev Engineer Co-op - Spring & Fall 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Amazon Robotics - Manufacturing Engineer Co-Op - Spring 2025, Robotics Technical Operations",
+        "date": "NA"
+      },
+      {
+        "title": "Amazon Robotics - Software Development Engineer Co-Op - Fall 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Amazon Robotics - Data Science Co-op - 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Amazon Robotics - Business Intelligence Engineer Co-op - Spring & Fall 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Amazon Robotics - Applied Scientist II Intern / Co-op - 2025 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)",
+        "date": "NA"
+      },
+      {
+        "title": "Amazon Robotics - Data Scientist Co-op - 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Amazon Robotics - Applied Scientist I Intern / Co-op - 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Amazon Robotics - Business Analyst Co-op - Spring or Fall 2025, Global Robotics Delivery",
+        "date": "NA"
+      }
     ],
     "TikTok": [
-      "Product Manager Intern (TikTok LIVE-Ecosystem Governance)- 2025 Fall (BS/MS)",
-      "Software Engineer Intern (TikTok-Social-Product Innovation) - 2025 Fall (BS/MS)",
-      "(General Hire) Visual Design Intern (TikTok-Design) - 2025 Fall Starts (BS/MS)",
-      "Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Fall Starts (BS/MS)",
-      "Machine Learning Engineer Intern (E-commerce-Recommendation) - 2025 Summer/Fall (BS/MS)",
-      "(General Hire) UX Design Intern (TikTok-Design) - 2025 Fall Starts (BS/MS)",
-      "Product Manager Intern (TikTok-Product-Social and Creation)- 2025Fall Starts (BS/MS)",
-      "(General Hire) Machine Learning Engineer Intern (Commerce& Content Service & Search Ads) - 2025 Summer/Fall (BS/MS)",
-      "Full Stack Software Engineer Intern (Foundation Platform) - 2025 Fall (BS/MS)",
-      "Machine Learning Engineer Intern (E-commerce-Intelligent Customer Service) - 2025 Summer/Fall (MS)",
-      "Machine Learning Engineer Intern (Creative AI) - 2025 Summer (BS/MS)",
-      "Machine Learning Engineer Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS)",
-      "Machine Learning Engineer Intern (TikTok-Recommendation- E-commerce) - 2025 Fall (Master)"
+      {
+        "title": "Product Manager Intern (TikTok LIVE-Ecosystem Governance)- 2025 Fall (BS/MS)",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer Intern (TikTok-Social-Product Innovation) - 2025 Fall (BS/MS)",
+        "date": "NA"
+      },
+      {
+        "title": "(General Hire) Visual Design Intern (TikTok-Design) - 2025 Fall Starts (BS/MS)",
+        "date": "NA"
+      },
+      {
+        "title": "Product Manager Intern (TikTok-Product-Content Ecosystem) - 2025 Fall Starts (BS/MS)",
+        "date": "NA"
+      },
+      {
+        "title": "Machine Learning Engineer Intern (E-commerce-Recommendation) - 2025 Summer/Fall (BS/MS)",
+        "date": "NA"
+      },
+      {
+        "title": "(General Hire) UX Design Intern (TikTok-Design) - 2025 Fall Starts (BS/MS)",
+        "date": "NA"
+      },
+      {
+        "title": "Product Manager Intern (TikTok-Product-Social and Creation)- 2025Fall Starts (BS/MS)",
+        "date": "NA"
+      },
+      {
+        "title": "(General Hire) Machine Learning Engineer Intern (Commerce& Content Service & Search Ads) - 2025 Summer/Fall (BS/MS)",
+        "date": "NA"
+      },
+      {
+        "title": "Full Stack Software Engineer Intern (Foundation Platform) - 2025 Fall (BS/MS)",
+        "date": "NA"
+      },
+      {
+        "title": "Machine Learning Engineer Intern (E-commerce-Intelligent Customer Service) - 2025 Summer/Fall (MS)",
+        "date": "NA"
+      },
+      {
+        "title": "Machine Learning Engineer Intern (Creative AI) - 2025 Summer (BS/MS)",
+        "date": "NA"
+      },
+      {
+        "title": "Machine Learning Engineer Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS)",
+        "date": "NA"
+      },
+      {
+        "title": "Machine Learning Engineer Intern (TikTok-Recommendation- E-commerce) - 2025 Fall (Master)",
+        "date": "NA"
+      }
     ],
     "Robinhood": [
-      "Software Developer Intern/Co-op, Backend (Fall 2025)"
+      {
+        "title": "Software Developer Intern/Co-op, Backend (Fall 2025)",
+        "date": "NA"
+      }
     ],
     "AMD": [
-      "Machine Learning / Artificial Intelligence Intern/Co-Op (PhD | Fall 2025 | Hybrid)",
-      "Hardware Engineering Intern/ Co-Op (Undergrad | Fall 2025 | Hybrid)",
-      "Machine Learning / Artificial Intelligence Intern/Co-Op (Undergraduate | Fall 2025 | Hybrid)",
-      "Software Test Engineering Intern/Co-Op (Undergraduate | Fall 2025 | Hybrid)",
-      "Compiler Engineering Intern/Co-Op (Graduate | Fall 2025 | Hybrid)",
-      "Hardware Verification Engineering Intern/ Co-Op (Graduate | Fall 2025 | Hybrid)",
-      "Diagnostics Design Intern/Co-Op (Undergrad | Fall 2025 | Hybrid)",
-      "Hardware Design Engineering Intern/ Co-Op (Graduate | Fall 2025 | Hybrid)",
-      "Firmware Engineering Intern/Co-Op (Undergrad | Fall 2025 | Hybrid)",
-      "Firmware Engineering Intern/ Co-Op (Graduate | Fall 2025 | Hybrid)",
-      "Product Test Engineering Intern/Co-Op (Graduate | Fall 2025 | Hybrid)",
-      "Hardware Engineering Intern/ Co-Op (Graduate | Fall 2025 | Hybrid)",
-      "Software Engineering Intern/Co-Op (Undergrad | Fall 2025 | Hybrid)",
-      "Hardware Engineering Intern/ Co-Op (Graduate | Fall 2025 | Hybrid)",
-      "ASIC Package Engineering Intern/Co-Op (PhD | Fall 2025 | Hybrid)",
-      "Hardware Verification Engineering Intern/ Co-Op (Graduate | Fall 2025 | Hybrid)",
-      "Software Engineering Intern/Co-Op (Undergraduate | Fall 2025 | Hybrid)",
-      "Machine Learning / Artificial Intelligence Intern/Co-Op (Graduate | Fall 2025 | Hybrid)",
-      "Product Test Engineering Intern/Co-Op (Undergrad | Fall 2025 | Hybrid)",
-      "Machine Learning / Artificial Intelligence Intern/Co-Op (Graduate | Fall 2025 | Hybrid)",
-      "Hardware Engineering Intern/ Co-Op (PhD | Fall 2025 | Hybrid)",
-      "Hardware Engineering Intern/ Co-Op (Undergrad | Fall 2025 | Hybrid)",
-      "Research Engineering Intern/Co-Op (Graduate | Fall 2025 | Hybrid)",
-      "Software Engineering Intern/Co-op (Graduate | Fall 2025| Hybrid)",
-      "Machine Learning / Artificial Intelligence Intern/Co-Op (PhD | Fall 2025 | Hybrid)",
-      "Software Engineering Intern/Co-Op (Graduate | Fall 2025 | Hybrid)",
-      "Product Development Engineering Intern/Co-Op (Undergrad | Fall 2025 | Hybrid)",
-      "Fall 2025 Masters UEFI Firmware Engineering Co-op/Intern",
-      "Fall 2025 Undergrad SPSE Server PMO Co-Op/Intern",
-      "Fall 2025 Undergrad Firmware Engineering Co-Op/Intern",
-      "Spring 2026 Masters SOC Post-Silicon Debug Engineer Co-op/Intern",
-      "Fall 2025 Undergrad BIOS Engineering Co-Op/Intern",
-      "Fall 2025 Undergrad Platform Design Engineering Co-op/Intern"
+      {
+        "title": "Machine Learning / Artificial Intelligence Intern/Co-Op (PhD | Fall 2025 | Hybrid)",
+        "date": "NA"
+      },
+      {
+        "title": "Hardware Engineering Intern/ Co-Op (Undergrad | Fall 2025 | Hybrid)",
+        "date": "NA"
+      },
+      {
+        "title": "Machine Learning / Artificial Intelligence Intern/Co-Op (Undergraduate | Fall 2025 | Hybrid)",
+        "date": "NA"
+      },
+      {
+        "title": "Software Test Engineering Intern/Co-Op (Undergraduate | Fall 2025 | Hybrid)",
+        "date": "NA"
+      },
+      {
+        "title": "Compiler Engineering Intern/Co-Op (Graduate | Fall 2025 | Hybrid)",
+        "date": "NA"
+      },
+      {
+        "title": "Hardware Verification Engineering Intern/ Co-Op (Graduate | Fall 2025 | Hybrid)",
+        "date": "NA"
+      },
+      {
+        "title": "Diagnostics Design Intern/Co-Op (Undergrad | Fall 2025 | Hybrid)",
+        "date": "NA"
+      },
+      {
+        "title": "Hardware Design Engineering Intern/ Co-Op (Graduate | Fall 2025 | Hybrid)",
+        "date": "NA"
+      },
+      {
+        "title": "Firmware Engineering Intern/Co-Op (Undergrad | Fall 2025 | Hybrid)",
+        "date": "NA"
+      },
+      {
+        "title": "Firmware Engineering Intern/ Co-Op (Graduate | Fall 2025 | Hybrid)",
+        "date": "NA"
+      },
+      {
+        "title": "Product Test Engineering Intern/Co-Op (Graduate | Fall 2025 | Hybrid)",
+        "date": "NA"
+      },
+      {
+        "title": "Hardware Engineering Intern/ Co-Op (Graduate | Fall 2025 | Hybrid)",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineering Intern/Co-Op (Undergrad | Fall 2025 | Hybrid)",
+        "date": "NA"
+      },
+      {
+        "title": "Hardware Engineering Intern/ Co-Op (Graduate | Fall 2025 | Hybrid)",
+        "date": "NA"
+      },
+      {
+        "title": "ASIC Package Engineering Intern/Co-Op (PhD | Fall 2025 | Hybrid)",
+        "date": "NA"
+      },
+      {
+        "title": "Hardware Verification Engineering Intern/ Co-Op (Graduate | Fall 2025 | Hybrid)",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineering Intern/Co-Op (Undergraduate | Fall 2025 | Hybrid)",
+        "date": "NA"
+      },
+      {
+        "title": "Machine Learning / Artificial Intelligence Intern/Co-Op (Graduate | Fall 2025 | Hybrid)",
+        "date": "NA"
+      },
+      {
+        "title": "Product Test Engineering Intern/Co-Op (Undergrad | Fall 2025 | Hybrid)",
+        "date": "NA"
+      },
+      {
+        "title": "Machine Learning / Artificial Intelligence Intern/Co-Op (Graduate | Fall 2025 | Hybrid)",
+        "date": "NA"
+      },
+      {
+        "title": "Hardware Engineering Intern/ Co-Op (PhD | Fall 2025 | Hybrid)",
+        "date": "NA"
+      },
+      {
+        "title": "Hardware Engineering Intern/ Co-Op (Undergrad | Fall 2025 | Hybrid)",
+        "date": "NA"
+      },
+      {
+        "title": "Research Engineering Intern/Co-Op (Graduate | Fall 2025 | Hybrid)",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineering Intern/Co-op (Graduate | Fall 2025| Hybrid)",
+        "date": "NA"
+      },
+      {
+        "title": "Machine Learning / Artificial Intelligence Intern/Co-Op (PhD | Fall 2025 | Hybrid)",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineering Intern/Co-Op (Graduate | Fall 2025 | Hybrid)",
+        "date": "NA"
+      },
+      {
+        "title": "Product Development Engineering Intern/Co-Op (Undergrad | Fall 2025 | Hybrid)",
+        "date": "NA"
+      },
+      {
+        "title": "Fall 2025 Masters UEFI Firmware Engineering Co-op/Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Fall 2025 Undergrad SPSE Server PMO Co-Op/Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Fall 2025 Undergrad Firmware Engineering Co-Op/Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Spring 2026 Masters SOC Post-Silicon Debug Engineer Co-op/Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Fall 2025 Undergrad BIOS Engineering Co-Op/Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Fall 2025 Undergrad Platform Design Engineering Co-op/Intern",
+        "date": "NA"
+      }
     ],
     "SpaceX": [
-      "Fall 2025 Business Operations Internship/Co-op",
-      "Fall 2025 Engineering Internship/Co-op",
-      "Fall 2025 Graduate Engineer",
-      "Fall 2025 Software Engineering Internship/Co-op"
+      {
+        "title": "Fall 2025 Business Operations Internship/Co-op",
+        "date": "NA"
+      },
+      {
+        "title": "Fall 2025 Engineering Internship/Co-op",
+        "date": "NA"
+      },
+      {
+        "title": "Fall 2025 Graduate Engineer",
+        "date": "NA"
+      },
+      {
+        "title": "Fall 2025 Software Engineering Internship/Co-op",
+        "date": "NA"
+      }
     ],
     "IBM": [
-      "Sales - TEST 2A - pre req, net new intern, with coding & video assessments - Internship - Multiple Cities"
+      {
+        "title": "Sales - TEST 2A - pre req, net new intern, with coding & video assessments - Internship - Multiple Cities",
+        "date": "NA"
+      }
     ],
     "Nokia": [
-      "Special Projects Software Dev Coop",
-      "Wi-Fi CoE Research Coop",
-      "Electrical Engineering Coop",
-      "Network Engineer Co-op",
-      "Space and Defense SW Test Engineer Co-Op",
-      "Silicon Photonics Design & Test Co-op",
-      "Hardware Failure Analysis Co-op",
-      "Software Quality Assurance Coop",
-      "Legal, Compliance & Sustainability Coop",
-      "OptoElectronic Integration Coop",
-      "Software Development Coop",
-      "Video Coding Coop",
-      "Firmware Development Co-op"
+      {
+        "title": "Special Projects Software Dev Coop",
+        "date": "NA"
+      },
+      {
+        "title": "Wi-Fi CoE Research Coop",
+        "date": "NA"
+      },
+      {
+        "title": "Electrical Engineering Coop",
+        "date": "NA"
+      },
+      {
+        "title": "Network Engineer Co-op",
+        "date": "NA"
+      },
+      {
+        "title": "Space and Defense SW Test Engineer Co-Op",
+        "date": "NA"
+      },
+      {
+        "title": "Silicon Photonics Design & Test Co-op",
+        "date": "NA"
+      },
+      {
+        "title": "Hardware Failure Analysis Co-op",
+        "date": "NA"
+      },
+      {
+        "title": "Software Quality Assurance Coop",
+        "date": "NA"
+      },
+      {
+        "title": "Legal, Compliance & Sustainability Coop",
+        "date": "NA"
+      },
+      {
+        "title": "OptoElectronic Integration Coop",
+        "date": "NA"
+      },
+      {
+        "title": "Software Development Coop",
+        "date": "NA"
+      },
+      {
+        "title": "Video Coding Coop",
+        "date": "NA"
+      },
+      {
+        "title": "Firmware Development Co-op",
+        "date": "NA"
+      }
     ],
     "EA": [
-      "Gameplay Software Engineer Intern - Fall 2025",
-      "Software Engineer Intern",
-      "Systems Software Engineer Intern - Fall 2025"
+      {
+        "title": "Gameplay Software Engineer Intern - Fall 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Systems Software Engineer Intern - Fall 2025",
+        "date": "NA"
+      }
     ],
     "Palantir": [
-      "Forward Deployed Software Engineer, Internship",
-      "Forward Deployed Software Engineer, Internship - US Government",
-      "Forward Deployed Software Engineer, Internship - US Government",
-      "Software Engineer, Internship",
-      "Software Engineer, Internship",
-      "Software Engineer, Internship",
-      "Software Engineer, Internship",
-      "Software Engineer, Internship",
-      "Software Engineer, Internship - Defense Tech",
-      "Software Engineer, Internship - Defense Tech",
-      "Software Engineer, Internship - Defense Tech",
-      "Software Engineer, Internship - Infrastructure",
-      "Software Engineer, Internship - Production Infrastructure",
-      "Software Engineer, Internship - Production Infrastructure",
-      "Software Engineer, Internship - Production Infrastructure",
-      "Forward Deployed Software Engineer, Internship - Defense Tech",
-      "Forward Deployed Software Engineer, Internship - Commercial"
+      {
+        "title": "Forward Deployed Software Engineer, Internship",
+        "date": "NA"
+      },
+      {
+        "title": "Forward Deployed Software Engineer, Internship - US Government",
+        "date": "NA"
+      },
+      {
+        "title": "Forward Deployed Software Engineer, Internship - US Government",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer, Internship",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer, Internship",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer, Internship",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer, Internship",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer, Internship",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer, Internship - Defense Tech",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer, Internship - Defense Tech",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer, Internship - Defense Tech",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer, Internship - Infrastructure",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer, Internship - Production Infrastructure",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer, Internship - Production Infrastructure",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer, Internship - Production Infrastructure",
+        "date": "NA"
+      },
+      {
+        "title": "Forward Deployed Software Engineer, Internship - Defense Tech",
+        "date": "NA"
+      },
+      {
+        "title": "Forward Deployed Software Engineer, Internship - Commercial",
+        "date": "NA"
+      }
     ],
     "Intuit": [
-      "Social Media Co-op (8 Months)",
-      "Principal Research Scientist",
-      "Brand and Integrated Marketing Co-op (8 months)",
-      "Market Insights Analyst Co-op (8 months)",
-      "Manager 2, HR Experience and Operations",
-      "Software Developer Co-op, Fall 2025",
-      "Product Manager Co-op (8 months)",
-      "Staff Marketing Manager, Paid Search (GBSG)",
-      "Staff Program Manager- Product Management Community",
-      "Brand Marketing Co-Op (8 month)",
-      "Mobile Software Developer Co-op (4 months)",
-      "Social Media & Public Relations Co-op (8 months)",
-      "Staff University Recruiter",
-      "Software Engineer 2",
-      "Senior University Recruiter",
-      "Strategy & Product Marketing Co-op (8 months)",
-      "Content Marketing Co-op (8 months)",
-      "Marketing Technology & Data Activation Co-op (8 months)",
-      "Brand Marketing Co-Op (8 months)"
+      {
+        "title": "Social Media Co-op (8 Months)",
+        "date": "NA"
+      },
+      {
+        "title": "Principal Research Scientist",
+        "date": "NA"
+      },
+      {
+        "title": "Brand and Integrated Marketing Co-op (8 months)",
+        "date": "NA"
+      },
+      {
+        "title": "Market Insights Analyst Co-op (8 months)",
+        "date": "NA"
+      },
+      {
+        "title": "Manager 2, HR Experience and Operations",
+        "date": "NA"
+      },
+      {
+        "title": "Software Developer Co-op, Fall 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Product Manager Co-op (8 months)",
+        "date": "NA"
+      },
+      {
+        "title": "Staff Marketing Manager, Paid Search (GBSG)",
+        "date": "NA"
+      },
+      {
+        "title": "Staff Program Manager- Product Management Community",
+        "date": "NA"
+      },
+      {
+        "title": "Brand Marketing Co-Op (8 month)",
+        "date": "NA"
+      },
+      {
+        "title": "Mobile Software Developer Co-op (4 months)",
+        "date": "NA"
+      },
+      {
+        "title": "Social Media & Public Relations Co-op (8 months)",
+        "date": "NA"
+      },
+      {
+        "title": "Staff University Recruiter",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer 2",
+        "date": "NA"
+      },
+      {
+        "title": "Senior University Recruiter",
+        "date": "NA"
+      },
+      {
+        "title": "Strategy & Product Marketing Co-op (8 months)",
+        "date": "NA"
+      },
+      {
+        "title": "Content Marketing Co-op (8 months)",
+        "date": "NA"
+      },
+      {
+        "title": "Marketing Technology & Data Activation Co-op (8 months)",
+        "date": "NA"
+      },
+      {
+        "title": "Brand Marketing Co-Op (8 months)",
+        "date": "NA"
+      }
     ],
     "Dassault Systems": [
-      "INTERNSHIP - Software Engineer",
-      "INTERNSHIP: User Assistance Development - FALL 2025",
-      "INTERNSHIP - ENOVIA Software Test Automation Engineer",
-      "INTERNSHIP: Business Development"
+      {
+        "title": "INTERNSHIP - Software Engineer",
+        "date": "NA"
+      },
+      {
+        "title": "INTERNSHIP: User Assistance Development - FALL 2025",
+        "date": "NA"
+      },
+      {
+        "title": "INTERNSHIP - ENOVIA Software Test Automation Engineer",
+        "date": "NA"
+      },
+      {
+        "title": "INTERNSHIP: Business Development",
+        "date": "NA"
+      }
     ],
     "Roblox": [
-      "[2025] Senior Machine Learning Engineer - PhD Early Career"
+      {
+        "title": "[2025] Senior Machine Learning Engineer - PhD Early Career",
+        "date": "NA"
+      }
     ],
     "Rivian": [
-      "UIUC Research Park Intern - Machine Learning",
-      "UIUC Research Park Intern - EPC, Propulsion Drives Controls"
+      {
+        "title": "UIUC Research Park Intern - Machine Learning",
+        "date": "NA"
+      },
+      {
+        "title": "UIUC Research Park Intern - EPC, Propulsion Drives Controls",
+        "date": "NA"
+      }
     ],
     "Susquehanna": [
-      "Account Opening Analyst",
-      "US Benefits Manager",
-      "Quantitative Researcher \u2013 PhD: 2025",
-      "Quantitative Systematic Trader \u2013 PhD: 2026",
-      "Quantitative Researcher \u2013 Master's: 2026",
-      "Quantitative Systematic Trader \u2013 Master's: 2026",
-      "Production Engineer - Gaming | Experienced Hire",
-      "Trading Systems - C# Developer",
-      "Quantitative Sports Researcher \u2013 Graduate Hire",
-      "Quant Trading - Engineering Recruiter | Experienced Hiring",
-      "Quantitative Campus Recruiter",
-      "Quantitative Trading Discovery Day: 2025",
-      "Senior FPGA Engineer",
-      "Production Engineer - Sports| Experienced Hire",
-      "ETF Sales Internship: Summer 2026",
-      "Tactical Development Team Lead",
-      "Billing Analyst",
-      "ETF Operations Analyst",
-      "Senior Executive Assistant",
-      "Devops Engineer | Experienced Hire| EOT",
-      "Learning + Development Coordinator",
-      "Machine Learning Researcher - PhD: 2026",
-      "Quantitative Researcher \u2013 PhD: 2026",
-      "Fixed Income/Convertible Bonds Operations Co-op with Drexel University: Fall/Winter B Round",
-      "Portfolio Manager Assistant",
-      "Audit Co-op with Drexel University: Fall/Winter B Round",
-      "Market Data Business Analyst",
-      "Learning and Development Specialist",
-      "Software Developer - Core Data Services",
-      "Software Developer | Senior C++ | Experienced Hire",
-      "Talent Sourcer",
-      "Technology Recruiter",
-      "Equity Analyst Internship: Summer 2026",
-      "Credit Analyst Internship: Summer 2026",
-      "Sell Side Research Internship: Summer 2026",
-      "Macro Analyst Internship: Summer 2026",
-      "Technology Co-op with Drexel University: Fall/Winter B-Round"
+      {
+        "title": "Account Opening Analyst",
+        "date": "NA"
+      },
+      {
+        "title": "US Benefits Manager",
+        "date": "NA"
+      },
+      {
+        "title": "Quantitative Researcher \u2013 PhD: 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Quantitative Systematic Trader \u2013 PhD: 2026",
+        "date": "NA"
+      },
+      {
+        "title": "Quantitative Researcher \u2013 Master's: 2026",
+        "date": "NA"
+      },
+      {
+        "title": "Quantitative Systematic Trader \u2013 Master's: 2026",
+        "date": "NA"
+      },
+      {
+        "title": "Production Engineer - Gaming | Experienced Hire",
+        "date": "NA"
+      },
+      {
+        "title": "Trading Systems - C# Developer",
+        "date": "NA"
+      },
+      {
+        "title": "Quantitative Sports Researcher \u2013 Graduate Hire",
+        "date": "NA"
+      },
+      {
+        "title": "Quant Trading - Engineering Recruiter | Experienced Hiring",
+        "date": "NA"
+      },
+      {
+        "title": "Quantitative Campus Recruiter",
+        "date": "NA"
+      },
+      {
+        "title": "Quantitative Trading Discovery Day: 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Senior FPGA Engineer",
+        "date": "NA"
+      },
+      {
+        "title": "Production Engineer - Sports| Experienced Hire",
+        "date": "NA"
+      },
+      {
+        "title": "ETF Sales Internship: Summer 2026",
+        "date": "NA"
+      },
+      {
+        "title": "Tactical Development Team Lead",
+        "date": "NA"
+      },
+      {
+        "title": "Billing Analyst",
+        "date": "NA"
+      },
+      {
+        "title": "ETF Operations Analyst",
+        "date": "NA"
+      },
+      {
+        "title": "Senior Executive Assistant",
+        "date": "NA"
+      },
+      {
+        "title": "Devops Engineer | Experienced Hire| EOT",
+        "date": "NA"
+      },
+      {
+        "title": "Learning + Development Coordinator",
+        "date": "NA"
+      },
+      {
+        "title": "Machine Learning Researcher - PhD: 2026",
+        "date": "NA"
+      },
+      {
+        "title": "Quantitative Researcher \u2013 PhD: 2026",
+        "date": "NA"
+      },
+      {
+        "title": "Fixed Income/Convertible Bonds Operations Co-op with Drexel University: Fall/Winter B Round",
+        "date": "NA"
+      },
+      {
+        "title": "Portfolio Manager Assistant",
+        "date": "NA"
+      },
+      {
+        "title": "Audit Co-op with Drexel University: Fall/Winter B Round",
+        "date": "NA"
+      },
+      {
+        "title": "Market Data Business Analyst",
+        "date": "NA"
+      },
+      {
+        "title": "Learning and Development Specialist",
+        "date": "NA"
+      },
+      {
+        "title": "Software Developer - Core Data Services",
+        "date": "NA"
+      },
+      {
+        "title": "Software Developer | Senior C++ | Experienced Hire",
+        "date": "NA"
+      },
+      {
+        "title": "Talent Sourcer",
+        "date": "NA"
+      },
+      {
+        "title": "Technology Recruiter",
+        "date": "NA"
+      },
+      {
+        "title": "Equity Analyst Internship: Summer 2026",
+        "date": "NA"
+      },
+      {
+        "title": "Credit Analyst Internship: Summer 2026",
+        "date": "NA"
+      },
+      {
+        "title": "Sell Side Research Internship: Summer 2026",
+        "date": "NA"
+      },
+      {
+        "title": "Macro Analyst Internship: Summer 2026",
+        "date": "NA"
+      },
+      {
+        "title": "Technology Co-op with Drexel University: Fall/Winter B-Round",
+        "date": "NA"
+      }
     ],
     "Jane Street": [
-      "FPGA Engineer - (not currently accepting applications)",
-      "IT Operations Engineer - (not currently accepting applications)",
-      "Linux Engineer - (not currently accepting applications)",
-      "Machine Learning Researcher - (not currently accepting applications)",
-      "Mechanical Engineer - (not currently accepting applications)",
-      "Network Engineer - (not currently accepting applications)",
-      "Procurement Specialist - (not currently accepting applications)",
-      "Quantitative Researcher - (not currently accepting applications)",
-      "Quantitative Trader - (not currently accepting applications)",
-      "Sales and Trading - (not currently accepting applications)",
-      "Software Engineer - (not currently accepting applications)",
-      "Strategy and Product - (not currently accepting applications)",
-      "Tools and Compilers Research and Development - (not currently accepting applications)",
-      "Trading Desk Operations Engineer - (not currently accepting applications)",
-      "Windows Engineer - (not currently accepting applications)"
+      {
+        "title": "FPGA Engineer - (not currently accepting applications)",
+        "date": "NA"
+      },
+      {
+        "title": "IT Operations Engineer - (not currently accepting applications)",
+        "date": "NA"
+      },
+      {
+        "title": "Linux Engineer - (not currently accepting applications)",
+        "date": "NA"
+      },
+      {
+        "title": "Machine Learning Researcher - (not currently accepting applications)",
+        "date": "NA"
+      },
+      {
+        "title": "Mechanical Engineer - (not currently accepting applications)",
+        "date": "NA"
+      },
+      {
+        "title": "Network Engineer - (not currently accepting applications)",
+        "date": "NA"
+      },
+      {
+        "title": "Procurement Specialist - (not currently accepting applications)",
+        "date": "NA"
+      },
+      {
+        "title": "Quantitative Researcher - (not currently accepting applications)",
+        "date": "NA"
+      },
+      {
+        "title": "Quantitative Trader - (not currently accepting applications)",
+        "date": "NA"
+      },
+      {
+        "title": "Sales and Trading - (not currently accepting applications)",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer - (not currently accepting applications)",
+        "date": "NA"
+      },
+      {
+        "title": "Strategy and Product - (not currently accepting applications)",
+        "date": "NA"
+      },
+      {
+        "title": "Tools and Compilers Research and Development - (not currently accepting applications)",
+        "date": "NA"
+      },
+      {
+        "title": "Trading Desk Operations Engineer - (not currently accepting applications)",
+        "date": "NA"
+      },
+      {
+        "title": "Windows Engineer - (not currently accepting applications)",
+        "date": "NA"
+      }
     ],
     "Expedia": [
-      "EGGP - Software Development Engineer I"
+      {
+        "title": "EGGP - Software Development Engineer I",
+        "date": "NA"
+      }
     ],
     "Adobe": [
-      "2025 Intern - Software Engineer",
-      "Working Student - Sales Programs / Project Management",
-      "Working Student Digital Media Sales"
+      {
+        "title": "2025 Intern - Software Engineer",
+        "date": "NA"
+      },
+      {
+        "title": "Working Student - Sales Programs / Project Management",
+        "date": "NA"
+      },
+      {
+        "title": "Working Student Digital Media Sales",
+        "date": "NA"
+      }
     ],
     "Databricks": [
-      "PhD GenAI Research Scientist Intern - San Francisco, California"
+      {
+        "title": "PhD GenAI Research Scientist Intern - San Francisco, California",
+        "date": "NA"
+      }
     ],
     "Oracle": [
-      "Sales Development Representative - Burlington - Sept 2025",
-      "Sales Development Representative - Denver - Sept 2025",
-      "Sales Development Representative - Santa Monica - Sept 2025",
-      "Sales Development Representative - Austin - Sept 2025",
-      "Sales Development Representative - Nashville - Sept 2025"
+      {
+        "title": "Sales Development Representative - Burlington - Sept 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Sales Development Representative - Denver - Sept 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Sales Development Representative - Santa Monica - Sept 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Sales Development Representative - Austin - Sept 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Sales Development Representative - Nashville - Sept 2025",
+        "date": "NA"
+      }
     ],
     "ByteDance": [
-      "Strategic Analysis Intern (AI Innovation Business - US) - 2025 Start (BS/MS)",
-      "Site Reliability Engineer Intern (Data-Technical Infrastructures-SRE-US) - 2025 Summer (MS)",
-      "Software Engineer Intern (AIGC Platform - Monetization GenAI) - 2025 Summer/Fall (BS/MS)",
-      "Data Scientist Intern (TikTok Ads)- 2025 Fall (BS/MS)",
-      "Site Reliability Engineer Intern (Data-Technical Infrastructures-SRE-US) - 2025 Summer (MS)",
-      "Research Engineer Intern (Doubao (Seed) - Machine Learning System) - 2025 Summer (MS)",
-      "Backend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Customer Business)- 2025 Fall(BS/MS)",
-      "Backend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Seller Business) - 2025 Fall (BS/MS)",
-      "Software Development Engineer Intern in Test (Global E-commerce-Quality Assurance) - 2025 Fall (BS/MS)",
-      "Machine Learning Engineer Intern (Global E-commerce Risk Control) - 2025 Summer/Fall (MS)",
-      "Camera Engineer Intern (PICO-Camera Technology) - 2025 Fall (MS)",
-      "Backend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Seller Business)- 2025 Fall(BS/MS)"
+      {
+        "title": "Strategic Analysis Intern (AI Innovation Business - US) - 2025 Start (BS/MS)",
+        "date": "NA"
+      },
+      {
+        "title": "Site Reliability Engineer Intern (Data-Technical Infrastructures-SRE-US) - 2025 Summer (MS)",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer Intern (AIGC Platform - Monetization GenAI) - 2025 Summer/Fall (BS/MS)",
+        "date": "NA"
+      },
+      {
+        "title": "Data Scientist Intern (TikTok Ads)- 2025 Fall (BS/MS)",
+        "date": "NA"
+      },
+      {
+        "title": "Site Reliability Engineer Intern (Data-Technical Infrastructures-SRE-US) - 2025 Summer (MS)",
+        "date": "NA"
+      },
+      {
+        "title": "Research Engineer Intern (Doubao (Seed) - Machine Learning System) - 2025 Summer (MS)",
+        "date": "NA"
+      },
+      {
+        "title": "Backend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Customer Business)- 2025 Fall(BS/MS)",
+        "date": "NA"
+      },
+      {
+        "title": "Backend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Seller Business) - 2025 Fall (BS/MS)",
+        "date": "NA"
+      },
+      {
+        "title": "Software Development Engineer Intern in Test (Global E-commerce-Quality Assurance) - 2025 Fall (BS/MS)",
+        "date": "NA"
+      },
+      {
+        "title": "Machine Learning Engineer Intern (Global E-commerce Risk Control) - 2025 Summer/Fall (MS)",
+        "date": "NA"
+      },
+      {
+        "title": "Camera Engineer Intern (PICO-Camera Technology) - 2025 Fall (MS)",
+        "date": "NA"
+      },
+      {
+        "title": "Backend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Seller Business)- 2025 Fall(BS/MS)",
+        "date": "NA"
+      }
     ],
     "TSMC": [
-      "\u53f0\u7a4d\u8eab\u5fc3\u969c\u7919\u5c08\u696d\u4eba\u624d_\u6691\u671f\u5be6\u7fd2",
-      "[Summer 2026] TSMC AZ Internship Opportunities - Facility Roles",
-      "AI Hardware Research Intern: Advanced Memory Modeling and Simulation for AI Accelerators (6819)",
-      "Fall/Winter 2025 - CAD/Software Intern (6591)",
-      "[Summer 2026] TSMC AZ Internship Opportunities - Engineering Roles",
-      "Summer 2025 - Transistor Device Research, Intern (6528)"
+      {
+        "title": "\u53f0\u7a4d\u8eab\u5fc3\u969c\u7919\u5c08\u696d\u4eba\u624d_\u6691\u671f\u5be6\u7fd2",
+        "date": "NA"
+      },
+      {
+        "title": "[Summer 2026] TSMC AZ Internship Opportunities - Facility Roles",
+        "date": "NA"
+      },
+      {
+        "title": "AI Hardware Research Intern: Advanced Memory Modeling and Simulation for AI Accelerators (6819)",
+        "date": "NA"
+      },
+      {
+        "title": "Fall/Winter 2025 - CAD/Software Intern (6591)",
+        "date": "NA"
+      },
+      {
+        "title": "[Summer 2026] TSMC AZ Internship Opportunities - Engineering Roles",
+        "date": "NA"
+      },
+      {
+        "title": "Summer 2025 - Transistor Device Research, Intern (6528)",
+        "date": "NA"
+      }
     ],
     "Siemens": [
-      "Business Development Representative Intern (China) - Work Type:Hybrid - Job Family:Sales - Req ID:e37114a7-ffd5-48f4-8e67-b51b4ca51b68",
-      "Strategic Student Program: Software Product Quality Assurance Intern (EBS, Fall 2025) - Huntsville, AL - Work Type:Hybrid - Job Family:Internal Services - Req ID:467157",
-      "Strategic Student Program: Alliance Partner Marketing Internship (Fall 2025, GSM) - Maryland Heights, MO - Work Type:Hybrid - Job Family:Internal Services - Req ID:467159",
-      "Strategic Student Program: Events Marketing Internship (Fall 2025, GSM) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:468163",
-      "Strategic Student Program: Customer Advocacy Internship (Fall 2025, GSM) - Maryland Heights, MO - Work Type:Hybrid - Job Family:Internal Services - Req ID:467165",
-      "Strategic Student Program: Search Marketing Internship (Fall 2025, GSM) - Maryland Heights, MO - Work Type:Hybrid - Job Family:Internal Services - Req ID:467161",
-      "Go To Market Operations - Internship - Boston, MA - Work Type:Hybrid - Job Family:Sales - Req ID:19acd451-756e-454f-964b-4e2f8636d4e6",
-      "Go To Market Operations - Internship - Work Type:Hybrid - Job Family:Sales - Req ID:64595186-8a9b-4268-b62d-316b9238e9f5",
-      "Strategic Student Program: R&D Software Engineering Co-Op (Fall 2025, T&I) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:467877",
-      "Strategic Student Program: Software Development Co-op (Fall 2025, GSCS) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:465146",
-      "Strategic Student Program: Academic Enablement Internship (Fall 2025, GSM) - Maryland Heights, MO - Work Type:Hybrid - Job Family:Internal Services - Req ID:467164",
-      "Strategic Student Program: Functional Design/Verification Applications Engineer Intern \u2013 FV (EDAGS) - Waltham, MA - Work Type:Hybrid - Job Family:Internal Services - Req ID:468472 - Single job with flexible work locations",
-      "Strategic Student Program: Functional Design/Verification Applications Engineer Intern \u2013 FV (EDAGS) - Phoenix, AZ - Work Type:Hybrid - Job Family:Internal Services - Req ID:468472 - Single job with flexible work locations",
-      "Strategic Student Program: Demand Generation Marketing Internship (Fall 2025, GSM) - Maryland Heights, MO - Work Type:Hybrid - Job Family:Internal Services - Req ID:468843",
-      "Strategic Student Program: Software Development Intern/Co-Op (Fall 2025, EBS) - Marlborough, MA - Work Type:Hybrid - Job Family:Internal Services - Req ID:468844 - Single job with flexible work locations",
-      "Strategic Student Program: Software Development Intern/Co-Op (Fall 2025, EBS) - Huntsville, AL - Work Type:Hybrid - Job Family:Internal Services - Req ID:468844 - Single job with flexible work locations",
-      "Strategic Student Program: Localization Project Management Co-Op (Fall 2025, T&I) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:468883",
-      "Strategic Student Program: Strategic Marketing & AI Applications Intern (Fall 2025, GSCS) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:469367",
-      "Strategic Student Program: Polarion Solution Engineering Internship (Fall 2025, GSCS) - Maryland Heights, MO - Work Type:Hybrid - Job Family:Internal Services - Req ID:467718",
-      "Business Development Representative Intern (Japan) - Work Type:Hybrid - Job Family:Sales - Req ID:5c5fa445-2bea-493f-8cf9-f15996ff38a6"
+      {
+        "title": "Business Development Representative Intern (China) - Work Type:Hybrid - Job Family:Sales - Req ID:e37114a7-ffd5-48f4-8e67-b51b4ca51b68",
+        "date": "NA"
+      },
+      {
+        "title": "Strategic Student Program: Software Product Quality Assurance Intern (EBS, Fall 2025) - Huntsville, AL - Work Type:Hybrid - Job Family:Internal Services - Req ID:467157",
+        "date": "NA"
+      },
+      {
+        "title": "Strategic Student Program: Alliance Partner Marketing Internship (Fall 2025, GSM) - Maryland Heights, MO - Work Type:Hybrid - Job Family:Internal Services - Req ID:467159",
+        "date": "NA"
+      },
+      {
+        "title": "Strategic Student Program: Events Marketing Internship (Fall 2025, GSM) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:468163",
+        "date": "NA"
+      },
+      {
+        "title": "Strategic Student Program: Customer Advocacy Internship (Fall 2025, GSM) - Maryland Heights, MO - Work Type:Hybrid - Job Family:Internal Services - Req ID:467165",
+        "date": "NA"
+      },
+      {
+        "title": "Strategic Student Program: Search Marketing Internship (Fall 2025, GSM) - Maryland Heights, MO - Work Type:Hybrid - Job Family:Internal Services - Req ID:467161",
+        "date": "NA"
+      },
+      {
+        "title": "Go To Market Operations - Internship - Boston, MA - Work Type:Hybrid - Job Family:Sales - Req ID:19acd451-756e-454f-964b-4e2f8636d4e6",
+        "date": "NA"
+      },
+      {
+        "title": "Go To Market Operations - Internship - Work Type:Hybrid - Job Family:Sales - Req ID:64595186-8a9b-4268-b62d-316b9238e9f5",
+        "date": "NA"
+      },
+      {
+        "title": "Strategic Student Program: R&D Software Engineering Co-Op (Fall 2025, T&I) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:467877",
+        "date": "NA"
+      },
+      {
+        "title": "Strategic Student Program: Software Development Co-op (Fall 2025, GSCS) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:465146",
+        "date": "NA"
+      },
+      {
+        "title": "Strategic Student Program: Academic Enablement Internship (Fall 2025, GSM) - Maryland Heights, MO - Work Type:Hybrid - Job Family:Internal Services - Req ID:467164",
+        "date": "NA"
+      },
+      {
+        "title": "Strategic Student Program: Functional Design/Verification Applications Engineer Intern \u2013 FV (EDAGS) - Waltham, MA - Work Type:Hybrid - Job Family:Internal Services - Req ID:468472 - Single job with flexible work locations",
+        "date": "NA"
+      },
+      {
+        "title": "Strategic Student Program: Functional Design/Verification Applications Engineer Intern \u2013 FV (EDAGS) - Phoenix, AZ - Work Type:Hybrid - Job Family:Internal Services - Req ID:468472 - Single job with flexible work locations",
+        "date": "NA"
+      },
+      {
+        "title": "Strategic Student Program: Demand Generation Marketing Internship (Fall 2025, GSM) - Maryland Heights, MO - Work Type:Hybrid - Job Family:Internal Services - Req ID:468843",
+        "date": "NA"
+      },
+      {
+        "title": "Strategic Student Program: Software Development Intern/Co-Op (Fall 2025, EBS) - Marlborough, MA - Work Type:Hybrid - Job Family:Internal Services - Req ID:468844 - Single job with flexible work locations",
+        "date": "NA"
+      },
+      {
+        "title": "Strategic Student Program: Software Development Intern/Co-Op (Fall 2025, EBS) - Huntsville, AL - Work Type:Hybrid - Job Family:Internal Services - Req ID:468844 - Single job with flexible work locations",
+        "date": "NA"
+      },
+      {
+        "title": "Strategic Student Program: Localization Project Management Co-Op (Fall 2025, T&I) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:468883",
+        "date": "NA"
+      },
+      {
+        "title": "Strategic Student Program: Strategic Marketing & AI Applications Intern (Fall 2025, GSCS) - Milford, OH - Work Type:Hybrid - Job Family:Internal Services - Req ID:469367",
+        "date": "NA"
+      },
+      {
+        "title": "Strategic Student Program: Polarion Solution Engineering Internship (Fall 2025, GSCS) - Maryland Heights, MO - Work Type:Hybrid - Job Family:Internal Services - Req ID:467718",
+        "date": "NA"
+      },
+      {
+        "title": "Business Development Representative Intern (Japan) - Work Type:Hybrid - Job Family:Sales - Req ID:5c5fa445-2bea-493f-8cf9-f15996ff38a6",
+        "date": "NA"
+      }
     ],
     "Rockwell Automation": [
-      "Early in Career Windows Software Engineer (C++, C#)",
-      "Project Planner",
-      "EDGE Associate, Information Technology Rotational Program",
-      "Co-op, Revenue Operations (Fall 2025)"
+      {
+        "title": "Early in Career Windows Software Engineer (C++, C#)",
+        "date": "NA"
+      },
+      {
+        "title": "Project Planner",
+        "date": "NA"
+      },
+      {
+        "title": "EDGE Associate, Information Technology Rotational Program",
+        "date": "NA"
+      },
+      {
+        "title": "Co-op, Revenue Operations (Fall 2025)",
+        "date": "NA"
+      }
     ],
     "Boston Scientific": [
-      "Cardiac Monitoring Technician - Internship/Apprenticeship"
+      {
+        "title": "Cardiac Monitoring Technician - Internship/Apprenticeship",
+        "date": "NA"
+      }
     ],
     "X": [
-      "Data Center Ops Technician Intern",
-      "Engineering Intern"
+      {
+        "title": "Data Center Ops Technician Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Engineering Intern",
+        "date": "NA"
+      }
     ],
     "Asana": [
-      "Reykjavik Summer Software Engineering Internship"
+      {
+        "title": "Reykjavik Summer Software Engineering Internship",
+        "date": "NA"
+      }
     ],
     "Scheider Electric": [
-      "Quality Engineer Internship: Fall 2025",
-      "Assembly Process Intern/ Co-Op (Fall 2025)",
-      "EHS Intern",
-      "Artificial Intelligence and Machine Learning Intern",
-      "Firmware Engineer Intern",
-      "Electrical Engineer Co-Op",
-      "Electronics Hardware Engineer Co-Op",
-      "Electrical Engineer Co-Op",
-      "Business Intelligence Analyst Co-Op (Fall 2025)",
-      "Skillbridge Industrial Channel Sales Development Program",
-      "Skillbridge Industrial Channel Sales Development Program",
-      "Engineering Lab Intern",
-      "Field Service Representative - SkillBridge Internship",
-      "Smart Factory Intern"
+      {
+        "title": "Quality Engineer Internship: Fall 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Assembly Process Intern/ Co-Op (Fall 2025)",
+        "date": "NA"
+      },
+      {
+        "title": "EHS Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Artificial Intelligence and Machine Learning Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Firmware Engineer Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Electrical Engineer Co-Op",
+        "date": "NA"
+      },
+      {
+        "title": "Electronics Hardware Engineer Co-Op",
+        "date": "NA"
+      },
+      {
+        "title": "Electrical Engineer Co-Op",
+        "date": "NA"
+      },
+      {
+        "title": "Business Intelligence Analyst Co-Op (Fall 2025)",
+        "date": "NA"
+      },
+      {
+        "title": "Skillbridge Industrial Channel Sales Development Program",
+        "date": "NA"
+      },
+      {
+        "title": "Skillbridge Industrial Channel Sales Development Program",
+        "date": "NA"
+      },
+      {
+        "title": "Engineering Lab Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Field Service Representative - SkillBridge Internship",
+        "date": "NA"
+      },
+      {
+        "title": "Smart Factory Intern",
+        "date": "NA"
+      }
     ],
     "Grammarly": [],
     "Zipline": [
-      "Annotation Technical Lead - Engineering - Kigali, Rwanda",
-      "Communications Lead, US Expansion - Marketing, Design & Communications - South San Francisco, California, USA",
-      "Community Engagement Intern (Fall 2025) - 2025 Internships - Dallas, Texas, USA",
-      "Construction & Development Intern (Fall 2025) - 2025 Internships - South San Francisco, California, USA",
-      "Controller (Pilot In Command) - Flight Operations - Concord, North Carolina, USA",
-      "Controls & Dynamics Intern (Fall 2025) - 2025 Internships - South San Francisco, California, USA",
-      "Creator, Film + Social - Marketing, Design & Communications - South San Francisco, California, USA",
-      "Customer Care Advocate - National Service - Country Operations - Omenako, Ghana",
-      "Customer Success Agent - Operations - Dallas-Fort Worth, Texas, USA",
-      "Customer Success Manager, U.S. - Customer Success - South San Francisco, California, USA",
-      "Deputy General Counsel, Commercial Transactions - Legal, Regulatory & Public Affairs - South San Francisco, California, USA",
-      "Director of Financial Operations - Finance & Administration - South San Francisco, California, USA",
-      "Electrical Engineering Intern (Fall 2025) - 2025 Internships - South San Francisco, California, USA",
-      "Electrical Project Engineer - Ground Systems Deployment - Engineering - South San Francisco, California, USA",
-      "Engineering Test Technician (Contract) - Engineering - South San Francisco, California, USA",
-      "Enterprise Account Manager - Customer Success - South San Francisco, California, USA",
-      "Executive Assistant - People - South San Francisco, California, USA",
-      "Facilities and Inventory Specialist - Operations - Dallas, Texas, USA",
-      "Field Systems Engineer - Flight Software - Operations - South San Francisco, California, USA",
-      "Field Systems Engineering Intern (Fall 2025) - 2025 Internships - South San Francisco, California, USA",
-      "Finance Systems Engineer - Finance & Administration - South San Francisco, California, USA",
-      "Flight Operations Lead - KE-1 - Flight Operations - Kisumu, Kenya",
-      "Engineering Technician Lead - Engineering - South San Francisco, California, USA",
-      "Aviation Sustainment Engineer - Flight Operations - Kigali, Rwanda",
-      "Aviation Sustainment Engineer - Flight Operations - Abuja, Nigeria; Accra, Ghana; Kigali, Rwanda; Nairobi, Kenya",
-      "Autonomy Software Engineer, Validation Tools - Engineering - South San Francisco, California, USA",
-      "Field Systems Engineer - Flight Software - Engineering - South San Francisco, California, USA",
-      "Country Procurement Lead - Country Operations - Kigali, Rwanda",
-      "Deployment Engineer - SCADA and Applications Engineering - Engineering - South San Francisco, California, USA",
-      "Business Operations Intern (Fall 2025) - 2025 Internships - Dallas, Texas, USA"
+      {
+        "title": "Annotation Technical Lead - Engineering - Kigali, Rwanda",
+        "date": "NA"
+      },
+      {
+        "title": "Communications Lead, US Expansion - Marketing, Design & Communications - South San Francisco, California, USA",
+        "date": "NA"
+      },
+      {
+        "title": "Community Engagement Intern (Fall 2025) - 2025 Internships - Dallas, Texas, USA",
+        "date": "NA"
+      },
+      {
+        "title": "Construction & Development Intern (Fall 2025) - 2025 Internships - South San Francisco, California, USA",
+        "date": "NA"
+      },
+      {
+        "title": "Controller (Pilot In Command) - Flight Operations - Concord, North Carolina, USA",
+        "date": "NA"
+      },
+      {
+        "title": "Controls & Dynamics Intern (Fall 2025) - 2025 Internships - South San Francisco, California, USA",
+        "date": "NA"
+      },
+      {
+        "title": "Creator, Film + Social - Marketing, Design & Communications - South San Francisco, California, USA",
+        "date": "NA"
+      },
+      {
+        "title": "Customer Care Advocate - National Service - Country Operations - Omenako, Ghana",
+        "date": "NA"
+      },
+      {
+        "title": "Customer Success Agent - Operations - Dallas-Fort Worth, Texas, USA",
+        "date": "NA"
+      },
+      {
+        "title": "Customer Success Manager, U.S. - Customer Success - South San Francisco, California, USA",
+        "date": "NA"
+      },
+      {
+        "title": "Deputy General Counsel, Commercial Transactions - Legal, Regulatory & Public Affairs - South San Francisco, California, USA",
+        "date": "NA"
+      },
+      {
+        "title": "Director of Financial Operations - Finance & Administration - South San Francisco, California, USA",
+        "date": "NA"
+      },
+      {
+        "title": "Electrical Engineering Intern (Fall 2025) - 2025 Internships - South San Francisco, California, USA",
+        "date": "NA"
+      },
+      {
+        "title": "Electrical Project Engineer - Ground Systems Deployment - Engineering - South San Francisco, California, USA",
+        "date": "NA"
+      },
+      {
+        "title": "Engineering Test Technician (Contract) - Engineering - South San Francisco, California, USA",
+        "date": "NA"
+      },
+      {
+        "title": "Enterprise Account Manager - Customer Success - South San Francisco, California, USA",
+        "date": "NA"
+      },
+      {
+        "title": "Executive Assistant - People - South San Francisco, California, USA",
+        "date": "NA"
+      },
+      {
+        "title": "Facilities and Inventory Specialist - Operations - Dallas, Texas, USA",
+        "date": "NA"
+      },
+      {
+        "title": "Field Systems Engineer - Flight Software - Operations - South San Francisco, California, USA",
+        "date": "NA"
+      },
+      {
+        "title": "Field Systems Engineering Intern (Fall 2025) - 2025 Internships - South San Francisco, California, USA",
+        "date": "NA"
+      },
+      {
+        "title": "Finance Systems Engineer - Finance & Administration - South San Francisco, California, USA",
+        "date": "NA"
+      },
+      {
+        "title": "Flight Operations Lead - KE-1 - Flight Operations - Kisumu, Kenya",
+        "date": "NA"
+      },
+      {
+        "title": "Engineering Technician Lead - Engineering - South San Francisco, California, USA",
+        "date": "NA"
+      },
+      {
+        "title": "Aviation Sustainment Engineer - Flight Operations - Kigali, Rwanda",
+        "date": "NA"
+      },
+      {
+        "title": "Aviation Sustainment Engineer - Flight Operations - Abuja, Nigeria; Accra, Ghana; Kigali, Rwanda; Nairobi, Kenya",
+        "date": "NA"
+      },
+      {
+        "title": "Autonomy Software Engineer, Validation Tools - Engineering - South San Francisco, California, USA",
+        "date": "NA"
+      },
+      {
+        "title": "Field Systems Engineer - Flight Software - Engineering - South San Francisco, California, USA",
+        "date": "NA"
+      },
+      {
+        "title": "Country Procurement Lead - Country Operations - Kigali, Rwanda",
+        "date": "NA"
+      },
+      {
+        "title": "Deployment Engineer - SCADA and Applications Engineering - Engineering - South San Francisco, California, USA",
+        "date": "NA"
+      },
+      {
+        "title": "Business Operations Intern (Fall 2025) - 2025 Internships - Dallas, Texas, USA",
+        "date": "NA"
+      }
     ],
     "Verkada": [
-      "Software Engineering Intern, Backend - Fall 2025 - San Mateo, CA United States",
-      "Software Engineering Intern, Mobile - Fall 2025 - San Mateo, CA United States",
-      "Technical Support Engineering Intern - Fall 2025 - San Mateo, CA United States"
+      {
+        "title": "Software Engineering Intern, Backend - Fall 2025 - San Mateo, CA United States",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineering Intern, Mobile - Fall 2025 - San Mateo, CA United States",
+        "date": "NA"
+      },
+      {
+        "title": "Technical Support Engineering Intern - Fall 2025 - San Mateo, CA United States",
+        "date": "NA"
+      }
     ],
     "Neuralink": [
-      "Internal Auditor - Austin, Texas",
-      "Electrical Engineer Intern, Implant Embedded Systems - Fremont, California",
-      "Electrical Engineer Intern, Robotics and Surgery Engineering - Fremont, California",
-      "Embedded Software Engineer Intern - Fremont, California",
-      "Machine Learning Engineer Intern - Fremont, California",
-      "Mechanical Engineering Intern, Brain Interfaces - Austin, Texas",
-      "Mechanical Engineering Intern, Robotics (Fall 2025+) - Fremont, California",
-      "Robot Optics Intern - Fremont, California",
-      "Software Engineer Intern, BCI Applications - Fremont, California",
-      "Software Engineer Intern, Implant - Austin, Texas",
-      "Software Engineer Intern, Implant - Fremont, California",
-      "Software Engineer Intern, Lab Systems - Austin, Texas",
-      "Software Engineer Intern, Lab Systems - Fremont, California",
-      "Software Engineer Intern, Robotics - Austin, Texas",
-      "Software Engineer Intern, Robotics - Fremont, California",
-      "Software Engineer Intern, Site Reliability Engineer - Fremont, California"
+      {
+        "title": "Internal Auditor - Austin, Texas",
+        "date": "NA"
+      },
+      {
+        "title": "Electrical Engineer Intern, Implant Embedded Systems - Fremont, California",
+        "date": "NA"
+      },
+      {
+        "title": "Electrical Engineer Intern, Robotics and Surgery Engineering - Fremont, California",
+        "date": "NA"
+      },
+      {
+        "title": "Embedded Software Engineer Intern - Fremont, California",
+        "date": "NA"
+      },
+      {
+        "title": "Machine Learning Engineer Intern - Fremont, California",
+        "date": "NA"
+      },
+      {
+        "title": "Mechanical Engineering Intern, Brain Interfaces - Austin, Texas",
+        "date": "NA"
+      },
+      {
+        "title": "Mechanical Engineering Intern, Robotics (Fall 2025+) - Fremont, California",
+        "date": "NA"
+      },
+      {
+        "title": "Robot Optics Intern - Fremont, California",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer Intern, BCI Applications - Fremont, California",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer Intern, Implant - Austin, Texas",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer Intern, Implant - Fremont, California",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer Intern, Lab Systems - Austin, Texas",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer Intern, Lab Systems - Fremont, California",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer Intern, Robotics - Austin, Texas",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer Intern, Robotics - Fremont, California",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer Intern, Site Reliability Engineer - Fremont, California",
+        "date": "NA"
+      }
     ],
     "Cloudflare": [],
     "Deloitte": [],
     "Capital One": [
-      "Caf\u00e9 Coach- Boulder",
-      "Inside Sales Coach",
-      "Cafe Coach- Easton Town Center",
-      "Capital One Coach- Ross Park Mall",
-      "Work at Home - Sr. Associate, Operations Coach - Debit and ATM Fraud",
-      "Senior Manager, Client Development- Capital One Software (Remote)",
-      "Market Leader, Business Cards & Payments (NorCal & Oregon)",
-      "Unit Manager, Commercial Client Operations",
-      "Director, Tech College, Enterprise Learning and Development",
-      "Manager, HR Business Partner - Enterprise Services",
-      "Manager, HR Business Partner",
-      "Sr. Manager, HR Business Partner",
-      "Principal Process Manager",
-      "Principal Associate, Process Manager (Hybrid)",
-      "Manager - HRBP",
-      "Commercial Internship Program - Summer 2026",
-      "Management Internship Program - Summer 2026",
-      "Product Development Internship Program - Summer 2026",
-      "Part Time Branch Ambassador - New Jersey Market",
-      "Part Time Branch Ambassador - New Jersey Market",
-      "Director, Payment Network Technology Risk",
-      "Senior Business Manager, Emerging Payments Strategy & Analytics",
-      "Product Development Program Associate - 2026",
-      "Principal AML Compliance Advisor",
-      "Compliance Advisor Manager",
-      "Lead Software Engineer, Android (Enterprise Platforms Technology)",
-      "Sr Associate, Product Management - Enterprise Growth",
-      "Principal Auditor, Audit Operations and Reporting",
-      "Lead Software Engineer, Back End (Enterprise Platforms Technology)",
-      "Applied Researcher I",
-      "Lead Software Engineer, Android (Bank Tech)",
-      "Senior Software Engineer, Front End",
-      "Manager (Counsel): Commercial Bank - Corporate Lending"
+      {
+        "title": "Caf\u00e9 Coach- Boulder",
+        "date": "NA"
+      },
+      {
+        "title": "Inside Sales Coach",
+        "date": "NA"
+      },
+      {
+        "title": "Cafe Coach- Easton Town Center",
+        "date": "NA"
+      },
+      {
+        "title": "Capital One Coach- Ross Park Mall",
+        "date": "NA"
+      },
+      {
+        "title": "Work at Home - Sr. Associate, Operations Coach - Debit and ATM Fraud",
+        "date": "NA"
+      },
+      {
+        "title": "Senior Manager, Client Development- Capital One Software (Remote)",
+        "date": "NA"
+      },
+      {
+        "title": "Market Leader, Business Cards & Payments (NorCal & Oregon)",
+        "date": "NA"
+      },
+      {
+        "title": "Unit Manager, Commercial Client Operations",
+        "date": "NA"
+      },
+      {
+        "title": "Director, Tech College, Enterprise Learning and Development",
+        "date": "NA"
+      },
+      {
+        "title": "Manager, HR Business Partner - Enterprise Services",
+        "date": "NA"
+      },
+      {
+        "title": "Manager, HR Business Partner",
+        "date": "NA"
+      },
+      {
+        "title": "Sr. Manager, HR Business Partner",
+        "date": "NA"
+      },
+      {
+        "title": "Principal Process Manager",
+        "date": "NA"
+      },
+      {
+        "title": "Principal Associate, Process Manager (Hybrid)",
+        "date": "NA"
+      },
+      {
+        "title": "Manager - HRBP",
+        "date": "NA"
+      },
+      {
+        "title": "Commercial Internship Program - Summer 2026",
+        "date": "NA"
+      },
+      {
+        "title": "Management Internship Program - Summer 2026",
+        "date": "NA"
+      },
+      {
+        "title": "Product Development Internship Program - Summer 2026",
+        "date": "NA"
+      },
+      {
+        "title": "Part Time Branch Ambassador - New Jersey Market",
+        "date": "NA"
+      },
+      {
+        "title": "Part Time Branch Ambassador - New Jersey Market",
+        "date": "NA"
+      },
+      {
+        "title": "Director, Payment Network Technology Risk",
+        "date": "NA"
+      },
+      {
+        "title": "Senior Business Manager, Emerging Payments Strategy & Analytics",
+        "date": "NA"
+      },
+      {
+        "title": "Product Development Program Associate - 2026",
+        "date": "NA"
+      },
+      {
+        "title": "Principal AML Compliance Advisor",
+        "date": "NA"
+      },
+      {
+        "title": "Compliance Advisor Manager",
+        "date": "NA"
+      },
+      {
+        "title": "Lead Software Engineer, Android (Enterprise Platforms Technology)",
+        "date": "NA"
+      },
+      {
+        "title": "Sr Associate, Product Management - Enterprise Growth",
+        "date": "NA"
+      },
+      {
+        "title": "Principal Auditor, Audit Operations and Reporting",
+        "date": "NA"
+      },
+      {
+        "title": "Lead Software Engineer, Back End (Enterprise Platforms Technology)",
+        "date": "NA"
+      },
+      {
+        "title": "Applied Researcher I",
+        "date": "NA"
+      },
+      {
+        "title": "Lead Software Engineer, Android (Bank Tech)",
+        "date": "NA"
+      },
+      {
+        "title": "Senior Software Engineer, Front End",
+        "date": "NA"
+      },
+      {
+        "title": "Manager (Counsel): Commercial Bank - Corporate Lending",
+        "date": "NA"
+      }
     ],
     "Doordash": [
-      "Software Engineer I, Entry-Level (Graduation Date: Fall 2024-Summer 2025)",
-      "Software Engineer I, Entry Level (Fall 2024-Spring 2025) \u2013 Toronto",
-      "Machine Learning Intern (Masters/PhD), Summer 2025",
-      "Software Engineer, Intern, 2024/25 (University Recruiting)"
+      {
+        "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2024-Summer 2025)",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer I, Entry Level (Fall 2024-Spring 2025) \u2013 Toronto",
+        "date": "NA"
+      },
+      {
+        "title": "Machine Learning Intern (Masters/PhD), Summer 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer, Intern, 2024/25 (University Recruiting)",
+        "date": "NA"
+      }
     ],
     "Liberty Mutual": [],
     "Hudson River Trading": [
-      "Algorithm Development (Quant Research) Internship \u2013 Summer 2026",
-      "Software Engineering Internship \u2013 Summer 2026"
+      {
+        "title": "Algorithm Development (Quant Research) Internship \u2013 Summer 2026",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineering Internship \u2013 Summer 2026",
+        "date": "NA"
+      }
     ],
     "Roku": [],
     "Unity": [
-      "Junior Test Engineer",
-      "Sales Onboarding Intern"
+      {
+        "title": "Junior Test Engineer",
+        "date": "NA"
+      },
+      {
+        "title": "Sales Onboarding Intern",
+        "date": "NA"
+      }
     ],
     "Github": [
-      "Senior Software Engineer, Supply Chain Security",
-      "Solutions Engineer III",
-      "SMB Account Executive - EMEA",
-      "Senior Enterprise Account Executive III",
-      "Senior Solutions Engineer",
-      "Senior Enterprise Account Executive II - New Business",
-      "Software Engineer III, Runtime Platform",
-      "SMB Senior Account Executive",
-      "Software Engineer III, Codespaces & Copilot Workspace",
-      "Senior Enterprise Account Executive III",
-      "Strategic Account Manager",
-      "Senior Enterprise Account Executive III",
-      "Senior Enterprise Account Executive II",
-      "SMB Senior Account Executive",
-      "Solutions Engineer III, Corporate",
-      "Senior Mid Market Account Executive I",
-      "Senior Enterprise Sales Executive III",
-      "Strategic Account Manager",
-      "Senior Enterprise Account Executive III",
-      "Senior Mid Market Account Executive I",
-      "SMB Senior Account Executive",
-      "Staff Software Engineer - Client Apps",
-      "Senior Enterprise Account Executive III",
-      "Senior Enterprise Account Executive II",
-      "Senior Enterprise Account Executive II",
-      "Staff Software Engineer"
+      {
+        "title": "Senior Software Engineer, Supply Chain Security",
+        "date": "NA"
+      },
+      {
+        "title": "Solutions Engineer III",
+        "date": "NA"
+      },
+      {
+        "title": "SMB Account Executive - EMEA",
+        "date": "NA"
+      },
+      {
+        "title": "Senior Enterprise Account Executive III",
+        "date": "NA"
+      },
+      {
+        "title": "Senior Solutions Engineer",
+        "date": "NA"
+      },
+      {
+        "title": "Senior Enterprise Account Executive II - New Business",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer III, Runtime Platform",
+        "date": "NA"
+      },
+      {
+        "title": "SMB Senior Account Executive",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer III, Codespaces & Copilot Workspace",
+        "date": "NA"
+      },
+      {
+        "title": "Senior Enterprise Account Executive III",
+        "date": "NA"
+      },
+      {
+        "title": "Strategic Account Manager",
+        "date": "NA"
+      },
+      {
+        "title": "Senior Enterprise Account Executive III",
+        "date": "NA"
+      },
+      {
+        "title": "Senior Enterprise Account Executive II",
+        "date": "NA"
+      },
+      {
+        "title": "SMB Senior Account Executive",
+        "date": "NA"
+      },
+      {
+        "title": "Solutions Engineer III, Corporate",
+        "date": "NA"
+      },
+      {
+        "title": "Senior Mid Market Account Executive I",
+        "date": "NA"
+      },
+      {
+        "title": "Senior Enterprise Sales Executive III",
+        "date": "NA"
+      },
+      {
+        "title": "Strategic Account Manager",
+        "date": "NA"
+      },
+      {
+        "title": "Senior Enterprise Account Executive III",
+        "date": "NA"
+      },
+      {
+        "title": "Senior Mid Market Account Executive I",
+        "date": "NA"
+      },
+      {
+        "title": "SMB Senior Account Executive",
+        "date": "NA"
+      },
+      {
+        "title": "Staff Software Engineer - Client Apps",
+        "date": "NA"
+      },
+      {
+        "title": "Senior Enterprise Account Executive III",
+        "date": "NA"
+      },
+      {
+        "title": "Senior Enterprise Account Executive II",
+        "date": "NA"
+      },
+      {
+        "title": "Senior Enterprise Account Executive II",
+        "date": "NA"
+      },
+      {
+        "title": "Staff Software Engineer",
+        "date": "NA"
+      }
     ],
     "RedHat": [],
     "Boston Dynamics": [
-      "Senior Supervisor, Field Applications Engineering",
-      "Electrical Engineer",
-      "Sales Logistics Coordinator",
-      "Software Quality Assurance Engineer - Web Automation",
-      "Software Quality Assurance Engineer - Embedded Focus",
-      "Staff DevOps Engineer, Central Software",
-      "Senior Staff Material Buyer/Planner",
-      "Sales Engineer",
-      "Systems Software Development Engineer",
-      "Simulation Technical Lead",
-      "Mechanical Engineer",
-      "Director of Product Management- Warehouse Robotics",
-      "Senior Director of Software Engineering- Warehouse Robotics",
-      "Software Engineer"
+      {
+        "title": "Senior Supervisor, Field Applications Engineering",
+        "date": "NA"
+      },
+      {
+        "title": "Electrical Engineer",
+        "date": "NA"
+      },
+      {
+        "title": "Sales Logistics Coordinator",
+        "date": "NA"
+      },
+      {
+        "title": "Software Quality Assurance Engineer - Web Automation",
+        "date": "NA"
+      },
+      {
+        "title": "Software Quality Assurance Engineer - Embedded Focus",
+        "date": "NA"
+      },
+      {
+        "title": "Staff DevOps Engineer, Central Software",
+        "date": "NA"
+      },
+      {
+        "title": "Senior Staff Material Buyer/Planner",
+        "date": "NA"
+      },
+      {
+        "title": "Sales Engineer",
+        "date": "NA"
+      },
+      {
+        "title": "Systems Software Development Engineer",
+        "date": "NA"
+      },
+      {
+        "title": "Simulation Technical Lead",
+        "date": "NA"
+      },
+      {
+        "title": "Mechanical Engineer",
+        "date": "NA"
+      },
+      {
+        "title": "Director of Product Management- Warehouse Robotics",
+        "date": "NA"
+      },
+      {
+        "title": "Senior Director of Software Engineering- Warehouse Robotics",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer",
+        "date": "NA"
+      }
     ],
     "Epic Games": [],
     "Twitch": [],
     "Visa": [
-      "Associate Developer - Software Development/Engineering",
-      "Graduate Software Engineer - Software Development/Engineering",
-      "Consulting & Analytics Graduate - Client Consulting",
-      "Associate \u2013 Client Relationship Management - Sales & Business Development",
-      "Visa Leadership Associate Graduate Programme - Human Resources",
-      "Graduate Software Engineer - Technology and Operations",
-      "Associate, Visa Direct Sales Executive - Sales & Business Development",
-      "Talent Acquisition Coordinator - Early Careers - Administrative"
+      {
+        "title": "Associate Developer - Software Development/Engineering",
+        "date": "NA"
+      },
+      {
+        "title": "Graduate Software Engineer - Software Development/Engineering",
+        "date": "NA"
+      },
+      {
+        "title": "Consulting & Analytics Graduate - Client Consulting",
+        "date": "NA"
+      },
+      {
+        "title": "Associate \u2013 Client Relationship Management - Sales & Business Development",
+        "date": "NA"
+      },
+      {
+        "title": "Visa Leadership Associate Graduate Programme - Human Resources",
+        "date": "NA"
+      },
+      {
+        "title": "Graduate Software Engineer - Technology and Operations",
+        "date": "NA"
+      },
+      {
+        "title": "Associate, Visa Direct Sales Executive - Sales & Business Development",
+        "date": "NA"
+      },
+      {
+        "title": "Talent Acquisition Coordinator - Early Careers - Administrative",
+        "date": "NA"
+      }
     ],
     "Replit": [
-      "Brand Design Lead - Design \u2022 Foster City, CA - In office M,W,F \u2022 Full time",
-      "Product Designer - Design \u2022 Foster City, CA - In office M,W,F \u2022 Full time",
-      "Staff Product Designer - Design \u2022 Foster City, CA - In office M,W,F \u2022 Full time",
-      "Design Engineer - Engineering \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time",
-      "Lead Security Engineer - Engineering \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time",
-      "Senior Software Engineer, Money - Engineering \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time",
-      "Site Reliability Engineer - Engineering \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time",
-      "Software Engineer, Distributed Systems - Engineering \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time",
-      "Software Engineer, Frontend Infrastructure - Engineering \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time \u2022 Hybrid",
-      "Software Engineer, Full Stack - Engineering \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time",
-      "Software Engineer, Mobile - Engineering \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time",
-      "Staff Software Engineer, Product - Engineering \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time",
-      "Director of Support - Support \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time",
-      "Senior Manager of Customer Support - Support \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time",
-      "Director of Strategic Finance - Operations \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time",
-      "Senior Financial Analyst - Operations \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time",
-      "Agent Platform Engineer - Engineering \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time \u2022 Hybrid"
+      {
+        "title": "Brand Design Lead - Design \u2022 Foster City, CA - In office M,W,F \u2022 Full time",
+        "date": "NA"
+      },
+      {
+        "title": "Product Designer - Design \u2022 Foster City, CA - In office M,W,F \u2022 Full time",
+        "date": "NA"
+      },
+      {
+        "title": "Staff Product Designer - Design \u2022 Foster City, CA - In office M,W,F \u2022 Full time",
+        "date": "NA"
+      },
+      {
+        "title": "Design Engineer - Engineering \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time",
+        "date": "NA"
+      },
+      {
+        "title": "Lead Security Engineer - Engineering \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time",
+        "date": "NA"
+      },
+      {
+        "title": "Senior Software Engineer, Money - Engineering \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time",
+        "date": "NA"
+      },
+      {
+        "title": "Site Reliability Engineer - Engineering \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer, Distributed Systems - Engineering \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer, Frontend Infrastructure - Engineering \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time \u2022 Hybrid",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer, Full Stack - Engineering \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer, Mobile - Engineering \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time",
+        "date": "NA"
+      },
+      {
+        "title": "Staff Software Engineer, Product - Engineering \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time",
+        "date": "NA"
+      },
+      {
+        "title": "Director of Support - Support \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time",
+        "date": "NA"
+      },
+      {
+        "title": "Senior Manager of Customer Support - Support \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time",
+        "date": "NA"
+      },
+      {
+        "title": "Director of Strategic Finance - Operations \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time",
+        "date": "NA"
+      },
+      {
+        "title": "Senior Financial Analyst - Operations \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time",
+        "date": "NA"
+      },
+      {
+        "title": "Agent Platform Engineer - Engineering \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time \u2022 Hybrid",
+        "date": "NA"
+      }
     ],
     "Hugging Face": [
-      "MongoDB Technical Architect - US Remote",
-      "Developer Advocate Engineer, Hub/Enterprise - US Remote",
-      "Senior Frontend Engineer - US Remote",
-      "Machine Learning Engineer, WebML - US Remote",
-      "Open-Source Machine Learning Engineer - International Remote",
-      "Wild Card",
-      "Cloud Machine Learning Engineer - US remote",
-      "Machine Learning Engineer, Fast Optimized Inference - US Remote",
-      "Machine Learning Optimization Evangelist - US remote",
-      "Machine Learning Engineer in the Optimization team - US Remote",
-      "Data Technical Architect, MongoDB Expert - US Remote"
+      {
+        "title": "MongoDB Technical Architect - US Remote",
+        "date": "NA"
+      },
+      {
+        "title": "Developer Advocate Engineer, Hub/Enterprise - US Remote",
+        "date": "NA"
+      },
+      {
+        "title": "Senior Frontend Engineer - US Remote",
+        "date": "NA"
+      },
+      {
+        "title": "Machine Learning Engineer, WebML - US Remote",
+        "date": "NA"
+      },
+      {
+        "title": "Open-Source Machine Learning Engineer - International Remote",
+        "date": "NA"
+      },
+      {
+        "title": "Wild Card",
+        "date": "NA"
+      },
+      {
+        "title": "Cloud Machine Learning Engineer - US remote",
+        "date": "NA"
+      },
+      {
+        "title": "Machine Learning Engineer, Fast Optimized Inference - US Remote",
+        "date": "NA"
+      },
+      {
+        "title": "Machine Learning Optimization Evangelist - US remote",
+        "date": "NA"
+      },
+      {
+        "title": "Machine Learning Engineer in the Optimization team - US Remote",
+        "date": "NA"
+      },
+      {
+        "title": "Data Technical Architect, MongoDB Expert - US Remote",
+        "date": "NA"
+      }
     ],
     "Vercel": [],
     "Verizon": [
-      "Thrive Accelerate Up- Supervisor- Call Center Tech Customer Service",
-      "Thrive Accelerate Up- Field Operations Manager",
-      "Thrive Accelerate Up- Field Operations Manager",
-      "Thrive Accelerate Up- Field Operations Manager",
-      "Thrive Accelerate Up- Field Operations Manager",
-      "Thrive Accelerate Up- Field Operations Manager",
-      "Thrive Accelerate Up- Field Operations Manager",
-      "Thrive Accelerate Up- Field Operations Manager",
-      "Thrive Accelerate Up- Field Operations Manager",
-      "Thrive Accelerate Up- Field Operations Manager",
-      "Military Fellowship - IT Service Manager",
-      "Military Fellowship - Network Assurance Engineer",
-      "Military Fellowship - Total Employee Experience Lead Engineer",
-      "Military Fellowship - Offensive Security Engineer",
-      "Military Fellowship - Network Security Engineer",
-      "Military Fellowship - Submarine Cable NOC Engineer",
-      "Military Fellowship - Consultant - Systems Analyst",
-      "Military Fellowship - ETMS Software Developer",
-      "Military Fellowship - Technical Project Manager",
-      "Military Fellowship - Consultant - Security Risk Management",
-      "Military Fellowhsip - Technical Project Manager",
-      "Military Fellowship - Consultant - Security Risk Management",
-      "Military Fellowship - ETMS Software Developer",
-      "Military Fellowship - Technical Project Manager",
-      "Sr Client Partner-Sales",
-      "Retail Sales Associate",
-      "Business Sales Account Manager",
-      "Account Manager Retail SMB Business Sales",
-      "Retail Sales Associate - Kiosk",
-      "Retail Sales Associate Spanish Bilingual",
-      "Engineer III Consultant-Data Engineering",
-      "Business Sales Account Manager",
-      "Retail Sales Associate - Kiosk",
-      "Retail Sales Associate",
-      "Retail Sales Associate",
-      "Retail Sales Associate",
-      "Retail Sales Associate",
-      "Retail Sales Associate",
-      "Retail Sales Associate",
-      "Engineer II-Data Engineering",
-      "Retail Sales Associate",
-      "Retail Sales Associate",
-      "Retail Sales Associate",
-      "Retail Sales Associate - Kiosk",
-      "Engineer III Spec-Data Engineering",
-      "Engr II-Data Engineering",
-      "Senior Manager - Data Science",
-      "Principal Engineer-Data Engineering",
-      "Principal Engineer-Data Engineering",
-      "Engr III Spec-Data Engineering",
-      "Senior Engineer Consultant-Data Engineering",
-      "Sr Engr Cslt-Data Science",
-      "Engineer III Specialist-Data Engineering",
-      "Director-Data Engineering",
-      "Senior Engineer Consultant-Data Science",
-      "Senior Engineer Consultant-Data Engineering",
-      "Engineer III Consultant-Data Science",
-      "Principal Engineer-AI Science"
+      {
+        "title": "Thrive Accelerate Up- Supervisor- Call Center Tech Customer Service",
+        "date": "NA"
+      },
+      {
+        "title": "Thrive Accelerate Up- Field Operations Manager",
+        "date": "NA"
+      },
+      {
+        "title": "Thrive Accelerate Up- Field Operations Manager",
+        "date": "NA"
+      },
+      {
+        "title": "Thrive Accelerate Up- Field Operations Manager",
+        "date": "NA"
+      },
+      {
+        "title": "Thrive Accelerate Up- Field Operations Manager",
+        "date": "NA"
+      },
+      {
+        "title": "Thrive Accelerate Up- Field Operations Manager",
+        "date": "NA"
+      },
+      {
+        "title": "Thrive Accelerate Up- Field Operations Manager",
+        "date": "NA"
+      },
+      {
+        "title": "Thrive Accelerate Up- Field Operations Manager",
+        "date": "NA"
+      },
+      {
+        "title": "Thrive Accelerate Up- Field Operations Manager",
+        "date": "NA"
+      },
+      {
+        "title": "Thrive Accelerate Up- Field Operations Manager",
+        "date": "NA"
+      },
+      {
+        "title": "Military Fellowship - IT Service Manager",
+        "date": "NA"
+      },
+      {
+        "title": "Military Fellowship - Network Assurance Engineer",
+        "date": "NA"
+      },
+      {
+        "title": "Military Fellowship - Total Employee Experience Lead Engineer",
+        "date": "NA"
+      },
+      {
+        "title": "Military Fellowship - Offensive Security Engineer",
+        "date": "NA"
+      },
+      {
+        "title": "Military Fellowship - Network Security Engineer",
+        "date": "NA"
+      },
+      {
+        "title": "Military Fellowship - Submarine Cable NOC Engineer",
+        "date": "NA"
+      },
+      {
+        "title": "Military Fellowship - Consultant - Systems Analyst",
+        "date": "NA"
+      },
+      {
+        "title": "Military Fellowship - ETMS Software Developer",
+        "date": "NA"
+      },
+      {
+        "title": "Military Fellowship - Technical Project Manager",
+        "date": "NA"
+      },
+      {
+        "title": "Military Fellowship - Consultant - Security Risk Management",
+        "date": "NA"
+      },
+      {
+        "title": "Military Fellowhsip - Technical Project Manager",
+        "date": "NA"
+      },
+      {
+        "title": "Military Fellowship - Consultant - Security Risk Management",
+        "date": "NA"
+      },
+      {
+        "title": "Military Fellowship - ETMS Software Developer",
+        "date": "NA"
+      },
+      {
+        "title": "Military Fellowship - Technical Project Manager",
+        "date": "NA"
+      },
+      {
+        "title": "Sr Client Partner-Sales",
+        "date": "NA"
+      },
+      {
+        "title": "Retail Sales Associate",
+        "date": "NA"
+      },
+      {
+        "title": "Business Sales Account Manager",
+        "date": "NA"
+      },
+      {
+        "title": "Account Manager Retail SMB Business Sales",
+        "date": "NA"
+      },
+      {
+        "title": "Retail Sales Associate - Kiosk",
+        "date": "NA"
+      },
+      {
+        "title": "Retail Sales Associate Spanish Bilingual",
+        "date": "NA"
+      },
+      {
+        "title": "Engineer III Consultant-Data Engineering",
+        "date": "NA"
+      },
+      {
+        "title": "Business Sales Account Manager",
+        "date": "NA"
+      },
+      {
+        "title": "Retail Sales Associate - Kiosk",
+        "date": "NA"
+      },
+      {
+        "title": "Retail Sales Associate",
+        "date": "NA"
+      },
+      {
+        "title": "Retail Sales Associate",
+        "date": "NA"
+      },
+      {
+        "title": "Retail Sales Associate",
+        "date": "NA"
+      },
+      {
+        "title": "Retail Sales Associate",
+        "date": "NA"
+      },
+      {
+        "title": "Retail Sales Associate",
+        "date": "NA"
+      },
+      {
+        "title": "Retail Sales Associate",
+        "date": "NA"
+      },
+      {
+        "title": "Engineer II-Data Engineering",
+        "date": "NA"
+      },
+      {
+        "title": "Retail Sales Associate",
+        "date": "NA"
+      },
+      {
+        "title": "Retail Sales Associate",
+        "date": "NA"
+      },
+      {
+        "title": "Retail Sales Associate",
+        "date": "NA"
+      },
+      {
+        "title": "Retail Sales Associate - Kiosk",
+        "date": "NA"
+      },
+      {
+        "title": "Engineer III Spec-Data Engineering",
+        "date": "NA"
+      },
+      {
+        "title": "Engr II-Data Engineering",
+        "date": "NA"
+      },
+      {
+        "title": "Senior Manager - Data Science",
+        "date": "NA"
+      },
+      {
+        "title": "Principal Engineer-Data Engineering",
+        "date": "NA"
+      },
+      {
+        "title": "Principal Engineer-Data Engineering",
+        "date": "NA"
+      },
+      {
+        "title": "Engr III Spec-Data Engineering",
+        "date": "NA"
+      },
+      {
+        "title": "Senior Engineer Consultant-Data Engineering",
+        "date": "NA"
+      },
+      {
+        "title": "Sr Engr Cslt-Data Science",
+        "date": "NA"
+      },
+      {
+        "title": "Engineer III Specialist-Data Engineering",
+        "date": "NA"
+      },
+      {
+        "title": "Director-Data Engineering",
+        "date": "NA"
+      },
+      {
+        "title": "Senior Engineer Consultant-Data Science",
+        "date": "NA"
+      },
+      {
+        "title": "Senior Engineer Consultant-Data Engineering",
+        "date": "NA"
+      },
+      {
+        "title": "Engineer III Consultant-Data Science",
+        "date": "NA"
+      },
+      {
+        "title": "Principal Engineer-AI Science",
+        "date": "NA"
+      }
     ],
     "Notion": [
-      "Software Engineer, AI Intern (Fall 2025)"
+      {
+        "title": "Software Engineer, AI Intern (Fall 2025)",
+        "date": "NA"
+      }
     ],
     "JP Morgan Chase": [
-      "2025 Code For Good - Singapore",
-      "2026 Software Engineer Program_Summer Analyst (Singapore)",
-      "2025 Austria Working Student Program \u2013 EMEA Emerging Talent Work Experience Program (all gender)"
+      {
+        "title": "2025 Code For Good - Singapore",
+        "date": "NA"
+      },
+      {
+        "title": "2026 Software Engineer Program_Summer Analyst (Singapore)",
+        "date": "NA"
+      },
+      {
+        "title": "2025 Austria Working Student Program \u2013 EMEA Emerging Talent Work Experience Program (all gender)",
+        "date": "NA"
+      }
     ],
     "Genesis Therapeutics": [
-      "ML Research Intern, BS/MS - 2026",
-      "ML Research Intern, PhD - 2026"
+      {
+        "title": "ML Research Intern, BS/MS - 2026",
+        "date": "NA"
+      },
+      {
+        "title": "ML Research Intern, PhD - 2026",
+        "date": "NA"
+      }
     ],
     "Duolingo": [],
     "Scale AI": [
-      "Human Frontier Collective Specialist - GenAI",
-      "Sales Development Intern",
-      "Sales Development Intern"
+      {
+        "title": "Human Frontier Collective Specialist - GenAI",
+        "date": "NA"
+      },
+      {
+        "title": "Sales Development Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Sales Development Intern",
+        "date": "NA"
+      }
     ],
     "Coinbase": [
-      "Coordinator, Workplace Operations",
-      "CX WFM Capacity Planning Specialist",
-      "Offensive Security Engineer, Offensive Security",
-      "Senior Complaints Analyst",
-      "Software Engineer, Emerging Talent",
-      "Software Engineer, Emerging Talent",
-      "Software Engineer, Emerging Talent",
-      "Software Engineer, Emerging Talent"
+      {
+        "title": "Coordinator, Workplace Operations",
+        "date": "NA"
+      },
+      {
+        "title": "CX WFM Capacity Planning Specialist",
+        "date": "NA"
+      },
+      {
+        "title": "Offensive Security Engineer, Offensive Security",
+        "date": "NA"
+      },
+      {
+        "title": "Senior Complaints Analyst",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer, Emerging Talent",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer, Emerging Talent",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer, Emerging Talent",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer, Emerging Talent",
+        "date": "NA"
+      }
     ],
     "Disney": [
-      "Infrastructure Services Intern, Fall 2025",
-      "Risk Management Intern, Fall 2025"
+      {
+        "title": "Infrastructure Services Intern, Fall 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Risk Management Intern, Fall 2025",
+        "date": "NA"
+      }
     ],
     "Goldman Sachs": [
-      "2026 Summer Analyst Program",
-      "Goldman Sachs Market Madness: HBCU Possibilities Program",
-      "Emerging Leaders Series",
-      "Virtual Insight Series",
-      "Goldman Sachs Possibilities Summits",
-      "Experienced Professional Hiring"
+      {
+        "title": "2026 Summer Analyst Program",
+        "date": "NA"
+      },
+      {
+        "title": "Goldman Sachs Market Madness: HBCU Possibilities Program",
+        "date": "NA"
+      },
+      {
+        "title": "Emerging Leaders Series",
+        "date": "NA"
+      },
+      {
+        "title": "Virtual Insight Series",
+        "date": "NA"
+      },
+      {
+        "title": "Goldman Sachs Possibilities Summits",
+        "date": "NA"
+      },
+      {
+        "title": "Experienced Professional Hiring",
+        "date": "NA"
+      }
     ],
     "Beli": [
-      "Senior Product Manager, Growth",
-      "Software Engineer",
-      "Resume Drop for Future Roles"
+      {
+        "title": "Senior Product Manager, Growth",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer",
+        "date": "NA"
+      },
+      {
+        "title": "Resume Drop for Future Roles",
+        "date": "NA"
+      }
     ],
     "Raytheon": [],
     "Relativity": [
-      "Additive Manufacturing Modeling & Simulation Intern - Fall 2025",
-      "Propulsion Integration Engineer InternNew",
-      "Vehicle Structures Engineer Intern - Fall 2025"
+      {
+        "title": "Additive Manufacturing Modeling & Simulation Intern - Fall 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Propulsion Integration Engineer InternNew",
+        "date": "NA"
+      },
+      {
+        "title": "Vehicle Structures Engineer Intern - Fall 2025",
+        "date": "NA"
+      }
     ],
     "Leidos": [
-      "Business Development Intern",
-      "Electronics Technician Co-op"
+      {
+        "title": "Business Development Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Electronics Technician Co-op",
+        "date": "NA"
+      }
     ],
     "Radix Trading": [
-      "Quantitative Researcher (Full-Time - Master\u2019s/Bachelor\u2019s)",
-      "Quantitative Researcher (Full-Time - PhD+)",
-      "Quantitative Technologist (Full-Time - DevOps)",
-      "Quantitative Technologist (Full-Time - DevOps - Night Shift)",
-      "2025 Quantitative Technologist - Systems and Infrastructure (Full-Time)",
-      "Quantitative Technologist (Full-Time - FPGA Engineer, PhD)",
-      "Quantitative Technologist (C++ Intern - Summer 2026)",
-      "Quantitative Technologist (Full-Time - C++ Developer)"
+      {
+        "title": "Quantitative Researcher (Full-Time - Master\u2019s/Bachelor\u2019s)",
+        "date": "NA"
+      },
+      {
+        "title": "Quantitative Researcher (Full-Time - PhD+)",
+        "date": "NA"
+      },
+      {
+        "title": "Quantitative Technologist (Full-Time - DevOps)",
+        "date": "NA"
+      },
+      {
+        "title": "Quantitative Technologist (Full-Time - DevOps - Night Shift)",
+        "date": "NA"
+      },
+      {
+        "title": "2025 Quantitative Technologist - Systems and Infrastructure (Full-Time)",
+        "date": "NA"
+      },
+      {
+        "title": "Quantitative Technologist (Full-Time - FPGA Engineer, PhD)",
+        "date": "NA"
+      },
+      {
+        "title": "Quantitative Technologist (C++ Intern - Summer 2026)",
+        "date": "NA"
+      },
+      {
+        "title": "Quantitative Technologist (Full-Time - C++ Developer)",
+        "date": "NA"
+      }
     ],
     "Razer": [
-      "Software (Cloud) Intern",
-      "Merchant Operation Support - Intern",
-      "Merchant Operation Support - Intern",
-      "Software Testing Intern",
-      "Software Testing Intern",
-      "Product Development (Intern)",
-      "Software Engineer Intern",
-      "Technical & Customer Service- Intern",
-      "Software (Development) Intern",
-      "Product Management Intern",
-      "Product Development (Intern)",
-      "Product Development (Intern)",
-      "Product UAT Test Writer & Test Coordinator (Intern)",
-      "Finance Intern",
-      "Data Analyst Intern",
-      "Product Development Intern",
-      "Intern, Sales Support & Operations",
-      "Business Management Intern",
-      "Software Engineer - Intern",
-      "Data Engineer (Intern)",
-      "Regional Marketing Intern"
+      {
+        "title": "Software (Cloud) Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Merchant Operation Support - Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Merchant Operation Support - Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Software Testing Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Software Testing Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Product Development (Intern)",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Technical & Customer Service- Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Software (Development) Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Product Management Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Product Development (Intern)",
+        "date": "NA"
+      },
+      {
+        "title": "Product Development (Intern)",
+        "date": "NA"
+      },
+      {
+        "title": "Product UAT Test Writer & Test Coordinator (Intern)",
+        "date": "NA"
+      },
+      {
+        "title": "Finance Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Data Analyst Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Product Development Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Intern, Sales Support & Operations",
+        "date": "NA"
+      },
+      {
+        "title": "Business Management Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer - Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Data Engineer (Intern)",
+        "date": "NA"
+      },
+      {
+        "title": "Regional Marketing Intern",
+        "date": "NA"
+      }
     ],
     "Qualcomm": [],
     "Docusign": [
-      "Marketing Intern",
-      "Software Engineer Intern (AI)",
-      "Software Engineer Intern (Post-Quantum Cryptography)"
+      {
+        "title": "Marketing Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer Intern (AI)",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer Intern (Post-Quantum Cryptography)",
+        "date": "NA"
+      }
     ],
     "Konrad": [],
     "Tencent": [
-      "IT Engineer Intern 105661",
-      "Procurement Intern 105209",
-      "Global Talent Sourcing Intern 105631",
-      "Global Talent Sourcing Intern 105630",
-      "Game Research & Development Intern, Engine Research 105487",
-      "Applied Machine Learning Intern 105214"
+      {
+        "title": "IT Engineer Intern 105661",
+        "date": "NA"
+      },
+      {
+        "title": "Procurement Intern 105209",
+        "date": "NA"
+      },
+      {
+        "title": "Global Talent Sourcing Intern 105631",
+        "date": "NA"
+      },
+      {
+        "title": "Global Talent Sourcing Intern 105630",
+        "date": "NA"
+      },
+      {
+        "title": "Game Research & Development Intern, Engine Research 105487",
+        "date": "NA"
+      },
+      {
+        "title": "Applied Machine Learning Intern 105214",
+        "date": "NA"
+      }
     ],
     "Point72": [
-      "Quantitative Research Intern (NLP)",
-      "2025 Warsaw Market Intelligence \u2013 Platform Software Engineer Internship",
-      "Quantitative Research Intern",
-      "2026 Point72 Academy Investment Analyst Summer Internship Program - Japan",
-      "2026 Point72 Academy Investment Analyst Summer Internship Program - Singapore",
-      "2026 Point72 Academy Investment Analyst Summer Internship Program - Hong Kong",
-      "2026 Point72 Academy Investment Analyst Summer Internship Program - US",
-      "Quantitative Alpha Researcher Intern",
-      "Quantitative Researcher - Intern",
-      "Quantitative Researcher Intern"
+      {
+        "title": "Quantitative Research Intern (NLP)",
+        "date": "NA"
+      },
+      {
+        "title": "2025 Warsaw Market Intelligence \u2013 Platform Software Engineer Internship",
+        "date": "NA"
+      },
+      {
+        "title": "Quantitative Research Intern",
+        "date": "NA"
+      },
+      {
+        "title": "2026 Point72 Academy Investment Analyst Summer Internship Program - Japan",
+        "date": "NA"
+      },
+      {
+        "title": "2026 Point72 Academy Investment Analyst Summer Internship Program - Singapore",
+        "date": "NA"
+      },
+      {
+        "title": "2026 Point72 Academy Investment Analyst Summer Internship Program - Hong Kong",
+        "date": "NA"
+      },
+      {
+        "title": "2026 Point72 Academy Investment Analyst Summer Internship Program - US",
+        "date": "NA"
+      },
+      {
+        "title": "Quantitative Alpha Researcher Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Quantitative Researcher - Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Quantitative Researcher Intern",
+        "date": "NA"
+      }
     ],
     "Comcast": [],
     "HP": [
-      "Industrial Engineering - Internship",
-      "Printing Systems Engineer Internship",
-      "Data Analyst Internship",
-      "AI Engineer Internship",
-      "Computer Security Research Intern",
-      "Year-round Inside Sales Intern",
-      "Supply Chain Intern",
-      "Business Analyst Intern - EMEA Marketplace",
-      "Business Analyst Intern",
-      "Electrical Engineer Intern",
-      "College Intern - Smart Control Tower System Engineer",
-      "College Intern - 3D Printing Manufacturing"
+      {
+        "title": "Industrial Engineering - Internship",
+        "date": "NA"
+      },
+      {
+        "title": "Printing Systems Engineer Internship",
+        "date": "NA"
+      },
+      {
+        "title": "Data Analyst Internship",
+        "date": "NA"
+      },
+      {
+        "title": "AI Engineer Internship",
+        "date": "NA"
+      },
+      {
+        "title": "Computer Security Research Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Year-round Inside Sales Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Supply Chain Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Business Analyst Intern - EMEA Marketplace",
+        "date": "NA"
+      },
+      {
+        "title": "Business Analyst Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Electrical Engineer Intern",
+        "date": "NA"
+      },
+      {
+        "title": "College Intern - Smart Control Tower System Engineer",
+        "date": "NA"
+      },
+      {
+        "title": "College Intern - 3D Printing Manufacturing",
+        "date": "7/8/2025"
+      }
     ],
     "Sentry": [],
     "Skydio": [
-      "Middleware Software Intern - Fall 2025"
+      {
+        "title": "Middleware Software Intern - Fall 2025",
+        "date": "NA"
+      }
     ],
     "Sony": [
-      "Legal Intern",
-      "AI/ML Computer Vision Research Intern",
-      "Research Intern, Vision Foundation Model and Generative AI",
-      "AI/ML Computer Graphics and Robotics for 3D Animation Research Intern",
-      "Research Intern on Generative AI for Content Creation",
-      "Junior Business Analyst, EUSP",
-      "Intern, Desktop Support IT",
-      "Intern, Desktop Support IT",
-      "Software Engineer Intern",
-      "Research Intern for Deep Generative Modeling",
-      "Research Intern \u2013 Vision Foundation Model & GenAI",
-      "Intern - UI/UX Researcher \u2013 Human Factor Engineer",
-      "Stage - Assistant(e) communication marketing"
+      {
+        "title": "Legal Intern",
+        "date": "NA"
+      },
+      {
+        "title": "AI/ML Computer Vision Research Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Research Intern, Vision Foundation Model and Generative AI",
+        "date": "NA"
+      },
+      {
+        "title": "AI/ML Computer Graphics and Robotics for 3D Animation Research Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Research Intern on Generative AI for Content Creation",
+        "date": "NA"
+      },
+      {
+        "title": "Junior Business Analyst, EUSP",
+        "date": "NA"
+      },
+      {
+        "title": "Intern, Desktop Support IT",
+        "date": "NA"
+      },
+      {
+        "title": "Intern, Desktop Support IT",
+        "date": "NA"
+      },
+      {
+        "title": "Software Engineer Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Research Intern for Deep Generative Modeling",
+        "date": "NA"
+      },
+      {
+        "title": "Research Intern \u2013 Vision Foundation Model & GenAI",
+        "date": "NA"
+      },
+      {
+        "title": "Intern - UI/UX Researcher \u2013 Human Factor Engineer",
+        "date": "NA"
+      },
+      {
+        "title": "Stage - Assistant(e) communication marketing",
+        "date": "NA"
+      }
     ],
     "UKG": [
-      "Software Engineering Internship - Fall 2025"
+      {
+        "title": "Software Engineering Internship - Fall 2025",
+        "date": "NA"
+      }
     ],
     "Target": [
-      "Current Interns Only - UX Designer - Summer 2025",
-      "Current Interns Only Arrows for 2026",
-      "Inventory Analyst- Hybrid - Minneapolis, MN - (Starting September, 2025)"
+      {
+        "title": "Current Interns Only - UX Designer - Summer 2025",
+        "date": "NA"
+      },
+      {
+        "title": "Current Interns Only Arrows for 2026",
+        "date": "NA"
+      },
+      {
+        "title": "Inventory Analyst- Hybrid - Minneapolis, MN - (Starting September, 2025)",
+        "date": "NA"
+      }
     ],
     "Amentum": [
-      "Intern - HR Projects Intern (Summer 2025)",
-      "Intern - HR Projects Intern (Summer 2025)",
-      "Geochemist Intern",
-      "Intern \u2013 Financial/Budget Analyst 1",
-      "Intern \u2013 Financial/Budget Analyst 1",
-      "Construction Intern Fall 2025 - Scoville, ID",
-      "Engineering Intern Fall 2025 - Scoville, ID",
-      "Construction Intern Summer 2025 - Scoville, ID",
-      "Intern - Project Support (Summer)",
-      "Telecom Summer Intern-Project Support",
-      "Supervising Architect I",
-      "Project Engineer - Countermeasures"
+      {
+        "title": "Intern - HR Projects Intern (Summer 2025)",
+        "date": "NA"
+      },
+      {
+        "title": "Intern - HR Projects Intern (Summer 2025)",
+        "date": "NA"
+      },
+      {
+        "title": "Geochemist Intern",
+        "date": "NA"
+      },
+      {
+        "title": "Intern \u2013 Financial/Budget Analyst 1",
+        "date": "NA"
+      },
+      {
+        "title": "Intern \u2013 Financial/Budget Analyst 1",
+        "date": "NA"
+      },
+      {
+        "title": "Construction Intern Fall 2025 - Scoville, ID",
+        "date": "NA"
+      },
+      {
+        "title": "Engineering Intern Fall 2025 - Scoville, ID",
+        "date": "NA"
+      },
+      {
+        "title": "Construction Intern Summer 2025 - Scoville, ID",
+        "date": "NA"
+      },
+      {
+        "title": "Intern - Project Support (Summer)",
+        "date": "NA"
+      },
+      {
+        "title": "Telecom Summer Intern-Project Support",
+        "date": "NA"
+      },
+      {
+        "title": "Supervising Architect I",
+        "date": "NA"
+      },
+      {
+        "title": "Project Engineer - Countermeasures",
+        "date": "NA"
+      }
     ],
     "Boeing": [
-      "SW Engineer Internship - Robotics",
-      "SW Engineering Internship - Cloud Systems",
-      "Digital Research Intern"
+      {
+        "title": "SW Engineer Internship - Robotics",
+        "date": "NA"
+      },
+      {
+        "title": "SW Engineering Internship - Cloud Systems",
+        "date": "NA"
+      },
+      {
+        "title": "Digital Research Intern",
+        "date": "NA"
+      }
     ],
     "DRW": []
   }
