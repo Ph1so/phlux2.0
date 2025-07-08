@@ -156,17 +156,15 @@ Easily track jobs across top tech companies.
 
 ---
 
-<a style="font-family: Inconsolata, monospace;" name="amd"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idnN8KdbKa/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028516162bfumLaCV7mMiqx5ySz" alt="AMD logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>AMD</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(33 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="amd"></a>
+    <img src="https://cdn.brandfetch.io/idnN8KdbKa/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028516162bfumLaCV7mMiqx5ySz" alt="AMD logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>AMD</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(33 roles)</sub>
+</div>
 - Machine Learning / Artificial Intelligence Intern/Co-Op (PhD | Fall 2025 | Hybrid)
 - Hardware Engineering Intern/ Co-Op (Undergrad | Fall 2025 | Hybrid)
 - Machine Learning / Artificial Intelligence Intern/Co-Op (Undergraduate | Fall 2025 | Hybrid)
@@ -202,64 +200,56 @@ Easily track jobs across top tech companies.
 - Fall 2025 Undergrad Platform Design Engineering Co-op/Intern
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="aws"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idVoqFQ-78/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028499279bfumLaCV7m1YMUqKKG" alt="AWS logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://amazon.jobs/content/en/teams/amazon-web-services/internships?country%5B%5D=US" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>AWS</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(3 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="aws"></a>
+    <img src="https://cdn.brandfetch.io/idVoqFQ-78/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028499279bfumLaCV7m1YMUqKKG" alt="AWS logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://amazon.jobs/content/en/teams/amazon-web-services/internships?country%5B%5D=US" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>AWS</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(3 roles)</sub>
+</div>
 - Data Center Security Specialist Intern
 - 2025 ASIC Physical Design Engineer Intern, Annapurna Labs
 - ASIC RTL Engineer, Annapurna Labs
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="adobe"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/id_KsyK7J9/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028521791bfumLaCV7mv3AE8zc6" alt="Adobe logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://careers.adobe.com/us/en/search-results?qkexperienceLevel=University%20Intern" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Adobe</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(3 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="adobe"></a>
+    <img src="https://cdn.brandfetch.io/id_KsyK7J9/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028521791bfumLaCV7mv3AE8zc6" alt="Adobe logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://careers.adobe.com/us/en/search-results?qkexperienceLevel=University%20Intern" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Adobe</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(3 roles)</sub>
+</div>
 - 2025 Intern - Software Engineer
 - Working Student - Sales Programs / Project Management
 - Working Student Digital Media Sales
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="airbnb"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idkuvXnjOH/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028504989bfumLaCV7mb6MSMM0r" alt="Airbnb logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://careers.airbnb.com/positions/?_departments=early-career-program-intern&_offices=united-states" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Airbnb</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(2 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="airbnb"></a>
+    <img src="https://cdn.brandfetch.io/idkuvXnjOH/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028504989bfumLaCV7mb6MSMM0r" alt="Airbnb logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://careers.airbnb.com/positions/?_departments=early-career-program-intern&_offices=united-states" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Airbnb</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(2 roles)</sub>
+</div>
 - Legal Intern, Privacy (Fall Semester)
 - Summer 2025 – Data Science Intern, Platform (PhD)
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="amazon"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idawOgYOsG/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028499681bfumLaCV7m8FRgJgbW" alt="Amazon logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=recent&country%5B%5D=USA&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=intern&city=&country=&region=&county=&query_options=&" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Amazon</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(14 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="amazon"></a>
+    <img src="https://cdn.brandfetch.io/idawOgYOsG/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028499681bfumLaCV7m8FRgJgbW" alt="Amazon logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=recent&country%5B%5D=USA&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=intern&city=&country=&region=&county=&query_options=&" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Amazon</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(14 roles)</sub>
+</div>
 - Jr. Software Development Engineer - San Diego, CA
 - Jr. Software Development Engineer - Santa Cruz, CA
 - Jr. Software Development Engineer - Detroit
@@ -276,17 +266,15 @@ Easily track jobs across top tech companies.
 - 2026 Amazon Finance Rotation Program - Accounting Intern
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="amazon-robotics"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idJU2dPbhX/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028515967bfumLaCV7mPEUn1oAC" alt="Amazon Robotics logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://www.amazon.jobs/content/en/teams/ftr/amazon-robotics?country%5B%5D=US&employment-type%5B%5D=Intern" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Amazon Robotics</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(14 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="amazon-robotics"></a>
+    <img src="https://cdn.brandfetch.io/idJU2dPbhX/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028515967bfumLaCV7mPEUn1oAC" alt="Amazon Robotics logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://www.amazon.jobs/content/en/teams/ftr/amazon-robotics?country%5B%5D=US&employment-type%5B%5D=Intern" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Amazon Robotics</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(14 roles)</sub>
+</div>
 - Amazon Robotics - Technical Artist Co-op - July to December 2025, Virtual Systems
 - Amazon Robotics - Product Quality Engineer Co-op- Fall 2025
 - Amazon Robotics- Business Intelligence Engineer Co-op - Fall 2025, Integration, Initiatives, and Sustainability Team
@@ -303,17 +291,15 @@ Easily track jobs across top tech companies.
 - Amazon Robotics - Business Analyst Co-op - Spring or Fall 2025, Global Robotics Delivery
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="amentum"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idvuDkuJ3e/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028533067bfumLaCV7mzdJ2qIhY" alt="Amentum logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://www.amentumcareers.com/jobs/search?page=1&country_codes%5B%5D=US&query=%22Intern%22" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Amentum</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(12 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="amentum"></a>
+    <img src="https://cdn.brandfetch.io/idvuDkuJ3e/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028533067bfumLaCV7mzdJ2qIhY" alt="Amentum logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://www.amentumcareers.com/jobs/search?page=1&country_codes%5B%5D=US&query=%22Intern%22" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Amentum</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(12 roles)</sub>
+</div>
 - Intern - HR Projects Intern (Summer 2025)
 - Intern - HR Projects Intern (Summer 2025)
 - Geochemist Intern
@@ -328,17 +314,15 @@ Easily track jobs across top tech companies.
 - Project Engineer - Countermeasures
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="apple"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idnrCPuv87/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028500316bfumLaCV7mEoBXo6Ra" alt="Apple logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://jobs.apple.com/en-us/search?location=united-states-USA&team=internships-STDNT-INTRN" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Apple</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(13 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="apple"></a>
+    <img src="https://cdn.brandfetch.io/idnrCPuv87/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028500316bfumLaCV7mEoBXo6Ra" alt="Apple logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://jobs.apple.com/en-us/search?location=united-states-USA&team=internships-STDNT-INTRN" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Apple</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(13 roles)</sub>
+</div>
 - Legal and Global Security Internships
 - Product Design, Mechanical Engineering and Materials Internships
 - Hardware Technology Internships
@@ -354,64 +338,56 @@ Easily track jobs across top tech companies.
 - Launch@Apple, Finance Development Experience
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="asana"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idxPi2Evsk/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028521382bfumLaCV7mMNDlINhQ" alt="Asana logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://asana.com/jobs/university-recruiting#jobs" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Asana</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(1 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="asana"></a>
+    <img src="https://cdn.brandfetch.io/idxPi2Evsk/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028521382bfumLaCV7mMNDlINhQ" alt="Asana logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://asana.com/jobs/university-recruiting#jobs" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Asana</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(1 roles)</sub>
+</div>
 - Reykjavik Summer Software Engineering Internship
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="atlassian"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idlQIwGMOK/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028513355bfumLaCV7mnR6ztFlh" alt="Atlassian logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://www.atlassian.com/company/careers/all-jobs?team=Interns&location=&search=" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Atlassian</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(3 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="atlassian"></a>
+    <img src="https://cdn.brandfetch.io/idlQIwGMOK/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028513355bfumLaCV7mnR6ztFlh" alt="Atlassian logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://www.atlassian.com/company/careers/all-jobs?team=Interns&location=&search=" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Atlassian</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(3 roles)</sub>
+</div>
 - UX Researcher, 2025/2026 Intern Australia & New Zealand
 - Machine Learning Engineer, 2025/2026 PHD Intern Australia & New Zealand
 - Machine Learning Engineer, 2025/2026 Intern Australia & New Zealand
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="autodesk"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/id_6bobPbH/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028501598bfumLaCV7mlq-sZN1z" alt="Autodesk logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://autodesk.wd1.myworkdayjobs.com/uni?jobFamilyGroup=f909d7cccc2d480b8f6af996c7bf8352" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Autodesk</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(4 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="autodesk"></a>
+    <img src="https://cdn.brandfetch.io/id_6bobPbH/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028501598bfumLaCV7mlq-sZN1z" alt="Autodesk logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://autodesk.wd1.myworkdayjobs.com/uni?jobFamilyGroup=f909d7cccc2d480b8f6af996c7bf8352" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Autodesk</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(4 roles)</sub>
+</div>
 - Stagiaire Artiste Technique, Technical Artist Intern
 - Intern (PhD), Physics-informed Machine Learning, Fall 2025
 - Intern, Software Developer/ Stagiaire en développement logiciels
 - Intern, Software Developer
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="bank-of-america"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/ide4lTCz-B/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028502059bfumLaCV7mlHhIUIIo" alt="Bank of America logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://careers.bankofamerica.com/en-us/students/job-search?ref=search&rows=24&search=jobsByLocation&searchstring=United+States" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Bank of America</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(25 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="bank-of-america"></a>
+    <img src="https://cdn.brandfetch.io/ide4lTCz-B/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028502059bfumLaCV7mlHhIUIIo" alt="Bank of America logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://careers.bankofamerica.com/en-us/students/job-search?ref=search&rows=24&search=jobsByLocation&searchstring=United+States" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Bank of America</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(25 roles)</sub>
+</div>
 - Global Markets Chief Operating Office Summer Analyst Program - 2026
 - Enterprise Credit Summer Analyst Program 2026 - Consumer Credit
 - Enterprise Credit Summer Analyst Program 2026 - Data and Analytics and Business Controls/Process Optimization
@@ -439,33 +415,29 @@ Easily track jobs across top tech companies.
 - Global Quantitative Data Analytics Summer 2026 Analyst - Global Risk Management
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="beli"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://images.squarespace-cdn.com/content/v1/5d27a2af17e26b0001269fd6/8f86dd75-d05e-41db-a33f-01aa6c7391d4/Beli+Logo_FINAL070423.png" alt="Beli logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://beli.breezy.hr/" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Beli</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(3 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="beli"></a>
+    <img src="https://images.squarespace-cdn.com/content/v1/5d27a2af17e26b0001269fd6/8f86dd75-d05e-41db-a33f-01aa6c7391d4/Beli+Logo_FINAL070423.png" alt="Beli logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://beli.breezy.hr/" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Beli</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(3 roles)</sub>
+</div>
 - Senior Product Manager, Growth
 - Software Engineer
 - Resume Drop for Future Roles
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="blue-origin"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idpaQY98E7/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028502441bfumLaCV7m6ygtchpc" alt="Blue Origin logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://www.blueorigin.com/careers/search?search=undergraduate&category=Intern&employmentType=Intern" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Blue Origin</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(11 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="blue-origin"></a>
+    <img src="https://cdn.brandfetch.io/idpaQY98E7/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028502441bfumLaCV7m6ygtchpc" alt="Blue Origin logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://www.blueorigin.com/careers/search?search=undergraduate&category=Intern&employmentType=Intern" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Blue Origin</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(11 roles)</sub>
+</div>
 - Spring 2026 STEAM Communications & Outreach Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52713
 - Spring 2026 Finance Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52715
 - Spring 2026 Guidance, Navigation & Controls Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52503
@@ -479,33 +451,29 @@ Easily track jobs across top tech companies.
 - Spring 2026 Fluid Systems Engineering Intern - Undergraduate - Seattle, WA - Intern - Full Time - Intern - R52406
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="boeing"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idNLUN4t9U/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028533424bfumLaCV7mrK6g4AQj" alt="Boeing logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://jobs.boeing.com/category/internship-jobs/185/9287/1" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Boeing</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(3 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="boeing"></a>
+    <img src="https://cdn.brandfetch.io/idNLUN4t9U/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028533424bfumLaCV7mrK6g4AQj" alt="Boeing logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://jobs.boeing.com/category/internship-jobs/185/9287/1" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Boeing</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(3 roles)</sub>
+</div>
 - SW Engineer Internship - Robotics
 - SW Engineering Internship - Cloud Systems
 - Digital Research Intern
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="boston-dynamics"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idtu7CFTG5/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028525852bfumLaCV7mslwWZHYp" alt="Boston Dynamics logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://bostondynamics.com/careers/#jobs" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Boston Dynamics</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(14 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="boston-dynamics"></a>
+    <img src="https://cdn.brandfetch.io/idtu7CFTG5/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028525852bfumLaCV7mslwWZHYp" alt="Boston Dynamics logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://bostondynamics.com/careers/#jobs" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Boston Dynamics</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(14 roles)</sub>
+</div>
 - Senior Supervisor, Field Applications Engineering
 - Electrical Engineer
 - Sales Logistics Coordinator
@@ -522,31 +490,27 @@ Easily track jobs across top tech companies.
 - Software Engineer
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="boston-scientific"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idReCDTTz1/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028522885bfumLaCV7m7VEtUlkF" alt="Boston Scientific logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://bostonscientific.eightfold.ai/careers?start=0&location=United+States&pid=563602797912246&sort_by=distance&filter_include_remote=1&filter_seniority=Intern" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Boston Scientific</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(1 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="boston-scientific"></a>
+    <img src="https://cdn.brandfetch.io/idReCDTTz1/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028522885bfumLaCV7m7VEtUlkF" alt="Boston Scientific logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://bostonscientific.eightfold.ai/careers?start=0&location=United+States&pid=563602797912246&sort_by=distance&filter_include_remote=1&filter_seniority=Intern" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Boston Scientific</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(1 roles)</sub>
+</div>
 - Cardiac Monitoring Technician - Internship/Apprenticeship
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="bytedance"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idpvLdHQW7/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028518932bfumLaCV7mJjzA06QY" alt="ByteDance logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://jobs.bytedance.com/en/position?keywords=&category=&location=CT_1103355%2CCT_157%2CCT_94%2CCT_114%2CCT_100764%2CCT_75%2CCT_233%2CCT_203&project=7322364514224687370%2C7503447747358361864&type=3&job_hot_flag=&current=1&limit=10&functionCategory=&tag=" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>ByteDance</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(12 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="bytedance"></a>
+    <img src="https://cdn.brandfetch.io/idpvLdHQW7/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028518932bfumLaCV7mJjzA06QY" alt="ByteDance logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://jobs.bytedance.com/en/position?keywords=&category=&location=CT_1103355%2CCT_157%2CCT_94%2CCT_114%2CCT_100764%2CCT_75%2CCT_233%2CCT_203&project=7322364514224687370%2C7503447747358361864&type=3&job_hot_flag=&current=1&limit=10&functionCategory=&tag=" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>ByteDance</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(12 roles)</sub>
+</div>
 - Strategic Analysis Intern (AI Innovation Business - US) - 2025 Start (BS/MS)
 - Site Reliability Engineer Intern (Data-Technical Infrastructures-SRE-US) - 2025 Summer (MS)
 - Software Engineer Intern (AIGC Platform - Monetization GenAI) - 2025 Summer/Fall (BS/MS)
@@ -561,17 +525,15 @@ Easily track jobs across top tech companies.
 - Backend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Seller Business)- 2025 Fall(BS/MS)
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="capital-one"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idYFfMZte4/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028524657bfumLaCV7mugTnzkHM" alt="Capital One logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://www.capitalonecareers.com/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.Campus%22,%22value%22:%22Internships%22%7D]" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Capital One</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(33 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="capital-one"></a>
+    <img src="https://cdn.brandfetch.io/idYFfMZte4/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028524657bfumLaCV7mugTnzkHM" alt="Capital One logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://www.capitalonecareers.com/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.Campus%22,%22value%22:%22Internships%22%7D]" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Capital One</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(33 roles)</sub>
+</div>
 - Café Coach- Boulder
 - Inside Sales Coach
 - Cafe Coach- Easton Town Center
@@ -607,34 +569,30 @@ Easily track jobs across top tech companies.
 - Manager (Counsel): Commercial Bank - Corporate Lending
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="cisco"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/ida_xaMYlM/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028505359bfumLaCV7mV4yVpP13" alt="Cisco logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B169482%5D&21178_format=6020&21180=%5B33821095%2C165%5D&21180_format=6022&listFilterMode=1" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Cisco</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(4 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="cisco"></a>
+    <img src="https://cdn.brandfetch.io/ida_xaMYlM/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028505359bfumLaCV7mV4yVpP13" alt="Cisco logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://jobs.cisco.com/jobs/SearchJobs/?21178=%5B169482%5D&21178_format=6020&21180=%5B33821095%2C165%5D&21180_format=6022&listFilterMode=1" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Cisco</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(4 roles)</sub>
+</div>
 - AI Research Scientist II (Intern) United States
 - Software Engineer I (Intern) United States
 - Network Support Engineer, Fall 2025 (Meraki)
 - Mechanical Engineer (Intern) United States
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="citadel"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idVrQYaF_a/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028504644bfumLaCV7moC2ZUd_l" alt="Citadel logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://www.citadel.com/careers/open-opportunities?experience-filter=internships&location-filter=americas,chicago,greenwich,houston,miami,new-york&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Citadel</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(6 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="citadel"></a>
+    <img src="https://cdn.brandfetch.io/idVrQYaF_a/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028504644bfumLaCV7moC2ZUd_l" alt="Citadel logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://www.citadel.com/careers/open-opportunities?experience-filter=internships&location-filter=americas,chicago,greenwich,houston,miami,new-york&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Citadel</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(6 roles)</sub>
+</div>
 - Quantitative Researcher – PhD Intern (US)
 - Quantitative Research Analyst Intern – BS/MS (US)
 - Quantitative Research Engineer – PhD Intern (US)
@@ -643,32 +601,28 @@ Easily track jobs across top tech companies.
 - Investment & Trading – Intern (US)
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="cohere"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idfDTLvPCK/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028513642bfumLaCV7m6DOxXAnJ" alt="Cohere logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://jobs.ashbyhq.com/cohere?employmentType=Intern" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Cohere</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(2 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="cohere"></a>
+    <img src="https://cdn.brandfetch.io/idfDTLvPCK/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028513642bfumLaCV7m6DOxXAnJ" alt="Cohere logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://jobs.ashbyhq.com/cohere?employmentType=Intern" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Cohere</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(2 roles)</sub>
+</div>
 - Machine Learning Intern/Co-op (Fall 2025)
 - Software Engineer Intern/Co-op (Fall 2025)
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="coinbase"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idwDWo4ONQ/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028528734bfumLaCV7mvItJ6X-r" alt="Coinbase logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://www.coinbase.com/careers/positions?department=Internships%2520%2526%2520Emerging%2520Talent%2520Positions" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Coinbase</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(8 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="coinbase"></a>
+    <img src="https://cdn.brandfetch.io/idwDWo4ONQ/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028528734bfumLaCV7mvItJ6X-r" alt="Coinbase logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://www.coinbase.com/careers/positions?department=Internships%2520%2526%2520Emerging%2520Talent%2520Positions" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Coinbase</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(8 roles)</sub>
+</div>
 - Coordinator, Workplace Operations
 - CX WFM Capacity Planning Specialist
 - Offensive Security Engineer, Offensive Security
@@ -679,65 +633,57 @@ Easily track jobs across top tech companies.
 - Software Engineer, Emerging Talent
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="de-shaws"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                
-                <a href="https://www.deshaw.com/careers/internships" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>DE Shaws</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(4 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="de-shaws"></a>
+    
+    <a href="https://www.deshaw.com/careers/internships" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>DE Shaws</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(4 roles)</sub>
+</div>
 - Fundamental Research Analyst Intern (New York) - Summer 2026
 - Trader/Analyst Intern (London) – Summer 2026
 - Investor Relations Intern (London) – Summer 2026
 - Legal & Compliance Intern (New York) – Summer 2026
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="dassault-systems"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                
-                <a href="https://www.3ds.com/careers/jobs?woc=%257B%2522type%2522%253A%255B%2522type%252FInternship%2522%255D%252C%2522country%2522%253A%255B%2522country%252FUnited%2520States%2522%255D%257D" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Dassault Systems</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(4 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="dassault-systems"></a>
+    
+    <a href="https://www.3ds.com/careers/jobs?woc=%257B%2522type%2522%253A%255B%2522type%252FInternship%2522%255D%252C%2522country%2522%253A%255B%2522country%252FUnited%2520States%2522%255D%257D" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Dassault Systems</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(4 roles)</sub>
+</div>
 - INTERNSHIP - Software Engineer
 - INTERNSHIP: User Assistance Development - FALL 2025
 - INTERNSHIP - ENOVIA Software Test Automation Engineer
 - INTERNSHIP: Business Development
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="databricks"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idSUrLOWbH/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028521967bfumLaCV7mzEfA0htB" alt="Databricks logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://www.databricks.com/company/careers/open-positions?department=University%20Recruiting&location=all" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Databricks</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(1 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="databricks"></a>
+    <img src="https://cdn.brandfetch.io/idSUrLOWbH/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028521967bfumLaCV7mzEfA0htB" alt="Databricks logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://www.databricks.com/company/careers/open-positions?department=University%20Recruiting&location=all" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Databricks</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(1 roles)</sub>
+</div>
 - PhD GenAI Research Scientist Intern - San Francisco, California
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="datadog"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idg33VVWFZ/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028514007bfumLaCV7mUqJe504_" alt="Datadog logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://careers.datadoghq.com/early-careers/" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Datadog</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(15 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="datadog"></a>
+    <img src="https://cdn.brandfetch.io/idg33VVWFZ/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028514007bfumLaCV7mUqJe504_" alt="Datadog logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://careers.datadoghq.com/early-careers/" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Datadog</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(15 roles)</sub>
+</div>
 - Software Engineer - Early Career
 - Sales Development Representative Middle East
 - Sales Development Representative (Benelux)
@@ -755,110 +701,96 @@ Easily track jobs across top tech companies.
 - Sales Development Representative (France)
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="disney"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idhb6W5swq/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028528925bfumLaCV7mQihtGPfo" alt="Disney logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Disney</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(2 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="disney"></a>
+    <img src="https://cdn.brandfetch.io/idhb6W5swq/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028528925bfumLaCV7mQihtGPfo" alt="Disney logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Disney</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(2 roles)</sub>
+</div>
 - Infrastructure Services Intern, Fall 2025
 - Risk Management Intern, Fall 2025
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="docusign"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idZbuqxRqz/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028530642bfumLaCV7mAFpv0wky" alt="Docusign logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://careers.docusign.com/jobs?tags1=Intern&limit=100&page=1" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Docusign</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(3 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="docusign"></a>
+    <img src="https://cdn.brandfetch.io/idZbuqxRqz/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028530642bfumLaCV7mAFpv0wky" alt="Docusign logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://careers.docusign.com/jobs?tags1=Intern&limit=100&page=1" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Docusign</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(3 roles)</sub>
+</div>
 - Marketing Intern
 - Software Engineer Intern (AI)
 - Software Engineer Intern (Post-Quantum Cryptography)
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="doordash"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idrVhdDocf/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028514222bfumLaCV7mh5nxzVQs" alt="Doordash logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://careersatdoordash.com/university-careers/" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Doordash</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(4 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="doordash"></a>
+    <img src="https://cdn.brandfetch.io/idrVhdDocf/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028514222bfumLaCV7mh5nxzVQs" alt="Doordash logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://careersatdoordash.com/university-careers/" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Doordash</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(4 roles)</sub>
+</div>
 - Software Engineer I, Entry-Level (Graduation Date: Fall 2024-Summer 2025)
 - Software Engineer I, Entry Level (Fall 2024-Spring 2025) – Toronto
 - Machine Learning Intern (Masters/PhD), Summer 2025
 - Software Engineer, Intern, 2024/25 (University Recruiting)
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="ea"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idT4nN4-os/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028517607bfumLaCV7mDcPmy1_t" alt="EA logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://jobs.ea.com/en_US/careers/Home/?8171=%5B10618%5D&8171_format=5683&4537=%5B8693%5D&4537_format=3020&listFilterMode=1&jobRecordsPerPage=20&" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>EA</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(3 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="ea"></a>
+    <img src="https://cdn.brandfetch.io/idT4nN4-os/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028517607bfumLaCV7mDcPmy1_t" alt="EA logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://jobs.ea.com/en_US/careers/Home/?8171=%5B10618%5D&8171_format=5683&4537=%5B8693%5D&4537_format=3020&listFilterMode=1&jobRecordsPerPage=20&" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>EA</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(3 roles)</sub>
+</div>
 - Gameplay Software Engineer Intern - Fall 2025
 - Software Engineer Intern
 - Systems Software Engineer Intern - Fall 2025
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="expedia"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idF_o8slu-/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028518365bfumLaCV7m_gNYH9ie" alt="Expedia logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://careers.expediagroup.com/jobs/?keyword=emerging+talent+and+careers&&filter[category]=Technology" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Expedia</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(1 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="expedia"></a>
+    <img src="https://cdn.brandfetch.io/idF_o8slu-/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028518365bfumLaCV7m_gNYH9ie" alt="Expedia logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://careers.expediagroup.com/jobs/?keyword=emerging+talent+and+careers&&filter[category]=Technology" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Expedia</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(1 roles)</sub>
+</div>
 - EGGP - Software Development Engineer I
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="genesis-therapeutics"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idXNv6cO44/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028528183bfumLaCV7mg7qltc4L" alt="Genesis Therapeutics logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://jobs.lever.co/genesistherapeutics?commitment=Internship" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Genesis Therapeutics</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(2 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="genesis-therapeutics"></a>
+    <img src="https://cdn.brandfetch.io/idXNv6cO44/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028528183bfumLaCV7mg7qltc4L" alt="Genesis Therapeutics logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://jobs.lever.co/genesistherapeutics?commitment=Internship" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Genesis Therapeutics</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(2 roles)</sub>
+</div>
 - ML Research Intern, BS/MS - 2026
 - ML Research Intern, PhD - 2026
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="github"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idZAyF9rlg/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028525522bfumLaCV7mHr1rFeiK" alt="Github logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://www.github.careers/careers-home/jobs?view=search&limit=100&page=1" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Github</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(26 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="github"></a>
+    <img src="https://cdn.brandfetch.io/idZAyF9rlg/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028525522bfumLaCV7mHr1rFeiK" alt="Github logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://www.github.careers/careers-home/jobs?view=search&limit=100&page=1" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Github</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(26 roles)</sub>
+</div>
 - Senior Software Engineer, Supply Chain Security
 - Solutions Engineer III
 - SMB Account Executive - EMEA
@@ -887,17 +819,15 @@ Easily track jobs across top tech companies.
 - Staff Software Engineer
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="goldman-sachs"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/id7L59h6d0/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028529201bfumLaCV7mwTtTppuR" alt="Goldman Sachs logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://www.goldmansachs.com/careers/students/programs-and-internships?1=gscom%3Aprogram-region-careers%2Famericas" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Goldman Sachs</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(6 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="goldman-sachs"></a>
+    <img src="https://cdn.brandfetch.io/id7L59h6d0/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028529201bfumLaCV7mwTtTppuR" alt="Goldman Sachs logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://www.goldmansachs.com/careers/students/programs-and-internships?1=gscom%3Aprogram-region-careers%2Famericas" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Goldman Sachs</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(6 roles)</sub>
+</div>
 - 2026 Summer Analyst Program
 - Goldman Sachs Market Madness: HBCU Possibilities Program
 - Emerging Leaders Series
@@ -906,17 +836,15 @@ Easily track jobs across top tech companies.
 - Experienced Professional Hiring
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="google"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/id6O2oGzv-/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028498560bfumLaCV7m5aWx7G0V" alt="Google logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://www.google.com/about/careers/applications/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&src=Online%2FGoogle%20Website%2FByF&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&location=United%20States" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Google</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(8 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="google"></a>
+    <img src="https://cdn.brandfetch.io/id6O2oGzv-/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028498560bfumLaCV7m5aWx7G0V" alt="Google logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://www.google.com/about/careers/applications/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&src=Online%2FGoogle%20Website%2FByF&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&location=United%20States" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Google</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(8 roles)</sub>
+</div>
 - Student Researcher, PhD, Winter/Summer 2025
 - Student Researcher, BS/MS, Winter/Summer 2025
 - Student Researcher, BS/MS, Fall 2025
@@ -927,17 +855,15 @@ Easily track jobs across top tech companies.
 - Software Engineer, PhD, Early Career, Campus, Systems and Infrastructure, 2025 Start
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="hp"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idntgPecbn/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028532049bfumLaCV7mmSJkNlCK" alt="HP logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://apply.hp.com/careers?query=internship&Seniority=graduate&Seniority=internship&Seniority=Apprenticeship&domain=hp.com" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>HP</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(11 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="hp"></a>
+    <img src="https://cdn.brandfetch.io/idntgPecbn/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028532049bfumLaCV7mmSJkNlCK" alt="HP logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://apply.hp.com/careers?query=internship&Seniority=graduate&Seniority=internship&Seniority=Apprenticeship&domain=hp.com" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>HP</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(11 roles)</sub>
+</div>
 - Industrial Engineering - Internship
 - Printing Systems Engineer Internship
 - Data Analyst Internship
@@ -951,32 +877,28 @@ Easily track jobs across top tech companies.
 - College Intern - Smart Control Tower System Engineer
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="hudson-river-trading"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/id7aXCgkjv/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028506186bfumLaCV7mumI0b_zw" alt="Hudson River Trading logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://www.hudsonrivertrading.com/careers/?job-type=internship%2C" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Hudson River Trading</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(2 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="hudson-river-trading"></a>
+    <img src="https://cdn.brandfetch.io/id7aXCgkjv/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028506186bfumLaCV7mumI0b_zw" alt="Hudson River Trading logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://www.hudsonrivertrading.com/careers/?job-type=internship%2C" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Hudson River Trading</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(2 roles)</sub>
+</div>
 - Algorithm Development (Quant Research) Internship – Summer 2026
 - Software Engineering Internship – Summer 2026
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="hugging-face"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idGqKHD5xE/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028527182bfumLaCV7mOButuoV0" alt="Hugging Face logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://apply.workable.com/huggingface/?not_found=true#jobs" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Hugging Face</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(11 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="hugging-face"></a>
+    <img src="https://cdn.brandfetch.io/idGqKHD5xE/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028527182bfumLaCV7mOButuoV0" alt="Hugging Face logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://apply.workable.com/huggingface/?not_found=true#jobs" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Hugging Face</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(11 roles)</sub>
+</div>
 - MongoDB Technical Architect - US Remote
 - Developer Advocate Engineer, Hub/Enterprise - US Remote
 - Senior Frontend Engineer - US Remote
@@ -990,47 +912,41 @@ Easily track jobs across top tech companies.
 - Data Technical Architect, MongoDB Expert - US Remote
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="ibm"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idJBjGx6x1/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028500622bfumLaCV7mF9fD5zld" alt="IBM logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>IBM</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(1 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="ibm"></a>
+    <img src="https://cdn.brandfetch.io/idJBjGx6x1/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028500622bfumLaCV7mF9fD5zld" alt="IBM logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>IBM</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(1 roles)</sub>
+</div>
 - Sales - TEST 2A - pre req, net new intern, with coding & video assessments - Internship - Multiple Cities
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="intel"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idTGhLyv09/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028501326bfumLaCV7mlY-jRSW5" alt="Intel logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://intel.wd1.myworkdayjobs.com/External?workerSubType=dc8bf79476611087dfde99931439ae75&locations=1e4a4eb3adf10118b1dfe877bf8162d0" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Intel</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(3 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="intel"></a>
+    <img src="https://cdn.brandfetch.io/idTGhLyv09/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028501326bfumLaCV7mlY-jRSW5" alt="Intel logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://intel.wd1.myworkdayjobs.com/External?workerSubType=dc8bf79476611087dfde99931439ae75&locations=1e4a4eb3adf10118b1dfe877bf8162d0" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Intel</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(3 roles)</sub>
+</div>
 - Facilities Technician Intern
 - Facilities Technician Intern
 - Photonics Research Graduate Intern
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="intuit"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idWrWLZ_I5/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028517123bfumLaCV7mITtbRLdL" alt="Intuit logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://jobs.intuit.com/search-jobs/interns/" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Intuit</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(19 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="intuit"></a>
+    <img src="https://cdn.brandfetch.io/idWrWLZ_I5/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028517123bfumLaCV7mITtbRLdL" alt="Intuit logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://jobs.intuit.com/search-jobs/interns/" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Intuit</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(19 roles)</sub>
+</div>
 - Social Media Co-op (8 Months)
 - Principal Research Scientist
 - Brand and Integrated Marketing Co-op (8 months)
@@ -1052,47 +968,41 @@ Easily track jobs across top tech companies.
 - Brand Marketing Co-Op (8 months)
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="ispace"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/id-4hpaE3W/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028499865bfumLaCV7m-onK5WQL" alt="ispace logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://jobs.lever.co/ispace-inc?commitment=Intern" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>ispace</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(1 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="ispace"></a>
+    <img src="https://cdn.brandfetch.io/id-4hpaE3W/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028499865bfumLaCV7m-onK5WQL" alt="ispace logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://jobs.lever.co/ispace-inc?commitment=Intern" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>ispace</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(1 roles)</sub>
+</div>
 - Market Analyst Intern for ISRU Market Study by Euro2Moon - ON-SITE — INTERNLUXEMBOURG
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="jp-morgan-chase"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                
-                <a href="https://careers.jpmorgan.com/global/en/students/programs/software-engineer-summer->https://careers.jpmorgan.com/global/en/students/programs/data-analytics-opportunities#careers-section7->https://careers.jpmorgan.com/global/en/students/programs/tfsg-hackathons->https://careers.jpmorgan.com/global/en/students/programs/quant-fin-programs->https://careers.jpmorgan.com/global/en/students/programs/design-dev-summer->https://careers.jpmorgan.com/global/en/students/programs/et-experience->https://careers.jpmorgan.com/global/en/students/programs/career-edyou->https://careers.jpmorgan.com/global/en/students/programs/research-technologies-summer-associate-program" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>JP Morgan Chase</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(3 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="jp-morgan-chase"></a>
+    
+    <a href="https://careers.jpmorgan.com/global/en/students/programs/software-engineer-summer->https://careers.jpmorgan.com/global/en/students/programs/data-analytics-opportunities#careers-section7->https://careers.jpmorgan.com/global/en/students/programs/tfsg-hackathons->https://careers.jpmorgan.com/global/en/students/programs/quant-fin-programs->https://careers.jpmorgan.com/global/en/students/programs/design-dev-summer->https://careers.jpmorgan.com/global/en/students/programs/et-experience->https://careers.jpmorgan.com/global/en/students/programs/career-edyou->https://careers.jpmorgan.com/global/en/students/programs/research-technologies-summer-associate-program" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>JP Morgan Chase</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(3 roles)</sub>
+</div>
 - 2025 Code For Good - Singapore
 - 2026 Software Engineer Program_Summer Analyst (Singapore)
 - 2025 Austria Working Student Program – EMEA Emerging Talent Work Experience Program (all gender)
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="jane-street"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idfBU0fBY8/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028519117bfumLaCV7mmeUPiP60" alt="Jane Street logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=new-york" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Jane Street</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(15 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="jane-street"></a>
+    <img src="https://cdn.brandfetch.io/idfBU0fBY8/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028519117bfumLaCV7mmeUPiP60" alt="Jane Street logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=new-york" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Jane Street</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(15 roles)</sub>
+</div>
 - FPGA Engineer - (not currently accepting applications)
 - IT Operations Engineer - (not currently accepting applications)
 - Linux Engineer - (not currently accepting applications)
@@ -1110,32 +1020,28 @@ Easily track jobs across top tech companies.
 - Windows Engineer - (not currently accepting applications)
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="leidos"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idWvgGBR4Z/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028530035bfumLaCV7mCRxzRiH5" alt="Leidos logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://careers.leidos.com/pages/intern-jobs?ns_landing_page_jobs=/search/job-level/intern/jobs/in/country/united-states?ns_landing_page=1" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Leidos</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(2 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="leidos"></a>
+    <img src="https://cdn.brandfetch.io/idWvgGBR4Z/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028530035bfumLaCV7mCRxzRiH5" alt="Leidos logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://careers.leidos.com/pages/intern-jobs?ns_landing_page_jobs=/search/job-level/intern/jobs/in/country/united-states?ns_landing_page=1" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Leidos</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(2 roles)</sub>
+</div>
 - Business Development Intern
 - Electronics Technician Co-op
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="meta"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idWvz5T3V7/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028357548bfumLaCV7m78YTfXgP" alt="Meta logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://www.metacareers.com/jobs?sort_by_new=true&roles[0]=Internship" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Meta</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(6 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="meta"></a>
+    <img src="https://cdn.brandfetch.io/idWvz5T3V7/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028357548bfumLaCV7m78YTfXgP" alt="Meta logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://www.metacareers.com/jobs?sort_by_new=true&roles[0]=Internship" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Meta</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(6 roles)</sub>
+</div>
 - Research Scientist Intern, Computer Vision for Generative AI (PhD)
 - Research Scientist Intern, Human Computer Interaction (PhD)
 - Research Scientist Intern, Machine Learning, Health Tech (PhD)
@@ -1144,47 +1050,41 @@ Easily track jobs across top tech companies.
 - Research Scientist Intern, AI Core Machine Learning (PhD)
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="microsoft"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idchmboHEZ/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028498169bfumLaCV7mWBFAcJ7u" alt="Microsoft logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://jobs.careers.microsoft.com/global/en/search?lc=United%20States&et=Internship&l=en_us&pg=1&pgSz=20&o=Relevance&flt=true" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Microsoft</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(3 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="microsoft"></a>
+    <img src="https://cdn.brandfetch.io/idchmboHEZ/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028498169bfumLaCV7mWBFAcJ7u" alt="Microsoft logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://jobs.careers.microsoft.com/global/en/search?lc=United%20States&et=Internship&l=en_us&pg=1&pgSz=20&o=Relevance&flt=true" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Microsoft</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(3 roles)</sub>
+</div>
 - Research Intern - Quantum Computing
 - Mechanical Engineer: Internship Opportunities - PhD - Redmond
 - Data Center Technicians INTERN
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="mongodb"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/ideyyfT0Lp/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028515302bfumLaCV7m2GLOgGoN" alt="MongoDB logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://www.mongodb.com/company/careers/students-and-graduates" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>MongoDB</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(1 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="mongodb"></a>
+    <img src="https://cdn.brandfetch.io/ideyyfT0Lp/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028515302bfumLaCV7m2GLOgGoN" alt="MongoDB logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://www.mongodb.com/company/careers/students-and-graduates" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>MongoDB</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(1 roles)</sub>
+</div>
 - Software Engineer - Intern - Sydney
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="morgan-stanley"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idBGtJQnXa/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028506861bfumLaCV7mwWYdQJrD" alt="Morgan Stanley logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://www.morganstanley.com/careers/career-opportunities-search?opportunity=sg#" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Morgan Stanley</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(12 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="morgan-stanley"></a>
+    <img src="https://cdn.brandfetch.io/idBGtJQnXa/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028506861bfumLaCV7mwWYdQJrD" alt="Morgan Stanley logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://www.morganstanley.com/careers/career-opportunities-search?opportunity=sg#" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Morgan Stanley</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(12 roles)</sub>
+</div>
 - 2025 Finance Off Cycle Internship - Part Time (Frankfurt)
 - 2025 Firm Management Part-Time Off Cycle Internship (Frankfurt)
 - 2025 Human Capital Management Analyst Program (Budapest)
@@ -1199,32 +1099,28 @@ Easily track jobs across top tech companies.
 - 2026 Operations Summer Analyst Program (New York)
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="netflix"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/ideQwN5lBE/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028499086bfumLaCV7mzTvBeHFr" alt="Netflix logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://explore.jobs.netflix.net/careers?domain=netflix.com&query=%22internship%22%20-intern&pid=790299250747&sort_by=relevance" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Netflix</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(2 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="netflix"></a>
+    <img src="https://cdn.brandfetch.io/ideQwN5lBE/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028499086bfumLaCV7mzTvBeHFr" alt="Netflix logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://explore.jobs.netflix.net/careers?domain=netflix.com&query=%22internship%22%20-intern&pid=790299250747&sort_by=relevance" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Netflix</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(2 roles)</sub>
+</div>
 - Machine Learning Intern, Fall 2025
 - Security Protocols Engineering Intern
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="neuralink"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/iddV7cvXcS/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028524038bfumLaCV7mD68_Cy0F" alt="Neuralink logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://neuralink.com/careers/" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Neuralink</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(16 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="neuralink"></a>
+    <img src="https://cdn.brandfetch.io/iddV7cvXcS/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028524038bfumLaCV7mD68_Cy0F" alt="Neuralink logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://neuralink.com/careers/" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Neuralink</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(16 roles)</sub>
+</div>
 - Internal Auditor - Austin, Texas
 - Electrical Engineer Intern, Implant Embedded Systems - Fremont, California
 - Electrical Engineer Intern, Robotics and Surgery Engineering - Fremont, California
@@ -1243,17 +1139,15 @@ Easily track jobs across top tech companies.
 - Software Engineer Intern, Site Reliability Engineer - Fremont, California
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="nokia"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idM1ou2VCU/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028517317bfumLaCV7mH57i9MLb" alt="Nokia logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?lastSelectedFacet=TITLES&location=United+States&locationId=300000000480126&locationLevel=country&mode=location&selectedTitlesFacet=TRA" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Nokia</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(13 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="nokia"></a>
+    <img src="https://cdn.brandfetch.io/idM1ou2VCU/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028517317bfumLaCV7mH57i9MLb" alt="Nokia logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?lastSelectedFacet=TITLES&location=United+States&locationId=300000000480126&locationLevel=country&mode=location&selectedTitlesFacet=TRA" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Nokia</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(13 roles)</sub>
+</div>
 - Special Projects Software Dev Coop
 - Wi-Fi CoE Research Coop
 - Electrical Engineering Coop
@@ -1269,31 +1163,27 @@ Easily track jobs across top tech companies.
 - Firmware Development Co-op
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="notion"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idPYUoikV7/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028527672bfumLaCV7mc7Tyjbfc" alt="Notion logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://app.ripplematch.com/v2/public/company/notion?tl=1edfe69a" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Notion</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(1 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="notion"></a>
+    <img src="https://cdn.brandfetch.io/idPYUoikV7/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028527672bfumLaCV7mc7Tyjbfc" alt="Notion logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://app.ripplematch.com/v2/public/company/notion?tl=1edfe69a" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Notion</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(1 roles)</sub>
+</div>
 - Software Engineer, AI Intern (Fall 2025)
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="nvidia"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idXoj5DuCE/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028498729bfumLaCV7mBOx9zSJd" alt="Nvidia logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Nvidia</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(16 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="nvidia"></a>
+    <img src="https://cdn.brandfetch.io/idXoj5DuCE/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028498729bfumLaCV7mBOx9zSJd" alt="Nvidia logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Nvidia</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(16 roles)</sub>
+</div>
 - System Software Engineering Intern, GPU Server - Fall 2025
 - Compiler Engineering Intern, GPU Compute and CUDA - Fall 2025
 - Technical Marketing Engineer Intern, AI Platform Software - Fall 2025
@@ -1312,17 +1202,15 @@ Easily track jobs across top tech companies.
 - Software Engineering Intern, Robot Learning Platform - Fall 2025
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="optiver"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idpGQOL6f-/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028503843bfumLaCV7mO8r9IDmt" alt="Optiver logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://optiver.com/working-at-optiver/career-opportunities/page/2/?search=internship&_gl=1*rb345g*_gcl_au*Mjk2MDM5OTE1LjE3NDg5MTM5ODQ.&numberposts=10&level=internship&paged=1" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Optiver</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(15 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="optiver"></a>
+    <img src="https://cdn.brandfetch.io/idpGQOL6f-/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028503843bfumLaCV7mO8r9IDmt" alt="Optiver logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://optiver.com/working-at-optiver/career-opportunities/page/2/?search=internship&_gl=1*rb345g*_gcl_au*Mjk2MDM5OTE1LjE3NDg5MTM5ODQ.&numberposts=10&level=internship&paged=1" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Optiver</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(15 roles)</sub>
+</div>
 - Expressions of Interest – Quantitative Research Internship, PhD (Summer 2026 -Shanghai)
 - 2025 Shanghai Machine Learning PhD Summer Internship
 - FutureFocus Singapore 2025 – Quantitative Trading
@@ -1340,17 +1228,15 @@ Easily track jobs across top tech companies.
 - Software Engineer Intern (Summer 2026 – Austin)
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="oracle"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idnq7H7qT0/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028521095bfumLaCV7mjneUQ99S" alt="Oracle logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://careers.oracle.com/en/sites/jobsearch/jobs?lastSelectedFacet=locations&selectedLocationsFacet=300000000106749%3B300000000149325&selectedFlexFieldsFacets=%22AttributeChar14%7CSDR%22" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Oracle</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(5 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="oracle"></a>
+    <img src="https://cdn.brandfetch.io/idnq7H7qT0/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028521095bfumLaCV7mjneUQ99S" alt="Oracle logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://careers.oracle.com/en/sites/jobsearch/jobs?lastSelectedFacet=locations&selectedLocationsFacet=300000000106749%3B300000000149325&selectedFlexFieldsFacets=%22AttributeChar14%7CSDR%22" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Oracle</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(5 roles)</sub>
+</div>
 - Sales Development Representative - Burlington - Sept 2025
 - Sales Development Representative - Denver - Sept 2025
 - Sales Development Representative - Santa Monica - Sept 2025
@@ -1358,17 +1244,15 @@ Easily track jobs across top tech companies.
 - Sales Development Representative - Nashville - Sept 2025
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="palantir"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/id4EZOUw_e/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028518134bfumLaCV7m3PAFXJ6i" alt="Palantir logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://jobs.lever.co/palantir?commitment=Internship" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Palantir</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(17 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="palantir"></a>
+    <img src="https://cdn.brandfetch.io/id4EZOUw_e/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028518134bfumLaCV7m3PAFXJ6i" alt="Palantir logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://jobs.lever.co/palantir?commitment=Internship" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Palantir</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(17 roles)</sub>
+</div>
 - Forward Deployed Software Engineer, Internship
 - Forward Deployed Software Engineer, Internship - US Government
 - Forward Deployed Software Engineer, Internship - US Government
@@ -1388,31 +1272,27 @@ Easily track jobs across top tech companies.
 - Forward Deployed Software Engineer, Internship - Commercial
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="pinterest"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idGP0S1Jjj/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028499454bfumLaCV7my2EBDaz7" alt="Pinterest logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://www.pinterestcareers.com/jobs/?orderby=0&pagesize=20&page=1&radius=100&team=University" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Pinterest</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(1 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="pinterest"></a>
+    <img src="https://cdn.brandfetch.io/idGP0S1Jjj/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028499454bfumLaCV7my2EBDaz7" alt="Pinterest logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://www.pinterestcareers.com/jobs/?orderby=0&pagesize=20&page=1&radius=100&team=University" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Pinterest</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(1 roles)</sub>
+</div>
 - Software Engineering Intern 2025 (Toronto)
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="point72"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/iddWgJzSBG/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028531384bfumLaCV7mQJKUMm1z" alt="Point72 logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://careers.point72.com/?experience=internships" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Point72</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(10 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="point72"></a>
+    <img src="https://cdn.brandfetch.io/iddWgJzSBG/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028531384bfumLaCV7mQJKUMm1z" alt="Point72 logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://careers.point72.com/?experience=internships" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Point72</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(10 roles)</sub>
+</div>
 - Quantitative Research Intern (NLP)
 - 2025 Warsaw Market Intelligence – Platform Software Engineer Internship
 - Quantitative Research Intern
@@ -1425,17 +1305,15 @@ Easily track jobs across top tech companies.
 - Quantitative Researcher Intern
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="radix-trading"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idMdbZclZ_/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028530245bfumLaCV7mVlxJEWHW" alt="Radix Trading logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://job-boards.greenhouse.io/radixuniversity" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Radix Trading</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(8 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="radix-trading"></a>
+    <img src="https://cdn.brandfetch.io/idMdbZclZ_/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028530245bfumLaCV7mVlxJEWHW" alt="Radix Trading logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://job-boards.greenhouse.io/radixuniversity" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Radix Trading</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(8 roles)</sub>
+</div>
 - Quantitative Researcher (Full-Time - Master’s/Bachelor’s)
 - Quantitative Researcher (Full-Time - PhD+)
 - Quantitative Technologist (Full-Time - DevOps)
@@ -1446,33 +1324,29 @@ Easily track jobs across top tech companies.
 - Quantitative Technologist (Full-Time - C++ Developer)
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="ramp"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idWQ_FWEk6/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028512206bfumLaCV7mXFrO3Kwm" alt="Ramp logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://ramp.com/emerging-talent" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Ramp</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(3 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="ramp"></a>
+    <img src="https://cdn.brandfetch.io/idWQ_FWEk6/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028512206bfumLaCV7mXFrO3Kwm" alt="Ramp logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://ramp.com/emerging-talent" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Ramp</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(3 roles)</sub>
+</div>
 - Software Engineer Internship | Frontend
 - Software Engineer Internship | iOS
 - University Grad: Customer Experience Agent
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="razer"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idnspCY_WO/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028530457bfumLaCV7mv0fcNlhJ" alt="Razer logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://razer.wd3.myworkdayjobs.com/Careers?jobFamilyGroup=5f89d961603401a62553f98eab0c3255" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Razer</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(21 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="razer"></a>
+    <img src="https://cdn.brandfetch.io/idnspCY_WO/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028530457bfumLaCV7mv0fcNlhJ" alt="Razer logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://razer.wd3.myworkdayjobs.com/Careers?jobFamilyGroup=5f89d961603401a62553f98eab0c3255" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Razer</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(21 roles)</sub>
+</div>
 - Software (Cloud) Intern
 - Merchant Operation Support - Intern
 - Merchant Operation Support - Intern
@@ -1496,33 +1370,29 @@ Easily track jobs across top tech companies.
 - Regional Marketing Intern
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="relativity"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idQ7FlmwOb/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028529674bfumLaCV7mdykC2Q5e" alt="Relativity logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://job-boards.greenhouse.io/embed/job_board?for=rsinternboard" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Relativity</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(3 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="relativity"></a>
+    <img src="https://cdn.brandfetch.io/idQ7FlmwOb/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028529674bfumLaCV7mdykC2Q5e" alt="Relativity logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://job-boards.greenhouse.io/embed/job_board?for=rsinternboard" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Relativity</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(3 roles)</sub>
+</div>
 - Additive Manufacturing Modeling & Simulation Intern - Fall 2025
 - Propulsion Integration Engineer InternNew
 - Vehicle Structures Engineer Intern - Fall 2025
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="replit"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/ido8Wu58rI/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028526808bfumLaCV7mFc_DJYrm" alt="Replit logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://jobs.ashbyhq.com/replit" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Replit</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(17 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="replit"></a>
+    <img src="https://cdn.brandfetch.io/ido8Wu58rI/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028526808bfumLaCV7mFc_DJYrm" alt="Replit logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://jobs.ashbyhq.com/replit" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Replit</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(17 roles)</sub>
+</div>
 - Brand Design Lead - Design • Foster City, CA - In office M,W,F • Full time
 - Product Designer - Design • Foster City, CA - In office M,W,F • Full time
 - Staff Product Designer - Design • Foster City, CA - In office M,W,F • Full time
@@ -1542,77 +1412,67 @@ Easily track jobs across top tech companies.
 - Agent Platform Engineer - Engineering • Foster City, CA (Hybrid) In office M,W,F • Full time • Hybrid
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="rivian"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idqxjbqPJk/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028517948bfumLaCV7m7t5CAQUy" alt="Rivian logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://careers.rivian.com/careers-home/jobs?sortBy=relevance&page=1&categories=Internships" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Rivian</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(2 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="rivian"></a>
+    <img src="https://cdn.brandfetch.io/idqxjbqPJk/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028517948bfumLaCV7m7t5CAQUy" alt="Rivian logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://careers.rivian.com/careers-home/jobs?sortBy=relevance&page=1&categories=Internships" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Rivian</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(2 roles)</sub>
+</div>
 - UIUC Research Park Intern - Machine Learning
 - UIUC Research Park Intern - EPC, Propulsion Drives Controls
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="robinhood"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/id3WzK3p17/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028516719bfumLaCV7m_Y1YSOBx" alt="Robinhood logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://careers.robinhood.com/" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Robinhood</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(1 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="robinhood"></a>
+    <img src="https://cdn.brandfetch.io/id3WzK3p17/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028516719bfumLaCV7m_Y1YSOBx" alt="Robinhood logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://careers.robinhood.com/" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Robinhood</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(1 roles)</sub>
+</div>
 - Software Developer Intern/Co-op, Backend (Fall 2025)
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="roblox"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/id1oKmlNbs/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028518756bfumLaCV7mnPyYVuua" alt="Roblox logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://careers.roblox.com/jobs?groups=early-career-talent&page=1&pageSize=9" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Roblox</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(1 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="roblox"></a>
+    <img src="https://cdn.brandfetch.io/id1oKmlNbs/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028518756bfumLaCV7mnPyYVuua" alt="Roblox logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://careers.roblox.com/jobs?groups=early-career-talent&page=1&pageSize=9" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Roblox</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(1 roles)</sub>
+</div>
 - [2025] Senior Machine Learning Engineer - PhD Early Career
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="rockwell-automation"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idCvCK36Pf/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028523275bfumLaCV7mcOX1SpYp" alt="Rockwell Automation logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Rockwell Automation</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(4 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="rockwell-automation"></a>
+    <img src="https://cdn.brandfetch.io/idCvCK36Pf/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028523275bfumLaCV7mcOX1SpYp" alt="Rockwell Automation logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Rockwell Automation</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(4 roles)</sub>
+</div>
 - Early in Career Windows Software Engineer (C++, C#)
 - Project Planner
 - EDGE Associate, Information Technology Rotational Program
 - Co-op, Revenue Operations (Fall 2025)
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="salesforce"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idVE84WdIN/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028500826bfumLaCV7mfXoU26sl" alt="Salesforce logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&jobtype=Intern&pagesize=20#results" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Salesforce</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(36 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="salesforce"></a>
+    <img src="https://cdn.brandfetch.io/idVE84WdIN/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028500826bfumLaCV7mfXoU26sl" alt="Salesforce logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&jobtype=Intern&pagesize=20#results" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Salesforce</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(36 roles)</sub>
+</div>
 - Summer 2026 Intern - Associate Product Manager (APM)
 - Strategic Partnerships Intern
 - Strategic Events Marketing Apprentice
@@ -1651,33 +1511,29 @@ Easily track jobs across top tech companies.
 - Senior Manager Software Engineering
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="scale-ai"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idLdViRnHy/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028528521bfumLaCV7mzfvnsSqJ" alt="Scale AI logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://scale.com/careers#open-roles" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Scale AI</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(3 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="scale-ai"></a>
+    <img src="https://cdn.brandfetch.io/idLdViRnHy/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028528521bfumLaCV7mzfvnsSqJ" alt="Scale AI logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://scale.com/careers#open-roles" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Scale AI</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(3 roles)</sub>
+</div>
 - Human Frontier Collective Specialist - GenAI
 - Sales Development Intern
 - Sales Development Intern
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="scheider-electric"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                
-                <a href="https://careers.se.com/global/jobs?keywords=internship&sortBy=relevance&page=1&country=United%20States&tags1=Intern" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Scheider Electric</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(14 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="scheider-electric"></a>
+    
+    <a href="https://careers.se.com/global/jobs?keywords=internship&sortBy=relevance&page=1&country=United%20States&tags1=Intern" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Scheider Electric</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(14 roles)</sub>
+</div>
 - Quality Engineer Internship: Fall 2025
 - Assembly Process Intern/ Co-Op (Fall 2025)
 - EHS Intern
@@ -1694,17 +1550,15 @@ Easily track jobs across top tech companies.
 - Smart Factory Intern
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="siemens"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idtwZZpkvB/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028523059bfumLaCV7mmcz2R7hV" alt="Siemens logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://jobs.sw.siemens.com/locations/usa/jobs/?q=intern" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Siemens</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(20 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="siemens"></a>
+    <img src="https://cdn.brandfetch.io/idtwZZpkvB/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028523059bfumLaCV7mmcz2R7hV" alt="Siemens logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://jobs.sw.siemens.com/locations/usa/jobs/?q=intern" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Siemens</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(20 roles)</sub>
+</div>
 - Business Development Representative Intern (China) - Work Type:Hybrid - Job Family:Sales - Req ID:e37114a7-ffd5-48f4-8e67-b51b4ca51b68
 - Strategic Student Program: Software Product Quality Assurance Intern (EBS, Fall 2025) - Huntsville, AL - Work Type:Hybrid - Job Family:Internal Services - Req ID:467157
 - Strategic Student Program: Alliance Partner Marketing Internship (Fall 2025, GSM) - Maryland Heights, MO - Work Type:Hybrid - Job Family:Internal Services - Req ID:467159
@@ -1727,31 +1581,27 @@ Easily track jobs across top tech companies.
 - Business Development Representative Intern (Japan) - Work Type:Hybrid - Job Family:Sales - Req ID:5c5fa445-2bea-493f-8cf9-f15996ff38a6
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="skydio"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idqm3gcTLX/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028532208bfumLaCV7mud-wXmrz" alt="Skydio logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://www.skydio.com/careers#job-listing" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Skydio</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(1 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="skydio"></a>
+    <img src="https://cdn.brandfetch.io/idqm3gcTLX/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028532208bfumLaCV7mud-wXmrz" alt="Skydio logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://www.skydio.com/careers#job-listing" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Skydio</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(1 roles)</sub>
+</div>
 - Middleware Software Intern - Fall 2025
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="snap"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/id-lroGNM3/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028511867bfumLaCV7mnNxVyeKO" alt="Snap logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://careers.snap.com/jobs?type=Intern" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Snap</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(8 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="snap"></a>
+    <img src="https://cdn.brandfetch.io/id-lroGNM3/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028511867bfumLaCV7mnNxVyeKO" alt="Snap logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://careers.snap.com/jobs?type=Intern" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Snap</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(8 roles)</sub>
+</div>
 - Optical Engineer
 - Computer Architecture Intern
 - Software Engineer Intern, AR
@@ -1762,17 +1612,15 @@ Easily track jobs across top tech companies.
 - Graduate- Junior Production Associate
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="sony"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/ido0LYg_hc/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028532418bfumLaCV7mDQUD3la5" alt="Sony logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Sony</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(13 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="sony"></a>
+    <img src="https://cdn.brandfetch.io/ido0LYg_hc/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028532418bfumLaCV7mDQUD3la5" alt="Sony logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Sony</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(13 roles)</sub>
+</div>
 - Legal Intern
 - AI/ML Computer Vision Research Intern
 - Research Intern, Vision Foundation Model and Generative AI
@@ -1788,83 +1636,73 @@ Easily track jobs across top tech companies.
 - Stage - Assistant(e) communication marketing
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="spacex"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/id2g3lee9x/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028516915bfumLaCV7mP5j-_rrr" alt="SpaceX logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://www.spacex.com/careers/jobs/?type=intern" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>SpaceX</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(4 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="spacex"></a>
+    <img src="https://cdn.brandfetch.io/id2g3lee9x/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028516915bfumLaCV7mP5j-_rrr" alt="SpaceX logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://www.spacex.com/careers/jobs/?type=intern" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>SpaceX</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(4 roles)</sub>
+</div>
 - Fall 2025 Business Operations Internship/Co-op
 - Fall 2025 Engineering Internship/Co-op
 - Fall 2025 Graduate Engineer
 - Fall 2025 Software Engineering Internship/Co-op
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="splunk"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idWxR3ZEqC/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028515736bfumLaCV7m_uCR0n7v" alt="Splunk logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://www.splunk.com/en_us/careers/search-jobs.html?page=1&type=Intern" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Splunk</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(4 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="splunk"></a>
+    <img src="https://cdn.brandfetch.io/idWxR3ZEqC/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028515736bfumLaCV7m_uCR0n7v" alt="Splunk logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://www.splunk.com/en_us/careers/search-jobs.html?page=1&type=Intern" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Splunk</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(4 roles)</sub>
+</div>
 - Sales Engineer Intern (Prague, Czechia)
 - Product Manager Intern, Poland
 - Software Engineer Intern (Frontend)
 - Software Engineering Intern (Backend/Fullstack)
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="spotify"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/id20mQyGeY/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028507049bfumLaCV7mPyUJ3W7l" alt="Spotify logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://www.lifeatspotify.com/students" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Spotify</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(2 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="spotify"></a>
+    <img src="https://cdn.brandfetch.io/id20mQyGeY/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028507049bfumLaCV7mPyUJ3W7l" alt="Spotify logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://www.lifeatspotify.com/students" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Spotify</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(2 roles)</sub>
+</div>
 - Early Career Program, Growth Associate, South Korea
 - Early Career Program, Podcast Associate
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="stripe"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idxAg10C0L/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028511629bfumLaCV7m7Y8C_AAH" alt="Stripe logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://stripe.com/jobs/search?office_locations=North+America--Atlanta&office_locations=North+America--Chicago&office_locations=North+America--Mexico+City&office_locations=North+America--New+York&office_locations=North+America--San+Francisco+Bridge+HQ&office_locations=North+America--Seattle&office_locations=North+America--South+San+Francisco&office_locations=North+America--Toronto&office_locations=North+America--Washington+DC&tags=University" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Stripe</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(4 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="stripe"></a>
+    <img src="https://cdn.brandfetch.io/idxAg10C0L/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028511629bfumLaCV7m7Y8C_AAH" alt="Stripe logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://stripe.com/jobs/search?office_locations=North+America--Atlanta&office_locations=North+America--Chicago&office_locations=North+America--Mexico+City&office_locations=North+America--New+York&office_locations=North+America--San+Francisco+Bridge+HQ&office_locations=North+America--Seattle&office_locations=North+America--South+San+Francisco&office_locations=North+America--Toronto&office_locations=North+America--Washington+DC&tags=University" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Stripe</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(4 roles)</sub>
+</div>
 - Operations Associate, New Grad (Mexico)
 - Privacy Fellow
 - Privacy Fellow
 - Privacy Fellow
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="susquehanna"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idCAAWH2Y9/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028518566bfumLaCV7mvmNaGP5a" alt="Susquehanna logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://careers.sig.com/global-susquehanna-jobs" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Susquehanna</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(37 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="susquehanna"></a>
+    <img src="https://cdn.brandfetch.io/idCAAWH2Y9/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028518566bfumLaCV7mvmNaGP5a" alt="Susquehanna logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://careers.sig.com/global-susquehanna-jobs" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Susquehanna</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(37 roles)</sub>
+</div>
 - Account Opening Analyst
 - US Benefits Manager
 - Quantitative Researcher – PhD: 2025
@@ -1904,17 +1742,15 @@ Easily track jobs across top tech companies.
 - Technology Co-op with Drexel University: Fall/Winter B-Round
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="tsmc"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idpuqG_7nu/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028522617bfumLaCV7mi5SpjnW2" alt="TSMC logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://careers.tsmc.com/en_US/careers/SearchJobs/?542=13100&542_format=486&listFilterMode=1&jobRecordsPerPage=100&" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>TSMC</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(6 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="tsmc"></a>
+    <img src="https://cdn.brandfetch.io/idpuqG_7nu/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028522617bfumLaCV7mi5SpjnW2" alt="TSMC logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://careers.tsmc.com/en_US/careers/SearchJobs/?542=13100&542_format=486&listFilterMode=1&jobRecordsPerPage=100&" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>TSMC</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(6 roles)</sub>
+</div>
 - 台積身心障礙專業人才_暑期實習
 - [Summer 2026] TSMC AZ Internship Opportunities - Facility Roles
 - AI Hardware Research Intern: Advanced Memory Modeling and Simulation for AI Accelerators (6819)
@@ -1923,33 +1759,29 @@ Easily track jobs across top tech companies.
 - Summer 2025 - Transistor Device Research, Intern (6528)
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="target"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/id0ZfAM4Dt/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028532896bfumLaCV7mUEc3djH7" alt="Target logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://corporate.target.com/careers/job-search?referral=job-search-link&currentPage=1&jobAreas=Internships&profiles=Arrows%20Manager%7C%7CEntry%20Level&filtercondition=or" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Target</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(3 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="target"></a>
+    <img src="https://cdn.brandfetch.io/id0ZfAM4Dt/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028532896bfumLaCV7mUEc3djH7" alt="Target logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://corporate.target.com/careers/job-search?referral=job-search-link&currentPage=1&jobAreas=Internships&profiles=Arrows%20Manager%7C%7CEntry%20Level&filtercondition=or" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Target</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(3 roles)</sub>
+</div>
 - Current Interns Only - UX Designer - Summer 2025
 - Current Interns Only Arrows for 2026
 - Inventory Analyst- Hybrid - Minneapolis, MN - (Starting September, 2025)
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="tencent"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idPf1s-Y7S/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028531214bfumLaCV7mrwWhWA0G" alt="Tencent logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://join.qq.com/post.html?query=p_2,w_407,w_408,w_401&c_t=2" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Tencent</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(6 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="tencent"></a>
+    <img src="https://cdn.brandfetch.io/idPf1s-Y7S/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028531214bfumLaCV7mrwWhWA0G" alt="Tencent logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://join.qq.com/post.html?query=p_2,w_407,w_408,w_401&c_t=2" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Tencent</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(6 roles)</sub>
+</div>
 - IT Engineer Intern 105661
 - Procurement Intern 105209
 - Global Talent Sourcing Intern 105631
@@ -1958,17 +1790,15 @@ Easily track jobs across top tech companies.
 - Applied Machine Learning Intern 105214
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="tiktok"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/id-0D6OFrq/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028516405bfumLaCV7mQd8CujPD" alt="TikTok logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://lifeattiktok.com/search?keyword=&recruitment_id_list=202%2C301&job_category_id_list=&subject_id_list=7322364514224687370%2C7322364513776093449%2C7459987887569733896%2C7459986622530078983&location_code_list=CT_247%2CCT_94%2CCT_243%2CCT_104%2CCT_114%2CCT_75%2CCT_1103355%2CCT_157%2CCT_233&limit=12&offset=0" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>TikTok</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(13 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="tiktok"></a>
+    <img src="https://cdn.brandfetch.io/id-0D6OFrq/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028516405bfumLaCV7mQd8CujPD" alt="TikTok logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://lifeattiktok.com/search?keyword=&recruitment_id_list=202%2C301&job_category_id_list=&subject_id_list=7322364514224687370%2C7322364513776093449%2C7459987887569733896%2C7459986622530078983&location_code_list=CT_247%2CCT_94%2CCT_243%2CCT_104%2CCT_114%2CCT_75%2CCT_1103355%2CCT_157%2CCT_233&limit=12&offset=0" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>TikTok</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(13 roles)</sub>
+</div>
 - Product Manager Intern (TikTok LIVE-Ecosystem Governance)- 2025 Fall (BS/MS)
 - Software Engineer Intern (TikTok-Social-Product Innovation) - 2025 Fall (BS/MS)
 - (General Hire) Visual Design Intern (TikTok-Design) - 2025 Fall Starts (BS/MS)
@@ -1984,63 +1814,55 @@ Easily track jobs across top tech companies.
 - Machine Learning Engineer Intern (TikTok-Recommendation- E-commerce) - 2025 Fall (Master)
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="ukg"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idYNOD4MeX/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028532615bfumLaCV7mjhGntUOb" alt="UKG logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://apply.ukg.com/careers?pid=893380942429&Seniority=Intern&domain=ukg.com&sort_by=relevance&triggerGoButton=true" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>UKG</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(1 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="ukg"></a>
+    <img src="https://cdn.brandfetch.io/idYNOD4MeX/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028532615bfumLaCV7mjhGntUOb" alt="UKG logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://apply.ukg.com/careers?pid=893380942429&Seniority=Intern&domain=ukg.com&sort_by=relevance&triggerGoButton=true" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>UKG</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(1 roles)</sub>
+</div>
 - Software Engineering Internship - Fall 2025
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="uber"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/ididNbiiOd/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028498352bfumLaCV7mVp3-w5QS" alt="Uber logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://www.uber.com/us/en/careers/list/?department=University&location=USA-California-San%20Francisco&location=USA-California-Culver%20City&location=USA-California-Sunnyvale&location=USA-New%20York-New%20York&location=USA-Illinois-Chicago&location=USA-Washington-Seattle&location=USA-Florida-Miami&location=USA-Texas-Dallas&location=USA-Arizona-Phoenix&location=USA-District%20of%20Columbia-Washington&location=USA-Massachusetts-Boston" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Uber</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(4 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="uber"></a>
+    <img src="https://cdn.brandfetch.io/ididNbiiOd/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028498352bfumLaCV7mVp3-w5QS" alt="Uber logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://www.uber.com/us/en/careers/list/?department=University&location=USA-California-San%20Francisco&location=USA-California-Culver%20City&location=USA-California-Sunnyvale&location=USA-New%20York-New%20York&location=USA-Illinois-Chicago&location=USA-Washington-Seattle&location=USA-Florida-Miami&location=USA-Texas-Dallas&location=USA-Arizona-Phoenix&location=USA-District%20of%20Columbia-Washington&location=USA-Massachusetts-Boston" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Uber</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(4 roles)</sub>
+</div>
 - Graduate 2025 PhD Scientist (AEA/ASSA Economists Only), United States
 - 2025 Software Engineering UberSTAR Internship, University of Texas at El Paso
 - 2025 Software Engineering Internship, University of Texas at El Paso
 - 2025 PhD Scientist Internship (Eater Pricing and Incentives), United States
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="unity"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idEc0EPR9J/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028525287bfumLaCV7mfxM5OCCY" alt="Unity logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://unity.com/careers/positions?department=students-early-career" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Unity</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(2 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="unity"></a>
+    <img src="https://cdn.brandfetch.io/idEc0EPR9J/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028525287bfumLaCV7mfxM5OCCY" alt="Unity logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://unity.com/careers/positions?department=students-early-career" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Unity</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(2 roles)</sub>
+</div>
 - Junior Test Engineer
 - Sales Onboarding Intern
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="verizon"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idXhrQrb5t/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028527395bfumLaCV7mY0OrrA1p" alt="Verizon logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://mycareer.verizon.com/jobs/?search=&team=Campus+%26+Apprenticeships&pagesize=100#results" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Verizon</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(58 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="verizon"></a>
+    <img src="https://cdn.brandfetch.io/idXhrQrb5t/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028527395bfumLaCV7mY0OrrA1p" alt="Verizon logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://mycareer.verizon.com/jobs/?search=&team=Campus+%26+Apprenticeships&pagesize=100#results" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Verizon</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(58 roles)</sub>
+</div>
 - Thrive Accelerate Up- Supervisor- Call Center Tech Customer Service
 - Thrive Accelerate Up- Field Operations Manager
 - Thrive Accelerate Up- Field Operations Manager
@@ -2101,33 +1923,29 @@ Easily track jobs across top tech companies.
 - Principal Engineer-AI Science
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="verkada"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idCLXeli5r/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028523867bfumLaCV7msJ09agNg" alt="Verkada logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://www.verkada.com/careers/" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Verkada</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(3 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="verkada"></a>
+    <img src="https://cdn.brandfetch.io/idCLXeli5r/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028523867bfumLaCV7msJ09agNg" alt="Verkada logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://www.verkada.com/careers/" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Verkada</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(3 roles)</sub>
+</div>
 - Software Engineering Intern, Backend - Fall 2025 - San Mateo, CA United States
 - Software Engineering Intern, Mobile - Fall 2025 - San Mateo, CA United States
 - Technical Support Engineering Intern - Fall 2025 - San Mateo, CA United States
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="visa"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idhem73aId/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028526547bfumLaCV7mlvr3zOJ_" alt="Visa logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://careers.smartrecruiters.com/Visa/university-recruiting" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Visa</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(8 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="visa"></a>
+    <img src="https://cdn.brandfetch.io/idhem73aId/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028526547bfumLaCV7mlvr3zOJ_" alt="Visa logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://careers.smartrecruiters.com/Visa/university-recruiting" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Visa</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(8 roles)</sub>
+</div>
 - Associate Developer - Software Development/Engineering
 - Graduate Software Engineer - Software Development/Engineering
 - Consulting & Analytics Graduate - Client Consulting
@@ -2138,63 +1956,55 @@ Easily track jobs across top tech companies.
 - Talent Acquisition Coordinator - Early Careers - Administrative
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="welch's"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/idQl2QFj1_/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028500082bfumLaCV7m0jzinmJ6" alt="Welch's logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://app.careerpuck.com/job-board/welchs/?departmentId=6vcaTkfP" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Welch's</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(1 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="welch's"></a>
+    <img src="https://cdn.brandfetch.io/idQl2QFj1_/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028500082bfumLaCV7m0jzinmJ6" alt="Welch's logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://app.careerpuck.com/job-board/welchs/?departmentId=6vcaTkfP" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Welch's</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(1 roles)</sub>
+</div>
 - Control Engineer
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="workday"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/id0V-YF4nE/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028513165bfumLaCV7m-ypCJYmI" alt="Workday logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/?source=Careers_Website_ec" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Workday</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(4 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="workday"></a>
+    <img src="https://cdn.brandfetch.io/id0V-YF4nE/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028513165bfumLaCV7m-ypCJYmI" alt="Workday logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/?source=Careers_Website_ec" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Workday</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(4 roles)</sub>
+</div>
 - Werksstudierende - Sales (f, m, x) - Munich
 - Working Student Sales - Munich
 - P1 (GW) Associate Information Systems Software Application Engineer
 - (GW) Associate Business Systems Analyst
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="x"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/id3elZ9Rhl/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028523698bfumLaCV7mVeg055DW" alt="X logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://careers.x.com/en#positions" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>X</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(2 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="x"></a>
+    <img src="https://cdn.brandfetch.io/id3elZ9Rhl/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028523698bfumLaCV7mVeg055DW" alt="X logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://careers.x.com/en#positions" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>X</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(2 roles)</sub>
+</div>
 - Data Center Ops Technician Intern
 - Engineering Intern
 
 ---
-<a style="font-family: Inconsolata, monospace;" name="zipline"></a>
-
-            <div style="text-align: center; margin-top: 30px;">
-                <img src="https://cdn.brandfetch.io/id_oSYol9U/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028524273bfumLaCV7mY4n6coPJ" alt="Zipline logo" height="20" style="vertical-align:middle; margin-right:6px;" />
-                <a href="https://www.zipline.com/careers/open-roles?search=intern#" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-                    <strong>Zipline</strong>
-                </a>
-                <br>
-                <sub style="font-family: Inconsolata, monospace;">(30 roles)</sub>
-            </div>
-            
+<div style="text-align: center; margin-top: 30px;">
+    <a name="zipline"></a>
+    <img src="https://cdn.brandfetch.io/id_oSYol9U/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028524273bfumLaCV7mY4n6coPJ" alt="Zipline logo" height="20" style="vertical-align:middle; margin-right:6px;" />
+    <a href="https://www.zipline.com/careers/open-roles?search=intern#" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+        <strong>Zipline</strong>
+    </a>
+    <br>
+    <sub style="font-family: Inconsolata, monospace;">(30 roles)</sub>
+</div>
 - Annotation Technical Lead - Engineering - Kigali, Rwanda
 - Communications Lead, US Expansion - Marketing, Design & Communications - South San Francisco, California, USA
 - Community Engagement Intern (Fall 2025) - 2025 Internships - Dallas, Texas, USA
