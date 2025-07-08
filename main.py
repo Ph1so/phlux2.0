@@ -49,10 +49,10 @@ def format_message_html(message: dict) -> str:
     for company, info in message.get("companies", {}).items():
         icon_url = icons.get(company)
         icon_html = (
-            f'<img src="{icon_url}" alt="{company} logo" height="16" style="vertical-align:middle;"> '
+            f'<img src="{icon_url}" alt="{company} logo" height="24" style="vertical-align:middle;"> '
             if icon_url else ""
         )
-        lines.append(f"<h3>- {icon_html}{company}</h3>")
+        lines.append(f"<h3>{icon_html}  {company}</h3>")
         lines.append("<ul>")
         for job in info["jobs"]:
             lines.append(f"<li>{job}</li>")

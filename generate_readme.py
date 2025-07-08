@@ -15,6 +15,12 @@ def load_jobs(json_path: str) -> dict:
         return data.get("companies", {})
 
 def generate_readme(jobs: dict, links: dict) -> str:
+    try:
+        with open("icons.json", "r", encoding="utf-8") as f:
+            icons = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        icons = {}
+
     lines = ["# Phlux\n"]
     lines.append("## Adding your own companies\n")
     lines.append("- Run add_company.py\n")
@@ -28,8 +34,12 @@ def generate_readme(jobs: dict, links: dict) -> str:
         postings = jobs[company]
         if not postings:
             continue
-
-        name = f'<a href="{links[company]}"><strong>{company}</strong></a>'
+        icon_url = icons.get(company)
+        icon_html = (
+            f'<img src="{icon_url}" alt="{company} logo" height="24" style="vertical-align:middle;"> '
+            if icon_url else ""
+        )
+        name = f'<a href="{links[company]}"><strong>{icon_html} {company}</strong></a>'
         lines.append("<details>")
         lines.append(f"<summary>{name}</summary>\n")
 
