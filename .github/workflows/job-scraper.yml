@@ -63,6 +63,7 @@ jobs:
             git commit -m "Update storage.json, readme and icons.json [bot]"
             git pull --rebase origin main
             git push
+          fi
 
   retry:
     needs: run
@@ -120,3 +121,4 @@ jobs:
             git commit -m "Update storage.json, readme and icons.json [bot]"
             git pull --rebase origin main
             git push
+          fi
