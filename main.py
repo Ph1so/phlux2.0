@@ -21,25 +21,38 @@ from oauth2client.service_account import ServiceAccountCredentials
 from gspread_formatting import CellFormat, format_cell_range
 
 from phlux.config import load_config
+from phlux.models import Company
 from phlux.scraping import ScrapeManager, load_company_data, autoApply
 from utils import get_driver
 
 GMAIL_APP_PASSWORD = os.environ["GMAIL_APP_PASSWORD"]
-
+ICONS_ID = os.environ["ICONS_ID"]
 
 def format_message_html(message: dict) -> str:
     """Return HTML body for the notification email."""
+    try:
+        with open("icons.json", "r", encoding="utf-8") as f:
+            icons = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        icons = {}
+
     lines = ["<h2>phi's little minion has found new internships</h2><br>"]
+
     try:
         response = requests.get("https://random-d.uk/api/random")
         if response.status_code == 200:
             duck_url = response.json().get("url")
             lines.append(f'<img src="{duck_url}" alt="Random Duck" width="300"><br>')
-    except Exception as exc:  # noqa: BLE001
+    except Exception as exc:
         lines.append(f"<p><em>Error fetching duck: {exc}</em></p><br>")
 
     for company, info in message.get("companies", {}).items():
-        lines.append(f"<h3>🔹 {company}</h3>")
+        icon_url = icons.get(company)
+        icon_html = (
+            f'<img src="{icon_url}" alt="{company} logo" height="16" style="vertical-align:middle;"> '
+            if icon_url else ""
+        )
+        lines.append(f"<h3>- {icon_html}{company}</h3>")
         lines.append("<ul>")
         for job in info["jobs"]:
             lines.append(f"<li>{job}</li>")
@@ -94,6 +107,26 @@ def update_internship_tracker(jobs: List[str]) -> None:
     right_align = CellFormat(horizontalAlignment='RIGHT')
     format_cell_range(worksheet, f"B{start_row}:B{end_row}", right_align)
 
+def update_icons(companies: List[Company]):
+    try:
+        with open("icons.json", "r", encoding="utf-8") as f:
+            icons = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        icons = {}
+
+    for company in companies:
+        name = company.name
+        try:
+            if name not in icons:
+                response = requests.get(f"https://api.brandfetch.io/v2/search/{name}?c={ICONS_ID}")
+                response.raise_for_status()
+                icons[name] = response.json()[0]["icon"]
+        except Exception as e:
+            print(f"❌ Failed to get icon for {name}: {e}")
+
+    with open("icons.json", "w", encoding="utf-8") as f:
+        json.dump(icons, f, indent=2)
+    
 
 def main() -> None:
     config = load_config()
@@ -103,6 +136,7 @@ def main() -> None:
     data = result["data"]
     new_jobs = result["new_jobs"]
 
+    update_icons(companies=companies)
     # Special case: run autoApply only after all scraping
     susquehanna_jobs = new_jobs.get("companies", {}).get("Susquehanna", {}).get("jobs", [])
     print(new_jobs)
@@ -113,7 +147,7 @@ def main() -> None:
 
     Path("storage.json").write_text(json.dumps(data, indent=2), encoding="utf-8")
     if new_jobs.get("companies"):
-        send_email(new_jobs, test = False)
+        send_email(new_jobs, test = True)
 
 if __name__ == "__main__":
     main()

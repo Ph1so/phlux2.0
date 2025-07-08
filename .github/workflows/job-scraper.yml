@@ -44,6 +44,7 @@ jobs:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GOOGLE_KEY_JSON: ${{ secrets.GOOGLE_KEY_JSON }}
+          ICONS_ID: ${{secrets.ICONS_ID}}
         run: .venv/bin/python main.py
 
       - name: Generate README
@@ -97,6 +98,9 @@ jobs:
       - name: Run job scraper (Retry)
         env:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GOOGLE_KEY_JSON: ${{ secrets.GOOGLE_KEY_JSON }}
+          ICONS_ID: ${{secrets.ICONS_ID}}
         run: .venv/bin/python main.py
 
       - name: Generate README
