@@ -1,4 +1,4 @@
-# 🌀 Phlux: Job Tracker
+# 🌀 Phlux: Phi's Job Tracker
 
 Easily track jobs across top tech companies.
 
