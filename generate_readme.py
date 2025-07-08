@@ -69,7 +69,17 @@ def generate_readme(jobs: dict, links: dict) -> str:
             anchor_name = company.lower().replace(" ", "-")
             lines.append(f'<a style="font-family: Inconsolata, monospace;" name="{anchor_name}"></a>')
             name_html = f'<a style="font-family: Inconsolata, monospace;" href="{links[company]}" target="_blank"><strong>{company}</strong></a>'
-            header_line = f'### {icon_html} {name_html} &nbsp; <sub style="font-family: Inconsolata, monospace;">({len(postings)} roles)</sub>'
+            header_line = f'''
+            <div style="text-align: center; margin-top: 30px;">
+                {icon_html}
+                <a href="{links[company]}" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+                    <strong>{company}</strong>
+                </a>
+                <br>
+                <sub style="font-family: Inconsolata, monospace;">({len(postings)} roles)</sub>
+            </div>
+            '''
+
             lines.append(header_line)
 
             for role in postings:
