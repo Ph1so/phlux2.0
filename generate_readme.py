@@ -69,24 +69,26 @@ def generate_readme(jobs: dict, links: dict) -> str:
             anchor_name = company.lower().replace(" ", "-")
 
             header_line = f'''
-<div style="text-align: center; margin-top: 30px;">
-    <a name="{anchor_name}"></a>
-    {icon_html}
-    <a href="{links[company]}" target="_blank" style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
-        <strong>{company}</strong>
-    </a>
-    <br>
-    <sub style="font-family: Inconsolata, monospace;">({len(postings)} roles)</sub>
-</div>
-'''.strip()
+            <div style="text-align: center; margin-top: 30px;">
+                <a name="{anchor_name}"></a>
+                {icon_html}
+                <a href="{links[company]}" target="_blank"
+                style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+                    <strong>{company}</strong>
+                </a>
+                <sub style="font-family: Inconsolata, monospace;">({len(postings)} roles)</sub>
+            </div>
+            '''.strip()
 
             lines.append(header_line)
-
+            lines.append('<ul style="font-family: Inconsolata, monospace;">')
             for role in postings:
                 cleaned = role.replace("\n", " ").strip()
-                lines.append(f"- {cleaned}")
+                lines.append(f"<li>{cleaned}</li>")
+            lines.append("</ul>")
 
             lines.append("\n---")
+
 
     return "\n".join(lines)
 
