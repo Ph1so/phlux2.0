@@ -36,34 +36,45 @@ def format_message_html(message: dict) -> str:
     except (FileNotFoundError, json.JSONDecodeError):
         icons = {}
 
-    lines = ["<h2>phi's little minion has found new internships</h2><br>"]
+    lines = [
+        '<h1 style="font-family: sans-serif;">🚀 phi\'s little minion has found new internships</h1>',
+    ]
 
+    # Add a friendly duck image
     try:
         response = requests.get("https://random-d.uk/api/random")
         if response.status_code == 200:
             duck_url = response.json().get("url")
-            lines.append(f'<img src="{duck_url}" alt="Random Duck" width="300"><br>')
+            lines.append(f'<img src="{duck_url}" alt="Random Duck" width="250"><br>')
+            lines.append('<p style="font-size: small; font-style: italic;">A duck a day keeps the internship blues away 🦆</p>')
     except Exception as exc:
-        lines.append(f"<p><em>Error fetching duck: {exc}</em></p><br>")
+        lines.append(f"<p><em>Could not fetch duck: {exc}</em></p>")
 
+    lines.append('<hr style="margin-top: 30px; margin-bottom: 20px;">')
+
+    # Company listings
     for company, info in message.get("companies", {}).items():
         icon_url = icons.get(company)
         icon_html = (
-            f'<img src="{icon_url}" alt="{company} logo" height="24" '
-            f'style="vertical-align:middle; position:relative; top:5px;"> '
+            f'<img src="{icon_url}" alt="{company} logo" height="24" style="vertical-align:middle; margin-right:6px;">'
             if icon_url else ""
         )
 
-        lines.append(f"<h3>{icon_html}  {company}</h3>")
-        lines.append("<ul>")
+        lines.append(f'<div style="margin-bottom: 30px;">')
+        lines.append(f'<h2 style="margin-bottom: 5px;">{icon_html} {company}</h2>')
+        lines.append("<ul style='margin-top: 5px;'>")
         for job in info["jobs"]:
-            lines.append(f"<li>{job}</li>")
+            cleaned = job.strip().replace("\n", " ")
+            lines.append(f"<li style='margin-bottom: 4px;'>{cleaned}</li>")
         lines.append("</ul>")
-        lines.append(f'<p>🔗 <a href="{info["link"]}">Apply Here</a></p><br>')
+        lines.append(f'<p><strong>🔗 <a href="{info["link"]}" target="_blank">Apply Here</a></strong></p>')
+        lines.append('</div>')
+        lines.append('<hr style="margin-top: 20px; margin-bottom: 20px;">')
 
-    lines.append('<a href="https://github.com/Ph1so/phlux2.0">All Jobs List</a>')
+    # Footer
+    lines.append('<p style="font-family: monospace;">💻 View all companies at <a href="https://github.com/Ph1so/phlux2.0" target="_blank">github.com/Ph1so/phlux2.0</a></p>')
+
     return "\n".join(lines)
-
 
 def send_email(message: dict, test: bool = False) -> None:
     """Send the notification email."""
@@ -149,7 +160,7 @@ def main() -> None:
 
     Path("storage.json").write_text(json.dumps(data, indent=2), encoding="utf-8")
     if new_jobs.get("companies"):
-        send_email(new_jobs, test = False)
+        send_email(new_jobs, test = True)
 
 if __name__ == "__main__":
     main()
