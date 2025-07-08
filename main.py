@@ -53,7 +53,7 @@ def format_message_html(message: dict) -> str:
     lines.append('<hr style="margin-top: 30px; margin-bottom: 20px;">')
 
     # Company listings
-    for company, info in message.get("companies", {}).items():
+    for company, jobs in message.get("companies", {}).items():
         icon_url = icons.get(company)
         icon_html = (
             f'<img src="{icon_url}" alt="{company} logo" height="24" style="vertical-align:middle; margin-right:6px;">'
@@ -63,11 +63,11 @@ def format_message_html(message: dict) -> str:
         lines.append(f'<div style="margin-bottom: 30px;">')
         lines.append(f'<h2 style="margin-bottom: 5px; font-family: monospace;">{icon_html} {company}</h2>')
         lines.append("<ul style='margin-top: 5px;'>")
-        for job in info["jobs"]:
-            cleaned = job.strip().replace("\n", " ")
+        for job in jobs["jobs"]:
+            cleaned = job["title"].strip().replace("\n", " ")
             lines.append(f"<li style='margin-bottom: 4px; font-family: monospace;'>{cleaned}</li>")
         lines.append("</ul>")
-        lines.append(f'<p><strong>🔗 <a style="font-family: monospace;" href="{info["link"]}" target="_blank">Apply Here</a></strong></p>')
+        lines.append(f'<p><strong>🔗 <a style="font-family: monospace;" href="{jobs["link"]}" target="_blank">Apply Here</a></strong></p>')
         lines.append('</div>')
         lines.append('<hr style="margin-top: 20px; margin-bottom: 20px;">')
 
