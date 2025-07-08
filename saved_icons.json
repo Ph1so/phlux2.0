@@ -1,0 +1,424 @@
+{
+  "Microsoft": {
+    "email": "https://cdn.brandfetch.io/idchmboHEZ/w/800/h/800/theme/dark/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idchmboHEZ/theme/dark/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Uber": {
+    "email": "https://cdn.brandfetch.io/ididNbiiOd/w/800/h/267/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/ididNbiiOd/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Google": {
+    "email": "https://cdn.brandfetch.io/id6O2oGzv-/w/800/h/817/theme/dark/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/id6O2oGzv-/theme/dark/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Nvidia": {
+    "email": "https://cdn.brandfetch.io/idXoj5DuCE/w/800/h/530/theme/dark/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idXoj5DuCE/theme/dark/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Meta": {
+    "email": "https://cdn.brandfetch.io/id_WfHydn1/w/800/h/1012/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/id_WfHydn1/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Netflix": {
+    "email": "https://cdn.brandfetch.io/ideQwN5lBE/w/496/h/901/theme/dark/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/ideQwN5lBE/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "AWS": {
+    "email": "https://cdn.brandfetch.io/idVoqFQ-78/w/800/h/478/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idVoqFQ-78/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Pinterest": {
+    "email": "https://cdn.brandfetch.io/idGP0S1Jjj/w/800/h/800/theme/dark/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idGP0S1Jjj/theme/dark/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Amazon": {
+    "email": "https://cdn.brandfetch.io/idawOgYOsG/w/800/h/800/theme/dark/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idawOgYOsG/theme/dark/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "ispace": {
+    "email": "https://cdn.brandfetch.io/id-4hpaE3W/w/820/h/202/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/id-4hpaE3W/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Welch's": {
+    "email": "https://cdn.brandfetch.io/idQl2QFj1_/w/820/h/221/theme/light/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idQl2QFj1_/theme/light/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Apple": {
+    "email": "https://cdn.brandfetch.io/idnrCPuv87/w/800/h/978/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idnrCPuv87/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "IBM": {
+    "email": "https://cdn.brandfetch.io/id96Wr6CsL/w/500/h/203/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idnrCPuv87/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Salesforce": {
+    "email": "https://cdn.brandfetch.io/idVE84WdIN/w/800/h/560/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idVE84WdIN/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "LinkedIn": {
+    "email": "https://cdn.brandfetch.io/idJFz6sAsl/w/800/h/683/theme/dark/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idJFz6sAsl/theme/dark/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Intel": {
+    "email": "https://cdn.brandfetch.io/idTGhLyv09/w/800/h/316/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idTGhLyv09/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Autodesk": {
+    "email": "https://cdn.brandfetch.io/id_6bobPbH/w/800/h/545/theme/dark/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/id_6bobPbH/theme/dark/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Bank of America": {
+    "email": "https://cdn.brandfetch.io/ide4lTCz-B/w/800/h/433/theme/dark/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/ide4lTCz-B/theme/dark/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Blue Origin": {
+    "email": "https://cdn.brandfetch.io/idpaQY98E7/w/800/h/407/theme/light/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idpaQY98E7/theme/light/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Liberty Mutual": {
+    "email": "https://cdn.brandfetch.io/idrn8N1xva/w/800/h/1069/theme/light/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idrn8N1xva/theme/light/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Optiver": {
+    "email": "https://cdn.brandfetch.io/idpGQOL6f-/w/800/h/795/theme/dark/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idpGQOL6f-/theme/dark/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "PayPal": {
+    "email": "https://cdn.brandfetch.io/id-Wd4a4TS/w/800/h/964/theme/dark/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/id-Wd4a4TS/theme/dark/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Wayfair": {
+    "email": "https://cdn.brandfetch.io/idSfovRbnq/w/800/h/800/theme/dark/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idSfovRbnq/theme/dark/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Citadel": {
+    "email": "https://cdn.brandfetch.io/idVrQYaF_a/w/800/h/400/theme/dark/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idVrQYaF_a/theme/dark/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Airbnb": {
+    "email": "https://cdn.brandfetch.io/idkuvXnjOH/w/800/h/863/theme/light/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idkuvXnjOH/theme/light/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Cisco": {
+    "email": "https://cdn.brandfetch.io/ida_xaMYlM/w/800/h/421/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/ida_xaMYlM/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Hudson River Trading": {
+    "email": "https://cdn.brandfetch.io/id7aXCgkjv/w/800/h/467/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/id7aXCgkjv/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Morgan Stanley": {
+    "email": "https://cdn.brandfetch.io/idBGtJQnXa/w/800/h/115/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idBGtJQnXa/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Spotify": {
+    "email": "https://cdn.brandfetch.io/id20mQyGeY/w/800/h/800/theme/light/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/id20mQyGeY/theme/light/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "TwoSigma": {
+    "email": "https://cdn.brandfetch.io/idRZ3IEcnm/w/800/h/800/theme/light/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idRZ3IEcnm/theme/light/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Waymo": {
+    "email": "https://cdn.brandfetch.io/idlzTWaeQo/w/800/h/731/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idlzTWaeQo/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Stripe": {
+    "email": "https://cdn.brandfetch.io/idxAg10C0L/w/800/h/380/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idxAg10C0L/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Snap": {
+    "email": "https://cdn.brandfetch.io/id-lroGNM3/w/800/h/800/theme/light/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/id-lroGNM3/theme/light/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Ramp": {
+    "email": "https://cdn.brandfetch.io/idWQ_FWEk6/w/800/h/674/theme/dark/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idWQ_FWEk6/theme/dark/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Workday": {
+    "email": "https://cdn.brandfetch.io/id0V-YF4nE/w/800/h/322/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/id0V-YF4nE/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Atlassian": {
+    "email": "https://cdn.brandfetch.io/idlQIwGMOK/w/800/h/800/theme/light/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idlQIwGMOK/theme/light/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Cohere": {
+    "email": "https://cdn.brandfetch.io/idfDTLvPCK/w/800/h/800/theme/light/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idfDTLvPCK/theme/light/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Riot Games": {
+    "email": "https://cdn.brandfetch.io/idtxF1ugCc/w/800/h/744/theme/light/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idtxF1ugCc/theme/light/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Datadog": {
+    "email": "https://cdn.brandfetch.io/idg33VVWFZ/w/800/h/856/theme/dark/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idg33VVWFZ/theme/dark/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Doordash": {
+    "email": "https://cdn.brandfetch.io/idrVhdDocf/w/800/h/455/theme/light/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idrVhdDocf/theme/light/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "MongoDB": {
+    "email": "https://cdn.brandfetch.io/ideyyfT0Lp/w/800/h/1713/theme/light/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/ideyyfT0Lp/theme/light/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Slack": {
+    "email": "https://cdn.brandfetch.io/idJ_HhtG0Z/w/800/h/800/theme/light/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idJ_HhtG0Z/theme/light/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Splunk": {
+    "email": "https://cdn.brandfetch.io/idWxR3ZEqC/w/800/h/238/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idWxR3ZEqC/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Amazon Robotics": "https://cdn.brandfetch.io/idJU2dPbhX/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028515967bfumLaCV7mPEUn1oAC",
+  "AMD": {
+    "email": "https://cdn.brandfetch.io/idnN8KdbKa/w/800/h/800/theme/dark/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idnN8KdbKa/theme/dark/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "TikTok": {
+    "email": "https://cdn.brandfetch.io/id-0D6OFrq/w/800/h/905/theme/light/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/id-0D6OFrq/theme/light/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Robinhood": {
+    "email": "https://cdn.brandfetch.io/id3WzK3p17/w/800/h/879/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/id3WzK3p17/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "SpaceX": {
+    "email": "https://cdn.brandfetch.io/id2g3lee9x/w/800/h/100/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/id2g3lee9x/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Intuit": {
+    "email": "https://cdn.brandfetch.io/idWrWLZ_I5/w/800/h/161/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idWrWLZ_I5/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Nokia": {
+    "email": "https://cdn.brandfetch.io/idM1ou2VCU/w/800/h/188/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idM1ou2VCU/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "EA": {
+    "email": "https://cdn.brandfetch.io/idT4nN4-os/w/800/h/800/theme/light/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idT4nN4-os/theme/light/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Rivian": {
+    "email": "https://cdn.brandfetch.io/idqxjbqPJk/w/800/h/111/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idqxjbqPJk/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Palantir": {
+    "email": "https://cdn.brandfetch.io/id4EZOUw_e/w/800/h/1023/theme/light/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/id4EZOUw_e/theme/light/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Expedia": {
+    "email": "https://cdn.brandfetch.io/idF_o8slu-/w/800/h/803/theme/light/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idF_o8slu-/theme/light/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Susquehanna": {
+    "email": "https://cdn.brandfetch.io/idCAAWH2Y9/w/848/h/182/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idF_o8slu-/theme/light/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Roblox": {
+    "email": "https://cdn.brandfetch.io/id1oKmlNbs/w/800/h/783/theme/dark/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/id1oKmlNbs/theme/dark/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "ByteDance": {
+    "email": "https://cdn.brandfetch.io/idpvLdHQW7/w/800/h/138/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idpvLdHQW7/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Jane Street": {
+    "email": "https://cdn.brandfetch.io/idfBU0fBY8/w/800/h/800/theme/light/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idfBU0fBY8/theme/light/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Oracle": {
+    "email": "https://cdn.brandfetch.io/idnq7H7qT0/w/800/h/508/theme/dark/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idnq7H7qT0/theme/dark/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Asana": {
+    "email": "https://cdn.brandfetch.io/idxPi2Evsk/w/800/h/161/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idxPi2Evsk/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Grammarly": {
+    "email": "https://cdn.brandfetch.io/iddd_fYAYR/w/800/h/792/theme/light/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/iddd_fYAYR/theme/light/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Adobe": {
+    "email": "https://cdn.brandfetch.io/id_KsyK7J9/w/800/h/800/theme/light/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/id_KsyK7J9/theme/light/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Databricks": {
+    "email": "https://cdn.brandfetch.io/idSUrLOWbH/w/800/h/840/theme/dark/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idSUrLOWbH/theme/dark/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "TSMC": {
+    "email": "https://cdn.brandfetch.io/idpuqG_7nu/w/820/h/646/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idpuqG_7nu/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Boston Scientific": {
+    "email": "https://cdn.brandfetch.io/idReCDTTz1/w/800/h/600/theme/dark/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idReCDTTz1/theme/dark/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Siemens": {
+    "email": "https://cdn.brandfetch.io/idtwZZpkvB/w/800/h/132/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idtwZZpkvB/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Rockwell Automation": {
+    "email": "https://cdn.brandfetch.io/idCvCK36Pf/w/800/h/800/theme/light/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idCvCK36Pf/theme/light/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "X": {
+    "email": "https://cdn.brandfetch.io/id3elZ9Rhl/w/800/h/857/theme/light/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/id3elZ9Rhl/theme/light/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Verkada": {
+    "email": "https://cdn.brandfetch.io/idCLXeli5r/w/800/h/559/theme/dark/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idCLXeli5r/theme/dark/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Neuralink": {
+    "email": "https://cdn.brandfetch.io/iddV7cvXcS/w/800/h/503/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/iddV7cvXcS/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Zipline": "https://cdn.brandfetch.io/id_oSYol9U/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028524273bfumLaCV7mY4n6coPJ",
+  "Cloudflare": {
+    "email": "https://cdn.brandfetch.io/idJ3Cg8ymG/w/800/h/200/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idJ3Cg8ymG/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Capital One": {
+    "email": "https://cdn.brandfetch.io/idYFfMZte4/w/800/h/287/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idYFfMZte4/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Deloitte": {
+    "email": "https://cdn.brandfetch.io/idIu-Ji9Le/w/800/h/149/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idIu-Ji9Le/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Roku": {
+    "email": "https://cdn.brandfetch.io/idgsqETs2x/w/800/h/236/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idgsqETs2x/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Unity": {
+    "email": "https://cdn.brandfetch.io/idEc0EPR9J/w/800/h/903/theme/light/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idEc0EPR9J/theme/light/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Github": {
+    "email": "https://cdn.brandfetch.io/idZAyF9rlg/w/800/h/784/theme/light/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idZAyF9rlg/theme/light/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "RedHat": {
+    "email": "https://cdn.brandfetch.io/idv-kXnBLU/w/800/h/606/theme/light/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idv-kXnBLU/theme/light/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Boston Dynamics": {
+    "email": "https://cdn.brandfetch.io/idtu7CFTG5/w/820/h/196/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idtu7CFTG5/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Epic Games": {
+    "email": "https://cdn.brandfetch.io/idjxHPThVp/w/800/h/929/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idjxHPThVp/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Twitch": {
+    "email": "https://cdn.brandfetch.io/idIwZCwD2f/w/800/h/933/theme/light/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idIwZCwD2f/theme/light/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Visa": {
+    "email": "https://cdn.brandfetch.io/idhem73aId/w/800/h/259/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idhem73aId/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Replit": {
+    "email": "https://cdn.brandfetch.io/ido8Wu58rI/w/800/h/960/theme/dark/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/ido8Wu58rI/theme/dark/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Vercel": {
+    "email": "https://cdn.brandfetch.io/idDpCfN4VD/w/800/h/693/theme/light/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idDpCfN4VD/theme/light/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Hugging Face": {
+    "email": "https://cdn.brandfetch.io/idGqKHD5xE/w/800/h/741/theme/dark/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idGqKHD5xE/theme/dark/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Verizon": {
+    "email": "https://cdn.brandfetch.io/idXhrQrb5t/w/800/h/179/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idXhrQrb5t/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Notion": {
+    "email": "https://cdn.brandfetch.io/idPYUoikV7/w/800/h/839/theme/light/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idPYUoikV7/theme/light/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Genesis Therapeutics": {
+    "email": "https://cdn.brandfetch.io/idXNv6cO44/w/256/h/256/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idPYUoikV7/theme/light/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Duolingo": {
+    "email": "https://cdn.brandfetch.io/id4D-_pnvt/w/800/h/187/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/id4D-_pnvt/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Scale AI": {
+    "email": "https://cdn.brandfetch.io/idLdViRnHy/w/800/h/257/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idLdViRnHy/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Coinbase": {
+    "email": "https://cdn.brandfetch.io/idwDWo4ONQ/w/800/h/143/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idwDWo4ONQ/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Disney": {
+    "email": "https://cdn.brandfetch.io/idrbPzQywU/w/800/h/121/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idrbPzQywU/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Goldman Sachs": {
+    "email": "https://cdn.brandfetch.io/id7L59h6d0/w/800/h/336/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/id7L59h6d0/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Beli": {
+    "email": "https://cdn.brandfetch.io/id4Icd7Iax/w/800/h/180/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/id4Icd7Iax/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Relativity": {
+    "email": "https://cdn.brandfetch.io/idQ7FlmwOb/w/101/h/101/theme/dark/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/id4Icd7Iax/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Qualcomm": {
+    "email": "https://cdn.brandfetch.io/id57CH5xdF/w/800/h/147/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/id57CH5xdF/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Leidos": {
+    "email": "https://cdn.brandfetch.io/idWvgGBR4Z/w/800/h/396/theme/light/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idWvgGBR4Z/theme/light/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Radix Trading": {
+    "email": "https://cdn.brandfetch.io/idMdbZclZ_/w/200/h/33/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idWvgGBR4Z/theme/light/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Razer": {
+    "email": "https://cdn.brandfetch.io/idnspCY_WO/w/800/h/804/theme/dark/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idnspCY_WO/theme/dark/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Docusign": {
+    "email": "https://cdn.brandfetch.io/idZbuqxRqz/w/800/h/161/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idZbuqxRqz/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Konrad": {
+    "email": "https://cdn.brandfetch.io/idBnfwgwQd/w/628/h/108/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idZbuqxRqz/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Tencent": {
+    "email": "https://cdn.brandfetch.io/idPf1s-Y7S/w/800/h/107/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idPf1s-Y7S/theme/dark/logo.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Point72": {
+    "email": "https://cdn.brandfetch.io/iddWgJzSBG/w/800/h/800/theme/light/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/iddWgJzSBG/theme/light/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Sentry": {
+    "email": "https://cdn.brandfetch.io/idag_928SW/w/800/h/734/theme/light/symbol.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idag_928SW/theme/light/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "Comcast": {
+    "email": "https://cdn.brandfetch.io/idSmHMOOGq/w/57/h/57/theme/dark/logo.png?c=1bxid3bKTXJOZrAJIbJyu",
+    "readme": "https://cdn.brandfetch.io/idag_928SW/theme/light/symbol.svg?c=1bxid3bKTXJOZrAJIbJyu"
+  },
+  "HP": "https://cdn.brandfetch.io/idntgPecbn/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028532049bfumLaCV7mmSJkNlCK",
+  "Skydio": "https://cdn.brandfetch.io/idqm3gcTLX/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028532208bfumLaCV7mud-wXmrz",
+  "Sony": "https://cdn.brandfetch.io/ido0LYg_hc/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028532418bfumLaCV7mDQUD3la5",
+  "UKG": "https://cdn.brandfetch.io/idYNOD4MeX/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028532615bfumLaCV7mjhGntUOb",
+  "Target": "https://cdn.brandfetch.io/id0ZfAM4Dt/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028532896bfumLaCV7mUEc3djH7",
+  "Amentum": "https://cdn.brandfetch.io/idvuDkuJ3e/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028533067bfumLaCV7mzdJ2qIhY",
+  "Boeing": "https://cdn.brandfetch.io/idNLUN4t9U/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028533424bfumLaCV7mrK6g4AQj",
+  "DRW": "https://cdn.brandfetch.io/idGl-WBe5I/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752068651600bfumLaCV7mPxSIFZ1D"
+}
