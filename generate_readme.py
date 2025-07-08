@@ -62,7 +62,7 @@ def generate_readme(jobs: dict, links: dict) -> str:
 
             icon_url = icons.get(company)
             icon_html = (
-                f'<img src="{icon_url}" alt="{company} logo" height="20" style="vertical-align:middle; margin-right:6px;" />'
+                f'<img src="{icon_url}" alt="{company} logo" height="24" style="vertical-align:middle; margin-right:6px;" />'
                 if icon_url else ""
             )
 
@@ -73,7 +73,7 @@ def generate_readme(jobs: dict, links: dict) -> str:
                 <a name="{anchor_name}"></a>
                 {icon_html}
                 <a href="{links[company]}" target="_blank"
-                style="font-family: Inconsolata, monospace; font-size: 18px; text-decoration: none;">
+                style="font-family: Inconsolata, monospace; font-size: 24px; text-decoration: none;">
                     <strong>{company}</strong> ({len(postings)} roles)
                 </a>
             </div>
