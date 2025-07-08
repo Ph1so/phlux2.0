@@ -21,37 +21,43 @@ def generate_readme(jobs: dict, links: dict) -> str:
     except (FileNotFoundError, json.JSONDecodeError):
         icons = {}
 
-    lines = ["# Phlux\n"]
-    lines.append("## Adding your own companies\n")
-    lines.append("- Run add_company.py\n")
-    lines.append("- Follow the instructions in the command line interface\n")
-    lines.append("- For 'Example job title', when you open the link to the job page just copy and paste the exact title of a random job\n")
-    lines.append("- Just select y or n if the selector is getting all the jobs correctly. Entering y will add the name, link, and selector to companies.csv, so you should make a pr if you want it to be included in the scraping\n")
-    lines.append("Here's an example: ")
-    lines.append("![Using add_company.py](public/cli.png)")
-    lines.append(f"## Current job listings found by phlux ({len(jobs)} companies)\n")
+    lines = ["# 🌀 Phlux: Job Tracker\n"]
+    lines.append("Easily track jobs across top tech companies.\n")
+
+    lines.append("## 🧩 Add Your Own Companies")
+    lines.extend([
+        "- Run `add_company.py`",
+        "- Follow the CLI instructions (see below)",
+        "- Add selector and example job title to `companies.csv`",
+        "- Make a PR to contribute!",
+        "![CLI Example](public/cli.png)",
+    ])
+
+    lines.append(f"\n---\n\n## 📌 Current Job Listings ({len(jobs)} companies)\n")
+
     for company in sorted(jobs):
         postings = jobs[company]
         if not postings:
             continue
+
         icon_url = icons.get(company)
         icon_html = (
-            f'<img src="{icon_url}" alt="{company} logo" height="24" '
-            f'style="vertical-align:middle; position:relative; top:-12px;"> '
-            if icon_url else ""
+            f'<img src="{icon_url}" alt="{company} logo" height="20" style="vertical-align:middle; margin-right:6px;" />'
+            if icon_url else "🏢"
         )
 
-        name = f'<a href="{links[company]}"><strong>{icon_html} {company}</strong></a>'
-        lines.append("<details>")
-        lines.append(f"<summary>{name}</summary>\n")
+        name_html = f'<a href="{links[company]}" target="_blank"><strong>{company}</strong></a>'
+        header_line = f"### {icon_html} {name_html} &nbsp; <sub>({len(postings)} roles)</sub>"
+        lines.append(header_line)
 
         for role in postings:
             cleaned = role.replace("\n", " ").strip()
-            lines.append(f"- {cleaned}")
+            lines.append(f"- 💼 {cleaned}")
 
-        lines.append("</details>\n")
+        lines.append("\n---")
 
     return "\n".join(lines)
+
 
 if __name__ == "__main__":
     # custom_scrapers: List[CompanyScraper] = [JPMorganScraper()]
