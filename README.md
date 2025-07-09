@@ -11,7 +11,7 @@ Easily track jobs across top tech companies.
 
 ---
 
-## 📌 Job Listings found by Phlux (118 companies, 877 roles)
+## 📌 Job Listings found by Phlux (118 companies, 878 roles)
 
 | Company | Role | Date Found |
 |---|---|---|
@@ -19,6 +19,7 @@ Easily track jobs across top tech companies.
 | [<img src="https://cdn.brandfetch.io/idWrWLZ_I5/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117694235bfumLaCV7mUaw_ffT1" alt="Intuit" height="20" style="vertical-align:middle; margin-right:6px;"> Intuit](https://jobs.intuit.com/search-jobs/interns/) | Intern, AI Science | 7/9/2025 |
 | [<img src="https://cdn.brandfetch.io/idCAAWH2Y9/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117695796bfumLaCV7mtbO4irfX" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna](https://careers.sig.com/global-susquehanna-jobs) | Staff Accountant | 7/9/2025 |
 | [<img src="https://cdn.brandfetch.io/idCAAWH2Y9/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117695796bfumLaCV7mtbO4irfX" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna](https://careers.sig.com/global-susquehanna-jobs) | HPC Developer | 7/9/2025 |
+| [<img src="https://cdn.brandfetch.io/idCAAWH2Y9/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117695796bfumLaCV7mtbO4irfX" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna](https://careers.sig.com/global-susquehanna-jobs) | Machine Learning Researcher | 7/9/2025 |
 | [<img src="https://cdn.brandfetch.io/idpuqG_7nu/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117697447bfumLaCV7mlGFYeE2Q" alt="TSMC" height="20" style="vertical-align:middle; margin-right:6px;"> TSMC](https://careers.tsmc.com/en_US/careers/SearchJobs/?542=13100&542_format=486&listFilterMode=1&jobRecordsPerPage=100&) | 2025/2026 - Memory Circuit Design Intern (6913) | 7/9/2025 |
 | [<img src="https://cdn.brandfetch.io/idPf1s-Y7S/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117703744bfumLaCV7mpsh4jxZ4" alt="Tencent" height="20" style="vertical-align:middle; margin-right:6px;"> Tencent](https://join.qq.com/post.html?query=p_2,w_407,w_408,w_401&c_t=2) | Product Support Intern 105500 | 7/9/2025 |
 | [<img src="https://cdn.brandfetch.io/idawOgYOsG/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117686662bfumLaCV7mzVFtTtBX" alt="Amazon" height="20" style="vertical-align:middle; margin-right:6px;"> Amazon](https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=recent&country%5B%5D=USA&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=intern&city=&country=&region=&county=&query_options=&) | Quality Inspector - 2nd Shift, Project Kuiper | 7/8/2025 |
