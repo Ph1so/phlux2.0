@@ -135,11 +135,12 @@ def main() -> None:
     susquehanna_jobs = new_jobs.get("companies", {}).get("Susquehanna", {}).get("jobs", [])
     susquehanna_jobs_titles = []
     for job in susquehanna_jobs:
+        if "Summer 2026" in job["title"]:
             susquehanna_jobs_titles.append(job["title"])
     
     print(new_jobs)
     if susquehanna_jobs_titles:
-        print(f"Auto apply: {susquehanna_jobs_titles}")
+        print(f"Auto applying to : {susquehanna_jobs_titles}")
         autoApply(susquehanna_jobs_titles, new_jobs["companies"].get("Susquehanna").get("link"))
         update_internship_tracker(susquehanna_jobs_titles)
 

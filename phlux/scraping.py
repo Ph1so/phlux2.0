@@ -193,8 +193,6 @@ def autoApply(jobs: List[str], url: str):
 
         for job in jobs:
             print(f"Auto Apply Job: {job}")
-            if "Summer 2026" not in job:
-                continue
 
             try:
                 element = WebDriverWait(driver, 15).until(
