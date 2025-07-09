@@ -909,7 +909,12 @@
         "date": "NA"
       }
     ],
-    "TwoSigma": [],
+    "TwoSigma": [
+      {
+        "title": "Quantitative Researcher - Internship [2026 Summer]",
+        "date": "7/9/2025"
+      }
+    ],
     "Waymo": [],
     "Snap": [
       {
@@ -2804,6 +2809,10 @@
       },
       {
         "title": "Assembler",
+        "date": "7/9/2025"
+      },
+      {
+        "title": "Electrical Test Engineer",
         "date": "7/9/2025"
       }
     ],
