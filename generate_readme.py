@@ -59,7 +59,8 @@ def generate_readme(jobs: dict, links: dict) -> str:
 
         company_link = links.get(company, "#")
         if icon_url:
-            linked_company = f"[![{company} logo]({icon_url}) {company}]({company_link})"
+            logo_img = f'<img src="{icon_url}" alt="{company}" height="20" style="vertical-align:middle; margin-right:6px;">'
+            linked_company = f"[{logo_img} {company}]({company_link})"
         else:
             linked_company = f"[{company}]({company_link})"
 
