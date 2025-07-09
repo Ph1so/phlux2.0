@@ -11,7 +11,7 @@ Easily track jobs across top tech companies.
 
 ---
 
-## 📌 Job Listings found by Phlux (118 companies, 888 roles)
+## 📌 Job Listings found by Phlux (118 companies, 889 roles)
 
 | Company | Role | Date Found |
 |---|---|---|
@@ -27,6 +27,7 @@ Easily track jobs across top tech companies.
 | [<img src="https://cdn.brandfetch.io/idpErVRW9n/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752153236704bfumLaCV7mhNO8pJF2" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna](https://careers.sig.com/global-susquehanna-jobs) | Electricity + Natural Gas Analyst Internship: Summer 2026 | 7/9/2025 |
 | [<img src="https://cdn.brandfetch.io/idpErVRW9n/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752153236704bfumLaCV7mhNO8pJF2" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna](https://careers.sig.com/global-susquehanna-jobs) | Business Projects – Senior Business Analyst/Project Manager | 7/9/2025 |
 | [<img src="https://cdn.brandfetch.io/idpuqG_7nu/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117697447bfumLaCV7mlGFYeE2Q" alt="TSMC" height="20" style="vertical-align:middle; margin-right:6px;"> TSMC](https://careers.tsmc.com/en_US/careers/SearchJobs/?542=13100&542_format=486&listFilterMode=1&jobRecordsPerPage=100&) | 2025/2026 - Memory Circuit Design Intern (6913) | 7/9/2025 |
+| [<img src="https://cdn.brandfetch.io/idtu7CFTG5/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117699960bfumLaCV7mmpU_Jquf" alt="Boston Dynamics" height="20" style="vertical-align:middle; margin-right:6px;"> Boston Dynamics](https://bostondynamics.com/careers/#jobs) | Assembler | 7/9/2025 |
 | [<img src="https://cdn.brandfetch.io/ido8Wu58rI/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117700581bfumLaCV7mGi21e0sj" alt="Replit" height="20" style="vertical-align:middle; margin-right:6px;"> Replit](https://jobs.ashbyhq.com/replit) | Deal Desk Administrator - GTM • Foster City, CA (Hybrid) In office M,W,F • Full time | 7/9/2025 |
 | [<img src="https://cdn.brandfetch.io/idPf1s-Y7S/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117703744bfumLaCV7mpsh4jxZ4" alt="Tencent" height="20" style="vertical-align:middle; margin-right:6px;"> Tencent](https://join.qq.com/post.html?query=p_2,w_407,w_408,w_401&c_t=2) | Product Support Intern 105500 | 7/9/2025 |
 | [<img src="https://cdn.brandfetch.io/idPf1s-Y7S/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117703744bfumLaCV7mpsh4jxZ4" alt="Tencent" height="20" style="vertical-align:middle; margin-right:6px;"> Tencent](https://join.qq.com/post.html?query=p_2,w_407,w_408,w_401&c_t=2) | Marketing Operation Intern 105699 | 7/9/2025 |
