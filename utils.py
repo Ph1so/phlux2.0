@@ -28,7 +28,7 @@ def get_driver(headless = True):
 
 def update_icons(companies: List[Company]):
     ICONS_ID = os.environ["ICONS_ID"]
-    ICONS_API = os.environ["ICONS_API"]
+    # ICONS_API = os.environ["ICONS_API"]
     try:
         with open("icons.json", "r", encoding="utf-8") as f:
             icons = json.load(f)
@@ -38,10 +38,10 @@ def update_icons(companies: List[Company]):
     for company in companies:
         name = company.name
         try:
-            # if name not in icons:
-            response = requests.get(f"https://api.brandfetch.io/v2/search/{name}?c={ICONS_ID}")
-            response.raise_for_status()
-            icons[name] = response.json()[0]["icon"]
+            if name not in icons:
+                response = requests.get(f"https://api.brandfetch.io/v2/search/{name}?c={ICONS_ID}")
+                response.raise_for_status()
+                icons[name] = response.json()[0]["icon"]
                 # brandID = response.json()[0]["brandId"]
                 # headers = {
                 #     "Authorization": f"Bearer {ICONS_API}"
