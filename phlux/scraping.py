@@ -199,7 +199,7 @@ def autoApply(jobs: List[str], url: str):
             try:
                 element = WebDriverWait(driver, 15).until(
                     EC.presence_of_element_located((By.XPATH,
-                f"//a[.//div[contains(@class, 'job-title')]/span[normalize-space() = {job}]]"))
+                f"//a[.//div[contains(@class, 'job-title')]/span[normalize-space() = '{job}']]"))
                 )
                 job_seqno = element.get_attribute("data-ph-at-job-seqno-text")
             except NoSuchElementException:
