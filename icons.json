@@ -3,7 +3,7 @@
   "Uber": "https://cdn.brandfetch.io/ididNbiiOd/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117685519bfumLaCV7mBkAA5rKo",
   "Google": "https://cdn.brandfetch.io/id6O2oGzv-/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117685701bfumLaCV7mdiWr-yqB",
   "Nvidia": "https://cdn.brandfetch.io/idXoj5DuCE/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117685877bfumLaCV7mjZj9rIbI",
-  "Meta": "https://cdn.brandfetch.io/idWvz5T3V7/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752028357548bfumLaCV7m78YTfXgP",
+  "Meta": "https://cdn.brandfetch.io/meta.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA",
   "Netflix": "https://cdn.brandfetch.io/ideQwN5lBE/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117686199bfumLaCV7mUUiuQLb1",
   "AWS": "https://cdn.brandfetch.io/idVoqFQ-78/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117686338bfumLaCV7mDMdg1EQ7",
   "Pinterest": "https://cdn.brandfetch.io/idGP0S1Jjj/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117686500bfumLaCV7mS-Vv4PMq",
@@ -111,5 +111,9 @@
   "Target": "https://cdn.brandfetch.io/id0ZfAM4Dt/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117705679bfumLaCV7mykojJBxc",
   "Amentum": "https://cdn.brandfetch.io/idvuDkuJ3e/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117705833bfumLaCV7mSMLDn1C7",
   "Boeing": "https://cdn.brandfetch.io/idNLUN4t9U/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117705995bfumLaCV7mmsMfAAa6",
-  "DRW": "https://cdn.brandfetch.io/idGl-WBe5I/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117706266bfumLaCV7mVUAShFLo"
+  "DRW": "https://cdn.brandfetch.io/idGl-WBe5I/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117706266bfumLaCV7mVUAShFLo",
+  "DE Shaws": "https://cdn.brandfetch.io/deshaw.com/w/301/h/301?c=1id3bKTXJOZMzbEUjOA",
+  "Dassault Systems": "https://cdn.brandfetch.io/3ds.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA",
+  "Scheider Electric": "https://cdn.brandfetch.io/se.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA",
+  "JP Morgan Chase": "https://cdn.brandfetch.io/jpmorganchase.com/w/200/h/200?c=1id3bKTXJOZMzbEUjOA"
 }
