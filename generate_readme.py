@@ -43,8 +43,8 @@ def generate_readme(jobs: dict, links: dict) -> str:
 
 
     # Header row for table
-    lines.append("| Company                | Role | Date Found |")
-    lines.append("|------------------------|------|------------|")
+    lines.append("| Company | Role | Date Found |")
+    lines.append("|---------|------|------------|")
 
     # Collect all jobs into a flat list with metadata
     all_jobs = []
@@ -57,9 +57,12 @@ def generate_readme(jobs: dict, links: dict) -> str:
         if not isinstance(icon_url, str):
             icon_url = icon_url.get("readme", "")
 
-        company_display = f'<img src="{icon_url}" alt="{company}" height="20" style="vertical-align:middle; margin-right:6px;"> {company}' if icon_url else company
         company_link = links.get(company, "#")
-        linked_company = f"[{company_display}]({company_link})"
+        if icon_url:
+            linked_company = f"[![{company} logo]({icon_url}) {company}]({company_link})"
+        else:
+            linked_company = f"[{company}]({company_link})"
+
 
         for role in postings:
             if isinstance(role, dict):
