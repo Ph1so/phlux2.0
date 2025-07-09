@@ -11,11 +11,12 @@ Easily track jobs across top tech companies.
 
 ---
 
-## 📌 Job Listings found by Phlux (118 companies, 876 roles)
+## 📌 Job Listings found by Phlux (118 companies, 877 roles)
 
 | Company | Role | Date Found |
 |---|---|---|
 | [<img src="https://cdn.brandfetch.io/idpGQOL6f-/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117689165bfumLaCV7moI6rkTfl" alt="Optiver" height="20" style="vertical-align:middle; margin-right:6px;"> Optiver](https://optiver.com/working-at-optiver/career-opportunities/page/2/?search=internship&_gl=1*rb345g*_gcl_au*Mjk2MDM5OTE1LjE3NDg5MTM5ODQ.&numberposts=10&level=internship&paged=1) | 2025 Shanghai Machine Learning PhD Internship | 7/9/2025 |
+| [<img src="https://cdn.brandfetch.io/idWrWLZ_I5/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117694235bfumLaCV7mUaw_ffT1" alt="Intuit" height="20" style="vertical-align:middle; margin-right:6px;"> Intuit](https://jobs.intuit.com/search-jobs/interns/) | Intern, AI Science | 7/9/2025 |
 | [<img src="https://cdn.brandfetch.io/idCAAWH2Y9/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117695796bfumLaCV7mtbO4irfX" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna](https://careers.sig.com/global-susquehanna-jobs) | Staff Accountant | 7/9/2025 |
 | [<img src="https://cdn.brandfetch.io/idCAAWH2Y9/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117695796bfumLaCV7mtbO4irfX" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna](https://careers.sig.com/global-susquehanna-jobs) | HPC Developer | 7/9/2025 |
 | [<img src="https://cdn.brandfetch.io/idpuqG_7nu/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117697447bfumLaCV7mlGFYeE2Q" alt="TSMC" height="20" style="vertical-align:middle; margin-right:6px;"> TSMC](https://careers.tsmc.com/en_US/careers/SearchJobs/?542=13100&542_format=486&listFilterMode=1&jobRecordsPerPage=100&) | 2025/2026 - Memory Circuit Design Intern (6913) | 7/9/2025 |
