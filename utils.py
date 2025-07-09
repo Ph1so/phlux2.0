@@ -38,26 +38,28 @@ def update_icons(companies: List[Company]):
     for company in companies:
         name = company.name
         try:
-            if name not in icons:
-                response = requests.get(f"https://api.brandfetch.io/v2/search/{name}?c={ICONS_ID}")
-                response.raise_for_status()
-                brandID = response.json()[0]["brandId"]
-                headers = {
-                    "Authorization": f"Bearer {ICONS_API}"
-                }
-                response = requests.get(f"https://api.brandfetch.io/v2/brands/{brandID}", headers=headers)
-                response.raise_for_status()
-                response: List[dict] = response.json()["logos"]
-                for logo in response:
-                    if logo["type"] == "symbol" or logo["type"] == "logo":
-                        for format in logo["formats"]:
-                            if format["format"] == "svg":
-                                readme = format["src"]
-                            elif format["format"] == "png":
-                                email = format["src"]
-                        icons[name] = {"email": email, "readme": readme}
-                        if logo["type"] == "symbol":
-                            break
+            # if name not in icons:
+            response = requests.get(f"https://api.brandfetch.io/v2/search/{name}?c={ICONS_ID}")
+            response.raise_for_status()
+            icons[name] = response.json()[0]["icon"]
+                # brandID = response.json()[0]["brandId"]
+                # headers = {
+                #     "Authorization": f"Bearer {ICONS_API}"
+                # }
+                # response = requests.get(f"https://api.brandfetch.io/v2/brands/{brandID}", headers=headers)
+                # response.raise_for_status()
+                # response: List[dict] = response.json()["logos"]
+                # for logo in response:
+                #     if logo["type"] == "symbol" or logo["type"] == "logo":
+                #         for format in logo["formats"]:
+                #             if format["format"] == "svg":
+                #                 readme = format["src"]
+                #             elif format["format"] == "png":
+                #                 email = format["src"]
+                #         icons[name] = {"email": email, "readme": readme}
+                #         if logo["type"] == "symbol":
+                #             break
+
         except Exception as e:
             print(f"❌ Failed to get icon for {name}: {e}")
 
