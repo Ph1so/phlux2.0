@@ -43,8 +43,8 @@ def generate_readme(jobs: dict, links: dict) -> str:
 
 
     # Header row for table
-    lines.append("| Company | Role | Date Found |")
-    lines.append("|---|---|---|")
+    lines.append("| Company       | Role | Date Found |")
+    lines.append("|---------------|------|------------|")
 
     # Collect all jobs into a flat list with metadata
     all_jobs = []

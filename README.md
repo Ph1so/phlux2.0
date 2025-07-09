@@ -13,8 +13,8 @@ Easily track jobs across top tech companies.
 
 ## 📌 Job Listings found by Phlux (118 companies, 878 roles)
 
-| Company | Role | Date Found |
-|---|---|---|
+| Company       | Role | Date Found |
+|---------------|------|------------|
 | [<img src="https://cdn.brandfetch.io/idpGQOL6f-/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117689165bfumLaCV7moI6rkTfl" alt="Optiver" height="20" style="vertical-align:middle; margin-right:6px;"> Optiver](https://optiver.com/working-at-optiver/career-opportunities/page/2/?search=internship&_gl=1*rb345g*_gcl_au*Mjk2MDM5OTE1LjE3NDg5MTM5ODQ.&numberposts=10&level=internship&paged=1) | 2025 Shanghai Machine Learning PhD Internship | 7/9/2025 |
 | [<img src="https://cdn.brandfetch.io/idWrWLZ_I5/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117694235bfumLaCV7mUaw_ffT1" alt="Intuit" height="20" style="vertical-align:middle; margin-right:6px;"> Intuit](https://jobs.intuit.com/search-jobs/interns/) | Intern, AI Science | 7/9/2025 |
 | [<img src="https://cdn.brandfetch.io/idpErVRW9n/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752153236704bfumLaCV7mhNO8pJF2" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna](https://careers.sig.com/global-susquehanna-jobs) | Staff Accountant | 7/9/2025 |
