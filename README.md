@@ -11,7 +11,7 @@ Easily track jobs across top tech companies.
 
 ---
 
-## 📌 Job Listings found by Phlux (118 companies, 897 roles)
+## 📌 Job Listings found by Phlux (118 companies, 898 roles)
 
 | Company | Role | Date Found |
 |---|---|---|
@@ -37,6 +37,7 @@ Easily track jobs across top tech companies.
 | [<img src="https://cdn.brandfetch.io/idtu7CFTG5/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117699960bfumLaCV7mmpU_Jquf" alt="Boston Dynamics" height="20" style="vertical-align:middle; margin-right:6px;"> Boston Dynamics](https://bostondynamics.com/careers/#jobs) | Assembler | 7/9/2025 |
 | [<img src="https://cdn.brandfetch.io/idtu7CFTG5/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117699960bfumLaCV7mmpU_Jquf" alt="Boston Dynamics" height="20" style="vertical-align:middle; margin-right:6px;"> Boston Dynamics](https://bostondynamics.com/careers/#jobs) | Electrical Test Engineer | 7/9/2025 |
 | [<img src="https://cdn.brandfetch.io/ido8Wu58rI/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117700581bfumLaCV7mGi21e0sj" alt="Replit" height="20" style="vertical-align:middle; margin-right:6px;"> Replit](https://jobs.ashbyhq.com/replit) | Deal Desk Administrator - GTM • Foster City, CA (Hybrid) In office M,W,F • Full time | 7/9/2025 |
+| [<img src="https://cdn.brandfetch.io/idWvgGBR4Z/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117703003bfumLaCV7mhAwtgEbN" alt="Leidos" height="20" style="vertical-align:middle; margin-right:6px;"> Leidos](https://careers.leidos.com/pages/intern-jobs?ns_landing_page_jobs=/search/job-level/intern/jobs/in/country/united-states?ns_landing_page=1) | Bioinformatics Developer Fellow | 7/9/2025 |
 | [<img src="https://cdn.brandfetch.io/idPf1s-Y7S/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117703744bfumLaCV7mpsh4jxZ4" alt="Tencent" height="20" style="vertical-align:middle; margin-right:6px;"> Tencent](https://join.qq.com/post.html?query=p_2,w_407,w_408,w_401&c_t=2) | Product Support Intern 105500 | 7/9/2025 |
 | [<img src="https://cdn.brandfetch.io/idPf1s-Y7S/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117703744bfumLaCV7mpsh4jxZ4" alt="Tencent" height="20" style="vertical-align:middle; margin-right:6px;"> Tencent](https://join.qq.com/post.html?query=p_2,w_407,w_408,w_401&c_t=2) | Marketing Operation Intern 105699 | 7/9/2025 |
 | [<img src="https://cdn.brandfetch.io/idqm3gcTLX/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117705092bfumLaCV7mllI_mqS_" alt="Skydio" height="20" style="vertical-align:middle; margin-right:6px;"> Skydio](https://www.skydio.com/careers#job-listing) | Electrical Engineering Internship Co-op (3+ Months) - Fall 2025 | 7/9/2025 |
