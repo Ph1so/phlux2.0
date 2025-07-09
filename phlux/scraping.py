@@ -6,6 +6,7 @@ from pathlib import Path
 from typing import Dict, List
 from concurrent.futures import ProcessPoolExecutor, as_completed
 from datetime import datetime
+import pytz
 
 import requests
 from selenium.common.exceptions import NoSuchElementException, WebDriverException, TimeoutException
@@ -155,7 +156,8 @@ def process_jobs(data, result: ScrapeResult, new_jobs: Dict) -> None:
     existing = data.setdefault("companies", {}).get(result.name, [])
     new_list = []
 
-    today = datetime.now().strftime("%-m/%-d/%Y")
+    eastern_timezone = pytz.timezone('US/Eastern')
+    today = datetime.now(eastern_timezone).strftime("%-m/%-d/%Y")
 
     # Make sure to only compare job titles for uniqueness
     existing_titles = {j["title"] if isinstance(j, dict) else j for j in existing}

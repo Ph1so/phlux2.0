@@ -9,6 +9,7 @@ from pathlib import Path
 from typing import List
 import os
 from datetime import datetime
+import pytz
 
 import requests
 from selenium.webdriver.common.by import By
@@ -111,7 +112,8 @@ def update_internship_tracker(jobs: List[str]) -> None:
 
     col_values = worksheet.col_values(1)
     start_row = len(col_values) + 1
-    now = f"{datetime.now().month}/{datetime.now().day}/{datetime.now().year}"
+    eastern_timezone = pytz.timezone('US/Eastern')
+    now = f"{datetime.now(eastern_timezone).month}/{datetime.now(eastern_timezone).day}/{datetime.now(eastern_timezone).year}"
 
     rows = [[job, now, "Applied"] for job in jobs]
     end_row = start_row + len(rows) - 1
