@@ -117,4 +117,4 @@ Target,https://corporate.target.com/careers/job-search?referral=job-search-link&
 Amentum,https://www.amentumcareers.com/jobs/search?page=1&country_codes%5B%5D=US&query=%22Intern%22,CLICK:.btn.btn-success.consent-agree->CSS:td.job-search-results-title
 Boeing,https://jobs.boeing.com/category/internship-jobs/185/9287/1,CSS:.search-results__job-title
 DRW,https://job-boards.greenhouse.io/drweng?departments%5B%5D=87404,CSS:.p.body.body--medium
-Kodiak Robotics,https://kodiak.ai/careers,CSS:.opportunities_name__grIHn->FILTER:intern
+Kodiak Robotics,https://job-boards.greenhouse.io/kodiak?departments%5B%5D=4004934009,CSS:a p.body.body--medium
