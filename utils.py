@@ -10,21 +10,36 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 from phlux.models import Company
 
+import undetected_chromedriver as uc
+
 CHROME_DRIVER_PATH = ChromeDriverManager().install()
 
-def get_driver(headless = True):
-    options = Options()
-    if headless:
-        options.add_argument("--headless")
-    options.add_argument("--disable-gpu")
-    options.add_argument("--window-size=1920x1080")
-    options.add_argument("--no-sandbox")
-    options.add_argument("--disable-dev-shm-usage")
-    options.add_argument(
-        "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
-    )
+def get_driver(headless=True, use_undetected=False):
+    if use_undetected:
+        options = uc.ChromeOptions()
+        if headless:
+            options.headless = True
+        options.add_argument("--disable-gpu")
+        options.add_argument("--window-size=1920x1080")
+        options.add_argument("--no-sandbox")
+        options.add_argument("--disable-dev-shm-usage")
+        options.add_argument(
+            "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+        )
+        return uc.Chrome(options=options)
 
-    return webdriver.Chrome(service=Service(CHROME_DRIVER_PATH), options=options)
+    else:
+        options = Options()
+        if headless:
+            options.add_argument("--headless")
+        options.add_argument("--disable-gpu")
+        options.add_argument("--window-size=1920x1080")
+        options.add_argument("--no-sandbox")
+        options.add_argument("--disable-dev-shm-usage")
+        options.add_argument(
+            "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+        )
+        return webdriver.Chrome(service=Service(CHROME_DRIVER_PATH), options=options)
 
 def update_icons(companies: List[Company]):
     ICONS_ID = os.environ["ICONS_ID"]
@@ -41,7 +56,9 @@ def update_icons(companies: List[Company]):
             if name not in icons:
                 response = requests.get(f"https://api.brandfetch.io/v2/search/{name}?c={ICONS_ID}")
                 response.raise_for_status()
-                icons[name] = f"https://cdn.brandfetch.io/{response.json()[0]["domain"]}/w/400/h/400?c={ICONS_ID}"
+                domain = response.json()[0]["domain"]
+                icons[name] = f"https://cdn.brandfetch.io/{domain}/w/400/h/400?c={ICONS_ID}"
+
                 # brandID = response.json()[0]["brandId"]
                 # headers = {
                 #     "Authorization": f"Bearer {ICONS_API}"

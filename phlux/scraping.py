@@ -24,7 +24,8 @@ from .scrapers import CompanyScraper, JPMorganScraper
 CSS = "CSS"
 CLICK = "CLICK"
 FILTER = "FILTER"
-ACTION_TYPES = [CSS, CLICK, FILTER]
+UNDETECTED = "UNDETECTED"
+ACTION_TYPES = [CSS, CLICK, FILTER, UNDETECTED]
 
 class Actions:
     def __init__(self, actions: List[str]):
@@ -43,24 +44,31 @@ class Actions:
     def has_flag(self, action: str, flag: str) -> bool:
         return f":{flag}" in action
 
-
 @retry(wait=wait_fixed(5), stop=stop_after_attempt(5))
 def get_jobs_headless(name: str, urls: str, instructions: str, headless=True, test=False) -> List[str]:
-    """Scrape job titles from ``url`` using a sequence of instructions."""
-    driver = get_driver(headless=headless)
-    if instructions[0] == '"' and instructions[-1] == '"':
-        instructions = instructions[1,-1]
+    """Scrape job titles from `url` using a sequence of actions like CLICK, CSS, FILTER, UNDETECTED."""
+    
+    # Clean quote wrapping, e.g. "CSS:.job-title" -> CSS:.job-title
+    if instructions.startswith('"') and instructions.endswith('"'):
+        instructions = instructions[1:-1]
+
     actions = Actions(instructions.split("->"))
+    use_undetected = any(a.strip() == UNDETECTED for a in actions)
+    
+    driver = get_driver(headless=headless, use_undetected=use_undetected)
     jobs = []
+
     try:
         for url in urls.split("->"):
             try:
                 driver.get(url)
                 time.sleep(3)
-                # with open("debug_page_source.html", "w", encoding="utf-8") as f:
-                #     f.write(driver.page_source)
-                # print("✅ Saved full page HTML to debug_page_source.html")
+
                 for action in actions:
+                    action = action.strip()
+                    if action == UNDETECTED:
+                        continue  # Already handled by flag
+
                     if ":" not in action:
                         print(f"\u26a0\ufe0f Invalid action format: {action}")
                         continue
@@ -100,10 +108,9 @@ def get_jobs_headless(name: str, urls: str, instructions: str, headless=True, te
                                 if text:
                                     jobs.append(text)
 
-
                     elif action_type == CLICK:
                         try:
-                            if selector[0] == "'" and selector[-1] == "'":
+                            if selector.startswith("'") and selector.endswith("'"):
                                 xpath_text = selector[1:-1]
                                 element = WebDriverWait(driver, 15).until(
                                     EC.presence_of_element_located((By.XPATH, xpath_text))
@@ -133,14 +140,20 @@ def get_jobs_headless(name: str, urls: str, instructions: str, headless=True, te
             except TimeoutException:
                 print(f"Timeout for {name} at {url}")
                 continue
+
     finally:
         if test:
             time.sleep(60)
-        driver.quit()
-    if jobs == []:
+        try:
+            driver.quit()
+        except Exception:
+            pass
+
+    if not jobs:
         print(f"\u274c No jobs found - {name}")
     else:
         print(f"\u2705 Jobs found - {name}")
+
     return jobs
 
 def load_company_data(csv_path: Path = Path("companies.csv")) -> List[Company]:
