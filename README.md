@@ -11,7 +11,7 @@ Easily track jobs across top tech companies.
 
 ---
 
-## 📌 Job Listings found by Phlux (119 companies, 931 roles)
+## 📌 Job Listings found by Phlux (120 companies, 932 roles)
 
 | Company | Role | Date Found |
 |---|---|---|
@@ -47,6 +47,7 @@ Easily track jobs across top tech companies.
 | [Kodiak Robotics](https://job-boards.greenhouse.io/kodiak?departments%5B%5D=4004934009) | Fall 2025 Onboard Infrastructure EngineerNew | 7/10/2025 |
 | [Kodiak Robotics](https://job-boards.greenhouse.io/kodiak?departments%5B%5D=4004934009) | Winter 2026 Intern, Artificial Intelligence/Machine LearningNew | 7/10/2025 |
 | [Kodiak Robotics](https://job-boards.greenhouse.io/kodiak?departments%5B%5D=4004934009) | Winter 2026 Intern, PerceptionNew | 7/10/2025 |
+| [<img src="https://cdn.brandfetch.io/xiaopeng.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="XPENG" height="20" style="vertical-align:middle; margin-right:6px;"> XPENG](https://job-boards.greenhouse.io/xpengmotors?keyword=intern) | Research Intern | 7/10/2025 |
 | [<img src="https://cdn.brandfetch.io/amazon.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Amazon" height="20" style="vertical-align:middle; margin-right:6px;"> Amazon](https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=recent&country%5B%5D=USA&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=intern&city=&country=&region=&county=&query_options=&) | Jr. Software Development Engineer - San Diego, CA, Jr. Developer Program | 7/9/2025 |
 | [<img src="https://cdn.brandfetch.io/optiver.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Optiver" height="20" style="vertical-align:middle; margin-right:6px;"> Optiver](https://optiver.com/working-at-optiver/career-opportunities/page/2/?search=internship&_gl=1*rb345g*_gcl_au*Mjk2MDM5OTE1LjE3NDg5MTM5ODQ.&numberposts=10&level=internship&paged=1) | 2025 Shanghai Machine Learning PhD Internship | 7/9/2025 |
 | [<img src="https://cdn.brandfetch.io/twosigma.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="TwoSigma" height="20" style="vertical-align:middle; margin-right:6px;"> TwoSigma](https://careers.twosigma.com/careers/OpenRoles/?5086=%5B16718737%5D&5086_format=3149&listFilterMode=1&jobRecordsPerPage=10&) | Quantitative Researcher - Internship [2026 Summer] | 7/9/2025 |
