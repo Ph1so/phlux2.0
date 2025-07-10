@@ -11,7 +11,7 @@ Easily track jobs across top tech companies.
 
 ---
 
-## 📌 Job Listings found by Phlux (118 companies, 917 roles)
+## 📌 Job Listings found by Phlux (118 companies, 918 roles)
 
 | Company | Role | Date Found |
 |---|---|---|
@@ -29,6 +29,7 @@ Easily track jobs across top tech companies.
 | [<img src="https://cdn.brandfetch.io/janestreet.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Jane Street" height="20" style="vertical-align:middle; margin-right:6px;"> Jane Street](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=new-york) | Network Engineer | 7/10/2025 |
 | [<img src="https://cdn.brandfetch.io/janestreet.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Jane Street" height="20" style="vertical-align:middle; margin-right:6px;"> Jane Street](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=new-york) | Tools and Compilers Research and Development | 7/10/2025 |
 | [<img src="https://cdn.brandfetch.io/janestreet.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Jane Street" height="20" style="vertical-align:middle; margin-right:6px;"> Jane Street](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=new-york) | Trading Desk Operations Engineer | 7/10/2025 |
+| [<img src="https://cdn.brandfetch.io/bytedance.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ByteDance" height="20" style="vertical-align:middle; margin-right:6px;"> ByteDance](https://jobs.bytedance.com/en/position?keywords=&category=&location=CT_1103355%2CCT_157%2CCT_94%2CCT_114%2CCT_100764%2CCT_75%2CCT_233%2CCT_203&project=7322364514224687370%2C7503447747358361864&type=3&job_hot_flag=&current=1&limit=10&functionCategory=&tag=) | Backend Software Engineer Intern (Product RD and Infrastructure-Global E-Commerce Content)- 2025 Fall(BS/MS) | 7/10/2025 |
 | [<img src="https://cdn.brandfetch.io/flyzipline.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zipline" height="20" style="vertical-align:middle; margin-right:6px;"> Zipline](https://www.zipline.com/careers/open-roles?search=intern#) | Engineering Technician - Materials Test - Engineering - South San Francisco, California, USA | 7/10/2025 |
 | [<img src="https://cdn.brandfetch.io/replit.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Replit" height="20" style="vertical-align:middle; margin-right:6px;"> Replit](https://jobs.ashbyhq.com/replit) | AI Chief of Staff - Engineering • Foster City, CA (Hybrid) In office M,W,F • Full time | 7/10/2025 |
 | [<img src="https://cdn.brandfetch.io/hp.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="HP" height="20" style="vertical-align:middle; margin-right:6px;"> HP](https://apply.hp.com/careers?query=internship&Seniority=graduate&Seniority=internship&Seniority=Apprenticeship&domain=hp.com) | Content Management Intern | 7/10/2025 |
