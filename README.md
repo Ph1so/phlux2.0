@@ -11,12 +11,13 @@ Easily track jobs across top tech companies.
 
 ---
 
-## 📌 Job Listings found by Phlux (118 companies, 916 roles)
+## 📌 Job Listings found by Phlux (118 companies, 917 roles)
 
 | Company | Role | Date Found |
 |---|---|---|
 | [<img src="https://cdn.brandfetch.io/idg33VVWFZ/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117692559bfumLaCV7mzRLyv5oI" alt="Datadog" height="20" style="vertical-align:middle; margin-right:6px;"> Datadog](https://careers.datadoghq.com/early-careers/) | Sales Development Representative - Singapore (Thai Speaking) | 7/10/2025 |
 | [<img src="https://cdn.brandfetch.io/idpErVRW9n/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752153236704bfumLaCV7mhNO8pJF2" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna](https://careers.sig.com/global-susquehanna-jobs) | Machine Learning Internship - PhD: 2026 | 7/10/2025 |
+| [<img src="https://cdn.brandfetch.io/idpErVRW9n/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752153236704bfumLaCV7mhNO8pJF2" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna](https://careers.sig.com/global-susquehanna-jobs) | Software Development - Automated Testing | 7/10/2025 |
 | [<img src="https://cdn.brandfetch.io/idfBU0fBY8/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117696302bfumLaCV7mo9gPw01g" alt="Jane Street" height="20" style="vertical-align:middle; margin-right:6px;"> Jane Street](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=new-york) | Quantitative Trader | 7/10/2025 |
 | [<img src="https://cdn.brandfetch.io/idfBU0fBY8/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117696302bfumLaCV7mo9gPw01g" alt="Jane Street" height="20" style="vertical-align:middle; margin-right:6px;"> Jane Street](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=new-york) | Quantitative Researcher | 7/10/2025 |
 | [<img src="https://cdn.brandfetch.io/idfBU0fBY8/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117696302bfumLaCV7mo9gPw01g" alt="Jane Street" height="20" style="vertical-align:middle; margin-right:6px;"> Jane Street](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=new-york) | Machine Learning Researcher | 7/10/2025 |
