@@ -138,7 +138,7 @@ def main() -> None:
         if "Summer 2026" in job["title"]:
             susquehanna_jobs_titles.append(job["title"])
     
-    print(new_jobs)
+    print(json.dumps(new_jobs, indent=2))
     if susquehanna_jobs_titles:
         print(f"Auto applying to : {susquehanna_jobs_titles}")
         autoApply(susquehanna_jobs_titles, new_jobs["companies"].get("Susquehanna").get("link"))
