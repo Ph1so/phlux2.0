@@ -41,7 +41,7 @@ def update_icons(companies: List[Company]):
             if name not in icons:
                 response = requests.get(f"https://api.brandfetch.io/v2/search/{name}?c={ICONS_ID}")
                 response.raise_for_status()
-                icons[name] = response.json()[0]["icon"]
+                icons[name] = f"https://cdn.brandfetch.io/{response.json()[0]["domain"]}/w/400/h/400?c={ICONS_ID}"
                 # brandID = response.json()[0]["brandId"]
                 # headers = {
                 #     "Authorization": f"Bearer {ICONS_API}"
