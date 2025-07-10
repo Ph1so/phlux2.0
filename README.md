@@ -11,7 +11,7 @@ Easily track jobs across top tech companies.
 
 ---
 
-## 📌 Job Listings found by Phlux (118 companies, 915 roles)
+## 📌 Job Listings found by Phlux (118 companies, 916 roles)
 
 | Company | Role | Date Found |
 |---|---|---|
@@ -29,6 +29,7 @@ Easily track jobs across top tech companies.
 | [<img src="https://cdn.brandfetch.io/idfBU0fBY8/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117696302bfumLaCV7mo9gPw01g" alt="Jane Street" height="20" style="vertical-align:middle; margin-right:6px;"> Jane Street](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=new-york) | Tools and Compilers Research and Development | 7/10/2025 |
 | [<img src="https://cdn.brandfetch.io/idfBU0fBY8/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117696302bfumLaCV7mo9gPw01g" alt="Jane Street" height="20" style="vertical-align:middle; margin-right:6px;"> Jane Street](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=new-york) | Trading Desk Operations Engineer | 7/10/2025 |
 | [<img src="https://cdn.brandfetch.io/id_oSYol9U/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117698779bfumLaCV7mwIxQtnVK" alt="Zipline" height="20" style="vertical-align:middle; margin-right:6px;"> Zipline](https://www.zipline.com/careers/open-roles?search=intern#) | Engineering Technician - Materials Test - Engineering - South San Francisco, California, USA | 7/10/2025 |
+| [<img src="https://cdn.brandfetch.io/ido8Wu58rI/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117700581bfumLaCV7mGi21e0sj" alt="Replit" height="20" style="vertical-align:middle; margin-right:6px;"> Replit](https://jobs.ashbyhq.com/replit) | AI Chief of Staff - Engineering • Foster City, CA (Hybrid) In office M,W,F • Full time | 7/10/2025 |
 | [<img src="https://cdn.brandfetch.io/idntgPecbn/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117704394bfumLaCV7mKALfBW5t" alt="HP" height="20" style="vertical-align:middle; margin-right:6px;"> HP](https://apply.hp.com/careers?query=internship&Seniority=graduate&Seniority=internship&Seniority=Apprenticeship&domain=hp.com) | Content Management Intern | 7/10/2025 |
 | [<img src="https://cdn.brandfetch.io/ido0LYg_hc/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117705279bfumLaCV7mtu-JGhnW" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95) | Intern, North American Royalty Administration | 7/10/2025 |
 | [<img src="https://cdn.brandfetch.io/idawOgYOsG/w/128/h/128/fallback/lettermark/icon.webp?c=1ax1752117686662bfumLaCV7mzVFtTtBX" alt="Amazon" height="20" style="vertical-align:middle; margin-right:6px;"> Amazon](https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=recent&country%5B%5D=USA&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=intern&city=&country=&region=&county=&query_options=&) | Jr. Software Development Engineer - San Diego, CA, Jr. Developer Program | 7/9/2025 |
