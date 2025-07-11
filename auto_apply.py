@@ -74,10 +74,6 @@ class AutoApplyBot:
             select_elem = Select(driver.find_element(By.ID, id))  # re-select after wait
 
             options = select_elem.options
-            log.info(f"Available options for '{id}':")
-            for idx, option in enumerate(options):
-                log.info(f"  [{idx}] '{option.text}'")
-
             try:
                 select_elem.select_by_visible_text(value)
                 log.info(f"Selected '{value}' from dropdown '{id}'")
