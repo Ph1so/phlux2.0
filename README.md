@@ -11,12 +11,13 @@ Easily track jobs across top tech companies.
 
 ---
 
-## 📌 Job Listings found by Phlux (125 companies, 979 roles)
+## 📌 Job Listings found by Phlux (125 companies, 980 roles)
 
 | Company | Role | Date Found |
 |---|---|---|
 | [<img src="https://cdn.brandfetch.io/autodesk.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Autodesk" height="20" style="vertical-align:middle; margin-right:6px;"> Autodesk](https://autodesk.wd1.myworkdayjobs.com/uni?jobFamilyGroup=f909d7cccc2d480b8f6af996c7bf8352) | Intern Software Developer, Stagiaire en Développement Logiciel | 7/11 |
 | [<img src="https://cdn.brandfetch.io/nokia.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nokia" height="20" style="vertical-align:middle; margin-right:6px;"> Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?lastSelectedFacet=TITLES&location=United+States&locationId=300000000480126&locationLevel=country&mode=location&selectedTitlesFacet=TRA) | Data fabric and network automation Co-op | 7/11 |
+| [<img src="https://cdn.brandfetch.io/nokia.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nokia" height="20" style="vertical-align:middle; margin-right:6px;"> Nokia](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?lastSelectedFacet=TITLES&location=United+States&locationId=300000000480126&locationLevel=country&mode=location&selectedTitlesFacet=TRA) | Operations & Transformation Co-op | 7/11 |
 | [<img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna](https://careers.sig.com/global-susquehanna-jobs) | Machine Learning Quantitative Researcher – DDT – Experienced Hire | 7/11 |
 | [<img src="https://cdn.brandfetch.io/github.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Github" height="20" style="vertical-align:middle; margin-right:6px;"> Github](https://www.github.careers/careers-home/jobs?view=search&limit=100&page=1) | Staff Engineering Manager, Web Systems | 7/11 |
 | [<img src="https://cdn.brandfetch.io/visa.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Visa" height="20" style="vertical-align:middle; margin-right:6px;"> Visa](https://careers.smartrecruiters.com/Visa/university-recruiting) | Business Associate - Visa Leadership Accelerator Program (For Fresh Graduates) - Administrative | 7/11 |
