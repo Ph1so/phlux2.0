@@ -170,7 +170,7 @@ def process_jobs(data, result: ScrapeResult, new_jobs: Dict) -> None:
     new_list = []
 
     eastern_timezone = pytz.timezone('US/Eastern')
-    today = datetime.now(eastern_timezone).strftime("%-m/%-d/%Y")
+    today = datetime.now(eastern_timezone).strftime("%-m/%-d")
 
     # Make sure to only compare job titles for uniqueness
     existing_titles = {j["title"] if isinstance(j, dict) else j for j in existing}
