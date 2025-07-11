@@ -71,9 +71,10 @@ def generate_readme(jobs: dict, links: dict) -> str:
 
             # For sorting, convert to datetime (fallback to 1970-01-01 if unknown)
             try:
-                sort_date = datetime.strptime(date_str, "%m/%d/%Y")
+                sort_date = datetime.strptime(date_str, "%m/%d")
             except ValueError:
-                sort_date = datetime(1970, 1, 1)
+                sort_date = datetime.min
+
 
             all_jobs.append((linked_company, title, date_str, sort_date))
 
