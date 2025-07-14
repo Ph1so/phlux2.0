@@ -11,7 +11,7 @@ Easily track jobs across top tech companies.
 
 ---
 
-## 📌 Job Listings found by Phlux (127 companies, 1051 roles)
+## 📌 Job Listings found by Phlux (127 companies, 1053 roles)
 
 | Company | Role | Date Found |
 |---|---|---|
@@ -32,6 +32,8 @@ Easily track jobs across top tech companies.
 | [<img src="https://cdn.brandfetch.io/drw.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="DRW" height="20" style="vertical-align:middle; margin-right:6px;"> DRW](https://job-boards.greenhouse.io/drweng?departments%5B%5D=87404) | CAMPUS RY26 UK Quantitative Trading Analyst Intern New | 7/14 |
 | [<img src="https://cdn.brandfetch.io/drw.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="DRW" height="20" style="vertical-align:middle; margin-right:6px;"> DRW](https://job-boards.greenhouse.io/drweng?departments%5B%5D=87404) | AI Research Intern | 7/14 |
 | [<img src="https://cdn.brandfetch.io/drw.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="DRW" height="20" style="vertical-align:middle; margin-right:6px;"> DRW](https://job-boards.greenhouse.io/drweng?departments%5B%5D=87404) | Leadership Rotation Network Intern | 7/14 |
+| [<img src="https://cdn.brandfetch.io/drw.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="DRW" height="20" style="vertical-align:middle; margin-right:6px;"> DRW](https://job-boards.greenhouse.io/drweng?departments%5B%5D=87404) | Software Developer Intern | 7/14 |
+| [<img src="https://cdn.brandfetch.io/drw.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="DRW" height="20" style="vertical-align:middle; margin-right:6px;"> DRW](https://job-boards.greenhouse.io/drweng?departments%5B%5D=87404) | C++ Software Developer | 7/14 |
 | [<img src="https://cdn.brandfetch.io/medtronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Medtronic" height="20" style="vertical-align:middle; margin-right:6px;"> Medtronic](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers?jobFamilyGroup=be3ab1d7a62801c1c7c82b804a0529d0) | Intern Graduate: Training & Education CRM | 7/14 |
 | [<img src="https://cdn.brandfetch.io/medtronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Medtronic" height="20" style="vertical-align:middle; margin-right:6px;"> Medtronic](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers?jobFamilyGroup=be3ab1d7a62801c1c7c82b804a0529d0) | Intern Graduate: Training & Education CRM | 7/14 |
 | [<img src="https://cdn.brandfetch.io/medtronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Medtronic" height="20" style="vertical-align:middle; margin-right:6px;"> Medtronic](https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers?jobFamilyGroup=be3ab1d7a62801c1c7c82b804a0529d0) | Facilities & Maintenance Excellence Intern | 7/14 |
