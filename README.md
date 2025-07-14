@@ -11,15 +11,18 @@ Easily track jobs across top tech companies.
 
 ---
 
-## 📌 Job Listings found by Phlux (127 companies, 1044 roles)
+## 📌 Job Listings found by Phlux (127 companies, 1047 roles)
 
 | Company | Role | Date Found |
 |---|---|---|
+| [<img src="https://cdn.brandfetch.io/adobe.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Adobe" height="20" style="vertical-align:middle; margin-right:6px;"> Adobe](https://careers.adobe.com/us/en/search-results?qkexperienceLevel=University%20Intern) | Non-Tech Intern BS | 7/14 |
 | [<img src="https://cdn.brandfetch.io/hp.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="HP" height="20" style="vertical-align:middle; margin-right:6px;"> HP](https://apply.hp.com/careers?query=internship&Seniority=graduate&Seniority=internship&Seniority=Apprenticeship&domain=hp.com) | College Intern - Software Development | 7/14 |
 | [<img src="https://cdn.brandfetch.io/hp.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="HP" height="20" style="vertical-align:middle; margin-right:6px;"> HP](https://apply.hp.com/careers?query=internship&Seniority=graduate&Seniority=internship&Seniority=Apprenticeship&domain=hp.com) | College Intern - Supply Chain Operations | 7/14 |
 | [<img src="https://cdn.brandfetch.io/hp.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="HP" height="20" style="vertical-align:middle; margin-right:6px;"> HP](https://apply.hp.com/careers?query=internship&Seniority=graduate&Seniority=internship&Seniority=Apprenticeship&domain=hp.com) | College Intern - Quality Engineering | 7/14 |
 | [<img src="https://cdn.brandfetch.io/hp.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="HP" height="20" style="vertical-align:middle; margin-right:6px;"> HP](https://apply.hp.com/careers?query=internship&Seniority=graduate&Seniority=internship&Seniority=Apprenticeship&domain=hp.com) | College Intern - Business Operations | 7/14 |
 | [<img src="https://cdn.brandfetch.io/hp.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="HP" height="20" style="vertical-align:middle; margin-right:6px;"> HP](https://apply.hp.com/careers?query=internship&Seniority=graduate&Seniority=internship&Seniority=Apprenticeship&domain=hp.com) | College Intern – Manufacturing Engineer in Supply Chain | 7/14 |
+| [<img src="https://cdn.brandfetch.io/hp.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="HP" height="20" style="vertical-align:middle; margin-right:6px;"> HP](https://apply.hp.com/careers?query=internship&Seniority=graduate&Seniority=internship&Seniority=Apprenticeship&domain=hp.com) | College Intern - Electrical Hardware Engineering | 7/14 |
+| [<img src="https://cdn.brandfetch.io/hp.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="HP" height="20" style="vertical-align:middle; margin-right:6px;"> HP](https://apply.hp.com/careers?query=internship&Seniority=graduate&Seniority=internship&Seniority=Apprenticeship&domain=hp.com) | College Intern - Procurement Engineering | 7/14 |
 | [<img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95) | Graphic Design Student Help | 7/14 |
 | [<img src="https://cdn.brandfetch.io/drw.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="DRW" height="20" style="vertical-align:middle; margin-right:6px;"> DRW](https://job-boards.greenhouse.io/drweng?departments%5B%5D=87404) | IT InternNew | 7/14 |
 | [<img src="https://cdn.brandfetch.io/drw.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="DRW" height="20" style="vertical-align:middle; margin-right:6px;"> DRW](https://job-boards.greenhouse.io/drweng?departments%5B%5D=87404) | Software Developer (C++)New | 7/14 |
