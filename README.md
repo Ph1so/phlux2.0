@@ -11,7 +11,7 @@ Easily track jobs across top tech companies.
 
 ---
 
-## 📌 Job Listings found by Phlux (127 companies, 1067 roles)
+## 📌 Job Listings found by Phlux (127 companies, 1068 roles)
 
 | Company | Role | Date Found |
 |---|---|---|
@@ -26,6 +26,7 @@ Easily track jobs across top tech companies.
 | [<img src="https://cdn.brandfetch.io/janestreet.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Jane Street" height="20" style="vertical-align:middle; margin-right:6px;"> Jane Street](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=new-york) | Cybersecurity Analyst | 7/14 |
 | [<img src="https://cdn.brandfetch.io/adobe.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Adobe" height="20" style="vertical-align:middle; margin-right:6px;"> Adobe](https://careers.adobe.com/us/en/search-results?qkexperienceLevel=University%20Intern) | Non-Tech Intern BS | 7/14 |
 | [<img src="https://cdn.brandfetch.io/github.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Github" height="20" style="vertical-align:middle; margin-right:6px;"> Github](https://www.github.careers/careers-home/jobs?view=search&limit=100&page=1) | Software Engineer II, Copilot Client Platform | 7/14 |
+| [<img src="https://cdn.brandfetch.io/github.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Github" height="20" style="vertical-align:middle; margin-right:6px;"> Github](https://www.github.careers/careers-home/jobs?view=search&limit=100&page=1) | Software Engineer III | 7/14 |
 | [<img src="https://cdn.brandfetch.io/hp.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="HP" height="20" style="vertical-align:middle; margin-right:6px;"> HP](https://apply.hp.com/careers?query=internship&Seniority=graduate&Seniority=internship&Seniority=Apprenticeship&domain=hp.com) | College Intern - Software Development | 7/14 |
 | [<img src="https://cdn.brandfetch.io/hp.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="HP" height="20" style="vertical-align:middle; margin-right:6px;"> HP](https://apply.hp.com/careers?query=internship&Seniority=graduate&Seniority=internship&Seniority=Apprenticeship&domain=hp.com) | College Intern - Supply Chain Operations | 7/14 |
 | [<img src="https://cdn.brandfetch.io/hp.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="HP" height="20" style="vertical-align:middle; margin-right:6px;"> HP](https://apply.hp.com/careers?query=internship&Seniority=graduate&Seniority=internship&Seniority=Apprenticeship&domain=hp.com) | College Intern - Quality Engineering | 7/14 |
