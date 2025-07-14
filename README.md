@@ -11,7 +11,7 @@ Easily track jobs across top tech companies.
 
 ---
 
-## 📌 Job Listings found by Phlux (127 companies, 1069 roles)
+## 📌 Job Listings found by Phlux (127 companies, 1070 roles)
 
 | Company | Role | Date Found |
 |---|---|---|
@@ -23,6 +23,7 @@ Easily track jobs across top tech companies.
 | [<img src="https://cdn.brandfetch.io/tiktok.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="TikTok" height="20" style="vertical-align:middle; margin-right:6px;"> TikTok](https://lifeattiktok.com/search?keyword=&recruitment_id_list=202%2C301&job_category_id_list=&subject_id_list=7322364514224687370%2C7322364513776093449%2C7459987887569733896%2C7459986622530078983&location_code_list=CT_247%2CCT_94%2CCT_243%2CCT_104%2CCT_114%2CCT_75%2CCT_1103355%2CCT_157%2CCT_233&limit=12&offset=0) | Machine Learning Engineer Intern (Search Ads) - 2025 Summer (BS/MS) | 7/14 |
 | [<img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna](https://careers.sig.com/global-susquehanna-jobs) | Software Developer \| Market Data \| Libraries & Tools - New Grad | 7/14 |
 | [<img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna](https://careers.sig.com/global-susquehanna-jobs) | Quantitative Trader Internship: Summer 2026 | 7/14 |
+| [<img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna](https://careers.sig.com/global-susquehanna-jobs) | Operational Risk Analyst | 7/14 |
 | [<img src="https://cdn.brandfetch.io/janestreet.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Jane Street" height="20" style="vertical-align:middle; margin-right:6px;"> Jane Street](https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=new-york) | Cybersecurity Analyst | 7/14 |
 | [<img src="https://cdn.brandfetch.io/adobe.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Adobe" height="20" style="vertical-align:middle; margin-right:6px;"> Adobe](https://careers.adobe.com/us/en/search-results?qkexperienceLevel=University%20Intern) | Non-Tech Intern BS | 7/14 |
 | [<img src="https://cdn.brandfetch.io/flyzipline.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zipline" height="20" style="vertical-align:middle; margin-right:6px;"> Zipline](https://www.zipline.com/careers/open-roles?search=intern#) | Autonomy Infrastructure Engineer - Engineering - South San Francisco, California, USA | 7/14 |
