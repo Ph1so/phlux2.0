@@ -22,7 +22,7 @@ def get_tag_chain_selector(el):
             if class_attr:
                 class_selector = "." + ".".join(class_attr.strip().split())
                 path.insert(0, f"{tag}{class_selector}")
-                break  # Stop at first useful class
+                break 
             else:
                 path.insert(0, tag)
             current = current.find_element(By.XPATH, "..")
