@@ -814,6 +814,26 @@
       {
         "title": "2025 Shanghai Machine Learning PhD Internship",
         "date": "7/9"
+      },
+      {
+        "title": "Quantitative Trading Internship (Summer 2026 \u2013 Shanghai)",
+        "date": "7/14"
+      },
+      {
+        "title": "Quantitative Research Internship, PhD (Summer 2026 -Shanghai)",
+        "date": "7/14"
+      },
+      {
+        "title": "Quantitative Research Internship, Bachelor\u2019s or Master\u2019s (Summer 2026 \u2013 Shanghai)",
+        "date": "7/14"
+      },
+      {
+        "title": "FPGA Engineer Intern (Summer 2026 \u2013 Austin)",
+        "date": "7/14"
+      },
+      {
+        "title": "FPGA Engineer Intern (Summer 2026)",
+        "date": "7/14"
       }
     ],
     "PayPal": [],
@@ -897,6 +917,10 @@
       {
         "title": "Mechanical Engineer (Intern) United States",
         "date": "N/A"
+      },
+      {
+        "title": "ASIC Engineer II (Co-Op) United States",
+        "date": "7/14"
       }
     ],
     "Stripe": [
@@ -1222,6 +1246,10 @@
       {
         "title": "Amazon Robotics - Business Analyst Co-op - Spring or Fall 2025, Global Robotics Delivery",
         "date": "N/A"
+      },
+      {
+        "title": "Amazon Robotics - Data Scientist Co-op - 2025, Science Tooling And Research (STAR)",
+        "date": "7/14"
       }
     ],
     "TikTok": [
@@ -1292,6 +1320,10 @@
       {
         "title": "Software Engineer Intern (Recommendation Infrastructure) - 2025 Summer/Fall (BS/ MS)",
         "date": "7/11"
+      },
+      {
+        "title": "Machine Learning Engineer Intern (Search Ads) - 2025 Summer (BS/MS)",
+        "date": "7/14"
       }
     ],
     "Robinhood": [
@@ -1952,6 +1984,22 @@
       {
         "title": "Team Lead \u2013 Collaboration/Productivity Tech (Leadership Role)",
         "date": "7/11"
+      },
+      {
+        "title": "Machine Learning Systems Engineer",
+        "date": "7/13"
+      },
+      {
+        "title": "Software Developer | Market Data | Libraries & Tools - New Grad",
+        "date": "7/14"
+      },
+      {
+        "title": "Quantitative Trader Internship: Summer 2026",
+        "date": "7/14"
+      },
+      {
+        "title": "Operational Risk Analyst",
+        "date": "7/14"
       }
     ],
     "Jane Street": [
@@ -2058,6 +2106,10 @@
       {
         "title": "Trading Desk Operations Engineer",
         "date": "7/10"
+      },
+      {
+        "title": "Cybersecurity Analyst",
+        "date": "7/14"
       }
     ],
     "Expedia": [
@@ -2078,6 +2130,10 @@
       {
         "title": "Working Student Digital Media Sales",
         "date": "N/A"
+      },
+      {
+        "title": "Non-Tech Intern BS",
+        "date": "7/14"
       }
     ],
     "Databricks": [
@@ -2537,6 +2593,10 @@
       {
         "title": "Engineering Technician - Materials Test - Engineering - South San Francisco, California, USA",
         "date": "7/10"
+      },
+      {
+        "title": "Autonomy Infrastructure Engineer - Engineering - South San Francisco, California, USA",
+        "date": "7/14"
       }
     ],
     "Verkada": [
@@ -2907,6 +2967,14 @@
       {
         "title": "Staff Engineering Manager, Web Systems",
         "date": "7/11"
+      },
+      {
+        "title": "Software Engineer II, Copilot Client Platform",
+        "date": "7/14"
+      },
+      {
+        "title": "Software Engineer III",
+        "date": "7/14"
       }
     ],
     "RedHat": [],
@@ -3818,6 +3886,38 @@
       {
         "title": "College Intern - Machine Learning and Artificial Intelligence",
         "date": "7/11"
+      },
+      {
+        "title": "College Intern - Software Development",
+        "date": "7/14"
+      },
+      {
+        "title": "College Intern - Supply Chain Operations",
+        "date": "7/14"
+      },
+      {
+        "title": "College Intern - Quality Engineering",
+        "date": "7/14"
+      },
+      {
+        "title": "College Intern - Business Operations",
+        "date": "7/14"
+      },
+      {
+        "title": "College Intern \u2013 Manufacturing Engineer in Supply Chain",
+        "date": "7/14"
+      },
+      {
+        "title": "College Intern - Electrical Hardware Engineering",
+        "date": "7/14"
+      },
+      {
+        "title": "College Intern - Procurement Engineering",
+        "date": "7/14"
+      },
+      {
+        "title": "College Intern - Procurement and Commodity Management",
+        "date": "7/14"
       }
     ],
     "Sentry": [],
@@ -3895,6 +3995,10 @@
       {
         "title": "Marketing Analyst Intern",
         "date": "7/11"
+      },
+      {
+        "title": "Graphic Design Student Help",
+        "date": "7/14"
       }
     ],
     "UKG": [
@@ -4085,6 +4189,58 @@
       {
         "title": "Quantitative Trading Analyst Intern New",
         "date": "7/10"
+      },
+      {
+        "title": "IT InternNew",
+        "date": "7/14"
+      },
+      {
+        "title": "Software Developer (C++)New",
+        "date": "7/14"
+      },
+      {
+        "title": "Software Developer Intern (C++)New",
+        "date": "7/14"
+      },
+      {
+        "title": "Quantitative Research Intern",
+        "date": "7/14"
+      },
+      {
+        "title": "Quantitative Trading Analyst Intern",
+        "date": "7/14"
+      },
+      {
+        "title": "CAMPUS RY26 UK Quantitative Trading Analyst Intern New",
+        "date": "7/14"
+      },
+      {
+        "title": "AI Research Intern",
+        "date": "7/14"
+      },
+      {
+        "title": "Leadership Rotation Network Intern",
+        "date": "7/14"
+      },
+      {
+        "title": "Software Developer Intern",
+        "date": "7/14"
+      },
+      {
+        "title": "C++ Software Developer",
+        "date": "7/14"
+      },
+      {
+        "title": "Strategy Intern",
+        "date": "7/14"
+      },
+      {
+        "title": "Venture Capital Analyst Intern",
+        "date": "7/14"
+      },
+      {
+        "title": "Software Developer",
+        "date": "7/14"
       }
     ],
     "Kodiak Robotics": [
@@ -4336,6 +4492,30 @@
       {
         "title": "Graduate Clinical Specialist \u2013 Cardiac Rhythm Management",
         "date": "N/A"
+      },
+      {
+        "title": "Training & Education Intern - Jazan",
+        "date": "7/13"
+      },
+      {
+        "title": "Training & Education Intern - Jazan",
+        "date": "7/13"
+      },
+      {
+        "title": "Intern Graduate: Training & Education CRM",
+        "date": "7/14"
+      },
+      {
+        "title": "Intern Graduate: Training & Education CRM",
+        "date": "7/14"
+      },
+      {
+        "title": "Facilities & Maintenance Excellence Intern",
+        "date": "7/14"
+      },
+      {
+        "title": "Facilities & Maintenance Excellence Intern",
+        "date": "7/14"
       }
     ]
   }
