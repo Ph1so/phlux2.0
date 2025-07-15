@@ -11,10 +11,11 @@ Easily track jobs across top tech companies.
 
 ---
 
-## 📌 Job Listings found by Phlux (127 companies, 1112 roles)
+## 📌 Job Listings found by Phlux (127 companies, 1114 roles)
 
 | Company | Role | Date Found |
 |---|---|---|
+| [<img src="https://cdn.brandfetch.io/amazon.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Amazon" height="20" style="vertical-align:middle; margin-right:6px;"> Amazon](https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=recent&country%5B%5D=USA&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=intern&city=&country=&region=&county=&query_options=&) | Fall Quality Assurance Engineer Internship – 2025 (US) | 7/15 |
 | [<img src="https://cdn.brandfetch.io/snap.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Snap" height="20" style="vertical-align:middle; margin-right:6px;"> Snap](https://careers.snap.com/jobs?type=Intern) | Junior Client Partner | 7/15 |
 | [<img src="https://cdn.brandfetch.io/workday.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Workday" height="20" style="vertical-align:middle; margin-right:6px;"> Workday](https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/?source=Careers_Website_ec) | Associate Sales Development Representative, New University Graduate | 7/15 |
 | [<img src="https://cdn.brandfetch.io/ea.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="EA" height="20" style="vertical-align:middle; margin-right:6px;"> EA](https://jobs.ea.com/en_US/careers/Home/?8171=%5B10618%5D&8171_format=5683&4537=%5B8693%5D&4537_format=3020&listFilterMode=1&jobRecordsPerPage=20&) | Gameplay Software Engineer Intern | 7/15 |
@@ -42,6 +43,7 @@ Easily track jobs across top tech companies.
 | [<img src="https://cdn.brandfetch.io/capitalone.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Capital One" height="20" style="vertical-align:middle; margin-right:6px;"> Capital One](https://www.capitalonecareers.com/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.Campus%22,%22value%22:%22Internships%22%7D]) | Data Analyst Intern - Summer 2026 | 7/15 |
 | [<img src="https://cdn.brandfetch.io/bostondynamics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boston Dynamics" height="20" style="vertical-align:middle; margin-right:6px;"> Boston Dynamics](https://bostondynamics.com/careers/#jobs) | Senior Firmware Engineer | 7/15 |
 | [<img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95) | Data Operations Intern, Aniplex | 7/15 |
+| [<img src="https://cdn.brandfetch.io/amentum.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Amentum" height="20" style="vertical-align:middle; margin-right:6px;"> Amentum](https://www.amentumcareers.com/jobs/search?page=1&country_codes%5B%5D=US&query=%22Intern%22) | System Modeling Graduate Intern | 7/15 |
 | [Kodiak Robotics](https://job-boards.greenhouse.io/kodiak?departments%5B%5D=4004934009) | Fall 2025 Intern, Artificial Intelligence/Machine Learning | 7/15 |
 | [Kodiak Robotics](https://job-boards.greenhouse.io/kodiak?departments%5B%5D=4004934009) | Fall 2025 Intern, Controls | 7/15 |
 | [Kodiak Robotics](https://job-boards.greenhouse.io/kodiak?departments%5B%5D=4004934009) | Fall 2025 Intern, Motion Planning | 7/15 |
