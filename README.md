@@ -11,7 +11,7 @@ Easily track jobs across top tech companies.
 
 ---
 
-## 📌 Job Listings found by Phlux (127 companies, 1115 roles)
+## 📌 Job Listings found by Phlux (127 companies, 1116 roles)
 
 | Company | Role | Date Found |
 |---|---|---|
@@ -43,6 +43,7 @@ Easily track jobs across top tech companies.
 | [<img src="https://cdn.brandfetch.io/capitalone.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Capital One" height="20" style="vertical-align:middle; margin-right:6px;"> Capital One](https://www.capitalonecareers.com/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.Campus%22,%22value%22:%22Internships%22%7D]) | Data Analyst Intern - Summer 2026 | 7/15 |
 | [<img src="https://cdn.brandfetch.io/roku.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Roku" height="20" style="vertical-align:middle; margin-right:6px;"> Roku](https://www.weareroku.com/jobs/search?page=1&string_field_1%5B%5D=Internships) | UX Product Design Intern | 7/15 |
 | [<img src="https://cdn.brandfetch.io/bostondynamics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boston Dynamics" height="20" style="vertical-align:middle; margin-right:6px;"> Boston Dynamics](https://bostondynamics.com/careers/#jobs) | Senior Firmware Engineer | 7/15 |
+| [<img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney](https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]) | Tax Data Management & Innovation Graduate Intern, Fall 2025 | 7/15 |
 | [<img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony](https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95) | Data Operations Intern, Aniplex | 7/15 |
 | [<img src="https://cdn.brandfetch.io/amentum.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Amentum" height="20" style="vertical-align:middle; margin-right:6px;"> Amentum](https://www.amentumcareers.com/jobs/search?page=1&country_codes%5B%5D=US&query=%22Intern%22) | System Modeling Graduate Intern | 7/15 |
 | [Kodiak Robotics](https://job-boards.greenhouse.io/kodiak?departments%5B%5D=4004934009) | Fall 2025 Intern, Artificial Intelligence/Machine Learning | 7/15 |
