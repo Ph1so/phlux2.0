@@ -46,7 +46,7 @@ def generate_readme(jobs: dict, links: dict) -> str:
 <table>
   <thead>
     <tr>
-      <th>Company</th>  <!-- No width set -->
+      <th style="white-space: nowrap;">Company</th>
       <th style="width: 100%;">Role</th>
       <th style="width: 100px;">Date Found</th>
     </tr>
@@ -89,7 +89,11 @@ def generate_readme(jobs: dict, links: dict) -> str:
 
     for company, title, date_str, _ in all_jobs:
         role_cell = f'<div style="max-height:4.5em; overflow:auto; white-space:normal;">{title}</div>'
-        lines.append(f"  <tr><td>{company}</td><td>{role_cell}</td><td>{date_str}</td></tr>")
+        lines.append(f"""  <tr>
+  <td style="white-space: nowrap;">{company}</td>
+  <td>{role_cell}</td>
+  <td>{date_str}</td>
+</tr>""")
 
     lines.append("""
   </tbody>
