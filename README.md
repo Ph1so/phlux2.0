@@ -11,7 +11,7 @@ Easily track jobs across top tech companies.
 
 ---
 
-## 📌 Job Listings found by Phlux (127 companies, 1123 roles)
+## 📌 Job Listings found by Phlux (128 companies, 1123 roles)
 
 | Company | Role | Date Found |
 |---|---|---|
