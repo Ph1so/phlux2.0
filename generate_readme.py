@@ -39,14 +39,22 @@ def generate_readme(jobs: dict, links: dict) -> str:
     ])
 
     total_jobs = sum(len(v) for v in jobs.values() if v)
-    lines.append(f"\n---\n\n## 📌 Job Listings found by Phlux ({len(jobs)} companies, {total_jobs} roles)\n")
+    lines.append(f"\n---\n\n## 🔍 2025 Phlux Job Listings\n*Found {total_jobs} roles across {len(jobs)} companies*\n")
 
+    # Begin HTML table
+    lines.append("""
+<table>
+  <thead>
+    <tr>
+      <th>Company</th>  <!-- No width set -->
+      <th style="width: 100%;">Role</th>
+      <th style="width: 100px;">Date Found</th>
+    </tr>
+  </thead>
+  <tbody>
+""")
 
-    # Header row for table
-    lines.append("| Company | Role | Date Found |")
-    lines.append("|---|---|---|")
-
-    # Collect all jobs into a flat list with metadata
+    # Collect and sort jobs
     all_jobs = []
     for company in jobs:
         postings = jobs[company]
@@ -59,7 +67,7 @@ def generate_readme(jobs: dict, links: dict) -> str:
 
         company_display = f'<img src="{icon_url}" alt="{company}" height="20" style="vertical-align:middle; margin-right:6px;"> {company}' if icon_url else company
         company_link = links.get(company, "#")
-        linked_company = f"[{company_display}]({company_link})"
+        linked_company = f'<a href="{company_link}">{company_display}</a>'
 
         for role in postings:
             if isinstance(role, dict):
@@ -69,25 +77,27 @@ def generate_readme(jobs: dict, links: dict) -> str:
                 title = role.replace("\n", " ").replace("|", "\\|").strip()
                 date_str = "N/A"
 
-            # For sorting, convert to datetime (fallback to 1970-01-01 if unknown)
             try:
                 sort_date = datetime.strptime(date_str, "%m/%d")
             except ValueError:
                 sort_date = datetime.min
 
-
             all_jobs.append((linked_company, title, date_str, sort_date))
 
-    # Sort by date descending (most recent first)
+    # Sort descending by date
     all_jobs.sort(key=lambda x: x[3], reverse=True)
 
     for company, title, date_str, _ in all_jobs:
-        lines.append(f"| {company} | {title} | {date_str} |")
+        role_cell = f'<div style="max-height:4.5em; overflow:auto; white-space:normal;">{title}</div>'
+        lines.append(f"  <tr><td>{company}</td><td>{role_cell}</td><td>{date_str}</td></tr>")
 
-    lines.append("\n---")
+    lines.append("""
+  </tbody>
+</table>
+\n---
+""")
 
     return "\n".join(lines)
-
 
 if __name__ == "__main__":
     # custom_scrapers: List[CompanyScraper] = [JPMorganScraper()]
