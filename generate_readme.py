@@ -90,7 +90,10 @@ def generate_readme(jobs: dict, links: dict) -> str:
     for company, title, date_str, _ in all_jobs:
         role_cell = f'<div style="max-height:4.5em; overflow:auto; white-space:normal;">{title}</div>'
         lines.append(f"""  <tr>
-  <td style="white-space: nowrap;">{company}</td>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;">{company}</div>
+</td>
+
   <td>{role_cell}</td>
   <td>{date_str}</td>
 </tr>""")
