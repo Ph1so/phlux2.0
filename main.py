@@ -115,7 +115,7 @@ def update_internship_tracker(jobs: List[str]) -> None:
     eastern_timezone = pytz.timezone('US/Eastern')
     now = f"{datetime.now(eastern_timezone).month}/{datetime.now(eastern_timezone).day}/{datetime.now(eastern_timezone).year}"
 
-    rows = [[job, now, "Applied"] for job in jobs]
+    rows = [["Susquehanna - "+job, now, "Applied"] for job in jobs]
     end_row = start_row + len(rows) - 1
     worksheet.update(values=rows, range_name=f"A{start_row}:C{end_row}")
 
