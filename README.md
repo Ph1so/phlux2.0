@@ -12,7 +12,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 1205 roles across 128 companies*
+*Found 1207 roles across 128 companies*
 
 
 <table>
@@ -25,6 +25,22 @@ Easily track jobs across top tech companies.
   </thead>
   <tbody>
 
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.blueorigin.com/careers/search?search=undergraduate&category=Intern&employmentType=Intern"><img src="https://cdn.brandfetch.io/blueorigin.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Blue Origin" height="20" style="vertical-align:middle; margin-right:6px;"> Blue Origin</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Spring 2026 Avionics Software Engineering Intern - Undergraduate - 3 Locations - Intern - Full Time - Intern - R52403</div></td>
+  <td>7/18</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.blueorigin.com/careers/search?search=undergraduate&category=Intern&employmentType=Intern"><img src="https://cdn.brandfetch.io/blueorigin.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Blue Origin" height="20" style="vertical-align:middle; margin-right:6px;"> Blue Origin</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Spring 2026 Electrical Systems Engineering Internship - Undergraduate - 5 Locations - Intern - Full Time - Intern - R52404</div></td>
+  <td>7/18</td>
+</tr>
   <tr>
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
