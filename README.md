@@ -12,7 +12,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 1258 roles across 128 companies*
+*Found 1262 roles across 128 companies*
 
 
 <table>
@@ -25,6 +25,38 @@ Easily track jobs across top tech companies.
   </thead>
   <tbody>
 
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.morganstanley.com/careers/career-opportunities-search?opportunity=sg#"><img src="https://cdn.brandfetch.io/morganstanley.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Morgan Stanley" height="20" style="vertical-align:middle; margin-right:6px;"> Morgan Stanley</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2025 Financial Control Group Industrial Trainee Program (Mumbai)</div></td>
+  <td>7/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://apply.hp.com/careers?query=internship&Seniority=graduate&Seniority=internship&Seniority=Apprenticeship&domain=hp.com"><img src="https://cdn.brandfetch.io/hp.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="HP" height="20" style="vertical-align:middle; margin-right:6px;"> HP</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">College Intern - Data Analytics in Supply Chain</div></td>
+  <td>7/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers?jobFamilyGroup=be3ab1d7a62801c1c7c82b804a0529d0"><img src="https://cdn.brandfetch.io/medtronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Medtronic" height="20" style="vertical-align:middle; margin-right:6px;"> Medtronic</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Training & Education Intern - Tabuk</div></td>
+  <td>7/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers?jobFamilyGroup=be3ab1d7a62801c1c7c82b804a0529d0"><img src="https://cdn.brandfetch.io/medtronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Medtronic" height="20" style="vertical-align:middle; margin-right:6px;"> Medtronic</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Training & Education Intern - Tabuk</div></td>
+  <td>7/22</td>
+</tr>
   <tr>
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.rivian.com/careers-home/jobs?sortBy=relevance&page=1&categories=Internships"><img src="https://cdn.brandfetch.io/rivian.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Rivian" height="20" style="vertical-align:middle; margin-right:6px;"> Rivian</a></div>
