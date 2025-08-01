@@ -12,7 +12,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 2989 roles across 128 companies*
+*Found 2995 roles across 128 companies*
 
 
 <table>
@@ -87,6 +87,30 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Finance & Accounting – Intern (US)</div></td>
+  <td>8/1</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://ramp.com/emerging-talent"><img src="https://cdn.brandfetch.io/ramp.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Ramp" height="20" style="vertical-align:middle; margin-right:6px;"> Ramp</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer Internship \| Backend</div></td>
+  <td>8/1</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://ramp.com/emerging-talent"><img src="https://cdn.brandfetch.io/ramp.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Ramp" height="20" style="vertical-align:middle; margin-right:6px;"> Ramp</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">University Grad 2026: Software Engineer - Backend</div></td>
+  <td>8/1</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://ramp.com/emerging-talent"><img src="https://cdn.brandfetch.io/ramp.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Ramp" height="20" style="vertical-align:middle; margin-right:6px;"> Ramp</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">University Grad 2026: Software Engineer - Frontend</div></td>
   <td>8/1</td>
 </tr>
   <tr>
@@ -227,6 +251,14 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">MANAGER, HOTEL OPERATIONS</div></td>
+  <td>8/1</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/palantir?commitment=Internship"><img src="https://cdn.brandfetch.io/palantir.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Palantir" height="20" style="vertical-align:middle; margin-right:6px;"> Palantir</a></div>
 </td>
 
@@ -291,6 +323,14 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/replit"><img src="https://cdn.brandfetch.io/replit.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Replit" height="20" style="vertical-align:middle; margin-right:6px;"> Replit</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">AI Chief of Staff - Operations • Foster City, CA (Hybrid) In office M,W,F • Full time</div></td>
+  <td>8/1</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.jpmorgan.com/global/en/students/programs/software-engineer-summer->https://careers.jpmorgan.com/global/en/students/programs/data-analytics-opportunities#careers-section7->https://careers.jpmorgan.com/global/en/students/programs/tfsg-hackathons->https://careers.jpmorgan.com/global/en/students/programs/quant-fin-programs->https://careers.jpmorgan.com/global/en/students/programs/design-dev-summer->https://careers.jpmorgan.com/global/en/students/programs/et-experience->https://careers.jpmorgan.com/global/en/students/programs/career-edyou->https://careers.jpmorgan.com/global/en/students/programs/research-technologies-summer-associate-program"><img src="https://cdn.brandfetch.io/jpmorganchase.com/w/200/h/200?c=1id3bKTXJOZMzbEUjOA" alt="JP Morgan Chase" height="20" style="vertical-align:middle; margin-right:6px;"> JP Morgan Chase</a></div>
 </td>
 
@@ -351,6 +391,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">ESPN Sports Marketing Intern, New York City, Fall 2025</div></td>
+  <td>8/1</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Disney+ Creative Strategy Intern, Fall 2025</div></td>
   <td>8/1</td>
 </tr>
   <tr>
