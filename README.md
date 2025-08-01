@@ -12,7 +12,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 2957 roles across 128 companies*
+*Found 2960 roles across 128 companies*
 
 
 <table>
@@ -315,6 +315,14 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers?workerSubType=189767dd6c920145d5c3e59c2c297819&Location_Country=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/samsung.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Samsung" height="20" style="vertical-align:middle; margin-right:6px;"> Samsung</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Univ. of Texas - Austin 2026 Summer Intern</div></td>
+  <td>8/1</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers?jobFamilyGroup=be3ab1d7a62801c1c7c82b804a0529d0&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/medtronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Medtronic" height="20" style="vertical-align:middle; margin-right:6px;"> Medtronic</a></div>
 </td>
 
@@ -423,6 +431,22 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">IT Intern Summer 2026</div></td>
+  <td>8/1</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers?jobFamilyGroup=be3ab1d7a62801c1c7c82b804a0529d0&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/medtronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Medtronic" height="20" style="vertical-align:middle; margin-right:6px;"> Medtronic</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">R&D Engineering Intern – Summer 2026</div></td>
+  <td>8/1</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers?jobFamilyGroup=be3ab1d7a62801c1c7c82b804a0529d0&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/medtronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Medtronic" height="20" style="vertical-align:middle; margin-right:6px;"> Medtronic</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">R&D Engineering Intern – Summer 2026</div></td>
   <td>8/1</td>
 </tr>
   <tr>
