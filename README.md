@@ -12,7 +12,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 3044 roles across 128 companies*
+*Found 3048 roles across 128 companies*
 
 
 <table>
@@ -25,6 +25,14 @@ Easily track jobs across top tech companies.
   </thead>
   <tbody>
 
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.morganstanley.com/careers/career-opportunities-search?opportunity=sg#"><img src="https://cdn.brandfetch.io/morganstanley.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Morgan Stanley" height="20" style="vertical-align:middle; margin-right:6px;"> Morgan Stanley</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2026 Fixed Income Division Industrial Placement / Summer Analyst Program (Hong Kong / Singapore)</div></td>
+  <td>8/4</td>
+</tr>
   <tr>
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.3ds.com/careers/jobs?woc=%257B%2522type%2522%253A%255B%2522type%252FInternship%2522%255D%252C%2522country%2522%253A%255B%2522country%252FUnited%2520States%2522%255D%257D"><img src="https://cdn.brandfetch.io/3ds.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Dassault Systems" height="20" style="vertical-align:middle; margin-right:6px;"> Dassault Systems</a></div>
@@ -143,6 +151,30 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Network Engineer</div></td>
+  <td>8/4</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.capitalonecareers.com/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.Campus%22,%22value%22:%22Internships%22%7D]"><img src="https://cdn.brandfetch.io/capitalone.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Capital One" height="20" style="vertical-align:middle; margin-right:6px;"> Capital One</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Cyber Security Internship Program - Summer 2026</div></td>
+  <td>8/4</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.capitalonecareers.com/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.Campus%22,%22value%22:%22Internships%22%7D]"><img src="https://cdn.brandfetch.io/capitalone.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Capital One" height="20" style="vertical-align:middle; margin-right:6px;"> Capital One</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Technology Internship Program - Summer 2026</div></td>
+  <td>8/4</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://bostondynamics.com/careers/#jobs"><img src="https://cdn.brandfetch.io/bostondynamics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boston Dynamics" height="20" style="vertical-align:middle; margin-right:6px;"> Boston Dynamics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Talent Acquisition Partner</div></td>
   <td>8/4</td>
 </tr>
   <tr>
