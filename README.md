@@ -12,7 +12,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 3085 roles across 128 companies*
+*Found 3088 roles across 128 companies*
 
 
 <table>
@@ -47,6 +47,30 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Flight Operator - Flight Operations - Mpanya, Ghana</div></td>
+  <td>8/5</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.jpmorgan.com/global/en/students/programs/software-engineer-summer->https://careers.jpmorgan.com/global/en/students/programs/data-analytics-opportunities#careers-section7->https://careers.jpmorgan.com/global/en/students/programs/tfsg-hackathons->https://careers.jpmorgan.com/global/en/students/programs/quant-fin-programs->https://careers.jpmorgan.com/global/en/students/programs/design-dev-summer->https://careers.jpmorgan.com/global/en/students/programs/et-experience->https://careers.jpmorgan.com/global/en/students/programs/career-edyou->https://careers.jpmorgan.com/global/en/students/programs/research-technologies-summer-associate-program"><img src="https://cdn.brandfetch.io/jpmorganchase.com/w/200/h/200?c=1id3bKTXJOZMzbEUjOA" alt="JP Morgan Chase" height="20" style="vertical-align:middle; margin-right:6px;"> JP Morgan Chase</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2025 Code for Good Hackathon - Software Engineer Program - Summer Internship - United States</div></td>
+  <td>8/5</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.jpmorgan.com/global/en/students/programs/software-engineer-summer->https://careers.jpmorgan.com/global/en/students/programs/data-analytics-opportunities#careers-section7->https://careers.jpmorgan.com/global/en/students/programs/tfsg-hackathons->https://careers.jpmorgan.com/global/en/students/programs/quant-fin-programs->https://careers.jpmorgan.com/global/en/students/programs/design-dev-summer->https://careers.jpmorgan.com/global/en/students/programs/et-experience->https://careers.jpmorgan.com/global/en/students/programs/career-edyou->https://careers.jpmorgan.com/global/en/students/programs/research-technologies-summer-associate-program"><img src="https://cdn.brandfetch.io/jpmorganchase.com/w/200/h/200?c=1id3bKTXJOZMzbEUjOA" alt="JP Morgan Chase" height="20" style="vertical-align:middle; margin-right:6px;"> JP Morgan Chase</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2025 Data for Good Hackathon (Associate) - Manhattan, New York</div></td>
+  <td>8/5</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.jpmorgan.com/global/en/students/programs/software-engineer-summer->https://careers.jpmorgan.com/global/en/students/programs/data-analytics-opportunities#careers-section7->https://careers.jpmorgan.com/global/en/students/programs/tfsg-hackathons->https://careers.jpmorgan.com/global/en/students/programs/quant-fin-programs->https://careers.jpmorgan.com/global/en/students/programs/design-dev-summer->https://careers.jpmorgan.com/global/en/students/programs/et-experience->https://careers.jpmorgan.com/global/en/students/programs/career-edyou->https://careers.jpmorgan.com/global/en/students/programs/research-technologies-summer-associate-program"><img src="https://cdn.brandfetch.io/jpmorganchase.com/w/200/h/200?c=1id3bKTXJOZMzbEUjOA" alt="JP Morgan Chase" height="20" style="vertical-align:middle; margin-right:6px;"> JP Morgan Chase</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2025 Data for Good Hackathon - Data Science Analyst - Manhattan, New York</div></td>
   <td>8/5</td>
 </tr>
   <tr>
