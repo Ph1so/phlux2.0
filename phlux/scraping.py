@@ -48,13 +48,15 @@ class Actions:
 def get_jobs_headless(name: str, urls: str, instructions: str, headless=True, test=False) -> List[str]:
     """Scrape job titles from `url` using a sequence of actions like CLICK, CSS, FILTER, UNDETECTED."""
     
-    # Clean quote wrapping, e.g. "CSS:.job-title" -> CSS:.job-title
+    config = load_config()  # if you actually need config values later
+    # Example: headless = config.get("headless", True)
+
     if instructions.startswith('"') and instructions.endswith('"'):
         instructions = instructions[1:-1]
 
     actions = Actions(instructions.split("->"))
     use_undetected = any(a.strip() == UNDETECTED for a in actions)
-    
+
     driver = get_driver(headless=headless, use_undetected=use_undetected)
     jobs = []
 
@@ -270,7 +272,7 @@ class ScrapeManager:
         new_jobs: Dict = {"companies": {}}
         with ProcessPoolExecutor(max_workers=max_workers) as executor:
             futures = {
-                executor.submit(get_jobs_headless, c.name, c.link, c.selector, self.config): c
+                executor.submit(get_jobs_headless, c.name, c.link, c.selector): c
                 for c in companies
             }
             print(f"max_workers: {max_workers}")
