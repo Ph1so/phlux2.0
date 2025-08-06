@@ -278,7 +278,11 @@ class ScrapeManager:
             print(f"max_workers: {max_workers}")
             for future in as_completed(futures):
                 company = futures[future]
-                jobs = future.result()
+                try:
+                    jobs = future.result()
+                except Exception as e:
+                    print(f"Error scraping {company.name}: {e}")
+                    jobs = []
                 if jobs == []:
                     total_companies_with_no_jobs += 1
                 process_jobs(data, ScrapeResult(company.name, jobs, company.link), new_jobs)
