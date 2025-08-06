@@ -132,17 +132,17 @@ def main() -> None:
     new_jobs = result["new_jobs"]
 
     # Special case: run autoApply only after all scraping
-    susquehanna_jobs = new_jobs.get("companies", {}).get("Susquehanna", {}).get("jobs", [])
-    susquehanna_jobs_titles = []
-    for job in susquehanna_jobs:
-        if "Summer 2026" in job["title"]:
-            susquehanna_jobs_titles.append(job["title"])
+    # susquehanna_jobs = new_jobs.get("companies", {}).get("Susquehanna", {}).get("jobs", [])
+    # susquehanna_jobs_titles = []
+    # for job in susquehanna_jobs:
+    #     if "Summer 2026" in job["title"]:
+    #         susquehanna_jobs_titles.append(job["title"])
     
-    print(json.dumps(new_jobs, indent=2))
-    if susquehanna_jobs_titles:
-        print(f"Auto applying to : {susquehanna_jobs_titles}")
-        autoApply(susquehanna_jobs_titles, new_jobs["companies"].get("Susquehanna").get("link"))
-        update_internship_tracker(susquehanna_jobs_titles)
+    # print(json.dumps(new_jobs, indent=2))
+    # if susquehanna_jobs_titles:
+    #     print(f"Auto applying to : {susquehanna_jobs_titles}")
+    #     autoApply(susquehanna_jobs_titles, new_jobs["companies"].get("Susquehanna").get("link"))
+    #     update_internship_tracker(susquehanna_jobs_titles)
 
     Path("storage.json").write_text(json.dumps(data, indent=2), encoding="utf-8")
     if new_jobs.get("companies"):
