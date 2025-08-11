@@ -12,7 +12,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 3288 roles across 128 companies*
+*Found 3297 roles across 128 companies*
 
 
 <table>
@@ -25,6 +25,14 @@ Easily track jobs across top tech companies.
   </thead>
   <tbody>
 
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.bankofamerica.com/en-us/students/job-search?ref=search&rows=24&search=jobsByLocation&searchstring=United+States"><img src="https://cdn.brandfetch.io/bankofamerica.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bank of America" height="20" style="vertical-align:middle; margin-right:6px;"> Bank of America</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Global Investment Banking Analyst Program – 2026 M&A (”GCIB Analyst Program")</div></td>
+  <td>8/10</td>
+</tr>
   <tr>
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.morganstanley.com/careers/career-opportunities-search?opportunity=sg#"><img src="https://cdn.brandfetch.io/morganstanley.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Morgan Stanley" height="20" style="vertical-align:middle; margin-right:6px;"> Morgan Stanley</a></div>
@@ -55,6 +63,70 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">AI Effects Workflow Engineer Intern (TikTok-Intelligent Creation-LLM Driven Creation) - 2026 Summer (BS/MS)</div></td>
+  <td>8/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">CHEMICAL PROCESS SPECIALIST (STARLINK PCB) - DAY SHIFT</div></td>
+  <td>8/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">DRILL ROOM SPECIALIST (STARLINK PCB) - DAY SHIFT</div></td>
+  <td>8/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">LAYUP AND LAMINATION SPECIALIST (STARLINK PCB) - DAY SHIFT</div></td>
+  <td>8/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">MANUFACTURING SPECIALIST (STARLINK PCB) - DAY SHIFT</div></td>
+  <td>8/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">MECHANICAL SPECIALIST (STARLINK PCB) - DAY SHIFT</div></td>
+  <td>8/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">STARLINK SPECIALIST (STARLINK PCB) - DAY SHIFT</div></td>
+  <td>8/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">TEST SPECIALIST (STARLINK PCB) - DAY SHIFT</div></td>
+  <td>8/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">WET CHEMICAL PROCESS SPECIALIST (STARLINK PCB) - DAY SHIFT</div></td>
   <td>8/10</td>
 </tr>
   <tr>
