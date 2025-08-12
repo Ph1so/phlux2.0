@@ -12,7 +12,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 3374 roles across 128 companies*
+*Found 3376 roles across 128 companies*
 
 
 <table>
@@ -71,6 +71,22 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">SUPERVISOR, MECHANICAL (HVAC)</div></td>
+  <td>8/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">WELDER (LAUNCH PADS)</div></td>
+  <td>8/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.roblox.com/jobs?groups=early-career-talent&page=1&pageSize=9"><img src="https://cdn.brandfetch.io/roblox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Roblox" height="20" style="vertical-align:middle; margin-right:6px;"> Roblox</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer, Engineering Efficiency Foundations</div></td>
   <td>8/12</td>
 </tr>
   <tr>
