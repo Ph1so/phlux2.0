@@ -14522,6 +14522,89 @@
         "date": "8/6"
       }
     ],
-    "Akuna Capital": []
+    "Akuna Capital": [],
+    "Toyota Research Insitute": [],
+    "Mitsubishi Electric Research Laboratories": [
+      {
+        "title": "OR0171: Internship - Foundation Models for Robotic Manipulation",
+        "date": "8/15"
+      },
+      {
+        "title": "OR0163: Internship - Reinforcement/Imitation Learning for Robotic Assembly",
+        "date": "8/15"
+      },
+      {
+        "title": "OR0164: Internship - Robotic 6D grasp pose estimation",
+        "date": "8/15"
+      },
+      {
+        "title": "ST0105: Internship - Surrogate Modeling for Sound Propagation",
+        "date": "8/15"
+      },
+      {
+        "title": "ST0096: Internship - Multimodal Tracking and Imaging",
+        "date": "8/15"
+      },
+      {
+        "title": "CI0082: Internship - Quantum AI",
+        "date": "8/15"
+      },
+      {
+        "title": "CI0080: Internship - Efficient AI",
+        "date": "8/15"
+      },
+      {
+        "title": "CI0169: Internship - Robotic AI Agent",
+        "date": "8/15"
+      },
+      {
+        "title": "CI0172: Internship - Quantum Machine Learning",
+        "date": "8/15"
+      },
+      {
+        "title": "CV0063: Internship - Visual Simultaneous Localization and Mapping",
+        "date": "8/15"
+      },
+      {
+        "title": "MS0098: Internship - Control and Estimation for Large-Scale Thermofluid Systems",
+        "date": "8/15"
+      },
+      {
+        "title": "MS0156: Internship - Stochastic Model Predictive Control with Generative Models for Smart Building Control",
+        "date": "8/15"
+      },
+      {
+        "title": "EA0151: Internship - Physics-informed machine learning",
+        "date": "8/15"
+      },
+      {
+        "title": "EA0149: Internship - Electric Motor Design Optimization",
+        "date": "8/15"
+      },
+      {
+        "title": "EA0076: Internship - Machine Learning for Electric Motor Design",
+        "date": "8/15"
+      },
+      {
+        "title": "CA0157: Internship - Spatio-temporal monitoring using mobile robots",
+        "date": "8/15"
+      },
+      {
+        "title": "CA0170: Internship - Offroad Quadruped Robots",
+        "date": "8/15"
+      },
+      {
+        "title": "CA0153: Internship - High-Fidelity Visualization and Simulation for Space Applications",
+        "date": "8/15"
+      },
+      {
+        "title": "CA0165: Internship - Optimization of Aerial Robot Coordination",
+        "date": "8/15"
+      },
+      {
+        "title": "CA0166: Internship - Spacecraft Guidance, Navigation, and Control",
+        "date": "8/15"
+      }
+    ]
   }
 }

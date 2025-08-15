@@ -12,7 +12,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 3572 roles across 128 companies*
+*Found 3592 roles across 130 companies*
 
 
 <table>
@@ -431,6 +431,166 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">AI and Robotics Intern</div></td>
+  <td>8/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.merl.com/employment/internship-openings">Mitsubishi Electric Research Laboratories</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">OR0171: Internship - Foundation Models for Robotic Manipulation</div></td>
+  <td>8/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.merl.com/employment/internship-openings">Mitsubishi Electric Research Laboratories</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">OR0163: Internship - Reinforcement/Imitation Learning for Robotic Assembly</div></td>
+  <td>8/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.merl.com/employment/internship-openings">Mitsubishi Electric Research Laboratories</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">OR0164: Internship - Robotic 6D grasp pose estimation</div></td>
+  <td>8/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.merl.com/employment/internship-openings">Mitsubishi Electric Research Laboratories</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">ST0105: Internship - Surrogate Modeling for Sound Propagation</div></td>
+  <td>8/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.merl.com/employment/internship-openings">Mitsubishi Electric Research Laboratories</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">ST0096: Internship - Multimodal Tracking and Imaging</div></td>
+  <td>8/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.merl.com/employment/internship-openings">Mitsubishi Electric Research Laboratories</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">CI0082: Internship - Quantum AI</div></td>
+  <td>8/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.merl.com/employment/internship-openings">Mitsubishi Electric Research Laboratories</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">CI0080: Internship - Efficient AI</div></td>
+  <td>8/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.merl.com/employment/internship-openings">Mitsubishi Electric Research Laboratories</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">CI0169: Internship - Robotic AI Agent</div></td>
+  <td>8/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.merl.com/employment/internship-openings">Mitsubishi Electric Research Laboratories</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">CI0172: Internship - Quantum Machine Learning</div></td>
+  <td>8/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.merl.com/employment/internship-openings">Mitsubishi Electric Research Laboratories</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">CV0063: Internship - Visual Simultaneous Localization and Mapping</div></td>
+  <td>8/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.merl.com/employment/internship-openings">Mitsubishi Electric Research Laboratories</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">MS0098: Internship - Control and Estimation for Large-Scale Thermofluid Systems</div></td>
+  <td>8/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.merl.com/employment/internship-openings">Mitsubishi Electric Research Laboratories</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">MS0156: Internship - Stochastic Model Predictive Control with Generative Models for Smart Building Control</div></td>
+  <td>8/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.merl.com/employment/internship-openings">Mitsubishi Electric Research Laboratories</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">EA0151: Internship - Physics-informed machine learning</div></td>
+  <td>8/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.merl.com/employment/internship-openings">Mitsubishi Electric Research Laboratories</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">EA0149: Internship - Electric Motor Design Optimization</div></td>
+  <td>8/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.merl.com/employment/internship-openings">Mitsubishi Electric Research Laboratories</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">EA0076: Internship - Machine Learning for Electric Motor Design</div></td>
+  <td>8/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.merl.com/employment/internship-openings">Mitsubishi Electric Research Laboratories</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">CA0157: Internship - Spatio-temporal monitoring using mobile robots</div></td>
+  <td>8/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.merl.com/employment/internship-openings">Mitsubishi Electric Research Laboratories</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">CA0170: Internship - Offroad Quadruped Robots</div></td>
+  <td>8/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.merl.com/employment/internship-openings">Mitsubishi Electric Research Laboratories</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">CA0153: Internship - High-Fidelity Visualization and Simulation for Space Applications</div></td>
+  <td>8/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.merl.com/employment/internship-openings">Mitsubishi Electric Research Laboratories</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">CA0165: Internship - Optimization of Aerial Robot Coordination</div></td>
+  <td>8/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.merl.com/employment/internship-openings">Mitsubishi Electric Research Laboratories</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">CA0166: Internship - Spacecraft Guidance, Navigation, and Control</div></td>
   <td>8/15</td>
 </tr>
   <tr>
