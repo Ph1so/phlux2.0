@@ -128,3 +128,4 @@ Samsung,https://sec.wd3.myworkdayjobs.com/Samsung_Careers?workerSubType=189767dd
 Medtronic,https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers?jobFamilyGroup=be3ab1d7a62801c1c7c82b804a0529d0&locationCountry=bc33aa3152ec42d4995f4791a106ed09,CSS:li .css-b3pn3b
 Akuna Capital,https://akunacapital.com/careers#careers,"CLICK:'//button[contains(text(), 'EXPERIENCE LEVEL')]'->CLICK:'//button[contains(text(), 'Intern')]':pointer->CSS:a h2"
 Toyota Research Insitute,https://www.tri.global/careers#open-positions,CSS:a.title
+Mitsubishi Electric Research Laboratories,https://www.merl.com/employment/internship-openings,CSS:.publication-source h2 a
