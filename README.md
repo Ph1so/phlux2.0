@@ -12,7 +12,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 3912 roles across 130 companies*
+*Found 3928 roles across 130 companies*
 
 
 <table>
@@ -179,10 +179,138 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://bostondynamics.com/careers/#jobs"><img src="https://cdn.brandfetch.io/bostondynamics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boston Dynamics" height="20" style="vertical-align:middle; margin-right:6px;"> Boston Dynamics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Sustaining Electrical Engineer-Spot</div></td>
+  <td>8/22</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Industrial Engineering Intern, Glendale, Summer/Fall 2026</div></td>
+  <td>8/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.boeing.com/category/internship-jobs/185/9287/1"><img src="https://cdn.brandfetch.io/boeingdistribution.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boeing" height="20" style="vertical-align:middle; margin-right:6px;"> Boeing</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Business Development Manager - Maritime</div></td>
+  <td>8/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.boeing.com/category/internship-jobs/185/9287/1"><img src="https://cdn.brandfetch.io/boeingdistribution.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boeing" height="20" style="vertical-align:middle; margin-right:6px;"> Boeing</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">North Asia Infrastructure Operations Product Manager – Seoul, South Korea</div></td>
+  <td>8/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.boeing.com/category/internship-jobs/185/9287/1"><img src="https://cdn.brandfetch.io/boeingdistribution.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boeing" height="20" style="vertical-align:middle; margin-right:6px;"> Boeing</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">North Asia Infrastructure Operations Product Manager – Tokyo, Japan</div></td>
+  <td>8/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.boeing.com/category/internship-jobs/185/9287/1"><img src="https://cdn.brandfetch.io/boeingdistribution.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boeing" height="20" style="vertical-align:middle; margin-right:6px;"> Boeing</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Specialist, Business Communications- Boeing India & South Asia</div></td>
+  <td>8/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.boeing.com/category/internship-jobs/185/9287/1"><img src="https://cdn.brandfetch.io/boeingdistribution.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boeing" height="20" style="vertical-align:middle; margin-right:6px;"> Boeing</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Experienced Supply Chain Specialist</div></td>
+  <td>8/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.boeing.com/category/internship-jobs/185/9287/1"><img src="https://cdn.brandfetch.io/boeingdistribution.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boeing" height="20" style="vertical-align:middle; margin-right:6px;"> Boeing</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Experienced Supply Chain Specialist</div></td>
+  <td>8/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.boeing.com/category/internship-jobs/185/9287/1"><img src="https://cdn.brandfetch.io/boeingdistribution.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boeing" height="20" style="vertical-align:middle; margin-right:6px;"> Boeing</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Experienced System Engineer</div></td>
+  <td>8/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.boeing.com/category/internship-jobs/185/9287/1"><img src="https://cdn.brandfetch.io/boeingdistribution.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boeing" height="20" style="vertical-align:middle; margin-right:6px;"> Boeing</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Test Engineer 3 - Hybrid</div></td>
+  <td>8/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.boeing.com/category/internship-jobs/185/9287/1"><img src="https://cdn.brandfetch.io/boeingdistribution.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boeing" height="20" style="vertical-align:middle; margin-right:6px;"> Boeing</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Vice President, Global Growth - Relocation Assistance Available</div></td>
+  <td>8/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.boeing.com/category/internship-jobs/185/9287/1"><img src="https://cdn.brandfetch.io/boeingdistribution.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boeing" height="20" style="vertical-align:middle; margin-right:6px;"> Boeing</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Warehouse Materials Coordinator</div></td>
+  <td>8/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.boeing.com/category/internship-jobs/185/9287/1"><img src="https://cdn.brandfetch.io/boeingdistribution.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boeing" height="20" style="vertical-align:middle; margin-right:6px;"> Boeing</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Proprietary Program - Senior Model-Based Systems Engineering Infrastructure Engineer</div></td>
+  <td>8/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.boeing.com/category/internship-jobs/185/9287/1"><img src="https://cdn.brandfetch.io/boeingdistribution.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boeing" height="20" style="vertical-align:middle; margin-right:6px;"> Boeing</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Systems Integration Engineer (Associate or Experienced)</div></td>
+  <td>8/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.boeing.com/category/internship-jobs/185/9287/1"><img src="https://cdn.brandfetch.io/boeingdistribution.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boeing" height="20" style="vertical-align:middle; margin-right:6px;"> Boeing</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Experienced Manufacturing Operations Analyst - C-17 (4699)</div></td>
+  <td>8/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.boeing.com/category/internship-jobs/185/9287/1"><img src="https://cdn.brandfetch.io/boeingdistribution.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boeing" height="20" style="vertical-align:middle; margin-right:6px;"> Boeing</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Quality Engineer</div></td>
+  <td>8/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.boeing.com/category/internship-jobs/185/9287/1"><img src="https://cdn.brandfetch.io/boeingdistribution.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boeing" height="20" style="vertical-align:middle; margin-right:6px;"> Boeing</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Mid-Career Propulsion Structural Analysis Engineer</div></td>
   <td>8/22</td>
 </tr>
   <tr>
