@@ -12,7 +12,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 4182 roles across 130 companies*
+*Found 4184 roles across 130 companies*
 
 
 <table>
@@ -39,6 +39,22 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Intern, Software Engineer</div></td>
+  <td>8/28</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://autodesk.wd1.myworkdayjobs.com/uni?jobFamilyGroup=f909d7cccc2d480b8f6af996c7bf8352"><img src="https://cdn.brandfetch.io/autodesk.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Autodesk" height="20" style="vertical-align:middle; margin-right:6px;"> Autodesk</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Intern, Software Development Engineer [PSET-Access-ENG]</div></td>
+  <td>8/28</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.t-mobile.com/internship"><img src="https://cdn.brandfetch.io/t-mobile.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="T-Mobile" height="20" style="vertical-align:middle; margin-right:6px;"> T-Mobile</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Summer 2025 IT Solution and Design Intern</div></td>
   <td>8/28</td>
 </tr>
   <tr>
