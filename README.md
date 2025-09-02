@@ -12,7 +12,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 4479 roles across 130 companies*
+*Found 4506 roles across 130 companies*
 
 
 <table>
@@ -483,6 +483,70 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">SPRING 2026 BUSINESS OPERATIONS INTERNSHIP/CO-OP</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">SPRING 2026 ENGINEERING INTERNSHIP/CO-OP</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">SPRING 2026 GRADUATE ENGINEER</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">SPRING 2026 SOFTWARE ENGINEERING INTERNSHIP/CO-OP</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">SUMMER 2026 BUSINESS OPERATIONS INTERNSHIP/CO-OP</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">SUMMER 2026 ENGINEERING INTERNSHIP/CO-OP</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">SUMMER 2026 GRADUATE ENGINEER</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">SUMMER 2026 SOFTWARE ENGINEERING INTERNSHIP/CO-OP</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
 </td>
 
@@ -587,6 +651,38 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers"><img src="https://cdn.brandfetch.io/rockwellautomation.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Rockwell Automation" height="20" style="vertical-align:middle; margin-right:6px;"> Rockwell Automation</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">EDGE, Technical Sales & Consulting: Technology Consultant (USA)</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers"><img src="https://cdn.brandfetch.io/rockwellautomation.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Rockwell Automation" height="20" style="vertical-align:middle; margin-right:6px;"> Rockwell Automation</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">R24-7388 EDGE Program, Technical Sales & Consulting: Technology Consultant (Canada)</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers"><img src="https://cdn.brandfetch.io/rockwellautomation.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Rockwell Automation" height="20" style="vertical-align:middle; margin-right:6px;"> Rockwell Automation</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">R24-7388 EDGE Program, Technical Sales & Consulting: Account Manager (Canada)</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers"><img src="https://cdn.brandfetch.io/rockwellautomation.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Rockwell Automation" height="20" style="vertical-align:middle; margin-right:6px;"> Rockwell Automation</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">EDGE, Technical Sales & Consulting: Account Manager (USA)</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://bostonscientific.eightfold.ai/careers?start=0&location=United+States&pid=563602797912246&sort_by=distance&filter_include_remote=1&filter_seniority=Intern"><img src="https://cdn.brandfetch.io/bostonscientific.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boston Scientific" height="20" style="vertical-align:middle; margin-right:6px;"> Boston Scientific</a></div>
 </td>
 
@@ -615,6 +711,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">PhD Winter Internship – 2026</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.hudsonrivertrading.com/careers/?job-type=internship%2C"><img src="https://cdn.brandfetch.io/hudsonrivertrading.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Hudson River Trading" height="20" style="vertical-align:middle; margin-right:6px;"> Hudson River Trading</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Women in Trading and Technology Internship (WiTTI) – Winter 2026</div></td>
   <td>9/2</td>
 </tr>
   <tr>
@@ -759,6 +863,30 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Finance Intern, Summer 2026</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">WDI Graphic Fabrication Intern, Spring 2026</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">WDI Civil Engineering Intern, Spring 2026</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">WDI Landscape Architecture Intern, Orlando, Spring 2026</div></td>
   <td>9/2</td>
 </tr>
   <tr>
@@ -939,6 +1067,86 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.qualcomm.com/careers?location=United%20States&seniority=Intern&domain=qualcomm.com&sort_by=relevance&triggerGoButton=true"><img src="https://cdn.brandfetch.io/qualcomm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Qualcomm" height="20" style="vertical-align:middle; margin-right:6px;"> Qualcomm</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Qualcomm Government Technologies (QGOV) Engineering Internship – Summer 2026 (San Diego Or Boulder) \| US CITIZENSHIP REQUIRED</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.qualcomm.com/careers?location=United%20States&seniority=Intern&domain=qualcomm.com&sort_by=relevance&triggerGoButton=true"><img src="https://cdn.brandfetch.io/qualcomm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Qualcomm" height="20" style="vertical-align:middle; margin-right:6px;"> Qualcomm</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Wireless Systems Engineering Internship - Summer 2026</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.qualcomm.com/careers?location=United%20States&seniority=Intern&domain=qualcomm.com&sort_by=relevance&triggerGoButton=true"><img src="https://cdn.brandfetch.io/qualcomm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Qualcomm" height="20" style="vertical-align:middle; margin-right:6px;"> Qualcomm</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Security (Product, Systems, Cyber) Engineering Internship - Summer 2026</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.qualcomm.com/careers?location=United%20States&seniority=Intern&domain=qualcomm.com&sort_by=relevance&triggerGoButton=true"><img src="https://cdn.brandfetch.io/qualcomm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Qualcomm" height="20" style="vertical-align:middle; margin-right:6px;"> Qualcomm</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Information Technology (IT) Internship – Summer 2026</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.qualcomm.com/careers?location=United%20States&seniority=Intern&domain=qualcomm.com&sort_by=relevance&triggerGoButton=true"><img src="https://cdn.brandfetch.io/qualcomm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Qualcomm" height="20" style="vertical-align:middle; margin-right:6px;"> Qualcomm</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Finance & Accounting Internship - Summer 2026</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.qualcomm.com/careers?location=United%20States&seniority=Intern&domain=qualcomm.com&sort_by=relevance&triggerGoButton=true"><img src="https://cdn.brandfetch.io/qualcomm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Qualcomm" height="20" style="vertical-align:middle; margin-right:6px;"> Qualcomm</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">RF/Analog Design/Mixed-Signal Engineering Internship – Summer 2026</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.qualcomm.com/careers?location=United%20States&seniority=Intern&domain=qualcomm.com&sort_by=relevance&triggerGoButton=true"><img src="https://cdn.brandfetch.io/qualcomm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Qualcomm" height="20" style="vertical-align:middle; margin-right:6px;"> Qualcomm</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">IT Infrastructure & Cloud Engineering Internship – Summer 2026</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.qualcomm.com/careers?location=United%20States&seniority=Intern&domain=qualcomm.com&sort_by=relevance&triggerGoButton=true"><img src="https://cdn.brandfetch.io/qualcomm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Qualcomm" height="20" style="vertical-align:middle; margin-right:6px;"> Qualcomm</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Mechanical Engineering Internship – Summer 2026</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.qualcomm.com/careers?location=United%20States&seniority=Intern&domain=qualcomm.com&sort_by=relevance&triggerGoButton=true"><img src="https://cdn.brandfetch.io/qualcomm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Qualcomm" height="20" style="vertical-align:middle; margin-right:6px;"> Qualcomm</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineering Internship - Summer 2026</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.qualcomm.com/careers?location=United%20States&seniority=Intern&domain=qualcomm.com&sort_by=relevance&triggerGoButton=true"><img src="https://cdn.brandfetch.io/qualcomm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Qualcomm" height="20" style="vertical-align:middle; margin-right:6px;"> Qualcomm</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Embedded Engineering Internship - Summer 2026</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.point72.com/?experience=internships"><img src="https://cdn.brandfetch.io/point72.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Point72" height="20" style="vertical-align:middle; margin-right:6px;"> Point72</a></div>
 </td>
 
@@ -1095,6 +1303,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Inventory Analyst Intern- Minneapolis, MN (Starting Summer, 2026)</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://mosaic.wd5.myworkdayjobs.com/mosaic?workerSubType=ed8099291cc44a449715a96f49b3b316&locations=650055bade3a47079294e41cfa83d322&locations=8e6a747b95174ec58844a56e3a58fea7&locations=679a79860e514d81a6cb1f68c9c88e09&locations=5eb4fe3563194525801ecea18921c4c6"><img src="https://cdn.brandfetch.io/mosaicco.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mosaic" height="20" style="vertical-align:middle; margin-right:6px;"> Mosaic</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Accounting & Finance Co-Op/Intern – Spring 2026</div></td>
   <td>9/2</td>
 </tr>
   <tr>
