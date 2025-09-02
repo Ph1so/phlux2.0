@@ -12,7 +12,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 4450 roles across 130 companies*
+*Found 4455 roles across 130 companies*
 
 
 <table>
@@ -211,10 +211,26 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.metacareers.com/jobs?sort_by_new=true&roles[0]=Internship"><img src="https://cdn.brandfetch.io/meta.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Meta" height="20" style="vertical-align:middle; margin-right:6px;"> Meta</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Scientist Intern, Multimodal Audio Generation (PhD)</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.careers.microsoft.com/global/en/search?lc=United%20States&et=Internship&l=en_us&pg=1&pgSz=20&o=Relevance&flt=true"><img src="https://cdn.brandfetch.io/microsoft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Microsoft" height="20" style="vertical-align:middle; margin-right:6px;"> Microsoft</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Applied Science: Internship Opportunities – Redmond</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=recent&country%5B%5D=USA&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=intern&city=&country=&region=&county=&query_options=&"><img src="https://cdn.brandfetch.io/amazon.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Amazon" height="20" style="vertical-align:middle; margin-right:6px;"> Amazon</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2026 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics</div></td>
   <td>9/2</td>
 </tr>
   <tr>
@@ -539,6 +555,22 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers"><img src="https://cdn.brandfetch.io/rockwellautomation.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Rockwell Automation" height="20" style="vertical-align:middle; margin-right:6px;"> Rockwell Automation</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Intern, Technical Sales & Consulting (USA)</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers"><img src="https://cdn.brandfetch.io/rockwellautomation.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Rockwell Automation" height="20" style="vertical-align:middle; margin-right:6px;"> Rockwell Automation</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Intern, Technical Sales & Consulting (Canada)</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://bostonscientific.eightfold.ai/careers?start=0&location=United+States&pid=563602797912246&sort_by=distance&filter_include_remote=1&filter_seniority=Intern"><img src="https://cdn.brandfetch.io/bostonscientific.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boston Scientific" height="20" style="vertical-align:middle; margin-right:6px;"> Boston Scientific</a></div>
 </td>
 
@@ -727,6 +759,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2026 Summer Internship - Strategy</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.point72.com/?experience=internships"><img src="https://cdn.brandfetch.io/point72.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Point72" height="20" style="vertical-align:middle; margin-right:6px;"> Point72</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2026 Summer Internship - Operations</div></td>
   <td>9/2</td>
 </tr>
   <tr>
