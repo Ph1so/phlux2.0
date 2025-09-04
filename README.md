@@ -12,7 +12,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 4633 roles across 130 companies*
+*Found 4634 roles across 130 companies*
 
 
 <table>
@@ -39,6 +39,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">NON-DESTRUCTIVE TESTING INSPECTOR LEVEL II (NDE) - EDDY CURRENT (ET)</div></td>
+  <td>9/4</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.zipline.com/careers/open-roles?search=intern#"><img src="https://cdn.brandfetch.io/flyzipline.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zipline" height="20" style="vertical-align:middle; margin-right:6px;"> Zipline</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Field Service Engineer – Ground Systems, SMI (Structures, Mechanisms & Integration) - Engineering - South San Francisco, California, USA</div></td>
   <td>9/4</td>
 </tr>
   <tr>
