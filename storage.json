@@ -10571,6 +10571,14 @@
       {
         "title": "CONSTRUCTION TECHNICIAN",
         "date": "9/5"
+      },
+      {
+        "title": "SR. SOURCING SPECIALIST, MECHANICAL (STARLINK)",
+        "date": "9/5"
+      },
+      {
+        "title": "THERMAL PROTECTION TECHNICIAN (DRAGON) - 2ND SHIFT",
+        "date": "9/5"
       }
     ],
     "IBM": [
@@ -10787,6 +10795,14 @@
       {
         "title": "Software/QA Development Coop",
         "date": "9/4"
+      },
+      {
+        "title": "Software Developer Coop",
+        "date": "9/5"
+      },
+      {
+        "title": "Software Developer Coop",
+        "date": "9/5"
       }
     ],
     "EA": [
@@ -14475,6 +14491,10 @@
       {
         "title": "Staff Software Engineer, Data",
         "date": "9/4"
+      },
+      {
+        "title": "Presentation Designer",
+        "date": "9/5"
       }
     ],
     "RedHat": [],
