@@ -12,7 +12,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 4881 roles across 130 companies*
+*Found 4887 roles across 130 companies*
 
 
 <table>
@@ -219,6 +219,30 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">PHYSICAL DESIGN ENGINEER II (SILICON ENGINEERING)</div></td>
+  <td>9/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">PHYSICAL DESIGN ENGINEER II (SILICON ENGINEERING)</div></td>
+  <td>9/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">PHYSICAL DESIGN ENGINEER II (SILICON ENGINEERING)</div></td>
+  <td>9/8</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
 </td>
 
@@ -231,6 +255,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineering - IMS Software Technical Support Professional Intern: 2026 - Internship - Multiple Cities</div></td>
+  <td>9/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?lastSelectedFacet=TITLES&location=United+States&locationId=300000000480126&locationLevel=country&mode=location&selectedTitlesFacet=TRA"><img src="https://cdn.brandfetch.io/nokia.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nokia" height="20" style="vertical-align:middle; margin-right:6px;"> Nokia</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Space and Defense Software Development Coop</div></td>
   <td>9/8</td>
 </tr>
   <tr>
@@ -327,6 +359,22 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer III, Identity Platform</div></td>
+  <td>9/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.github.careers/careers-home/jobs?view=search&limit=100&page=1"><img src="https://cdn.brandfetch.io/github.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Github" height="20" style="vertical-align:middle; margin-right:6px;"> Github</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer III, Projects</div></td>
+  <td>9/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.github.careers/careers-home/jobs?view=search&limit=100&page=1"><img src="https://cdn.brandfetch.io/github.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Github" height="20" style="vertical-align:middle; margin-right:6px;"> Github</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Software Engineer, Performance Engineering</div></td>
   <td>9/8</td>
 </tr>
   <tr>
