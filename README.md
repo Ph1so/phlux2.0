@@ -12,7 +12,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 4890 roles across 130 companies*
+*Found 4894 roles across 130 companies*
 
 
 <table>
@@ -263,6 +263,22 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">SUPPLY CHAIN ENGINEER, PCBA (STARSHIELD)</div></td>
+  <td>9/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">SUPERVISOR, FABRICATION (STARSHIP LAUNCH HARDWARE)</div></td>
+  <td>9/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">SUPERVISOR, NDE OPERATIONS (STARSHIP) - NIGHTS</div></td>
   <td>9/8</td>
 </tr>
   <tr>
@@ -559,6 +575,22 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Store Executive Intern (Store Leadership Intern) - East St Louis, MO (Starting Summer 2026)</div></td>
+  <td>9/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers?jobFamilyGroup=be3ab1d7a62801c1c7c82b804a0529d0&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/medtronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Medtronic" height="20" style="vertical-align:middle; margin-right:6px;"> Medtronic</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Medtronic Summer Internship 2026 - Medtronic Day</div></td>
+  <td>9/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers?jobFamilyGroup=be3ab1d7a62801c1c7c82b804a0529d0&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/medtronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Medtronic" height="20" style="vertical-align:middle; margin-right:6px;"> Medtronic</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Medtronic Summer Internship 2026 - Medtronic Day</div></td>
   <td>9/8</td>
 </tr>
   <tr>
