@@ -12,7 +12,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 4997 roles across 131 companies*
+*Found 5006 roles across 131 companies*
 
 
 <table>
@@ -35,6 +35,14 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.metacareers.com/jobs?sort_by_new=true&roles[0]=Internship"><img src="https://cdn.brandfetch.io/meta.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Meta" height="20" style="vertical-align:middle; margin-right:6px;"> Meta</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Scientist Intern, Audio (PhD)</div></td>
+  <td>9/9</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
 </td>
 
@@ -47,6 +55,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">COUNSEL, GLOBAL TRADE COMPLIANCE</div></td>
+  <td>9/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">MANAGER, ENTERPRISE CUSTOMER SUCCESS (AVIATION)</div></td>
   <td>9/9</td>
 </tr>
   <tr>
@@ -99,6 +115,22 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sales - 2026 Brand Sales Specialist Co-Op - Entry Level Sales Program - Internship - Multiple Cities</div></td>
+  <td>9/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.intuit.com/search-jobs/interns/"><img src="https://cdn.brandfetch.io/intuit.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Intuit" height="20" style="vertical-align:middle; margin-right:6px;"> Intuit</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Paid Search Manager</div></td>
+  <td>9/9</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.verkada.com/careers/"><img src="https://cdn.brandfetch.io/verkada.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Verkada" height="20" style="vertical-align:middle; margin-right:6px;"> Verkada</a></div>
 </td>
 
@@ -115,6 +147,14 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.github.careers/careers-home/jobs?view=search&limit=100&page=1"><img src="https://cdn.brandfetch.io/github.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Github" height="20" style="vertical-align:middle; margin-right:6px;"> Github</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Software Engineer, Package Security</div></td>
+  <td>9/9</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://bostondynamics.com/careers/#jobs"><img src="https://cdn.brandfetch.io/bostondynamics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boston Dynamics" height="20" style="vertical-align:middle; margin-right:6px;"> Boston Dynamics</a></div>
 </td>
 
@@ -127,6 +167,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Enterprise Sales Engineer</div></td>
+  <td>9/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://bostondynamics.com/careers/#jobs"><img src="https://cdn.brandfetch.io/bostondynamics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boston Dynamics" height="20" style="vertical-align:middle; margin-right:6px;"> Boston Dynamics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Electronic Systems Engineer</div></td>
   <td>9/9</td>
 </tr>
   <tr>
@@ -171,10 +219,34 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.leidos.com/pages/intern-jobs?ns_landing_page_jobs=/search/job-level/intern/jobs/in/country/united-states?ns_landing_page=1"><img src="https://cdn.brandfetch.io/leidos.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Leidos" height="20" style="vertical-align:middle; margin-right:6px;"> Leidos</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Cybersecurity Intern</div></td>
+  <td>9/9</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Licensing Intern</div></td>
+  <td>9/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers?jobFamilyGroup=be3ab1d7a62801c1c7c82b804a0529d0&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/medtronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Medtronic" height="20" style="vertical-align:middle; margin-right:6px;"> Medtronic</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Engineering Intern Summer 2026 - Candidates Attending 2025 SWE National Convention</div></td>
+  <td>9/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers?jobFamilyGroup=be3ab1d7a62801c1c7c82b804a0529d0&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/medtronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Medtronic" height="20" style="vertical-align:middle; margin-right:6px;"> Medtronic</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Engineering Intern Summer 2026 - Candidates Attending 2025 SWE National Convention</div></td>
   <td>9/9</td>
 </tr>
   <tr>
