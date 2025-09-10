@@ -2597,6 +2597,10 @@
       {
         "title": "University Grad | Sales Development Representative",
         "date": "8/25"
+      },
+      {
+        "title": "Summer 2026 | Applied Scientist Intern",
+        "date": "9/10"
       }
     ],
     "Workday": [
@@ -11055,6 +11059,14 @@
       {
         "title": "MANUFACTURING SPECIALIST, PCBA (STARLINK)",
         "date": "9/10"
+      },
+      {
+        "title": "FABRICATION SUPPORT TECHNICIAN (NIGHT SHIFT)",
+        "date": "9/10"
+      },
+      {
+        "title": "MANUFACTURING ENGINEER - SUPPLIER DEVELOPMENT (STARLINK)",
+        "date": "9/10"
       }
     ],
     "IBM": [
@@ -11228,6 +11240,26 @@
       },
       {
         "title": "Infrastructure & Technology - Software Engineering Intern 2026 - Internship - Multiple Cities",
+        "date": "9/10"
+      },
+      {
+        "title": "Consulting - Associate Application Consultant Intern 2026 - Internship - Multiple Cities",
+        "date": "9/10"
+      },
+      {
+        "title": "Software Engineering - Associate Developer Intern 2026 - Internship - Multiple Cities",
+        "date": "9/10"
+      },
+      {
+        "title": "Consulting - Associate X-Force Cyber Range Consultant Intern 2026 - Internship - WASHINGTON, US",
+        "date": "9/10"
+      },
+      {
+        "title": "Consulting - Associate X-Force Incident Response Intern 2026 - Internship - Austin, US",
+        "date": "9/10"
+      },
+      {
+        "title": "Consulting - Associate Package Consultants Intern 2026 - Internship - Multiple Cities",
         "date": "9/10"
       }
     ],
@@ -13819,6 +13851,10 @@
       {
         "title": "Leadership Development Program, LCS - Technical Expertise, Field Service",
         "date": "9/9"
+      },
+      {
+        "title": "Co-op, Embedded Software Engineer (January 2026 - August 2026)",
+        "date": "9/10"
       }
     ],
     "Boston Scientific": [
@@ -15513,6 +15549,10 @@
       },
       {
         "title": "Head of SQA- Humanoid Robotics",
+        "date": "9/10"
+      },
+      {
+        "title": "Senior Demand Planner",
         "date": "9/10"
       }
     ],
@@ -20740,6 +20780,10 @@
       {
         "title": "Embedded Software Developer Co-op",
         "date": "9/9"
+      },
+      {
+        "title": "Application Software Development Co-op",
+        "date": "9/10"
       }
     ]
   }

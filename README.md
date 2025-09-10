@@ -12,7 +12,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 5124 roles across 131 companies*
+*Found 5135 roles across 131 companies*
 
 
 <table>
@@ -51,6 +51,14 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://ramp.com/emerging-talent"><img src="https://cdn.brandfetch.io/ramp.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Ramp" height="20" style="vertical-align:middle; margin-right:6px;"> Ramp</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Summer 2026 \| Applied Scientist Intern</div></td>
+  <td>9/10</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.mongodb.com/company/careers/students-and-graduates"><img src="https://cdn.brandfetch.io/mongodb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="MongoDB" height="20" style="vertical-align:middle; margin-right:6px;"> MongoDB</a></div>
 </td>
 
@@ -83,10 +91,66 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">FABRICATION SUPPORT TECHNICIAN (NIGHT SHIFT)</div></td>
+  <td>9/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">MANUFACTURING ENGINEER - SUPPLIER DEVELOPMENT (STARLINK)</div></td>
+  <td>9/10</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Infrastructure & Technology - Software Engineering Intern 2026 - Internship - Multiple Cities</div></td>
+  <td>9/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Consulting - Associate Application Consultant Intern 2026 - Internship - Multiple Cities</div></td>
+  <td>9/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineering - Associate Developer Intern 2026 - Internship - Multiple Cities</div></td>
+  <td>9/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Consulting - Associate X-Force Cyber Range Consultant Intern 2026 - Internship - WASHINGTON, US</div></td>
+  <td>9/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Consulting - Associate X-Force Incident Response Intern 2026 - Internship - Austin, US</div></td>
+  <td>9/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Consulting - Associate Package Consultants Intern 2026 - Internship - Multiple Cities</div></td>
   <td>9/10</td>
 </tr>
   <tr>
@@ -103,6 +167,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Product Manager 2, Rotational Product Management Program</div></td>
+  <td>9/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers"><img src="https://cdn.brandfetch.io/rockwellautomation.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Rockwell Automation" height="20" style="vertical-align:middle; margin-right:6px;"> Rockwell Automation</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Co-op, Embedded Software Engineer (January 2026 - August 2026)</div></td>
   <td>9/10</td>
 </tr>
   <tr>
@@ -139,6 +211,14 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://bostondynamics.com/careers/#jobs"><img src="https://cdn.brandfetch.io/bostondynamics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boston Dynamics" height="20" style="vertical-align:middle; margin-right:6px;"> Boston Dynamics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Demand Planner</div></td>
+  <td>9/10</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.smartrecruiters.com/Visa/university-recruiting"><img src="https://cdn.brandfetch.io/visa.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Visa" height="20" style="vertical-align:middle; margin-right:6px;"> Visa</a></div>
 </td>
 
@@ -167,6 +247,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2026 Winter Internship - Data Engineer, Proprietary Research</div></td>
+  <td>9/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/jobs?workerSubType=1f9406d5717e109875eae116f2c007e5"><img src="https://cdn.brandfetch.io/bose.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bose" height="20" style="vertical-align:middle; margin-right:6px;"> Bose</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Application Software Development Co-op</div></td>
   <td>9/10</td>
 </tr>
   <tr>
