@@ -12,7 +12,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 5234 roles across 131 companies*
+*Found 5236 roles across 131 companies*
 
 
 <table>
@@ -195,6 +195,14 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=rsinternboard"><img src="https://cdn.brandfetch.io/relativity.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Relativity" height="20" style="vertical-align:middle; margin-right:6px;"> Relativity</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robotics Software Engineer Intern</div></td>
+  <td>9/11</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.leidos.com/pages/intern-jobs?ns_landing_page_jobs=/search/job-level/intern/jobs/in/country/united-states?ns_landing_page=1"><img src="https://cdn.brandfetch.io/leidos.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Leidos" height="20" style="vertical-align:middle; margin-right:6px;"> Leidos</a></div>
 </td>
 
@@ -351,6 +359,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">MS0176: Internship - Few-Shot Learning</div></td>
+  <td>9/11</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/jobs?workerSubType=1f9406d5717e109875eae116f2c007e5"><img src="https://cdn.brandfetch.io/bose.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bose" height="20" style="vertical-align:middle; margin-right:6px;"> Bose</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Automotive Software Program Management Co-op</div></td>
   <td>9/11</td>
 </tr>
   <tr>
