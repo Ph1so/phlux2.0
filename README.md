@@ -12,7 +12,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 5351 roles across 132 companies*
+*Found 5367 roles across 134 companies*
 
 
 <table>
@@ -31,6 +31,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Scientist Intern, Multimodal Behavioral AI (PhD)</div></td>
+  <td>9/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.careers.microsoft.com/global/en/search?lc=United%20States&et=Internship&l=en_us&pg=1&pgSz=20&o=Relevance&flt=true"><img src="https://cdn.brandfetch.io/microsoft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Microsoft" height="20" style="vertical-align:middle; margin-right:6px;"> Microsoft</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer: Applied AI/ML Intern Opportunities for University Students, Mountain View</div></td>
   <td>9/12</td>
 </tr>
   <tr>
@@ -607,6 +615,126 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer - Full Stack</div></td>
+  <td>9/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://onwardrobotics.com/careers/#jobs"><img src="https://cdn.brandfetch.io/iamrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Onward Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Onward Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2026 Internship Opportunities</div></td>
+  <td>9/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://onwardrobotics.com/careers/#jobs"><img src="https://cdn.brandfetch.io/iamrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Onward Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Onward Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Business Development Representative</div></td>
+  <td>9/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://onwardrobotics.com/careers/#jobs"><img src="https://cdn.brandfetch.io/iamrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Onward Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Onward Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Enterprise Account Executive (Midwest)</div></td>
+  <td>9/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://onwardrobotics.com/careers/#jobs"><img src="https://cdn.brandfetch.io/iamrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Onward Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Onward Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Enterprise Account Executive (South Central)</div></td>
+  <td>9/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://onwardrobotics.com/careers/#jobs"><img src="https://cdn.brandfetch.io/iamrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Onward Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Onward Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Manager, Quality Assurance</div></td>
+  <td>9/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://onwardrobotics.com/careers/#jobs"><img src="https://cdn.brandfetch.io/iamrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Onward Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Onward Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Principal Enterprise Software Engineer</div></td>
+  <td>9/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://onwardrobotics.com/careers/#jobs"><img src="https://cdn.brandfetch.io/iamrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Onward Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Onward Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Director, Sales</div></td>
+  <td>9/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://onwardrobotics.com/careers/#jobs"><img src="https://cdn.brandfetch.io/iamrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Onward Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Onward Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Localization Engineer</div></td>
+  <td>9/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://onwardrobotics.com/careers/#jobs"><img src="https://cdn.brandfetch.io/iamrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Onward Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Onward Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Perception Engineer</div></td>
+  <td>9/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://onwardrobotics.com/careers/#jobs"><img src="https://cdn.brandfetch.io/iamrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Onward Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Onward Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Quality Assurance Engineer</div></td>
+  <td>9/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://onwardrobotics.com/careers/#jobs"><img src="https://cdn.brandfetch.io/iamrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Onward Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Onward Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Robot Software Engineer</div></td>
+  <td>9/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://onwardrobotics.com/careers/#jobs"><img src="https://cdn.brandfetch.io/iamrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Onward Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Onward Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Solution Designer</div></td>
+  <td>9/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://onwardrobotics.com/careers/#jobs"><img src="https://cdn.brandfetch.io/iamrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Onward Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Onward Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Technical Product Manager</div></td>
+  <td>9/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://onwardrobotics.com/careers/#jobs"><img src="https://cdn.brandfetch.io/iamrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Onward Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Onward Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">UI/UX Designer</div></td>
+  <td>9/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://onwardrobotics.com/careers/#jobs"><img src="https://cdn.brandfetch.io/iamrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Onward Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Onward Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Vice President of Product</div></td>
   <td>9/12</td>
 </tr>
   <tr>
