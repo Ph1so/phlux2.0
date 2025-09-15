@@ -12,7 +12,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 5492 roles across 134 companies*
+*Found 5497 roles across 134 companies*
 
 
 <table>
@@ -91,10 +91,26 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.careers.microsoft.com/global/en/search?lc=United%20States&et=Internship&l=en_us&pg=1&pgSz=20&o=Relevance&flt=true"><img src="https://cdn.brandfetch.io/microsoft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Microsoft" height="20" style="vertical-align:middle; margin-right:6px;"> Microsoft</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Penetration Testing: Internship Opportunities</div></td>
+  <td>9/15</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=recent&country%5B%5D=USA&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=intern&city=&country=&region=&county=&query_options=&"><img src="https://cdn.brandfetch.io/amazon.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Amazon" height="20" style="vertical-align:middle; margin-right:6px;"> Amazon</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">User Experience Research Intern Internship – 2026 (US)</div></td>
+  <td>9/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=recent&country%5B%5D=USA&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=intern&city=&country=&region=&county=&query_options=&"><img src="https://cdn.brandfetch.io/amazon.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Amazon" height="20" style="vertical-align:middle; margin-right:6px;"> Amazon</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Jr. Software Development Engineer - Tempe, AZ, Jr. Developer Program</div></td>
   <td>9/15</td>
 </tr>
   <tr>
@@ -363,6 +379,14 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://vercel.com/careers#positions"><img src="https://cdn.brandfetch.io/vercel.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Vercel" height="20" style="vertical-align:middle; margin-right:6px;"> Vercel</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sr. Director of SOX and Internal Controls - Hybrid - San Francisco</div></td>
+  <td>9/15</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://mycareer.verizon.com/jobs/?search=&team=Campus+%26+Apprenticeships&pagesize=100#results"><img src="https://cdn.brandfetch.io/verizon.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Verizon" height="20" style="vertical-align:middle; margin-right:6px;"> Verizon</a></div>
 </td>
 
@@ -535,6 +559,22 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2026 Internship Review: Private Investments</div></td>
+  <td>9/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.point72.com/?experience=internships"><img src="https://cdn.brandfetch.io/point72.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Point72" height="20" style="vertical-align:middle; margin-right:6px;"> Point72</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2026 Summer Internship - Private Investments</div></td>
+  <td>9/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.point72.com/?experience=internships"><img src="https://cdn.brandfetch.io/point72.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Point72" height="20" style="vertical-align:middle; margin-right:6px;"> Point72</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2026 Summer Internship - AI Innovation, Investment Services</div></td>
   <td>9/15</td>
 </tr>
   <tr>
