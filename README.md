@@ -12,7 +12,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 5865 roles across 134 companies*
+*Found 5869 roles across 134 companies*
 
 
 <table>
@@ -219,6 +219,14 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.blueorigin.com/careers/search?search=undergraduate&category=Intern&employmentType=Intern"><img src="https://cdn.brandfetch.io/blueorigin.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Blue Origin" height="20" style="vertical-align:middle; margin-right:6px;"> Blue Origin</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Summer 2026 Fluid Systems & Propulsion Engineering Intern - Undergraduate - 5 Locations - Intern - Full Time - Intern - R54899</div></td>
+  <td>9/19</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.amazon.jobs/content/en/teams/ftr/amazon-robotics?country%5B%5D=US&employment-type%5B%5D=Intern"><img src="https://cdn.brandfetch.io/amazonrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Amazon Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Amazon Robotics</a></div>
 </td>
 
@@ -359,6 +367,22 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">SR. MANAGER, STARLINK ENTERPRISE ACCOUNTS (AVIATION)</div></td>
+  <td>9/19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">STARLINK PRODUCTION ASSOCIATE - 1ST SHIFT (TEMPORARY)</div></td>
+  <td>9/19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.spacex.com/careers/jobs/?type=intern"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">SUPERVISOR, NDE OPERATIONS (STARSHIP)</div></td>
   <td>9/19</td>
 </tr>
   <tr>
@@ -727,6 +751,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Disney Live Entertainment Industrial Design Intern, Spring 2026</div></td>
+  <td>9/19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=rsinternboard"><img src="https://cdn.brandfetch.io/relativity.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Relativity" height="20" style="vertical-align:middle; margin-right:6px;"> Relativity</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Data Science InternNew</div></td>
   <td>9/19</td>
 </tr>
   <tr>
