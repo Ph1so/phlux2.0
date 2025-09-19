@@ -139,7 +139,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Intern - Multimodal Foundation Model for Vision</div></td>
@@ -5427,7 +5427,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Intern – Machine Learning for Image Sensor Design</div></td>
@@ -6299,7 +6299,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Licensing Intern</div></td>
@@ -13715,7 +13715,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Marketing and Communications Intern</div></td>
@@ -14419,7 +14419,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Pasante de Sistemas</div></td>
@@ -16419,7 +16419,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Intern, Film & TV</div></td>
@@ -17931,7 +17931,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Reinforcement Learning Research Intern for Game AI</div></td>
@@ -18971,7 +18971,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">HR Information Systems Internship</div></td>
@@ -37611,7 +37611,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Data Operations Intern, Aniplex</div></td>
@@ -37923,7 +37923,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Graphic Design Student Help</div></td>
@@ -38227,7 +38227,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Marketing Analyst Intern</div></td>
@@ -38603,7 +38603,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Intern, North American Royalty Administration</div></td>
@@ -45731,7 +45731,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Legal Intern</div></td>
@@ -45739,7 +45739,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">AI/ML Computer Vision Research Intern</div></td>
@@ -45747,7 +45747,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Intern, Vision Foundation Model and Generative AI</div></td>
@@ -45755,7 +45755,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">AI/ML Computer Graphics and Robotics for 3D Animation Research Intern</div></td>
@@ -45763,7 +45763,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Intern on Generative AI for Content Creation</div></td>
@@ -45771,7 +45771,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Junior Business Analyst, EUSP</div></td>
@@ -45779,7 +45779,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Intern, Desktop Support IT</div></td>
@@ -45787,7 +45787,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Intern, Desktop Support IT</div></td>
@@ -45795,7 +45795,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer Intern</div></td>
@@ -45803,7 +45803,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Intern for Deep Generative Modeling</div></td>
@@ -45811,7 +45811,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Intern – Vision Foundation Model & GenAI</div></td>
@@ -45819,7 +45819,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Intern - UI/UX Researcher – Human Factor Engineer</div></td>
@@ -45827,7 +45827,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Stage - Assistant(e) communication marketing</div></td>
