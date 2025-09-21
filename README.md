@@ -12,7 +12,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 5880 roles across 135 companies*
+*Found 5880 roles across 136 companies*
 
 
 <table>
