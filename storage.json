@@ -4307,6 +4307,14 @@
       {
         "title": "Vendor Management Intern (Summer 2026)",
         "date": "9/22"
+      },
+      {
+        "title": "Crypto Operations Intern (Summer 2026)",
+        "date": "9/22"
+      },
+      {
+        "title": "Futures Operations Intern (Summer 2026)",
+        "date": "9/22"
       }
     ],
     "AMD": [
@@ -24694,6 +24702,29 @@
         "title": "Senior Robotics Software Engineer, Localization and Mapping",
         "date": "9/22"
       }
-    ]
+    ],
+    "GrayMatter Robotics": [
+      {
+        "title": "Robotics Engineer: Process",
+        "date": "9/22"
+      },
+      {
+        "title": "Robotics Engineer: Software, New Grad",
+        "date": "9/22"
+      },
+      {
+        "title": "Robotics Engineering Intern: Software",
+        "date": "9/22"
+      },
+      {
+        "title": "Senior Robotics Engineer: Motion Planning",
+        "date": "9/22"
+      },
+      {
+        "title": "Senior Robotics Engineer: Software Architecture",
+        "date": "9/22"
+      }
+    ],
+    "Path Robotics": []
   }
 }
