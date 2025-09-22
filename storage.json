@@ -1493,6 +1493,10 @@
       {
         "title": "Intern, Visual Design",
         "date": "9/22"
+      },
+      {
+        "title": "Intern, Experience Design",
+        "date": "9/22"
       }
     ],
     "Salesforce": [
@@ -12493,6 +12497,14 @@
       {
         "title": "Research - AI Healthcare & Life Sciences Intern - Internship - Multiple Cities",
         "date": "9/20"
+      },
+      {
+        "title": "Infrastructure & Technology - Intern 2026: Quantum Security tooling - Internship - Multiple Cities",
+        "date": "9/22"
+      },
+      {
+        "title": "Data & Analytics - 2026 Masters or PhD Intern \u2013 Marketing Data Science & Data Analytics - Internship - New York, US",
+        "date": "9/22"
       }
     ],
     "Nokia": [
@@ -21974,6 +21986,10 @@
       {
         "title": "Store Assets Protection Executive Intern (Store Leadership Intern) - Greater Bay Area, California (Starting Summer 2026)",
         "date": "9/18"
+      },
+      {
+        "title": "Executive Team Leader (Assistant Store Manager) \u2013 Longmont, CO (Starting Spring 2026)",
+        "date": "9/22"
       }
     ],
     "Amentum": [
@@ -24117,6 +24133,18 @@
       {
         "title": "Financial Analyst Intern",
         "date": "9/20"
+      },
+      {
+        "title": "Technical Support Engineer 2",
+        "date": "9/22"
+      },
+      {
+        "title": "Technical Support Engineer",
+        "date": "9/22"
+      },
+      {
+        "title": "Digital Solutions Representative",
+        "date": "9/22"
       }
     ],
     "Stoke Space": [
@@ -24725,6 +24753,361 @@
         "date": "9/22"
       }
     ],
-    "Path Robotics": []
+    "Path Robotics": [],
+    "Cobot": [
+      {
+        "title": "HRI Intern/Extern",
+        "date": "9/22"
+      }
+    ],
+    "Chef Robotics": [
+      {
+        "title": "Senior Perception Engineer",
+        "date": "9/22"
+      },
+      {
+        "title": "Senior Robotics QA Automation Engineer",
+        "date": "9/22"
+      },
+      {
+        "title": "Senior Robotics Release and Test Engineer",
+        "date": "9/22"
+      },
+      {
+        "title": "Applied ML Research Engineer - Robotics",
+        "date": "9/22"
+      },
+      {
+        "title": "Robotics Software Engineer",
+        "date": "9/22"
+      },
+      {
+        "title": "Senior Robotics Software Engineer, Manipulation",
+        "date": "9/22"
+      },
+      {
+        "title": "Senior Robotics Software Engineer, Planning and Control",
+        "date": "9/22"
+      },
+      {
+        "title": "Senior Robotics Software Engineer, Test",
+        "date": "9/22"
+      }
+    ],
+    "Apptronik": [
+      {
+        "title": "Staff Software Engineer - Robotic Simulation",
+        "date": "9/22"
+      },
+      {
+        "title": "Senior Cost Accountant",
+        "date": "9/22"
+      },
+      {
+        "title": "Director of Mechanical Engineering",
+        "date": "9/22"
+      },
+      {
+        "title": "Senior Electrical Engineer",
+        "date": "9/22"
+      },
+      {
+        "title": "Senior Mechanical Engineer - Continuous Improvement",
+        "date": "9/22"
+      },
+      {
+        "title": "Senior UX Researcher & Designer",
+        "date": "9/22"
+      },
+      {
+        "title": "Design Project Manager \u2013 ID and UX",
+        "date": "9/22"
+      },
+      {
+        "title": "Senior Technical Writer",
+        "date": "9/22"
+      },
+      {
+        "title": "Field Service Engineer (Mountain View)",
+        "date": "9/22"
+      },
+      {
+        "title": "Field Service Technician - Mountain View",
+        "date": "9/22"
+      },
+      {
+        "title": "Recruiting Coordinator (Contract)",
+        "date": "9/22"
+      },
+      {
+        "title": "Technical Recruiter (Contract)",
+        "date": "9/22"
+      },
+      {
+        "title": "Senior Software Engineer - Fault, Health, & Safety",
+        "date": "9/22"
+      },
+      {
+        "title": "Senior Software Project Manager",
+        "date": "9/22"
+      },
+      {
+        "title": "Senior Embedded Software Engineer - Linux",
+        "date": "9/22"
+      },
+      {
+        "title": "Staff DevOps Engineer - Data",
+        "date": "9/22"
+      },
+      {
+        "title": "Staff Embedded Software Engineer (Safety Focus)",
+        "date": "9/22"
+      },
+      {
+        "title": "Staff Software Engineer - Robot Platform",
+        "date": "9/22"
+      },
+      {
+        "title": "Staff Quality Assurance Engineer",
+        "date": "9/22"
+      },
+      {
+        "title": "Senior Engineer - Product Validation",
+        "date": "9/22"
+      },
+      {
+        "title": "Senior Staff Systems Engineer",
+        "date": "9/22"
+      },
+      {
+        "title": "Senior Systems Engineer \u2013 Product Safety",
+        "date": "9/22"
+      },
+      {
+        "title": "Staff Systems Engineer - Reliability",
+        "date": "9/22"
+      },
+      {
+        "title": "Staff Systems Engineer - Software",
+        "date": "9/22"
+      }
+    ],
+    "Ambi Robotics": [
+      {
+        "title": "Robotics QA Intern",
+        "date": "9/22"
+      },
+      {
+        "title": "Robotics Software Engineer",
+        "date": "9/22"
+      },
+      {
+        "title": "Senior Robotics Software Engineer",
+        "date": "9/22"
+      }
+    ],
+    "FigureAI": [
+      {
+        "title": "AI Engineer, Post-Training - Helix Team",
+        "date": "9/22"
+      },
+      {
+        "title": "AI Training Infrastructure Engineer - Helix Team",
+        "date": "9/22"
+      },
+      {
+        "title": "Data Creator Manager - Helix Team",
+        "date": "9/22"
+      },
+      {
+        "title": "Helix Data Creator",
+        "date": "9/22"
+      },
+      {
+        "title": "Humanoid Robot Pilot - Helix Team",
+        "date": "9/22"
+      },
+      {
+        "title": "Pilot Manager - Helix Team",
+        "date": "9/22"
+      },
+      {
+        "title": "Visual Interface Owner - TeleOp",
+        "date": "9/22"
+      },
+      {
+        "title": "CNC Machinist",
+        "date": "9/22"
+      },
+      {
+        "title": "Fabricator",
+        "date": "9/22"
+      },
+      {
+        "title": "Harness Integration Technician, Quick Turn",
+        "date": "9/22"
+      },
+      {
+        "title": "Manufacturing Electrical Test Engineer",
+        "date": "9/22"
+      },
+      {
+        "title": "Manufacturing Software Test Engineer",
+        "date": "9/22"
+      },
+      {
+        "title": "Manufacturing Test Engineer, PCBA",
+        "date": "9/22"
+      },
+      {
+        "title": "Mechanical Engineer, BotQ Equipment",
+        "date": "9/22"
+      },
+      {
+        "title": "MES & Controls Engineer",
+        "date": "9/22"
+      },
+      {
+        "title": "Senior Manufacturing Software Engineer",
+        "date": "9/22"
+      },
+      {
+        "title": "Staff Manufacturing Engineer",
+        "date": "9/22"
+      },
+      {
+        "title": "Commercial ManagerNew",
+        "date": "9/22"
+      },
+      {
+        "title": "Humanoid Robot Deployment Engineer",
+        "date": "9/22"
+      },
+      {
+        "title": "Humanoid Robot Operations Associate",
+        "date": "9/22"
+      },
+      {
+        "title": "Robotic Operations Technician",
+        "date": "9/22"
+      },
+      {
+        "title": "Battery Test TechnicianNew",
+        "date": "9/22"
+      },
+      {
+        "title": "Hardware Reliability Technician",
+        "date": "9/22"
+      },
+      {
+        "title": "Harness Integration Technician",
+        "date": "9/22"
+      },
+      {
+        "title": "Mechanical Engineer - All Levels",
+        "date": "9/22"
+      },
+      {
+        "title": "Mechanical Engineer Intern [Winter 2026]",
+        "date": "9/22"
+      },
+      {
+        "title": "Mechanical Engineer, Robot Ecosystem",
+        "date": "9/22"
+      },
+      {
+        "title": "Mechanical Engineer, Softgoods/Plastics",
+        "date": "9/22"
+      },
+      {
+        "title": "Mechanical Engineer, Sustaining",
+        "date": "9/22"
+      },
+      {
+        "title": "Mechanical Engineer - TeleOp",
+        "date": "9/22"
+      },
+      {
+        "title": "Senior Actuator Design Engineer",
+        "date": "9/22"
+      },
+      {
+        "title": "Senior FEA EngineerNew",
+        "date": "9/22"
+      },
+      {
+        "title": "Senior Hardware Failure Analysis Engineer",
+        "date": "9/22"
+      },
+      {
+        "title": "Senior Reliability Engineer - PCBA, Harness & Connectors",
+        "date": "9/22"
+      },
+      {
+        "title": "Lead UI/UX Designer",
+        "date": "9/22"
+      },
+      {
+        "title": "IT Network Engineer",
+        "date": "9/22"
+      },
+      {
+        "title": "Embedded Software Intern [Winter 2026]",
+        "date": "9/22"
+      },
+      {
+        "title": "Firmware Engineering Intern [Winter 2026]",
+        "date": "9/22"
+      },
+      {
+        "title": "Lead TeleOp Embedded Firmware Engineer",
+        "date": "9/22"
+      },
+      {
+        "title": "Over-the-Air Software Engineer",
+        "date": "9/22"
+      },
+      {
+        "title": "Senior Data Engineer",
+        "date": "9/22"
+      },
+      {
+        "title": "Software Engineer - Configuration",
+        "date": "9/22"
+      },
+      {
+        "title": "Sr. Embedded Software Engineer",
+        "date": "9/22"
+      },
+      {
+        "title": "Sr. Firmware Engineer",
+        "date": "9/22"
+      },
+      {
+        "title": "Staff DevOps Engineer",
+        "date": "9/22"
+      },
+      {
+        "title": "Electrical Engineer Intern [Winter 2026]",
+        "date": "9/22"
+      },
+      {
+        "title": "Prototype Development Technician",
+        "date": "9/22"
+      },
+      {
+        "title": "Robotic Safety Engineer",
+        "date": "9/22"
+      },
+      {
+        "title": "Security Engineer - D&R",
+        "date": "9/22"
+      },
+      {
+        "title": "Global Supply Chain Intern [Winter 2026]",
+        "date": "9/22"
+      }
+    ],
+    "1x": []
   }
 }
