@@ -142,7 +142,7 @@ GreyOrange,https://www.greyorange.com/company/careers/#th-job-section,CSS:div.ca
 General Motors,https://search-careers.gm.com/en/jobs/?search=&country=United+States+of+America&team=Students+%26+Recent+Graduates&pagesize=100#results,CSS:h2 a.stretched-link
 Brightpick,https://brightpick.ai/careers/#openpositions,CSS:.cp-job__name
 Locus Robotics,https://locusrobotics.com/company/careers/job-openings?f_viewall=0&f_page=1&f_posttype=jobs&f_limit=12&f_search=&f_region=united-states&f_location=&f_jobtype=&f_employementtype=&f_department=engineering#content-filter,CSS:div.text-wrap h4
-Path Robotics,https://www.path-robotics.com/who-we-are/careers/#open-positions,CSS:h3.nomargin-top
+Path Robotics,https://www.path-robotics.com/who-we-are/careers/open-positions/,CSS:h3.nomargin-top
 GrayMatter Robotics,https://jobs.ashbyhq.com/graymatter-robotics?departmentId=a3c9deea-e719-467d-a1c3-e3ebaaa13160,CSS:._title_12ylk_383.ashby-job-posting-brief-title
 Chef Robotics,https://jobs.lever.co/ChefRobotics?department=Engineering,CSS:a.posting-title h5
 Cobot,https://jobs.ashbyhq.com/cobot?departmentId=74ba016c-7d6a-462b-b5f0-76b2e2d803ba,CSS:h3
