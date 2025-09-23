@@ -12,7 +12,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 6324 roles across 154 companies*
+*Found 6329 roles across 155 companies*
 
 
 <table>
@@ -451,7 +451,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Global Supply Manager - Electronics</div></td>
@@ -459,7 +459,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Battery Test Technician</div></td>
@@ -467,7 +467,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Cloud Network EngineerNew</div></td>
@@ -475,7 +475,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.1x.tech/careers"><img src="https://cdn.brandfetch.io/1xtechnologies.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="1x" height="20" style="vertical-align:middle; margin-right:6px;"> 1x</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.1x.tech/careers">1x</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Electrical Engineering Internship, Prototyping</div></td>
@@ -483,10 +483,50 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.1x.tech/careers"><img src="https://cdn.brandfetch.io/1xtechnologies.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="1x" height="20" style="vertical-align:middle; margin-right:6px;"> 1x</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.1x.tech/careers">1x</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Mechanical Engineering Internship, Prototyping</div></td>
+  <td>9/23</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">Figure AI</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Mechanical Engineer Intern [Winter 2026]</div></td>
+  <td>9/23</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">Figure AI</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Embedded Software Intern [Winter 2026]</div></td>
+  <td>9/23</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">Figure AI</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Firmware Engineering Intern [Winter 2026]</div></td>
+  <td>9/23</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">Figure AI</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Electrical Engineer Intern [Winter 2026]</div></td>
+  <td>9/23</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">Figure AI</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Global Supply Chain Intern [Winter 2026]</div></td>
   <td>9/23</td>
 </tr>
   <tr>
@@ -1643,7 +1683,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/cobot?departmentId=74ba016c-7d6a-462b-b5f0-76b2e2d803ba"><img src="https://cdn.brandfetch.io/cobot.me/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Cobot" height="20" style="vertical-align:middle; margin-right:6px;"> Cobot</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/cobot?departmentId=74ba016c-7d6a-462b-b5f0-76b2e2d803ba">Cobot</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">HRI Intern/Extern</div></td>
@@ -1931,7 +1971,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">AI Engineer, Post-Training - Helix Team</div></td>
@@ -1939,7 +1979,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">AI Training Infrastructure Engineer - Helix Team</div></td>
@@ -1947,7 +1987,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Data Creator Manager - Helix Team</div></td>
@@ -1955,7 +1995,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Helix Data Creator</div></td>
@@ -1963,7 +2003,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Humanoid Robot Pilot - Helix Team</div></td>
@@ -1971,7 +2011,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Pilot Manager - Helix Team</div></td>
@@ -1979,7 +2019,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Visual Interface Owner - TeleOp</div></td>
@@ -1987,7 +2027,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">CNC Machinist</div></td>
@@ -1995,7 +2035,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Fabricator</div></td>
@@ -2003,7 +2043,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Harness Integration Technician, Quick Turn</div></td>
@@ -2011,7 +2051,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Manufacturing Electrical Test Engineer</div></td>
@@ -2019,7 +2059,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Manufacturing Software Test Engineer</div></td>
@@ -2027,7 +2067,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Manufacturing Test Engineer, PCBA</div></td>
@@ -2035,7 +2075,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Mechanical Engineer, BotQ Equipment</div></td>
@@ -2043,7 +2083,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">MES & Controls Engineer</div></td>
@@ -2051,7 +2091,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Manufacturing Software Engineer</div></td>
@@ -2059,7 +2099,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Manufacturing Engineer</div></td>
@@ -2067,7 +2107,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Commercial ManagerNew</div></td>
@@ -2075,7 +2115,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Humanoid Robot Deployment Engineer</div></td>
@@ -2083,7 +2123,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Humanoid Robot Operations Associate</div></td>
@@ -2091,7 +2131,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robotic Operations Technician</div></td>
@@ -2099,7 +2139,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Battery Test TechnicianNew</div></td>
@@ -2107,7 +2147,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Hardware Reliability Technician</div></td>
@@ -2115,7 +2155,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Harness Integration Technician</div></td>
@@ -2123,7 +2163,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Mechanical Engineer - All Levels</div></td>
@@ -2131,7 +2171,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Mechanical Engineer Intern [Winter 2026]</div></td>
@@ -2139,7 +2179,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Mechanical Engineer, Robot Ecosystem</div></td>
@@ -2147,7 +2187,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Mechanical Engineer, Softgoods/Plastics</div></td>
@@ -2155,7 +2195,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Mechanical Engineer, Sustaining</div></td>
@@ -2163,7 +2203,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Mechanical Engineer - TeleOp</div></td>
@@ -2171,7 +2211,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Actuator Design Engineer</div></td>
@@ -2179,7 +2219,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior FEA EngineerNew</div></td>
@@ -2187,7 +2227,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Hardware Failure Analysis Engineer</div></td>
@@ -2195,7 +2235,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Reliability Engineer - PCBA, Harness & Connectors</div></td>
@@ -2203,7 +2243,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Lead UI/UX Designer</div></td>
@@ -2211,7 +2251,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">IT Network Engineer</div></td>
@@ -2219,7 +2259,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Embedded Software Intern [Winter 2026]</div></td>
@@ -2227,7 +2267,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Firmware Engineering Intern [Winter 2026]</div></td>
@@ -2235,7 +2275,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Lead TeleOp Embedded Firmware Engineer</div></td>
@@ -2243,7 +2283,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Over-the-Air Software Engineer</div></td>
@@ -2251,7 +2291,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Data Engineer</div></td>
@@ -2259,7 +2299,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer - Configuration</div></td>
@@ -2267,7 +2307,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sr. Embedded Software Engineer</div></td>
@@ -2275,7 +2315,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sr. Firmware Engineer</div></td>
@@ -2283,7 +2323,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff DevOps Engineer</div></td>
@@ -2291,7 +2331,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Electrical Engineer Intern [Winter 2026]</div></td>
@@ -2299,7 +2339,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Prototype Development Technician</div></td>
@@ -2307,7 +2347,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robotic Safety Engineer</div></td>
@@ -2315,7 +2355,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Security Engineer - D&R</div></td>
@@ -2323,7 +2363,7 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">FigureAI</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="#">FigureAI</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Global Supply Chain Intern [Winter 2026]</div></td>

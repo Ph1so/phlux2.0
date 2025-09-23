@@ -25586,6 +25586,28 @@
         "date": "9/22"
       }
     ],
-    "Humanoid": []
+    "Humanoid": [],
+    "Figure AI": [
+      {
+        "title": "Mechanical Engineer Intern [Winter 2026]",
+        "date": "9/23"
+      },
+      {
+        "title": "Embedded Software Intern [Winter 2026]",
+        "date": "9/23"
+      },
+      {
+        "title": "Firmware Engineering Intern [Winter 2026]",
+        "date": "9/23"
+      },
+      {
+        "title": "Electrical Engineer Intern [Winter 2026]",
+        "date": "9/23"
+      },
+      {
+        "title": "Global Supply Chain Intern [Winter 2026]",
+        "date": "9/23"
+      }
+    ]
   }
 }
