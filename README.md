@@ -12,7 +12,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 6432 roles across 155 companies*
+*Found 6433 roles across 155 companies*
 
 
 <table>
@@ -463,6 +463,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2026 - Supplier Quality Intern</div></td>
+  <td>9/24</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/graymatter-robotics?departmentId=a3c9deea-e719-467d-a1c3-e3ebaaa13160"><img src="https://cdn.brandfetch.io/graymatter-robotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="GrayMatter Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> GrayMatter Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Hardware Technician</div></td>
   <td>9/24</td>
 </tr>
   <tr>
