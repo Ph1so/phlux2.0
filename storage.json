@@ -25481,7 +25481,60 @@
         "date": "9/24"
       }
     ],
-    "Path Robotics": [],
+    "Path Robotics": [
+      {
+        "title": "Deployment Program Manager",
+        "date": "9/25"
+      },
+      {
+        "title": "Machine Learning Engineer, Reinforcement Learning",
+        "date": "9/25"
+      },
+      {
+        "title": "Machine Learning Engineer, Robot Learning",
+        "date": "9/25"
+      },
+      {
+        "title": "Robotics Reliability Engineering Lead",
+        "date": "9/25"
+      },
+      {
+        "title": "Senior Machine Learning Engineer, Neural Simulator",
+        "date": "9/25"
+      },
+      {
+        "title": "Senior Software Engineer, Sensors & Hardware Abstraction",
+        "date": "9/25"
+      },
+      {
+        "title": "Software Engineer",
+        "date": "9/25"
+      },
+      {
+        "title": "Customer Success Manager- bilingual (English/Spanish)",
+        "date": "9/25"
+      },
+      {
+        "title": "Field Service Technician",
+        "date": "9/25"
+      },
+      {
+        "title": "Hardware Technician",
+        "date": "9/25"
+      },
+      {
+        "title": "Employee Experience Coordinator",
+        "date": "9/25"
+      },
+      {
+        "title": "Sales Development Representative",
+        "date": "9/25"
+      },
+      {
+        "title": "Introduce Yourself",
+        "date": "9/25"
+      }
+    ],
     "Cobot": [
       {
         "title": "HRI Intern/Extern",
@@ -26116,6 +26169,10 @@
       {
         "title": "Government Operations Intern Spring 2026New",
         "date": "9/24"
+      },
+      {
+        "title": "Systems Engineering Intern Summer 2026",
+        "date": "9/25"
       }
     ],
     "Humanoid": [],

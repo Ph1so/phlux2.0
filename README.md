@@ -12,7 +12,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 6462 roles across 155 companies*
+*Found 6476 roles across 155 companies*
 
 
 <table>
@@ -255,6 +255,118 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Manager - Application Support</div></td>
+  <td>9/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.path-robotics.com/who-we-are/careers/open-positions/"><img src="https://cdn.brandfetch.io/path-robotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Path Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Path Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Deployment Program Manager</div></td>
+  <td>9/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.path-robotics.com/who-we-are/careers/open-positions/"><img src="https://cdn.brandfetch.io/path-robotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Path Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Path Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Machine Learning Engineer, Reinforcement Learning</div></td>
+  <td>9/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.path-robotics.com/who-we-are/careers/open-positions/"><img src="https://cdn.brandfetch.io/path-robotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Path Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Path Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Machine Learning Engineer, Robot Learning</div></td>
+  <td>9/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.path-robotics.com/who-we-are/careers/open-positions/"><img src="https://cdn.brandfetch.io/path-robotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Path Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Path Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robotics Reliability Engineering Lead</div></td>
+  <td>9/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.path-robotics.com/who-we-are/careers/open-positions/"><img src="https://cdn.brandfetch.io/path-robotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Path Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Path Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Machine Learning Engineer, Neural Simulator</div></td>
+  <td>9/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.path-robotics.com/who-we-are/careers/open-positions/"><img src="https://cdn.brandfetch.io/path-robotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Path Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Path Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Software Engineer, Sensors & Hardware Abstraction</div></td>
+  <td>9/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.path-robotics.com/who-we-are/careers/open-positions/"><img src="https://cdn.brandfetch.io/path-robotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Path Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Path Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer</div></td>
+  <td>9/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.path-robotics.com/who-we-are/careers/open-positions/"><img src="https://cdn.brandfetch.io/path-robotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Path Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Path Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Customer Success Manager- bilingual (English/Spanish)</div></td>
+  <td>9/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.path-robotics.com/who-we-are/careers/open-positions/"><img src="https://cdn.brandfetch.io/path-robotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Path Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Path Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Field Service Technician</div></td>
+  <td>9/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.path-robotics.com/who-we-are/careers/open-positions/"><img src="https://cdn.brandfetch.io/path-robotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Path Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Path Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Hardware Technician</div></td>
+  <td>9/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.path-robotics.com/who-we-are/careers/open-positions/"><img src="https://cdn.brandfetch.io/path-robotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Path Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Path Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Employee Experience Coordinator</div></td>
+  <td>9/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.path-robotics.com/who-we-are/careers/open-positions/"><img src="https://cdn.brandfetch.io/path-robotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Path Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Path Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sales Development Representative</div></td>
+  <td>9/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.path-robotics.com/who-we-are/careers/open-positions/"><img src="https://cdn.brandfetch.io/path-robotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Path Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Path Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Introduce Yourself</div></td>
+  <td>9/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/rocketlab?keyword=intern"><img src="https://cdn.brandfetch.io/rocketlabusa.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RocketLab" height="20" style="vertical-align:middle; margin-right:6px;"> RocketLab</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Systems Engineering Intern Summer 2026</div></td>
   <td>9/25</td>
 </tr>
   <tr>
