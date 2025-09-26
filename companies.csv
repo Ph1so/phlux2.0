@@ -127,7 +127,7 @@ T-Mobile,https://careers.t-mobile.com/internship,CSS:.results-list__item-title--
 Samsung,https://sec.wd3.myworkdayjobs.com/Samsung_Careers?workerSubType=189767dd6c920145d5c3e59c2c297819&Location_Country=bc33aa3152ec42d4995f4791a106ed09,CSS:.css-19uc56f
 Medtronic,https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers?jobFamilyGroup=be3ab1d7a62801c1c7c82b804a0529d0&locationCountry=bc33aa3152ec42d4995f4791a106ed09,CSS:li .css-b3pn3b
 Akuna Capital,https://akunacapital.com/careers#careers,"CLICK:'//button[contains(text(), 'EXPERIENCE LEVEL')]'->CLICK:'//button[contains(text(), 'Intern')]':pointer->CSS:a h2"
-Toyota Research Insitute,https://www.tri.global/careers#open-positions,CSS:a.title
+Toyota Research Insitute,https://jobs.lever.co/tri/?commitment=Intern,CSS:li.group-item a
 Mitsubishi Electric Research Laboratories,https://www.merl.com/employment/internship-openings,CSS:.publication-source h2 a
 Bose,"https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/jobs?workerSubType=1f9406d5717e109875eae116f2c007e5",CSS:.css-19uc56f
 Gecko Robotics,https://www.geckorobotics.com/careers#careers-list,CSS:.type-subhead-s.careers-list__title
