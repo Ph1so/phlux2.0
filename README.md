@@ -12,7 +12,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 6828 roles across 156 companies*
+*Found 6830 roles across 156 companies*
 
 
 <table>
@@ -315,6 +315,14 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.zipline.com/careers/open-roles?search=intern#"><img src="https://cdn.brandfetch.io/flyzipline.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zipline" height="20" style="vertical-align:middle; margin-right:6px;"> Zipline</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Autonomy Software Engineering Intern (Spring 2026) - 2026 Internships - South San Francisco, California, USA</div></td>
+  <td>9/30</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://neuralink.com/careers/"><img src="https://cdn.brandfetch.io/neuralink.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Neuralink" height="20" style="vertical-align:middle; margin-right:6px;"> Neuralink</a></div>
 </td>
 
@@ -519,6 +527,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Spring 2026: Mechanical Engineering Intern</div></td>
+  <td>9/30</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.irobot.com/search-jobs"><img src="https://cdn.brandfetch.io/irobot.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="iRobot" height="20" style="vertical-align:middle; margin-right:6px;"> iRobot</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Sales Manager - Canada & US</div></td>
   <td>9/30</td>
 </tr>
   <tr>
