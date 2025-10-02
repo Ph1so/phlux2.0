@@ -12,7 +12,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 6976 roles across 157 companies*
+*Found 6978 roles across 157 companies*
 
 
 <table>
@@ -127,6 +127,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Marketing and Design Research Co-op, 8 or 12 months</div></td>
+  <td>10/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.intuit.com/search-jobs/interns/"><img src="https://cdn.brandfetch.io/intuit.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Intuit" height="20" style="vertical-align:middle; margin-right:6px;"> Intuit</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Summer 2026 AI Research Intern</div></td>
   <td>10/2</td>
 </tr>
   <tr>
@@ -303,6 +311,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Mechanical Design and Analysis Intern</div></td>
+  <td>10/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.greyorange.com/company/careers/#th-job-section"><img src="https://cdn.brandfetch.io/greyorange.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="GreyOrange" height="20" style="vertical-align:middle; margin-right:6px;"> GreyOrange</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Principal Architect</div></td>
   <td>10/2</td>
 </tr>
   <tr>
