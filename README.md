@@ -12,7 +12,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 7076 roles across 158 companies*
+*Found 7077 roles across 158 companies*
 
 
 <table>
@@ -71,6 +71,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Global Tax Manager - Operations • Foster City, CA (Hybrid) In office M,W,F • Full time</div></td>
+  <td>10/4</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.merl.com/employment/internship-openings">Mitsubishi Electric Research Laboratories</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">SA0182: Internship - Spatial Audio</div></td>
   <td>10/4</td>
 </tr>
   <tr>
