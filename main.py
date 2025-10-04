@@ -36,20 +36,20 @@ def format_message_html(message: dict) -> str:
         icons = {}
 
     lines = [
-        '<h1 style="font-family: sans-serif;">🚀 phi\'s little minion has found new internships</h1>',
+        '<h1 style="font-family: sans-serif;">Internships from phi/h1>',
     ]
 
     # Add a friendly duck image
-    try:
-        response = requests.get("https://random-d.uk/api/random")
-        if response.status_code == 200:
-            duck_url = response.json().get("url")
-            lines.append(f'<img src="{duck_url}" alt="Random Duck" width="250"><br>')
-            lines.append('<p style="font-size: small; font-style: italic;">A duck a day keeps the internship blues away 🦆</p>')
-    except Exception as exc:
-        lines.append(f"<p><em>Could not fetch duck: {exc}</em></p>")
+    # try:
+    #     response = requests.get("https://random-d.uk/api/random")
+    #     if response.status_code == 200:
+    #         duck_url = response.json().get("url")
+    #         lines.append(f'<img src="{duck_url}" alt="Random Duck" width="250"><br>')
+    #         lines.append('<p style="font-size: small; font-style: italic;">A duck a day keeps the internship blues away 🦆</p>')
+    # except Exception as exc:
+    #     lines.append(f"<p><em>Could not fetch duck: {exc}</em></p>")
 
-    lines.append('<hr style="margin-top: 30px; margin-bottom: 20px;">')
+    # lines.append('<hr style="margin-top: 30px; margin-bottom: 20px;">')
 
     # Company listings
     for company, jobs in message.get("companies", {}).items():
