@@ -13432,6 +13432,26 @@
       {
         "title": "SR. SOFTWARE ENGINEER, HITL - TOP SECRET CLEARANCE",
         "date": "10/3"
+      },
+      {
+        "title": "SOFTWARE ENGINEER, HITL - TOP SECRET CLEARANCE",
+        "date": "10/4"
+      },
+      {
+        "title": "SR. HARDWARE DEVELOPMENT ENGINEER, FAILURE ANALYSIS (STARSHIELD)",
+        "date": "10/4"
+      },
+      {
+        "title": "SR. LAUNCH ENGINEER, MECHANICAL SYSTEMS (LAUNCH PADS)",
+        "date": "10/4"
+      },
+      {
+        "title": "STARLINK ENTERPRISE ACCOUNT LEAD, OCEANIA",
+        "date": "10/4"
+      },
+      {
+        "title": "STARLINK ENTERPRISE ACCOUNT MANAGER, LATIN AMERICA",
+        "date": "10/4"
       }
     ],
     "IBM": [
@@ -20068,6 +20088,10 @@
       {
         "title": "Software Engineering Intern (Summer 2026) - Early Career \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Intern",
         "date": "10/1"
+      },
+      {
+        "title": "Global Tax Manager - Operations \u2022 Foster City, CA (Hybrid) In office M,W,F \u2022 Full time",
+        "date": "10/4"
       }
     ],
     "Hugging Face": [
@@ -28573,6 +28597,12 @@
       {
         "title": "Supply Chain Intern (Summer 2026)",
         "date": "10/2"
+      }
+    ],
+    "Motional": [
+      {
+        "title": "Research Software Intern - SLAM, Machine Learning & Sensor Calibration",
+        "date": "10/4"
       }
     ]
   }
