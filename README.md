@@ -12,7 +12,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 7096 roles across 160 companies*
+*Found 7100 roles across 161 companies*
 
 
 <table>
@@ -239,6 +239,38 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Intern, Supply Chain - Summer 2026New</div></td>
+  <td>10/4</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www-nearearth-aero.filesusr.com/html/6393f5_47bd5f6f1db95a24e11f03641598b510.html"><img src="https://cdn.brandfetch.io/embarkflight.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Near Earth Autonomy" height="20" style="vertical-align:middle; margin-right:6px;"> Near Earth Autonomy</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Avionics Software Engineer (DO178)</div></td>
+  <td>10/4</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www-nearearth-aero.filesusr.com/html/6393f5_47bd5f6f1db95a24e11f03641598b510.html"><img src="https://cdn.brandfetch.io/embarkflight.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Near Earth Autonomy" height="20" style="vertical-align:middle; margin-right:6px;"> Near Earth Autonomy</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">General Application</div></td>
+  <td>10/4</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www-nearearth-aero.filesusr.com/html/6393f5_47bd5f6f1db95a24e11f03641598b510.html"><img src="https://cdn.brandfetch.io/embarkflight.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Near Earth Autonomy" height="20" style="vertical-align:middle; margin-right:6px;"> Near Earth Autonomy</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Internship Program 2026</div></td>
+  <td>10/4</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www-nearearth-aero.filesusr.com/html/6393f5_47bd5f6f1db95a24e11f03641598b510.html"><img src="https://cdn.brandfetch.io/embarkflight.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Near Earth Autonomy" height="20" style="vertical-align:middle; margin-right:6px;"> Near Earth Autonomy</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Staff GNC Engineer - (Guidance, Navigation, and Control)</div></td>
   <td>10/4</td>
 </tr>
   <tr>
