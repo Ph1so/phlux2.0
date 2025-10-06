@@ -49,7 +49,7 @@ def format_message_html(message: dict) -> str:
     # except Exception as exc:
     #     lines.append(f"<p><em>Could not fetch duck: {exc}</em></p>")
 
-    # lines.append('<hr style="margin-top: 30px; margin-bottom: 20px;">')
+    lines.append('<hr style="margin-top: 30px; margin-bottom: 20px;">')
 
     # Company listings
     for company, jobs in message.get("companies", {}).items():
