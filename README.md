@@ -12,7 +12,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 7392 roles across 163 companies*
+*Found 7417 roles across 164 companies*
 
 
 <table>
@@ -75,6 +75,14 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Corporate Actions Analyst</div></td>
+  <td>10/7</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
 </td>
 
@@ -87,6 +95,198 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Development Intern - Ion Propulsion</div></td>
+  <td>10/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://richtech.bamboohr.com/careers/"><img src="https://cdn.brandfetch.io/richtechrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RichTech Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> RichTech Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Operations Manager (Chain Beverage Store Operations)</div></td>
+  <td>10/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://richtech.bamboohr.com/careers/"><img src="https://cdn.brandfetch.io/richtechrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RichTech Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> RichTech Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Customer Success Specialist</div></td>
+  <td>10/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://richtech.bamboohr.com/careers/"><img src="https://cdn.brandfetch.io/richtechrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RichTech Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> RichTech Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Director of Customer Service</div></td>
+  <td>10/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://richtech.bamboohr.com/careers/"><img src="https://cdn.brandfetch.io/richtechrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RichTech Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> RichTech Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Corporate Development & Research Associate</div></td>
+  <td>10/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://richtech.bamboohr.com/careers/"><img src="https://cdn.brandfetch.io/richtechrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RichTech Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> RichTech Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Director of Human Resources</div></td>
+  <td>10/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://richtech.bamboohr.com/careers/"><img src="https://cdn.brandfetch.io/richtechrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RichTech Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> RichTech Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Director of Technology</div></td>
+  <td>10/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://richtech.bamboohr.com/careers/"><img src="https://cdn.brandfetch.io/richtechrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RichTech Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> RichTech Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Robotics Engineer</div></td>
+  <td>10/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://richtech.bamboohr.com/careers/"><img src="https://cdn.brandfetch.io/richtechrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RichTech Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> RichTech Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Brand Marketing Specialist</div></td>
+  <td>10/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://richtech.bamboohr.com/careers/"><img src="https://cdn.brandfetch.io/richtechrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RichTech Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> RichTech Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Director of Marketing</div></td>
+  <td>10/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://richtech.bamboohr.com/careers/"><img src="https://cdn.brandfetch.io/richtechrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RichTech Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> RichTech Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Growth Marketing Specialist – Industrial Products</div></td>
+  <td>10/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://richtech.bamboohr.com/careers/"><img src="https://cdn.brandfetch.io/richtechrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RichTech Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> RichTech Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robot Data Processing Specialist</div></td>
+  <td>10/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://richtech.bamboohr.com/careers/"><img src="https://cdn.brandfetch.io/richtechrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RichTech Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> RichTech Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robot Local Teleoperation Operator</div></td>
+  <td>10/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://richtech.bamboohr.com/careers/"><img src="https://cdn.brandfetch.io/richtechrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RichTech Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> RichTech Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Account Manager</div></td>
+  <td>10/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://richtech.bamboohr.com/careers/"><img src="https://cdn.brandfetch.io/richtechrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RichTech Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> RichTech Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Director of Sales</div></td>
+  <td>10/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://richtech.bamboohr.com/careers/"><img src="https://cdn.brandfetch.io/richtechrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RichTech Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> RichTech Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sales Development Representative (SDR)</div></td>
+  <td>10/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://richtech.bamboohr.com/careers/"><img src="https://cdn.brandfetch.io/richtechrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RichTech Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> RichTech Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sales Development Representative (SDR)</div></td>
+  <td>10/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://richtech.bamboohr.com/careers/"><img src="https://cdn.brandfetch.io/richtechrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RichTech Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> RichTech Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sales Development Representative (SDR)</div></td>
+  <td>10/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://richtech.bamboohr.com/careers/"><img src="https://cdn.brandfetch.io/richtechrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RichTech Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> RichTech Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Director of Shipping & Warehouse</div></td>
+  <td>10/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://richtech.bamboohr.com/careers/"><img src="https://cdn.brandfetch.io/richtechrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RichTech Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> RichTech Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Inventory Specialist</div></td>
+  <td>10/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://richtech.bamboohr.com/careers/"><img src="https://cdn.brandfetch.io/richtechrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RichTech Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> RichTech Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">AI Research & Development Specialist</div></td>
+  <td>10/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://richtech.bamboohr.com/careers/"><img src="https://cdn.brandfetch.io/richtechrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RichTech Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> RichTech Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Electric Engineer- Tech Solution Specialist</div></td>
+  <td>10/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://richtech.bamboohr.com/careers/"><img src="https://cdn.brandfetch.io/richtechrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RichTech Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> RichTech Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Project Manager</div></td>
+  <td>10/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://richtech.bamboohr.com/careers/"><img src="https://cdn.brandfetch.io/richtechrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RichTech Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> RichTech Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robotic Engineer</div></td>
+  <td>10/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://richtech.bamboohr.com/careers/"><img src="https://cdn.brandfetch.io/richtechrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RichTech Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> RichTech Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Tech Solutions Specialist</div></td>
   <td>10/7</td>
 </tr>
   <tr>
