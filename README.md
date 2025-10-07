@@ -12,7 +12,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 7485 roles across 164 companies*
+*Found 7486 roles across 164 companies*
 
 
 <table>
@@ -567,6 +567,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Development Intern - Ion Propulsion</div></td>
+  <td>10/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/figureai/">Figure AI</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Middleware Engineering Intern [Winter 2026]</div></td>
   <td>10/7</td>
 </tr>
   <tr>
