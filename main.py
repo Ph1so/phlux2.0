@@ -36,7 +36,7 @@ def format_message_html(message: dict) -> str:
         icons = {}
 
     lines = [
-        '<h2 style="font-family: sans-serif;">Internships from phi</h1>',
+        '<h1 style="font-family: monospace;">Internships from Phi</h1>',
     ]
 
     # Add a friendly duck image
