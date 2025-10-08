@@ -29,14 +29,14 @@ def generate_readme(jobs: dict, links: dict) -> str:
     lines = ["# 🌀 Phlux: Phi's Job Tracker\n"]
     lines.append("Easily track jobs across top tech companies.\n")
 
-    lines.append("## 🧩 Add Your Own Companies")
-    lines.extend([
-        "- Run `add_company.py`",
-        "- Follow the CLI instructions (see below)",
-        "- Add selector and example job title to `companies.csv`",
-        "- Make a PR to contribute!",
-        "![CLI Example](public/cli.png)",
-    ])
+    # lines.append("## 🧩 Add Your Own Companies")
+    # lines.extend([
+    #     "- Run `add_company.py`",
+    #     "- Follow the CLI instructions (see below)",
+    #     "- Add selector and example job title to `companies.csv`",
+    #     "- Make a PR to contribute!",
+    #     "![CLI Example](public/cli.png)",
+    # ])
 
     total_jobs = sum(len(v) for v in jobs.values() if v)
     lines.append(f"\n---\n\n## 🔍 2025 Phlux Job Listings\n*Found {total_jobs} roles across {len(jobs)} companies*\n")

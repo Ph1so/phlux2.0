@@ -2,12 +2,6 @@
 
 Easily track jobs across top tech companies.
 
-## 🧩 Add Your Own Companies
-- Run `add_company.py`
-- Follow the CLI instructions (see below)
-- Add selector and example job title to `companies.csv`
-- Make a PR to contribute!
-![CLI Example](public/cli.png)
 
 ---
 
