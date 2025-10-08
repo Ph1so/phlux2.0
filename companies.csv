@@ -82,7 +82,7 @@ Unity,https://unity.com/careers/positions?department=students-early-career,CSS:p
 Github,https://www.github.careers/careers-home/jobs?view=search&limit=100&page=1,CSS:a.job-title-link
 RedHat,https://redhat.wd5.myworkdayjobs.com/jobs/?a=bc33aa3152ec42d4995f4791a106ed09&d=c18026e77576010f6ef6126f4e43ec4a,CSS:div.css-qiqmbt->FILTER:intern
 Boston Dynamics,https://bostondynamics.com/careers/#jobs,CSS:a.Careers-title
-Epic Games,https://www.epicgames.com/site/en-US/careers/jobs?type=Intern&page=1,CSS:div.sc-kAyceB.hDJtzF.paragraph.joblisting-title.loc-en-US
+Epic Games,https://www.epicgames.com/site/en-US/careers/jobs?type=Intern&country=United%20States&page=1,CSS:div.sc-kAyceB.hDJtzF.paragraph.joblisting-title.loc-en-US
 Twitch,https://careers.twitch.com/en/careers/,CSS:div.relative.py-4->FILTER:intern
 Visa,https://careers.smartrecruiters.com/Visa/university-recruiting,CSS:a.link--block.details
 Replit,https://jobs.ashbyhq.com/replit,CSS:div._jobPosting_12ylk_379.ashby-job-posting-brief._container_101oc_29
