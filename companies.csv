@@ -90,7 +90,7 @@ Hugging Face,https://apply.workable.com/huggingface/?not_found=true#jobs,CSS:h3.
 Verizon,https://mycareer.verizon.com/jobs/?search=&team=Campus+%26+Apprenticeships&pagesize=100#results,CSS:h3.h2.card-title
 Notion,https://app.ripplematch.com/v2/public/company/notion?tl=1edfe69a,CSS:div._root_iofby_1469._neutral_iofby_1506._disableMargin_iofby_1608.root h5
 JP Morgan Chase,https://careers.jpmorgan.com/global/en/students/programs/software-engineer-summer->https://careers.jpmorgan.com/global/en/students/programs/data-analytics-opportunities#careers-section7->https://careers.jpmorgan.com/global/en/students/programs/tfsg-hackathons->https://careers.jpmorgan.com/global/en/students/programs/quant-fin-programs->https://careers.jpmorgan.com/global/en/students/programs/design-dev-summer->https://careers.jpmorgan.com/global/en/students/programs/et-experience->https://careers.jpmorgan.com/global/en/students/programs/career-edyou->https://careers.jpmorgan.com/global/en/students/programs/research-technologies-summer-associate-program,"CLICK:'//*[contains(normalize-space(), 'Apply now')]'->CSS:.program-title"
-Genesis Therapeutics,https://jobs.lever.co/genesistherapeutics?commitment=Internship,CSS:a.posting-title h5
+Genesis Therapeutics,https://jobs.ashbyhq.com/genesis-therapeutics?embed=js&employmentType=Intern,CSS:h3._title_12ylk_383.ashby-job-posting-brief-title
 Duolingo,https://careers.duolingo.com/?type=Intern#careers->https://careers.duolingo.com/?type=Thrive+Program#careers->https://careers.duolingo.com/?type=New+Grad#careers,CSS:a.A9xxT
 Scale AI,https://scale.com/careers#open-roles,"CLICK:'//button[contains(text(), 'Accept Cookies')]'->CLICK:'//button[contains(text(), 'All Departments')]':pointer->CLICK:'//div[@role='menu']//div[text()='University']'->CSS:.positions-grid_body__LWSOW a >> p.p-6"
 Coinbase,https://www.coinbase.com/careers/positions?department=Internships%2520%2526%2520Emerging%2520Talent%2520Positions,CSS:p.cds-typographyResets-t6muwls.cds-title3-t14ui7y5.cds-primary-pgii67x.cds-transition-t1qvlahm.cds-start-s1u0g7ow
@@ -119,7 +119,7 @@ DRW,https://job-boards.greenhouse.io/drweng?departments%5B%5D=87404,CSS:p.body.b
 Kodiak Robotics,https://job-boards.greenhouse.io/kodiak?departments%5B%5D=4004934009,CSS:a p.body.body--medium
 XPENG,https://job-boards.greenhouse.io/xpengmotors?keyword=intern,CSS:.body.body--medium
 Tesla,https://www.tesla.com/careers/search/?type=intern&site=US&department=ai-robotics,UNDETECTED->CSS:.style_TitleLink__PepSM.tds-text--h4.tds-link.tds-link--secondary
-C3,https://job-boards.greenhouse.io/c3ascend,CSS:.opening
+C3,https://job-boards.greenhouse.io/c3ascend,CSS:p.body.body--medium
 Mercedes Benz,https://jobs.lever.co/MBRDNA?commitment=Intern,CSS:.posting-title h5
 Mosaic,https://mosaic.wd5.myworkdayjobs.com/mosaic?workerSubType=ed8099291cc44a449715a96f49b3b316&locations=650055bade3a47079294e41cfa83d322&locations=8e6a747b95174ec58844a56e3a58fea7&locations=679a79860e514d81a6cb1f68c9c88e09&locations=5eb4fe3563194525801ecea18921c4c6,CSS:.css-19uc56f
 T-Mobile,https://careers.t-mobile.com/internship,CSS:.results-list__item-title--link
