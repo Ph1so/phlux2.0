@@ -9892,6 +9892,10 @@
       {
         "title": "Electrical Engineering Intern (Summer 2026)",
         "date": "10/7"
+      },
+      {
+        "title": "Field Service Intern",
+        "date": "10/9"
       }
     ],
     "Grammarly": [
@@ -10650,6 +10654,10 @@
       },
       {
         "title": "Audit & Assurance Intern \u2013 Technology Controls Advisory \u2013 Fall 2026",
+        "date": "10/9"
+      },
+      {
+        "title": "Audit & Assurance Intern \u2013 Data Science \u2013 Winter 2026",
         "date": "10/9"
       }
     ],
@@ -12075,6 +12083,10 @@
       },
       {
         "title": "Project Manager, Technical Partnerships",
+        "date": "10/9"
+      },
+      {
+        "title": "R&D Test Technician",
         "date": "10/9"
       }
     ],
@@ -13644,6 +13656,14 @@
       {
         "title": "ML Research Intern, PhD - 2026",
         "date": "N/A"
+      },
+      {
+        "title": "Computational Chemistry Intern - 2026",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer Intern - 2026",
+        "date": "10/9"
       }
     ],
     "Duolingo": [
@@ -18520,7 +18540,20 @@
       }
     ],
     "Tesla": [],
-    "C3": [],
+    "C3": [
+      {
+        "title": "Create a Job Alert",
+        "date": "10/9"
+      },
+      {
+        "title": "Data Science - Intern (Summer 2026)",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer - Intern (Summer 2026)",
+        "date": "10/9"
+      }
+    ],
     "Mercedes Benz": [
       {
         "title": "Software Developer - AIX Intern",
@@ -23717,6 +23750,340 @@
       },
       {
         "title": "Research Intern (Deep Learning), 2025 Summer/Fall/Winter (Master/PhD)",
+        "date": "10/9"
+      }
+    ],
+    "Nuro": [
+      {
+        "title": "Head of Product Engineering",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior Product Manager, Operations",
+        "date": "10/9"
+      },
+      {
+        "title": "Sr Manager of Business Development",
+        "date": "10/9"
+      },
+      {
+        "title": "Sr. Partner Success Manager",
+        "date": "10/9"
+      },
+      {
+        "title": "Autonomous Vehicle Operator, San Francisco - PM Shift",
+        "date": "10/9"
+      },
+      {
+        "title": "Autonomous Vehicle Operator, Santa Clara - PM Shift",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior Accountant",
+        "date": "10/9"
+      },
+      {
+        "title": "Technical Recruiter",
+        "date": "10/9"
+      },
+      {
+        "title": "Head of Safety Management Systems",
+        "date": "10/9"
+      },
+      {
+        "title": "Staff/Senior Software Engineer, Offboard Infrastructure",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior Software Engineer, Devices Platform",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior Software Engineer, Engineering Productivity",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior Software Engineer, Machine Learning Infrastructure",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior Software Engineer, Performance",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior Software Engineer, Performance Simulation Platform",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior Software Engineer, Sensor Platform",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior Software Engineer, Simulation",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior/Staff Software Engineer, ML Infrastructure, Distributed Training",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior/Staff Software Engineer, ML Infrastructure, Optimization",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer, AI Platform - New Grad",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer, Fleet Diagnostics",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer, Machine Learning Infrastructure",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer, Middleware",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer, Onboard Systems",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer, Performance Simulation Platform",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer, Routing - New Grad",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer, Sensor Platform",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer, Sensor Test Platform",
+        "date": "10/9"
+      },
+      {
+        "title": "Staff Machine Learning Engineer, Training Runtime Performance",
+        "date": "10/9"
+      },
+      {
+        "title": "Staff Software Engineer, Performance",
+        "date": "10/9"
+      },
+      {
+        "title": "Tech Lead Manager, ML Training Infrastructure",
+        "date": "10/9"
+      },
+      {
+        "title": "Technical Lead, ML Training Infrastructure",
+        "date": "10/9"
+      },
+      {
+        "title": "Technical Lead, Simulation",
+        "date": "10/9"
+      },
+      {
+        "title": "Robotics Reliability Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Robotics Reliability Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior Software Engineer, Ride-hailing Product",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior Software Engineer, Routing",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior Software Engineer, Video Streaming",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer, Connectivity (OTA)",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer, Fleet Connectivity",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer, Performance",
+        "date": "10/9"
+      },
+      {
+        "title": "Staff/Senior Software Engineer, Onboard Infrastructure",
+        "date": "10/9"
+      },
+      {
+        "title": "Staff Software Engineer, Devices Platform",
+        "date": "10/9"
+      },
+      {
+        "title": "Staff Software Engineer, Routing",
+        "date": "10/9"
+      },
+      {
+        "title": "Technical Lead Manager, Routing",
+        "date": "10/9"
+      },
+      {
+        "title": "Systems Engineer, IT",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior Software Engineer, Cloud Infrastructure",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior Software Engineer, Data Platform",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior Software Engineer, Labeling Tools",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior Software Engineer, ML Data Infrastructure",
+        "date": "10/9"
+      },
+      {
+        "title": "Data Scientist",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior/Staff Controls Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior/Staff Controls Engineer, Core Development",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior/Staff Embedded Software Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Sr. Software Engineer, Pose",
+        "date": "10/9"
+      },
+      {
+        "title": "Mapping & Localization, Software Engineering Intern",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior Software Engineer, Machine Learning, 3D Reconstruction",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior Software Engineer, Machine Learning, Calibration",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior Software Engineer, Machine Learning, Sensor Simulation",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior/Staff Engineer, Machine Learning - Online Mapping",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer, Machine Learning, 3D Reconstruction",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer, Machine Learning, Calibration",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer, Machine Learning, Sensor Simulation",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer, Map ML Platform",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer, Map Platform",
+        "date": "10/9"
+      },
+      {
+        "title": "Lead ML Research Scientist",
+        "date": "10/9"
+      },
+      {
+        "title": "Machine Learning Research Scientist: Generative Modeling for Planning",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior ML Engineer, Perception Foundation Encoder",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior Software Engineer, Behavior Planning",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior/Staff Machine Learning Research Scientist: Generative Modeling for Planning",
+        "date": "10/9"
+      },
+      {
+        "title": "Staff ML Research Scientist",
+        "date": "10/9"
+      },
+      {
+        "title": "Staff Software Engineer, Autonomy Evaluation",
+        "date": "10/9"
+      },
+      {
+        "title": "Tech Lead Manager, ML Collision Avoidance",
+        "date": "10/9"
+      },
+      {
+        "title": "Sr. Technical Program Manager, Autonomy",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior/Staff Systems Engineer, Assisted Autonomy Validation",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior/Staff Systems Engineer, Autonomy Sensing and Perception",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior/Staff Systems Engineer, Autonomy Validation Coverage",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior/Staff Systems Engineer, Autonomy Verification",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior/Staff Systems Engineer, Fail-Operational Autonomous Software",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior Systems Engineer, Autonomy Validation",
+        "date": "10/9"
+      },
+      {
+        "title": "Systems Engineer, Autonomy Sensing and Perception",
+        "date": "10/9"
+      },
+      {
+        "title": "Prototype Vehicle Build Technician",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior Hardware Reliability Engineer",
         "date": "10/9"
       }
     ]
