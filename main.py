@@ -69,7 +69,8 @@ def format_message_html(message: dict) -> str:
             lower_title = cleaned.lower()
             # robust detection for internship / co-op variants
             if "intern" in lower_title or any(c in lower_title for c in ["co-op", "coop", "co op"]):
-                cleaned = f"<b>{cleaned}</b>"
+                cleaned = f"⭐ {cleaned}"
+
             lines.append(f"<li style='margin-bottom: 4px; font-family: monospace;'>{cleaned}</li>")
         lines.append("</ul>")
         lines.append(f'<p><strong>🔗 <a style="font-family: monospace;" href="{jobs["link"]}" target="_blank">Apply Here</a></strong></p>')
