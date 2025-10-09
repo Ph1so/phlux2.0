@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 5546 roles across 164 companies*
+*Found 5677 roles across 166 companies*
 
 
 <table>
@@ -113,6 +113,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">ABC Marketing Intern, Spring 2026</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Learning Delivery Intern, Spring 2026</div></td>
   <td>10/9</td>
 </tr>
   <tr>
@@ -261,10 +269,10 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boards.greenhouse.io/embed/job_board?for=aurorainnovation"><img src="https://cdn.brandfetch.io/aurora-innovation.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Aurora Innovation" height="20" style="vertical-align:middle; margin-right:6px;"> Aurora Innovation</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/lucidmotors/?keyword=intern"><img src="https://cdn.brandfetch.io/lucidmotors.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lucid Motors" height="20" style="vertical-align:middle; margin-right:6px;"> Lucid Motors</a></div>
 </td>
 
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Technical Recruiter II</div></td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Intern, Powertrain Program, Summer 2026New</div></td>
   <td>10/9</td>
 </tr>
   <tr>
@@ -281,6 +289,1046 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Technical Recruiter II</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boards.greenhouse.io/embed/job_board?for=aurorainnovation"><img src="https://cdn.brandfetch.io/aurora-innovation.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Aurora Innovation" height="20" style="vertical-align:middle; margin-right:6px;"> Aurora Innovation</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Technical Recruiter II</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">AI Agent R&D Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Machine Learning Engineer: LLM, VLM/VLA and reasoning models</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Optical Engineer, LiDAR</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">FPGA Functional Safety Engineers, Sensors</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff C Software Engineer, LiDAR Tooling Development</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Staff DSP Engineer, LiDAR</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Electrical Engineer: High-Speed Digital</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Vehicle Integration Engineer: C++ Software Development</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Electrical Engineer: Infotainment Systems</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Vehicle Integration Engineer: Drive-By-Wire</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Embedded Software Engineer: MCU (RTOS)</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Embedded Software Engineer: Linux BSP</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">FPGA Engineer: ISP</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Embedded Software Engineer: Compute Platform</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Flutter App Developer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer: Core Middleware Components</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Linux Kernel Engineer - SoC Optimization</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer: OpenWRT</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer for Network Protocol Stack</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Android Software Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">System Software Developer (ADS)</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer: Embedded Linux</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Developer: Android Automotive OS</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">IT Security Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Backend Software Engineer - Security Services (Staff Level)</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">DevSecOps</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Embedded Security Engineer (Staff Level)</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Semantic Map Frontend Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Routing Service Software Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Semantic Map Software Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Development Engineer in Test</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Python Backend Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Web Front-End Engineer (Graphics)</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Backend Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Frontend Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Full Stack Software Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">C++ Backend Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">DevOps Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Developer Tools Software Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Data Infrastructure Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Simulation/Evaluation Infrastructure Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer (Frontend), Simulation Core</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Modeling and Simulation Engineer, Simulation Core</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Vehicle Dynamics Simulation Engineer, Simulation Core</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer (Backend), Simulation Core</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Simulator Realism Software Engineer (Senior/Staff)</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">SceneGen Software Engineer (All levels)</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">WorldGen and Sim Realism Machine Learning Engineer (all levels)</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior/Staff Data Scientist (Sim/Eval)</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Junior/Mid-Tier Data Scientist (Sim/Eval)</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior/Staff Software Engineer (Sim/Eval)</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Junior/Mid-Tier Software Engineer (Sim/Eval)</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">SOTIF Safety Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Functional Safety Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sensor Reliability Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">LiDAR System Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior/Staff Data Scientist - Safety Assessment</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">System Engineer - Software Test Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">System Engineer - Software Test Lead</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">System Engineer - Motion Control</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">System Engineer - Driving Behavior</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">System Engineer - Fault management</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Safety Research Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Safety Frameworks Lead</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Vehicle EE Architecture Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Vehicle Body and Trim Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Vehicle Performance and Validation Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Vehicle Chassis Systems Certification Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Vehicle Electric Power System Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Vehicle Environmental Materials Certification Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Vehicle Passive Safety Certification Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Vehicle Certification Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Vehicle Manufacturing Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Software Engineer: Control</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">ADS Integration Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer: Control</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer: System Performance for Adverse Weather Adaption</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Perception Engineer: Recognition of Road Weather Conditions and Sensing Impact Analysis</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Data Scientist: Adverse Weather Adaption</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer: Mapping and Localization</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer: Camera ISP</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer: Smart Cabin</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer: Sensor Calibration</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer: Audio Detection</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer: Computer Vision and Deep Learning</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Perception Engineer: Object Modeling</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Perception Engineer: Infrastructure</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Perception Engineer: GPU Engineering</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Perception Engineer: Machine Learning</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Perception Engineer: LiDAR Object Detection</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Perception Engineer: 3D Camera Object Detection</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Perception Engineer: Scene Understanding</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Perception Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Junior Perception Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer: Motion Prediction</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Machine Learning Engineer for Motion and Behavior Planning</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tensor.auto/careers#See-Opportunities"><img src="https://cdn.brandfetch.io/tensor.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tensor Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Tensor Auto</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Motion and Behavior Planning Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Autonomous Vehicle Metrics and Evaluation Data Scientist - Analytics</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Business Development Manager</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Cartographer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Corporate Counsel</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">C++ Software Engineer - Control</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">C++ Software Engineer, Motion Planning</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Data Annotation Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">DevOps Engineer — Developer Tools</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Embedded Linux Software Engineer to Sensors and System Software Team</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Embedded Software Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Frontend Senior Software Engineer Web – Data Annotation</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Machine Learning Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Machine Learning Engineer, Motion Planning & Prediction</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Mechanical Design Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Pipeline Infrastructure Software Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Quality Assurance Engineer – AV Behavior Simulation Testing</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Quality Assurance Engineer — AV Testing</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Quality Assurance Engineer - Calibration</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robot motion planning - Software Engineer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior C++ Engineer – Simulation Infrastructure</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Financial Controller</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Frontend Engineer – Remote Control systems</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Software Engineer - Fleet Software Management System</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Treasury Officer</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer - Calibration</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer - Data Platform</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer - Embedded Firmware</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer – Localization and Mapping</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer – Simulation Backend</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Technical Lead - Data Processing Infrastructure / Data Platform</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Technical Project Manager to Embedded Systems Team</div></td>
+  <td>10/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Technical Recruiter</div></td>
   <td>10/9</td>
 </tr>
   <tr>

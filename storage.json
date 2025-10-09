@@ -14808,6 +14808,10 @@
       {
         "title": "ABC Marketing Intern, Spring 2026",
         "date": "10/9"
+      },
+      {
+        "title": "Learning Delivery Intern, Spring 2026",
+        "date": "10/9"
       }
     ],
     "Goldman Sachs": [
@@ -21621,6 +21625,10 @@
       {
         "title": "Intern, Advanced Process Engineer, Summer 2026 New",
         "date": "10/9"
+      },
+      {
+        "title": "Intern, Powertrain Program, Summer 2026New",
+        "date": "10/9"
       }
     ],
     "Titan Robotics": [],
@@ -22494,6 +22502,526 @@
       {
         "title": "Tech Solutions Specialist",
         "date": "10/7"
+      }
+    ],
+    "Tensor Auto": [
+      {
+        "title": "AI Agent R&D Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Machine Learning Engineer: LLM, VLM/VLA and reasoning models",
+        "date": "10/9"
+      },
+      {
+        "title": "Staff Optical Engineer, LiDAR",
+        "date": "10/9"
+      },
+      {
+        "title": "FPGA Functional Safety Engineers, Sensors",
+        "date": "10/9"
+      },
+      {
+        "title": "Staff C Software Engineer, LiDAR Tooling Development",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior Staff DSP Engineer, LiDAR",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior Electrical Engineer: High-Speed Digital",
+        "date": "10/9"
+      },
+      {
+        "title": "Vehicle Integration Engineer: C++ Software Development",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior Electrical Engineer: Infotainment Systems",
+        "date": "10/9"
+      },
+      {
+        "title": "Vehicle Integration Engineer: Drive-By-Wire",
+        "date": "10/9"
+      },
+      {
+        "title": "Embedded Software Engineer: MCU (RTOS)",
+        "date": "10/9"
+      },
+      {
+        "title": "Embedded Software Engineer: Linux BSP",
+        "date": "10/9"
+      },
+      {
+        "title": "FPGA Engineer: ISP",
+        "date": "10/9"
+      },
+      {
+        "title": "Embedded Software Engineer: Compute Platform",
+        "date": "10/9"
+      },
+      {
+        "title": "Flutter App Developer",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer: Core Middleware Components",
+        "date": "10/9"
+      },
+      {
+        "title": "Linux Kernel Engineer - SoC Optimization",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer: OpenWRT",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer for Network Protocol Stack",
+        "date": "10/9"
+      },
+      {
+        "title": "Android Software Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "System Software Developer (ADS)",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer: Embedded Linux",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Developer: Android Automotive OS",
+        "date": "10/9"
+      },
+      {
+        "title": "IT Security Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Backend Software Engineer - Security Services (Staff Level)",
+        "date": "10/9"
+      },
+      {
+        "title": "DevSecOps",
+        "date": "10/9"
+      },
+      {
+        "title": "Embedded Security Engineer (Staff Level)",
+        "date": "10/9"
+      },
+      {
+        "title": "Semantic Map Frontend Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Routing Service Software Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Semantic Map Software Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Development Engineer in Test",
+        "date": "10/9"
+      },
+      {
+        "title": "Python Backend Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Web Front-End Engineer (Graphics)",
+        "date": "10/9"
+      },
+      {
+        "title": "Backend Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Frontend Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Full Stack Software Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "C++ Backend Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "DevOps Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Developer Tools Software Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Data Infrastructure Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Simulation/Evaluation Infrastructure Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer (Frontend), Simulation Core",
+        "date": "10/9"
+      },
+      {
+        "title": "Modeling and Simulation Engineer, Simulation Core",
+        "date": "10/9"
+      },
+      {
+        "title": "Vehicle Dynamics Simulation Engineer, Simulation Core",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer (Backend), Simulation Core",
+        "date": "10/9"
+      },
+      {
+        "title": "Simulator Realism Software Engineer (Senior/Staff)",
+        "date": "10/9"
+      },
+      {
+        "title": "SceneGen Software Engineer (All levels)",
+        "date": "10/9"
+      },
+      {
+        "title": "WorldGen and Sim Realism Machine Learning Engineer (all levels)",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior/Staff Data Scientist (Sim/Eval)",
+        "date": "10/9"
+      },
+      {
+        "title": "Junior/Mid-Tier Data Scientist (Sim/Eval)",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior/Staff Software Engineer (Sim/Eval)",
+        "date": "10/9"
+      },
+      {
+        "title": "Junior/Mid-Tier Software Engineer (Sim/Eval)",
+        "date": "10/9"
+      },
+      {
+        "title": "SOTIF Safety Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Functional Safety Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Sensor Reliability Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "LiDAR System Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior/Staff Data Scientist - Safety Assessment",
+        "date": "10/9"
+      },
+      {
+        "title": "System Engineer - Software Test Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "System Engineer - Software Test Lead",
+        "date": "10/9"
+      },
+      {
+        "title": "System Engineer - Motion Control",
+        "date": "10/9"
+      },
+      {
+        "title": "System Engineer - Driving Behavior",
+        "date": "10/9"
+      },
+      {
+        "title": "System Engineer - Fault management",
+        "date": "10/9"
+      },
+      {
+        "title": "Safety Research Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Safety Frameworks Lead",
+        "date": "10/9"
+      },
+      {
+        "title": "Vehicle EE Architecture Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Vehicle Body and Trim Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Vehicle Performance and Validation Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Vehicle Chassis Systems Certification Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Vehicle Electric Power System Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Vehicle Environmental Materials Certification Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Vehicle Passive Safety Certification Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior Vehicle Certification Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Vehicle Manufacturing Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior Software Engineer: Control",
+        "date": "10/9"
+      },
+      {
+        "title": "ADS Integration Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer: Control",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer: System Performance for Adverse Weather Adaption",
+        "date": "10/9"
+      },
+      {
+        "title": "Perception Engineer: Recognition of Road Weather Conditions and Sensing Impact Analysis",
+        "date": "10/9"
+      },
+      {
+        "title": "Data Scientist: Adverse Weather Adaption",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer: Mapping and Localization",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer: Camera ISP",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer: Smart Cabin",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer: Sensor Calibration",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer: Audio Detection",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer: Computer Vision and Deep Learning",
+        "date": "10/9"
+      },
+      {
+        "title": "Perception Engineer: Object Modeling",
+        "date": "10/9"
+      },
+      {
+        "title": "Perception Engineer: Infrastructure",
+        "date": "10/9"
+      },
+      {
+        "title": "Perception Engineer: GPU Engineering",
+        "date": "10/9"
+      },
+      {
+        "title": "Perception Engineer: Machine Learning",
+        "date": "10/9"
+      },
+      {
+        "title": "Perception Engineer: LiDAR Object Detection",
+        "date": "10/9"
+      },
+      {
+        "title": "Perception Engineer: 3D Camera Object Detection",
+        "date": "10/9"
+      },
+      {
+        "title": "Perception Engineer: Scene Understanding",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior Perception Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Junior Perception Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer: Motion Prediction",
+        "date": "10/9"
+      },
+      {
+        "title": "Machine Learning Engineer for Motion and Behavior Planning",
+        "date": "10/9"
+      },
+      {
+        "title": "Motion and Behavior Planning Engineer",
+        "date": "10/9"
+      }
+    ],
+    "Avride": [
+      {
+        "title": "Autonomous Vehicle Metrics and Evaluation Data Scientist - Analytics",
+        "date": "10/9"
+      },
+      {
+        "title": "Business Development Manager",
+        "date": "10/9"
+      },
+      {
+        "title": "Cartographer",
+        "date": "10/9"
+      },
+      {
+        "title": "Corporate Counsel",
+        "date": "10/9"
+      },
+      {
+        "title": "C++ Software Engineer - Control",
+        "date": "10/9"
+      },
+      {
+        "title": "C++ Software Engineer, Motion Planning",
+        "date": "10/9"
+      },
+      {
+        "title": "Data Annotation Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "DevOps Engineer \u2014 Developer Tools",
+        "date": "10/9"
+      },
+      {
+        "title": "Embedded Linux Software Engineer to Sensors and System Software Team",
+        "date": "10/9"
+      },
+      {
+        "title": "Embedded Software Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Frontend Senior Software Engineer Web \u2013 Data Annotation",
+        "date": "10/9"
+      },
+      {
+        "title": "Machine Learning Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Machine Learning Engineer, Motion Planning & Prediction",
+        "date": "10/9"
+      },
+      {
+        "title": "Mechanical Design Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Pipeline Infrastructure Software Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Quality Assurance Engineer \u2013 AV Behavior Simulation Testing",
+        "date": "10/9"
+      },
+      {
+        "title": "Quality Assurance Engineer \u2014 AV Testing",
+        "date": "10/9"
+      },
+      {
+        "title": "Quality Assurance Engineer - Calibration",
+        "date": "10/9"
+      },
+      {
+        "title": "Robot motion planning - Software Engineer",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior C++ Engineer \u2013 Simulation Infrastructure",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior Financial Controller",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior Frontend Engineer \u2013 Remote Control systems",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior Software Engineer - Fleet Software Management System",
+        "date": "10/9"
+      },
+      {
+        "title": "Senior Treasury Officer",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer - Calibration",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer - Data Platform",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer - Embedded Firmware",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer \u2013 Localization and Mapping",
+        "date": "10/9"
+      },
+      {
+        "title": "Software Engineer \u2013 Simulation Backend",
+        "date": "10/9"
+      },
+      {
+        "title": "Technical Lead - Data Processing Infrastructure / Data Platform",
+        "date": "10/9"
+      },
+      {
+        "title": "Technical Project Manager to Embedded Systems Team",
+        "date": "10/9"
+      },
+      {
+        "title": "Technical Recruiter",
+        "date": "10/9"
       }
     ]
   }
