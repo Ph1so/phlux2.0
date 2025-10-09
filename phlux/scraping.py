@@ -156,6 +156,12 @@ def get_jobs_headless(name: str, urls: str, instructions: str, headless=True, te
     else:
         print(f"\u2705 Jobs found - {name}")
 
+    for i in range(len(jobs)):
+        title = jobs[i].strip()  # remove trailing spaces/newlines
+        if title.endswith("New"):
+            title = title[:-3].strip()
+    jobs[i] = title
+
     return jobs
 
 def load_company_data(csv_path: Path = Path("companies.csv")) -> List[Company]:
