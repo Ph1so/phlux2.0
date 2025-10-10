@@ -160,7 +160,7 @@ def get_jobs_headless(name: str, urls: str, instructions: str, headless=True, te
         title = jobs[i].strip()  # remove trailing spaces/newlines
         if title.endswith("New"):
             title = title[:-3].strip()
-    jobs[i] = title
+        jobs[i] = title
 
     return jobs
 
