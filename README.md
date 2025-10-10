@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 6041 roles across 172 companies*
+*Found 6046 roles across 172 companies*
 
 
 <table>
@@ -45,6 +45,14 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Associate Network Security Engineer \| Experienced Hire</div></td>
+  <td>10/10</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.zipline.com/careers/open-roles?search=intern#"><img src="https://cdn.brandfetch.io/flyzipline.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zipline" height="20" style="vertical-align:middle; margin-right:6px;"> Zipline</a></div>
 </td>
 
@@ -57,6 +65,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Software Engineer MCP Copilot</div></td>
+  <td>10/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://bostondynamics.com/careers/#jobs"><img src="https://cdn.brandfetch.io/bostondynamics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boston Dynamics" height="20" style="vertical-align:middle; margin-right:6px;"> Boston Dynamics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robotics Technician - Spot</div></td>
   <td>10/10</td>
 </tr>
   <tr>
@@ -301,10 +317,34 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=stokespacetechnologies&validityToken=PiGJ7lg7rtzR0DO1M4WWfSn7rZYpXBXY7-c4DEQ8Dn1QgMXTGAeJKeHvvfHr_bEyxXEN-7tZsX5Tbi9_vWfCMypdZnPl7IssrTfDGe1LvJUamZ7RxYqId_iVkQgmX_t_JHJFJOekR1fFokTmJ0XxlR_JrzYxgAGDGY5FKf5YmNVKWbfuSowpwEQp5tmVuVKEC0cUqpAPUUpA5vSuATn-YcLJshzi6v8DkfDeLA732qrDh-rWDT8RQ5ClBcCwRCbS9Tr9qNzb8900LZ0eCI_C-16PRZsgGtmmsWlI9SlO8u9toPN0OP-WIVatXoZDyVt9zsCc_exD9O2w2NvleEWuaA%3D%3D&departments%5B%5D=4065610004"><img src="https://cdn.brandfetch.io/stokespace.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Stoke Space" height="20" style="vertical-align:middle; margin-right:6px;"> Stoke Space</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Spring 2026 Internship - OperationsNew</div></td>
+  <td>10/10</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.agilityrobotics.com/about/careers"><img src="https://cdn.brandfetch.io/agilityrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Agility Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Agility Robotics</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Engineering Program Manager</div></td>
+  <td>10/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boards.greenhouse.io/embed/job_board?for=aurorainnovation"><img src="https://cdn.brandfetch.io/aurora-innovation.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Aurora Innovation" height="20" style="vertical-align:middle; margin-right:6px;"> Aurora Innovation</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Opto-Mechanical Designer</div></td>
+  <td>10/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boards.greenhouse.io/embed/job_board?for=nuro"><img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nuro" height="20" style="vertical-align:middle; margin-right:6px;"> Nuro</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Software Engineer, Ride-Hailing Product</div></td>
   <td>10/10</td>
 </tr>
   <tr>
