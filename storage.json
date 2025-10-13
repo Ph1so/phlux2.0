@@ -11815,7 +11815,12 @@
         "date": "10/10"
       }
     ],
-    "RedHat": [],
+    "RedHat": [
+      {
+        "title": "AI Intern",
+        "date": "10/13"
+      }
+    ],
     "Boston Dynamics": [
       {
         "title": "Senior Supervisor, Field Applications Engineering",
@@ -17791,6 +17796,10 @@
       {
         "title": "Store Executive Intern (Store Leadership Intern) - El Paso, TX (Starting Summer 2026)",
         "date": "10/10"
+      },
+      {
+        "title": "Executive Team Leader (Assistant Store Manager) \u2013 Memphis, TN (Starting Summer 2026)",
+        "date": "10/13"
       }
     ],
     "Amentum": [
@@ -23057,6 +23066,10 @@
       {
         "title": "Software Engineer I - Remote Assist",
         "date": "10/13"
+      },
+      {
+        "title": "Staff Logistics Engineer - Fleet Optimization",
+        "date": "10/13"
       }
     ],
     "RichTech Robotics": [
@@ -24701,6 +24714,10 @@
       {
         "title": "Machine Learning intern, Behavior Planning",
         "date": "10/13"
+      },
+      {
+        "title": "Autonomous Vehicle Operator, Houston",
+        "date": "10/13"
       }
     ],
     "Lila Sciences": [
@@ -24948,6 +24965,10 @@
       },
       {
         "title": "Business Operations",
+        "date": "10/13"
+      },
+      {
+        "title": "Travel & Expense Analyst",
         "date": "10/13"
       }
     ],
