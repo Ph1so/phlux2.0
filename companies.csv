@@ -80,7 +80,7 @@ Roku,https://www.weareroku.com/jobs/search?page=1&string_field_1%5B%5D=Internshi
 Unity,https://unity.com/careers/positions?department=students-early-career,CSS:p.loco-text-heading-xs
 Github,https://www.github.careers/careers-home/jobs?view=search&limit=100&page=1,CSS:a.job-title-link
 RedHat,https://redhat.wd5.myworkdayjobs.com/jobs/?a=bc33aa3152ec42d4995f4791a106ed09&d=c18026e77576010f6ef6126f4e43ec4a,CSS:div.css-qiqmbt->FILTER:intern
-Boston Dynamics,https://bostondynamics.com/careers/#jobs,CSS:a.Careers-title
+Boston Dynamics,https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/?workerSubType=fbfd99a3c13201ab06a11542991f9208,CSS:.css-19uc56f
 Epic Games,https://www.epicgames.com/site/en-US/careers/jobs?type=Intern&country=United%20States&page=1,CSS:div.sc-kAyceB.hDJtzF.paragraph.joblisting-title.loc-en-US
 Twitch,https://careers.twitch.com/en/careers/,CSS:div.relative.py-4->FILTER:intern
 Visa,https://careers.smartrecruiters.com/Visa/university-recruiting,CSS:a.link--block.details
