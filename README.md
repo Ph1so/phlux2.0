@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 7358 roles across 181 companies*
+*Found 7360 roles across 181 companies*
 
 
 <table>
@@ -57,6 +57,22 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Associate Interior Designer</div></td>
+  <td>11/3</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://apply.workable.com/huggingface/?not_found=true#jobs"><img src="https://cdn.brandfetch.io/huggingface.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Hugging Face" height="20" style="vertical-align:middle; margin-right:6px;"> Hugging Face</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Machine Learning Test Engineer, Transformers team - US Remote</div></td>
+  <td>11/3</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.point72.com/?experience=internships"><img src="https://cdn.brandfetch.io/point72.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Point72" height="20" style="vertical-align:middle; margin-right:6px;"> Point72</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2026 Economist Summer Intern</div></td>
   <td>11/3</td>
 </tr>
   <tr>
