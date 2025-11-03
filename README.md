@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 7429 roles across 181 companies*
+*Found 7430 roles across 181 companies*
 
 
 <table>
@@ -505,6 +505,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Production Supervisor - ON-SITE — FULL-TIMEHAYWARD, CA</div></td>
+  <td>11/3</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Systems Engineering Internships - HYBRID — INTERNSHIP/CO-OPFOSTER CITY, CA</div></td>
   <td>11/3</td>
 </tr>
   <tr>
