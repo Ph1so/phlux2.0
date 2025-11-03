@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 7362 roles across 181 companies*
+*Found 7366 roles across 181 companies*
 
 
 <table>
@@ -33,6 +33,22 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2026 Financial Resources & Strategy Industrial Placement Internship (London)</div></td>
+  <td>11/3</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.robinhood.com/"><img src="https://cdn.brandfetch.io/robinhood.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Robinhood" height="20" style="vertical-align:middle; margin-right:6px;"> Robinhood</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Brokerage Operations Intern</div></td>
+  <td>11/3</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.robinhood.com/"><img src="https://cdn.brandfetch.io/robinhood.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Robinhood" height="20" style="vertical-align:middle; margin-right:6px;"> Robinhood</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Brokerage Risk Analyst Intern</div></td>
   <td>11/3</td>
 </tr>
   <tr>
@@ -93,10 +109,26 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boards.greenhouse.io/embed/job_board?for=apptronik&b=https://apptronik.com/%2Fcareers%2F"><img src="https://cdn.brandfetch.io/apptronik.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Apptronik" height="20" style="vertical-align:middle; margin-right:6px;"> Apptronik</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Operations Manager</div></td>
+  <td>11/3</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/lucidmotors/?keyword=intern"><img src="https://cdn.brandfetch.io/lucidmotors.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lucid Motors" height="20" style="vertical-align:middle; margin-right:6px;"> Lucid Motors</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Vehicle Engineering Intern – Cockpit Mechanisms</div></td>
+  <td>11/3</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/lilasciences/"><img src="https://cdn.brandfetch.io/lila.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lila Sciences" height="20" style="vertical-align:middle; margin-right:6px;"> Lila Sciences</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Machine Learning Engineer I, Biomolecule Design</div></td>
   <td>11/3</td>
 </tr>
   <tr>
