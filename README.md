@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 7493 roles across 181 companies*
+*Found 7495 roles across 181 companies*
 
 
 <table>
@@ -145,6 +145,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Manager, Software Engineering</div></td>
+  <td>11/4</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.twitch.com/en/careers/"><img src="https://cdn.brandfetch.io/twitch.tv/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Twitch" height="20" style="vertical-align:middle; margin-right:6px;"> Twitch</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Undergrad Community Specialist Intern - San Francisco, CA</div></td>
   <td>11/4</td>
 </tr>
   <tr>
@@ -361,6 +369,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Director, Perception Detection - HYBRID — FULL-TIMEFOSTER CITY, CA</div></td>
+  <td>11/4</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Manager, Multi-Modal LLM Applications - HYBRID — FULL-TIMEFOSTER CITY, CA</div></td>
   <td>11/4</td>
 </tr>
   <tr>
