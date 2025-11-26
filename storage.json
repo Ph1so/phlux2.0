@@ -118,6 +118,10 @@
       {
         "title": "2026 PhD Software Engineer Intern (Threat Detection), United States",
         "date": "11/25"
+      },
+      {
+        "title": "2026 Mobility Strategic Operations Intern, US",
+        "date": "11/25"
       }
     ],
     "Nvidia": [
@@ -6746,6 +6750,10 @@
       {
         "title": "Content Operations Intern (TikTok-Product-Content Ecosystem)- 2026 Summer (BS/MS)",
         "date": "11/23"
+      },
+      {
+        "title": "[Online Assessment] Software Engineer Intern (Recommendation Infrastructure) - 2026 Fall (BS/ MS)",
+        "date": "11/25"
       }
     ],
     "Robinhood": [
@@ -10729,6 +10737,10 @@
       },
       {
         "title": "Enterprise User Services (EUS) Specialist",
+        "date": "11/25"
+      },
+      {
+        "title": "Derivatives Sales",
         "date": "11/25"
       }
     ],
@@ -25004,6 +25016,18 @@
       {
         "title": "Manufacturing Engineering Intern",
         "date": "11/21"
+      },
+      {
+        "title": "Supply Chain Risk & Analytics Intern",
+        "date": "11/25"
+      },
+      {
+        "title": "Strategic Sourcing Intern",
+        "date": "11/25"
+      },
+      {
+        "title": "Supply Chain Business Process Analyst Intern",
+        "date": "11/25"
       }
     ],
     "Stoke Space": [
@@ -33778,6 +33802,68 @@
       },
       {
         "title": "iOS Engineer, Graphics and Rendering",
+        "date": "11/25"
+      }
+    ],
+    "ScoutAI": [
+      {
+        "title": "Create a Job Alert",
+        "date": "11/25"
+      },
+      {
+        "title": "AI Engineer - Fury Team",
+        "date": "11/25"
+      },
+      {
+        "title": "AI Infrastructure Engineer - Fury Team",
+        "date": "11/25"
+      },
+      {
+        "title": "AI Researcher - Fury Team",
+        "date": "11/25"
+      },
+      {
+        "title": "AI Technician - Fury Team",
+        "date": "11/25"
+      },
+      {
+        "title": "ATR Engineer",
+        "date": "11/25"
+      },
+      {
+        "title": "Director of Business Development, Air Dominance",
+        "date": "11/25"
+      },
+      {
+        "title": "Drone Operator",
+        "date": "11/25"
+      },
+      {
+        "title": "Embedded Engineer",
+        "date": "11/25"
+      },
+      {
+        "title": "Hardware Engineer",
+        "date": "11/25"
+      },
+      {
+        "title": "Mission Operator",
+        "date": "11/25"
+      },
+      {
+        "title": "Robot Technician",
+        "date": "11/25"
+      },
+      {
+        "title": "Senior Mission Operator",
+        "date": "11/25"
+      },
+      {
+        "title": "State Estimation Engineer",
+        "date": "11/25"
+      },
+      {
+        "title": "UGV Technician",
         "date": "11/25"
       }
     ]
