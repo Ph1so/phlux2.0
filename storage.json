@@ -544,6 +544,10 @@
       {
         "title": "Financial Analyst Intern, Software Engineering - Summer 2026",
         "date": "12/19"
+      },
+      {
+        "title": "Financial Analyst MBA Intern, Hardware Engineering - Summer 2026",
+        "date": "12/19"
       }
     ],
     "AWS": [
@@ -11376,6 +11380,14 @@
       {
         "title": "Network Automation & App Developer Co-op",
         "date": "12/19"
+      },
+      {
+        "title": "Hardware Digital Design Intern",
+        "date": "12/19"
+      },
+      {
+        "title": "RF Automated Test Platform Co-op",
+        "date": "12/19"
       }
     ],
     "EA": [
@@ -18393,6 +18405,10 @@
       {
         "title": "Senior Software Engineer, Migration Tools",
         "date": "12/17"
+      },
+      {
+        "title": "Staff Incident Response Analyst",
+        "date": "12/19"
       }
     ],
     "RedHat": [
@@ -30626,6 +30642,22 @@
       {
         "title": "2026 Summer Intern \u2013 Software Engineer, Dynamics & Controls - Autonomous Driving (PhD)",
         "date": "12/18"
+      },
+      {
+        "title": "2026 Summer Intern \u2013 Software Engineer, ADAS Core Software Team",
+        "date": "12/19"
+      },
+      {
+        "title": "2026 Summer Intern \u2013 Software Engineer, Autonomous Robot (Masters Degree)",
+        "date": "12/19"
+      },
+      {
+        "title": "2026 Summer Intern, Machine Learning Engineer, Trajectory Generation (PhD)",
+        "date": "12/19"
+      },
+      {
+        "title": "2026 Summer Intern, Machine Learning Engineer, Trajectory Generation (Masters)",
+        "date": "12/19"
       }
     ],
     "GreyOrange": [
@@ -37576,6 +37608,10 @@
       {
         "title": "Senior Manager / Associate Director, Life Science Partnerships",
         "date": "12/17"
+      },
+      {
+        "title": "Graduate Research Intern, Machine Learning for Materials",
+        "date": "12/19"
       }
     ],
     "Mitre": [
@@ -37738,6 +37774,10 @@
       {
         "title": "Model-Based Software Systems Engineer",
         "date": "12/11"
+      },
+      {
+        "title": "National Defense and Intelligence Analyst Intern",
+        "date": "12/19"
       }
     ],
     "Serve Robotics": [
