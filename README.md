@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 2929 roles across 204 companies*
+*Found 2948 roles across 204 companies*
 
 
 <table>
@@ -21,10 +21,138 @@ Easily track jobs across top tech companies.
 
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Consulting - Associate X-Force Incident Response Intern 2026 - Internship - Austin, US</div></td>
+  <td>1/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research - Intern 2026: AI Hybrid Cloud Platform Research Scientist - Internship - Multiple Cities</div></td>
+  <td>1/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Consulting - Associate Business Transformation Consultant Intern 2026 - Internship - Multiple Cities</div></td>
+  <td>1/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Consulting - Associate Package Consultants Intern 2026 - Internship - Multiple Cities</div></td>
+  <td>1/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Infrastructure & Technology - Intern 2026: Hardware Engineer - Semiconductor - Internship - Multiple Cities</div></td>
+  <td>1/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Infrastructure & Technology - Software Engineering Intern 2026 - Internship - Multiple Cities</div></td>
+  <td>1/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Consulting - Associate Business Transformation Consultant Co-op 2026 - Internship - No City, US</div></td>
+  <td>1/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sales - Subscription and Annuity Representative Intern – Entry Level Sales Program 2026 - Internship - Dallas, US</div></td>
+  <td>1/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Infrastructure & Technology - Back End Developer Intern 2026 - Internship - Multiple Cities</div></td>
+  <td>1/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Design & UX - Designer Intern 2026 - Internship - Multiple Cities</div></td>
+  <td>1/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Consulting - Intern – Associate Consultant - Internship - Multiple Cities</div></td>
+  <td>1/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research - Intern 2026: Research Scientist - Semiconductor - Internship - Multiple Cities</div></td>
+  <td>1/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Infrastructure & Technology - Software Developer Intern: 2026 - Internship - Multiple Cities</div></td>
+  <td>1/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research - RS: Toward Autonomous Data Management with FMs and AI Agents Intern 2026 - Internship - Multiple Cities</div></td>
+  <td>1/8</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://optiver.com/working-at-optiver/career-opportunities/page/2/?search=internship&_gl=1*rb345g*_gcl_au*Mjk2MDM5OTE1LjE3NDg5MTM5ODQ.&numberposts=10&level=internship&paged=1"><img src="https://cdn.brandfetch.io/optiver.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Optiver" height="20" style="vertical-align:middle; margin-right:6px;"> Optiver</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Regional HR Coordinator (12-month contract)</div></td>
+  <td>1/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.snap.com/jobs?type=Intern"><img src="https://cdn.brandfetch.io/snap.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Snap" height="20" style="vertical-align:middle; margin-right:6px;"> Snap</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Spectacles Student Worker- Computer Vision Engineering</div></td>
+  <td>1/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.snap.com/jobs?type=Intern"><img src="https://cdn.brandfetch.io/snap.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Snap" height="20" style="vertical-align:middle; margin-right:6px;"> Snap</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Spectacles Student Worker - Computer Vision Engineering</div></td>
   <td>1/8</td>
 </tr>
   <tr>
@@ -213,6 +341,22 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boards.greenhouse.io/embed/job_board?for=aurorainnovation"><img src="https://cdn.brandfetch.io/aurora-innovation.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Aurora Innovation" height="20" style="vertical-align:middle; margin-right:6px;"> Aurora Innovation</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Manager, Vehicle Reliability Engineering</div></td>
+  <td>1/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Mechanical Engineer - Robotics & Autonomous Vehicles</div></td>
+  <td>1/8</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
 </td>
 
@@ -241,6 +385,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Embedded Software Engineer - ON-SITE — FULL-TIMEROCHESTER, NY</div></td>
+  <td>1/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boards.greenhouse.io/embed/job_board?for=lyft"><img src="https://cdn.brandfetch.io/lyft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lyft" height="20" style="vertical-align:middle; margin-right:6px;"> Lyft</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Engineering Manager, Mapping</div></td>
   <td>1/8</td>
 </tr>
   <tr>
