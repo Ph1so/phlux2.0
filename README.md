@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 2948 roles across 204 companies*
+*Found 2952 roles across 204 companies*
 
 
 <table>
@@ -129,6 +129,22 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research - RS: Toward Autonomous Data Management with FMs and AI Agents Intern 2026 - Internship - Multiple Cities</div></td>
+  <td>1/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Consulting - Associate Package Consultant Co-op 2026 - Internship - No City, US</div></td>
+  <td>1/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://autodesk.wd1.myworkdayjobs.com/uni?jobFamilyGroup=f909d7cccc2d480b8f6af996c7bf8352&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/autodesk.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Autodesk" height="20" style="vertical-align:middle; margin-right:6px;"> Autodesk</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Intern, Construction AI Agent Research</div></td>
   <td>1/8</td>
 </tr>
   <tr>
@@ -269,6 +285,14 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.weareroku.com/jobs/search?page=1&string_field_1%5B%5D=Internships"><img src="https://cdn.brandfetch.io/roku.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Roku" height="20" style="vertical-align:middle; margin-right:6px;"> Roku</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Client Services Intern</div></td>
+  <td>1/8</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://unity.com/careers/positions?department=students-early-career"><img src="https://cdn.brandfetch.io/unity.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Unity" height="20" style="vertical-align:middle; margin-right:6px;"> Unity</a></div>
 </td>
 
@@ -369,6 +393,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Autonomous Driving System Safety Lead</div></td>
+  <td>1/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers?workerSubType=b9bd15164d241000cf9857a64e2e0000"><img src="https://cdn.brandfetch.io/draper.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Draper" height="20" style="vertical-align:middle; margin-right:6px;"> Draper</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Integrated Circuits Intern</div></td>
   <td>1/8</td>
 </tr>
   <tr>
