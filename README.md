@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 2981 roles across 204 companies*
+*Found 2989 roles across 204 companies*
 
 
 <table>
@@ -177,6 +177,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Spectacles Student Worker - Computer Vision Engineering</div></td>
+  <td>1/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.datadoghq.com/early-careers/"><img src="https://cdn.brandfetch.io/datadoghq.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Datadog" height="20" style="vertical-align:middle; margin-right:6px;"> Datadog</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sales Development Representative - Italy</div></td>
   <td>1/8</td>
 </tr>
   <tr>
@@ -373,6 +381,14 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Exchange Fee Data Analyst</div></td>
+  <td>1/8</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.adobe.com/us/en/search-results?qkexperienceLevel=University%20Intern"><img src="https://cdn.brandfetch.io/adobe.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Adobe" height="20" style="vertical-align:middle; margin-right:6px;"> Adobe</a></div>
 </td>
 
@@ -413,6 +429,14 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.se.com/global/jobs?keywords=internship&sortBy=relevance&page=1&country=United%20States&tags1=Intern"><img src="https://cdn.brandfetch.io/se.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Scheider Electric" height="20" style="vertical-align:middle; margin-right:6px;"> Scheider Electric</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Digital Security Intern</div></td>
+  <td>1/8</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.weareroku.com/jobs/search?page=1&string_field_1%5B%5D=Internships"><img src="https://cdn.brandfetch.io/roku.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Roku" height="20" style="vertical-align:middle; margin-right:6px;"> Roku</a></div>
 </td>
 
@@ -449,6 +473,22 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Field Engineer - GTM • Foster City, CA (Hybrid) In office M,W,F • Full time</div></td>
+  <td>1/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/replit"><img src="https://cdn.brandfetch.io/replit.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Replit" height="20" style="vertical-align:middle; margin-right:6px;"> Replit</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Commercial Account Manager - GTM • Foster City, CA (Hybrid) In office M,W,F • Full time</div></td>
+  <td>1/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/replit"><img src="https://cdn.brandfetch.io/replit.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Replit" height="20" style="vertical-align:middle; margin-right:6px;"> Replit</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Enterprise Account Manager - GTM • Foster City, CA (Hybrid) In office M,W,F • Full time</div></td>
   <td>1/8</td>
 </tr>
   <tr>
@@ -497,6 +537,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Human Factors Research Intern</div></td>
+  <td>1/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.leidos.com/pages/intern-jobs?ns_landing_page_jobs=/search/job-level/intern/jobs/in/country/united-states?ns_landing_page=1"><img src="https://cdn.brandfetch.io/leidos.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Leidos" height="20" style="vertical-align:middle; margin-right:6px;"> Leidos</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Quantum Information Science Graduate Intern</div></td>
   <td>1/8</td>
 </tr>
   <tr>
@@ -613,6 +661,14 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior/Staff Technical Program Manager - Core Systems - HYBRID — FULL-TIMEFOSTER CITY, CA</div></td>
+  <td>1/8</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boards.greenhouse.io/embed/job_board?for=nuro"><img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nuro" height="20" style="vertical-align:middle; margin-right:6px;"> Nuro</a></div>
 </td>
 
@@ -665,6 +721,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Intern, Optical Design and Vision Science</div></td>
+  <td>1/8</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.impulsespace.com/careers"><img src="https://cdn.brandfetch.io/impulsespace.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Impulse Space" height="20" style="vertical-align:middle; margin-right:6px;"> Impulse Space</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Proposal Specialist</div></td>
   <td>1/8</td>
 </tr>
   <tr>
