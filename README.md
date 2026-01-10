@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 3210 roles across 204 companies*
+*Found 3216 roles across 204 companies*
 
 
 <table>
@@ -289,6 +289,54 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2026 Intern - Pricing Automation</div></td>
+  <td>1/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://asana.com/jobs/university-recruiting#jobs"><img src="https://cdn.brandfetch.io/asana.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Asana" height="20" style="vertical-align:middle; margin-right:6px;"> Asana</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Product Design Intern - Summer 2026 (New York)</div></td>
+  <td>1/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://asana.com/jobs/university-recruiting#jobs"><img src="https://cdn.brandfetch.io/asana.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Asana" height="20" style="vertical-align:middle; margin-right:6px;"> Asana</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Product Design Intern - Summer 2026 (San Francisco)</div></td>
+  <td>1/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://asana.com/jobs/university-recruiting#jobs"><img src="https://cdn.brandfetch.io/asana.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Asana" height="20" style="vertical-align:middle; margin-right:6px;"> Asana</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Product Design Intern - Summer 2026 (Vancouver, BC)</div></td>
+  <td>1/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://asana.com/jobs/university-recruiting#jobs"><img src="https://cdn.brandfetch.io/asana.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Asana" height="20" style="vertical-align:middle; margin-right:6px;"> Asana</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Product Design Intern - Summer 2026 (Warsaw)</div></td>
+  <td>1/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://asana.com/jobs/university-recruiting#jobs"><img src="https://cdn.brandfetch.io/asana.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Asana" height="20" style="vertical-align:middle; margin-right:6px;"> Asana</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineering Intern - Summer 2026 (Reykjavik)</div></td>
+  <td>1/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://asana.com/jobs/university-recruiting#jobs"><img src="https://cdn.brandfetch.io/asana.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Asana" height="20" style="vertical-align:middle; margin-right:6px;"> Asana</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineering Intern - Summer 2026 (Warsaw)</div></td>
   <td>1/10</td>
 </tr>
   <tr>
