@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 3410 roles across 204 companies*
+*Found 3418 roles across 204 companies*
 
 
 <table>
@@ -117,6 +117,14 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?lastSelectedFacet=TITLES&location=United+States&locationId=300000000480126&locationLevel=country&mode=location&selectedTitlesFacet=TRA"><img src="https://cdn.brandfetch.io/nokia.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nokia" height="20" style="vertical-align:middle; margin-right:6px;"> Nokia</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sales & Partnership Intern</div></td>
+  <td>1/13</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.rivian.com/careers-home/jobs?sortBy=relevance&page=1&categories=Internships"><img src="https://cdn.brandfetch.io/rivian.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Rivian" height="20" style="vertical-align:middle; margin-right:6px;"> Rivian</a></div>
 </td>
 
@@ -209,6 +217,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Development Engineering Graduate - August 2026 - London</div></td>
+  <td>1/13</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.sw.siemens.com/locations/usa/jobs/?q=intern"><img src="https://cdn.brandfetch.io/siemens.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Siemens" height="20" style="vertical-align:middle; margin-right:6px;"> Siemens</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Strategic Student Program: Product Engineering Software (PES) Internship (Summer 2026, PLM) - Costa Mesa, CA - Req ID: 491020</div></td>
   <td>1/13</td>
 </tr>
   <tr>
@@ -317,6 +333,14 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/replit"><img src="https://cdn.brandfetch.io/replit.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Replit" height="20" style="vertical-align:middle; margin-right:6px;"> Replit</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">SDR - GTM • Salt Lake City, UT • Full time • Hybrid</div></td>
+  <td>1/13</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
 </td>
 
@@ -329,6 +353,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineering Intern, Summer 2026</div></td>
+  <td>1/13</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Corporate Brand Strategy MBA Intern, Summer 2026</div></td>
   <td>1/13</td>
 </tr>
   <tr>
@@ -361,6 +393,22 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Product Development Intern</div></td>
+  <td>1/13</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.docusign.com/jobs?tags1=Intern&limit=100&page=1"><img src="https://cdn.brandfetch.io/docusign.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Docusign" height="20" style="vertical-align:middle; margin-right:6px;"> Docusign</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Corporate Affairs Intern</div></td>
+  <td>1/13</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.docusign.com/jobs?tags1=Intern&limit=100&page=1"><img src="https://cdn.brandfetch.io/docusign.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Docusign" height="20" style="vertical-align:middle; margin-right:6px;"> Docusign</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">In-House Legal Intern</div></td>
   <td>1/13</td>
 </tr>
   <tr>
@@ -425,6 +473,22 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">IT Support Intern (February 2026)</div></td>
+  <td>1/13</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/sanctuary?department=Co-ops%2FInternships&team=Co-op"><img src="https://cdn.brandfetch.io/sanctuary.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sanctuary AI" height="20" style="vertical-align:middle; margin-right:6px;"> Sanctuary AI</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Product Management Intern (May 2026)</div></td>
+  <td>1/13</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/sanctuary?department=Co-ops%2FInternships&team=Co-op"><img src="https://cdn.brandfetch.io/sanctuary.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sanctuary AI" height="20" style="vertical-align:middle; margin-right:6px;"> Sanctuary AI</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Project Coordinator Intern (Jan 2026)</div></td>
   <td>1/13</td>
 </tr>
   <tr>
