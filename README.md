@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 3358 roles across 204 companies*
+*Found 3361 roles across 204 companies*
 
 
 <table>
@@ -65,6 +65,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Facilities Management Co-op with Drexel University: Spring/Summer A Round</div></td>
+  <td>1/13</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.expediagroup.com/jobs/?keyword=emerging+talent+and+careers&&filter[category]=Technology"><img src="https://cdn.brandfetch.io/expediagroup.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Expedia" height="20" style="vertical-align:middle; margin-right:6px;"> Expedia</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Development Engineering Graduate - August 2026 - London</div></td>
   <td>1/13</td>
 </tr>
   <tr>
@@ -241,6 +249,22 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Graphics Media Designer</div></td>
+  <td>1/13</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers?workerSubType=b9bd15164d241000cf9857a64e2e0000"><img src="https://cdn.brandfetch.io/draper.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Draper" height="20" style="vertical-align:middle; margin-right:6px;"> Draper</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Process Automation Intern</div></td>
+  <td>1/13</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/aeva?"><img src="https://cdn.brandfetch.io/aeva.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Aeva" height="20" style="vertical-align:middle; margin-right:6px;"> Aeva</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Manager, Photonics and PCBA Test Engineering - ON-SITE — FULL-TIMEMOUNTAIN VIEW, CA</div></td>
   <td>1/13</td>
 </tr>
   <tr>

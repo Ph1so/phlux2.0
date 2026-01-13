@@ -2685,7 +2685,12 @@
         "date": "1/13"
       }
     ],
-    "Expedia": [],
+    "Expedia": [
+      {
+        "title": "Software Development Engineering Graduate - August 2026 - London",
+        "date": "1/13"
+      }
+    ],
     "Roblox": [],
     "Jane Street": [
       {
@@ -10961,6 +10966,10 @@
       {
         "title": "Integration and Test Engineering Intern",
         "date": "1/12"
+      },
+      {
+        "title": "Process Automation Intern",
+        "date": "1/13"
       }
     ],
     "Bosch": [
@@ -11281,6 +11290,10 @@
       {
         "title": "Senior Embedded Software Engineer - ON-SITE \u2014 FULL-TIMEROCHESTER, NY",
         "date": "1/8"
+      },
+      {
+        "title": "Senior Manager, Photonics and PCBA Test Engineering - ON-SITE \u2014 FULL-TIMEMOUNTAIN VIEW, CA",
+        "date": "1/13"
       }
     ],
     "Anduril": [],
