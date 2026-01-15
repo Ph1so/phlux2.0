@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 3539 roles across 204 companies*
+*Found 3551 roles across 204 companies*
 
 
 <table>
@@ -93,6 +93,78 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.bankofamerica.com/en-us/students/job-search?ref=search&rows=24&search=jobsByLocation&searchstring=United+States"><img src="https://cdn.brandfetch.io/bankofamerica.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bank of America" height="20" style="vertical-align:middle; margin-right:6px;"> Bank of America</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Global Investment Banking Summer Analyst Program - 2027</div></td>
+  <td>1/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.bankofamerica.com/en-us/students/job-search?ref=search&rows=24&search=jobsByLocation&searchstring=United+States"><img src="https://cdn.brandfetch.io/bankofamerica.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bank of America" height="20" style="vertical-align:middle; margin-right:6px;"> Bank of America</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Wealth Management Summer Analyst Program – Merrill Advisor Development 2027</div></td>
+  <td>1/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.bankofamerica.com/en-us/students/job-search?ref=search&rows=24&search=jobsByLocation&searchstring=United+States"><img src="https://cdn.brandfetch.io/bankofamerica.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bank of America" height="20" style="vertical-align:middle; margin-right:6px;"> Bank of America</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Wealth Management Summer Analyst Program – Merrill Wealth Management Client Associate 2027</div></td>
+  <td>1/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.bankofamerica.com/en-us/students/job-search?ref=search&rows=24&search=jobsByLocation&searchstring=United+States"><img src="https://cdn.brandfetch.io/bankofamerica.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bank of America" height="20" style="vertical-align:middle; margin-right:6px;"> Bank of America</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Wealth Management Summer Analyst Program - Chief Investment Office, Investment Solutions Group, and Merrill Home Office 2027</div></td>
+  <td>1/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.bankofamerica.com/en-us/students/job-search?ref=search&rows=24&search=jobsByLocation&searchstring=United+States"><img src="https://cdn.brandfetch.io/bankofamerica.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bank of America" height="20" style="vertical-align:middle; margin-right:6px;"> Bank of America</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Wealth Management Summer Analyst Program - Private Bank 2027</div></td>
+  <td>1/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.bankofamerica.com/en-us/students/job-search?ref=search&rows=24&search=jobsByLocation&searchstring=United+States"><img src="https://cdn.brandfetch.io/bankofamerica.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bank of America" height="20" style="vertical-align:middle; margin-right:6px;"> Bank of America</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Global Capital Markets Summer Analyst Program- 2027</div></td>
+  <td>1/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.bankofamerica.com/en-us/students/job-search?ref=search&rows=24&search=jobsByLocation&searchstring=United+States"><img src="https://cdn.brandfetch.io/bankofamerica.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bank of America" height="20" style="vertical-align:middle; margin-right:6px;"> Bank of America</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Global Corporate Banking Summer Analyst Program - 2027</div></td>
+  <td>1/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.bankofamerica.com/en-us/students/job-search?ref=search&rows=24&search=jobsByLocation&searchstring=United+States"><img src="https://cdn.brandfetch.io/bankofamerica.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bank of America" height="20" style="vertical-align:middle; margin-right:6px;"> Bank of America</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Latin America Investment Banking Summer Analyst Program - 2027</div></td>
+  <td>1/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.bankofamerica.com/en-us/students/job-search?ref=search&rows=24&search=jobsByLocation&searchstring=United+States"><img src="https://cdn.brandfetch.io/bankofamerica.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bank of America" height="20" style="vertical-align:middle; margin-right:6px;"> Bank of America</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Rates and Currencies Solutions Summer Analyst Program – 2027</div></td>
+  <td>1/15</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
 </td>
 
@@ -165,6 +237,14 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">ILM Immersive, Technical Artist Intern, Summer 2026</div></td>
+  <td>1/15</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://razer.wd3.myworkdayjobs.com/Careers?jobFamilyGroup=5f89d961603401a62553f98eab0c3255"><img src="https://cdn.brandfetch.io/razer.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Razer" height="20" style="vertical-align:middle; margin-right:6px;"> Razer</a></div>
 </td>
 
@@ -189,6 +269,14 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.boeing.com/category/internship-jobs/185/9287/1"><img src="https://cdn.brandfetch.io/boeingdistribution.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boeing" height="20" style="vertical-align:middle; margin-right:6px;"> Boeing</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Intern - Student Engineer (Multi-Skill) m/f/d</div></td>
+  <td>1/15</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.merl.com/employment/internship-openings"><img src="https://cdn.brandfetch.io/mitsubishielectric.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mitsubishi Electric Research Laboratories" height="20" style="vertical-align:middle; margin-right:6px;"> Mitsubishi Electric Research Laboratories</a></div>
 </td>
 
@@ -209,6 +297,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Mechanical Engineering & System Packaging Intern</div></td>
+  <td>1/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boards.greenhouse.io/embed/job_board?for=lyft"><img src="https://cdn.brandfetch.io/lyft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lyft" height="20" style="vertical-align:middle; margin-right:6px;"> Lyft</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Analytics Lead</div></td>
   <td>1/15</td>
 </tr>
   <tr>
