@@ -1,4 +1,5 @@
 pandas
+pytz
 selenium
 webdriver-manager
 tenacity
