@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 4690 roles across 204 companies*
+*Found 4700 roles across 204 companies*
 
 
 <table>
@@ -477,6 +477,14 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&jobtype=Intern&pagesize=20#results"><img src="https://cdn.brandfetch.io/salesforce.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Salesforce" height="20" style="vertical-align:middle; margin-right:6px;"> Salesforce</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Summer 2026 Intern - Software Engineer</div></td>
+  <td>2/4</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://autodesk.wd1.myworkdayjobs.com/uni?jobFamilyGroup=f909d7cccc2d480b8f6af996c7bf8352&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/autodesk.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Autodesk" height="20" style="vertical-align:middle; margin-right:6px;"> Autodesk</a></div>
 </td>
 
@@ -553,6 +561,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Recruitment Coordinator – New York</div></td>
+  <td>2/4</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://optiver.com/working-at-optiver/career-opportunities/page/2/?search=internship&_gl=1*rb345g*_gcl_au*Mjk2MDM5OTE1LjE3NDg5MTM5ODQ.&numberposts=10&level=internship&paged=1"><img src="https://cdn.brandfetch.io/optiver.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Optiver" height="20" style="vertical-align:middle; margin-right:6px;"> Optiver</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">AI Lab – ORP SE</div></td>
   <td>2/4</td>
 </tr>
   <tr>
@@ -769,6 +785,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2026 PhD Analog/Mixed-Signal Design Intern</div></td>
+  <td>2/4</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States"><img src="https://cdn.brandfetch.io/amd.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="AMD" height="20" style="vertical-align:middle; margin-right:6px;"> AMD</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Summer 2026 Undergraduate Data Analytics Intern</div></td>
   <td>2/4</td>
 </tr>
   <tr>
@@ -1145,6 +1169,30 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Trade Support</div></td>
+  <td>2/4</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Quantitative Research Internship – Master's: Summer 2026</div></td>
+  <td>2/4</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Global Travel Manager</div></td>
+  <td>2/4</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Learning + Development Consultant \| Fixed Term Contract</div></td>
   <td>2/4</td>
 </tr>
   <tr>
@@ -5741,6 +5789,22 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boards.greenhouse.io/embed/job_board?for=lyft"><img src="https://cdn.brandfetch.io/lyft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lyft" height="20" style="vertical-align:middle; margin-right:6px;"> Lyft</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Data Scientist, Algorithms, Optimization - Fulfillment</div></td>
+  <td>2/4</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boards.greenhouse.io/embed/job_board?for=lyft"><img src="https://cdn.brandfetch.io/lyft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lyft" height="20" style="vertical-align:middle; margin-right:6px;"> Lyft</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Data Scientist, Algorithms, Optimization - Fulfillment</div></td>
+  <td>2/4</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.gusto.com/boards/anyware-robotics-e7cbbd33-db1c-470e-93b3-020992d24e20"><img src="https://cdn.brandfetch.io/anywhere.global/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anywhere Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Anywhere Robotics</a></div>
 </td>
 
@@ -5865,6 +5929,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">CODEC Video Compression Engineer/Developer (Quant)</div></td>
+  <td>2/4</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/nerostechnologies/"><img src="https://cdn.brandfetch.io/nerostechnologies.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Neros Technologies" height="20" style="vertical-align:middle; margin-right:6px;"> Neros Technologies</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">CODEC Video Compression Engineer/Developer</div></td>
   <td>2/4</td>
 </tr>
   <tr>
@@ -6153,6 +6225,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Manager, Propulsion Systems</div></td>
+  <td>2/4</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.impulsespace.com/careers"><img src="https://cdn.brandfetch.io/impulsespace.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Impulse Space" height="20" style="vertical-align:middle; margin-right:6px;"> Impulse Space</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Infrastructure Engineer (Test Software)</div></td>
   <td>2/4</td>
 </tr>
   <tr>
