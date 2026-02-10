@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 5064 roles across 204 companies*
+*Found 5069 roles across 204 companies*
 
 
 <table>
@@ -25,6 +25,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer (Data)</div></td>
+  <td>2/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.rivian.com/careers-home/jobs?sortBy=relevance&page=1&categories=Internships"><img src="https://cdn.brandfetch.io/rivian.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Rivian" height="20" style="vertical-align:middle; margin-right:6px;"> Rivian</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Engineering Intern - Advanced Energy Solutions</div></td>
   <td>2/10</td>
 </tr>
   <tr>
@@ -77,6 +85,22 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.point72.com/?experience=internships"><img src="https://cdn.brandfetch.io/point72.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Point72" height="20" style="vertical-align:middle; margin-right:6px;"> Point72</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Quantitative Research Intern (NLP)</div></td>
+  <td>2/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers?workerSubType=189767dd6c920145d5c3e59c2c297819&Location_Country=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/samsung.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Samsung" height="20" style="vertical-align:middle; margin-right:6px;"> Samsung</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Data Analytics Internship (Retail Performance)</div></td>
+  <td>2/10</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.intuitive.com/en/jobs/?search=&country=United+States&team=Students+%26+University&type=Intern+%28Fixed+Term%29&pagesize=20#results"><img src="https://cdn.brandfetch.io/intuitivesurgical.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Intuitive Surgical" height="20" style="vertical-align:middle; margin-right:6px;"> Intuitive Surgical</a></div>
 </td>
 
@@ -93,10 +117,26 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.mitre.org/us/en/search-results?keywords=student"><img src="https://cdn.brandfetch.io/mitre.org/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mitre" height="20" style="vertical-align:middle; margin-right:6px;"> Mitre</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Systems Engineering Intern</div></td>
+  <td>2/10</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boards.greenhouse.io/embed/job_board?for=lyft"><img src="https://cdn.brandfetch.io/lyft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lyft" height="20" style="vertical-align:middle; margin-right:6px;"> Lyft</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Data Engineer, Corporate Data & Analytics</div></td>
+  <td>2/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boards.greenhouse.io/embed/job_board?for=lyft"><img src="https://cdn.brandfetch.io/lyft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lyft" height="20" style="vertical-align:middle; margin-right:6px;"> Lyft</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Data Analyst, Pricing</div></td>
   <td>2/10</td>
 </tr>
   <tr>
