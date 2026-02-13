@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 5332 roles across 204 companies*
+*Found 5337 roles across 204 companies*
 
 
 <table>
@@ -19,6 +19,14 @@ Easily track jobs across top tech companies.
   </thead>
   <tbody>
 
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"><img src="https://cdn.brandfetch.io/nvidia.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nvidia" height="20" style="vertical-align:middle; margin-right:6px;"> Nvidia</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Product Management MBA Intern, Accelerated Computing GPU - Summer 2026</div></td>
+  <td>2/12</td>
+</tr>
   <tr>
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.uber.com/us/en/careers/list/?department=University&location=USA-California-San%20Francisco&location=USA-California-Culver%20City&location=USA-California-Sunnyvale&location=USA-New%20York-New%20York&location=USA-Illinois-Chicago&location=USA-Washington-Seattle&location=USA-Florida-Miami&location=USA-Texas-Dallas&location=USA-Arizona-Phoenix&location=USA-District%20of%20Columbia-Washington&location=USA-Massachusetts-Boston"><img src="https://cdn.brandfetch.io/uber.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Uber" height="20" style="vertical-align:middle; margin-right:6px;"> Uber</a></div>
@@ -549,6 +557,30 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer - C++ Core Data - HYBRID — FULL-TIMEFOSTER CITY, CA</div></td>
+  <td>2/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Program Manager, Travel - HYBRID — FULL-TIMEFOSTER CITY, CA</div></td>
+  <td>2/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Strategic Sourcing Manager, Marketing - ON-SITE — FULL-TIMEFOSTER CITY, CA</div></td>
+  <td>2/12</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/serverobotics?embed=js"><img src="https://cdn.brandfetch.io/serverobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Serve Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Serve Robotics</a></div>
 </td>
 
@@ -585,6 +617,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer Intern, Robotics Visualization</div></td>
+  <td>2/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.intrinsic.ai/careers"><img src="https://cdn.brandfetch.io/intrinsicdev.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Intrinsic" height="20" style="vertical-align:middle; margin-right:6px;"> Intrinsic</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robotics Software Engineer, Robot Learning and Manipulation</div></td>
   <td>2/12</td>
 </tr>
   <tr>
