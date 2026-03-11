@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 6485 roles across 204 companies*
+*Found 6489 roles across 204 companies*
 
 
 <table>
@@ -93,10 +93,26 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.github.careers/careers-home/jobs?view=search&limit=100&page=1"><img src="https://cdn.brandfetch.io/github.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Github" height="20" style="vertical-align:middle; margin-right:6px;"> Github</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Software Engineering Manager</div></td>
+  <td>3/11</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/replit"><img src="https://cdn.brandfetch.io/replit.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Replit" height="20" style="vertical-align:middle; margin-right:6px;"> Replit</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Partnerships Lead, Startups - GTM • Foster City, CA (Hybrid) In office M,W,F • Full time • Hybrid</div></td>
+  <td>3/11</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://apply.workable.com/huggingface/?not_found=true#jobs"><img src="https://cdn.brandfetch.io/huggingface.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Hugging Face" height="20" style="vertical-align:middle; margin-right:6px;"> Hugging Face</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Cloud ML DevRel Engineer - US remote</div></td>
   <td>3/11</td>
 </tr>
   <tr>
@@ -137,6 +153,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Millennium Space Systems Summer 2026 Internship Program – Supplier Management Intern</div></td>
+  <td>3/11</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.boeing.com/category/internship-jobs/185/9287/1"><img src="https://cdn.brandfetch.io/boeingdistribution.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boeing" height="20" style="vertical-align:middle; margin-right:6px;"> Boeing</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Student in Future Flight Operations Research (Mandatory Internship/Bachelor/Master Thesis) m/f/d</div></td>
   <td>3/11</td>
 </tr>
   <tr>
@@ -241,6 +265,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Materials Coordinator</div></td>
+  <td>3/11</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boards.greenhouse.io/embed/job_board?for=lyft"><img src="https://cdn.brandfetch.io/lyft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lyft" height="20" style="vertical-align:middle; margin-right:6px;"> Lyft</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Materials Coordinator (Night Shift)</div></td>
   <td>3/11</td>
 </tr>
   <tr>
