@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 6447 roles across 204 companies*
+*Found 6457 roles across 204 companies*
 
 
 <table>
@@ -65,6 +65,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Legal Counsel</div></td>
+  <td>3/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.amazon.jobs/content/en/teams/ftr/amazon-robotics?country%5B%5D=US&employment-type%5B%5D=Intern"><img src="https://cdn.brandfetch.io/amazonrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Amazon Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Amazon Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more)</div></td>
   <td>3/10</td>
 </tr>
   <tr>
@@ -217,6 +225,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">People Services Advisor</div></td>
+  <td>3/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.twitch.com/en/careers/"><img src="https://cdn.brandfetch.io/twitch.tv/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Twitch" height="20" style="vertical-align:middle; margin-right:6px;"> Twitch</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">International Comms Lead - London, UK</div></td>
   <td>3/10</td>
 </tr>
   <tr>
@@ -557,6 +573,14 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Manager, Fleet Testing & Repair - ON-SITE — FULL-TIMEFOSTER CITY, CA</div></td>
+  <td>3/10</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boards.greenhouse.io/embed/job_board?for=nuro"><img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nuro" height="20" style="vertical-align:middle; margin-right:6px;"> Nuro</a></div>
 </td>
 
@@ -609,6 +633,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Embedded Security Microelectronics Process Intern – Albuquerque, NM</div></td>
+  <td>3/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.mitre.org/us/en/search-results?keywords=student"><img src="https://cdn.brandfetch.io/mitre.org/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mitre" height="20" style="vertical-align:middle; margin-right:6px;"> Mitre</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Systems Engineering Intern--Omaha, NE</div></td>
   <td>3/10</td>
 </tr>
   <tr>
@@ -701,6 +733,14 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=carbonrobotics"><img src="https://cdn.brandfetch.io/carbonrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Carbon Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Carbon Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Manager, Software Engineering - Front end/Mobile</div></td>
+  <td>3/10</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boards.greenhouse.io/embed/job_board?for=lyft"><img src="https://cdn.brandfetch.io/lyft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lyft" height="20" style="vertical-align:middle; margin-right:6px;"> Lyft</a></div>
 </td>
 
@@ -729,6 +769,46 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Product Analyst, Rider Experience</div></td>
+  <td>3/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boards.greenhouse.io/embed/job_board?for=lyft"><img src="https://cdn.brandfetch.io/lyft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lyft" height="20" style="vertical-align:middle; margin-right:6px;"> Lyft</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Global Real Estate Manager</div></td>
+  <td>3/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boards.greenhouse.io/embed/job_board?for=lyft"><img src="https://cdn.brandfetch.io/lyft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lyft" height="20" style="vertical-align:middle; margin-right:6px;"> Lyft</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Global Real Estate Manager</div></td>
+  <td>3/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boards.greenhouse.io/embed/job_board?for=lyft"><img src="https://cdn.brandfetch.io/lyft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lyft" height="20" style="vertical-align:middle; margin-right:6px;"> Lyft</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Global Real Estate Manager</div></td>
+  <td>3/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boards.greenhouse.io/embed/job_board?for=lyft"><img src="https://cdn.brandfetch.io/lyft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lyft" height="20" style="vertical-align:middle; margin-right:6px;"> Lyft</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Global Real Estate Manager</div></td>
+  <td>3/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/swarmaero/"><img src="https://cdn.brandfetch.io/swarmaero.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Swarm Aero" height="20" style="vertical-align:middle; margin-right:6px;"> Swarm Aero</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sr. Systems Administrator</div></td>
   <td>3/10</td>
 </tr>
   <tr>
