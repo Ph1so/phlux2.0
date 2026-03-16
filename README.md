@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 6751 roles across 204 companies*
+*Found 6756 roles across 204 companies*
 
 
 <table>
@@ -133,6 +133,14 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.sw.siemens.com/locations/usa/jobs/?q=intern"><img src="https://cdn.brandfetch.io/siemens.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Siemens" height="20" style="vertical-align:middle; margin-right:6px;"> Siemens</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Strategic Student Program: Software Development Intern (Summer 2026; EDA) - Livonia, MI - Req ID: 496271</div></td>
+  <td>3/16</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.smartrecruiters.com/Visa/university-recruiting"><img src="https://cdn.brandfetch.io/visa.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Visa" height="20" style="vertical-align:middle; margin-right:6px;"> Visa</a></div>
 </td>
 
@@ -157,6 +165,14 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.leidos.com/pages/intern-jobs?ns_landing_page_jobs=/search/job-level/intern/jobs/in/country/united-states?ns_landing_page=1"><img src="https://cdn.brandfetch.io/leidos.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Leidos" height="20" style="vertical-align:middle; margin-right:6px;"> Leidos</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">AI/ML Observability Intern</div></td>
+  <td>3/16</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://razer.wd3.myworkdayjobs.com/Careers?jobFamilyGroup=5f89d961603401a62553f98eab0c3255"><img src="https://cdn.brandfetch.io/razer.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Razer" height="20" style="vertical-align:middle; margin-right:6px;"> Razer</a></div>
 </td>
 
@@ -177,6 +193,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Property Control Intern</div></td>
+  <td>3/16</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.t-mobile.com/internship"><img src="https://cdn.brandfetch.io/t-mobile.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="T-Mobile" height="20" style="vertical-align:middle; margin-right:6px;"> T-Mobile</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Summer 2026 Site Reliability Engineer Internship</div></td>
   <td>3/16</td>
 </tr>
   <tr>
@@ -241,6 +265,22 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Verification & Test Engineer to Sensors and System Software Team - 6 month contract</div></td>
+  <td>3/16</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/lilasciences/"><img src="https://cdn.brandfetch.io/lila.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lila Sciences" height="20" style="vertical-align:middle; margin-right:6px;"> Lila Sciences</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Intern, Mechanical Engineering</div></td>
+  <td>3/16</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/lilasciences/"><img src="https://cdn.brandfetch.io/lila.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lila Sciences" height="20" style="vertical-align:middle; margin-right:6px;"> Lila Sciences</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Contractor, Administrative Coordinator</div></td>
   <td>3/16</td>
 </tr>
   <tr>
