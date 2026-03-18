@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 6880 roles across 204 companies*
+*Found 6891 roles across 204 companies*
 
 
 <table>
@@ -29,10 +29,26 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.uber.com/us/en/careers/list/?department=University&location=USA-California-San%20Francisco&location=USA-California-Culver%20City&location=USA-California-Sunnyvale&location=USA-New%20York-New%20York&location=USA-Illinois-Chicago&location=USA-Washington-Seattle&location=USA-Florida-Miami&location=USA-Texas-Dallas&location=USA-Arizona-Phoenix&location=USA-District%20of%20Columbia-Washington&location=USA-Massachusetts-Boston"><img src="https://cdn.brandfetch.io/uber.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Uber" height="20" style="vertical-align:middle; margin-right:6px;"> Uber</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">2026 PhD Scientist Intern (Earner Programs Logistics), US</div></td>
+  <td>3/17</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Infrastructure & Technology - Forward Deployed Engineer Co-Op Fall 2026 SVL - Internship - San Jose, US</div></td>
+  <td>3/17</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.salesforce.com/en/jobs/?search=&country=United+States+of+America&jobtype=Intern&pagesize=20#results"><img src="https://cdn.brandfetch.io/salesforce.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Salesforce" height="20" style="vertical-align:middle; margin-right:6px;"> Salesforce</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Summer 2026 Intern - Sales Development, Public Sector</div></td>
   <td>3/17</td>
 </tr>
   <tr>
@@ -73,6 +89,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer – C++</div></td>
+  <td>3/17</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://optiver.com/working-at-optiver/career-opportunities/page/2/?search=internship&_gl=1*rb345g*_gcl_au*Mjk2MDM5OTE1LjE3NDg5MTM5ODQ.&numberposts=10&level=internship&paged=1"><img src="https://cdn.brandfetch.io/optiver.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Optiver" height="20" style="vertical-align:middle; margin-right:6px;"> Optiver</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Paralegal</div></td>
   <td>3/17</td>
 </tr>
   <tr>
@@ -165,6 +189,22 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.3ds.com/careers/jobs?woc=%257B%2522type%2522%253A%255B%2522type%252FInternship%2522%255D%252C%2522country%2522%253A%255B%2522country%252FUnited%2520States%2522%255D%257D"><img src="https://cdn.brandfetch.io/3ds.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Dassault Systems" height="20" style="vertical-align:middle; margin-right:6px;"> Dassault Systems</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">INTERNSHIP: Sales Operations</div></td>
+  <td>3/17</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.3ds.com/careers/jobs?woc=%257B%2522type%2522%253A%255B%2522type%252FInternship%2522%255D%252C%2522country%2522%253A%255B%2522country%252FUnited%2520States%2522%255D%257D"><img src="https://cdn.brandfetch.io/3ds.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Dassault Systems" height="20" style="vertical-align:middle; margin-right:6px;"> Dassault Systems</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">INTERNSHIP: Sales Operations</div></td>
+  <td>3/17</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/palantir?commitment=Internship"><img src="https://cdn.brandfetch.io/palantir.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Palantir" height="20" style="vertical-align:middle; margin-right:6px;"> Palantir</a></div>
 </td>
 
@@ -193,6 +233,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Summer 2026 - AI Research Intern for Business Intelligence(7274)</div></td>
+  <td>3/17</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.tsmc.com/en_US/careers/SearchJobs/?542=13100&542_format=486&listFilterMode=1&jobRecordsPerPage=100&"><img src="https://cdn.brandfetch.io/tsmc.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="TSMC" height="20" style="vertical-align:middle; margin-right:6px;"> TSMC</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Summer 2026 - Business Operations & Pricing Intern (San Jose, CA)(7439)</div></td>
   <td>3/17</td>
 </tr>
   <tr>
@@ -345,6 +393,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Production Intern 107058</div></td>
+  <td>3/17</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://join.qq.com/post.html?query=p_2,w_407,w_408,w_401&c_t=2"><img src="https://cdn.brandfetch.io/tencent.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tencent" height="20" style="vertical-align:middle; margin-right:6px;"> Tencent</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Intern – Video World Models (Research & ML Systems) 106904</div></td>
   <td>3/17</td>
 </tr>
   <tr>
@@ -525,6 +581,14 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ambirobotics.com/careers#positions">Ambi Robotics</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robotics Software QA Engineer</div></td>
+  <td>3/17</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
 </td>
 
@@ -537,6 +601,22 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Software Manufacturing Engineer</div></td>
+  <td>3/17</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://recruiting.paylocity.com/recruiting/jobs/All/3a4d8744-ab51-41d9-a0cf-43de316c7dca/Beep-Inc"><img src="https://cdn.brandfetch.io/go-beep.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Beep" height="20" style="vertical-align:middle; margin-right:6px;"> Beep</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Site Manager-Autonomous Mobility Operations</div></td>
+  <td>3/17</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://recruiting.paylocity.com/recruiting/jobs/All/3a4d8744-ab51-41d9-a0cf-43de316c7dca/Beep-Inc"><img src="https://cdn.brandfetch.io/go-beep.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Beep" height="20" style="vertical-align:middle; margin-right:6px;"> Beep</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Safety Driver-Autonomous Vehicle</div></td>
   <td>3/17</td>
 </tr>
   <tr>
@@ -729,6 +809,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Electrical Engineer (Digital Baseband)</div></td>
+  <td>3/17</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.impulsespace.com/careers"><img src="https://cdn.brandfetch.io/impulsespace.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Impulse Space" height="20" style="vertical-align:middle; margin-right:6px;"> Impulse Space</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Lead Vehicle Engineer, Components</div></td>
   <td>3/17</td>
 </tr>
   <tr>
