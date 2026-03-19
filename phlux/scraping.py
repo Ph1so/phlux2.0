@@ -156,10 +156,14 @@ def get_jobs_headless(name: str, urls: str, instructions: str, headless=True, te
     else:
         print(f"\u2705 Jobs found - {name}")
 
+
+    # final list of jobs
     for i in range(len(jobs)):
         title = jobs[i].strip()  # remove trailing spaces/newlines
         if title.endswith("New"):
             title = title[:-3].strip()
+        if any(word in jobs[i] for word in ["intern", "ship"]) or any(c in jobs[i] for c in ["co-op", "coop", "co op"]):    
+            jobs[i] = "⭐️ " + jobs[i]
         jobs[i] = title
 
     return jobs
