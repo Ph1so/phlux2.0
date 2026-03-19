@@ -39,43 +39,38 @@ def format_message_html(message: dict) -> str:
         '<h1 style="font-family: monospace;">Internships from Phi</h1>',
     ]
 
-    # Add a friendly duck image
-    # try:
-    #     response = requests.get("https://random-d.uk/api/random")
-    #     if response.status_code == 200:
-    #         duck_url = response.json().get("url")
-    #         lines.append(f'<img src="{duck_url}" alt="Random Duck" width="250"><br>')
-    #         lines.append('<p style="font-size: small; font-style: italic;">A duck a day keeps the internship blues away 🦆</p>')
-    # except Exception as exc:
-    #     lines.append(f"<p><em>Could not fetch duck: {exc}</em></p>")
-
     lines.append('<hr style="margin-top: 30px; margin-bottom: 20px;">')
 
-    # Company listings
-    for company, jobs in message.get("companies", {}).items():
-        icon_url = icons.get(company, {})
-        if not isinstance(icon_url, str):
-            icon_url = icon_url.get("email", "")
-        icon_html = (
-            f'<img src="{icon_url}" alt="{company} logo" height="24" style="vertical-align:middle; margin-right:6px;">'
-            if icon_url else ""
-        )
-
-        lines.append(f'<div style="margin-bottom: 30px;">')
-        lines.append(f'<h2 style="margin-bottom: 5px; font-family: monospace;">{icon_html} {company}</h2>')
-        lines.append("<ul style='margin-top: 5px;'>")
-        for job in jobs["jobs"]:
+    for company, jobs_data in message.get("companies", {}).items():
+        filtered_jobs = []
+        for job in jobs_data["jobs"]:
             cleaned = job["title"].strip().replace("\n", " ")
             lower_title = cleaned.lower()
-            # robust detection for internship / co-op variants
+            
             if "intern" in lower_title or any(c in lower_title for c in ["co-op", "coop", "co op"]):
-                cleaned = f"⭐ {cleaned}"
+                filtered_jobs.append(cleaned) # Add cleaned title without the star
 
-            lines.append(f"<li style='margin-bottom: 4px; font-family: monospace;'>{cleaned}</li>")
-        lines.append("</ul>")
-        lines.append(f'<p><strong>🔗 <a style="font-family: monospace;" href="{jobs["link"]}" target="_blank">Apply Here</a></strong></p>')
-        lines.append('</div>')
-        lines.append('<hr style="margin-top: 20px; margin-bottom: 20px;">')
+        if filtered_jobs:
+            icon_url = icons.get(company, {})
+            if not isinstance(icon_url, str):
+                icon_url = icon_url.get("email", "")
+            
+            icon_html = (
+                f'<img src="{icon_url}" alt="{company} logo" height="24" style="vertical-align:middle; margin-right:6px;">'
+                if icon_url else ""
+            )
+
+            lines.append('<div style="margin-bottom: 30px;">')
+            lines.append(f'<h2 style="margin-bottom: 5px; font-family: monospace;">{icon_html} {company}</h2>')
+            lines.append("<ul style='margin-top: 5px;'>")
+            
+            for job_title in filtered_jobs:
+                lines.append(f"<li style='margin-bottom: 4px; font-family: monospace;'>{job_title}</li>")
+            
+            lines.append("</ul>")
+            lines.append(f'<p><strong>🔗 <a style="font-family: monospace;" href="{jobs_data["link"]}" target="_blank">Apply Here</a></strong></p>')
+            lines.append('</div>')
+            lines.append('<hr style="margin-top: 20px; margin-bottom: 20px;">')
 
     # Footer
     lines.append('<p style="font-family: monospace;">💻 View all companies at <a href="https://github.com/Ph1so/phlux2.0" target="_blank">github.com/Ph1so/phlux2.0</a></p>')
