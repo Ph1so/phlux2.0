@@ -95,6 +95,15 @@ def send_email(message: dict, test: bool = False) -> None:
         smtp.login("phiwe3296@gmail.com", GMAIL_APP_PASSWORD)
         smtp.send_message(msg)
 
+def has_internships(message: dict) -> bool:
+    """Check if any job title in the message matches internship keywords."""
+    for company_data in message.get("companies", {}).values():
+        for job in company_data.get("jobs", []):
+            lower_title = job["title"].lower()
+            if any(word in lower_title for word in ["intern", "ship"]) or \
+               any(c in lower_title for c in ["co-op", "coop", "co op"]):
+                return True
+    return False
 
 def update_internship_tracker(jobs: List[str]) -> None:
     """
@@ -133,23 +142,14 @@ def main() -> None:
     data = result["data"]
     new_jobs = result["new_jobs"]
 
-    # Special case: run autoApply only after all scraping
-    # susquehanna_jobs = new_jobs.get("companies", {}).get("Susquehanna", {}).get("jobs", [])
-    # susquehanna_jobs_titles = []
-    # for job in susquehanna_jobs:
-    #     if "Summer 2026" in job["title"]:
-    #         susquehanna_jobs_titles.append(job["title"])
-    
-    # print(json.dumps(new_jobs, indent=2))
-    # if susquehanna_jobs_titles:
-    #     print(f"Auto applying to : {susquehanna_jobs_titles}")
-    #     autoApply(susquehanna_jobs_titles, new_jobs["companies"].get("Susquehanna").get("link"))
-    #     update_internship_tracker(susquehanna_jobs_titles)
-
     Path("storage.json").write_text(json.dumps(data, indent=2), encoding="utf-8")
-    if new_jobs.get("companies"):
+    
+    # Check if there are companies AND if at least one internship exists
+    if new_jobs.get("companies") and has_internships(new_jobs):
         update_icons(companies=companies)
-        send_email(new_jobs, test = False)
+        send_email(new_jobs, test=False)
+    else:
+        print("Scrape complete: No new internship/co-op positions found.")
 
 if __name__ == "__main__":
     main()

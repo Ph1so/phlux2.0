@@ -162,8 +162,8 @@ def get_jobs_headless(name: str, urls: str, instructions: str, headless=True, te
         title = jobs[i].strip()  # remove trailing spaces/newlines
         if title.endswith("New"):
             title = title[:-3].strip()
-        if any(word in jobs[i] for word in ["intern", "ship"]) or any(c in jobs[i] for c in ["co-op", "coop", "co op"]):    
-            jobs[i] = "⭐️ " + jobs[i]
+        if any(word in title for word in ["intern", "ship"]) or any(c in title for c in ["co-op", "coop", "co op"]):    
+            title = "⭐️ " + title
         jobs[i] = title
 
     return jobs
