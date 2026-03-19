@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 6985 roles across 204 companies*
+*Found 6990 roles across 204 companies*
 
 
 <table>
@@ -53,6 +53,14 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.intuit.com/search-jobs/interns/"><img src="https://cdn.brandfetch.io/intuit.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Intuit" height="20" style="vertical-align:middle; margin-right:6px;"> Intuit</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Full Stack Software Developer I</div></td>
+  <td>3/19</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.rivian.com/careers-home/jobs?sortBy=relevance&page=1&categories=Internships"><img src="https://cdn.brandfetch.io/rivian.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Rivian" height="20" style="vertical-align:middle; margin-right:6px;"> Rivian</a></div>
 </td>
 
@@ -73,6 +81,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">GPU Performance Engineer \| Experienced Hire</div></td>
+  <td>3/19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Machine Learning Engineer \| Experienced Hire</div></td>
   <td>3/19</td>
 </tr>
   <tr>
@@ -101,10 +117,26 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.amentumcareers.com/jobs/search?page=1&country_codes%5B%5D=US&query=%22Intern%22"><img src="https://cdn.brandfetch.io/amentum.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Amentum" height="20" style="vertical-align:middle; margin-right:6px;"> Amentum</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Summer 2026 - Systems Engineering Intern</div></td>
+  <td>3/19</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.boeing.com/category/internship-jobs/185/9287/1"><img src="https://cdn.brandfetch.io/boeingdistribution.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boeing" height="20" style="vertical-align:middle; margin-right:6px;"> Boeing</a></div>
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Intern (Government Relations / Business Operations)</div></td>
+  <td>3/19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/jobs?workerSubType=1f9406d5717e109875eae116f2c007e5"><img src="https://cdn.brandfetch.io/bose.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bose" height="20" style="vertical-align:middle; margin-right:6px;"> Bose</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Noise Control Research Intern</div></td>
   <td>3/19</td>
 </tr>
   <tr>
@@ -233,6 +265,14 @@ Easily track jobs across top tech companies.
 </td>
 
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Hydrogen Technology Co-op</div></td>
+  <td>3/19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/aeva?"><img src="https://cdn.brandfetch.io/aeva.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Aeva" height="20" style="vertical-align:middle; margin-right:6px;"> Aeva</a></div>
+</td>
+
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Perception Data Engineer - ON-SITE — MOUNTAIN VIEW, CA</div></td>
   <td>3/19</td>
 </tr>
   <tr>
