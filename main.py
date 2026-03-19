@@ -47,7 +47,8 @@ def format_message_html(message: dict) -> str:
             cleaned = job["title"].strip().replace("\n", " ")
             lower_title = cleaned.lower()
             
-            if "intern" in lower_title or any(c in lower_title for c in ["co-op", "coop", "co op"]):
+            # The correct way to check multiple substrings
+            if any(word in lower_title for word in ["intern", "ship"]) or any(c in lower_title for c in ["co-op", "coop", "co op"]):
                 filtered_jobs.append(cleaned) # Add cleaned title without the star
 
         if filtered_jobs:
