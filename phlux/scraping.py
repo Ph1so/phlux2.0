@@ -108,8 +108,8 @@ def get_jobs_headless(name: str, urls: str, instructions: str, headless=True, te
                             for el in elements:
                                 text = el.text.strip()
                                 if text:
-                                    if any(word in text.lower() for word in ["intern", "ship"]) or any(c in text.lower() for c in ["co-op", "coop", "co op"]):    
-                                        text = "⭐️ " + text
+                                    # if any(word in text.lower() for word in ["intern", "ship"]) or any(c in text.lower() for c in ["co-op", "coop", "co op"]):    
+                                    #     text = "⭐️ " + text
                                     jobs.append(text)
 
                     elif action_type == CLICK:
