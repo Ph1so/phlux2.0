@@ -108,6 +108,8 @@ def get_jobs_headless(name: str, urls: str, instructions: str, headless=True, te
                             for el in elements:
                                 text = el.text.strip()
                                 if text:
+                                    if any(word in text.lower() for word in ["intern", "ship"]) or any(c in text.lower() for c in ["co-op", "coop", "co op"]):    
+                                        text = "⭐️ " + text
                                     jobs.append(text)
 
                     elif action_type == CLICK:
@@ -162,7 +164,7 @@ def get_jobs_headless(name: str, urls: str, instructions: str, headless=True, te
         title = jobs[i].strip()  # remove trailing spaces/newlines
         if title.endswith("New"):
             title = title[:-3].strip()
-        if any(word in title for word in ["intern", "ship"]) or any(c in title for c in ["co-op", "coop", "co op"]):    
+        if any(word in title.lower() for word in ["intern", "ship"]) or any(c in title.lower() for c in ["co-op", "coop", "co op"]):    
             title = "⭐️ " + title
         jobs[i] = title
 
