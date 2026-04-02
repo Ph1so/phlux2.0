@@ -204,4 +204,4 @@ Morsecorp,https://job-boards.greenhouse.io/embed/job_board?for=morsecorp,p.body.
 Impulse Space,https://www.impulsespace.com/careers,CSS:a div.flex-1.body-heading-text
 Wayve,https://wayve.firststage.co/jobs?layout=grid&location=Sunnyvale%2C+California+USA,CSS:.text-balance.font-medium.underline
 Shield AI,https://jobs.lever.co/shieldai/?commitment=Intern,CSS:.posting-title
-DeepMind,https://job-boards.greenhouse.io/deepmind?page=1,CSS:p.body.body--medium
+DeepMind,https://job-boards.greenhouse.io/deepmind?page=1->https://job-boards.greenhouse.io/deepmind?page=2,CSS:p.body.body--medium
