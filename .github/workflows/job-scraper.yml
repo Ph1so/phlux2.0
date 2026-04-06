@@ -5,54 +5,50 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 10-23,0 * * *'  # Run every 30 minutes
+    - cron: '0 10-23,0 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
+env:
+  GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+  GH_TOKEN: ${{ secrets.GH_TOKEN }}
+  GOOGLE_KEY_JSON: ${{ secrets.GOOGLE_KEY_JSON }}
+  ICONS_ID: ${{ secrets.ICONS_ID }}
+  ICONS_API: ${{ secrets.ICONS_API }}
+
 jobs:
   run:
     runs-on: ubuntu-latest
-    env:
-      GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-      GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      GOOGLE_KEY_JSON: ${{ secrets.GOOGLE_KEY_JSON }}
-      ICONS_ID: ${{ secrets.ICONS_ID }}
-      ICONS_API: ${{ secrets.ICONS_API }}
-
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
         with:
           persist-credentials: true
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - uses: actions/setup-python@v4
         with:
           python-version: '3.12'
 
-      - name: Cache pip download cache
-        uses: actions/cache@v3
+      - uses: actions/cache@v3
         with:
           path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-cache-${{ hashFiles('**/requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-cache-
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: ${{ runner.os }}-pip-
 
-      - name: Set up virtual environment
+      - name: Install dependencies
         run: |
           python -m venv .venv
           .venv/bin/pip install --upgrade pip
           .venv/bin/pip install -r requirements.txt
 
-      - name: Run job scraper
+      - name: Scrape jobs
         run: .venv/bin/python main.py
 
       - name: Generate README
         run: .venv/bin/python generate_readme.py
 
-      - name: Commit and push updated storage.json, readme and icons.json
+      - name: Commit results
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
@@ -67,50 +63,39 @@ jobs:
 
   retry:
     needs: run
-    if: ${{ failure() }}
+    if: failure()
     runs-on: ubuntu-latest
-    env:
-      GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-      GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      GOOGLE_KEY_JSON: ${{ secrets.GOOGLE_KEY_JSON }}
-      ICONS_ID: ${{ secrets.ICONS_ID }}
-      ICONS_API: ${{ secrets.ICONS_API }}
-
     steps:
-      - name: Wait for 5 minutes before retrying
+      - name: Wait before retry
         run: sleep 300
 
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
         with:
           persist-credentials: true
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - uses: actions/setup-python@v4
         with:
           python-version: '3.12'
 
-      - name: Cache pip download cache
-        uses: actions/cache@v3
+      - uses: actions/cache@v3
         with:
           path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-cache-${{ hashFiles('**/requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-cache-
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: ${{ runner.os }}-pip-
 
-      - name: Set up virtual environment
+      - name: Install dependencies
         run: |
           python -m venv .venv
           .venv/bin/pip install --upgrade pip
           .venv/bin/pip install -r requirements.txt
 
-      - name: Run job scraper (Retry)
+      - name: Scrape jobs (retry)
         run: .venv/bin/python main.py
 
       - name: Generate README
         run: .venv/bin/python generate_readme.py
 
-      - name: Commit and push updated storage.json, readme and icons.json
+      - name: Commit results
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"

@@ -1,48 +1,68 @@
+"""Generate README.md from storage.json with a sorted HTML job table."""
+from __future__ import annotations
+
 import json
 from datetime import datetime
 from pathlib import Path
-from typing import List
-from collections import defaultdict
-from phlux.scrapers import CompanyScraper, JPMorganScraper
 
 from phlux.scraping import load_company_data
-from utils import update_icons
+from phlux.utils import update_icons
 
-def load_company_links(csv_path: str) -> dict:
+
+def load_company_links(csv_path: str = "companies.csv") -> dict:
+    """Return a mapping of company name → careers URL from the CSV.
+
+    Args:
+        csv_path: Path to ``companies.csv``.
+
+    Returns:
+        Dict mapping company name to its link string.
+    """
     return {c.name: c.link for c in load_company_data(Path(csv_path))}
 
 
-def load_jobs(json_path: str) -> dict:
-    with open(json_path, encoding='utf-8') as f:
-        data = json.load(f)
-        return data.get("companies", {})
-    
+def load_jobs(json_path: str = "storage.json") -> dict:
+    """Load the ``companies`` section from the storage JSON file.
+
+    Args:
+        json_path: Path to ``storage.json``.
+
+    Returns:
+        Dict mapping company name → list of job-posting dicts.
+    """
+    with open(json_path, encoding="utf-8") as f:
+        return json.load(f).get("companies", {})
+
 
 def generate_readme(jobs: dict, links: dict) -> str:
+    """Build the full README Markdown string from job data.
+
+    Fetches/refreshes company icons, then renders an HTML table of all
+    postings sorted by date (most recent first).
+
+    Args:
+        jobs: Dict mapping company name → list of job dicts (with ``title``
+              and ``date`` keys) as stored in ``storage.json``.
+        links: Dict mapping company name → careers page URL.
+
+    Returns:
+        Complete README Markdown string.
+    """
     update_icons(companies=load_company_data())
+
     try:
         with open("icons.json", "r", encoding="utf-8") as f:
             icons = json.load(f)
     except (FileNotFoundError, json.JSONDecodeError):
         icons = {}
 
-    lines = ["# 🌀 Phlux: Phi's Job Tracker\n"]
-    lines.append("Easily track jobs across top tech companies.\n")
-
-    # lines.append("## 🧩 Add Your Own Companies")
-    # lines.extend([
-    #     "- Run `add_company.py`",
-    #     "- Follow the CLI instructions (see below)",
-    #     "- Add selector and example job title to `companies.csv`",
-    #     "- Make a PR to contribute!",
-    #     "![CLI Example](public/cli.png)",
-    # ])
-
     total_jobs = sum(len(v) for v in jobs.values() if v)
-    lines.append(f"\n---\n\n## 🔍 2025 Phlux Job Listings\n*Found {total_jobs} roles across {len(jobs)} companies*\n")
-
-    # Begin HTML table
-    lines.append("""
+    lines = [
+        "# 🌀 Phlux: Phi's Job Tracker\n",
+        "Easily track jobs across top tech companies.\n",
+        f"\n---\n\n## 🔍 2025 Phlux Job Listings\n"
+        f"*Found {total_jobs} roles across {len(jobs)} companies*\n",
+        """
 <table>
   <thead>
     <tr>
@@ -52,20 +72,24 @@ def generate_readme(jobs: dict, links: dict) -> str:
     </tr>
   </thead>
   <tbody>
-""")
+""",
+    ]
 
-    # Collect and sort jobs
     all_jobs = []
-    for company in jobs:
-        postings = jobs[company]
+    for company, postings in jobs.items():
         if not postings:
             continue
 
-        icon_url = icons.get(company, {})
+        icon_url = icons.get(company, "")
         if not isinstance(icon_url, str):
             icon_url = icon_url.get("readme", "")
 
-        company_display = f'<img src="{icon_url}" alt="{company}" height="20" style="vertical-align:middle; margin-right:6px;"> {company}' if icon_url else company
+        company_display = (
+            f'<img src="{icon_url}" alt="{company}" height="20" '
+            f'style="vertical-align:middle; margin-right:6px;"> {company}'
+            if icon_url
+            else company
+        )
         company_link = links.get(company, "#")
         linked_company = f'<a href="{company_link}">{company_display}</a>'
 
@@ -84,19 +108,19 @@ def generate_readme(jobs: dict, links: dict) -> str:
 
             all_jobs.append((linked_company, title, date_str, sort_date))
 
-    # Sort descending by date
     all_jobs.sort(key=lambda x: x[3], reverse=True)
 
     for company, title, date_str, _ in all_jobs:
         role_cell = f'<div style="max-height:4.5em; overflow:auto; white-space:normal;">{title}</div>'
-        lines.append(f"""  <tr>
+        lines.append(
+            f"""  <tr>
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;">{company}</div>
 </td>
-
   <td>{role_cell}</td>
   <td>{date_str}</td>
-</tr>""")
+</tr>"""
+        )
 
     lines.append("""
   </tbody>
@@ -106,13 +130,10 @@ def generate_readme(jobs: dict, links: dict) -> str:
 
     return "\n".join(lines)
 
-if __name__ == "__main__":
-    # custom_scrapers: List[CompanyScraper] = [JPMorganScraper()]
-    # for scraper in custom_scrapers:
-    #     links[scraper.name] = scraper.base_link
-    links = load_company_links("companies.csv")
-    jobs = load_jobs("storage.json")
-    readme = generate_readme(jobs, links)
 
-    Path("README.md").write_text(readme, encoding='utf-8')
+if __name__ == "__main__":
+    links = load_company_links()
+    jobs = load_jobs()
+    readme = generate_readme(jobs, links)
+    Path("README.md").write_text(readme, encoding="utf-8")
     print("README.md updated successfully.")

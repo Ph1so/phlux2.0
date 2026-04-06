@@ -1,78 +1,117 @@
-import os
+"""Core scraping logic: action parser, headless scraper, job deduplication, and orchestration."""
+from __future__ import annotations
+
 import csv
 import json
+import os
 import time
-from pathlib import Path
-from typing import Dict, List
 from concurrent.futures import ProcessPoolExecutor, as_completed
 from datetime import datetime
+from pathlib import Path
+from typing import Dict, List
+
 import pytz
-
 import requests
-from selenium.common.exceptions import NoSuchElementException, WebDriverException, TimeoutException
+from selenium.common.exceptions import TimeoutException, WebDriverException, NoSuchElementException
 from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from tenacity import retry, wait_fixed, stop_after_attempt
+from selenium.webdriver.support.ui import WebDriverWait
+from tenacity import retry, stop_after_attempt, wait_fixed
 
-from .config import load_config
 from .models import Company, ScrapeResult
-from .utils import get_driver
-from .scrapers import CompanyScraper, JPMorganScraper
+from .utils import get_driver, is_internship
 
 
 CSS = "CSS"
 CLICK = "CLICK"
 FILTER = "FILTER"
 UNDETECTED = "UNDETECTED"
-ACTION_TYPES = [CSS, CLICK, FILTER, UNDETECTED]
+ACTION_TYPES = {CSS, CLICK, FILTER, UNDETECTED}
+
 
 class Actions:
-    def __init__(self, actions: List[str]):
+    """Parses and iterates over a ``->``-delimited action string.
+
+    Each action has the form ``TYPE:selector[:flag]``, e.g.
+    ``CSS:.job-title``, ``CLICK:#load-more:pointer``, or simply ``UNDETECTED``.
+    """
+
+    def __init__(self, actions: List[str]) -> None:
         self.actions = actions
 
     def __iter__(self):
         return iter(self.actions)
 
     def get_type(self, action: str) -> str:
-        return action[:action.index(":")].strip()
+        """Return the action type (the part before the first ``:``)."""
+        return action[: action.index(":")].strip()
 
     def get_selector(self, action: str) -> str:
-        raw = action[action.index(":") + 1:].strip()
+        """Return the CSS/XPath selector, stripping any trailing ``:pointer`` flag."""
+        raw = action[action.index(":") + 1 :].strip()
         return raw.replace(":pointer", "").strip()
 
     def has_flag(self, action: str, flag: str) -> bool:
+        """Return True if *flag* is appended to *action*."""
         return f":{flag}" in action
 
-@retry(wait=wait_fixed(5), stop=stop_after_attempt(5))
-def get_jobs_headless(name: str, urls: str, instructions: str, headless=True, test=False) -> List[str]:
-    """Scrape job titles from `url` using a sequence of actions like CLICK, CSS, FILTER, UNDETECTED."""
-    
-    config = load_config()  # if you actually need config values later
-    # Example: headless = config.get("headless", True)
 
+@retry(wait=wait_fixed(5), stop=stop_after_attempt(5))
+def get_jobs_headless(
+    name: str,
+    urls: str,
+    instructions: str,
+    headless: bool = True,
+    test: bool = False,
+) -> List[str]:
+    """Scrape job titles from one or more URLs using a sequence of actions.
+
+    Actions are specified as a ``->``-delimited string.  Supported types:
+
+    * ``CSS:<selector>`` – collect text from every matched element.
+      Use ``parent >> child`` to extract text from a child element within
+      each matched parent.
+    * ``CLICK:<selector>[:pointer]`` – click an element (use ``:pointer``
+      to dispatch low-level pointer events instead of ``click()``).
+    * ``FILTER:<keyword>`` – keep only jobs whose title contains *keyword*.
+    * ``UNDETECTED`` – use ``undetected_chromedriver`` for this session.
+
+    Multiple URLs are also separated by ``->``.
+
+    After scraping, job titles that look like internship or co-op postings
+    are prefixed with ``⭐️``.
+
+    Args:
+        name: Company name (used for logging).
+        urls: One or more career-page URLs separated by ``->``.
+        instructions: Action string describing how to extract jobs.
+        headless: Whether to run Chrome in headless mode.
+        test: If True, sleep 60 s before quitting (useful for debugging).
+
+    Returns:
+        List of job title strings.
+    """
     if instructions.startswith('"') and instructions.endswith('"'):
         instructions = instructions[1:-1]
 
     actions = Actions(instructions.split("->"))
     use_undetected = any(a.strip() == UNDETECTED for a in actions)
-
     driver = get_driver(headless=headless, use_undetected=use_undetected)
-    jobs = []
+    jobs: List[str] = []
 
     try:
         for url in urls.split("->"):
             try:
-                driver.get(url)
+                driver.get(url.strip())
                 time.sleep(3)
 
                 for action in actions:
                     action = action.strip()
                     if action == UNDETECTED:
-                        continue  # Already handled by flag
+                        continue
 
                     if ":" not in action:
-                        print(f"\u26a0\ufe0f Invalid action format: {action}")
+                        print(f"⚠️ Invalid action format: {action}")
                         continue
 
                     action_type = actions.get_type(action)
@@ -80,22 +119,18 @@ def get_jobs_headless(name: str, urls: str, instructions: str, headless=True, te
                     use_pointer = actions.has_flag(action, "pointer")
 
                     if action_type not in ACTION_TYPES:
-                        print(f"\u26a0\ufe0f Unknown action type '{action_type}' for {name}")
+                        print(f"⚠️ Unknown action type '{action_type}' for {name}")
                         continue
 
-                    elif action_type == CSS:
+                    if action_type == CSS:
                         if ">>" in selector:
-                            parent_selector, child_selector = map(str.strip, selector.split(">>", 1))
-
+                            parent_sel, child_sel = map(str.strip, selector.split(">>", 1))
                             WebDriverWait(driver, 15).until(
-                                EC.presence_of_all_elements_located((By.CSS_SELECTOR, parent_selector))
+                                EC.presence_of_all_elements_located((By.CSS_SELECTOR, parent_sel))
                             )
-                            parents = driver.find_elements(By.CSS_SELECTOR, parent_selector)
-
-                            for el in parents:
+                            for parent in driver.find_elements(By.CSS_SELECTOR, parent_sel):
                                 try:
-                                    child = el.find_element(By.CSS_SELECTOR, child_selector)
-                                    text = child.text.strip()
+                                    text = parent.find_element(By.CSS_SELECTOR, child_sel).text.strip()
                                     if text:
                                         jobs.append(text)
                                 except Exception:
@@ -104,39 +139,37 @@ def get_jobs_headless(name: str, urls: str, instructions: str, headless=True, te
                             WebDriverWait(driver, 15).until(
                                 EC.presence_of_all_elements_located((By.CSS_SELECTOR, selector))
                             )
-                            elements = driver.find_elements(By.CSS_SELECTOR, selector)
-                            for el in elements:
+                            for el in driver.find_elements(By.CSS_SELECTOR, selector):
                                 text = el.text.strip()
                                 if text:
-                                    # if any(word in text.lower() for word in ["intern", "ship"]) or any(c in text.lower() for c in ["co-op", "coop", "co op"]):    
-                                    #     text = "⭐️ " + text
                                     jobs.append(text)
 
                     elif action_type == CLICK:
                         try:
                             if selector.startswith("'") and selector.endswith("'"):
-                                xpath_text = selector[1:-1]
                                 element = WebDriverWait(driver, 15).until(
-                                    EC.presence_of_element_located((By.XPATH, xpath_text))
+                                    EC.presence_of_element_located((By.XPATH, selector[1:-1]))
                                 )
                             else:
                                 element = WebDriverWait(driver, 15).until(
                                     EC.presence_of_element_located((By.CSS_SELECTOR, selector))
                                 )
-
                             if use_pointer:
-                                driver.execute_script("""
+                                driver.execute_script(
+                                    """
                                     const el = arguments[0];
                                     el.dispatchEvent(new MouseEvent('pointerdown', { bubbles: true }));
                                     el.dispatchEvent(new MouseEvent('mousedown', { bubbles: true }));
                                     el.dispatchEvent(new MouseEvent('mouseup', { bubbles: true }));
                                     el.dispatchEvent(new MouseEvent('click', { bubbles: true }));
-                                """, element)
+                                    """,
+                                    element,
+                                )
                             else:
                                 driver.execute_script("arguments[0].click();", element)
                             time.sleep(2)
                         except Exception as exc:
-                            print(f"\u274c Failed clicking for {name} - {exc}")
+                            print(f"❌ Failed clicking for {name}: {exc}")
 
                     elif action_type == FILTER:
                         jobs = [j for j in jobs if selector.lower() in j.lower()]
@@ -154,85 +187,117 @@ def get_jobs_headless(name: str, urls: str, instructions: str, headless=True, te
             pass
 
     if not jobs:
-        print(f"\u274c No jobs found - {name}")
+        print(f"❌ No jobs found - {name}")
     else:
-        print(f"\u2705 Jobs found - {name}")
+        print(f"✅ Jobs found - {name}")
 
-
-    # final list of jobs
-    for i in range(len(jobs)):
-        title = jobs[i].strip()  # remove trailing spaces/newlines
+    # Normalize titles and star internship/co-op postings.
+    for i, title in enumerate(jobs):
+        title = title.strip()
         if title.endswith("New"):
             title = title[:-3].strip()
-        if any(word in title.lower() for word in ["intern", "ship"]) or any(c in title.lower() for c in ["co-op", "coop", "co op"]):    
+        if is_internship(title):
             title = "⭐️ " + title
         jobs[i] = title
 
     return jobs
 
+
 def load_company_data(csv_path: Path = Path("companies.csv")) -> List[Company]:
+    """Parse ``companies.csv`` and return a list of :class:`Company` objects.
+
+    Args:
+        csv_path: Path to the CSV file (default: ``companies.csv``).
+
+    Returns:
+        List of Company objects with ``name``, ``link``, and ``selector`` fields.
+    """
     companies = []
     with open(csv_path, newline="", encoding="utf-8") as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            companies.append(Company(row["Name"].strip(), row["Link"].strip().strip('"\''), row["ClassName"].strip()))
+        for row in csv.DictReader(f):
+            companies.append(
+                Company(
+                    row["Name"].strip(),
+                    row["Link"].strip().strip("'\""),
+                    row["ClassName"].strip(),
+                )
+            )
     return companies
 
 
-def process_jobs(data, result: ScrapeResult, new_jobs: Dict) -> None:
+def process_jobs(data: dict, result: ScrapeResult, new_jobs: Dict) -> None:
+    """Merge scrape results into *data*, recording only titles not seen before.
+
+    New postings are also recorded in *new_jobs* so callers can send alerts.
+
+    Args:
+        data: Mutable dict representing ``storage.json`` contents.
+        result: Scrape results for a single company.
+        new_jobs: Accumulator dict for newly discovered jobs.
+    """
     existing = data.setdefault("companies", {}).get(result.name, [])
-    new_list = []
-
-    eastern_timezone = pytz.timezone('US/Eastern')
-    today = datetime.now(eastern_timezone).strftime("%-m/%-d")
-
-    # Make sure to only compare job titles for uniqueness
     existing_titles = {j["title"] if isinstance(j, dict) else j for j in existing}
 
+    eastern = pytz.timezone("US/Eastern")
+    today = datetime.now(eastern).strftime("%-m/%-d")
+
+    new_list = []
     for job in result.jobs:
         job = job.replace("\n", " - ")
         if job not in existing_titles:
-            new_entry = {
-                "title": job,
-                "date": today
-            }
-            new_list.append(new_entry)
+            new_list.append({"title": job, "date": today})
 
     data["companies"][result.name] = existing + new_list
 
     if new_list:
         new_jobs.setdefault("companies", {})[result.name] = {
             "jobs": new_list,
-            "link": result.link
+            "link": result.link,
         }
 
-def autoApply(jobs: List[str], url: str):
+
+def autoApply(jobs: List[str], url: str) -> None:
+    """Trigger the ``auto-apply.yml`` GitHub Actions workflow for each job.
+
+    Looks up the Susquehanna job sequence number from the careers page and
+    dispatches one workflow run per job via the GitHub API.
+
+    Args:
+        jobs: List of job titles to apply to.
+        url: Susquehanna careers page URL to search for job links.
+
+    Raises:
+        RuntimeError: If ``GH_TOKEN`` is not set in the environment.
+    """
     token = os.environ.get("GH_TOKEN")
     if not token:
         raise RuntimeError("GH_TOKEN not set in environment")
 
     repo = "Ph1so/phlux2.0"
     workflow_id = "auto-apply.yml"
+    driver = get_driver()
 
     try:
-        driver = get_driver()
         driver.get(url)
-
         for job in jobs:
             print(f"Auto Apply Job: {job}")
-
             try:
                 element = WebDriverWait(driver, 15).until(
-                    EC.presence_of_element_located((By.XPATH,
-                f"//a[.//div[contains(@class, 'job-title')]/span[normalize-space() = '{job}']]"))
+                    EC.presence_of_element_located(
+                        (
+                            By.XPATH,
+                            f"//a[.//div[contains(@class, 'job-title')]"
+                            f"/span[normalize-space() = '{job}']]",
+                        )
+                    )
                 )
                 job_seqno = element.get_attribute("data-ph-at-job-seqno-text")
             except NoSuchElementException:
-                print(f"\u26a0\ufe0f Element for job '{job}' not found on page.")
+                print(f"⚠️ Element for job '{job}' not found on page.")
                 continue
 
             if not job_seqno:
-                print(f"\u26a0\ufe0f No job_seqno found for job '{job}'. Skipping.")
+                print(f"⚠️ No job_seqno found for job '{job}'. Skipping.")
                 continue
 
             apply_url = f"https://careers.sig.com/apply?jobSeqNo={job_seqno}"
@@ -243,51 +308,73 @@ def autoApply(jobs: List[str], url: str):
                         "Accept": "application/vnd.github+json",
                         "Authorization": f"Bearer {token}",
                     },
-                    json={
-                        "ref": "main",
-                        "inputs": {
-                            "url": apply_url
-                        }
-                    },
-                    timeout=10
+                    json={"ref": "main", "inputs": {"url": apply_url}},
+                    timeout=10,
                 )
                 if response.status_code == 204:
-                    print(f"\u2705 Successfully triggered workflow for: {job}")
+                    print(f"✅ Successfully triggered workflow for: {job}")
                 else:
-                    print(f"\u274c Failed to trigger workflow for: {job} | Status: {response.status_code} | Response: {response.text}")
-
+                    print(
+                        f"❌ Failed to trigger workflow for: {job} | "
+                        f"Status: {response.status_code} | {response.text}"
+                    )
             except requests.RequestException as e:
-                print(f"\u274c HTTP error while applying to job '{job}': {e}")
+                print(f"❌ HTTP error while applying to job '{job}': {e}")
 
     except WebDriverException as e:
-        print(f"\u274c WebDriver error: {e}")
-
+        print(f"❌ WebDriver error: {e}")
     finally:
         try:
             driver.quit()
         except Exception:
             pass
 
+
 class ScrapeManager:
-    def __init__(self, config_path: Path | str = load_config.__defaults__[0]):
+    """Orchestrates parallel scraping of all companies and merges results.
+
+    Args:
+        config_path: Path to ``config.json`` (defaults to the repo root).
+    """
+
+    def __init__(self, config_path: Path | str = Path("config.json")) -> None:
+        from .config import load_config
         self.config = load_config(config_path)
 
-    def scrape_companies(self, companies: List[Company], storage_path="storage.json", max_workers=os.cpu_count()) -> Dict:
-        data = {"companies": {}}
-        total_companies_with_no_jobs = 0
+    def scrape_companies(
+        self,
+        companies: List[Company],
+        storage_path: str = "storage.json",
+        max_workers: int = os.cpu_count(),
+    ) -> Dict:
+        """Scrape all companies in parallel and return updated job data.
+
+        Args:
+            companies: List of companies to scrape.
+            storage_path: Path to the persistent job-storage JSON file.
+            max_workers: Maximum number of parallel worker processes.
+
+        Returns:
+            A dict with keys ``"data"`` (full storage contents) and
+            ``"new_jobs"`` (only jobs discovered this run).
+        """
+        data: Dict = {"companies": {}}
         if os.path.exists(storage_path):
             with open(storage_path, "r") as f:
                 data = json.load(f)
         else:
-            print(f"`{storage_path}` not found")
+            print(f"`{storage_path}` not found — starting fresh.")
 
         new_jobs: Dict = {"companies": {}}
+        no_jobs_count = 0
+
+        print(f"Scraping {len(companies)} companies with max_workers={max_workers}")
+
         with ProcessPoolExecutor(max_workers=max_workers) as executor:
             futures = {
                 executor.submit(get_jobs_headless, c.name, c.link, c.selector): c
                 for c in companies
             }
-            print(f"max_workers: {max_workers}")
             for future in as_completed(futures):
                 company = futures[future]
                 try:
@@ -295,10 +382,9 @@ class ScrapeManager:
                 except Exception as e:
                     print(f"Error scraping {company.name}: {e}")
                     jobs = []
-                if jobs == []:
-                    total_companies_with_no_jobs += 1
+                if not jobs:
+                    no_jobs_count += 1
                 process_jobs(data, ScrapeResult(company.name, jobs, company.link), new_jobs)
 
-        print(f"Total companies with no jobs: {total_companies_with_no_jobs}")
+        print(f"Companies with no jobs found: {no_jobs_count}")
         return {"data": data, "new_jobs": new_jobs}
-

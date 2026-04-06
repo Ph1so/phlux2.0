@@ -1,156 +1,178 @@
-"""Command line interface for scraping job postings."""
+"""Entry point: scrape companies, persist results, and send internship email alerts."""
 from __future__ import annotations
 
 import json
 import os
 import smtplib
+from datetime import datetime
 from email.message import EmailMessage
 from pathlib import Path
 from typing import List
-import os
-from datetime import datetime
-import pytz
-
-import requests
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.common.exceptions import NoSuchElementException, WebDriverException
 
 import gspread
-from oauth2client.service_account import ServiceAccountCredentials
+import pytz
 from gspread_formatting import CellFormat, format_cell_range
+from oauth2client.service_account import ServiceAccountCredentials
 
 from phlux.config import load_config
-from phlux.scraping import ScrapeManager, load_company_data, autoApply
-from utils import get_driver, update_icons
+from phlux.scraping import ScrapeManager, load_company_data
+from phlux.utils import is_internship, update_icons
 
 GMAIL_APP_PASSWORD = os.environ["GMAIL_APP_PASSWORD"]
 
+# ── Email ─────────────────────────────────────────────────────────────────────
+
 def format_message_html(message: dict) -> str:
-    """Return HTML body for the notification email."""
+    """Return the HTML body for the internship-alert email.
+
+    Iterates over companies in *message*, filters each company's job list to
+    internship / co-op titles only, and builds a styled HTML section for each.
+
+    Args:
+        message: Dict with a ``"companies"`` key mapping company name →
+                 ``{"jobs": [...], "link": "..."}``.
+
+    Returns:
+        HTML string ready to embed in an ``EmailMessage``.
+    """
     try:
         with open("icons.json", "r", encoding="utf-8") as f:
             icons = json.load(f)
     except (FileNotFoundError, json.JSONDecodeError):
         icons = {}
 
-    lines = [
-        '<h1 style="font-family: monospace;">Internships from Phi</h1>',
-    ]
-
+    lines = ['<h1 style="font-family: monospace;">Internships from Phi</h1>']
     lines.append('<hr style="margin-top: 30px; margin-bottom: 20px;">')
 
     for company, jobs_data in message.get("companies", {}).items():
-        filtered_jobs = []
-        for job in jobs_data["jobs"]:
-            cleaned = job["title"].strip().replace("\n", " ")
-            lower_title = cleaned.lower()
-            
-            # The correct way to check multiple substrings
-            if any(word in lower_title for word in ["intern", "ship"]) or any(c in lower_title for c in ["co-op", "coop", "co op"]):
-                filtered_jobs.append(cleaned) # Add cleaned title without the star
+        filtered = [
+            job["title"].strip().replace("\n", " ")
+            for job in jobs_data["jobs"]
+            if is_internship(job["title"])
+        ]
+        if not filtered:
+            continue
 
-        if filtered_jobs:
-            icon_url = icons.get(company, {})
-            if not isinstance(icon_url, str):
-                icon_url = icon_url.get("email", "")
-            
-            icon_html = (
-                f'<img src="{icon_url}" alt="{company} logo" height="24" style="vertical-align:middle; margin-right:6px;">'
-                if icon_url else ""
-            )
+        icon_url = icons.get(company, "")
+        if not isinstance(icon_url, str):
+            icon_url = icon_url.get("email", "")
 
-            lines.append('<div style="margin-bottom: 30px;">')
-            lines.append(f'<h2 style="margin-bottom: 5px; font-family: monospace;">{icon_html} {company}</h2>')
-            lines.append("<ul style='margin-top: 5px;'>")
-            
-            for job_title in filtered_jobs:
-                lines.append(f"<li style='margin-bottom: 4px; font-family: monospace;'>{job_title}</li>")
-            
-            lines.append("</ul>")
-            lines.append(f'<p><strong>🔗 <a style="font-family: monospace;" href="{jobs_data["link"]}" target="_blank">Apply Here</a></strong></p>')
-            lines.append('</div>')
-            lines.append('<hr style="margin-top: 20px; margin-bottom: 20px;">')
+        icon_html = (
+            f'<img src="{icon_url}" alt="{company} logo" height="24" '
+            f'style="vertical-align:middle; margin-right:6px;">'
+            if icon_url
+            else ""
+        )
 
-    # Footer
-    lines.append('<p style="font-family: monospace;">💻 View all companies at <a href="https://github.com/Ph1so/phlux2.0" target="_blank">github.com/Ph1so/phlux2.0</a></p>')
+        lines.append('<div style="margin-bottom: 30px;">')
+        lines.append(
+            f'<h2 style="margin-bottom: 5px; font-family: monospace;">'
+            f'{icon_html} {company}</h2>'
+        )
+        lines.append("<ul style='margin-top: 5px;'>")
+        for title in filtered:
+            lines.append(f"<li style='margin-bottom: 4px; font-family: monospace;'>{title}</li>")
+        lines.append("</ul>")
+        lines.append(
+            f'<p><strong>🔗 <a style="font-family: monospace;" '
+            f'href="{jobs_data["link"]}" target="_blank">Apply Here</a></strong></p>'
+        )
+        lines.append("</div>")
+        lines.append('<hr style="margin-top: 20px; margin-bottom: 20px;">')
 
+    lines.append(
+        '<p style="font-family: monospace;">💻 View all companies at '
+        '<a href="https://github.com/Ph1so/phlux2.0" target="_blank">'
+        "github.com/Ph1so/phlux2.0</a></p>"
+    )
     return "\n".join(lines)
 
+
 def send_email(message: dict, test: bool = False) -> None:
-    """Send the notification email."""
+    """Send the internship-alert email via Gmail SMTP.
+
+    Args:
+        message: Structured job data passed to :func:`format_message_html`.
+        test: If True, omit BCC recipients (useful for local testing).
+    """
     msg = EmailMessage()
     msg["Subject"] = "🚀 New Internship Alerts!"
     msg["From"] = "phiwe3296@gmail.com"
     msg["To"] = "phiwe3296@gmail.com"
     if not test:
         msg["Bcc"] = "dustin.nguyen16@gmail.com, brian.hwanhee.cho@gmail.com, jack.lipengzhu@gmail.com"
-        # msg["Cc"] = "dauntlessboy06@gmail.com, jack.lipengzhu@gmail.com, ssayahpo@andrew.cmu.edu, yshenjeffrey@gmail.com, dustin.nguyen16@gmail.com, pham0579@umn.edu, ronak@ronakpjain.com, brian.hwanhee.cho@gmail.com"
-    html_content = format_message_html(message)
+
     msg.set_content("This email contains HTML. Please view it in an HTML-compatible client.")
-    msg.add_alternative(html_content, subtype="html")
+    msg.add_alternative(format_message_html(message), subtype="html")
 
     with smtplib.SMTP_SSL("smtp.gmail.com", 465) as smtp:
         smtp.login("phiwe3296@gmail.com", GMAIL_APP_PASSWORD)
         smtp.send_message(msg)
 
+
 def has_internships(message: dict) -> bool:
-    """Check if any job title in the message matches internship keywords."""
-    for company_data in message.get("companies", {}).values():
-        for job in company_data.get("jobs", []):
-            lower_title = job["title"].lower()
-            if any(word in lower_title for word in ["intern", "ship"]) or \
-               any(c in lower_title for c in ["co-op", "coop", "co op"]):
-                return True
-    return False
+    """Return True if any job in *message* matches internship / co-op keywords.
+
+    Args:
+        message: Same structured dict as accepted by :func:`send_email`.
+    """
+    return any(
+        is_internship(job["title"])
+        for company_data in message.get("companies", {}).values()
+        for job in company_data.get("jobs", [])
+    )
+
+
+# ── Google Sheets ─────────────────────────────────────────────────────────────
 
 def update_internship_tracker(jobs: List[str]) -> None:
-    """
-    Update the Google Sheet with new internship job titles, the current date (no leading 0s), and "Applied".
-    Right-aligns the date column.
+    """Append newly found Susquehanna internship titles to the tracking sheet.
+
+    Writes each job as a row of ``[company – title, date, "Applied"]`` and
+    right-aligns the date column.
+
+    Args:
+        jobs: List of job title strings to record.
     """
     creds_dict = json.loads(os.environ["GOOGLE_KEY_JSON"])
     scope = [
         "https://spreadsheets.google.com/feeds",
-        "https://www.googleapis.com/auth/drive"
+        "https://www.googleapis.com/auth/drive",
     ]
     creds = ServiceAccountCredentials.from_json_keyfile_dict(creds_dict, scope)
     client = gspread.authorize(creds)
 
-    spreadsheet = client.open_by_key("1pZMYgV4GJZJIwyTSG4-ufWeUnJNE7ZQzcFk35qJj7QI")
-    worksheet = spreadsheet.worksheet("Phi26")
+    worksheet = client.open_by_key("1pZMYgV4GJZJIwyTSG4-ufWeUnJNE7ZQzcFk35qJj7QI").worksheet("Phi26")
+    start_row = len(worksheet.col_values(1)) + 1
 
-    col_values = worksheet.col_values(1)
-    start_row = len(col_values) + 1
-    eastern_timezone = pytz.timezone('US/Eastern')
-    now = f"{datetime.now(eastern_timezone).month}/{datetime.now(eastern_timezone).day}/{datetime.now(eastern_timezone).year}"
+    eastern = pytz.timezone("US/Eastern")
+    now = datetime.now(eastern)
+    today = f"{now.month}/{now.day}/{now.year}"
 
-    rows = [["Susquehanna - "+job, now, "Applied"] for job in jobs]
+    rows = [["Susquehanna - " + job, today, "Applied"] for job in jobs]
     end_row = start_row + len(rows) - 1
     worksheet.update(values=rows, range_name=f"A{start_row}:C{end_row}")
+    format_cell_range(worksheet, f"B{start_row}:B{end_row}", CellFormat(horizontalAlignment="RIGHT"))
 
-    right_align = CellFormat(horizontalAlignment='RIGHT')
-    format_cell_range(worksheet, f"B{start_row}:B{end_row}", right_align)
-    
+
+# ── Main ──────────────────────────────────────────────────────────────────────
 
 def main() -> None:
-    config = load_config()
+    """Run the full scrape → store → alert pipeline."""
+    load_config()
     manager = ScrapeManager()
     companies = load_company_data()
     result = manager.scrape_companies(companies=companies)
-    data = result["data"]
-    new_jobs = result["new_jobs"]
 
-    Path("storage.json").write_text(json.dumps(data, indent=2), encoding="utf-8")
-    
-    # Check if there are companies AND if at least one internship exists
+    Path("storage.json").write_text(json.dumps(result["data"], indent=2), encoding="utf-8")
+
+    new_jobs = result["new_jobs"]
     if new_jobs.get("companies") and has_internships(new_jobs):
         update_icons(companies=companies)
         send_email(new_jobs, test=False)
     else:
-        print("Scrape complete: No new internship/co-op positions found.")
+        print("Scrape complete: no new internship/co-op positions found.")
+
 
 if __name__ == "__main__":
     main()
-
