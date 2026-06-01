@@ -26,6 +26,11 @@ def is_internship(title: str) -> bool:
     return any(kw in lower for kw in _INTERN_KEYWORDS)
 
 
+def is_full_time(title: str) -> bool:
+    """Return True if *title* does not match internship or co-op keywords."""
+    return not is_internship(title)
+
+
 def get_driver(headless: bool = True, use_undetected: bool = False):
     """Create and return a Selenium WebDriver instance.
 
