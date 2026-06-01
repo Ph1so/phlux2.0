@@ -2,7 +2,9 @@
 from __future__ import annotations
 
 import json
+import logging
 import os
+from pathlib import Path
 from typing import List
 
 import requests
@@ -14,7 +16,18 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 from phlux.models import Company
 
-CHROME_DRIVER_PATH = ChromeDriverManager().install()
+logger = logging.getLogger(__name__)
+
+_ICONS_PATH = Path(__file__).resolve().parent.parent / "icons.json"
+_CHROME_DRIVER_PATH: str | None = None
+
+
+def _get_chrome_driver_path() -> str:
+    global _CHROME_DRIVER_PATH
+    if _CHROME_DRIVER_PATH is None:
+        _CHROME_DRIVER_PATH = ChromeDriverManager().install()
+    return _CHROME_DRIVER_PATH
+
 
 # Keywords that identify internship / co-op postings.
 _INTERN_KEYWORDS = ("intern", "ship", "co-op", "coop", "co op")
@@ -62,7 +75,7 @@ def get_driver(headless: bool = True, use_undetected: bool = False):
         options.add_argument("--headless")
     for arg in chrome_args:
         options.add_argument(arg)
-    return webdriver.Chrome(service=Service(CHROME_DRIVER_PATH), options=options)
+    return webdriver.Chrome(service=Service(_get_chrome_driver_path()), options=options)
 
 
 def update_icons(companies: List[Company]) -> None:
@@ -77,7 +90,7 @@ def update_icons(companies: List[Company]) -> None:
     icons_id = os.environ["ICONS_ID"]
 
     try:
-        with open("icons.json", "r", encoding="utf-8") as f:
+        with open(_ICONS_PATH, "r", encoding="utf-8") as f:
             icons = json.load(f)
     except (FileNotFoundError, json.JSONDecodeError):
         icons = {}
@@ -95,7 +108,7 @@ def update_icons(companies: List[Company]) -> None:
             domain = response.json()[0]["domain"]
             icons[name] = f"https://cdn.brandfetch.io/{domain}/w/400/h/400?c={icons_id}"
         except Exception as e:
-            print(f"❌ Failed to get icon for {name}: {e}")
+            logger.warning("Failed to get icon for %s: %s", name, e)
 
-    with open("icons.json", "w", encoding="utf-8") as f:
+    with open(_ICONS_PATH, "w", encoding="utf-8") as f:
         json.dump(icons, f, indent=2)

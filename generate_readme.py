@@ -4,41 +4,27 @@ from __future__ import annotations
 import json
 from datetime import datetime
 from pathlib import Path
+from typing import Any, Dict, List
 
 from phlux.scraping import load_company_data
 from phlux.utils import update_icons
 
 
-def load_company_links(csv_path: str = "companies.csv") -> dict:
-    """Return a mapping of company name → careers URL from the CSV.
-
-    Args:
-        csv_path: Path to ``companies.csv``.
-
-    Returns:
-        Dict mapping company name to its link string.
-    """
+def load_company_links(csv_path: str = "companies.csv") -> Dict[str, str]:
+    """Return a mapping of company name → careers URL from the CSV."""
     return {c.name: c.link for c in load_company_data(Path(csv_path))}
 
 
-def load_jobs(json_path: str = "storage.json") -> dict:
-    """Load the ``companies`` section from the storage JSON file.
-
-    Args:
-        json_path: Path to ``storage.json``.
-
-    Returns:
-        Dict mapping company name → list of job-posting dicts.
-    """
+def load_jobs(json_path: str = "storage.json") -> Dict[str, List[Any]]:
+    """Load the ``companies`` section from the storage JSON file."""
     with open(json_path, encoding="utf-8") as f:
         return json.load(f).get("companies", {})
 
 
-def generate_readme(jobs: dict, links: dict) -> str:
+def generate_readme(jobs: Dict[str, List[Any]], links: Dict[str, str]) -> str:
     """Build the full README Markdown string from job data.
 
-    Fetches/refreshes company icons, then renders an HTML table of all
-    postings sorted by date (most recent first).
+    Renders an HTML table of all postings sorted by date (most recent first).
 
     Args:
         jobs: Dict mapping company name → list of job dicts (with ``title``
@@ -48,10 +34,9 @@ def generate_readme(jobs: dict, links: dict) -> str:
     Returns:
         Complete README Markdown string.
     """
-    update_icons(companies=load_company_data())
-
     try:
-        with open("icons.json", "r", encoding="utf-8") as f:
+        from phlux.utils import _ICONS_PATH
+        with open(_ICONS_PATH, "r", encoding="utf-8") as f:
             icons = json.load(f)
     except (FileNotFoundError, json.JSONDecodeError):
         icons = {}
@@ -102,7 +87,8 @@ def generate_readme(jobs: dict, links: dict) -> str:
                 date_str = "N/A"
 
             try:
-                sort_date = datetime.strptime(date_str, "%m/%d")
+                # Include a fixed year to avoid the Python 3.15 ambiguous-date deprecation.
+                sort_date = datetime.strptime(f"2000/{date_str}", "%Y/%m/%d")
             except ValueError:
                 sort_date = datetime.min
 
@@ -132,8 +118,9 @@ def generate_readme(jobs: dict, links: dict) -> str:
 
 
 if __name__ == "__main__":
-    links = load_company_links()
-    jobs = load_jobs()
-    readme = generate_readme(jobs, links)
+    _links = load_company_links()
+    _jobs = load_jobs()
+    update_icons(companies=load_company_data())
+    readme = generate_readme(_jobs, _links)
     Path("README.md").write_text(readme, encoding="utf-8")
     print("README.md updated successfully.")

@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import csv
 import json
+import logging
 import os
 import time
 from concurrent.futures import ProcessPoolExecutor, as_completed
@@ -20,6 +21,8 @@ from tenacity import retry, stop_after_attempt, wait_fixed
 
 from .models import Company, ScrapeResult
 from .utils import get_driver, is_internship
+
+logger = logging.getLogger(__name__)
 
 
 CSS = "CSS"
@@ -111,7 +114,7 @@ def get_jobs_headless(
                         continue
 
                     if ":" not in action:
-                        print(f"⚠️ Invalid action format: {action}")
+                        logger.warning("Invalid action format: %s", action)
                         continue
 
                     action_type = actions.get_type(action)
@@ -119,7 +122,7 @@ def get_jobs_headless(
                     use_pointer = actions.has_flag(action, "pointer")
 
                     if action_type not in ACTION_TYPES:
-                        print(f"⚠️ Unknown action type '{action_type}' for {name}")
+                        logger.warning("Unknown action type '%s' for %s", action_type, name)
                         continue
 
                     if action_type == CSS:
@@ -169,13 +172,13 @@ def get_jobs_headless(
                                 driver.execute_script("arguments[0].click();", element)
                             time.sleep(2)
                         except Exception as exc:
-                            print(f"❌ Failed clicking for {name}: {exc}")
+                            logger.error("Failed clicking for %s: %s", name, exc)
 
                     elif action_type == FILTER:
                         jobs = [j for j in jobs if selector.lower() in j.lower()]
 
             except TimeoutException:
-                print(f"Timeout for {name} at {url}")
+                logger.warning("Timeout for %s at %s", name, url)
                 continue
 
     finally:
@@ -187,9 +190,9 @@ def get_jobs_headless(
             pass
 
     if not jobs:
-        print(f"❌ No jobs found - {name}")
+        logger.warning("No jobs found - %s", name)
     else:
-        print(f"✅ Jobs found - {name}")
+        logger.info("Jobs found - %s", name)
 
     # Normalize titles and star internship/co-op postings.
     for i, title in enumerate(jobs):
@@ -239,7 +242,8 @@ def process_jobs(data: dict, result: ScrapeResult, new_jobs: Dict) -> None:
     existing_titles = {j["title"] if isinstance(j, dict) else j for j in existing}
 
     eastern = pytz.timezone("US/Eastern")
-    today = datetime.now(eastern).strftime("%-m/%-d")
+    now = datetime.now(eastern)
+    today = f"{now.month}/{now.day}"
 
     new_list = []
     for job in result.jobs:
@@ -280,7 +284,7 @@ def autoApply(jobs: List[str], url: str) -> None:
     try:
         driver.get(url)
         for job in jobs:
-            print(f"Auto Apply Job: {job}")
+            logger.info("Auto Apply Job: %s", job)
             try:
                 element = WebDriverWait(driver, 15).until(
                     EC.presence_of_element_located(
@@ -293,11 +297,11 @@ def autoApply(jobs: List[str], url: str) -> None:
                 )
                 job_seqno = element.get_attribute("data-ph-at-job-seqno-text")
             except NoSuchElementException:
-                print(f"⚠️ Element for job '{job}' not found on page.")
+                logger.warning("Element for job '%s' not found on page.", job)
                 continue
 
             if not job_seqno:
-                print(f"⚠️ No job_seqno found for job '{job}'. Skipping.")
+                logger.warning("No job_seqno found for job '%s'. Skipping.", job)
                 continue
 
             apply_url = f"https://careers.sig.com/apply?jobSeqNo={job_seqno}"
@@ -312,17 +316,17 @@ def autoApply(jobs: List[str], url: str) -> None:
                     timeout=10,
                 )
                 if response.status_code == 204:
-                    print(f"✅ Successfully triggered workflow for: {job}")
+                    logger.info("Successfully triggered workflow for: %s", job)
                 else:
-                    print(
-                        f"❌ Failed to trigger workflow for: {job} | "
-                        f"Status: {response.status_code} | {response.text}"
+                    logger.error(
+                        "Failed to trigger workflow for: %s | Status: %s | %s",
+                        job, response.status_code, response.text,
                     )
             except requests.RequestException as e:
-                print(f"❌ HTTP error while applying to job '{job}': {e}")
+                logger.error("HTTP error while applying to job '%s': %s", job, e)
 
     except WebDriverException as e:
-        print(f"❌ WebDriver error: {e}")
+        logger.error("WebDriver error: %s", e)
     finally:
         try:
             driver.quit()
@@ -345,7 +349,7 @@ class ScrapeManager:
         self,
         companies: List[Company],
         storage_path: str = "storage.json",
-        max_workers: int = os.cpu_count(),
+        max_workers: int = os.cpu_count() or 4,
     ) -> Dict:
         """Scrape all companies in parallel and return updated job data.
 
@@ -360,15 +364,18 @@ class ScrapeManager:
         """
         data: Dict = {"companies": {}}
         if os.path.exists(storage_path):
-            with open(storage_path, "r") as f:
-                data = json.load(f)
+            try:
+                with open(storage_path, "r") as f:
+                    data = json.load(f)
+            except json.JSONDecodeError:
+                logger.warning("%s is corrupted — starting fresh.", storage_path)
         else:
-            print(f"`{storage_path}` not found — starting fresh.")
+            logger.warning("%s not found — starting fresh.", storage_path)
 
         new_jobs: Dict = {"companies": {}}
         no_jobs_count = 0
 
-        print(f"Scraping {len(companies)} companies with max_workers={max_workers}")
+        logger.info("Scraping %d companies with max_workers=%d", len(companies), max_workers)
 
         with ProcessPoolExecutor(max_workers=max_workers) as executor:
             futures = {
@@ -380,11 +387,11 @@ class ScrapeManager:
                 try:
                     jobs = future.result()
                 except Exception as e:
-                    print(f"Error scraping {company.name}: {e}")
+                    logger.error("Error scraping %s: %s", company.name, e)
                     jobs = []
                 if not jobs:
                     no_jobs_count += 1
                 process_jobs(data, ScrapeResult(company.name, jobs, company.link), new_jobs)
 
-        print(f"Companies with no jobs found: {no_jobs_count}")
+        logger.info("Companies with no jobs found: %d", no_jobs_count)
         return {"data": data, "new_jobs": new_jobs}
