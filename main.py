@@ -100,7 +100,7 @@ def send_email(message: dict, test: bool = False) -> None:
     msg["From"] = "phiwe3296@gmail.com"
     msg["To"] = "phiwe3296@gmail.com"
     if not test:
-        msg["Bcc"] = "dustin.nguyen16@gmail.com, brian.hwanhee.cho@gmail.com, jack.lipengzhu@gmail.com"
+        msg["Bcc"] = "jameseyeh@gmail.com,alex_yeh2@yahoo.com,dustin.nguyen16@gmail.com, brian.hwanhee.cho@gmail.com, jack.lipengzhu@gmail.com"
 
     msg.set_content("This email contains HTML. Please view it in an HTML-compatible client.")
     msg.add_alternative(format_message_html(message), subtype="html")
