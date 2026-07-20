@@ -15,7 +15,7 @@ import pytz
 from gspread_formatting import CellFormat, format_cell_range
 from oauth2client.service_account import ServiceAccountCredentials
 
-from phlux.config import load_config
+from phlux.config import load_config, load_email_config
 from phlux.scraping import ScrapeManager, load_company_data
 from phlux.utils import is_full_time, is_internship, update_icons
 
@@ -91,46 +91,51 @@ def format_message_html_fulltime(message: Dict[str, Any]) -> str:
 def _send_email_impl(
     message: Dict[str, Any],
     subject: str,
-    bcc: str,
+    bcc: List[str],
     format_fn: Callable[[Dict[str, Any]], str],
     test: bool,
+    email_cfg: Dict[str, Any],
 ) -> None:
     """Build and send an email via Gmail SMTP."""
     msg = EmailMessage()
     msg["Subject"] = subject
-    msg["From"] = "phiwe3296@gmail.com"
-    msg["To"] = "phiwe3296@gmail.com"
-    if not test:
-        msg["Bcc"] = bcc
+    msg["From"] = email_cfg["from"]
+    msg["To"] = email_cfg["to"]
+    if not test and bcc:
+        msg["Bcc"] = ", ".join(bcc)
 
     msg.set_content("This email contains HTML. Please view it in an HTML-compatible client.")
     msg.add_alternative(format_fn(message), subtype="html")
 
     password = os.environ["GMAIL_APP_PASSWORD"]
     with smtplib.SMTP_SSL("smtp.gmail.com", 465) as smtp:
-        smtp.login("phiwe3296@gmail.com", password)
+        smtp.login(email_cfg["login"], password)
         smtp.send_message(msg)
 
 
 def send_email(message: Dict[str, Any], test: bool = False) -> None:
     """Send the internship-alert email via Gmail SMTP."""
+    email_cfg = load_email_config()
     _send_email_impl(
         message,
         subject="🚀 New Internship Alerts!",
-        bcc="jameseyeh@gmail.com,,dustin.nguyen16@gmail.com, brian.hwanhee.cho@gmail.com, jack.lipengzhu@gmail.com",
+        bcc=email_cfg["internship_bcc"],
         format_fn=format_message_html,
         test=test,
+        email_cfg=email_cfg,
     )
 
 
 def send_email_fulltime(message: Dict[str, Any], test: bool = False) -> None:
     """Send the full-time-role alert email via Gmail SMTP."""
+    email_cfg = load_email_config()
     _send_email_impl(
         message,
         subject="💼 New Full-Time Role Alerts!",
-        bcc="alex_yeh2@yahoo.com",
+        bcc=email_cfg["fulltime_bcc"],
         format_fn=format_message_html_fulltime,
         test=test,
+        email_cfg=email_cfg,
     )
 
 
@@ -210,7 +215,9 @@ def main() -> None:
             send_email(new_jobs, test=False)
         else:
             print("Scrape complete: no new internship/co-op positions found.")
-        if has_full_time_roles(new_jobs):
+        if not load_email_config()["fulltime_enabled"]:
+            print("Full-time emails are disabled in config; skipping.")
+        elif has_full_time_roles(new_jobs):
             send_email_fulltime(new_jobs, test=False)
         else:
             print("Scrape complete: no new full-time positions found.")

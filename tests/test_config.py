@@ -8,7 +8,7 @@ from phlux.config import load_config
 
 def test_load_config_returns_dict(tmp_path):
     cfg = tmp_path / "config.json"
-    cfg.write_text('{"CLICKABLE": {}, "NEEDS_FILTER": {}}', encoding="utf-8")
+    cfg.write_text('{"EMAIL": {}}', encoding="utf-8")
     result = load_config(cfg)
     assert isinstance(result, dict)
 
@@ -16,12 +16,11 @@ def test_load_config_returns_dict(tmp_path):
 def test_load_config_returns_expected_keys(tmp_path):
     cfg = tmp_path / "config.json"
     cfg.write_text(
-        json.dumps({"CLICKABLE": {"Acme": {}}, "NEEDS_FILTER": {"X": "intern"}}),
+        json.dumps({"EMAIL": {"to": "a@b.com"}}),
         encoding="utf-8",
     )
     result = load_config(cfg)
-    assert "CLICKABLE" in result
-    assert "NEEDS_FILTER" in result
+    assert "EMAIL" in result
 
 
 def test_load_config_accepts_string_path(tmp_path):
