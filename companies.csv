@@ -150,7 +150,6 @@ Figure AI,https://job-boards.greenhouse.io/figureai/,CSS:a p.body.body--medium->
 1x,https://www.1x.tech/careers,CSS:article h6.text-gammaGrey->FILTER:intern
 Sanctuary AI,https://jobs.lever.co/sanctuary?department=Co-ops%2FInternships&team=Co-op,CSS:a.posting-title h5
 RocketLab,https://job-boards.greenhouse.io/rocketlab?keyword=intern,CSS:p.body.body--medium
-Humanoid,https://thehumanoid.ai/careers/?office=Boston%2C+US&category=All&pages=1,CSS:div.vacancies__list-vacancy--title a.vac
 Zillow,https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External?workerSubType=156fb9a2f01c10bed80e178a5482955b,CSS:.css-19uc56f
 Northwood Space,https://www.northwoodspace.io/careers,CSS:.flex-1.px-margin-sm.py-6.border-current->FILTER:intern
 Motional,https://motional.com/open-positions#/?employmentType=Intern%2C+Full-time,CSS:.job__title
@@ -205,6 +204,7 @@ Wayve,https://wayve.firststage.co/jobs?layout=grid&location=Sunnyvale%2C+Califor
 Shield AI,https://jobs.lever.co/shieldai/?commitment=Intern,CSS:.posting-title
 DeepMind,https://job-boards.greenhouse.io/deepmind?page=1->https://job-boards.greenhouse.io/deepmind?page=2,CSS:p.body.body--medium
 Waymo,https://careers.withwaymo.com/jobs/search?page=1&employment_type_uids%5B%5D=fa4c4a8317c6c87309f488cb0d63aa7c&query=,CSS:.card-title.job-search-results-card-title
-Bedrock Robotics,https://jobs.ashbyhq.com/bedrock-robotics?utm_source=2Pv93vNwBD&src=LinkedIn,CSS:._title_12ylk_383.ashby-job-posting-brief-title
+Bedrock Robotics,https://jobs.ashbyhq.com/bedrock-robotics/,CSS:._title_12ylk_383.ashby-job-posting-brief-title
 Applied Intuition,https://www.appliedintuition.com/careers#jobs-list,CSS:span.type-body
 FieldAI,https://jobs.lever.co/field-ai,CSS:.posting-title
+Humanoid,https://jobs.ashbyhq.com/humanoid/,CSS:._title_12ylk_383.ashby-job-posting-brief-title
