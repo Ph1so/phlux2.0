@@ -206,4 +206,5 @@ DeepMind,https://job-boards.greenhouse.io/deepmind?page=1->https://job-boards.gr
 Waymo,https://careers.withwaymo.com/jobs/search?page=1&employment_type_uids%5B%5D=fa4c4a8317c6c87309f488cb0d63aa7c&query=,CSS:.card-title.job-search-results-card-title
 Bedrock Robotics,https://jobs.ashbyhq.com/bedrock-robotics/,CSS:._title_12ylk_383.ashby-job-posting-brief-title
 Applied Intuition,https://www.appliedintuition.com/careers#jobs-list,CSS:span.type-body
-FieldAI,https://jobs.lever.co/field-ai,CSS:.posting-title._title_1dvh9_382.ashby-job-posting-brief-title._title_12ylk_383.ashby-job-posting-brief-title
+FieldAI,https://jobs.lever.co/field-ai,CSS:.posting-title
+Humanoid,https://jobs.ashbyhq.com/humanoid/,CSS:._title_1dvh9_382.ashby-job-posting-brief-title
