@@ -7665,6 +7665,10 @@
       {
         "title": "Solutions Architect - Public Sector",
         "date": "7/21"
+      },
+      {
+        "title": "Technical Program Manager, AI Delivery for Public Sector & Defence, UK",
+        "date": "7/21"
       }
     ],
     "Riot Games": [
@@ -28652,6 +28656,10 @@
       {
         "title": "Software Engineer, Embedded",
         "date": "7/21"
+      },
+      {
+        "title": "Field Integration Engineer",
+        "date": "7/21"
       }
     ],
     "XPENG": [
@@ -41881,6 +41889,10 @@
       {
         "title": "Senior Data Engineer \u2013 Enterprise Data & AI - HYBRID \u2014 FULL-TIMEFOSTER CITY, CA",
         "date": "7/21"
+      },
+      {
+        "title": "Staff Vehicle Attributes Engineer - ON-SITE \u2014 FULL-TIMEBANBURY, UK",
+        "date": "7/21"
       }
     ],
     "Nuro": [
@@ -50210,6 +50222,10 @@
       {
         "title": "Software Engineer, Voice Interaction",
         "date": "7/21"
+      },
+      {
+        "title": "Technical Recruiter (contract-to-hire)",
+        "date": "7/21"
       }
     ],
     "Liberty Mutual": [
@@ -56526,6 +56542,10 @@
       {
         "title": "Propulsion Technician (Fluids/Valves)",
         "date": "7/20"
+      },
+      {
+        "title": "Senior Engineer - Propulsion Systems",
+        "date": "7/21"
       }
     ],
     "Wayve": [
@@ -61829,6 +61849,10 @@
       {
         "title": "Software Engineer - Real-Time Vehicle Telemetry & Visualization",
         "date": "7/21"
+      },
+      {
+        "title": "Perception Engineer - Offroad",
+        "date": "7/21"
       }
     ],
     "FieldAI": [
@@ -62442,6 +62466,44 @@
       },
       {
         "title": "Senior Robotics Software Engineer, 3D Mapping - ON-SITE \u2014 FULL TIMEIRVINE, CA",
+        "date": "7/21"
+      }
+    ],
+    "World Labs": [
+      {
+        "title": "Performance Engineer (Inference, Training & GPU)",
+        "date": "7/21"
+      },
+      {
+        "title": "Pipeline Engineer (Graphics/3D)",
+        "date": "7/21"
+      },
+      {
+        "title": "Research Engineer (Scaling Multimodal Data)",
+        "date": "7/21"
+      },
+      {
+        "title": "Research Engineer / Scientist (3D Reconstruction)",
+        "date": "7/21"
+      },
+      {
+        "title": "Research Engineer / Scientist (3D Tech Lead)",
+        "date": "7/21"
+      },
+      {
+        "title": "Research Engineer / Scientist (SLAM)",
+        "date": "7/21"
+      },
+      {
+        "title": "Research Scientist (Generative Modeling)",
+        "date": "7/21"
+      },
+      {
+        "title": "Senior Product Engineer (Tech Lead)",
+        "date": "7/21"
+      },
+      {
+        "title": "Staff Platform Engineer (Databases & Storage)",
         "date": "7/21"
       }
     ]
