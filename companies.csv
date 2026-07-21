@@ -35,7 +35,7 @@ Snap,https://careers.snap.com/jobs?type=Intern,CSS:.sdsm-hyperlink.css-1ekngtg
 Ramp,https://ramp.com/emerging-talent,CSS:.careers-listings__title div.body-22
 Workday,https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/?source=Careers_Website_ec,CSS:.css-19uc56f
 Atlassian,https://www.atlassian.com/company/careers/all-jobs?team=Interns&location=&search=,CSS:div table a
-Cohere,https://jobs.ashbyhq.com/cohere?employmentType=Intern,CSS:._title_12ylk_383.ashby-job-posting-brief-title
+Cohere,https://jobs.ashbyhq.com/cohere/,CSS:._title_1dvh9_382.ashby-job-posting-brief-title
 Riot Games,https://www.riotgames.com/en/university-programs,CSS:.job-row.job-row--body
 Datadog,https://careers.datadoghq.com/early-careers/,CSS:.job-card-title h3
 Doordash,https://careersatdoordash.com/university-careers/,CSS:div.value
@@ -83,13 +83,13 @@ Boston Dynamics,https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/?wo
 Epic Games,https://www.epicgames.com/site/en-US/careers/jobs?type=Intern&country=United%20States&page=1,CSS:div.sc-kAyceB.hDJtzF.paragraph.joblisting-title.loc-en-US
 Twitch,https://careers.twitch.com/en/careers/,CSS:div.relative.py-4->FILTER:intern
 Visa,https://careers.smartrecruiters.com/Visa/university-recruiting,CSS:a.link--block.details
-Replit,https://jobs.ashbyhq.com/replit,CSS:div._jobPosting_12ylk_379.ashby-job-posting-brief._container_101oc_29
+Replit,https://jobs.ashbyhq.com/replit/,CSS:._title_1dvh9_382.ashby-job-posting-brief-title
 Vercel,https://vercel.com/careers#positions,CSS:div.flex.flex-col.justify-center.space-y-2->FILTER:intern
 Hugging Face,https://apply.workable.com/huggingface/?not_found=true#jobs,CSS:h3.styles--3TJHk
 Verizon,https://mycareer.verizon.com/jobs/?search=&team=Campus+%26+Apprenticeships&pagesize=100#results,CSS:h3.h2.card-title
 Notion,https://app.ripplematch.com/v2/public/company/notion?tl=1edfe69a,CSS:div._root_iofby_1469._neutral_iofby_1506._disableMargin_iofby_1608.root h5
 JP Morgan Chase,https://careers.jpmorgan.com/global/en/students/programs/software-engineer-summer->https://careers.jpmorgan.com/global/en/students/programs/data-analytics-opportunities#careers-section7->https://careers.jpmorgan.com/global/en/students/programs/tfsg-hackathons->https://careers.jpmorgan.com/global/en/students/programs/quant-fin-programs->https://careers.jpmorgan.com/global/en/students/programs/design-dev-summer->https://careers.jpmorgan.com/global/en/students/programs/et-experience->https://careers.jpmorgan.com/global/en/students/programs/career-edyou->https://careers.jpmorgan.com/global/en/students/programs/research-technologies-summer-associate-program,"CLICK:'//*[contains(normalize-space(), 'Apply now')]'->CSS:.program-title"
-Genesis Therapeutics,https://jobs.ashbyhq.com/genesis-therapeutics?embed=js&employmentType=Intern,CSS:h3._title_12ylk_383.ashby-job-posting-brief-title
+Genesis Therapeutics,https://jobs.ashbyhq.com/genesis-therapeutics/,CSS:._title_1dvh9_382.ashby-job-posting-brief-title
 Duolingo,https://careers.duolingo.com/?type=Intern#careers->https://careers.duolingo.com/?type=Thrive+Program#careers->https://careers.duolingo.com/?type=New+Grad#careers,CSS:a.A9xxT
 Scale AI,https://scale.com/careers#open-roles,"CLICK:'//button[contains(text(), 'Accept Cookies')]'->CLICK:'//button[contains(text(), 'All Departments')]':pointer->CLICK:'//div[@role='menu']//div[text()='University']'->CSS:.positions-grid_body__LWSOW a >> p.p-6"
 Coinbase,https://www.coinbase.com/careers/positions?department=Internships%2520%2526%2520Emerging%2520Talent%2520Positions,CSS:p.cds-typographyResets-t6muwls.cds-title3-t14ui7y5.cds-primary-pgii67x.cds-transition-t1qvlahm.cds-start-s1u0g7ow
@@ -141,9 +141,9 @@ General Motors,https://search-careers.gm.com/en/jobs/?search=&country=United+Sta
 Brightpick,https://brightpick.ai/careers/#openpositions,CSS:.cp-job__name
 Locus Robotics,https://locusrobotics.com/company/careers/job-openings?f_viewall=0&f_page=1&f_posttype=jobs&f_limit=12&f_search=&f_region=united-states&f_location=&f_jobtype=&f_employementtype=&f_department=engineering#content-filter,CSS:div.text-wrap h4
 Path Robotics,https://www.path-robotics.com/who-we-are/careers/open-positions/,CSS:h3.nomargin-top
-GrayMatter Robotics,https://jobs.ashbyhq.com/graymatter-robotics?departmentId=a3c9deea-e719-467d-a1c3-e3ebaaa13160,CSS:._title_12ylk_383.ashby-job-posting-brief-title
+GrayMatter Robotics,https://jobs.ashbyhq.com/graymatter-robotics/,CSS:._title_1dvh9_382.ashby-job-posting-brief-title
 Chef Robotics,https://jobs.lever.co/ChefRobotics?department=Engineering,CSS:a.posting-title h5
-Cobot,https://jobs.ashbyhq.com/cobot?departmentId=74ba016c-7d6a-462b-b5f0-76b2e2d803ba,CSS:h3
+Cobot,https://jobs.ashbyhq.com/cobot/,CSS:._title_1dvh9_382.ashby-job-posting-brief-title
 Ambi Robotics,https://www.ambirobotics.com/careers#positions,CSS:a.lever-job-title
 Apptronik,https://boards.greenhouse.io/embed/job_board?for=apptronik&b=https://apptronik.com/%2Fcareers%2F,CSS:div.opening a
 Figure AI,https://job-boards.greenhouse.io/figureai/,CSS:a p.body.body--medium->FILTER:intern
@@ -168,7 +168,7 @@ Pony.ai,https://apply.workable.com/pony-dot-ai/,CSS:h3.styles--1cN5S
 Nuro,https://boards.greenhouse.io/embed/job_board?for=nuro,CSS:div.opening a
 Lila Sciences,https://job-boards.greenhouse.io/lilasciences/,CSS:p.body.body--medium
 Mitre,https://careers.mitre.org/us/en/search-results?keywords=student,CSS:div.job-title span
-Serve Robotics,https://jobs.ashbyhq.com/serverobotics?embed=js,CSS:h3._title_12ylk_383.ashby-job-posting-brief-title
+Serve Robotics,https://jobs.ashbyhq.com/serverobotics/,CSS:._title_1dvh9_382.ashby-job-posting-brief-title
 Draper,https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers?workerSubType=b9bd15164d241000cf9857a64e2e0000,CSS:.css-19uc56f
 Bosch,https://jobs.bosch.com/en?pages=5&country=us&positionTypes=f524b939-fe55-407b-a0b0-e8f4eec28997%2C8c682ec0-3d28-4e52-b53b-c63d440a32d3%2Cf3b92bc1-600d-4d33-9115-5aa27785f52b%2Ce4a3c0db-920d-4356-8ce0-c0b44a54e497#,CSS:h2.A-JobPanel__title
 Anduril,https://www.anduril.com/open-roles/?location=&department=Internships&search=&gh_src=,CSS:p.JobListing_jobTitle__t_LIY
@@ -176,15 +176,15 @@ Aeva,https://jobs.lever.co/aeva?,CSS:a.posting-title
 Forterra,https://ats.rippling.com/forterra/jobs?page=0&searchQuery=&workplaceType=&country=&state=&city=&pageSize=100,CSS:a.css-1a75djn-Anchor.e1tt4etm0
 Intrinsic,https://www.intrinsic.ai/careers,CSS:h3.intr-list-heading.intr-heading-h4
 Shure,https://careershub-shure.icims.com/jobs/search?pr=1&searchPositionType=8710&schemaId=&o=,CSS:.iCIMS_Anchor h3
-Gecko Robotics,https://jobs.ashbyhq.com/gecko-robotics/,CSS:._title_12ylk_383.ashby-job-posting-brief-title
+Gecko Robotics,https://jobs.ashbyhq.com/gecko-robotics/,CSS:._title_1dvh9_382.ashby-job-posting-brief-title
 Robotics and AI Insitute,https://jobs.lever.co/rai?,CSS:.posting-title
-Sunday,https://jobs.ashbyhq.com/sunday/,CSS:._title_12ylk_383.ashby-job-posting-brief-title
+Sunday,https://jobs.ashbyhq.com/sunday/,CSS:._title_1dvh9_382.ashby-job-posting-brief-title
 Machina Labs,https://jobs.lever.co/MachinaLabs/?commitment=Internship,CSS:.posting-title
-Matic Robots,https://jobs.ashbyhq.com/MaticRobots,CSS:._title_12ylk_383.ashby-job-posting-brief-title
+Matic Robots,https://jobs.ashbyhq.com/MaticRobots/,CSS:._title_1dvh9_382.ashby-job-posting-brief-title
 Pickle Robot,https://jobs.lever.co/picklerobot,CSS:.posting-title
 ScoutAI,https://job-boards.greenhouse.io/scoutai/,CSS:p.body.body--medium
 Lyft,https://boards.greenhouse.io/embed/job_board?for=lyft,CSS:.opening a
-AeroVect,https://jobs.ashbyhq.com/AeroVect,CSS:._title_12ylk_383.ashby-job-posting-brief-title
+AeroVect,https://jobs.ashbyhq.com/AeroVect/,CSS:._title_1dvh9_382.ashby-job-posting-brief-title
 Gather AI,https://job-boards.greenhouse.io/gatherai/?offices%5B%5D=4001902007,CSS:p.body.body--medium
 Carbon Robotics,https://job-boards.greenhouse.io/embed/job_board?for=carbonrobotics,CSS:p.body.body--medium
 Scythe Robotics,https://job-boards.greenhouse.io/scytherobotics,CSS:p.body.body--medium
@@ -204,7 +204,7 @@ Wayve,https://wayve.firststage.co/jobs?layout=grid&location=Sunnyvale%2C+Califor
 Shield AI,https://jobs.lever.co/shieldai/?commitment=Intern,CSS:.posting-title
 DeepMind,https://job-boards.greenhouse.io/deepmind?page=1->https://job-boards.greenhouse.io/deepmind?page=2,CSS:p.body.body--medium
 Waymo,https://careers.withwaymo.com/jobs/search?page=1&employment_type_uids%5B%5D=fa4c4a8317c6c87309f488cb0d63aa7c&query=,CSS:.card-title.job-search-results-card-title
-Bedrock Robotics,https://jobs.ashbyhq.com/bedrock-robotics/,CSS:._title_12ylk_383.ashby-job-posting-brief-title
+Bedrock Robotics,https://jobs.ashbyhq.com/bedrock-robotics/,CSS:._title_1dvh9_382.ashby-job-posting-brief-title
 Applied Intuition,https://www.appliedintuition.com/careers#jobs-list,CSS:span.type-body
 FieldAI,https://jobs.lever.co/field-ai,CSS:.posting-title
 Humanoid,https://jobs.ashbyhq.com/humanoid/,CSS:._title_1dvh9_382.ashby-job-posting-brief-title
