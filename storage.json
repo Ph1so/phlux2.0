@@ -55558,6 +55558,10 @@
       {
         "title": "Senior Electrical Engineer - V&V Lead",
         "date": "7/24"
+      },
+      {
+        "title": "Senior Electrical Engineer - V&V",
+        "date": "7/27"
       }
     ],
     "Swarm Aero": [
@@ -57881,6 +57885,14 @@
       },
       {
         "title": "Lead, Spacecraft Mechanisms",
+        "date": "7/27"
+      },
+      {
+        "title": "Materials Technician (ASTM/Tensile Test)",
+        "date": "7/27"
+      },
+      {
+        "title": "Senior Controls Engineer (PAT)",
         "date": "7/27"
       }
     ],
@@ -63225,6 +63237,10 @@
       {
         "title": "Software Engineer - Defense Physical AI",
         "date": "7/27"
+      },
+      {
+        "title": "Machine Learning Engineer - Prediction and Planning",
+        "date": "7/27"
       }
     ],
     "FieldAI": [
@@ -63913,6 +63929,10 @@
       {
         "title": "Staff Platform Engineer (Databases & Storage)",
         "date": "7/21"
+      },
+      {
+        "title": "Research Engineer/Scientist (Robot Learning)",
+        "date": "7/27"
       }
     ]
   }
