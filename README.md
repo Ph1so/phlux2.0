@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 16428 roles across 210 companies*
+*Found 16434 roles across 210 companies*
 
 
 <table>
@@ -70,6 +70,13 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/graymatter-robotics/"><img src="https://cdn.brandfetch.io/graymatter-robotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="GrayMatter Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> GrayMatter Robotics</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Financial Analyst</div></td>
+  <td>8/7</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ambirobotics.com/careers#positions"><img src="https://cdn.brandfetch.io/ambi-life.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Ambi Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Ambi Robotics</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Office Ops and Inventory Coordinator</div></td>
@@ -105,9 +112,44 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.bosch.com/en?pages=5&country=us&positionTypes=f524b939-fe55-407b-a0b0-e8f4eec28997%2C8c682ec0-3d28-4e52-b53b-c63d440a32d3%2Cf3b92bc1-600d-4d33-9115-5aa27785f52b%2Ce4a3c0db-920d-4356-8ce0-c0b44a54e497#"><img src="https://cdn.brandfetch.io/bosch.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bosch" height="20" style="vertical-align:middle; margin-right:6px;"> Bosch</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Quality Engineer - 2nd Shift</div></td>
+  <td>8/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.bosch.com/en?pages=5&country=us&positionTypes=f524b939-fe55-407b-a0b0-e8f4eec28997%2C8c682ec0-3d28-4e52-b53b-c63d440a32d3%2Cf3b92bc1-600d-4d33-9115-5aa27785f52b%2Ce4a3c0db-920d-4356-8ce0-c0b44a54e497#"><img src="https://cdn.brandfetch.io/bosch.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bosch" height="20" style="vertical-align:middle; margin-right:6px;"> Bosch</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">FP&A Manager</div></td>
+  <td>8/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/picklerobot"><img src="https://cdn.brandfetch.io/picklerobot.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Pickle Robot" height="20" style="vertical-align:middle; margin-right:6px;"> Pickle Robot</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Director of People Operations - HYBRID — FULL-TIMECHARLESTOWN, MA</div></td>
+  <td>8/7</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/bedrock-robotics/"><img src="https://cdn.brandfetch.io/bedrockrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bedrock Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Bedrock Robotics</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer</div></td>
+  <td>8/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/bedrock-robotics/"><img src="https://cdn.brandfetch.io/bedrockrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bedrock Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Bedrock Robotics</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Operations Program Manager - Deployments</div></td>
+  <td>8/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.appliedintuition.com/careers#jobs-list"><img src="https://cdn.brandfetch.io/appliedintuition.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Applied Intuition" height="20" style="vertical-align:middle; margin-right:6px;"> Applied Intuition</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Legal Counsel, Government and Defense</div></td>
   <td>8/7</td>
 </tr>
   <tr>
