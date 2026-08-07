@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 16400 roles across 210 companies*
+*Found 16415 roles across 210 companies*
 
 
 <table>
@@ -38,6 +38,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/cohere/"><img src="https://cdn.brandfetch.io/cohere.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Cohere" height="20" style="vertical-align:middle; margin-right:6px;"> Cohere</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Machine Learning Intern/Co-op (Winter 2027)</div></td>
+  <td>8/6</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/cohere/"><img src="https://cdn.brandfetch.io/cohere.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Cohere" height="20" style="vertical-align:middle; margin-right:6px;"> Cohere</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Global Public Policy Manager, Compute, Infrastructure & Sovereign AI</div></td>
   <td>8/6</td>
 </tr>
   <tr>
@@ -80,6 +87,20 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Business Development Associate</div></td>
+  <td>8/6</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Datacentre Operations Specialist</div></td>
+  <td>8/6</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Datacentre Operations Specialist</div></td>
   <td>8/6</td>
 </tr>
   <tr>
@@ -168,6 +189,13 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://search-careers.gm.com/en/jobs/?search=&country=United+States+of+America&team=Students+%26+Recent+Graduates&pagesize=100#results"><img src="https://cdn.brandfetch.io/gm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="General Motors" height="20" style="vertical-align:middle; margin-right:6px;"> General Motors</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Quality Engineer - Aluminum Casting</div></td>
+  <td>8/6</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://brightpick.ai/careers/#openpositions"><img src="https://cdn.brandfetch.io/brightpick.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Brightpick" height="20" style="vertical-align:middle; margin-right:6px;"> Brightpick</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robotics Field Technician [Broomfield, CO]</div></td>
@@ -192,6 +220,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/humanoid/"><img src="https://cdn.brandfetch.io/shophumanoid.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Humanoid" height="20" style="vertical-align:middle; margin-right:6px;"> Humanoid</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Personal Assistant-CFO</div></td>
+  <td>8/6</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://apply.workable.com/pony-dot-ai/"><img src="https://cdn.brandfetch.io/pony.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Pony.ai" height="20" style="vertical-align:middle; margin-right:6px;"> Pony.ai</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer, Behavior</div></td>
   <td>8/6</td>
 </tr>
   <tr>
@@ -234,6 +269,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Firmware Validation Engineer - Battery Management Systems - HYBRID — FULL-TIMEFOSTER CITY, CA</div></td>
+  <td>8/6</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Systems Engineer, Future Robot Platforms - HYBRID — FULL-TIMEFOSTER CITY, CA</div></td>
   <td>8/6</td>
 </tr>
   <tr>
@@ -371,6 +413,13 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.intrinsic.ai/careers"><img src="https://cdn.brandfetch.io/intrinsicdev.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Intrinsic" height="20" style="vertical-align:middle; margin-right:6px;"> Intrinsic</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Product Operations Specialist, Systems and Data</div></td>
+  <td>8/6</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.gusto.com/boards/anyware-robotics-e7cbbd33-db1c-470e-93b3-020992d24e20"><img src="https://cdn.brandfetch.io/anywhere.global/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anywhere Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Anywhere Robotics</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Supply Chain Engineering Intern – Robotics (2026 Fall)</div></td>
@@ -399,9 +448,65 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.impulsespace.com/careers"><img src="https://cdn.brandfetch.io/impulsespace.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Impulse Space" height="20" style="vertical-align:middle; margin-right:6px;"> Impulse Space</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Avionics Test Engineer</div></td>
+  <td>8/6</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.impulsespace.com/careers"><img src="https://cdn.brandfetch.io/impulsespace.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Impulse Space" height="20" style="vertical-align:middle; margin-right:6px;"> Impulse Space</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Reliability Engineer, Facilities & Infrastructure</div></td>
+  <td>8/6</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/bedrock-robotics/"><img src="https://cdn.brandfetch.io/bedrockrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bedrock Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Bedrock Robotics</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Head of Validation and Systems Engineering</div></td>
+  <td>8/6</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/bedrock-robotics/"><img src="https://cdn.brandfetch.io/bedrockrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bedrock Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Bedrock Robotics</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Functional Safety Engineer (Hardware)</div></td>
+  <td>8/6</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.appliedintuition.com/careers#jobs-list"><img src="https://cdn.brandfetch.io/appliedintuition.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Applied Intuition" height="20" style="vertical-align:middle; margin-right:6px;"> Applied Intuition</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Chief Engineer - AHS</div></td>
+  <td>8/6</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.appliedintuition.com/careers#jobs-list"><img src="https://cdn.brandfetch.io/appliedintuition.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Applied Intuition" height="20" style="vertical-align:middle; margin-right:6px;"> Applied Intuition</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Account Executive - Navy Mission Systems</div></td>
+  <td>8/6</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.appliedintuition.com/careers#jobs-list"><img src="https://cdn.brandfetch.io/appliedintuition.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Applied Intuition" height="20" style="vertical-align:middle; margin-right:6px;"> Applied Intuition</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Mission Director - Aerial Combat</div></td>
+  <td>8/6</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.appliedintuition.com/careers#jobs-list"><img src="https://cdn.brandfetch.io/appliedintuition.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Applied Intuition" height="20" style="vertical-align:middle; margin-right:6px;"> Applied Intuition</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Mission Director - SOCOM</div></td>
+  <td>8/6</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.appliedintuition.com/careers#jobs-list"><img src="https://cdn.brandfetch.io/appliedintuition.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Applied Intuition" height="20" style="vertical-align:middle; margin-right:6px;"> Applied Intuition</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Proposal Writer - Defense</div></td>
   <td>8/6</td>
 </tr>
   <tr>
