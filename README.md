@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 16436 roles across 210 companies*
+*Found 16438 roles across 210 companies*
 
 
 <table>
@@ -70,6 +70,13 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://search-careers.gm.com/en/jobs/?search=&country=United+States+of+America&team=Students+%26+Recent+Graduates&pagesize=100#results"><img src="https://cdn.brandfetch.io/gm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="General Motors" height="20" style="vertical-align:middle; margin-right:6px;"> General Motors</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Early Career Virtual/Computer Aided Engineer</div></td>
+  <td>8/7</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://brightpick.ai/careers/#openpositions"><img src="https://cdn.brandfetch.io/brightpick.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Brightpick" height="20" style="vertical-align:middle; margin-right:6px;"> Brightpick</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Servisný technik/technička</div></td>
@@ -80,6 +87,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/graymatter-robotics/"><img src="https://cdn.brandfetch.io/graymatter-robotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="GrayMatter Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> GrayMatter Robotics</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Financial Analyst</div></td>
+  <td>8/7</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/graymatter-robotics/"><img src="https://cdn.brandfetch.io/graymatter-robotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="GrayMatter Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> GrayMatter Robotics</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sales Development Representative</div></td>
   <td>8/7</td>
 </tr>
   <tr>
