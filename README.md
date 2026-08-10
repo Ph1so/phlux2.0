@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 16494 roles across 210 companies*
+*Found 16495 roles across 210 companies*
 
 
 <table>
@@ -45,6 +45,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/picklerobot"><img src="https://cdn.brandfetch.io/picklerobot.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Pickle Robot" height="20" style="vertical-align:middle; margin-right:6px;"> Pickle Robot</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robotics Software Engineer - HYBRID — FULL-TIMECHARLESTOWN, MA</div></td>
+  <td>8/10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/gatherai/?offices%5B%5D=4001902007"><img src="https://cdn.brandfetch.io/gather.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Gather AI" height="20" style="vertical-align:middle; margin-right:6px;"> Gather AI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Technical Program Manager (Product Operations) -Pittsburgh, PA or EST based</div></td>
   <td>8/10</td>
 </tr>
   <tr>
