@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 16624 roles across 210 companies*
+*Found 16629 roles across 210 companies*
 
 
 <table>
@@ -77,6 +77,13 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.sw.siemens.com/locations/usa/jobs/?q=intern"><img src="https://cdn.brandfetch.io/siemens.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Siemens" height="20" style="vertical-align:middle; margin-right:6px;"> Siemens</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Technical Account Manager - Boston, MA - Work Type: remote - Job Family: PreSales - Req ID: 0c950d06-599e-49af-ae99-916479faa126</div></td>
+  <td>8/12</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.capitalonecareers.com/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.Campus%22,%22value%22:%22Internships%22%7D]"><img src="https://cdn.brandfetch.io/capitalone.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Capital One" height="20" style="vertical-align:middle; margin-right:6px;"> Capital One</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Analyst Early Internship Program - Summer 2027</div></td>
@@ -87,6 +94,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.capitalonecareers.com/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.Campus%22,%22value%22:%22Internships%22%7D]"><img src="https://cdn.brandfetch.io/capitalone.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Capital One" height="20" style="vertical-align:middle; margin-right:6px;"> Capital One</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Business Analyst Intern - Summer 2027</div></td>
+  <td>8/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.comcast.com/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.InternRotational%22,%22value%22:%22Intern%22%7D]"><img src="https://cdn.brandfetch.io/metrological.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Comcast" height="20" style="vertical-align:middle; margin-right:6px;"> Comcast</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Community Relations Intern</div></td>
   <td>8/12</td>
 </tr>
   <tr>
@@ -105,6 +119,13 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/humanoid/"><img src="https://cdn.brandfetch.io/shophumanoid.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Humanoid" height="20" style="vertical-align:middle; margin-right:6px;"> Humanoid</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robotics Integration Engineer – End-Effectors & UMI</div></td>
+  <td>8/12</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/maymobility/"><img src="https://cdn.brandfetch.io/maymobility.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="May Mobility" height="20" style="vertical-align:middle; margin-right:6px;"> May Mobility</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Autonomy Technical Project Manager</div></td>
@@ -115,6 +136,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://recruiting.paylocity.com/recruiting/jobs/All/3a4d8744-ab51-41d9-a0cf-43de316c7dca/Beep-Inc"><img src="https://cdn.brandfetch.io/go-beep.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Beep" height="20" style="vertical-align:middle; margin-right:6px;"> Beep</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Payroll & Benefits Specialist</div></td>
+  <td>8/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Technical Sourcer - HYBRID — FULL-TIMEFOSTER CITY, CA / SAN DIEGO, CA</div></td>
   <td>8/12</td>
 </tr>
   <tr>
@@ -171,6 +199,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.appliedintuition.com/careers#jobs-list"><img src="https://cdn.brandfetch.io/appliedintuition.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Applied Intuition" height="20" style="vertical-align:middle; margin-right:6px;"> Applied Intuition</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Software Engineer - Data Engine</div></td>
+  <td>8/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.appliedintuition.com/careers#jobs-list"><img src="https://cdn.brandfetch.io/appliedintuition.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Applied Intuition" height="20" style="vertical-align:middle; margin-right:6px;"> Applied Intuition</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Technical Lead Software Engineer - Autonomy Mission Systems</div></td>
   <td>8/12</td>
 </tr>
   <tr>
