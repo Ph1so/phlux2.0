@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 16660 roles across 210 companies*
+*Found 16665 roles across 210 companies*
 
 
 <table>
@@ -52,6 +52,27 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Software Engineering - Technical Support Intern 2027 - Internship - Multiple Cities</div></td>
+  <td>8/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Software Engineering - Software Developer Spring Co-op 2027 - Internship - Multiple Cities</div></td>
+  <td>8/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Software Engineering - Technical Support Spring Co-op 2027 - Internship - Multiple Cities</div></td>
+  <td>8/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Infrastructure & Technology - Site Reliability Engineer Spring Co-op 2027 - Internship - Multiple Cities</div></td>
   <td>8/12</td>
 </tr>
   <tr>
@@ -143,6 +164,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.github.careers/careers-home/jobs?view=search&limit=100&page=1"><img src="https://cdn.brandfetch.io/github.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Github" height="20" style="vertical-align:middle; margin-right:6px;"> Github</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Software Engineer, Front End Web UI Platform</div></td>
+  <td>8/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.github.careers/careers-home/jobs?view=search&limit=100&page=1"><img src="https://cdn.brandfetch.io/github.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Github" height="20" style="vertical-align:middle; margin-right:6px;"> Github</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Engineering Manager, Licensing</div></td>
   <td>8/12</td>
 </tr>
   <tr>
@@ -269,6 +297,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Manager, Procurement & Strategic Partnerships - Chassis - HYBRID — FULL-TIMEFOSTER CITY, CA</div></td>
+  <td>8/12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Student Contract Worker: Analyst - ON-SITE — CONTRACTFOSTER CITY, CA / SAN DIEGO, CA / SEATTLE, WA</div></td>
   <td>8/12</td>
 </tr>
   <tr>
