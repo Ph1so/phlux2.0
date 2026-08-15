@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 16835 roles across 210 companies*
+*Found 16837 roles across 210 companies*
 
 
 <table>
@@ -52,6 +52,20 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.sw.siemens.com/locations/usa/jobs/?q=intern"><img src="https://cdn.brandfetch.io/siemens.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Siemens" height="20" style="vertical-align:middle; margin-right:6px;"> Siemens</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Development Engineer - Contact Mechanics - Orlando, FL - Req ID: 515844</div></td>
+  <td>8/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.sw.siemens.com/locations/usa/jobs/?q=intern"><img src="https://cdn.brandfetch.io/siemens.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Siemens" height="20" style="vertical-align:middle; margin-right:6px;"> Siemens</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">R&D Director / Sr. Principle Engineer, Semiconductor Process and Device Simulations - Santa Clara, CA - Req ID: 513302</div></td>
+  <td>8/15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.sw.siemens.com/locations/usa/jobs/?q=intern"><img src="https://cdn.brandfetch.io/siemens.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Siemens" height="20" style="vertical-align:middle; margin-right:6px;"> Siemens</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer - C++, Compiler - Burlington, MA - Req ID: 509131</div></td>
   <td>8/15</td>
 </tr>
   <tr>
