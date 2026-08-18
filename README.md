@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 16957 roles across 210 companies*
+*Found 16958 roles across 210 companies*
 
 
 <table>
@@ -101,6 +101,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/aeva?"><img src="https://cdn.brandfetch.io/aeva.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Aeva" height="20" style="vertical-align:middle; margin-right:6px;"> Aeva</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Software Infrastructure Test Architect - ON-SITE — FULL-TIMEBANGALORE</div></td>
+  <td>8/18</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/aeva?"><img src="https://cdn.brandfetch.io/aeva.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Aeva" height="20" style="vertical-align:middle; margin-right:6px;"> Aeva</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior DSP Test Engineer - ON-SITE — FULL-TIMEBANGALORE</div></td>
   <td>8/18</td>
 </tr>
   <tr>
