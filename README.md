@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 17034 roles across 210 companies*
+*Found 17037 roles across 210 companies*
 
 
 <table>
@@ -189,6 +189,20 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/cohere/"><img src="https://cdn.brandfetch.io/cohere.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Cohere" height="20" style="vertical-align:middle; margin-right:6px;"> Cohere</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Account Executive, META</div></td>
+  <td>8/19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/cohere/"><img src="https://cdn.brandfetch.io/cohere.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Cohere" height="20" style="vertical-align:middle; margin-right:6px;"> Cohere</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Solutions Architect - UAE</div></td>
+  <td>8/19</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Hardware Engineer University Co - Op Placement 2027</div></td>
@@ -269,6 +283,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://razer.wd3.myworkdayjobs.com/Careers?jobFamilyGroup=5f89d961603401a62553f98eab0c3255"><img src="https://cdn.brandfetch.io/razer.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Razer" height="20" style="vertical-align:middle; margin-right:6px;"> Razer</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Software Testing Intern (Automation)</div></td>
+  <td>8/19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://search-careers.gm.com/en/jobs/?search=&country=United+States+of+America&team=Students+%26+Recent+Graduates&pagesize=100#results"><img src="https://cdn.brandfetch.io/gm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="General Motors" height="20" style="vertical-align:middle; margin-right:6px;"> General Motors</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">(New College Graduate) Associate AI & Data Engineering Engineer</div></td>
   <td>8/19</td>
 </tr>
   <tr>
