@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 17548 roles across 210 companies*
+*Found 17560 roles across 210 companies*
 
 
 <table>
@@ -80,6 +80,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?lastSelectedFacet=TITLES&location=United+States&locationId=300000000480126&locationLevel=country&mode=location&selectedTitlesFacet=TRA"><img src="https://cdn.brandfetch.io/nokia.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nokia" height="20" style="vertical-align:middle; margin-right:6px;"> Nokia</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Data Analytics & AI Co-op</div></td>
+  <td>8/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?lastSelectedFacet=TITLES&location=United+States&locationId=300000000480126&locationLevel=country&mode=location&selectedTitlesFacet=TRA"><img src="https://cdn.brandfetch.io/nokia.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nokia" height="20" style="vertical-align:middle; margin-right:6px;"> Nokia</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Deepfield Software Engineer Co-op</div></td>
   <td>8/25</td>
 </tr>
   <tr>
@@ -259,6 +266,55 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.comcast.com/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.InternRotational%22,%22value%22:%22Intern%22%7D]"><img src="https://cdn.brandfetch.io/metrological.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Comcast" height="20" style="vertical-align:middle; margin-right:6px;"> Comcast</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Xfinity Sales Professional</div></td>
+  <td>8/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.comcast.com/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.InternRotational%22,%22value%22:%22Intern%22%7D]"><img src="https://cdn.brandfetch.io/metrological.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Comcast" height="20" style="vertical-align:middle; margin-right:6px;"> Comcast</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Hardware Test Engineer</div></td>
+  <td>8/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.comcast.com/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.InternRotational%22,%22value%22:%22Intern%22%7D]"><img src="https://cdn.brandfetch.io/metrological.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Comcast" height="20" style="vertical-align:middle; margin-right:6px;"> Comcast</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Xfinity Sales Professional</div></td>
+  <td>8/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.comcast.com/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.InternRotational%22,%22value%22:%22Intern%22%7D]"><img src="https://cdn.brandfetch.io/metrological.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Comcast" height="20" style="vertical-align:middle; margin-right:6px;"> Comcast</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Xfinity Sales Professional</div></td>
+  <td>8/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.comcast.com/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.InternRotational%22,%22value%22:%22Intern%22%7D]"><img src="https://cdn.brandfetch.io/metrological.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Comcast" height="20" style="vertical-align:middle; margin-right:6px;"> Comcast</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Firmware Engineer (Embedded Linux)</div></td>
+  <td>8/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.comcast.com/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.InternRotational%22,%22value%22:%22Intern%22%7D]"><img src="https://cdn.brandfetch.io/metrological.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Comcast" height="20" style="vertical-align:middle; margin-right:6px;"> Comcast</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Site Reliability Engineer, Streaming HUB - FreeWheel</div></td>
+  <td>8/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.comcast.com/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.InternRotational%22,%22value%22:%22Intern%22%7D]"><img src="https://cdn.brandfetch.io/metrological.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Comcast" height="20" style="vertical-align:middle; margin-right:6px;"> Comcast</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Cloud Platform Engineer</div></td>
+  <td>8/25</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Intern, Legal</div></td>
@@ -273,6 +329,20 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers?jobFamilyGroup=be3ab1d7a62801c1c7c82b804a0529d0&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/medtronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Medtronic" height="20" style="vertical-align:middle; margin-right:6px;"> Medtronic</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Engineering Intern Summer 2027 - Candidates Attending 2026 O4U Engineering Conference</div></td>
+  <td>8/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers?jobFamilyGroup=be3ab1d7a62801c1c7c82b804a0529d0&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/medtronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Medtronic" height="20" style="vertical-align:middle; margin-right:6px;"> Medtronic</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Engineering Intern Summer 2027 - Candidates Attending 2026 O4U Engineering Conference</div></td>
+  <td>8/25</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/graymatter-robotics/"><img src="https://cdn.brandfetch.io/graymatter-robotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="GrayMatter Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> GrayMatter Robotics</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robotics Software Engineer: Government Projects</div></td>
@@ -283,6 +353,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/humanoid/"><img src="https://cdn.brandfetch.io/shophumanoid.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Humanoid" height="20" style="vertical-align:middle; margin-right:6px;"> Humanoid</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior HR Operations Manager</div></td>
+  <td>8/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Contract Student Worker Software Engineer (6-month Contract) (20/hrs week) - HYBRID — CONTRACTFOSTER CITY, CA</div></td>
   <td>8/25</td>
 </tr>
   <tr>
@@ -318,6 +395,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.bosch.com/en?pages=5&country=us&positionTypes=f524b939-fe55-407b-a0b0-e8f4eec28997%2C8c682ec0-3d28-4e52-b53b-c63d440a32d3%2Cf3b92bc1-600d-4d33-9115-5aa27785f52b%2Ce4a3c0db-920d-4356-8ce0-c0b44a54e497#"><img src="https://cdn.brandfetch.io/bosch.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bosch" height="20" style="vertical-align:middle; margin-right:6px;"> Bosch</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ AI Security Research Intern</div></td>
+  <td>8/25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/rai?"><img src="https://cdn.brandfetch.io/learnroboticsandai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Robotics and AI Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Robotics and AI Insitute</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Internship - Software Engineering - ON-SITE — INTERN/CO-OPZURICH</div></td>
   <td>8/25</td>
 </tr>
   <tr>
