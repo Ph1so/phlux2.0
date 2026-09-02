@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 18019 roles across 210 companies*
+*Found 18040 roles across 210 companies*
 
 
 <table>
@@ -19,6 +19,27 @@ Easily track jobs across top tech companies.
   </thead>
   <tbody>
 
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Infrastructure & Technology - Hardware Developer - Return Intern 2026/2027 - Internship - TUCSON, US</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Infrastructure & Technology - Site Reliability Engineer Network Intern - OneIT - Austin, TX - 2027 - Internship - Austin, US</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Product Management - IBM Power Product Management Intern - Austin, TX - 2027 - Internship - Austin, US</div></td>
+  <td>9/2</td>
+</tr>
   <tr>
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://intel.wd1.myworkdayjobs.com/External?workerSubType=dc8bf79476611087dfde99931439ae75&locations=1e4a4eb3adf10118b1dfe877bf8162d0"><img src="https://cdn.brandfetch.io/intel.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Intel" height="20" style="vertical-align:middle; margin-right:6px;"> Intel</a></div>
@@ -49,6 +70,27 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://intel.wd1.myworkdayjobs.com/External?workerSubType=dc8bf79476611087dfde99931439ae75&locations=1e4a4eb3adf10118b1dfe877bf8162d0"><img src="https://cdn.brandfetch.io/intel.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Intel" height="20" style="vertical-align:middle; margin-right:6px;"> Intel</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Facilities Services - Intern, Bachelor’s</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://intel.wd1.myworkdayjobs.com/External?workerSubType=dc8bf79476611087dfde99931439ae75&locations=1e4a4eb3adf10118b1dfe877bf8162d0"><img src="https://cdn.brandfetch.io/intel.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Intel" height="20" style="vertical-align:middle; margin-right:6px;"> Intel</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Platform Hardware and Systems Engineering - Intern, Bachelor’s</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://intel.wd1.myworkdayjobs.com/External?workerSubType=dc8bf79476611087dfde99931439ae75&locations=1e4a4eb3adf10118b1dfe877bf8162d0"><img src="https://cdn.brandfetch.io/intel.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Intel" height="20" style="vertical-align:middle; margin-right:6px;"> Intel</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Platform Hardware and Systems Engineering - Intern, Graduate</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.atlassian.com/company/careers/all-jobs?team=Interns&location=&search="><img src="https://cdn.brandfetch.io/atlassian.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Atlassian" height="20" style="vertical-align:middle; margin-right:6px;"> Atlassian</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Product Management Intern, 2027 Summer U.S.</div></td>
@@ -56,9 +98,23 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.intuit.com/search-jobs/interns/"><img src="https://cdn.brandfetch.io/intuit.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Intuit" height="20" style="vertical-align:middle; margin-right:6px;"> Intuit</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Emerging Talent Event - Summer 2027: Technical Program Management Intern</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=new-york"><img src="https://cdn.brandfetch.io/janestreet.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Jane Street" height="20" style="vertical-align:middle; margin-right:6px;"> Jane Street</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Procurement Specialist</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.adobe.com/us/en/search-results?qkexperienceLevel=University%20Intern"><img src="https://cdn.brandfetch.io/adobe.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Adobe" height="20" style="vertical-align:middle; margin-right:6px;"> Adobe</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Intern - Returnship - RMO</div></td>
   <td>9/2</td>
 </tr>
   <tr>
@@ -98,6 +154,69 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://corporate.target.com/careers/job-search?referral=job-search-link&currentPage=1&jobAreas=Internships&profiles=Arrows%20Manager%7C%7CEntry%20Level&filtercondition=or"><img src="https://cdn.brandfetch.io/target.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Target" height="20" style="vertical-align:middle; margin-right:6px;"> Target</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Operations Manager Intern (Starting Summer 2027) IR3 Distribution Center, Upper Marlboro, MD</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.amentumcareers.com/jobs/search?page=1&country_codes%5B%5D=US&query=%22Intern%22"><img src="https://cdn.brandfetch.io/amentum.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Amentum" height="20" style="vertical-align:middle; margin-right:6px;"> Amentum</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Fall 2026 Intern - Parachute Engineer</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/drweng?departments%5B%5D=87404"><img src="https://cdn.brandfetch.io/drw.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="DRW" height="20" style="vertical-align:middle; margin-right:6px;"> DRW</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ IT Intern</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://search-careers.gm.com/en/jobs/?search=&country=United+States+of+America&team=Students+%26+Recent+Graduates&pagesize=100#results"><img src="https://cdn.brandfetch.io/gm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="General Motors" height="20" style="vertical-align:middle; margin-right:6px;"> General Motors</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ 2027 Summer Intern – Manufacturing Quality Engineer</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://search-careers.gm.com/en/jobs/?search=&country=United+States+of+America&team=Students+%26+Recent+Graduates&pagesize=100#results"><img src="https://cdn.brandfetch.io/gm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="General Motors" height="20" style="vertical-align:middle; margin-right:6px;"> General Motors</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ 2027 Summer Manufacturing Intern - Mechanical Engineer</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://motional.com/open-positions#/?employmentType=Intern%2C+Full-time"><img src="https://cdn.brandfetch.io/motional.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Motional" height="20" style="vertical-align:middle; margin-right:6px;"> Motional</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">IT Support Specialist [6 Month Contract]</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/lilasciences/"><img src="https://cdn.brandfetch.io/lila.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lila Sciences" height="20" style="vertical-align:middle; margin-right:6px;"> Lila Sciences</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Associate Director / Director, Strategic Finance</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/lilasciences/"><img src="https://cdn.brandfetch.io/lila.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lila Sciences" height="20" style="vertical-align:middle; margin-right:6px;"> Lila Sciences</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Contractor, Technical Recruiter</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.mitre.org/us/en/search-results?keywords=student"><img src="https://cdn.brandfetch.io/mitre.org/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mitre" height="20" style="vertical-align:middle; margin-right:6px;"> Mitre</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Software Engineering Intern</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.bosch.com/en?pages=5&country=us&positionTypes=f524b939-fe55-407b-a0b0-e8f4eec28997%2C8c682ec0-3d28-4e52-b53b-c63d440a32d3%2Cf3b92bc1-600d-4d33-9115-5aa27785f52b%2Ce4a3c0db-920d-4356-8ce0-c0b44a54e497#"><img src="https://cdn.brandfetch.io/bosch.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bosch" height="20" style="vertical-align:middle; margin-right:6px;"> Bosch</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Product Management for Power Semiconductor Components</div></td>
@@ -105,9 +224,37 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.bosch.com/en?pages=5&country=us&positionTypes=f524b939-fe55-407b-a0b0-e8f4eec28997%2C8c682ec0-3d28-4e52-b53b-c63d440a32d3%2Cf3b92bc1-600d-4d33-9115-5aa27785f52b%2Ce4a3c0db-920d-4356-8ce0-c0b44a54e497#"><img src="https://cdn.brandfetch.io/bosch.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bosch" height="20" style="vertical-align:middle; margin-right:6px;"> Bosch</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Brazer 2 - Multiple Shifts</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/aeva?"><img src="https://cdn.brandfetch.io/aeva.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Aeva" height="20" style="vertical-align:middle; margin-right:6px;"> Aeva</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Program Operations Manager - ON-SITE — FULL-TIMEMOUNTAIN VIEW, CA</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/scoutai/"><img src="https://cdn.brandfetch.io/team-scout.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ScoutAI" height="20" style="vertical-align:middle; margin-right:6px;"> ScoutAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Mechanical Engineer</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/nerostechnologies/"><img src="https://cdn.brandfetch.io/nerostechnologies.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Neros Technologies" height="20" style="vertical-align:middle; margin-right:6px;"> Neros Technologies</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Mission Success Lead, UA</div></td>
+  <td>9/2</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.impulsespace.com/careers"><img src="https://cdn.brandfetch.io/impulsespace.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Impulse Space" height="20" style="vertical-align:middle; margin-right:6px;"> Impulse Space</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Manufacturing Engineer (CMC Applications)</div></td>
   <td>9/2</td>
 </tr>
   <tr>
