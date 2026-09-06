@@ -3,9 +3,8 @@
     "from": "phiwe3296@gmail.com",
     "to": "phiwe3296@gmail.com",
     "login": "phiwe3296@gmail.com",
-    "internship_bcc_enabled": false,
+    "internship_bcc_enabled": true,
     "internship_bcc": [
-      "jameseyeh@gmail.com",
       "dustin.nguyen16@gmail.com",
       "brian.hwanhee.cho@gmail.com",
       "jack.lipengzhu@gmail.com",
@@ -13,7 +12,6 @@
     ],
     "fulltime_enabled": false,
     "fulltime_bcc": [
-      "alex_yeh2@yahoo.com"
     ]
   }
 }
