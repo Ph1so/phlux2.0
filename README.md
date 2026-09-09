@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 18504 roles across 210 companies*
+*Found 18511 roles across 210 companies*
 
 
 <table>
@@ -38,6 +38,27 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=recent&country%5B%5D=USA&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=intern&city=&country=&region=&county=&query_options=&"><img src="https://cdn.brandfetch.io/amazon.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Amazon" height="20" style="vertical-align:middle; margin-right:6px;"> Amazon</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Startup Project Manager Intern Spring and Summer 2027 (Bellevue, WA), GEMS NA Startup</div></td>
+  <td>9/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=recent&country%5B%5D=USA&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=intern&city=&country=&region=&county=&query_options=&"><img src="https://cdn.brandfetch.io/amazon.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Amazon" height="20" style="vertical-align:middle; margin-right:6px;"> Amazon</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Supply Chain Manager Intern/Co-op, ROBOTICS - 2027</div></td>
+  <td>9/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=recent&country%5B%5D=USA&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=intern&city=&country=&region=&county=&query_options=&"><img src="https://cdn.brandfetch.io/amazon.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Amazon" height="20" style="vertical-align:middle; margin-right:6px;"> Amazon</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Hardware Development Engineer Intern/Co-Op, ROBOTICS - 2027</div></td>
+  <td>9/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=recent&country%5B%5D=USA&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=intern&city=&country=&region=&county=&query_options=&"><img src="https://cdn.brandfetch.io/amazon.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Amazon" height="20" style="vertical-align:middle; margin-right:6px;"> Amazon</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Software Development Engineer Intern/Co-Op, ROBOTICS - 2027</div></td>
   <td>9/9</td>
 </tr>
   <tr>
@@ -105,6 +126,13 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://bostonscientific.eightfold.ai/careers?start=0&location=United+States&pid=563602797912246&sort_by=distance&filter_include_remote=1&filter_seniority=Intern"><img src="https://cdn.brandfetch.io/bostonscientific.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boston Scientific" height="20" style="vertical-align:middle; margin-right:6px;"> Boston Scientific</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Systems Design Engineering Intern</div></td>
+  <td>9/9</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/replit/"><img src="https://cdn.brandfetch.io/replit.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Replit" height="20" style="vertical-align:middle; margin-right:6px;"> Replit</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Premium Support Engineer (Foster City, Weekend Shift)</div></td>
@@ -143,6 +171,20 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?acm=ALL&alrpm=6252001&ascf=[%7B%22key%22:%22custom_fields.ProgramType%22,%22value%22:%22Internship%22%7D]"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Disney Experiences (Disney Eats) Public Relations and Digital Communications Intern, Spring 2027</div></td>
+  <td>9/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://corporate.target.com/careers/job-search?referral=job-search-link&currentPage=1&jobAreas=Internships&profiles=Arrows%20Manager%7C%7CEntry%20Level&filtercondition=or"><img src="https://cdn.brandfetch.io/target.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Target" height="20" style="vertical-align:middle; margin-right:6px;"> Target</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Roundel Advertising Internship - Minneapolis, MN (Starting Summer, 2027)</div></td>
+  <td>9/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://corporate.target.com/careers/job-search?referral=job-search-link&currentPage=1&jobAreas=Internships&profiles=Arrows%20Manager%7C%7CEntry%20Level&filtercondition=or"><img src="https://cdn.brandfetch.io/target.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Target" height="20" style="vertical-align:middle; margin-right:6px;"> Target</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ UX Design Internship - Minneapolis, MN (Starting Summer, 2027)</div></td>
   <td>9/9</td>
 </tr>
   <tr>
@@ -318,6 +360,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.bosch.com/en?pages=5&country=us&positionTypes=f524b939-fe55-407b-a0b0-e8f4eec28997%2C8c682ec0-3d28-4e52-b53b-c63d440a32d3%2Cf3b92bc1-600d-4d33-9115-5aa27785f52b%2Ce4a3c0db-920d-4356-8ce0-c0b44a54e497#"><img src="https://cdn.brandfetch.io/bosch.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bosch" height="20" style="vertical-align:middle; margin-right:6px;"> Bosch</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Health, Safety, & Environment Intern - Summer 2027</div></td>
+  <td>9/9</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.bosch.com/en?pages=5&country=us&positionTypes=f524b939-fe55-407b-a0b0-e8f4eec28997%2C8c682ec0-3d28-4e52-b53b-c63d440a32d3%2Cf3b92bc1-600d-4d33-9115-5aa27785f52b%2Ce4a3c0db-920d-4356-8ce0-c0b44a54e497#"><img src="https://cdn.brandfetch.io/bosch.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bosch" height="20" style="vertical-align:middle; margin-right:6px;"> Bosch</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Steel Press Setup Operator - 3rd Shift</div></td>
   <td>9/9</td>
 </tr>
   <tr>
