@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 18993 roles across 210 companies*
+*Found 18994 roles across 210 companies*
 
 
 <table>
@@ -115,6 +115,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/gecko-robotics/"><img src="https://cdn.brandfetch.io/geckorobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Gecko Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Gecko Robotics</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Full Stack Software Engineering Intern</div></td>
+  <td>9/16</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://search-careers.gm.com/en/jobs/?search=&country=United+States+of+America&team=Students+%26+Recent+Graduates&pagesize=100#results"><img src="https://cdn.brandfetch.io/gm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="General Motors" height="20" style="vertical-align:middle; margin-right:6px;"> General Motors</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer, Data Software Engineering and Cloud Platforms, Early Careers</div></td>
   <td>9/16</td>
 </tr>
   <tr>
