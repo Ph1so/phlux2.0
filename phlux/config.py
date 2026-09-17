@@ -28,6 +28,19 @@ def load_config(path: Path | str = DEFAULT_CONFIG_PATH) -> Dict[str, Any]:
         return json.load(f)
 
 
+def load_company_list_setting(path: Path | str = DEFAULT_CONFIG_PATH) -> str | None:
+    """Return the ``COMPANY_LIST`` setting, or ``None`` to scrape everything.
+
+    The value is a reference to a file in ``lists/`` — a bare stem
+    (``"robotics"``), a file name, or a path. An empty string, ``null``, or a
+    missing key all mean "scrape every company in ``companies.csv``".
+    """
+    value = load_config(path).get("COMPANY_LIST")
+    if not isinstance(value, str) or not value.strip():
+        return None
+    return value.strip()
+
+
 def load_email_config(path: Path | str = DEFAULT_CONFIG_PATH) -> Dict[str, Any]:
     """Return email settings from the ``EMAIL`` section, filled with defaults.
 

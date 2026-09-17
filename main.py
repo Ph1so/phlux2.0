@@ -15,7 +15,8 @@ import pytz
 from gspread_formatting import CellFormat, format_cell_range
 from oauth2client.service_account import ServiceAccountCredentials
 
-from phlux.config import load_config, load_email_config
+from phlux.config import load_company_list_setting, load_config, load_email_config
+from phlux.lists import select_companies
 from phlux.scraping import ScrapeManager, load_company_data
 from phlux.utils import is_full_time, is_internship, update_icons
 
@@ -203,7 +204,10 @@ def main() -> None:
     """Run the full scrape → store → alert pipeline."""
     load_config()
     manager = ScrapeManager()
-    companies = load_company_data()
+    companies = select_companies(load_company_data(), load_company_list_setting())
+    if not companies:
+        print("No companies selected — check COMPANY_LIST in config.json.")
+        return
     result = manager.scrape_companies(companies=companies)
 
     Path("storage.json").write_text(json.dumps(result["data"], indent=2), encoding="utf-8")

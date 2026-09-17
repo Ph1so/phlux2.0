@@ -1,7 +1,6 @@
 """Core scraping logic: action parser, headless scraper, job deduplication, and orchestration."""
 from __future__ import annotations
 
-import csv
 import json
 import logging
 import os
@@ -9,7 +8,7 @@ import time
 from concurrent.futures import ProcessPoolExecutor, as_completed
 from datetime import datetime
 from pathlib import Path
-from typing import Dict, List
+from typing import Dict, Iterable, List
 
 import pytz
 import requests
@@ -19,6 +18,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from tenacity import retry, stop_after_attempt, wait_fixed
 
+from .lists import filter_companies, load_companies
 from .models import Company, ScrapeResult
 from .utils import get_driver, is_internship
 
@@ -206,26 +206,24 @@ def get_jobs_headless(
     return jobs
 
 
-def load_company_data(csv_path: Path = Path("companies.csv")) -> List[Company]:
+def load_company_data(
+    csv_path: Path = Path("companies.csv"),
+    names: Iterable[str] | None = None,
+) -> List[Company]:
     """Parse ``companies.csv`` and return a list of :class:`Company` objects.
 
     Args:
         csv_path: Path to the CSV file (default: ``companies.csv``).
+        names: Optional company names to keep; ``None`` keeps every row.
+            See :func:`phlux.lists.filter_companies` for matching rules.
 
     Returns:
         List of Company objects with ``name``, ``link``, and ``selector`` fields.
     """
-    companies = []
-    with open(csv_path, newline="", encoding="utf-8") as f:
-        for row in csv.DictReader(f):
-            companies.append(
-                Company(
-                    row["Name"].strip(),
-                    row["Link"].strip().strip("'\""),
-                    row["ClassName"].strip(),
-                )
-            )
-    return companies
+    companies = load_companies(csv_path)
+    if names is None:
+        return companies
+    return filter_companies(companies, names)
 
 
 def process_jobs(data: dict, result: ScrapeResult, new_jobs: Dict) -> None:
