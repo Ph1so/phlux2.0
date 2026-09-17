@@ -1,0 +1,1053 @@
+<!DOCTYPE html>
+<html lang="en" data-stage="loading">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Company List Picker</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans+Condensed:wght@600&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+:root {
+  color-scheme: light;
+  --plane: #f9f9f7;
+  --surface: #fcfcfb;
+  --sunk: #f2f1ed;
+  --ink: #0b0b0b;
+  --ink-2: #52514e;
+  --muted: #898781;
+  --grid: #e1e0d9;
+  --axis: #c3c2b7;
+  --border: rgba(11, 11, 11, 0.10);
+  --keep: #0ca30c;
+  --skip: #d03b3b;
+  --focus: #2a78d6;
+  --shadow: 0 1px 2px rgba(11, 11, 11, 0.06), 0 8px 24px rgba(11, 11, 11, 0.06);
+  --lift: 0 2px 4px rgba(11, 11, 11, 0.08), 0 18px 44px rgba(11, 11, 11, 0.14);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --plane: #0d0d0d;
+    --surface: #1a1a19;
+    --sunk: #141413;
+    --ink: #ffffff;
+    --ink-2: #c3c2b7;
+    --muted: #898781;
+    --grid: #2c2c2a;
+    --axis: #383835;
+    --border: rgba(255, 255, 255, 0.10);
+    --keep: #35c035;
+    --skip: #e35b5b;
+    --focus: #3987e5;
+    --shadow: 0 1px 2px rgba(0, 0, 0, 0.5), 0 8px 24px rgba(0, 0, 0, 0.45);
+    --lift: 0 2px 4px rgba(0, 0, 0, 0.5), 0 18px 44px rgba(0, 0, 0, 0.6);
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --plane: #0d0d0d;
+  --surface: #1a1a19;
+  --sunk: #141413;
+  --ink: #ffffff;
+  --ink-2: #c3c2b7;
+  --muted: #898781;
+  --grid: #2c2c2a;
+  --axis: #383835;
+  --border: rgba(255, 255, 255, 0.10);
+  --keep: #35c035;
+  --skip: #e35b5b;
+  --focus: #3987e5;
+  --shadow: 0 1px 2px rgba(0, 0, 0, 0.5), 0 8px 24px rgba(0, 0, 0, 0.45);
+  --lift: 0 2px 4px rgba(0, 0, 0, 0.5), 0 18px 44px rgba(0, 0, 0, 0.6);
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: var(--plane);
+  color: var(--ink);
+  font-family: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+h1, h2 {
+  font-family: "IBM Plex Sans Condensed", "IBM Plex Sans", sans-serif;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  margin: 0;
+}
+h1 { font-size: 26px; }
+h2 { font-size: 17px; }
+.mono { font-family: "IBM Plex Mono", ui-monospace, monospace; }
+:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+
+.wrap {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 24px 16px 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+/* ── Stage switching ─────────────────────────────────────────────────────── */
+[data-stage="loading"] .stage:not(#loading),
+[data-stage="setup"] .stage:not(#setup),
+[data-stage="swipe"] .stage:not(#swipe),
+[data-stage="review"] .stage:not(#review) { display: none; }
+.stage { display: flex; flex-direction: column; gap: 20px; }
+
+/* ── Masthead ────────────────────────────────────────────────────────────── */
+.masthead {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 4px 16px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--grid);
+}
+.masthead .lede { color: var(--ink-2); margin: 0; max-width: 60ch; }
+.masthead .stamp { margin-left: auto; font-size: 11px; color: var(--muted); white-space: nowrap; }
+
+/* ── Panels, fields, buttons ─────────────────────────────────────────────── */
+.panel {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.field { display: flex; flex-direction: column; gap: 5px; }
+.field > label {
+  font-size: 10px; font-weight: 600; letter-spacing: 0.08em;
+  text-transform: uppercase; color: var(--muted);
+}
+.field .hint { font-size: 12px; color: var(--muted); }
+input[type="text"], select, textarea {
+  font: inherit; font-size: 13px; color: var(--ink);
+  background: var(--plane); border: 1px solid var(--axis);
+  border-radius: 6px; padding: 8px 10px; width: 100%;
+}
+button {
+  font: inherit; font-weight: 600; font-size: 13px;
+  color: var(--ink); background: var(--surface);
+  border: 1px solid var(--axis); border-radius: 6px;
+  padding: 9px 16px; cursor: pointer;
+  transition: background 120ms ease, transform 80ms ease, border-color 120ms ease;
+}
+button:hover:not(:disabled) { background: var(--sunk); }
+button:active:not(:disabled) { transform: translateY(1px); }
+button:disabled { opacity: 0.45; cursor: not-allowed; }
+button.primary { background: var(--ink); color: var(--plane); border-color: var(--ink); }
+button.primary:hover:not(:disabled) { opacity: 0.86; background: var(--ink); }
+.row { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+.row.end { justify-content: flex-end; }
+.grow { flex: 1 1 200px; }
+
+/* ── Progress ────────────────────────────────────────────────────────────── */
+.progress { display: flex; flex-direction: column; gap: 7px; }
+.progress .meta {
+  display: flex; flex-wrap: wrap; gap: 6px 14px; align-items: baseline;
+  font-size: 12px; color: var(--muted);
+}
+.progress .meta .count { color: var(--ink); font-weight: 600; font-size: 13px; }
+.tally-keep { color: var(--keep); font-weight: 600; }
+.tally-skip { color: var(--skip); font-weight: 600; }
+.track { height: 5px; border-radius: 3px; background: var(--grid); overflow: hidden; }
+.track > span {
+  display: block; height: 100%; width: 0;
+  background: var(--ink); border-radius: 3px;
+  transition: width 220ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+/* ── Deck ────────────────────────────────────────────────────────────────── */
+.arena {
+  display: grid;
+  grid-template-columns: 1fr minmax(240px, 320px) 1fr;
+  align-items: center;
+  gap: 12px;
+}
+.deck {
+  position: relative;
+  height: 412px;
+  perspective: 1200px;
+}
+.verdict {
+  justify-self: center;
+  display: flex; flex-direction: column; align-items: center; gap: 6px;
+  font-size: 11px; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase;
+  color: var(--muted);
+  border: 1px dashed var(--grid); border-radius: 10px;
+  padding: 14px 10px; width: 100%; max-width: 120px;
+  background: none; cursor: pointer;
+  transition: color 140ms ease, border-color 140ms ease, background 140ms ease;
+}
+.verdict .key { font-size: 20px; line-height: 1; }
+.verdict[data-side="skip"]:hover, .verdict[data-side="skip"].armed {
+  color: var(--skip); border-color: var(--skip); border-style: solid;
+  background: color-mix(in srgb, var(--skip) 8%, transparent);
+}
+.verdict[data-side="keep"]:hover, .verdict[data-side="keep"].armed {
+  color: var(--keep); border-color: var(--keep); border-style: solid;
+  background: color-mix(in srgb, var(--keep) 8%, transparent);
+}
+
+.card {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 280px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  box-shadow: var(--shadow);
+  padding: 34px 20px 18px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 10px;
+  transform-origin: 50% 100%;
+  will-change: transform, opacity;
+  transition: transform 260ms cubic-bezier(0.22, 1, 0.36, 1),
+              opacity 260ms ease,
+              filter 260ms ease;
+}
+/* Depth 0 is the live card; 1-3 recede behind it. Each is pushed up further
+   than its own shrink pulls it down, so a band of every upcoming card stays
+   visible above the live one — the deck reads as a queue, not a single card. */
+.card[data-depth="0"] { transform: translateY(0) scale(1); box-shadow: var(--lift); z-index: 5; }
+.card[data-depth="1"] { transform: translateY(-50px) scale(0.94); z-index: 4; }
+.card[data-depth="2"] { transform: translateY(-94px) scale(0.88); z-index: 3; }
+.card[data-depth="3"] { transform: translateY(-138px) scale(0.82); z-index: 2; }
+.card[data-depth="4"] { transform: translateY(-180px) scale(0.77); z-index: 1; }
+/* Only the live card shows its full face; the rest show just their strip. */
+.card > * { transition: opacity 220ms ease; }
+.card[data-depth]:not([data-depth="0"]) > :not(.strip) { opacity: 0; }
+.card[data-depth="2"] .strip { opacity: 0.8; }
+.card[data-depth="3"] .strip { opacity: 0.58; }
+.card[data-depth="4"] .strip { opacity: 0.38; }
+.card[data-depth="0"] { cursor: grab; }
+.card[data-depth="0"].dragging { transition: none; cursor: grabbing; }
+.card[data-depth]:not([data-depth="0"]) { pointer-events: none; }
+.card.leaving { z-index: 6; pointer-events: none; }
+.card.leaving.keep { transform: translateX(150%) rotate(14deg); opacity: 0; }
+.card.leaving.skip { transform: translateX(-150%) rotate(-14deg); opacity: 0; }
+
+.card .strip {
+  position: absolute;
+  top: 5px; left: 14px; right: 14px;
+  height: 22px;
+  display: flex; align-items: center; justify-content: center; gap: 7px;
+  opacity: 0;
+  transition: opacity 200ms ease;
+}
+.card[data-depth]:not([data-depth="0"]) .strip { opacity: 1; }
+.card .strip img, .card .strip .dot {
+  width: 18px; height: 18px; border-radius: 5px; flex: none;
+  object-fit: contain; background: var(--sunk);
+}
+.card .strip .dot {
+  display: flex; align-items: center; justify-content: center;
+  font-size: 11px; font-weight: 600; color: var(--muted);
+}
+.card .strip .who {
+  font-size: 12px; font-weight: 600; color: var(--ink-2);
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+
+.card .logo {
+  width: 64px; height: 64px; border-radius: 14px;
+  object-fit: contain; background: var(--sunk);
+  border: 1px solid var(--border); padding: 8px; flex: none;
+}
+.card .logo.fallback {
+  display: flex; align-items: center; justify-content: center;
+  font-family: "IBM Plex Sans Condensed", sans-serif; font-size: 26px;
+  font-weight: 600; color: var(--muted);
+}
+.card .name {
+  font-family: "IBM Plex Sans Condensed", "IBM Plex Sans", sans-serif;
+  font-weight: 600; font-size: 22px; line-height: 1.2;
+  overflow-wrap: anywhere;
+}
+.tags { display: flex; flex-wrap: wrap; gap: 6px; justify-content: center; }
+.tag {
+  font-size: 10px; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase;
+  color: var(--ink-2); background: var(--sunk);
+  border: 1px solid var(--border); border-radius: 999px; padding: 3px 9px;
+}
+.card .host {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 11px; color: var(--muted);
+  overflow-wrap: anywhere; margin-top: auto;
+}
+.card .host a { color: inherit; }
+.card .carried {
+  font-size: 10px; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase;
+  color: var(--keep); border: 1px solid var(--keep); border-radius: 999px; padding: 2px 9px;
+  background: color-mix(in srgb, var(--keep) 10%, transparent);
+}
+.card .stamp {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 10px; color: var(--muted); letter-spacing: 0.04em;
+}
+/* Live drag tint, driven from JS. */
+.card .brand-edge {
+  position: absolute; inset: 0; border-radius: 14px; pointer-events: none;
+  opacity: 0; transition: opacity 120ms ease;
+}
+.card.tint-keep .brand-edge { opacity: 1; box-shadow: inset 0 0 0 2px var(--keep); }
+.card.tint-skip .brand-edge { opacity: 1; box-shadow: inset 0 0 0 2px var(--skip); }
+
+@media (max-width: 620px) {
+  .arena { grid-template-columns: 1fr; }
+  .verdict { flex-direction: row; gap: 10px; max-width: none; padding: 10px; }
+  .deck { order: -1; }
+}
+
+/* ── Review ──────────────────────────────────────────────────────────────── */
+.sorter { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+.bin {
+  display: flex; flex-direction: column; min-width: 0;
+  background: var(--plane); border: 1px solid var(--border);
+  border-radius: 10px; overflow: hidden;
+  transition: border-color 140ms ease, background 140ms ease;
+}
+.bin > header {
+  display: flex; align-items: baseline; gap: 8px;
+  padding: 10px 12px; border-bottom: 1px solid var(--border);
+  background: var(--sunk);
+}
+.bin > header h3 {
+  margin: 0; font-size: 10px; font-weight: 600; letter-spacing: 0.08em;
+  text-transform: uppercase; color: var(--muted);
+}
+.bin[data-bin="in"] > header h3 { color: var(--keep); }
+.bin > header .n {
+  margin-left: auto; font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 12px; font-weight: 600; color: var(--ink);
+}
+.bin ul {
+  list-style: none; margin: 0; padding: 6px;
+  display: flex; flex-direction: column; gap: 4px;
+  height: 300px; overflow-y: auto;
+}
+.bin ul:empty::after,
+.bin ul.all-hidden::after {
+  content: attr(data-empty);
+  display: block; padding: 18px 12px; text-align: center;
+  font-size: 12px; color: var(--muted);
+}
+/* Highlighted while a card is dragged over this column. */
+.bin.over { border-color: var(--focus); background: color-mix(in srgb, var(--focus) 7%, var(--plane)); }
+
+.item {
+  display: flex; align-items: center; gap: 8px;
+  padding: 5px 6px 5px 8px; border-radius: 7px;
+  background: var(--surface); border: 1px solid var(--border);
+  cursor: grab; user-select: none;
+}
+.item:hover { border-color: var(--axis); }
+.item.dragging { opacity: 0.4; cursor: grabbing; }
+.item img, .item .dot {
+  width: 22px; height: 22px; border-radius: 5px; flex: none;
+  object-fit: contain; background: var(--sunk);
+}
+.item .dot {
+  display: flex; align-items: center; justify-content: center;
+  font-size: 11px; font-weight: 600; color: var(--muted);
+}
+.item .who {
+  font-size: 13px; min-width: 0;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.item .unseen {
+  font-size: 9px; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase;
+  color: var(--muted); border: 1px solid var(--border);
+  border-radius: 999px; padding: 1px 6px; flex: none;
+}
+.item .move {
+  all: unset; margin-left: auto; flex: none;
+  cursor: pointer; border-radius: 5px; padding: 2px 7px;
+  font-size: 14px; line-height: 1.2; color: var(--muted);
+}
+.item .move:hover { background: var(--sunk); color: var(--ink); }
+.item .move:focus-visible { outline: 2px solid var(--focus); outline-offset: 1px; }
+.bin[data-bin="out"] .item .move:hover { color: var(--keep); }
+.bin[data-bin="in"] .item .move:hover { color: var(--skip); }
+@media (max-width: 620px) {
+  .sorter { grid-template-columns: 1fr; }
+  .bin ul { height: 220px; }
+}
+.note {
+  font-size: 13px; border-radius: 8px; padding: 10px 12px;
+  border: 1px solid var(--border); background: var(--sunk); color: var(--ink-2);
+}
+.note.ok { border-color: var(--keep); color: var(--ink); }
+.note.bad { border-color: var(--skip); color: var(--ink); }
+.note code { font-family: "IBM Plex Mono", ui-monospace, monospace; font-size: 12px; }
+.keys { font-size: 12px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 4px 14px; }
+kbd {
+  font-family: "IBM Plex Mono", ui-monospace, monospace; font-size: 11px;
+  background: var(--sunk); border: 1px solid var(--axis); border-bottom-width: 2px;
+  border-radius: 4px; padding: 1px 5px; color: var(--ink-2);
+}
+@media (prefers-reduced-motion: reduce) {
+  .card, .track > span { transition-duration: 1ms; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="masthead">
+    <h1>Company list picker</h1>
+    <p class="stamp mono" id="source">companies.csv</p>
+  </header>
+
+  <!-- ── Loading ─────────────────────────────────────────────────────────── -->
+  <section class="stage" id="loading" aria-live="polite">
+    <p class="note mono" id="loading-note">Loading companies…</p>
+  </section>
+
+  <!-- ── Setup ───────────────────────────────────────────────────────────── -->
+  <section class="stage" id="setup">
+    <p class="lede">
+      Swipe through every company in <span class="mono">companies.csv</span> and save the
+      keepers as a list in <span class="mono">lists/</span>. Point
+      <span class="mono">COMPANY_LIST</span> in <span class="mono">config.json</span> at that
+      list and the scraper only visits those companies.
+    </p>
+    <div class="panel">
+      <div class="row">
+        <div class="field grow">
+          <label for="list-name">List name</label>
+          <input type="text" id="list-name" placeholder="Robotics" autocomplete="off">
+        </div>
+        <div class="field grow">
+          <label for="start-from">Start from</label>
+          <select id="start-from">
+            <option value="">Blank — decide every company</option>
+          </select>
+          <span class="hint">Pre-answers "keep" for companies already in that list.</span>
+        </div>
+      </div>
+      <div class="field">
+        <label for="list-desc">Description <span class="hint">(optional)</span></label>
+        <input type="text" id="list-desc" placeholder="Hardware + robotics companies only" autocomplete="off">
+      </div>
+      <div class="row end">
+        <button class="primary" id="start">Start swiping →</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Swipe ───────────────────────────────────────────────────────────── -->
+  <section class="stage" id="swipe">
+    <div class="progress">
+      <div class="meta">
+        <span class="count mono" id="position">0 / 0</span>
+        <span class="tally-keep" id="tally-keep">kept 0</span>
+        <span class="tally-skip" id="tally-skip">skipped 0</span>
+        <span class="mono" id="list-label" style="margin-left:auto"></span>
+      </div>
+      <div class="track"><span id="bar"></span></div>
+    </div>
+
+    <div class="arena">
+      <button class="verdict" data-side="skip" id="btn-skip">
+        <span class="key" aria-hidden="true">←</span>
+        <span>Skip</span>
+      </button>
+      <div class="deck" id="deck" aria-live="polite"></div>
+      <button class="verdict" data-side="keep" id="btn-keep">
+        <span class="key" aria-hidden="true">→</span>
+        <span>Keep</span>
+      </button>
+    </div>
+
+    <div class="row">
+      <p class="keys">
+        <span><kbd>←</kbd> skip</span>
+        <span><kbd>→</kbd> keep</span>
+        <span><kbd>U</kbd> undo</span>
+        <span><kbd>Enter</kbd> finish now</span>
+        <span>or drag the card</span>
+      </p>
+      <div class="row end grow">
+        <button id="btn-undo" disabled>↩ Undo</button>
+        <button id="btn-finish">Finish early</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── Review ──────────────────────────────────────────────────────────── -->
+  <section class="stage" id="review">
+    <div class="panel">
+      <h2 id="review-title">Review your list</h2>
+      <p class="lede" id="review-summary"></p>
+      <div class="field">
+        <div class="row" style="gap:10px">
+          <label style="margin-right:auto">Drag a company across, or use its arrow</label>
+          <input type="search" id="sorter-filter" placeholder="Filter by name…"
+                 autocomplete="off" style="max-width:220px">
+        </div>
+        <div class="sorter">
+          <section class="bin" data-bin="out">
+            <header><h3>Left out</h3><span class="n" id="count-out">0</span></header>
+            <ul id="bin-out" data-empty="Nothing left out."></ul>
+          </section>
+          <section class="bin" data-bin="in">
+            <header><h3>In the list</h3><span class="n" id="count-in">0</span></header>
+            <ul id="bin-in" data-empty="Drag companies here to include them."></ul>
+          </section>
+        </div>
+      </div>
+      <div class="row">
+        <div class="field grow">
+          <label for="save-name">List name</label>
+          <input type="text" id="save-name" autocomplete="off">
+        </div>
+        <div class="field grow">
+          <label for="save-file">Saves to</label>
+          <input type="text" id="save-file" class="mono" readonly>
+        </div>
+      </div>
+      <label class="row" style="gap:8px; font-size:13px;">
+        <input type="checkbox" id="make-active" style="width:auto" checked>
+        Set <span class="mono">COMPANY_LIST</span> in config.json to this list
+      </label>
+      <div class="row">
+        <button id="btn-back">← Keep swiping</button>
+        <div class="row end grow">
+          <button class="primary" id="btn-save">Save list</button>
+        </div>
+      </div>
+      <p class="note" id="save-note" hidden></p>
+    </div>
+  </section>
+</div>
+
+<script>
+"use strict";
+
+const PEEK = 4;            // upcoming cards visible behind the live one
+const LEAVE_MS = 260;      // must match .card transition duration
+const el = (id) => document.getElementById(id);
+
+const state = {
+  companies: [],
+  lists: [],
+  index: 0,
+  decisions: [],          // 'keep' | 'skip', parallel to companies
+  cards: new Map(),       // company index -> card element
+  seed: new Set(),        // lowercased names carried in from an existing list
+};
+
+// ── Data ───────────────────────────────────────────────────────────────────
+async function boot() {
+  try {
+    const res = await fetch("/api/session");
+    if (!res.ok) throw new Error(`session request failed (${res.status})`);
+    const data = await res.json();
+    state.companies = data.companies;
+    state.lists = data.lists;
+    if (!state.companies.length) {
+      el("loading-note").textContent = "No companies found in companies.csv.";
+      return;
+    }
+    const startFrom = el("start-from");
+    for (const list of state.lists) {
+      const opt = document.createElement("option");
+      opt.value = list.stem;
+      opt.textContent = `${list.name} (${list.companies.length} companies)`;
+      startFrom.append(opt);
+    }
+    if (data.active) startFrom.value = data.active.replace(/\.json$/, "");
+    el("source").textContent = `${state.companies.length} companies · companies.csv`;
+    document.documentElement.dataset.stage = "setup";
+    el("list-name").focus();
+  } catch (err) {
+    el("loading-note").textContent = `Could not load companies: ${err.message}`;
+  }
+}
+
+// ── Card rendering ─────────────────────────────────────────────────────────
+function buildCard(i) {
+  const c = state.companies[i];
+  const card = document.createElement("article");
+  card.className = "card";
+  card.dataset.index = String(i);
+
+  const edge = document.createElement("div");
+  edge.className = "brand-edge";
+  card.append(edge);
+
+  const strip = document.createElement("div");
+  strip.className = "strip";
+  strip.append(miniLogo(c), Object.assign(document.createElement("span"), {
+    className: "who", textContent: c.name, title: c.name,
+  }));
+  card.append(strip);
+
+  if (c.icon) {
+    const img = document.createElement("img");
+    img.className = "logo";
+    img.src = c.icon;
+    img.alt = "";
+    img.loading = "eager";
+    img.referrerPolicy = "no-referrer";
+    img.addEventListener("error", () => img.replaceWith(fallbackLogo(c.name)), { once: true });
+    card.append(img);
+  } else {
+    card.append(fallbackLogo(c.name));
+  }
+
+  const name = document.createElement("div");
+  name.className = "name";
+  name.textContent = c.name;
+  card.append(name);
+
+  if (state.seed.has(c.name.toLowerCase())) {
+    const carried = document.createElement("span");
+    carried.className = "carried";
+    carried.textContent = "already in list";
+    card.append(carried);
+  }
+
+  const tagText = [c.sector, c.tier && c.tier !== "none" ? c.tier : "", c.segment]
+    .filter(Boolean)
+    .map((t) => t.replace(/_/g, " "));
+  if (tagText.length) {
+    const tags = document.createElement("div");
+    tags.className = "tags";
+    for (const t of tagText) {
+      const tag = document.createElement("span");
+      tag.className = "tag";
+      tag.textContent = t;
+      tags.append(tag);
+    }
+    card.append(tags);
+  }
+
+  const stamp = document.createElement("div");
+  stamp.className = "stamp";
+  stamp.textContent = `#${i + 1} of ${state.companies.length}`;
+  card.append(stamp);
+
+  const host = document.createElement("div");
+  host.className = "host";
+  host.textContent = hostOf(c.link);
+  card.append(host);
+
+  return card;
+}
+
+function fallbackLogo(name) {
+  const div = document.createElement("div");
+  div.className = "logo fallback";
+  div.textContent = (name.trim()[0] || "?").toUpperCase();
+  return div;
+}
+
+function hostOf(link) {
+  try { return new URL(link).hostname.replace(/^www\./, ""); }
+  catch { return link.slice(0, 48); }
+}
+
+/** Ensure the deck holds cards for the next PEEK+1 companies, at the right depth. */
+function syncDeck() {
+  const deck = el("deck");
+  const wanted = [];
+  for (let d = 0; d <= PEEK; d++) {
+    const i = state.index + d;
+    if (i < state.companies.length) wanted.push(i);
+  }
+  // Deeper cards are appended first so the live card ends up painted on top
+  // even before the z-index rules apply.
+  for (const i of [...wanted].reverse()) {
+    let card = state.cards.get(i);
+    if (!card) {
+      card = buildCard(i);
+      state.cards.set(i, card);
+      deck.append(card);
+    }
+    card.dataset.depth = String(i - state.index);
+  }
+  for (const [i, card] of state.cards) {
+    if (!wanted.includes(i) && !card.classList.contains("leaving")) {
+      card.remove();
+      state.cards.delete(i);
+    }
+  }
+}
+
+/** A small circle bearing the company's initial, for missing or broken logos. */
+function initialDot(name) {
+  const dot = document.createElement("span");
+  dot.className = "dot";
+  dot.textContent = (name.trim()[0] || "?").toUpperCase();
+  return dot;
+}
+
+/** A 20px logo for *c*, falling back to its initial if the image is missing. */
+function miniLogo(c) {
+  if (!c.icon) return initialDot(c.name);
+  const img = document.createElement("img");
+  img.src = c.icon;
+  img.alt = "";
+  img.referrerPolicy = "no-referrer";
+  img.addEventListener("error", () => img.replaceWith(initialDot(c.name)), { once: true });
+  return img;
+}
+
+function renderProgress() {
+  const total = state.companies.length;
+  const kept = state.decisions.filter((d) => d === "keep").length;
+  const skipped = state.decisions.filter((d) => d === "skip").length;
+  el("position").textContent = `${Math.min(state.index + 1, total)} / ${total}`;
+  el("tally-keep").textContent = `kept ${kept}`;
+  el("tally-skip").textContent = `skipped ${skipped}`;
+  el("bar").style.width = `${(state.index / total) * 100}%`;
+  el("btn-undo").disabled = state.index === 0;
+}
+
+function render() {
+  syncDeck();
+  renderProgress();
+}
+
+// ── Decisions ──────────────────────────────────────────────────────────────
+function decide(verdict) {
+  if (state.index >= state.companies.length) return;
+  const i = state.index;
+  const card = state.cards.get(i);
+  state.decisions[i] = verdict;
+  state.index += 1;
+
+  if (card) {
+    state.cards.delete(i);
+    card.classList.remove("tint-keep", "tint-skip");
+    card.classList.add("leaving", verdict);
+    card.style.transform = "";
+    setTimeout(() => card.remove(), LEAVE_MS);
+  }
+
+  if (state.index >= state.companies.length) {
+    renderProgress();
+    showReview();
+    return;
+  }
+  render();
+}
+
+function undo() {
+  if (state.index === 0) return;
+  state.index -= 1;
+  state.decisions[state.index] = undefined;
+  // The undone card may still be mid-flight; rebuild the deck from scratch so
+  // it comes back cleanly at depth 0.
+  for (const card of state.cards.values()) card.remove();
+  state.cards.clear();
+  el("deck").replaceChildren();
+  render();
+}
+
+// ── Drag ───────────────────────────────────────────────────────────────────
+function armDrag() {
+  const deck = el("deck");
+  let active = null, startX = 0, dx = 0;
+
+  deck.addEventListener("pointerdown", (ev) => {
+    const card = ev.target.closest('.card[data-depth="0"]');
+    if (!card || ev.button !== 0) return;
+    active = card;
+    startX = ev.clientX;
+    dx = 0;
+    card.classList.add("dragging");
+    card.setPointerCapture(ev.pointerId);
+  });
+
+  deck.addEventListener("pointermove", (ev) => {
+    if (!active) return;
+    dx = ev.clientX - startX;
+    active.style.transform = `translateX(${dx}px) rotate(${dx / 22}deg)`;
+    active.classList.toggle("tint-keep", dx > 60);
+    active.classList.toggle("tint-skip", dx < -60);
+    el("btn-keep").classList.toggle("armed", dx > 60);
+    el("btn-skip").classList.toggle("armed", dx < -60);
+  });
+
+  const release = () => {
+    if (!active) return;
+    const card = active;
+    active = null;
+    card.classList.remove("dragging");
+    el("btn-keep").classList.remove("armed");
+    el("btn-skip").classList.remove("armed");
+    if (Math.abs(dx) > 90) {
+      decide(dx > 0 ? "keep" : "skip");
+    } else {
+      card.style.transform = "";
+      card.classList.remove("tint-keep", "tint-skip");
+    }
+  };
+  deck.addEventListener("pointerup", release);
+  deck.addEventListener("pointercancel", release);
+}
+
+// ── Review + save ──────────────────────────────────────────────────────────
+function keptNames() {
+  return state.companies.filter((_, i) => state.decisions[i] === "keep").map((c) => c.name);
+}
+
+function slugify(name) {
+  const stem = name.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
+  return stem || "untitled";
+}
+
+/** Build one draggable row for the company at index *i*. */
+function buildItem(i) {
+  const c = state.companies[i];
+  const li = document.createElement("li");
+  li.className = "item";
+  li.draggable = true;
+  li.dataset.i = String(i);
+  li.append(miniLogo(c));
+
+  const who = document.createElement("span");
+  who.className = "who";
+  who.textContent = c.name;
+  who.title = c.name;
+  li.append(who);
+
+  // Companies the swipe never reached are excluded by default; say so, so a
+  // short session's "left out" column doesn't read as 200 deliberate skips.
+  if (state.decisions[i] === undefined) {
+    li.append(Object.assign(document.createElement("span"), {
+      className: "unseen", textContent: "not reviewed",
+    }));
+  }
+
+  const move = document.createElement("button");
+  move.type = "button";
+  move.className = "move";
+  li.append(move);
+  move.addEventListener("click", () => moveItem(i, state.decisions[i] === "keep" ? "out" : "in"));
+
+  li.addEventListener("dragstart", (ev) => {
+    ev.dataTransfer.setData("text/plain", String(i));
+    ev.dataTransfer.effectAllowed = "move";
+    li.classList.add("dragging");
+  });
+  li.addEventListener("dragend", () => li.classList.remove("dragging"));
+
+  return li;
+}
+
+/** Put company *i* in the "in" or "out" column, keeping each column in CSV order. */
+function moveItem(i, bin) {
+  state.decisions[i] = bin === "in" ? "keep" : "skip";
+  const list = el(bin === "in" ? "bin-in" : "bin-out");
+  const li = document.querySelector(`.item[data-i="${i}"]`) || buildItem(i);
+
+  const unseen = li.querySelector(".unseen");
+  if (unseen) unseen.remove();          // Moving it is a decision either way.
+  const move = li.querySelector(".move");
+  move.textContent = bin === "in" ? "←" : "→";
+  move.title = bin === "in" ? `Leave ${state.companies[i].name} out` : `Include ${state.companies[i].name}`;
+  move.setAttribute("aria-label", move.title);
+
+  const after = [...list.children].find((other) => Number(other.dataset.i) > i);
+  list.insertBefore(li, after ?? null);
+  syncSorter();
+}
+
+/** Refresh the counts, summary, save button, and empty-column messages. */
+function syncSorter() {
+  const kept = keptNames();
+  const total = state.companies.length;
+  el("count-in").textContent = String(kept.length);
+  el("count-out").textContent = String(total - kept.length);
+  el("review-summary").textContent =
+    `${kept.length} of ${total} companies are in the list. ` +
+    "Drag any of them across to change your mind before saving.";
+  el("btn-save").disabled = !kept.length;
+  for (const id of ["bin-in", "bin-out"]) {
+    const list = el(id);
+    list.classList.toggle(
+      "all-hidden",
+      list.children.length > 0 && ![...list.children].some((li) => li.style.display !== "none")
+    );
+  }
+}
+
+function filterSorter(term) {
+  const needle = term.trim().toLowerCase();
+  for (const li of document.querySelectorAll(".item")) {
+    const name = state.companies[Number(li.dataset.i)].name.toLowerCase();
+    li.style.display = !needle || name.includes(needle) ? "" : "none";
+  }
+  syncSorter();
+}
+
+function showReview() {
+  el("bin-in").replaceChildren();
+  el("bin-out").replaceChildren();
+  for (let i = 0; i < state.companies.length; i++) {
+    const bin = state.decisions[i] === "keep" ? "in" : "out";
+    const li = buildItem(i);
+    const move = li.querySelector(".move");
+    move.textContent = bin === "in" ? "←" : "→";
+    move.title = bin === "in"
+      ? `Leave ${state.companies[i].name} out`
+      : `Include ${state.companies[i].name}`;
+    move.setAttribute("aria-label", move.title);
+    el(bin === "in" ? "bin-in" : "bin-out").append(li);
+  }
+  el("sorter-filter").value = "";
+  syncSorter();
+
+  el("save-name").value = el("list-name").value.trim() || "My list";
+  syncSaveFile();
+  el("save-note").hidden = true;
+  document.documentElement.dataset.stage = "review";
+}
+
+/** Let each column accept rows dropped from the other. */
+function armSorterDnd() {
+  for (const bin of document.querySelectorAll(".bin")) {
+    const target = bin.dataset.bin;
+    bin.addEventListener("dragover", (ev) => {
+      ev.preventDefault();
+      ev.dataTransfer.dropEffect = "move";
+      bin.classList.add("over");
+    });
+    bin.addEventListener("dragleave", (ev) => {
+      if (!bin.contains(ev.relatedTarget)) bin.classList.remove("over");
+    });
+    bin.addEventListener("drop", (ev) => {
+      ev.preventDefault();
+      bin.classList.remove("over");
+      const i = Number(ev.dataTransfer.getData("text/plain"));
+      if (Number.isInteger(i) && i >= 0 && i < state.companies.length) moveItem(i, target);
+    });
+  }
+}
+
+function syncSaveFile() {
+  el("save-file").value = `lists/${slugify(el("save-name").value.trim() || "untitled")}.json`;
+}
+
+async function save() {
+  const note = el("save-note");
+  const name = el("save-name").value.trim();
+  if (!name) {
+    note.hidden = false;
+    note.className = "note bad";
+    note.textContent = "Give the list a name first.";
+    return;
+  }
+  el("btn-save").disabled = true;
+  try {
+    const res = await fetch("/api/save", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        name,
+        stem: slugify(name),
+        description: el("list-desc").value.trim(),
+        companies: keptNames(),
+      }),
+    });
+    const data = await res.json();
+    if (!res.ok) throw new Error(data.error || `save failed (${res.status})`);
+
+    let tail = "";
+    if (el("make-active").checked) {
+      const act = await fetch("/api/activate", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ stem: data.stem }),
+      });
+      const actData = await act.json();
+      if (!act.ok) throw new Error(actData.error || `activate failed (${act.status})`);
+      tail = ` config.json now scrapes this list.`;
+    } else {
+      tail = ` Set "COMPANY_LIST": "${data.stem}" in config.json to use it.`;
+    }
+    note.hidden = false;
+    note.className = "note ok";
+    note.textContent = `Saved ${data.count} companies to ${data.relpath}.${tail}`;
+  } catch (err) {
+    note.hidden = false;
+    note.className = "note bad";
+    note.textContent = `Could not save: ${err.message}`;
+  } finally {
+    el("btn-save").disabled = false;
+  }
+}
+
+// ── Wiring ─────────────────────────────────────────────────────────────────
+el("start-from").addEventListener("change", () => {
+  const picked = state.lists.find((l) => l.stem === el("start-from").value);
+  if (picked && !el("list-name").value.trim()) {
+    el("list-name").value = picked.name;
+    el("list-desc").value = picked.description || "";
+  }
+});
+
+el("start").addEventListener("click", () => {
+  const stem = el("start-from").value;
+  state.seed = new Set(
+    stem ? (state.lists.find((l) => l.stem === stem)?.companies ?? []).map((n) => n.toLowerCase()) : []
+  );
+  state.index = 0;
+  // Companies already in the chosen list start as "keep", so finishing early
+  // reproduces that list; every card is still shown so any of them can flip.
+  state.decisions = state.companies.map((c) =>
+    state.seed.has(c.name.toLowerCase()) ? "keep" : undefined
+  );
+  state.cards.clear();
+  el("deck").replaceChildren();
+  el("list-label").textContent = el("list-name").value.trim();
+  document.documentElement.dataset.stage = "swipe";
+  render();
+});
+
+el("btn-keep").addEventListener("click", () => decide("keep"));
+el("btn-skip").addEventListener("click", () => decide("skip"));
+el("btn-undo").addEventListener("click", undo);
+el("btn-finish").addEventListener("click", showReview);
+el("btn-back").addEventListener("click", () => {
+  document.documentElement.dataset.stage = "swipe";
+  render();
+});
+el("btn-save").addEventListener("click", save);
+el("save-name").addEventListener("input", syncSaveFile);
+el("sorter-filter").addEventListener("input", (ev) => filterSorter(ev.target.value));
+
+document.addEventListener("keydown", (ev) => {
+  if (document.documentElement.dataset.stage !== "swipe") return;
+  // ev.target is document for synthesized events, which has no .matches().
+  if (ev.target instanceof Element && ev.target.matches("input, textarea, select")) return;
+  if (ev.metaKey || ev.ctrlKey || ev.altKey) return;
+  if (ev.key === "ArrowRight") { ev.preventDefault(); decide("keep"); }
+  else if (ev.key === "ArrowLeft") { ev.preventDefault(); decide("skip"); }
+  else if (ev.key === "u" || ev.key === "U" || ev.key === "Backspace") { ev.preventDefault(); undo(); }
+  else if (ev.key === "Enter") { ev.preventDefault(); showReview(); }
+});
+
+armDrag();
+armSorterDnd();
+boot();
+</script>
+</body>
+</html>
