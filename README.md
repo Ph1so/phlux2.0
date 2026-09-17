@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 19057 roles across 210 companies*
+*Found 19058 roles across 210 companies*
 
 
 <table>
@@ -339,6 +339,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/cobot/">Cobot</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robot Data Collection Operator - Seattle</div></td>
+  <td>9/16</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/cobot/">Cobot</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robotics Data Collection Operator - Santa Clara</div></td>
   <td>9/16</td>
 </tr>
   <tr>
