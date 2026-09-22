@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 19195 roles across 210 companies*
+*Found 19207 roles across 210 companies*
 
 
 <table>
@@ -28,6 +28,20 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/palantir?commitment=Internship"><img src="https://cdn.brandfetch.io/palantir.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Palantir" height="20" style="vertical-align:middle; margin-right:6px;"> Palantir</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Forward Deployed Software Engineer, Internship</div></td>
+  <td>9/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/humanoid/"><img src="https://cdn.brandfetch.io/shophumanoid.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Humanoid" height="20" style="vertical-align:middle; margin-right:6px;"> Humanoid</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Field Operations Team Lead / Shift Supervisor</div></td>
+  <td>9/22</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robot Service Technician Assistant – Part Time Evenings</div></td>
@@ -42,9 +56,79 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/maymobility/"><img src="https://cdn.brandfetch.io/maymobility.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="May Mobility" height="20" style="vertical-align:middle; margin-right:6px;"> May Mobility</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Manager, Simulation Infrastructure</div></td>
+  <td>9/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.bosch.com/en?pages=5&country=us&positionTypes=f524b939-fe55-407b-a0b0-e8f4eec28997%2C8c682ec0-3d28-4e52-b53b-c63d440a32d3%2Cf3b92bc1-600d-4d33-9115-5aa27785f52b%2Ce4a3c0db-920d-4356-8ce0-c0b44a54e497#"><img src="https://cdn.brandfetch.io/bosch.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bosch" height="20" style="vertical-align:middle; margin-right:6px;"> Bosch</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sr EMC Engineer</div></td>
+  <td>9/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.bosch.com/en?pages=5&country=us&positionTypes=f524b939-fe55-407b-a0b0-e8f4eec28997%2C8c682ec0-3d28-4e52-b53b-c63d440a32d3%2Cf3b92bc1-600d-4d33-9115-5aa27785f52b%2Ce4a3c0db-920d-4356-8ce0-c0b44a54e497#"><img src="https://cdn.brandfetch.io/bosch.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bosch" height="20" style="vertical-align:middle; margin-right:6px;"> Bosch</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sr. Systems Integration Engineer (Multiple Positions) (REF296790M)</div></td>
+  <td>9/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.bosch.com/en?pages=5&country=us&positionTypes=f524b939-fe55-407b-a0b0-e8f4eec28997%2C8c682ec0-3d28-4e52-b53b-c63d440a32d3%2Cf3b92bc1-600d-4d33-9115-5aa27785f52b%2Ce4a3c0db-920d-4356-8ce0-c0b44a54e497#"><img src="https://cdn.brandfetch.io/bosch.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bosch" height="20" style="vertical-align:middle; margin-right:6px;"> Bosch</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Manufacturing Tooling Engineer</div></td>
+  <td>9/22</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=carbonrobotics"><img src="https://cdn.brandfetch.io/carbonrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Carbon Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Carbon Robotics</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sr. Territory Account Manager, Tri-Cities</div></td>
+  <td>9/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/applied/"><img src="https://cdn.brandfetch.io/appliedintuition.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Applied Intuition" height="20" style="vertical-align:middle; margin-right:6px;"> Applied Intuition</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Recruiting Coordinator</div></td>
+  <td>9/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/applied/"><img src="https://cdn.brandfetch.io/appliedintuition.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Applied Intuition" height="20" style="vertical-align:middle; margin-right:6px;"> Applied Intuition</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Technical Recruiter, Engineering</div></td>
+  <td>9/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/applied/"><img src="https://cdn.brandfetch.io/appliedintuition.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Applied Intuition" height="20" style="vertical-align:middle; margin-right:6px;"> Applied Intuition</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Technical Recruiter, Research</div></td>
+  <td>9/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/applied/"><img src="https://cdn.brandfetch.io/appliedintuition.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Applied Intuition" height="20" style="vertical-align:middle; margin-right:6px;"> Applied Intuition</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Technical Recruiter, Research</div></td>
+  <td>9/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/applied/"><img src="https://cdn.brandfetch.io/appliedintuition.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Applied Intuition" height="20" style="vertical-align:middle; margin-right:6px;"> Applied Intuition</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Technical Sourcer, Gen SWE</div></td>
+  <td>9/22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/applied/"><img src="https://cdn.brandfetch.io/appliedintuition.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Applied Intuition" height="20" style="vertical-align:middle; margin-right:6px;"> Applied Intuition</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Technical Sourcer, Self Driving Systems</div></td>
   <td>9/22</td>
 </tr>
   <tr>
