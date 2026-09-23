@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 2025 Phlux Job Listings
-*Found 19254 roles across 210 companies*
+*Found 19255 roles across 210 companies*
 
 
 <table>
@@ -24,6 +24,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/kodiak"><img src="https://cdn.brandfetch.io/kodiak-outdoor.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Kodiak Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Kodiak Robotics</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Manufacturing Test Engineer</div></td>
+  <td>9/23</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://search-careers.gm.com/en/jobs/?search=&country=United+States+of+America&team=Students+%26+Recent+Graduates&pagesize=100#results"><img src="https://cdn.brandfetch.io/gm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="General Motors" height="20" style="vertical-align:middle; margin-right:6px;"> General Motors</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ 2027 Summer Intern – Lean Material Strategies / Warehouse Management Systems</div></td>
   <td>9/23</td>
 </tr>
   <tr>
