@@ -1,10 +1,18 @@
 """Tests for generate_readme.py."""
 import json
+import re
 from unittest.mock import mock_open, patch
 
 import pytest
 
-from generate_readme import generate_readme, load_jobs
+from datetime import date
+
+from generate_readme import (
+    generate_listings,
+    generate_readme,
+    load_jobs,
+    parse_found_date,
+)
 
 
 # ── load_jobs ─────────────────────────────────────────────────────────────────
@@ -47,8 +55,8 @@ class TestGenerateReadme:
     def test_sorts_by_date_descending(self):
         jobs = {
             "Acme": [
-                {"title": "Old Job", "date": "1/5"},
-                {"title": "New Job", "date": "5/1"},
+                {"title": "Old Job", "date": "2026-05-01"},
+                {"title": "New Job", "date": "2027-01-05"},
             ]
         }
         links = {"Acme": "https://acme.com"}
@@ -59,7 +67,7 @@ class TestGenerateReadme:
         jobs = {"Acme": ["Just a string role"]}
         links = {"Acme": "https://acme.com"}
         readme = _call_generate(jobs, links)
-        assert "Just a string role" in readme
+        assert "1 roles" in readme
 
     def test_escapes_pipe_in_title(self):
         jobs = {"Acme": [{"title": "Software | Hardware Engineer", "date": "5/1"}]}
@@ -73,11 +81,12 @@ class TestGenerateReadme:
         readme = _call_generate(jobs, links)
         assert 'href="#"' in readme
 
-    def test_handles_invalid_date_gracefully(self):
+    def test_leaves_undated_backlog_out(self):
         jobs = {"Acme": [{"title": "Engineer", "date": "N/A"}]}
         links = {"Acme": "https://acme.com"}
         readme = _call_generate(jobs, links)  # must not raise
-        assert "Engineer" in readme
+        assert "Engineer" not in readme
+        assert "1 roles" in readme
 
     def test_includes_company_link(self):
         jobs = {"Acme": [{"title": "Engineer", "date": "5/1"}]}
@@ -99,3 +108,73 @@ class TestGenerateReadme:
         readme = _call_generate(jobs, links)
         # Acme has no postings, only Beta should contribute a row
         assert "Dev" in readme
+
+    def test_trims_rows_to_fit_byte_budget(self):
+        jobs = {"Acme": [{"title": f"Role {i}", "date": "2026-09-01"} for i in range(500)]}
+        icons_data = json.dumps({})
+        with patch("builtins.open", mock_open(read_data=icons_data)):
+            readme = generate_readme(jobs, {"Acme": "https://acme.com"}, max_bytes=20_000)
+        assert len(readme.encode("utf-8")) <= 20_000
+        assert "Role 0" in readme and "Role 499" not in readme
+        assert "500 roles" in readme
+
+    def test_caps_row_count(self):
+        jobs = {"Acme": [{"title": f"Role {i}", "date": "2026-09-01"} for i in range(5)]}
+        with patch("builtins.open", mock_open(read_data="{}")):
+            readme = generate_readme(jobs, {}, max_rows=2)
+        assert readme.count("<tr>") == 3  # header + 2 rows
+
+    def test_fills_from_archive_after_rollover(self):
+        jobs = {"Acme": [{"title": "Still Open", "date": "N/A"}]}
+        archives = [{"Acme": [{"title": "Still Open", "date": "2026-09-20"}]},
+                    {"Acme": [{"title": "Ancient", "date": "5/1"}]}]
+        with patch("builtins.open", mock_open(read_data="{}")):
+            readme = generate_readme(jobs, {}, archives)
+        assert "Still Open" in readme
+        assert "Ancient" not in readme  # archive M/D has no recoverable year
+
+
+# ── parse_found_date ──────────────────────────────────────────────────────────
+
+class TestParseFoundDate:
+    def test_iso(self):
+        assert parse_found_date("2026-09-27") == date(2026, 9, 27)
+
+    def test_legacy_md_is_most_recent_past_occurrence(self):
+        today = date(2027, 1, 3)
+        assert parse_found_date("12/30", today) == date(2026, 12, 30)
+        assert parse_found_date("1/2", today) == date(2027, 1, 2)
+
+    def test_legacy_md_off_for_archives(self):
+        assert parse_found_date("5/1", legacy_md=False) is None
+
+    def test_na(self):
+        assert parse_found_date("N/A") is None
+
+
+# ── generate_listings ─────────────────────────────────────────────────────────
+
+class TestGenerateListings:
+    def test_one_page_per_month_plus_index(self):
+        jobs = {"Acme": [{"title": "A", "date": "2026-10-02"}]}
+        archives = [{"Acme": [{"title": "B", "date": "2026-09-01"}]}]
+        pages = generate_listings(jobs, {"Acme": "https://acme.com"}, archives)
+        assert set(pages) == {"2026-10.md", "2026-09.md", "README.md"}
+        assert "[Acme][c0]" in pages["2026-10.md"]
+        assert "[c0]: https://acme.com" in pages["2026-10.md"]
+        assert "2026-10" in pages["README.md"]
+
+    def test_splits_oversized_month(self):
+        jobs = {"Acme": [{"title": f"Role {i}", "date": "2026-10-02"} for i in range(400)]}
+        pages = generate_listings(jobs, {"Acme": "https://acme.com"}, max_bytes=5_000)
+        parts = [name for name in pages if name.startswith("2026-10-")]
+        assert len(parts) > 1
+        assert all(len(pages[p].encode("utf-8")) <= 5_000 for p in parts)
+        assert sum(len(re.findall(r"\| Role \d", pages[p])) for p in parts) == 400
+
+    def test_backlog_skips_titles_dated_in_archive(self):
+        jobs = {"Acme": [{"title": "Known", "date": "N/A"}, {"title": "Fresh", "date": "N/A"}]}
+        archives = [{"Acme": [{"title": "Known", "date": "2026-09-01"}]}]
+        pages = generate_listings(jobs, {}, archives)
+        assert "Fresh" in pages["backlog.md"]
+        assert "Known" not in pages["backlog.md"]

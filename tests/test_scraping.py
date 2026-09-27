@@ -108,10 +108,8 @@ class TestProcessJobs:
         data = {"companies": {}}
         self._run(data, ["Engineer"])
         date = data["companies"]["Acme"][0]["date"]
-        # Date should be M/D format (no leading zeros)
-        parts = date.split("/")
-        assert len(parts) == 2
-        assert all(p.isdigit() for p in parts)
+        # Date should be ISO YYYY-MM-DD so the year survives
+        assert datetime.strptime(date, "%Y-%m-%d")
 
     def test_deduplicates_existing_dict_job(self):
         data = {"companies": {"Acme": [{"title": "Engineer", "date": "1/1"}]}}
@@ -149,17 +147,22 @@ class TestProcessJobs:
         assert "New Job" in titles
         assert titles.count("Old Job") == 1  # not duplicated
 
-    def test_date_uses_month_slash_day_format(self):
-        fixed_dt = MagicMock()
-        fixed_dt.month = 5
-        fixed_dt.day = 31
+    def test_date_uses_iso_format(self):
+        fixed_dt = datetime(2026, 5, 31, 12, 0)
 
         data = {"companies": {}}
         with patch("phlux.scraping.datetime") as mock_dt:
             mock_dt.now.return_value = fixed_dt
             self._run(data, ["Engineer"])
 
-        assert data["companies"]["Acme"][0]["date"] == "5/31"
+        assert data["companies"]["Acme"][0]["date"] == "2026-05-31"
+
+    def test_seed_marks_na_and_sends_no_alert(self):
+        data = {"companies": {}}
+        new_jobs = {}
+        process_jobs(data, ScrapeResult("Acme", ["Engineer"], "https://acme.com"), new_jobs, seed=True)
+        assert data["companies"]["Acme"] == [{"title": "Engineer", "date": "N/A"}]
+        assert "Acme" not in new_jobs.get("companies", {})
 
     def test_empty_job_list_adds_nothing(self):
         data = {"companies": {}}
@@ -214,3 +217,35 @@ class TestAutoApply:
             autoApply(["Software Engineer"], "https://careers.example.com")
 
         post_mock.assert_not_called()
+
+
+# ── ScrapeManager seeding ─────────────────────────────────────────────────────
+
+class TestScrapeCompaniesSeeding:
+    def _scrape(self, tmp_path, storage):
+        import json
+        from concurrent.futures import ThreadPoolExecutor
+
+        from phlux.scraping import ScrapeManager
+
+        path = tmp_path / "storage.json"
+        path.write_text(json.dumps(storage), encoding="utf-8")
+        companies = [Company("Acme", "https://acme.com", "sel"), Company("Beta", "https://beta.com", "sel")]
+        with patch("phlux.scraping.ProcessPoolExecutor", ThreadPoolExecutor), \
+             patch("phlux.scraping.get_jobs_headless", return_value=["Old Role", "New Role"]), \
+             patch("phlux.config.load_config", return_value={}):
+            return ScrapeManager().scrape_companies(companies, storage_path=str(path), max_workers=2)
+
+    def test_flag_seeds_only_companies_with_nothing_stored(self, tmp_path):
+        storage = {
+            "seed_new_companies": True,
+            "companies": {"Acme": [{"title": "Old Role", "date": "2026-09-27"}]},
+        }
+        result = self._scrape(tmp_path, storage)
+        assert [j["date"] for j in result["data"]["companies"]["Beta"]] == ["N/A", "N/A"]
+        assert list(result["new_jobs"]["companies"]) == ["Acme"]
+        assert result["data"]["seed_new_companies"] is True
+
+    def test_without_flag_every_new_title_alerts(self, tmp_path):
+        result = self._scrape(tmp_path, {"companies": {}})
+        assert set(result["new_jobs"]["companies"]) == {"Acme", "Beta"}

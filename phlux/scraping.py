@@ -31,6 +31,11 @@ FILTER = "FILTER"
 UNDETECTED = "UNDETECTED"
 ACTION_TYPES = {CSS, CLICK, FILTER, UNDETECTED}
 
+# Date stamp for titles found on a company's first look, when the open date is unknown.
+NA_DATE = "N/A"
+# Top-level storage key that turns on silent seeding (see ScrapeManager.scrape_companies).
+SEED_FLAG = "seed_new_companies"
+
 
 class Actions:
     """Parses and iterates over a ``->``-delimited action string.
@@ -226,7 +231,7 @@ def load_company_data(
     return filter_companies(companies, names)
 
 
-def process_jobs(data: dict, result: ScrapeResult, new_jobs: Dict) -> None:
+def process_jobs(data: dict, result: ScrapeResult, new_jobs: Dict, seed: bool = False) -> None:
     """Merge scrape results into *data*, recording only titles not seen before.
 
     New postings are also recorded in *new_jobs* so callers can send alerts.
@@ -235,23 +240,25 @@ def process_jobs(data: dict, result: ScrapeResult, new_jobs: Dict) -> None:
         data: Mutable dict representing ``storage.json`` contents.
         result: Scrape results for a single company.
         new_jobs: Accumulator dict for newly discovered jobs.
+        seed: Record the titles as backlog already on the careers page: dated
+            ``"N/A"`` and left out of *new_jobs*, so no alert goes out for them.
     """
     existing = data.setdefault("companies", {}).get(result.name, [])
     existing_titles = {j["title"] if isinstance(j, dict) else j for j in existing}
 
     eastern = pytz.timezone("US/Eastern")
     now = datetime.now(eastern)
-    today = f"{now.month}/{now.day}"
+    stamp = NA_DATE if seed else now.date().isoformat()
 
     new_list = []
     for job in result.jobs:
         job = job.replace("\n", " - ")
         if job not in existing_titles:
-            new_list.append({"title": job, "date": today})
+            new_list.append({"title": job, "date": stamp})
 
     data["companies"][result.name] = existing + new_list
 
-    if new_list:
+    if new_list and not seed:
         new_jobs.setdefault("companies", {})[result.name] = {
             "jobs": new_list,
             "link": result.link,
@@ -372,6 +379,9 @@ class ScrapeManager:
 
         new_jobs: Dict = {"companies": {}}
         no_jobs_count = 0
+        # Set by archive_season.py on a fresh storage file: a company with nothing
+        # stored yet has its first batch recorded silently instead of emailed.
+        seed_empty = data.get(SEED_FLAG, False)
 
         logger.info("Scraping %d companies with max_workers=%d", len(companies), max_workers)
 
@@ -389,7 +399,10 @@ class ScrapeManager:
                     jobs = []
                 if not jobs:
                     no_jobs_count += 1
-                process_jobs(data, ScrapeResult(company.name, jobs, company.link), new_jobs)
+                seed = seed_empty and not data.get("companies", {}).get(company.name)
+                process_jobs(
+                    data, ScrapeResult(company.name, jobs, company.link), new_jobs, seed=seed
+                )
 
         logger.info("Companies with no jobs found: %d", no_jobs_count)
         return {"data": data, "new_jobs": new_jobs}
