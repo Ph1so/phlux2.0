@@ -145,7 +145,8 @@ def generate_readme(
         rows += flatten(archived, legacy_md=False)
     recent = newest_first(rows)
 
-    total_jobs = sum(len(v) for v in jobs.values() if v)
+    tracked = {(r.company, r.title) for r in rows}
+    total_companies = len({company for company, _ in tracked})
     table_rows: List[str] = []
     for row in recent[:max_rows]:
         table_rows.append(
@@ -163,8 +164,8 @@ def generate_readme(
             "# 🌀 Phlux: Phi's Job Tracker\n",
             "Easily track jobs across top tech companies.\n",
             f"\n---\n\n## 🔍 Phlux Job Listings\n"
-            f"*Found {total_jobs} roles across {len(jobs)} companies this season. "
-            f"Showing the {n} most recent — see [all listings](listings/README.md) for the full history.*\n",
+            f"*Showing the {n:,} most recent of {len(tracked):,} roles tracked across "
+            f"{total_companies} companies. See [all listings](listings/README.md) for the full history.*\n",
             """
 <table>
   <thead>

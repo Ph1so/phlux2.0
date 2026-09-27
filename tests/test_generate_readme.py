@@ -50,7 +50,7 @@ class TestGenerateReadme:
         jobs = {"Acme": [{"title": "Engineer", "date": "5/1"}, {"title": "Intern", "date": "5/2"}]}
         links = {"Acme": "https://acme.com"}
         readme = _call_generate(jobs, links)
-        assert "2 roles" in readme
+        assert "of 2 roles tracked across 1 companies" in readme
 
     def test_sorts_by_date_descending(self):
         jobs = {
@@ -67,7 +67,7 @@ class TestGenerateReadme:
         jobs = {"Acme": ["Just a string role"]}
         links = {"Acme": "https://acme.com"}
         readme = _call_generate(jobs, links)
-        assert "1 roles" in readme
+        assert "of 1 roles" in readme
 
     def test_escapes_pipe_in_title(self):
         jobs = {"Acme": [{"title": "Software | Hardware Engineer", "date": "5/1"}]}
@@ -86,7 +86,7 @@ class TestGenerateReadme:
         links = {"Acme": "https://acme.com"}
         readme = _call_generate(jobs, links)  # must not raise
         assert "Engineer" not in readme
-        assert "1 roles" in readme
+        assert "Showing the 0 most recent of 1 roles" in readme
 
     def test_includes_company_link(self):
         jobs = {"Acme": [{"title": "Engineer", "date": "5/1"}]}
@@ -116,7 +116,7 @@ class TestGenerateReadme:
             readme = generate_readme(jobs, {"Acme": "https://acme.com"}, max_bytes=20_000)
         assert len(readme.encode("utf-8")) <= 20_000
         assert "Role 0" in readme and "Role 499" not in readme
-        assert "500 roles" in readme
+        assert "of 500 roles" in readme
 
     def test_caps_row_count(self):
         jobs = {"Acme": [{"title": f"Role {i}", "date": "2026-09-01"} for i in range(5)]}
@@ -178,3 +178,11 @@ class TestGenerateListings:
         pages = generate_listings(jobs, {}, archives)
         assert "Fresh" in pages["backlog.md"]
         assert "Known" not in pages["backlog.md"]
+
+    def test_count_spans_seasons_without_double_counting(self):
+        jobs = {"Acme": [{"title": "Still Open", "date": "N/A"}]}
+        archives = [{"Acme": [{"title": "Still Open", "date": "2026-09-20"}],
+                     "Beta": [{"title": "Other", "date": "2026-09-21"}]}]
+        with patch("builtins.open", mock_open(read_data="{}")):
+            readme = generate_readme(jobs, {}, archives)
+        assert "Showing the 2 most recent of 2 roles tracked across 2 companies" in readme
