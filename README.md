@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 Phlux Job Listings
-*Found 0 roles across 0 companies this season. Showing the 739 most recent — see [all listings](listings/README.md) for the full history.*
+*Found 2034 roles across 106 companies this season. Showing the 739 most recent — see [all listings](listings/README.md) for the full history.*
 
 
 <table>
