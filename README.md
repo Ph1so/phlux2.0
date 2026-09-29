@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 Phlux Job Listings
-*Showing the 736 most recent of 24,836 roles tracked across 199 companies. See [all listings](listings/README.md) for the full history.*
+*Showing the 736 most recent of 24,839 roles tracked across 199 companies. See [all listings](listings/README.md) for the full history.*
 
 
 <table>
@@ -133,9 +133,44 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robot Service Technician Assistant (Weekends, PM Shift)</div></td>
+  <td>2026-09-28</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robot Service Technician – Full Time/Contract (Monday-Friday PM)</div></td>
+  <td>2026-09-28</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robot Service Technician – Full Time/Contract (Monday-Friday PM Shift)</div></td>
+  <td>2026-09-28</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer - Planner GPU Compute - HYBRID — FULL-TIMEBOSTON, MA / FOSTER CITY, CA</div></td>
+  <td>2026-09-28</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Quality Engineer, Advanced Hardware Manufacturing - ON-SITE — FULL-TIMEFREMONT, CA</div></td>
+  <td>2026-09-28</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boards.greenhouse.io/embed/job_board?for=nuro->https://job-boards.greenhouse.io/embed/job_board?for=nuro&page=2"><img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nuro" height="20" style="vertical-align:middle; margin-right:6px;"> Nuro</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer, Performance Tooling and Infrastructure New GradNew - Mountain View, California (HQ)</div></td>
   <td>2026-09-28</td>
 </tr>
   <tr>
@@ -259,6 +294,13 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.bosch.com/en?pages=5&country=us&positionTypes=f524b939-fe55-407b-a0b0-e8f4eec28997%2C8c682ec0-3d28-4e52-b53b-c63d440a32d3%2Cf3b92bc1-600d-4d33-9115-5aa27785f52b%2Ce4a3c0db-920d-4356-8ce0-c0b44a54e497#"><img src="https://cdn.brandfetch.io/bosch.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bosch" height="20" style="vertical-align:middle; margin-right:6px;"> Bosch</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Acquisition Account Manager</div></td>
+  <td>2026-09-28</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.gusto.com/boards/anyware-robotics-e7cbbd33-db1c-470e-93b3-020992d24e20"><img src="https://cdn.brandfetch.io/anywhere.global/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anywhere Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Anywhere Robotics</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Deployment Engineer</div></td>
@@ -353,6 +395,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/applied/"><img src="https://cdn.brandfetch.io/appliedintuition.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Applied Intuition" height="20" style="vertical-align:middle; margin-right:6px;"> Applied Intuition</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Head of Identity & Access Management</div></td>
+  <td>2026-09-28</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/applied/"><img src="https://cdn.brandfetch.io/appliedintuition.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Applied Intuition" height="20" style="vertical-align:middle; margin-right:6px;"> Applied Intuition</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Autonomous Vehicle Test Engineer</div></td>
   <td>2026-09-28</td>
 </tr>
   <tr>
@@ -5120,55 +5169,6 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Virtualization Engineer \| Openstack \| Experienced Hire</div></td>
-  <td>2026-09-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Trading Production Engineer University Co - Op Placement 2027</div></td>
-  <td>2026-09-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Virtualization Engineer \| Openstack \| Experienced Hire</div></td>
-  <td>2026-09-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Trading Production Engineer University Co - Op Placement 2027</div></td>
-  <td>2026-09-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">C++ Developer \| Trading Infrastructure \| Experienced Hire</div></td>
-  <td>2026-09-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">C++ Developer \| Trading Infrastructure \| Experienced Hire</div></td>
-  <td>2026-09-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.adobe.com/us/en/search-results?qkexperienceLevel=University%20Intern"><img src="https://cdn.brandfetch.io/adobe.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Adobe" height="20" style="vertical-align:middle; margin-right:6px;"> Adobe</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ 2027 Intern - Digital Strategy Analyst, Strategic Advisory</div></td>
-  <td>2026-09-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.se.com/global/jobs?keywords=internship&sortBy=relevance&page=1&country=United%20States&tags1=Intern"><img src="https://cdn.brandfetch.io/se.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Scheider Electric" height="20" style="vertical-align:middle; margin-right:6px;"> Scheider Electric</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Mechanical Engineer Co-Op</div></td>
   <td>2026-09-11</td>
 </tr>
 
