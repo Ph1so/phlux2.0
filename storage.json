@@ -376,7 +376,12 @@
     ],
     "AWS": [],
     "Blue Origin": [],
-    "Autodesk": [],
+    "Autodesk": [
+      {
+        "title": "PhD Researcher, HCI & Visualization Research",
+        "date": "N/A"
+      }
+    ],
     "Citadel": [
       {
         "title": "\u2b50\ufe0f Software Engineer \u2013 Intern (US)",
@@ -1111,6 +1116,10 @@
       {
         "title": "Senior Onboard Infrastructure",
         "date": "2026-09-29"
+      },
+      {
+        "title": "Fullstack Engineer, UI Tools",
+        "date": "2026-10-01"
       }
     ],
     "XPENG": [
@@ -4392,6 +4401,10 @@
       {
         "title": "Software Engineer - Learned Trajectory Machine Learning Engineer - HYBRID \u2014 FULL-TIMEFOSTER CITY, CA",
         "date": "2026-09-30"
+      },
+      {
+        "title": "Senior Program Manager, People Experience - HYBRID \u2014 FULL-TIMEFOSTER CITY, CA",
+        "date": "2026-10-01"
       }
     ],
     "Pony.ai": [
@@ -4987,6 +5000,10 @@
       {
         "title": "Assistant General Counsel, Employment - Mountain View, California (HQ)",
         "date": "2026-09-30"
+      },
+      {
+        "title": "Lead Technical Program Manager, AI Platform - Mountain View, California (HQ)",
+        "date": "2026-10-01"
       }
     ],
     "Aeva": [
@@ -5558,6 +5575,42 @@
       },
       {
         "title": "Sr. Strategic Buyer- Direct Materials NA",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "HVAC Branch / Store Manager",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "Senior Key Account Manager - Engineering Services Americas",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "Setup Machine Operator Weekend Shift (6:30am-6:30pm) - Starting pay, $21.99 and up",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "Machine Operator 3rd shift, starting pay $19.88 + $1.50 shift premium and up!",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "Warehouse Driver, UPG Store",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "Buyer- Purchasing",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "Logistics Specialist - Command Center",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "HVAC Account Manager- Knoxville, TN",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "Supplier Quality Engineer",
         "date": "2026-10-01"
       }
     ],
@@ -6491,6 +6544,10 @@
       {
         "title": "Manufacturing Reliability Engineer (Based in Milwaukee; Relocation assistance available)",
         "date": "N/A"
+      },
+      {
+        "title": "(Part-time) Field Service Technician",
+        "date": "2026-10-01"
       }
     ],
     "Phantom AI": [
@@ -6711,6 +6768,14 @@
       {
         "title": "US Marine Corps Business Development Lead",
         "date": "2026-09-29"
+      },
+      {
+        "title": "\u2b50\ufe0f Internal Controls Manager",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "Senior Accountant",
+        "date": "2026-10-01"
       }
     ],
     "Lyft": [],
@@ -8332,6 +8397,54 @@
       {
         "title": "Technical Project Manager",
         "date": "2026-10-01"
+      },
+      {
+        "title": "Build & Release Engineer - New Grad (2027)",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "Cybersecurity Software Engineer - New Grad (2027)",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "Embedded Software Engineer - New Grad (2027)",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "Embedded Test Engineer - New Grad (2027)",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "Forward Deployed Engineer - New Grad (2027)",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "Hardware Integration Engineer - New Grad (2027)",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "OTA/Cloud Validation Engineer - New Grad (2027)",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "Scenario Engineer - New Grad (2027)",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "Software Engineer - New Grad (2027)",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "Software Integration Engineer - New Grad (2027)",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "UX Test Engineer - New Grad (2027)",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "Senior Technical Recruiter - Defense",
+        "date": "2026-10-01"
       }
     ],
     "FieldAI": [
@@ -8733,6 +8846,10 @@
       },
       {
         "title": "Robotics AI Engineer \u2013 Calibration, Localization, and Mapping - ON-SITE \u2014 FULL TIMEIRVINE, CA",
+        "date": "2026-10-01"
+      },
+      {
+        "title": "Robotics Autonomy Engineer (Federal) - ON-SITE \u2014 FULL TIMEIRVINE, CA",
         "date": "2026-10-01"
       }
     ],
