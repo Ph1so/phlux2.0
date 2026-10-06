@@ -62,6 +62,10 @@ jobs:
             git push
           fi
 
+      - name: Trash internship alert emails older than 14 days
+        continue-on-error: true
+        run: .venv/bin/python -m phlux.mail_cleanup
+
   retry:
     needs: run
     if: failure()
