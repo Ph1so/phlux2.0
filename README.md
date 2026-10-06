@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 Phlux Job Listings
-*Showing the 716 most recent of 25,078 roles tracked across 199 companies. See [all listings](listings/README.md) for the full history.*
+*Showing the 715 most recent of 25,083 roles tracked across 199 companies. See [all listings](listings/README.md) for the full history.*
 
 
 <table>
@@ -24,6 +24,20 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"><img src="https://cdn.brandfetch.io/nvidia.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nvidia" height="20" style="vertical-align:middle; margin-right:6px;"> Nvidia</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Research Intern, Efficient Deep Learning - 2027</div></td>
+  <td>2026-10-06</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"><img src="https://cdn.brandfetch.io/nvidia.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nvidia" height="20" style="vertical-align:middle; margin-right:6px;"> Nvidia</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ PCIe Design Verification Intern - Spring 2027</div></td>
+  <td>2026-10-06</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"><img src="https://cdn.brandfetch.io/nvidia.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nvidia" height="20" style="vertical-align:middle; margin-right:6px;"> Nvidia</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ PCIe Design Verification Intern - Summer 2027</div></td>
   <td>2026-10-06</td>
 </tr>
   <tr>
@@ -112,6 +126,13 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Manager, Technical Program Management (Advanced Hardware Manufacturing) - ON-SITE — FULL-TIMEFOSTER CITY, CA</div></td>
+  <td>2026-10-06</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boards.greenhouse.io/embed/job_board?for=nuro->https://job-boards.greenhouse.io/embed/job_board?for=nuro&page=2"><img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nuro" height="20" style="vertical-align:middle; margin-right:6px;"> Nuro</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">New Grad Software Engineer, Product EngineeringNew - Mountain View, California (HQ)</div></td>
@@ -122,6 +143,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boards.greenhouse.io/embed/job_board?for=nuro->https://job-boards.greenhouse.io/embed/job_board?for=nuro&page=2"><img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nuro" height="20" style="vertical-align:middle; margin-right:6px;"> Nuro</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Software Engineer, Collision AvoidanceNew - Mountain View, California (HQ)</div></td>
+  <td>2026-10-06</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boards.greenhouse.io/embed/job_board?for=nuro->https://job-boards.greenhouse.io/embed/job_board?for=nuro&page=2"><img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nuro" height="20" style="vertical-align:middle; margin-right:6px;"> Nuro</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Social Media Intern - Mountain View, California (HQ)</div></td>
   <td>2026-10-06</td>
 </tr>
   <tr>
@@ -206,6 +234,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/applied/"><img src="https://cdn.brandfetch.io/appliedintuition.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Applied Intuition" height="20" style="vertical-align:middle; margin-right:6px;"> Applied Intuition</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer - Neural Simulation</div></td>
+  <td>2026-10-06</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/applied/"><img src="https://cdn.brandfetch.io/appliedintuition.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Applied Intuition" height="20" style="vertical-align:middle; margin-right:6px;"> Applied Intuition</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Commercial Lead</div></td>
   <td>2026-10-06</td>
 </tr>
   <tr>
@@ -4987,48 +5022,6 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/shieldai/?commitment=Intern"><img src="https://cdn.brandfetch.io/shieldair.me/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Shield AI" height="20" style="vertical-align:middle; margin-right:6px;"> Shield AI</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Summer 2027 - Electrical Engineering Intern - ON-SITE — INTERNDALLAS, TEXAS / SEATTLE, WASHINGTON / SAN DIEGO, CALIFORNIA / BOSTON, MASSACHUSETTS</div></td>
-  <td>2026-09-17</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/shieldai/?commitment=Intern"><img src="https://cdn.brandfetch.io/shieldair.me/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Shield AI" height="20" style="vertical-align:middle; margin-right:6px;"> Shield AI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Summer 2027 - Software Engineer Intern - ON-SITE — INTERNSAN DIEGO, CALIFORNIA / WASHINGTON, D.C. / DALLAS, TEXAS / SEATTLE, WASHINGTON</div></td>
-  <td>2026-09-17</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/shieldai/?commitment=Intern"><img src="https://cdn.brandfetch.io/shieldair.me/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Shield AI" height="20" style="vertical-align:middle; margin-right:6px;"> Shield AI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Electrical Engineering Spring Co-op (January 2027) (R4475) - ON-SITE — INTERNDALLAS, TEXAS / SAN DIEGO, CALIFORNIA / BOSTON, MASSACHUSETTS</div></td>
-  <td>2026-09-17</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/applied/"><img src="https://cdn.brandfetch.io/appliedintuition.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Applied Intuition" height="20" style="vertical-align:middle; margin-right:6px;"> Applied Intuition</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Perception Engineer - Defense (All-Domain)</div></td>
-  <td>2026-09-17</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/applied/"><img src="https://cdn.brandfetch.io/appliedintuition.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Applied Intuition" height="20" style="vertical-align:middle; margin-right:6px;"> Applied Intuition</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Firmware Validation Engineer</div></td>
-  <td>2026-09-17</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/field-ai"><img src="https://cdn.brandfetch.io/fieldai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="FieldAI" height="20" style="vertical-align:middle; margin-right:6px;"> FieldAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Program Manager, Flagship Programs - ON-SITE — FULL TIMEIRVINE, CA / PEORIA, ILLINOIS</div></td>
-  <td>2026-09-17</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/field-ai"><img src="https://cdn.brandfetch.io/fieldai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="FieldAI" height="20" style="vertical-align:middle; margin-right:6px;"> FieldAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer, DevOps - ON-SITE — FULL TIMEIRVINE, CA / PEORIA, ILLINOIS</div></td>
   <td>2026-09-17</td>
 </tr>
 
