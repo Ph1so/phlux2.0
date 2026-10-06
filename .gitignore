@@ -1,3 +1,5 @@
 venv
 .env
 __pycache__
+# Real emails used by tracker/test/eval.js; never commit (public repo)
+tracker/test/fixtures/
