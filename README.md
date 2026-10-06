@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 Phlux Job Listings
-*Showing the 717 most recent of 25,055 roles tracked across 199 companies. See [all listings](listings/README.md) for the full history.*
+*Showing the 717 most recent of 25,069 roles tracked across 199 companies. See [all listings](listings/README.md) for the full history.*
 
 
 <table>
@@ -19,6 +19,125 @@ Easily track jobs across top tech companies.
   </thead>
   <tbody>
 
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"><img src="https://cdn.brandfetch.io/nvidia.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nvidia" height="20" style="vertical-align:middle; margin-right:6px;"> Nvidia</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Research Intern, Efficient Deep Learning - 2027</div></td>
+  <td>2026-10-06</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/gecko-robotics/"><img src="https://cdn.brandfetch.io/geckorobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Gecko Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Gecko Robotics</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer \| Data Backend</div></td>
+  <td>2026-10-06</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.irobot.com/search-jobs"><img src="https://cdn.brandfetch.io/irobot.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="iRobot" height="20" style="vertical-align:middle; margin-right:6px;"> iRobot</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Dir. Sales, DtC & Amazon (Americas)</div></td>
+  <td>2026-10-06</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://search-careers.gm.com/en/jobs/?search=&country=United+States+of+America&team=Students+%26+Recent+Graduates&pagesize=100#results"><img src="https://cdn.brandfetch.io/gm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="General Motors" height="20" style="vertical-align:middle; margin-right:6px;"> General Motors</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Machine Learning Engineer, AI Inference Solutions (Early in Career)</div></td>
+  <td>2026-10-06</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Team Lead, Ground Operations (3rd Shift) - ON-SITE — FULL-TIMEDALLAS, TX</div></td>
+  <td>2026-10-06</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Team Lead, Ground Operations (3rd Shift) - ON-SITE — FULL-TIMEPHOENIX, AZ</div></td>
+  <td>2026-10-06</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Manager, Technical Program Management - ON-SITE — FULL-TIMEFOSTER CITY, CA</div></td>
+  <td>2026-10-06</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.bosch.com/en?pages=5&country=us&positionTypes=f524b939-fe55-407b-a0b0-e8f4eec28997%2C8c682ec0-3d28-4e52-b53b-c63d440a32d3%2Cf3b92bc1-600d-4d33-9115-5aa27785f52b%2Ce4a3c0db-920d-4356-8ce0-c0b44a54e497#"><img src="https://cdn.brandfetch.io/bosch.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bosch" height="20" style="vertical-align:middle; margin-right:6px;"> Bosch</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Health, Safety & Environment (HSE) Specialist, Sr</div></td>
+  <td>2026-10-06</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.bosch.com/en?pages=5&country=us&positionTypes=f524b939-fe55-407b-a0b0-e8f4eec28997%2C8c682ec0-3d28-4e52-b53b-c63d440a32d3%2Cf3b92bc1-600d-4d33-9115-5aa27785f52b%2Ce4a3c0db-920d-4356-8ce0-c0b44a54e497#"><img src="https://cdn.brandfetch.io/bosch.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bosch" height="20" style="vertical-align:middle; margin-right:6px;"> Bosch</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Junior Management Program – Manufacturing – VM</div></td>
+  <td>2026-10-06</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.bosch.com/en?pages=5&country=us&positionTypes=f524b939-fe55-407b-a0b0-e8f4eec28997%2C8c682ec0-3d28-4e52-b53b-c63d440a32d3%2Cf3b92bc1-600d-4d33-9115-5aa27785f52b%2Ce4a3c0db-920d-4356-8ce0-c0b44a54e497#"><img src="https://cdn.brandfetch.io/bosch.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bosch" height="20" style="vertical-align:middle; margin-right:6px;"> Bosch</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Lead Packaging Operator 3rd - Starting Pay $19.88/hr + shift differential $1.50/hr and up</div></td>
+  <td>2026-10-06</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/applied/"><img src="https://cdn.brandfetch.io/appliedintuition.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Applied Intuition" height="20" style="vertical-align:middle; margin-right:6px;"> Applied Intuition</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Cost Accountant - Government Contracting (Accounts Payable, Job Costing)</div></td>
+  <td>2026-10-06</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/applied/"><img src="https://cdn.brandfetch.io/appliedintuition.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Applied Intuition" height="20" style="vertical-align:middle; margin-right:6px;"> Applied Intuition</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Machine Learning Engineer - 3D Reconstruction</div></td>
+  <td>2026-10-06</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/applied/"><img src="https://cdn.brandfetch.io/appliedintuition.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Applied Intuition" height="20" style="vertical-align:middle; margin-right:6px;"> Applied Intuition</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Machine Learning Engineer - Generative Models</div></td>
+  <td>2026-10-06</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/applied/"><img src="https://cdn.brandfetch.io/appliedintuition.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Applied Intuition" height="20" style="vertical-align:middle; margin-right:6px;"> Applied Intuition</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Software Engineer - Neural Simulation</div></td>
+  <td>2026-10-06</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/applied/"><img src="https://cdn.brandfetch.io/appliedintuition.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Applied Intuition" height="20" style="vertical-align:middle; margin-right:6px;"> Applied Intuition</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer - Neural Simulation</div></td>
+  <td>2026-10-06</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/humanoid/"><img src="https://cdn.brandfetch.io/shophumanoid.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Humanoid" height="20" style="vertical-align:middle; margin-right:6px;"> Humanoid</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Validation Engineer</div></td>
+  <td>2026-10-06</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/niantic-spatial/"><img src="https://cdn.brandfetch.io/nianticspatial.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Niantic Spatial" height="20" style="vertical-align:middle; margin-right:6px;"> Niantic Spatial</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Software Engineering Intern (Summer 2027)</div></td>
+  <td>2026-10-06</td>
+</tr>
   <tr>
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"><img src="https://cdn.brandfetch.io/nvidia.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nvidia" height="20" style="vertical-align:middle; margin-right:6px;"> Nvidia</a></div>
@@ -4917,125 +5036,6 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibmadison.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Enterprise Operations - 2027 Incentives Professional Intern - Internship - Armonk, US</div></td>
-  <td>2026-09-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/?source=Careers_Website_ec"><img src="https://cdn.brandfetch.io/workday.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Workday" height="20" style="vertical-align:middle; margin-right:6px;"> Workday</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sr. Associate Sourcing Manager</div></td>
-  <td>2026-09-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/cohere/"><img src="https://cdn.brandfetch.io/cohere.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Cohere" height="20" style="vertical-align:middle; margin-right:6px;"> Cohere</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Manager, People Operations, Data & Reporting</div></td>
-  <td>2026-09-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/cohere/"><img src="https://cdn.brandfetch.io/cohere.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Cohere" height="20" style="vertical-align:middle; margin-right:6px;"> Cohere</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Manager, People Systems and Automation</div></td>
-  <td>2026-09-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States"><img src="https://cdn.brandfetch.io/amd.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="AMD" height="20" style="vertical-align:middle; margin-right:6px;"> AMD</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ 2027 PhD Networking Research Intern/Co-Op</div></td>
-  <td>2026-09-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States"><img src="https://cdn.brandfetch.io/amd.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="AMD" height="20" style="vertical-align:middle; margin-right:6px;"> AMD</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ 2027 PhD Data Center Networking Engineer Intern/Co-Op</div></td>
-  <td>2026-09-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States"><img src="https://cdn.brandfetch.io/amd.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="AMD" height="20" style="vertical-align:middle; margin-right:6px;"> AMD</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ 2027 PhD AI Model Optimization & Software Engineer Intern/Co-op</div></td>
-  <td>2026-09-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States"><img src="https://cdn.brandfetch.io/amd.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="AMD" height="20" style="vertical-align:middle; margin-right:6px;"> AMD</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ 2027 PhD AI Model Optimization & Software Engineer Intern/Co-op</div></td>
-  <td>2026-09-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.intuit.com/search-jobs/interns/"><img src="https://cdn.brandfetch.io/intuit.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Intuit" height="20" style="vertical-align:middle; margin-right:6px;"> Intuit</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Winter 2027: Event Marketing Coordinator Co-op (4 months)</div></td>
-  <td>2026-09-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Trading Systems C# Developer</div></td>
-  <td>2026-09-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Trading Systems C# Developer</div></td>
-  <td>2026-09-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Developer - Data Normalization & Adaptation (DNA) Team</div></td>
-  <td>2026-09-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Developer - Data Normalization & Adaptation (DNA) Team</div></td>
-  <td>2026-09-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Database Administrator - Postgres \| Experienced Hire</div></td>
-  <td>2026-09-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Database Administrator - Postgres \| Experienced Hire</div></td>
-  <td>2026-09-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.oracle.com/en/sites/jobsearch/jobs?lastSelectedFacet=locations&selectedLocationsFacet=300000000106749%3B300000000149325&selectedFlexFieldsFacets=%22AttributeChar14%7CSDR%22"><img src="https://cdn.brandfetch.io/oracle.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Oracle" height="20" style="vertical-align:middle; margin-right:6px;"> Oracle</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sales Development Representative - Burlington - June 2027</div></td>
-  <td>2026-09-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.oracle.com/en/sites/jobsearch/jobs?lastSelectedFacet=locations&selectedLocationsFacet=300000000106749%3B300000000149325&selectedFlexFieldsFacets=%22AttributeChar14%7CSDR%22"><img src="https://cdn.brandfetch.io/oracle.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Oracle" height="20" style="vertical-align:middle; margin-right:6px;"> Oracle</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sales Development Representative - Santa Monica - June 2027</div></td>
-  <td>2026-09-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.oracle.com/en/sites/jobsearch/jobs?lastSelectedFacet=locations&selectedLocationsFacet=300000000106749%3B300000000149325&selectedFlexFieldsFacets=%22AttributeChar14%7CSDR%22"><img src="https://cdn.brandfetch.io/oracle.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Oracle" height="20" style="vertical-align:middle; margin-right:6px;"> Oracle</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sales Development Representative - Denver - June 2027</div></td>
   <td>2026-09-16</td>
 </tr>
 
