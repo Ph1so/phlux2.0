@@ -251,8 +251,106 @@
         "date": "N/A"
       }
     ],
-    "Uber": [],
-    "Microsoft": [],
+    "Uber": [
+      {
+        "title": "Graduate 2026 PhD Software Engineer II (AV Labs), United States",
+        "date": "N/A"
+      }
+    ],
+    "Microsoft": [
+      {
+        "title": "\u2b50\ufe0f Research Intern - Audio and Acoustics",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineering Intern - CTJ - TS",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineering Intern - CTJ - TS",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Supply Chain Program Management Intern",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Intern - Brain-Computer Interfaces",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Product Management Intern - CTJ - TS",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Technical Program Management Intern - CTJ - TS",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Security Assurance Intern - CTJ - TS",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Intern - Security Research Group, Microsoft Research Redmond",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Business Program Management INTERN",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Intern - Data Systems",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Intern - Quantum Algorithms",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Intern - Maia 200 Development",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f AI Software Engineering Intern",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Firmware Engineering Internship (6-month Program)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Finance Manager: MBA Internship Opportunities",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Data Science: PhD Internship Opportunities - Redmond",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Applied Science: PhD Internship Opportunities - Multiple Locations",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Applied Science: Internship Opportunities - Redmond",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Data Science: AI Experiences PhD Internship Opportunities - Redmond",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Treasury Finance Manager: MBA Internship Opportunities",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Applied Science: PhD Microsoft AI Internship Opportunities",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Internal Audit Manager",
+        "date": "N/A"
+      }
+    ],
     "Amazon": [
       {
         "title": "\u2b50\ufe0f Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)",
@@ -369,9 +467,54 @@
       {
         "title": "Senior Vendor Manager, US Apparel",
         "date": "2026-10-08"
+      },
+      {
+        "title": "Sr Recruiting Business Partner, Amazon University Talent Acquisition",
+        "date": "2026-10-09"
       }
     ],
-    "Meta": [],
+    "Meta": [
+      {
+        "title": "\u2b50\ufe0f Structural Design Engineer - FEA (Intern)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f ASIC Engineer Intern, Architecture",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Spatial Audio Capture and Reproduction (PhD)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Manufacturing Test Engineering Intern, AI",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Manufacturing Test Engineering Intern, Field Requirements & Feedback",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Thermal Engineering Intern",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Production Systems Engineering Intern",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f DFX Engineering Intern",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Optical Engineering Intern - Camera, Depth & Cover Window Optics",
+        "date": "N/A"
+      }
+    ],
     "Apple": [
       {
         "title": "\u2b50\ufe0f Applied Data Solutions Program, Internships \u2013 Summer 2027",
@@ -578,10 +721,168 @@
       {
         "title": "\u2b50\ufe0f Product Design, Intern (Summer 2027)",
         "date": "N/A"
+      },
+      {
+        "title": "Senior University Recruiter",
+        "date": "2026-10-09"
+      },
+      {
+        "title": "\u2b50\ufe0f Machine Learning Intern (Masters) - Summer 2027",
+        "date": "2026-10-09"
+      },
+      {
+        "title": "\u2b50\ufe0f Machine Learning Intern (PhD) - Summer 2027",
+        "date": "2026-10-09"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer, Intern (Summer 2027) - US",
+        "date": "2026-10-09"
+      },
+      {
+        "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US",
+        "date": "2026-10-09"
       }
     ],
-    "Optiver": [],
-    "DE Shaws": [],
+    "Optiver": [
+      {
+        "title": "\u2b50\ufe0f Market Risk Internship 2027 - Singapore",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Shanghai Performance Researcher Summer Internship",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f FPGA Internship (2027 Start)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Quantitative Research Internship (2027 Start)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer Internship (2027 Start)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer Internship (2027 Start)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Quantitative Trading Internship (2027 Start)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Quantitative Research Internship, Bachelor or Master (Summer 2027 - Shanghai)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Quantitative Trading Internship (Summer 2027 - Shanghai)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Shanghai Software Developer Summer Internship",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Shanghai Machine Learning Engineer Summer Internship",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Shanghai FPGA Developer Summer Internship",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f FPGA Engineer Intern (Summer 2027 - Austin)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Quantitative Trading Internship (Singapore) - 2027",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Trading Automation and Operations Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer Intern (Summer 2027 - Austin)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer Intern (Summer 2027 - Chicago)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Quantitative Research Intern, PhD (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Quantitative Research Intern, PhD (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Quantitative Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f FPGA Engineer Intern (Summer 2027 - Chicago)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Quantitative Trading Internship (Taiwan) - 2027",
+        "date": "N/A"
+      }
+    ],
+    "DE Shaws": [
+      {
+        "title": "JD/MBA Investment Analyst (New York) \u2013 Summer 2027",
+        "date": "N/A"
+      },
+      {
+        "title": "MBA Investment Analyst (New York) \u2013 Summer 2027",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Quantitative Analyst Intern (New York) \u2013 Summer 2027",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Quantitative Analyst, Ph.D. Intern (New York) \u2013 Summer 2027",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Developer Intern (New York) \u2013 Summer 2027",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Developer, Ph.D. Intern (New York) \u2013 Summer 2027",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Strategy and Business Development Intern - Summer 2027 (Singapore)",
+        "date": "N/A"
+      },
+      {
+        "title": "Strategy and Business Development MBA Summer Associate (New York) \u2013 Summer 2027",
+        "date": "N/A"
+      },
+      {
+        "title": "Systems Administrator Industry Placement Year (London)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Systems Engineering Intern (London) - Summer 2027",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Systems Engineering Intern (New York) - Summer 2027",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Proprietary Trading Intern (New York) \u2013 Summer 2027",
+        "date": "N/A"
+      }
+    ],
     "Amazon Robotics": [
       {
         "title": "\u2b50\ufe0f Industrial Development Engineer Intern/Co-op, ROBOTICS - 2027",
@@ -956,10 +1257,650 @@
         "date": "N/A"
       }
     ],
-    "Rivian": [],
-    "Roblox": [],
-    "SpaceX": [],
-    "Zipline": [],
+    "Rivian": [
+      {
+        "title": "\u2b50\ufe0f Cybersecurity - Summer 2027 Internships",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineering Intern - Design Automation (Spring 2027 Co-Op)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineering - Summer 2027 Internships",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Supply Chain, Purchasing, Procurement and Logistics - Summer 2027 Internships",
+        "date": "N/A"
+      },
+      {
+        "title": "2027 Automotive Technician Training Program (Paid Training, 24-Weeks)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Engineering Intern - Design for Reliability (Spring 2027 Co-Op)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Engineering Intern - Electronics Design (Spring 2027 Co-Op)",
+        "date": "N/A"
+      },
+      {
+        "title": "Early Career - Resident Engineer, Exteriors",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Engineering Intern - Product Development Systems (Spring 2027 Co-Op)",
+        "date": "N/A"
+      },
+      {
+        "title": "Early Career - Mechanical Design Engineer, Interior Trim",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Engineering Intern - Software Test (Spring 2027 Co-Op)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineering Intern - Enterprise Applications (Spring 2027 Co-Op)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Engineering Intern - Motor Development (Spring 2027 Co-op)",
+        "date": "N/A"
+      },
+      {
+        "title": "Early Career - Associate Carrier Operations Analyst",
+        "date": "N/A"
+      },
+      {
+        "title": "Early Career - Durability Analytics Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Engineering Intern - Mechanical Power Electronics (Spring 2027 Co-Op)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f MBA Intern - Product Management Product Development (Spring 2027 Co-Op)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Engineering Intern - Design Verification, Neural Engine (Spring 2027 Co-op)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Computer Vision Software - Summer 2027 Internships",
+        "date": "N/A"
+      },
+      {
+        "title": "Early Career - Validation Engineer, Vehicle Hardware",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineering Intern - Product Lifecycle Management (Spring 2027 Co-Op)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Engineering Intern - ML Compilers (Spring 2027 Co-op)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Engineering Intern - Machine Learning Hardware (Spring 2027 Co-op)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Engineering Intern - Manufacturing Engineering (Spring 2027 Co-Op)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Controls, Automation & Embedded Software - Summer 2027 Internships",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Engineering Intern - Audio Hardware and DSP (Spring 2027 Co-op)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Engineering Intern - Test and Validation, Charging Products (Spring 2027 Co-Op)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Technical Program Management Intern - Program Validation (Spring 2027 Co-Op)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineering Intern - Embedded Software (Spring 2027 Co-op)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineering Intern - Enterprise Applications (Spring 2027 Co-Op",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Engineering Intern - Supply Chain Data, AI and Business Intelligence (Spring 2027 Co-op)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineering Intern - Applied AI (Spring 2027 Co-Op)",
+        "date": "N/A"
+      },
+      {
+        "title": "Early Career - Global Supply Manager - Interiors, Seating & Restraints, Exteriors & Lighting, Closures",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Engineering Intern - Design-for-Test (Spring 2027 Co-Op)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Business and Administrative Intern - Financial Analyst, Product Development",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Engineering Intern - AI/ML ASIC CAD (Spring 2027 Co-Op)",
+        "date": "N/A"
+      },
+      {
+        "title": "Early Career - Cloud Engineer, Cloud Operations",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Artificial Intelligence, Machine Learning, & Data - Summer 2027 Internships",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineering Intern - Product Development Portal (Spring Co-Op)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Engineering Intern - Powertrain Testing (Spring 2027 Co-Op)",
+        "date": "N/A"
+      },
+      {
+        "title": "Early Career - Durability Modeling & Simulation Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Business and Administrative Intern - Supply Chain and Logistics (Spring 2027 Co-op)",
+        "date": "N/A"
+      },
+      {
+        "title": "Early Career - Attributes Method Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Early Career - Global Supply Manager, Plastics",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Product Development, Vehicle Attributes and Test Engineering - Summer 2027 Internships",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Engineering Intern - Vehicle Homologation (Spring 2027 Co-Op)",
+        "date": "N/A"
+      }
+    ],
+    "Roblox": [
+      {
+        "title": "\u2b50\ufe0f [Summer 2027] Product Design Intern",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f [Summer 2027] Product Management Intern",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f [2027] Applied Scientist - PhD Intern",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f [2027] Data Scientist - PhD Intern",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f [Summer 2027] Software Engineer Intern",
+        "date": "N/A"
+      },
+      {
+        "title": "Workplace Experience Coordinator - Part-Time (Short Term)",
+        "date": "N/A"
+      },
+      {
+        "title": "[2027] Associate Product Designer, Early Career",
+        "date": "N/A"
+      },
+      {
+        "title": "[2027] Associate Product Manager, Early Career",
+        "date": "N/A"
+      },
+      {
+        "title": "[2027] Senior Machine Learning Engineer - PhD Early Career",
+        "date": "N/A"
+      },
+      {
+        "title": "[2027] Software Engineer, Early Career",
+        "date": "N/A"
+      },
+      {
+        "title": "Software Engineer, Foundation AI",
+        "date": "N/A"
+      },
+      {
+        "title": "Developer Engagement Representative - ANZ (Australia / New Zealand) (Part-Time Contract)",
+        "date": "N/A"
+      }
+    ],
+    "SpaceX": [
+      {
+        "title": "\u2b50\ufe0f Spring 2027 Software Engineering Internship/Co-op",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Software Engineering Internship/Co-op",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Spring 2027 Business Operations Internship/Co-op",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Spring 2027 Civil Engineering Internship",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Spring 2027 Engineering Internship/Co-op",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Spring 2027 Graduate Engineer Internship/Co-op",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Spring 2027 Silicon Engineering Internship/Co-op",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Spring 2027 Software Engineering Internship/Co-op",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Business Operations Internship/Co-op",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Civil Engineering Internship",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Engineering Internship/Co-op",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Graduate Engineer Internship/Co-op",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Silicon Engineering Internship/Co-op",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Software Engineering Internship/Co-op",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Spring 2027 Business Operations Internship/Co-op",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Business Operations Internship/Co-op",
+        "date": "N/A"
+      }
+    ],
+    "Zipline": [
+      {
+        "title": "\u2b50\ufe0f Quality & Manufacturing Intern (Fall 2026)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Accounting Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Accounting Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Aerodynamics Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Aircraft Software Integration Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Aircraft Software Integration Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Applications Engineer Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Applications Engineer Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Change Management Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Change Management Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Civil and Structural Engineer Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Civil and Structural Engineer Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Commercial Implementation Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Commercial Implementation Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Commercial Marketplace Strategy and Operations Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Commercial Marketplace Strategy and Operations Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Commercial Strategy & Operations Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Commercial Strategy & Operations Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Community Engagement Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Community Engagement Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Computational Physics Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Computational Physics Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Construction Management Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Construction Management Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Controls Engineer Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Controls Engineer Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Corporate Tax Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Data Analytics Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Data Analytics Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Droid Autonomy Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Electrical Engineer Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Electrical Engineer Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Electrical Project Engineer Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Electrical Project Engineer Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Embedded Software Engineering Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Embedded Software Engineer Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Field Systems Engineer Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Flight Test Engineer Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Flight Test Engineer Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Global Supply Management Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Global Supply Management Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Hardware Test Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Hardware Test Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Launch & Scale Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Launch & Scale Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Long Range Platform Embedded Firmware Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Long Range Platform Hardware Engineering Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Maintenance Tool Engineering Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Maintenance Tool Engineering Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Maps Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Maps Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Marketing Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Marketing Operations & Project Management Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Material Planning Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Material Planning Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Materials Engineer Intern (Spring & Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Mechanical Engineer Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Mechanical Engineer Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Operations Experience Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Operations Experience Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Perception Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Quality & Manufacturing Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Quality & Manufacturing Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Real Estate Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Real Estate Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Sales Operations Analyst Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Sales Operations Analyst Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Systems Validation Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Systems Validation Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Strategic Engagements & Events Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Strategic Engagements & Events Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Strategic Finance Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Strategic Finance Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Supplier Industrialization Engineering Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Supplier Industrialization Engineering Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Supply Chain Business Operations Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Supply Chain Business Operations Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f System Test Automation Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f System Test Automation Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Technical Program Manager Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Technical Program Manager Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Video Production and Social Media Intern (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Zip Motion Planning Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Technical Writer Intern",
+        "date": "N/A"
+      }
+    ],
     "Boston Dynamics": [],
     "Skydio": [
       {
@@ -999,7 +1940,20 @@
         "date": "N/A"
       }
     ],
-    "Relativity": [],
+    "Relativity": [
+      {
+        "title": "\u2b50\ufe0f Additive Manufacturing Engineer Intern",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Avionics Engineer Intern",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Avionics Manufacturing and Test Engineer Intern",
+        "date": "N/A"
+      }
+    ],
     "Kodiak Robotics": [
       {
         "title": "Senior AI Infrastructure Engineer - Model Training",
@@ -1254,8 +2208,58 @@
         "date": "2026-10-02"
       }
     ],
-    "Qualcomm": [],
-    "Toyota Research Insitute": [],
+    "Qualcomm": [
+      {
+        "title": "SOC Design Verification Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Modular Engineering Internship \u2013 Summer 2027",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Embedded Engineering Internship - Summer 2027",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineering Internship - Summer 2027",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Machine Learning & Artificial Intelligence Engineering Internship \u2013 Summer 2027",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Qualcomm Government Technologies (QGOV) Engineering Internship \u2013 Summer 2027 (San Diego or Boulder) | US CITIZENSHIP REQUIRED",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Automotive Engineering Internship \u2013 Summer 2027",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Security (Product, Systems, Cyber) Engineering Internship - Summer 2027",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Wireless Systems Engineering Internship - Summer 2027",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Multimedia Engineering Internship \u2013 Summer 2027",
+        "date": "N/A"
+      }
+    ],
+    "Toyota Research Insitute": [
+      {
+        "title": "\u2b50\ufe0f Human Interactive Driving Intern \u2013 World Models",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Human-Centered AI Research Intern, Causal Reasoning Models",
+        "date": "N/A"
+      }
+    ],
     "Mitsubishi Electric Research Laboratories": [
       {
         "title": "\u2b50\ufe0f MS0259: Internship - Multi-Fidelity Dynamic Models for Energy Systems",
@@ -1340,7 +2344,36 @@
         "date": "N/A"
       }
     ],
-    "Scale AI": [],
+    "Scale AI": [
+      {
+        "title": "\u2b50\ufe0f Software Engineering Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineering Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineering Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "Software Engineer - New Grad",
+        "date": "N/A"
+      },
+      {
+        "title": "Software Engineer - New Grad",
+        "date": "N/A"
+      },
+      {
+        "title": "Software Engineer - New Grad",
+        "date": "N/A"
+      },
+      {
+        "title": "Software Engineer, Public Sector - New Grad",
+        "date": "N/A"
+      }
+    ],
     "Tesla": [],
     "Gecko Robotics": [
       {
@@ -1592,7 +2625,112 @@
         "date": "2026-10-07"
       }
     ],
-    "Mujin": [],
+    "Mujin": [
+      {
+        "title": "Senior Software Developer - Warehouse Execution",
+        "date": "N/A"
+      },
+      {
+        "title": "Controls Engineer III (Senior)",
+        "date": "N/A"
+      },
+      {
+        "title": "Controls Engineering Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Electrical Controls Engineer II",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Sales Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Robotics Software Engineer II/III - Product Deployment",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern - Software Development (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern - Software Integration (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern - Integration Engineering - Mechanical (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern - Product Development (Spring 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Software Developer in Test (SDET)",
+        "date": "N/A"
+      },
+      {
+        "title": "General Counsel - MUSA",
+        "date": "N/A"
+      },
+      {
+        "title": "Field Service Technician - Suwanee, GA; Kansas City, KS; or Harrisburg, PA",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Frontend Developer",
+        "date": "N/A"
+      },
+      {
+        "title": "Frontend Developer",
+        "date": "N/A"
+      },
+      {
+        "title": "Software Developer - Grippers",
+        "date": "N/A"
+      },
+      {
+        "title": "Software Developer - Devices I/O",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior DevOps Developer (Cloud Automation)",
+        "date": "N/A"
+      },
+      {
+        "title": "Product Manager - Fleet",
+        "date": "N/A"
+      },
+      {
+        "title": "Product Manager - WES/WMS",
+        "date": "N/A"
+      },
+      {
+        "title": "Integration/Deployment Engineer II or III",
+        "date": "N/A"
+      },
+      {
+        "title": "Robotics Software Engineer II/III - Integration",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Internship 2027- Interest Form",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Technical Manager, FM & WES",
+        "date": "N/A"
+      },
+      {
+        "title": "Technical Writer - Senior",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Computer Vision Engineer",
+        "date": "N/A"
+      }
+    ],
     "GreyOrange": [
       {
         "title": "Senior Product Manager",
@@ -2173,7 +3311,320 @@
         "date": "2026-10-05"
       }
     ],
-    "Agility Robotics": [],
+    "Agility Robotics": [
+      {
+        "title": "Accountant III",
+        "date": "N/A"
+      },
+      {
+        "title": "Manager, Accounting",
+        "date": "N/A"
+      },
+      {
+        "title": "Manager, FP&A",
+        "date": "N/A"
+      },
+      {
+        "title": "AP Associate",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Manager, Commercial Operations",
+        "date": "N/A"
+      },
+      {
+        "title": "Principal Program Manager, Customer Success",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Application Mechanical Engineer / Designer",
+        "date": "N/A"
+      },
+      {
+        "title": "Strategic Account Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Firmware Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Mechanical Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Electrical Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Electrical Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Mechanical Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Engineering Support Technician",
+        "date": "N/A"
+      },
+      {
+        "title": "Principal Robotics Functional Safety Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Mechanical Drafter",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Robot Architect - Dynamic Simulation Specialist",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Robotics Architect - Electrical Hardware",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Robot Architect - Platform Software Specialist",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Hardware Technical Program Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "PCB Layout and Interconnect Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Firmware Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Technical Sourcer (Contract)",
+        "date": "N/A"
+      },
+      {
+        "title": "Campus Program Recruiter",
+        "date": "N/A"
+      },
+      {
+        "title": "Principal People Business Partner, Software",
+        "date": "N/A"
+      },
+      {
+        "title": "Total Rewards Lead",
+        "date": "N/A"
+      },
+      {
+        "title": "People Operations Specialist",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Hardware Recruiter",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Systems Administrator, IT",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Enterprise Applications Developer",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Robotics Mechanical Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior AI Research Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Manager, Learning from Demonstration",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Manager, Legal Operations",
+        "date": "N/A"
+      },
+      {
+        "title": "Director, Head of Editorial & Content",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Supplier Quality Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Principal Technical Program Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Director, Operations Program Management",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Manufacturing Test Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Sr Manager, Manufacturing Test Engineering",
+        "date": "N/A"
+      },
+      {
+        "title": "Director, Product Quality",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Assembly Technician I",
+        "date": "N/A"
+      },
+      {
+        "title": "Vice President, Strategic Program Management Office (SPMO)",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Technical Program Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Technical Program Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Logistics Specialist",
+        "date": "N/A"
+      },
+      {
+        "title": "Inventory Controller",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Product Manager, Perception & World Understanding Skills",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Systems Validation Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Systems Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Systems Engineer, Functional Safety",
+        "date": "N/A"
+      },
+      {
+        "title": "Robot Operator II",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Manager, Release and Issue Management",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Hardware Test Engineer - Mechatronics",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Systems Integration Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff HiL SW Infrastructure Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Triage & RCA Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Robot Test Operations Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Data Collection Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Hardware Reliability Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Director, AI",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Robotics Software Engineer, Teleoperations Architecture",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff AI Engineer, Perception",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Staff Software Engineer, Motion Planning",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior AI Software Engineer, Reinforcement Learning",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Staff Software Engineer, Calibration",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Staff Data Scientist, Robotics",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Solutions Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Staff AI Software Engineer, Perception",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Software Engineer, Data Platform",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Software Engineer, Hardware Interface",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Software Engineer, AI/ML Platform",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Safety Software Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Network Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Intelligent Robots & Systems Conference (IROS 2026)",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior AI Software Engineer, Perception",
+        "date": "N/A"
+      },
+      {
+        "title": "Robotics Software Engineer I/II",
+        "date": "N/A"
+      },
+      {
+        "title": "Director of Engineering, Fleet Applications",
+        "date": "N/A"
+      }
+    ],
     "Cobot": [
       {
         "title": "AI Research Engineer",
@@ -2263,8 +3714,230 @@
         "date": "N/A"
       }
     ],
-    "Path Robotics": [],
-    "Figure AI": [],
+    "Path Robotics": [
+      {
+        "title": "Deployment Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Data Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "IT Systems Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Machine Learning Engineer, Robot Learning",
+        "date": "N/A"
+      },
+      {
+        "title": "Machine Learning Engineer, Robot Learning, Loco-Manipulation",
+        "date": "N/A"
+      },
+      {
+        "title": "Real-Time Robotics Perception Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Robotics Algorithms Engineer, Manipulation & Control",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Machine Learning Engineer (Reinforcement Learning/World Model)",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Machine Learning Engineer (Tech Lead), Robot Learning, Loco- Manipulation",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Robotics Software Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Software Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Software Engineer, C#",
+        "date": "N/A"
+      },
+      {
+        "title": "Software Engineer, Fleet Engineering",
+        "date": "N/A"
+      },
+      {
+        "title": "Software Engineer \u2013 ML Infrastructure",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Robotics Software Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Customer Success Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Field Services Lead",
+        "date": "N/A"
+      },
+      {
+        "title": "Field Service Technician",
+        "date": "N/A"
+      },
+      {
+        "title": "Field Service Technician",
+        "date": "N/A"
+      },
+      {
+        "title": "Field Service Technician",
+        "date": "N/A"
+      },
+      {
+        "title": "Field Service Technician",
+        "date": "N/A"
+      },
+      {
+        "title": "Field Service Technician",
+        "date": "N/A"
+      },
+      {
+        "title": "Field Service Technician",
+        "date": "N/A"
+      },
+      {
+        "title": "Field Service Technician",
+        "date": "N/A"
+      },
+      {
+        "title": "Field Service Technician",
+        "date": "N/A"
+      },
+      {
+        "title": "Field Service Technician",
+        "date": "N/A"
+      },
+      {
+        "title": "Field Service Technician",
+        "date": "N/A"
+      },
+      {
+        "title": "Field Service Technician",
+        "date": "N/A"
+      },
+      {
+        "title": "Field Service Technician",
+        "date": "N/A"
+      },
+      {
+        "title": "Field Service Technician",
+        "date": "N/A"
+      },
+      {
+        "title": "Hardware Technician",
+        "date": "N/A"
+      },
+      {
+        "title": "Machine Builder",
+        "date": "N/A"
+      },
+      {
+        "title": "Mechanical Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Preventative Maintenance Lead Tech",
+        "date": "N/A"
+      },
+      {
+        "title": "Project Coordinator",
+        "date": "N/A"
+      },
+      {
+        "title": "Robotic Operations Support Specialist, Weekend Shift",
+        "date": "N/A"
+      },
+      {
+        "title": "Technical Training Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Welding Engineer - NAVSEA Specialist",
+        "date": "N/A"
+      },
+      {
+        "title": "Welding Engineer, Robotics & Automation",
+        "date": "N/A"
+      },
+      {
+        "title": "Early Career & University Relations Recruiter",
+        "date": "N/A"
+      },
+      {
+        "title": "Operations & Defense Recruiter",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Recruiter, AI/ML Research",
+        "date": "N/A"
+      },
+      {
+        "title": "Product Manager, Technical Commercialization",
+        "date": "N/A"
+      },
+      {
+        "title": "Account Executive, Midwest Territory",
+        "date": "N/A"
+      },
+      {
+        "title": "Enterprise Account Executive",
+        "date": "N/A"
+      },
+      {
+        "title": "Introduce Yourself",
+        "date": "N/A"
+      }
+    ],
+    "Figure AI": [
+      {
+        "title": "\u2b50\ufe0f Commercial Operations Intern [Winter 2027]",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Electrical Engineering Intern [Winter 2027]",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Firmware Engineering Intern [Winter 2027]",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Mechanical Engineer Intern [Winter 2027]",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Security Engineer Intern [Winter 2027]",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Special Projects Intern [Winter 2027]",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Supply Chain Analytics Intern [Winter 2027]",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Validation Engineering Intern [Winter 2027]",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Middleware Intern [Winter 2027]",
+        "date": "N/A"
+      }
+    ],
     "1x": [
       {
         "title": "\u2b50\ufe0f Internship - CNC Machine Park",
@@ -2275,7 +3948,24 @@
         "date": "N/A"
       }
     ],
-    "Chef Robotics": [],
+    "Chef Robotics": [
+      {
+        "title": "Robotic Operations Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Systems Reliability Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Forward Deployed Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Account Executive",
+        "date": "N/A"
+      }
+    ],
     "RocketLab": [
       {
         "title": "Create a Job Alert",
@@ -2556,8 +4246,330 @@
         "date": "2026-10-05"
       }
     ],
-    "Apptronik": [],
-    "Titan Robotics": [],
+    "Apptronik": [
+      {
+        "title": "Director of Technical Accounting & Financial Reporting",
+        "date": "N/A"
+      },
+      {
+        "title": "Controls Engineer - Actuation",
+        "date": "N/A"
+      },
+      {
+        "title": "Lead Software Engineer - Dexterous Manipulation",
+        "date": "N/A"
+      },
+      {
+        "title": "Lead Software Engineer - Dexterous Manipulation",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Reinforcement Learning Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Reinforcement Learning Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Software Engineer - Humanoid Controls",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Software Engineer - Humanoid Controls",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Application Engineer - Customer Experience",
+        "date": "N/A"
+      },
+      {
+        "title": "Workplace Experience Manager (Customer Briefing Center)",
+        "date": "N/A"
+      },
+      {
+        "title": "Director, Product Learning & Development",
+        "date": "N/A"
+      },
+      {
+        "title": "ECAD Librarian",
+        "date": "N/A"
+      },
+      {
+        "title": "Electrical Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Hardware Integration Engineer - Dexterity",
+        "date": "N/A"
+      },
+      {
+        "title": "Principal Electrical Engineer - Compute and Sensing",
+        "date": "N/A"
+      },
+      {
+        "title": "Principal Electrical Engineer - Compute and Sensing",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Electrical Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Electrical Engineer - Apollo 2",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Electrical Engineer - Dexterity",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Electrical Engineer - HRI (Visuals)",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Electrical Engineer - Power",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Manager, Hardware Connectivity",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Manager of Mechanical Engineering",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Mechanical Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Mechanical Engineer - Actuation",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Mechanical Engineer (Battery and Docking Station)",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior PCBA Design Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Perception Hardware Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior System Integration Engineer (Soft Goods/Gloves/Grip)",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Wire Harness Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Drivetrain Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Electrical Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Electrical Engineer - Compute",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Electrical Engineer - Compute",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Electrical Engineer - Sensor FPGA",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Electrical Engineer - Sensor FPGA",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Mechanical Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Mechanical Engineer \u2013 Robotic Hand Design Tech Lead",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Mechanical Engineer \u2013 Upper Body Tech Lead",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Perception Hardware Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Perception Hardware Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Wire Harness Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Business Systems Analyst - ERP",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Business Systems Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Video Producer",
+        "date": "N/A"
+      },
+      {
+        "title": "Principal People Analytics Specialist",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Compensation Business Partner",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Director, Total Rewards",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Director, Total Rewards",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff People Technology Specialist",
+        "date": "N/A"
+      },
+      {
+        "title": "Talent Acquisition Recruiter (Contract)",
+        "date": "N/A"
+      },
+      {
+        "title": "Operations Senior Technical Program Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Technical Program Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Director of Product Management, Hardware",
+        "date": "N/A"
+      },
+      {
+        "title": "Director of Product Management, Software",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Director of Product Security",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Product Manager, Hardware Platform",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Product Manager - Human Robot Interaction",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Product Manager, Perception and Navigation",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Product Manager - Simulation",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Product Manager, Teleoperation",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Product Manager, Applied AI",
+        "date": "N/A"
+      },
+      {
+        "title": "Manager, Manufacturing Engineering",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Manufacturing Engineer - Assembly",
+        "date": "N/A"
+      },
+      {
+        "title": "Product Quality Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Firmware Engineer - Actuation",
+        "date": "N/A"
+      },
+      {
+        "title": "Firmware Engineer \u2013 Hands",
+        "date": "N/A"
+      },
+      {
+        "title": "Principal Robotics Machine Learning Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Embedded Linux Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Site Reliability Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Software Engineer, ML Infrastructure",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff MLOps Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Simulation Architect - Core Simulation Platform",
+        "date": "N/A"
+      },
+      {
+        "title": "Technical Lead Manager - Production Engineering",
+        "date": "N/A"
+      },
+      {
+        "title": "Configuration Manager - Teamcenter",
+        "date": "N/A"
+      },
+      {
+        "title": "Manufacturing Engineer (Supply Chain) - Electromechanical",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Systems Engineer - Chassis",
+        "date": "N/A"
+      },
+      {
+        "title": "Hardware Test Engineer \u2013 Dexterity",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Test Engineer - Actuators",
+        "date": "N/A"
+      }
+    ],
+    "Titan Robotics": [
+      {
+        "title": "Senior Robotics Autonomy Engineer",
+        "date": "N/A"
+      }
+    ],
     "Near Earth Autonomy": [
       {
         "title": "Aerospace Systems Engineer",
@@ -2778,7 +4790,12 @@
         "date": "2026-10-05"
       }
     ],
-    "Sanctuary AI": [],
+    "Sanctuary AI": [
+      {
+        "title": "\u2b50\ufe0f Machine Learning Research Intern (Reinforcement/Imitation Learning)",
+        "date": "N/A"
+      }
+    ],
     "Tensor Auto": [
       {
         "title": "FP&A Manager",
@@ -3664,7 +5681,396 @@
         "date": "2026-09-29"
       }
     ],
-    "Aurora Innovation": [],
+    "Aurora Innovation": [
+      {
+        "title": "Executive Assistant",
+        "date": "N/A"
+      },
+      {
+        "title": "Technical Support Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Account Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Data Analyst",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Software Engineer (Data Engineering and Infrastructure)",
+        "date": "N/A"
+      },
+      {
+        "title": "Director, Security Operations & Detection Engineering",
+        "date": "N/A"
+      },
+      {
+        "title": "Head of ERP & Financial Technology",
+        "date": "N/A"
+      },
+      {
+        "title": "Head of People Technology",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Security Engineer - Enterprise Security Engineering",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Staff Security Product Architect",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Application Security Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Security Engineer, Cloud Detection & Response",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Security Software Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Technical Product & Program Manager, Security",
+        "date": "N/A"
+      },
+      {
+        "title": "Corporate FP&A Senior Analyst",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Accounts Payable Analyst",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Analyst, Investor Relations",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Insurance Risk Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Inventory Specialist",
+        "date": "N/A"
+      },
+      {
+        "title": "Logistics Analyst",
+        "date": "N/A"
+      },
+      {
+        "title": "Logistics Analyst - Control Tower",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Manager, Global Supply Management",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Global Supply Manager - Indirect",
+        "date": "N/A"
+      },
+      {
+        "title": "Engineering Technician - Welder/Fabricator",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Manager Hardware Systems Applications Engineering",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Staff Signal Processing Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Staff System Architect",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Staff TLM, Hardware Test Infrastructure",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Systems Engineer, Hardware Systems",
+        "date": "N/A"
+      },
+      {
+        "title": "Service Engineering Technician",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Hardware Reliability Engineer - Drive by Wire",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Hardware Reliability Engineer - Sensors",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Lidar Systems Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Technical Program Manager, HW Systems and Safety",
+        "date": "N/A"
+      },
+      {
+        "title": "Technical Program Manager, Vehicle Programs",
+        "date": "N/A"
+      },
+      {
+        "title": "Manufacturing Production Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior EOL Test Engineer, Quality",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior NPI Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff NPI Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Technical Program Manager, Hardware NPI Test",
+        "date": "N/A"
+      },
+      {
+        "title": "Regulatory Counsel",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Stock Administrator",
+        "date": "N/A"
+      },
+      {
+        "title": "Head of Marketing and Communications",
+        "date": "N/A"
+      },
+      {
+        "title": "Learning and Development Lead",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Staff Compensation Partner",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff People Business Partner",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Staff Product and Program Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Program Manager, Network Expansion",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Technical Program Manager, Release Management",
+        "date": "N/A"
+      },
+      {
+        "title": "Hardware Quality Assurance Engineer II",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Manager, Quality Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Software Assurance Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Safety Standards Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Applied Researcher",
+        "date": "N/A"
+      },
+      {
+        "title": "Behavior Planning Software Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Software Engineer - Cloud Platform",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Software Engineer, Full Stack \u2013 Aurora Services",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Software Engineer, Geometric Generation",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Software Engineer, Localization",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Software Engineer, Perception",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Staff Tech Lead Manager - Core Cloud Services",
+        "date": "N/A"
+      },
+      {
+        "title": "Software Engineer II, Pipeline Automation & Acceleration",
+        "date": "N/A"
+      },
+      {
+        "title": "Software Engineer II, Vehicle Platform Integrations",
+        "date": "N/A"
+      },
+      {
+        "title": "Software Engineer, Autonomy Controls",
+        "date": "N/A"
+      },
+      {
+        "title": "Software Engineer, Geometric Generation",
+        "date": "N/A"
+      },
+      {
+        "title": "Software Engineer, Maps Infra",
+        "date": "N/A"
+      },
+      {
+        "title": "Software Engineer, Performance Engineering Optimization",
+        "date": "N/A"
+      },
+      {
+        "title": "Sr Full Stack UX Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Software Engineer - Core Services",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Software Engineer, Connectivity",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Software Engineer, Deep Learning Acceleration",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Software Engineer, Full Stack \u2013 Aurora Services",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Software Engineer, Online Maps",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Software Engineer, Perception",
+        "date": "N/A"
+      },
+      {
+        "title": "Central Development Operations Lead",
+        "date": "N/A"
+      },
+      {
+        "title": "Central Development Operations Specialist",
+        "date": "N/A"
+      },
+      {
+        "title": "Command Center Specialist",
+        "date": "N/A"
+      },
+      {
+        "title": "Fleet Operations Technician",
+        "date": "N/A"
+      },
+      {
+        "title": "Project Manager II, Aurora Support Operations",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Manager, Development Test Operations Program Management",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Program Manager, Development Testing Operations (Release Testing)",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Program Manager, Test Execution (Weekends)",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Program Manager, Training Development \u2014 Command Center",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Program Manager, Cost Out & Productivity",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Program Manager, Operational Quality",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Staff Program Manager, Operations Partnership",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Program Manager, Partner Quality",
+        "date": "N/A"
+      },
+      {
+        "title": "Tactical Development Operations Lead",
+        "date": "N/A"
+      },
+      {
+        "title": "Tactical Development Truck Operator",
+        "date": "N/A"
+      },
+      {
+        "title": "Tactical Development Truck Operator",
+        "date": "N/A"
+      },
+      {
+        "title": "Truck Operations Specialist",
+        "date": "N/A"
+      },
+      {
+        "title": "Truck Operations Specialist",
+        "date": "N/A"
+      },
+      {
+        "title": "Truck Operations Specialist",
+        "date": "N/A"
+      },
+      {
+        "title": "Truck Operations Specialist",
+        "date": "N/A"
+      },
+      {
+        "title": "Truck Operations Specialist",
+        "date": "N/A"
+      },
+      {
+        "title": "Truck Operations Specialist",
+        "date": "N/A"
+      },
+      {
+        "title": "Truck Operations Specialist",
+        "date": "N/A"
+      }
+    ],
     "Zoox": [
       {
         "title": "Staff Signal Integrity and Power Integrity Engineer (SI/PI) - ON-SITE \u2014 FULL-TIMEFOSTER CITY, CA",
@@ -4808,6 +7214,10 @@
       },
       {
         "title": "Information Security Manager - Identity and Access Management (IAM) - HYBRID \u2014 FULL-TIMEFOSTER CITY, CA",
+        "date": "2026-10-09"
+      },
+      {
+        "title": "Senior AI Inference Engineer - Model Optimization & Deployment - HYBRID \u2014 FULL-TIMEBOSTON, MA / SAN DIEGO, CA / SEATTLE, WA",
         "date": "2026-10-09"
       }
     ],
@@ -6666,7 +9076,76 @@
         "date": "N/A"
       }
     ],
-    "Anduril": [],
+    "Anduril": [
+      {
+        "title": "\u2b50\ufe0f 2026 Electrical Engineer Intern",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2026 Guidance, Navigation & Control Engineer Intern",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Deployment Logistics Intern",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Electrical Engineer Intern",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Flight Software Engineer Intern",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Industrial Engineer Intern",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Manufacturing Engineer Intern",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Mechanical Engineer Intern",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Quality & Test Engineer Intern",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Reliability Engineer Intern",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Software Engineer Intern",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Software Engineer Intern",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Supply Chain Intern",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Systems Engineer Intern",
+        "date": "N/A"
+      },
+      {
+        "title": "Production Technician - SkillBridge",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Winter 2027 Manufacturing Engineer Co-op",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Winter 2027 Reliability Engineer Co-op",
+        "date": "N/A"
+      }
+    ],
     "Matic Robots": [
       {
         "title": "Principal Motor Engineer",
@@ -6765,7 +9244,164 @@
         "date": "2026-10-06"
       }
     ],
-    "Forterra": [],
+    "Forterra": [
+      {
+        "title": "Navigation Software Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Product Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Product Security Lead",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Electrical Engineer - Design",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Software Engineer, Platform Integration",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Senior Software Engineer-Internal Tools",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Software Integration Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Staff Software Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Autonomy Software Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Chief Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Lead Autonomy Software Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Localization Integration Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Path Planning Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Platform Control Software Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Payloads Software Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Software Integration Engineer - C2 Systems",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Systems Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Vehicle Controls Systems Architect",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Software Safety Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior IT Systems and Infrastructure Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Quality Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Accounts Payable Specialist",
+        "date": "N/A"
+      },
+      {
+        "title": "Graphic Designer",
+        "date": "N/A"
+      },
+      {
+        "title": "Growth Lead- Army Fires",
+        "date": "N/A"
+      },
+      {
+        "title": "Product Marketing Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Proposal Writer & Business Development Analyst",
+        "date": "N/A"
+      },
+      {
+        "title": "SkillBridge Mission Operations Associate",
+        "date": "N/A"
+      },
+      {
+        "title": "Cable Harness Manufacturer",
+        "date": "N/A"
+      },
+      {
+        "title": "Fabricator/Welder",
+        "date": "N/A"
+      },
+      {
+        "title": "Integration Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Manufacturing Inspection Technician",
+        "date": "N/A"
+      },
+      {
+        "title": "SkillBridge Engineering Technician",
+        "date": "N/A"
+      },
+      {
+        "title": "Training Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior System Test Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Simulation Software Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "SkillBridge - Field Service Representative",
+        "date": "N/A"
+      },
+      {
+        "title": "Sustainment Coordinator",
+        "date": "N/A"
+      },
+      {
+        "title": "Sustainment Logistics Lead",
+        "date": "N/A"
+      },
+      {
+        "title": "Operations Analytics Manager",
+        "date": "N/A"
+      }
+    ],
     "Pickle Robot": [
       {
         "title": "Backend Software Engineer \u2013 Autonomy - HYBRID \u2014 FULL-TIMECHARLESTOWN, MA",
@@ -7678,7 +10314,776 @@
         "date": "2026-10-08"
       }
     ],
-    "Lyft": [],
+    "Lyft": [
+      {
+        "title": "Analyste Financier",
+        "date": "N/A"
+      },
+      {
+        "title": "Finance Analyst",
+        "date": "N/A"
+      },
+      {
+        "title": "Finance Transformation Specialist",
+        "date": "N/A"
+      },
+      {
+        "title": "Financial Analyst",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Internal Audit Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Financial Data Analyst (Manager)",
+        "date": "N/A"
+      },
+      {
+        "title": "Sr. Manager, Accounts Payable",
+        "date": "N/A"
+      },
+      {
+        "title": "Treasury Analyst",
+        "date": "N/A"
+      },
+      {
+        "title": "Executive Business Partner",
+        "date": "N/A"
+      },
+      {
+        "title": "Firmware Engineering Manager, Lyft Urban Solutions",
+        "date": "N/A"
+      },
+      {
+        "title": "Operations Specialist, Bluebikes",
+        "date": "N/A"
+      },
+      {
+        "title": "Analyste en Planification des Actifs",
+        "date": "N/A"
+      },
+      {
+        "title": "Asset Planning Analyst",
+        "date": "N/A"
+      },
+      {
+        "title": "Sr. Manager, GTM Strategy & Sales Packaging",
+        "date": "N/A"
+      },
+      {
+        "title": "Director, Product & Brand Communications",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Internal Communications Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Social Support Associate, Customer Care Operations",
+        "date": "N/A"
+      },
+      {
+        "title": "Sr. Associate, Compassionate Care",
+        "date": "N/A"
+      },
+      {
+        "title": "Sr. Associate, Compassionate Care (Overnight)",
+        "date": "N/A"
+      },
+      {
+        "title": "Sr. Specialist, Crisis Communications",
+        "date": "N/A"
+      },
+      {
+        "title": "Analyst, Global Support Workforce Planning",
+        "date": "N/A"
+      },
+      {
+        "title": "Analytics Lead, Airports",
+        "date": "N/A"
+      },
+      {
+        "title": "Analytics Lead, Central Market Management",
+        "date": "N/A"
+      },
+      {
+        "title": "Analytics Lead, Decisions & Insights",
+        "date": "N/A"
+      },
+      {
+        "title": "Analytics Lead, Market Insights",
+        "date": "N/A"
+      },
+      {
+        "title": "Analytics Lead, SCC",
+        "date": "N/A"
+      },
+      {
+        "title": "Data Analyst, Go-To-Market Sales Insights",
+        "date": "N/A"
+      },
+      {
+        "title": "Data Analyst, People Analytics",
+        "date": "N/A"
+      },
+      {
+        "title": "Fraud & Risk Analyst",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Analyst, Global Expansion Strategy",
+        "date": "N/A"
+      },
+      {
+        "title": "Applied Scientist- Pricing, Dynamic Pricing & Offer Selection",
+        "date": "N/A"
+      },
+      {
+        "title": "Data Science, Decisions - Airports",
+        "date": "N/A"
+      },
+      {
+        "title": "Data Science, Metrics",
+        "date": "N/A"
+      },
+      {
+        "title": "Data Scientist",
+        "date": "N/A"
+      },
+      {
+        "title": "Data Scientist - Algorithms, Mapping",
+        "date": "N/A"
+      },
+      {
+        "title": "Data Scientist, Decisions - Central Market Management",
+        "date": "N/A"
+      },
+      {
+        "title": "Data Scientist, Decisions - Central Market Management",
+        "date": "N/A"
+      },
+      {
+        "title": "Data Scientist, Decisions - Mapping",
+        "date": "N/A"
+      },
+      {
+        "title": "Data Scientist, Optimization - Real-Time Supply Management",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Data Scientist, Algorithm, Lyft Biz",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Data Scientist, Algorithms, Lyft Biz",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Data Scientist, Causal Inference",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Data Scientist, Causal Inference",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Data Scientist, Causal Inference",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Applied Scientist",
+        "date": "N/A"
+      },
+      {
+        "title": "Concepteur de Produits - Technologie des op\u00e9rations",
+        "date": "N/A"
+      },
+      {
+        "title": "Operations Technology Product Designer",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Product Designer, Rider",
+        "date": "N/A"
+      },
+      {
+        "title": "AV Program Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Firmware Engineer, LUS",
+        "date": "N/A"
+      },
+      {
+        "title": "Ing\u00e9nieur de Test en Fabrication, Solutions Urbains de Lyft",
+        "date": "N/A"
+      },
+      {
+        "title": "Ing\u00e9nieur(e) en Micrologiciel, LUS",
+        "date": "N/A"
+      },
+      {
+        "title": "Manufacturing Test Engineer, Lyft Urban Solutions",
+        "date": "N/A"
+      },
+      {
+        "title": "AI Business Solutions Architect, People Technology",
+        "date": "N/A"
+      },
+      {
+        "title": "Business Systems Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Business Systems Engineer, Intelligent Automation",
+        "date": "N/A"
+      },
+      {
+        "title": "Business Systems Engineer, Oracle STP",
+        "date": "N/A"
+      },
+      {
+        "title": "Marketing Technology Lead",
+        "date": "N/A"
+      },
+      {
+        "title": "Salesforce Architect",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Business Systems Engineer - Integrations & AI",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Business Systems Lead, Payroll & Time (Dayforce)",
+        "date": "N/A"
+      },
+      {
+        "title": "Associate Counsel, Employment",
+        "date": "N/A"
+      },
+      {
+        "title": "Associate Counsel, Employment",
+        "date": "N/A"
+      },
+      {
+        "title": "Counsel, Patents & IP",
+        "date": "N/A"
+      },
+      {
+        "title": "Counsel, Patents & IP",
+        "date": "N/A"
+      },
+      {
+        "title": "Counsel, Patents & IP",
+        "date": "N/A"
+      },
+      {
+        "title": "Counsel, Product & Commercial (Rideshare)",
+        "date": "N/A"
+      },
+      {
+        "title": "Director, Global M&A Legal",
+        "date": "N/A"
+      },
+      {
+        "title": "Legal Operations Program Manager, M&A Integrations",
+        "date": "N/A"
+      },
+      {
+        "title": "Legal Operations Program Manager, M&A Integrations",
+        "date": "N/A"
+      },
+      {
+        "title": "Legal Operations Specialist",
+        "date": "N/A"
+      },
+      {
+        "title": "Legal Operations Specialist",
+        "date": "N/A"
+      },
+      {
+        "title": "Growth Marketing Manager, Lifecycle",
+        "date": "N/A"
+      },
+      {
+        "title": "Growth Marketing Manager, Lifecycle",
+        "date": "N/A"
+      },
+      {
+        "title": "Sr. Product Marketing Manager, Programmatic Ad Solutions",
+        "date": "N/A"
+      },
+      {
+        "title": "Sr. Product Marketing Manager, Programmatic Ad Solutions",
+        "date": "N/A"
+      },
+      {
+        "title": "Fleet Operations Associate (Overnight Shift)",
+        "date": "N/A"
+      },
+      {
+        "title": "Associate Operations Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Director, Trust & Safety",
+        "date": "N/A"
+      },
+      {
+        "title": "Fleet Operations Associate",
+        "date": "N/A"
+      },
+      {
+        "title": "Fleet Operations Associate (Day Shift)",
+        "date": "N/A"
+      },
+      {
+        "title": "Fleet Operations Associate (Swing Shift)",
+        "date": "N/A"
+      },
+      {
+        "title": "Operations Associate",
+        "date": "N/A"
+      },
+      {
+        "title": "Operations Associate - Flexdrive",
+        "date": "N/A"
+      },
+      {
+        "title": "Operations Manager, AV Depot",
+        "date": "N/A"
+      },
+      {
+        "title": "Operations Specialist, Capital Bikeshare",
+        "date": "N/A"
+      },
+      {
+        "title": "Pricing, Yield, & Sales Compensation Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Pricing, Yield, & Sales Compensation Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Program Manager, AV Operational Excellence",
+        "date": "N/A"
+      },
+      {
+        "title": "Repair Operations Lead",
+        "date": "N/A"
+      },
+      {
+        "title": "Partenaire d\u2019affaires RH, Lyft Solutions Urbaines",
+        "date": "N/A"
+      },
+      {
+        "title": "People Business Partner, Lyft Urban Solutions",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior PBP, Finance",
+        "date": "N/A"
+      },
+      {
+        "title": "VP, Global People Business Partners",
+        "date": "N/A"
+      },
+      {
+        "title": "Chef de Produit Senior, Mat\u00e9riel (Stations de v\u00e9los en libre-service)- Solution Urbaines de Lyft (Micromobilit\u00e9)",
+        "date": "N/A"
+      },
+      {
+        "title": "Director of Product, Customer Care",
+        "date": "N/A"
+      },
+      {
+        "title": "Group Product Manager, Verticals",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Group Product Manager, Verticals",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Product Manager, Customer Care AI",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Product Manager, Customer Care AI",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Product Manager, Hardware (Bikeshare Stations) - Lyft Urban Solutions (Micromobility)",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Product Manager, Verticals",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Product Manager I, Ad Serving",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Product Manager, Core Rider",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Product Manager, Customer Care Platform & Data",
+        "date": "N/A"
+      },
+      {
+        "title": "Manager, Legislative Counsel",
+        "date": "N/A"
+      },
+      {
+        "title": "Investigator, Global Security",
+        "date": "N/A"
+      },
+      {
+        "title": "Account Manager, Automotive Vertical",
+        "date": "N/A"
+      },
+      {
+        "title": "Account Manager, Automotive Vertical",
+        "date": "N/A"
+      },
+      {
+        "title": "Business Sales Associate",
+        "date": "N/A"
+      },
+      {
+        "title": "Business Sales Associate",
+        "date": "N/A"
+      },
+      {
+        "title": "Enterprise Account Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Enterprise Account Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Account Executive",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Account Executive",
+        "date": "N/A"
+      },
+      {
+        "title": "Security Analyst",
+        "date": "N/A"
+      },
+      {
+        "title": "Security Assurance Analyst, Security and Privacy",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Security Assurance Analyst",
+        "date": "N/A"
+      },
+      {
+        "title": "Android Software Engineer, Lyft Urban Solutions",
+        "date": "N/A"
+      },
+      {
+        "title": "Backend Software Engineer, Airports",
+        "date": "N/A"
+      },
+      {
+        "title": "Backend Software Engineer, Airports",
+        "date": "N/A"
+      },
+      {
+        "title": "Data Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Engineering Manager \u2013 Data Platform, Lakehouse Foundation",
+        "date": "N/A"
+      },
+      {
+        "title": "Engineering Manager, Global Growth",
+        "date": "N/A"
+      },
+      {
+        "title": "Engineering Manager, Rider Loyalty",
+        "date": "N/A"
+      },
+      {
+        "title": "Ing\u00e9nieur Logiciel Android, Lyft Solutions Urbaines",
+        "date": "N/A"
+      },
+      {
+        "title": "Ing\u00e9nieur Logiciel en Tests Automatis\u00e9s, LUS",
+        "date": "N/A"
+      },
+      {
+        "title": "Machine Learning Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Machine Learning Engineer, Fulfillment",
+        "date": "N/A"
+      },
+      {
+        "title": "Machine Learning Engineer, Lyft Business & Ads",
+        "date": "N/A"
+      },
+      {
+        "title": "Machine Learning Engineer, Safety and Customer Care AI",
+        "date": "N/A"
+      },
+      {
+        "title": "ML Software Engineer, ETA",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior AI Software Engineer, Risk - Insurance Claims Management",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior AI Software Engineer, Risk - Insurance Claims Management",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Senior Engineering Manager, Rider Loyalty, Partnerships, and Rider Pay",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Machine Learning Engineer, Recommendations",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Machine Learning Engineer, Recommendations",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Software Engineer - iOS",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Software Engineer, AI Entries",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Software Engineer, Community Safety",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Software Engineer, Data - Mapping",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Software Engineer, Data Pipelines",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Software Engineer, Foundational Infrastructure & Networking",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Software Engineer, Lyft Business",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Software Engineer, Marketplace",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Software Engineer, Places and Search",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Software Engineer, Recommendations",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Software Engineer, Rider",
+        "date": "N/A"
+      },
+      {
+        "title": "Software Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Software Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Software Engineer - Self Service Intelligence, SCC Eng",
+        "date": "N/A"
+      },
+      {
+        "title": "Software Engineer in Test, LUS",
+        "date": "N/A"
+      },
+      {
+        "title": "Software Engineer, Driver Earnings",
+        "date": "N/A"
+      },
+      {
+        "title": "Software Engineer, Driver Experience",
+        "date": "N/A"
+      },
+      {
+        "title": "Software Engineer, Fulfillment",
+        "date": "N/A"
+      },
+      {
+        "title": "Software Engineer, Observability",
+        "date": "N/A"
+      },
+      {
+        "title": "Software Engineer, Planned Pricing",
+        "date": "N/A"
+      },
+      {
+        "title": "Software Engineer, Pricing",
+        "date": "N/A"
+      },
+      {
+        "title": "Software Engineer, Pricing - Price Orchestration",
+        "date": "N/A"
+      },
+      {
+        "title": "Software Engineer, Telematics",
+        "date": "N/A"
+      },
+      {
+        "title": "Sr. Security Engineer, Corporate Security",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Software Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Software Engineer, Lyft Business",
+        "date": "N/A"
+      },
+      {
+        "title": "Global Supply Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Global Supply Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Global Supply Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Procurement COE manager",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Applied Scientist Intern, PhD (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Business Systems Engineer Intern, Finance Technology (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Content Systems Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Data Analyst Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Data Engineer Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Data Science Intern, Algorithms (Summer 2027 - Toronto)",
+        "date": "N/A"
+      },
+      {
+        "title": "D\u00e9veloppeur Logiciels (Stagiaire), Automatisation des tests (l'\u00e9t\u00e9 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "D\u00e9veloppeur Logiciels (Stagiaire), Backend (l'\u00e9t\u00e9 2027 - Montreal)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Hardware Field Quality Engineer Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Industrialization Engineer Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f PhD Machine Learning Software Engineer Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer Intern, Backend (Summer 2027 - Mexico)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer Intern, Backend (Summer 2027 - Montreal)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer Intern, Backend (Summer 2027 - SF)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer Intern, Backend (Summer 2027 - Toronto)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer Intern, Frontend (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer Intern, Fullstack (Summer 2027 - Toronto)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer Intern, Machine Learning (Summer 2027 - Toronto)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer Intern, Test Automation (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "Stagiaire en ing\u00e9nierie d'industrialisation (\u00e9t\u00e9 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "Stagiaire en ing\u00e9nierie de la qualit\u00e9 terrain, mat\u00e9riel (\u00e9t\u00e9 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f UX Research Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "UX Researcher",
+        "date": "N/A"
+      }
+    ],
     "Glydways": [
       {
         "title": "Create a Job Alert",
@@ -7820,9 +11225,488 @@
         "date": "N/A"
       }
     ],
-    "Swarm Aero": [],
-    "Waymo": [],
-    "Wayve": [],
+    "Swarm Aero": [
+      {
+        "title": "\u2b50\ufe0f Aircraft Engineering Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Avionics Engineer Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Embedded Software Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Composite Engineering (M&P) Intern (Summer 2027)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer Intern (Summer 2027)",
+        "date": "N/A"
+      }
+    ],
+    "Waymo": [
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Machine Learning, Simulator Evaluation",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2026 Summer Intern, PhD, Research, World Modeling Evaluation",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, BS, Depot Automation",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, BS, Software Engineer, Driver Refinement Foundations",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, BS, Software Engineer, Model Eval",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, BS, Software Engineering, Labeling",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, BS, Waymo ML Ops & Automation",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, BS/MS, Embedded, Software Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, BS/MS, Global Supply Management (GSM)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, BS/MS, Scenes",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, BS/MS, Software Engineer, RO Performance team, Release Evaluation (Simulation)",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, MBA, Operations Planning",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, MBA, Salesforce Product Owner",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, MBA, Strategic Finance",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, MS, PhD, Software Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, MS, Software Engineering, Behavior Test",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Research, Perception Foundation Models",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, AI-driven ML Performance Engineering Intern",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Conflict Behavior",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Machine Learning Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Machine Learning Engineer - Simulator Realism Evaluation",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, ML Systems & Behavior Discovery",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Perception, Evaluation",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Perception, Machine Learning",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Perception, Robotics",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Product Data Science",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Quantitative UX Researcher, Growth/International Expansion",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Sim-Realism ML Infrastructure",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Software Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Software Engineer, Eval Data Infra",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Software Engineer, Onboard Developer Platform",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Software Engineer, Simulation Evaluation ML Model",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Software Engineer, Sys Intel & Machine Learning",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Software Engineering, Onboard Software Integrity",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Software/ML Engineer, Simulation",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Systems Engineer, Autonomous Vehicle Networks & Diagnostics",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, PhD, Data Science",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, PhD, Learning-Based Behavior for Special Vehicles",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, PhD, Machine Learning Research, Planning/Prediction",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, PhD, Machine Learning, Computer Vision",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, PhD, Machine Learning, Planning/Prediction",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, PhD, Perception Systems Engineering: Pedestrian Detection Precision",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, PhD, Perception/Road Understanding, ML Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, PhD, Planner Machine Learning",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, PhD, Quantitative Software Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, PhD, Research, World Action Model",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, PhD, Safety Research, Human Behavior Analytics",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, PhD, Software Engineer, Simulation",
+        "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, PhD, Vehicle Intent and Prediction",
+        "date": "N/A"
+      }
+    ],
+    "Wayve": [
+      {
+        "title": "Distinguished Software Architect",
+        "date": "N/A"
+      },
+      {
+        "title": "Platform Engineer, SDO",
+        "date": "N/A"
+      },
+      {
+        "title": "Principal Engineer, Data & Compute",
+        "date": "N/A"
+      },
+      {
+        "title": "Principal Engineer, Model Development Platform",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Machine Learning Engineer, Search & Index",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Software Engineer, Fleet Management",
+        "date": "N/A"
+      },
+      {
+        "title": "Software Engineer, Fleet Management",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff ML Performance Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Vice President, AI Data",
+        "date": "N/A"
+      },
+      {
+        "title": "Principal Machine Learning Engineer, 3D Geometric Vision",
+        "date": "N/A"
+      },
+      {
+        "title": "Robotics Generalist",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior / Staff Sensing Systems Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Data Scientist",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Forensics Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff / Senior Machine Learning Engineer, AV Core",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff / Senior Machine Learning Engineer, Reinforcement Learning",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Robotics Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "VP Engineering, Robotaxi",
+        "date": "N/A"
+      },
+      {
+        "title": "Robotaxi Commercial Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "US - Technical Operations Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Principal / Director, Technical Program Management \u2014 Driver Out",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Technical Program Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Principal Vehicle Integration Lead",
+        "date": "N/A"
+      },
+      {
+        "title": "Supply Chain Program Manager",
+        "date": "N/A"
+      },
+      {
+        "title": "Fleet Operations Training Lead - US & Japan",
+        "date": "N/A"
+      },
+      {
+        "title": "Fleet Service and Maintenance Technician",
+        "date": "N/A"
+      },
+      {
+        "title": "Global Head of AV Driver Training",
+        "date": "N/A"
+      },
+      {
+        "title": "Associate Talent Partner - Fleet Operations",
+        "date": "N/A"
+      },
+      {
+        "title": "Application Software Engineer - Embedded Software C++",
+        "date": "N/A"
+      },
+      {
+        "title": "Automotive Systems Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Director, Application Engineering, US",
+        "date": "N/A"
+      },
+      {
+        "title": "Engineering Manager, App SW - Embedded",
+        "date": "N/A"
+      },
+      {
+        "title": "Machine Learning Engineer, Application Software",
+        "date": "N/A"
+      },
+      {
+        "title": "Machine Learning Engineering Manager, Application Software",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Data Scientist",
+        "date": "N/A"
+      },
+      {
+        "title": "Systems Engineer, Robotaxi",
+        "date": "N/A"
+      },
+      {
+        "title": "Technical Product Manager, Development Vehicles",
+        "date": "N/A"
+      },
+      {
+        "title": "Applied Scientist / Machine Learning Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Full Stack Software Engineer, Evaluation Tools",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior / Staff Systems Engineer, AI Validation",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Data Scientist",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Machine Learning Engineer, Vision Models",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Triage Automation Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Software Engineer, Data Ingestion Systems",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Validation Systems Engineer, AI Validation",
+        "date": "N/A"
+      },
+      {
+        "title": "Distinguished Engineer, Embedded Vehicle Software",
+        "date": "N/A"
+      },
+      {
+        "title": "Engineering Manager, Embedded Automotive Platforms",
+        "date": "N/A"
+      },
+      {
+        "title": "Engineering Manager, OS, Robot Software",
+        "date": "N/A"
+      },
+      {
+        "title": "Principal Software Engineer, Robot Software",
+        "date": "N/A"
+      },
+      {
+        "title": "Radar Lead",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Embedded Software Test Engineer, Onboard Test Automation",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Software Engineer - OS, Robot Software",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Software Engineer - Platform Integration, Robot Software",
+        "date": "N/A"
+      },
+      {
+        "title": "Site Reliability Engineer, Vehicle Software",
+        "date": "N/A"
+      },
+      {
+        "title": "SRE Manager, Vehicle Software",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Embedded Security Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Software Engineer - OS, Robot Software",
+        "date": "N/A"
+      },
+      {
+        "title": "System Integration Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Machine Learning Scientist/Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Machine Learning Software Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Principal Research Scientist, Robot Foundation Models",
+        "date": "N/A"
+      }
+    ],
     "Bedrock Robotics": [
       {
         "title": "Construction Business Development",
@@ -9473,6 +13357,10 @@
       {
         "title": "Senior Software Engineer (Cleared) - Air Combat",
         "date": "2026-10-09"
+      },
+      {
+        "title": "Product Manager - Cabin Intelligence",
+        "date": "2026-10-09"
       }
     ],
     "FieldAI": [
@@ -10501,7 +14389,213 @@
         "date": "2026-10-07"
       }
     ],
-    "World Labs": [],
-    "DeepMind": []
+    "World Labs": [
+      {
+        "title": "Executive Business Partner (Office of the CEO)",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Business Development & Ops Lead, Robotics & Physical AI",
+        "date": "N/A"
+      },
+      {
+        "title": "Performance Engineer (Inference, Training & GPU)",
+        "date": "N/A"
+      },
+      {
+        "title": "Product Engineer",
+        "date": "N/A"
+      },
+      {
+        "title": "Rendering Systems Engineer - Simulation & Synthetic Data",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Product Engineer (Tech Lead)",
+        "date": "N/A"
+      },
+      {
+        "title": "Pipeline Engineer (Graphics/3D)",
+        "date": "N/A"
+      },
+      {
+        "title": "Research Engineer / Scientist (3D Tech Lead)",
+        "date": "N/A"
+      },
+      {
+        "title": "Research Engineer / Scientist (Robot Learning)",
+        "date": "N/A"
+      },
+      {
+        "title": "Research Engineer / Scientist (SLAM)",
+        "date": "N/A"
+      },
+      {
+        "title": "Research Scientist (Generative Modeling)",
+        "date": "N/A"
+      }
+    ],
+    "DeepMind": [
+      {
+        "title": "Senior Lab Operations Manager, DeepMind",
+        "date": "N/A"
+      },
+      {
+        "title": "Research Scientist, AI Secure Code, DeepMind",
+        "date": "N/A"
+      },
+      {
+        "title": "Research Engineer, GenAI, Information Tasks, DeepMind",
+        "date": "N/A"
+      },
+      {
+        "title": "Research Engineer, Cyber Gemini, DeepMind",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Software Engineer, Full Stack, Gemini App, DeepMind",
+        "date": "N/A"
+      },
+      {
+        "title": "Research Engineer, Biosecurity, DeepMind",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Staff Research Scientist/Engineer, Consumer Agents Post Training, DeepMind",
+        "date": "N/A"
+      },
+      {
+        "title": "Research Engineer, Tech Lead Manager, Frontier and AGI Security, DeepMind",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Staff Research Scientist, Recommendation Systems, DeepMind",
+        "date": "N/A"
+      },
+      {
+        "title": "Research Engineer, Energy Grids, Sustainability, DeepMind",
+        "date": "N/A"
+      },
+      {
+        "title": "Technical Program Manager, Off-the-Shelf Hardware, DeepMind",
+        "date": "N/A"
+      },
+      {
+        "title": "Research Scientist, Gemini Safety and Behavior, DeepMind",
+        "date": "N/A"
+      },
+      {
+        "title": "Tech Lead, Gemini Inference Performance, DeepMind",
+        "date": "N/A"
+      },
+      {
+        "title": "Semiconductor Material Science Research Scientist, DeepMind",
+        "date": "N/A"
+      },
+      {
+        "title": "Electrical Engineer, Robotics, DeepMind",
+        "date": "N/A"
+      },
+      {
+        "title": "Silicon Engineer, Physical Verification, DeepMind",
+        "date": "N/A"
+      },
+      {
+        "title": "Research Collaboration Lead, DeepMind, DeepMind Institute",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Software Engineer, Mobile, GeminiApp, DeepMind",
+        "date": "N/A"
+      },
+      {
+        "title": "Manager, Technical Program Manager, GenAI Safety, DeepMind",
+        "date": "N/A"
+      },
+      {
+        "title": "Robotics Platform Software Engineer, DeepMind",
+        "date": "N/A"
+      },
+      {
+        "title": "Senior Staff Research Scientist, Gemini Research, DeepMind",
+        "date": "N/A"
+      },
+      {
+        "title": "Impact Portfolio Lead, Health, DeepMind",
+        "date": "N/A"
+      },
+      {
+        "title": "Manager, Applied AI Engineering, DeepMind",
+        "date": "N/A"
+      },
+      {
+        "title": "GenAI Technical Engagement Lead, DeepMind",
+        "date": "N/A"
+      },
+      {
+        "title": "Research Scientist, Gemini Agent Safety Post Training, DeepMind",
+        "date": "N/A"
+      },
+      {
+        "title": "Technical Program Manager, Scientific Intelligence for Gemini, DeepMind (Full Time Contract)",
+        "date": "N/A"
+      },
+      {
+        "title": "Research Scientist, Multilingual, Multicultural and Multimodal LLM, DeepMind",
+        "date": "N/A"
+      },
+      {
+        "title": "Technical Program Manager, Sustainability, DeepMind",
+        "date": "N/A"
+      },
+      {
+        "title": "Research Scientist, Biosecurity, DeepMind",
+        "date": "N/A"
+      },
+      {
+        "title": "Research Engineer, Gemini Omni, DeepMind",
+        "date": "N/A"
+      },
+      {
+        "title": "Research Scientist, Robotics RL, DeepMind",
+        "date": "N/A"
+      },
+      {
+        "title": "Research Scientist, Human-AI Interaction, DeepMind",
+        "date": "N/A"
+      },
+      {
+        "title": "Research Scientist, AGI Safety and Alignment, DeepMind",
+        "date": "N/A"
+      },
+      {
+        "title": "Chemist, DeepMind",
+        "date": "N/A"
+      },
+      {
+        "title": "Research Scientist, Safety Oversight, DeepMind",
+        "date": "N/A"
+      },
+      {
+        "title": "Lead Content Editor, DeepMind, DeepMind Institute",
+        "date": "N/A"
+      },
+      {
+        "title": "Technical Program Manager, RL Scaling, DeepMind",
+        "date": "N/A"
+      },
+      {
+        "title": "Staff Research Engineer, Applied AI, DeepMind",
+        "date": "N/A"
+      },
+      {
+        "title": "Research Scientist, Gemini Horizon, DeepMind",
+        "date": "N/A"
+      },
+      {
+        "title": "Technical Program Manager, Research to Production, Agent Systems, DeepMind",
+        "date": "N/A"
+      }
+    ]
   }
 }
