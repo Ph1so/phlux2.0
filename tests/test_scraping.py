@@ -1,12 +1,20 @@
 """Tests for phlux/scraping.py."""
 import os
 from datetime import datetime
+from pathlib import Path
 from unittest.mock import MagicMock, patch
 
 import pytest
 
 from phlux.models import Company, ScrapeResult
-from phlux.scraping import Actions, autoApply, load_company_data, process_jobs
+from phlux.scraping import (
+    PRESETS,
+    Actions,
+    autoApply,
+    expand_presets,
+    load_company_data,
+    process_jobs,
+)
 
 
 # ── Actions ───────────────────────────────────────────────────────────────────
@@ -42,6 +50,31 @@ class TestActions:
 
     def test_empty_actions_iterable(self):
         assert list(Actions([])) == []
+
+
+# ── expand_presets ────────────────────────────────────────────────────────────
+
+class TestExpandPresets:
+    def test_expands_preset(self):
+        assert expand_presets("@greenhouse") == PRESETS["greenhouse"]
+
+    def test_chains_with_other_actions(self):
+        assert expand_presets("@ashby->FILTER:intern") == PRESETS["ashby"] + "->FILTER:intern"
+
+    def test_is_case_insensitive(self):
+        assert expand_presets("@Lever") == PRESETS["lever"]
+
+    def test_leaves_plain_actions_untouched(self):
+        assert expand_presets("CLICK:#more->CSS:h3") == "CLICK:#more->CSS:h3"
+
+    def test_unknown_preset_raises(self):
+        with pytest.raises(ValueError, match="@nope"):
+            expand_presets("@nope")
+
+    def test_every_preset_in_companies_csv_exists(self):
+        repo_root = Path(__file__).resolve().parent.parent
+        for company in load_company_data(repo_root / "companies.csv"):
+            expand_presets(company.selector)
 
 
 # ── load_company_data ─────────────────────────────────────────────────────────

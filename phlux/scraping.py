@@ -31,6 +31,37 @@ FILTER = "FILTER"
 UNDETECTED = "UNDETECTED"
 ACTION_TYPES = {CSS, CLICK, FILTER, UNDETECTED}
 
+# Job-board presets: an ``@name`` action expands to the board's standard action.
+# Every company on the same ATS shares its markup, so one fix here covers them all.
+PRESET_PREFIX = "@"
+PRESETS = {
+    "greenhouse": "CSS:tr.job-post p.body.body--medium",
+    "ashby": "CSS:.ashby-job-posting-brief-title",
+    "lever": "CSS:a.posting-title h5",
+    "workday": "CSS:a[data-automation-id='jobTitle']",
+}
+
+
+def expand_presets(instructions: str) -> str:
+    """Replace each ``@preset`` action in *instructions* with its full action.
+
+    Presets chain like any other action, e.g. ``@ashby->FILTER:intern``.
+
+    Raises:
+        ValueError: If an ``@`` action names an unknown preset.
+    """
+    expanded = []
+    for action in instructions.split("->"):
+        token = action.strip()
+        if token.startswith(PRESET_PREFIX):
+            key = token[len(PRESET_PREFIX):].lower()
+            if key not in PRESETS:
+                raise ValueError(f"Unknown preset '{token}'; expected one of {sorted(PRESETS)}")
+            action = PRESETS[key]
+        expanded.append(action)
+    return "->".join(expanded)
+
+
 # Date stamp for titles found on a company's first look, when the open date is unknown.
 NA_DATE = "N/A"
 # Top-level storage key that turns on silent seeding (see ScrapeManager.scrape_companies).
@@ -83,6 +114,8 @@ def get_jobs_headless(
       to dispatch low-level pointer events instead of ``click()``).
     * ``FILTER:<keyword>`` – keep only jobs whose title contains *keyword*.
     * ``UNDETECTED`` – use ``undetected_chromedriver`` for this session.
+    * ``@<preset>`` – a job board's standard action, e.g. ``@greenhouse``
+      (see :data:`PRESETS`).
 
     Multiple URLs are also separated by ``->``.
 
@@ -101,6 +134,7 @@ def get_jobs_headless(
     """
     if instructions.startswith('"') and instructions.endswith('"'):
         instructions = instructions[1:-1]
+    instructions = expand_presets(instructions)
 
     actions = Actions(instructions.split("->"))
     use_undetected = any(a.strip() == UNDETECTED for a in actions)
