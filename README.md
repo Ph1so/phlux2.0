@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 Phlux Job Listings
-*Showing the 722 most recent of 26,138 roles tracked across 202 companies. See [all listings](listings/README.md) for the full history.*
+*Showing the 721 most recent of 26,139 roles tracked across 202 companies. See [all listings](listings/README.md) for the full history.*
 
 
 <table>
@@ -31,6 +31,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.qualcomm.com/careers?location=United%20States&seniority=Intern&domain=qualcomm.com&sort_by=relevance&triggerGoButton=true"><img src="https://cdn.brandfetch.io/qualcomm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Qualcomm" height="20" style="vertical-align:middle; margin-right:6px;"> Qualcomm</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Modem Systems Engineer</div></td>
+  <td>2026-10-10</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.qualcomm.com/careers?location=United%20States&seniority=Intern&domain=qualcomm.com&sort_by=relevance&triggerGoButton=true"><img src="https://cdn.brandfetch.io/qualcomm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Qualcomm" height="20" style="vertical-align:middle; margin-right:6px;"> Qualcomm</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Sales & Business Development Internship - Summer 2027</div></td>
   <td>2026-10-10</td>
 </tr>
   <tr>
@@ -5057,20 +5064,6 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/graymatter-robotics/"><img src="https://cdn.brandfetch.io/graymatter-robotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="GrayMatter Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> GrayMatter Robotics</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">HR Generalist</div></td>
-  <td>2026-09-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/cobot/">Cobot</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robotics Data Collection Operator, Shift Lead - Santa Clara</div></td>
-  <td>2026-09-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/humanoid/"><img src="https://cdn.brandfetch.io/shophumanoid.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Humanoid" height="20" style="vertical-align:middle; margin-right:6px;"> Humanoid</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Head of Capability Development - Home & Service</div></td>
   <td>2026-09-23</td>
 </tr>
 
