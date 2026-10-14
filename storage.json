@@ -1,5 +1,5 @@
 {
-  "seed_new_companies": true,
+  "seed_new_companies": false,
   "companies": {
     "Nvidia": [
       {
@@ -339,98 +339,6 @@
     ],
     "Microsoft": [
       {
-        "title": "\u2b50\ufe0f Research Intern - Audio and Acoustics",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Software Engineering Intern - CTJ - TS",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Software Engineering Intern - CTJ - TS",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Supply Chain Program Management Intern",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Research Intern - Brain-Computer Interfaces",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Product Management Intern - CTJ - TS",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Technical Program Management Intern - CTJ - TS",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Security Assurance Intern - CTJ - TS",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Research Intern - Security Research Group, Microsoft Research Redmond",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Business Program Management INTERN",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Research Intern - Data Systems",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Research Intern - Quantum Algorithms",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Research Intern - Maia 200 Development",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f AI Software Engineering Intern",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Firmware Engineering Internship (6-month Program)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Finance Manager: MBA Internship Opportunities",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Data Science: PhD Internship Opportunities - Redmond",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Applied Science: PhD Internship Opportunities - Multiple Locations",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Applied Science: Internship Opportunities - Redmond",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Data Science: AI Experiences PhD Internship Opportunities - Redmond",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Treasury Finance Manager: MBA Internship Opportunities",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Applied Science: PhD Microsoft AI Internship Opportunities",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Internal Audit Manager",
-        "date": "N/A"
-      },
-      {
         "title": "\u2b50\ufe0f Research Intern - Document Intelligence and Content Understanding",
         "date": "2026-10-09"
       },
@@ -614,46 +522,6 @@
       }
     ],
     "Meta": [
-      {
-        "title": "\u2b50\ufe0f Structural Design Engineer - FEA (Intern)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f ASIC Engineer Intern, Architecture",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Research Scientist Intern, Spatial Audio Capture and Reproduction (PhD)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Manufacturing Test Engineering Intern, AI",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Manufacturing Test Engineering Intern, Field Requirements & Feedback",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Thermal Engineering Intern",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Production Systems Engineering Intern",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f DFX Engineering Intern",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Optical Engineering Intern - Camera, Depth & Cover Window Optics",
-        "date": "N/A"
-      },
       {
         "title": "\u2b50\ufe0f Mechanical Engineering Intern",
         "date": "2026-10-09"
@@ -955,96 +823,7 @@
         "date": "2026-10-09"
       }
     ],
-    "Optiver": [
-      {
-        "title": "\u2b50\ufe0f Market Risk Internship 2027 - Singapore",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Shanghai Performance Researcher Summer Internship",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f FPGA Internship (2027 Start)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Quantitative Research Internship (2027 Start)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Software Engineer Internship (2027 Start)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Software Engineer Internship (2027 Start)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Quantitative Trading Internship (2027 Start)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Quantitative Research Internship, Bachelor or Master (Summer 2027 - Shanghai)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Quantitative Trading Internship (Summer 2027 - Shanghai)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Shanghai Software Developer Summer Internship",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Shanghai Machine Learning Engineer Summer Internship",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Shanghai FPGA Developer Summer Internship",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f FPGA Engineer Intern (Summer 2027 - Austin)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Quantitative Trading Internship (Singapore) - 2027",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Trading Automation and Operations Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Software Engineer Intern (Summer 2027 - Austin)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Software Engineer Intern (Summer 2027 - Chicago)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Quantitative Research Intern, PhD (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Quantitative Research Intern, PhD (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Quantitative Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f FPGA Engineer Intern (Summer 2027 - Chicago)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Quantitative Trading Internship (Taiwan) - 2027",
-        "date": "N/A"
-      }
-    ],
+    "Optiver": [],
     "DE Shaws": [
       {
         "title": "JD/MBA Investment Analyst (New York) \u2013 Summer 2027",
@@ -1055,43 +834,11 @@
         "date": "N/A"
       },
       {
-        "title": "\u2b50\ufe0f Quantitative Analyst Intern (New York) \u2013 Summer 2027",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Quantitative Analyst, Ph.D. Intern (New York) \u2013 Summer 2027",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Software Developer Intern (New York) \u2013 Summer 2027",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Software Developer, Ph.D. Intern (New York) \u2013 Summer 2027",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Strategy and Business Development Intern - Summer 2027 (Singapore)",
-        "date": "N/A"
-      },
-      {
         "title": "Strategy and Business Development MBA Summer Associate (New York) \u2013 Summer 2027",
         "date": "N/A"
       },
       {
         "title": "Systems Administrator Industry Placement Year (London)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Systems Engineering Intern (London) - Summer 2027",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Systems Engineering Intern (New York) - Summer 2027",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Proprietary Trading Intern (New York) \u2013 Summer 2027",
         "date": "N/A"
       }
     ],
@@ -1479,31 +1226,7 @@
     ],
     "Rivian": [
       {
-        "title": "\u2b50\ufe0f Cybersecurity - Summer 2027 Internships",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Software Engineering Intern - Design Automation (Spring 2027 Co-Op)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Software Engineering - Summer 2027 Internships",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Supply Chain, Purchasing, Procurement and Logistics - Summer 2027 Internships",
-        "date": "N/A"
-      },
-      {
         "title": "2027 Automotive Technician Training Program (Paid Training, 24-Weeks)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Engineering Intern - Design for Reliability (Spring 2027 Co-Op)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Engineering Intern - Electronics Design (Spring 2027 Co-Op)",
         "date": "N/A"
       },
       {
@@ -1511,23 +1234,7 @@
         "date": "N/A"
       },
       {
-        "title": "\u2b50\ufe0f Engineering Intern - Product Development Systems (Spring 2027 Co-Op)",
-        "date": "N/A"
-      },
-      {
         "title": "Early Career - Mechanical Design Engineer, Interior Trim",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Engineering Intern - Software Test (Spring 2027 Co-Op)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Software Engineering Intern - Enterprise Applications (Spring 2027 Co-Op)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Engineering Intern - Motor Development (Spring 2027 Co-op)",
         "date": "N/A"
       },
       {
@@ -1539,71 +1246,7 @@
         "date": "N/A"
       },
       {
-        "title": "\u2b50\ufe0f Engineering Intern - Mechanical Power Electronics (Spring 2027 Co-Op)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f MBA Intern - Product Management Product Development (Spring 2027 Co-Op)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Engineering Intern - Design Verification, Neural Engine (Spring 2027 Co-op)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Computer Vision Software - Summer 2027 Internships",
-        "date": "N/A"
-      },
-      {
         "title": "Early Career - Validation Engineer, Vehicle Hardware",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Software Engineering Intern - Product Lifecycle Management (Spring 2027 Co-Op)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Engineering Intern - ML Compilers (Spring 2027 Co-op)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Engineering Intern - Machine Learning Hardware (Spring 2027 Co-op)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Engineering Intern - Manufacturing Engineering (Spring 2027 Co-Op)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Controls, Automation & Embedded Software - Summer 2027 Internships",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Engineering Intern - Audio Hardware and DSP (Spring 2027 Co-op)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Engineering Intern - Test and Validation, Charging Products (Spring 2027 Co-Op)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Technical Program Management Intern - Program Validation (Spring 2027 Co-Op)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Software Engineering Intern - Embedded Software (Spring 2027 Co-op)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Software Engineering Intern - Enterprise Applications (Spring 2027 Co-Op",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Engineering Intern - Supply Chain Data, AI and Business Intelligence (Spring 2027 Co-op)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Software Engineering Intern - Applied AI (Spring 2027 Co-Op)",
         "date": "N/A"
       },
       {
@@ -1611,39 +1254,11 @@
         "date": "N/A"
       },
       {
-        "title": "\u2b50\ufe0f Engineering Intern - Design-for-Test (Spring 2027 Co-Op)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Business and Administrative Intern - Financial Analyst, Product Development",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Engineering Intern - AI/ML ASIC CAD (Spring 2027 Co-Op)",
-        "date": "N/A"
-      },
-      {
         "title": "Early Career - Cloud Engineer, Cloud Operations",
         "date": "N/A"
       },
       {
-        "title": "\u2b50\ufe0f Artificial Intelligence, Machine Learning, & Data - Summer 2027 Internships",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Software Engineering Intern - Product Development Portal (Spring Co-Op)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Engineering Intern - Powertrain Testing (Spring 2027 Co-Op)",
-        "date": "N/A"
-      },
-      {
         "title": "Early Career - Durability Modeling & Simulation Engineer",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Business and Administrative Intern - Supply Chain and Logistics (Spring 2027 Co-op)",
         "date": "N/A"
       },
       {
@@ -1652,14 +1267,6 @@
       },
       {
         "title": "Early Career - Global Supply Manager, Plastics",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Product Development, Vehicle Attributes and Test Engineering - Summer 2027 Internships",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Engineering Intern - Vehicle Homologation (Spring 2027 Co-Op)",
         "date": "N/A"
       },
       {
@@ -1680,26 +1287,6 @@
       }
     ],
     "Roblox": [
-      {
-        "title": "\u2b50\ufe0f [Summer 2027] Product Design Intern",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f [Summer 2027] Product Management Intern",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f [2027] Applied Scientist - PhD Intern",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f [2027] Data Scientist - PhD Intern",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f [Summer 2027] Software Engineer Intern",
-        "date": "N/A"
-      },
       {
         "title": "Workplace Experience Coordinator - Part-Time (Short Term)",
         "date": "N/A"
@@ -1729,413 +1316,8 @@
         "date": "N/A"
       }
     ],
-    "SpaceX": [
-      {
-        "title": "\u2b50\ufe0f Spring 2027 Software Engineering Internship/Co-op",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Summer 2027 Software Engineering Internship/Co-op",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Spring 2027 Business Operations Internship/Co-op",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Spring 2027 Civil Engineering Internship",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Spring 2027 Engineering Internship/Co-op",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Spring 2027 Graduate Engineer Internship/Co-op",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Spring 2027 Silicon Engineering Internship/Co-op",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Spring 2027 Software Engineering Internship/Co-op",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Summer 2027 Business Operations Internship/Co-op",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Summer 2027 Civil Engineering Internship",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Summer 2027 Engineering Internship/Co-op",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Summer 2027 Graduate Engineer Internship/Co-op",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Summer 2027 Silicon Engineering Internship/Co-op",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Summer 2027 Software Engineering Internship/Co-op",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Spring 2027 Business Operations Internship/Co-op",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Summer 2027 Business Operations Internship/Co-op",
-        "date": "N/A"
-      }
-    ],
+    "SpaceX": [],
     "Zipline": [
-      {
-        "title": "\u2b50\ufe0f Quality & Manufacturing Intern (Fall 2026)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Accounting Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Accounting Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Aerodynamics Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Aircraft Software Integration Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Aircraft Software Integration Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Applications Engineer Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Applications Engineer Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Change Management Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Change Management Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Civil and Structural Engineer Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Civil and Structural Engineer Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Commercial Implementation Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Commercial Implementation Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Commercial Marketplace Strategy and Operations Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Commercial Marketplace Strategy and Operations Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Commercial Strategy & Operations Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Commercial Strategy & Operations Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Community Engagement Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Community Engagement Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Computational Physics Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Computational Physics Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Construction Management Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Construction Management Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Controls Engineer Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Controls Engineer Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Corporate Tax Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Data Analytics Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Data Analytics Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Droid Autonomy Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Electrical Engineer Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Electrical Engineer Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Electrical Project Engineer Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Electrical Project Engineer Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Embedded Software Engineering Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Embedded Software Engineer Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Field Systems Engineer Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Flight Test Engineer Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Flight Test Engineer Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Global Supply Management Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Global Supply Management Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Hardware Test Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Hardware Test Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Launch & Scale Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Launch & Scale Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Long Range Platform Embedded Firmware Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Long Range Platform Hardware Engineering Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Maintenance Tool Engineering Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Maintenance Tool Engineering Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Maps Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Maps Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Marketing Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Marketing Operations & Project Management Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Material Planning Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Material Planning Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Materials Engineer Intern (Spring & Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Mechanical Engineer Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Mechanical Engineer Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Operations Experience Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Operations Experience Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Perception Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Quality & Manufacturing Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Quality & Manufacturing Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Real Estate Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Real Estate Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Sales Operations Analyst Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Sales Operations Analyst Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Software Engineer Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Software Systems Validation Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Software Systems Validation Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Strategic Engagements & Events Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Strategic Engagements & Events Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Strategic Finance Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Strategic Finance Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Supplier Industrialization Engineering Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Supplier Industrialization Engineering Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Supply Chain Business Operations Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Supply Chain Business Operations Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f System Test Automation Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f System Test Automation Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Technical Program Manager Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Technical Program Manager Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Video Production and Social Media Intern (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Zip Motion Planning Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Technical Writer Intern",
-        "date": "N/A"
-      },
       {
         "title": "\u2b50\ufe0f Firmware Engineer Intern (Spring 2027)",
         "date": "2026-10-09"
@@ -2192,20 +1374,7 @@
         "date": "2026-10-13"
       }
     ],
-    "Relativity": [
-      {
-        "title": "\u2b50\ufe0f Additive Manufacturing Engineer Intern",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Avionics Engineer Intern",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Avionics Manufacturing and Test Engineer Intern",
-        "date": "N/A"
-      }
-    ],
+    "Relativity": [],
     "Kodiak Robotics": [
       {
         "title": "Senior AI Infrastructure Engineer - Model Training",
@@ -2466,42 +1635,6 @@
         "date": "N/A"
       },
       {
-        "title": "\u2b50\ufe0f Modular Engineering Internship \u2013 Summer 2027",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Embedded Engineering Internship - Summer 2027",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Software Engineering Internship - Summer 2027",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Machine Learning & Artificial Intelligence Engineering Internship \u2013 Summer 2027",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Qualcomm Government Technologies (QGOV) Engineering Internship \u2013 Summer 2027 (San Diego or Boulder) | US CITIZENSHIP REQUIRED",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Automotive Engineering Internship \u2013 Summer 2027",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Security (Product, Systems, Cyber) Engineering Internship - Summer 2027",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Wireless Systems Engineering Internship - Summer 2027",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Multimedia Engineering Internship \u2013 Summer 2027",
-        "date": "N/A"
-      },
-      {
         "title": "\u2b50\ufe0f Hardware (CPU, GPU, SoC, Digital Design, DV) Engineering Internship \u2013 Summer 2027",
         "date": "2026-10-09"
       },
@@ -2538,16 +1671,7 @@
         "date": "2026-10-10"
       }
     ],
-    "Toyota Research Insitute": [
-      {
-        "title": "\u2b50\ufe0f Human Interactive Driving Intern \u2013 World Models",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Human-Centered AI Research Intern, Causal Reasoning Models",
-        "date": "N/A"
-      }
-    ],
+    "Toyota Research Insitute": [],
     "Mitsubishi Electric Research Laboratories": [
       {
         "title": "\u2b50\ufe0f MS0259: Internship - Multi-Fidelity Dynamic Models for Energy Systems",
@@ -2633,18 +1757,6 @@
       }
     ],
     "Scale AI": [
-      {
-        "title": "\u2b50\ufe0f Software Engineering Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Software Engineering Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Software Engineering Intern (Summer 2027)",
-        "date": "N/A"
-      },
       {
         "title": "Software Engineer - New Grad",
         "date": "N/A"
@@ -3023,22 +2135,6 @@
         "date": "N/A"
       },
       {
-        "title": "\u2b50\ufe0f Intern - Software Development (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Intern - Software Integration (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Intern - Integration Engineering - Mechanical (Spring 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Intern - Product Development (Spring 2027)",
-        "date": "N/A"
-      },
-      {
         "title": "Senior Software Developer in Test (SDET)",
         "date": "N/A"
       },
@@ -3084,10 +2180,6 @@
       },
       {
         "title": "Robotics Software Engineer II/III - Integration",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Summer Internship 2027- Interest Form",
         "date": "N/A"
       },
       {
@@ -4410,42 +3502,6 @@
     ],
     "Figure AI": [
       {
-        "title": "\u2b50\ufe0f Commercial Operations Intern [Winter 2027]",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Electrical Engineering Intern [Winter 2027]",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Firmware Engineering Intern [Winter 2027]",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Mechanical Engineer Intern [Winter 2027]",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Security Engineer Intern [Winter 2027]",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Special Projects Intern [Winter 2027]",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Supply Chain Analytics Intern [Winter 2027]",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Validation Engineering Intern [Winter 2027]",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Middleware Intern [Winter 2027]",
-        "date": "N/A"
-      },
-      {
         "title": "\u2b50\ufe0f Deployment Engineering Intern",
         "date": "2026-10-12"
       }
@@ -5350,12 +4406,7 @@
         "date": "2026-10-05"
       }
     ],
-    "Sanctuary AI": [
-      {
-        "title": "\u2b50\ufe0f Machine Learning Research Intern (Reinforcement/Imitation Learning)",
-        "date": "N/A"
-      }
-    ],
+    "Sanctuary AI": [],
     "Tensor Auto": [
       {
         "title": "FP&A Manager",
@@ -6588,10 +5639,6 @@
       },
       {
         "title": "Staff Program Manager, Operational Quality",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Staff Program Manager, Operations Partnership",
         "date": "N/A"
       },
       {
@@ -9886,71 +8933,7 @@
     ],
     "Anduril": [
       {
-        "title": "\u2b50\ufe0f 2026 Electrical Engineer Intern",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2026 Guidance, Navigation & Control Engineer Intern",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Deployment Logistics Intern",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Electrical Engineer Intern",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Flight Software Engineer Intern",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Industrial Engineer Intern",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Manufacturing Engineer Intern",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Mechanical Engineer Intern",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Quality & Test Engineer Intern",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Reliability Engineer Intern",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Software Engineer Intern",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Software Engineer Intern",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Supply Chain Intern",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Systems Engineer Intern",
-        "date": "N/A"
-      },
-      {
         "title": "Production Technician - SkillBridge",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Winter 2027 Manufacturing Engineer Co-op",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Winter 2027 Reliability Engineer Co-op",
         "date": "N/A"
       },
       {
@@ -10079,10 +9062,6 @@
       },
       {
         "title": "Senior Software Engineer, Platform Integration",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Senior Software Engineer-Internal Tools",
         "date": "N/A"
       },
       {
@@ -11168,10 +10147,6 @@
         "date": "N/A"
       },
       {
-        "title": "\u2b50\ufe0f Internal Audit Manager",
-        "date": "N/A"
-      },
-      {
         "title": "Senior Financial Data Analyst (Manager)",
         "date": "N/A"
       },
@@ -11209,10 +10184,6 @@
       },
       {
         "title": "Director, Product & Brand Communications",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Internal Communications Manager",
         "date": "N/A"
       },
       {
@@ -11688,10 +10659,6 @@
         "date": "N/A"
       },
       {
-        "title": "\u2b50\ufe0f Senior Engineering Manager, Rider Loyalty, Partnerships, and Rider Pay",
-        "date": "N/A"
-      },
-      {
         "title": "Senior Machine Learning Engineer, Recommendations",
         "date": "N/A"
       },
@@ -11820,38 +10787,6 @@
         "date": "N/A"
       },
       {
-        "title": "\u2b50\ufe0f Applied Scientist Intern, PhD (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Business Systems Engineer Intern, Finance Technology (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Content Systems Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Data Analyst Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Data Engineer Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Data Science Intern, Algorithms (Summer 2027 - SF/NYC)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Data Science Intern, Algorithms (Summer 2027 - Toronto)",
-        "date": "N/A"
-      },
-      {
         "title": "D\u00e9veloppeur Logiciels (Stagiaire), Automatisation des tests (l'\u00e9t\u00e9 2027)",
         "date": "N/A"
       },
@@ -11860,59 +10795,11 @@
         "date": "N/A"
       },
       {
-        "title": "\u2b50\ufe0f Hardware Field Quality Engineer Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Industrialization Engineer Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f PhD Machine Learning Software Engineer Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Software Engineer Intern, Backend (Summer 2027 - Mexico)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Software Engineer Intern, Backend (Summer 2027 - Montreal)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Software Engineer Intern, Backend (Summer 2027 - SF)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Software Engineer Intern, Backend (Summer 2027 - Toronto)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Software Engineer Intern, Frontend (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Software Engineer Intern, Fullstack (Summer 2027 - Toronto)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Software Engineer Intern, Machine Learning (Summer 2027 - Toronto)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Software Engineer Intern, Test Automation (Summer 2027)",
-        "date": "N/A"
-      },
-      {
         "title": "Stagiaire en ing\u00e9nierie d'industrialisation (\u00e9t\u00e9 2027)",
         "date": "N/A"
       },
       {
         "title": "Stagiaire en ing\u00e9nierie de la qualit\u00e9 terrain, mat\u00e9riel (\u00e9t\u00e9 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f UX Research Intern (Summer 2027)",
         "date": "N/A"
       },
       {
@@ -12077,241 +10964,8 @@
         "date": "2026-10-12"
       }
     ],
-    "Swarm Aero": [
-      {
-        "title": "\u2b50\ufe0f Aircraft Engineering Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Avionics Engineer Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Embedded Software Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Composite Engineering (M&P) Intern (Summer 2027)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f Software Engineer Intern (Summer 2027)",
-        "date": "N/A"
-      }
-    ],
+    "Swarm Aero": [],
     "Waymo": [
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Machine Learning, Simulator Evaluation",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2026 Summer Intern, PhD, Research, World Modeling Evaluation",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, BS, Depot Automation",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, BS, Software Engineer, Driver Refinement Foundations",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, BS, Software Engineer, Model Eval",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, BS, Software Engineering, Labeling",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, BS, Waymo ML Ops & Automation",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, BS/MS, Embedded, Software Engineer",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, BS/MS, Global Supply Management (GSM)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, BS/MS, Scenes",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, BS/MS, Software Engineer, RO Performance team, Release Evaluation (Simulation)",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, MBA, Operations Planning",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, MBA, Salesforce Product Owner",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, MBA, Strategic Finance",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, MS, PhD, Software Engineer",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, MS, Software Engineering, Behavior Test",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Research, Perception Foundation Models",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, AI-driven ML Performance Engineering Intern",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Conflict Behavior",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Machine Learning Engineer",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Machine Learning Engineer - Simulator Realism Evaluation",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, ML Systems & Behavior Discovery",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Perception, Evaluation",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Perception, Machine Learning",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Perception, Robotics",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Product Data Science",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Quantitative UX Researcher, Growth/International Expansion",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Sim-Realism ML Infrastructure",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Software Engineer",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Software Engineer, Eval Data Infra",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Software Engineer, Multiverse",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Software Engineer, Onboard Developer Platform",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Software Engineer, Simulation Evaluation ML Model",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Software Engineer, Sys Intel & Machine Learning",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Software Engineering, Onboard Software Integrity",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Software/ML Engineer, Simulation",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Systems Engineer, Autonomous Vehicle Networks & Diagnostics",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, PhD, Data Science",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, PhD, Learning-Based Behavior for Special Vehicles",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, PhD, Machine Learning Research, Planning/Prediction",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, PhD, Machine Learning, Computer Vision",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, PhD, Machine Learning, Planning/Prediction",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, PhD, Perception Systems Engineering: Pedestrian Detection Precision",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, PhD, Perception/Road Understanding, ML Engineer",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, PhD, Planner Machine Learning",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, PhD, Quantitative Software Engineer",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, PhD, Research, World Action Model",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, PhD, Safety Research, Human Behavior Analytics",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, PhD, Software Engineer, Simulation",
-        "date": "N/A"
-      },
-      {
-        "title": "\u2b50\ufe0f 2027 Summer Intern, PhD, Vehicle Intent and Prediction",
-        "date": "N/A"
-      },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern, PhD, Research, AV Planning",
         "date": "2026-10-09"
