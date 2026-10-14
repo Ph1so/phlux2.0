@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 Phlux Job Listings
-*Showing the 927 most recent of 27,810 roles tracked across 247 companies. See [all listings](listings/README.md) for the full history.*
+*Showing the 927 most recent of 27,811 roles tracked across 247 companies. See [all listings](listings/README.md) for the full history.*
 
 
 <table>
@@ -59,6 +59,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.metacareers.com/jobsearch/?roles[0]=Internship"><img src="https://cdn.brandfetch.io/meta.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Meta" height="20" style="vertical-align:middle; margin-right:6px;"> Meta</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ ASIC Engineer Intern, Design Verification</div></td>
+  <td>2026-10-14</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.metacareers.com/jobsearch/?roles[0]=Internship"><img src="https://cdn.brandfetch.io/meta.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Meta" height="20" style="vertical-align:middle; margin-right:6px;"> Meta</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Manufacturing Test Engineering Intern, AI</div></td>
   <td>2026-10-14</td>
 </tr>
   <tr>
@@ -6499,13 +6506,6 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=saildroneinc"><img src="https://cdn.brandfetch.io/saildrone.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saildrone" height="20" style="vertical-align:middle; margin-right:6px;"> Saildrone</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Reliability and Quality Engineer</div></td>
-  <td>2026-10-14</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=saildroneinc"><img src="https://cdn.brandfetch.io/saildrone.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saildrone" height="20" style="vertical-align:middle; margin-right:6px;"> Saildrone</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Global Supply Manager</div></td>
   <td>2026-10-14</td>
 </tr>
 
