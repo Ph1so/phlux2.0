@@ -591,6 +591,10 @@
       {
         "title": "\u2b50\ufe0f Hardware Development Engineer Intern, Summer 2027",
         "date": "2026-10-13"
+      },
+      {
+        "title": "\u2b50\ufe0f Amazon Robotics - Software Development Engineer Intern/Co-op - 2027",
+        "date": "2026-10-14"
       }
     ],
     "Meta": [
@@ -669,6 +673,26 @@
       {
         "title": "\u2b50\ufe0f Thermal Engineering Intern",
         "date": "2026-10-13"
+      },
+      {
+        "title": "\u2b50\ufe0f Manufacturing Test Engineering Intern, Field Requirements & Feedback",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Electrical Engineering Intern",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Optical Engineering Intern - Camera, Depth & Cover Window Optics",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f ASIC Engineer Intern, Implementation",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f ASIC Engineer Intern, Design Verification",
+        "date": "2026-10-14"
       }
     ],
     "Apple": [
@@ -1148,6 +1172,10 @@
       {
         "title": "\u2b50\ufe0f Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more)",
         "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Amazon Robotics - Software Development Engineer Intern/Co-op - 2027",
+        "date": "2026-10-14"
       }
     ],
     "Palantir": [
@@ -2529,6 +2557,10 @@
       {
         "title": "\u2b50\ufe0f Multimedia Engineering Internship \u2013 Summer 2027",
         "date": "2026-10-13"
+      },
+      {
+        "title": "\u2b50\ufe0f Machine Learning & Artificial Intelligence Engineering Internship \u2013 Summer 2027",
+        "date": "2026-10-14"
       }
     ],
     "Toyota Research Insitute": [
@@ -2613,6 +2645,10 @@
       {
         "title": "\u2b50\ufe0f OR0330: Internship - EMT Simulation of Data-Center Power Systems",
         "date": "2026-10-09"
+      },
+      {
+        "title": "\u2b50\ufe0f SA0331: Internship - Neural Spatial Audio Processing",
+        "date": "2026-10-14"
       }
     ],
     "Onward Robotics": [
@@ -4593,6 +4629,10 @@
       {
         "title": "Senior Technical Recruiter",
         "date": "2026-10-12"
+      },
+      {
+        "title": "Senior Technical Support Specialist",
+        "date": "2026-10-14"
       }
     ],
     "Cobot": [
@@ -6768,6 +6808,10 @@
       {
         "title": "Site Autonomy Engineer II",
         "date": "2026-10-05"
+      },
+      {
+        "title": "Senior Autonomy Applications Engineer",
+        "date": "2026-10-14"
       }
     ],
     "Beep": [
@@ -10283,6 +10327,10 @@
       {
         "title": "Robotics & Automation Technician",
         "date": "2026-10-13"
+      },
+      {
+        "title": "Senior Robotics Automation Engineer",
+        "date": "2026-10-14"
       }
     ],
     "Robotics and AI Insitute": [
@@ -13156,6 +13204,18 @@
       {
         "title": "Principle Roboticist, Robot Foundation Model",
         "date": "2026-10-13"
+      },
+      {
+        "title": "Staff Software Engineer, AI Libraries",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer, Data Ingestion",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer, Simulation",
+        "date": "2026-10-14"
       }
     ],
     "Bedrock Robotics": [
@@ -13350,6 +13410,14 @@
       {
         "title": "Operational Safety & EHS Lead",
         "date": "2026-10-13"
+      },
+      {
+        "title": "Creative and Editorial Lead",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Customer Experience and Enablement Lead",
+        "date": "2026-10-14"
       }
     ],
     "Applied Intuition": [
@@ -14864,6 +14932,10 @@
       {
         "title": "Industrials Integration Engineer",
         "date": "2026-10-13"
+      },
+      {
+        "title": "Autonomy Test Engineer, Maritime Systems",
+        "date": "2026-10-14"
       }
     ],
     "FieldAI": [
@@ -16198,6 +16270,14 @@
       {
         "title": "Technical Program Manager, Model Launches, DeepMind (Fixed-Term Contract)",
         "date": "2026-10-13"
+      },
+      {
+        "title": "Software Engineer, ML Accelerators, DeepMind",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Threat Modeling Lead, Harmful Manipulation, DeepMind",
+        "date": "2026-10-14"
       }
     ],
     "Wing": [
@@ -17900,6 +17980,10 @@
       {
         "title": "Simulation V&V Manager",
         "date": "2026-10-14"
+      },
+      {
+        "title": "Vehicle V&V Manager",
+        "date": "2026-10-14"
       }
     ],
     "Saronic": [
@@ -18781,6 +18865,30 @@
       },
       {
         "title": "Systems Software Engineer, Generalist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Structures Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Structures Engineer - Corsair",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Structures Test Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Machine Shop Supervisor",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Materials Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior / Staff Robotics Security Software Engineer",
         "date": "2026-10-14"
       }
     ],
@@ -20658,6 +20766,26 @@
       {
         "title": "\u2b50\ufe0f Technical Operations Co-op",
         "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f AI/ML/Data Science Intern",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Regulatory Affairs Intern",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Oncology Discovery Scientist Intern",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Oncology Clinical Scientist Intern",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Internship Program, DePuy Synthes Korea",
+        "date": "2026-10-14"
       }
     ],
     "PlusAI": [
@@ -20894,6 +21022,10 @@
       {
         "title": "Senior Service Operations Project Manager",
         "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Co-Op- Project Engineer, Commissioning",
+        "date": "2026-10-14"
       }
     ],
     "PROCEPT BioRobotics": [
@@ -20975,6 +21107,10 @@
       },
       {
         "title": "Senior Manager, Sales Operations",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Area Sales Manager- Southern New England",
         "date": "2026-10-14"
       }
     ],
@@ -21084,6 +21220,54 @@
       {
         "title": "Global Sales & Operations Planning Leader",
         "date": "2026-10-14"
+      },
+      {
+        "title": "R&D Senior Engineer - MV Switchgear",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "R&D Leader Grid Components",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Factory Project Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Data Analytics Intern",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Service Repair Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "R&D Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Implementation Manager - Quote to Order",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "R&D Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Technical Application Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "R&D Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Winder-3",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Assembler-3",
+        "date": "2026-10-14"
       }
     ],
     "Teradyne": [
@@ -21185,6 +21369,82 @@
       },
       {
         "title": "Factory Applications Engineer (Silicon Photonics; North Reading, MA)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Architect (Compute Test, Austin)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Supplier/Planner (Teradyne, N. Reading MA)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. Packaging Engineer (TERADYNE, North Reading, MA)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineering Manager (Innovation Lab, North Reading)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manufacturing Engineer (TERADYNE, North Reading, MA)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "NPI Manufacturing Engineer (TERADYNE, North Reading, MA)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mechanical Engineer (Teradyne, North Reading, MA)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Automation Software Engineer (Integrated System Test, Sunnyvale)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Supplier/Planner (Teradyne, N. Reading MA)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Optical Engineering Manager (Teradyne, North Reading, MA)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mechanical Engineer (Teradyne, North Reading, MA)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Engineering Lab Assistant (Teradyne, North Reading, MA",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Systems Quality Engineer (Integrated System Test, Sunnyvale)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robotics Software Engineer (Integrated System Test, North Reading)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Data Governance Analyst (Teradyne, North Reading)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "ASIC Verification Engineer (TERADYNE, North Reading, MA)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "NPI Manufacturing Engineer (TERADYNE, Agoura Hills, CA)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Field Application Engineer / Technical Pre-Sales (Teradyne, San Jose, CA)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Hardware Engineering Manager (MEMORY TEST DIVISION, San Jose, CA)",
         "date": "2026-10-14"
       }
     ],
@@ -21615,6 +21875,10 @@
       },
       {
         "title": "District Account Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manufacturing Supervisor",
         "date": "2026-10-14"
       }
     ],
