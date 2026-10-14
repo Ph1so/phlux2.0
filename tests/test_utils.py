@@ -19,9 +19,23 @@ class TestIsInternship:
     def test_matches_internship_full_word(self):
         assert is_internship("internship program") is True
 
-    def test_matches_ship_as_substring_of_internship(self):
-        # "ship" is a substring of "internship" — intentional keyword
-        assert is_internship("Internship Summer 2026") is True
+    def test_matches_plural_internships(self):
+        assert is_internship("Research Internships") is True
+
+    def test_matches_intern_with_glued_badge(self):
+        # Some boards append a "New" badge with no separating space.
+        assert is_internship("Social Media InternNew - Mountain View") is True
+
+    def test_ignores_ship_words(self):
+        for title in ("Director, Strategic Partnerships", "Leadership Recruiter", "Flagship Programs"):
+            assert is_internship(title) is False, title
+
+    def test_ignores_words_starting_with_intern(self):
+        for title in ("Internal Audit Manager", "Director of International Growth", "Internet Services Lead"):
+            assert is_internship(title) is False, title
+
+    def test_ignores_coop_inside_words(self):
+        assert is_internship("Cooper Tire Sales Rep") is False
 
     def test_matches_coop_with_hyphen(self):
         assert is_internship("Co-op Position") is True

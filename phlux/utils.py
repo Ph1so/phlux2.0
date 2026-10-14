@@ -4,6 +4,7 @@ from __future__ import annotations
 import json
 import logging
 import os
+import re
 import sys
 from pathlib import Path
 from typing import List
@@ -52,14 +53,15 @@ def _user_agent(chrome_major: int) -> str:
     )
 
 
-# Keywords that identify internship / co-op postings.
-_INTERN_KEYWORDS = ("intern", "ship", "co-op", "coop", "co op")
+# Matches internship / co-op postings. "intern" has no trailing word boundary so
+# scraped titles with a glued-on badge ("InternNew") still match; instead it
+# excludes the words that merely start with it (Internal, International, Internet).
+_INTERN_PATTERN = re.compile(r"\bintern(?!al|ation|et)|\bco[- ]?ops?\b", re.IGNORECASE)
 
 
 def is_internship(title: str) -> bool:
     """Return True if *title* matches internship or co-op keywords."""
-    lower = title.lower()
-    return any(kw in lower for kw in _INTERN_KEYWORDS)
+    return bool(_INTERN_PATTERN.search(title))
 
 
 def is_full_time(title: str) -> bool:
