@@ -4,6 +4,7 @@ from __future__ import annotations
 import json
 import logging
 import os
+import sys
 from pathlib import Path
 from typing import List
 
@@ -13,6 +14,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
+from webdriver_manager.core.os_manager import ChromeType, OperationSystemManager
 
 from phlux.models import Company
 
@@ -27,6 +29,27 @@ def _get_chrome_driver_path() -> str:
     if _CHROME_DRIVER_PATH is None:
         _CHROME_DRIVER_PATH = ChromeDriverManager().install()
     return _CHROME_DRIVER_PATH
+
+
+def _chrome_major_version() -> int | None:
+    """Return the installed Chrome's major version, or None if it can't be found."""
+    try:
+        version = OperationSystemManager().get_browser_version_from_os(ChromeType.GOOGLE)
+        return int(version.split(".")[0])
+    except Exception:
+        return None
+
+
+def _user_agent(chrome_major: int) -> str:
+    """Return a regular (non-headless) Chrome user agent for this OS."""
+    platform = {
+        "darwin": "Macintosh; Intel Mac OS X 10_15_7",
+        "win32": "Windows NT 10.0; Win64; x64",
+    }.get(sys.platform, "X11; Linux x86_64")
+    return (
+        f"Mozilla/5.0 ({platform}) AppleWebKit/537.36 (KHTML, like Gecko) "
+        f"Chrome/{chrome_major}.0.0.0 Safari/537.36"
+    )
 
 
 # Keywords that identify internship / co-op postings.
@@ -64,11 +87,18 @@ def get_driver(headless: bool = True, use_undetected: bool = False):
     ]
 
     if use_undetected:
+        # Bot walls (e.g. Akamai) block a user agent that disagrees with the real
+        # browser version or says "HeadlessChrome", so advertise the installed one.
+        # Pinning version_main also stops uc from fetching a driver newer than Chrome.
+        major = _chrome_major_version()
         options = uc.ChromeOptions()
-        options.headless = headless
-        for arg in chrome_args:
+        if headless:
+            options.add_argument("--headless=new")
+        for arg in ("--window-size=1920,1080", "--no-sandbox", "--disable-dev-shm-usage"):
             options.add_argument(arg)
-        return uc.Chrome(options=options)
+        if major:
+            options.add_argument(f"--user-agent={_user_agent(major)}")
+        return uc.Chrome(options=options, version_main=major)
 
     options = Options()
     if headless:

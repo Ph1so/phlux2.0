@@ -20,6 +20,7 @@ from tenacity import retry, stop_after_attempt, wait_fixed
 
 from .lists import filter_companies, load_companies
 from .models import Company, ScrapeResult
+from .scrapers import API_SCRAPERS
 from .utils import get_driver, is_internship
 
 logger = logging.getLogger(__name__)
@@ -29,7 +30,8 @@ CSS = "CSS"
 CLICK = "CLICK"
 FILTER = "FILTER"
 UNDETECTED = "UNDETECTED"
-ACTION_TYPES = {CSS, CLICK, FILTER, UNDETECTED}
+API = "API"
+ACTION_TYPES = {CSS, CLICK, FILTER, UNDETECTED, API}
 
 # Job-board presets: an ``@name`` action expands to the board's standard action.
 # Every company on the same ATS shares its markup, so one fix here covers them all.
@@ -114,6 +116,8 @@ def get_jobs_headless(
       to dispatch low-level pointer events instead of ``click()``).
     * ``FILTER:<keyword>`` – keep only jobs whose title contains *keyword*.
     * ``UNDETECTED`` – use ``undetected_chromedriver`` for this session.
+    * ``API:<name>[:<arg>]`` – collect titles with a site-specific extractor
+      from :data:`phlux.scrapers.API_SCRAPERS`, e.g. ``API:tesla:Tesla AI``.
     * ``@<preset>`` – a job board's standard action, e.g. ``@greenhouse``
       (see :data:`PRESETS`).
 
@@ -215,6 +219,11 @@ def get_jobs_headless(
 
                     elif action_type == FILTER:
                         jobs = [j for j in jobs if selector.lower() in j.lower()]
+
+                    elif action_type == API:
+                        scraper_name, _, arg = selector.partition(":")
+                        driver.set_script_timeout(60)
+                        jobs.extend(API_SCRAPERS[scraper_name](driver, arg))
 
             except TimeoutException:
                 logger.warning("Timeout for %s at %s", name, url)
