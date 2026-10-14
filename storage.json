@@ -758,7 +758,64 @@
       }
     ],
     "AWS": [],
-    "Blue Origin": [],
+    "Blue Origin": [
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Test Engineering Internship - Undergraduate",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Avionics Software Internship - Undergraduate",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Return Internship - Undergraduate",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Manufacturing Engineering Internship - Undergraduate",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Software Developer Internship - Undergraduate",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Fluid Systems & Propulsion Engineering Internship - Undergraduate",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Structural & Mechanical Engineering Internship - Undergraduate",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Electrical Systems Engineering Internship - Undergraduate",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Aerospace Systems Engineering Internship - Undergraduate",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Marine Mechanical & Test Engineering Internship - Undergraduate",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Guidance, Navigation & Controls Internship - Undergraduate",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Finance Intern - Undergraduate",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Materials & Processes Internship - Undergraduate",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Education Programs and Outreach Intern - Undergraduate",
+        "date": "2026-10-14"
+      }
+    ],
     "Autodesk": [
       {
         "title": "PhD Researcher, HCI & Visualization Research",
@@ -843,6 +900,22 @@
       {
         "title": "\u2b50\ufe0f Women in Trading and Technology Internship (WiTTI) \u2013 Winter 2027",
         "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f PhD Winter Internship - 2027",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Data Scientist Intern - 2027",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Senior International Tax Specialist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Hardware Engineer Internship - Summer 2027",
+        "date": "2026-10-14"
       }
     ],
     "Doordash": [
@@ -16199,6 +16272,5612 @@
       {
         "title": "\u2b50\ufe0f Supply Chain Systems Intern, Summer 2027",
         "date": "2026-10-13"
+      }
+    ],
+    "Physical Intelligence": [
+      {
+        "title": "Applied Researcher",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Internships",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Research Scientist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer, Data Quality",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Business Operations",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Forward Deployed Robotics Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manufacturing Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mechanical Design Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Mechatronics Intern",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "NPI Technical Program Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Production Test Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Prototype Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robot Build Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robot Integration and Test Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robot Integration Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robot Prototype Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robotics Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Supply Chain Lead",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "ML Engineer - API Platform",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "ML Infra Engineer, Data Systems",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "ML Infra Engineer, Modeling",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "ML Infra Engineer, Platform",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Annotations Portfolio Lead",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robot Operator",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Set Team Specialist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Shift Lead",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Strategic Project Lead",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "AI and Robotics Recruiter",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "People Ops",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Recruiter, Hardware",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Recruiter, Operations",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Build & Release Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Controls Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Deployments Software Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Embedded Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "ML Engineer - API Platform",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robotics Software Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer, AI Productivity",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer, Robot Interfaces",
+        "date": "2026-10-14"
+      }
+    ],
+    "The Bot Company": [
+      {
+        "title": "Something Else",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mechanical",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "3D Vision",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Machine Learning: Multimodal Foundation Models",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Machine Learning: Whole-Body Control",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Machine Learning: World Models",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "ML Infra - Data Infrastructure",
+        "date": "2026-10-14"
+      }
+    ],
+    "Dyna Robotics": [
+      {
+        "title": "Executive Assistant to Founders",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "HR Business Partner",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Exceptional Software Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Hardware Support Engineer II",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "QA Lead, Robotics",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Robotics Systems Integration Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Software Engineer, Fleet Connectivity",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer, Applications",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer, Data Infra",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Annotation Operations Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Business Operations & Strategy Associate",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Data Annotation Specialist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Data Collection Operator",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robot Safety Operator - Bellvue, WA",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robot Safety Operator - San Diego",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robot Safety Operator - San Jose",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robot Safety Operator - Santa Monica",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robot Safety Operator - Walnut Creek, CA",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robot Safety Operator -NYC Midtown",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Product Manager, Data Engine",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Applied Researcher - Deployment Intelligence",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Research Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Internship",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Research Scientist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Research Scientist, Simulation",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Research Technical Program Manager, Robotics",
+        "date": "2026-10-14"
+      }
+    ],
+    "Dexterity": [
+      {
+        "title": "Join Our Talent Network - Hardware Engineer, Architect",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mechanical Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Join our Talent Network - Senior Robotics Software Engineer, Compute Acceleration",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Join Our Talent Network - Senior/Staff AI Algorithms Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Join Our Talent Network - Senior/Staff Machine Learning Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Join Our Talent Network - Staff Robotics Software Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Field Service Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Field Service Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Forward Deployed Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. Manager Product Service and Support",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Join Our Talent Network - Lead Algorithms Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Join Our Talent Network - Robotics Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Join Our Talent Network - Robotics Software Engineer, Robot Math",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Join our Talent Network - Senior Computer Vision Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Join Our Talent Network - Senior Robotics Manipulation Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Join our Talent Network - Senior/Staff Algorithms Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Security Architect",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Customer Product Solutions Manager, Aviation Robotics",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Marketing Principal/ Director - Physical AI",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Principal Product Manager, Physical AI Applications (Retail & 3PL)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robotics Systems Engineer, Japan",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Enterprise Sales Executive",
+        "date": "2026-10-14"
+      }
+    ],
+    "Nimble Robotics": [
+      {
+        "title": "Construction Site Supervisor",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Electrical Engineer, Power Electronics",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer III, Multi-Robot Coordination",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer, Robotics Fleet Optimization",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "AI Robotics Research Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Data Collection Supervisor",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Head of Data Collection Operations, Nimble Brain",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Member of Technical Staff",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "QA Engineer II (Cloud Logistics)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer II, Cloud Logistics",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer III, Cloud",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer III, Cloud Logistics",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Technical Product Manager II, Cloud Logistics",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Mechanical Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robotics Software Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Robotics Firmware Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Robotics Software Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Robotics SWE, System Identification & Modeling",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Software Engineer, Embedded Linux",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Software Engineer, Infrastructure (SRE & Security Focused)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Software Engineer, Robotics Platform",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior/Staff Software Engineer, Infrastructure (ML)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff Software Engineer, Multi-Robot Coordination",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "HIL Test / Automation Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Integration Test Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robot SW Test Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Systems Integration Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Associate, Business Operations (AI Tooling)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "IT Administrator",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Electro-Mechanical Assembler",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Machine Shop Assistant",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robot Support Associate",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robot Support Associate, Burlington, NJ",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Operations Supervisor (Burlington, NJ)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robotics Field Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Maintenance Supervisor - Automation & Robotics Fulfillment (Burlington, NJ)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Maintenance Supervisor - Automation & Robotics Fulfillment (Cypress,TX)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Maintenance Technician (Cypress, TX)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Maintenance Technician (Haslet, TX)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Maintenance Technician (San Francisco)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Supplier Industrialization Engineer",
+        "date": "2026-10-14"
+      }
+    ],
+    "Outrider": [
+      {
+        "title": "Hardware Platform Engineer II, Test and Reliability",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Principal Mechatronics Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Mechanical Engineer, Test and Reliability",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Mechatronics Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Manager, Autonomous Vehicle Assembly Operations",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Engineer II, Embedded, Sensors, and Safety Software",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manager, Cloud and Data",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Principal Engineer, Embedded, Sensors, and Safety Software",
+        "date": "2026-10-14"
+      }
+    ],
+    "Standard Bots": [
+      {
+        "title": "AI Applications Engineer (Glen Cove, NY)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Applications Engineer (Texas)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Applications Engineering Manager (Boston)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Applications Engineering Manager (West Coast)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Applications Engineer (West Coast)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Corporate Controller",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Plant Controller",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Electrical Engineer (On-site)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Automation Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "CAD Designer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Implementation Sales Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Assembly Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Electronics Manufacturing Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Logistics & Trade Compliance Specialist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manufacturing and Process Engineering Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manufacturing Plant Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manufacturing Program Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Procurement Specialist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Quality Inspector (Electronics)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Quality Inspector (Mechanical)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. Manufacturing Program Manager, Vertical Integration",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Brand Growth Lead",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Performance Marketing Lead",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Program Manager, Product Development & Launch",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Recruiter",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Product Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Product Manager, Hardware",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sales Engineer (Texas - Remote)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manual QA Tester (Contract 3+ months)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "SDET - Senior Software Developer Engineer in Test (SDET)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior AI Research Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Robotics Control Systems Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Software Engineer, AI Team",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Software Engineer, Full-Stack",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Software Engineer, Manufacturing Systems",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff AI Research Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff Forward Deployed Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff Software Engineer",
+        "date": "2026-10-14"
+      }
+    ],
+    "Bright Machines": [
+      {
+        "title": "Sr. Accounting Specialist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Electrical Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mechanical Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Office and Human Resources Coordinator - Night Shift",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Security Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Assembly Technicians - Night Shift",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Automation Reliability & Performance Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Integration Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manufacturing Training Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Quality Inspector - Night Shift",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Site Automation Engineer - Night Shift",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Site Automation Engineer - Robotics/PLC",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Robot Perception Engineer - Visual Inspection/MLOps",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff Platform Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff Platform Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Trade Analyst",
+        "date": "2026-10-14"
+      }
+    ],
+    "Formic": [
+      {
+        "title": "Controls & Automation Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mechanical Design Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mechanical Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mechanical Project Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robotics & Automation Project Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robotics Install & Commissioning Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Solutions Engineer (Application Engineer): End-of-Line Automation",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Manager, Accounting & Controls",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Manager, Accounting & Controls",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff Accountant",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff Accountant",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Product Support Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Product Support Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robotics Deployment Project Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robotics Deployment Project Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robotics Field Service Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robotics Field Service Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robotics Field Service Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robotics Field Service Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robotics Field Service Engineer - Future Openings",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robotics Field Service Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robotics Field Service Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robotics Field Service Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robotics Field Service Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robotics Field Service Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robotics Field Service Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robotics Field Service Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robotics Field Service Technician - Future Openings",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f 2026 Internship",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f 2026 Internship",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Automation Sales Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Automation Sales Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Automation Sales Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Automation Sales Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Automation Sales Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Automation Sales Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Growth Marketing Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Growth Marketing Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "GTM Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "GTM Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Don't see a role that fits? Apply here!",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "IT & Workplace Operations Lead",
+        "date": "2026-10-14"
+      }
+    ],
+    "Waabi": [
+      {
+        "title": "\u2b50\ufe0f Director, OEM & Strategic Partnerships",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Lead Technical Program Manager, Robotaxi",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Director, Fleet Solutions",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Program Manager, Trucking",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff Commercial Product Manager, Trucking",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Accountant",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Finance Associate",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Global Supply Manager - Indirect",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Supply Chain Specialist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Electrical Distribution System (EDS) Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Electrical Engineering Team Lead",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior / Staff Electrical Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior / Staff Embedded Software Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff Systems Engineer, Embedded Safety & Architecture",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Hardware-in-the-Loop (HIL) Software/Firmware Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Hardware-in-the-Loop (HIL) Team Lead",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Bringup Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mechanical Build & Integration Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior / Staff Manufacturing Engineer (NPI)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior HW Systems Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff Vehicle Program Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sensors Team Lead",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "V&V Engineer, Electrical",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "V&V Engineer, Firmware",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "V&V Engineer, Mechanical",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f 2026 Intern, PhD Research Scientist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Internship/Co-op",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Managing Counsel, Commercial",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Test & Evaluation Operator",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Test & Evaluation Operator",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Test Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Test Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Autonomous Semi Technician - Night Shift",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Autonomous Semi Technician - Swing Shift",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Dispatcher - Day Shift",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Dispatcher - Night Shift",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Fleet Specialist - Day Shift",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Fleet Specialist - Night Shift",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mission Control Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Fleet Planner",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Shift Supervisor - Day Shift",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Shift Supervisor - Night Shift",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Training Specialist - Fleet Specialist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Training Specialist - Vehicle Operator",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Vehicle Operator (CDL) - Day Shift",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Vehicle Operator (CDL) - Night Shift",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Vehicle Reliability Engineer - Night Shift",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Executive Assistant, Office of the CEO",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Compensation Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Manager, Canadian Policy and Public Affairs",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Lead Product Manager, Autonomy Capabilities",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Lead Product Manager, Hardware Platform",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Lead Technical Program Manager, Platform Integration",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Product Designer, Autonomy Data & Tooling",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Applied Scientist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Distillation Lead",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Research Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Research Engineer, Neural Rendering",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Research Engineer, World Models",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Research Scientist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Research Scientist, Neural Reconstruction",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Research Scientist, Simulation Agents",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Research Scientist, World Models",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior / Staff Applied Scientist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior / Staff ML Onboard Optimization Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior / Staff ML Training Optimization Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior / Staff Perception Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior / Staff Research Engineer, Generative AI Deployment",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior / Staff Research Engineer, Simulation Assets & Content Systems",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior / Staff Software Engineer, AI Tooling",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior / Staff Software Engineer, Localization",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior / Staff Software Engineer, Mapping",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior / Staff Software Engineer, ML Datasets & Data Pipelines",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior / Staff Software Engineer, ML-based Controls",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior / Staff Software Engineer, Motion Planning",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior / Staff Software Engineer, Simulation Platform",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Software Engineer, Auto Labelling",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Software Engineer, Evaluation Infrastructure",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior/Staff Research Engineer, Learnable Planner",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff Planner SW Quality Architect",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "IT System Administrator",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior IT Administrator",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Network Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr IT Systems Administrator",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Physical Infrastructure Engineer (On-premise)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Research Engineer, Sensor Signal Processing",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior / Staff ML Ops Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior / Staff Software Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior / Staff Software Engineer, High-Performance Onboard Algorithms",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior / Staff Software Engineer, Sensors Integration",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer, Commercial Software",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer, Labelling, Data & Automation",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff Systems Engineer - Operational Readiness and Field Safety",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff Systems Engineer - Safety Methodologies",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Platform Systems Engineer; Motion Planning and Control",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Platform Systems Engineer; Sensing and Perception, Maps and Localization",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Systems Engineer, Platform Requirements and Verification",
+        "date": "2026-10-14"
+      }
+    ],
+    "Stack AV": [
+      {
+        "title": "Application for General Engineering \u2013 Future Opportunities",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Data Operations Lead",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Full-Stack Software Engineer, Machine Learning Platform",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Machine Learning Engineer, Static World",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Software Engineer, Core Infrastructure and Platforms",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Software Engineer, Perception Architecture",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff Software Engineer, ML Training Infrastructure",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff Embedded Software Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "CDL | Hourly Pay with OT | FREE benefits (Operations Specialist)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "CDL | Hourly Pay with OT | FREE Benefits (Operations Specialist)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "CDL | Hourly Pay with OT | FREE Benefits (Operations Specialist)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Fleet Operations Supervisor",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff Hardware Engineer, Electrical Distribution System / Harness",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Freight Logistics Manager",
+        "date": "2026-10-14"
+      }
+    ],
+    "Torc Robotics": [
+      {
+        "title": "Engineering Manager, Active Sensors (LiDAR)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Machine Learning Engineer, II - 3D Perception",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Machine Learning Engineer II - Learned Planning (Reinforcement Learning)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "ML Engineer, II - App Engine",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior, Machine Learning Engineer - 3D Perception",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior, Machine Learning Engineer - Camera Model",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior, Machine Learning Engineer - Camera Model",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Machine Learning Engineer - Localization",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior, ML Engineer - Tracking",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Quality Test Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior, Software Engineer - Autonomy Core Frameworks",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer II, Mission Interface",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff, Machine Learning Engineer - BEV/Multi-Modal Perception",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "ML Engineer, II - New AI Initiatives",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "ML Engineer, II - Perception",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "ML Engineer, I - MLOps Framework",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Quality Control Engineer, HD Mapping",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior, ML Engineer - 3D Reconstruction",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior, ML Engineer - Auto Tagging",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior, ML Engineer - VLM",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior, Software Engineer - AutoTagging",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Software Engineer - New AI Initiatives",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer, I - Data Engineering",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer, II - Data Engineering",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer, II - Map Enablement",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff, ML Engineer - Scene Generation",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff, Software Engineer - Simulation Vehicle Modeling",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Office Manager I",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "CDL Driver 1 Class A",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Logistics Manager 1",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Product Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer, II - Autonomy Data",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff, Software Engineer - Motion Planning (Unstructured Environments)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff Systems Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "FinOps Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Analytics Engineer - Business Intelligence",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Software Engineer - Cloud Automation",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer II - Build Tools",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Autonomous Technician I",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Commissioning - Systems Engineer I",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Director of Engineering, TorcOS",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Systems Integration Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer II - Device Drivers",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Counsel - Litigation & Product",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior, HR Business Partner",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior, Product Cybersecurity Architect",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior SOTIF Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "HiL V&V Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior System Test Engineer - Simulation",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Simulation V&V Manager",
+        "date": "2026-10-14"
+      }
+    ],
+    "Saronic": [
+      {
+        "title": "Business Development Manager \u2013 Special Operations (SOCOM)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Contracts Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Director of International Growth - Australia",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f International Business Development & Defense Cooperation Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Business Development Lead, Nordics",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Senior Contracts Manager \u2013 International",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Growth Manager, Navy",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Corporate Development Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Brand Designer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Product Designer (UI/UX)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Autonomy Integration Build Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Electrical Build Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Electrical Drafter",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Electrical Engineer - Platforms (Associate - Principal)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Electrical Engineer \u2013 Radio Frequency (RF) Systems",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Electrical Engineer \u2013 UUVs & Undersea Electronics",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Electrical Engineer, Platforms - Corsair",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Electrical Engineering R&D Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Engineer - Structures",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Engineer - Structures",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Engineer - Structures",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Marine Build Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Marine Design Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Marine Designer/Drafter",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Marine Mechanical Engineer (Associate - Principal)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mechanical Build Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mechanical Build Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mechanical Design Drafter (Hardware)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mechanical Engineer, Hardware Integration - Corsair",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mechanical Engineer, Hardware Integration (Senior - Principal)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Naval Architect \u2013 Commercial Vessels",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Outfit Build Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Perception Hardware Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Principal Mechanical Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Electrical Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Electrical Engineer - Platforms (Power Systems)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Electrical Engineer - Platforms (Power Systems)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Electrical Engineer \u2013 Maritime Acoustic Sensor Systems",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Electrical Engineer \u2013 Navigation & Positioning Systems",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Electrical Engineer \u2013 PCBA Schematic & Layout",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Electrical R&D Test Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Electrical Test Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Naval Architect",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior/Lead Marine Designer/Drafter",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff Naval Architect",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Structural Build Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Systems Architecture, Integration, and Test Engineer (Electrical and/or Software)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Systems Architecture, Integration, and Test Engineer (Mechanical)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Systems Architecture, Integration, and Test Engineer (Test & Verification)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Wire Harness Design Engineer - EWIS (Associate - Principal)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Wire Harness Design Engineer - EWIS (Senior - Principal)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Business Systems Analyst - Enterprise Applications",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Foundry Full Stack Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "IT Production Support Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "IT Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manager, Enterprise Technology",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Salesforce Business System Analyst",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Network Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Systems Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Accounts Payable Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Contract Payroll Manager (Workday)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior FP&A Analyst \u2013 Corporate Finance",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Revenue Accountant",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Electrical Engineer - Forward Deployed",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Hardware Engineer - Forward Deployed",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Hardware Engineer - Forward Deployed",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mechanical Engineer - Forward Deployed",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Software Engineer - Forward Deployed",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Software Engineer - Forward Deployed",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer - Forward Deployed",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer - Forward Deployed",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Space Planning Coordinator",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f EHS Intern (Summer 2027)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Electrical Engineer Intern (Summer 2027)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Enterprise Technology Intern (Summer 2027)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Forward Deployed Engineer Intern (Summer 2027)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Information Technology Intern (Summer 2027)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Manufacturing Engineer Intern (Summer 2027)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Mechanical Engineer Intern (Summer 2027)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Naval Architect Intern (Summer 2027)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer Intern (Summer 2027)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Supply Chain Intern (Summer 2027)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Counsel, Litigation & Regulatory",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "2nd Shift Electrician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "2nd Shift Manufacturing Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "ASV Operator",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Autonomous Sea Trials Test Planner",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Buyer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "CNC Programmer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Commissioning Assistant Engineer, Marauder",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Commissioning Chief Engineer, Marauder",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Commissioning Engineer \u2013 Propulsion, Electrical, & Mechanical Systems",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Commissioning Master Mariner, Marauder",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Commissioning Mate, Marauder",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Controls System Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Controls System Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "End of Line Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Finishing \u2013 Composites Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Fitter",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Hull & Deck Infusion - Composites Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Inspection Lead",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Integrated Master Scheduler",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Integration Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Machine Shop Helper",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Machine Shop Manufacturing Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Machinist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manufacturing Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manufacturing Systems Engineering Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Marine Alignment Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Material Expeditor",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Material Expeditor",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Material Handler",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Material Handler",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Materials Supervisor",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Materials Supervisor",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Metrology Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Metrology Engineer \u2013 Accuracy Control",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "NPI Quality Engineer - Mechanical",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "NPI Quality Inspector - Harnessing",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "NPI Quality Inspector - Production",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Outside Machinist/ Pipe Fitter",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Production Supervisor",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Production Supervisor",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Quality Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Quality Inspector",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Quality Inspector",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Quality Inspector - Wire Harness (1st or 2nd Shift)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Buyer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior CNC Machinist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Manufacturing Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior NPI Quality Engineer - Electrical",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Procurement Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Shipyard Industrial Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Shipyard Manufacturing Engineering Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Shipyard Production Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Shipyard Technical Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff Quality Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sub-Assembly Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Supplier Development Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Supplier Quality Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Vessel Scheduler",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Welder (Technician/Fabrication)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Wire Harness Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Diesel Mechanic",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Diesel Mechanic",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Diesel Mechanic",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Diesel Technician, Instructor",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mission Operations Chief Engineer, MUSV",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mission Operations Engineer \u2013 Technical Instructor",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mission Operations Engineer (Program)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mission Operations Manager, MUSV",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mission Operations Master, MUSV",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mission Operations Mate, ALPV",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mission Operations Mate, MUSV",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mission Operations Specialist - UK",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mission Operations Specialist (Product)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mission Operations Specialist (Program)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mission Operations Specialist (Program)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mission Operations Specialist (Program)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mission Operations Specialist, Training",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mission Operations Sustainment Engineer, MUSV",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Mission Operations Sustainment Engineer, MUSV",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Program Coordinator, Mission Operations",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Civil/Site Engineer \u2013 Infrastructure",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Documentation Operations Lead",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "EHS Specialist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "EHS Specialist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "EHS Trainer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Electrical Engineer - Infrastructure",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mechanical Engineer \u2013 Infrastructure",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Security Liaison",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Design Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Technical Writer, Manufacturing",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Technical Writer, Manufacturing",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Technical Writer, Product Documentation",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Technical Writer, Service",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Executive Assistant",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "LMS Technical Administrator (Contract, Part Time)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "People Business Partner",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "People Business Partner",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "People Project Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Recruiter",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior People Operations Generalist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior People Systems Administrator",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Training Specialist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Training Specialist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Workplace Specialist (Austin)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Accuracy Control Engineer (All Levels)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Labeling Planner",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manufacturing Engineer \u2013 Electrical",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manufacturing Engineer \u2013 Outfitting Detail Planning",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manufacturing Engineer \u2013 Paint & Coatings Planning",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manufacturing Engineer \u2013 Propulsion & Machinery Installation Planning",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manufacturing Engineer \u2013 Structural Detail Planning",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manufacturing Engineering Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Master Planner",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Production Engineering Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Shipyard Build Strategy Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Shipyard Facilities Operations & Asset Reliability",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Shipyard Industrial Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Shipyard Integration Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Shipyard Optimization Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Site Quality Manager (NDT Level 3)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Weld Engineer (All Levels)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Associate Product Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manager - Special Programs",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Product Manager/Senior Product Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Electrical Engineer - Special Programs",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Mechanical Engineer - Special Programs",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Deputy Program Manager - SOCOM",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Program Manager, Marauder",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Program Manager, Mission Package Integration",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Senior Program Manager, Shipbuilding",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Perception and Autonomy Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Full Stack Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Systems Software Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Systems Test Software Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer, Generalist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Systems Software Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Systems Software Engineer, Generalist",
+        "date": "2026-10-14"
+      }
+    ],
+    "Built Robotics": [
+      {
+        "title": "AI & ML Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Full Stack Software Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Hardware Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robot Production Lead",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robotics Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Robotics Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robot Deployment Lead",
+        "date": "2026-10-14"
+      }
+    ],
+    "Reliable Robotics": [
+      {
+        "title": "Avionics Maintenance Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Part 135 Line Pilot",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Displays Software Engineer, C/C++",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. Flight Test Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Flight Control Law Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Flight Guidance Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Flight Navigation Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. Flight Control Law Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. Flight Navigation Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. Guidance Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Electrical Design Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Electrical Systems Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Electrical Test Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mechanical Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Radar Algorithms Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. Electrical Design Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. Electrical Engineer, RF",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. Electrical Systems Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. Electrical Test Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. Mechanical Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. RF Test Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. System Integration Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "System Integration Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Compliance and Benefits Administrator",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "People Operations Generalist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Client Platform Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Security Engineer: Infrastructure and Client Platform",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. Avionics & Harness Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. Electrical New Product Introduction (NPI) Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. Harness Manufacturing Engineer (EWIS)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. Manufacturing Engineer - Aircraft Operations",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. Manufacturing Engineer (Mechanical)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. Quality Assurance & Reliability Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. Fullstack Software Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Build Software Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "DevOps Engineer, Flight Software",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Embedded Software Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Embedded Software Engineer, Radar",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Flight Software Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Flight Software Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Flight Software Verification Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "FPGA Design Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "FPGA Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Simulation and Test Systems Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer, Communication Systems",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer, Mission Systems",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. Embedded Software Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. Embedded Software Engineer, Radar",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. Flight Software Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. Flight Software Verification Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. FPGA Design Engineer, Radar",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. FPGA Engineer, Certification",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. FPGA Verification Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. FPGA Verification Engineer, Radar",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. Simulation Software Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. Systems Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. Systems Safety Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Systems Architect",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Systems Engineer - Mission Definition",
+        "date": "2026-10-14"
+      }
+    ],
+    "ANYbotics": [
+      {
+        "title": "Technical Program Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Business Value Consultant, Oil & Gas",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "(Senior) Field Engineer, Industrial Robotics",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Field Deployment Technician, Industrial Robotics",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Deal Desk Specialist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Head of Revenue & Commercial Operations",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Key Account Manager - Oil & Gas",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "VP Sales, North America",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. Sales Manager Metals & Minerals - Rust Belt",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Sales Manager - Power & Utilities",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Head of Business Technology & Automation",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Industrialization / Electronics Test Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Manager Product Structure & Systems (PLM/MES)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer Intern - Industrialization",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Supplier Quality Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manufacturing Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Production Technician II (Robotics)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Product Quality Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Product Manager - Physical AI",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Solution Architect - Power & Utilities",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "PCB Layout Designer / ECAD Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Electrical Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Angular Engineer",
+        "date": "2026-10-14"
+      }
+    ],
+    "Viam": [
+      {
+        "title": "Interested in Future Viam Roles*",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Lead Software Engineer, Data Platform",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior / Staff Software Engineer, Fleet Management",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineering Intern (Summer 2027)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Director, Forward Deployed Engineering",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Developer Advocate",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Developer Advocate (San Francisco, CA)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Product Manager, Platform",
+        "date": "2026-10-14"
+      }
+    ],
+    "Foxglove": [
+      {
+        "title": "Strategic Business Development Executive (Private Defense & Aerospace)",
+        "date": "2026-10-14"
+      }
+    ],
+    "Coco Robotics": [
+      {
+        "title": "Software Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff Software Engineer, Backend",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robot Delivery Specialist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robot Delivery Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robot Delivery Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robot Delivery Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Head of Service Operations",
+        "date": "2026-10-14"
+      }
+    ],
+    "Hadrian": [
+      {
+        "title": "Associate General Counsel, Government Contracts",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Director, Accounting Systems & AI Transformation",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Growth Finance Associate",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "People Operations Program Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "People Partner",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Recruiter",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Recruiter",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Recruiting Coordinator",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Security Engineer, Full Stack",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer, Identity",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sourcer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sourcer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Tech Lead, Detection & Response",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Tech Lead, Offensive Security",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Tech Lead, Operational Technology",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Workplace Operations Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "All Levels: Frontend Software Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "All Levels: Backend Software Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "All Levels: Forward Deployed Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "All Levels: Fullstack Software Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Automation Controls Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Automation Controls Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "CNC Applications Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "CNC Applications Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "CNC Controls Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "CNC Controls Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Computational Geometry Software Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Data Science/ Data Engineer Intern",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Director, Forward Deployed Engineering",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Global Product Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Infrastructure Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "IT Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "IT Operations Lead",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "IT Site Lead",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Machine Learning Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manufacturing Specialist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manufacturing Specialist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mechanical Design Engineer, Automation",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Network Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Product Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Robotics Engineer Intern",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robotics Software Engineer, Perception",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Engineering Manager, Machine Learning",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Engineering Manager, Robotics Software",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Product Designer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Site Reliability Engineer, Client Platform",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Site Reliability Engineer, Robotics",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer Intern",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer, Builder Tools",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer, Factory Simulation",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer, Identity & Access Management",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer, Machine Interfaces",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. Director, Forward Deployed Engineering",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Systems Administrator",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Systems Administrator, AV",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Systems Engineer, Mechanical Design",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Technical Field Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Technical Program Manager, Infra",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Brand Designer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Experiential Marketing Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Growth Marketing Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Managing Director, Government Relations - Defense Budgeting",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Managing Director, Government Relations - Legislative Branch",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Partnerships Marketing Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Program Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Architectural Engineer, Electrical Systems",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Architectural Engineer, Structural Systems",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Automation & Robotics System Engineer, Additive Manufacturing",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Build Engineer, Capabilities",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Buyer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Capex Supply Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Construction Field Engineer, MEP",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Construction Project Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Construction QA Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Construction Superintendent",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "EHS Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Factory Lead - 2nd Shift",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Factory Technician - 1st Shift",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Factory Technician - 1st Shift",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Factory Technician - 2nd Shift",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Head of Qualification",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Instructional Designer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Machine Controls & Data Integration System Engineer, Additive Manufacturing",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Maintenance Specialist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manager, Build Engineering",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manufacturing Data & Process AI Integration System Engineer, Additive Manufacturing",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manufacturing Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manufacturing Engineer, Battery Assembly",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manufacturing Engineer, Capabilities",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manufacturing Engineer, Capabilities",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manufacturing Engineer, CNC",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manufacturing Engineer, Factory Development",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manufacturing Engineer, Factory Development",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manufacturing Engineer, Factory Development",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manufacturing Engineer, Production",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manufacturing Engineer, Production",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manufacturing Engineer, Sheet Metal",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manufacturing Engineer, Tube & Pipe",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Master Scheduler",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Materials Engineer, Additive Manufacturing",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Materials Program Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Metal Manufacturing Engineer, Additive",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Paint Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Pay Transparency",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Polymer Manufacturing Engineer, Additive",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Procurement Manager, Direct",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Production Planner",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Program Manager, Additive Manufacturing",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Project Manager, IMS",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Quality Compliance Engineer, SUBSAFE",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Quality Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Quality Systems Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "R & D Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "R&D Welding Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Manager, Quality",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Supply Chain Buyer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Strategic Sourcing Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Supplier Quality Engineer (AZ)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Supplier Quality Engineer (LA)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Supply Chain Buyer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Systems Engineer, Additive Manufacturing",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Systems Qualification Engineer, Additive Manufacturing",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Technical Program Manager, Manufacturing Operations",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Tooling Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Tooling Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Training Specialist, Welding",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Welding Engineer, Capabilities",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Welding Specialist, R&D",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Workforce Knowledge Analyst",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Workforce Programs Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Workforce Systems Analyst",
+        "date": "2026-10-14"
+      }
+    ],
+    "Saildrone": [
+      {
+        "title": "Don't see your role? Apply here!",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Vice President, Marketing",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior IT Operations Engineer, Identity & Endpoint Automation",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Technical Recruiter",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Account Manager, Ocean Mapping",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Director of Contracting",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Corporate Controller",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Director, Manufacturing Finance & Cost Accounting",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Accountant",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff Cost Accountant",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Facilities Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Director, Fleet Service",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Technical Operations Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Vehicle Assembly and Service Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Vehicle Assembly and Service Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Composite Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manufacturing Systems Integration & Test Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mission Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mission Manager - Middle East",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Product Manager, Maritime Domain Awareness (MDA)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "USV Pilot",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Quality Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff Reliability and Quality Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Global Supply Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manager, Mechanical Engineering",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "NPI Senior Electronics Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Configuration & PLM Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Mechanical Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff Mechanical Engineer - Platform Lead Naval Architect",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff Software Engineer, Security",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Perception Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Perception Machine Learning Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Perception & Sensor Fusion Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Principal Software Engineer, Perception",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer, Autonomous Systems",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer, Cloud",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer, Geometric Computer Vision",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer, Simulation & Evaluation",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff Embedded Software Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff Software Engineer, Machine Learning",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff Software Engineer, Perception",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Vehicle Software Engineer",
+        "date": "2026-10-14"
+      }
+    ],
+    "Mytra": [
+      {
+        "title": "Director of Marketing",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior IT Infrastructure Specialist, Networking and Systems",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior IT Support",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior People Partner",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Electrical PCB Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "PDM & CAD Specialist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Manager, Systems Test Engineering",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Mechanical Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Systems Integration Engineer, Safety",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Systems Test Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Technical Program Manager, Hardware Systems",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Technical Program Manager, Software",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Technical Writer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Wireless RF Systems Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Deployment Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Engineering Technician II",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manufacturing Technician II",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Industrial Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Manufacturing Test Engineer, Robotics",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior NPI Materials Program Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior NPI Program Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior PLM Specialist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Packaging Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Project Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Supplier Industrialization Engineer, Mechanical",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Supplier Quality Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff Global Supply Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Team Lead, Bot Production",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Product Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Product Operations Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Robotics Intern - Winter 2026",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Backend Software Engineer, Robot Fleet Orchestration",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Data Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior ML Perception Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Robotics Controls Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Robotics Software Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Software Engineer , Vision",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff Robotics Software Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff Robotics Software Engineer",
+        "date": "2026-10-14"
+      }
+    ],
+    "Overland AI": [
+      {
+        "title": "Proposal Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Accounting Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Government Contracts Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "People Operations Generalist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Procurement Specialist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Financial Analyst",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Technical Recruiter",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Technical Recruiter (Contract)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Technical Sourcer (Contract)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Brand Designer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Content Strategist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Product Marketing Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Embedded Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Fabricator",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Field Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Field Operations Specialist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Head of Production",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Junior Systems Administrator",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manufacturing Engineer, NPI (New Production Introduction)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mission Success Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Product Security Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Project Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Systems Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Program Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Director of Software Engineering, Behaviors and Planning",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Field Infrastructure Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Forward Deployed Software Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Infrastructure Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Infrastructure Software Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Internship - Software Engineering",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Software Engineer - Autonomy Interface",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Software Engineer - Distributed Systems",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Software Engineer - ML Platform",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Software Engineer - UI",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer - Planning",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer - Trajectory Optimization",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer, Autonomy Integration and Deployment",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer, Machine Learning (All Levels)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer, Mission Autonomy",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer, Perception (All Levels)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer, Platforms",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Technical Lead - Compute Platform and Optimization",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Technical Lead - State Estimation",
+        "date": "2026-10-14"
+      }
+    ],
+    "Berkshire Grey": [
+      {
+        "title": "Senior Software Engineer, Robotics",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sales Account Director, EMEA",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Principal Modeling and Simulation Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Product Engineer, Robotics",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Master Scheduler",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Mechatronics and Control Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Software Engineer, R&D",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Principal Mechanical Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Principal Solutions Architect (Warehousing/MHE)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Spring 2027 Mechanical Engineering Co-op",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Spring 2027 Software Co-op",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Spring 2027 Robot Learning R&D Co-op",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Spring 2027 Mechatronics Engineering Co-op",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior ML Engineer, Computer Vision",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Mechatronics Controls Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Construction Project Manager (Industrial Automation)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Software Engineer, Robotic Manipulation",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior/Principal Mechanical Engineer \u2013 Stride Shuttle Sorter",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Conveyor Solutions & Simulation Lead",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior DevOps Networking Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Software Engineer, Robotic Packing/Manipulation",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Principal Software Engineer, Manipulation",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Electrical Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Warehouse Automation Project Manager",
+        "date": "2026-10-14"
+      }
+    ],
+    "Plus One Robotics": [
+      {
+        "title": "Sr. Mechanical Design Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. Controls Engineer",
+        "date": "2026-10-14"
+      }
+    ],
+    "Ghost Robotics": [
+      {
+        "title": "Business Development Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Linux Systems Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robotic Software Engineer (Senior, Staff or Lead) (Perception)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robotic Software Engineer - (Senior, Staff, Lead) Manipulation",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. Engineer - Electronics",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "VP, U.S. Business Development",
+        "date": "2026-10-14"
+      }
+    ],
+    "Stryker": [
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Internship - Downstream Marketing - Michigan",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Internship - Joint Replacement Sales - New York, NY",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Internship - Project Management - California",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Internship - Quality Engineering - California",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Internship - Digital Marketing - New Jersey",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Internship - Data Engineering - Indiana",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Internship - Advanced Support Tools - Indiana",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Internship - Sales Systems Engineer - Michigan",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Internship - Project Management - California",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Internship - Supply Chain - Florida",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Internship - Upper Extremities Sales - Pittsburgh, PA",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Internship-Medical Education-New Jersey",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Internship - Clinical Affairs - Michigan",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Internship - Process Engineer - Florida",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Internship - RA/QA - Quality Assurance - Texas",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Internship - RA/QA - Post Market Regulatory Affairs - Virtual",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Internship - Market Development - Michigan",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Internship Human Factors Engineering - Washington",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Internship - Finance - Colorado",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Internship - Intern, Process Engineering, Advanced Operations - Tempe",
+        "date": "2026-10-14"
+      }
+    ],
+    "Persona AI": [
+      {
+        "title": "Controls Systems Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Electrical Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mechanical Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Autonomy Software Engineering Internship, World Modeling",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Electrical Engineering Internship",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Machine Learning Internship, Manipulation",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Robotics Software Internship, Manipulation",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Deep Learning - Robot Manipulation Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robotics Machine Learning Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Precision Assembler",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robotics Assembly Lead",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Assembly Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Manager, Supply Chain Management",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Shipping and Receiving Clerk",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Process Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Quality Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Welding Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Technical Recruiter - Humanoid Robotics Engineering",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Technical Recruiter \u2013 Advanced Manufacturing",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Animator",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Reinforcement Learning Engineer, Grasping",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robotics Full Stack Software Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robotics Simulation Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robotics Software Engineer, Manipulation",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Perception Engineer | Sensors, Firmware & Drivers",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Robotics Software Engineer - Autonomy",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff Platform Engineer - Developer Infrastructure",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff Robot Platform Engineer",
+        "date": "2026-10-14"
+      }
+    ],
+    "Johnson & Johnson": [
+      {
+        "title": "\u2b50\ufe0f IDAR Summer Intern (EASE)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Oncology TR Scientist Intern",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Onco Drug-Device Combo Products Intern",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Oncology CPP Scientist Intern",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Oncology Preclinical Safety & TS Intern",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Oncology Global Medical Safety Intern",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Oncology Medical Affairs Intern",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f TDQ Co-Op",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f TDQ Intern",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Stagiaire - Professional Education Vision Care H/F",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Statistics & Decision Sciences Summer Interns 2027",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f LATAM 2027 International Recruitment and Development Intern Program (IRDP)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Business Intelligence trainee",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f EMEA Health Economics & Market Access Surgery Intern",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Stage - Assistant (e) Chef Produit Vision Care - H/F",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u5f3a\u751f\u533b\u7f8e\u4e0e\u91cd\u5efa\u4e8b\u4e1a\u90e8-\u516c\u7acb\u5e02\u573a\u90e8\u5b9e\u4e60\u751f",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Aviation Maintenance Technician Summer Intern",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f IDAR Summer Intern (RMW)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f IDAR Summer Intern (C&SP)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f IDAR Summer Intern (DM CM)",
+        "date": "2026-10-14"
+      }
+    ],
+    "PlusAI": [
+      {
+        "title": "Director, SEC Reporting and Technical Accounting",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Accounting Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manager, Digital Content & Storytelling",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manager, Retail Investor Relations & Engagement",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Director, Corporate & Securities Counsel",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Program Manager (Bilingual Japanese/English)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Data Engineer (SE / Sr SE)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer - Data",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer (SE / Sr SE), Data Infrastructure",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Machine Learning Infrastructure Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer (SE / Sr SE), Applied ML & Data Mining",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer (SE / Sr SE), Data & ML Platform",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Engineering Manager - Simulation and Verification",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Simulation Software Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Verification & Validation Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Mechanical Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Vehicle Integration Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Class A Truck Driver",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior/Staff Research Engineer \u2014 Vision-Language-Action Models (Autonomous Driving)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Software Engineer, Mapping & Localization",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Software Engineer, Mapping & Localization",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff/ Sr. Staff Engineer, Mapping and Localization",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Functional Safety Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Research Engineer, Controls",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Software Engineer, Embedded Software",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Integration Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Principal Engineer / Director, Motion Planning",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Software Engineer, Motion Planning",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior/Staff Machine Learning Engineer (Reinforcement Learning), Motion Planning",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior/Staff Machine Learning Engineer, Motion Planning",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior/Staff Software Engineer (Machine Learning Runtime), Motion Planning",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior/Staff Software Engineer, Motion Planning",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer, Runtime",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer, Runtime & C++ Middleware",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Machine Learning Engineer, Simulation",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer, Simulation",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Field Service Engineer",
+        "date": "2026-10-14"
+      }
+    ],
+    "Symbotic": [
+      {
+        "title": "Technical Support Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Automation Maintenance Technician II",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manager, Talent Management",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Site Operations Fellow (Skillbridge)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Co-Op- System Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Co-Op- System Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern- Project Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern - Industrial Controls",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern - Hardware Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern- Data Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern- PhD Applied Scientist, Routing",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern- Bot Controls",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern - User Experience",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern- Software Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Cell Operator",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Regional Controller, Mexico",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Project Engineer, Commissioning Services",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "On-Site Project Manager (East, Central, West)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Shift Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Service Operations Project Manager",
+        "date": "2026-10-14"
+      }
+    ],
+    "PROCEPT BioRobotics": [
+      {
+        "title": "Assembler II",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Territory Manager - Allentown, PA",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Territory Manager - Grand Rapids, MI / South Bend, IN",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Clinical Specialist- Albany/ Syracuse, NY",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Manufacturing Engineer, Equipment",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Territory Manager- Omaha, NE",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Clinical Specialist - Kentucky West",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Regulatory Affairs Labeling Specialist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Clinical Specialist - West Virginia",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Vice President, Global Regulatory Affairs",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Clinical Specialist- Chicago, IL",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "SEC Reporting and Technical Accounting Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Salesforce Administrator",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manager, Equipment and Automation",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Clinical Specialist - Cleveland, OH",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Territory Manager - North New Jersey",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff IT AI Implementation Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Territory Manager - Detroit Metro",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Territory Manager- Louisiana",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Manager, Sales Operations",
+        "date": "2026-10-14"
+      }
+    ],
+    "Miso Robotics": [
+      {
+        "title": "IT Systems Administrator",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Join Team Miso",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mechanical Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robotics Controls Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robotics Systems Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "SQA Engineer \u2013 Automation and AI",
+        "date": "2026-10-14"
+      }
+    ],
+    "ABB": [
+      {
+        "title": "Manufacturing Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manufacturing Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "R&D Senior Electrical Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior PLC Field Service Technician \u2013 Data Center Power Systems",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Service Development Engineer - Documentation",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mechanic Electrician--C2",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "HSE Specialist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Customer Support Specialist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Order Management Lead",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Global Customer Application Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Global Application Engineer - Critical Infrastructure Applications",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Field Service Engineer, Data Centers - ELSE",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Machine Operator- Auto Punch Press Operator",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Director of Strategic Planning, ELDS NAM",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "BWS Operator-3",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Pricing and Revenue Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "2nd Shift Production Supervisor",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Director, Service Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Maintenance A Technician \u2013 2nd Shift | Bring Your Skills to ABB",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Global Sales & Operations Planning Leader",
+        "date": "2026-10-14"
+      }
+    ],
+    "Teradyne": [
+      {
+        "title": "Software Engineer (Compute Test, North Reading)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Mechanical Engineer (Teradyne, North Reading, MA)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Field Service Engineer (GCS- Field; San Jose, CA)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Field Application Engineer (SEG, Austin)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Materials Planner (Teradyne, North Reading, MA)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Global Tech Lead for Salesforce (TER Robotics, North Reading, MA)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Supply Line Engineer (TERADYNE, North Reading, MA)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Hardware Engineer, (Defense & Aerospace, North Reading, MA)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Lab Manager (Teradyne, North Reading, MA)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mechanical Quality Engineer (Teradyne, Agoura Hills, CA)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Thermal Engineer (Teradyne, Agoura Hills, CA)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Software Engineer (Integrated System Test, North Reading)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer (Integrated System Test, North Reading)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer (Memory Test, San Jose, CA)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Thermal Engineer (Teradyne, Agoura Hills, CA)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mechanical Engineer (Teradyne, Agoura Hills, CA)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Hardware Verification Engineer, New College Graduate, (Teradyne, North Reading, MA)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "RTL Design Engineer (TERADYNE, North Reading, MA)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Software Engineer - Tech Lead (Memory Test, San Jose, CA)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior FPGA Architect (Compute Test, North Reading)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Digital Verification Engineer Lead (MTD, Tualatin, OR)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Digital Verification Engineer (MTD, San Jose, CA)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Analog Design Engineer (TERADYNE, Agoura Hills, CA)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Product Support Engineer (IST; North Reading, MA)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Factory Applications Engineer (Silicon Photonics; North Reading, MA)",
+        "date": "2026-10-14"
+      }
+    ],
+    "KUKA": [
+      {
+        "title": "Field Service Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Project Procurement Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Systems Engineer, Pharmacy Automation",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Software Quality Assurance Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Resident Service Engineer (New Albany, OH)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer - Sustaining Engineering",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Buyer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Customer Service Account Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Revenue Operations Analyst",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sales Director",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Operational Excellence Engineer - Quality & Systems",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Pharmacy Postdoctoral Fellowship",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Field Service Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Field Service Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Implementation Specialist, Customer Training, Pharmacy Automation",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Solution Designer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Program Manager, Customer Service",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Digital Marketing Program Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Site Supervisor (m/f/d) - UK",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Resident Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Solution Consultant",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Solution Manager Cube Storage",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Cyber Security Incident Responder",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Resident Site Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer - Full Stack - UI",
+        "date": "2026-10-14"
+      }
+    ],
+    "Intuitive Machines": [
+      {
+        "title": "Additive Manufacturing Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mid Level Stress Analyst - Nebula",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mid Level Thermal Analyst - Nebula",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Facilities Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Integrated Testing and Verification Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Ground Stations Network Operations Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Avionics Electrical Engineer - Cable Design",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "DevSecOps Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Flight Software Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Project Manager - Federal Services",
+        "date": "2026-10-14"
+      }
+    ],
+    "Zimmer Biomet": [
+      {
+        "title": "\u2b50\ufe0f Finance Intern - Internship 12- months programme",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Warehouse Intern",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Warehouse Intern",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Warehouse Intern",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f High School, Finance Intern",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f Payroll Intern (Nov Intake)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, Manufacturing Engineering",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, Manufacturing Supervisor",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, Data Mesh Platform",
+        "date": "2026-10-14"
+      }
+    ],
+    "Voyager Technologies": [
+      {
+        "title": "Senior Electrical Power Systems Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Systems Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Proposal Writer \u2013 Aerospace",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Proposal Writer / Proposal Architect \u2013 Aerospace",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Director of Global Trade Compliance",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Accounts Payable Specialist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Contract Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Contract Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Contracts Specialist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Contracts Specialist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Contracts Specialist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Master Scheduling Analyst III",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Master Scheduling Analyst V",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Program Controls Analyst",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Program Controls Analyst",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Program Controls Analyst",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Accounting / Finance Intern",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Electrical Engineer Intern",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Government Relations Intern",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Growth & Business Development Intern",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Mechanical Engineering Intern",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Software Engineering Intern",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Systems Engineering Intern",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Chief Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Program Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Program Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Project Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Project Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Sr. Manager, Synthetic Aperture Radar",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "FPGA Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Systems Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Components Engineer II",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Electrical Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Electrical Hardware Engineer III - Avionics",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Lead Electrical Hardware Engineer \u2013 Avionics",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Principal Electrical Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "RF Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "RF Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Components Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Electrical Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Electrical Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Electrical Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Electrical Hardware Engineer (Avionics)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Hardware Engineer - Power Integrity",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Chief Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Engineering Site Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Electrical Integration and Test Engineer II",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Electrical Integration & Test III",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mechanical Integration and Test Engineer",
+        "date": "2026-10-14"
+      }
+    ],
+    "FANUC America": [
+      {
+        "title": "Motor Repair Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Technician II",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "IT Business Analyst",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Human Resources Generalist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Inside Sales Specialist (CNC)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Sealer Proposal Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Inside Sales and Support Specialist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Robot Product Manager",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manager - Manufacturing",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "District Account Manager",
+        "date": "2026-10-14"
+      }
+    ],
+    "Starship Technologies": [
+      {
+        "title": "Robot Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Finance Business Partner",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Data Analyst",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Data Analyst",
+        "date": "2026-10-14"
+      }
+    ],
+    "Gatik": [
+      {
+        "title": "Sr. Manager, Network Design & Optimization",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Operations Supervisor, Fleet",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Director, FP&A",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Executive Assistant (Contract to Hire)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Accountant",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior G&A Recruiter (Contract to Hire)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Manager, Truck Assets & Operations",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Technical Recruiter (Contract to Hire)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Hardware Test and Validation Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mechanical Integration Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Mechanical Integration Technician",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Mechanical Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior/Staff Vehicle Harness Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff Electrical Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "IT IAM & SaaS Integration Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "IT Support Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Head, Manufacturing",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Manufacturing Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Buyer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Inventory Specialist",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Research Engineer, Perception",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Embedded Software Engineer, Drive-By-Wire",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Machine Learning Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Robotics Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior AI Infrastructure Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Behavior Planning Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Behavior Prediction Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Cloud Infrastructure Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Robotics Integration Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Simulation Integration Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Software Engineer, C++",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Software Engineer, Controls",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Software Engineer, Localization",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Software Engineer \u2013 Localization (Visual Odometry)",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Software Engineer, Motion Planning",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Software Engineer, Perception",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior/Staff Full-Stack Engineer, Simulation Platform",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior/Staff GIS Engineer, HD Mapping",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior/Staff Site Reliability Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Staff Infrastructure/DevOps Engineer",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Change Management Lead",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Safety Lead",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Systems & Safety Engineer \u2013 AI/ML",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Systems & Safety Engineer \u2013 Autonomy",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Systems & Safety Engineer \u2013 Drive-by-Wire",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior Systems & Safety Engineer \u2013 Hardware",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior V&V Engineer \u2013 Closed Course & Proving Grounds",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior V&V Engineer \u2013 Hardware-in-the-Loop (HIL) & Test Bench",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior V&V Engineer \u2013 Public Road & Fleet Testing",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Senior V&V Engineer \u2013 Software-in-the-Loop (SIL) & Simulation",
+        "date": "2026-10-14"
+      }
+    ],
+    "Exotec": [
+      {
+        "title": "Industrial Equipment Operator - Warehouse Robotics",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Deployment Project Manager - Warehouse Robotics & Automation",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Maintenance Operator - Warehouse Robotics",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Field Commissioning Engineer - Warehouse Robotics & Automation",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Supply Chain Operational Controller",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Software Integration Engineer - Automation & Robotics",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Product Sales Officer - North America",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Maintenance Performance Engineer - Warehouse Automation & Robotics",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Solutions Design Engineer - Material Handling & Warehouse Automation",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "VP, Sales - Warehouse Automation & Material Handling",
+        "date": "2026-10-14"
+      },
+      {
+        "title": "Strategic Sales Executive - Material Handling & Warehouse Automation",
+        "date": "2026-10-14"
       }
     ]
   }
