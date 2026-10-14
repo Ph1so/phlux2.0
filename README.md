@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 Phlux Job Listings
-*Showing the 699 most recent of 26,297 roles tracked across 202 companies. See [all listings](listings/README.md) for the full history.*
+*Showing the 697 most recent of 26,307 roles tracked across 202 companies. See [all listings](listings/README.md) for the full history.*
 
 
 <table>
@@ -63,9 +63,23 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://apply.careers.microsoft.com/careers?query=intern&location=United%20States&sort_by=relevance&start=0->https://apply.careers.microsoft.com/careers?query=intern&location=United%20States&sort_by=relevance&start=10->https://apply.careers.microsoft.com/careers?query=intern&location=United%20States&sort_by=relevance&start=20"><img src="https://cdn.brandfetch.io/microsoft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Microsoft" height="20" style="vertical-align:middle; margin-right:6px;"> Microsoft</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Research Intern - Machine Learning and Statistics</div></td>
+  <td>2026-10-13</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=recent&country%5B%5D=USA&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=intern&city=&country=&region=&county=&query_options=&"><img src="https://cdn.brandfetch.io/amazon.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Amazon" height="20" style="vertical-align:middle; margin-right:6px;"> Amazon</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ ASIC Engineer Intern, Summer 2027</div></td>
+  <td>2026-10-13</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=recent&country%5B%5D=USA&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=intern&city=&country=&region=&county=&query_options=&"><img src="https://cdn.brandfetch.io/amazon.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Amazon" height="20" style="vertical-align:middle; margin-right:6px;"> Amazon</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Hardware Development Engineer Intern, Summer 2027</div></td>
   <td>2026-10-13</td>
 </tr>
   <tr>
@@ -343,9 +357,37 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Operations Program Manager, Advanced Hardware Manufacturing - ON-SITE — FULL-TIMEFREMONT, CA</div></td>
+  <td>2026-10-13</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Technical Program Manager, Manufacturing Capacity - ON-SITE — FULL-TIMEFREMONT, CA / FOSTER CITY, CA</div></td>
+  <td>2026-10-13</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/serverobotics/"><img src="https://cdn.brandfetch.io/serverobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Serve Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Serve Robotics</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Electrical Engineer</div></td>
+  <td>2026-10-13</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/serverobotics/"><img src="https://cdn.brandfetch.io/serverobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Serve Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Serve Robotics</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Financial Analyst, FP&A</div></td>
+  <td>2026-10-13</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/serverobotics/"><img src="https://cdn.brandfetch.io/serverobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Serve Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Serve Robotics</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Service Technician II</div></td>
   <td>2026-10-13</td>
 </tr>
   <tr>
@@ -367,6 +409,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boards.greenhouse.io/embed/job_board?for=nuro->https://job-boards.greenhouse.io/embed/job_board?for=nuro&page=2"><img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nuro" height="20" style="vertical-align:middle; margin-right:6px;"> Nuro</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior/Staff Controls Engineer, Core DevelopmentNew - Mountain View, California (HQ)</div></td>
+  <td>2026-10-13</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boards.greenhouse.io/embed/job_board?for=nuro->https://job-boards.greenhouse.io/embed/job_board?for=nuro&page=2"><img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nuro" height="20" style="vertical-align:middle; margin-right:6px;"> Nuro</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer, Software Updates - Mountain View, California (HQ)</div></td>
   <td>2026-10-13</td>
 </tr>
   <tr>
@@ -402,6 +451,20 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.intrinsic.ai/careers"><img src="https://cdn.brandfetch.io/intrinsicdev.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Intrinsic" height="20" style="vertical-align:middle; margin-right:6px;"> Intrinsic</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robotics & Automation Technician</div></td>
+  <td>2026-10-13</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=andurilindustries&keyword=intern"><img src="https://cdn.brandfetch.io/anduril.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anduril" height="20" style="vertical-align:middle; margin-right:6px;"> Anduril</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ 2027 Firmware Engineer Intern</div></td>
+  <td>2026-10-13</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=andurilindustries&keyword=intern"><img src="https://cdn.brandfetch.io/anduril.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anduril" height="20" style="vertical-align:middle; margin-right:6px;"> Anduril</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ 2027 Product Designer Intern</div></td>
   <td>2026-10-13</td>
 </tr>
   <tr>
@@ -476,6 +539,20 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/wayve?locationId=a937431a-b165-4153-8c67-a6808a6eb679"><img src="https://cdn.brandfetch.io/wayve.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Wayve" height="20" style="vertical-align:middle; margin-right:6px;"> Wayve</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Robotics Engineer, 3D Sensing</div></td>
+  <td>2026-10-13</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/wayve?locationId=a937431a-b165-4153-8c67-a6808a6eb679"><img src="https://cdn.brandfetch.io/wayve.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Wayve" height="20" style="vertical-align:middle; margin-right:6px;"> Wayve</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Principle Roboticist, Robot Foundation Model</div></td>
+  <td>2026-10-13</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/bedrock-robotics/"><img src="https://cdn.brandfetch.io/bedrockrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bedrock Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Bedrock Robotics</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Operational Safety & EHS Lead</div></td>
@@ -500,6 +577,20 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/applied/"><img src="https://cdn.brandfetch.io/appliedintuition.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Applied Intuition" height="20" style="vertical-align:middle; margin-right:6px;"> Applied Intuition</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Industrials Integration Engineer</div></td>
+  <td>2026-10-13</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/field-ai"><img src="https://cdn.brandfetch.io/fieldai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="FieldAI" height="20" style="vertical-align:middle; margin-right:6px;"> FieldAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Research Scientist Intern, Robot Learning & Manipulation (Spring, Summer & Fall 2027) \| Master’s & PhD Internship - ON-SITE — INTERNSHIPIRVINE, CA</div></td>
+  <td>2026-10-13</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/field-ai"><img src="https://cdn.brandfetch.io/fieldai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="FieldAI" height="20" style="vertical-align:middle; margin-right:6px;"> FieldAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Robotics Research Intern, Embodied AI - ON-SITE — INTERNSHIPIRVINE, CA</div></td>
   <td>2026-10-13</td>
 </tr>
   <tr>
@@ -4805,111 +4896,6 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robot Service Technician Assistant (Part Time Weekends)</div></td>
-  <td>2026-09-29</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robot Service Technician Assistant (Part Time Weekends)</div></td>
-  <td>2026-09-29</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robot Service Technician – Full Time/Contract (Monday-Friday AM and PM Shifts)</div></td>
-  <td>2026-09-29</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robot Service Technician – Full Time/Contract (Monday-Friday, AM and PM Shifts)</div></td>
-  <td>2026-09-29</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robot Service Technician – Full Time/Contract (Monday-Friday, AM and PM Shifts)</div></td>
-  <td>2026-09-29</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.dev/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robot Service Technician Assistant (Part Time Weekend AM and PM Shifts)</div></td>
-  <td>2026-09-29</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/maymobility/"><img src="https://cdn.brandfetch.io/maymobility.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="May Mobility" height="20" style="vertical-align:middle; margin-right:6px;"> May Mobility</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Autonomy Technical Project Manager - Release</div></td>
-  <td>2026-09-29</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://recruiting.paylocity.com/recruiting/jobs/All/3a4d8744-ab51-41d9-a0cf-43de316c7dca/Beep-Inc"><img src="https://cdn.brandfetch.io/go-beep.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Beep" height="20" style="vertical-align:middle; margin-right:6px;"> Beep</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Payroll & Benefits Specialist - Miami Florida</div></td>
-  <td>2026-09-29</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Manager, Technical Program Management - ON-SITE — FULL-TIMEFREMONT, CA / FOSTER CITY, CA</div></td>
-  <td>2026-09-29</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Software Engineer, Continuous Deployment - HYBRID — FULL-TIMEFOSTER CITY, CA</div></td>
-  <td>2026-09-29</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer - Embedded Linux Operating Systems - HYBRID — FULL-TIMEFOSTER CITY, CA</div></td>
-  <td>2026-09-29</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/serverobotics/"><img src="https://cdn.brandfetch.io/serverobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Serve Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Serve Robotics</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Environmental Health & Safety (EHS) Specialist</div></td>
-  <td>2026-09-29</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boards.greenhouse.io/embed/job_board?for=nuro->https://job-boards.greenhouse.io/embed/job_board?for=nuro&page=2"><img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nuro" height="20" style="vertical-align:middle; margin-right:6px;"> Nuro</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Assistant General Counsel, EmploymentNew - Mountain View, California (HQ)</div></td>
-  <td>2026-09-29</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boards.greenhouse.io/embed/job_board?for=nuro->https://job-boards.greenhouse.io/embed/job_board?for=nuro&page=2"><img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nuro" height="20" style="vertical-align:middle; margin-right:6px;"> Nuro</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Social Media InternNew - Mountain View, California (HQ)</div></td>
-  <td>2026-09-29</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boards.greenhouse.io/embed/job_board?for=nuro->https://job-boards.greenhouse.io/embed/job_board?for=nuro&page=2"><img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nuro" height="20" style="vertical-align:middle; margin-right:6px;"> Nuro</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Director of AI Data Operations - Mountain View, California (HQ)</div></td>
-  <td>2026-09-29</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boards.greenhouse.io/embed/job_board?for=nuro->https://job-boards.greenhouse.io/embed/job_board?for=nuro&page=2"><img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nuro" height="20" style="vertical-align:middle; margin-right:6px;"> Nuro</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Embedded Software Engineer - Mountain View, California (HQ)</div></td>
   <td>2026-09-29</td>
 </tr>
 
