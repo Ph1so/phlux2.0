@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 Phlux Job Listings
-*Showing the 928 most recent of 27,736 roles tracked across 247 companies. See [all listings](listings/README.md) for the full history.*
+*Showing the 928 most recent of 27,748 roles tracked across 247 companies. See [all listings](listings/README.md) for the full history.*
 
 
 <table>
@@ -135,7 +135,7 @@ Easily track jobs across top tech companies.
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=wehrtyou->https://job-boards.greenhouse.io/embed/job_board?for=wehrtyou&page=2"><img src="https://cdn.brandfetch.io/hudsonrivertrading.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Hudson River Trading" height="20" style="vertical-align:middle; margin-right:6px;"> Hudson River Trading</a></div>
 </td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Senior International Tax Specialist</div></td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior International Tax Specialist</div></td>
   <td>2026-10-14</td>
 </tr>
   <tr>
@@ -1829,7 +1829,7 @@ Easily track jobs across top tech companies.
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/waabi"><img src="https://cdn.brandfetch.io/waabi.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Waabi" height="20" style="vertical-align:middle; margin-right:6px;"> Waabi</a></div>
 </td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Director, OEM & Strategic Partnerships</div></td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Director, OEM & Strategic Partnerships</div></td>
   <td>2026-10-14</td>
 </tr>
   <tr>
@@ -2970,14 +2970,14 @@ Easily track jobs across top tech companies.
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/saronic"><img src="https://cdn.brandfetch.io/saronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saronic" height="20" style="vertical-align:middle; margin-right:6px;"> Saronic</a></div>
 </td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Director of International Growth - Australia</div></td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Director of International Growth - Australia</div></td>
   <td>2026-10-14</td>
 </tr>
   <tr>
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/saronic"><img src="https://cdn.brandfetch.io/saronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saronic" height="20" style="vertical-align:middle; margin-right:6px;"> Saronic</a></div>
 </td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ International Business Development & Defense Cooperation Manager</div></td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">International Business Development & Defense Cooperation Manager</div></td>
   <td>2026-10-14</td>
 </tr>
   <tr>
@@ -2991,7 +2991,7 @@ Easily track jobs across top tech companies.
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/saronic"><img src="https://cdn.brandfetch.io/saronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saronic" height="20" style="vertical-align:middle; margin-right:6px;"> Saronic</a></div>
 </td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Senior Contracts Manager – International</div></td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Contracts Manager – International</div></td>
   <td>2026-10-14</td>
 </tr>
   <tr>
@@ -3880,28 +3880,28 @@ Easily track jobs across top tech companies.
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/saronic"><img src="https://cdn.brandfetch.io/saronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saronic" height="20" style="vertical-align:middle; margin-right:6px;"> Saronic</a></div>
 </td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Shipyard Industrial Engineer</div></td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Shipyard Industrial Engineer</div></td>
   <td>2026-10-14</td>
 </tr>
   <tr>
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/saronic"><img src="https://cdn.brandfetch.io/saronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saronic" height="20" style="vertical-align:middle; margin-right:6px;"> Saronic</a></div>
 </td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Shipyard Manufacturing Engineering Manager</div></td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Shipyard Manufacturing Engineering Manager</div></td>
   <td>2026-10-14</td>
 </tr>
   <tr>
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/saronic"><img src="https://cdn.brandfetch.io/saronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saronic" height="20" style="vertical-align:middle; margin-right:6px;"> Saronic</a></div>
 </td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Shipyard Production Engineer</div></td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Shipyard Production Engineer</div></td>
   <td>2026-10-14</td>
 </tr>
   <tr>
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/saronic"><img src="https://cdn.brandfetch.io/saronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saronic" height="20" style="vertical-align:middle; margin-right:6px;"> Saronic</a></div>
 </td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Shipyard Technical Manager</div></td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Shipyard Technical Manager</div></td>
   <td>2026-10-14</td>
 </tr>
   <tr>
@@ -4335,35 +4335,35 @@ Easily track jobs across top tech companies.
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/saronic"><img src="https://cdn.brandfetch.io/saronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saronic" height="20" style="vertical-align:middle; margin-right:6px;"> Saronic</a></div>
 </td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Shipyard Build Strategy Engineer</div></td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Shipyard Build Strategy Engineer</div></td>
   <td>2026-10-14</td>
 </tr>
   <tr>
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/saronic"><img src="https://cdn.brandfetch.io/saronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saronic" height="20" style="vertical-align:middle; margin-right:6px;"> Saronic</a></div>
 </td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Shipyard Facilities Operations & Asset Reliability</div></td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Shipyard Facilities Operations & Asset Reliability</div></td>
   <td>2026-10-14</td>
 </tr>
   <tr>
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/saronic"><img src="https://cdn.brandfetch.io/saronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saronic" height="20" style="vertical-align:middle; margin-right:6px;"> Saronic</a></div>
 </td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Shipyard Industrial Engineer</div></td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Shipyard Industrial Engineer</div></td>
   <td>2026-10-14</td>
 </tr>
   <tr>
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/saronic"><img src="https://cdn.brandfetch.io/saronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saronic" height="20" style="vertical-align:middle; margin-right:6px;"> Saronic</a></div>
 </td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Shipyard Integration Manager</div></td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Shipyard Integration Manager</div></td>
   <td>2026-10-14</td>
 </tr>
   <tr>
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/saronic"><img src="https://cdn.brandfetch.io/saronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saronic" height="20" style="vertical-align:middle; margin-right:6px;"> Saronic</a></div>
 </td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Shipyard Optimization Manager</div></td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Shipyard Optimization Manager</div></td>
   <td>2026-10-14</td>
 </tr>
   <tr>
@@ -4440,7 +4440,7 @@ Easily track jobs across top tech companies.
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/saronic"><img src="https://cdn.brandfetch.io/saronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saronic" height="20" style="vertical-align:middle; margin-right:6px;"> Saronic</a></div>
 </td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Senior Program Manager, Shipbuilding</div></td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Program Manager, Shipbuilding</div></td>
   <td>2026-10-14</td>
 </tr>
   <tr>
@@ -5672,7 +5672,7 @@ Easily track jobs across top tech companies.
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/hadrian-automation"><img src="https://cdn.brandfetch.io/hadrian.io/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Hadrian" height="20" style="vertical-align:middle; margin-right:6px;"> Hadrian</a></div>
 </td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Partnerships Marketing Manager</div></td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Partnerships Marketing Manager</div></td>
   <td>2026-10-14</td>
 </tr>
   <tr>
