@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 Phlux Job Listings
-*Showing the 887 most recent of 28,130 roles tracked across 247 companies. See [all listings](listings/README.md) for the full history.*
+*Showing the 887 most recent of 28,131 roles tracked across 247 companies. See [all listings](listings/README.md) for the full history.*
 
 
 <table>
@@ -696,6 +696,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/hadrian-automation"><img src="https://cdn.brandfetch.io/hadrian.io/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Hadrian" height="20" style="vertical-align:middle; margin-right:6px;"> Hadrian</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Maintenance Engineer</div></td>
+  <td>2026-10-15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/hadrian-automation"><img src="https://cdn.brandfetch.io/hadrian.io/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Hadrian" height="20" style="vertical-align:middle; margin-right:6px;"> Hadrian</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Metal Manufacturing Engineer, Additive (DED)</div></td>
   <td>2026-10-15</td>
 </tr>
   <tr>
@@ -6219,13 +6226,6 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/saronic"><img src="https://cdn.brandfetch.io/saronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saronic" height="20" style="vertical-align:middle; margin-right:6px;"> Saronic</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Design Manager</div></td>
-  <td>2026-10-14</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/saronic"><img src="https://cdn.brandfetch.io/saronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saronic" height="20" style="vertical-align:middle; margin-right:6px;"> Saronic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Technical Writer, Manufacturing</div></td>
   <td>2026-10-14</td>
 </tr>
 
