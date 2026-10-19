@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 Phlux Job Listings
-*Showing the 856 most recent of 28,278 roles tracked across 247 companies. See [all listings](listings/README.md) for the full history.*
+*Showing the 856 most recent of 28,279 roles tracked across 247 companies. See [all listings](listings/README.md) for the full history.*
 
 
 <table>
@@ -24,6 +24,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Program Manager, Fleet Support Specialists - ON-SITE — FULL-TIMEFOSTER CITY, CA</div></td>
+  <td>2026-10-18</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/applied/"><img src="https://cdn.brandfetch.io/appliedintuition.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Applied Intuition" height="20" style="vertical-align:middle; margin-right:6px;"> Applied Intuition</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Application Engineer - Trucking</div></td>
   <td>2026-10-18</td>
 </tr>
   <tr>
@@ -6002,13 +6009,6 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/torcrobotics"><img src="https://cdn.brandfetch.io/torc.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Torc Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Torc Robotics</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Office Manager I</div></td>
-  <td>2026-10-14</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/torcrobotics"><img src="https://cdn.brandfetch.io/torc.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Torc Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Torc Robotics</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">CDL Driver 1 Class A</div></td>
   <td>2026-10-14</td>
 </tr>
 
