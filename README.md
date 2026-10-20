@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 Phlux Job Listings
-*Showing the 806 most recent of 28,551 roles tracked across 248 companies. See [all listings](listings/README.md) for the full history.*
+*Showing the 806 most recent of 28,552 roles tracked across 248 companies. See [all listings](listings/README.md) for the full history.*
 
 
 <table>
@@ -381,6 +381,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://app.careerpuck.com/job-board/lyft"><img src="https://cdn.brandfetch.io/lyft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lyft" height="20" style="vertical-align:middle; margin-right:6px;"> Lyft</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer, Luxury</div></td>
+  <td>2026-10-20</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://app.careerpuck.com/job-board/lyft"><img src="https://cdn.brandfetch.io/lyft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lyft" height="20" style="vertical-align:middle; margin-right:6px;"> Lyft</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Android Engineer, Luxury</div></td>
   <td>2026-10-20</td>
 </tr>
   <tr>
@@ -994,14 +1001,14 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/humble-robotics"><img src="https://cdn.brandfetch.io/humblebundle.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Humble Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Humble Robotics</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/humble-robotics"><img src="https://www.google.com/s2/favicons?domain=humblerobotics.ai&sz=128" alt="Humble Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Humble Robotics</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Electrical Engineer, 2027 Internship</div></td>
   <td>2026-10-20</td>
 </tr>
   <tr>
   <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/humble-robotics"><img src="https://cdn.brandfetch.io/humblebundle.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Humble Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Humble Robotics</a></div>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/humble-robotics"><img src="https://www.google.com/s2/favicons?domain=humblerobotics.ai&sz=128" alt="Humble Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Humble Robotics</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Embedded Software Engineer, 2027 Internship</div></td>
   <td>2026-10-20</td>
@@ -5652,13 +5659,6 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/thebotcompany"><img src="https://cdn.brandfetch.io/bot.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="The Bot Company" height="20" style="vertical-align:middle; margin-right:6px;"> The Bot Company</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Something Else</div></td>
-  <td>2026-10-14</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/thebotcompany"><img src="https://cdn.brandfetch.io/bot.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="The Bot Company" height="20" style="vertical-align:middle; margin-right:6px;"> The Bot Company</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Mechanical</div></td>
   <td>2026-10-14</td>
 </tr>
 
