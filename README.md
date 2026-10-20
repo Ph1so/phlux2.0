@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 Phlux Job Listings
-*Showing the 835 most recent of 28,402 roles tracked across 247 companies. See [all listings](listings/README.md) for the full history.*
+*Showing the 831 most recent of 28,418 roles tracked across 247 companies. See [all listings](listings/README.md) for the full history.*
 
 
 <table>
@@ -31,6 +31,27 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"><img src="https://cdn.brandfetch.io/nvidia.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nvidia" height="20" style="vertical-align:middle; margin-right:6px;"> Nvidia</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Sales Operations Intern - Summer 2027</div></td>
+  <td>2026-10-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://apply.careers.microsoft.com/careers?query=intern&location=United%20States&sort_by=relevance&start=0->https://apply.careers.microsoft.com/careers?query=intern&location=United%20States&sort_by=relevance&start=10->https://apply.careers.microsoft.com/careers?query=intern&location=United%20States&sort_by=relevance&start=20"><img src="https://cdn.brandfetch.io/microsoft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Microsoft" height="20" style="vertical-align:middle; margin-right:6px;"> Microsoft</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Research Intern - Algorithms Group: Generative Modeling</div></td>
+  <td>2026-10-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://apply.careers.microsoft.com/careers?query=intern&location=United%20States&sort_by=relevance&start=0->https://apply.careers.microsoft.com/careers?query=intern&location=United%20States&sort_by=relevance&start=10->https://apply.careers.microsoft.com/careers?query=intern&location=United%20States&sort_by=relevance&start=20"><img src="https://cdn.brandfetch.io/microsoft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Microsoft" height="20" style="vertical-align:middle; margin-right:6px;"> Microsoft</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Research Intern - Extended Perception Interaction Cognition (EPIC)</div></td>
+  <td>2026-10-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://apply.careers.microsoft.com/careers?query=intern&location=United%20States&sort_by=relevance&start=0->https://apply.careers.microsoft.com/careers?query=intern&location=United%20States&sort_by=relevance&start=10->https://apply.careers.microsoft.com/careers?query=intern&location=United%20States&sort_by=relevance&start=20"><img src="https://cdn.brandfetch.io/microsoft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Microsoft" height="20" style="vertical-align:middle; margin-right:6px;"> Microsoft</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Business Program Management INTERN</div></td>
   <td>2026-10-19</td>
 </tr>
   <tr>
@@ -77,6 +98,34 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.metacareers.com/jobsearch/?roles[0]=Internship"><img src="https://cdn.brandfetch.io/meta.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Meta" height="20" style="vertical-align:middle; margin-right:6px;"> Meta</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Research Scientist Intern, On-Device AI Model Optimization (PhD)</div></td>
+  <td>2026-10-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.metacareers.com/jobsearch/?roles[0]=Internship"><img src="https://cdn.brandfetch.io/meta.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Meta" height="20" style="vertical-align:middle; margin-right:6px;"> Meta</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Research Scientist Intern, Smart Glasses in Wearables AI (PhD)</div></td>
+  <td>2026-10-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/palantir?commitment=Internship"><img src="https://cdn.brandfetch.io/palantir.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Palantir" height="20" style="vertical-align:middle; margin-right:6px;"> Palantir</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Software Engineer, Internship - Query Engines</div></td>
+  <td>2026-10-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/palantir?commitment=Internship"><img src="https://cdn.brandfetch.io/palantir.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Palantir" height="20" style="vertical-align:middle; margin-right:6px;"> Palantir</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Software Engineer, Internship - Query Engines</div></td>
+  <td>2026-10-19</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.rivian.com/careers-home/jobs?sortBy=relevance&page=1&limit=100&categories=Internships%20%26%20Early%20Career"><img src="https://cdn.brandfetch.io/rivian.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Rivian" height="20" style="vertical-align:middle; margin-right:6px;"> Rivian</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Engineering Intern - ASIC DFT (Spring 2027 Co-Op)</div></td>
@@ -119,6 +168,13 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/rocketlab?keyword=intern"><img src="https://cdn.brandfetch.io/rocketlabusa.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RocketLab" height="20" style="vertical-align:middle; margin-right:6px;"> RocketLab</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Ground Systems Engineering Intern Summer 2027</div></td>
+  <td>2026-10-19</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://motional.com/open-positions#/?employmentType=Intern%2C+Full-time"><img src="https://cdn.brandfetch.io/motional.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Motional" height="20" style="vertical-align:middle; margin-right:6px;"> Motional</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Autonomous Vehicle Testing Operator II</div></td>
@@ -126,6 +182,13 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Labeling Backend Software Engineer</div></td>
+  <td>2026-10-19</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/aurora-operations-inc/"><img src="https://cdn.brandfetch.io/aurora.tech/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Aurora Innovation" height="20" style="vertical-align:middle; margin-right:6px;"> Aurora Innovation</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Software Engineer, Motion Controls</div></td>
@@ -136,6 +199,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/aurora-operations-inc/"><img src="https://cdn.brandfetch.io/aurora.tech/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Aurora Innovation" height="20" style="vertical-align:middle; margin-right:6px;"> Aurora Innovation</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Software Engineer, Motion Controls</div></td>
+  <td>2026-10-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/aurora-operations-inc/"><img src="https://cdn.brandfetch.io/aurora.tech/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Aurora Innovation" height="20" style="vertical-align:middle; margin-right:6px;"> Aurora Innovation</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Software Engineer, ML Evaluation & Introspection Infrastructure</div></td>
   <td>2026-10-19</td>
 </tr>
   <tr>
@@ -182,6 +252,13 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Manager, Technical Product Management – Autonomy Integration - HYBRID — FULL-TIMEFOSTER CITY, CA</div></td>
+  <td>2026-10-19</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boards.greenhouse.io/embed/job_board?for=nuro->https://job-boards.greenhouse.io/embed/job_board?for=nuro&page=2"><img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nuro" height="20" style="vertical-align:middle; margin-right:6px;"> Nuro</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Software Engineer, Pose - Mountain View, California (HQ)</div></td>
@@ -192,6 +269,20 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boards.greenhouse.io/embed/job_board?for=nuro->https://job-boards.greenhouse.io/embed/job_board?for=nuro&page=2"><img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nuro" height="20" style="vertical-align:middle; margin-right:6px;"> Nuro</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Autonomy Engineering Recruiting Manager - Mountain View, California (HQ)</div></td>
+  <td>2026-10-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boards.greenhouse.io/embed/job_board?for=nuro->https://job-boards.greenhouse.io/embed/job_board?for=nuro&page=2"><img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nuro" height="20" style="vertical-align:middle; margin-right:6px;"> Nuro</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Security Engineer, Infrastructure - Mountain View, California (HQ)</div></td>
+  <td>2026-10-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boards.greenhouse.io/embed/job_board?for=nuro->https://job-boards.greenhouse.io/embed/job_board?for=nuro&page=2"><img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nuro" height="20" style="vertical-align:middle; margin-right:6px;"> Nuro</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior/Staff Software Engineer, Applied Controls - Mountain View, California (HQ)</div></td>
   <td>2026-10-19</td>
 </tr>
   <tr>
@@ -308,6 +399,13 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.gusto.com/boards/anyware-robotics-e7cbbd33-db1c-470e-93b3-020992d24e20"><img src="https://cdn.brandfetch.io/anyware-robotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anywhere Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Anywhere Robotics</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sr. Robotics Infrastructure Engineer</div></td>
+  <td>2026-10-19</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://app.careerpuck.com/job-board/lyft"><img src="https://cdn.brandfetch.io/lyft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lyft" height="20" style="vertical-align:middle; margin-right:6px;"> Lyft</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Engineering Manager, Dynamic Pricing</div></td>
@@ -325,6 +423,20 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://app.careerpuck.com/job-board/lyft"><img src="https://cdn.brandfetch.io/lyft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lyft" height="20" style="vertical-align:middle; margin-right:6px;"> Lyft</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Product Manager, Trust & Safety</div></td>
+  <td>2026-10-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://app.careerpuck.com/job-board/lyft"><img src="https://cdn.brandfetch.io/lyft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lyft" height="20" style="vertical-align:middle; margin-right:6px;"> Lyft</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Associate Producer, Manifold</div></td>
+  <td>2026-10-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://app.careerpuck.com/job-board/lyft"><img src="https://cdn.brandfetch.io/lyft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lyft" height="20" style="vertical-align:middle; margin-right:6px;"> Lyft</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Producer, Manifold</div></td>
   <td>2026-10-19</td>
 </tr>
   <tr>
@@ -444,6 +556,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/physicalintelligence"><img src="https://cdn.brandfetch.io/physicalintelligence.company/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Physical Intelligence" height="20" style="vertical-align:middle; margin-right:6px;"> Physical Intelligence</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Environment Specialist</div></td>
+  <td>2026-10-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/standardbots"><img src="https://cdn.brandfetch.io/standardbots.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Standard Bots" height="20" style="vertical-align:middle; margin-right:6px;"> Standard Bots</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Electrical Engineer (Hybrid)</div></td>
   <td>2026-10-19</td>
 </tr>
   <tr>
@@ -570,6 +689,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/hadrian-automation"><img src="https://cdn.brandfetch.io/hadrian.io/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Hadrian" height="20" style="vertical-align:middle; margin-right:6px;"> Hadrian</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Business Process Engineer</div></td>
+  <td>2026-10-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/hadrian-automation"><img src="https://cdn.brandfetch.io/hadrian.io/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Hadrian" height="20" style="vertical-align:middle; margin-right:6px;"> Hadrian</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Mechatronics Engineer</div></td>
   <td>2026-10-19</td>
 </tr>
   <tr>
@@ -5708,160 +5834,6 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/formic"><img src="https://cdn.brandfetch.io/formic.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Formic" height="20" style="vertical-align:middle; margin-right:6px;"> Formic</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Manager, Accounting & Controls</div></td>
-  <td>2026-10-14</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/formic"><img src="https://cdn.brandfetch.io/formic.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Formic" height="20" style="vertical-align:middle; margin-right:6px;"> Formic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Accountant</div></td>
-  <td>2026-10-14</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/formic"><img src="https://cdn.brandfetch.io/formic.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Formic" height="20" style="vertical-align:middle; margin-right:6px;"> Formic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Accountant</div></td>
-  <td>2026-10-14</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/formic"><img src="https://cdn.brandfetch.io/formic.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Formic" height="20" style="vertical-align:middle; margin-right:6px;"> Formic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Product Support Engineer</div></td>
-  <td>2026-10-14</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/formic"><img src="https://cdn.brandfetch.io/formic.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Formic" height="20" style="vertical-align:middle; margin-right:6px;"> Formic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Product Support Engineer</div></td>
-  <td>2026-10-14</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/formic"><img src="https://cdn.brandfetch.io/formic.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Formic" height="20" style="vertical-align:middle; margin-right:6px;"> Formic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robotics Deployment Project Manager</div></td>
-  <td>2026-10-14</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/formic"><img src="https://cdn.brandfetch.io/formic.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Formic" height="20" style="vertical-align:middle; margin-right:6px;"> Formic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robotics Deployment Project Manager</div></td>
-  <td>2026-10-14</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/formic"><img src="https://cdn.brandfetch.io/formic.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Formic" height="20" style="vertical-align:middle; margin-right:6px;"> Formic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robotics Field Service Engineer</div></td>
-  <td>2026-10-14</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/formic"><img src="https://cdn.brandfetch.io/formic.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Formic" height="20" style="vertical-align:middle; margin-right:6px;"> Formic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robotics Field Service Engineer</div></td>
-  <td>2026-10-14</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/formic"><img src="https://cdn.brandfetch.io/formic.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Formic" height="20" style="vertical-align:middle; margin-right:6px;"> Formic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robotics Field Service Engineer</div></td>
-  <td>2026-10-14</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/formic"><img src="https://cdn.brandfetch.io/formic.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Formic" height="20" style="vertical-align:middle; margin-right:6px;"> Formic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robotics Field Service Engineer</div></td>
-  <td>2026-10-14</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/formic"><img src="https://cdn.brandfetch.io/formic.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Formic" height="20" style="vertical-align:middle; margin-right:6px;"> Formic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robotics Field Service Engineer - Future Openings</div></td>
-  <td>2026-10-14</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/formic"><img src="https://cdn.brandfetch.io/formic.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Formic" height="20" style="vertical-align:middle; margin-right:6px;"> Formic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robotics Field Service Technician</div></td>
-  <td>2026-10-14</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/formic"><img src="https://cdn.brandfetch.io/formic.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Formic" height="20" style="vertical-align:middle; margin-right:6px;"> Formic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robotics Field Service Technician</div></td>
-  <td>2026-10-14</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/formic"><img src="https://cdn.brandfetch.io/formic.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Formic" height="20" style="vertical-align:middle; margin-right:6px;"> Formic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robotics Field Service Technician</div></td>
-  <td>2026-10-14</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/formic"><img src="https://cdn.brandfetch.io/formic.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Formic" height="20" style="vertical-align:middle; margin-right:6px;"> Formic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robotics Field Service Technician</div></td>
-  <td>2026-10-14</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/formic"><img src="https://cdn.brandfetch.io/formic.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Formic" height="20" style="vertical-align:middle; margin-right:6px;"> Formic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robotics Field Service Technician</div></td>
-  <td>2026-10-14</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/formic"><img src="https://cdn.brandfetch.io/formic.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Formic" height="20" style="vertical-align:middle; margin-right:6px;"> Formic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robotics Field Service Technician</div></td>
-  <td>2026-10-14</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/formic"><img src="https://cdn.brandfetch.io/formic.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Formic" height="20" style="vertical-align:middle; margin-right:6px;"> Formic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robotics Field Service Technician</div></td>
-  <td>2026-10-14</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/formic"><img src="https://cdn.brandfetch.io/formic.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Formic" height="20" style="vertical-align:middle; margin-right:6px;"> Formic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robotics Field Service Technician - Future Openings</div></td>
-  <td>2026-10-14</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/formic"><img src="https://cdn.brandfetch.io/formic.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Formic" height="20" style="vertical-align:middle; margin-right:6px;"> Formic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ 2026 Internship</div></td>
-  <td>2026-10-14</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/formic"><img src="https://cdn.brandfetch.io/formic.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Formic" height="20" style="vertical-align:middle; margin-right:6px;"> Formic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ 2026 Internship</div></td>
-  <td>2026-10-14</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/formic"><img src="https://cdn.brandfetch.io/formic.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Formic" height="20" style="vertical-align:middle; margin-right:6px;"> Formic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Automation Sales Manager</div></td>
   <td>2026-10-14</td>
 </tr>
 
