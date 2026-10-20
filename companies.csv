@@ -253,3 +253,4 @@ Voyager Technologies,https://job-boards.greenhouse.io/voyagertechnologiesinc,@gr
 Starship Technologies,https://starship.teamtailor.com/jobs,CLICK:button[data-action$='disableAll']->CSS:a[href*='/jobs/'][data-turbo='false']
 Exotec,https://apply.workable.com/exotec/,CLICK:button[data-ui='load-more-button']->CLICK:button[data-ui='load-more-button']->CSS:li[data-ui='job'] h3
 Gatik,https://job-boards.greenhouse.io/embed/job_board?for=gatikaiinc,@greenhouse
+Humble Robotics,https://jobs.lever.co/humble-robotics,@lever->FILTER:intern
