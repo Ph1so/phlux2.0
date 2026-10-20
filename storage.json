@@ -19374,6 +19374,10 @@
       {
         "title": "Staff Software Engineer, Trajectory Generation & Controls",
         "date": "2026-10-20"
+      },
+      {
+        "title": "Staff Software Engineer, Constraint Generation",
+        "date": "2026-10-20"
       }
     ],
     "Torc Robotics": [
@@ -20609,6 +20613,10 @@
       },
       {
         "title": "Production Manager",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "Mission Operations Analyst",
         "date": "2026-10-20"
       }
     ],
@@ -24458,6 +24466,14 @@
       {
         "title": "Customer Account Support Specialist (Global Customer Services GCS) - Austin, TX",
         "date": "2026-10-20"
+      },
+      {
+        "title": "Customer Account Support Specialist (Global Customer Services GCS) - San Jose, CA",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "Customer Account Support Specialist (Global Customer Services GCS) - Chandler, AZ",
+        "date": "2026-10-20"
       }
     ],
     "KUKA": [
@@ -25370,6 +25386,16 @@
       {
         "title": "North America Maintenance Manager",
         "date": "2026-10-15"
+      }
+    ],
+    "Humble Robotics": [
+      {
+        "title": "\u2b50\ufe0f Electrical Engineer, 2027 Internship",
+        "date": "2026-10-20"
+      },
+      {
+        "title": "\u2b50\ufe0f Embedded Software Engineer, 2027 Internship",
+        "date": "2026-10-20"
       }
     ]
   }
