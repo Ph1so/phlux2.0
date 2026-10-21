@@ -41,7 +41,7 @@ def filter_listings(state: Dict, job_type: str, site: str, departments: List[str
         state: Parsed JSON from :data:`STATE_PATH`.
         job_type: Type name from the search URL, e.g. ``intern``.
         site: Country code from the search URL, e.g. ``US``.
-        departments: Department names as Tesla labels them (e.g. ``Tesla AI``);
+        departments: Department names as Tesla labels them (e.g. ``Tesla SI``);
             empty keeps all departments.
     """
     lookup = state["lookup"]

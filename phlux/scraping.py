@@ -117,7 +117,7 @@ def get_jobs_headless(
     * ``FILTER:<keyword>`` – keep only jobs whose title contains *keyword*.
     * ``UNDETECTED`` – use ``undetected_chromedriver`` for this session.
     * ``API:<name>[:<arg>]`` – collect titles with a site-specific extractor
-      from :data:`phlux.scrapers.API_SCRAPERS`, e.g. ``API:tesla:Tesla AI``.
+      from :data:`phlux.scrapers.API_SCRAPERS`, e.g. ``API:tesla:Tesla SI``.
     * ``@<preset>`` – a job board's standard action, e.g. ``@greenhouse``
       (see :data:`PRESETS`).
 
