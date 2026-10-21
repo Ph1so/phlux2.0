@@ -56,16 +56,19 @@ def _user_agent(chrome_major: int) -> str:
 # Matches internship / co-op postings. "intern" has no trailing word boundary so
 # scraped titles with a glued-on badge ("InternNew") still match; instead it
 # excludes the words that merely start with it (Internal, International, Internet).
-_INTERN_PATTERN = re.compile(r"\bintern(?!al|ation|et)|\bco[- ]?ops?\b", re.IGNORECASE)
+# "student" catches student-worker roles (e.g. Zoox's "Contract Student Worker").
+_INTERN_PATTERN = re.compile(
+    r"\bintern(?!al|ation|et)|\bco[- ]?ops?\b|\bstudents?\b", re.IGNORECASE
+)
 
 
 def is_internship(title: str) -> bool:
-    """Return True if *title* matches internship or co-op keywords."""
+    """Return True if *title* matches internship, co-op or student keywords."""
     return bool(_INTERN_PATTERN.search(title))
 
 
 def is_full_time(title: str) -> bool:
-    """Return True if *title* does not match internship or co-op keywords."""
+    """Return True if *title* does not match internship, co-op or student keywords."""
     return not is_internship(title)
 
 

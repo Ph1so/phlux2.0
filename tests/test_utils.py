@@ -49,6 +49,13 @@ class TestIsInternship:
     def test_case_insensitive(self):
         assert is_internship("INTERN") is True
 
+    def test_matches_student_roles(self):
+        for title in ("Contract Student Worker - Data Analyst", "Student Researcher, PhD", "Students Program"):
+            assert is_internship(title) is True, title
+
+    def test_ignores_student_inside_words(self):
+        assert is_internship("Studentenwerk Liaison") is False
+
     def test_false_for_fulltime_role(self):
         assert is_internship("Software Engineer") is False
 
