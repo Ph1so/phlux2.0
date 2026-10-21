@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 Phlux Job Listings
-*Showing the 786 most recent of 28,645 roles tracked across 248 companies. See [all listings](listings/README.md) for the full history.*
+*Showing the 786 most recent of 28,650 roles tracked across 248 companies. See [all listings](listings/README.md) for the full history.*
 
 
 <table>
@@ -52,6 +52,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.metacareers.com/jobsearch/?roles[0]=Internship"><img src="https://cdn.brandfetch.io/meta.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Meta" height="20" style="vertical-align:middle; margin-right:6px;"> Meta</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Research Scientist Intern, Spatial Audio Capture and Reproduction (PhD)</div></td>
+  <td>2026-10-21</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=new-york"><img src="https://cdn.brandfetch.io/janestreet.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Jane Street" height="20" style="vertical-align:middle; margin-right:6px;"> Jane Street</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Procurement Specialist - (not currently accepting applications)</div></td>
   <td>2026-10-21</td>
 </tr>
   <tr>
@@ -129,6 +136,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=apptronik->https://job-boards.greenhouse.io/embed/job_board?for=apptronik&page=2"><img src="https://cdn.brandfetch.io/apptronik.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Apptronik" height="20" style="vertical-align:middle; margin-right:6px;"> Apptronik</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Simulation Engineer - Core Simulation Platform</div></td>
+  <td>2026-10-21</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Data Scientist, Fleet Orchestration Algorithms - ON-SITE — FULL-TIMEFOSTER CITY, CA</div></td>
   <td>2026-10-21</td>
 </tr>
   <tr>
@@ -245,9 +259,30 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://app.careerpuck.com/job-board/lyft"><img src="https://cdn.brandfetch.io/lyft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lyft" height="20" style="vertical-align:middle; margin-right:6px;"> Lyft</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Social Media Team Lead (Overnight)</div></td>
+  <td>2026-10-21</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/wayve?locationId=a937431a-b165-4153-8c67-a6808a6eb679"><img src="https://cdn.brandfetch.io/wayve.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Wayve" height="20" style="vertical-align:middle; margin-right:6px;"> Wayve</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Roboticist, Robot Foundation Model</div></td>
+  <td>2026-10-21</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/wayve?locationId=a937431a-b165-4153-8c67-a6808a6eb679"><img src="https://cdn.brandfetch.io/wayve.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Wayve" height="20" style="vertical-align:middle; margin-right:6px;"> Wayve</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Machine Learning Engineer, Robotics</div></td>
+  <td>2026-10-21</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/wayve?locationId=a937431a-b165-4153-8c67-a6808a6eb679"><img src="https://cdn.brandfetch.io/wayve.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Wayve" height="20" style="vertical-align:middle; margin-right:6px;"> Wayve</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Principal Validation Tech Lead / Manager, L4 Driverless Autonomy</div></td>
   <td>2026-10-21</td>
 </tr>
   <tr>
@@ -493,6 +528,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Power BI Intern- Summer 2027</div></td>
+  <td>2026-10-21</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Electrical Quality Specialist (Engineer)</div></td>
   <td>2026-10-21</td>
 </tr>
   <tr>
@@ -5477,48 +5519,6 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.amazon.jobs/content/en/teams/ftr/amazon-robotics?country%5B%5D=US&employment-type%5B%5D=Intern"><img src="https://cdn.brandfetch.io/amazonrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Amazon Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Amazon Robotics</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Amazon Robotics - Software Development Engineer Intern/Co-op - 2027</div></td>
-  <td>2026-10-14</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=new-york"><img src="https://cdn.brandfetch.io/janestreet.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Jane Street" height="20" style="vertical-align:middle; margin-right:6px;"> Jane Street</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Network Engineer - (not currently accepting applications)</div></td>
-  <td>2026-10-14</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.skydio.com/careers#job-listing"><img src="https://cdn.brandfetch.io/skydio.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Skydio" height="20" style="vertical-align:middle; margin-right:6px;"> Skydio</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Manufacturing Software Engineer Intern - Winter 2027</div></td>
-  <td>2026-10-14</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.skydio.com/careers#job-listing"><img src="https://cdn.brandfetch.io/skydio.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Skydio" height="20" style="vertical-align:middle; margin-right:6px;"> Skydio</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Software Engineer Intern - Summer 2027</div></td>
-  <td>2026-10-14</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.skydio.com/careers#job-listing"><img src="https://cdn.brandfetch.io/skydio.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Skydio" height="20" style="vertical-align:middle; margin-right:6px;"> Skydio</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Process Engineering Intern - Summer 2027</div></td>
-  <td>2026-10-14</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.qualcomm.com/careers?location=United%20States&seniority=Intern&domain=qualcomm.com&sort_by=relevance&triggerGoButton=true"><img src="https://cdn.brandfetch.io/qualcomm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Qualcomm" height="20" style="vertical-align:middle; margin-right:6px;"> Qualcomm</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Machine Learning & Artificial Intelligence Engineering Internship – Summer 2027</div></td>
-  <td>2026-10-14</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.qualcomm.com/careers?location=United%20States&seniority=Intern&domain=qualcomm.com&sort_by=relevance&triggerGoButton=true"><img src="https://cdn.brandfetch.io/qualcomm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Qualcomm" height="20" style="vertical-align:middle; margin-right:6px;"> Qualcomm</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Embedded Engineering Internship - Summer 2027</div></td>
   <td>2026-10-14</td>
 </tr>
 
