@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 Phlux Job Listings
-*Showing the 779 most recent of 28,711 roles tracked across 249 companies. See [all listings](listings/README.md) for the full history.*
+*Showing the 779 most recent of 28,728 roles tracked across 249 companies. See [all listings](listings/README.md) for the full history.*
 
 
 <table>
@@ -185,6 +185,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=apptronik->https://job-boards.greenhouse.io/embed/job_board?for=apptronik&page=2"><img src="https://cdn.brandfetch.io/apptronik.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Apptronik" height="20" style="vertical-align:middle; margin-right:6px;"> Apptronik</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Simulation Engineer - Core Simulation Platform</div></td>
+  <td>2026-10-21</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Electronics Technician</div></td>
   <td>2026-10-21</td>
 </tr>
   <tr>
@@ -434,6 +441,13 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://app.careerpuck.com/job-board/lyft"><img src="https://cdn.brandfetch.io/lyft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lyft" height="20" style="vertical-align:middle; margin-right:6px;"> Lyft</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Data Scientist, Decisions - Payments</div></td>
+  <td>2026-10-21</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.withwaymo.com/jobs/search?page=1&employment_type_uids%5B%5D=fa4c4a8317c6c87309f488cb0d63aa7c&query=->https://careers.withwaymo.com/jobs/search?page=2&employment_type_uids%5B%5D=fa4c4a8317c6c87309f488cb0d63aa7c&query="><img src="https://cdn.brandfetch.io/waymo.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Waymo" height="20" style="vertical-align:middle; margin-right:6px;"> Waymo</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ 2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech</div></td>
@@ -605,6 +619,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/saronic"><img src="https://cdn.brandfetch.io/saronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saronic" height="20" style="vertical-align:middle; margin-right:6px;"> Saronic</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Executive Protection Agent</div></td>
+  <td>2026-10-21</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/saronic"><img src="https://cdn.brandfetch.io/saronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saronic" height="20" style="vertical-align:middle; margin-right:6px;"> Saronic</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Occupancy Planning Coordinator</div></td>
   <td>2026-10-21</td>
 </tr>
   <tr>
@@ -1759,7 +1780,7 @@ Easily track jobs across top tech companies.
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jj.wd5.myworkdayjobs.com/en-US/JJ?workerSubType=ca32b336cc4a472a863c62c03f6e63b6&workerSubType=c8cdc206cb91013d31d96bb30f801468"><img src="https://cdn.brandfetch.io/jnj.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Johnson & Johnson" height="20" style="vertical-align:middle; margin-right:6px;"> Johnson & Johnson</a></div>
 </td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Integrated Data Analytics and Reporting (IDAR) Student Placement – Clinical and Statistical Programming (C&SP)</div></td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Integrated Data Analytics and Reporting (IDAR) Student Placement – Clinical and Statistical Programming (C&SP)</div></td>
   <td>2026-10-20</td>
 </tr>
   <tr>
@@ -1787,7 +1808,7 @@ Easily track jobs across top tech companies.
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jj.wd5.myworkdayjobs.com/en-US/JJ?workerSubType=ca32b336cc4a472a863c62c03f6e63b6&workerSubType=c8cdc206cb91013d31d96bb30f801468"><img src="https://cdn.brandfetch.io/jnj.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Johnson & Johnson" height="20" style="vertical-align:middle; margin-right:6px;"> Johnson & Johnson</a></div>
 </td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Engineering Student Industrial Placement 2027</div></td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Engineering Student Industrial Placement 2027</div></td>
   <td>2026-10-20</td>
 </tr>
   <tr>
@@ -4006,7 +4027,7 @@ Easily track jobs across top tech companies.
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jj.wd5.myworkdayjobs.com/en-US/JJ?workerSubType=ca32b336cc4a472a863c62c03f6e63b6&workerSubType=c8cdc206cb91013d31d96bb30f801468"><img src="https://cdn.brandfetch.io/jnj.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Johnson & Johnson" height="20" style="vertical-align:middle; margin-right:6px;"> Johnson & Johnson</a></div>
 </td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Working Student GU</div></td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Working Student GU</div></td>
   <td>2026-10-16</td>
 </tr>
   <tr>
@@ -5449,27 +5470,6 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">ELDS Warehouse Internal Logistics Operator 2nd shift</div></td>
-  <td>2026-10-15</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">ELDS Fabrication Machine Operator 2nd shift</div></td>
-  <td>2026-10-15</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">ELDS Fabrication Machine Operator 2nd shift</div></td>
-  <td>2026-10-15</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">ELDS Fabrication Machine Operator 2nd shift</div></td>
   <td>2026-10-15</td>
 </tr>
 
