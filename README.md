@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 Phlux Job Listings
-*Showing the 901 most recent of 30,955 roles tracked across 265 companies. See [all listings](listings/README.md) for the full history.*
+*Showing the 901 most recent of 30,956 roles tracked across 265 companies. See [all listings](listings/README.md) for the full history.*
 
 
 <table>
@@ -276,6 +276,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/humanoid/"><img src="https://cdn.brandfetch.io/thehumanoid.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Humanoid" height="20" style="vertical-align:middle; margin-right:6px;"> Humanoid</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Cloud Infrastructure Engineer</div></td>
+  <td>2026-10-22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/niantic-spatial/"><img src="https://cdn.brandfetch.io/nianticspatial.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Niantic Spatial" height="20" style="vertical-align:middle; margin-right:6px;"> Niantic Spatial</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff/Senior Staff Computer Vision Engineer - Map team</div></td>
   <td>2026-10-22</td>
 </tr>
   <tr>
@@ -6317,13 +6324,6 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Early Access Deployment Engineer</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Enablement Lead (Builder) - Tokyo</div></td>
   <td>2026-10-22</td>
 </tr>
 
