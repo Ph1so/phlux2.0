@@ -4,15 +4,18 @@
     "Nvidia": [
       {
         "title": "\u2b50\ufe0f PhD Research Intern, Physical AI - Foundation Models - 2027",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "workday:JR2025025"
       },
       {
         "title": "\u2b50\ufe0f PhD Research Intern, Electronic Design Automation - 2027",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "workday:JR2026471"
       },
       {
         "title": "\u2b50\ufe0f PhD Research Intern, Quantum Simulation and AI - 2027",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "workday:JR2026004"
       },
       {
         "title": "\u2b50\ufe0f Product Design Intern, AI Infrastructure - Summer 2027",
@@ -24,11 +27,13 @@
       },
       {
         "title": "\u2b50\ufe0f PhD Research Intern, Learning Embodied Skills from Human Data - 2027",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "workday:JR2025405"
       },
       {
         "title": "\u2b50\ufe0f PhD Research Intern, Networking - 2027",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "workday:JR2025098"
       },
       {
         "title": "\u2b50\ufe0f Research Intern, Robotics - Summer 2027",
@@ -36,67 +41,83 @@
       },
       {
         "title": "\u2b50\ufe0f PhD Research Intern, Circuits - 2027",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "workday:JR2024174"
       },
       {
         "title": "\u2b50\ufe0f PhD Research Intern, Hardware and Systems Architecture - 2027",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "workday:JR2025893"
       },
       {
         "title": "\u2b50\ufe0f PhD Research Intern, Generalist Embodied Agents Research - 2027",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "workday:JR2025103"
       },
       {
         "title": "\u2b50\ufe0f PhD Research Intern, Architecture \u2013 2027",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "workday:JR2025395"
       },
       {
         "title": "\u2b50\ufe0f PhD Research Intern, Fundamental Generative AI - 2027",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "workday:JR2025406"
       },
       {
         "title": "\u2b50\ufe0f NVIDIA 2027 Summer Internships: Ph.D. Engineering",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "workday:JR2023856"
       },
       {
         "title": "\u2b50\ufe0f PhD Research Intern, Autonomous Systems and Physical AI Research - 2027",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "workday:JR2024171"
       },
       {
         "title": "\u2b50\ufe0f NVIDIA 2027 Internships: Autonomous Vehicles and Robotics",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "workday:JR2023496"
       },
       {
         "title": "\u2b50\ufe0f NVIDIA 2027 Internships: Computer Architecture",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "workday:JR2023489"
       },
       {
         "title": "\u2b50\ufe0f NVIDIA 2027 Internships: Deep Learning Computer Architecture",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "workday:JR2023491"
       },
       {
         "title": "\u2b50\ufe0f NVIDIA 2027 Internships: Deep Learning",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "workday:JR2023497-1"
       },
       {
         "title": "\u2b50\ufe0f NVIDIA 2027 Internships: Digital Circuit Design",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "workday:JR2023504"
       },
       {
         "title": "\u2b50\ufe0f PhD Research Intern, AI Accelerator Design and VLSI - 2027",
-        "date": "2026-09-29"
+        "date": "2026-09-29",
+        "id": "workday:JR2026584-1"
       },
       {
         "title": "\u2b50\ufe0f PhD Research Intern, Programming Systems - 2027",
-        "date": "2026-09-30"
+        "date": "2026-09-30",
+        "id": "workday:JR2025379"
       },
       {
         "title": "\u2b50\ufe0f PhD Research Intern, Robotics - Summer 2027",
-        "date": "2026-09-30"
+        "date": "2026-09-30",
+        "id": "workday:JR2025647"
       },
       {
         "title": "\u2b50\ufe0f PhD Research Intern, Embodied and Agentic AI - 2027",
-        "date": "2026-10-02"
+        "date": "2026-10-02",
+        "id": "workday:JR2025792"
       },
       {
         "title": "\u2b50\ufe0f NVIDIA 2027 Ignite Internships: Hardware Engineering",
@@ -112,135 +133,168 @@
       },
       {
         "title": "\u2b50\ufe0f PCIe Design Verification Intern - Spring 2027",
-        "date": "2026-10-06"
+        "date": "2026-10-06",
+        "id": "workday:JR2026704"
       },
       {
         "title": "\u2b50\ufe0f PCIe Design Verification Intern - Summer 2027",
-        "date": "2026-10-06"
+        "date": "2026-10-06",
+        "id": "workday:JR2026708"
       },
       {
         "title": "\u2b50\ufe0f PhD Research Intern, Cross-Disciplinary Vision Science - Summer 2027",
-        "date": "2026-10-06"
+        "date": "2026-10-06",
+        "id": "workday:JR2026499"
       },
       {
         "title": "\u2b50\ufe0f PhD Research Intern, Efficient Deep Learning - 2027",
-        "date": "2026-10-07"
+        "date": "2026-10-07",
+        "id": "workday:JR2025478"
       },
       {
         "title": "\u2b50\ufe0f PhD Research Intern, AI-Aided Engineering \u2013 2027",
-        "date": "2026-10-07"
+        "date": "2026-10-07",
+        "id": "workday:JR2026940"
       },
       {
         "title": "\u2b50\ufe0f Research Intern, Spatial Intelligence - Summer 2027",
-        "date": "2026-10-08"
+        "date": "2026-10-08",
+        "id": "workday:JR2027305"
       },
       {
         "title": "\u2b50\ufe0f Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027",
-        "date": "2026-10-09"
+        "date": "2026-10-09",
+        "id": "workday:JR2026839-1"
       },
       {
         "title": "\u2b50\ufe0f Differentiable Simulation Research Intern - Summer 2027",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "workday:JR2027561"
       },
       {
         "title": "\u2b50\ufe0f NVIDIA 2027 Internships: Hardware Engineering",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "workday:JR2023508-1"
       },
       {
         "title": "\u2b50\ufe0f NVIDIA 2027 Internships: Hardware Physical Design / VLSI",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "workday:JR2023501"
       },
       {
         "title": "\u2b50\ufe0f NVIDIA 2027 Internships: Hardware Design for Test (DFT)",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "workday:JR2023487-1"
       },
       {
         "title": "\u2b50\ufe0f NVIDIA 2027 Internships: Hardware Verification",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "workday:JR2023500"
       },
       {
         "title": "\u2b50\ufe0f NVIDIA 2027 Internships: Mixed Signal Design",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "workday:JR2023502"
       },
       {
         "title": "\u2b50\ufe0f NVIDIA Spring 2027 Internships: Developer and Performance Technology",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "workday:JR2023499"
       },
       {
         "title": "\u2b50\ufe0f NVIDIA 2027 Internships: Software Engineering",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "workday:JR2023495"
       },
       {
         "title": "\u2b50\ufe0f NVIDIA 2027 Internships: Systems Software Engineering",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "workday:JR2023492"
       },
       {
         "title": "\u2b50\ufe0f NVIDIA 2027 Internships: Hardware ASIC Design",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "workday:JR2023486"
       },
       {
         "title": "\u2b50\ufe0f Sparse Linear Algebra Libraries Intern - Summer 2027",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "workday:JR2027429"
       },
       {
         "title": "\u2b50\ufe0f Product Management MBA Intern, Data Center GPU - Summer 2027",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "workday:JR2025670-1"
       },
       {
         "title": "\u2b50\ufe0f Enterprise Platform Technical Marketing Engineer Intern - Summer 2027",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "workday:JR2025907"
       },
       {
         "title": "\u2b50\ufe0f PhD Research Intern, Security and Privacy - 2027",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "workday:JR2025096"
       },
       {
         "title": "\u2b50\ufe0f Product Management MBA Intern, Laptop - Summer 2027",
-        "date": "2026-10-15"
+        "date": "2026-10-15",
+        "id": "workday:JR2025905"
       },
       {
         "title": "\u2b50\ufe0f Product Marketing Management MBA Intern - Summer 2027",
-        "date": "2026-10-16"
+        "date": "2026-10-16",
+        "id": "workday:JR2025672"
       },
       {
         "title": "\u2b50\ufe0f Product Manager MBA Intern, Enterprise AI - Summer 2027",
-        "date": "2026-10-19"
+        "date": "2026-10-19",
+        "id": "workday:JR2026707"
       },
       {
         "title": "\u2b50\ufe0f Sales Operations Intern - Summer 2027",
-        "date": "2026-10-19"
+        "date": "2026-10-19",
+        "id": "workday:JR2027840"
       },
       {
         "title": "\u2b50\ufe0f Order Management Intern - Summer 2027",
-        "date": "2026-10-20"
+        "date": "2026-10-20",
+        "id": "workday:JR2027868"
       },
       {
         "title": "\u2b50\ufe0f Applied Research Intern, Integrated Sensing and Communications (ISAC)-NVIDIA Aerial - Summer 2027",
-        "date": "2026-10-21"
+        "date": "2026-10-21",
+        "id": "workday:JR2028027"
       },
       {
         "title": "\u2b50\ufe0f Systems Software Intern, Aerial PHY- Summer 2027",
-        "date": "2026-10-21"
+        "date": "2026-10-21",
+        "id": "workday:JR2026530"
       },
       {
         "title": "\u2b50\ufe0f PhD Research Intern, Robotic Perception and Learning - 2027",
-        "date": "2026-10-21"
+        "date": "2026-10-21",
+        "id": "workday:JR2027089"
       },
       {
         "title": "\u2b50\ufe0f PhD Research Intern, AI for Climate and Weather Simulation - 2027",
-        "date": "2026-10-21"
+        "date": "2026-10-21",
+        "id": "workday:JR2026949"
       },
       {
         "title": "\u2b50\ufe0f Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027",
-        "date": "2026-10-21"
+        "date": "2026-10-21",
+        "id": "workday:JR2026962"
       },
       {
         "title": "\u2b50\ufe0f Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:JR2012398"
       },
       {
         "title": "\u2b50\ufe0f PhD Research Intern, Generative AI - 2026",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:JR2016035"
       }
     ],
     "Google": [
@@ -258,7 +312,8 @@
       },
       {
         "title": "\u2b50\ufe0f Data Scientist, Research Intern, PhD, Summer 2027",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "google:89965613241246406"
       },
       {
         "title": "\u2b50\ufe0f User Experience Research Intern, MS, Summer 2027",
@@ -270,19 +325,23 @@
       },
       {
         "title": "\u2b50\ufe0f Hardware Engineering Intern, PhD, Summer 2027",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "google:97352132356645574"
       },
       {
         "title": "\u2b50\ufe0f Research Intern, PhD, Summer 2027",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "google:86701057991680710"
       },
       {
         "title": "\u2b50\ufe0f Student Researcher, PhD, Fall 2026",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "google:83535564552184518"
       },
       {
         "title": "\u2b50\ufe0f Technical Program Manager Intern, BS/MS, Summer 2027",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "google:80582381009806022"
       },
       {
         "title": "\u2b50\ufe0f Silicon Engineering Intern, BS/MS, Summer 2027",
@@ -294,11 +353,13 @@
       },
       {
         "title": "Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "google:123087196289671878"
       },
       {
         "title": "\u2b50\ufe0f Student Researcher, BS/MS, Winter-Summer 2027",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "google:131518356678156998"
       },
       {
         "title": "\u2b50\ufe0f Associate Product Manager Intern, Summer 2027",
@@ -310,7 +371,8 @@
       },
       {
         "title": "Software Engineer, Infrastructure, PhD, Early Career, 2027 Start",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "google:84680705375642310"
       },
       {
         "title": "\u2b50\ufe0f Product Design Engineering Intern, BS/MS, Summer 2027",
@@ -326,11 +388,13 @@
       },
       {
         "title": "\u2b50\ufe0f User Experience Research Intern, PhD, Summer 2027",
-        "date": "2026-09-28"
+        "date": "2026-09-28",
+        "id": "google:137409539979780806"
       },
       {
         "title": "\u2b50\ufe0f Silicon Engineering Intern, PhD, Summer 2027",
-        "date": "2026-10-01"
+        "date": "2026-10-01",
+        "id": "google:136529930677560006"
       },
       {
         "title": "\u2b50\ufe0f User Experience Design Intern, BS/MS, Summer 2027",
@@ -338,35 +402,43 @@
       },
       {
         "title": "\u2b50\ufe0f User Experience Engineer Intern, PhD, Summer 2027",
-        "date": "2026-10-07"
+        "date": "2026-10-07",
+        "id": "google:117572151191446214"
       },
       {
         "title": "\u2b50\ufe0f Student Researcher, PhD, Winter-Summer 2027",
-        "date": "2026-10-07"
+        "date": "2026-10-07",
+        "id": "google:134313315235963590"
       },
       {
         "title": "\u2b50\ufe0f Forward Deployed Engineering Intern, BS/MS, Summer 2027",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "google:75665705386549958"
       },
       {
         "title": "\u2b50\ufe0f Business Data Scientist Intern, PhD, Summer 2027",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "google:134577198026629830"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Intern, PhD, Summer 2027",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "google:91436104816698054"
       },
       {
         "title": "Silicon Engineer, PhD, University Graduate, 2027 Start",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "google:127950560631366342"
       },
       {
         "title": "Software Engineer, Systems Research, PhD, Early Career",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "google:76908711519363782"
       },
       {
         "title": "\u2b50\ufe0f Student Researcher, BS/MS, Fall 2026",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "google:132362676918461126"
       }
     ],
     "Netflix": [
@@ -386,11 +458,13 @@
     "Uber": [
       {
         "title": "Graduate 2026 PhD Software Engineer II (AV Labs), United States",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "uber:300813"
       },
       {
         "title": "\u2b50\ufe0f 2027 Software Engineering Intern, US",
-        "date": "2026-10-20"
+        "date": "2026-10-20",
+        "id": "uber:303922"
       }
     ],
     "Microsoft": [
@@ -554,7 +628,8 @@
     "Amazon": [
       {
         "title": "\u2b50\ufe0f Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "amazon:10559746"
       },
       {
         "title": "\u2b50\ufe0f Associate Solutions Architect, AGI-Tech, Intern Cohort - 2027",
@@ -562,47 +637,58 @@
       },
       {
         "title": "\u2b50\ufe0f Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "amazon:10559762"
       },
       {
         "title": "\u2b50\ufe0f 2027 Applied Science Internship - Automated Reasoning - United States, PhD Student Science Recruiting, Automated Reasoning",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "amazon:10552930"
       },
       {
         "title": "\u2b50\ufe0f Solutions Architect Intern, AWSI - 2027",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "amazon:10550494"
       },
       {
         "title": "\u2b50\ufe0f Customer Solutions Manager Intern, AWSI - 2027",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "amazon:10550549"
       },
       {
         "title": "\u2b50\ufe0f Industrial Development Engineer Intern/Co-op, ROBOTICS - 2027",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "amazon:10536817"
       },
       {
         "title": "\u2b50\ufe0f Supply Chain Manager Intern/Co-op, ROBOTICS - 2027",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "amazon:10535281"
       },
       {
         "title": "\u2b50\ufe0f Software Development Engineer Intern - Summer 2027 (USA)",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "amazon:10552937"
       },
       {
         "title": "\u2b50\ufe0f Hardware Development Engineer Intern/Co-Op, ROBOTICS - 2027",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "amazon:10535282"
       },
       {
         "title": "Head of Academic Partners & Programs, Fauna Robotics",
-        "date": "2026-09-28"
+        "date": "2026-09-28",
+        "id": "amazon:10562511"
       },
       {
         "title": "\u2b50\ufe0f PhD Economics Intern \u2013 Structural IO, Summer 2027",
-        "date": "2026-09-29"
+        "date": "2026-09-29",
+        "id": "amazon:10564110"
       },
       {
         "title": "\u2b50\ufe0f PhD Economics Intern \u2013 Reduced Form Causal Inference, Summer 2027",
-        "date": "2026-09-29"
+        "date": "2026-09-29",
+        "id": "amazon:10564111"
       },
       {
         "title": "\u2b50\ufe0f Solutions Architect Intern Cohort, AGS-Tech - 2027",
@@ -610,27 +696,33 @@
       },
       {
         "title": "\u2b50\ufe0f 2027 Research Science Internship - United States, PhD Student Science Recruiting",
-        "date": "2026-09-30"
+        "date": "2026-09-30",
+        "id": "amazon:10564602"
       },
       {
         "title": "\u2b50\ufe0f 2027 Applied Science Internship - Computer Vision - United States, PhD Student Science Recruiting",
-        "date": "2026-09-30"
+        "date": "2026-09-30",
+        "id": "amazon:10564601"
       },
       {
         "title": "\u2b50\ufe0f 2027 Applied Science Internship - United States, PhD Student Science Recruiting Frontier AI & Robotics, Frontier AI & Robotics",
-        "date": "2026-09-30"
+        "date": "2026-09-30",
+        "id": "amazon:10564600"
       },
       {
         "title": "\u2b50\ufe0f 2027 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics",
-        "date": "2026-09-30"
+        "date": "2026-09-30",
+        "id": "amazon:10564599"
       },
       {
         "title": "\u2b50\ufe0f 2027 Applied Science Internship - Recommender Systems/ Information Retrieval (Machine Learning) - United States, PhD Student Science Recruiting",
-        "date": "2026-09-30"
+        "date": "2026-09-30",
+        "id": "amazon:10564598"
       },
       {
         "title": "\u2b50\ufe0f 2027 Applied Science Internship - Gen AI & Large Language Models - United States, PhD Student Science Recruiting",
-        "date": "2026-09-30"
+        "date": "2026-09-30",
+        "id": "amazon:10564589"
       },
       {
         "title": "Program Manager - Site Operations, Annapurna Labs Silicon",
@@ -638,11 +730,13 @@
       },
       {
         "title": "\u2b50\ufe0f Software Development Engineer Intern, AWS Database - 2027 (US)",
-        "date": "2026-09-30"
+        "date": "2026-09-30",
+        "id": "amazon:10565667"
       },
       {
         "title": "\u2b50\ufe0f Software Development Engineer Intern (Embedded Systems) - Summer 2027 (USA)",
-        "date": "2026-10-02"
+        "date": "2026-10-02",
+        "id": "amazon:10567914"
       },
       {
         "title": "\u2b50\ufe0f Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA)",
@@ -650,23 +744,28 @@
       },
       {
         "title": "\u2b50\ufe0f Software Development Engineer (Embedded Systems) Intern, Amazon Leo - Summer 2027 (USA)",
-        "date": "2026-10-06"
+        "date": "2026-10-06",
+        "id": "amazon:10571374"
       },
       {
         "title": "Senior Program Manager, AWS Marketing Builder Enablement",
-        "date": "2026-10-07"
+        "date": "2026-10-07",
+        "id": "amazon:10572464"
       },
       {
         "title": "\u2b50\ufe0f Systems Development Engineer Intern, (US) 2027",
-        "date": "2026-10-08"
+        "date": "2026-10-08",
+        "id": "amazon:10573984"
       },
       {
         "title": "\u2b50\ufe0f Embedded Firmware Co-op, Amazon Robotics - Spring 2027",
-        "date": "2026-10-08"
+        "date": "2026-10-08",
+        "id": "amazon:10573570"
       },
       {
         "title": "Senior Vendor Manager, US Apparel",
-        "date": "2026-10-08"
+        "date": "2026-10-08",
+        "id": "amazon:10573721"
       },
       {
         "title": "Sr Recruiting Business Partner, Amazon University Talent Acquisition",
@@ -674,35 +773,43 @@
       },
       {
         "title": "\u2b50\ufe0f Supply Chain Manager Intern - Summer 2027",
-        "date": "2026-10-09"
+        "date": "2026-10-09",
+        "id": "amazon:10575291"
       },
       {
         "title": "\u2b50\ufe0f Sourcing Recruiter Intern \u2013 Summer 2027",
-        "date": "2026-10-09"
+        "date": "2026-10-09",
+        "id": "amazon:10575252"
       },
       {
         "title": "\u2b50\ufe0f Risk Specialist Intern \u2013 Summer 2027",
-        "date": "2026-10-09"
+        "date": "2026-10-09",
+        "id": "amazon:10575251"
       },
       {
         "title": "\u2b50\ufe0f Business Analyst Intern \u2013 Summer 2027",
-        "date": "2026-10-09"
+        "date": "2026-10-09",
+        "id": "amazon:10575250"
       },
       {
         "title": "\u2b50\ufe0f General Marketing Specialist Intern \u2013 Summer 2027",
-        "date": "2026-10-09"
+        "date": "2026-10-09",
+        "id": "amazon:10575256"
       },
       {
         "title": "\u2b50\ufe0f Program Manager Intern \u2013 Summer 2027",
-        "date": "2026-10-09"
+        "date": "2026-10-09",
+        "id": "amazon:10575248"
       },
       {
         "title": "\u2b50\ufe0f ASIC Engineer Intern, Summer 2027",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "amazon:10576619"
       },
       {
         "title": "\u2b50\ufe0f Hardware Development Engineer Intern, Summer 2027",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "amazon:10578090"
       },
       {
         "title": "\u2b50\ufe0f Amazon Robotics - Software Development Engineer Intern/Co-op - 2027",
@@ -710,137 +817,365 @@
       },
       {
         "title": "\u2b50\ufe0f Communications Assistant Summer Intern \u2013 Summer 2027",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "amazon:10578771"
       },
       {
         "title": "Central Flow Lead, Early Career (2027) -Tempe, AZ/Nashville, TN, Central Flow - Central Ops",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "amazon:10579235"
       },
       {
         "title": "Software Development Engineer II, TAIS - DMR",
-        "date": "2026-10-15"
+        "date": "2026-10-15",
+        "id": "amazon:10580097"
       },
       {
         "title": "\u2b50\ufe0f Creative Marketing Intern \u2013 Summer 2027",
-        "date": "2026-10-20"
+        "date": "2026-10-20",
+        "id": "amazon:10584130"
       },
       {
         "title": "\u2b50\ufe0f Industrial Design Engineer Intern , Summer 2027",
-        "date": "2026-10-20"
+        "date": "2026-10-20",
+        "id": "amazon:10584122"
       },
       {
         "title": "\u2b50\ufe0f PDE Intern (Summer), Summer 2027",
-        "date": "2026-10-20"
+        "date": "2026-10-20",
+        "id": "amazon:10584152"
       },
       {
         "title": "\u2b50\ufe0f Hardware Development Engineer Intern , Winter 2027",
-        "date": "2026-10-20"
+        "date": "2026-10-20",
+        "id": "amazon:10584121"
+      },
+      {
+        "title": "\u2b50\ufe0f Customer Acquisition Representative Intern \u2013 Summer 2027",
+        "date": "N/A",
+        "id": "amazon:10580807"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Applied Science Internship - United States - Master's Student Science Recruiting",
+        "date": "N/A",
+        "id": "amazon:10564586"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Applied Science Internship - Information & Knowledge Management (Machine Learning)- United States, PhD Student Science Recruiting",
+        "date": "N/A",
+        "id": "amazon:10564585"
+      },
+      {
+        "title": "\u2b50\ufe0f Startup Project Manager (Execution) Intern Spring and Summer 2027 (CA, CT, TX)",
+        "date": "N/A",
+        "id": "amazon:10534584"
+      },
+      {
+        "title": "\u2b50\ufe0f Startup Project Manager (Support) Intern Spring and Summer 2027 (Bellevue, WA),",
+        "date": "N/A",
+        "id": "amazon:10534582"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Development Engineer Intern/Co-Op, ROBOTICS - 2027",
+        "date": "N/A",
+        "id": "amazon:10529525"
+      },
+      {
+        "title": "\u2b50\ufe0f Business Strategy & Execution Operations Engineering Intern Spring and Summer 2027 (Bellevue, WA )",
+        "date": "N/A",
+        "id": "amazon:10532290"
+      },
+      {
+        "title": "\u2b50\ufe0f Operations Engineering Field (Execution) Intern Spring and Summer 2027 (CA, CT, FL, TX)",
+        "date": "N/A",
+        "id": "amazon:10532282"
+      },
+      {
+        "title": "\u2b50\ufe0f Data Center Engineering Operations Technician Internship",
+        "date": "N/A",
+        "id": "amazon:10537998"
+      },
+      {
+        "title": "\u2b50\ufe0f Cloud Hardware Development Engineer Intern, Annapurna Labs - 2027",
+        "date": "N/A",
+        "id": "amazon:10517649"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Development Engineer Intern, Annapurna Labs - 2027",
+        "date": "N/A",
+        "id": "amazon:10517567"
+      },
+      {
+        "title": "\u2b50\ufe0f ASIC Engineer Intern, Annapurna Labs - 2027",
+        "date": "N/A",
+        "id": "amazon:10517535"
+      },
+      {
+        "title": "\u2b50\ufe0f Data Engineer Internship - 2027 (US)",
+        "date": "N/A",
+        "id": "amazon:10553907"
+      },
+      {
+        "title": "\u2b50\ufe0f Business Intelligence Engineer Internship - 2027 (US)",
+        "date": "N/A",
+        "id": "amazon:10553765"
+      },
+      {
+        "title": "\u2b50\ufe0f Product Manager Technical (PMT) Intern - Summer 2027",
+        "date": "N/A",
+        "id": "amazon:10509639"
+      },
+      {
+        "title": "\u2b50\ufe0f Loss Prevention Specialist Intern 2027",
+        "date": "N/A",
+        "id": "amazon:10502807"
+      },
+      {
+        "title": "\u2b50\ufe0f Area Maintenance Manager Intern - Summer 2027 (Nationwide)",
+        "date": "N/A",
+        "id": "amazon:10495055"
+      },
+      {
+        "title": "\u2b50\ufe0f Automation Engineer Intern, (Nationwide) - Summer 2027",
+        "date": "N/A",
+        "id": "amazon:10501526"
+      },
+      {
+        "title": "\u2b50\ufe0f Workplace Health and Safety Specialist Intern - Summer 2027 (Nationwide)",
+        "date": "N/A",
+        "id": "amazon:10510811"
+      },
+      {
+        "title": "\u2b50\ufe0f Area Manager Intern \u2013 Summer 2027 (ND, SD, NE, KS, MN, IA, WI, IL, MI, IN)",
+        "date": "N/A",
+        "id": "amazon:10493586"
+      },
+      {
+        "title": "\u2b50\ufe0f Area Manager Intern - Summer 2027 (California), University Recruiting",
+        "date": "N/A",
+        "id": "amazon:10494789"
+      },
+      {
+        "title": "\u2b50\ufe0f Area Manager Intern \u2013 Summer 2027 (PA, WV, VA)",
+        "date": "N/A",
+        "id": "amazon:10493325"
+      },
+      {
+        "title": "\u2b50\ufe0f Area Manager Intern \u2013 Summer 2027 (MO, OH, KY)",
+        "date": "N/A",
+        "id": "amazon:10493329"
+      },
+      {
+        "title": "\u2b50\ufe0f Area Manager Intern - Summer 2027 (NY, NJ, PA, DE, MD, CT, MA, NH, RI, VT, ME)",
+        "date": "N/A",
+        "id": "amazon:10493373"
+      },
+      {
+        "title": "\u2b50\ufe0f Area Manager Intern \u2013 Summer 2027 (TN, LA, OK, MS, AR), University Recruiting",
+        "date": "N/A",
+        "id": "amazon:10493330"
+      },
+      {
+        "title": "\u2b50\ufe0f Area Manager Intern - Summer 2027 (AL, FL, GA, NC, SC), University Recruiting",
+        "date": "N/A",
+        "id": "amazon:10493095"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 AWS Human Resources Leadership Development Program Internship, AWS",
+        "date": "N/A",
+        "id": "amazon:10491574"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 MBA Leadership Development Program (MLDP) Intern",
+        "date": "N/A",
+        "id": "amazon:10491603"
+      },
+      {
+        "title": "\u2b50\ufe0f Pathways Operations Manager Intern \u2013 Summer 2027 (Nationwide Opportunities)",
+        "date": "N/A",
+        "id": "amazon:10491075"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 MBA Finance Leadership Development Program (FLDP) Internship",
+        "date": "N/A",
+        "id": "amazon:10492198"
+      },
+      {
+        "title": "\u2b50\ufe0f Area Manager Intern - Summer 2027 (WA, OR, ID, MT, WY, NV, UT, CO, AZ, NM), University Recruiting",
+        "date": "N/A",
+        "id": "amazon:10493126"
+      },
+      {
+        "title": "\u2b50\ufe0f Injury Prevention Specialist Intern",
+        "date": "N/A",
+        "id": "amazon:10503471"
+      },
+      {
+        "title": "\u2b50\ufe0f Area Manager Intern \u2013 Summer 2027 (Texas)",
+        "date": "N/A",
+        "id": "amazon:10493331"
+      },
+      {
+        "title": "Electrical and Control Design Engineer, OneMHS - Electrical and Control Engineering, Arch and Design",
+        "date": "N/A",
+        "id": "amazon:10476814"
+      },
+      {
+        "title": "Electrical and Control Design Engineer, OneMHS - Electrical and Control Engineering, Arch and Design",
+        "date": "N/A",
+        "id": "amazon:10476812"
+      },
+      {
+        "title": "\u2b50\ufe0f 2026 Fall Applied Science Internship - Automated Reasoning - United States, PhD Student Science Recruiting",
+        "date": "N/A",
+        "id": "amazon:10394156"
+      },
+      {
+        "title": "\u2b50\ufe0f Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more)",
+        "date": "N/A",
+        "id": "amazon:3145033"
+      },
+      {
+        "title": "\u2b50\ufe0f 2026 Applied Science Internship - United States, PhD Student Science Recruiting, Frontier AI & Robotics",
+        "date": "N/A",
+        "id": "amazon:3127861"
+      },
+      {
+        "title": "\u2b50\ufe0f Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)",
+        "date": "N/A",
+        "id": "amazon:3104589"
       }
     ],
     "Meta": [
       {
         "title": "\u2b50\ufe0f Mechanical Engineering Intern",
-        "date": "2026-10-09"
+        "date": "2026-10-09",
+        "id": "meta:1600772061108369"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Intern",
-        "date": "2026-10-10"
+        "date": "2026-10-10",
+        "id": "meta:1952991802037374"
       },
       {
         "title": "\u2b50\ufe0f Data Engineer Intern, Product Analytics (Summer 2027)",
-        "date": "2026-10-10"
+        "date": "2026-10-10",
+        "id": "meta:1373603594867455"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, Language and Agents (PhD)",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "meta:2168438160696161"
       },
       {
         "title": "\u2b50\ufe0f Product Design Engineering Intern",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "meta:1123001263407222"
       },
       {
         "title": "\u2b50\ufe0f Data Center Technician, Intern",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "meta:2185283202380208"
       },
       {
         "title": "\u2b50\ufe0f Signal Integrity Intern",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "meta:1950497786328676"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer Intern, Systems and Infrastructure (PhD)",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "meta:945520495299801"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer Intern, Machine Learning (PhD)",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "meta:2180490782513668"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, Robotics - Meta Reality Labs Research (PhD)",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "meta:2586686598441521"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, 3D World Modeling, Robotics and Generative AI (PhD)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "meta:1839680137188723"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, Multimodal Generative AI and Robotics (PhD)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "meta:1139865145249047"
       },
       {
         "title": "\u2b50\ufe0f Mechanical Engineering Intern, Infrastructure",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "meta:2863542050708101"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, AI & Compute Foundation - MTIA SW (PhD)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "meta:1866761794487684"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, Systems ML - SW/HW Co-Design - CPUSys (PhD)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "meta:2192664358300823"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, AI & System Co-Design (PhD)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "meta:1062032900196411"
       },
       {
         "title": "\u2b50\ufe0f Materials Regulatory Compliance (MRC) Intern",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "meta:1054006261009917"
       },
       {
         "title": "\u2b50\ufe0f Production Systems Engineering Intern",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "meta:4536253699919879"
       },
       {
         "title": "\u2b50\ufe0f Thermal Engineering Intern",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "meta:1114875338141580"
       },
       {
         "title": "\u2b50\ufe0f Manufacturing Test Engineering Intern, Field Requirements & Feedback",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "meta:1628524068903947"
       },
       {
         "title": "\u2b50\ufe0f Electrical Engineering Intern",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "meta:929122273385202"
       },
       {
         "title": "\u2b50\ufe0f Optical Engineering Intern - Camera, Depth & Cover Window Optics",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "meta:2271558583687956"
       },
       {
         "title": "\u2b50\ufe0f ASIC Engineer Intern, Implementation",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "meta:1046140895105013"
       },
       {
         "title": "\u2b50\ufe0f ASIC Engineer Intern, Design Verification",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "meta:1123459746795309"
       },
       {
         "title": "\u2b50\ufe0f Manufacturing Test Engineering Intern, AI",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "meta:954380870617862"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, Audio, Numerical Acoustics (PhD)",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "meta:2188224482038078"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, Hearing Science and Auditory Perception (PhD)",
@@ -848,169 +1183,290 @@
       },
       {
         "title": "\u2b50\ufe0f Display Engineering Intern",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "meta:2773227806411499"
       },
       {
         "title": "\u2b50\ufe0f ASIC Engineering Intern, Design Verification (Silicon Engineering)",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "meta:1079763448023260"
       },
       {
         "title": "\u2b50\ufe0f Computer Vision Engineer Intern, Advanced Manufacturing (Reality Labs)",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "meta:1758435721926913"
       },
       {
         "title": "\u2b50\ufe0f Materials Engineer Intern- Surface Finishing, Coating (PhD)",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "meta:1128496099859192"
       },
       {
         "title": "\u2b50\ufe0f ASIC Design Engineer Intern",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "meta:1406976394946562"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, Robotics Foundation Models Mid-Training (PhD)",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "meta:1658187582680157"
       },
       {
         "title": "\u2b50\ufe0f Hardware Engineer Intern, Camera & Sensing Architecture",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "meta:29216393121298039"
       },
       {
         "title": "\u2b50\ufe0f Structural Design Engineer - FEA (Intern)",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "meta:1763344164969127"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, Wireless Research (PhD)",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "meta:2374839409720164"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)",
-        "date": "2026-10-15"
+        "date": "2026-10-15",
+        "id": "meta:2288012098648243"
       },
       {
         "title": "\u2b50\ufe0f Quality & Reliability Engineering Intern",
-        "date": "2026-10-15"
+        "date": "2026-10-15",
+        "id": "meta:1624891432439039"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, Muse RL and Agents Team (PhD)",
-        "date": "2026-10-15"
+        "date": "2026-10-15",
+        "id": "meta:1050177734644029"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, Multimodal Behavioral Modeling, Hearing Science (PhD)",
-        "date": "2026-10-16"
+        "date": "2026-10-16",
+        "id": "meta:1141752241867684"
       },
       {
         "title": "\u2b50\ufe0f DFX Engineering Intern",
-        "date": "2026-10-17"
+        "date": "2026-10-17",
+        "id": "meta:1798345134744465"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, VLM and Omni Model Post-Training (PhD)",
-        "date": "2026-10-17"
+        "date": "2026-10-17",
+        "id": "meta:2988199118196184"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, Egocentric Vision-Language Models (PhD)",
-        "date": "2026-10-17"
+        "date": "2026-10-17",
+        "id": "meta:2067000203934229"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, 3D-grounded Generalist Model for Robotics (PhD)",
-        "date": "2026-10-19"
+        "date": "2026-10-19",
+        "id": "meta:2267351860492630"
       },
       {
         "title": "\u2b50\ufe0f Optical Engineering AI and Data Analytics Intern",
-        "date": "2026-10-19"
+        "date": "2026-10-19",
+        "id": "meta:1851348099357899"
       },
       {
         "title": "\u2b50\ufe0f Softgoods Product Design Engineering Intern",
-        "date": "2026-10-19"
+        "date": "2026-10-19",
+        "id": "meta:1111723361506997"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, Multimodal LLM and Speech-to-Speech Translation (PhD)",
-        "date": "2026-10-19"
+        "date": "2026-10-19",
+        "id": "meta:4723409617931131"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, Audio User Experience (PhD)",
-        "date": "2026-10-19"
+        "date": "2026-10-19",
+        "id": "meta:1736386761384394"
       },
       {
         "title": "\u2b50\ufe0f Thermal Engineer Intern",
-        "date": "2026-10-19"
+        "date": "2026-10-19",
+        "id": "meta:1866779221408793"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, On-Device AI Model Optimization (PhD)",
-        "date": "2026-10-19"
+        "date": "2026-10-19",
+        "id": "meta:4455569504707135"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, Smart Glasses in Wearables AI (PhD)",
-        "date": "2026-10-19"
+        "date": "2026-10-19",
+        "id": "meta:1584033410435097"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, Audio Quality with AI",
-        "date": "2026-10-20"
+        "date": "2026-10-20",
+        "id": "meta:4556622427930384"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Self-Improving Agentic Systems and AI Research Agents",
-        "date": "2026-10-20"
+        "date": "2026-10-20",
+        "id": "meta:994737396214791"
       },
       {
         "title": "\u2b50\ufe0f Enterprise Security Engineer, Intern (Summer 2027)",
-        "date": "2026-10-20"
+        "date": "2026-10-20",
+        "id": "meta:1079627324896327"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, Multimodal Behavioral AI (PhD)",
-        "date": "2026-10-20"
+        "date": "2026-10-20",
+        "id": "meta:1428978125312655"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, AI-Driven Neural Interfaces (PhD)",
-        "date": "2026-10-20"
+        "date": "2026-10-20",
+        "id": "meta:1436615821934863"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, Computational Imaging And Robotics (PhD)",
-        "date": "2026-10-20"
+        "date": "2026-10-20",
+        "id": "meta:2857194467985784"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, PhD \u2014 Meta Superintelligence Labs",
-        "date": "2026-10-20"
+        "date": "2026-10-20",
+        "id": "meta:1510576574212840"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, Robotics Foundation Models (PhD)",
-        "date": "2026-10-21"
+        "date": "2026-10-21",
+        "id": "meta:1085375117813817"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern \u2013 Robotics, World Models & Embodied AI (PhD)",
-        "date": "2026-10-21"
+        "date": "2026-10-21",
+        "id": "meta:2281070982817094"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, Spatial Audio Capture and Reproduction (PhD)",
-        "date": "2026-10-21"
+        "date": "2026-10-21",
+        "id": "meta:29859210493681744"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, Multimodal Learning for Robotics (PhD)",
-        "date": "2026-10-21"
+        "date": "2026-10-21",
+        "id": "meta:1656954472496223"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, Robot Foundation Models (PhD)",
-        "date": "2026-10-21"
+        "date": "2026-10-21",
+        "id": "meta:27730225806654441"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, Low-Power Scene Reconstruction for AR/VR",
-        "date": "2026-10-21"
+        "date": "2026-10-21",
+        "id": "meta:1075160338670575"
       },
       {
         "title": "\u2b50\ufe0f Research Intern, Audio Hardware (PhD)",
-        "date": "2026-10-21"
+        "date": "2026-10-21",
+        "id": "meta:1445807477756644"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, Foundational Models for Robotics Research (PhD)",
-        "date": "2026-10-21"
+        "date": "2026-10-21",
+        "id": "meta:1078644001656413"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, Central Applied Science (PhD)",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "meta:1582569213186235"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Robotics Foundation Models Post-Training (PhD)",
+        "date": "N/A",
+        "id": "meta:848358355026771"
+      },
+      {
+        "title": "\u2b50\ufe0f Detection & Response Security Engineer, Intern (Summer 2027)",
+        "date": "N/A",
+        "id": "meta:1677981003713152"
+      },
+      {
+        "title": "\u2b50\ufe0f Security Engineer Posture Management, Intern (Summer 2027)",
+        "date": "N/A",
+        "id": "meta:1359570553913180"
+      },
+      {
+        "title": "\u2b50\ufe0f Product Security Engineer, Intern (Summer 2027)",
+        "date": "N/A",
+        "id": "meta:2535222523640873"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Robotics - Meta Superintelligence Labs (PhD)",
+        "date": "N/A",
+        "id": "meta:1940312740718917"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Robotics Hardware (PhD)",
+        "date": "N/A",
+        "id": "meta:2105411693413958"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Audio-Visual Conversation Scene Generation (PhD)",
+        "date": "N/A",
+        "id": "meta:3364701000388712"
+      },
+      {
+        "title": "\u2b50\ufe0f ASIC Engineer Intern, Architecture",
+        "date": "N/A",
+        "id": "meta:1096213456288397"
+      },
+      {
+        "title": "\u2b50\ufe0f Data Scientist Intern, Product Analytics (PhD) (Summer 2027)",
+        "date": "N/A",
+        "id": "meta:929757023499411"
+      },
+      {
+        "title": "\u2b50\ufe0f Data Scientist Intern, Product Analytics (Summer 2027)",
+        "date": "N/A",
+        "id": "meta:1633096478817942"
+      },
+      {
+        "title": "\u2b50\ufe0f Production Engineer Intern",
+        "date": "N/A",
+        "id": "meta:1609178343953401"
+      },
+      {
+        "title": "\u2b50\ufe0f ASIC Engineer Intern - Infra Silicon Enablement",
+        "date": "N/A",
+        "id": "meta:939474918844068"
+      },
+      {
+        "title": "\u2b50\ufe0f ASIC Engineer Intern, Design",
+        "date": "N/A",
+        "id": "meta:1631077978652493"
+      },
+      {
+        "title": "\u2b50\ufe0f Network Production Engineer Intern",
+        "date": "N/A",
+        "id": "meta:2558941294546763"
+      },
+      {
+        "title": "\u2b50\ufe0f Production Engineer Intern",
+        "date": "N/A",
+        "id": "meta:1442284501111979"
+      },
+      {
+        "title": "\u2b50\ufe0f Network Production Engineer Intern",
+        "date": "N/A",
+        "id": "meta:1412139847020398"
       }
     ],
     "Apple": [
       {
         "title": "\u2b50\ufe0f Applied Data Solutions Program, Internships \u2013 Summer 2027",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "apple:200673612-0157"
       },
       {
         "title": "\u2b50\ufe0f Applied Data Solutions Program, Internships \u2013 Summer 2027",
@@ -1018,138 +1474,195 @@
       },
       {
         "title": "\u2b50\ufe0f MBA Internships",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "apple:200676091-3810"
       },
       {
         "title": "\u2b50\ufe0f Machine Learning and Artificial Intelligence Masters Internships",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "apple:200664221-3810"
       },
       {
         "title": "\u2b50\ufe0f Machine Learning and Artificial Intelligence PhD Internships",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "apple:200664223-3810"
       },
       {
         "title": "\u2b50\ufe0f Business, Marketing & Creative Masters Internships",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "apple:200664247-3810"
       },
       {
         "title": "\u2b50\ufe0f Business, Marketing & Creative Undergrad Internships",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "apple:200664241-3810"
       },
       {
         "title": "\u2b50\ufe0f Legal Internships",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "apple:200664232-3810"
       },
       {
         "title": "\u2b50\ufe0f Machine Learning and Artificial Intelligence Undergrad Internships",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "apple:200664780-3810"
       },
       {
         "title": "\u2b50\ufe0f Hardware PhD Internships",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "apple:200664421-3810"
       },
       {
         "title": "\u2b50\ufe0f Hardware Masters Engineering Internships",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "apple:200664419-3810"
       },
       {
         "title": "\u2b50\ufe0f Hardware Undergrad Engineering Internships",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "apple:200663981-3810"
       },
       {
         "title": "\u2b50\ufe0f Hardware Technologies PhD Internships",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "apple:200664414-3810"
       },
       {
         "title": "\u2b50\ufe0f Hardware Technologies Masters Engineering Internships",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "apple:200664383-3810"
       },
       {
         "title": "\u2b50\ufe0f Hardware Technologies Undergrad Engineering Internships",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "apple:200663968-3810"
       },
       {
         "title": "\u2b50\ufe0f Engineering Program Management Undergrad Internships",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "apple:200664330-3810"
       },
       {
         "title": "\u2b50\ufe0f Engineering Program Management Masters Internships",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "apple:200664336-3810"
       },
       {
         "title": "\u2b50\ufe0f Software PhD Internships",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "apple:200664323-3810"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Masters Internships",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "apple:200664320-3810"
       },
       {
         "title": "\u2b50\ufe0f Software Undergrad Engineering Internships",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "apple:200664785-3810"
       },
       {
         "title": "\u2b50\ufe0f AMR Operations Internships",
         "date": "2026-10-05"
+      },
+      {
+        "title": "\u2b50\ufe0f Operations Manufacturing Design Undergrad Internships",
+        "date": "N/A",
+        "id": "apple:200664002-3810"
+      },
+      {
+        "title": "\u2b50\ufe0f Product Design PhD Internships",
+        "date": "N/A",
+        "id": "apple:200663969-3810"
+      },
+      {
+        "title": "\u2b50\ufe0f Product Design Undergrad Internships",
+        "date": "N/A",
+        "id": "apple:200664000-3810"
+      },
+      {
+        "title": "\u2b50\ufe0f Operations Manufacturing Design PhD Internships",
+        "date": "N/A",
+        "id": "apple:200664003-3810"
+      },
+      {
+        "title": "\u2b50\ufe0f Product Design Masters Engineering Internships",
+        "date": "N/A",
+        "id": "apple:200663996-3810"
       }
     ],
     "AWS": [],
     "Blue Origin": [
       {
         "title": "\u2b50\ufe0f Summer 2027 Test Engineering Internship - Undergraduate",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "workday:R71433"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Avionics Software Internship - Undergraduate",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "workday:R71424"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Return Internship - Undergraduate",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "workday:R71401"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Manufacturing Engineering Internship - Undergraduate",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "workday:R71428"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Software Developer Internship - Undergraduate",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "workday:R71425"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Fluid Systems & Propulsion Engineering Internship - Undergraduate",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "workday:R71441"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Structural & Mechanical Engineering Internship - Undergraduate",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "workday:R71444"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Electrical Systems Engineering Internship - Undergraduate",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "workday:R71438"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Aerospace Systems Engineering Internship - Undergraduate",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "workday:R71436"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Marine Mechanical & Test Engineering Internship - Undergraduate",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "workday:R72238"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Guidance, Navigation & Controls Internship - Undergraduate",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "workday:R71443"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Finance Intern - Undergraduate",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "workday:R71499"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Materials & Processes Internship - Undergraduate",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "workday:R71431"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Education Programs and Outreach Intern - Undergraduate",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "workday:R71515"
       }
     ],
     "Autodesk": [
@@ -1482,43 +1995,53 @@
     "DE Shaws": [
       {
         "title": "JD/MBA Investment Analyst (New York) \u2013 Summer 2027",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "deshaw:6055"
       },
       {
         "title": "MBA Investment Analyst (New York) \u2013 Summer 2027",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "deshaw:6054"
       },
       {
         "title": "Strategy and Business Development MBA Summer Associate (New York) \u2013 Summer 2027",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "deshaw:6088"
       },
       {
         "title": "Systems Administrator Industry Placement Year (London)",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "deshaw:5922"
       },
       {
         "title": "\u2b50\ufe0f Quantitative Analyst Intern (New York) \u2013 Summer 2027",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "deshaw:5890"
       },
       {
         "title": "\u2b50\ufe0f Quantitative Analyst, Ph.D. Intern (New York) \u2013 Summer 2027",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "deshaw:5891"
       },
       {
         "title": "\u2b50\ufe0f Software Developer Intern (New York) \u2013 Summer 2027",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "deshaw:5894"
       },
       {
         "title": "\u2b50\ufe0f Software Developer, Ph.D. Intern (New York) \u2013 Summer 2027",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "deshaw:5893"
       },
       {
         "title": "\u2b50\ufe0f Strategy and Business Development Intern - Summer 2027 (Singapore)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "deshaw:6005"
       },
       {
         "title": "\u2b50\ufe0f Systems Engineering Intern (London) - Summer 2027",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "deshaw:5925"
       },
       {
         "title": "\u2b50\ufe0f Systems Engineering Intern (New York) - Summer 2027",
@@ -1526,25 +2049,30 @@
       },
       {
         "title": "\u2b50\ufe0f Proprietary Trading Intern (New York) \u2013 Summer 2027",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "deshaw:5731"
       }
     ],
     "Amazon Robotics": [
       {
         "title": "\u2b50\ufe0f Industrial Development Engineer Intern/Co-op, ROBOTICS - 2027",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "amazon:10536817"
       },
       {
         "title": "\u2b50\ufe0f Software Development Engineer Intern/Co-Op, ROBOTICS - 2027",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "amazon:10529525"
       },
       {
         "title": "\u2b50\ufe0f Hardware Development Engineer Intern/Co-Op, ROBOTICS - 2027",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "amazon:10535282"
       },
       {
         "title": "\u2b50\ufe0f Supply Chain Manager Intern/Co-op, ROBOTICS - 2027",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "amazon:10535281"
       },
       {
         "title": "\u2b50\ufe0f Robotics - Software Development Engineer Fall Intern/Co-op - 2026",
@@ -1552,11 +2080,13 @@
       },
       {
         "title": "\u2b50\ufe0f Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more)",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "amazon:3104589"
       },
       {
         "title": "\u2b50\ufe0f Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more)",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "amazon:3145033"
       },
       {
         "title": "\u2b50\ufe0f Amazon Robotics - Software Development Engineer Intern/Co-op - 2027",
@@ -1793,23 +2323,28 @@
     "Jane Street": [
       {
         "title": "Quantitative Trader",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "janestreet:8617344002"
       },
       {
         "title": "Quantitative Researcher",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "janestreet:8498547002"
       },
       {
         "title": "Machine Learning Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "janestreet:8611307002"
       },
       {
         "title": "Machine Learning Researcher",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "janestreet:8384490002"
       },
       {
         "title": "Software Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "janestreet:8599644002"
       },
       {
         "title": "Cybersecurity Engineer - Security Operations Center (SOC)",
@@ -1817,23 +2352,28 @@
       },
       {
         "title": "Data Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "janestreet:8631973002"
       },
       {
         "title": "Fundamental Research Analyst",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "janestreet:8347286002"
       },
       {
         "title": "Hardware Engineer (FPGA/ASIC)",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "janestreet:8624440002"
       },
       {
         "title": "IT Operations Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "janestreet:8641280002"
       },
       {
         "title": "Linux Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "janestreet:8626260002"
       },
       {
         "title": "Mechanical Engineer",
@@ -1849,27 +2389,33 @@
       },
       {
         "title": "Sales and Trading",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "janestreet:8347385002"
       },
       {
         "title": "Strategy and Product",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "janestreet:8621552002"
       },
       {
         "title": "Tools and Compilers Research and Development",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "janestreet:5869205002"
       },
       {
         "title": "Trading Desk Operations Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "janestreet:8621450002"
       },
       {
         "title": "Windows Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "janestreet:8628843002"
       },
       {
         "title": "Cybersecurity Engineer",
-        "date": "2026-10-07"
+        "date": "2026-10-07",
+        "id": "janestreet:8632723002"
       },
       {
         "title": "Cybersecurity Engineer - Security Operations Center (SOC) - (not currently accepting applications)",
@@ -3450,15 +3996,18 @@
     "Mitsubishi Electric Research Laboratories": [
       {
         "title": "\u2b50\ufe0f MS0259: Internship - Multi-Fidelity Dynamic Models for Energy Systems",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.merl.com/employment/internship-openings#MS0259"
       },
       {
         "title": "\u2b50\ufe0f MS0254: Internship - Decentralized Data Assimilation for Large Scale Systems",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.merl.com/employment/internship-openings#MS0254"
       },
       {
         "title": "\u2b50\ufe0f MS0326: Internship - Scalable Numerical Solvers for Systems of Learned Dynamical Components",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.merl.com/employment/internship-openings#MS0326"
       },
       {
         "title": "\u2b50\ufe0f CA0153: Internship - High-Fidelity Visualization and Simulation for Space Applications",
@@ -3466,11 +4015,13 @@
       },
       {
         "title": "\u2b50\ufe0f ST0238: Internship - Multi-Modal Sensing and Understanding",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.merl.com/employment/internship-openings#ST0238"
       },
       {
         "title": "\u2b50\ufe0f CI0314: Internship - Embodied AI & Humanoid Robotics",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.merl.com/employment/internship-openings#CI0314"
       },
       {
         "title": "\u2b50\ufe0f CI0213: Internship - Efficient Foundation Models for Edge Intelligence",
@@ -3478,11 +4029,13 @@
       },
       {
         "title": "\u2b50\ufe0f OR0317: Internship - Vision-Language-Action (VLA) Models for Robotic Manipulation",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.merl.com/employment/internship-openings#OR0317"
       },
       {
         "title": "\u2b50\ufe0f OR0329: Internship - Robotic Disassembly",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.merl.com/employment/internship-openings#OR0329"
       },
       {
         "title": "\u2b50\ufe0f OR0299: Internship - Human-Robot Interaction",
@@ -3490,51 +4043,63 @@
       },
       {
         "title": "\u2b50\ufe0f OR0298: Internship - Robotic Disassembly",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.merl.com/employment/internship-openings#OR0298"
       },
       {
         "title": "\u2b50\ufe0f OR0313: Internship - Foundation Models for Humanoid Robots",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.merl.com/employment/internship-openings#OR0313"
       },
       {
         "title": "\u2b50\ufe0f CV0075: Internship - Multimodal Embodied AI",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.merl.com/employment/internship-openings#CV0075"
       },
       {
         "title": "\u2b50\ufe0f CV0101: Internship - Multimodal Algorithmic Reasoning",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.merl.com/employment/internship-openings#CV0101"
       },
       {
         "title": "\u2b50\ufe0f EA0234: Internship - Multi-modal sensor fusion for predictive maintenance",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.merl.com/employment/internship-openings#EA0234"
       },
       {
         "title": "\u2b50\ufe0f EA0237: Internship - Condition Monitoring and Fault Diagnosis",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.merl.com/employment/internship-openings#EA0237"
       },
       {
         "title": "\u2b50\ufe0f EA0241: Internship - Process Modeling for Factory Automation",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.merl.com/employment/internship-openings#EA0241"
       },
       {
         "title": "\u2b50\ufe0f OR0330: Internship - EMT Simulation of Data-Center Power Systems",
-        "date": "2026-10-09"
+        "date": "2026-10-09",
+        "id": "html:https://www.merl.com/employment/internship-openings#OR0330"
       },
       {
         "title": "\u2b50\ufe0f SA0331: Internship - Neural Spatial Audio Processing",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "html:https://www.merl.com/employment/internship-openings#SA0331"
       },
       {
         "title": "\u2b50\ufe0f SA0335: Internship - Audio separation, generation, and analysis",
-        "date": "2026-10-20"
+        "date": "2026-10-20",
+        "id": "html:https://www.merl.com/employment/internship-openings#SA0335"
       },
       {
         "title": "\u2b50\ufe0f SA0336: Internship - Human-Robot Interaction Based on Multimodal Scene Understanding",
-        "date": "2026-10-21"
+        "date": "2026-10-21",
+        "id": "html:https://www.merl.com/employment/internship-openings#SA0336"
       },
       {
         "title": "\u2b50\ufe0f MS0337: Internship - Distributed estimation for interconnected dynamical systems",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "html:https://www.merl.com/employment/internship-openings#MS0337"
       }
     ],
     "Onward Robotics": [
@@ -4365,91 +4930,113 @@
     "Honda Research Insitute": [
       {
         "title": "\u2b50\ufe0f Research Intern: Polymer Composite",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://usa.honda-ri.com/-/research-intern-polymer-composite?redirect=%2Fintern-positions"
       },
       {
         "title": "\u2b50\ufe0f Research Intern: Learning Based Motion Planning ...",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://usa.honda-ri.com/-/research-intern-learning-based-motion-planning?redirect=%2Fintern-positions"
       },
       {
         "title": "\u2b50\ufe0f Research Intern: End-to-End Autonomous Driving",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://usa.honda-ri.com/-/research-intern-end-to-end-autonomous-driving?redirect=%2Fintern-positions"
       },
       {
         "title": "\u2b50\ufe0f Research Intern: Robust Planning",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://usa.honda-ri.com/-/research-intern-robust-planning?redirect=%2Fintern-positions"
       },
       {
         "title": "\u2b50\ufe0f Research Intern: Semantic-Aware Interaction and ...",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://usa.honda-ri.com/-/research-intern-semantic-aware-interaction-and-behavior-planning-for-autonomous-driving?redirect=%2Fintern-positions"
       },
       {
         "title": "\u2b50\ufe0f Research Intern: Closed-loop E2E Driving",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://usa.honda-ri.com/-/research-intern-closed-loop-e2e-driving-research-intern?redirect=%2Fintern-positions"
       },
       {
         "title": "\u2b50\ufe0f Research Intern: Human Action Understanding from ...",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://usa.honda-ri.com/-/research-intern-human-action-understanding-from-long-videos?redirect=%2Fintern-positions"
       },
       {
         "title": "\u2b50\ufe0f Research Intern: Test-Time Adaptation For Embodied ...",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://usa.honda-ri.com/-/research-intern-test-time-adaptation-for-embodied-agents?redirect=%2Fintern-positions"
       },
       {
         "title": "\u2b50\ufe0f Research Intern: Meta-Cognition and Internal Mechanisms ...",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://usa.honda-ri.com/-/research-intern-meta-cognition-and-internal-mechanisms-for-multi-modal-foundation-model-based-agent?redirect=%2Fintern-positions"
       },
       {
         "title": "\u2b50\ufe0f Research Intern: Mathematical Foundations of Multi-Agent ...",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://usa.honda-ri.com/-/research-intern-mathematical-foundations-of-multi-agent-task-collaboration?redirect=%2Fintern-positions"
       },
       {
         "title": "\u2b50\ufe0f Research Intern: Proficiency Estimation in Procedural ...",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://usa.honda-ri.com/-/research-intern-proficiency-estimation-in-procedural-videos?redirect=%2Fintern-positions"
       },
       {
         "title": "\u2b50\ufe0f Research Intern: Multimodal AI for Collective State ...",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://usa.honda-ri.com/-/research-intern-multimodal-ai-for-collective-state-understanding-via-audio-visual-fusion?redirect=%2Fintern-positions"
       },
       {
         "title": "\u2b50\ufe0f Research Intern: Human-AI Group Interaction",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://usa.honda-ri.com/-/research-intern-human-ai-group-interaction-1?redirect=%2Fintern-positions"
       },
       {
         "title": "\u2b50\ufe0f Research Intern: Computational Social Science",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://usa.honda-ri.com/-/research-intern-computational-social-science-1?redirect=%2Fintern-positions"
       },
       {
         "title": "\u2b50\ufe0f Research Intern: LLM-enabled Multi-Agent Social ...",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://usa.honda-ri.com/-/research-intern-llm-enabled-multi-agent-social-simulation?redirect=%2Fintern-positions"
       },
       {
         "title": "\u2b50\ufe0f Research Intern: Vehicle Dynamics and Simulation ...",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://usa.honda-ri.com/-/research-intern-vehicle-dynamics-and-simulation-for-marine-robotics?redirect=%2Fintern-positions"
       },
       {
         "title": "\u2b50\ufe0f Research Intern: Memory Representation for Dexterous ...",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://usa.honda-ri.com/-/research-intern-memory-representation-for-dexterous-manipulation?redirect=%2Fintern-positions"
       },
       {
         "title": "\u2b50\ufe0f Research Intern: Policy Learning and Action Grounding ...",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://usa.honda-ri.com/-/research-intern-policy-learning-and-action-grounding-for-multimodal-embodied-agents?redirect=%2Fintern-positions"
       },
       {
         "title": "\u2b50\ufe0f Research Intern: Spatial Reasoning in Long Videos ...",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://usa.honda-ri.com/-/research-intern-spatial-reasoning-in-long-videos?redirect=%2Fintern-positions"
       },
       {
         "title": "\u2b50\ufe0f Research Intern: Hand Pose-Language Representation ...",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://usa.honda-ri.com/-/research-intern-hand-pose-language-representation-learning-1?redirect=%2Fintern-positions"
       },
       {
         "title": "\u2b50\ufe0f Research Intern: Vision-Based Assessment of Human ...",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://usa.honda-ri.com/-/research-intern-vision-based-assessment-of-human-proficiency-and-skill-through-force-estimation?redirect=%2Fintern-positions"
       },
       {
         "title": "\u2b50\ufe0f Research Intern: Catalyst Synthesis",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://usa.honda-ri.com/-/research-intern-catalyst-synthesis?redirect=%2Fintern-positions"
       }
     ],
     "iRobot": [
@@ -4602,23 +5189,28 @@
     "GreyOrange": [
       {
         "title": "Senior Product Manager",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "greyorange:887438"
       },
       {
         "title": "Principal Architect",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "greyorange:887467"
       },
       {
         "title": "Assistant Manager - Implementation Excellence",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "greyorange:887481"
       },
       {
         "title": "Solution Architect",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "greyorange:887750"
       },
       {
         "title": "Manager - Projects",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "greyorange:887860"
       },
       {
         "title": "Senior Engineer - Quality Assurance",
@@ -4630,53 +5222,365 @@
       },
       {
         "title": "Manager - Proposals",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "greyorange:888051"
       },
       {
         "title": "Senior Manager - UI/UX Designer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "greyorange:888069"
       },
       {
         "title": "Technical Trainer & Documentation Specialist",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "greyorange:888091"
       },
       {
         "title": "Engineer - Solutions",
-        "date": "2026-09-28"
+        "date": "2026-09-28",
+        "id": "greyorange:890029"
       },
       {
         "title": "Manager - Supplier Quality Assurance",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "greyorange:892778"
+      },
+      {
+        "title": "Solution Architect I",
+        "date": "N/A",
+        "id": "greyorange:893522"
+      },
+      {
+        "title": "Principal Engineer",
+        "date": "N/A",
+        "id": "greyorange:895508"
+      },
+      {
+        "title": "Technical Manager - Software Implementation",
+        "date": "N/A",
+        "id": "greyorange:897823"
+      },
+      {
+        "title": "Senior Solutions Engineer",
+        "date": "N/A",
+        "id": "greyorange:900105"
+      },
+      {
+        "title": "Change & Release Manager II",
+        "date": "N/A",
+        "id": "greyorange:903292"
+      },
+      {
+        "title": "Principal Scientist",
+        "date": "N/A",
+        "id": "greyorange:905798"
+      },
+      {
+        "title": "Senior Solution Implementation Specialist",
+        "date": "N/A",
+        "id": "greyorange:907682"
+      },
+      {
+        "title": "Software Development Engineer in Test II",
+        "date": "N/A",
+        "id": "greyorange:914003"
+      },
+      {
+        "title": "Software Development Engineer in Test II",
+        "date": "N/A",
+        "id": "greyorange:914025"
+      },
+      {
+        "title": "Assistant Manager- SCM",
+        "date": "N/A",
+        "id": "greyorange:917295"
+      },
+      {
+        "title": "Assistant Manager - Software Support",
+        "date": "N/A",
+        "id": "greyorange:919882"
+      },
+      {
+        "title": "Senior Solutions Engineer",
+        "date": "N/A",
+        "id": "greyorange:921801"
+      },
+      {
+        "title": "Senior QA Engineer - I",
+        "date": "N/A",
+        "id": "greyorange:930948"
+      },
+      {
+        "title": "Robotics QA Engineer I",
+        "date": "N/A",
+        "id": "greyorange:933793"
+      },
+      {
+        "title": "Software Development Engineer III",
+        "date": "N/A",
+        "id": "greyorange:934106"
+      },
+      {
+        "title": "Software Development Engineer III",
+        "date": "N/A",
+        "id": "greyorange:936962"
+      },
+      {
+        "title": "Business Development Representative",
+        "date": "N/A",
+        "id": "greyorange:941610"
+      },
+      {
+        "title": "Senior Software Engineer - III",
+        "date": "N/A",
+        "id": "greyorange:948168"
+      },
+      {
+        "title": "Senior Engineer - Software Support",
+        "date": "N/A",
+        "id": "greyorange:948763"
+      },
+      {
+        "title": "Principal Product Manager",
+        "date": "N/A",
+        "id": "greyorange:949281"
+      },
+      {
+        "title": "Assistant Manager - Accounts Receivable",
+        "date": "N/A",
+        "id": "greyorange:953433"
+      },
+      {
+        "title": "Customer Experience Manager II",
+        "date": "N/A",
+        "id": "greyorange:954007"
+      },
+      {
+        "title": "Staff Product Manager, Simulation Platform",
+        "date": "N/A",
+        "id": "greyorange:954306"
+      },
+      {
+        "title": "Senior/Staff Software Engineer, Simulation Platform",
+        "date": "N/A",
+        "id": "greyorange:954347"
+      },
+      {
+        "title": "Software Development Engineer III, Algorithms",
+        "date": "N/A",
+        "id": "greyorange:954374"
+      },
+      {
+        "title": "Software Development Engineer III, Algorithms",
+        "date": "N/A",
+        "id": "greyorange:954376"
+      },
+      {
+        "title": "Principal Engineer",
+        "date": "N/A",
+        "id": "greyorange:954481"
+      },
+      {
+        "title": "Staff Software Engineer",
+        "date": "N/A",
+        "id": "greyorange:954484"
+      },
+      {
+        "title": "Staff Engineer",
+        "date": "N/A",
+        "id": "greyorange:954485"
+      },
+      {
+        "title": "Software Development Engineer III",
+        "date": "N/A",
+        "id": "greyorange:954848"
+      },
+      {
+        "title": "Technical Software Sales Leader",
+        "date": "N/A",
+        "id": "greyorange:954916"
+      },
+      {
+        "title": "Staff Engineer- Applied AI",
+        "date": "N/A",
+        "id": "greyorange:954922"
+      },
+      {
+        "title": "Principal Engineer",
+        "date": "N/A",
+        "id": "greyorange:955541"
+      },
+      {
+        "title": "Senior Training Content developer",
+        "date": "N/A",
+        "id": "greyorange:956043"
+      },
+      {
+        "title": "Software Development Engineer III",
+        "date": "N/A",
+        "id": "greyorange:958913"
+      },
+      {
+        "title": "Manager - SRE",
+        "date": "N/A",
+        "id": "greyorange:960985"
+      },
+      {
+        "title": "Site Reliability Engineer II",
+        "date": "N/A",
+        "id": "greyorange:1133843"
+      },
+      {
+        "title": "Principal Technical Program Manager",
+        "date": "N/A",
+        "id": "greyorange:1135627"
+      },
+      {
+        "title": "Staff Software - AI/ML Engineer",
+        "date": "N/A",
+        "id": "greyorange:1143209"
+      },
+      {
+        "title": "Staff Technical Program Manager",
+        "date": "N/A",
+        "id": "greyorange:1150100"
+      },
+      {
+        "title": "gStore - Senior Program Manager US",
+        "date": "N/A",
+        "id": "greyorange:1153457"
+      },
+      {
+        "title": "Graduate Engineer Trainee",
+        "date": "N/A",
+        "id": "greyorange:1154228"
+      },
+      {
+        "title": "Staff Software Engineer",
+        "date": "N/A",
+        "id": "greyorange:1161645"
+      },
+      {
+        "title": "Software Development Engineer III - Mobile",
+        "date": "N/A",
+        "id": "greyorange:1165439"
+      },
+      {
+        "title": "Technial Program Manager - III",
+        "date": "N/A",
+        "id": "greyorange:1165442"
+      },
+      {
+        "title": "Staff \u2014 Rendering & Interactive Performance",
+        "date": "N/A",
+        "id": "greyorange:1171933"
+      },
+      {
+        "title": "Staff UI Engineer \u2014 Scenario Manager",
+        "date": "N/A",
+        "id": "greyorange:1172164"
+      },
+      {
+        "title": "Staff Data Engineer\u2014 Platform & Data",
+        "date": "N/A",
+        "id": "greyorange:1172172"
+      },
+      {
+        "title": "Software Development Engineer III",
+        "date": "N/A",
+        "id": "greyorange:1172190"
+      },
+      {
+        "title": "Senior Member Technical Staff",
+        "date": "N/A",
+        "id": "greyorange:1173232"
+      },
+      {
+        "title": "Software Development Engineer III",
+        "date": "N/A",
+        "id": "greyorange:1185362"
+      },
+      {
+        "title": "Senior Staff Engineer - Application Platform",
+        "date": "N/A",
+        "id": "greyorange:1185397"
+      },
+      {
+        "title": "Staff Software Engineer",
+        "date": "N/A",
+        "id": "greyorange:1185949"
+      },
+      {
+        "title": "Principal Product Manager",
+        "date": "N/A",
+        "id": "greyorange:1187640"
+      },
+      {
+        "title": "Assistant Manager - Customer Experience",
+        "date": "N/A",
+        "id": "greyorange:1188409"
+      },
+      {
+        "title": "Director of Product, GreyMatter Cloud Platform",
+        "date": "N/A",
+        "id": "greyorange:1190517"
+      },
+      {
+        "title": "Director - GreyMatter GCC & Customer Experience",
+        "date": "N/A",
+        "id": "greyorange:1190522"
+      },
+      {
+        "title": "Assistant Manager- SCM",
+        "date": "N/A",
+        "id": "greyorange:1190646"
+      },
+      {
+        "title": "Software Development Engineer in Test II",
+        "date": "N/A",
+        "id": "greyorange:1193588"
+      },
+      {
+        "title": "Senior Product Manager - Task Management",
+        "date": "N/A",
+        "id": "greyorange:1194944"
       }
     ],
     "General Motors": [
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Digital Product: Software Engineering",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "workday:JR-202620546"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Digital Product: Embedded and Systems Engineering",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "workday:JR-202620513"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern \u2013 Lean Material Strategies / Warehouse Management Systems",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "workday:JR-202620424"
       },
       {
         "title": "Software Engineer AV HIL Platform and Services (Early Career))",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "workday:JR-202604577"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Digital Product: Product Management (MBA)",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "workday:JR-202620538"
       },
       {
         "title": "Data Engineer - Data Software Engineering and Cloud Platforms, Early Career",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "workday:JR-202620428"
       },
       {
         "title": "Software Engineer, Data Software Engineering and Cloud Platforms, Early Careers",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "workday:JR-202620418"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Student Corps Program Specialist Intern",
@@ -4684,19 +5588,23 @@
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Warehouse Operations Intern",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "workday:JR-202619684"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Creative Design (Interior/Exterior)",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "workday:JR-202619314"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Digital Sculpting",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "workday:JR-202619286"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Human Interface Design",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "workday:JR-202619285"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Global Purchasing & Supply Chain MBA Intern",
@@ -4712,7 +5620,8 @@
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Clay Sculpting",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "workday:JR-202619287"
       },
       {
         "title": "Entry-Level Manufacturing Controls/Electrical Engineer",
@@ -4736,7 +5645,8 @@
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Field Sales Operations Internship \u2013 District Manager, Parts & Service",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "workday:JR-202619666"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - General Motors Economics Intern",
@@ -4820,7 +5730,8 @@
       },
       {
         "title": "\u2b50\ufe0f 2027 Co-op \u2013 Manufacturing Industrial Engineering",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "workday:JR-202619464"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern \u2013 Manufacturing Quality Engineer",
@@ -4836,11 +5747,13 @@
       },
       {
         "title": "\u2b50\ufe0f 2027 Co-op \u2013 Mechanical Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "workday:JR-202619290"
       },
       {
         "title": "\u2b50\ufe0f 2027 Co-Op Student \u2013 Manufacturing Quality Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "workday:JR-202619309"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Environmental Engineer",
@@ -4856,7 +5769,8 @@
       },
       {
         "title": "Data Governance Engineer, Early Careers",
-        "date": "2026-09-28"
+        "date": "2026-09-28",
+        "id": "workday:JR-202620794"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern \u2013 Performance Analysis",
@@ -4884,7 +5798,8 @@
       },
       {
         "title": "\u2b50\ufe0f 2027 Co-Op \u2013 Manufacturing Controls Engineer",
-        "date": "2026-09-30"
+        "date": "2026-09-30",
+        "id": "workday:JR-202618863"
       },
       {
         "title": "Thermal Systems Researcher",
@@ -4896,15 +5811,18 @@
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern \u2013 Finance Operations",
-        "date": "2026-09-30"
+        "date": "2026-09-30",
+        "id": "workday:JR-202618055"
       },
       {
         "title": "\u2b50\ufe0f Fall 2026 PhD Battery & Sustainability Intern - Physics-Based Battery Modeling",
-        "date": "2026-09-30"
+        "date": "2026-09-30",
+        "id": "workday:JR-202618047"
       },
       {
         "title": "Entry-Level Rotational Program - Finance Operations",
-        "date": "2026-09-30"
+        "date": "2026-09-30",
+        "id": "workday:JR-202618057"
       },
       {
         "title": "\u2b50\ufe0f Becario (a) de Comunicaci\u00f3n Interna",
@@ -4992,7 +5910,8 @@
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Intern - Computational Design Intern",
-        "date": "2026-10-01"
+        "date": "2026-10-01",
+        "id": "workday:JR-202621454"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Program Management",
@@ -5000,55 +5919,68 @@
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Systems/Calibration Engineer, ADAS Drive",
-        "date": "2026-10-02"
+        "date": "2026-10-02",
+        "id": "workday:JR-202621623"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern \u2013 AI/ML Engineer, Autonomous Vehicles: Simulation (PhD)",
-        "date": "2026-10-02"
+        "date": "2026-10-02",
+        "id": "workday:JR-202621511"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Software Engineer, Autonomous Vehicle: Simulation",
-        "date": "2026-10-02"
+        "date": "2026-10-02",
+        "id": "workday:JR-202621503"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - AI/ML Engineer, Autonomous Vehicle: Simulation",
-        "date": "2026-10-02"
+        "date": "2026-10-02",
+        "id": "workday:JR-202621508"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern, Radar Hardware Development Engineer, ASD",
-        "date": "2026-10-02"
+        "date": "2026-10-02",
+        "id": "workday:JR-202621645"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern \u2013 Machine Learning Engineer, AV/AI Platform",
-        "date": "2026-10-02"
+        "date": "2026-10-02",
+        "id": "workday:JR-202621695"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern \u2013 Software Engineer, AV/AI Platform",
-        "date": "2026-10-02"
+        "date": "2026-10-02",
+        "id": "workday:JR-202621696"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern \u2013 Software Verification Engineer, AV/AI Platform",
-        "date": "2026-10-02"
+        "date": "2026-10-02",
+        "id": "workday:JR-202621697"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern \u2013 Machine Learning Intern, Autonomous Vehicles: Software Validation (Master's)",
-        "date": "2026-10-05"
+        "date": "2026-10-05",
+        "id": "workday:JR-202621655"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern, AI/ML Engineer, Mapping",
-        "date": "2026-10-05"
+        "date": "2026-10-05",
+        "id": "workday:JR-202621778"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Intern - Industrial Design",
-        "date": "2026-10-05"
+        "date": "2026-10-05",
+        "id": "workday:JR-202621626"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern \u2013 Machine Learning Intern, Autonomous Vehicles: Software Validation (PhD)",
-        "date": "2026-10-05"
+        "date": "2026-10-05",
+        "id": "workday:JR-202621649"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern \u2013 AI & Hardware Analytics, ADPT",
-        "date": "2026-10-05"
+        "date": "2026-10-05",
+        "id": "workday:JR-202621756"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Intern - Project Management (Creative Design)",
@@ -5056,7 +5988,8 @@
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern- ADAS Software Engineer, ADPT",
-        "date": "2026-10-05"
+        "date": "2026-10-05",
+        "id": "workday:JR-202621820"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern \u2013 Global Manufacturing Robotics & Automation",
@@ -5068,31 +6001,38 @@
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Global Workplace Safety",
-        "date": "2026-10-06"
+        "date": "2026-10-06",
+        "id": "workday:JR-202619201"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern \u2013 AV Sensor Design, Release and Integration",
-        "date": "2026-10-07"
+        "date": "2026-10-07",
+        "id": "workday:JR-202621993"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern, Systems Engineer, ASD",
-        "date": "2026-10-07"
+        "date": "2026-10-07",
+        "id": "workday:JR-202621989"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern \u2013 Autonomous Driving Software Engineer (Bachelor's & Master's)",
-        "date": "2026-10-08"
+        "date": "2026-10-08",
+        "id": "workday:JR-202622064"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern, Fleet Reliability & Test Engineering, ASD",
-        "date": "2026-10-08"
+        "date": "2026-10-08",
+        "id": "workday:JR-202622071"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern, Data Scaling, Embodied AI",
-        "date": "2026-10-09"
+        "date": "2026-10-09",
+        "id": "workday:JR-202622132"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern, Onboard Autonomy, Embodied AI",
-        "date": "2026-10-09"
+        "date": "2026-10-09",
+        "id": "workday:JR-202622135"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern, SEAM, Embodied AI",
@@ -5104,143 +6044,178 @@
       },
       {
         "title": "Entry-Level \u2013 AI/Machine Learning Researcher",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "workday:JR-202621753"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Research and Development - Driving Simulation, Automated Driving-Enabled Vehicles",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "workday:JR-202621733"
       },
       {
         "title": "Entry-Level \u2013 Magnetic Materials Researcher",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "workday:JR-202621762"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Research and Development - Magnetic Materials",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "workday:JR-202621629"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Research and Development - System Safety",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "workday:JR-202621736"
       },
       {
         "title": "Entry-Level - Physical Metallurgist - Steels",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "workday:JR-202621765"
       },
       {
         "title": "Entry-Level - Researcher \u2014 Computational Materials Science: Continuum Scales and Materials Discovery",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "workday:JR-202621767"
       },
       {
         "title": "Entry-Level - Defense Lab Modeling and Simulation Researcher",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "workday:JR-202621817"
       },
       {
         "title": "Entry-Level - Compute Platforms & SoC/MCU Semiconductor Systems Researcher",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "workday:JR-202621829"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Research and Development - Machine Learning for Automation",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "workday:JR-202621724"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Research and Development - Defense Lab Modeling and Simulation",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "workday:JR-202621729"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Research and Development - Connected Vehicle Systems",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "workday:JR-202621747"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Intern - Research and Development - Smart Manufacturing Systems",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "workday:JR-202621657"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern \u2013 Research and Developement \u2013 Display Optical Simulation",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "workday:JR-202621740"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Research and Development - AI/Machine Learning",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "workday:JR-202621620"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Research and Development - Computational Materials Science: Continuum Scales and Materials Discovery",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "workday:JR-202621642"
       },
       {
         "title": "Entry-Level \u2013 Researcher, Aftertreatment Catalysis",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "workday:JR-202621814"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Research and Development - Defense Lab Support",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "workday:JR-202621738"
       },
       {
         "title": "Entry-Level \u2013 AI and Machine Learning for Automation Researcher",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "workday:JR-202621769"
       },
       {
         "title": "Entry Level - Driving Simulation Researcher \u2013 Automated Driving-Enabled Vehicles",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "workday:JR-202621818"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Research and Development - Physical Metallurgist (Steels)",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "workday:JR-202621636"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern \u2013 Research and Development - Nondestructive Evaluation",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "workday:JR-202621726"
       },
       {
         "title": "Entry-Level \u2013 Researcher \u2013 Power Electronics & Energy Conversion Systems",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "workday:JR-202621811"
       },
       {
         "title": "Entry Level - Researcher - System Safety",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "workday:JR-202621823"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern \u2013 Program Management, GM Defense ,",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "workday:JR-202622043"
       },
       {
         "title": "\u2b50\ufe0f 2027 Intern - AI/ML Engineer - Capacity & Performance Engineering, Autonomous Vehicles",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "workday:JR-202622406"
       },
       {
         "title": "\u2b50\ufe0f 2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "workday:JR-202622410"
       },
       {
         "title": "\u2b50\ufe0f 2027 Intern - Product Management, Vehicle Autonomy (MS or MBA)",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "workday:JR-202622449"
       },
       {
         "title": "Robotics AI Strategy & Program Lead, Early Career",
-        "date": "2026-10-15"
+        "date": "2026-10-15",
+        "id": "workday:JR-202622340-1"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern, AI Research, Embodied AI (PhD)",
-        "date": "2026-10-15"
+        "date": "2026-10-15",
+        "id": "workday:JR-202622146"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern, Data Scaling, Embodied AI (Masters)",
-        "date": "2026-10-15"
+        "date": "2026-10-15",
+        "id": "workday:JR-202622540"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern, SEAM, Embodied AI (Masters)",
-        "date": "2026-10-15"
+        "date": "2026-10-15",
+        "id": "workday:JR-202622537"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern, Onboard Autonomy, Embodied AI (Masters)",
-        "date": "2026-10-15"
+        "date": "2026-10-15",
+        "id": "workday:JR-202622543"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern, AI Research, Embodied AI (Masters)",
-        "date": "2026-10-15"
+        "date": "2026-10-15",
+        "id": "workday:JR-202622535"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern, AI/ML Engineer, Mapping (Masters)",
-        "date": "2026-10-15"
+        "date": "2026-10-15",
+        "id": "workday:JR-202622539"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern, Onboard Autonomy, Embodied AI (PhD)",
@@ -5260,15 +6235,38 @@
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern, SEAM, Embodied AI (PhD)",
-        "date": "2026-10-19"
+        "date": "2026-10-19",
+        "id": "workday:JR-202622143"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - GM OneOps Deploy Engineer",
-        "date": "2026-10-20"
+        "date": "2026-10-20",
+        "id": "workday:JR-202621896"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Manufacturing Excellence Industrial Engineering",
-        "date": "2026-10-20"
+        "date": "2026-10-20",
+        "id": "workday:JR-202622634"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, Global Customer Research Intern (Master/MBA Degree)",
+        "date": "N/A",
+        "id": "workday:JR-202619679"
+      },
+      {
+        "title": "Entry Level Manufacturing Group Leader - Production - Bedford",
+        "date": "N/A",
+        "id": "workday:JR-202619522"
+      },
+      {
+        "title": "Entry-Level Manufacturing Group Leader - Production - Bedford",
+        "date": "N/A",
+        "id": "workday:JR-202620438"
+      },
+      {
+        "title": "Entry Level Manufacturing Group Leader - Tool and Die - Bedford",
+        "date": "N/A",
+        "id": "workday:JR-202619646"
       }
     ],
     "Locus Robotics": [
@@ -7515,23 +8513,28 @@
     "Titan Robotics": [
       {
         "title": "Senior Robotics Autonomy Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:title:Senior Robotics Autonomy Engineer"
       },
       {
         "title": "Software Engineer / Software Products and Platforms",
-        "date": "2026-10-09"
+        "date": "2026-10-09",
+        "id": "html:title:Software Engineer / Software Products and Platforms"
       },
       {
         "title": "Office Manager / Administrative Coordinator",
-        "date": "2026-10-09"
+        "date": "2026-10-09",
+        "id": "html:title:Office Manager / Administrative Coordinator"
       },
       {
         "title": "Inventory Specialist",
-        "date": "2026-10-09"
+        "date": "2026-10-09",
+        "id": "html:title:Inventory Specialist"
       },
       {
         "title": "Electrical Robotics Technician",
-        "date": "2026-10-09"
+        "date": "2026-10-09",
+        "id": "html:title:Electrical Robotics Technician"
       },
       {
         "title": "Field Application Engineer-Robotics & Automation",
@@ -7539,11 +8542,13 @@
       },
       {
         "title": "Systems Engineer (Robotics & Automation)",
-        "date": "2026-10-09"
+        "date": "2026-10-09",
+        "id": "html:title:Systems Engineer (Robotics & Automation)"
       },
       {
         "title": "Applications Engineer / Manufacturing Automation & Robotics",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "html:title:Applications Engineer / Manufacturing Automation & Robotics"
       }
     ],
     "Near Earth Autonomy": [
@@ -7844,403 +8849,503 @@
     "Tensor Auto": [
       {
         "title": "FP&A Manager",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd203"
       },
       {
         "title": "Cost Accounting Manager",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd202"
       },
       {
         "title": "AI Agent R&D Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd66"
       },
       {
         "title": "Technical Accounting & Reporting Manager",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd201"
       },
       {
         "title": "Chief Financial Officer (CFO)",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd91"
       },
       {
         "title": "Machine Learning Engineer: LLM, VLM/VLA and reasoning models",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd68"
       },
       {
         "title": "Staff Optical Engineer, LiDAR",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd60"
       },
       {
         "title": "FPGA Functional Safety Engineers, Sensors",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd63"
       },
       {
         "title": "Staff C Software Engineer, LiDAR Tooling Development",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd62"
       },
       {
         "title": "Senior Staff DSP Engineer, LiDAR",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd61"
       },
       {
         "title": "Senior Electrical Engineer: High-Speed Digital",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd88"
       },
       {
         "title": "Vehicle Integration Engineer: C++ Software Development",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd47"
       },
       {
         "title": "Senior Electrical Engineer: Infotainment Systems",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd87"
       },
       {
         "title": "Vehicle Integration Engineer: Drive-By-Wire",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd46"
       },
       {
         "title": "Embedded Software Engineer: MCU (RTOS)",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd45"
       },
       {
         "title": "Embedded Software Engineer: Linux BSP",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd44"
       },
       {
         "title": "FPGA Engineer: ISP",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd79"
       },
       {
         "title": "Embedded Software Engineer: Compute Platform",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd73"
       },
       {
         "title": "Flutter App Developer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd75"
       },
       {
         "title": "Software Engineer: Core Middleware Components",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd72"
       },
       {
         "title": "Linux Kernel Engineer - SoC Optimization",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd71"
       },
       {
         "title": "Software Engineer: OpenWRT",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd70"
       },
       {
         "title": "Software Engineer for Network Protocol Stack",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd69"
       },
       {
         "title": "Android Software Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd23"
       },
       {
         "title": "System Software Developer (ADS)",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd29"
       },
       {
         "title": "Software Engineer: Embedded Linux",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd30"
       },
       {
         "title": "Software Developer: Android Automotive OS",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd31"
       },
       {
         "title": "IT Security Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd59"
       },
       {
         "title": "Backend Software Engineer - Security Services (Staff Level)",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd57"
       },
       {
         "title": "DevSecOps",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd58"
       },
       {
         "title": "Embedded Security Engineer (Staff Level)",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd56"
       },
       {
         "title": "Semantic Map Frontend Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd42"
       },
       {
         "title": "Routing Service Software Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd41"
       },
       {
         "title": "Semantic Map Software Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd40"
       },
       {
         "title": "Software Development Engineer in Test",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd76"
       },
       {
         "title": "Python Backend Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd25"
       },
       {
         "title": "Web Front-End Engineer (Graphics)",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd81"
       },
       {
         "title": "Backend Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd28"
       },
       {
         "title": "Frontend Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd27"
       },
       {
         "title": "Full Stack Software Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd24"
       },
       {
         "title": "C++ Backend Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd22"
       },
       {
         "title": "DevOps Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd26"
       },
       {
         "title": "Developer Tools Software Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd37"
       },
       {
         "title": "Data Infrastructure Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd36"
       },
       {
         "title": "Simulation/Evaluation Infrastructure Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd35"
       },
       {
         "title": "Software Engineer (Frontend), Simulation Core",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd50"
       },
       {
         "title": "Modeling and Simulation Engineer, Simulation Core",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd49"
       },
       {
         "title": "Vehicle Dynamics Simulation Engineer, Simulation Core",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd48"
       },
       {
         "title": "Software Engineer (Backend), Simulation Core",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd16"
       },
       {
         "title": "Simulator Realism Software Engineer (Senior/Staff)",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd110"
       },
       {
         "title": "SceneGen Software Engineer (All levels)",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd92"
       },
       {
         "title": "WorldGen and Sim Realism Machine Learning Engineer (all levels)",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd74"
       },
       {
         "title": "Senior/Staff Data Scientist (Sim/Eval)",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd13"
       },
       {
         "title": "Junior/Mid-Tier Data Scientist (Sim/Eval)",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd03"
       },
       {
         "title": "Senior/Staff Software Engineer (Sim/Eval)",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd15"
       },
       {
         "title": "Junior/Mid-Tier Software Engineer (Sim/Eval)",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd14"
       },
       {
         "title": "SOTIF Safety Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd12"
       },
       {
         "title": "Functional Safety Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd11"
       },
       {
         "title": "Sensor Reliability Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd07"
       },
       {
         "title": "LiDAR System Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd06"
       },
       {
         "title": "Senior/Staff Data Scientist - Safety Assessment",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd84"
       },
       {
         "title": "System Engineer - Software Test Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd83"
       },
       {
         "title": "System Engineer - Software Test Lead",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd82"
       },
       {
         "title": "System Engineer - Motion Control",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd53"
       },
       {
         "title": "System Engineer - Driving Behavior",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd51"
       },
       {
         "title": "System Engineer - Fault management",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd52"
       },
       {
         "title": "Safety Research Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd08"
       },
       {
         "title": "Safety Frameworks Lead",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd10"
       },
       {
         "title": "Vehicle EE Architecture Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd109"
       },
       {
         "title": "Vehicle Body and Trim Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd107"
       },
       {
         "title": "Vehicle Performance and Validation Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd106"
       },
       {
         "title": "Vehicle Chassis Systems Certification Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd105"
       },
       {
         "title": "Vehicle Electric Power System Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd104"
       },
       {
         "title": "Vehicle Environmental Materials Certification Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd102"
       },
       {
         "title": "Vehicle Passive Safety Certification Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd103"
       },
       {
         "title": "Senior Vehicle Certification Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd101"
       },
       {
         "title": "Vehicle Manufacturing Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd108"
       },
       {
         "title": "Senior Software Engineer: Control",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd86"
       },
       {
         "title": "ADS Integration Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd43"
       },
       {
         "title": "Software Engineer: Control",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd85"
       },
       {
         "title": "Software Engineer: System Performance for Adverse Weather Adaption",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd19"
       },
       {
         "title": "Perception Engineer: Recognition of Road Weather Conditions and Sensing Impact Analysis",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd18"
       },
       {
         "title": "Data Scientist: Adverse Weather Adaption",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd17"
       },
       {
         "title": "Software Engineer: Mapping and Localization",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd21"
       },
       {
         "title": "Software Engineer: Camera ISP",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd94"
       },
       {
         "title": "Software Engineer: Smart Cabin",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd80-88d36"
       },
       {
         "title": "Software Engineer: Sensor Calibration",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd34"
       },
       {
         "title": "Software Engineer: Audio Detection",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd80"
       },
       {
         "title": "Software Engineer: Computer Vision and Deep Learning",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd33"
       },
       {
         "title": "Perception Engineer: Object Modeling",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd93"
       },
       {
         "title": "Perception Engineer: Infrastructure",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd89"
       },
       {
         "title": "Perception Engineer: GPU Engineering",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd78"
       },
       {
         "title": "Perception Engineer: Machine Learning",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd77"
       },
       {
         "title": "Perception Engineer: LiDAR Object Detection",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd54"
       },
       {
         "title": "Perception Engineer: 3D Camera Object Detection",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd39"
       },
       {
         "title": "Perception Engineer: Scene Understanding",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd38"
       },
       {
         "title": "Senior Perception Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd02"
       },
       {
         "title": "Junior Perception Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd01"
       },
       {
         "title": "Software Engineer: Motion Prediction",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd20"
       },
       {
         "title": "Machine Learning Engineer for Motion and Behavior Planning",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "html:https://www.tensor.auto/careers/jd05"
       }
     ],
     "Lucid Motors": [],
@@ -23318,15 +24423,18 @@
       },
       {
         "title": "Research Engineer, Biosecurity, DeepMind",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "google:99615121633878726"
       },
       {
         "title": "Senior Staff Research Scientist/Engineer, Consumer Agents Post Training, DeepMind",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "google:119625608341660358"
       },
       {
         "title": "Research Engineer, Tech Lead Manager, Frontier and AGI Security, DeepMind",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "google:107224573174260422"
       },
       {
         "title": "Senior Staff Research Scientist, Recommendation Systems, DeepMind",
@@ -23334,19 +24442,23 @@
       },
       {
         "title": "Research Engineer, Energy Grids, Sustainability, DeepMind",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "google:83093570004624070"
       },
       {
         "title": "Technical Program Manager, Off-the-Shelf Hardware, DeepMind",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "google:84403346051343046"
       },
       {
         "title": "Research Scientist, Gemini Safety and Behavior, DeepMind",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "google:112196680719180486"
       },
       {
         "title": "Tech Lead, Gemini Inference Performance, DeepMind",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "google:124901724409209542"
       },
       {
         "title": "Semiconductor Material Science Research Scientist, DeepMind",
@@ -23358,27 +24470,33 @@
       },
       {
         "title": "Silicon Engineer, Physical Verification, DeepMind",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "google:93714145806820038"
       },
       {
         "title": "Research Collaboration Lead, DeepMind, DeepMind Institute",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "google:118541541416280774"
       },
       {
         "title": "Senior Software Engineer, Mobile, GeminiApp, DeepMind",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "google:79634996049912518"
       },
       {
         "title": "Manager, Technical Program Manager, GenAI Safety, DeepMind",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "google:128200673756881606"
       },
       {
         "title": "Robotics Platform Software Engineer, DeepMind",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "google:101314227876045510"
       },
       {
         "title": "Senior Staff Research Scientist, Gemini Research, DeepMind",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "google:112725365423514310"
       },
       {
         "title": "Impact Portfolio Lead, Health, DeepMind",
@@ -23394,15 +24512,18 @@
       },
       {
         "title": "Research Scientist, Gemini Agent Safety Post Training, DeepMind",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "google:96566779332960966"
       },
       {
         "title": "Technical Program Manager, Scientific Intelligence for Gemini, DeepMind (Full Time Contract)",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "google:102027750792929990"
       },
       {
         "title": "Research Scientist, Multilingual, Multicultural and Multimodal LLM, DeepMind",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "google:123744396079178438"
       },
       {
         "title": "Technical Program Manager, Sustainability, DeepMind",
@@ -23410,7 +24531,8 @@
       },
       {
         "title": "Research Scientist, Biosecurity, DeepMind",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "google:111635257626632902"
       },
       {
         "title": "Research Engineer, Gemini Omni, DeepMind",
@@ -23418,11 +24540,13 @@
       },
       {
         "title": "Research Scientist, Robotics RL, DeepMind",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "google:90064879599133382"
       },
       {
         "title": "Research Scientist, Human-AI Interaction, DeepMind",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "google:101711965469975238"
       },
       {
         "title": "Research Scientist, AGI Safety and Alignment, DeepMind",
@@ -23430,7 +24554,8 @@
       },
       {
         "title": "Chemist, DeepMind",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "google:116528427967619782"
       },
       {
         "title": "Research Scientist, Safety Oversight, DeepMind",
@@ -23446,7 +24571,8 @@
       },
       {
         "title": "Staff Research Engineer, Applied AI, DeepMind",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "google:80207760003605190"
       },
       {
         "title": "Research Scientist, Gemini Horizon, DeepMind",
@@ -23454,11 +24580,13 @@
       },
       {
         "title": "Technical Program Manager, Research to Production, Agent Systems, DeepMind",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "google:125832162501894854"
       },
       {
         "title": "Technical Program Manager, Compute Management, DeepMind",
-        "date": "2026-10-09"
+        "date": "2026-10-09",
+        "id": "google:97818811691868870"
       },
       {
         "title": "Evals Engineer, Polaris, DeepMind (Fixed-Term Contract)",
@@ -23466,75 +24594,93 @@
       },
       {
         "title": "Legal Expert Lead, Gemini Data, DeepMind",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "google:141412102681043654"
       },
       {
         "title": "Research Scientist, Philosophy and Human Values, DeepMind",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "google:139822896062046918"
       },
       {
         "title": "Threat Modeller, DeepMind",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "google:82189795068912326"
       },
       {
         "title": "Health Expert Lead, Gemini Data, DeepMind",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "google:79244753173914310"
       },
       {
         "title": "Research Scientist, FSF Risk Modeling and Governance, DeepMind",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "google:91961567221818054"
       },
       {
         "title": "Materials Laboratory Scientist, Science, DeepMind",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "google:139730949402174150"
       },
       {
         "title": "Product Manager, Deep Zoom, DeepMind",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "google:73697523738256070"
       },
       {
         "title": "Radiological Expert, DeepMind",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "google:105510380859466438"
       },
       {
         "title": "Research Engineer, Chemical, Biological and Nuclear AI Safety, DeepMind",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "google:73965804575433414"
       },
       {
         "title": "Technical Program Manager, Model Launches, DeepMind (Fixed-Term Contract)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "google:123673075999744710"
       },
       {
         "title": "Software Engineer, ML Accelerators, DeepMind",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "google:107302756611433158"
       },
       {
         "title": "Threat Modeling Lead, Harmful Manipulation, DeepMind",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "google:89317117202965190"
       },
       {
         "title": "External Safety Testing Manager, Responsible Development and Innovation, DeepMind",
-        "date": "2026-10-15"
+        "date": "2026-10-15",
+        "id": "google:134821866207355590"
       },
       {
         "title": "Product Manager, CBRNE, DeepMind",
-        "date": "2026-10-16"
+        "date": "2026-10-16",
+        "id": "google:120896585801310918"
       },
       {
         "title": "Post-Training Technical Program Manager, Data Governance, DeepMind",
-        "date": "2026-10-19"
+        "date": "2026-10-19",
+        "id": "google:133119160782594758"
       },
       {
         "title": "Software Engineer, Accelerators Software/Hardware Co design, DeepMind",
-        "date": "2026-10-20"
+        "date": "2026-10-20",
+        "id": "google:93392001784783558"
       },
       {
         "title": "Research Scientist, User Signals from Agentic Logs, DeepMind",
-        "date": "2026-10-20"
+        "date": "2026-10-20",
+        "id": "google:104448828152652486"
       },
       {
         "title": "Product Manager, GenAI, DeepMind",
-        "date": "2026-10-21"
+        "date": "2026-10-21",
+        "id": "google:139788849856291526"
       },
       {
         "title": "US Frontier AI Policy Manager, DeepMind",
@@ -23542,19 +24688,393 @@
       },
       {
         "title": "Research Scientist, Robotics, DeepMind",
-        "date": "2026-10-21"
+        "date": "2026-10-21",
+        "id": "google:91166074854089414"
       },
       {
         "title": "Research Engineer, Gemini Large Scale Pretraining, DeepMind",
-        "date": "2026-10-21"
+        "date": "2026-10-21",
+        "id": "google:142611399284007622"
       },
       {
         "title": "Staff Research Engineer, GenAI Reinforcement Learning, DeepMind",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "google:114314436751041222"
       },
       {
         "title": "US AI Policy Manager, DeepMind",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "google:140898085290025670"
+      },
+      {
+        "title": "Research Developer, Frontier AI Incubation, DeepMind",
+        "date": "N/A",
+        "id": "google:88729681640989382"
+      },
+      {
+        "title": "GenAI Strategic Planning Manager, DeepMind",
+        "date": "N/A",
+        "id": "google:95102721618518726"
+      },
+      {
+        "title": "Research Software Engineer, DeepMind",
+        "date": "N/A",
+        "id": "google:101527080012784326"
+      },
+      {
+        "title": "Software Engineer, Anti-distillation Investigations, Enforcements and Infrastructure, DeepMind",
+        "date": "N/A",
+        "id": "google:90333510476145350"
+      },
+      {
+        "title": "Strategic Sourcing Engineer, DeepMind",
+        "date": "N/A",
+        "id": "google:82017197513155270"
+      },
+      {
+        "title": "Research Engineer, Frontier Safety Mitigations, DeepMind",
+        "date": "N/A",
+        "id": "google:103014476579513030"
+      },
+      {
+        "title": "Group Product Manager, Frontier Model Protection, DeepMind",
+        "date": "N/A",
+        "id": "google:125959927041532614"
+      },
+      {
+        "title": "Finance Expert Lead, Gemini Data, DeepMind",
+        "date": "N/A",
+        "id": "google:143208154925015750"
+      },
+      {
+        "title": "Software Engineer, Gemini Everywhere, DeepMind",
+        "date": "N/A",
+        "id": "google:113552153070445254"
+      },
+      {
+        "title": "Research Scientist, Multisensor Robotics, DeepMind",
+        "date": "N/A",
+        "id": "google:79137469185827526"
+      },
+      {
+        "title": "Research Engineer, Gemini Cyber Post-Training, DeepMind",
+        "date": "N/A",
+        "id": "google:118396236230206150"
+      },
+      {
+        "title": "Technical Program Manager, Responsibility, DeepMind",
+        "date": "N/A",
+        "id": "google:116354125309846214"
+      },
+      {
+        "title": "Silicon Engineer, Power Analysis, DeepMind",
+        "date": "N/A",
+        "id": "google:143938129714127558"
+      },
+      {
+        "title": "Biologist, DeepMind",
+        "date": "N/A",
+        "id": "google:141005755825169094"
+      },
+      {
+        "title": "Research Scientist, Frontier Computation, DeepMind",
+        "date": "N/A",
+        "id": "google:114850654828012230"
+      },
+      {
+        "title": "Research Engineer, Gemini Information Retrieval, DeepMind",
+        "date": "N/A",
+        "id": "google:75958862674305734"
+      },
+      {
+        "title": "Research Engineer, Machine Learning, GeminiApp Personalization, DeepMind",
+        "date": "N/A",
+        "id": "google:129309404531958470"
+      },
+      {
+        "title": "InfoTasks Productivity Agents, DeepMind",
+        "date": "N/A",
+        "id": "google:97084041571771078"
+      },
+      {
+        "title": "Staff Research Scientist, Gemini Research, DeepMind",
+        "date": "N/A",
+        "id": "google:136113981348553414"
+      },
+      {
+        "title": "Forward Deployed Engineer, Kaggle, DeepMind (Fixed-Term Contract)",
+        "date": "N/A",
+        "id": "google:88371816375952070"
+      },
+      {
+        "title": "Technical Program Manager, Gemini Post-Training, Consumer Agents, DeepMind",
+        "date": "N/A",
+        "id": "google:141936281964683974"
+      },
+      {
+        "title": "Lean Theorem Proving Engineer, Verified Code Generation, DeepMind",
+        "date": "N/A",
+        "id": "google:72320887935640262"
+      },
+      {
+        "title": "Research Engineer, Polaris, DeepMind",
+        "date": "N/A",
+        "id": "google:114077679900074694"
+      },
+      {
+        "title": "Research Engineer, Responsible Frontier AI Research, DeepMind",
+        "date": "N/A",
+        "id": "google:95551382492193478"
+      },
+      {
+        "title": "Staff Software Engineer, GeminiApp Growth and Discovery, DeepMind",
+        "date": "N/A",
+        "id": "google:99346641080722118"
+      },
+      {
+        "title": "Research Scientist, Gemini Commercial Intelligence, DeepMind",
+        "date": "N/A",
+        "id": "google:72530409325241030"
+      },
+      {
+        "title": "Technical Program Manager, Gemini Post-Training, Knowledge Work, DeepMind",
+        "date": "N/A",
+        "id": "google:128214789166899910"
+      },
+      {
+        "title": "Technical Program Manager, AI Safety and Security Launches, DeepMind",
+        "date": "N/A",
+        "id": "google:100202767649252038"
+      },
+      {
+        "title": "Software Engineer, Educational Simulations, DeepMind (Fixed-Term Contract)",
+        "date": "N/A",
+        "id": "google:106536036229620422"
+      },
+      {
+        "title": "Research Engineering Technical Lead, AlphaEarth, DeepMind",
+        "date": "N/A",
+        "id": "google:102468972783248070"
+      },
+      {
+        "title": "Technical Program Manager, Scientific Intelligence for Gemini, DeepMind",
+        "date": "N/A",
+        "id": "google:120369795177554630"
+      },
+      {
+        "title": "Staff UX Researcher, GeminiApp, DeepMind",
+        "date": "N/A",
+        "id": "google:83173346874663622"
+      },
+      {
+        "title": "Product Manager, New Consumer Verticals, DeepMind",
+        "date": "N/A",
+        "id": "google:129969098623722182"
+      },
+      {
+        "title": "Senior Program Manager, Frontier Strategy and Governance, DeepMind Institute, DeepMind",
+        "date": "N/A",
+        "id": "google:131207062817252038"
+      },
+      {
+        "title": "Head of Research, Professional Intelligence, DeepMind",
+        "date": "N/A",
+        "id": "google:107267097645458118"
+      },
+      {
+        "title": "Research Engineer, Robotics, DeepMind",
+        "date": "N/A",
+        "id": "google:100032880217858758"
+      },
+      {
+        "title": "Senior Technical Program Manager, AGI Safety and Alignment, DeepMind",
+        "date": "N/A",
+        "id": "google:108734498991940294"
+      },
+      {
+        "title": "Research Engineering Manager, Responsible Frontier AI Research, DeepMind",
+        "date": "N/A",
+        "id": "google:132535440367329990"
+      },
+      {
+        "title": "Senior Research Engineer, Embodied Generalist Agent, Gaming, DeepMind",
+        "date": "N/A",
+        "id": "google:80298705936097990"
+      },
+      {
+        "title": "Senior Research Scientist, Efficient Long Context and Memory, DeepMind",
+        "date": "N/A",
+        "id": "google:111853386130694854"
+      },
+      {
+        "title": "Staff Software Engineer, GenAI Silicon Automation, DeepMind",
+        "date": "N/A",
+        "id": "google:90289280902931142"
+      },
+      {
+        "title": "People and Culture Program Manager, DeepMind",
+        "date": "N/A",
+        "id": "google:75771477546148550"
+      },
+      {
+        "title": "Frontier Safety Mitigations Research Engineer, DeepMind",
+        "date": "N/A",
+        "id": "google:113090804863378118"
+      },
+      {
+        "title": "Technical Program Manager, Data Collection and Model Evaluation (Fixed-Term Contract), DeepMind",
+        "date": "N/A",
+        "id": "google:142358739242885830"
+      },
+      {
+        "title": "Staff Software Engineer, Inference Performance Optimization, GenAI, DeepMind",
+        "date": "N/A",
+        "id": "google:138336296211751622"
+      },
+      {
+        "title": "Biologist, DeepMind",
+        "date": "N/A",
+        "id": "google:98284566535381702"
+      },
+      {
+        "title": "Group Product Manager, Architectural Advances, Frontier AI, DeepMind",
+        "date": "N/A",
+        "id": "google:135513115423843014"
+      },
+      {
+        "title": "Senior Data Scientist, GeminiApp, DeepMind",
+        "date": "N/A",
+        "id": "google:104544831409136326"
+      },
+      {
+        "title": "Research Scientist, Robotics Pre-Training and Data Quality, DeepMind",
+        "date": "N/A",
+        "id": "google:96880477301809862"
+      },
+      {
+        "title": "Group Product Manager, Gemini Audio Delivery and Infrastructure, DeepMind",
+        "date": "N/A",
+        "id": "google:83696555495695046"
+      },
+      {
+        "title": "Technical Program Manager, Frontier Security and Privacy, DeepMind",
+        "date": "N/A",
+        "id": "google:106387404591375046"
+      },
+      {
+        "title": "UX Designer, Human-Computer Interaction, DeepMind",
+        "date": "N/A",
+        "id": "google:137916551205397190"
+      },
+      {
+        "title": "Chemist Lead, DeepMind",
+        "date": "N/A",
+        "id": "google:79757245851542214"
+      },
+      {
+        "title": "Administrative Business Partner, DeepMind (Fixed-Term Contract)",
+        "date": "N/A",
+        "id": "google:76482200144356038"
+      },
+      {
+        "title": "Computational Biologist, DeepMind",
+        "date": "N/A",
+        "id": "google:102726078115521222"
+      },
+      {
+        "title": "Technical Writer, DeepMind, DeepMind Institute",
+        "date": "N/A",
+        "id": "google:117413442486182598"
+      },
+      {
+        "title": "Research Scientist, Human Data, Robotics, DeepMind",
+        "date": "N/A",
+        "id": "google:122138458415080134"
+      },
+      {
+        "title": "Introspection Probe Research Engineer, Development and Infrastructure, Gemini Security, DeepMind",
+        "date": "N/A",
+        "id": "google:126754223260869318"
+      },
+      {
+        "title": "Software Engineer, Gemini App Skills Platform, DeepMind",
+        "date": "N/A",
+        "id": "google:136860781672047302"
+      },
+      {
+        "title": "Research Scientist/Engineer, Autonomous Security, DeepMind",
+        "date": "N/A",
+        "id": "google:136766307423920838"
+      },
+      {
+        "title": "Research Scientist, Agents, DeepMind",
+        "date": "N/A",
+        "id": "google:82988974666064582"
+      },
+      {
+        "title": "Research Scientist, Gemini Vision, DeepMind",
+        "date": "N/A",
+        "id": "google:123047855462982342"
+      },
+      {
+        "title": "Staff Research Scientist, Gemini Research, DeepMind",
+        "date": "N/A",
+        "id": "google:95754757783593670"
+      },
+      {
+        "title": "Staff Software Engineer, DeepMind",
+        "date": "N/A",
+        "id": "google:110097852608193222"
+      },
+      {
+        "title": "Staff Research Scientist/Engineer, Consumer Agents Post Training, DeepMind",
+        "date": "N/A",
+        "id": "google:120683810973983430"
+      },
+      {
+        "title": "Senior Staff Technical Program Manager for Safety and Privacy, GeminiApp, DeepMind",
+        "date": "N/A",
+        "id": "google:110831276256043718"
+      },
+      {
+        "title": "Administrative Business Partner, Frontier AI, DeepMind, Fixed-Term Contract",
+        "date": "N/A",
+        "id": "google:132055864319058630"
+      },
+      {
+        "title": "Finance Expert Lead, Gemini Data, DeepMind",
+        "date": "N/A",
+        "id": "google:84832883583132358"
+      },
+      {
+        "title": "Research Engineer, Responsibility, DeepMind",
+        "date": "N/A",
+        "id": "google:86802325804327622"
+      },
+      {
+        "title": "Nuclear Expert, DeepMind",
+        "date": "N/A",
+        "id": "google:76790381227713222"
+      },
+      {
+        "title": "Research Scientist for Gemini Horizon, DeepMind",
+        "date": "N/A",
+        "id": "google:120224767016870598"
+      },
+      {
+        "title": "Science Expert Lead, Gemini Data, DeepMind",
+        "date": "N/A",
+        "id": "google:82319932577981126"
+      },
+      {
+        "title": "Senior Software Engineer, Gemini Deployment and Performance, DeepMind",
+        "date": "N/A",
+        "id": "google:74508611132236486"
+      },
+      {
+        "title": "Research Engineer, Agentic Security for Gemini, DeepMind",
+        "date": "N/A",
+        "id": "google:124995998941356742"
       }
     ],
     "Wing": [
@@ -29844,11 +31364,13 @@
       },
       {
         "title": "Site Operations Fellow (Skillbridge)",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "workday:R6694"
       },
       {
         "title": "\u2b50\ufe0f Co-Op- System Engineer",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "workday:R8261"
       },
       {
         "title": "\u2b50\ufe0f Co-Op- System Engineer",
@@ -29856,11 +31378,13 @@
       },
       {
         "title": "\u2b50\ufe0f Intern- Project Manager",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "workday:R7971"
       },
       {
         "title": "\u2b50\ufe0f Intern - Industrial Controls",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "workday:R7973"
       },
       {
         "title": "\u2b50\ufe0f Intern - Hardware Engineer",
@@ -29868,15 +31392,18 @@
       },
       {
         "title": "\u2b50\ufe0f Intern- Data Engineer",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "workday:R7967"
       },
       {
         "title": "\u2b50\ufe0f Intern- PhD Applied Scientist, Routing",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "workday:R7966"
       },
       {
         "title": "\u2b50\ufe0f Intern- Bot Controls",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "workday:R7965"
       },
       {
         "title": "\u2b50\ufe0f Intern - User Experience",
@@ -29884,27 +31411,33 @@
       },
       {
         "title": "\u2b50\ufe0f Intern- Software Engineer",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "workday:R7963"
       },
       {
         "title": "Cell Operator",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "workday:R8263"
       },
       {
         "title": "Regional Controller, Mexico",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "workday:R8176"
       },
       {
         "title": "Project Engineer, Commissioning Services",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "workday:R7369"
       },
       {
         "title": "On-Site Project Manager (East, Central, West)",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "workday:R6151"
       },
       {
         "title": "Shift Manager",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "workday:R7704"
       },
       {
         "title": "Senior Service Operations Project Manager",
@@ -29912,11 +31445,13 @@
       },
       {
         "title": "\u2b50\ufe0f Co-Op- Project Engineer, Commissioning",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "workday:R8240"
       },
       {
         "title": "Site Engineer",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "workday:R8306"
       },
       {
         "title": "Staff Embedded Software Engineer",
@@ -29924,11 +31459,13 @@
       },
       {
         "title": "Maintenance Technician II",
-        "date": "2026-10-15"
+        "date": "2026-10-15",
+        "id": "workday:R8039-1"
       },
       {
         "title": "Maintenance Technician (All Levels)",
-        "date": "2026-10-15"
+        "date": "2026-10-15",
+        "id": "workday:R7111-1"
       },
       {
         "title": "Maintenance Technician (All Levels)",
@@ -29940,7 +31477,8 @@
       },
       {
         "title": "Maintenance Technician",
-        "date": "2026-10-15"
+        "date": "2026-10-15",
+        "id": "workday:R7504"
       },
       {
         "title": "Maintenance Technician",
@@ -29952,7 +31490,8 @@
       },
       {
         "title": "Commissioning Services Specialist",
-        "date": "2026-10-15"
+        "date": "2026-10-15",
+        "id": "workday:R8084"
       },
       {
         "title": "Maintenance Supervisor",
@@ -29960,211 +31499,263 @@
       },
       {
         "title": "\u2b50\ufe0f Co-op- Robot Manipulation",
-        "date": "2026-10-15"
+        "date": "2026-10-15",
+        "id": "workday:R8257"
       },
       {
         "title": "Staff Software Engineer, Industrial Controls Systems - Tooling",
-        "date": "2026-10-15"
+        "date": "2026-10-15",
+        "id": "workday:R8238"
       },
       {
         "title": "Regional Controller, Canada",
-        "date": "2026-10-15"
+        "date": "2026-10-15",
+        "id": "workday:R8228"
       },
       {
         "title": "System Support Engineer",
-        "date": "2026-10-15"
+        "date": "2026-10-15",
+        "id": "workday:R7485"
       },
       {
         "title": "Robotics Planning Engineer (All Levels)",
-        "date": "2026-10-16"
+        "date": "2026-10-16",
+        "id": "workday:R7014"
       },
       {
         "title": "Senior Manager, Systems Test and Software Quality Assurance",
-        "date": "2026-10-16"
+        "date": "2026-10-16",
+        "id": "workday:R8285"
       },
       {
         "title": "Senior Mechanical Engineer - Robotics Fleet",
-        "date": "2026-10-19"
+        "date": "2026-10-19",
+        "id": "workday:R8260"
       },
       {
         "title": "Sr. Test Engineer (Electrical)",
-        "date": "2026-10-19"
+        "date": "2026-10-19",
+        "id": "workday:R7136"
       },
       {
         "title": "\u2b50\ufe0f Intern- Robot Manipulation",
-        "date": "2026-10-19"
+        "date": "2026-10-19",
+        "id": "workday:R8278"
       },
       {
         "title": "\u2b50\ufe0f MBA Intern- Executive Projects",
-        "date": "2026-10-19"
+        "date": "2026-10-19",
+        "id": "workday:R8293"
       },
       {
         "title": "FIeld Service Engineer",
-        "date": "2026-10-20"
+        "date": "2026-10-20",
+        "id": "workday:R8288"
       },
       {
         "title": "Staff Software Engineer - Algorithms",
-        "date": "2026-10-20"
+        "date": "2026-10-20",
+        "id": "workday:R8304"
       },
       {
         "title": "Technical Program Manager",
-        "date": "2026-10-20"
+        "date": "2026-10-20",
+        "id": "workday:R8301"
       },
       {
         "title": "New Grad- Project Coordinator",
-        "date": "2026-10-20"
+        "date": "2026-10-20",
+        "id": "workday:R8277"
       },
       {
         "title": "Technical Program Manager, Industrial Controls, R&D",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R8321"
       },
       {
         "title": "Service Readiness Engineer",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R8313"
       },
       {
         "title": "Technical Control Engineer",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R8315"
       },
       {
         "title": "Project Manager, Industrial Controls Implementation",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R8319"
       },
       {
         "title": "Manager, Lab Engineering",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R8318"
       },
       {
         "title": "Staff Software Engineer",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R8184"
       },
       {
         "title": "Principal Software Engineer, Perception",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7829"
       },
       {
         "title": "Staff Electrical Engineer",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R8168"
       },
       {
         "title": "\u2b50\ufe0f Intern- Machine Learning Ops",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R8202"
       },
       {
         "title": "Principal Autonomous Test Engineer",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R8197"
       },
       {
         "title": "Accounts Receivable Specialist",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R8187"
       },
       {
         "title": "Quality Engineer",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7289"
       },
       {
         "title": "Senior Benefits Analyst",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R8185"
       },
       {
         "title": "Site Installation Lead",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R6796"
       },
       {
         "title": "Manager, Logistics - Distribution Planning & Execution",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7533-1"
       },
       {
         "title": "Principal Electrical Engineer",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R8165"
       },
       {
         "title": "Senior Manager, Electrical Engineering Design",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R8054"
       },
       {
         "title": "Supervisor, Technical Support",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R8159-1"
       },
       {
         "title": "Senior Manager, Simulation Engineering",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7744"
       },
       {
         "title": "Accounts Payable Specialist",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R8158"
       },
       {
         "title": "Manager, Commercial Excellence-Installation Programs",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R8162"
       },
       {
         "title": "Principal Industrial Controls Engineer",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R8152"
       },
       {
         "title": "Sr. Automation Maintenance Manager",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R8091-2"
       },
       {
         "title": "Operations Development Program",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7969"
       },
       {
         "title": "\u2b50\ufe0f Co-op - Robot Perception",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R8113-1"
       },
       {
         "title": "\u2b50\ufe0f Co-op - Software Engineer",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R8111"
       },
       {
         "title": "Senior Fullstack Engineer (NodeJS, ReactJS)",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7892"
       },
       {
         "title": "\u2b50\ufe0f Co-op- Hardware Engineer",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7976"
       },
       {
         "title": "\u2b50\ufe0f Intern- Robot Perception",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7964"
       },
       {
         "title": "Senior Software Engineer (C#, React)",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7947"
       },
       {
         "title": "Senior Frontend Engineer (Angular, React)",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7944"
       },
       {
         "title": "Staff Software Engineer (C#, React)",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7941"
       },
       {
         "title": "Simulation Engineer (Gz-Sim, ROS2)",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7896-1"
       },
       {
         "title": "Fullstack Engineer (NodeJS, ReactJS)",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7893"
       },
       {
         "title": "Senior Simulation Engineer (Gz-Sim, ROS2)",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7897"
       },
       {
         "title": "Senior 3D Web Engineer (Three.js, WebGL, WebGPU)",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7895"
       },
       {
         "title": "3D Web Engineer (Three.js, WebGL, WebGPU)",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7894"
       },
       {
         "title": "Senior Manager, Industrial Controls Engineering",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7863"
       },
       {
         "title": "Senior Operational Auditor \u2013 (Supply Chain & Inventory)",
@@ -30172,75 +31763,93 @@
       },
       {
         "title": "NPI Project Specialist",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R8034"
       },
       {
         "title": "Senior Software QA Engineer (Functional/Embedded QA)",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7940"
       },
       {
         "title": "Staff Electrical Quality Engineer",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7755"
       },
       {
         "title": "Senior Mechanical Engineer",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7915"
       },
       {
         "title": "Senior Robotics Engineer - Robot Perception",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7015"
       },
       {
         "title": "Staff AI Data Analytics Engineer",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R6834"
       },
       {
         "title": "Site Installation Manager",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7444"
       },
       {
         "title": "Senior Electrical Engineer, PCB Design",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R6733"
       },
       {
         "title": "Staff Mechanical Engineer - Mobile Fleet",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7271"
       },
       {
         "title": "Field Service Technician",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7276"
       },
       {
         "title": "Sr. Site Quality Engineer",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7780"
       },
       {
         "title": "Project Director",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7752"
       },
       {
         "title": "Staff Mechanical Engineer - Strategic Projects",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R5940-1"
       },
       {
         "title": "NPI Procurement Manager",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7753"
       },
       {
         "title": "Senior Project Manager",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7235"
       },
       {
         "title": "Field Service Engineer",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7305"
       },
       {
         "title": "Maintenance Engineer",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7670"
       },
       {
         "title": "Bot Field Service Maintenance Technician",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R6995"
       },
       {
         "title": "Senior\u202fSecurity\u202fAutomation Engineer",
@@ -30248,23 +31857,28 @@
       },
       {
         "title": "Field Engineer Fellow (Skillbridge)",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7655"
       },
       {
         "title": "Senior Manufacturing Engineer",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7637"
       },
       {
         "title": "Principal Cloud Architect",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7628"
       },
       {
         "title": "Test Engineer",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R6971"
       },
       {
         "title": "Staff Support Software Engineer",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7298"
       },
       {
         "title": "Test Engineer",
@@ -30272,23 +31886,33 @@
       },
       {
         "title": "Senior Embedded Engineer, Safety",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7159"
       },
       {
         "title": "Software Support Engineer",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7020"
       },
       {
         "title": "Staff Software Engineer - Fleet Operations",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7517"
       },
       {
         "title": "Staff Software Engineer - Fleet Controls",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7514-1"
       },
       {
         "title": "Manager of Mechanical Engineering",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R7091-1"
+      },
+      {
+        "title": "Senior Security Automation Engineer",
+        "date": "N/A",
+        "id": "workday:R7685"
       }
     ],
     "PROCEPT BioRobotics": [
@@ -34350,79 +35974,98 @@
     "Caterpillar": [
       {
         "title": "\u2b50\ufe0f Part-time Accounting Intern",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R0000338425-1"
       },
       {
         "title": "\u2b50\ufe0f 2027 Part-Time Intern - Engineering",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R0000399906"
       },
       {
         "title": "\u2b50\ufe0f 2026 Supply Chain Co-Op",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R0000322517"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Corporate Intern - Autonomy & Intelligent Systems Engineering",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R0000392394"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Corporate Intern \u2013 Digital and Analytics",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R0000392335"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Corporate Internship - Human Resources",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R0000380177"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Corporate Intern - Communications",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R0000380423"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Corporate Intern \u2013 Product Support Engineering",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R0000391403"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Corporate Intern - Marketing",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R0000391407"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Corporate Intern - Business Operations",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R0000391405-1"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Corporate Intern - Engineering",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R0000384650"
       },
       {
         "title": "\u2b50\ufe0f 2027 Engineering Corporate Internship Program Materials",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R0000380501"
       },
       {
         "title": "\u2b50\ufe0f 2027 Engineering Corporate Internship Program Welding",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R0000380506"
       },
       {
         "title": "\u2b50\ufe0f 2027 Engineering Corporate Parallel Co-op Program",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R0000380509"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Information Technology",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R0000387802"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Corporate Intern- Manufacturing",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R0000380454"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Corporate Intern- Supply Chain",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R0000380457"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Corporate Intern - Environmental, Health and Safety",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R0000380458"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Corporate Intern - Procurement",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R0000380151"
       }
     ],
     "Ocado": [
@@ -34697,63 +36340,78 @@
     "Northrop Grumman": [
       {
         "title": "\u2b50\ufe0f 2027 Structural / Electromechanical Engineer Intern - Redondo Beach CA",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R10257211"
       },
       {
         "title": "\u2b50\ufe0f 2027 Electrical Engineer Intern - Redondo Beach CA",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R10257204"
       },
       {
         "title": "\u2b50\ufe0f 2027 Stress Analysis and Tooling Design Engineer Intern - Commerce CA",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R10257184"
       },
       {
         "title": "\u2b50\ufe0f 2027 Structural Engineer Intern - San Diego CA",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R10256968-1"
       },
       {
         "title": "\u2b50\ufe0f 2027 Materials and Process Engineering Intern - San Diego CA",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R10256955"
       },
       {
         "title": "\u2b50\ufe0f 2027 Business Management Intern - Radford VA",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R10253742"
       },
       {
         "title": "\u2b50\ufe0f 2027 Software Engineering Intern - Roy UT",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R10257053"
       },
       {
         "title": "\u2b50\ufe0f 2027 Mission Assurance / Quality Assurance Intern - Roy UT",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R10257016"
       },
       {
         "title": "\u2b50\ufe0f 2027Aeronautical Integration and Test Intern - Huntsville AL",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R10256851-1"
       },
       {
         "title": "\u2b50\ufe0f 2027 Engineering Internship (Dulles VA / Baltimore MD)",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R10256270"
       },
       {
         "title": "\u2b50\ufe0f 2027 Electrical Engineering Intern - Vandenberg CA",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R10256590"
       },
       {
         "title": "\u2b50\ufe0f 2027 Engineering Intern (ME/EE) - Wallops VA",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R10256585"
       },
       {
         "title": "\u2b50\ufe0f 2027 Engineering Intern (Manufacturing and Operations) - Chandler AZ",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R10256661"
       },
       {
         "title": "\u2b50\ufe0f 2027 Cyber Systems Engineer Intern-Tampa FL",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R10249196"
       },
       {
         "title": "\u2b50\ufe0f 2027 Subsystems Design Modeling Internship - Linthicum MD",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R10256697"
       },
       {
         "title": "\u2b50\ufe0f 2027 Subsystems Design Modeling Internship - Linthicum MD",
@@ -34761,43 +36419,53 @@
       },
       {
         "title": "\u2b50\ufe0f 2027 Mechanical Propulsion Engineer Internship - Dulles VA",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R10256657"
       },
       {
         "title": "\u2b50\ufe0f 2027 Supply Chain Intern - HYBRID/Baltimore MD/Redondo Beach CA",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R10256597-1"
       },
       {
         "title": "\u2b50\ufe0f 2027 Intern - Survivability Engineer",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R10256592"
       },
       {
         "title": "\u2b50\ufe0f 2027 Global Supply Chain Intern - Elkridge MD",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R10256567"
       },
       {
         "title": "\u2b50\ufe0f 2027 Software Engineer Intern - Linthicum Maryland",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R10248910"
       },
       {
         "title": "\u2b50\ufe0f 2027 Software Engineering Intern - Boulder CO",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R10256077"
       },
       {
         "title": "\u2b50\ufe0f 2027 Software Engineering Intern - Colorado Springs",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R10256080"
       },
       {
         "title": "\u2b50\ufe0f 2027 Systems Engineering Intern - Colorado Springs CO",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R10256088"
       },
       {
         "title": "\u2b50\ufe0f 2027 Systems Engineering Intern - Aurora CO",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R10256237"
       },
       {
         "title": "\u2b50\ufe0f 2027 Software Engineering Intern - Aurora CO",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R10256393"
       },
       {
         "title": "\u2b50\ufe0f 2027 Software Engineering Intern - Colorado Springs",
@@ -34809,31 +36477,38 @@
       },
       {
         "title": "\u2b50\ufe0f Chandler Manufacturing Technician Intern (2nd Shift) - Fall",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R10254794"
       },
       {
         "title": "\u2b50\ufe0f Chandler Manufacturing Technician Intern - Fall",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R10250966"
       },
       {
         "title": "\u2b50\ufe0f Gilbert Manufacturing Technician Intern - Fall",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R10250962"
       },
       {
         "title": "\u2b50\ufe0f 2027 Engineering Intern - Hollywood (MD) (Evergreen)",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R10253725"
       },
       {
         "title": "\u2b50\ufe0f 2027 Engineering Intern - Melbourne (FL) (Evergreen)",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R10253720-1"
       },
       {
         "title": "\u2b50\ufe0f 2027 Engineering Intern - Manhattan Beach (CA) (Evergreen)",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R10253708"
       },
       {
         "title": "\u2b50\ufe0f 2027 Cyber Software Engineer Intern - San Antonio TX",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "workday:R10257311"
       }
     ],
     "OpenAI": [
