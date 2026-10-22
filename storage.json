@@ -1510,6 +1510,21 @@
         "title": "\u2b50\ufe0f Network Production Engineer Intern",
         "date": "2026-10-22",
         "id": "meta:1412139847020398"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, FAIR \u2013 Multi-Agent Systems and Memory (PhD)",
+        "date": "2026-10-22",
+        "id": "meta:2615214025585454"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, FAIR - Video Generation (PhD)",
+        "date": "2026-10-22",
+        "id": "meta:3549654831867862"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, AI Alignment",
+        "date": "2026-10-22",
+        "id": "meta:2356892281747003"
       }
     ],
     "Apple": [
@@ -4357,95 +4372,118 @@
     "Tesla": [
       {
         "title": "\u2b50\ufe0f Internship, Applied SI Engineer, SI Hardware (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:279603"
       },
       {
         "title": "\u2b50\ufe0f Internship, Software Engineer, Core SI Compiler & Runtime (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:281951"
       },
       {
         "title": "\u2b50\ufe0f Internship, Software Engineer, SI Inference Co Design (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:279600"
       },
       {
         "title": "\u2b50\ufe0f Internship, RL Engineer, Tesla SI (Fall 2026/Winter 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:275494"
       },
       {
         "title": "\u2b50\ufe0f Internship, Inline Metrology Systems Design/Engineer, Cell Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:285679"
       },
       {
         "title": "\u2b50\ufe0f Customer & Field Quality Engineer Intern, Cell Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:285667"
       },
       {
         "title": "\u2b50\ufe0f Internship, Aerodynamics Engineering, New Programs Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:285350"
       },
       {
         "title": "\u2b50\ufe0f Internship, Data Engineer, Data Engineering & Business Intelligence (Winter/Spring2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:285291"
       },
       {
         "title": "\u2b50\ufe0f Internship, Data Engineer, Applications Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:285179"
       },
       {
         "title": "\u2b50\ufe0f Internship, Test Engineer, Self-Driving (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:282596"
       },
       {
         "title": "\u2b50\ufe0f Internship, SI Hardware Signal & Power Integrity Engineer, SI Hardware (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:285120"
       },
       {
         "title": "\u2b50\ufe0f Internship, Software Integration Engineer, SI Platforms (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:277009"
       },
       {
         "title": "\u2b50\ufe0f Internship, Grid Compliance Test Engineer, Energy Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:284882"
       },
       {
         "title": "\u2b50\ufe0f Internship, SI Hardware RTL Design Engineer, SI Hardware (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:285089"
       },
       {
         "title": "\u2b50\ufe0f Internship, SI Hardware Design Verification Engineer, SI Hardware (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:285088"
       },
       {
         "title": "\u2b50\ufe0f Internship, Technical Program Manager, Software, Energy Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:285077"
       },
       {
         "title": "\u2b50\ufe0f Internship, Robotics Technical Program Manager, Optimus Hardware (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:284822"
       },
       {
         "title": "\u2b50\ufe0f Internship, SI Hardware Silicon Validation Engineer, SI Hardware (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:284821"
       },
       {
         "title": "\u2b50\ufe0f Internship, Robotics Thermal Design Engineer, Optimus (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:284820"
       },
       {
         "title": "\u2b50\ufe0f Internship, Actuator Test Engineer, Optimus (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:284819"
       },
       {
         "title": "\u2b50\ufe0f Internship, Actuator Mechanical Design Engineer, Optimus (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:284818"
       },
       {
         "title": "\u2b50\ufe0f Internship, Electric Motor Mechanical Modeling Engineer, Motor Design (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:284817"
       },
       {
         "title": "\u2b50\ufe0f Internship, Mobile Application Software Engineer, Energy Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:284776"
       },
       {
         "title": "\u2b50\ufe0f Internship, Grid Compliance Test Engineer, Energy Engineering (Winter/Spring 2027)",
@@ -4453,23 +4491,28 @@
       },
       {
         "title": "\u2b50\ufe0f Internship, Mechanical Test Engineer, Energy Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:284718"
       },
       {
         "title": "\u2b50\ufe0f Internship, Robotics Electrical Design Engineer, Tactile Sensing, Optimus (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:284593"
       },
       {
         "title": "\u2b50\ufe0f Internship, Robotics Mechanical Design Engineer, Optimus (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:284551"
       },
       {
         "title": "\u2b50\ufe0f Internship, IT Support Technician, Infrastructure Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:284490"
       },
       {
         "title": "\u2b50\ufe0f Internship, Robotics Modeling & Simulation Engineer, Optimus (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:284436"
       },
       {
         "title": "\u2b50\ufe0f Internship, Grid Compliance Test Engineer, Energy Engineering (Winter/Spring 2027)",
@@ -4477,63 +4520,78 @@
       },
       {
         "title": "\u2b50\ufe0f Internship, Engineering Product Marketing (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:284213"
       },
       {
         "title": "\u2b50\ufe0f Internship, Software Engineering, People Products (Summer 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:284004"
       },
       {
         "title": "\u2b50\ufe0f Internship, Software Engineering, People Products (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:284003"
       },
       {
         "title": "\u2b50\ufe0f Internship, Electrical Engineer, Power Electronics, Optimus (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:284009"
       },
       {
         "title": "\u2b50\ufe0f Internship, Electronic Design Engineer, Optimus (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:284008"
       },
       {
         "title": "\u2b50\ufe0f Internship, Electromechanical Product Design Engineer, Optimus (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:284007"
       },
       {
         "title": "\u2b50\ufe0f Internship, Electrical Engineer, Energy Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:283672"
       },
       {
         "title": "\u2b50\ufe0f Internship, Thermal System Modeling Engineer, Energy Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:283387"
       },
       {
         "title": "\u2b50\ufe0f Internship, Computer Vision Engineer, Cell Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:283290"
       },
       {
         "title": "\u2b50\ufe0f Internship, Thermal R&D, Thermal Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:283364"
       },
       {
         "title": "\u2b50\ufe0f Internship, Product Engineer, Applications Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:283298"
       },
       {
         "title": "\u2b50\ufe0f Internship, Audio Visual Technician, Infrastructure Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:282777"
       },
       {
         "title": "\u2b50\ufe0f Internship, Software Engineer, Camera & Robotics (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:283274"
       },
       {
         "title": "START Optimus Service Technician (Winter 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:281634"
       },
       {
         "title": "\u2b50\ufe0f Internship, Data Engineer, Fleet Analytics (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:283138"
       },
       {
         "title": "\u2b50\ufe0f Internship, Mechatronics Engineer, Vehicle Engineering (Winter/Spring 2027)",
@@ -4541,203 +4599,253 @@
       },
       {
         "title": "\u2b50\ufe0f Internship, Robotics Physics Modeling Engineer, Model Based Design, Optimus (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:283128"
       },
       {
         "title": "\u2b50\ufe0f Internship, Software Engineer, Data Platforms (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:283117"
       },
       {
         "title": "\u2b50\ufe0f Internship, Data Engineer, Fleet Data, Self-Driving (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:281612"
       },
       {
         "title": "\u2b50\ufe0f Internship, Machine Learning Engineer, Factory Software (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:282916"
       },
       {
         "title": "\u2b50\ufe0f Internship, Software Engineer, Autonomy Systems Foundations (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:282825"
       },
       {
         "title": "\u2b50\ufe0f Internship, Chemical Engineer, Cell Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:280192"
       },
       {
         "title": "\u2b50\ufe0f Internship, Software Engineer, Code Hardening & Framework Resilience, Robotaxi (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:282598"
       },
       {
         "title": "\u2b50\ufe0f Internship, Materials Engineer, Cell Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:280288"
       },
       {
         "title": "\u2b50\ufe0f Internship, Mechanical Engineer, Cell Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:280289"
       },
       {
         "title": "\u2b50\ufe0f Internship, Technical Program Manager, Cell Manufacturing (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:280290"
       },
       {
         "title": "\u2b50\ufe0f Internship, Controls & Software Automation Engineer, Cell Manufacturing (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:280285"
       },
       {
         "title": "\u2b50\ufe0f Internship, Engineer, Cell Manufacturing (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:280286"
       },
       {
         "title": "\u2b50\ufe0f Internship, Electrical Engineer, Cell Manufacturing (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:280392"
       },
       {
         "title": "\u2b50\ufe0f Internship, Mobile Applications, Automated Diagnostics (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:281625"
       },
       {
         "title": "\u2b50\ufe0f Internship, Security Analyst, Security & Intelligence (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:281561"
       },
       {
         "title": "\u2b50\ufe0f Internship, Fullstack Engineer, Applications Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:280820"
       },
       {
         "title": "\u2b50\ufe0f Internship, Offensive Security Engineer, Information Security (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:281483"
       },
       {
         "title": "\u2b50\ufe0f Internship, Software Engineer, Information Security (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:281473"
       },
       {
         "title": "\u2b50\ufe0f Internship, Software Integration Engineer, Optimus (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:282342"
       },
       {
         "title": "\u2b50\ufe0f Internship, Embedded Software Engineer, Optimus (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:282340"
       },
       {
         "title": "\u2b50\ufe0f Internship, Embedded Systems Software Engineer, SI Platforms (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:282331"
       },
       {
         "title": "\u2b50\ufe0f Internship, Audio & Sensor Software Engineer, Vehicle Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:282301"
       },
       {
         "title": "\u2b50\ufe0f Internship, Software Engineer, SI Data Infrastructure (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:282292"
       },
       {
         "title": "\u2b50\ufe0f Internship, Fullstack Engineer, SI Tooling (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:282291"
       },
       {
         "title": "\u2b50\ufe0f Internship, Mechanical Engineer, Global Body Repair Business & Technical Operations (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:282282"
       },
       {
         "title": "\u2b50\ufe0f Internship, Physics Engine Development Engineer, Optimus (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:257048"
       },
       {
         "title": "\u2b50\ufe0f Internship, Physics Engine Development Engineer, Optimus (Summer 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:282147"
       },
       {
         "title": "\u2b50\ufe0f Internship, Noise Vibration Harshness Engineer, Vehicle Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:281977"
       },
       {
         "title": "\u2b50\ufe0f Internship, Site Reliability Engineer, Infrastructure Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:281482"
       },
       {
         "title": "\u2b50\ufe0f Internship, Backend Engineer, Infrastructure Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:281467"
       },
       {
         "title": "\u2b50\ufe0f Internship, Powertrain & Energy Products, Manufacturing Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:278962"
       },
       {
         "title": "\u2b50\ufe0f Internship, Electromagnetic Compatibility Engineer (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:281113"
       },
       {
         "title": "\u2b50\ufe0f Internship, SI Hardware Physical Design Engineer, SI Hardware (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:281233"
       },
       {
         "title": "\u2b50\ufe0f Internship, Cell Engineer, Cell Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:281219"
       },
       {
         "title": "\u2b50\ufe0f Internship, Cell Materials Engineer, Cell Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:281218"
       },
       {
         "title": "\u2b50\ufe0f Internship, SI Engineer, Tesla SI (Fall 2026/Winter 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:275331"
       },
       {
         "title": "\u2b50\ufe0f Internship, Materials Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:280967"
       },
       {
         "title": "\u2b50\ufe0f Internship, Software Engineer, SI Infrastructure (Fall 2026/Winter 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:278578"
       },
       {
         "title": "\u2b50\ufe0f Internship, Firmware Engineer, New Programs Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:279991"
       },
       {
         "title": "\u2b50\ufe0f Internship, Electronic Design Engineer, Radio Frequency (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:279752"
       },
       {
         "title": "\u2b50\ufe0f Internship, Systems Architecture & Integration Engineer, LV Architecture (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:279766"
       },
       {
         "title": "\u2b50\ufe0f Internship, Engineering Automation Software Engineer, Vehicle Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:279763"
       },
       {
         "title": "\u2b50\ufe0f Internship, Electronic Design Engineer, Electronic Systems (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:279760"
       },
       {
         "title": "\u2b50\ufe0f Internship, Thermal Design Engineer, Electronic Devices (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:279508"
       },
       {
         "title": "\u2b50\ufe0f Internship, Powertrain, Manufacturing Automation Controls Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:278960"
       },
       {
         "title": "\u2b50\ufe0f Internship, Manufacturing Engineering, Optimus (Winter/ Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:279034"
       },
       {
         "title": "\u2b50\ufe0f Internship, Mechanical Design Engineer, Vehicle Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:278946"
       },
       {
         "title": "\u2b50\ufe0f Internship, Automation Development & Tooling Engineer (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:278963"
       },
       {
         "title": "\u2b50\ufe0f Internship, Controls Engineer, Manufacturing (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:277525"
       },
       {
         "title": "\u2b50\ufe0f Internship, CAE Mechanical Design Engineer, Optimus (Fall 2026)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:266320"
       },
       {
         "title": "\u2b50\ufe0f Internship, Thermal Design Engineer, Optimus (Fall 2026)",
@@ -4745,51 +4853,63 @@
       },
       {
         "title": "\u2b50\ufe0f Internship, Reinforcement Learning Engineer, Optimus (Summer 2026)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:253454"
       },
       {
         "title": "\u2b50\ufe0f Internship, Technical Program Manager, Optimus (Fall 2026)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:268529"
       },
       {
         "title": "\u2b50\ufe0f Internship, Vehicle Manufacturing Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:276705"
       },
       {
         "title": "\u2b50\ufe0f Internship, Technical Program Manager, Vehicle Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:276706"
       },
       {
         "title": "\u2b50\ufe0f Internship, Reliability Engineer, Cell Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:278618"
       },
       {
         "title": "\u2b50\ufe0f Internship, Cell Qualification, Cell Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:278620"
       },
       {
         "title": "\u2b50\ufe0f Internship, Mechanical Design Engineer, Battery Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:278623"
       },
       {
         "title": "\u2b50\ufe0f Internship, Battery Materials, Battery Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:278625"
       },
       {
         "title": "\u2b50\ufe0f Internship, Analysis Engineer, Vehicle & Powertrain Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:287390"
       },
       {
         "title": "\u2b50\ufe0f Internship, Safety Engineer, Vehicle Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:278628"
       },
       {
         "title": "\u2b50\ufe0f Internship, Thermal Modeling Engineer, Abuse Functional Safety (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:287391"
       },
       {
         "title": "\u2b50\ufe0f Internship, Electrical Design Engineer, Vehicle Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:278630"
       },
       {
         "title": "\u2b50\ufe0f Internship, Abuse Testing & Engineering (Winter/Spring 2027)",
@@ -4797,35 +4917,43 @@
       },
       {
         "title": "\u2b50\ufe0f Internship, Industrial Engineer, Manufacturing (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:279313"
       },
       {
         "title": "\u2b50\ufe0f Internship, Quality Engineer, Manufacturing (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:280090"
       },
       {
         "title": "\u2b50\ufe0f Internship, Equipment or Process Engineer, Manufacturing (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:280826"
       },
       {
         "title": "\u2b50\ufe0f Internship, Fullstack Engineer, Infrastructure Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:281462"
       },
       {
         "title": "\u2b50\ufe0f Internship, Network Engineer, Infrastructure Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:281476"
       },
       {
         "title": "\u2b50\ufe0f Internship, Launch Engineer, Manufacturing (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:281650"
       },
       {
         "title": "\u2b50\ufe0f Internship, Software Engineer, IT Apps (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:282774"
       },
       {
         "title": "\u2b50\ufe0f Internship, Process Engineering, Cell Engineering (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:283821"
       },
       {
         "title": "\u2b50\ufe0f Internship, Mechanical Engineer, Cell Engineering (Winter/Spring 2027)",
@@ -4833,43 +4961,53 @@
       },
       {
         "title": "\u2b50\ufe0f Internship, Optical Engineer, Electronic Systems (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:284607"
       },
       {
         "title": "\u2b50\ufe0f Internship, Software Engineer, SI Hardware Infrastructure (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:285076"
       },
       {
         "title": "\u2b50\ufe0f Internship, Embedded Software Engineer, Silicon Development (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:285084"
       },
       {
         "title": "\u2b50\ufe0f Internship, SI Software Engineer, Core Infrastructure (Winter/Spring 2027)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "tesla:285085"
       },
       {
         "title": "\u2b50\ufe0f Advanced Automation Engineer Intern, Cell Engineering (Winter/Spring 2027)",
-        "date": "2026-10-16"
+        "date": "2026-10-16",
+        "id": "tesla:286986"
       },
       {
         "title": "\u2b50\ufe0f Internship, Program Manager, Sales & Delivery (Winter/Spring 2027)",
-        "date": "2026-10-20"
+        "date": "2026-10-20",
+        "id": "tesla:287261"
       },
       {
         "title": "\u2b50\ufe0f Internship, SI Chip Thermal Design Engineer, SI Hardware (Winter/Spring 2027)",
-        "date": "2026-10-21"
+        "date": "2026-10-21",
+        "id": "tesla:287360"
       },
       {
         "title": "\u2b50\ufe0f Internship, SoC Firmware Engineer, SI Hardware Infrastructure (Winter/Spring 2027)",
-        "date": "2026-10-21"
+        "date": "2026-10-21",
+        "id": "tesla:287024"
       },
       {
         "title": "\u2b50\ufe0f Internship, Product Management, Megapack Services (Winter/Spring 2027)",
-        "date": "2026-10-21"
+        "date": "2026-10-21",
+        "id": "tesla:287443"
       },
       {
         "title": "\u2b50\ufe0f Logistics Industrial Engineer Intern, Cell Engineering (Winter/Spring 2027)",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "tesla:287545"
       }
     ],
     "Gecko Robotics": [
@@ -24500,7 +24638,8 @@
       },
       {
         "title": "Senior Colour, Materials & Finish Designer",
-        "date": "2026-10-07"
+        "date": "2026-10-07",
+        "id": "ashby:214e05bd-2525-4a22-8847-a3dc5fb507fa"
       },
       {
         "title": "Senior Executive Search Recruiter (Robotics, Operations & Manufacturing)",
