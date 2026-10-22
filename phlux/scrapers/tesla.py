@@ -34,8 +34,8 @@ def location_ids(geo: Iterable[dict], site: str) -> Set[str]:
     return ids
 
 
-def filter_listings(state: Dict, job_type: str, site: str, departments: List[str]) -> List[str]:
-    """Return titles from the careers *state* matching the type, site and departments.
+def matching_listings(state: Dict, job_type: str, site: str, departments: List[str]) -> List[Dict]:
+    """Return the listings in the careers *state* matching the type, site and departments.
 
     Args:
         state: Parsed JSON from :data:`STATE_PATH`.
@@ -49,12 +49,17 @@ def filter_listings(state: Dict, job_type: str, site: str, departments: List[str
     dept_ids = {k for k, v in lookup["departments"].items() if v.lower() in {d.lower() for d in departments}}
     locations = location_ids(state["geo"], site)
     return [
-        listing["t"].strip()
+        listing
         for listing in state["listings"]
         if str(listing["y"]) in type_ids
         and listing["l"] in locations
         and (not departments or listing["dp"] in dept_ids)
     ]
+
+
+def filter_listings(state: Dict, job_type: str, site: str, departments: List[str]) -> List[str]:
+    """Return the titles of :func:`matching_listings`."""
+    return [listing["t"].strip() for listing in matching_listings(state, job_type, site, departments)]
 
 
 def tesla_jobs(driver, arg: str = "") -> List[str]:

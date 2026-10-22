@@ -11,5 +11,6 @@ gspread
 oauth2client
 gspread-formatting
 undetected-chromedriver
+nodriver
 setuptools
 pytest
