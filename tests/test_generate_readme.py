@@ -172,6 +172,20 @@ class TestGenerateListings:
         assert all(len(pages[p].encode("utf-8")) <= 5_000 for p in parts)
         assert sum(len(re.findall(r"\| Role \d", pages[p])) for p in parts) == 400
 
+    def test_shows_logo_before_company(self):
+        jobs = {"Acme": [{"title": "A", "date": "2026-10-02"}], "Beta": [{"title": "B", "date": "2026-10-01"}]}
+        icons = {"Acme": "https://logo.example/acme.png", "Beta": {"readme": "https://logo.example/beta.png"}}
+        pages = generate_listings(jobs, {"Acme": "https://acme.com"}, icons=icons)
+        page = pages["2026-10.md"]
+        assert '| <img src="https://logo.example/acme.png" alt="" height="16"> [Acme][c0] | A |' in page
+        assert '| <img src="https://logo.example/beta.png" alt="" height="16"> Beta | B |' in page
+
+    def test_no_logo_without_icon(self):
+        jobs = {"Acme": [{"title": "A", "date": "2026-10-02"}]}
+        pages = generate_listings(jobs, {"Acme": "https://acme.com"}, icons={"Acme": ""})
+        assert "| [Acme][c0] | A |" in pages["2026-10.md"]
+        assert "<img" not in pages["2026-10.md"]
+
     def test_backlog_skips_titles_dated_in_archive(self):
         jobs = {"Acme": [{"title": "Known", "date": "N/A"}, {"title": "Fresh", "date": "N/A"}]}
         archives = [{"Acme": [{"title": "Known", "date": "2026-09-01"}]}]

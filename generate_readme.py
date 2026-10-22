@@ -100,6 +100,12 @@ def _load_icons() -> Dict[str, Any]:
         return {}
 
 
+def _icon_url(icons: Dict[str, Any], company: str) -> str:
+    """Return *company*'s logo URL from ``icons.json``, or ``""`` if it has none."""
+    icon = icons.get(company, "")
+    return icon if isinstance(icon, str) else icon.get("readme", "")
+
+
 def generate_readme(
     jobs: Dict[str, List[Any]],
     links: Dict[str, str],
@@ -128,9 +134,7 @@ def generate_readme(
 
     def company_cell(company: str) -> str:
         if company not in company_cells:
-            icon_url = icons.get(company, "")
-            if not isinstance(icon_url, str):
-                icon_url = icon_url.get("readme", "")
+            icon_url = _icon_url(icons, company)
             display = (
                 f'<img src="{icon_url}" alt="{company}" height="20" '
                 f'style="vertical-align:middle; margin-right:6px;"> {company}'
@@ -196,14 +200,24 @@ def generate_readme(
     return page
 
 
-def _listing_page(heading: str, rows: List[Row], links: Dict[str, str]) -> str:
-    """Render *rows* as a compact Markdown table with reference-style company links."""
+def _listing_page(heading: str, rows: List[Row], links: Dict[str, str],
+                  icons: Optional[Dict[str, Any]] = None) -> str:
+    """Render *rows* as a compact Markdown table with reference-style company links.
+
+    A company with a logo in *icons* gets it inline before its name. It has to be
+    an ``<img>`` tag: Markdown images can't be sized, and logos are 400px.
+    """
     refs: Dict[str, str] = {}
+    logos: Dict[str, str] = {}
     lines = [f"# {heading}\n", f"[← All listings](README.md) · {len(rows)} roles\n",
              "| Company | Role | Date Found |", "| --- | --- | --- |"]
     for row in rows:
         ref = refs.setdefault(row.company, f"c{len(refs)}")
         company = f"[{row.company}][{ref}]" if row.company in links else row.company
+        if row.company not in logos:
+            url = _icon_url(icons or {}, row.company)
+            logos[row.company] = f'<img src="{url}" alt="" height="16"> ' if url else ""
+        company = logos[row.company] + company
         title = row.title.replace("<", "&lt;")
         lines.append(f"| {company} | {title} | {row.found.isoformat() if row.found else 'N/A'} |")
     lines.append("")
@@ -212,16 +226,18 @@ def _listing_page(heading: str, rows: List[Row], links: Dict[str, str]) -> str:
 
 
 def _paginate(stem: str, heading: str, rows: List[Row], links: Dict[str, str],
-              max_bytes: int) -> Dict[str, str]:
+              max_bytes: int, icons: Optional[Dict[str, Any]] = None) -> Dict[str, str]:
     """Render *rows* as one page, or as ``stem-1.md``, ``stem-2.md``… if too big."""
-    page = _listing_page(heading, rows, links)
+    page = _listing_page(heading, rows, links, icons)
     size = len(page.encode("utf-8"))
     if size <= max_bytes:
         return {f"{stem}.md": page}
     parts = -(-size // max_bytes) + 1  # one spare part for the per-page link footers
     per_part = -(-len(rows) // parts)
     return {
-        f"{stem}-{i + 1}.md": _listing_page(f"{heading} (part {i + 1})", rows[start:start + per_part], links)
+        f"{stem}-{i + 1}.md": _listing_page(
+            f"{heading} (part {i + 1})", rows[start:start + per_part], links, icons
+        )
         for i, start in enumerate(range(0, len(rows), per_part))
     }
 
@@ -231,12 +247,13 @@ def generate_listings(
     links: Dict[str, str],
     archives: Optional[List[Dict[str, List[Any]]]] = None,
     max_bytes: int = MAX_PAGE_BYTES,
+    icons: Optional[Dict[str, Any]] = None,
 ) -> Dict[str, str]:
     """Build the ``listings/`` pages: file name → Markdown content.
 
     One page per month across every season, plus an index. Postings the current
     season recorded as backlog (``"N/A"``) get their own page, minus any that an
-    earlier season already dated.
+    earlier season already dated. Companies with a logo in *icons* show it.
     """
     current = flatten(jobs)
     everything = current + [r for archived in archives or [] for r in flatten(archived, legacy_md=False)]
@@ -250,7 +267,7 @@ def generate_listings(
     index = ["# 📚 All Phlux Listings\n", "[← Back to recent listings](../README.md)\n",
              "| Month | Roles |", "| --- | --- |"]
     for month, rows in by_month.items():
-        month_pages = _paginate(month, f"{month} listings", rows, links, max_bytes)
+        month_pages = _paginate(month, f"{month} listings", rows, links, max_bytes, icons)
         pages.update(month_pages)
         parts = " · ".join(f"[{Path(name).stem}]({name})" for name in month_pages)
         index.append(f"| {parts} | {len(rows)} |")
@@ -258,7 +275,9 @@ def generate_listings(
     seen = {(r.company, r.title) for r in dated}
     backlog = [r for r in current if not r.found and (r.company, r.title) not in seen]
     if backlog:
-        backlog_pages = _paginate("backlog", "Already open when this season began", backlog, links, max_bytes)
+        backlog_pages = _paginate(
+            "backlog", "Already open when this season began", backlog, links, max_bytes, icons
+        )
         pages.update(backlog_pages)
         parts = " · ".join(f"[{Path(name).stem}]({name})" for name in backlog_pages)
         index.append(f"| {parts} (undated) | {len(backlog)} |")
@@ -282,5 +301,5 @@ if __name__ == "__main__":
     _archives = load_archives()
     update_icons(companies=load_company_data())
     Path("README.md").write_text(generate_readme(_jobs, _links, _archives), encoding="utf-8")
-    write_listings(generate_listings(_jobs, _links, _archives))
+    write_listings(generate_listings(_jobs, _links, _archives, icons=_load_icons()))
     print("README.md and listings/ updated successfully.")
