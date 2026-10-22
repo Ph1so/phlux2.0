@@ -444,7 +444,8 @@
     "Netflix": [
       {
         "title": "\u2b50\ufe0f Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "eightfold:790317917022"
       },
       {
         "title": "\u2b50\ufe0f Machine Learning/AI Scientist PhD Intern, Winter 2027",
@@ -452,7 +453,8 @@
       },
       {
         "title": "\u2b50\ufe0f Video Algorithms Intern, Video Coding (Gaussian Splatting), Fall 2026",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "eightfold:790315673635"
       }
     ],
     "Uber": [
@@ -470,7 +472,8 @@
     "Microsoft": [
       {
         "title": "\u2b50\ufe0f Research Intern - Document Intelligence and Content Understanding",
-        "date": "2026-10-09"
+        "date": "2026-10-09",
+        "id": "eightfold:1970393557037649"
       },
       {
         "title": "\u2b50\ufe0f Cloud Network Engineering Internship Oportunities",
@@ -478,15 +481,18 @@
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Agentic Graph Learning",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "eightfold:1970393557039243"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Agentic Data Memory",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "eightfold:1970393557040344"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Machine Learning for Biology and Healthcare",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "eightfold:1970393557040333"
       },
       {
         "title": "\u2b50\ufe0f Cloud Network Engineering Internship Opportunities",
@@ -494,19 +500,23 @@
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Machine Learning and Statistics",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "eightfold:1970393557040502"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Audio and Acoustics",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "eightfold:1970393557027326"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Brain-Computer Interfaces",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "eightfold:1970393557027378"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Intern - CTJ - TS",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "eightfold:1970393556983221"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Intern - CTJ - TS",
@@ -514,51 +524,63 @@
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Security Research Group, Microsoft Research Redmond",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "eightfold:1970393557022480"
       },
       {
         "title": "\u2b50\ufe0f Supply Chain Program Management Intern",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "eightfold:1970393556958168"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Data Systems",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "eightfold:1970393557008574"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Quantum Algorithms",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "eightfold:1970393557021663"
       },
       {
         "title": "\u2b50\ufe0f Product Management Intern - CTJ - TS",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "eightfold:1970393556983226"
       },
       {
         "title": "\u2b50\ufe0f Technical Program Management Intern - CTJ - TS",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "eightfold:1970393556983238"
       },
       {
         "title": "\u2b50\ufe0f Security Assurance Intern - CTJ - TS",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "eightfold:1970393556988203"
       },
       {
         "title": "\u2b50\ufe0f Applied Science: Internship Opportunities - Redmond",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "eightfold:1970393556986141"
       },
       {
         "title": "\u2b50\ufe0f Data Science: PhD Internship Opportunities - Redmond",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "eightfold:1970393556982928"
       },
       {
         "title": "\u2b50\ufe0f Finance Manager: MBA Internship Opportunities",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "eightfold:1970393556999301"
       },
       {
         "title": "\u2b50\ufe0f Applied Science: PhD Internship Opportunities - Multiple Locations",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "eightfold:1970393556986140"
       },
       {
         "title": "\u2b50\ufe0f Treasury Finance Manager: MBA Internship Opportunities",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "eightfold:1970393556999320"
       },
       {
         "title": "\u2b50\ufe0f Data Science: AI Experiences PhD Internship Opportunities - Redmond",
@@ -566,47 +588,58 @@
       },
       {
         "title": "\u2b50\ufe0f Applied Science: PhD Microsoft AI Internship Opportunities",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "eightfold:1970393556868271"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Interactive Multimodal Futures Group (Situated, Social & Ubiquitous Computing)",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "eightfold:1970393557041012"
       },
       {
         "title": "\u2b50\ufe0f Researcher Intern, CoreAI",
-        "date": "2026-10-15"
+        "date": "2026-10-15",
+        "id": "eightfold:1970393557027387"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Efficient AI Software Systems",
-        "date": "2026-10-15"
+        "date": "2026-10-15",
+        "id": "eightfold:1970393557041731"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Gray Systems Lab (GSL)",
-        "date": "2026-10-16"
+        "date": "2026-10-16",
+        "id": "eightfold:1970393557041730"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Machine Learning at MSR NYC",
-        "date": "2026-10-16"
+        "date": "2026-10-16",
+        "id": "eightfold:1970393557042145"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - MSR AI Interaction and Learning",
-        "date": "2026-10-16"
+        "date": "2026-10-16",
+        "id": "eightfold:1970393557042156"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Algorithms Group: Generative Modeling",
-        "date": "2026-10-19"
+        "date": "2026-10-19",
+        "id": "eightfold:1970393557043740"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Extended Perception Interaction Cognition (EPIC)",
-        "date": "2026-10-19"
+        "date": "2026-10-19",
+        "id": "eightfold:1970393557043754"
       },
       {
         "title": "\u2b50\ufe0f Business Program Management INTERN",
-        "date": "2026-10-19"
+        "date": "2026-10-19",
+        "id": "eightfold:1970393556999329"
       },
       {
         "title": "\u2b50\ufe0f Data Center Technicians INTERN",
-        "date": "2026-10-20"
+        "date": "2026-10-20",
+        "id": "eightfold:1970393557040904"
       },
       {
         "title": "\u2b50\ufe0f Data Center Technicians INTERN",
@@ -618,11 +651,18 @@
       },
       {
         "title": "\u2b50\ufe0f Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge",
-        "date": "2026-10-21"
+        "date": "2026-10-21",
+        "id": "eightfold:1970393557044765"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer: Fullstack Product (Web + Services) Intern Opportunities for University Students,",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "eightfold:1970393556922922"
+      },
+      {
+        "title": "\u2b50\ufe0f Data Science - Forward Deployed Engineer: PhD Internship Opportunities",
+        "date": "N/A",
+        "id": "eightfold:1970393557040991"
       }
     ],
     "Amazon": [
@@ -2610,15 +2650,18 @@
     "Rivian": [
       {
         "title": "2027 Automotive Technician Training Program (Paid Training, 24-Weeks)",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "jibe:32103"
       },
       {
         "title": "Early Career - Resident Engineer, Exteriors",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "jibe:31239"
       },
       {
         "title": "Early Career - Mechanical Design Engineer, Interior Trim",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "jibe:33399"
       },
       {
         "title": "Early Career - Associate Carrier Operations Analyst",
@@ -2626,151 +2669,188 @@
       },
       {
         "title": "Early Career - Durability Analytics Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "jibe:30306"
       },
       {
         "title": "Early Career - Validation Engineer, Vehicle Hardware",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "jibe:32131"
       },
       {
         "title": "Early Career - Global Supply Manager - Interiors, Seating & Restraints, Exteriors & Lighting, Closures",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "jibe:31963"
       },
       {
         "title": "Early Career - Cloud Engineer, Cloud Operations",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "jibe:30776"
       },
       {
         "title": "Early Career - Durability Modeling & Simulation Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "jibe:33972"
       },
       {
         "title": "Early Career - Attributes Method Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "jibe:34080"
       },
       {
         "title": "Early Career - Global Supply Manager, Plastics",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "jibe:33581"
       },
       {
         "title": "\u2b50\ufe0f Electrical & Software Systems - Summer 2027 Internships",
-        "date": "2026-10-09"
+        "date": "2026-10-09",
+        "id": "jibe:34308"
       },
       {
         "title": "\u2b50\ufe0f Electrical Hardware, Design & Test - Summer 2027 Internships",
-        "date": "2026-10-09"
+        "date": "2026-10-09",
+        "id": "jibe:34307"
       },
       {
         "title": "\u2b50\ufe0f Business and Administrative Intern - Strategy Analyst, CCO Strategy and Program Management",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "jibe:34239"
       },
       {
         "title": "\u2b50\ufe0f UIUC Research Park Intern - Low Voltage Electronics",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "jibe:34370"
       },
       {
         "title": "\u2b50\ufe0f Cybersecurity - Summer 2027 Internships",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "jibe:34316"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Intern - Design Automation (Spring 2027 Co-Op)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "jibe:33748"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering - Summer 2027 Internships",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "jibe:34303"
       },
       {
         "title": "\u2b50\ufe0f Supply Chain, Purchasing, Procurement and Logistics - Summer 2027 Internships",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "jibe:34297"
       },
       {
         "title": "\u2b50\ufe0f Engineering Intern - Design for Reliability (Spring 2027 Co-Op)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "jibe:33705"
       },
       {
         "title": "\u2b50\ufe0f Engineering Intern - Electronics Design (Spring 2027 Co-Op)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "jibe:34040"
       },
       {
         "title": "\u2b50\ufe0f Engineering Intern - Product Development Systems (Spring 2027 Co-Op)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "jibe:33798"
       },
       {
         "title": "\u2b50\ufe0f Engineering Intern - Software Test (Spring 2027 Co-Op)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "jibe:33603"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Intern - Enterprise Applications (Spring 2027 Co-Op)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "jibe:33804"
       },
       {
         "title": "\u2b50\ufe0f Engineering Intern - Motor Development (Spring 2027 Co-op)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "jibe:33809"
       },
       {
         "title": "\u2b50\ufe0f Engineering Intern - Mechanical Power Electronics (Spring 2027 Co-Op)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "jibe:33808"
       },
       {
         "title": "\u2b50\ufe0f MBA Intern - Product Management Product Development (Spring 2027 Co-Op)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "jibe:33793"
       },
       {
         "title": "\u2b50\ufe0f Engineering Intern - Design Verification, Neural Engine (Spring 2027 Co-op)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "jibe:33833"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Intern - Product Lifecycle Management (Spring 2027 Co-Op)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "jibe:33746"
       },
       {
         "title": "\u2b50\ufe0f Computer Vision Software - Summer 2027 Internships",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "jibe:34315"
       },
       {
         "title": "\u2b50\ufe0f Engineering Intern - ML Compilers (Spring 2027 Co-op)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "jibe:33829"
       },
       {
         "title": "\u2b50\ufe0f Engineering Intern - Machine Learning Hardware (Spring 2027 Co-op)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "jibe:33820"
       },
       {
         "title": "\u2b50\ufe0f Engineering Intern - Manufacturing Engineering (Spring 2027 Co-Op)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "jibe:33784"
       },
       {
         "title": "\u2b50\ufe0f Controls, Automation & Embedded Software - Summer 2027 Internships",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "jibe:34310"
       },
       {
         "title": "\u2b50\ufe0f Engineering Intern - Audio Hardware and DSP (Spring 2027 Co-op)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "jibe:33874"
       },
       {
         "title": "\u2b50\ufe0f Engineering Intern - Test and Validation, Charging Products (Spring 2027 Co-Op)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "jibe:33725"
       },
       {
         "title": "\u2b50\ufe0f Technical Program Management Intern - Program Validation (Spring 2027 Co-Op)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "jibe:33671"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Intern - Embedded Software (Spring 2027 Co-op)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "jibe:33832"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Intern - Enterprise Applications (Spring 2027 Co-Op",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "jibe:33803"
       },
       {
         "title": "\u2b50\ufe0f Engineering Intern - Supply Chain Data, AI and Business Intelligence (Spring 2027 Co-op)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "jibe:33800"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Intern - Applied AI (Spring 2027 Co-Op)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "jibe:33984"
       },
       {
         "title": "\u2b50\ufe0f Engineering Intern - Design-for-Test (Spring 2027 Co-Op)",
@@ -2778,59 +2858,73 @@
       },
       {
         "title": "\u2b50\ufe0f Business and Administrative Intern - Financial Analyst, Product Development",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "jibe:34020"
       },
       {
         "title": "\u2b50\ufe0f Engineering Intern - AI/ML ASIC CAD (Spring 2027 Co-Op)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "jibe:34059"
       },
       {
         "title": "\u2b50\ufe0f Artificial Intelligence, Machine Learning, & Data - Summer 2027 Internships",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "jibe:34313"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Intern - Product Development Portal (Spring Co-Op)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "jibe:33745"
       },
       {
         "title": "\u2b50\ufe0f Engineering Intern - Powertrain Testing (Spring 2027 Co-Op)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "jibe:33872"
       },
       {
         "title": "\u2b50\ufe0f Business and Administrative Intern - Supply Chain and Logistics (Spring 2027 Co-op)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "jibe:33791"
       },
       {
         "title": "\u2b50\ufe0f Product Development, Vehicle Attributes and Test Engineering - Summer 2027 Internships",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "jibe:34306"
       },
       {
         "title": "\u2b50\ufe0f Engineering Intern - Vehicle Homologation (Spring 2027 Co-Op)",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "jibe:33672"
       },
       {
         "title": "Early Career - Occupant Safety Engineer",
-        "date": "2026-10-15"
+        "date": "2026-10-15",
+        "id": "jibe:34417"
       },
       {
         "title": "\u2b50\ufe0f Technical Intern - CMF Designer, Vehicle Studio",
-        "date": "2026-10-15"
+        "date": "2026-10-15",
+        "id": "jibe:34293"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Intern - Machine Learning Research, Perception (Spring 2027 Co-Op)",
-        "date": "2026-10-15"
+        "date": "2026-10-15",
+        "id": "jibe:33801"
       },
       {
         "title": "\u2b50\ufe0f Technical Intern - Vehicle Design Studio, Interiors",
-        "date": "2026-10-15"
+        "date": "2026-10-15",
+        "id": "jibe:34241"
       },
       {
         "title": "\u2b50\ufe0f Engineering Intern - Technical Program Management (Spring 2027 Co-op)",
-        "date": "2026-10-16"
+        "date": "2026-10-16",
+        "id": "jibe:34505"
       },
       {
         "title": "\u2b50\ufe0f Engineering Intern - ASIC DFT (Spring 2027 Co-Op)",
-        "date": "2026-10-19"
+        "date": "2026-10-19",
+        "id": "jibe:33810"
       }
     ],
     "Roblox": [
@@ -3910,75 +4004,93 @@
       },
       {
         "title": "\u2b50\ufe0f Hardware (CPU, GPU, SoC, Digital Design, DV) Engineering Internship \u2013 Summer 2027",
-        "date": "2026-10-09"
+        "date": "2026-10-09",
+        "id": "eightfold:446720740649"
       },
       {
         "title": "\u2b50\ufe0f RF/Analog Design/Mixed-Signal Engineering Internship \u2013 Summer 2027",
-        "date": "2026-10-09"
+        "date": "2026-10-09",
+        "id": "eightfold:446720740912"
       },
       {
         "title": "\u2b50\ufe0f IT Infrastructure & Cloud Engineering Internship \u2013 Summer 2027",
-        "date": "2026-10-09"
+        "date": "2026-10-09",
+        "id": "eightfold:446720741668"
       },
       {
         "title": "\u2b50\ufe0f Mechanical Engineering Internship \u2013 Summer 2027",
-        "date": "2026-10-09"
+        "date": "2026-10-09",
+        "id": "eightfold:446720741704"
       },
       {
         "title": "\u2b50\ufe0f Product Management Internship - Summer 2027",
-        "date": "2026-10-09"
+        "date": "2026-10-09",
+        "id": "eightfold:446720741706"
       },
       {
         "title": "\u2b50\ufe0f Information Technology (IT) Internship \u2013 Summer 2027",
-        "date": "2026-10-09"
+        "date": "2026-10-09",
+        "id": "eightfold:446720741716"
       },
       {
         "title": "\u2b50\ufe0f Finance & Accounting Internship - Summer 2027",
-        "date": "2026-10-10"
+        "date": "2026-10-10",
+        "id": "eightfold:446721159170"
       },
       {
         "title": "Modem Systems Engineer",
-        "date": "2026-10-10"
+        "date": "2026-10-10",
+        "id": "eightfold:446721016647"
       },
       {
         "title": "\u2b50\ufe0f Sales & Business Development Internship - Summer 2027",
-        "date": "2026-10-10"
+        "date": "2026-10-10",
+        "id": "eightfold:446721346084"
       },
       {
         "title": "\u2b50\ufe0f Security (Product, Systems, Cyber) Engineering Internship - Summer 2027",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "eightfold:446720740636"
       },
       {
         "title": "\u2b50\ufe0f Modular Engineering Internship \u2013 Summer 2027",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "eightfold:446721246663"
       },
       {
         "title": "\u2b50\ufe0f Wireless Systems Engineering Internship - Summer 2027",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "eightfold:446720740637"
       },
       {
         "title": "\u2b50\ufe0f Multimedia Engineering Internship \u2013 Summer 2027",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "id": "eightfold:446720740640"
       },
       {
         "title": "\u2b50\ufe0f Machine Learning & Artificial Intelligence Engineering Internship \u2013 Summer 2027",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "eightfold:446720740525"
       },
       {
         "title": "\u2b50\ufe0f Embedded Engineering Internship - Summer 2027",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "eightfold:446720737089"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Internship - Summer 2027",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "eightfold:446720740529"
       },
       {
         "title": "\u2b50\ufe0f Qualcomm Government Technologies (QGOV) Engineering Internship \u2013 Summer 2027 (San Diego or Boulder) | US CITIZENSHIP REQUIRED",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "eightfold:446720740540"
       },
       {
         "title": "\u2b50\ufe0f Automotive Engineering Internship \u2013 Summer 2027",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "eightfold:446720740553"
       }
     ],
     "Toyota Research Insitute": [
@@ -4810,15 +4922,18 @@
     "Intuitive Surgical": [
       {
         "title": "\u2b50\ufe0f AI Research Intern",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "smartrecruiters:744000151714759"
       },
       {
         "title": "\u2b50\ufe0f Accounting Analyst Intern",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "smartrecruiters:744000150742000"
       },
       {
         "title": "\u2b50\ufe0f Financial Analyst Intern",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "smartrecruiters:744000146505579"
       },
       {
         "title": "\u2b50\ufe0f Financial Analyst Intern",
@@ -4910,7 +5025,8 @@
       },
       {
         "title": "\u2b50\ufe0f Clinical Scientist Intern",
-        "date": "2026-10-21"
+        "date": "2026-10-21",
+        "id": "smartrecruiters:744000156899239"
       }
     ],
     "Stoke Space": [
@@ -5042,11 +5158,13 @@
     "iRobot": [
       {
         "title": "Account Manager",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "talentbrew:100427657728"
       },
       {
         "title": "Sr. Logistics Specialist",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "talentbrew:98739712096"
       },
       {
         "title": "Sr. Customer Support Specialist",
@@ -5058,11 +5176,13 @@
       },
       {
         "title": "Dir. Sales, DTC & Amazon (Americas)",
-        "date": "2026-10-07"
+        "date": "2026-10-07",
+        "id": "talentbrew:101579000080"
       },
       {
         "title": "Associate GTM Manager, Premium Portfolio",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "talentbrew:101868214112"
       }
     ],
     "Mujin": [
@@ -14871,7 +14991,8 @@
       },
       {
         "title": "\u2b50\ufe0f Engineering Intern - Airbag ECU",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "smartrecruiters:744000151900549"
       },
       {
         "title": "Product Marketing Manager / Sr Product Marketing Manager",
@@ -14911,7 +15032,8 @@
       },
       {
         "title": "\u2b50\ufe0f High Performance Vehicle Calibration Co-op, Kettering University - Section B",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "smartrecruiters:744000151861019"
       },
       {
         "title": "\u2b50\ufe0f HR Service Intern (Year Round)",
@@ -14943,7 +15065,8 @@
       },
       {
         "title": "\u2b50\ufe0f 2027 Spring Logistics / Packaging Engineering Co-op / LOM",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "smartrecruiters:744000151687099"
       },
       {
         "title": "Machine Operator - 3rd",
@@ -15083,7 +15206,8 @@
       },
       {
         "title": "\u2b50\ufe0f 2027 Spring Cost Analyst / Finance Support Co-Op",
-        "date": "2026-09-29"
+        "date": "2026-09-29",
+        "id": "smartrecruiters:744000152463644"
       },
       {
         "title": "Industrial Equipment Technician - 3rd Shift",
@@ -15139,7 +15263,8 @@
       },
       {
         "title": "\u2b50\ufe0f Material Planning Intern - Summer 2027",
-        "date": "2026-09-29"
+        "date": "2026-09-29",
+        "id": "smartrecruiters:744000152705426"
       },
       {
         "title": "Industrial Maintenance Technician - 2nd Shift",
@@ -15163,7 +15288,8 @@
       },
       {
         "title": "\u2b50\ufe0f Commercial Project Management & AI Innovation Intern",
-        "date": "2026-09-30"
+        "date": "2026-09-30",
+        "id": "smartrecruiters:744000152706359"
       },
       {
         "title": "Hubspot Marketing Automation Specialist",
@@ -15291,7 +15417,8 @@
       },
       {
         "title": "\u2b50\ufe0f Project Management Intern",
-        "date": "2026-10-02"
+        "date": "2026-10-02",
+        "id": "smartrecruiters:744000153203866"
       },
       {
         "title": "HVAC Lab Technician (HVAC required - 2nd shift - 1:45 PM - 10:15pm)",
@@ -15303,11 +15430,13 @@
       },
       {
         "title": "\u2b50\ufe0f Facilities Engineering Intern - Spring 2027",
-        "date": "2026-10-02"
+        "date": "2026-10-02",
+        "id": "smartrecruiters:744000153195961"
       },
       {
         "title": "\u2b50\ufe0f AM/SCC-Sales Controlling and Coordination Intern",
-        "date": "2026-10-02"
+        "date": "2026-10-02",
+        "id": "smartrecruiters:744000153195132"
       },
       {
         "title": "Customer Service Associate",
@@ -15319,7 +15448,8 @@
       },
       {
         "title": "\u2b50\ufe0f Technical Functions/Maintenance Intern / Co-op - Spring 2027",
-        "date": "2026-10-02"
+        "date": "2026-10-02",
+        "id": "smartrecruiters:744000153189200"
       },
       {
         "title": "Workshop Sales Representative - New York / New Jersey Area",
@@ -15331,7 +15461,8 @@
       },
       {
         "title": "\u2b50\ufe0f Finance Controller Internship - Spring 2027",
-        "date": "2026-10-02"
+        "date": "2026-10-02",
+        "id": "smartrecruiters:744000153214980"
       },
       {
         "title": "Customer Service Representative (5:00 am - 1:30 pm)",
@@ -15399,7 +15530,8 @@
       },
       {
         "title": "\u2b50\ufe0f 2027 Spring Quality Engineering Co-op / QMM6 - 1st Shift",
-        "date": "2026-10-05"
+        "date": "2026-10-05",
+        "id": "smartrecruiters:744000153601138"
       },
       {
         "title": "3rd Shift Material Handler",
@@ -15435,7 +15567,8 @@
       },
       {
         "title": "\u2b50\ufe0f Supplier Quality Intern - Summer 2027",
-        "date": "2026-10-06"
+        "date": "2026-10-06",
+        "id": "smartrecruiters:744000153856764"
       },
       {
         "title": "Entry-level Sales and Marketing Representative - Los Angeles, CA - Diablo Tools - DAT",
@@ -15583,11 +15716,13 @@
       },
       {
         "title": "\u2b50\ufe0f HR Communications Co-Op - Spring 2027",
-        "date": "2026-10-09"
+        "date": "2026-10-09",
+        "id": "smartrecruiters:744000154673159"
       },
       {
         "title": "\u2b50\ufe0f Product Management Co-op- Spring 2027",
-        "date": "2026-10-09"
+        "date": "2026-10-09",
+        "id": "smartrecruiters:744000154671460"
       },
       {
         "title": "Sales Controlling - Sr. Financial Analyst",
@@ -15599,23 +15734,28 @@
       },
       {
         "title": "\u2b50\ufe0f Warranty and Repair Co-Op Spring 2027",
-        "date": "2026-10-09"
+        "date": "2026-10-09",
+        "id": "smartrecruiters:744000154765090"
       },
       {
         "title": "\u2b50\ufe0f Mechanical Engineering Co-op Spring 2027",
-        "date": "2026-10-09"
+        "date": "2026-10-09",
+        "id": "smartrecruiters:744000154765539"
       },
       {
         "title": "\u2b50\ufe0f Manufacturing Engineering Intern",
-        "date": "2026-10-09"
+        "date": "2026-10-09",
+        "id": "smartrecruiters:744000154762134"
       },
       {
         "title": "\u2b50\ufe0f Artificial Intelligence / Machine Learning: Foundation Models - Intern",
-        "date": "2026-10-09"
+        "date": "2026-10-09",
+        "id": "smartrecruiters:744000154759734"
       },
       {
         "title": "\u2b50\ufe0f Information Security and Privacy Intern",
-        "date": "2026-10-09"
+        "date": "2026-10-09",
+        "id": "smartrecruiters:744000155120934"
       },
       {
         "title": "Channel Development Specialist",
@@ -15643,7 +15783,8 @@
       },
       {
         "title": "\u2b50\ufe0f Quality Co-Op Spring 2027",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "smartrecruiters:744000155071894"
       },
       {
         "title": "Demand Planning Manager",
@@ -15659,11 +15800,13 @@
       },
       {
         "title": "\u2b50\ufe0f Robotics Research Intern",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "smartrecruiters:744000154911489"
       },
       {
         "title": "\u2b50\ufe0f HR Intern - Winter 2027",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "smartrecruiters:744000154905820"
       },
       {
         "title": "Technical Project Manager \u2013 Special Machinery & Automation",
@@ -15671,7 +15814,8 @@
       },
       {
         "title": "\u2b50\ufe0f ERP/IT Intern- Summer 2027",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "smartrecruiters:744000155101377"
       },
       {
         "title": "Applications Engineer, Sr.",
@@ -15683,15 +15827,18 @@
       },
       {
         "title": "\u2b50\ufe0f Health, Safety, & Environment Intern - Summer 2027",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "smartrecruiters:744000155098837"
       },
       {
         "title": "\u2b50\ufe0f Manufacturing Engineer Intern - Summer 2027",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "smartrecruiters:744000155100809"
       },
       {
         "title": "\u2b50\ufe0f Purchasing (PUE) Intern - Summer 2027",
-        "date": "2026-10-12"
+        "date": "2026-10-12",
+        "id": "smartrecruiters:744000155097535"
       },
       {
         "title": "Manufacturing Engineer I",
@@ -15835,11 +15982,13 @@
       },
       {
         "title": "\u2b50\ufe0f AI Research Intern: Wireless Foundation Models",
-        "date": "2026-10-19"
+        "date": "2026-10-19",
+        "id": "smartrecruiters:744000156323136"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Co-Op - Spring 2027",
-        "date": "2026-10-19"
+        "date": "2026-10-19",
+        "id": "smartrecruiters:744000156311682"
       },
       {
         "title": "Senior Demand Planning Specialist",
@@ -15847,7 +15996,8 @@
       },
       {
         "title": "\u2b50\ufe0f Finance Intern - Diablo Tools",
-        "date": "2026-10-19"
+        "date": "2026-10-19",
+        "id": "smartrecruiters:744000156311489"
       },
       {
         "title": "Operator / Indirect Material Crib - 2nd-3rd Split Shift",
@@ -15859,7 +16009,8 @@
       },
       {
         "title": "\u2b50\ufe0f Driving Foundations Research Intern",
-        "date": "2026-10-20"
+        "date": "2026-10-20",
+        "id": "smartrecruiters:744000156648989"
       },
       {
         "title": "Territory Sales Manager (Pro Channel) - Portland, OR - Diablo Tools",
@@ -15883,11 +16034,13 @@
       },
       {
         "title": "\u2b50\ufe0f Steering Virtual Testing Intern - VM",
-        "date": "2026-10-20"
+        "date": "2026-10-20",
+        "id": "smartrecruiters:744000156647809"
       },
       {
         "title": "\u2b50\ufe0f Human Resources Intern - Recruitment, Onboarding & Employer Brand",
-        "date": "2026-10-20"
+        "date": "2026-10-20",
+        "id": "smartrecruiters:744000156575131"
       },
       {
         "title": "Prototyping Technician",
@@ -15915,7 +16068,8 @@
       },
       {
         "title": "\u2b50\ufe0f Calibration Process Optimization Intern (8 months/40 hours per week)",
-        "date": "2026-10-21"
+        "date": "2026-10-21",
+        "id": "smartrecruiters:744000156585075"
       },
       {
         "title": "Outside Sales Engineer (Direct Channel) - Linear Technologies",
@@ -15947,7 +16101,8 @@
       },
       {
         "title": "\u2b50\ufe0f Intern- Human Resources",
-        "date": "2026-10-21"
+        "date": "2026-10-21",
+        "id": "smartrecruiters:744000156860939"
       },
       {
         "title": "Product Manager / Sr Product Manager - Brakes",
@@ -15992,6 +16147,141 @@
       {
         "title": "Reman Assembler Core Processing - 2nd shift",
         "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Product Management AI-Tool Intern (8 months/40hrs per week)",
+        "date": "N/A",
+        "id": "smartrecruiters:744000148575999"
+      },
+      {
+        "title": "\u2b50\ufe0f Sales Intern",
+        "date": "N/A",
+        "id": "smartrecruiters:744000148250504"
+      },
+      {
+        "title": "\u2b50\ufe0f Design Engineer Intern",
+        "date": "N/A",
+        "id": "smartrecruiters:744000148252267"
+      },
+      {
+        "title": "\u2b50\ufe0f Product Management Intern",
+        "date": "N/A",
+        "id": "smartrecruiters:744000148250353"
+      },
+      {
+        "title": "\u2b50\ufe0f Test Engineer Intern",
+        "date": "N/A",
+        "id": "smartrecruiters:744000148253129"
+      },
+      {
+        "title": "\u2b50\ufe0f Sales Engineer (Distribution) Intern",
+        "date": "N/A",
+        "id": "smartrecruiters:744000148250171"
+      },
+      {
+        "title": "\u2b50\ufe0f Marketing Intern",
+        "date": "N/A",
+        "id": "smartrecruiters:744000148251740"
+      },
+      {
+        "title": "\u2b50\ufe0f Design Engineer Intern",
+        "date": "N/A",
+        "id": "smartrecruiters:744000148250710"
+      },
+      {
+        "title": "\u2b50\ufe0f Sales Engineer (OEM) Intern",
+        "date": "N/A",
+        "id": "smartrecruiters:744000148251949"
+      },
+      {
+        "title": "\u2b50\ufe0f Service Engineer Intern",
+        "date": "N/A",
+        "id": "smartrecruiters:744000148243450"
+      },
+      {
+        "title": "\u2b50\ufe0f Service Engineer Intern",
+        "date": "N/A",
+        "id": "smartrecruiters:744000148246120"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern- Plastics Process Engineer",
+        "date": "N/A",
+        "id": "smartrecruiters:744000147075639"
+      },
+      {
+        "title": "\u2b50\ufe0f Calibration Intern (8 months/40 hours per week)",
+        "date": "N/A",
+        "id": "smartrecruiters:744000146546262"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineering Intern (8 months/40hrs per week)",
+        "date": "N/A",
+        "id": "smartrecruiters:744000146546849"
+      },
+      {
+        "title": "\u2b50\ufe0f Calibration Process Data Science Intern (8 months/40 hours per week)",
+        "date": "N/A",
+        "id": "smartrecruiters:744000146546699"
+      },
+      {
+        "title": "\u2b50\ufe0f Mechanical Design Engineering Intern",
+        "date": "N/A",
+        "id": "smartrecruiters:744000146471610"
+      },
+      {
+        "title": "\u2b50\ufe0f Logistics/Supply Chain Intern",
+        "date": "N/A",
+        "id": "smartrecruiters:744000146057040"
+      },
+      {
+        "title": "\u2b50\ufe0f Commercial Vehicle Sales Intern",
+        "date": "N/A",
+        "id": "smartrecruiters:744000145555289"
+      },
+      {
+        "title": "\u2b50\ufe0f Spring 2027 Key User - Supply Chain / Computer Science - Co-op",
+        "date": "N/A",
+        "id": "smartrecruiters:744000145511458"
+      },
+      {
+        "title": "\u2b50\ufe0f Manufacturing Engineering/Operations Co-op - Fall 2026",
+        "date": "N/A",
+        "id": "smartrecruiters:744000143527019"
+      },
+      {
+        "title": "\u2b50\ufe0f Technical Engineering Function (TEF) Winter Intern",
+        "date": "N/A",
+        "id": "smartrecruiters:744000143360199"
+      },
+      {
+        "title": "\u2b50\ufe0f Powertrain Controls Software Engineering Intern (6-Months, Full-Time)",
+        "date": "N/A",
+        "id": "smartrecruiters:744000142898574"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Spring Mechanical/Electrical Engineering Co-Op",
+        "date": "N/A",
+        "id": "smartrecruiters:744000141338219"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Spring Manufacturing Engineering Co-Op",
+        "date": "N/A",
+        "id": "smartrecruiters:744000141337134"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Spring Logistics Co-Op",
+        "date": "N/A",
+        "id": "smartrecruiters:744000141338089"
+      },
+      {
+        "title": "\u2b50\ufe0f Purchasing Intern",
+        "date": "N/A",
+        "id": "smartrecruiters:744000129558629"
+      },
+      {
+        "title": "\u2b50\ufe0f Industrial Engineering Intern",
+        "date": "N/A",
+        "id": "smartrecruiters:744000129558149"
       }
     ],
     "Intrinsic": [
@@ -17730,11 +18020,13 @@
     "Futurewei Technologies": [
       {
         "title": "\u2b50\ufe0f Computer Vision Research Intern",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "taleo:11510"
       },
       {
         "title": "Senior IP Counsel",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "taleo:11567"
       }
     ],
     "Diligent Robotics": [
@@ -40518,58 +40810,71 @@
     "John Deere": [
       {
         "title": "\u2b50\ufe0f 2027 Intern - C&F Marketing/Sales",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "eightfold:137482301723"
       },
       {
         "title": "\u2b50\ufe0f 2027 Intern - Electrification Engineering",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "eightfold:137482769306"
       },
       {
         "title": "\u2b50\ufe0f 2027 Intern - Human Resources/Labor Relations",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "eightfold:137482633752"
       },
       {
         "title": "\u2b50\ufe0f 2027 Intern - Manufacturing Engineering",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "eightfold:137482746964"
       },
       {
         "title": "\u2b50\ufe0f 2027 Intern - Engineering - Weld",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "eightfold:137482622514"
       },
       {
         "title": "\u2b50\ufe0f 2027 Intern - Environmental Engineer",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "eightfold:137482621604"
       },
       {
         "title": "\u2b50\ufe0f 2027 Intern - Supply Management/Logistics",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "eightfold:137482302145"
       },
       {
         "title": "\u2b50\ufe0f 2027 Intern - Product Engineering",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "eightfold:137482769212"
       },
       {
         "title": "\u2b50\ufe0f 2027 Intern - A&T Marketing/Sales",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "eightfold:137482301498"
       }
     ],
     "Ford": [],
     "Joby Aviation": [
       {
         "title": "Certification Project Engineer, International",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "icims:4850"
       },
       {
         "title": "\u2b50\ufe0f Electrical Engineer - Intern (Summer 2027)",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "icims:5486"
       },
       {
         "title": "\u2b50\ufe0f Flight Test Intern (Dec 2026-Feb 2027)",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "icims:5483"
       },
       {
         "title": "\u2b50\ufe0f Mechanical Engineer Intern, Autonomy (Summer 2027)",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "icims:5494"
       }
     ],
     "Mobileye": [
@@ -41495,43 +41800,53 @@
     "Lockheed Martin": [
       {
         "title": "\u2b50\ufe0f Software Engineer Intern - Summer 2027",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "eightfold:996477235452"
       },
       {
         "title": "\u2b50\ufe0f College Student - DMSMS Intern",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "eightfold:996477460318"
       },
       {
         "title": "\u2b50\ufe0f College Student - Technical",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "eightfold:996477426715"
       },
       {
         "title": "\u2b50\ufe0f Systems Engineer (Modeling & Simulation) - Intern",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "eightfold:996477362267"
       },
       {
         "title": "\u2b50\ufe0f IT Intern",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "eightfold:996477474122"
       },
       {
         "title": "\u2b50\ufe0f Systems Engineer - Intern",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "eightfold:996477367458"
       },
       {
         "title": "\u2b50\ufe0f Embedded Software Intern",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "eightfold:996477459841"
       },
       {
         "title": "\u2b50\ufe0f College Student - Non-Technical - N3",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "eightfold:996477245841"
       },
       {
         "title": "\u2b50\ufe0f AI/ Supply Chain Intelligence Intern",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "eightfold:996477452662"
       },
       {
         "title": "\u2b50\ufe0f College Student - Technical - N3",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "eightfold:996477409801"
       },
       {
         "title": "\u2b50\ufe0f College Student - Technical - N3",
@@ -41543,19 +41858,23 @@
       },
       {
         "title": "\u2b50\ufe0f Central Procurement Intern",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "eightfold:996477306992"
       },
       {
         "title": "\u2b50\ufe0f Manufacturing Engineer - Intern",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "eightfold:996477381111"
       },
       {
         "title": "\u2b50\ufe0f College Student - Intern",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "eightfold:996477330452"
       },
       {
         "title": "\u2b50\ufe0f Airframe Design Intern",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "eightfold:996477329501"
       },
       {
         "title": "Staff Systems Engineer - International Travel Required",
@@ -41563,7 +41882,8 @@
       },
       {
         "title": "\u2b50\ufe0f Proposals Intern",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "eightfold:996477183350"
       },
       {
         "title": "\u2b50\ufe0f Proposals Intern",
@@ -41575,7 +41895,8 @@
       },
       {
         "title": "\u2b50\ufe0f Radio Frequency (RF) Engineering Intern",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "eightfold:996477240465"
       },
       {
         "title": "\u2b50\ufe0f Radio Frequency (RF) Engineering Intern",
@@ -41583,19 +41904,23 @@
       },
       {
         "title": "\u2b50\ufe0f Systems Integration/Electrical Test Engineer-INTERN",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "eightfold:996477338210"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer-INTERN",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "eightfold:996477114537"
       },
       {
         "title": "\u2b50\ufe0f Electronics Engineer Intern",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "eightfold:996477448749"
       },
       {
         "title": "\u2b50\ufe0f Contracts Intern",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "eightfold:996477116033"
       },
       {
         "title": "\u2b50\ufe0f Radio Frequency (RF) Engineering Intern",
@@ -41603,7 +41928,8 @@
       },
       {
         "title": "\u2b50\ufe0f Electrical Engineering Intern",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "eightfold:996477244312"
       },
       {
         "title": "\u2b50\ufe0f Radio Frequency (RF) Engineering Intern",
@@ -41611,7 +41937,228 @@
       },
       {
         "title": "\u2b50\ufe0f Project Engineer Intern",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "id": "eightfold:996477393061"
+      },
+      {
+        "title": "\u2b50\ufe0f Supply Chain Operations Intern",
+        "date": "N/A",
+        "id": "eightfold:996477319131"
+      },
+      {
+        "title": "\u2b50\ufe0f Mechanical Design Engineering Intern",
+        "date": "N/A",
+        "id": "eightfold:996477394527"
+      },
+      {
+        "title": "\u2b50\ufe0f Mechanical Engineer Intern (Radio Frequency/RF Product)",
+        "date": "N/A",
+        "id": "eightfold:996477240545"
+      },
+      {
+        "title": "\u2b50\ufe0f Mechanical Design Engineering Intern",
+        "date": "N/A",
+        "id": "eightfold:996477394326"
+      },
+      {
+        "title": "\u2b50\ufe0f Test Engineering Intern",
+        "date": "N/A",
+        "id": "eightfold:996477364317"
+      },
+      {
+        "title": "\u2b50\ufe0f Test Engineering Intern",
+        "date": "N/A",
+        "id": "eightfold:996477364315"
+      },
+      {
+        "title": "\u2b50\ufe0f Systems Engineer (Integration and Test) - Intern",
+        "date": "N/A",
+        "id": "eightfold:996477267744"
+      },
+      {
+        "title": "\u2b50\ufe0f Mechanical Engineer Intern - Radio Frequency (RF) Product",
+        "date": "N/A",
+        "id": "eightfold:996477274152"
+      },
+      {
+        "title": "\u2b50\ufe0f Engineering - Intern",
+        "date": "N/A",
+        "id": "eightfold:996477288622"
+      },
+      {
+        "title": "\u2b50\ufe0f Engineering Intern",
+        "date": "N/A",
+        "id": "eightfold:996477363008"
+      },
+      {
+        "title": "\u2b50\ufe0f Engineering - Intern",
+        "date": "N/A",
+        "id": "eightfold:996477288560"
+      },
+      {
+        "title": "\u2b50\ufe0f Aeronautical Engineering Intern",
+        "date": "N/A",
+        "id": "eightfold:996477362692"
+      },
+      {
+        "title": "\u2b50\ufe0f Finance Intern",
+        "date": "N/A",
+        "id": "eightfold:996476826025"
+      },
+      {
+        "title": "\u2b50\ufe0f Finance Intern",
+        "date": "N/A",
+        "id": "eightfold:996476741770"
+      },
+      {
+        "title": "\u2b50\ufe0f Finance Intern",
+        "date": "N/A",
+        "id": "eightfold:996477279880"
+      },
+      {
+        "title": "\u2b50\ufe0f Aerospace Engineer - Intern",
+        "date": "N/A",
+        "id": "eightfold:996477238850"
+      },
+      {
+        "title": "\u2b50\ufe0f Central Procurement-Intern",
+        "date": "N/A",
+        "id": "eightfold:996477313560"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer Intern",
+        "date": "N/A",
+        "id": "eightfold:996477288459"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineering Intern",
+        "date": "N/A",
+        "id": "eightfold:996477358505"
+      },
+      {
+        "title": "\u2b50\ufe0f Project Engineering Intern",
+        "date": "N/A",
+        "id": "eightfold:996477338234"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineering Intern",
+        "date": "N/A",
+        "id": "eightfold:996477021971"
+      },
+      {
+        "title": "\u2b50\ufe0f Aeronautical Engineer (Vehicle Systems) - Intern",
+        "date": "N/A",
+        "id": "eightfold:996477243605"
+      },
+      {
+        "title": "\u2b50\ufe0f Systems Engineering Intern",
+        "date": "N/A",
+        "id": "eightfold:996477341533"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineering Intern",
+        "date": "N/A",
+        "id": "eightfold:996477340134"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineering Intern",
+        "date": "N/A",
+        "id": "eightfold:996477340135"
+      },
+      {
+        "title": "\u2b50\ufe0f Industrial Engineering - Intern",
+        "date": "N/A",
+        "id": "eightfold:996477211510"
+      },
+      {
+        "title": "\u2b50\ufe0f College Student - Technical (Systems Intern)",
+        "date": "N/A",
+        "id": "eightfold:996477043580"
+      },
+      {
+        "title": "\u2b50\ufe0f College Student - Technical(Systems Intern)",
+        "date": "N/A",
+        "id": "eightfold:996477016449"
+      },
+      {
+        "title": "\u2b50\ufe0f College Student - Technical(Software)",
+        "date": "N/A",
+        "id": "eightfold:996476585037"
+      },
+      {
+        "title": "\u2b50\ufe0f Systems Engineer (Cyber) - Intern",
+        "date": "N/A",
+        "id": "eightfold:996477335927"
+      },
+      {
+        "title": "\u2b50\ufe0f Predictive Analytics & Cost Engineering Intern",
+        "date": "N/A",
+        "id": "eightfold:996477280779"
+      },
+      {
+        "title": "\u2b50\ufe0f AI/ML Engineering Intern - Summer 2027",
+        "date": "N/A",
+        "id": "eightfold:996477278559"
+      },
+      {
+        "title": "\u2b50\ufe0f Radar Systems Engineer - Intern",
+        "date": "N/A",
+        "id": "eightfold:996477258969"
+      },
+      {
+        "title": "\u2b50\ufe0f Systems Engineer-Intern",
+        "date": "N/A",
+        "id": "eightfold:996477278669"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer-Intern",
+        "date": "N/A",
+        "id": "eightfold:996477278618"
+      },
+      {
+        "title": "\u2b50\ufe0f College Student - Full-Stack Software Engineer Intern",
+        "date": "N/A",
+        "id": "eightfold:996476847365"
+      },
+      {
+        "title": "\u2b50\ufe0f College Student - Full-Stack Software Engineer Intern",
+        "date": "N/A",
+        "id": "eightfold:996476847687"
+      },
+      {
+        "title": "\u2b50\ufe0f AI/ML Engineering Intern",
+        "date": "N/A",
+        "id": "eightfold:996477262161"
+      },
+      {
+        "title": "\u2b50\ufe0f Systems Integration and Test Engineer Intern",
+        "date": "N/A",
+        "id": "eightfold:996476690621"
+      },
+      {
+        "title": "\u2b50\ufe0f Systems Integration and Test Engineer Intern",
+        "date": "N/A",
+        "id": "eightfold:996476689035"
+      },
+      {
+        "title": "\u2b50\ufe0f Systems Integration and Test Engineer Intern",
+        "date": "N/A",
+        "id": "eightfold:996476688735"
+      },
+      {
+        "title": "\u2b50\ufe0f College Internship - Systems",
+        "date": "N/A",
+        "id": "eightfold:996476472106"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer (Cyber) - Intern",
+        "date": "N/A",
+        "id": "eightfold:996477222848"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer (Cyber) - Intern",
+        "date": "N/A",
+        "id": "eightfold:996477222668"
       }
     ],
     "Vecna Robotics": [
