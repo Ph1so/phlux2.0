@@ -8,7 +8,7 @@ import time
 from concurrent.futures import ProcessPoolExecutor, as_completed
 from datetime import datetime
 from pathlib import Path
-from typing import Dict, Iterable, List
+from typing import Dict, Iterable, List, Tuple
 
 import pytz
 import requests
@@ -18,6 +18,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from tenacity import retry, stop_after_attempt, wait_fixed
 
+from .boards import BOARDS, board_postings
 from .lists import filter_companies, load_companies
 from .models import Company, ScrapeResult
 from .scrapers import API_SCRAPERS
@@ -38,6 +39,9 @@ MAX_PAGES = 10
 
 # Job-board presets: an ``@name`` action expands to the board's standard action.
 # Every company on the same ATS shares its markup, so one fix here covers them all.
+# ScrapeManager reads @greenhouse, @lever and @ashby boards from their APIs
+# instead (see board_of / phlux.boards); their page actions here only serve
+# direct get_jobs_headless calls such as add_company.py.
 PRESET_PREFIX = "@"
 PRESETS = {
     "greenhouse": "CSS:tr.job-post p.body.body--medium",
@@ -194,8 +198,9 @@ def get_jobs_headless(
     * ``UNDETECTED`` – use ``undetected_chromedriver`` for this session.
     * ``API:<name>[:<arg>]`` – collect titles with a site-specific extractor
       from :data:`phlux.scrapers.API_SCRAPERS`, e.g. ``API:tesla:Tesla SI``.
-    * ``@<preset>`` – a job board's standard action, e.g. ``@greenhouse``
-      (see :data:`PRESETS`).
+    * ``@<preset>`` – a job board's standard action, e.g. ``@workday``
+      (see :data:`PRESETS`). :func:`scrape_company` sends ``@greenhouse``,
+      ``@lever`` and ``@ashby`` to their APIs rather than here.
 
     Multiple URLs are also separated by ``->``.
 
@@ -303,21 +308,81 @@ def get_jobs_headless(
         except Exception:
             pass
 
+    return finish_titles(name, jobs)
+
+
+def finish_titles(name: str, jobs: List[str], strip_badge: bool = True) -> List[str]:
+    """Normalize scraped titles in place and star internship/co-op postings.
+
+    Logs whether *name* had any jobs, and returns *jobs*.
+
+    Args:
+        name: Company name (used for logging).
+        jobs: Titles to normalize.
+        strip_badge: Drop a trailing "New" that some boards glue onto the title
+            text. Only page scrapes need this; API titles are the real titles.
+    """
     if not jobs:
         logger.warning("No jobs found - %s", name)
     else:
         logger.info("Jobs found - %s", name)
 
-    # Normalize titles and star internship/co-op postings.
     for i, title in enumerate(jobs):
         title = title.strip()
-        if title.endswith("New"):
+        if strip_badge and title.endswith("New"):
             title = title[:-3].strip()
         if is_internship(title):
             title = "⭐️ " + title
         jobs[i] = title
 
     return jobs
+
+
+def board_of(instructions: str) -> str | None:
+    """Return the board an action string reads by API (``@greenhouse``…), else None.
+
+    Only a leading ``@greenhouse``, ``@lever`` or ``@ashby`` counts; any other
+    preset still expands to page-scraping actions.
+    """
+    first = instructions.strip().strip('"').split("->")[0].strip().lower()
+    board = first.removeprefix(PRESET_PREFIX)
+    return board if first.startswith(PRESET_PREFIX) and board in BOARDS else None
+
+
+@retry(wait=wait_fixed(5), stop=stop_after_attempt(3))
+def get_board_jobs(name: str, urls: str, instructions: str) -> Tuple[List[str], List[str]]:
+    """Read a company's postings from its job board's API.
+
+    *urls* are the company's board URLs, whose query parameters narrow the board
+    (see :mod:`phlux.boards`). Of the actions after the ``@board`` preset only
+    ``FILTER:<keyword>`` applies; page actions like ``CLICK`` have no meaning here.
+
+    Returns:
+        ``(titles, ids)``: titles normalized and starred like page scrapes, and
+        each posting's ``board:id`` key in the same order.
+    """
+    board = board_of(instructions)
+    postings = board_postings(board, urls)
+    # Boards keep stray double spaces that a browser would collapse.
+    pairs = [(" ".join(p.title.split()), p.id) for p in postings]
+    for action in instructions.strip().strip('"').split("->")[1:]:
+        action = action.strip()
+        if action.startswith(f"{FILTER}:"):
+            keyword = action[len(FILTER) + 1:].strip().lower()
+            pairs = [(t, i) for t, i in pairs if keyword in t.lower()]
+        elif action and action != UNDETECTED:
+            logger.warning("Ignoring %s for %s: it has no meaning for a board API", action, name)
+    titles = finish_titles(name, [t for t, _ in pairs], strip_badge=False)
+    return titles, [i for _, i in pairs]
+
+
+def scrape_company(company: Company) -> ScrapeResult:
+    """Scrape one company: by board API when its actions name one, else in a browser."""
+    if board_of(company.selector):
+        titles, ids = get_board_jobs(company.name, company.link, company.selector)
+        return ScrapeResult(company.name, titles, company.link, ids)
+    jobs = get_jobs_headless(company.name, company.link, company.selector)
+    return ScrapeResult(company.name, jobs, company.link)
 
 
 def load_company_data(
@@ -340,8 +405,25 @@ def load_company_data(
     return filter_companies(companies, names)
 
 
+def switching_to_ids(existing: List, result: ScrapeResult) -> bool:
+    """Return True on a company's first scrape by board API.
+
+    It has titles stored from page scrapes but none of them has an id yet. The
+    API reads the whole board where the page showed only the first page or so,
+    so its unseen titles are mostly old postings, not new ones.
+    """
+    return bool(result.ids) and bool(existing) and not any(
+        isinstance(j, dict) and j.get("id") for j in existing
+    )
+
+
 def process_jobs(data: dict, result: ScrapeResult, new_jobs: Dict, seed: bool = False) -> None:
-    """Merge scrape results into *data*, recording only titles not seen before.
+    """Merge scrape results into *data*, recording only postings not seen before.
+
+    A posting is new when neither its title nor (for board APIs) its id is
+    stored. An id keeps a posting from coming back as new after its title is
+    edited; matching titles keep the existing one-row-per-title behaviour. A
+    stored title that turns up with an id gets that id recorded.
 
     New postings are also recorded in *new_jobs* so callers can send alerts.
 
@@ -351,19 +433,42 @@ def process_jobs(data: dict, result: ScrapeResult, new_jobs: Dict, seed: bool = 
         new_jobs: Accumulator dict for newly discovered jobs.
         seed: Record the titles as backlog already on the careers page: dated
             ``"N/A"`` and left out of *new_jobs*, so no alert goes out for them.
+            Also applied automatically on a company's first board-API scrape
+            (see :func:`switching_to_ids`).
     """
     existing = data.setdefault("companies", {}).get(result.name, [])
     existing_titles = {j["title"] if isinstance(j, dict) else j for j in existing}
+    existing_ids = {j["id"] for j in existing if isinstance(j, dict) and j.get("id")}
+    # Where to record an id for a stored title (dict entries only; legacy strings can't hold one).
+    by_title = {}
+    for j in existing:
+        if isinstance(j, dict):
+            by_title.setdefault(j["title"], j)
+
+    if switching_to_ids(existing, result):
+        logger.info("First board-API scrape of %s: recording unseen titles silently", result.name)
+        seed = True
 
     eastern = pytz.timezone("US/Eastern")
     now = datetime.now(eastern)
     stamp = NA_DATE if seed else now.date().isoformat()
 
+    ids = result.ids or [None] * len(result.jobs)
     new_list = []
-    for job in result.jobs:
+    for job, job_id in zip(result.jobs, ids):
         job = job.replace("\n", " - ")
-        if job not in existing_titles:
-            new_list.append({"title": job, "date": stamp})
+        if job_id and job_id in existing_ids:
+            continue
+        if job in existing_titles:
+            entry = by_title.get(job)
+            if job_id and entry is not None and not entry.get("id"):
+                entry["id"] = job_id
+                existing_ids.add(job_id)
+            continue
+        record = {"title": job, "date": stamp}
+        if job_id:
+            record["id"] = job_id
+        new_list.append(record)
 
     data["companies"][result.name] = existing + new_list
 
@@ -495,23 +600,18 @@ class ScrapeManager:
         logger.info("Scraping %d companies with max_workers=%d", len(companies), max_workers)
 
         with ProcessPoolExecutor(max_workers=max_workers) as executor:
-            futures = {
-                executor.submit(get_jobs_headless, c.name, c.link, c.selector): c
-                for c in companies
-            }
+            futures = {executor.submit(scrape_company, c): c for c in companies}
             for future in as_completed(futures):
                 company = futures[future]
                 try:
-                    jobs = future.result()
+                    result = future.result()
                 except Exception as e:
                     logger.error("Error scraping %s: %s", company.name, e)
-                    jobs = []
-                if not jobs:
+                    result = ScrapeResult(company.name, [], company.link)
+                if not result.jobs:
                     no_jobs_count += 1
                 seed = seed_empty and not data.get("companies", {}).get(company.name)
-                process_jobs(
-                    data, ScrapeResult(company.name, jobs, company.link), new_jobs, seed=seed
-                )
+                process_jobs(data, result, new_jobs, seed=seed)
 
         logger.info("Companies with no jobs found: %d", no_jobs_count)
         return {"data": data, "new_jobs": new_jobs}

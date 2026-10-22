@@ -13,10 +13,14 @@ from phlux.scraping import (
     Actions,
     _paginate,
     autoApply,
+    board_of,
     expand_presets,
+    get_board_jobs,
     load_company_data,
     process_jobs,
+    scrape_company,
 )
+from phlux.boards import Posting
 
 
 # ── Actions ───────────────────────────────────────────────────────────────────
@@ -275,6 +279,93 @@ class TestProcessJobs:
         new_jobs = self._run(data, [])
         assert data["companies"].get("Acme", []) == []
         assert "Acme" not in new_jobs.get("companies", {})
+
+
+class TestProcessJobsWithIds:
+    def _run(self, data, jobs, ids, name="Acme"):
+        new_jobs = {}
+        process_jobs(data, ScrapeResult(name, jobs, "https://acme.com", ids), new_jobs)
+        return new_jobs
+
+    def test_new_posting_stores_its_id(self):
+        data = {"companies": {"Acme": [{"title": "Old", "date": "2026-10-01", "id": "lever:0"}]}}
+        new_jobs = self._run(data, ["Old", "Robotics Engineer"], ["lever:0", "lever:1"])
+        assert data["companies"]["Acme"][1]["id"] == "lever:1"
+        assert [j["title"] for j in new_jobs["companies"]["Acme"]["jobs"]] == ["Robotics Engineer"]
+
+    def test_renamed_posting_is_not_new(self):
+        data = {"companies": {"Acme": [{"title": "Robotics Eng", "date": "2026-10-01", "id": "lever:1"}]}}
+        new_jobs = self._run(data, ["Robotics Engineer"], ["lever:1"])
+        assert len(data["companies"]["Acme"]) == 1
+        assert "Acme" not in new_jobs.get("companies", {})
+
+    def test_stored_title_gets_its_id_recorded(self):
+        data = {"companies": {"Acme": [
+            {"title": "Planner", "date": "2026-10-01", "id": "lever:9"},
+            {"title": "Perception", "date": "2026-10-02"},
+        ]}}
+        self._run(data, ["Perception"], ["lever:2"])
+        assert data["companies"]["Acme"][1] == {"title": "Perception", "date": "2026-10-02", "id": "lever:2"}
+
+    def test_first_board_scrape_is_silent(self):
+        # Titles stored by page scrapes, none with an id yet: the API's extra
+        # titles are old postings past the first page, so no alert and N/A.
+        data = {"companies": {"Acme": [{"title": "Planner", "date": "2026-10-01"}]}}
+        new_jobs = self._run(data, ["Planner", "⭐️ Robotics Intern"], ["ashby:1", "ashby:2"])
+        assert data["companies"]["Acme"] == [
+            {"title": "Planner", "date": "2026-10-01", "id": "ashby:1"},
+            {"title": "⭐️ Robotics Intern", "date": "N/A", "id": "ashby:2"},
+        ]
+        assert "Acme" not in new_jobs.get("companies", {})
+
+    def test_later_board_scrapes_alert(self):
+        data = {"companies": {"Acme": [{"title": "Planner", "date": "2026-10-01", "id": "ashby:1"}]}}
+        new_jobs = self._run(data, ["Planner", "⭐️ Robotics Intern"], ["ashby:1", "ashby:2"])
+        assert [j["title"] for j in new_jobs["companies"]["Acme"]["jobs"]] == ["⭐️ Robotics Intern"]
+
+    def test_new_company_on_a_board_still_alerts(self):
+        data = {"companies": {}}
+        new_jobs = self._run(data, ["⭐️ Robotics Intern"], ["ashby:2"])
+        assert data["companies"]["Acme"][0]["date"] != "N/A"
+        assert "Acme" in new_jobs["companies"]
+
+
+class TestBoardRouting:
+    @pytest.mark.parametrize("instructions, board", [
+        ("@greenhouse", "greenhouse"),
+        ("@Lever->FILTER:intern", "lever"),
+        ('"@ashby"', "ashby"),
+        ("@workday", None),
+        ("CSS:h3", None),
+        ("UNDETECTED->API:tesla:Tesla SI", None),
+    ])
+    def test_board_of(self, instructions, board):
+        assert board_of(instructions) == board
+
+    def test_get_board_jobs_filters_stars_and_tidies(self):
+        postings = [
+            Posting("lever:1", "Robotics  Software Intern"),
+            Posting("lever:2", "Senior  Recruiter"),
+            Posting("lever:3", "Perception Intern, Whats New"),
+        ]
+        with patch("phlux.scraping.board_postings", return_value=postings) as fetch:
+            titles, ids = get_board_jobs("Acme", "https://jobs.lever.co/acme", "@lever->FILTER:intern")
+        fetch.assert_called_once_with("lever", "https://jobs.lever.co/acme")
+        assert titles == ["⭐️ Robotics Software Intern", "⭐️ Perception Intern, Whats New"]
+        assert ids == ["lever:1", "lever:3"]
+
+    def test_scrape_company_uses_api_for_boards(self):
+        with patch("phlux.scraping.board_postings", return_value=[Posting("ashby:1", "Planner")]), \
+             patch("phlux.scraping.get_jobs_headless") as headless:
+            result = scrape_company(Company("Acme", "https://jobs.ashbyhq.com/acme", "@ashby"))
+        headless.assert_not_called()
+        assert (result.jobs, result.ids) == (["Planner"], ["ashby:1"])
+
+    def test_scrape_company_uses_browser_otherwise(self):
+        with patch("phlux.scraping.get_jobs_headless", return_value=["Planner"]) as headless:
+            result = scrape_company(Company("Acme", "https://acme.com/jobs", "CSS:h3"))
+        headless.assert_called_once_with("Acme", "https://acme.com/jobs", "CSS:h3")
+        assert (result.jobs, result.ids) == (["Planner"], [])
 
 
 # ── autoApply ─────────────────────────────────────────────────────────────────
