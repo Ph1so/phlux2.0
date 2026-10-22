@@ -1565,6 +1565,11 @@
         "title": "\u2b50\ufe0f Research Scientist Intern, FAIR - Multimodal Foundations (PhD)",
         "date": "2026-10-22",
         "id": "meta:2322361288548512"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, FAIR Chemistry",
+        "date": "2026-10-22",
+        "id": "meta:2162858564439476"
       }
     ],
     "Apple": [
@@ -3725,6 +3730,11 @@
         "title": "\u2b50\ufe0f Hardware Test and Reliability Intern - Summer 2027",
         "date": "2026-10-21",
         "id": "ashby:36d75e36-eeb2-4399-8887-37c4a5ff5800"
+      },
+      {
+        "title": "\u2b50\ufe0f Frontend Software Engineer Intern - Summer 2027",
+        "date": "2026-10-22",
+        "id": "ashby:89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd"
       }
     ],
     "Relativity": [
@@ -4236,6 +4246,11 @@
         "title": "\u2b50\ufe0f Human-Centered AI Research Intern, Causal Reasoning Models",
         "date": "2026-10-13",
         "id": "lever:6433edb6-76be-409f-9a73-9b9d9c207f9f"
+      },
+      {
+        "title": "\u2b50\ufe0f Human Aware Interactions and Learning Intern",
+        "date": "2026-10-22",
+        "id": "lever:71e99c38-aa29-4414-956d-cc526644b9b7"
       }
     ],
     "Mitsubishi Electric Research Laboratories": [
@@ -6643,6 +6658,11 @@
         "title": "\u2b50\ufe0f 2027 Summer Intern, Global Customer Research Intern (Master/MBA Degree)",
         "date": "2026-10-22",
         "id": "workday:JR-202619679"
+      },
+      {
+        "title": "GVHE Hardware-Software Co-Optimization Architect",
+        "date": "2026-10-22",
+        "id": "workday:JR-202622372-1"
       }
     ],
     "Locus Robotics": [
@@ -13427,6 +13447,11 @@
         "title": "Senior Staff/Principal Software Engineer - GPU System Software, Onboard Execution",
         "date": "2026-10-22",
         "id": "lever:a30574c9-8ef3-408f-bc85-39aad54ad115"
+      },
+      {
+        "title": "Senior Radar Engineer",
+        "date": "2026-10-22",
+        "id": "lever:09924dfa-16b4-415a-828e-4ae7d903ecc2"
       }
     ],
     "Pony.ai": [
@@ -20327,6 +20352,21 @@
         "title": "\u2b50\ufe0f 2027 Summer Intern, MS, PhD, Quantitative Software Engineer",
         "date": "2026-10-22",
         "id": "greenhouse:8197554"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, PhD, AI Foundations - Recipes",
+        "date": "2026-10-22",
+        "id": "greenhouse:8306841"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, PhD, Research, Multimodal Foundation Models",
+        "date": "2026-10-22",
+        "id": "greenhouse:8306867"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, PhD, Research, RSI for Autonomous Driving",
+        "date": "2026-10-22",
+        "id": "greenhouse:8306779"
       }
     ],
     "Wayve": [
@@ -29122,6 +29162,11 @@
         "title": "Porter/Driver",
         "date": "2026-10-22",
         "id": "ashby:866d4db6-80ce-4439-ae61-b32052ea1495"
+      },
+      {
+        "title": "Global Security Operations Center (GSOC) Operator",
+        "date": "2026-10-22",
+        "id": "ashby:404e7bcd-e794-4409-934f-2d8190ed5371"
       }
     ],
     "Built Robotics": [
@@ -32471,6 +32516,11 @@
         "title": "Senior Security Automation Engineer",
         "date": "N/A",
         "id": "workday:R7685"
+      },
+      {
+        "title": "\u2b50\ufe0f Co-op- Machine Learning Ops",
+        "date": "2026-10-22",
+        "id": "workday:R8327"
       }
     ],
     "PROCEPT BioRobotics": [
@@ -36021,6 +36071,11 @@
         "title": "Software Engineer: Robotics Controls",
         "date": "2026-10-22",
         "id": "ashby:ebace75d-6896-45f5-a12c-3c0699c9d7a6"
+      },
+      {
+        "title": "Applied Scientist",
+        "date": "2026-10-22",
+        "id": "ashby:c3dd1d5e-3189-4a20-bba0-7ae45b91bc95"
       }
     ],
     "Genesis AI": [
@@ -37072,6 +37127,21 @@
         "title": "\u2b50\ufe0f 2027 Business Management Intern",
         "date": "2026-10-22",
         "id": "workday:R10257339"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Systems Engineer Intern - Cape Canaveral FL",
+        "date": "2026-10-22",
+        "id": "workday:R10251849"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Systems Engineering Internship (AI Experience) - Dulles VA",
+        "date": "2026-10-22",
+        "id": "workday:R10257423"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Cyber Software Engineer Intern - Tampa FL",
+        "date": "2026-10-22",
+        "id": "workday:R10249530"
       }
     ],
     "OpenAI": [
@@ -42460,6 +42530,11 @@
         "title": "\u2b50\ufe0f Software Engineer (Displays)-INTERN",
         "date": "2026-10-22",
         "id": "eightfold:996477393792"
+      },
+      {
+        "title": "\u2b50\ufe0f Mechanical Design Intern",
+        "date": "2026-10-22",
+        "id": "eightfold:996477505085"
       }
     ],
     "Vecna Robotics": [
