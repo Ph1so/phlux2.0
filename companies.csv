@@ -170,7 +170,7 @@ Mitre,https://careers.mitre.org/us/en/search-results?keywords=student,CSS:div.jo
 Serve Robotics,https://jobs.ashbyhq.com/serverobotics/,@ashby
 Draper,https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers?workerSubType=b9bd15164d241000cf9857a64e2e0000,@workday
 Bosch,https://jobs.bosch.com/en?pages=5&country=us&positionTypes=f524b939-fe55-407b-a0b0-e8f4eec28997%2C8c682ec0-3d28-4e52-b53b-c63d440a32d3%2Cf3b92bc1-600d-4d33-9115-5aa27785f52b%2Ce4a3c0db-920d-4356-8ce0-c0b44a54e497#,CSS:h2.A-JobPanel__title
-Anduril,https://job-boards.greenhouse.io/embed/job_board?for=andurilindustries&keyword=intern,@greenhouse
+Anduril,https://job-boards.greenhouse.io/embed/job_board?for=andurilindustries&keyword=intern->https://job-boards.greenhouse.io/embed/job_board?for=andurilindustries&keyword=co-op,@greenhouse
 Aeva,https://jobs.lever.co/aeva?,CSS:a.posting-title
 Forterra,https://ats.rippling.com/forterra/jobs?page=0&searchQuery=&workplaceType=&country=&state=&city=&pageSize=100,CSS:a[font-size][href*='/jobs/']
 Intrinsic,https://www.intrinsic.ai/careers,CSS:h3.intr-list-heading.intr-heading-h4
@@ -255,3 +255,21 @@ Exotec,https://apply.workable.com/exotec/,CLICK:button[data-ui='load-more-button
 Gatik,https://job-boards.greenhouse.io/embed/job_board?for=gatikaiinc,@greenhouse
 Humble Robotics,https://jobs.lever.co/humble-robotics,@lever->FILTER:intern
 Rhoda AI,https://jobs.ashbyhq.com/rhoda-ai,@ashby->FILTER:intern
+Walden Robotics,https://ats.rippling.com/walden-robotics/jobs?page=0&pageSize=100,CSS:a[font-size][href*='/jobs/']
+Woven by Toyota,https://jobs.lever.co/woven-by-toyota,@lever
+Generalist AI,https://jobs.ashbyhq.com/generalist,@ashby
+Genesis AI,https://jobs.ashbyhq.com/genesis,@ashby
+Mind Robotics,https://jobs.ashbyhq.com/mindrobotics,@ashby
+OpenAI,https://jobs.ashbyhq.com/openai,@ashby
+Ocado,https://job-boards.greenhouse.io/embed/job_board?for=ocadogroup->https://job-boards.greenhouse.io/embed/job_board?for=ocadogroup&page=2,@greenhouse
+Caterpillar,https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers?workerSubType=3ff971b74e64011c93bf033b6e160342&workerSubType=3ff971b74e6401249eea21076716572f&locationCountry=bc33aa3152ec42d4995f4791a106ed09,@workday
+Northrop Grumman,https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site?workerSubType=a111b0a898f10129e4db58f2e700d97a,@workday->FILTER:intern
+John Deere,https://careers.deere.com/careers?seniority=Intern&location=United%20States&sort_by=relevance,CSS:[data-test-id='job-listing'] div[class^='title-']
+Lockheed Martin,https://lockheedmartin.eightfold.ai/careers?query=intern&location=United%20States&sort_by=timestamp&start=0->https://lockheedmartin.eightfold.ai/careers?query=intern&location=United%20States&sort_by=timestamp&start=10->https://lockheedmartin.eightfold.ai/careers?query=intern&location=United%20States&sort_by=timestamp&start=20,CSS:[data-test-id='job-listing'] div[class^='title-']
+Ford,https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs?keyword=intern&location=United+States&locationId=300000000425727&locationLevel=country&mode=location&sortBy=POSTING_DATES_DESC,CSS:.job-tile__title->FILTER:intern
+Joby Aviation,https://careers-jobyaviation.icims.com/jobs/search?ss=1&searchKeyword=intern&needsRedirect=false&mobile=false&in%5Fiframe=1,UNDETECTED->CSS:.iCIMS_Anchor h3
+Mobileye,https://jobs.eu.lever.co/mobileye,@lever
+Neura Robotics,https://jobs.neura-robotics.com/search?query=intern&department=AI->https://jobs.neura-robotics.com/search?query=intern&department=Corporate->https://jobs.neura-robotics.com/search?query=intern&department=Growth->https://jobs.neura-robotics.com/search?query=intern&department=Product->https://jobs.neura-robotics.com/search?query=intern&department=Supply%20Chain->https://jobs.neura-robotics.com/search?query=intern&department=Service%20%26%20Academy->https://jobs.neura-robotics.com/search?query=intern&department=Software->https://jobs.neura-robotics.com/search?query=intern&department=Hardware->https://jobs.neura-robotics.com/search?query=intern&department=Systems%20Engineering,UNDETECTED->CSS:a.result-item h3.title->FILTER:intern
+Dusty Robotics,https://ats.rippling.com/dusty-robotics-inc/jobs?page=0&pageSize=100,CSS:a[font-size][href*='/jobs/']
+Vecna Robotics,https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d066998dd60166a3122fb873a0&m=t,CSS:a[href*='JobIntroduction.action']
+Realtime Robotics,https://apply.workable.com/realtime-robotics/,CSS:li[data-ui='job'] h3
