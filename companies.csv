@@ -181,11 +181,11 @@ Sunday,https://jobs.ashbyhq.com/sunday/,@ashby
 Machina Labs,https://jobs.lever.co/MachinaLabs?commitment=Internship,@lever
 Matic Robots,https://jobs.ashbyhq.com/MaticRobots/,@ashby
 Pickle Robot,https://jobs.lever.co/picklerobot,@lever
-ScoutAI,https://job-boards.greenhouse.io/scoutai/,@greenhouse
+ScoutAI,https://jobs.ashbyhq.com/scout-ai,@ashby
 Lyft,https://app.careerpuck.com/job-board/lyft,CSS:a[data-testing='job-row'] [class*='JobPageRow__Title-']
 AeroVect,https://jobs.ashbyhq.com/AeroVect/,@ashby
 Gather AI,https://job-boards.greenhouse.io/gatherai/?offices%5B%5D=4001902007,@greenhouse
-Carbon Robotics,https://job-boards.greenhouse.io/embed/job_board?for=carbonrobotics,@greenhouse
+Carbon Robotics,https://jobs.ashbyhq.com/carbon-robotics,@ashby
 Scythe Robotics,https://app.dover.com/jobs/scytherobotics,CSS:a[href*='/apply/'] >> div[class*='HeaderTitle']
 Anywhere Robotics,https://jobs.gusto.com/boards/anyware-robotics-e7cbbd33-db1c-470e-93b3-020992d24e20,CSS:a div h3
 Futurewei Technologies,https://phf.tbe.taleo.net/phf01/ats/careers/v2/searchResults?org=FUTUREWEITECH&cws=47,CSS:h4.oracletaleocwsv2-head-title
