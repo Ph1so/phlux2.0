@@ -158,3 +158,27 @@ class TestBoardPostings:
         with patch("phlux.boards.requests.get", return_value=error):
             with pytest.raises(boards.requests.HTTPError):
                 board_postings("greenhouse", "https://job-boards.greenhouse.io/gone")
+
+
+class TestKeywordIn:
+    @pytest.mark.parametrize("title, keyword, expected", [
+        ("Software Engineer Intern", "intern", True),
+        ("Robotics Internship", "intern", True),
+        ("Senior Software Engineer, Internal Tooling", "intern", False),
+        ("International Expansion Lead", "intern", False),
+        ("Internet Services Engineer", "INTERN", False),
+        ("Internal Tools Intern", "intern", True),
+        ("Spring 2027 Engineering Internship/Co-op", "internship", True),
+        ("Winter Co-op", "co-op", True),
+        ("Early Career Engineer", "early career", True),
+        ("Painter", "intern", False),
+    ])
+    def test_keyword_in(self, title, keyword, expected):
+        assert boards.keyword_in(title, keyword) is expected
+
+    def test_greenhouse_keyword_skips_internal(self):
+        jobs = {"jobs": [{"id": 1, "title": "Internal Audit Manager"}, {"id": 2, "title": "Audit Intern"}]}
+        mock, _ = fake_get({GH + "jobs": jobs})
+        with mock:
+            postings = greenhouse_postings("https://job-boards.greenhouse.io/acme?keyword=intern")
+        assert [p.id for p in postings] == ["greenhouse:2"]

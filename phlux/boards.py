@@ -1,5 +1,8 @@
 """Read whole job boards from the public APIs of Greenhouse, Lever and Ashby.
 
+Other job systems and company sites live in :mod:`phlux.adapters`; their
+fetchers join the same registry, :data:`FETCHERS`.
+
 These boards publish every posting as JSON, so no browser is needed and a board
 of thousands of jobs comes back in one request. Each posting carries the board's
 own job id, which survives title edits, so storage can tell a renamed posting
@@ -10,29 +13,26 @@ narrow it: the URL's query parameters (``keyword``, ``departments[]``,
 ``offices[]``, Lever's ``commitment``, Ashby's ``locationId``…) become filters
 applied here, so the results match what that URL shows a person. One difference:
 Greenhouse's ``keyword`` search also matches job descriptions, but here it only
-matches titles.
+matches the start of a word in the title (see :func:`keyword_in`).
 """
 from __future__ import annotations
 
+import functools
 import logging
-from dataclasses import dataclass
+import re
 from typing import Callable, Dict, Iterable, List, Set, Tuple
-from urllib.parse import parse_qs, unquote, urlsplit
+from urllib.parse import urlsplit
 
 import requests
+
+from .adapters import ADAPTERS
+from .adapters.base import path_slug as _path_slug
+from .adapters.base import query as _query
+from .models import Posting
 
 logger = logging.getLogger(__name__)
 
 TIMEOUT = 30
-BOARDS = ("greenhouse", "lever", "ashby")
-
-
-@dataclass
-class Posting:
-    """One job from a board: a stable ``board:id`` key and the title as posted."""
-
-    id: str
-    title: str
 
 
 def _get(url: str, **kwargs) -> requests.Response:
@@ -41,25 +41,23 @@ def _get(url: str, **kwargs) -> requests.Response:
     return response
 
 
-def _query(url: str) -> Dict[str, List[str]]:
-    """Return *url*'s query parameters with ``name[]`` keys folded into ``name``."""
-    params: Dict[str, List[str]] = {}
-    for key, values in parse_qs(urlsplit(url).query).items():
-        params.setdefault(key.removesuffix("[]"), []).extend(values)
-    return params
+# Words that merely start with "intern" and so would match a keyword search for it.
+_NOT_INTERN = re.compile(r"\bintern(?:al|ally|als|ation|ational|ationally|et)\b", re.IGNORECASE)
 
 
-def _path_slug(url: str) -> str:
-    """Return the first path segment of *url*, e.g. ``acme`` for ``https://x.io/acme/``."""
-    parts = [p for p in urlsplit(url).path.split("/") if p]
-    if not parts:
-        raise ValueError(f"No board name in {url}")
-    return unquote(parts[0])
+def keyword_in(title: str, keyword: str) -> bool:
+    """Return True if *keyword* starts a word in *title* (case-insensitive).
+
+    "intern" must not just be the start of Internal, International or Internet:
+    those are removed before matching, so "Internal Tools Intern" still matches.
+    """
+    if keyword.lower().startswith("intern"):
+        title = _NOT_INTERN.sub(" ", title)
+    return re.search(r"\b" + re.escape(keyword), title, re.IGNORECASE) is not None
 
 
 def _title_has(postings: Iterable[Tuple[Posting, dict]], keywords: List[str]) -> List[Tuple[Posting, dict]]:
-    words = [k.lower() for k in keywords]
-    return [(p, raw) for p, raw in postings if any(w in p.title.lower() for w in words)]
+    return [(p, raw) for p, raw in postings if any(keyword_in(p.title, k) for k in keywords)]
 
 
 # ── Greenhouse ────────────────────────────────────────────────────────────────
@@ -186,16 +184,22 @@ FETCHERS: Dict[str, Callable[[str], List[Posting]]] = {
     "greenhouse": greenhouse_postings,
     "lever": lever_postings,
     "ashby": ashby_postings,
+    **ADAPTERS,
 }
+# Every ``@name`` read without a browser (see phlux.scraping.board_of).
+BOARDS = tuple(FETCHERS)
 
 
-def board_postings(board: str, urls: str) -> List[Posting]:
+def board_postings(board: str, urls: str, arg: str = "") -> List[Posting]:
     """Return the postings for every ``->``-separated board URL, without duplicates.
 
     Several URLs act like several searches of the board (e.g. ``keyword=intern``
-    and ``keyword=co-op``): a posting shown by any of them is kept once.
+    and ``keyword=co-op``): a posting shown by any of them is kept once. *arg*
+    (from ``@board:arg``) is passed to adapters that take one.
     """
     fetch = FETCHERS[board]
+    if arg:
+        fetch = functools.partial(fetch, arg=arg)
     seen: Set[str] = set()
     postings: List[Posting] = []
     for url in urls.split("->"):

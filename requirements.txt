@@ -4,6 +4,7 @@ selenium
 webdriver-manager
 tenacity
 lxml
+beautifulsoup4
 python-dotenv
 requests
 gspread

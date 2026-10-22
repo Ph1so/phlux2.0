@@ -350,7 +350,7 @@ class TestBoardRouting:
         ]
         with patch("phlux.scraping.board_postings", return_value=postings) as fetch:
             titles, ids = get_board_jobs("Acme", "https://jobs.lever.co/acme", "@lever->FILTER:intern")
-        fetch.assert_called_once_with("lever", "https://jobs.lever.co/acme")
+        fetch.assert_called_once_with("lever", "https://jobs.lever.co/acme", "")
         assert titles == ["⭐️ Robotics Software Intern", "⭐️ Perception Intern, Whats New"]
         assert ids == ["lever:1", "lever:3"]
 
@@ -446,3 +446,16 @@ class TestScrapeCompaniesSeeding:
     def test_without_flag_every_new_title_alerts(self, tmp_path):
         result = self._scrape(tmp_path, {"companies": {}})
         assert set(result["new_jobs"]["companies"]) == {"Acme", "Beta"}
+
+
+class TestBoardErrors:
+    def test_board_failure_is_a_picklable_message(self):
+        import pickle
+
+        import requests
+
+        with patch("phlux.scraping.board_postings", side_effect=requests.HTTPError("404 Not Found")), \
+             patch("phlux.scraping.get_board_jobs.retry.sleep"):
+            with pytest.raises(RuntimeError, match="HTTPError: 404 Not Found") as exc:
+                scrape_company(Company("Gone", "https://job-boards.greenhouse.io/gone", "@greenhouse"))
+        pickle.dumps(exc.value)

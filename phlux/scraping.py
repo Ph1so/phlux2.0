@@ -16,9 +16,9 @@ from selenium.common.exceptions import TimeoutException, WebDriverException, NoS
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
-from tenacity import retry, stop_after_attempt, wait_fixed
+from tenacity import RetryError, retry, stop_after_attempt, wait_fixed
 
-from .boards import BOARDS, board_postings
+from .boards import BOARDS, board_postings, keyword_in
 from .lists import filter_companies, load_companies
 from .models import Company, ScrapeResult
 from .scrapers import API_SCRAPERS
@@ -338,15 +338,24 @@ def finish_titles(name: str, jobs: List[str], strip_badge: bool = True) -> List[
     return jobs
 
 
-def board_of(instructions: str) -> str | None:
-    """Return the board an action string reads by API (``@greenhouse``…), else None.
+def _board_token(instructions: str) -> Tuple[str | None, str]:
+    """Split a leading ``@board[:arg]`` action into ``(board, arg)``; board is None if absent."""
+    first = instructions.strip().strip('"').split("->")[0].strip()
+    if not first.startswith(PRESET_PREFIX):
+        return None, ""
+    name, _, arg = first[len(PRESET_PREFIX):].partition(":")
+    name = name.strip().lower()
+    return (name, arg.strip()) if name in BOARDS else (None, "")
 
-    Only a leading ``@greenhouse``, ``@lever`` or ``@ashby`` counts; any other
-    preset still expands to page-scraping actions.
+
+def board_of(instructions: str) -> str | None:
+    """Return the board or adapter an action string reads without a browser, else None.
+
+    Only a leading ``@name`` (or ``@name:arg``) naming one in
+    :data:`phlux.boards.BOARDS` counts; any other preset still expands to
+    page-scraping actions.
     """
-    first = instructions.strip().strip('"').split("->")[0].strip().lower()
-    board = first.removeprefix(PRESET_PREFIX)
-    return board if first.startswith(PRESET_PREFIX) and board in BOARDS else None
+    return _board_token(instructions)[0]
 
 
 @retry(wait=wait_fixed(5), stop=stop_after_attempt(3))
@@ -355,21 +364,23 @@ def get_board_jobs(name: str, urls: str, instructions: str) -> Tuple[List[str], 
 
     *urls* are the company's board URLs, whose query parameters narrow the board
     (see :mod:`phlux.boards`). Of the actions after the ``@board`` preset only
-    ``FILTER:<keyword>`` applies; page actions like ``CLICK`` have no meaning here.
+    ``FILTER:<keyword>`` applies, matching like :func:`phlux.boards.keyword_in`
+    (word starts, so "intern" skips "Internal"); page actions like ``CLICK`` have
+    no meaning here.
 
     Returns:
         ``(titles, ids)``: titles normalized and starred like page scrapes, and
         each posting's ``board:id`` key in the same order.
     """
-    board = board_of(instructions)
-    postings = board_postings(board, urls)
+    board, arg = _board_token(instructions)
+    postings = board_postings(board, urls, arg)
     # Boards keep stray double spaces that a browser would collapse.
     pairs = [(" ".join(p.title.split()), p.id) for p in postings]
     for action in instructions.strip().strip('"').split("->")[1:]:
         action = action.strip()
         if action.startswith(f"{FILTER}:"):
-            keyword = action[len(FILTER) + 1:].strip().lower()
-            pairs = [(t, i) for t, i in pairs if keyword in t.lower()]
+            keyword = action[len(FILTER) + 1:].strip()
+            pairs = [(t, i) for t, i in pairs if keyword_in(t, keyword)]
         elif action and action != UNDETECTED:
             logger.warning("Ignoring %s for %s: it has no meaning for a board API", action, name)
     titles = finish_titles(name, [t for t, _ in pairs], strip_badge=False)
@@ -379,7 +390,13 @@ def get_board_jobs(name: str, urls: str, instructions: str) -> Tuple[List[str], 
 def scrape_company(company: Company) -> ScrapeResult:
     """Scrape one company: by board API when its actions name one, else in a browser."""
     if board_of(company.selector):
-        titles, ids = get_board_jobs(company.name, company.link, company.selector)
+        try:
+            titles, ids = get_board_jobs(company.name, company.link, company.selector)
+        except Exception as e:
+            # A RetryError holds futures that can't be pickled back from a worker
+            # process, which would hide the real error; send its message instead.
+            cause = e.last_attempt.exception() if isinstance(e, RetryError) else e
+            raise RuntimeError(f"{type(cause).__name__}: {cause}") from None
         return ScrapeResult(company.name, titles, company.link, ids)
     jobs = get_jobs_headless(company.name, company.link, company.selector)
     return ScrapeResult(company.name, jobs, company.link)

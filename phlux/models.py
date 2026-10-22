@@ -15,6 +15,14 @@ class Company:
 
 
 @dataclass
+class Posting:
+    """One job read from a board or site: a stable ``source:id`` key and its title."""
+
+    id: str
+    title: str
+
+
+@dataclass
 class ScrapeResult:
     """Results returned by a scraper for a specific company.
 
