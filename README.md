@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 Phlux Job Listings
-*Showing the 872 most recent of 30,993 roles tracked across 265 companies. See [all listings](listings/README.md) for the full history.*
+*Showing the 872 most recent of 31,007 roles tracked across 265 companies. See [all listings](listings/README.md) for the full history.*
 
 
 <table>
