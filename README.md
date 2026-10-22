@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 Phlux Job Listings
-*Showing the 902 most recent of 30,187 roles tracked across 265 companies. See [all listings](listings/README.md) for the full history.*
+*Showing the 902 most recent of 30,248 roles tracked across 265 companies. See [all listings](listings/README.md) for the full history.*
 
 
 <table>
@@ -66,6 +66,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tesla.com/careers/search/?type=intern&site=US"><img src="https://cdn.brandfetch.io/tesla.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tesla" height="20" style="vertical-align:middle; margin-right:6px;"> Tesla</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Logistics Industrial Engineer Intern, Cell Engineering (Winter/Spring 2027)</div></td>
+  <td>2026-10-22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://mujin.bamboohr.com/careers"><img src="https://cdn.brandfetch.io/mujin.co.jp/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mujin" height="20" style="vertical-align:middle; margin-right:6px;"> Mujin</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">SQE - Software Developer - Test</div></td>
   <td>2026-10-22</td>
 </tr>
   <tr>
@@ -6324,13 +6331,6 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Growth Lead, France</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Growth Lead, Japan</div></td>
   <td>2026-10-22</td>
 </tr>
 
