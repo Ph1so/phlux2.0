@@ -1094,6 +1094,16 @@
         "title": "Jr. Software Development Engineer - Detroit, MI, Jr. Developer Program",
         "date": "2026-10-22",
         "id": "amazon:10586548"
+      },
+      {
+        "title": "\u2b50\ufe0f Associate Delivery Consultant Intern, National Security, AWS Professional Services",
+        "date": "2026-10-22",
+        "id": "amazon:10585775"
+      },
+      {
+        "title": "\u2b50\ufe0f Associate Delivery Consultant Intern, AWS Professional Services",
+        "date": "2026-10-22",
+        "id": "amazon:10585774"
       }
     ],
     "Meta": [
@@ -2790,7 +2800,8 @@
       },
       {
         "title": "Early Career - Associate Carrier Operations Analyst",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "jibe:33732"
       },
       {
         "title": "Early Career - Durability Analytics Engineer",
@@ -18904,6 +18915,11 @@
         "title": "Video Editor",
         "date": "N/A",
         "id": "greenhouse:5217795007"
+      },
+      {
+        "title": "Senior Electrical Engineer II, Design Assurance",
+        "date": "2026-10-22",
+        "id": "greenhouse:5272771007"
       }
     ],
     "Lyft": [
@@ -29444,6 +29460,11 @@
         "title": "Flight Software Verification Engineer",
         "date": "2026-10-21",
         "id": "ashby:287211ad-0dfe-4770-8e27-efe450583c0b"
+      },
+      {
+        "title": "Sr. FPGA Design Engineer",
+        "date": "2026-10-22",
+        "id": "ashby:775a48ea-e1ac-4bc9-bd07-6aedc49f8fe2"
       }
     ],
     "ANYbotics": [
@@ -41065,6 +41086,11 @@
         "title": "Researcher, Misalignment Monitoring Lead",
         "date": "2026-10-22",
         "id": "ashby:c955617d-f465-4f7a-b57c-98284fd14777"
+      },
+      {
+        "title": "Program Manager, Partner Content & Storytelling",
+        "date": "2026-10-22",
+        "id": "ashby:609cb338-a168-42c1-8e77-5837826136b1"
       }
     ],
     "John Deere": [
