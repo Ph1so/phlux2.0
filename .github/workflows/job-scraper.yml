@@ -11,6 +11,12 @@ on:
 permissions:
   contents: write
 
+# One run at a time: overlapping runs both emailed the same new jobs before
+# either saved them. A run that arrives meanwhile waits for this one.
+concurrency:
+  group: job-scraper
+  cancel-in-progress: false
+
 env:
   GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
   GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -24,6 +30,9 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
+          # Latest main, not the commit that triggered this run: a run that
+          # waited behind another must start from the storage it just saved.
+          ref: main
           token: ${{ secrets.GH_ACTIONS_TOKEN }}
           persist-credentials: true
 
@@ -76,6 +85,9 @@ jobs:
 
       - uses: actions/checkout@v3
         with:
+          # Latest main, not the commit that triggered this run: a run that
+          # waited behind another must start from the storage it just saved.
+          ref: main
           token: ${{ secrets.GH_ACTIONS_TOKEN }}
           persist-credentials: true
 
