@@ -1,16 +1,16 @@
 Name,Link,ClassName
 Microsoft,https://apply.careers.microsoft.com/careers?query=intern&location=United%20States&sort_by=relevance&start=0->https://apply.careers.microsoft.com/careers?query=intern&location=United%20States&sort_by=relevance&start=10->https://apply.careers.microsoft.com/careers?query=intern&location=United%20States&sort_by=relevance&start=20,CSS:div[data-test-id='job-listing'] >> div[class^='title-']->FILTER:intern
-Uber,https://jobs.uber.com/en/jobs/?countries=United+States&team=University,CSS:a.js-view-job
-Google,https://www.google.com/about/careers/applications/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&src=Online%2FGoogle%20Website%2FByF&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&location=United%20States,CSS:.QJPWVe
+Uber,https://jobs.uber.com/en/jobs/?countries=United+States&team=University,@uber
+Google,https://www.google.com/about/careers/applications/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&src=Online%2FGoogle%20Website%2FByF&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&location=United%20States,@google
 Nvidia,https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8,@workday
-Meta,https://www.metacareers.com/jobsearch/?roles[0]=Internship,CSS:a[href*='/profile/job_details/'] >> h3
+Meta,https://www.metacareers.com/jobsearch/?roles[0]=Internship,@meta
 Netflix,https://explore.jobs.netflix.net/careers?domain=netflix.com&query=%22internship%22%20-intern&pid=790299250747&sort_by=relevance,CSS:.position-title.line-clamp.line-clamp-2
-AWS,https://amazon.jobs/content/en/teams/amazon-web-services/internships?country%5B%5D=US,CSS:div h3 a
+AWS,https://amazon.jobs/content/en/teams/amazon-web-services/internships?country%5B%5D=US,@amazon
 Pinterest,https://www.pinterestcareers.com/jobs/?orderby=0&pagesize=20&page=1&radius=100&team=University#js-job-search-results,CSS:.stretched-link.js-view-job
-Amazon,https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=recent&country%5B%5D=USA&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=intern&city=&country=&region=&county=&query_options=&,CSS:.job-link
+Amazon,https://www.amazon.jobs/en/search?base_query=intern&country%5B%5D=USA&sort=recent,@amazon
 ispace,https://jobs.lever.co/ispace-inc,@lever->FILTER:intern
 Welch's,https://app.careerpuck.com/job-board/welchs/?departmentId=6vcaTkfP,CSS:a[data-testing='job-row'] [class*='JobPageRow__Title-']
-Apple,https://jobs.apple.com/en-us/search?location=united-states-USA&team=internships-STDNT-INTRN,CSS:.link-inline.t-intro.word-wrap-break-word
+Apple,https://jobs.apple.com/en-us/search?location=united-states-USA&team=internships-STDNT-INTRN,@apple
 IBM,https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States,CSS:.bx--card-group__cards__col
 Salesforce,https://www.salesforce.com/company/careers/jobs/?country=United%20States%20of%20America&employeeTypes=Intern&pagesize=50,CSS:.stretched-link.js-view-job
 LinkedIn,https://www.linkedin.com/jobs/search/?f_C=1337%2C39939%2C2587638&f_E=1&geoId=92000000&keywords=intern,CSS:.base-search-card__title
@@ -25,7 +25,7 @@ Wayfair,https://www.wayfair.com/careers/jobs?countryIds=1&selectedJobTypeIds=8,C
 Citadel,"https://www.citadel.com/careers/open-opportunities?experience-filter=internships&location-filter=americas,chicago,greenwich,houston,miami,new-york&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter",CSS:h2.visible.full-visible
 Airbnb,https://careers.airbnb.com/positions/?_departments=early-career-programs&_offices=united-states,CSS:.text-size-4 a[href*='/positions/']
 Cisco,https://careers.cisco.com/global/en/search-results,CLICK:input[data-ph-at-facetkey='facet-raasJobRequisitionType'][data-ph-at-text='Intern']->CLICK:input[data-ph-at-facetkey='facet-country'][data-ph-at-text='United States of America']->CSS:a[data-ph-at-id='job-link']
-DE Shaws,https://www.deshaw.com/careers/internships,CLICK:section.InternshipsJobsListing div.more-jobs->CSS:section.InternshipsJobsListing span.job-display-name
+DE Shaws,https://www.deshaw.com/careers/internships,@deshaw
 Hudson River Trading,https://job-boards.greenhouse.io/embed/job_board?for=wehrtyou->https://job-boards.greenhouse.io/embed/job_board?for=wehrtyou&page=2,@greenhouse->FILTER:intern
 Morgan Stanley,https://www.morganstanley.com/careers/career-opportunities-search?opportunity=sg#,CSS:.cmp-jobcard__title
 Spotify,https://www.lifeatspotify.com/start-your-journey/students,CSS:[class*='entry_title']
@@ -42,7 +42,7 @@ Doordash,https://job-boards.greenhouse.io/embed/job_board?for=doordashusa&keywor
 MongoDB,https://www.mongodb.com/company/careers/students-and-graduates,CSS:a[href*='gh_jid'] >> span
 Slack,https://slack.com/careers/type/intern,CSS:.job-listing__table-title
 Splunk,https://careers.cisco.com/global/en/splunk/search-page?keywords=intern,CSS:h3 a[data-ph-at-id='job-link']->FILTER:intern
-Amazon Robotics,https://www.amazon.jobs/content/en/teams/ftr/amazon-robotics?country%5B%5D=US&employment-type%5B%5D=Intern,CSS:div h3 a
+Amazon Robotics,https://www.amazon.jobs/content/en/teams/ftr/amazon-robotics?country%5B%5D=US&employment-type%5B%5D=Intern,@amazon
 AMD,https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States,CSS:.job-title
 TikTok,https://lifeattiktok.com/search?keyword=&recruitment_id_list=202%2C301&job_category_id_list=&subject_id_list=7459985269216905480%2C7459988146945116434%2C7602165694751705397%2C7602166391986194741%2C7602165701485299973%2C7602165694713678133&location_code_list=CT_247%2CCT_94%2CCT_243%2CCT_104%2CCT_114%2CCT_75%2CCT_1103355%2CCT_157%2CCT_233&limit=12&offset=0,CSS:a[href*='/search/'] >> span
 Robinhood,https://careers.robinhood.com/,CLICK:div.accordion.EARLYTALENTANDINTERNSHIPS p->CSS:div.panel.EARLYTALENTANDINTERNSHIPS p.job a
@@ -56,7 +56,7 @@ Expedia,https://careers.expediagroup.com/jobs/?keyword=emerging+talent+and+caree
 Susquehanna,https://careers.sig.com/global-susquehanna-jobs->https://careers.sig.com/discovery-days/,CSS:.job-title span
 Roblox,https://job-boards.greenhouse.io/embed/job_board?for=roblox&keyword=intern->https://job-boards.greenhouse.io/embed/job_board?for=roblox&keyword=early%20career,@greenhouse
 ByteDance,https://joinbytedance.com/search?keyword=&limit=12&offset=0&location_code_list=CT_1103355%2CCT_157%2CCT_94%2CCT_114%2CCT_100764%2CCT_75%2CCT_233%2CCT_203&recruitment_id_list=202%2C301,CSS:a[href*='joinbytedance.com/search/'] .bd-title
-Jane Street,https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=new-york,CSS:.item.students-and-new-grads.position
+Jane Street,https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=new-york,@janestreet
 Oracle,https://careers.oracle.com/en/sites/jobsearch/jobs?lastSelectedFacet=locations&selectedLocationsFacet=300000000106749%3B300000000149325&selectedFlexFieldsFacets=%22AttributeChar14%7CSDR%22,CSS:span.job-tile__title
 Asana,https://asana.com/jobs/university-recruiting#jobs,CSS:a[href*='/jobs/apply/'] >> p
 Grammarly,https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc,@ashby->FILTER:intern
@@ -126,16 +126,16 @@ Samsung,https://sec.wd3.myworkdayjobs.com/Samsung_Careers?workerSubType=189767dd
 Medtronic,https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers?jobFamilyGroup=be3ab1d7a62801c1c7c82b804a0529d0&locationCountry=bc33aa3152ec42d4995f4791a106ed09,@workday
 Akuna Capital,https://akunacapital.com/careers#careers,CSS:a.job-card h3.job-title->FILTER:intern
 Toyota Research Insitute,https://jobs.lever.co/tri/?commitment=Intern,@lever
-Mitsubishi Electric Research Laboratories,https://www.merl.com/employment/internship-openings,CSS:.publication-source h2 a
+Mitsubishi Electric Research Laboratories,https://www.merl.com/employment/internship-openings,@html:.publication-source h2 a
 Bose,https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/jobs?workerSubType=1f9406d5717e109875eae116f2c007e5,@workday
 Onward Robotics,https://www.paycomonline.net/v4/ats/web.php/portal/32B3464F7837FF4F95871E123F85C49C/career-page,@paycom
 Mujin,https://mujin.bamboohr.com/careers,@bamboohr
 Intuitive Surgical,https://careers.intuitive.com/en/jobs/?search=&country=United+States&team=Students+%26+University&type=Intern+%28Fixed+Term%29&pagesize=20#results,CSS:.stretched-link.js-view-job
 Stoke Space,https://job-boards.greenhouse.io/embed/job_board?for=stokespacetechnologies&validityToken=PiGJ7lg7rtzR0DO1M4WWfSn7rZYpXBXY7-c4DEQ8Dn1QgMXTGAeJKeHvvfHr_bEyxXEN-7tZsX5Tbi9_vWfCMypdZnPl7IssrTfDGe1LvJUamZ7RxYqId_iVkQgmX_t_JHJFJOekR1fFokTmJ0XxlR_JrzYxgAGDGY5FKf5YmNVKWbfuSowpwEQp5tmVuVKEC0cUqpAPUUpA5vSuATn-YcLJshzi6v8DkfDeLA732qrDh-rWDT8RQ5ClBcCwRCbS9Tr9qNzb8900LZ0eCI_C-16PRZsgGtmmsWlI9SlO8u9toPN0OP-WIVatXoZDyVt9zsCc_exD9O2w2NvleEWuaA%3D%3D&departments%5B%5D=4065610004,@greenhouse
-Honda Research Insitute,https://usa.honda-ri.com/intern-positions,CSS:.b-job-item__title
+Honda Research Insitute,https://usa.honda-ri.com/intern-positions,@html:.b-job-item >> .b-job-item__title
 Agility Robotics,https://job-boards.greenhouse.io/agilityrobotics,@greenhouse
 iRobot,https://careers.irobot.com/search-jobs,CSS:li a h2
-GreyOrange,https://www.greyorange.com/company/careers/#th-job-section,CSS:div.career_coantent h4
+GreyOrange,https://www.greyorange.com/company/careers/#th-job-section,@greyorange
 General Motors,https://generalmotors.wd5.myworkdayjobs.com/Careers_GM?Location_Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=81219c91208501029134b6999c1b05d6->https://generalmotors.wd5.myworkdayjobs.com/Careers_GM?Location_Country=bc33aa3152ec42d4995f4791a106ed09&q=Early+Career->https://generalmotors.wd5.myworkdayjobs.com/Careers_GM?Location_Country=bc33aa3152ec42d4995f4791a106ed09&q=Entry-Level,@workday->FILTER:intern|co-op|early career|entry
 Brightpick,https://brightpick.ai/careers/#openpositions,@teamio
 Locus Robotics,https://job-boards.greenhouse.io/locusrobotics,@greenhouse
@@ -153,12 +153,12 @@ Zillow,https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External?workerSubType=
 Northwood Space,https://jobs.ashbyhq.com/NorthwoodSpace,@ashby->FILTER:intern
 Motional,https://job-boards.greenhouse.io/motional,@greenhouse
 Lucid Motors,https://job-boards.greenhouse.io/lucidmotors?keyword=intern,@greenhouse
-Titan Robotics,https://www.titanrobots.com/careers#footer-sections,CSS:.accordion-item__title
+Titan Robotics,https://www.titanrobots.com/careers#footer-sections,@html:.accordion-item__title
 Near Earth Autonomy,https://nearearthautonomy.applytojob.com/apply,@jazzhr
 Skild AI,https://job-boards.greenhouse.io/skildai-careers,@greenhouse
 Aurora Innovation,https://jobs.ashbyhq.com/aurora-operations-inc/,@ashby
 RichTech Robotics,https://richtech.bamboohr.com/careers/,CSS:a.jss-g13
-Tensor Auto,https://www.tensor.auto/careers#See-Opportunities,CSS:.heading-57
+Tensor Auto,https://www.tensor.auto/careers#See-Opportunities,@html:.careers-item >> .heading-57
 Avride,https://job-boards.greenhouse.io/avride/,@greenhouse
 May Mobility,https://job-boards.greenhouse.io/maymobility/,@greenhouse
 Beep,https://recruiting.paylocity.com/recruiting/jobs/All/3a4d8744-ab51-41d9-a0cf-43de316c7dca/Beep-Inc,@paylocity
@@ -201,7 +201,7 @@ Morsecorp,https://job-boards.greenhouse.io/embed/job_board?for=morsecorp,@greenh
 Impulse Space,https://www.impulsespace.com/careers,CSS:a div.flex-1.body-heading-text
 Wayve,https://jobs.ashbyhq.com/wayve?locationId=a937431a-b165-4153-8c67-a6808a6eb679,@ashby
 Shield AI,https://jobs.lever.co/shieldai?commitment=Intern,@lever
-DeepMind,https://www.google.com/about/careers/applications/jobs/results?company=DeepMind&page=1->https://www.google.com/about/careers/applications/jobs/results?company=DeepMind&page=2,CSS:.QJPWVe
+DeepMind,https://www.google.com/about/careers/applications/jobs/results?company=DeepMind,@google
 Waymo,https://job-boards.greenhouse.io/waymo?keyword=intern,@greenhouse
 Bedrock Robotics,https://jobs.ashbyhq.com/bedrock-robotics/,@ashby
 Applied Intuition,https://jobs.ashbyhq.com/applied/,@ashby
