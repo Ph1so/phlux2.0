@@ -8,6 +8,7 @@ import re
 import sys
 from pathlib import Path
 from typing import List
+from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
 import requests
 import undetected_chromedriver as uc
@@ -65,6 +66,22 @@ _INTERN_PATTERN = re.compile(
 def is_internship(title: str) -> bool:
     """Return True if *title* matches internship, co-op or student keywords."""
     return bool(_INTERN_PATTERN.search(title))
+
+
+def board_link(link: str) -> str:
+    """Return the careers page a person should open for a ``companies.csv`` link.
+
+    Keeps only the first of several ``->``-separated URLs and drops the Greenhouse
+    ``keyword`` search, so the link opens the whole job board rather than the
+    narrowed results the scraper reads.
+    """
+    first = link.split("->")[0]
+    parts = urlsplit(first)
+    query = parse_qsl(parts.query, keep_blank_values=True)
+    if not any(k == "keyword" for k, _ in query):
+        return first
+    kept = [(k, v) for k, v in query if k != "keyword"]
+    return urlunsplit(parts._replace(query=urlencode(kept, safe="[]")))
 
 
 def is_full_time(title: str) -> bool:

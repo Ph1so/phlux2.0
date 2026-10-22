@@ -7,7 +7,7 @@ import pytest
 import requests
 
 from phlux.models import Company
-from phlux.utils import is_full_time, is_internship, update_icons
+from phlux.utils import board_link, is_full_time, is_internship, update_icons
 
 
 # ── is_internship / is_full_time ──────────────────────────────────────────────
@@ -80,6 +80,22 @@ class TestIsFullTime:
 
     def test_false_for_intern_role(self):
         assert is_full_time("Software Engineer Intern") is False
+
+
+class TestBoardLink:
+    def test_keeps_only_first_url(self):
+        assert board_link("https://a.com/jobs->https://a.com/jobs?page=2") == "https://a.com/jobs"
+
+    def test_drops_greenhouse_keyword(self):
+        link = (
+            "https://job-boards.greenhouse.io/embed/job_board?for=andurilindustries&keyword=intern"
+            "->https://job-boards.greenhouse.io/embed/job_board?for=andurilindustries&keyword=co-op"
+        )
+        assert board_link(link) == "https://job-boards.greenhouse.io/embed/job_board?for=andurilindustries"
+
+    def test_leaves_other_links_untouched(self):
+        link = "https://careers.example.com/jobs?query=intern&location=United%20States&departments[]=7"
+        assert board_link(link) == link
 
 
 # ── update_icons ──────────────────────────────────────────────────────────────

@@ -21,7 +21,7 @@ from tenacity import retry, stop_after_attempt, wait_fixed
 from .lists import filter_companies, load_companies
 from .models import Company, ScrapeResult
 from .scrapers import API_SCRAPERS
-from .utils import get_driver, is_internship
+from .utils import board_link, get_driver, is_internship
 
 logger = logging.getLogger(__name__)
 
@@ -31,7 +31,10 @@ CLICK = "CLICK"
 FILTER = "FILTER"
 UNDETECTED = "UNDETECTED"
 API = "API"
-ACTION_TYPES = {CSS, CLICK, FILTER, UNDETECTED, API}
+PAGINATE = "PAGINATE"
+ACTION_TYPES = {CSS, CLICK, FILTER, UNDETECTED, API, PAGINATE}
+# Safety cap so a broken "next" selector or an unfiltered board can't page forever.
+MAX_PAGES = 10
 
 # Job-board presets: an ``@name`` action expands to the board's standard action.
 # Every company on the same ATS shares its markup, so one fix here covers them all.
@@ -40,7 +43,7 @@ PRESETS = {
     "greenhouse": "CSS:tr.job-post p.body.body--medium",
     "ashby": "CSS:.ashby-job-posting-brief-title",
     "lever": "CSS:a.posting-title h5",
-    "workday": "CSS:a[data-automation-id='jobTitle']",
+    "workday": "CSS:a[data-automation-id='jobTitle']->PAGINATE:button[data-uxi-element-id='next']",
 }
 
 
@@ -97,6 +100,76 @@ class Actions:
         return f":{flag}" in action
 
 
+def _collect_css(driver, selector: str) -> List[str]:
+    """Return the text of every element matching *selector* (``parent >> child`` allowed)."""
+    texts: List[str] = []
+    if ">>" in selector:
+        parent_sel, child_sel = map(str.strip, selector.split(">>", 1))
+        WebDriverWait(driver, 15).until(
+            EC.presence_of_all_elements_located((By.CSS_SELECTOR, parent_sel))
+        )
+        for parent in driver.find_elements(By.CSS_SELECTOR, parent_sel):
+            try:
+                text = parent.find_element(By.CSS_SELECTOR, child_sel).text.strip()
+                if text:
+                    texts.append(text)
+            except Exception:
+                continue
+    else:
+        WebDriverWait(driver, 15).until(
+            EC.presence_of_all_elements_located((By.CSS_SELECTOR, selector))
+        )
+        for el in driver.find_elements(By.CSS_SELECTOR, selector):
+            text = el.text.strip()
+            if text:
+                texts.append(text)
+    return texts
+
+
+def _paginate(driver, next_selector: str, collect, max_pages: int = MAX_PAGES) -> List[str]:
+    """Click *next_selector* page by page, returning ``collect()`` for every page after the first.
+
+    Stops when the button is missing or disabled, when the click never changes the
+    page, or after *max_pages* pages in total.
+    """
+    texts: List[str] = []
+    current = collect()
+    for _ in range(max_pages - 1):
+        buttons = driver.find_elements(By.CSS_SELECTOR, next_selector)
+        if not buttons:
+            break
+        button = buttons[0]
+        if button.get_attribute("disabled") is not None or button.get_attribute("aria-disabled") == "true":
+            break
+        driver.execute_script("arguments[0].click();", button)
+        page = _wait_for_new_page(collect, current)
+        if not page:
+            break
+        texts.extend(page)
+        current = page
+    return texts
+
+
+def _wait_for_new_page(collect, current: List[str], timeout: float = 15) -> List[str]:
+    """Poll ``collect()`` until it differs from *current* and reads the same twice in a row.
+
+    Requiring two matching reads skips the half-rendered list some boards show while
+    swapping pages. Returns an empty list if no new page settles within *timeout* seconds.
+    """
+    last = None
+    deadline = time.monotonic() + timeout
+    while time.monotonic() < deadline:
+        time.sleep(1)
+        try:
+            page = collect()
+        except TimeoutException:
+            page = []
+        if page and page != current and page == last:
+            return page
+        last = page
+    return []
+
+
 @retry(wait=wait_fixed(5), stop=stop_after_attempt(5))
 def get_jobs_headless(
     name: str,
@@ -115,6 +188,9 @@ def get_jobs_headless(
     * ``CLICK:<selector>[:pointer]`` – click an element (use ``:pointer``
       to dispatch low-level pointer events instead of ``click()``).
     * ``FILTER:<keyword>`` – keep only jobs whose title contains *keyword*.
+    * ``PAGINATE:<selector>`` – click the "next page" button until it's gone or
+      disabled (at most :data:`MAX_PAGES` pages), re-running the earlier ``CSS``
+      actions on each new page.
     * ``UNDETECTED`` – use ``undetected_chromedriver`` for this session.
     * ``API:<name>[:<arg>]`` – collect titles with a site-specific extractor
       from :data:`phlux.scrapers.API_SCRAPERS`, e.g. ``API:tesla:Tesla SI``.
@@ -150,6 +226,7 @@ def get_jobs_headless(
             try:
                 driver.get(url.strip())
                 time.sleep(3)
+                css_selectors: List[str] = []
 
                 for action in actions:
                     action = action.strip()
@@ -169,26 +246,15 @@ def get_jobs_headless(
                         continue
 
                     if action_type == CSS:
-                        if ">>" in selector:
-                            parent_sel, child_sel = map(str.strip, selector.split(">>", 1))
-                            WebDriverWait(driver, 15).until(
-                                EC.presence_of_all_elements_located((By.CSS_SELECTOR, parent_sel))
-                            )
-                            for parent in driver.find_elements(By.CSS_SELECTOR, parent_sel):
-                                try:
-                                    text = parent.find_element(By.CSS_SELECTOR, child_sel).text.strip()
-                                    if text:
-                                        jobs.append(text)
-                                except Exception:
-                                    continue
-                        else:
-                            WebDriverWait(driver, 15).until(
-                                EC.presence_of_all_elements_located((By.CSS_SELECTOR, selector))
-                            )
-                            for el in driver.find_elements(By.CSS_SELECTOR, selector):
-                                text = el.text.strip()
-                                if text:
-                                    jobs.append(text)
+                        css_selectors.append(selector)
+                        jobs.extend(_collect_css(driver, selector))
+
+                    elif action_type == PAGINATE:
+                        jobs.extend(_paginate(
+                            driver,
+                            selector,
+                            lambda: [t for sel in css_selectors for t in _collect_css(driver, sel)],
+                        ))
 
                     elif action_type == CLICK:
                         try:
@@ -304,7 +370,7 @@ def process_jobs(data: dict, result: ScrapeResult, new_jobs: Dict, seed: bool = 
     if new_list and not seed:
         new_jobs.setdefault("companies", {})[result.name] = {
             "jobs": new_list,
-            "link": result.link,
+            "link": board_link(result.link),
         }
 
 

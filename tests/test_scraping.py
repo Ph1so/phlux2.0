@@ -8,8 +8,10 @@ import pytest
 
 from phlux.models import Company, ScrapeResult
 from phlux.scraping import (
+    MAX_PAGES,
     PRESETS,
     Actions,
+    _paginate,
     autoApply,
     expand_presets,
     load_company_data,
@@ -18,6 +20,77 @@ from phlux.scraping import (
 
 
 # ── Actions ───────────────────────────────────────────────────────────────────
+
+class FakeButton:
+    def __init__(self, attrs=None):
+        self.attrs = attrs or {}
+
+    def get_attribute(self, name):
+        return self.attrs.get(name)
+
+
+class FakePager:
+    """A driver whose "next" button walks through *pages* of titles."""
+
+    def __init__(self, pages, last_button=None):
+        self.pages = pages
+        self.index = 0
+        self.last_button = last_button
+        self.clicks = 0
+
+    def find_elements(self, by, selector):
+        if self.index < len(self.pages) - 1:
+            return [FakeButton()]
+        return [self.last_button] if self.last_button else []
+
+    def execute_script(self, script, element):
+        self.clicks += 1
+        self.index = min(self.index + 1, len(self.pages) - 1)
+
+    def collect(self):
+        return self.pages[self.index]
+
+
+@pytest.fixture(autouse=False)
+def no_sleep():
+    clock = iter(range(0, 10**6))
+    with patch("phlux.scraping.time.sleep"), \
+         patch("phlux.scraping.time.monotonic", side_effect=lambda: next(clock)):
+        yield
+
+
+@pytest.mark.usefixtures("no_sleep")
+class TestPaginate:
+    def test_collects_every_page_after_the_first(self):
+        driver = FakePager([["a"], ["b"], ["c"]])
+        assert _paginate(driver, "#next", driver.collect) == ["b", "c"]
+
+    def test_single_page_has_nothing_to_add(self):
+        driver = FakePager([["a"]])
+        assert _paginate(driver, "#next", driver.collect) == []
+        assert driver.clicks == 0
+
+    def test_stops_at_disabled_button(self):
+        driver = FakePager([["a"], ["b"]], last_button=FakeButton({"aria-disabled": "true"}))
+        assert _paginate(driver, "#next", driver.collect) == ["b"]
+        assert driver.clicks == 1
+
+    def test_stops_when_click_leaves_page_unchanged(self):
+        driver = FakePager([["a"], ["b"]], last_button=FakeButton())
+        assert _paginate(driver, "#next", driver.collect) == ["b"]
+
+    def test_waits_for_half_rendered_page_to_settle(self):
+        driver = FakePager([["a"], ["b", "c"]])
+        reads = iter([["a"], ["a", "b"], ["b", "c"], ["b", "c"]])
+        assert _paginate(driver, "#next", lambda: next(reads)) == ["b", "c"]
+
+    def test_respects_page_cap(self):
+        driver = FakePager([[str(i)] for i in range(MAX_PAGES + 5)])
+        assert len(_paginate(driver, "#next", driver.collect)) == MAX_PAGES - 1
+
+    def test_workday_preset_paginates(self):
+        assert "PAGINATE:" in PRESETS["workday"]
+
 
 class TestActions:
     def test_get_type_css(self):

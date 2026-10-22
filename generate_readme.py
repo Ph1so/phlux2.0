@@ -14,7 +14,7 @@ from pathlib import Path
 from typing import Any, Dict, List, Optional
 
 from phlux.scraping import load_company_data
-from phlux.utils import update_icons
+from phlux.utils import board_link, update_icons
 
 # GitHub renders up to 512 KiB; stay well clear of it.
 MAX_PAGE_BYTES = 450_000
@@ -34,7 +34,7 @@ class Row:
 
 def load_company_links(csv_path: str = "companies.csv") -> Dict[str, str]:
     """Return a mapping of company name → careers URL from the CSV."""
-    return {c.name: c.link for c in load_company_data(Path(csv_path))}
+    return {c.name: board_link(c.link) for c in load_company_data(Path(csv_path))}
 
 
 def load_jobs(json_path: str = "storage.json") -> Dict[str, List[Any]]:
