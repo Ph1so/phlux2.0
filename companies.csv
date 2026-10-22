@@ -128,8 +128,8 @@ Akuna Capital,https://akunacapital.com/careers#careers,CSS:a.job-card h3.job-tit
 Toyota Research Insitute,https://jobs.lever.co/tri/?commitment=Intern,@lever
 Mitsubishi Electric Research Laboratories,https://www.merl.com/employment/internship-openings,CSS:.publication-source h2 a
 Bose,https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/jobs?workerSubType=1f9406d5717e109875eae116f2c007e5,@workday
-Onward Robotics,https://onwardrobotics.com/careers/#jobs,CSS:.op-jobs__job-listing-title
-Mujin,https://mujin.bamboohr.com/careers,CSS:a[href^='/careers/'][data-fabric-component='Link']
+Onward Robotics,https://www.paycomonline.net/v4/ats/web.php/portal/32B3464F7837FF4F95871E123F85C49C/career-page,@paycom
+Mujin,https://mujin.bamboohr.com/careers,@bamboohr
 Intuitive Surgical,https://careers.intuitive.com/en/jobs/?search=&country=United+States&team=Students+%26+University&type=Intern+%28Fixed+Term%29&pagesize=20#results,CSS:.stretched-link.js-view-job
 Stoke Space,https://job-boards.greenhouse.io/embed/job_board?for=stokespacetechnologies&validityToken=PiGJ7lg7rtzR0DO1M4WWfSn7rZYpXBXY7-c4DEQ8Dn1QgMXTGAeJKeHvvfHr_bEyxXEN-7tZsX5Tbi9_vWfCMypdZnPl7IssrTfDGe1LvJUamZ7RxYqId_iVkQgmX_t_JHJFJOekR1fFokTmJ0XxlR_JrzYxgAGDGY5FKf5YmNVKWbfuSowpwEQp5tmVuVKEC0cUqpAPUUpA5vSuATn-YcLJshzi6v8DkfDeLA732qrDh-rWDT8RQ5ClBcCwRCbS9Tr9qNzb8900LZ0eCI_C-16PRZsgGtmmsWlI9SlO8u9toPN0OP-WIVatXoZDyVt9zsCc_exD9O2w2NvleEWuaA%3D%3D&departments%5B%5D=4065610004,@greenhouse
 Honda Research Insitute,https://usa.honda-ri.com/intern-positions,CSS:.b-job-item__title
@@ -137,33 +137,33 @@ Agility Robotics,https://job-boards.greenhouse.io/agilityrobotics,@greenhouse
 iRobot,https://careers.irobot.com/search-jobs,CSS:li a h2
 GreyOrange,https://www.greyorange.com/company/careers/#th-job-section,CSS:div.career_coantent h4
 General Motors,https://search-careers.gm.com/en/jobs/?search=&country=United+States+of+America&team=Students+%26+Recent+Graduates&pagesize=100#results,CSS:h2 a.stretched-link
-Brightpick,https://brightpick.ai/careers/#openpositions,UNDETECTED->CSS:.cp-job__name
+Brightpick,https://brightpick.ai/careers/#openpositions,@teamio
 Locus Robotics,https://job-boards.greenhouse.io/locusrobotics,@greenhouse
 Path Robotics,https://job-boards.greenhouse.io/embed/job_board?for=pathrobotics,@greenhouse
 GrayMatter Robotics,https://jobs.ashbyhq.com/graymatter-robotics/,@ashby
-Chef Robotics,https://jobs.gem.com/chef-robotics,CSS:a[class*='jobPostingLink'] >> div[class*='jobTitle']
+Chef Robotics,https://jobs.gem.com/chef-robotics,@gem
 Cobot,https://jobs.ashbyhq.com/cobot/,@ashby
 Ambi Robotics,https://jobs.lever.co/ambirobotics,@lever
 Apptronik,https://job-boards.greenhouse.io/embed/job_board?for=apptronik->https://job-boards.greenhouse.io/embed/job_board?for=apptronik&page=2,@greenhouse
 Figure AI,https://job-boards.greenhouse.io/figureai/?keyword=intern,@greenhouse
 1x,https://jobs.ashbyhq.com/1x,@ashby->FILTER:intern
-Sanctuary AI,https://careers.kula.ai/sanctuary-ai,CSS:div:has(> a[href^='/sanctuary-ai/']) >> p->FILTER:intern
+Sanctuary AI,https://careers.kula.ai/sanctuary-ai,@kula->FILTER:intern
 RocketLab,https://job-boards.greenhouse.io/rocketlab?keyword=intern,@greenhouse
 Zillow,https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External?workerSubType=156fb9a2f01c10bed80e178a5482955b,@workday
 Northwood Space,https://jobs.ashbyhq.com/NorthwoodSpace,@ashby->FILTER:intern
 Motional,https://job-boards.greenhouse.io/motional,@greenhouse
 Lucid Motors,https://job-boards.greenhouse.io/lucidmotors?keyword=intern,@greenhouse
 Titan Robotics,https://www.titanrobots.com/careers#footer-sections,CSS:.accordion-item__title
-Near Earth Autonomy,https://www-nearearth-aero.filesusr.com/html/6393f5_47bd5f6f1db95a24e11f03641598b510.html,CSS:.resumator-job-title.resumator-jobs-text
+Near Earth Autonomy,https://nearearthautonomy.applytojob.com/apply,@jazzhr
 Skild AI,https://job-boards.greenhouse.io/skildai-careers,@greenhouse
 Aurora Innovation,https://jobs.ashbyhq.com/aurora-operations-inc/,@ashby
 RichTech Robotics,https://richtech.bamboohr.com/careers/,CSS:a.jss-g13
 Tensor Auto,https://www.tensor.auto/careers#See-Opportunities,CSS:.heading-57
 Avride,https://job-boards.greenhouse.io/avride/,@greenhouse
 May Mobility,https://job-boards.greenhouse.io/maymobility/,@greenhouse
-Beep,https://recruiting.paylocity.com/recruiting/jobs/All/3a4d8744-ab51-41d9-a0cf-43de316c7dca/Beep-Inc,CSS:.no-underline.custom-link-color
+Beep,https://recruiting.paylocity.com/recruiting/jobs/All/3a4d8744-ab51-41d9-a0cf-43de316c7dca/Beep-Inc,@paylocity
 Zoox,https://jobs.lever.co/zoox,@lever
-Pony.ai,https://apply.workable.com/pony-dot-ai/,CSS:h3.styles--1cN5S
+Pony.ai,https://apply.workable.com/pony-dot-ai/,@workable
 Nuro,https://job-boards.greenhouse.io/nuro,@greenhouse
 Lila Sciences,https://job-boards.greenhouse.io/lilasciences/,@greenhouse
 Mitre,https://careers.mitre.org/us/en/search-results?keywords=student,CSS:div.job-title span
@@ -172,7 +172,7 @@ Draper,https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers?workerSubType=b
 Bosch,https://jobs.bosch.com/en?pages=5&country=us&positionTypes=f524b939-fe55-407b-a0b0-e8f4eec28997%2C8c682ec0-3d28-4e52-b53b-c63d440a32d3%2Cf3b92bc1-600d-4d33-9115-5aa27785f52b%2Ce4a3c0db-920d-4356-8ce0-c0b44a54e497#,CSS:h2.A-JobPanel__title
 Anduril,https://job-boards.greenhouse.io/embed/job_board?for=andurilindustries&keyword=intern->https://job-boards.greenhouse.io/embed/job_board?for=andurilindustries&keyword=co-op,@greenhouse
 Aeva,https://jobs.lever.co/aeva,@lever
-Forterra,https://ats.rippling.com/forterra/jobs?page=0&searchQuery=&workplaceType=&country=&state=&city=&pageSize=100,CSS:a[font-size][href*='/jobs/']
+Forterra,https://ats.rippling.com/forterra/jobs?page=0&searchQuery=&workplaceType=&country=&state=&city=&pageSize=100,@rippling
 Intrinsic,https://job-boards.greenhouse.io/intrinsicrobotics,@greenhouse
 Shure,https://careershub-shure.icims.com/jobs/search?ss=1&searchPositionType=8710&needsRedirect=false&mobile=false&in%5Fiframe=1->https://careershub-shure.icims.com/jobs/search?ss=1&searchPositionType=8710&needsRedirect=false&mobile=false&in%5Fiframe=1&pr=1->https://careershub-shure.icims.com/jobs/search?ss=1&searchPositionType=8710&needsRedirect=false&mobile=false&in%5Fiframe=1&pr=2->https://careershub-shure.icims.com/jobs/search?ss=1&searchPositionType=8710&needsRedirect=false&mobile=false&in%5Fiframe=1&pr=3->https://careershub-shure.icims.com/jobs/search?ss=1&searchPositionType=8710&needsRedirect=false&mobile=false&in%5Fiframe=1&pr=4,UNDETECTED->CSS:.iCIMS_Anchor h3
 Gecko Robotics,https://jobs.ashbyhq.com/gecko-robotics,@ashby
@@ -186,8 +186,8 @@ Lyft,https://app.careerpuck.com/job-board/lyft,CSS:a[data-testing='job-row'] [cl
 AeroVect,https://jobs.ashbyhq.com/AeroVect/,@ashby
 Gather AI,https://job-boards.greenhouse.io/gatherai/?offices%5B%5D=4001902007,@greenhouse
 Carbon Robotics,https://jobs.ashbyhq.com/carbon-robotics,@ashby
-Scythe Robotics,https://app.dover.com/jobs/scytherobotics,CSS:a[href*='/apply/'] >> div[class*='HeaderTitle']
-Anywhere Robotics,https://jobs.gusto.com/boards/anyware-robotics-e7cbbd33-db1c-470e-93b3-020992d24e20,CSS:a div h3
+Scythe Robotics,https://app.dover.com/jobs/scytherobotics,@dover
+Anywhere Robotics,https://jobs.gusto.com/boards/anyware-robotics-e7cbbd33-db1c-470e-93b3-020992d24e20,@gusto
 Futurewei Technologies,https://phf.tbe.taleo.net/phf01/ats/careers/v2/searchResults?org=FUTUREWEITECH&cws=47,CSS:h4.oracletaleocwsv2-head-title
 Diligent Robotics,https://job-boards.greenhouse.io/diligentrobotics,@greenhouse
 Phantom AI,https://job-boards.greenhouse.io/phantomai/,@greenhouse
@@ -231,11 +231,11 @@ Foxglove,https://jobs.ashbyhq.com/foxglove,@ashby
 Hadrian,https://jobs.ashbyhq.com/hadrian-automation,@ashby
 Coco Robotics,https://jobs.ashbyhq.com/cocodelivery,@ashby
 Saildrone,https://job-boards.greenhouse.io/embed/job_board?for=saildroneinc,@greenhouse
-Mytra,https://ats.rippling.com/mytra/jobs?page=0&pageSize=100,CSS:a[font-size][href*='/jobs/']
-Overland AI,https://ats.rippling.com/overland-ai/jobs?page=0&pageSize=100,CSS:a[font-size][href*='/jobs/']
+Mytra,https://ats.rippling.com/mytra/jobs?page=0&pageSize=100,@rippling
+Overland AI,https://ats.rippling.com/overland-ai/jobs?page=0&pageSize=100,@rippling
 Berkshire Grey,https://berkshiregrey.bamboohr.com/careers,CSS:a[href^='/careers/'][data-fabric-component='Link']
-Plus One Robotics,https://plusonerobotics.bamboohr.com/careers,CSS:a[href^='/careers/'][data-fabric-component='Link']
-Ghost Robotics,https://recruiting.paylocity.com/recruiting/jobs/All/3cda40d5-c81c-47e7-943a-37b673cc4d1b/Ghost-Robotics-Corporation,CSS:.job-listing-job-item .job-item-title a
+Plus One Robotics,https://plusonerobotics.bamboohr.com/careers,@bamboohr
+Ghost Robotics,https://recruiting.paylocity.com/recruiting/jobs/All/3cda40d5-c81c-47e7-943a-37b673cc4d1b/Ghost-Robotics-Corporation,@paylocity
 Stryker,https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers?Location_Country=bc33aa3152ec42d4995f4791a106ed09&workerSubType=3156b848d19b01ca7b60bf0b1d12c30a,@workday
 Johnson & Johnson,https://jj.wd5.myworkdayjobs.com/en-US/JJ?workerSubType=ca32b336cc4a472a863c62c03f6e63b6&workerSubType=c8cdc206cb91013d31d96bb30f801468,@workday
 Persona AI,https://jobs.ashbyhq.com/persona.ai,@ashby
@@ -243,7 +243,7 @@ PlusAI,https://jobs.lever.co/plus-2,@lever
 Symbotic,https://symbotic.wd504.myworkdayjobs.com/Symbotic,@workday
 PROCEPT BioRobotics,https://proceptbiorobotics.wd108.myworkdayjobs.com/PROCEPT?locationCountry=bc33aa3152ec42d4995f4791a106ed09,@workday
 ABB,https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09,@workday
-Miso Robotics,https://misorobotics.applytojob.com/,CSS:.list-group-item h3 a
+Miso Robotics,https://misorobotics.applytojob.com/,@jazzhr
 KUKA,https://jobs.kuka.com/search/?q=&locationsearch=United+States&locale=en_US&sortColumn=referencedate&sortDirection=desc,CSS:a.jobTitle-link
 Teradyne,https://jobs.teradyne.com/teradyne/search/?q=&locationsearch=United+States&sortColumn=referencedate&sortDirection=desc,CSS:a.jobTitle-link
 Zimmer Biomet,https://careers.zimmerbiomet.com/us/en/search-results?keywords=intern,CSS:a[data-ph-at-id='job-link'] .job-title
@@ -255,7 +255,7 @@ Exotec,https://apply.workable.com/exotec/,CLICK:button[data-ui='load-more-button
 Gatik,https://job-boards.greenhouse.io/embed/job_board?for=gatikaiinc,@greenhouse
 Humble Robotics,https://jobs.lever.co/humble-robotics,@lever->FILTER:intern
 Rhoda AI,https://jobs.ashbyhq.com/rhoda-ai,@ashby->FILTER:intern
-Walden Robotics,https://ats.rippling.com/walden-robotics/jobs?page=0&pageSize=100,CSS:a[font-size][href*='/jobs/']
+Walden Robotics,https://ats.rippling.com/walden-robotics/jobs?page=0&pageSize=100,@rippling
 Woven by Toyota,https://jobs.lever.co/woven-by-toyota,@lever
 Generalist AI,https://jobs.ashbyhq.com/generalist,@ashby
 Genesis AI,https://jobs.ashbyhq.com/genesis,@ashby
@@ -270,6 +270,6 @@ Ford,https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1
 Joby Aviation,https://careers-jobyaviation.icims.com/jobs/search?ss=1&searchKeyword=intern&needsRedirect=false&mobile=false&in%5Fiframe=1,UNDETECTED->CSS:.iCIMS_Anchor h3
 Mobileye,https://jobs.eu.lever.co/mobileye,@lever
 Neura Robotics,https://jobs.ashbyhq.com/neura-robotics-gmbh,@ashby->FILTER:intern
-Dusty Robotics,https://ats.rippling.com/dusty-robotics-inc/jobs?page=0&pageSize=100,CSS:a[font-size][href*='/jobs/']
-Vecna Robotics,https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d066998dd60166a3122fb873a0&m=t,CSS:a[href*='JobIntroduction.action']
-Realtime Robotics,https://apply.workable.com/realtime-robotics/,CSS:li[data-ui='job'] h3
+Dusty Robotics,https://ats.rippling.com/dusty-robotics-inc/jobs?page=0&pageSize=100,@rippling
+Vecna Robotics,https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d066998dd60166a3122fb873a0&m=t,@paycor
+Realtime Robotics,https://apply.workable.com/realtime-robotics/,@workable

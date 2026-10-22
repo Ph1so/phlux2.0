@@ -149,9 +149,12 @@ class TestExpandPresets:
             expand_presets("@nope")
 
     def test_every_preset_in_companies_csv_exists(self):
+        # A leading @name is either a board/adapter read without a browser, or a
+        # page-scraping preset that expand_presets knows.
         repo_root = Path(__file__).resolve().parent.parent
         for company in load_company_data(repo_root / "companies.csv"):
-            expand_presets(company.selector)
+            if not board_of(company.selector):
+                expand_presets(company.selector)
 
 
 # ── load_company_data ─────────────────────────────────────────────────────────
@@ -335,7 +338,7 @@ class TestBoardRouting:
         ("@greenhouse", "greenhouse"),
         ("@Lever->FILTER:intern", "lever"),
         ('"@ashby"', "ashby"),
-        ("@workday", None),
+        ("@notaboard", None),
         ("CSS:h3", None),
         ("UNDETECTED->API:tesla:Tesla SI", None),
     ])
