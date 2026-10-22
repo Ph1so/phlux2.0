@@ -174,7 +174,7 @@ Anduril,https://job-boards.greenhouse.io/embed/job_board?for=andurilindustries&k
 Aeva,https://jobs.lever.co/aeva?,CSS:a.posting-title
 Forterra,https://ats.rippling.com/forterra/jobs?page=0&searchQuery=&workplaceType=&country=&state=&city=&pageSize=100,CSS:a[font-size][href*='/jobs/']
 Intrinsic,https://www.intrinsic.ai/careers,CSS:h3.intr-list-heading.intr-heading-h4
-Shure,https://careershub-shure.icims.com/jobs/search?pr=1&searchPositionType=8710&schemaId=&o=,CSS:.iCIMS_Anchor h3
+Shure,https://careershub-shure.icims.com/jobs/search?ss=1&searchPositionType=8710&needsRedirect=false&mobile=false&in%5Fiframe=1->https://careershub-shure.icims.com/jobs/search?ss=1&searchPositionType=8710&needsRedirect=false&mobile=false&in%5Fiframe=1&pr=1->https://careershub-shure.icims.com/jobs/search?ss=1&searchPositionType=8710&needsRedirect=false&mobile=false&in%5Fiframe=1&pr=2->https://careershub-shure.icims.com/jobs/search?ss=1&searchPositionType=8710&needsRedirect=false&mobile=false&in%5Fiframe=1&pr=3->https://careershub-shure.icims.com/jobs/search?ss=1&searchPositionType=8710&needsRedirect=false&mobile=false&in%5Fiframe=1&pr=4,UNDETECTED->CSS:.iCIMS_Anchor h3
 Gecko Robotics,https://jobs.ashbyhq.com/gecko-robotics,@ashby
 Robotics and AI Insitute,https://jobs.lever.co/rai?,CSS:.posting-title
 Sunday,https://jobs.ashbyhq.com/sunday/,@ashby
