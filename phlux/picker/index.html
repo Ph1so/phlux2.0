@@ -520,7 +520,7 @@ kbd {
           <input type="text" id="save-file" class="mono" readonly>
         </div>
       </div>
-      <label class="row" style="gap:8px; font-size:13px;">
+      <label class="row" id="make-active-row" style="gap:8px; font-size:13px;">
         <input type="checkbox" id="make-active" style="width:auto" checked>
         Set <span class="mono">COMPANY_LIST</span> in config.json to this list
       </label>
@@ -549,6 +549,7 @@ const state = {
   decisions: [],          // 'keep' | 'skip', parallel to companies
   cards: new Map(),       // company index -> card element
   seed: new Set(),        // lowercased names carried in from an existing list
+  prune: null,            // {stem, name, description, relpath} when pruning the active list
 };
 
 // ── Data ───────────────────────────────────────────────────────────────────
@@ -571,6 +572,17 @@ async function boot() {
       startFrom.append(opt);
     }
     if (data.active) startFrom.value = data.active.replace(/\.json$/, "");
+    if (data.prune) {
+      // Prune mode: no setup to do. Every card starts as "keep", so skipping is
+      // the only change and finishing early leaves the rest in the list.
+      state.prune = data.prune;
+      el("source").textContent = `${state.companies.length} companies · ${data.prune.relpath}`;
+      startFrom.value = data.prune.stem;
+      el("list-name").value = data.prune.name;
+      el("list-desc").value = data.prune.description || "";
+      el("start").click();
+      return;
+    }
     el("source").textContent = `${state.companies.length} companies · companies.csv`;
     document.documentElement.dataset.stage = "setup";
     el("list-name").focus();
@@ -615,7 +627,7 @@ function buildCard(i) {
   name.textContent = c.name;
   card.append(name);
 
-  if (state.seed.has(c.name.toLowerCase())) {
+  if (!state.prune && state.seed.has(c.name.toLowerCase())) {
     const carried = document.createElement("span");
     carried.className = "carried";
     carried.textContent = "already in list";
@@ -916,6 +928,12 @@ function showReview() {
   syncSorter();
 
   el("save-name").value = el("list-name").value.trim() || "My list";
+  if (state.prune) {
+    el("review-title").textContent = `Remove companies from ${state.prune.name}`;
+    el("save-name").readOnly = true;
+    el("make-active-row").style.display = "none";
+    el("btn-save").textContent = "Save changes";
+  }
   syncSaveFile();
   el("save-note").hidden = true;
   document.documentElement.dataset.stage = "review";
@@ -943,6 +961,10 @@ function armSorterDnd() {
 }
 
 function syncSaveFile() {
+  if (state.prune) {
+    el("save-file").value = state.prune.relpath;
+    return;
+  }
   el("save-file").value = `lists/${slugify(el("save-name").value.trim() || "untitled")}.json`;
 }
 
@@ -956,6 +978,10 @@ async function save() {
     return;
   }
   el("btn-save").disabled = true;
+  if (state.prune) {
+    await savePrune();
+    return;
+  }
   try {
     const res = await fetch("/api/save", {
       method: "POST",
@@ -986,6 +1012,31 @@ async function save() {
     note.hidden = false;
     note.className = "note ok";
     note.textContent = `Saved ${data.count} companies to ${data.relpath}.${tail}`;
+  } catch (err) {
+    note.hidden = false;
+    note.className = "note bad";
+    note.textContent = `Could not save: ${err.message}`;
+  } finally {
+    el("btn-save").disabled = false;
+  }
+}
+
+/** Prune mode: write the kept companies back to the active list. */
+async function savePrune() {
+  const note = el("save-note");
+  try {
+    const res = await fetch("/api/save", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ companies: keptNames() }),
+    });
+    const data = await res.json();
+    if (!res.ok) throw new Error(data.error || `save failed (${res.status})`);
+    note.hidden = false;
+    note.className = "note ok";
+    note.textContent = data.removed.length
+      ? `Removed ${data.removed.length} from ${data.relpath} (${data.removed.join(", ")}). ${data.count} companies left.`
+      : `Nothing removed — ${data.relpath} still has ${data.count} companies.`;
   } catch (err) {
     note.hidden = false;
     note.className = "note bad";

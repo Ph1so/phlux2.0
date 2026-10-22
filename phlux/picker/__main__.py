@@ -26,6 +26,9 @@ def main() -> None:
                         help="Port to bind on localhost; 0 picks a free one.")
     parser.add_argument("--no-browser", action="store_true",
                         help="Don't open a browser tab automatically.")
+    parser.add_argument("--prune", action="store_true",
+                        help="Swipe only the active list's companies; saving removes "
+                             "the skipped ones from that list.")
     parser.add_argument("-v", "--verbose", action="store_true", help="Log every request.")
     args = parser.parse_args()
 
@@ -40,6 +43,7 @@ def main() -> None:
         config_path=args.config,
         port=args.port,
         open_browser=not args.no_browser,
+        prune=args.prune,
     )
 
 

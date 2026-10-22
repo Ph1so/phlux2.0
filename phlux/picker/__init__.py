@@ -2,6 +2,8 @@
 
 Run it with ``python -m phlux.picker``. It serves a card UI on localhost, one
 card per company, and writes the resulting list straight into ``lists/``.
+``--prune`` instead shows only the companies in the active list and saves back
+to that same file, so it can only take companies out.
 
 The server is deliberately bound to the loopback interface: it writes files into
 the repository, so it must never be reachable from the network.
@@ -66,12 +68,26 @@ def _load_industries(path: Path) -> Dict[str, Dict[str, str]]:
         return {}
 
 
+def load_active_list(config_path: Path, lists_dir: Path) -> CompanyList:
+    """Return the list ``COMPANY_LIST`` in ``config.json`` points at.
+
+    Raises:
+        ValueError: If no list is active.
+        FileNotFoundError: If the active list file is missing.
+    """
+    ref = load_config(config_path).get("COMPANY_LIST")
+    if not ref:
+        raise ValueError("config.json has no active COMPANY_LIST to prune.")
+    return load_company_list(ref, lists_dir)
+
+
 def build_session(
     csv_path: Path,
     icons_path: Path,
     industries_path: Path,
     lists_dir: Path,
     config_path: Path,
+    prune: bool = False,
 ) -> Dict[str, Any]:
     """Assemble everything the UI needs for one swiping session.
 
@@ -81,15 +97,22 @@ def build_session(
         industries_path: Path to ``industries.csv`` (sector labels; optional).
         lists_dir: Directory holding saved lists.
         config_path: Path to ``config.json``, read for the active list.
+        prune: Offer only the active list's companies, for taking some out.
 
     Returns:
-        A dict with ``companies``, existing ``lists``, and the ``active`` list.
+        A dict with ``companies``, existing ``lists``, and the ``active`` list;
+        in prune mode also ``prune`` describing the list being pruned.
     """
     icons = _load_json_file(icons_path)
     industries = _load_industries(industries_path)
 
+    pruning = load_active_list(config_path, lists_dir) if prune else None
+    keep_names = {n.lower() for n in pruning.companies} if pruning else None
+
     companies = []
     for company in load_companies(csv_path):
+        if keep_names is not None and company.name.lower() not in keep_names:
+            continue
         meta = industries.get(company.name, {})
         icon = icons.get(company.name, "")
         companies.append(
@@ -119,11 +142,19 @@ def build_session(
             }
         )
 
-    return {
+    session = {
         "companies": companies,
         "lists": saved,
         "active": load_config(config_path).get("COMPANY_LIST") or "",
     }
+    if pruning:
+        session["prune"] = {
+            "stem": pruning.path.stem,
+            "name": pruning.name,
+            "description": pruning.description,
+            "relpath": _display_path(pruning.path),
+        }
+    return session
 
 
 def save_list_payload(payload: Dict[str, Any], lists_dir: Path) -> Dict[str, Any]:
@@ -165,6 +196,48 @@ def save_list_payload(payload: Dict[str, Any], lists_dir: Path) -> Dict[str, Any
         "stem": stem,
         "name": name,
         "count": len(company_list.companies),
+        "path": str(path),
+        "relpath": _display_path(path),
+    }
+
+
+def prune_list_payload(payload: Dict[str, Any], config_path: Path, lists_dir: Path) -> Dict[str, Any]:
+    """Rewrite the active list keeping only the companies in *payload*.
+
+    The file, name, description and created date stay as they were, and so
+    does the order of the companies that remain. Names that are not already in
+    the list are rejected, so a prune can never add anything.
+
+    Args:
+        payload: Decoded request body with ``companies``.
+        config_path: Path to ``config.json``, read for the active list.
+        lists_dir: Directory holding list files.
+
+    Returns:
+        A dict describing the saved list, including what was ``removed``.
+
+    Raises:
+        ValueError: If the payload is malformed or names a company not in the list.
+    """
+    names = payload.get("companies")
+    if not isinstance(names, list) or not all(isinstance(n, str) for n in names):
+        raise ValueError("'companies' must be a list of company names.")
+
+    company_list = load_active_list(config_path, lists_dir)
+    current = {n.lower() for n in company_list.companies}
+    keep = {n.strip().lower() for n in names if n.strip()}
+    unknown = sorted(n.strip() for n in names if n.strip() and n.strip().lower() not in current)
+    if unknown:
+        raise ValueError(f"Not in {company_list.path.name}: {', '.join(unknown)}")
+
+    removed = [n for n in company_list.companies if n.lower() not in keep]
+    company_list.companies = [n for n in company_list.companies if n.lower() in keep]
+    path = save_company_list(company_list)
+    return {
+        "stem": path.stem,
+        "name": company_list.name,
+        "count": len(company_list.companies),
+        "removed": removed,
         "path": str(path),
         "relpath": _display_path(path),
     }
@@ -212,8 +285,12 @@ def make_handler(
     industries_path: Path,
     lists_dir: Path,
     config_path: Path,
+    prune: bool = False,
 ) -> type[BaseHTTPRequestHandler]:
-    """Build the request handler class bound to these file locations."""
+    """Build the request handler class bound to these file locations.
+
+    With *prune*, saving rewrites the active list and activating is refused.
+    """
 
     class PickerHandler(BaseHTTPRequestHandler):
         server_version = "phlux-picker"
@@ -254,7 +331,9 @@ def make_handler(
             elif route == "/api/session":
                 self._send_json(
                     200,
-                    build_session(csv_path, icons_path, industries_path, lists_dir, config_path),
+                    build_session(
+                        csv_path, icons_path, industries_path, lists_dir, config_path, prune
+                    ),
                 )
             else:
                 self._send_json(404, {"error": "Not found"})
@@ -262,8 +341,14 @@ def make_handler(
         def do_POST(self) -> None:  # noqa: N802
             route = urlparse(self.path).path
             try:
-                if route == "/api/save":
+                if route == "/api/save" and prune:
+                    self._send_json(
+                        200, prune_list_payload(self._read_json(), config_path, lists_dir)
+                    )
+                elif route == "/api/save":
                     self._send_json(200, save_list_payload(self._read_json(), lists_dir))
+                elif route == "/api/activate" and prune:
+                    raise ValueError("Prune mode only edits the active list.")
                 elif route == "/api/activate":
                     stem = str(self._read_json().get("stem", "")).strip()
                     self._send_json(200, activate_list(stem, config_path, lists_dir))
@@ -289,6 +374,7 @@ def serve(
     industries_path: Path = REPO_ROOT / "industries.csv",
     port: int = 8777,
     open_browser: bool = True,
+    prune: bool = False,
 ) -> None:
     """Serve the picker UI until the browser tab says it is done, or Ctrl-C.
 
@@ -300,9 +386,12 @@ def serve(
         industries_path: Path to ``industries.csv``.
         port: Port to bind on localhost; ``0`` picks a free one.
         open_browser: Whether to open the UI automatically.
+        prune: Show only the active list's companies and save back to it.
     """
     lists_dir.mkdir(parents=True, exist_ok=True)
-    handler = make_handler(csv_path, icons_path, industries_path, lists_dir, config_path)
+    # Fail here, not in the browser, when there is no active list to prune.
+    pruning = load_active_list(config_path, lists_dir) if prune else None
+    handler = make_handler(csv_path, icons_path, industries_path, lists_dir, config_path, prune)
 
     try:
         httpd = ThreadingHTTPServer(("127.0.0.1", port), handler)
@@ -316,8 +405,12 @@ def serve(
 
     with httpd:
         url = f"http://127.0.0.1:{httpd.server_address[1]}/"
-        total = len(load_companies(csv_path))
-        print(f"🃏 phlux list picker — {total} companies from {_display_path(csv_path)}")
+        if pruning:
+            print(f"🃏 phlux list picker — pruning {len(pruning.companies)} companies "
+                  f"in {_display_path(pruning.path)}")
+        else:
+            total = len(load_companies(csv_path))
+            print(f"🃏 phlux list picker — {total} companies from {_display_path(csv_path)}")
         print(f"   Open {url}  (Ctrl-C to stop)")
         if open_browser:
             threading.Timer(0.4, webbrowser.open, args=(url,)).start()
