@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 Phlux Job Listings
-*Showing the 901 most recent of 30,252 roles tracked across 265 companies. See [all listings](listings/README.md) for the full history.*
+*Showing the 901 most recent of 30,254 roles tracked across 265 companies. See [all listings](listings/README.md) for the full history.*
 
 
 <table>
@@ -87,6 +87,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://motional.com/open-positions#/?employmentType=Intern%2C+Full-time"><img src="https://cdn.brandfetch.io/motional.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Motional" height="20" style="vertical-align:middle; margin-right:6px;"> Motional</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Associate Autonomous Vehicle Technician</div></td>
+  <td>2026-10-22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Systems Technical Program Manager - ON-SITE — FULL-TIMEFOSTER CITY, CA</div></td>
   <td>2026-10-22</td>
 </tr>
   <tr>
@@ -297,6 +304,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/saronic"><img src="https://cdn.brandfetch.io/saronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saronic" height="20" style="vertical-align:middle; margin-right:6px;"> Saronic</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Porter/Driver</div></td>
+  <td>2026-10-22</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://ats.rippling.com/mytra/jobs?page=0&pageSize=100"><img src="https://cdn.brandfetch.io/mytra.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mytra" height="20" style="vertical-align:middle; margin-right:6px;"> Mytra</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Automation Engineer, Safety</div></td>
   <td>2026-10-22</td>
 </tr>
   <tr>
@@ -6310,20 +6324,6 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Enablement Lead (Builder) - Tokyo</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Enablement Lead, Knowledge Work</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Enablement Lead, Knowledge Work</div></td>
   <td>2026-10-22</td>
 </tr>
 
