@@ -1525,6 +1525,36 @@
         "title": "\u2b50\ufe0f Research Scientist Intern, AI Alignment",
         "date": "2026-10-22",
         "id": "meta:2356892281747003"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Muse RL and Agents Team (MSc)",
+        "date": "2026-10-22",
+        "id": "meta:1647286810370437"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, World-Model Aware Perception & Communication (PhD)",
+        "date": "2026-10-22",
+        "id": "meta:1097992326377524"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, MSL Agents (PhD)",
+        "date": "2026-10-22",
+        "id": "meta:1136354555738164"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Feed Recommendations (PhD)",
+        "date": "2026-10-22",
+        "id": "meta:29044546168568671"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, FAIR - Physical Engineering AI (PhD)",
+        "date": "2026-10-22",
+        "id": "meta:1081255008061721"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, FAIR - Multimodal Foundations (PhD)",
+        "date": "2026-10-22",
+        "id": "meta:2322361288548512"
       }
     ],
     "Apple": [
@@ -3020,6 +3050,11 @@
         "title": "\u2b50\ufe0f Engineering Intern - ASIC DFT (Spring 2027 Co-Op)",
         "date": "2026-10-19",
         "id": "jibe:33810"
+      },
+      {
+        "title": "\u2b50\ufe0f Business and Administrative Intern - Strategy Analyst",
+        "date": "2026-10-22",
+        "id": "jibe:34575"
       }
     ],
     "Roblox": [
@@ -13391,6 +13426,11 @@
         "title": "Senior/Staff Software-Hardware Integration Technical Program Manager - Autonomy",
         "date": "2026-10-22",
         "id": "lever:33225e1d-dd21-4ffe-b2bd-164d5a602457"
+      },
+      {
+        "title": "Senior Staff/Principal Software Engineer - GPU System Software, Onboard Execution",
+        "date": "2026-10-22",
+        "id": "lever:a30574c9-8ef3-408f-bc85-39aad54ad115"
       }
     ],
     "Pony.ai": [
@@ -15189,6 +15229,11 @@
         "title": "Thermal Engineer",
         "date": "N/A",
         "id": "lever:c0e7c150-45ff-4286-9b0e-214c89c2cffc"
+      },
+      {
+        "title": "Systems Engineer, LiDAR Characterization",
+        "date": "2026-10-22",
+        "id": "lever:bab05e15-d7ce-430a-a91c-e0f1a1034d62"
       }
     ],
     "Bosch": [
@@ -17776,6 +17821,11 @@
         "title": "Fleet Technician",
         "date": "N/A",
         "id": "ashby:a199f06f-4595-46e9-a4dd-2ab7e1939fed"
+      },
+      {
+        "title": "Senior Electrical Engineer",
+        "date": "2026-10-22",
+        "id": "ashby:23de4e35-fc98-4593-883d-e31da8e1929b"
       }
     ],
     "AeroVect": [
@@ -20732,6 +20782,11 @@
         "title": "Staff Machine Learning Engineer, Data Curation & Dataset Strategy",
         "date": "2026-10-22",
         "id": "ashby:7ccefb0d-8264-4c72-9ddb-898ef56d3db5"
+      },
+      {
+        "title": "Safety System Engineer",
+        "date": "2026-10-22",
+        "id": "ashby:ef26c83f-4dc4-44ae-af5a-1de79f76744f"
       }
     ],
     "Bedrock Robotics": [
@@ -27459,6 +27514,11 @@
         "title": "Senior Data Analyst, Operations",
         "date": "2026-10-21",
         "id": "lever:48faca52-f7c5-4f01-8ee2-2d05b9fd44cb"
+      },
+      {
+        "title": "Senior / Staff Technical Program Manager, Platform Software",
+        "date": "2026-10-22",
+        "id": "lever:c3aba94e-3718-42e3-a4d5-a17a062929ab"
       }
     ],
     "Stack AV": [
@@ -41044,6 +41104,16 @@
         "title": "Software Engineer, Identity Infrastructure",
         "date": "2026-10-22",
         "id": "ashby:551b0d0d-46c2-42fb-bb05-46e2fba8d4db"
+      },
+      {
+        "title": "Compute & Infrastructure Accounting",
+        "date": "2026-10-22",
+        "id": "ashby:4b7246e7-0eaf-4e35-865b-1ef693527ff4"
+      },
+      {
+        "title": "Researcher, Misalignment Monitoring Lead",
+        "date": "2026-10-22",
+        "id": "ashby:c955617d-f465-4f7a-b57c-98284fd14777"
       }
     ],
     "John Deere": [
@@ -42398,6 +42468,16 @@
         "title": "\u2b50\ufe0f Software Engineer (Cyber) - Intern",
         "date": "2026-10-22",
         "id": "eightfold:996477222668"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer (Infrastructure)-INTERN",
+        "date": "2026-10-22",
+        "id": "eightfold:996477394038"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer (Displays)-INTERN",
+        "date": "2026-10-22",
+        "id": "eightfold:996477393792"
       }
     ],
     "Vecna Robotics": [
