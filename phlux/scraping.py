@@ -364,9 +364,10 @@ def get_board_jobs(name: str, urls: str, instructions: str) -> Tuple[List[str], 
 
     *urls* are the company's board URLs, whose query parameters narrow the board
     (see :mod:`phlux.boards`). Of the actions after the ``@board`` preset only
-    ``FILTER:<keyword>`` applies, matching like :func:`phlux.boards.keyword_in`
-    (word starts, so "intern" skips "Internal"); page actions like ``CLICK`` have
-    no meaning here.
+    ``FILTER:<keyword>[|<keyword>…]`` applies, keeping titles that contain any
+    of the keywords, matched like :func:`phlux.boards.keyword_in` (word starts,
+    so "intern" skips "Internal"); page actions like ``CLICK`` have no meaning
+    here.
 
     Returns:
         ``(titles, ids)``: titles normalized and starred like page scrapes, and
@@ -379,8 +380,8 @@ def get_board_jobs(name: str, urls: str, instructions: str) -> Tuple[List[str], 
     for action in instructions.strip().strip('"').split("->")[1:]:
         action = action.strip()
         if action.startswith(f"{FILTER}:"):
-            keyword = action[len(FILTER) + 1:].strip()
-            pairs = [(t, i) for t, i in pairs if keyword_in(t, keyword)]
+            keywords = [k.strip() for k in action[len(FILTER) + 1:].split("|") if k.strip()]
+            pairs = [(t, i) for t, i in pairs if any(keyword_in(t, k) for k in keywords)]
         elif action and action != UNDETECTED:
             logger.warning("Ignoring %s for %s: it has no meaning for a board API", action, name)
     titles = finish_titles(name, [t for t, _ in pairs], strip_badge=False)

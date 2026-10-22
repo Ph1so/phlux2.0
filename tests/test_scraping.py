@@ -357,6 +357,18 @@ class TestBoardRouting:
         assert titles == ["⭐️ Robotics Software Intern", "⭐️ Perception Intern, Whats New"]
         assert ids == ["lever:1", "lever:3"]
 
+    def test_filter_keeps_titles_matching_any_alternative(self):
+        postings = [
+            Posting("workday:1", "Software Engineering Intern"),
+            Posting("workday:2", "Data Engineer, Early Career"),
+            Posting("workday:3", "Senior Staff Engineer"),
+            Posting("workday:4", "Winter Co-op, Controls"),
+        ]
+        with patch("phlux.scraping.board_postings", return_value=postings):
+            _, ids = get_board_jobs("Acme", "https://x.wd5.myworkdayjobs.com/Acme",
+                                    "@workday->FILTER:intern|co-op|early career")
+        assert ids == ["workday:1", "workday:2", "workday:4"]
+
     def test_scrape_company_uses_api_for_boards(self):
         with patch("phlux.scraping.board_postings", return_value=[Posting("ashby:1", "Planner")]), \
              patch("phlux.scraping.get_jobs_headless") as headless:
