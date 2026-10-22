@@ -661,7 +661,7 @@
 [c20]: https://jobs.lever.co/zoox
 [c21]: https://jobs.ashbyhq.com/serverobotics/
 [c22]: https://boards.greenhouse.io/embed/job_board?for=nuro->https://job-boards.greenhouse.io/embed/job_board?for=nuro&page=2
-[c23]: https://job-boards.greenhouse.io/embed/job_board?for=andurilindustries&keyword=intern
+[c23]: https://job-boards.greenhouse.io/embed/job_board?for=andurilindustries&keyword=intern->https://job-boards.greenhouse.io/embed/job_board?for=andurilindustries&keyword=co-op
 [c24]: https://ats.rippling.com/forterra/jobs?page=0&searchQuery=&workplaceType=&country=&state=&city=&pageSize=100
 [c25]: https://app.careerpuck.com/job-board/lyft
 [c26]: https://jobs.ashbyhq.com/wayve?locationId=a937431a-b165-4153-8c67-a6808a6eb679

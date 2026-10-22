@@ -11505,6 +11505,22 @@
       {
         "title": "Grade 1 Group Leader - 2nd Shift",
         "date": "2026-10-21"
+      },
+      {
+        "title": "Project Manager - Steering/EPS",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Reman Assembler Core Processing - 1st shift",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Vision Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Reman Assembler Core Processing - 2nd shift",
+        "date": "2026-10-22"
       }
     ],
     "Intrinsic": [
@@ -11899,6 +11915,70 @@
       {
         "title": "\u2b50\ufe0f Winter 2027 Business Operations Engineer Co-op",
         "date": "2026-10-21"
+      },
+      {
+        "title": "DFx Engineer, Mechanical & Fluid Systems",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "DFx Manufacturing Engineer, Avionics & Electronics",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "(Pipeline) Structural Analyst, Space Emerging Talent",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Project Engineer, AD&S",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Winter 2027 Electrical Engineer Co-op",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Winter 2027 EWIS Harness Engineer Co-op",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Winter 2027 Mechanical Engineer Co-op",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Winter 2027 Propulsion Engineer Co-op",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Winter 2027 Quality & Test Engineer Co-op",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Winter 2027 Robotics Engineer Co-op",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Winter 2027 Software Engineer Co-op",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Winter 2027 Supply Chain Analyst Co-op",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Winter 2027 Systems Engineer Co-op",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Winter 2027 Technical Program Management Co-op",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Winter 2027 Test & Evaluation Engineer Co-op",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Winter 2027 Warhead Engineer Co-op",
+        "date": "2026-10-22"
       }
     ],
     "Matic Robots": [
@@ -20068,6 +20148,10 @@
       {
         "title": "Fleet Operations Manager 1",
         "date": "2026-10-21"
+      },
+      {
+        "title": "Software Engineer 2",
+        "date": "2026-10-22"
       }
     ],
     "Saronic": [
@@ -26258,6 +26342,5888 @@
       {
         "title": "\u2b50\ufe0f Software Engineer Intern, Rhoda Platform",
         "date": "2026-10-21"
+      }
+    ],
+    "Walden Robotics": [
+      {
+        "title": "Member of Technical Staff: Senior Engineer, Robot Policy Learning",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Member of Technical Staff: Data Curriculum Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Member of Technical Staff: Data & Training Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Member of Technical Staff: Multimodal Post-Training",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Member of Technical Staff: Multimodal Pre-Training",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Member of Technical Staff: Reinforcement Learning for Policy Post-Training",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Associate Inventory & Procurement Specialist",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Environmental Health & Safety Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Facility Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "HR Operations Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Project Manager, Business Operations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Corporate Security Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior IT Support Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Executive Assistant",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Stakeholder Program Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Customer Program Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "UX Designer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "MTS: Mechatronics Technician",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Member of Technical Staff: Platform Electrical Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Member of Technical Staff: Firmware, Embedded, and Functional Safety",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Deployment Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Fleet Operations Coordinator",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Fleet Operations Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Prototyping Lab Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Member of Technical Staff \u2013 Engineer, RL and Control",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Member of Technical Staff \u2013 Senior Engineer, VR Teleoperation (Headset and Graphics)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Member of Technical Staff: Hardware Integration, Sensing, and Control",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Member of Technical Staff: Information Security",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Member of Technical Staff: Navigation, Localization & Structured Perception",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Member of Technical Staff: DevOps",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Member of Technical Staff: Reinforcement Learning for Wholebody Control",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Member of Technical Staff: Robotics Test and Release",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Member of Technical Staff: Web Backend & Platform",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Member of Technical Staff: Engineer, Simulation Content Authoring",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "AI Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Member of Technical Staff: Technical Program Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Program Lead",
+        "date": "2026-10-22"
+      }
+    ],
+    "Woven by Toyota": [
+      {
+        "title": "EHS Assistant Manager, Corporate Real Estate and Workplace Services",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "EHS\u30a2\u30b7\u30b9\u30bf\u30f3\u30c8\u30de\u30cd\u30fc\u30b8\u30e3\u30fc\u30fbCorporate Real Estate and Workplace Services",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Financial Planning and Analysis Specialist",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "FP&A \u30b9\u30da\u30b7\u30e3\u30ea\u30b9\u30c8",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Director, Global Head of Total Rewards",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Director, Global Head of Total Rewards",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "HR Generalist",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior HR Business Partner",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior HR Business Partner",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30b7\u30cb\u30a2HR\u30d3\u30b8\u30cd\u30b9\u30d1\u30fc\u30c8\u30ca\u30fc",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Legal Counsel",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Privacy Specialist",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u30b9\u30da\u30b7\u30e3\u30ea\u30b9\u30c8",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30ea\u30fc\u30ac\u30eb\u30ab\u30a6\u30f3\u30bb\u30eb",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Procurement Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30d7\u30ed\u30ad\u30e5\u30a2\u30e1\u30f3\u30c8\u30de\u30cd\u30fc\u30b8\u30e3\u30fc",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Business Operations Support Assistant",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Engineer, City Data Platform Development (Employment for People with Disabilities)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "AD/ADAS SIL\u74b0\u5883\u958b\u767a\u30a8\u30f3\u30b8\u30cb\u30a2",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Scientist, ML Perception & Data Pipelines",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Director, Global Head of Product Delivery",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Director, Global Head of Product Delivery",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Motion Planning Engineer, AD/ADAS",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Data Engineer, Behavior ML Planning & Prediction",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Data Engineering Manager, AD/ADAS",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Data Scientist, AD/ADAS",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Engineer, Map Data Sourcing & Compilation",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Machine Learning Engineer, Vehicle Perception",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Machine Learning Engineer, Vehicle Perception",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior ML Platform Engineer - AD/ADAS",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior ML Platform Engineer, AD/ADAS",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Product Manager, Developer Productivity",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Software Engineer - Data Acquisition",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Systems Safety Engineer - AD/ADAS Systems",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "SIL Environment Development Engineer, AD/ADAS",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer - Calibration",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer - Data Acquisition",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer - Data Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer II, Data Labeling",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer II, Safety & Quality Tooling",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Sr Manager, ADAS Data and Software Validation & Release",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Sr Simulation Engineer - AD/ADAS",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Staff ML Platform Engineer, AD/ADAS",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Staff Software Engineer - Data Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "System Integration Senior Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Test Strategy Technical Specialist, AD/ADAS",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30b7\u30b9\u30c6\u30e0\u30a4\u30f3\u30c6\u30b0\u30ec\u30fc\u30b7\u30e7\u30f3 \u30b7\u30cb\u30a2\u30de\u30cd\u30fc\u30b8\u30e3\u30fc",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30b7\u30cb\u30a2ML\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u30a8\u30f3\u30b8\u30cb\u30a2\u30fbAD/ADAS",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30b7\u30cb\u30a2\u30a8\u30f3\u30b8\u30cb\u30a2\uff08\u5730\u56f3\u30c7\u30fc\u30bf\u8abf\u9054\u30fb\u30b3\u30f3\u30d1\u30a4\u30eb\uff09",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30b7\u30cb\u30a2\u30b7\u30b9\u30c6\u30e0\u5b89\u5168\u30a8\u30f3\u30b8\u30cb\u30a2 \u30fb AD/ADAS Systems",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30b7\u30cb\u30a2\u30d7\u30ed\u30c0\u30af\u30c8\u30de\u30cd\u30fc\u30b8\u30e3\u30fc\u30fbDeveloper Productivity",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30b7\u30cb\u30a2\u6a5f\u68b0\u5b66\u7fd2\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u30a8\u30f3\u30b8\u30cb\u30a2\u30fbBehavior ML Planning & Prediction",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30b9\u30bf\u30c3\u30d5ML\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u30a8\u30f3\u30b8\u30cb\u30a2\u30fbAD/ADAS",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30c7\u30fc\u30bf\u30b5\u30a4\u30a8\u30f3\u30c6\u30a3\u30b9\u30c8\uff08ML\u30fb\u8a8d\u8b58\u6280\u8853\u30fb\u30c7\u30fc\u30bf\u57fa\u76e4\uff09",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30c6\u30b9\u30c8\u6226\u7565\u6280\u8853\u30b9\u30da\u30b7\u30e3\u30ea\u30b9\u30c8\u30fbAD/ADAS",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30e2\u30fc\u30b7\u30e7\u30f3\u30d7\u30e9\u30f3\u30cb\u30f3\u30b0\u30a8\u30f3\u30b8\u30cb\u30a2\u30fbAD/ADAS",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Embedded Software Engineer, Arene Professional Services",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Product Manager, Arene",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Software Engineer, Embedded Systems",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30d7\u30ed\u30c0\u30af\u30c8 \u30de\u30cd\u30fc\u30b8\u30e3\u30fc, Arene",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u7d44\u307f\u8fbc\u307f\u958b\u767a\u30a8\u30f3\u30b8\u30cb\u30a2\u30fbArene Professional Services",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Engineering Manager, Generative AI Engineering",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Engineering Manager, ML Training Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Product Manager, Developer & AI Platforms",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30a8\u30f3\u30b8\u30cb\u30a2\u30de\u30cd\u30fc\u30b8\u30e3\u30fc\u30fb\u751f\u6210AI\u30a8\u30f3\u30b8\u30cb\u30a2\u30ea\u30f3\u30b0",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30af\u30e9\u30a6\u30c9\u30a8\u30f3\u30b8\u30cb\u30a2",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30b7\u30cb\u30a2\u30d7\u30ed\u30c0\u30af\u30c8\u30de\u30cd\u30fc\u30b8\u30e3\u30fc\u30fbDeveloper & AI Platforms",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30c7\u30fc\u30bf\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u30a8\u30f3\u30b8\u30cb\u30a2\u30fbEnterprise AI",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "ADAS HMI Engineer, Customer Application",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "ADAS HMI\u30a8\u30f3\u30b8\u30cb\u30a2\u30fb\u30ab\u30b9\u30bf\u30de\u30fc\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Embedded Software Engineer, ADAS HMI",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Junior Software Engineer, Driving Planning",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior System Requirements Engineer, AD/ADAS",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Teammate Driving",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Integration Engineer, AD/ADAS Application",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "System Requirements Engineer, In-Cabin Perception",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30b7\u30b9\u30c6\u30e0\u8981\u6c42\u30a8\u30f3\u30b8\u30cb\u30a2\u30fbIn-Cabin Perception",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30b7\u30cb\u30a2\u30b7\u30b9\u30c6\u30e0\u8981\u4ef6\u30a8\u30f3\u30b8\u30cb\u30a2\u30fbAD/ADAS",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30b8\u30e5\u30cb\u30a2\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u30a8\u30f3\u30b8\u30cb\u30a2\u30fbDriving Planning",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u30a4\u30f3\u30c6\u30b0\u30ec\u30fc\u30b7\u30e7\u30f3\u30a8\u30f3\u30b8\u30cb\u30a2\u30fbAD/ADAS Application",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u30a8\u30f3\u30b8\u30cb\u30a2\u30fbTeammate Driving",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u7d44\u307f\u8fbc\u307f\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u30a8\u30f3\u30b8\u30cb\u30a2\u30fbADAS HMI",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Assistant Manager, Business Planning & Strategy (Strategy & Corporate Development Department, CxO Office)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Chief of Staff to the Chief Technology Officer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "CTO \u30c1\u30fc\u30d5\u30fb\u30aa\u30d6\u30fb\u30b9\u30bf\u30c3\u30d5",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30a2\u30b7\u30b9\u30bf\u30f3\u30c8\u30de\u30cd\u30fc\u30b8\u30e3\u30fc,\u30d3\u30b8\u30cd\u30b9\u4f01\u753b\u30fb\u6226\u7565\u62c5\u5f53 (Strategy & Corporate Development Department, CxO Office)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Head of Infrastructure Engineering",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Head of Business Operations, Safety and Quality",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Risk Management & Process Integration Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Software Quality Assessor / Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Vehicle Operational Safety & Compliance Engineer II",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Vehicle Operational Safety Engineer II",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30b7\u30cb\u30a2\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u54c1\u8cea\u8a55\u4fa1\u8005 / \u30a8\u30f3\u30b8\u30cb\u30a2",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30d3\u30b8\u30cd\u30b9\u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u30d8\u30c3\u30c9\u30fbSafety and Quality",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "AI Engineer, Driver Workload Estimation",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "AI\u30a8\u30f3\u30b8\u30cb\u30a2\u30fbDriver Workload Estimation",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Frontend Engineer, Mobility City Development",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30d5\u30ed\u30f3\u30c8\u30a8\u30f3\u30c9\u30a8\u30f3\u30b8\u30cb\u30a2\u30fbMobility City Development",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Business Consultant for Woven Inventor Garage Laboratory",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Project Manager, Inventor Activation, Business Planning and Operations for Inventor Garage",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30d3\u30b8\u30cd\u30b9\u30b3\u30f3\u30b5\u30eb\u30bf\u30f3\u30c8\u30fbWoven Inventor Garage Laboratory",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30de\u30cd\u30fc\u30b8\u30e3\u30fc\u30fbInventor Activation, Business Planning and Operations for Inventor Garage",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Product Owner & Biz Development Consultant, Mobility Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Crisis Confidential Management Assistant Manager, Process Improvement",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Project Management Support, Process Improvement",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Workplace Operations Assistant Manager, Administration",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u7ba1\u7406\u652f\u63f4, PoC\u30d7\u30ed\u30bb\u30b9\u6539\u5584",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30ef\u30fc\u30af\u30d7\u30ec\u30a4\u30b9\u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u30a2\u30b7\u30b9\u30bf\u30f3\u30c8\u30de\u30cd\u30fc\u30b8\u30e3\u30fc, \u30a2\u30c9\u30df\u30cb\u30b9\u30c8\u30ec\u30fc\u30b7\u30e7\u30f3",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u5371\u6a5f\u6a5f\u5bc6\u7ba1\u7406\u30a2\u30b7\u30b9\u30bf\u30f3\u30c8\u30de\u30cd\u30b8\u30e3\u30fc, Process Improvement",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "AI Quality & Evaluation Engineer, AI product",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "AI \u54c1\u8cea\u8a55\u4fa1\u30a8\u30f3\u30b8\u30cb\u30a2\u30fbAI \u88fd\u54c1\u958b\u767a",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Backend Software Engineer, Robot Platform Software",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Project Manager, Business Development, Smart Logistics",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Project Manager, Robot Delivery Service",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Computer Vision/Machine Learning Engineer, Digital Twin Platform",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30b7\u30cb\u30a2\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30d3\u30b8\u30e7\u30f3\uff0f\u6a5f\u68b0\u5b66\u7fd2\u30a8\u30f3\u30b8\u30cb\u30a2\u30fbDigital Twin Platform",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30b7\u30cb\u30a2\u30d7\u30ed\u30c0\u30af\u30c8\u30aa\u30fc\u30ca\u30fc\uff06\u4e8b\u696d\u958b\u767a\u30b3\u30f3\u30b5\u30eb\u30bf\u30f3\u30c8\u30fbMobility Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30d0\u30c3\u30af\u30a8\u30f3\u30c9\u30a8\u30f3\u30b8\u30cb\u30a2\u30fbRobot Platform Software",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30de\u30cd\u30fc\u30b8\u30e3\u30fc\u30fb\u30ed\u30dc\u30c3\u30c8\u914d\u9001\u30b5\u30fc\u30d3\u30b9",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30de\u30cd\u30fc\u30b8\u30e3\u30fc\u30fb\u4e8b\u696d\u958b\u767a, Smart Logistics",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Department Operations Project Manager, Inventor Acceleration and Service",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u90e8\u9580\u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30de\u30cd\u30b8\u30e3\u30fc\u30fbInventor Acceleration and Service",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "EHS Operations, Assistant Manager, Test Course Operations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "EHS\u62c5\u5f53\u30a2\u30b7\u30b9\u30bf\u30f3\u30c8\u30de\u30cd\u30fc\u30b8\u30e3\u30fc\u30fbTest Course Operations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Facility Ops, Assistant Manager, Test Course Operations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Logistics Operations Planning Assistant Manager, Test Course Operations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Project Manager, City Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30c6\u30af\u30cb\u30ab\u30eb \u30d7\u30ed\u30b8\u30a7\u30af\u30c8 \u30de\u30cd\u30fc\u30b8\u30e3\u30fc\u30fbCity Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30ed\u30b8\u30b9\u30c6\u30a3\u30c3\u30af\u30b9\u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u4f01\u753b\u30fb\u63a8\u9032 \u30a2\u30b7\u30b9\u30bf\u30f3\u30c8\u30de\u30cd\u30b8\u30e3\u30fc\u30fbTest Course Operations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u65bd\u8a2d\u7ba1\u7406\u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u30a2\u30b7\u30b9\u30bf\u30f3\u30c8\u30de\u30cd\u30b8\u30e3\u30fc\u30fbTest Course Operations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Sales, EV & V2X Infrastructure for B2B, xEV-Fleet Energy System",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30c6\u30af\u30cb\u30ab\u30eb\u30bb\u30fc\u30eb\u30b9\u30fbEV & V2X Infrastructure for B2B, xEV-Fleet Energy System",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "AI Platform Engineer (MLOps/LLMOps)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "AI \u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u30a8\u30f3\u30b8\u30cb\u30a2 (MLOps/LLMOps)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Customer Success and Deployment Strategist, Decarb Venture Studio, Mobility BU",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Product Manager, Mobility City Development",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Research Engineer for Spatial Intelligence, Vision AI Platform",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Resident Community & Co Creation, Assistant Manager, Weavers Relation",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Machine Learning Engineer, Energy Products",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Technical Product Manager, Decarb Venture Studio, Mobility BU",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30ab\u30b9\u30bf\u30de\u30fc\u30b5\u30af\u30bb\u30b9\u30fb\u30c7\u30d7\u30ed\u30a4\u30e1\u30f3\u30c8\u30b9\u30c8\u30e9\u30c6\u30b8\u30b9\u30c8\u30fbDecarb Venture Studio, Mobility Service",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30b7\u30cb\u30a2\u30c6\u30af\u30cb\u30ab\u30eb\u30d7\u30ed\u30c0\u30af\u30c8\u30de\u30cd\u30b8\u30e3\u30fc\u30fbDecarb Venture Studio, Mobility Service",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30b7\u30cb\u30a2\u6a5f\u68b0\u5b66\u7fd2\u30a8\u30f3\u30b8\u30cb\u30a2\u30fbEnergy Products",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30d7\u30ed\u30c0\u30af\u30c8\u30de\u30cd\u30fc\u30b8\u30e3\u30fc\u30fbMobility City Development",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30ea\u30b5\u30fc\u30c1\u30a8\u30f3\u30b8\u30cb\u30a2 - Spatial Intelligence\u30fbVision AI Platform",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u4f4f\u6c11\u30b3\u30df\u30e5\u30cb\u30c6\u30a3&\u5171\u5275\u3001\u30a2\u30b7\u30b9\u30bf\u30f3\u30c8\u30de\u30cd\u30fc\u30b8\u30e3\u30fc\u30fbWeavers Relation",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30d3\u30b8\u30cd\u30b9\u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u30b5\u30dd\u30fc\u30c8\u30a2\u30b7\u30b9\u30bf\u30f3\u30c8",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u30c7\u30fc\u30bf\u30a8\u30f3\u30b8\u30cb\u30a2\u30fbCity Data Platform Development\uff08\u969c\u304c\u3044\u8005\u96c7\u7528\uff09",
+        "date": "2026-10-22"
+      }
+    ],
+    "Generalist AI": [
+      {
+        "title": "Partnerships Associate",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Partnerships Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Strategic Deals Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Robotics Operations Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Robotics Technician",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Legal Counsel",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Recruiting Coordinator",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Talent Acquisition Partner",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Partnerships",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Electrical Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Mechanical Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Research Assistant",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Research Scientist: Post-Training",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Research Scientist: Pretraining",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Robot Science Ops",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer: Frontend",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer: Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer: ML Infra",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer: ML Optimization",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer: Product",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer: Robotics Controls",
+        "date": "2026-10-22"
+      }
+    ],
+    "Genesis AI": [
+      {
+        "title": "Deployment Program and Operation Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Deployment Solution Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Product Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Product Manager (FR)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Program Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Program Manager - Deployment",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Agent",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Agent",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Agent",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Foundation Models",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Foundation Models",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Foundation Models",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Genesis-World: Core Physics Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Genesis-World: Core Physics Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Genesis-World: Core Physics Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Genesis-World: Core Simulation Engine Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Genesis-World: Core Simulation Engine Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Genesis-World: Core Simulation Engine Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Inference",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Inference",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Mechanical Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Member of Technical Staff, IT",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "ML Compiler & System",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "ML Compiler & System",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "ML Compiler & System",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Platform",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Platform",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Platform",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "QA Engineer: Nyx Renderer & Genesis World",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Quadrants: Compiler Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Quadrants: Compiler Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Quadrants: Compiler Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Rendering, Pipeline Optimization",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Robot Learning",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Robot Learning",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Robot Learning",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Robot Teleoperation Specialist",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Robot Teleoperation Specialist",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Robotics",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Robotics",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Robotics",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Security",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Asset Pipeline Engineer, Sim-Ready Content",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Prop Artist",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Technical Program Manager (Paris,France)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Simulation Environment",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Simulation Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Simulation Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Simulation Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Site Reliability Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Training / AI Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Training / AI Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Training / AI Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Business Development Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Business Development Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Lead Robotics Technician",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Logistics and Kitting Specialist",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Manager, Manufacturing Engineering (Robot Production)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Manager, Supply Chain (Robot Production)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Annotation Specialist, Physical AI",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "On-site Support Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Annotation and Data Pipeline Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Data Collection Operator",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior data collection operator (FR)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Data Operations Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Head of Marketing",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Recruiter, AI Research & Engineering",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Recruiter, AI Research & Engineering",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Sourcer, AI Research & Engineering",
+        "date": "2026-10-22"
+      }
+    ],
+    "Mind Robotics": [
+      {
+        "title": "Field Technician, Data Collection",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "QA Reviewer, Data Annotation",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Communications Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Electrical Design Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Electrical Design Engineer, Power Electronics",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Electrical Design Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Mechanical Design Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Mechanical Design Engineer, Plastics",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Mechanical Design Engineer, Tactile Sensing",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Mechanical Design Engineer, Wearables",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Safety Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Test Engineer, Actuation",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Thermal Design Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Tools and PLM Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Global Supply Chain Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "IT Operations Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Supplier Industrialization Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Program Manager, Hardware",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Program Manager, Software",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Controls Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Infrastructure Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "DevOps Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Engineering Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Firmware Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Forward Deployed Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Research + Modeling",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Research Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Robotics Software Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Simulation and Validation Software Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Data Platform",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Edge & Field Systems",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "System Integration Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Tech Lead, Robotics Runtime & Middleware",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Tech Lead, Software Infrastructure and Fleet Management",
+        "date": "2026-10-22"
+      }
+    ],
+    "Caterpillar": [
+      {
+        "title": "\u2b50\ufe0f Part-time Accounting Intern",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Part-Time Intern - Engineering",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2026 Supply Chain Co-Op",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Corporate Intern - Autonomy & Intelligent Systems Engineering",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Corporate Intern \u2013 Digital and Analytics",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Corporate Internship - Human Resources",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Corporate Intern - Communications",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Corporate Intern \u2013 Product Support Engineering",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Corporate Intern - Marketing",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Corporate Intern - Business Operations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Corporate Intern - Engineering",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Engineering Corporate Internship Program Materials",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Engineering Corporate Internship Program Welding",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Engineering Corporate Parallel Co-op Program",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern - Information Technology",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Corporate Intern- Manufacturing",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Corporate Intern- Supply Chain",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Corporate Intern - Environmental, Health and Safety",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Corporate Intern - Procurement",
+        "date": "2026-10-22"
+      }
+    ],
+    "Ocado": [
+      {
+        "title": "Commercial Partnerships Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Partner Growth Associate / Executive",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Partner Success Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Partner Success Manager - Swedish Speaking",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Partner Growth Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Partner Success Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Field Service Technician",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Hardware Reliability Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Solutions Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Electronics Design Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Machine Learning Engineer (E3)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Range Service Specialist",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Backend Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Analytics Manager, Central Data Products",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Scientist",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Software Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Data Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Data Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Data Platform Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Commercial Senior Finance Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior EPM Systems Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Finance Business Partner - 12 months FTC",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Financial Controls Accountant",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Engineering Technician",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Engineering Technician",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Operator",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\uc5d4\uc9c0\ub2c8\uc5b4\ub9c1 \ud14c\ud06c\ub2c8\uc158",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Engineering Team Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Engineering Technician",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Maintenance Technician / Senior Maintenance Technician",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Technician",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Engineering Team Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Engineering Team Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Engineering Technician",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Engineering Technician",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Engineering Technician",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Maintenance Engineer (Night Shift)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Maintenance Engineer (Night Shift)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Maintenance Engineer (Night Shift)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Maintenance Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Maintenance Technician",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Maintenance Engineer- Night Shift",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Maintenance Technician- Night Shift",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Maintenance Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Maintenance Engineer- FC04",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Amazon Customer Connect & Service Platform Specialist",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "IT Technical Support Specialist (Internal Title: COE Specialist)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Operational Services Support Specialist",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Data Analyst",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Director Of Sales",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Join our Talent Community",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Ocado Group Graduate Programmes: Register your Interest",
+        "date": "2026-10-22"
+      }
+    ],
+    "Northrop Grumman": [
+      {
+        "title": "\u2b50\ufe0f 2027 Structural / Electromechanical Engineer Intern - Redondo Beach CA",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Electrical Engineer Intern - Redondo Beach CA",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Stress Analysis and Tooling Design Engineer Intern - Commerce CA",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Structural Engineer Intern - San Diego CA",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Materials and Process Engineering Intern - San Diego CA",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Business Management Intern - Radford VA",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Software Engineering Intern - Roy UT",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Mission Assurance / Quality Assurance Intern - Roy UT",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027Aeronautical Integration and Test Intern - Huntsville AL",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Engineering Internship (Dulles VA / Baltimore MD)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Electrical Engineering Intern - Vandenberg CA",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Engineering Intern (ME/EE) - Wallops VA",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Engineering Intern (Manufacturing and Operations) - Chandler AZ",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Cyber Systems Engineer Intern-Tampa FL",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Subsystems Design Modeling Internship - Linthicum MD",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Subsystems Design Modeling Internship - Linthicum MD",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Mechanical Propulsion Engineer Internship - Dulles VA",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Supply Chain Intern - HYBRID/Baltimore MD/Redondo Beach CA",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Intern - Survivability Engineer",
+        "date": "2026-10-22"
+      }
+    ],
+    "OpenAI": [
+      {
+        "title": "AI Systems Engineer, Codex Agents",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Android Engineer, Ad Formats",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Android Engineer, Applied Foundations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Android Engineer, ChatGPT ImageGen",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Android Engineer, ChatGPT Library Team",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Android Engineer, Plugin Developer Platform",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Engineer, Codex Core Agent",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Software Engineer, GTM Growth Engineering",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Backend Software Engineer - Codex for Finance",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Backend Software Engineer, Applied Foundations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Backend Software Engineer, ChatGPT ImageGen",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Backend Software Engineer, Cooperative AI (Evals)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Backend Software Engineer, Gov",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "ChatGPT Performance Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Engineer, Core Experimentation",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Engineering Manager, Growth & Revenue",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Developer Experience Engineer, Cyber",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Engineering Manager, ChatGPT Search Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Engineering Manager, ChatGPT Space",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Engineering Manager, Core Experimentation",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Engineering Manager, Core Services",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Engineering Manager, Distillation & Detection Platform",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Engineering Manager, Identity Platform",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Engineering Manager, MLE",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Founding Full Stack Software Engineer, Legal",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Frontend Software Engineer, ChatGPT Space",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Frontend Software Engineer, Codex App",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Full Stack Engineer, Enterprise Expansions",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Full Stack Software Engineer - Codex for Finance",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Full Stack Software Engineer, Agent Enablement",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Full Stack Software Engineer, ChatGPT Finances",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Full Stack Software Engineer, ChatGPT ImageGen",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Full Stack Software Engineer, Codex",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Full Stack Software Engineer, Cybersecurity Products",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Full Stack Software Engineer, Education",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Full Stack Software Engineer, Growth",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Full Stack Software Engineer, Product Explorations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Full Stack Software Engineer, Sales Platform",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Full Stack Staff & Software Engineer, Consumer Monetization",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Full-Stack Engineer, ChatGPT Education & Learning",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Full-Stack Software Engineer, Applied Foundations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Full-Stack Software Engineer, Child Safety Tools & Systems",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Full-Stack Software Engineer, Child Safety Tools & Systems (London)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Full-Stack Software Engineer, Emerging Products",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Full-Stack Software Engineer, Intelligence & Investigations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Growth - Digital Marketing (Business)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Growth - Digital Marketing (Consumer)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Growth - Digital Marketing (Enterprise)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Growth - Lifecycle Lead (B2B)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Growth Marketing, Creative and Ad Operations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "iOS Engineer, Applied Foundations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Machine Learning Engineer, Core Experimentation",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Machine Learning Engineer, Growth",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Machine Learning Engineer, Implicit Signals",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Machine Learning Engineer, Monetization AI/ML",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Mobile / Full Stack Staff & Software Engineer, Consumer Monetization",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Principal Software Engineer, Full Stack \u2014 Codex",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Product Engineer, Cyber",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Product Manager, Technology Vertical",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Protection Scientist Engineer, Integrity",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Protection Scientist Engineer, Integrity",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Research Engineer, Retrieval & Search, Applied Engineering",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Staff Software Engineer, Identity",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer - Privacy & Compliance",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Ad Formats",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Ads Integrity",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Ads Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Applied Emerging Talent (2027)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Backend \u2014 Dots",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Build Systems / CI",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Caching Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, ChatGPT Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, ChatGPT Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, ChatGPT Shopping",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Cloud Agents",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Cloud Computer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Cloud Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Cloud Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Codex Core Agents",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Codex Cyber",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Codex Enterprise",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Consumer Health",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Cooperative AI",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Core Services",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Database Systems",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Delivery / CD",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Developer Productivity",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Enterprise Controls",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Enterprise Verticals",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Financial Engineering",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Full Stack \u2014 Dots",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Full-Stack - Core Experimentation",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, GTM Growth Engineering",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Habitat (Online Data)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Healthcare",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Implicit Signals",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Infrastructure - Core Experimentation",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Integrity Foundations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Localization",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Mobile Web \u2014 Dots",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Model Deployment- ChatGPT Engineering",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Monetization Delivery",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Monetization ML Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Monetization Product & Platform",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Native Learning Experiences",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Observability",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, OpenAI Presence",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Plugin Developer Platform",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Plugin Ecosystem",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Product Infrastructure - Agent Runtime",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Product Velocity",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Resilience Engineering",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Scaled Abuse",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Search Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Shop/Feed Ads",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Youth Well-Being",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Staff & Software Engineer, Payments & Billing, Consumer Monetization",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Subject Matter Expert, Investment Banking",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Tech Lead Manager, Education",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Strategy & Operations Lead \u2014 Korea",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Strategy & Operations Lead \u2014 SEA & ANZ",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "B2B Communications Manager, LATAM",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Internal Communications Lead, Enterprise & Growth",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Internal Communications, Enterprise & Growth",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Internal Communications, Research and Product",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Media Relations, Safety Communications",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Strategy & Systems Manager, Communications",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Backend Engineer, Consumer Devices",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Camera Software Engineer, Consumer Devices",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Connectivity Software Engineer, Consumer Devices",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Engineer, Hardware & Consumer Devices",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Firmware Engineer, RTOS, Consumer Devices",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Hardware Exploratory",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "HRBP, Consumer Devices",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Lab Operations Engineer, Systems Integration | Consumer Devices",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Machine Learning Engineer, Multimodal Perception and Authentication",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Operating Systems Engineer | Consumer Devices",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Operating Systems Engineer, Connectivity & Networking | Consumer Devices",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Operating Systems Engineer, Linux Kernel | Consumer Devices",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Operating Systems Engineer, On-Device Inference | Consumer Devices",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Operations Exploratory",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Technical Recruiter, Consumer Devices - Singapore",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, HSM Infrastructure Security, Consumer Devices",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, HSM Infrastructure Security, Consumer Devices",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Private Computing",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Security Architect, Operating Systems | Consumer Devices",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Staff PLM & Engineering Applications Engineer, Consumer Devices",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "System Performance Engineer, Consumer Devices",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "System Software Engineer, Consumer Devices",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Systems Integration Engineer, Build Systems | Consumer Devices",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Systems Integration Manager | Consumer Devices",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Systems Test Engineer, End-to-End Validation | Consumer Devices",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Wireless Regulatory Engineer - SAR",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Engineering Manager, Multimodal (API)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Full Stack Software Engineer, API Experience",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Machine Learning Engineer, API Multicloud",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, API Agents",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, API Enterprise Controls",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, API Frontiers",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, API Multicloud",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, API Multimodal",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, API Safety",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Corporate Security Manager - Americas",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Personnel Security Specialist",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Special Programs Security Manager (CSSO/CPSO)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Analytics Engineer, GTM",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied Data Science & Insights Leader - GTM Intelligence Solutions and Technical Success",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Scientist, Ads Demand",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Scientist, B2B Demand Generation, Growth & Measurement",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Scientist, B2B Strategy & Intelligence",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Scientist, Codex",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Scientist, Core Experimentation",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Scientist, Cybersecurity",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Scientist, Financial Engineering",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Scientist, FinEng",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Scientist, Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Scientist, Platform and B2B Products",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Scientist, Preparedness",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Scientist, Product",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Scientist, Real Estate & Workplace",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Scientist, Safety",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Scientist, SMB Ads Growth",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Machine Learning Data Scientist - Consumer Forecasting",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Product Data Scientist - Youth, Families and Learning",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Member of Executive Operations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Member of Executive Operations, Seattle",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Accounting Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Asset Compliance Program Lead, Hardware",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Business Systems Lead, Procure-to-Pay",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Contract Management Lead (Procurement)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Corporate Development, Deal Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Customer Service Systems Engineer, Government",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Deal Operations, EMEA",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Financial Systems Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Head of Enterprise Risk Management",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Head of Sourcing Enablement & Delivery",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "International Payroll Operations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Lead Revenue Accounting, Technical (Strategic Partnerships)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Lead, Corporate Technical Accounting and Strategic Transactions",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Lead, Revenue Accounting, Technical",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Lead, Technical Accounting (Compute Infrastructure)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "M&A Finance Integration Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Manager, Revenue Accounting",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Manager, Revenue Accounting, Technical (Strategic Commercial Deals)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Manager, Technical & Operational Accounting",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Payroll Initiatives Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Pricing Operations Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Pricing Strategist, GTM",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Manager, Accounts Payable - Compute",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Manager, Ads Revenue Accounting",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Manager, Extended Workforce Program",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Manager, Financial Reporting",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Sr. Integrations Engineer, Supply Chain Technology",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Strategic Sourcing Lead, Professional Services \u2013 Human Data",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Strategic Sourcing Leader, Professional Services",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Strategic Technology Negotiations Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Accounting Lead, Ads Revenue",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Deployment Lead (DL), FDE - Singapore",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Deployment Lead (DL), FDE - Tokyo",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Deployment Lead, FDE - SF",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Deployment Lead, FDE- NYC",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Deployment Lead, Forward Deployed Engineering (FDE) - Platform",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Deployment Lead, Life Sciences- NYC",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Deployment Lead, Semiconductors- SF",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Forward Deployed Engineer - London",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Forward Deployed Engineer - London (Spanish-speaking)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Forward Deployed Engineer - Madrid (Spanish-speaking)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Forward Deployed Engineer - Munich",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Forward Deployed Engineer - Paris",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Forward Deployed Engineer - Seoul",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Forward Deployed Engineer - Singapore",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Forward Deployed Engineer - Sydney",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Forward Deployed Engineer - Tokyo",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Forward Deployed Engineer - UAE",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Forward Deployed Engineer - Zurich",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Forward Deployed Engineer (FDE) - Seattle",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Forward Deployed Engineer (FDE) - SF",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Forward Deployed Engineer (FDE), Financial Services- NYC",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Forward Deployed Engineer (FDE), Healthcare - NYC",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Forward Deployed Engineer (FDE), Healthcare - Seattle",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Forward Deployed Engineer (FDE), Healthcare - SF",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Forward Deployed Engineer (FDE), Legal-NYC",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Forward Deployed Engineer (FDE), Legal-SF",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Forward Deployed Software Engineer - NYC",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Forward Deployed Software Engineer - Seattle",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Forward Deployed Software Engineer - SF",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Manager, Forward Deployed Engineer - Tokyo",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Manager, Forward Deployed Engineering- NYC",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Agent Standards Architect, Global Affairs",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Analytics Manager, Global Affairs",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied Risk Standards Architect",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Program Manager, National Security Policy Operations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "US Congressional Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "US Congressional Lead, Global Affairs",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "US External Affairs Associate, Global Affairs",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Associate - SF",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Associate - Singapore (ANZ Market)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Associate - Singapore (Korean-speaking)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Associate, Japan",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Cyber",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Digital Native",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Digital Native Enterprise",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Digital Native Large Enterprise",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Digital Native New Business",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Digital Natives",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Digital Natives",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Digital Natives",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Digital Natives",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Digital Natives - France",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Digital Natives - Nordics",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Digital Natives | MENA",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Digital Natives Growth",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Enterprise | ANZ",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Financial Services",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Financial Services Industry - Japan",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Government",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Healthcare",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Large Enterprise",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Large Enterprise",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Large Enterprise",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Large Enterprise",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Large Enterprise",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Large Enterprise",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Large Enterprise",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Large Enterprise - Tokyo",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Large Enterprise (FSI)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Life Sciences",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Manufacturing- Tokyo",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Mid-Market",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Mid-Market",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Mid-Market",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Mid-Market | Korea",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Public Sector - Tokyo",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Startups",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Startups (Mandarin-Speaking)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Startups | Tokyo",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Startups Expansion",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Agency Partner, Ads Solutions",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "AI Deployment Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "APAC Sales Development Leader",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "APAC Vendor Lead, Ads - Singapore",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "APAC Vendor Lead, Ads - Sydney",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Architect",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Architect",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Architect",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Architect",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Architect",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Architect",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Architect - Tokyo",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Architect (Brazil)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Architect, Digital Natives",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Architect, Digital Natives",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Architect, Digital Natives (Strategics)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Architect, Education",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Architect, Enterprise",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Architect, Healthcare & Life Sciences",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Architect, Large Enterprise",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Architect, Large Enterprise",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Architect, Partner",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Architect, Retail",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Delivery Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Engineer - Tokyo",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Engineer, API Platform, Digital Natives",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Engineer, API Platform, Digital Natives",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Engineer, Codex",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Engineer, Codex",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Engineer, Codex",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Engineer, Codex",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Engineer, Codex",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Engineer, Codex",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Engineer, Codex",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Engineer, Codex",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Engineer, Codex | Tokyo",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Engineer, Cyber",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Engineer, Cyber",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Engineer, Cyber | Tokyo",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Engineer, Digital Natives",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Engineer, Digital Natives",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Engineer, Enterprise",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Engineer, Plugins",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Engineer, Sign in with ChatGPT",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Engineer, Startups",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Engineer, Startups",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Engineer, Startups",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Engineer, Startups (Codex)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Engineer, Startups (Codex)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Engineer, Startups (Codex)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Engineer, Startups (Mandarin-speaking)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "AWS Specialist Seller, Strategic Pursuits",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Backend Software Engineer, GTM Innovation",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Business Development Manager, Product Partnerships",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Client Partner, Ads Solutions",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Client Partner, Ads Solutions - Financial Services",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Client Partner, Ads Solutions - Travel",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Client Partner, Ads Solutions (Spanish Speaking)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Customer Success Manager - Ads Solutions (Dutch speaking)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Customer Success Manager - Ads Solutions (Spanish speaking)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Customer Success Manager, Ads Solutions (New York City)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Customer Success Manager, Ads Solutions (San Francisco)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Customer Success Manager, Ads Solutions (Seattle)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Deal Operations, APAC",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Demo Experience Engineer, Technical Success",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Early Access Deployment Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Enablement Lead (Builder) - Tokyo",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Enablement Lead, Knowledge Work",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Enablement Lead, Knowledge Work",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Enterprise Account Associate - EMEA",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Enterprise Account Associate - EMEA (German Speaking)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Enterprise Account Associate- EMEA (French Speaking)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Global Head of Education GTM",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Growth Lead, France",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Growth Lead, Japan",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "GTM Strategy & Operations, Policy",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "GTM Strategy & Operations, Professional Services",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Manager, AI Deployment Engineering (Southeast Asia)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Manager, Applied AI Architect",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Manager, Applied AI Architect (India)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Manager, Applied AI Architects",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Manager, Applied AI Architects",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Manager, Applied AI Architects",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Manager, Applied AI Architects - Digital Natives",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Manager, Applied AI Engineering (Enterprise)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Manager, Applied AI Engineering (Codex)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Manager, Applied AI Engineering (Codex)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Manager, Applied AI Engineering (Digital Natives)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Manager, Applied AI Engineering (Startups)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Manager, Cyber - Applied AI Architect",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Manager, Sales Development",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "North America Vendor Lead, Ads",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Partner AI Deployment Engineer - AWS",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Partner Applied AI Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Partner Applied AI Engineer - LATAM",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Partner Director - AWS Alliance Partnership, Japan",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Partner Director, McKinsey Alliance",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Partner Director, PwC",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Partner Solutions Engineer, Ads Solutions - San Francisco",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Regional Manager, Ads Solutions (APAC)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Sales Development Leader - Tokyo",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Sales Development Manager, Enterprise (AMER)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Solutions Engineer, Ads Solutions - San Francisco",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Solutions Engineer, Ads Solutions - Singapore",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Program Manager, Global Programs \u2014 Applied AI Engineering",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Red Team - Cyber",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Head of Employee Tech & Experience (ETX)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "IT Audiovisual Operations Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "IT Logistics Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "IT Support Dublin, EMEA Regional Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "IT Support Specialist",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "ITAV Deployment Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "ITAV Event Technical Producer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Program Manager, Technology Capital Builds",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Staff Software Engineer, Identity Infrastructure Engineering",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Associate General Counsel, Commercial \u2013 Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Counsel, Commercial",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Legal Contract Manager, Public Sector",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Counsel, Commercial (Infrastructure)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Counsel, Corporate (M&A)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Counsel, France",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Counsel, Product (Hardware)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Engineering Manager, Rosalind Workbench",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Life Sciences",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Ads Marketing Manager, Japan",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Audio Engineer, Live Video",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "B2B Marketing Lead, ANZ",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "B2B Marketing Lead, India",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "B2B Marketing Manager, DACH",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Consumer Marketing Manager, Japan",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Content Studio Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Creative Director, Copy",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Creative Lead, Japan",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Director of Events Management",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Education Content Marketing Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Enterprise Field Marketer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Events Design Producer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Events Manager, Brand & Communications",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Executive Programs Lead, Americas",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Experiential Producer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Global Head of Events",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Growth Marketing Manager - Web & Organic, SMB Ads",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Growth Marketing Manager, SMB Ads",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Industry Product Marketing Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Integrated Marketing Lead, Brand & Policy",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Integrated Marketing Manager - LATAM",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Integrated Marketing Manager, AI Impact",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Integrated Marketing Manager, EMEA",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Integrated Marketing Manager, Hardware",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Lead, Ads Prospecting & Customer Intelligence",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Lifecycle Marketing Manager, SMB Ads",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Market Research Lead, ChatGPT",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Marketing Scientist",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Motion Designer, Business Marketing",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Partner Marketing Manager, Ads",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Partner Marketing Manager, Technology Partners & ISVs",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Product Marketing Lead, API Models & Research",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Product Marketing Lead, ChatGPT Work",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Product Marketing Manager, Advertising",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Product Marketing, Messaging Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Safety Transparency Editor, Safety Systems",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Scaled Programs Lead, SMB Ads",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "SMB Innovation Sales & Strategy Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Web Strategist Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Account Director, Federal Civilian",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Architect, Government",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Engineer, Cyber, Government",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Engineer, Government",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied AI Engineer, Government, International",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Capture Manager, OpenAI for Government",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Cyber Enablement Lead, Gov",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Enablement Lead, Government",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Federal Account Director, National Security",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Forward Deployed Software Engineer, Gov",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Partnerships Operations Lead, OAI for Government",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Program Manager, Government Trusted Access",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Strategic Delivery Lead, Cyber",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Strategic Delivery Lead, Federal Civilian & State and Local Government",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "B2B Ecosystem Lead, Business Development",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Business Lead, Special Situations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Deal Lead, Special Situations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Growth Partnerships Manager, Korea",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Marketplace Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Physical Engineering Business Lead (Special Situations)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Business Recruiter, APAC",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Compensation Business Partner, GTM",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Compensation Operations Analyst",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Compensation Programs & Operations Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Global Candidate Experience Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Head of Talent Experience & Enablement",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "HR Business Partner",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "HR Business Partner, EMEA",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "People Research Data Scientist, AI Fairness & Bias",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "People Research Scientist",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "People Technology Analyst, Workday PATT & Benefits",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Product Designer, People Innovation Labs",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Recruiting Coordinator - Contract",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Employee Relations Partner",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Technical Recruiter",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Technical Sourcer, Applications Engineering",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Full Stack (People Innovation)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Systems & Enablement Lead, Recruiting Operations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Recruiter",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Total Rewards Business Partner, APAC",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Workday Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Product Design Lead, Growth - Codex",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Product Designer, Accessibility",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Product Designer, Consumer Verticals",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Product Designer, Engineering Acceleration",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Product Designer, Higher Education",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Product Designer, Payments",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Product Designer, Youth",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Product Manager, API Agents",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Product Manager, API Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Product Manager, Core Models",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Product Manager, Enterprise Identity",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Product Manager, Financial Engineering",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Product Manager, Financial Services",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Product Manager, Integrity",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Product Manager, Youth",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "B2B Ecosystem Lead, Partner Growth",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Business Development Lead, Life Sciences",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Head of Business Development, LATAM",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Platform Product Partnerships Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Applied Scientist, Product Policy",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Research Lead, Policy Communications",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Agent Post-Training Research",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Agent Post-Training, Computer Use Research",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "AI Infrastructure Engineer, pAGI",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Compute Electrical Engineer, Robotics",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Control Systems Software Engineer, Robotics",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Program Manager, Science",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Electrical Engineer, PCBA Test Infrastructure, Robotics",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Electrical Engineer, Robotics",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Field Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Full-Stack SWE, Data Acquisition (Foundations)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Lead Safety Engineer, Robotics",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Manufacturing Engineer, Motors & Actuators",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Mechanical Design Engineer, Motor Design & Prototyping",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Mechanical Engineer, Dynamometer and Actuator Testing Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Mechanical Engineer, PCBA Test Infrastructure, Robotics",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "PCB Layout Engineer, Robotics",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Program Manager, Human Data",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "RE/RS, Data Understanding - Foundations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "RE/RS, Data Understanding (MM)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Research Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Research Engineer / Research Scientist - Personal AGI, Memory",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Research Engineer / Research Scientist - Personal AGI, Personalization",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Research Engineer / Research Scientist / AI Systems Engineer, RSI",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Research Engineer / Research Scientist- Personal AGI (Post Training)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Research Engineer / Research Scientist, Health",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Research Engineer, AI for Chip Design",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Research Engineer, Codex",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Research Engineer/Research Scientist - Personal AGI, North Stars",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Research Engineer/Research Scientist- Personal AGI, Model Experience",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Research Engineer/Research Scientist, RL/Reasoning",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Research Program Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Research Program Manager \u2013 Adversarial Model Research",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Research Program Manager, Data Acquisition",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Research Program Manager, Governance",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Research Program Manager, Human Data Campaigns",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Research Scientist",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Research Scientist / Research Engineer - Foundations, Search",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Research Scientist / Research Engineer, Search - Knowledge Graphs",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Research Scientist / Research Engineer, Search Integrity",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Researcher, Alignment",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Researcher, Alignment CoT Monitorability",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Researcher, Alignment Interpretability",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Researcher, Synthetic RL",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Researcher, Training",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Researcher, Training - London",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Robotics Software Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer - Data Aquisition (systems)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, AI for Chip Design",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Data Acquisition",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Foundations Search",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Research - Human Data",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Program Manager, Actuators",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Program Manager, Foundations Data and Operations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Program Manager, Robotics Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Engineering Manager, Preparedness",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Model Policy Manager, Agentic Safety",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Model Policy Manager, Multimodal Safety",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Model Policy Manager, National Security",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Research Program Manager, Frontier Assurance",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Researcher, Agent Safety, Oversight and System Mitigations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Researcher, Agent Safety, Training and Evaluations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Researcher, Frontier Cybersecurity Risks",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Researcher, Frontier Risk Mitigations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Researcher, Interpretability",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Researcher, Multimodal Safety",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Researcher, Recursive Self-Improvement Safety",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Researcher, Safety - Frontier Assurance",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Researcher, Safety Oversight",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Researcher, Safety Training",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Researcher, Safety Training, National Security",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, AI Safety",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Safety Engineering",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "3P Systems Architect",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "ASIC Firmware Engineer, Modeling",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Business Development Lead, Compute Strategy",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Capacity Systems Software Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Commissioning Program Manager, Infrastructure Delivery",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Commissioning Project Lead, Data Center Delivery",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Component and Product Quality Engineer, Interconnects",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Compute Infrastructure, Critical Facilities Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Critical Facilities Lead, Compute Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Center Compute, OpenHouse Savannah 2026",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Center Controls Network Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Center Design Engineer, Electrical",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Center Design Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Center Hardware Quality & Reliability Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Center Infrastructure Architect",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Center Infrastructure Electrical Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Center Infrastructure Engineering Program Manager (Network and Whitespace)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Datacenter Networking Technician, AI Compute Deployment - Stargate",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Design Verification Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Development Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Development Planner, Industrial Compute",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Electrical Commissioning Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Full Stack Engineer, Fleet Scheduling",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "GPT Infrastructure Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Hardware / Software CoDesign Engineer - 3P",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Hardware Engineer, Test",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Hardware Operations Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Hardware Strategic Sourcing & Manufacturing Partnerships Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Hardware Strategic Sourcing Manager, Optics",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Hardware Systems Planning Lead (1P)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Host Systems Software Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Industrial Compute",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Infrastructure Communications Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Infrastructure Operations & Sustainability Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Land Development & Due Diligence Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Manufacturing Test Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Mechanical Commissioning Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Mechanical Engineer, Hardware Systems",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Network Operations Engineer, AI Networking",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Networking Operating System Firmware Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "PCBA Manufacturing Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Performance Modeling Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Performance Modeling Engineer ~2",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Performance Modeling Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Physical Design Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Physical Network & Structured Cabling Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Powered Land Developer, Development & Power Projects",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Product Manufacturing & Quality Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Product Manufacturing Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Product Manufacturing Engineer - PCBA",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Product Reliability Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Quality Engineer, Rack Infrastructure & Site Operations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "RTL Design Engineer \u2013 Interconnect & Network Datapath",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Signal Integrity Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Site Operations Technician",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "SoC Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Accelerators",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Agent Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, AI accelerator Runtime",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, CI/CD & ML Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Collective Communication",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Compute - Storage",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Compute Foundations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Compute Foundations Systems",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Compute Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Core Network Engineering",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Data Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Data Infrastructure - Research",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Developer Productivity - Inference Runtime",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Fleet Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Fleet Management",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Frontier Systems - Power Management",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, GPT Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, GPU Infrastructure - HPC",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Hardware Health",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Inference - Multi Modal",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Inference - Performance Optimization",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Infrastructure - Analytics Platform",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Kernel Performance & AI Tooling",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Manufacturing Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Model Inference",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Model Runtime",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Platform Systems",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Platform Systems",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Research Developer Productivity",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, TPU Compilers",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Workload Enablement",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Strategic Sourcing Manager, Compute Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Strategic Sourcing Manager, Data Center Infrastructure, Electrical",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Strategic Sourcing Manager, Data Center Infrastructure, Mechanical",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Strategic Sourcing Manager, Data Center Infrastructure, Owner Furnished Equipment",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Supply Chain Manager, Industrial Compute",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Supply Chain Operations Program Manager, AI Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Supply Chain Program Manager (SCPM) - AI Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Systems Generalist, GPT Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Systems Software Engineer, Management Plane",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Systems Software Engineer, Security, First Party Hardware",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Systems Software Engineer, Silicon Bringup",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Tech Lead, Deployment & Operations \u2014 Custom Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Lead Manager - Training Runtime, Data(set) Movement",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Program Manager, Infrastructure Systems & Tooling",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Training - Runtime Foundations Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Training Performance Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Training: ML Framework Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Workforce Development & Education Manager, Infrastructure Sites",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Client Platform Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Compliance Program Manager \u2014 Regulatory Compliance",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Engineering Manager, Client Platform Engineering",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Enterprise Security Engineer, Vulnerability Management",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Forward Deployed Security Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "GRC Program Manager, Audit & Controls",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "GRC Technical Program Manager, Product Lifecycle Assurance",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "IT Software Architect, SaaS Enablement and Governance",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Network Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Network Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Principal Security Engineer, Infrastructure Security",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Principal Software Engineer, Infrastructure Security",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Research Engineer, Privacy",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Security Engineer, Agent Security",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Security Engineer, Application Security",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Security Engineer, Application Security",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Security Engineer, Application Security",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Security Engineer, Detection and Response",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Security Engineer, Infrastructure Security",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Security Program Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Technical Program Manager - Security",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Host Assurance",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Infrastructure Security",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Privacy",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Privacy Engineering",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Privacy Engineering (Lawful Access)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Privacy Engineering (Lawful Access)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer, Security Observability",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Staff Security Reliability Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Threat Investigator, Threat Intel Engineering",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Vendor Security Technical Program Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Hardware Finance Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Head of Finance - Data Centers",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Head of First Party Chip Finance",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Pricing Strategist",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Strategic Finance Partner, OpenAI for Inference",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Strategic Finance, Ads",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Strategic Finance, B2B Partnerships",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Strategic Finance, Compute",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Strategic Finance, Emerging B2B Products",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Strategy & Operations Lead - Japan",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Program Manager, AI Safety & Safeguards",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Program Manager, Applied API & Product",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Program Manager, Applied Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Program Manager, Cloud AI Partnerships",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Program Manager, Compute Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Program Manager, Developer Velocity",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Program Manager, Enterprise",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Program Manager, Model Deployment & Capacity",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Program Manager, Multimodal",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Program Manager, People Innovation Labs",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Program Manager, Storage & Data Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Program Manager, Strategic Initiatives",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "AI Support Engineer - Dublin",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "AI Support Engineer - Dublin (Weekend Shift)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "AI Support Engineer - San Francisco",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "AI Support Engineer - San Francisco (Weekend Shift)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "AI Support Engineer - Singapore",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "AI Support Engineer - Singapore (Korean Speaking)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "AI Support Engineer - Singapore (Weekend Shift)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "AI Support Engineer - Tokyo",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "AI Support Engineer - Tokyo (Korean Speaking)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "AI Support Engineer - Tokyo (Weekend Shift)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "AI Support Engineer - Toronto",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "AI Support Engineer - Toronto (Weekend Shift)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "AI Support Engineer, Biosciences - San Francisco",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "AI Support Engineer, Government - San Francisco, CA",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "AI Support Engineer, Government - Washington, D.C.",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Consumer Device Safety & Risk Operations Specialist, User Safety & Risk Operations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Cyber Operations Lead, Critical Harm Operations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Cyber Operations Strategist, Critical Harm Operations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Dedicated Support Engineer - Dublin",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Dedicated Support Engineer - London",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Dedicated Support Engineer - San Francisco",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Dedicated Support Engineer - Singapore",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Dedicated Support Engineer - Tokyo",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Dedicated Support Engineer - Toronto",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Dedicated Support Engineering Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Device Safety & Risk Operations Specialist, User Safety & Risk Operations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Engineering Manager, Cooperative Systems",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Engineering Manager, Cooperative Systems",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Manager, Senior Support Engineering",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Operations Analyst, User Safety & Risk Operations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Platform Operations Program Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Regulatory Operations Analyst, User Safety & Risk Operations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Safety Response Operations Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Program Manager, Consumer Device Safety Operations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Support Engineer - Dublin",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Support Engineer - San Francisco",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Support Engineer - Singapore",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Support Engineer - Toronto",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Service Designer, Support",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Strategy & Operations, Support",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Support Delivery Lead - Toronto",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Support Delivery Lead, Government",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Support Operations Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Support Program Manager, Partnerships",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Support Vendor Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Program Manager, Support Delivery",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Systems Program Manager, User Operations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Trust & Safety Ads Operations Analyst, Programs",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "User Safety & Risk Operations Analyst - Global Response (Weekend Shift)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Global Transportation Programs, Senior Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Manager, EHS - Robotics",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Manager, Occupancy Planning & Workplace Strategy",
+        "date": "2026-10-22"
+      }
+    ],
+    "John Deere": [
+      {
+        "title": "\u2b50\ufe0f 2027 Intern - C&F Marketing/Sales",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Intern - Electrification Engineering",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Intern - Human Resources/Labor Relations",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Intern - Manufacturing Engineering",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Intern - Engineering - Weld",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Intern - Environmental Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Intern - Supply Management/Logistics",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Intern - Product Engineering",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Intern - A&T Marketing/Sales",
+        "date": "2026-10-22"
+      }
+    ],
+    "Ford": [],
+    "Joby Aviation": [
+      {
+        "title": "Certification Project Engineer, International",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Electrical Engineer - Intern (Summer 2027)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Flight Test Intern (Dec 2026-Feb 2027)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Mechanical Engineer Intern, Autonomy (Summer 2027)",
+        "date": "2026-10-22"
+      }
+    ],
+    "Mobileye": [
+      {
+        "title": "Senior Financial Analyst",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Talent Acquisition Partner",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Talent Acquisition Partner",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Talent Acquisition Partner (m/f/d) fix term for approximately 10 months",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Talent Acquisition Partner (m/f/d) fix term for approximately 10 months (copy)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Talent Sourcer Specialist - Temporary (1 year)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Business Applications Implementation Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Business Applications Implementation Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Information Systems Engineer AI & Automation",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Robotics Maintenance & Field Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Support Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Assembly Process Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "ATE & Manufacturing Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Autonomous Vehicle System Integrator",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Experienced Laboratory Integration Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Functional Regression Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Radar System Integration Engineer \u2013 Functional & System Flows",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior AV Field Engineer (M/W/D) - Stuttgart, Germany",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "System Integration Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Validation Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Validation Engineer & Embedded System Integration",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Validation Engineer & Embedded System Integration (Temporary Position - Maternity Leave)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Testing & Validation Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Information Security Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Product Environmental Compliance Specialist",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Legal Counsel \u2013 Germany (M/W/D)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Digital Marketing Specialist - Temporary Position",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Digital Marketing Specialist - Temporary Position",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Corporate Administration Manager - Japan",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Test Driver for Autonomous Vehicles",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "EHS specialist - Safety Officer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "AI Engineering Execution Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "AI Engineering Execution Manager (Temporary Position - Maternity Leave)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Product Execution Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Product Execution Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Product Manager- Autonomous Driving",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Product Strategy Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Execution Program Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Execution Program Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "R&D Lifecycle & Process Management",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Customer Solutions Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Engineering Program Manager (EPM) - REM Map Development",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Platform Software Project Manager (m/w/d)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Technical Program Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Validation Project Manager- Reliability Lab",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Execution Project Manager - Camera Team",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Assistant for Executive VP",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Execution Program Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical PM",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical PM",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical PM",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Program Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Project Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Technical Project Manager- AV",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "AI Algorithm Engineer - Vision Localization Group",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "AI Algorithm Engineer - Vision Localization Group",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Algorithm Data Analyst - Temporary position for 9 months",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Algorithm Developer for Geometric Team",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Algorithm Developer for Objects Modeling",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Algorithm Developer for Radar/Lidar Group",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Algorithm Developer for Radar/Lidar Group",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Algorithm Engineer Senior Technical Expert - Objects Perception",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Algorithm Researcher \u2013 Autonomous Driving (CTO Group)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Algorithm Researcher \u2013 Autonomous Driving (CTO Group)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Deep Learning Algorithm Engineer - REM Semantics",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Deep Learning Researcher",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Experienced Control Algorithms Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Experienced Control Algorithms Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Experienced Deep Learning Algorithm Developer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Experienced Deep Learning Algorithm Developer - Road Team",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Experienced Deep Learning Algorithm Developer \u2013 Object Perception Group",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Experienced Machine Learning Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Outstanding Graduate Algorithm Developer - Vision Localization Group",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Reinforcement Learning Engineer - Whole-Body Control",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Reinforcement Learning Researcher | Learned-Policy Group",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Reinforcement Learning Researcher | Learned-Policy Group",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Reinforcement Learning Researcher | Learned-Policy Group",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior AI Algorithm Engineer - Vision Localization Group",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior AI Researcher - Visual GenAI",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Algorithm Engineer - Model Training & Optimization",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Algorithm Engineer - Objects Perception",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Deep Learning Researcher",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Sensor Calibration Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Sim2Real Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Cyber Security Architect",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Cyber Security Solution Architect",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Cyber Security Solution Architect",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Embedded System Architect",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Embedded System Architect",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Embedded System Architect",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior System Architect",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Solution Architect for Embedded Autonomous Vehicle System",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Solution Architect for Embedded Autonomous Vehicle System",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Experienced Backend Developer for Cloud Infrastructure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Validation and Testing Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "AV Production Analysis",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Data Product Manager - Algorithms Division",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "ASIC Design Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Board Design Engineer for Customer Engineer Team",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Compute HW Platform Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Electrical Engineer - Motor Controller (PCB)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Electrical Validation & Embedded SW Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Experienced DFT Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Experienced DFT Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Experienced Formal Verification Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Experienced Low Level Software Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Experienced Physical Design Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Experienced Physical Design Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Experienced Verification Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Hardware Engineer - Power Distribution Unit",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Hardware Team Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Hardware Testing Engineer - Body & Joints",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "HW Board Design Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "IC Package Layout Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Junior Physical Design Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Mechanical Test Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Physical Design Backend Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Physical Design Expert",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Robot Power & Distribution System Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Semiconductor Quality & Reliability Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Embedded SW and Validation Developer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Hardware Engineer \u2013 Signal Integrity",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior HW Board Design Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Signal Integrity Engineer-AV Hardware",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior System Hardware Architect",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Technical Lead - AV systems (m/w/d)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Thermal-Mechanical Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Thermal-Mechanical Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Thermal-Mechanical Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Verification Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Verification Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Sr. Mechanical Engineer - Humanoid Whole-Body Structure",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "System Integration Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Backend Team Lead - REM Engineering",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "C++ Developer \u2013 Neural Network Integration & Production 3D Sensing Systems",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "C++ Developer \u2013 Neural Network Integration & Production 3D Sensing Systems",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "C++ Software Developer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "C++ Software Engineer - Tools Team",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Camera System Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Embedded C++ Software Developer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Embedded Linux OS Architect",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Embedded Linux OS Architect",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Embedded Linux OS Architect",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Experienced Deep Learning Optimization Engineer- Compilers Team",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Experienced Software Developer \u2013 REM Validation",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Experienced Software Engineer - Data Systems & Tools",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Experienced Software Engineer - Data Systems & Tools",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Experienced Test Automation Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "MCU Testing Engineer (m/w/d)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Production Software Engineer for Algo Objects",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Python Data Solutions Specialist-Temporary Position",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Real-Time Embedded SW Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior C Software Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior C++ Developer \u2013 Neural Network Integration & Production 3D Sensing Systems",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior C++ Developer \u2013 Neural Network Integration & Production 3D Sensing Systems",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Computer Vision Data Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Deep Learning Software Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Embedded Software Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Full Stack Developer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior ML Data Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior ML Data Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Python Developer for Map Management",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Software Engineer - C++ Embedded Systems (Autonomous Driving)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior SW Engineer \u2013 Embedded Linux SDK & Distribution (M/W/D)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Algorithms RT Engineer - Active Sensor Group",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Algorithms RT Engineer - Active Sensor Group",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer (Jetson)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Engineer (Sensor)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Group Manager - OS Integration & Automation",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Group Manager - OS Integration & Automation",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Group Manager - OS Integration & Automation",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Software Team Lead - Data Infrastructure & Algorithm",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Sr. Software Engineer - Robot Compute Platform",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Test Automation Technical Lead",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Validation Analytics Tools Developer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Industrial Design Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "System Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "System Integration Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "System Validation Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Experienced SoC Verification Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Experienced SoC Verification Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Business Development Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Business Development Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "US ADAS/AD Business Development Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "ADAS Strategic Account Manager \u2013 India",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "EU Strategic Account Manager - Temporary",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Strategic Account Manager",
+        "date": "2026-10-22"
+      }
+    ],
+    "Dusty Robotics": [
+      {
+        "title": "Revenue Operations Manager",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Electrical Engineer",
+        "date": "2026-10-22"
+      }
+    ],
+    "Lockheed Martin": [
+      {
+        "title": "\u2b50\ufe0f Software Engineer Intern - Summer 2027",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f College Student - DMSMS Intern",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f College Student - Technical",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Systems Engineer (Modeling & Simulation) - Intern",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f IT Intern",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Systems Engineer - Intern",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Embedded Software Intern",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f College Student - Non-Technical - N3",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f AI/ Supply Chain Intelligence Intern",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f College Student - Technical - N3",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f College Student - Technical - N3",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer Intern - Summer 2027",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Central Procurement Intern",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Manufacturing Engineer - Intern",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f College Student - Intern",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Airframe Design Intern",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Staff Systems Engineer - International Travel Required",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Proposals Intern",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Proposals Intern",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer Intern - Summer 2027",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Radio Frequency (RF) Engineering Intern",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Radio Frequency (RF) Engineering Intern",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Systems Integration/Electrical Test Engineer-INTERN",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer-INTERN",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Electronics Engineer Intern",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Contracts Intern",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Radio Frequency (RF) Engineering Intern",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Electrical Engineering Intern",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Radio Frequency (RF) Engineering Intern",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Project Engineer Intern",
+        "date": "2026-10-22"
+      }
+    ],
+    "Vecna Robotics": [
+      {
+        "title": "Senior Strategic Account Executive",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Robotics Deployment Engineer",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Director of IT Operations and Security",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "Senior Robotics Software Engineer",
+        "date": "2026-10-22"
+      }
+    ],
+    "Realtime Robotics": [],
+    "Neura Robotics": [
+      {
+        "title": "\u2b50\ufe0f Data Operator Intern (Teleops)(human)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Data Operator Intern (Teleops)(human)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Robotic Foundation Model Engineer Intern (Human)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern - COO Office (human)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f CEO Office Intern (human)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Growth Strategy Intern (human)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Growth Strategy Intern (human)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Project-/Product-Management Intern (human)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Purchasing Intern (human)",
+        "date": "2026-10-22"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern Service & Academy - Quality & Process Management (human)",
+        "date": "2026-10-22"
       }
     ]
   }
