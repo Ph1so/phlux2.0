@@ -389,18 +389,22 @@ def get_board_jobs(name: str, urls: str, instructions: str) -> Tuple[List[str], 
 
 
 def scrape_company(company: Company) -> ScrapeResult:
-    """Scrape one company: by board API when its actions name one, else in a browser."""
-    if board_of(company.selector):
-        try:
+    """Scrape one company: by board API when its actions name one, else in a browser.
+
+    Raises:
+        RuntimeError: Carrying the underlying error's type and message. A
+            RetryError holds futures that can't be pickled back from a worker
+            process, which would hide the real error behind a pickling one.
+    """
+    try:
+        if board_of(company.selector):
             titles, ids = get_board_jobs(company.name, company.link, company.selector)
-        except Exception as e:
-            # A RetryError holds futures that can't be pickled back from a worker
-            # process, which would hide the real error; send its message instead.
-            cause = e.last_attempt.exception() if isinstance(e, RetryError) else e
-            raise RuntimeError(f"{type(cause).__name__}: {cause}") from None
-        return ScrapeResult(company.name, titles, company.link, ids)
-    jobs = get_jobs_headless(company.name, company.link, company.selector)
-    return ScrapeResult(company.name, jobs, company.link)
+            return ScrapeResult(company.name, titles, company.link, ids)
+        jobs = get_jobs_headless(company.name, company.link, company.selector)
+        return ScrapeResult(company.name, jobs, company.link)
+    except Exception as e:
+        cause = e.last_attempt.exception() if isinstance(e, RetryError) else e
+        raise RuntimeError(f"{type(cause).__name__}: {cause}") from None
 
 
 def load_company_data(

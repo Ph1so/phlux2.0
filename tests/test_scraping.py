@@ -474,3 +474,14 @@ class TestBoardErrors:
             with pytest.raises(RuntimeError, match="HTTPError: 404 Not Found") as exc:
                 scrape_company(Company("Gone", "https://job-boards.greenhouse.io/gone", "@greenhouse"))
         pickle.dumps(exc.value)
+
+    def test_browser_failure_is_a_picklable_message(self):
+        import pickle
+
+        from selenium.common.exceptions import WebDriverException
+
+        with patch("phlux.scraping.get_driver", side_effect=WebDriverException("chrome crashed")), \
+             patch("phlux.scraping.get_jobs_headless.retry.sleep"):
+            with pytest.raises(RuntimeError, match="WebDriverException: Message: chrome crashed") as exc:
+                scrape_company(Company("Acme", "https://acme.com/jobs", "CSS:h3"))
+        pickle.dumps(exc.value)
