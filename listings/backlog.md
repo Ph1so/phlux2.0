@@ -643,7 +643,7 @@
 [c2]: https://www.deshaw.com/careers/internships
 [c3]: https://www.riotgames.com/en/university-programs
 [c4]: https://careers.rivian.com/careers-home/jobs?sortBy=relevance&page=1&limit=100&categories=Internships%20%26%20Early%20Career
-[c5]: https://job-boards.greenhouse.io/embed/job_board?for=roblox&keyword=intern->https://job-boards.greenhouse.io/embed/job_board?for=roblox&keyword=early%20career
+[c5]: https://job-boards.greenhouse.io/embed/job_board?for=roblox
 [c6]: https://www.skydio.com/careers#job-listing
 [c7]: https://careers.qualcomm.com/careers?location=United%20States&seniority=Intern&domain=qualcomm.com&sort_by=relevance&triggerGoButton=true
 [c8]: https://job-boards.greenhouse.io/scaleai?departments%5B%5D=4044812005
@@ -653,15 +653,15 @@
 [c12]: https://www.agilityrobotics.com/careers
 [c13]: https://job-boards.greenhouse.io/embed/job_board?for=pathrobotics
 [c14]: https://jobs.gem.com/chef-robotics
-[c15]: https://job-boards.greenhouse.io/embed/job_board?for=apptronik->https://job-boards.greenhouse.io/embed/job_board?for=apptronik&page=2
+[c15]: https://job-boards.greenhouse.io/embed/job_board?for=apptronik
 [c16]: https://www.titanrobots.com/careers#footer-sections
 [c17]: https://job-boards.greenhouse.io/maymobility/
 [c18]: https://recruiting.paylocity.com/recruiting/jobs/All/3a4d8744-ab51-41d9-a0cf-43de316c7dca/Beep-Inc
 [c19]: https://jobs.ashbyhq.com/aurora-operations-inc/
 [c20]: https://jobs.lever.co/zoox
 [c21]: https://jobs.ashbyhq.com/serverobotics/
-[c22]: https://boards.greenhouse.io/embed/job_board?for=nuro->https://job-boards.greenhouse.io/embed/job_board?for=nuro&page=2
-[c23]: https://job-boards.greenhouse.io/embed/job_board?for=andurilindustries&keyword=intern->https://job-boards.greenhouse.io/embed/job_board?for=andurilindustries&keyword=co-op
+[c22]: https://boards.greenhouse.io/embed/job_board?for=nuro
+[c23]: https://job-boards.greenhouse.io/embed/job_board?for=andurilindustries
 [c24]: https://ats.rippling.com/forterra/jobs?page=0&searchQuery=&workplaceType=&country=&state=&city=&pageSize=100
 [c25]: https://app.careerpuck.com/job-board/lyft
 [c26]: https://jobs.ashbyhq.com/wayve?locationId=a937431a-b165-4153-8c67-a6808a6eb679
@@ -669,4 +669,4 @@
 [c28]: https://jobs.lever.co/field-ai
 [c29]: https://jobs.ashbyhq.com/humanoid/
 [c30]: https://jobs.ashbyhq.com/worldlabs
-[c31]: https://www.google.com/about/careers/applications/jobs/results?company=DeepMind&page=1->https://www.google.com/about/careers/applications/jobs/results?company=DeepMind&page=2
+[c31]: https://www.google.com/about/careers/applications/jobs/results?company=DeepMind&page=1
