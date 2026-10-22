@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 Phlux Job Listings
-*Showing the 777 most recent of 28,737 roles tracked across 249 companies. See [all listings](listings/README.md) for the full history.*
+*Showing the 775 most recent of 28,748 roles tracked across 249 companies. See [all listings](listings/README.md) for the full history.*
 
 
 <table>
@@ -31,6 +31,27 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"><img src="https://cdn.brandfetch.io/nvidia.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nvidia" height="20" style="vertical-align:middle; margin-right:6px;"> Nvidia</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Systems Software Intern, Aerial PHY- Summer 2027</div></td>
+  <td>2026-10-21</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"><img src="https://cdn.brandfetch.io/nvidia.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nvidia" height="20" style="vertical-align:middle; margin-right:6px;"> Nvidia</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ PhD Research Intern, Robotic Perception and Learning - 2027</div></td>
+  <td>2026-10-21</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"><img src="https://cdn.brandfetch.io/nvidia.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nvidia" height="20" style="vertical-align:middle; margin-right:6px;"> Nvidia</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ PhD Research Intern, AI for Climate and Weather Simulation - 2027</div></td>
+  <td>2026-10-21</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"><img src="https://cdn.brandfetch.io/nvidia.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nvidia" height="20" style="vertical-align:middle; margin-right:6px;"> Nvidia</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027</div></td>
   <td>2026-10-21</td>
 </tr>
   <tr>
@@ -140,6 +161,13 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tesla.com/careers/search/?type=intern&site=US"><img src="https://cdn.brandfetch.io/tesla.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tesla" height="20" style="vertical-align:middle; margin-right:6px;"> Tesla</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Internship, Product Management, Megapack Services (Winter/Spring 2027)</div></td>
+  <td>2026-10-21</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.intuitive.com/en/jobs/?search=&country=United+States&team=Students+%26+University&type=Intern+%28Fixed+Term%29&pagesize=20#results"><img src="https://cdn.brandfetch.io/intuitivesurgical.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Intuitive Surgical" height="20" style="vertical-align:middle; margin-right:6px;"> Intuitive Surgical</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Clinical Scientist Intern</div></td>
@@ -217,6 +245,13 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/aurora-operations-inc/"><img src="https://cdn.brandfetch.io/aurora.tech/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Aurora Innovation" height="20" style="vertical-align:middle; margin-right:6px;"> Aurora Innovation</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Map Operation Specialist</div></td>
+  <td>2026-10-21</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Data Scientist, Fleet Orchestration Algorithms - ON-SITE — FULL-TIMEFOSTER CITY, CA</div></td>
@@ -245,9 +280,30 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Program Manager, Executive Operations & Strategy - HYBRID — FULL-TIMEFOSTER CITY, CA</div></td>
+  <td>2026-10-21</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Team Lead, Vehicle Operations (1st Shift) - ON-SITE — FULL-TIMEPHOENIX, AZ</div></td>
+  <td>2026-10-21</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boards.greenhouse.io/embed/job_board?for=nuro->https://job-boards.greenhouse.io/embed/job_board?for=nuro&page=2"><img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nuro" height="20" style="vertical-align:middle; margin-right:6px;"> Nuro</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Software Engineer, Autonomy Behavior Testing - Mountain View, California (HQ)</div></td>
+  <td>2026-10-21</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boards.greenhouse.io/embed/job_board?for=nuro->https://job-boards.greenhouse.io/embed/job_board?for=nuro&page=2"><img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nuro" height="20" style="vertical-align:middle; margin-right:6px;"> Nuro</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">On-Site Hiring Event: Autonomous Vehicle Operator, San Francisco - California - SF</div></td>
   <td>2026-10-21</td>
 </tr>
   <tr>
@@ -385,6 +441,13 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.bosch.com/en?pages=5&country=us&positionTypes=f524b939-fe55-407b-a0b0-e8f4eec28997%2C8c682ec0-3d28-4e52-b53b-c63d440a32d3%2Cf3b92bc1-600d-4d33-9115-5aa27785f52b%2Ce4a3c0db-920d-4356-8ce0-c0b44a54e497#"><img src="https://cdn.brandfetch.io/bosch.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bosch" height="20" style="vertical-align:middle; margin-right:6px;"> Bosch</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Grade 1 Group Leader - 2nd Shift</div></td>
+  <td>2026-10-21</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/sunday/"><img src="https://cdn.brandfetch.io/sunday.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sunday" height="20" style="vertical-align:middle; margin-right:6px;"> Sunday</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Illustrator, Product (Contract)</div></td>
@@ -430,6 +493,13 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/MaticRobots/"><img src="https://cdn.brandfetch.io/maticrobots.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Matic Robots" height="20" style="vertical-align:middle; margin-right:6px;"> Matic Robots</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Systems Engineer (Firmware)</div></td>
+  <td>2026-10-21</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/diligentrobotics"><img src="https://cdn.brandfetch.io/diligentrobots.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Diligent Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Diligent Robotics</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Hardware R&D Tech Lead</div></td>
   <td>2026-10-21</td>
 </tr>
   <tr>
@@ -728,9 +798,30 @@ Easily track jobs across top tech companies.
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://ats.rippling.com/overland-ai/jobs?page=0&pageSize=100"><img src="https://cdn.brandfetch.io/overland.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Overland AI" height="20" style="vertical-align:middle; margin-right:6px;"> Overland AI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Software Engineer - Planning</div></td>
+  <td>2026-10-21</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://plusonerobotics.bamboohr.com/careers"><img src="https://cdn.brandfetch.io/plusonerobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Plus One Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Plus One Robotics</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sr. QA Engineer</div></td>
+  <td>2026-10-21</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://recruiting.paylocity.com/recruiting/jobs/All/3cda40d5-c81c-47e7-943a-37b673cc4d1b/Ghost-Robotics-Corporation"><img src="https://cdn.brandfetch.io/ghostrobotics.io/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Ghost Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Ghost Robotics</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Engineering Program Manager</div></td>
+  <td>2026-10-21</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://recruiting.paylocity.com/recruiting/jobs/All/3cda40d5-c81c-47e7-943a-37b673cc4d1b/Ghost-Robotics-Corporation"><img src="https://cdn.brandfetch.io/ghostrobotics.io/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Ghost Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Ghost Robotics</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">PROGRAM MANAGER</div></td>
   <td>2026-10-21</td>
 </tr>
   <tr>
@@ -5351,111 +5442,6 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic"><img src="https://cdn.brandfetch.io/symbotic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Symbotic" height="20" style="vertical-align:middle; margin-right:6px;"> Symbotic</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">General Manager</div></td>
-  <td>2026-10-15</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic"><img src="https://cdn.brandfetch.io/symbotic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Symbotic" height="20" style="vertical-align:middle; margin-right:6px;"> Symbotic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Commissioning Services Specialist</div></td>
-  <td>2026-10-15</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic"><img src="https://cdn.brandfetch.io/symbotic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Symbotic" height="20" style="vertical-align:middle; margin-right:6px;"> Symbotic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Maintenance Supervisor</div></td>
-  <td>2026-10-15</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic"><img src="https://cdn.brandfetch.io/symbotic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Symbotic" height="20" style="vertical-align:middle; margin-right:6px;"> Symbotic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Co-op- Robot Manipulation</div></td>
-  <td>2026-10-15</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic"><img src="https://cdn.brandfetch.io/symbotic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Symbotic" height="20" style="vertical-align:middle; margin-right:6px;"> Symbotic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Software Engineer, Industrial Controls Systems - Tooling</div></td>
-  <td>2026-10-15</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic"><img src="https://cdn.brandfetch.io/symbotic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Symbotic" height="20" style="vertical-align:middle; margin-right:6px;"> Symbotic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Regional Controller, Canada</div></td>
-  <td>2026-10-15</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic"><img src="https://cdn.brandfetch.io/symbotic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Symbotic" height="20" style="vertical-align:middle; margin-right:6px;"> Symbotic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">System Support Engineer</div></td>
-  <td>2026-10-15</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://proceptbiorobotics.wd108.myworkdayjobs.com/PROCEPT?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/procept-biorobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="PROCEPT BioRobotics" height="20" style="vertical-align:middle; margin-right:6px;"> PROCEPT BioRobotics</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Electrical Engineer</div></td>
-  <td>2026-10-15</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://proceptbiorobotics.wd108.myworkdayjobs.com/PROCEPT?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/procept-biorobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="PROCEPT BioRobotics" height="20" style="vertical-align:middle; margin-right:6px;"> PROCEPT BioRobotics</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Post Market Surveillance Specialist</div></td>
-  <td>2026-10-15</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://proceptbiorobotics.wd108.myworkdayjobs.com/PROCEPT?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/procept-biorobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="PROCEPT BioRobotics" height="20" style="vertical-align:middle; margin-right:6px;"> PROCEPT BioRobotics</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Electrical Engineer</div></td>
-  <td>2026-10-15</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Segment Sales Manager - Defense, Nuclear & Specialty Solutions</div></td>
-  <td>2026-10-15</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Product Group Manager - Variable Speed Technology</div></td>
-  <td>2026-10-15</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Product Manager - Variable Speed Solutions</div></td>
-  <td>2026-10-15</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">ELDS Warehouse Internal Logistics Operator 1st shift</div></td>
-  <td>2026-10-15</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">ELDS Warehouse Internal Logistics Operator 1st shift</div></td>
-  <td>2026-10-15</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">ELDS MV SWGR Production Operator 1st shift</div></td>
   <td>2026-10-15</td>
 </tr>
 
