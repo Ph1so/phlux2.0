@@ -1104,6 +1104,11 @@
         "title": "\u2b50\ufe0f Associate Delivery Consultant Intern, AWS Professional Services",
         "date": "2026-10-22",
         "id": "amazon:10585774"
+      },
+      {
+        "title": "\u2b50\ufe0f System Development Engineer Intern/Co-op, ROBOTICS - 2027",
+        "date": "2026-10-22",
+        "id": "amazon:10587087"
       }
     ],
     "Meta": [
@@ -1570,6 +1575,11 @@
         "title": "\u2b50\ufe0f Research Scientist Intern, FAIR Chemistry",
         "date": "2026-10-22",
         "id": "meta:2162858564439476"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Video Recommendations (PhD)",
+        "date": "2026-10-22",
+        "id": "meta:932919123033502"
       }
     ],
     "Apple": [
@@ -2046,6 +2056,11 @@
         "title": "\u2b50\ufe0f Mechanical Engineering, Intern - Labs (Summer 2027)",
         "date": "2026-10-22",
         "id": "greenhouse:8313401"
+      },
+      {
+        "title": "\u2b50\ufe0f Operations Research Intern (PhD), Summer 2027",
+        "date": "2026-10-22",
+        "id": "greenhouse:8273965"
       }
     ],
     "Optiver": [
@@ -17546,6 +17561,11 @@
         "title": "Global Trade Manager",
         "date": "2026-10-19",
         "id": "rippling:af36f9d8-148a-45fe-8827-281a671a8297"
+      },
+      {
+        "title": "Hardware Integration Lead",
+        "date": "2026-10-22",
+        "id": "rippling:2c4f185c-042d-41eb-8399-71494dbf42a3"
       }
     ],
     "Pickle Robot": [
@@ -21107,6 +21127,11 @@
         "title": "Bedrock Training & Certification Lead",
         "date": "2026-10-22",
         "id": "ashby:a5d6a497-6439-4c15-a28b-93530c9443f0"
+      },
+      {
+        "title": "Technical Program Manager, Data Products",
+        "date": "2026-10-22",
+        "id": "ashby:34fabe31-bb3d-4ce0-98b0-a8301eefc8b3"
       }
     ],
     "Applied Intuition": [
@@ -23043,6 +23068,11 @@
         "title": "Autonomy Test Engineer",
         "date": "2026-10-21",
         "id": "ashby:9ed264dc-6e49-4dba-b851-7c198b4f7916"
+      },
+      {
+        "title": "Global People Compliance & ER Partner",
+        "date": "2026-10-22",
+        "id": "ashby:9625dc95-7e97-4706-841b-f25c50ad8aad"
       }
     ],
     "FieldAI": [
@@ -25663,6 +25693,11 @@
         "title": "Research Engineer, Agentic Security for Gemini, DeepMind",
         "date": "N/A",
         "id": "google:124995998941356742"
+      },
+      {
+        "title": "Research Scientist, SAMBA, DeepMind",
+        "date": "2026-10-22",
+        "id": "google:106790067170616006"
       }
     ],
     "Wing": [
@@ -30981,6 +31016,16 @@
         "title": "Senior Software Engineer - Planning",
         "date": "2026-10-21",
         "id": "rippling:8203258c-99d7-4f06-8332-cc09d3176ef2"
+      },
+      {
+        "title": "Software Safety Engineer",
+        "date": "2026-10-22",
+        "id": "rippling:5bdb8197-65ff-4fdd-802d-144f8bf5425d"
+      },
+      {
+        "title": "System Safety Engineer",
+        "date": "2026-10-22",
+        "id": "rippling:13900e35-58c8-4631-af72-e4f0e8595de2"
       }
     ],
     "Berkshire Grey": [
@@ -31950,6 +31995,11 @@
         "title": "Software Integration Engineer, Validation",
         "date": "2026-10-21",
         "id": "lever:b88a3dc5-695e-4fcb-9021-6a76bdb009c6"
+      },
+      {
+        "title": "Fleet Manager",
+        "date": "2026-10-22",
+        "id": "lever:a4f70765-f896-4698-a519-5147c819baf1"
       }
     ],
     "Symbotic": [
@@ -41166,6 +41216,26 @@
         "title": "Program Manager, Partner Content & Storytelling",
         "date": "2026-10-22",
         "id": "ashby:609cb338-a168-42c1-8e77-5837826136b1"
+      },
+      {
+        "title": "Research Communications, Models & Frontier AI",
+        "date": "2026-10-22",
+        "id": "ashby:cec9ba9a-0b2d-4e90-8482-01ccc72234fb"
+      },
+      {
+        "title": "Principal Software Engineer, ChatGPT Education and Learning",
+        "date": "2026-10-22",
+        "id": "ashby:40de0618-fb19-443d-85fd-ba690d3721a8"
+      },
+      {
+        "title": "Events Manager, Business",
+        "date": "2026-10-22",
+        "id": "ashby:744844e1-f426-463c-b615-91823f0cd867"
+      },
+      {
+        "title": "Principal Software Engineer, Productivity",
+        "date": "2026-10-22",
+        "id": "ashby:dd9c7c04-7181-4c65-9c6a-0e04313e3707"
       }
     ],
     "John Deere": [
@@ -42535,6 +42605,26 @@
         "title": "\u2b50\ufe0f Mechanical Design Intern",
         "date": "2026-10-22",
         "id": "eightfold:996477505085"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer (Ground Systems) - Intern",
+        "date": "2026-10-22",
+        "id": "eightfold:996476742361"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer (Ground Systems) - Intern",
+        "date": "2026-10-22",
+        "id": "eightfold:996476741937"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer - Intern",
+        "date": "2026-10-22",
+        "id": "eightfold:996477393508"
+      },
+      {
+        "title": "\u2b50\ufe0f Global Supply Chain - Intern",
+        "date": "2026-10-22",
+        "id": "eightfold:996477504835"
       }
     ],
     "Vecna Robotics": [
