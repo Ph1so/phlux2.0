@@ -673,6 +673,21 @@
         "title": "\u2b50\ufe0f Construction Project Management INTERN (Internship Opportunities for US - Central region)",
         "date": "2026-10-23",
         "id": "eightfold:1970393556991411"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineering Intern",
+        "date": "2026-10-23",
+        "id": "eightfold:1970393557044771"
+      },
+      {
+        "title": "\u2b50\ufe0f Product Management Intern",
+        "date": "2026-10-23",
+        "id": "eightfold:1970393557044772"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Intern - Algorithms Group: Theory",
+        "date": "2026-10-23",
+        "id": "eightfold:1970393557045963"
       }
     ],
     "Amazon": [
@@ -1114,6 +1129,11 @@
         "title": "\u2b50\ufe0f System Development Engineer Intern/Co-op, ROBOTICS - 2027",
         "date": "2026-10-22",
         "id": "amazon:10587087"
+      },
+      {
+        "title": "Amazon Finance Rotational Program (AFRP) - Business Unit Finance, Early Career - 2027",
+        "date": "2026-10-23",
+        "id": "amazon:10587748"
       }
     ],
     "Meta": [
@@ -1585,6 +1605,16 @@
         "title": "\u2b50\ufe0f Research Scientist Intern, Video Recommendations (PhD)",
         "date": "2026-10-22",
         "id": "meta:932919123033502"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Computational Photography (PhD)",
+        "date": "2026-10-23",
+        "id": "meta:1943752136600713"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, AI Core Machine Learning (PhD)",
+        "date": "2026-10-23",
+        "id": "meta:1648122343381284"
       }
     ],
     "Apple": [
@@ -3096,6 +3126,11 @@
         "title": "\u2b50\ufe0f Business and Administrative Intern - Strategy Analyst",
         "date": "2026-10-22",
         "id": "jibe:34575"
+      },
+      {
+        "title": "\u2b50\ufe0f Technical Program Management Intern - Field Service Programs & Applied Intelligence (Spring 2027 Co-op)",
+        "date": "2026-10-23",
+        "id": "jibe:34674"
       }
     ],
     "Roblox": [
@@ -7766,6 +7801,16 @@
         "title": "Sales Development Representative",
         "date": "2026-10-21",
         "id": "greenhouse:8905513002"
+      },
+      {
+        "title": "\u2b50\ufe0f Manufacturing Design Engineering Internship",
+        "date": "2026-10-23",
+        "id": "greenhouse:8911570002"
+      },
+      {
+        "title": "\u2b50\ufe0f Manufacturing Design Engineering Internship - Spring 2027",
+        "date": "2026-10-23",
+        "id": "greenhouse:8911569002"
       }
     ],
     "Figure AI": [
@@ -8542,6 +8587,11 @@
         "title": "Strategy Analyst",
         "date": "N/A",
         "id": "greenhouse:7992920003"
+      },
+      {
+        "title": "Principal Business Intelligence Lead, System Performance",
+        "date": "2026-10-23",
+        "id": "greenhouse:7799671003"
       }
     ],
     "Apptronik": [
@@ -8857,7 +8907,8 @@
       },
       {
         "title": "Product Quality Manager",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "greenhouse:5791008004"
       },
       {
         "title": "Firmware Engineer - Actuation",
@@ -8956,6 +9007,11 @@
         "title": "Staff Simulation Engineer - Core Simulation Platform",
         "date": "2026-10-21",
         "id": "greenhouse:6230951004"
+      },
+      {
+        "title": "R&D Technician",
+        "date": "2026-10-23",
+        "id": "greenhouse:6232674004"
       }
     ],
     "Titan Robotics": [
@@ -10986,6 +11042,11 @@
         "title": "Map Operation Specialist",
         "date": "2026-10-21",
         "id": "ashby:997b318a-01b7-4e7e-a0f8-93ffc583448a"
+      },
+      {
+        "title": "Staff SiPho & III-V Test Engineer",
+        "date": "2026-10-23",
+        "id": "ashby:f87718f2-7363-46f2-bf15-f461eb90be5e"
       }
     ],
     "Zoox": [
@@ -17612,6 +17673,11 @@
         "title": "Hardware Integration Lead",
         "date": "2026-10-22",
         "id": "rippling:2c4f185c-042d-41eb-8399-71494dbf42a3"
+      },
+      {
+        "title": "Embedded Sustainment Firmware engineer",
+        "date": "2026-10-23",
+        "id": "rippling:fabf3835-1903-44da-a3b0-41c18a9c1eaf"
       }
     ],
     "Pickle Robot": [
@@ -25765,6 +25831,11 @@
         "title": "Research Scientist, Frontier Health, DeepMind",
         "date": "2026-10-23",
         "id": "google:136319238640935622"
+      },
+      {
+        "title": "GenAI Technical Engagement Strategy Lead, DeepMind",
+        "date": "2026-10-23",
+        "id": "google:73758057812632262"
       }
     ],
     "Wing": [
@@ -26576,6 +26647,11 @@
         "title": "R&D Test Specialist",
         "date": "2026-10-20",
         "id": "greenhouse:4178939009"
+      },
+      {
+        "title": "Quality Inspector",
+        "date": "2026-10-23",
+        "id": "greenhouse:4465250009"
       }
     ],
     "Outrider": [
@@ -26905,6 +26981,11 @@
         "title": "Assembly Technicians",
         "date": "2026-10-20",
         "id": "lever:6211b9f4-a83d-4ec2-88a2-e255be6c852f"
+      },
+      {
+        "title": "Chief of Staff",
+        "date": "2026-10-23",
+        "id": "lever:c6e039e2-c507-4109-9610-db837d31a6a6"
       }
     ],
     "Formic": [
@@ -27633,6 +27714,11 @@
         "title": "Senior / Staff Technical Program Manager, Platform Software",
         "date": "2026-10-22",
         "id": "lever:c3aba94e-3718-42e3-a4d5-a17a062929ab"
+      },
+      {
+        "title": "Systems Engineer - Behavior Verification",
+        "date": "2026-10-23",
+        "id": "lever:5964c6a7-8232-4ee5-b20d-3309ccd67d6f"
       }
     ],
     "Stack AV": [
@@ -29269,6 +29355,21 @@
         "title": "Global Security Operations Center (GSOC) Operator",
         "date": "2026-10-22",
         "id": "ashby:404e7bcd-e794-4409-934f-2d8190ed5371"
+      },
+      {
+        "title": "Quality Inspector 2nd Shift",
+        "date": "2026-10-23",
+        "id": "ashby:8bf95773-58e3-4000-8c25-2be9d7433a30"
+      },
+      {
+        "title": "Recruiter - Franklin, LA",
+        "date": "2026-10-23",
+        "id": "ashby:f0d7608c-c013-46cf-ae08-0b0763dcc0be"
+      },
+      {
+        "title": "Recruiter - Brownsville, TX",
+        "date": "2026-10-23",
+        "id": "ashby:d8aa43dd-a0bb-4651-a5af-d1b0ffe84f50"
       }
     ],
     "Built Robotics": [
@@ -36528,6 +36629,11 @@
         "title": "Sourcer, AI Research & Engineering",
         "date": "2026-10-22",
         "id": "ashby:7c821c7f-3f0d-4afd-8eee-6c47430c9d8d"
+      },
+      {
+        "title": "Head of Supply Chain (Robot Production)",
+        "date": "2026-10-23",
+        "id": "ashby:3d9467fe-0085-44f8-97d7-09e918d1ace3"
       }
     ],
     "Mind Robotics": [
@@ -41324,6 +41430,21 @@
         "title": "Global Leaves and Accommodations Analyst",
         "date": "2026-10-23",
         "id": "ashby:78981a68-a314-4bf7-a8fa-013a29e85906"
+      },
+      {
+        "title": "Full Stack Software Engineer, Monetization Platform",
+        "date": "2026-10-23",
+        "id": "ashby:191e42f8-cd62-4082-8f72-505c26505e67"
+      },
+      {
+        "title": "IT Systems Engineer",
+        "date": "2026-10-23",
+        "id": "ashby:b73e46a6-881a-4413-835a-94b9d5f35d2f"
+      },
+      {
+        "title": "SDR Manager",
+        "date": "2026-10-23",
+        "id": "ashby:d02ce96c-2a8b-4871-860d-d59a19a2369f"
       }
     ],
     "John Deere": [
@@ -42713,6 +42834,16 @@
         "title": "\u2b50\ufe0f Global Supply Chain - Intern",
         "date": "2026-10-22",
         "id": "eightfold:996477504835"
+      },
+      {
+        "title": "\u2b50\ufe0f Electrical Engineer Intern",
+        "date": "2026-10-23",
+        "id": "eightfold:996477518099"
+      },
+      {
+        "title": "\u2b50\ufe0f Electrical Engineer Intern",
+        "date": "2026-10-23",
+        "id": "eightfold:996477517944"
       }
     ],
     "Vecna Robotics": [
