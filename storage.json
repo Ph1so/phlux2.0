@@ -1134,6 +1134,16 @@
         "title": "Amazon Finance Rotational Program (AFRP) - Business Unit Finance, Early Career - 2027",
         "date": "2026-10-23",
         "id": "amazon:10587748"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Amazon Air (Network Control Center) Supply Chain Manager Intern",
+        "date": "2026-10-23",
+        "id": "amazon:10587855"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Amazon Air Supply Chain Manager Intern",
+        "date": "2026-10-23",
+        "id": "amazon:10587854"
       }
     ],
     "Meta": [
@@ -1615,6 +1625,21 @@
         "title": "\u2b50\ufe0f Research Scientist Intern, AI Core Machine Learning (PhD)",
         "date": "2026-10-23",
         "id": "meta:1648122343381284"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Meta Recommendation Systems - Core ML (PhD)",
+        "date": "2026-10-23",
+        "id": "meta:1023154190171838"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Wearable Sensing & Human Motion Analysis",
+        "date": "2026-10-23",
+        "id": "meta:1137225375529389"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Meta Recommendation Systems (PhD)",
+        "date": "2026-10-23",
+        "id": "meta:1416549056773684"
       }
     ],
     "Apple": [
@@ -3795,6 +3820,11 @@
         "title": "\u2b50\ufe0f Frontend Software Engineer Intern - Summer 2027",
         "date": "2026-10-22",
         "id": "ashby:89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd"
+      },
+      {
+        "title": "\u2b50\ufe0f Embedded Software Engineer Intern - Winter 2027",
+        "date": "2026-10-23",
+        "id": "ashby:d79ccbaa-2901-4303-bd90-675db7802366"
       }
     ],
     "Relativity": [
@@ -7089,7 +7119,8 @@
       },
       {
         "title": "Logistics Specialist",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "greenhouse:6230969004"
       },
       {
         "title": "Inventory Controller",
@@ -17678,6 +17709,11 @@
         "title": "Embedded Sustainment Firmware engineer",
         "date": "2026-10-23",
         "id": "rippling:fabf3835-1903-44da-a3b0-41c18a9c1eaf"
+      },
+      {
+        "title": "Senior Mechanical Engineer",
+        "date": "2026-10-23",
+        "id": "rippling:626b9679-0891-4b56-9aa8-ee4b61d41ee5"
       }
     ],
     "Pickle Robot": [
@@ -17975,6 +18011,11 @@
         "title": "Senior Electrical Engineer",
         "date": "2026-10-22",
         "id": "ashby:23de4e35-fc98-4593-883d-e31da8e1929b"
+      },
+      {
+        "title": "\u2b50\ufe0f AI Engineer Intern - Fury Team (Summer 2027)",
+        "date": "2026-10-23",
+        "id": "ashby:3b639e39-abd7-4a0c-9bea-e1cd0a72db99"
       }
     ],
     "AeroVect": [
@@ -19082,6 +19123,11 @@
         "title": "Senior Electrical Engineer II, Design Assurance",
         "date": "2026-10-22",
         "id": "greenhouse:5272771007"
+      },
+      {
+        "title": "Mechanical Engineer",
+        "date": "2026-10-23",
+        "id": "greenhouse:5274007007"
       }
     ],
     "Lyft": [
@@ -20152,6 +20198,11 @@
         "title": "\u2b50\ufe0f Summer 2027 - Software Engineer Intern",
         "date": "N/A",
         "id": "lever:8c850c75-081d-4d09-bebf-096379a93010"
+      },
+      {
+        "title": "\u2b50\ufe0f June 2027 Co-op - Reliability Engineering #5953",
+        "date": "2026-10-23",
+        "id": "lever:bef440ce-0365-4de7-9b1e-b1288cdaf7f3"
       }
     ],
     "Swarm Aero": [
@@ -20499,6 +20550,11 @@
         "title": "\u2b50\ufe0f 2027 Summer Intern, PhD, Research, RSI for Autonomous Driving",
         "date": "2026-10-22",
         "id": "greenhouse:8306779"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency",
+        "date": "2026-10-23",
+        "id": "greenhouse:8287385"
       }
     ],
     "Wayve": [
@@ -21244,6 +21300,11 @@
         "title": "Technical Program Manager, Data Products",
         "date": "2026-10-22",
         "id": "ashby:34fabe31-bb3d-4ce0-98b0-a8301eefc8b3"
+      },
+      {
+        "title": "Technical Program Manager, Safety",
+        "date": "2026-10-23",
+        "id": "ashby:e818c514-58d0-4e67-8e6b-a4c6e062f201"
       }
     ],
     "Applied Intuition": [
@@ -23190,6 +23251,11 @@
         "title": "System Validation Engineer - Autonomous Driving",
         "date": "2026-10-23",
         "id": "ashby:83e5108e-049d-4c3d-81fa-a1e67cb475d0"
+      },
+      {
+        "title": "Sr. People Operations Generalist",
+        "date": "2026-10-23",
+        "id": "ashby:ee7f5fc4-db40-4389-8a99-b0f8cee76812"
       }
     ],
     "FieldAI": [
@@ -26153,6 +26219,11 @@
         "title": "Environment Specialist",
         "date": "2026-10-19",
         "id": "ashby:daa49953-755a-40dc-9959-7a2feff7f3bb"
+      },
+      {
+        "title": "Lead Security Engineer",
+        "date": "2026-10-23",
+        "id": "ashby:b17fe406-ef13-4eb2-9ebc-e90979321c4e"
       }
     ],
     "The Bot Company": [
@@ -28073,6 +28144,11 @@
         "title": "Software Engineer 2",
         "date": "2026-10-22",
         "id": "greenhouse:8783949002"
+      },
+      {
+        "title": "Safety Driver Trainer/Auditor 2",
+        "date": "2026-10-23",
+        "id": "greenhouse:8899588002"
       }
     ],
     "Saronic": [
@@ -41445,6 +41521,21 @@
         "title": "SDR Manager",
         "date": "2026-10-23",
         "id": "ashby:d02ce96c-2a8b-4871-860d-d59a19a2369f"
+      },
+      {
+        "title": "Engineering Technician, Actuators",
+        "date": "2026-10-23",
+        "id": "ashby:2986efa0-6d1c-4a1f-a629-13ad86559e24"
+      },
+      {
+        "title": "Creative Partnerships, Onboarding and Enablement Manager",
+        "date": "2026-10-23",
+        "id": "ashby:20b2d81c-943b-4be7-a304-39c29bf33923"
+      },
+      {
+        "title": "Software Engineer",
+        "date": "2026-10-23",
+        "id": "ashby:d95a5b8b-35fb-4ae2-9f6c-594ed24e49f7"
       }
     ],
     "John Deere": [
