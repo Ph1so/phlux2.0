@@ -1640,6 +1640,16 @@
         "title": "\u2b50\ufe0f Research Scientist Intern, Meta Recommendation Systems (PhD)",
         "date": "2026-10-23",
         "id": "meta:1416549056773684"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Policy Learning for Robotics (PhD)",
+        "date": "2026-10-23",
+        "id": "meta:2554989011673624"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Dexterous Manipulation and Contact-Rich Control (PhD)",
+        "date": "2026-10-23",
+        "id": "meta:2053489871986285"
       }
     ],
     "Apple": [
@@ -7903,6 +7913,11 @@
         "title": "\u2b50\ufe0f Embedded Software Engineering Intern [Winter 2027]",
         "date": "2026-10-16",
         "id": "greenhouse:4722086006"
+      },
+      {
+        "title": "\u2b50\ufe0f Developer Productivity Intern [Winter 2027]",
+        "date": "2026-10-23",
+        "id": "greenhouse:4724521006"
       }
     ],
     "1x": [
@@ -11078,6 +11093,11 @@
         "title": "Staff SiPho & III-V Test Engineer",
         "date": "2026-10-23",
         "id": "ashby:f87718f2-7363-46f2-bf15-f461eb90be5e"
+      },
+      {
+        "title": "Principal Executive Recruiter",
+        "date": "2026-10-23",
+        "id": "ashby:2d97306a-e1dc-4894-bb03-890e73c84685"
       }
     ],
     "Zoox": [
@@ -13595,6 +13615,11 @@
         "title": "Senior Radar Engineer",
         "date": "2026-10-22",
         "id": "lever:09924dfa-16b4-415a-828e-4ae7d903ecc2"
+      },
+      {
+        "title": "Systems Test Engineer",
+        "date": "2026-10-23",
+        "id": "lever:cc60a930-5343-4e56-8e13-b7bce71e9945"
       }
     ],
     "Pony.ai": [
@@ -17714,6 +17739,21 @@
         "title": "Senior Mechanical Engineer",
         "date": "2026-10-23",
         "id": "rippling:626b9679-0891-4b56-9aa8-ee4b61d41ee5"
+      },
+      {
+        "title": "Lead Software Test Engineer, Safety Critical Embedded Systems",
+        "date": "2026-10-23",
+        "id": "rippling:4ee38760-bd7c-4574-8a3e-cf8a5affc35b"
+      },
+      {
+        "title": "Software Engineer, Safety Critical Embedded Systems",
+        "date": "2026-10-23",
+        "id": "rippling:573b0e31-11ba-4317-b080-7de899974d2a"
+      },
+      {
+        "title": "Software Systems Engineer, Safety Critical Embedded Systems",
+        "date": "2026-10-23",
+        "id": "rippling:9f3ad57e-f432-40ee-99a8-191fb6e73fae"
       }
     ],
     "Pickle Robot": [
@@ -25902,6 +25942,16 @@
         "title": "GenAI Technical Engagement Strategy Lead, DeepMind",
         "date": "2026-10-23",
         "id": "google:73758057812632262"
+      },
+      {
+        "title": "Research Scientist, Multimodal Alignment, Safety and Fairness, DeepMind",
+        "date": "2026-10-23",
+        "id": "google:102723867012670150"
+      },
+      {
+        "title": "Technical Program Manager, Biosecurity, DeepMind",
+        "date": "2026-10-23",
+        "id": "google:97049287501718214"
       }
     ],
     "Wing": [
@@ -29446,6 +29496,11 @@
         "title": "Recruiter - Brownsville, TX",
         "date": "2026-10-23",
         "id": "ashby:d8aa43dd-a0bb-4651-a5af-d1b0ffe84f50"
+      },
+      {
+        "title": "People Operations Coordinator",
+        "date": "2026-10-23",
+        "id": "ashby:3be0bf6e-4c76-4168-b767-cd88836f0fd4"
       }
     ],
     "Built Robotics": [
@@ -31016,6 +31071,11 @@
         "title": "Automation Engineer, Safety",
         "date": "2026-10-22",
         "id": "rippling:5c7391a4-70d5-4086-a831-84c9f6152360"
+      },
+      {
+        "title": "Senior Systems Integration Engineer",
+        "date": "2026-10-23",
+        "id": "rippling:ec319155-eb27-4276-a6e0-6159c5c9dd24"
       }
     ],
     "Overland AI": [
@@ -35152,6 +35212,16 @@
         "title": "V&V Systems Lead",
         "date": "N/A",
         "id": "greenhouse:4711302006"
+      },
+      {
+        "title": "Sr. Manager, Market Operations",
+        "date": "2026-10-23",
+        "id": "greenhouse:4723195006"
+      },
+      {
+        "title": "Sr. Manager, Market Operations",
+        "date": "2026-10-23",
+        "id": "greenhouse:4722733006"
       }
     ],
     "Exotec": [
@@ -41536,6 +41606,16 @@
         "title": "Software Engineer",
         "date": "2026-10-23",
         "id": "ashby:d95a5b8b-35fb-4ae2-9f6c-594ed24e49f7"
+      },
+      {
+        "title": "Strategic Finance Generalist",
+        "date": "2026-10-23",
+        "id": "ashby:f93ed20a-4a1c-43b4-895f-0830cdac6737"
+      },
+      {
+        "title": "Senior Manager, Supplier MDM Operations",
+        "date": "2026-10-23",
+        "id": "ashby:395e9fe2-4d78-42dd-b3f7-603884915a59"
       }
     ],
     "John Deere": [
