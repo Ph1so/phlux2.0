@@ -7575,6 +7575,11 @@
         "title": "Senior Infrastructure Administrator",
         "date": "2026-10-19",
         "id": "teamio:2001488134"
+      },
+      {
+        "title": "DevOps Manager",
+        "date": "2026-10-25",
+        "id": "teamio:2001331680"
       }
     ],
     "Ambi Robotics": [
@@ -26299,6 +26304,11 @@
         "title": "Lead Security Engineer",
         "date": "2026-10-23",
         "id": "ashby:b17fe406-ef13-4eb2-9ebc-e90979321c4e"
+      },
+      {
+        "title": "ML Engineer, Platform",
+        "date": "2026-10-25",
+        "id": "ashby:14586c10-d913-43c5-8f7c-c77b5c438e4c"
       }
     ],
     "The Bot Company": [
@@ -42654,6 +42664,36 @@
         "title": "Strategic Account Manager",
         "date": "2026-10-22",
         "id": "lever:6a585853-ec67-49fb-af6d-68adc60b5977"
+      },
+      {
+        "title": "Deep Learning Algorithm Developer",
+        "date": "2026-10-25",
+        "id": "lever:c359a528-8058-4393-818b-52e162418a58"
+      },
+      {
+        "title": "Experienced Deep Learning Algorithm Developer - 3D Perception Team",
+        "date": "2026-10-25",
+        "id": "lever:8b04e895-56c8-453d-a810-7311ed7f823f"
+      },
+      {
+        "title": "Senior Data & ML Engineer - 3D Perception Team",
+        "date": "2026-10-25",
+        "id": "lever:0d17f0b5-29db-4e7e-8688-08f69d91ad0f"
+      },
+      {
+        "title": "Senior Release Manager",
+        "date": "2026-10-25",
+        "id": "lever:0f7933a9-6b28-44e4-8398-a443e0ec0eb2"
+      },
+      {
+        "title": "Technical Product Manager \u2014 Cloud & Services Temporary Position",
+        "date": "2026-10-25",
+        "id": "lever:303d899e-2b03-41f7-97d2-824da4e51190"
+      },
+      {
+        "title": "Visual GenAI Research Expert",
+        "date": "2026-10-25",
+        "id": "lever:5f2f6179-1784-48cc-bd30-4571ea29aba9"
       }
     ],
     "Dusty Robotics": [
@@ -43075,6 +43115,21 @@
         "title": "\u2b50\ufe0f Electrical Engineer Intern",
         "date": "2026-10-23",
         "id": "eightfold:996477517944"
+      },
+      {
+        "title": "\u2b50\ufe0f Embedded Software Engineer Intern",
+        "date": "2026-10-25",
+        "id": "eightfold:996477470939"
+      },
+      {
+        "title": "\u2b50\ufe0f Embedded Software Engineer Intern",
+        "date": "2026-10-25",
+        "id": "eightfold:996477470450"
+      },
+      {
+        "title": "\u2b50\ufe0f Embedded Software Engineer Intern",
+        "date": "2026-10-25",
+        "id": "eightfold:996477474678"
       }
     ],
     "Vecna Robotics": [
