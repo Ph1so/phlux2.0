@@ -295,6 +295,11 @@
         "title": "\u2b50\ufe0f PhD Research Intern, Generative AI - 2026",
         "date": "2026-10-22",
         "id": "workday:JR2016035"
+      },
+      {
+        "title": "\u2b50\ufe0f Go-to-Market Strategy Intern, NPN AI Consulting - Summer 2027",
+        "date": "2026-10-26",
+        "id": "workday:JR2028642"
       }
     ],
     "Google": [
@@ -688,6 +693,11 @@
         "title": "\u2b50\ufe0f Research Intern - Algorithms Group: Theory",
         "date": "2026-10-23",
         "id": "eightfold:1970393557045963"
+      },
+      {
+        "title": "\u2b50\ufe0f Business Program Management INTERN (CO+I Exec)",
+        "date": "2026-10-26",
+        "id": "eightfold:1970393557047466"
       }
     ],
     "Amazon": [
@@ -1144,6 +1154,11 @@
         "title": "\u2b50\ufe0f 2027 Amazon Air Supply Chain Manager Intern",
         "date": "2026-10-23",
         "id": "amazon:10587854"
+      },
+      {
+        "title": "\u2b50\ufe0f Tech Ops Engineer Intern, 2027 Tech Ops Intern",
+        "date": "2026-10-26",
+        "id": "amazon:10588969"
       }
     ],
     "Meta": [
@@ -1675,6 +1690,41 @@
         "title": "\u2b50\ufe0f Research Intern, Embedded AI on Wearables (PhD)",
         "date": "2026-10-26",
         "id": "meta:4070678619908522"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Audio AI (PhD)",
+        "date": "2026-10-26",
+        "id": "meta:1160814043168431"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Generative AI (PhD) (multiple locations)",
+        "date": "2026-10-26",
+        "id": "meta:1694337262064234"
+      },
+      {
+        "title": "\u2b50\ufe0f Business Analytics Intern (2027), Reality Labs Devices Operations",
+        "date": "2026-10-26",
+        "id": "meta:1653804269586821"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Robotics",
+        "date": "2026-10-26",
+        "id": "meta:1471718241508516"
+      },
+      {
+        "title": "\u2b50\ufe0f Technical Program Manager Intern, Reality Labs \u2014 2027",
+        "date": "2026-10-26",
+        "id": "meta:1649069223327170"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Generative Recommendation Systems (PhD)",
+        "date": "2026-10-26",
+        "id": "meta:3265378000517806"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Generative AI & Computational Photography (PhD)",
+        "date": "2026-10-26",
+        "id": "meta:1163507972671947"
       }
     ],
     "Apple": [
@@ -3764,7 +3814,13 @@
         "id": "greenhouse:7861323003"
       }
     ],
-    "Boston Dynamics": [],
+    "Boston Dynamics": [
+      {
+        "title": "\u2b50\ufe0f Systems Test Engineer - Co-Op",
+        "date": "2026-10-26",
+        "id": "workday:R3312"
+      }
+    ],
     "Skydio": [
       {
         "title": "\u2b50\ufe0f Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027",
@@ -3905,6 +3961,11 @@
         "title": "\u2b50\ufe0f Autonomy Engineer Intern, Reinforcement Learning, 2027 (HQ)",
         "date": "2026-10-26",
         "id": "ashby:19352f5e-c30d-4184-a070-3c25b0ebc048"
+      },
+      {
+        "title": "\u2b50\ufe0f Manufacturing Intern - Summer 2027",
+        "date": "2026-10-26",
+        "id": "ashby:8f4f62b0-a2ea-498d-b78f-6f661b724a3c"
       }
     ],
     "Relativity": [
@@ -6140,6 +6201,11 @@
         "title": "Senior Product Manager - Task Management",
         "date": "N/A",
         "id": "greyorange:1194944"
+      },
+      {
+        "title": "Senior Accountant - GL",
+        "date": "2026-10-26",
+        "id": "greyorange:1166403"
       }
     ],
     "General Motors": [
@@ -7937,6 +8003,21 @@
         "title": "\u2b50\ufe0f Manufacturing Design Engineering Internship - Spring 2027",
         "date": "2026-10-23",
         "id": "greenhouse:8911569002"
+      },
+      {
+        "title": "Customer Success Director",
+        "date": "2026-10-26",
+        "id": "greenhouse:8918054002"
+      },
+      {
+        "title": "Senior HR Business Partner, Operations",
+        "date": "2026-10-26",
+        "id": "greenhouse:8917803002"
+      },
+      {
+        "title": "Senior HR Generalist, Onboarding and L&D",
+        "date": "2026-10-26",
+        "id": "greenhouse:8917772002"
       }
     ],
     "Figure AI": [
@@ -8728,6 +8809,11 @@
         "title": "Principal Engineer, System Performance Analytics",
         "date": "2026-10-26",
         "id": "greenhouse:7799653003"
+      },
+      {
+        "title": "Senior Program Manager",
+        "date": "2026-10-26",
+        "id": "greenhouse:8044945003"
       }
     ],
     "Apptronik": [
@@ -9158,6 +9244,16 @@
         "title": "Sr. Manager of Inventory Management, Logistics, and Procurement",
         "date": "2026-10-26",
         "id": "greenhouse:6141049004"
+      },
+      {
+        "title": "Staff Systems Safety Engineer",
+        "date": "2026-10-26",
+        "id": "greenhouse:6235161004"
+      },
+      {
+        "title": "Staff Systems Safety Engineer (Compliance)",
+        "date": "2026-10-26",
+        "id": "greenhouse:6235159004"
       }
     ],
     "Titan Robotics": [
@@ -9489,6 +9585,16 @@
         "title": "Technical Program Manager",
         "date": "2026-10-20",
         "id": "greenhouse:5458886008"
+      },
+      {
+        "title": "Junior IT Support Engineer",
+        "date": "2026-10-26",
+        "id": "greenhouse:5464102008"
+      },
+      {
+        "title": "Robotics Quality Assurance Engineer",
+        "date": "2026-10-26",
+        "id": "greenhouse:5463895008"
       }
     ],
     "Sanctuary AI": [
@@ -18495,7 +18601,8 @@
       },
       {
         "title": "Manufacturing Technician",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "ashby:49d38993-211d-44d9-b8c1-53a5971f3438"
       },
       {
         "title": "Manufacturing Technician",
@@ -23416,6 +23523,11 @@
         "title": "Shift Lead",
         "date": "2026-10-24",
         "id": "ashby:aa86d0fe-5c9c-40dd-9256-5a189eee7952"
+      },
+      {
+        "title": "Cross Functional Producer",
+        "date": "2026-10-26",
+        "id": "ashby:6305a106-b2ab-4f7f-bd8d-0420c0b56c75"
       }
     ],
     "FieldAI": [
@@ -26102,6 +26214,11 @@
         "title": "Technical Lead Manager, Applied AI, DeepMind",
         "date": "2026-10-26",
         "id": "google:139054978189664966"
+      },
+      {
+        "title": "Finance Subject Matter Expert, AI Models, Evaluations and Data, DeepMind",
+        "date": "2026-10-26",
+        "id": "google:81270900506141382"
       }
     ],
     "Wing": [
@@ -28010,6 +28127,11 @@
         "title": "Associate, Strategic Finance & Corporate Development",
         "date": "2026-10-24",
         "id": "lever:43ed8615-ef4b-4c43-900f-86029a806807"
+      },
+      {
+        "title": "Director of Communications",
+        "date": "2026-10-26",
+        "id": "lever:e2c99391-2880-414f-9a59-c2799dbd12f5"
       }
     ],
     "Stack AV": [
@@ -31530,6 +31652,11 @@
         "title": "Production Technician",
         "date": "2026-10-24",
         "id": "rippling:510d03ba-f038-4324-b900-f32c3859f24a"
+      },
+      {
+        "title": "Senior Software Engineer (C++)",
+        "date": "2026-10-26",
+        "id": "rippling:722fb9eb-7797-4710-9a97-7261f8fc7350"
       }
     ],
     "Berkshire Grey": [
@@ -31936,6 +32063,11 @@
       {
         "title": "Staff Robot Platform Engineer",
         "date": "2026-10-14"
+      },
+      {
+        "title": "Associate Recruiter, University Hiring",
+        "date": "2026-10-26",
+        "id": "ashby:3ac0b4ef-674f-458c-b0e1-98d2df36c834"
       }
     ],
     "Johnson & Johnson": [
@@ -33081,6 +33213,11 @@
         "title": "\u2b50\ufe0f Co-op- Machine Learning Ops",
         "date": "2026-10-22",
         "id": "workday:R8327"
+      },
+      {
+        "title": "Manager, Industrial Controls Engineering",
+        "date": "2026-10-26",
+        "id": "workday:R8331"
       }
     ],
     "PROCEPT BioRobotics": [
@@ -35796,6 +35933,11 @@
         "title": "Technical Program Lead",
         "date": "2026-10-22",
         "id": "rippling:4f267ba4-ed74-4344-a02b-85929ab5a721"
+      },
+      {
+        "title": "Shift Lead, Robot Operations (2nd Shift)",
+        "date": "2026-10-26",
+        "id": "rippling:6629bdee-503b-42f9-b8f0-1806d729905c"
       }
     ],
     "Woven by Toyota": [
@@ -37737,6 +37879,16 @@
         "title": "\u2b50\ufe0f 2027 Cyber Software Engineer Intern - Tampa FL",
         "date": "2026-10-22",
         "id": "workday:R10249530"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Software Engineering Intern - Beavercreek OH",
+        "date": "2026-10-26",
+        "id": "workday:R10257656"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Mechanical Engineering Intern - Clearfield UT",
+        "date": "2026-10-26",
+        "id": "workday:R10257639-1"
       }
     ],
     "OpenAI": [
@@ -41851,6 +42003,46 @@
         "title": "Applied AI Architect, OpenAI for Government",
         "date": "2026-10-26",
         "id": "ashby:c8eda1e9-10f9-4fc8-b88a-042ea6751d5b"
+      },
+      {
+        "title": "VC Partnerships Manager",
+        "date": "2026-10-26",
+        "id": "ashby:83ac3381-99c0-46a0-897c-abcd8699b466"
+      },
+      {
+        "title": "Senior Product Policy Lead, Regulation",
+        "date": "2026-10-26",
+        "id": "ashby:780b0dfa-1068-4e94-8dc9-84b7fd1c5264"
+      },
+      {
+        "title": "UK Head of Strategic Engagement & Partnerships",
+        "date": "2026-10-26",
+        "id": "ashby:e0f50751-123c-4200-adf2-aada78c3a6bb"
+      },
+      {
+        "title": "Forward Deployed Engineer (FDE) - AI Infra - SF",
+        "date": "2026-10-26",
+        "id": "ashby:7472e486-0aa6-4f9d-86da-2105a42b2dce"
+      },
+      {
+        "title": "Content Marketing Manager, Events",
+        "date": "2026-10-26",
+        "id": "ashby:6fd09d8c-f1d9-4c60-bb47-f63d8a96c10b"
+      },
+      {
+        "title": "Data Center Electrical R&D Design Engineer",
+        "date": "2026-10-26",
+        "id": "ashby:c3d39767-3824-4d41-83dd-7b132834b122"
+      },
+      {
+        "title": "Data Scientist, Personalization & Machine Learning",
+        "date": "2026-10-26",
+        "id": "ashby:5dce6671-9aa8-4c49-b263-b175a2a927f8"
+      },
+      {
+        "title": "Project Manager, Design and Construction - R&D/Lab Buildouts",
+        "date": "2026-10-26",
+        "id": "ashby:7ad77c42-4fc5-4e03-86d3-aaa99d6f2fe9"
       }
     ],
     "John Deere": [
@@ -43315,6 +43507,46 @@
         "title": "Supply Chain Operations",
         "date": "2026-10-26",
         "id": "eightfold:996477319246"
+      },
+      {
+        "title": "\u2b50\ufe0f Systems Engineering Intern - Summer 2027",
+        "date": "2026-10-26",
+        "id": "eightfold:996477456336"
+      },
+      {
+        "title": "\u2b50\ufe0f Electrical Engineer - Intern",
+        "date": "2026-10-26",
+        "id": "eightfold:996477466557"
+      },
+      {
+        "title": "\u2b50\ufe0f Mechanical Engineer - Intern",
+        "date": "2026-10-26",
+        "id": "eightfold:996477565240"
+      },
+      {
+        "title": "\u2b50\ufe0f Systems Engineer Intern - Summer 2027",
+        "date": "2026-10-26",
+        "id": "eightfold:996477472821"
+      },
+      {
+        "title": "\u2b50\ufe0f Test-Intern",
+        "date": "2026-10-26",
+        "id": "eightfold:996477428371"
+      },
+      {
+        "title": "\u2b50\ufe0f Systems Engineering/IT-Intern",
+        "date": "2026-10-26",
+        "id": "eightfold:996477428505"
+      },
+      {
+        "title": "\u2b50\ufe0f Information Technology-Intern",
+        "date": "2026-10-26",
+        "id": "eightfold:996477459947"
+      },
+      {
+        "title": "\u2b50\ufe0f Quality Engineer Intern (College Student - Technical)",
+        "date": "2026-10-26",
+        "id": "eightfold:996477337457"
       }
     ],
     "Vecna Robotics": [
