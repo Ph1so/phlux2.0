@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 Phlux Job Listings
-*Showing the 855 most recent of 31,162 roles tracked across 265 companies. See [all listings](listings/README.md) for the full history.*
+*Showing the 852 most recent of 31,194 roles tracked across 265 companies. See [all listings](listings/README.md) for the full history.*
 
 
 <table>
@@ -19,6 +19,251 @@ Easily track jobs across top tech companies.
   </thead>
   <tbody>
 
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.metacareers.com/jobsearch/?roles[0]=Internship"><img src="https://cdn.brandfetch.io/meta.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Meta" height="20" style="vertical-align:middle; margin-right:6px;"> Meta</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Battery Engineering Intern, Cell Engineering (PhD)</div></td>
+  <td>2026-10-26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.metacareers.com/jobsearch/?roles[0]=Internship"><img src="https://cdn.brandfetch.io/meta.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Meta" height="20" style="vertical-align:middle; margin-right:6px;"> Meta</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Research Intern, Embedded AI on Wearables (PhD)</div></td>
+  <td>2026-10-26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/skydio"><img src="https://cdn.brandfetch.io/skydio.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Skydio" height="20" style="vertical-align:middle; margin-right:6px;"> Skydio</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (HQ)</div></td>
+  <td>2026-10-26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/skydio"><img src="https://cdn.brandfetch.io/skydio.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Skydio" height="20" style="vertical-align:middle; margin-right:6px;"> Skydio</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (Zurich)</div></td>
+  <td>2026-10-26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/skydio"><img src="https://cdn.brandfetch.io/skydio.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Skydio" height="20" style="vertical-align:middle; margin-right:6px;"> Skydio</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Autonomy Engineer Intern, Simulation & Robotics, 2027 (Zurich)</div></td>
+  <td>2026-10-26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/skydio"><img src="https://cdn.brandfetch.io/skydio.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Skydio" height="20" style="vertical-align:middle; margin-right:6px;"> Skydio</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Autonomy Engineer Intern, Reinforcement Learning, 2027 (Zurich)</div></td>
+  <td>2026-10-26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/skydio"><img src="https://cdn.brandfetch.io/skydio.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Skydio" height="20" style="vertical-align:middle; margin-right:6px;"> Skydio</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Autonomy Engineer Intern, Simulation & Robotics, 2027 (HQ)</div></td>
+  <td>2026-10-26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/skydio"><img src="https://cdn.brandfetch.io/skydio.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Skydio" height="20" style="vertical-align:middle; margin-right:6px;"> Skydio</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Autonomy Engineer Intern, Reinforcement Learning, 2027 (HQ)</div></td>
+  <td>2026-10-26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/kodiak"><img src="https://cdn.brandfetch.io/kodiak.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Kodiak Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Kodiak Robotics</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Operations Specialist</div></td>
+  <td>2026-10-26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/motional"><img src="https://cdn.brandfetch.io/motional.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Motional" height="20" style="vertical-align:middle; margin-right:6px;"> Motional</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Principal Engineer, System Performance Analytics</div></td>
+  <td>2026-10-26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=apptronik"><img src="https://cdn.brandfetch.io/apptronik.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Apptronik" height="20" style="vertical-align:middle; margin-right:6px;"> Apptronik</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Manager, Test Operations</div></td>
+  <td>2026-10-26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=apptronik"><img src="https://cdn.brandfetch.io/apptronik.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Apptronik" height="20" style="vertical-align:middle; margin-right:6px;"> Apptronik</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sr. Manager of Inventory Management, Logistics, and Procurement</div></td>
+  <td>2026-10-26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://nearearthautonomy.applytojob.com/apply"><img src="https://cdn.brandfetch.io/nearearth.aero/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Near Earth Autonomy" height="20" style="vertical-align:middle; margin-right:6px;"> Near Earth Autonomy</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Flight Software Engineer</div></td>
+  <td>2026-10-26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Financial Analyst, Robot Platform</div></td>
+  <td>2026-10-26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/wayve?locationId=a937431a-b165-4153-8c67-a6808a6eb679"><img src="https://cdn.brandfetch.io/wayve.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Wayve" height="20" style="vertical-align:middle; margin-right:6px;"> Wayve</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Director, AV Product Engineering</div></td>
+  <td>2026-10-26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/field-ai"><img src="https://cdn.brandfetch.io/fieldai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="FieldAI" height="20" style="vertical-align:middle; margin-right:6px;"> FieldAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Robotics Research, Humanoid Whole Body Learning Intern (Summer 2027) PhD</div></td>
+  <td>2026-10-26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.google.com/about/careers/applications/jobs/results?company=DeepMind"><img src="https://cdn.brandfetch.io/deepmind.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="DeepMind" height="20" style="vertical-align:middle; margin-right:6px;"> DeepMind</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Technical Program Manager, Gemini Post-Training, Subagents, DeepMind</div></td>
+  <td>2026-10-26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.google.com/about/careers/applications/jobs/results?company=DeepMind"><img src="https://cdn.brandfetch.io/deepmind.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="DeepMind" height="20" style="vertical-align:middle; margin-right:6px;"> DeepMind</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Legal Counsel, DeepMind</div></td>
+  <td>2026-10-26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.google.com/about/careers/applications/jobs/results?company=DeepMind"><img src="https://cdn.brandfetch.io/deepmind.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="DeepMind" height="20" style="vertical-align:middle; margin-right:6px;"> DeepMind</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer, Bioresilience, DeepMind</div></td>
+  <td>2026-10-26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.google.com/about/careers/applications/jobs/results?company=DeepMind"><img src="https://cdn.brandfetch.io/deepmind.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="DeepMind" height="20" style="vertical-align:middle; margin-right:6px;"> DeepMind</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Legal Counsel, DeepMind</div></td>
+  <td>2026-10-26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.google.com/about/careers/applications/jobs/results?company=DeepMind"><img src="https://cdn.brandfetch.io/deepmind.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="DeepMind" height="20" style="vertical-align:middle; margin-right:6px;"> DeepMind</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Technical Lead Manager, Applied AI, DeepMind</div></td>
+  <td>2026-10-26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/brightmachines"><img src="https://cdn.brandfetch.io/brightmachines.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bright Machines" height="20" style="vertical-align:middle; margin-right:6px;"> Bright Machines</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Inventory Control Analyst</div></td>
+  <td>2026-10-26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/formic"><img src="https://cdn.brandfetch.io/formic.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Formic" height="20" style="vertical-align:middle; margin-right:6px;"> Formic</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Customer Success Manager</div></td>
+  <td>2026-10-26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/torcrobotics"><img src="https://cdn.brandfetch.io/torc.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Torc Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Torc Robotics</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Annotateur(trice) de données (durée déterminée)</div></td>
+  <td>2026-10-26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/torcrobotics"><img src="https://cdn.brandfetch.io/torc.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Torc Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Torc Robotics</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Data Annotator I (Fixed Term)</div></td>
+  <td>2026-10-26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/saronic"><img src="https://cdn.brandfetch.io/saronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saronic" height="20" style="vertical-align:middle; margin-right:6px;"> Saronic</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Deputy Program Manager, Marauder</div></td>
+  <td>2026-10-26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/saronic"><img src="https://cdn.brandfetch.io/saronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saronic" height="20" style="vertical-align:middle; margin-right:6px;"> Saronic</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Deputy Program Manager, Shipbuilding</div></td>
+  <td>2026-10-26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/saronic"><img src="https://cdn.brandfetch.io/saronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saronic" height="20" style="vertical-align:middle; margin-right:6px;"> Saronic</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Systems Integration & Test (SI&T) Manager - Combat System</div></td>
+  <td>2026-10-26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/plus-2"><img src="https://cdn.brandfetch.io/plus.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="PlusAI" height="20" style="vertical-align:middle; margin-right:6px;"> PlusAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Engineer/Senior Research Engineer, 3D Auto-Labeling and Data Flywheel</div></td>
+  <td>2026-10-26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Applied AI Architect, OpenAI for Government</div></td>
+  <td>2026-10-26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.eu.lever.co/mobileye"><img src="https://cdn.brandfetch.io/mobileye.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mobileye" height="20" style="vertical-align:middle; margin-right:6px;"> Mobileye</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Deep Learning Algorithm Developer - M.Sc. Graduate</div></td>
+  <td>2026-10-26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.eu.lever.co/mobileye"><img src="https://cdn.brandfetch.io/mobileye.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mobileye" height="20" style="vertical-align:middle; margin-right:6px;"> Mobileye</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">SecOps Specialist</div></td>
+  <td>2026-10-26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://lockheedmartin.eightfold.ai/careers?location=United%20States&levelOfExperience=Intern,Co-Op/Summer%20Intern&sort_by=timestamp"><img src="https://cdn.brandfetch.io/lockheedmartin.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lockheed Martin" height="20" style="vertical-align:middle; margin-right:6px;"> Lockheed Martin</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Supply Chain Operations</div></td>
+  <td>2026-10-26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/neura-robotics-gmbh"><img src="https://cdn.brandfetch.io/neura-robotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Neura Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Neura Robotics</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Marketing Internship with Focus on Events (human)</div></td>
+  <td>2026-10-26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/neura-robotics-gmbh"><img src="https://cdn.brandfetch.io/neura-robotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Neura Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Neura Robotics</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Marketing Internship (human)</div></td>
+  <td>2026-10-26</td>
+</tr>
   <tr>
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/skydio"><img src="https://cdn.brandfetch.io/skydio.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Skydio" height="20" style="vertical-align:middle; margin-right:6px;"> Skydio</a></div>
@@ -5736,272 +5981,6 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Full-Stack Software Engineer, Child Safety Tools & Systems (London)</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Full-Stack Software Engineer, Emerging Products</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Full-Stack Software Engineer, Intelligence & Investigations</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Growth - Digital Marketing (Business)</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Growth - Digital Marketing (Consumer)</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Growth - Digital Marketing (Enterprise)</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Growth - Lifecycle Lead (B2B)</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Growth Marketing, Creative and Ad Operations</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">iOS Engineer, Applied Foundations</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Machine Learning Engineer, Core Experimentation</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Machine Learning Engineer, Growth</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Machine Learning Engineer, Implicit Signals</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Machine Learning Engineer, Monetization AI/ML</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Mobile / Full Stack Staff & Software Engineer, Consumer Monetization</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Principal Software Engineer, Full Stack — Codex</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Product Engineer, Cyber</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Product Manager, Technology Vertical</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Protection Scientist Engineer, Integrity</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Protection Scientist Engineer, Integrity</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Engineer, Retrieval & Search, Applied Engineering</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Staff Software Engineer, Identity</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer - Privacy & Compliance</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer, Ad Formats</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer, Ads Integrity</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer, Ads Manager</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer, Applied Emerging Talent (2027)</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer, Backend — Dots</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer, Build Systems / CI</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer, Caching Infrastructure</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer, ChatGPT Infrastructure</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer, ChatGPT Infrastructure</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer, ChatGPT Shopping</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer, Cloud Agents</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer, Cloud Computer</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer, Cloud Infrastructure</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer, Cloud Infrastructure</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer, Codex Core Agents</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer, Codex Cyber</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer, Codex Enterprise</div></td>
   <td>2026-10-22</td>
 </tr>
 

@@ -1665,6 +1665,16 @@
         "title": "\u2b50\ufe0f Research Scientist Intern, Neuro-AI - Brain & AI Team (PhD)",
         "date": "2026-10-24",
         "id": "meta:1463189352436520"
+      },
+      {
+        "title": "\u2b50\ufe0f Battery Engineering Intern, Cell Engineering (PhD)",
+        "date": "2026-10-26",
+        "id": "meta:938682979075854"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Intern, Embedded AI on Wearables (PhD)",
+        "date": "2026-10-26",
+        "id": "meta:4070678619908522"
       }
     ],
     "Apple": [
@@ -3865,6 +3875,36 @@
         "title": "\u2b50\ufe0f Autonomy Engineer Intern, 2027",
         "date": "2026-10-25",
         "id": "ashby:d39c46ce-a4e9-45d2-99bf-17e3b7dac34b"
+      },
+      {
+        "title": "\u2b50\ufe0f Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (HQ)",
+        "date": "2026-10-26",
+        "id": "ashby:ec82eb16-a5b4-46e7-827a-326b33d7d2cb"
+      },
+      {
+        "title": "\u2b50\ufe0f Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (Zurich)",
+        "date": "2026-10-26",
+        "id": "ashby:fa88cb47-36f0-4020-95c3-6ac94d59d5d5"
+      },
+      {
+        "title": "\u2b50\ufe0f Autonomy Engineer Intern, Simulation & Robotics, 2027 (Zurich)",
+        "date": "2026-10-26",
+        "id": "ashby:05f020b1-9023-49c5-bac4-42dbd8552d3a"
+      },
+      {
+        "title": "\u2b50\ufe0f Autonomy Engineer Intern, Reinforcement Learning, 2027 (Zurich)",
+        "date": "2026-10-26",
+        "id": "ashby:bdf927bf-8ec0-4bf4-9145-8211db836b6a"
+      },
+      {
+        "title": "\u2b50\ufe0f Autonomy Engineer Intern, Simulation & Robotics, 2027 (HQ)",
+        "date": "2026-10-26",
+        "id": "ashby:6f5caf41-fa1d-4208-9bdc-82c72e5d3f17"
+      },
+      {
+        "title": "\u2b50\ufe0f Autonomy Engineer Intern, Reinforcement Learning, 2027 (HQ)",
+        "date": "2026-10-26",
+        "id": "ashby:19352f5e-c30d-4184-a070-3c25b0ebc048"
       }
     ],
     "Relativity": [
@@ -4244,6 +4284,11 @@
         "title": "Payroll Manager",
         "date": "2026-10-23",
         "id": "greenhouse:4464805009"
+      },
+      {
+        "title": "Operations Specialist",
+        "date": "2026-10-26",
+        "id": "greenhouse:4458981009"
       }
     ],
     "XPENG": [
@@ -8678,6 +8723,11 @@
         "title": "Principal Business Intelligence Lead, System Performance",
         "date": "2026-10-23",
         "id": "greenhouse:7799671003"
+      },
+      {
+        "title": "Principal Engineer, System Performance Analytics",
+        "date": "2026-10-26",
+        "id": "greenhouse:7799653003"
       }
     ],
     "Apptronik": [
@@ -9098,6 +9148,16 @@
         "title": "R&D Technician",
         "date": "2026-10-23",
         "id": "greenhouse:6232674004"
+      },
+      {
+        "title": "Manager, Test Operations",
+        "date": "2026-10-26",
+        "id": "greenhouse:6234393004"
+      },
+      {
+        "title": "Sr. Manager of Inventory Management, Logistics, and Procurement",
+        "date": "2026-10-26",
+        "id": "greenhouse:6141049004"
       }
     ],
     "Titan Robotics": [
@@ -9169,6 +9229,11 @@
       {
         "title": "Software Integration Engineer",
         "date": "N/A"
+      },
+      {
+        "title": "Flight Software Engineer",
+        "date": "2026-10-26",
+        "id": "jazzhr:Ewoi48rw6H"
       }
     ],
     "Skild AI": [
@@ -13660,6 +13725,11 @@
         "title": "Systems Test Engineer",
         "date": "2026-10-23",
         "id": "lever:cc60a930-5343-4e56-8e13-b7bce71e9945"
+      },
+      {
+        "title": "Financial Analyst, Robot Platform",
+        "date": "2026-10-26",
+        "id": "lever:54057cb7-173f-4dff-a435-7670f80fbf52"
       }
     ],
     "Pony.ai": [
@@ -21067,6 +21137,11 @@
         "title": "Safety System Engineer",
         "date": "2026-10-22",
         "id": "ashby:ef26c83f-4dc4-44ae-af5a-1de79f76744f"
+      },
+      {
+        "title": "Director, AV Product Engineering",
+        "date": "2026-10-26",
+        "id": "ashby:6cbb86ef-0834-489d-91c7-e1252e0caa99"
       }
     ],
     "Bedrock Robotics": [
@@ -24452,6 +24527,11 @@
         "title": "Test & Reliability Engineer, Robotics Hardware",
         "date": "N/A",
         "id": "lever:335eb3a4-abdf-4df0-a79c-599d54fd3a4a"
+      },
+      {
+        "title": "\u2b50\ufe0f Robotics Research, Humanoid Whole Body Learning Intern (Summer 2027) PhD",
+        "date": "2026-10-26",
+        "id": "lever:4d6e794b-1fcb-472f-babb-9b482eb02edf"
       }
     ],
     "Humanoid": [
@@ -25997,6 +26077,31 @@
         "title": "Technical Program Manager, Biosecurity, DeepMind",
         "date": "2026-10-23",
         "id": "google:97049287501718214"
+      },
+      {
+        "title": "Technical Program Manager, Gemini Post-Training, Subagents, DeepMind",
+        "date": "2026-10-26",
+        "id": "google:143826858654212806"
+      },
+      {
+        "title": "Legal Counsel, DeepMind",
+        "date": "2026-10-26",
+        "id": "google:127153245855326918"
+      },
+      {
+        "title": "Software Engineer, Bioresilience, DeepMind",
+        "date": "2026-10-26",
+        "id": "google:93924217757541062"
+      },
+      {
+        "title": "Legal Counsel, DeepMind",
+        "date": "2026-10-26",
+        "id": "google:117358796275098310"
+      },
+      {
+        "title": "Technical Lead Manager, Applied AI, DeepMind",
+        "date": "2026-10-26",
+        "id": "google:139054978189664966"
       }
     ],
     "Wing": [
@@ -27157,6 +27262,11 @@
         "title": "Chief of Staff",
         "date": "2026-10-23",
         "id": "lever:c6e039e2-c507-4109-9610-db837d31a6a6"
+      },
+      {
+        "title": "Inventory Control Analyst",
+        "date": "2026-10-26",
+        "id": "lever:5124966f-527a-48f8-9346-73370862f478"
       }
     ],
     "Formic": [
@@ -27376,6 +27486,11 @@
         "title": "Automation Sales Manager - Richmond",
         "date": "2026-10-19",
         "id": "greenhouse:4697939006"
+      },
+      {
+        "title": "Customer Success Manager",
+        "date": "2026-10-26",
+        "id": "greenhouse:4724475006"
       }
     ],
     "Waabi": [
@@ -28254,6 +28369,16 @@
         "title": "Safety Driver Trainer/Auditor 2",
         "date": "2026-10-23",
         "id": "greenhouse:8899588002"
+      },
+      {
+        "title": "Annotateur(trice) de donn\u00e9es (dur\u00e9e d\u00e9termin\u00e9e)",
+        "date": "2026-10-26",
+        "id": "greenhouse:8916771002"
+      },
+      {
+        "title": "Data Annotator I (Fixed Term)",
+        "date": "2026-10-26",
+        "id": "greenhouse:8916327002"
       }
     ],
     "Saronic": [
@@ -29556,6 +29681,21 @@
         "title": "People Operations Coordinator",
         "date": "2026-10-23",
         "id": "ashby:3be0bf6e-4c76-4168-b767-cd88836f0fd4"
+      },
+      {
+        "title": "Deputy Program Manager, Marauder",
+        "date": "2026-10-26",
+        "id": "ashby:b9071149-dae3-4363-adca-d0974fdfd03d"
+      },
+      {
+        "title": "Deputy Program Manager, Shipbuilding",
+        "date": "2026-10-26",
+        "id": "ashby:0687e824-2e21-4081-a2b3-88919576d4ed"
+      },
+      {
+        "title": "Systems Integration & Test (SI&T) Manager - Combat System",
+        "date": "2026-10-26",
+        "id": "ashby:2a731c1f-dadc-4a73-bc0f-a431fc245156"
       }
     ],
     "Built Robotics": [
@@ -32364,6 +32504,11 @@
         "title": "Fleet Manager",
         "date": "2026-10-22",
         "id": "lever:a4f70765-f896-4698-a519-5147c819baf1"
+      },
+      {
+        "title": "Research Engineer/Senior Research Engineer, 3D Auto-Labeling and Data Flywheel",
+        "date": "2026-10-26",
+        "id": "lever:fab19e1f-92a3-4118-98df-0ad7f1fef336"
       }
     ],
     "Symbotic": [
@@ -41701,6 +41846,11 @@
         "title": "Community Communications Lead",
         "date": "2026-10-24",
         "id": "ashby:c2921990-3fff-469a-a117-f6a8f2a3d50c"
+      },
+      {
+        "title": "Applied AI Architect, OpenAI for Government",
+        "date": "2026-10-26",
+        "id": "ashby:c8eda1e9-10f9-4fc8-b88a-042ea6751d5b"
       }
     ],
     "John Deere": [
@@ -42714,6 +42864,16 @@
         "title": "Commercial Legal Counsel",
         "date": "2026-10-25",
         "id": "lever:bc5af7e1-27cc-4e86-a0cc-b4e5628e81d0"
+      },
+      {
+        "title": "Deep Learning Algorithm Developer - M.Sc. Graduate",
+        "date": "2026-10-26",
+        "id": "lever:be730214-2c22-4acf-aff9-422fb6823f3e"
+      },
+      {
+        "title": "SecOps Specialist",
+        "date": "2026-10-26",
+        "id": "lever:c24c144a-031e-4008-8ddb-424b83307ec2"
       }
     ],
     "Dusty Robotics": [
@@ -43150,6 +43310,11 @@
         "title": "\u2b50\ufe0f Embedded Software Engineer Intern",
         "date": "2026-10-25",
         "id": "eightfold:996477474678"
+      },
+      {
+        "title": "Supply Chain Operations",
+        "date": "2026-10-26",
+        "id": "eightfold:996477319246"
       }
     ],
     "Vecna Robotics": [
@@ -43258,6 +43423,16 @@
         "title": "\u2b50\ufe0f Data Operator Intern (Teleops) (Mensch)",
         "date": "N/A",
         "id": "ashby:bd621458-1623-44d3-8c87-370d64080711"
+      },
+      {
+        "title": "\u2b50\ufe0f Marketing Internship with Focus on Events (human)",
+        "date": "2026-10-26",
+        "id": "ashby:b0a79021-d81c-496e-83eb-97ffc00ed25c"
+      },
+      {
+        "title": "\u2b50\ufe0f Marketing Internship (human)",
+        "date": "2026-10-26",
+        "id": "ashby:40a99678-e2e4-4306-acd5-5293d2d67480"
       }
     ]
   }
