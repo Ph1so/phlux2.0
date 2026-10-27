@@ -10,6 +10,7 @@ from phlux.boards import (
     greenhouse_postings,
     greenhouse_slug,
     lever_postings,
+    place,
 )
 
 
@@ -89,10 +90,33 @@ class TestGreenhouse:
             postings = greenhouse_postings("https://job-boards.greenhouse.io/acme?offices%5B%5D=20")
         assert [p.id for p in postings] == ["greenhouse:2"]
 
+    def test_reads_location(self):
+        jobs = {"jobs": [
+            {"id": 1, "title": "Intern", "location": {"name": " Palo Alto, CA; New York, NY"}},
+            {"id": 2, "title": "Recruiter"},
+        ]}
+        mock, _ = fake_get({GH + "jobs": jobs})
+        with mock:
+            postings = greenhouse_postings("https://job-boards.greenhouse.io/acme")
+        assert [p.location for p in postings] == ["Palo Alto, CA; New York, NY", ""]
+
+
+class TestPlace:
+    @pytest.mark.parametrize("primary, others, expected", [
+        ("San Francisco", [], "San Francisco"),
+        ("San Francisco", ["New York", "Seattle"], "San Francisco +2"),
+        ("Englewood, Colorado", ["Englewood, Colorado"], "Englewood, Colorado"),
+        (None, ["Remote"], "Remote"),
+        ("", [], ""),
+    ])
+    def test_place(self, primary, others, expected):
+        assert place(primary, others) == expected
+
 
 class TestLever:
     JOBS = [
-        {"id": "a", "text": "Robotics Intern", "categories": {"commitment": "Internship"}},
+        {"id": "a", "text": "Robotics Intern",
+         "categories": {"commitment": "Internship", "location": "Denver", "allLocations": ["Denver", "Austin"]}},
         {"id": "b", "text": "Controls Engineer", "categories": {"commitment": "Full-time"}},
     ]
 
@@ -101,6 +125,7 @@ class TestLever:
         with mock:
             postings = lever_postings("https://jobs.lever.co/acme")
         assert [(p.id, p.title) for p in postings] == [("lever:a", "Robotics Intern"), ("lever:b", "Controls Engineer")]
+        assert [p.location for p in postings] == ["Denver +1", ""]
         assert calls[0][1]["params"] == {"mode": "json"}
 
     def test_commitment_filter(self):
@@ -118,7 +143,8 @@ class TestLever:
 
 class TestAshby:
     JOBS = {"jobs": [
-        {"id": "x", "title": "Perception Intern", "isListed": True},
+        {"id": "x", "title": "Perception Intern", "isListed": True,
+         "location": "San Francisco", "secondaryLocations": [{"location": "New York"}]},
         {"id": "y", "title": "Hidden Role", "isListed": False},
         {"id": "z", "title": "Planner", "isListed": True},
     ]}
@@ -129,6 +155,12 @@ class TestAshby:
         with mock:
             postings = ashby_postings("https://jobs.ashbyhq.com/Acme%20Inc")
         assert [p.id for p in postings] == ["ashby:x", "ashby:z"]
+
+    def test_reads_primary_and_secondary_locations(self):
+        mock, _ = fake_get({"https://api.ashbyhq.com/posting-api/job-board/acme": self.JOBS})
+        with mock:
+            postings = ashby_postings("https://jobs.ashbyhq.com/acme")
+        assert [p.location for p in postings] == ["San Francisco +1", ""]
 
     def test_location_filter_matches_primary_or_secondary(self):
         graph = response({"data": {"jobBoard": {"jobPostings": [

@@ -56,6 +56,18 @@ def keyword_in(title: str, keyword: str) -> bool:
     return re.search(r"\b" + re.escape(keyword), title, re.IGNORECASE) is not None
 
 
+def place(primary: str | None, others: Iterable[str | None] = ()) -> str:
+    """Return a posting's location for display: the first one, plus a count of the rest."""
+    names: List[str] = []
+    for name in [primary, *others]:
+        name = " ".join((name or "").split())
+        if name and name not in names:
+            names.append(name)
+    if not names:
+        return ""
+    return f"{names[0]} +{len(names) - 1}" if len(names) > 1 else names[0]
+
+
 def _title_has(postings: Iterable[Tuple[Posting, dict]], keywords: List[str]) -> List[Tuple[Posting, dict]]:
     return [(p, raw) for p, raw in postings if any(keyword_in(p.title, k) for k in keywords)]
 
@@ -100,7 +112,10 @@ def greenhouse_postings(url: str) -> List[Posting]:
     slug = greenhouse_slug(url)
     params = _query(url)
     jobs = _get(GREENHOUSE_API.format(slug=slug, path="jobs")).json()["jobs"]
-    pairs = [(Posting(f"greenhouse:{j['id']}", j["title"]), j) for j in jobs]
+    pairs = [
+        (Posting(f"greenhouse:{j['id']}", j["title"], place((j.get("location") or {}).get("name"))), j)
+        for j in jobs
+    ]
     if params.get("keyword"):
         pairs = _title_has(pairs, params["keyword"])
     for kind in ("departments", "offices"):
@@ -127,7 +142,14 @@ def lever_postings(url: str) -> List[Posting]:
         if params.get(key):
             wanted = {v.lower() for v in params[key]}
             jobs = [j for j in jobs if str(j.get("categories", {}).get(key, "")).lower() in wanted]
-    return [Posting(f"lever:{j['id']}", j["text"]) for j in jobs]
+    return [
+        Posting(
+            f"lever:{j['id']}",
+            j["text"],
+            place(j.get("categories", {}).get("location"), j.get("categories", {}).get("allLocations") or []),
+        )
+        for j in jobs
+    ]
 
 
 # ── Ashby ─────────────────────────────────────────────────────────────────────
@@ -175,7 +197,14 @@ def ashby_postings(url: str) -> List[Posting]:
     if params.get("locationId"):
         ids = _ashby_ids_at(slug, set(params["locationId"]))
         jobs = [j for j in jobs if j["id"] in ids]
-    return [Posting(f"ashby:{j['id']}", j["title"]) for j in jobs]
+    return [
+        Posting(
+            f"ashby:{j['id']}",
+            j["title"],
+            place(j.get("location"), [s.get("location") for s in j.get("secondaryLocations") or []]),
+        )
+        for j in jobs
+    ]
 
 
 # ── Entry point ───────────────────────────────────────────────────────────────

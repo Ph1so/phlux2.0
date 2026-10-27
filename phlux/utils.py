@@ -61,11 +61,23 @@ def _user_agent(chrome_major: int) -> str:
 _INTERN_PATTERN = re.compile(
     r"\bintern(?!al|ation|et)|\bco[- ]?ops?\b|\bstudents?\b", re.IGNORECASE
 )
+# Student programs whose titles never say "intern": Palantir's "Meritocracy
+# Fellowship", "Anthropic Fellows Program, …", D. E. Shaw's "MBA Summer Associate
+# – Summer 2027". A bare "Fellow" is left out: it also names senior roles
+# ("Technical Fellow") and SkillBridge placements for veterans.
+_PROGRAM_PATTERN = re.compile(
+    r"\bfellowship\b|\bfellows program\b|\b(?:summer|fall|winter|spring)\s+20\d\d\b", re.IGNORECASE
+)
+# Full-time roles that still match the above: postdoc fellowships and new-grad
+# roles naming a graduation window ("Entry-Level (Graduation Date: Fall 2026-Summer 2027)").
+_NOT_PROGRAM_PATTERN = re.compile(r"post-?doc|graduat|entry[- ]level|new grad", re.IGNORECASE)
 
 
 def is_internship(title: str) -> bool:
-    """Return True if *title* matches internship, co-op or student keywords."""
-    return bool(_INTERN_PATTERN.search(title))
+    """Return True if *title* matches internship, co-op, student or student-program keywords."""
+    if _INTERN_PATTERN.search(title):
+        return True
+    return bool(_PROGRAM_PATTERN.search(title)) and not _NOT_PROGRAM_PATTERN.search(title)
 
 
 def board_link(link: str) -> str:

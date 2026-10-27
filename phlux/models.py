@@ -16,10 +16,14 @@ class Company:
 
 @dataclass
 class Posting:
-    """One job read from a board or site: a stable ``source:id`` key and its title."""
+    """One job read from a board or site: a stable ``source:id`` key and its title.
+
+    ``location`` is shown in alert emails; it's empty where the source gives none.
+    """
 
     id: str
     title: str
+    location: str = ""
 
 
 @dataclass
@@ -28,10 +32,12 @@ class ScrapeResult:
 
     ``ids`` is either empty, or parallel to ``jobs`` with each posting's
     ``board:id`` key (see :mod:`phlux.boards`); only board APIs provide ids.
+    ``locations`` is likewise empty or parallel to ``jobs``.
     """
 
     name: str
     jobs: List[str]
     link: str
     ids: List[Optional[str]] = field(default_factory=list)
+    locations: List[str] = field(default_factory=list)
 

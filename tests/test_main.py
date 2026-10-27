@@ -95,6 +95,16 @@ class TestFormatMessageHtml:
         html = self._call(intern_message)
         assert isinstance(html, str)
 
+    def test_shows_location_escaped(self, intern_message):
+        intern_message["companies"]["Acme"]["jobs"][0]["location"] = "R&D Campus <Munich> +1"
+        html = self._call(intern_message)
+        assert "Software Engineer Intern <span" in html
+        assert "· R&amp;D Campus &lt;Munich&gt; +1</span>" in html
+
+    def test_no_location_span_without_location(self, intern_message):
+        html = self._call(intern_message)
+        assert "·" not in html
+
 
 # ── format_message_html_fulltime ──────────────────────────────────────────────
 
@@ -160,6 +170,54 @@ class TestSendEmail:
 
         assert sent_msgs, "send_message was not called"
         assert "Bcc" not in sent_msgs[0]
+
+
+class TestEmailThreading:
+    """A day's alerts reply to its first one so Gmail keeps them in one thread."""
+
+    def _send(self, message, threads, fn=send_email):
+        sent = []
+        smtp_cls, smtp_instance = _make_smtp_mock()
+        smtp_instance.send_message.side_effect = lambda msg: sent.append(msg)
+        with patch("main.smtplib.SMTP_SSL", smtp_cls), \
+             patch("builtins.open", mock_open(read_data="{}")), \
+             patch.dict(os.environ, {"GMAIL_APP_PASSWORD": "secret"}):
+            fn(message, test=True, threads=threads)
+        return sent[0]
+
+    def _today(self):
+        return main.datetime.now(main.EASTERN).date().isoformat()
+
+    def test_first_alert_of_the_day_starts_the_thread(self, intern_message):
+        threads = {"internship": {"date": "2026-01-01", "message_id": "<old@phlux>"}}
+        msg = self._send(intern_message, threads)
+        assert "In-Reply-To" not in msg and "References" not in msg
+        assert threads["internship"] == {"date": self._today(), "message_id": msg["Message-ID"]}
+
+    def test_later_alerts_reply_to_the_first(self, intern_message):
+        threads = {"internship": {"date": self._today(), "message_id": "<root@phlux>"}}
+        msg = self._send(intern_message, threads)
+        assert msg["In-Reply-To"] == "<root@phlux>"
+        assert msg["References"] == "<root@phlux>"
+        assert msg["Subject"] == "🚀 New Internship Alerts!"  # Gmail threads only on a matching subject
+        assert threads["internship"]["message_id"] == "<root@phlux>"
+
+    def test_kinds_keep_separate_threads(self, fulltime_message):
+        threads = {"internship": {"date": self._today(), "message_id": "<root@phlux>"}}
+        msg = self._send(fulltime_message, threads, fn=send_email_fulltime)
+        assert "In-Reply-To" not in msg
+        assert threads["fulltime"]["message_id"] == msg["Message-ID"]
+
+    def test_failed_send_records_nothing(self, intern_message):
+        threads = {}
+        smtp_cls, smtp_instance = _make_smtp_mock()
+        smtp_instance.send_message.side_effect = OSError("smtp down")
+        with patch("main.smtplib.SMTP_SSL", smtp_cls), \
+             patch("builtins.open", mock_open(read_data="{}")), \
+             patch.dict(os.environ, {"GMAIL_APP_PASSWORD": "secret"}), \
+             pytest.raises(OSError):
+            send_email(intern_message, test=True, threads=threads)
+        assert threads == {}
 
 
 class TestSendEmailFulltime:

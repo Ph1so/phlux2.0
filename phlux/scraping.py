@@ -359,7 +359,7 @@ def board_of(instructions: str) -> str | None:
 
 
 @retry(wait=wait_fixed(5), stop=stop_after_attempt(3))
-def get_board_jobs(name: str, urls: str, instructions: str) -> Tuple[List[str], List[str]]:
+def get_board_jobs(name: str, urls: str, instructions: str) -> Tuple[List[str], List[str], List[str]]:
     """Read a company's postings from its job board's API.
 
     *urls* are the company's board URLs, whose query parameters narrow the board
@@ -370,22 +370,22 @@ def get_board_jobs(name: str, urls: str, instructions: str) -> Tuple[List[str], 
     here.
 
     Returns:
-        ``(titles, ids)``: titles normalized and starred like page scrapes, and
-        each posting's ``board:id`` key in the same order.
+        ``(titles, ids, locations)``: titles normalized and starred like page
+        scrapes, and each posting's ``board:id`` key and location in the same order.
     """
     board, arg = _board_token(instructions)
     postings = board_postings(board, urls, arg)
     # Boards keep stray double spaces that a browser would collapse.
-    pairs = [(" ".join(p.title.split()), p.id) for p in postings]
+    rows = [(" ".join(p.title.split()), p.id, p.location) for p in postings]
     for action in instructions.strip().strip('"').split("->")[1:]:
         action = action.strip()
         if action.startswith(f"{FILTER}:"):
             keywords = [k.strip() for k in action[len(FILTER) + 1:].split("|") if k.strip()]
-            pairs = [(t, i) for t, i in pairs if any(keyword_in(t, k) for k in keywords)]
+            rows = [row for row in rows if any(keyword_in(row[0], k) for k in keywords)]
         elif action and action != UNDETECTED:
             logger.warning("Ignoring %s for %s: it has no meaning for a board API", action, name)
-    titles = finish_titles(name, [t for t, _ in pairs], strip_badge=False)
-    return titles, [i for _, i in pairs]
+    titles = finish_titles(name, [t for t, _, _ in rows], strip_badge=False)
+    return titles, [i for _, i, _ in rows], [loc for _, _, loc in rows]
 
 
 def scrape_company(company: Company) -> ScrapeResult:
@@ -398,8 +398,8 @@ def scrape_company(company: Company) -> ScrapeResult:
     """
     try:
         if board_of(company.selector):
-            titles, ids = get_board_jobs(company.name, company.link, company.selector)
-            return ScrapeResult(company.name, titles, company.link, ids)
+            titles, ids, locations = get_board_jobs(company.name, company.link, company.selector)
+            return ScrapeResult(company.name, titles, company.link, ids, locations)
         jobs = get_jobs_headless(company.name, company.link, company.selector)
         return ScrapeResult(company.name, jobs, company.link)
     except Exception as e:
@@ -447,7 +447,8 @@ def process_jobs(data: dict, result: ScrapeResult, new_jobs: Dict, seed: bool = 
     edited; matching titles keep the existing one-row-per-title behaviour. A
     stored title that turns up with an id gets that id recorded.
 
-    New postings are also recorded in *new_jobs* so callers can send alerts.
+    New postings are also recorded in *new_jobs* so callers can send alerts,
+    with their ``location`` when the board gives one (storage leaves it out).
 
     Args:
         data: Mutable dict representing ``storage.json`` contents.
@@ -476,8 +477,10 @@ def process_jobs(data: dict, result: ScrapeResult, new_jobs: Dict, seed: bool = 
     stamp = NA_DATE if seed else now.date().isoformat()
 
     ids = result.ids or [None] * len(result.jobs)
+    locations = result.locations or [""] * len(result.jobs)
     new_list = []
-    for job, job_id in zip(result.jobs, ids):
+    alerts = []
+    for job, job_id, location in zip(result.jobs, ids, locations):
         job = job.replace("\n", " - ")
         if job_id and job_id in existing_ids:
             continue
@@ -491,12 +494,13 @@ def process_jobs(data: dict, result: ScrapeResult, new_jobs: Dict, seed: bool = 
         if job_id:
             record["id"] = job_id
         new_list.append(record)
+        alerts.append({**record, "location": location} if location else record)
 
     data["companies"][result.name] = existing + new_list
 
     if new_list and not seed:
         new_jobs.setdefault("companies", {})[result.name] = {
-            "jobs": new_list,
+            "jobs": alerts,
             "link": board_link(result.link),
         }
 

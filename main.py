@@ -1,14 +1,16 @@
 """Entry point: scrape companies, persist results, and send internship email alerts."""
 from __future__ import annotations
 
+import html
 import json
 import logging
 import os
 import smtplib
 from datetime import datetime
 from email.message import EmailMessage
+from email.utils import make_msgid
 from pathlib import Path
-from typing import Any, Callable, Dict, List
+from typing import Any, Callable, Dict, List, Optional
 
 import gspread
 import pytz
@@ -36,11 +38,7 @@ def _format_email_html(message: Dict[str, Any], filter_fn: Callable[[str], bool]
     lines.append('<hr style="margin-top: 30px; margin-bottom: 20px;">')
 
     for company, jobs_data in message.get("companies", {}).items():
-        filtered = [
-            job["title"].strip().replace("\n", " ")
-            for job in jobs_data["jobs"]
-            if filter_fn(job["title"])
-        ]
+        filtered = [job for job in jobs_data["jobs"] if filter_fn(job["title"])]
         if not filtered:
             continue
 
@@ -61,8 +59,14 @@ def _format_email_html(message: Dict[str, Any], filter_fn: Callable[[str], bool]
             f'{icon_html} {company}</h2>'
         )
         lines.append("<ul style='margin-top: 5px;'>")
-        for title in filtered:
-            lines.append(f"<li style='margin-bottom: 4px; font-family: monospace;'>{title}</li>")
+        for job in filtered:
+            title = job["title"].strip().replace("\n", " ")
+            location = (
+                f" <span style='color: #6b7280;'>· {html.escape(job['location'])}</span>"
+                if job.get("location")
+                else ""
+            )
+            lines.append(f"<li style='margin-bottom: 4px; font-family: monospace;'>{title}{location}</li>")
         lines.append("</ul>")
         lines.append(
             f'<p><strong>🔗 <a style="font-family: monospace;" '
@@ -89,6 +93,12 @@ def format_message_html_fulltime(message: Dict[str, Any]) -> str:
     return _format_email_html(message, is_full_time, "Full-Time Roles from Phi")
 
 
+# Top-level storage.json key holding the day's first alert of each kind, which
+# later alerts that day reply to (see _send_email_impl).
+THREADS_KEY = "email_threads"
+EASTERN = pytz.timezone("US/Eastern")
+
+
 def _send_email_impl(
     message: Dict[str, Any],
     subject: str,
@@ -96,14 +106,31 @@ def _send_email_impl(
     format_fn: Callable[[Dict[str, Any]], str],
     test: bool,
     email_cfg: Dict[str, Any],
+    threads: Optional[Dict[str, Any]] = None,
+    kind: str = "",
 ) -> None:
-    """Build and send an email via Gmail SMTP."""
+    """Build and send an email via Gmail SMTP.
+
+    With *threads* (the ``email_threads`` entry of storage.json), the email
+    replies to the first *kind* alert sent today, so Gmail keeps the day's
+    alerts in one conversation; Gmail threads on a matching subject plus a
+    References header naming a message already in the conversation. When it is
+    the day's first, it is recorded in *threads* once sent.
+    """
     msg = EmailMessage()
     msg["Subject"] = subject
     msg["From"] = email_cfg["from"]
     msg["To"] = email_cfg["to"]
     if not test and bcc:
         msg["Bcc"] = ", ".join(bcc)
+
+    today = datetime.now(EASTERN).date().isoformat()
+    first = (threads or {}).get(kind)
+    replying = bool(first) and first.get("date") == today
+    msg["Message-ID"] = make_msgid(domain="phlux")
+    if replying:
+        msg["In-Reply-To"] = first["message_id"]
+        msg["References"] = first["message_id"]
 
     msg.set_content("This email contains HTML. Please view it in an HTML-compatible client.")
     msg.add_alternative(format_fn(message), subtype="html")
@@ -113,9 +140,12 @@ def _send_email_impl(
         smtp.login(email_cfg["login"], password)
         smtp.send_message(msg)
 
+    if threads is not None and not replying:
+        threads[kind] = {"date": today, "message_id": msg["Message-ID"]}
 
-def send_email(message: Dict[str, Any], test: bool = False) -> None:
-    """Send the internship-alert email via Gmail SMTP."""
+
+def send_email(message: Dict[str, Any], test: bool = False, threads: Optional[Dict[str, Any]] = None) -> None:
+    """Send the internship-alert email via Gmail SMTP, threaded per day when *threads* is given."""
     email_cfg = load_email_config()
     _send_email_impl(
         message,
@@ -124,11 +154,15 @@ def send_email(message: Dict[str, Any], test: bool = False) -> None:
         format_fn=format_message_html,
         test=test,
         email_cfg=email_cfg,
+        threads=threads,
+        kind="internship",
     )
 
 
-def send_email_fulltime(message: Dict[str, Any], test: bool = False) -> None:
-    """Send the full-time-role alert email via Gmail SMTP."""
+def send_email_fulltime(
+    message: Dict[str, Any], test: bool = False, threads: Optional[Dict[str, Any]] = None
+) -> None:
+    """Send the full-time-role alert email via Gmail SMTP, threaded per day when *threads* is given."""
     email_cfg = load_email_config()
     _send_email_impl(
         message,
@@ -137,6 +171,8 @@ def send_email_fulltime(message: Dict[str, Any], test: bool = False) -> None:
         format_fn=format_message_html_fulltime,
         test=test,
         email_cfg=email_cfg,
+        threads=threads,
+        kind="fulltime",
     )
 
 
@@ -209,22 +245,27 @@ def main() -> None:
         print("No companies selected — check COMPANY_LIST in config.json.")
         return
     result = manager.scrape_companies(companies=companies)
+    data = result["data"]
+    storage = Path("storage.json")
 
-    Path("storage.json").write_text(json.dumps(result["data"], indent=2), encoding="utf-8")
+    storage.write_text(json.dumps(data, indent=2), encoding="utf-8")
 
     new_jobs = result["new_jobs"]
     if new_jobs.get("companies"):
         update_icons(companies=companies)
+        threads = data.setdefault(THREADS_KEY, {})
         if has_internships(new_jobs):
-            send_email(new_jobs, test=False)
+            send_email(new_jobs, test=False, threads=threads)
         else:
             print("Scrape complete: no new internship/co-op positions found.")
         if not load_email_config()["fulltime_enabled"]:
             print("Full-time emails are disabled in config; skipping.")
         elif has_full_time_roles(new_jobs):
-            send_email_fulltime(new_jobs, test=False)
+            send_email_fulltime(new_jobs, test=False, threads=threads)
         else:
             print("Scrape complete: no new full-time positions found.")
+        # Saved again so the next run can reply to today's first alert.
+        storage.write_text(json.dumps(data, indent=2), encoding="utf-8")
     else:
         print("Scrape complete: no new positions found.")
 

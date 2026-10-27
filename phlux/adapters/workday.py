@@ -109,8 +109,10 @@ def job_id(job: dict) -> Optional[str]:
 
 def to_posting(job: dict) -> Posting:
     title = " ".join((job.get("title") or "").split())
+    # "Santa Clara, CA", or "3 Locations" when there are several.
+    location = " ".join((job.get("locationsText") or "").split())
     key = job_id(job)
-    return Posting(f"{NAME}:{key}", title) if key else Posting(title_id(NAME, title), title)
+    return Posting(f"{NAME}:{key}" if key else title_id(NAME, title), title, location)
 
 
 @adapter(NAME)

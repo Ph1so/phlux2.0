@@ -233,6 +233,7 @@ class TestRegistration:
     def test_scraper_applies_filter_and_stars(self):
         mock, _ = board([job(1, "Software Intern"), job(2, "Recruiter")])
         with mock:
-            titles, ids = get_board_jobs("Acme", TestFetch.URL, "@workday->FILTER:intern")
+            titles, ids, locations = get_board_jobs("Acme", TestFetch.URL, "@workday->FILTER:intern")
         assert titles == ["⭐️ Software Intern"]
         assert ids == ["workday:JR0001"]
+        assert locations == ["US, CA, Santa Clara"]

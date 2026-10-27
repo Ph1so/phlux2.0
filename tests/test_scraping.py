@@ -332,6 +332,15 @@ class TestProcessJobsWithIds:
         assert data["companies"]["Acme"][0]["date"] != "N/A"
         assert "Acme" in new_jobs["companies"]
 
+    def test_location_goes_to_the_alert_but_not_storage(self):
+        data = {"companies": {"Acme": [{"title": "Planner", "date": "2026-10-01", "id": "ashby:1"}]}}
+        new_jobs = {}
+        result = ScrapeResult("Acme", ["Planner", "⭐️ Robotics Intern", "Welder"], "https://acme.com",
+                              ["ashby:1", "ashby:2", "ashby:3"], ["Austin", "Munich +1", ""])
+        process_jobs(data, result, new_jobs)
+        assert [j.get("location") for j in new_jobs["companies"]["Acme"]["jobs"]] == ["Munich +1", None]
+        assert all("location" not in j for j in data["companies"]["Acme"])
+
 
 class TestBoardRouting:
     @pytest.mark.parametrize("instructions, board", [
@@ -347,15 +356,16 @@ class TestBoardRouting:
 
     def test_get_board_jobs_filters_stars_and_tidies(self):
         postings = [
-            Posting("lever:1", "Robotics  Software Intern"),
-            Posting("lever:2", "Senior  Recruiter"),
+            Posting("lever:1", "Robotics  Software Intern", "Pittsburgh, PA"),
+            Posting("lever:2", "Senior  Recruiter", "Remote"),
             Posting("lever:3", "Perception Intern, Whats New"),
         ]
         with patch("phlux.scraping.board_postings", return_value=postings) as fetch:
-            titles, ids = get_board_jobs("Acme", "https://jobs.lever.co/acme", "@lever->FILTER:intern")
+            titles, ids, locations = get_board_jobs("Acme", "https://jobs.lever.co/acme", "@lever->FILTER:intern")
         fetch.assert_called_once_with("lever", "https://jobs.lever.co/acme", "")
         assert titles == ["⭐️ Robotics Software Intern", "⭐️ Perception Intern, Whats New"]
         assert ids == ["lever:1", "lever:3"]
+        assert locations == ["Pittsburgh, PA", ""]
 
     def test_filter_keeps_titles_matching_any_alternative(self):
         postings = [
@@ -365,16 +375,16 @@ class TestBoardRouting:
             Posting("workday:4", "Winter Co-op, Controls"),
         ]
         with patch("phlux.scraping.board_postings", return_value=postings):
-            _, ids = get_board_jobs("Acme", "https://x.wd5.myworkdayjobs.com/Acme",
+            _, ids, _ = get_board_jobs("Acme", "https://x.wd5.myworkdayjobs.com/Acme",
                                     "@workday->FILTER:intern|co-op|early career")
         assert ids == ["workday:1", "workday:2", "workday:4"]
 
     def test_scrape_company_uses_api_for_boards(self):
-        with patch("phlux.scraping.board_postings", return_value=[Posting("ashby:1", "Planner")]), \
+        with patch("phlux.scraping.board_postings", return_value=[Posting("ashby:1", "Planner", "Austin")]), \
              patch("phlux.scraping.get_jobs_headless") as headless:
             result = scrape_company(Company("Acme", "https://jobs.ashbyhq.com/acme", "@ashby"))
         headless.assert_not_called()
-        assert (result.jobs, result.ids) == (["Planner"], ["ashby:1"])
+        assert (result.jobs, result.ids, result.locations) == (["Planner"], ["ashby:1"], ["Austin"])
 
     def test_scrape_company_uses_browser_otherwise(self):
         with patch("phlux.scraping.get_jobs_headless", return_value=["Planner"]) as headless:

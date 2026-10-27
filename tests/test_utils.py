@@ -56,6 +56,28 @@ class TestIsInternship:
     def test_ignores_student_inside_words(self):
         assert is_internship("Studentenwerk Liaison") is False
 
+    @pytest.mark.parametrize("title", [
+        "Meritocracy Fellowship",
+        "Anthropic Fellows Program, ML Systems & Reinforcement Learning",
+        "MBA Investment Analyst (New York) – Summer 2027",
+        "GMAF Summer 2027 - Horsham, PA",
+        "START Optimus Service Technician (Winter 2027)",
+    ])
+    def test_matches_student_programs(self, title):
+        assert is_internship(title) is True
+
+    @pytest.mark.parametrize("title", [
+        "Pharmacy Postdoctoral Fellowship",
+        "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) – US",
+        "New Grad Software Engineer (Start Date: Summer 2027)",
+        "Technical Fellow, Autonomy",
+        "Field Engineer Fellow (Skillbridge)",
+        "Graduate Engineer Trainee",
+        "Summer Camp Coordinator",
+    ])
+    def test_ignores_full_time_programs(self, title):
+        assert is_internship(title) is False
+
     def test_false_for_fulltime_role(self):
         assert is_internship("Software Engineer") is False
 
