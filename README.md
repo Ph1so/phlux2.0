@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 Phlux Job Listings
-*Showing the 838 most recent of 31,339 roles tracked across 266 companies. See [all listings](listings/README.md) for the full history.*
+*Showing the 837 most recent of 31,341 roles tracked across 266 companies. See [all listings](listings/README.md) for the full history.*
 
 
 <table>
@@ -80,6 +80,20 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.metacareers.com/jobsearch/?roles[0]=Internship"><img src="https://cdn.brandfetch.io/meta.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Meta" height="20" style="vertical-align:middle; margin-right:6px;"> Meta</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Research Scientist Intern, AI Research - Speech & Audio (PhD)</div></td>
+  <td>2026-10-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.metacareers.com/jobsearch/?roles[0]=Internship"><img src="https://cdn.brandfetch.io/meta.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Meta" height="20" style="vertical-align:middle; margin-right:6px;"> Meta</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Research Scientist Intern, Youth Safety (PhD)</div></td>
+  <td>2026-10-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.metacareers.com/jobsearch/?roles[0]=Internship"><img src="https://cdn.brandfetch.io/meta.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Meta" height="20" style="vertical-align:middle; margin-right:6px;"> Meta</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Research Scientist Intern, Computer Vision - Video Intelligence (PhD)</div></td>
   <td>2026-10-27</td>
 </tr>
   <tr>
@@ -5862,27 +5876,6 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/mindrobotics"><img src="https://cdn.brandfetch.io/mech-mind.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mind Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Mind Robotics</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Data Infrastructure Engineer</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/mindrobotics"><img src="https://cdn.brandfetch.io/mech-mind.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mind Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Mind Robotics</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">DevOps Engineer</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/mindrobotics"><img src="https://cdn.brandfetch.io/mech-mind.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mind Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Mind Robotics</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Engineering Manager</div></td>
-  <td>2026-10-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/mindrobotics"><img src="https://cdn.brandfetch.io/mech-mind.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mind Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Mind Robotics</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Firmware Engineer</div></td>
   <td>2026-10-22</td>
 </tr>
 
