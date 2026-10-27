@@ -23,9 +23,9 @@
 | <img src="https://cdn.brandfetch.io/citadel.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Citadel][c2] | ⭐️ Trader Fixed Income Macro Rotational Trader Intern (US) | N/A |
 | <img src="https://cdn.brandfetch.io/doordash.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Doordash][c3] | Senior Associate, International Sales Strategy & Operations | N/A |
 | <img src="https://cdn.brandfetch.io/doordash.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Doordash][c3] | Senior Director, Internal Audit | N/A |
-| <img src="https://cdn.brandfetch.io/deshaw.com/w/301/h/301?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [DE Shaws][c4] | JD/MBA Investment Analyst (New York) – Summer 2027 | N/A |
-| <img src="https://cdn.brandfetch.io/deshaw.com/w/301/h/301?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [DE Shaws][c4] | MBA Investment Analyst (New York) – Summer 2027 | N/A |
-| <img src="https://cdn.brandfetch.io/deshaw.com/w/301/h/301?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [DE Shaws][c4] | Strategy and Business Development MBA Summer Associate (New York) – Summer 2027 | N/A |
+| <img src="https://cdn.brandfetch.io/deshaw.com/w/301/h/301?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [DE Shaws][c4] | ⭐️ JD/MBA Investment Analyst (New York) – Summer 2027 | N/A |
+| <img src="https://cdn.brandfetch.io/deshaw.com/w/301/h/301?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [DE Shaws][c4] | ⭐️ MBA Investment Analyst (New York) – Summer 2027 | N/A |
+| <img src="https://cdn.brandfetch.io/deshaw.com/w/301/h/301?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [DE Shaws][c4] | ⭐️ Strategy and Business Development MBA Summer Associate (New York) – Summer 2027 | N/A |
 | <img src="https://cdn.brandfetch.io/deshaw.com/w/301/h/301?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [DE Shaws][c4] | Systems Administrator Industry Placement Year (London) | N/A |
 | <img src="https://cdn.brandfetch.io/riotgames.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Riot Games][c5] | ⭐️ Software Engineering Intern - Summer 2027 (Remote) - InternshipsInternshipsLos Angeles, USA | N/A |
 | <img src="https://cdn.brandfetch.io/riotgames.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Riot Games][c5] | ⭐️ Software Engineering Intern - Summer 2027 (Remote) | N/A |

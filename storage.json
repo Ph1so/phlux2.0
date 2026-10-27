@@ -30230,6 +30230,16 @@
         "title": "Senior Finance Manager",
         "date": "2026-10-27",
         "id": "ashby:2f9a362a-dc22-4353-bd52-529e844ddbd7"
+      },
+      {
+        "title": "Classified Systems Administrator",
+        "date": "2026-10-27",
+        "id": "ashby:0a039ea5-ab58-4ebf-a27c-1f253cdc4815"
+      },
+      {
+        "title": "Classified Network Engineer",
+        "date": "2026-10-27",
+        "id": "ashby:8a61cd97-e868-412d-ab90-19126e3965d7"
       }
     ],
     "Built Robotics": [
@@ -42575,6 +42585,31 @@
         "title": "Strategy and Operations Lead, Creative Partnerships",
         "date": "2026-10-27",
         "id": "ashby:7b70517d-8c96-4c4a-8e4a-37859cf68747"
+      },
+      {
+        "title": "Marketing Technology & Operations Lead, APAC",
+        "date": "2026-10-27",
+        "id": "ashby:a57bb806-0d67-48ba-96cc-695667eae41a"
+      },
+      {
+        "title": "Content Designer",
+        "date": "2026-10-27",
+        "id": "ashby:3942de32-739a-409a-841c-828af04bad83"
+      },
+      {
+        "title": "Core Operations Lead, Community & Culture",
+        "date": "2026-10-27",
+        "id": "ashby:cf29a76e-71a4-4e29-8a45-8cefdd301aca"
+      },
+      {
+        "title": "Senior Counsel, Competition",
+        "date": "2026-10-27",
+        "id": "ashby:92ecf75c-86ec-442d-bdfa-078789ce9579"
+      },
+      {
+        "title": "Strategic Finance, Workloads",
+        "date": "2026-10-27",
+        "id": "ashby:de0b0df5-7390-4781-9548-d8710d736909"
       }
     ],
     "John Deere": [
@@ -50908,5 +50943,6 @@
         "id": "workday:JR100231"
       }
     ]
-  }
+  },
+  "email_threads": {}
 }
