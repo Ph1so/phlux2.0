@@ -300,6 +300,11 @@
         "title": "\u2b50\ufe0f Go-to-Market Strategy Intern, NPN AI Consulting - Summer 2027",
         "date": "2026-10-26",
         "id": "workday:JR2028642"
+      },
+      {
+        "title": "\u2b50\ufe0f Customer Technical Program Management Intern, OEMs System Partner \u2013 Summer 2027",
+        "date": "2026-10-26",
+        "id": "workday:JR2028512"
       }
     ],
     "Google": [
@@ -1725,6 +1730,26 @@
         "title": "\u2b50\ufe0f Research Scientist Intern, Generative AI & Computational Photography (PhD)",
         "date": "2026-10-26",
         "id": "meta:1163507972671947"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Foundation Model Optimization (PhD)",
+        "date": "2026-10-26",
+        "id": "meta:1435245618154892"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Search (PhD)",
+        "date": "2026-10-26",
+        "id": "meta:2171476533578976"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Efficient World Foundation Models (PhD)",
+        "date": "2026-10-26",
+        "id": "meta:1423049949381658"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Multimodal and Multitasking Machine Learning (PhD)",
+        "date": "2026-10-26",
+        "id": "meta:1831104024740439"
       }
     ],
     "Apple": [
@@ -4492,6 +4517,21 @@
         "title": "\u2b50\ufe0f Human Aware Interactions and Learning Intern",
         "date": "2026-10-22",
         "id": "lever:71e99c38-aa29-4414-956d-cc526644b9b7"
+      },
+      {
+        "title": "\u2b50\ufe0f Robotics Intern, Post-Training and Continual Learning",
+        "date": "2026-10-26",
+        "id": "lever:f6541d1f-b72f-456f-829f-bf118ac10c43"
+      },
+      {
+        "title": "\u2b50\ufe0f Robotics Intern, Trustworthy Learning under Uncertainty",
+        "date": "2026-10-26",
+        "id": "lever:6f60ff79-c902-466a-912c-7ab849ce6424"
+      },
+      {
+        "title": "\u2b50\ufe0f Robotics Intern, World Foundation Models",
+        "date": "2026-10-26",
+        "id": "lever:016bbb58-857a-4367-b1aa-0cdc9f818478"
       }
     ],
     "Mitsubishi Electric Research Laboratories": [
@@ -11309,6 +11349,46 @@
         "title": "Principal Executive Recruiter",
         "date": "2026-10-23",
         "id": "ashby:2d97306a-e1dc-4894-bb03-890e73c84685"
+      },
+      {
+        "title": "\u2b50\ufe0f Perception & Mapping Intern",
+        "date": "2026-10-26",
+        "id": "ashby:688f13a4-2cc4-4f3f-a5b4-0056bc580224"
+      },
+      {
+        "title": "\u2b50\ufe0f Safety & Systems Engineering Intern",
+        "date": "2026-10-26",
+        "id": "ashby:058e3b3a-dd13-4736-84a8-b19d5de2c9f5"
+      },
+      {
+        "title": "\u2b50\ufe0f Full Stack Intern",
+        "date": "2026-10-26",
+        "id": "ashby:bc852c2c-945f-4a1e-b383-54a0f6e0ace9"
+      },
+      {
+        "title": "\u2b50\ufe0f Simulation Engineering Intern",
+        "date": "2026-10-26",
+        "id": "ashby:f63bb8e2-9ead-4322-beb9-4bcbdbbe14bd"
+      },
+      {
+        "title": "\u2b50\ufe0f Behavior & Planning (ML Research) Intern",
+        "date": "2026-10-26",
+        "id": "ashby:a90b7522-4e66-4247-b9ec-7e2bb50b78f4"
+      },
+      {
+        "title": "\u2b50\ufe0f AI Engineer Intern",
+        "date": "2026-10-26",
+        "id": "ashby:475a24d7-a058-4f86-be8f-fd6be679af9c"
+      },
+      {
+        "title": "\u2b50\ufe0f Core Autonomy Software (C++) Intern",
+        "date": "2026-10-26",
+        "id": "ashby:c823b343-ba1f-4ff3-84ce-965ee9952c12"
+      },
+      {
+        "title": "\u2b50\ufe0f Data & ML Platform Engineering Intern",
+        "date": "2026-10-26",
+        "id": "ashby:da4c8e2e-0571-4503-94d9-234da86f83b0"
       }
     ],
     "Zoox": [
@@ -21249,6 +21329,11 @@
         "title": "Director, AV Product Engineering",
         "date": "2026-10-26",
         "id": "ashby:6cbb86ef-0834-489d-91c7-e1252e0caa99"
+      },
+      {
+        "title": "Data Scientist, Robotaxi Performance & Capability",
+        "date": "2026-10-26",
+        "id": "ashby:6fd80c71-b139-41b9-8ecd-1c5d939fdc6e"
       }
     ],
     "Bedrock Robotics": [
@@ -21501,7 +21586,8 @@
       },
       {
         "title": "Engineering Job",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "id": "ashby:5f348ef0-872b-4507-a381-07f54be5900b"
       },
       {
         "title": "Head of Validation and Verification",
@@ -21567,6 +21653,11 @@
         "title": "Technical Program Manager, Safety",
         "date": "2026-10-23",
         "id": "ashby:e818c514-58d0-4e67-8e6b-a4c6e062f201"
+      },
+      {
+        "title": "Hardware Engineer, Autonomy Platforms",
+        "date": "2026-10-26",
+        "id": "ashby:1f1f0030-d201-428e-925a-6c2cb2c774bb"
       }
     ],
     "Applied Intuition": [
@@ -25419,6 +25510,11 @@
         "title": "Staff/Senior Staff Computer Vision Engineer - Map team",
         "date": "2026-10-22",
         "id": "ashby:7d21bc69-aeb7-4c9d-84bd-98b9680313e3"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineering Intern (Summer 2027) - Native SDK & Mobile Platforms",
+        "date": "2026-10-26",
+        "id": "ashby:ed68b062-4dcb-4deb-9cc0-ed38030f6e43"
       }
     ],
     "World Labs": [
@@ -26219,6 +26315,11 @@
         "title": "Finance Subject Matter Expert, AI Models, Evaluations and Data, DeepMind",
         "date": "2026-10-26",
         "id": "google:81270900506141382"
+      },
+      {
+        "title": "Game Designer, Inception, DeepMind (Fixed-Term Contract)",
+        "date": "2026-10-26",
+        "id": "google:84645954526814918"
       }
     ],
     "Wing": [
@@ -27045,6 +27146,11 @@
         "title": "Quality Inspector",
         "date": "2026-10-23",
         "id": "greenhouse:4465250009"
+      },
+      {
+        "title": "Operations Supervisor (Haslet, TX)",
+        "date": "2026-10-26",
+        "id": "greenhouse:4173085009"
       }
     ],
     "Outrider": [
@@ -29818,6 +29924,11 @@
         "title": "Systems Integration & Test (SI&T) Manager - Combat System",
         "date": "2026-10-26",
         "id": "ashby:2a731c1f-dadc-4a73-bc0f-a431fc245156"
+      },
+      {
+        "title": "Senior Program Coordinator",
+        "date": "2026-10-26",
+        "id": "ashby:e0baf43c-7dc1-413f-993c-595d89a50765"
       }
     ],
     "Built Robotics": [
@@ -42043,6 +42154,41 @@
         "title": "Project Manager, Design and Construction - R&D/Lab Buildouts",
         "date": "2026-10-26",
         "id": "ashby:7ad77c42-4fc5-4e03-86d3-aaa99d6f2fe9"
+      },
+      {
+        "title": "Value Engineer - San Francisco",
+        "date": "2026-10-26",
+        "id": "ashby:916fa6f6-f441-43c6-9769-27e4bf0b2cc9"
+      },
+      {
+        "title": "Value Engineer - NYC",
+        "date": "2026-10-26",
+        "id": "ashby:d134caf2-907c-4c85-be2d-fad477d2b425"
+      },
+      {
+        "title": "Events Designer, Business Marketing",
+        "date": "2026-10-26",
+        "id": "ashby:9711a982-851c-4f55-a5ae-080ea4bad520"
+      },
+      {
+        "title": "Software Engineer, Physical Engineering",
+        "date": "2026-10-26",
+        "id": "ashby:2c646ef9-6f93-4124-9d51-964d2c5aa783"
+      },
+      {
+        "title": "Product Cost Management Lead - AI Infrastructure",
+        "date": "2026-10-26",
+        "id": "ashby:ed9255f0-981f-49e9-8b01-9fd203141929"
+      },
+      {
+        "title": "Counsel, Employment",
+        "date": "2026-10-26",
+        "id": "ashby:c1241d53-0948-4f27-82fb-18192830dbf1"
+      },
+      {
+        "title": "Program Manager, Critical Harm Operations",
+        "date": "2026-10-26",
+        "id": "ashby:aaf9aa75-e782-49a0-8820-79b96f343bb0"
       }
     ],
     "John Deere": [
