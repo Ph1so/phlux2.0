@@ -1164,6 +1164,16 @@
         "title": "\u2b50\ufe0f Tech Ops Engineer Intern, 2027 Tech Ops Intern",
         "date": "2026-10-26",
         "id": "amazon:10588969"
+      },
+      {
+        "title": "\u2b50\ufe0f Network Development Engineer Intern, 2027 Summer",
+        "date": "2026-10-27",
+        "id": "amazon:10590368"
+      },
+      {
+        "title": "\u2b50\ufe0f Database Engineer Intern - Summer 2027",
+        "date": "2026-10-27",
+        "id": "amazon:10590290"
       }
     ],
     "Meta": [
@@ -1750,6 +1760,36 @@
         "title": "\u2b50\ufe0f Research Scientist Intern, Multimodal and Multitasking Machine Learning (PhD)",
         "date": "2026-10-26",
         "id": "meta:1831104024740439"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, FAIR - Video Generation Self-Improvement (PhD)",
+        "date": "2026-10-27",
+        "id": "meta:29358420983776961"
+      },
+      {
+        "title": "\u2b50\ufe0f Product Design Engineering Intern \u2014 AI Glasses",
+        "date": "2026-10-27",
+        "id": "meta:1714201770266311"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Ranking & Recommendations (PhD)",
+        "date": "2026-10-27",
+        "id": "meta:1625515955324134"
+      },
+      {
+        "title": "\u2b50\ufe0f Wireless Engineering Intern",
+        "date": "2026-10-27",
+        "id": "meta:1881250979530334"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, AI Research - Speech & Audio (PhD)",
+        "date": "2026-10-27",
+        "id": "meta:1567168005156007"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, AI Research - Speech & Audio (PhD)",
+        "date": "2026-10-27",
+        "id": "meta:1811645993254851"
       }
     ],
     "Apple": [
@@ -3844,6 +3884,11 @@
         "title": "\u2b50\ufe0f Systems Test Engineer - Co-Op",
         "date": "2026-10-26",
         "id": "workday:R3312"
+      },
+      {
+        "title": "\u2b50\ufe0f Electrical Engineer Co-Op",
+        "date": "2026-10-27",
+        "id": "workday:R3315"
       }
     ],
     "Skydio": [
@@ -4375,6 +4420,11 @@
         "title": "Operations Specialist",
         "date": "2026-10-26",
         "id": "greenhouse:4458981009"
+      },
+      {
+        "title": "Staff Software Engineer, Motion Planning",
+        "date": "2026-10-27",
+        "id": "greenhouse:4468395009"
       }
     ],
     "XPENG": [
@@ -5367,6 +5417,11 @@
         "title": "\u2b50\ufe0f Logistics Industrial Engineer Intern, Cell Engineering (Winter/Spring 2027)",
         "date": "2026-10-22",
         "id": "tesla:287545"
+      },
+      {
+        "title": "Engineering Technician Program Trainee",
+        "date": "2026-10-27",
+        "id": "tesla:287928"
       }
     ],
     "Gecko Robotics": [
@@ -6377,7 +6432,8 @@
       },
       {
         "title": "Software Verification Engineer, AV Platform (Early Career)",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "workday:JR-202611592"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - PFMEA Manufacturing Engineer",
@@ -8073,6 +8129,11 @@
         "title": "Senior HR Generalist, Onboarding and L&D",
         "date": "2026-10-26",
         "id": "greenhouse:8917772002"
+      },
+      {
+        "title": "Staff Mechanical Engineer, Technical Lead",
+        "date": "2026-10-27",
+        "id": "greenhouse:8919551002"
       }
     ],
     "Figure AI": [
@@ -8869,6 +8930,11 @@
         "title": "Senior Program Manager",
         "date": "2026-10-26",
         "id": "greenhouse:8044945003"
+      },
+      {
+        "title": "Senior Engineer, In-Car Visualization",
+        "date": "2026-10-27",
+        "id": "greenhouse:8046057003"
       }
     ],
     "Apptronik": [
@@ -9309,6 +9375,16 @@
         "title": "Staff Systems Safety Engineer (Compliance)",
         "date": "2026-10-26",
         "id": "greenhouse:6235159004"
+      },
+      {
+        "title": "Software Engineer - Dexterous Manipulation",
+        "date": "2026-10-27",
+        "id": "greenhouse:6135687004"
+      },
+      {
+        "title": "Software Engineer - Manipulation",
+        "date": "2026-10-27",
+        "id": "greenhouse:6236582004"
       }
     ],
     "Titan Robotics": [
@@ -11409,6 +11485,11 @@
         "title": "\u2b50\ufe0f Data & ML Platform Engineering Intern",
         "date": "2026-10-26",
         "id": "ashby:da4c8e2e-0571-4503-94d9-234da86f83b0"
+      },
+      {
+        "title": "Associate Manager, Tactical Operations",
+        "date": "2026-10-27",
+        "id": "ashby:eb30effe-3d6b-4cf5-a022-b5b70dccab45"
       }
     ],
     "Zoox": [
@@ -13936,6 +14017,11 @@
         "title": "Financial Analyst, Robot Platform",
         "date": "2026-10-26",
         "id": "lever:54057cb7-173f-4dff-a435-7670f80fbf52"
+      },
+      {
+        "title": "Senior People Partner",
+        "date": "2026-10-27",
+        "id": "lever:f42608dc-b331-4bd1-86bc-371ac3285d75"
       }
     ],
     "Pony.ai": [
@@ -15339,6 +15425,11 @@
         "title": "Test Validation Engineer",
         "date": "N/A",
         "id": "greenhouse:8082658"
+      },
+      {
+        "title": "Embedded Software Engineer",
+        "date": "2026-10-27",
+        "id": "greenhouse:8180955"
       }
     ],
     "Aeva": [
@@ -15744,6 +15835,11 @@
         "title": "Senior Electrical Engineer - Rochester, NY/ Mountainview, CA",
         "date": "2026-10-23",
         "id": "lever:6b5a6135-d57d-4413-9b92-2938ed080af8"
+      },
+      {
+        "title": "Senior DSP Engineer",
+        "date": "2026-10-27",
+        "id": "lever:ffcdfc3c-9aa7-435a-bab9-4d8c4cb46456"
       }
     ],
     "Bosch": [
@@ -17070,6 +17166,11 @@
         "title": "\u2b50\ufe0f Human Resources (HR) Talent Development Intern (6 months)",
         "date": "2026-10-27",
         "id": "smartrecruiters:744000158060297"
+      },
+      {
+        "title": "\u2b50\ufe0f Motorsport Engineering Internship - 2027",
+        "date": "2026-10-27",
+        "id": "smartrecruiters:744000158110593"
       }
     ],
     "Intrinsic": [
@@ -17382,6 +17483,11 @@
         "title": "Illustrator, Product (Contract)",
         "date": "2026-10-21",
         "id": "ashby:f12c7f79-0fee-4b3b-89bc-de395284cff8"
+      },
+      {
+        "title": "Inventory Specialist",
+        "date": "2026-10-27",
+        "id": "ashby:06558963-abd7-4f99-ac8d-ff4adde80e3f"
       }
     ],
     "Machina Labs": [
@@ -20927,6 +21033,11 @@
         "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency",
         "date": "2026-10-23",
         "id": "greenhouse:8287385"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Sensor Performance Engineer Intern",
+        "date": "2026-10-27",
+        "id": "greenhouse:8319171"
       }
     ],
     "Wayve": [
@@ -21369,6 +21480,11 @@
         "title": "Data Scientist, Robotaxi Performance & Capability",
         "date": "2026-10-26",
         "id": "ashby:6fd80c71-b139-41b9-8ecd-1c5d939fdc6e"
+      },
+      {
+        "title": "Purchasing Manager",
+        "date": "2026-10-27",
+        "id": "ashby:30554335-937c-4ec4-83ea-bdd7a4969ea1"
       }
     ],
     "Bedrock Robotics": [
@@ -23669,6 +23785,11 @@
         "title": "Developer Tooling Engineer - Middle East",
         "date": "2026-10-27",
         "id": "ashby:b958e1ea-e060-4121-9014-ac9e54373897"
+      },
+      {
+        "title": "Senior Accounts Payable Manager",
+        "date": "2026-10-27",
+        "id": "ashby:46086d23-d03e-438d-a037-df8ac81b55b5"
       }
     ],
     "FieldAI": [
@@ -31848,6 +31969,16 @@
         "title": "Senior Software Engineer (C++)",
         "date": "2026-10-26",
         "id": "rippling:722fb9eb-7797-4710-9a97-7261f8fc7350"
+      },
+      {
+        "title": "Senior Backend Systems Engineer - Real Time Video & Telemetry Streaming",
+        "date": "2026-10-27",
+        "id": "rippling:a6f977e7-e14a-4ca0-910c-4d282674cc57"
+      },
+      {
+        "title": "Software Engineer - C2 Interfaces & Integrations",
+        "date": "2026-10-27",
+        "id": "rippling:0671f36d-d379-4ca0-8260-f825f8dd742d"
       }
     ],
     "Berkshire Grey": [
@@ -32029,6 +32160,11 @@
         "title": "PROGRAM MANAGER",
         "date": "2026-10-21",
         "id": "paylocity:4588225"
+      },
+      {
+        "title": "ENGINEER, EMBEDDED SYSTEMS (ELECTRONICS)",
+        "date": "2026-10-27",
+        "id": "paylocity:4617938"
       }
     ],
     "Stryker": [
@@ -33409,6 +33545,26 @@
         "title": "Manager, Industrial Controls Engineering",
         "date": "2026-10-26",
         "id": "workday:R8331"
+      },
+      {
+        "title": "Customer Partner, Leader (Operations)",
+        "date": "2026-10-27",
+        "id": "workday:R8343-1"
+      },
+      {
+        "title": "Senior Technical Portfolio Manager",
+        "date": "2026-10-27",
+        "id": "workday:R8351"
+      },
+      {
+        "title": "Associate Project Manager",
+        "date": "2026-10-27",
+        "id": "workday:R8333"
+      },
+      {
+        "title": "Senior Machine Learning Engineer",
+        "date": "2026-10-27",
+        "id": "workday:R6028"
       }
     ],
     "PROCEPT BioRobotics": [
@@ -42299,6 +42455,11 @@
         "title": "Site Civil, Structural & Architectural Lead (CSLA)",
         "date": "2026-10-27",
         "id": "ashby:d1abed60-d3d1-4c8d-a58b-3a96139fbf4e"
+      },
+      {
+        "title": "Technical Program Manager, Lab Infrastructure (Silicon & Systems)",
+        "date": "2026-10-27",
+        "id": "ashby:533659ff-2272-4683-87c9-b07d00feea4c"
       }
     ],
     "John Deere": [
@@ -43850,6 +44011,11 @@
         "title": "Senior Robotics Software Engineer",
         "date": "2026-10-22",
         "id": "paycor:8a7887a1a064211201a091ac16257a75"
+      },
+      {
+        "title": "Senior Strategic Account Executive \u2013 Automotive (OEM & Tier 1)",
+        "date": "2026-10-27",
+        "id": "paycor:8a78859fa152cc4201a15f86074a0c72"
       }
     ],
     "Realtime Robotics": [],
@@ -44000,6 +44166,18 @@
       },
       {
         "title": "Chief of Staff",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "Mechanical Engineering Co\u2011op, Robot Hardware - CO\u2011OP",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "Software Engineering Co\u2011op, Teleoperation - CO\u2011OP",
+        "date": "2026-10-27"
+      },
+      {
+        "title": "\u2b50\ufe0f Robot Learning Intern - INTERNSHIP",
         "date": "2026-10-27"
       }
     ]
