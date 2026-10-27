@@ -4661,6 +4661,11 @@
         "title": "\u2b50\ufe0f CV0333: Internship - Anomaly Localization for Industrial Inspection",
         "date": "2026-10-24",
         "id": "html:https://www.merl.com/employment/internship-openings#CV0333"
+      },
+      {
+        "title": "\u2b50\ufe0f SA0341: Internship - Acoustic metamaterials and active noise control",
+        "date": "2026-10-27",
+        "id": "html:https://www.merl.com/employment/internship-openings#SA0341"
       }
     ],
     "Onward Robotics": [
@@ -7547,6 +7552,11 @@
         "title": "Maintenance & Repair Technician",
         "date": "2026-10-21",
         "id": "greenhouse:6229755004"
+      },
+      {
+        "title": "Senior Manager, Marketing Programs",
+        "date": "2026-10-27",
+        "id": "greenhouse:6230285004"
       }
     ],
     "Cobot": [
@@ -7746,6 +7756,11 @@
         "title": "DevOps Manager",
         "date": "2026-10-25",
         "id": "teamio:2001331680"
+      },
+      {
+        "title": "Application Mechatronics Engineer",
+        "date": "2026-10-27",
+        "id": "teamio:2001501244"
       }
     ],
     "Ambi Robotics": [
@@ -10755,6 +10770,11 @@
         "title": "Site Operations Manager",
         "date": "2026-10-20",
         "id": "greenhouse:8900334002"
+      },
+      {
+        "title": "Autonomy Engineering Manager - Behavior Prediction and Intent",
+        "date": "2026-10-27",
+        "id": "greenhouse:8900369002"
       }
     ],
     "Beep": [
@@ -17045,6 +17065,11 @@
         "title": "\u2b50\ufe0f Agentic AI R&D Intern",
         "date": "2026-10-23",
         "id": "smartrecruiters:744000157483412"
+      },
+      {
+        "title": "\u2b50\ufe0f Human Resources (HR) Talent Development Intern (6 months)",
+        "date": "2026-10-27",
+        "id": "smartrecruiters:744000158060297"
       }
     ],
     "Intrinsic": [
@@ -18050,6 +18075,11 @@
         "title": "Software Systems Engineer, Safety Critical Embedded Systems",
         "date": "2026-10-23",
         "id": "rippling:9f3ad57e-f432-40ee-99a8-191fb6e73fae"
+      },
+      {
+        "title": "Staff System Safety Engineer",
+        "date": "2026-10-27",
+        "id": "rippling:4462b204-0ced-4021-a9b3-f7eb54860515"
       }
     ],
     "Pickle Robot": [
@@ -18585,6 +18615,11 @@
         "title": "Operations Supervisor, Autonomous GSE Operators",
         "date": "2026-10-14",
         "id": "ashby:957dcc7c-fd83-4b95-88ae-a32c1f8a0168"
+      },
+      {
+        "title": "IT Systems Lead",
+        "date": "2026-10-27",
+        "id": "ashby:ebf4db44-3f01-45b4-9642-6d945afcfbd8"
       }
     ],
     "Gather AI": [
@@ -23619,6 +23654,21 @@
         "title": "Cross Functional Producer",
         "date": "2026-10-26",
         "id": "ashby:6305a106-b2ab-4f7f-bd8d-0420c0b56c75"
+      },
+      {
+        "title": "System Engineer",
+        "date": "2026-10-27",
+        "id": "ashby:20ca8365-8984-4816-afdf-c5a7dde1a7f7"
+      },
+      {
+        "title": "Software Integration Engineer - Middle East",
+        "date": "2026-10-27",
+        "id": "ashby:e4b5f3e2-8966-408f-9d2c-36daa1c993d5"
+      },
+      {
+        "title": "Developer Tooling Engineer - Middle East",
+        "date": "2026-10-27",
+        "id": "ashby:b958e1ea-e060-4121-9014-ac9e54373897"
       }
     ],
     "FieldAI": [
@@ -26325,6 +26375,21 @@
         "title": "Game Designer, Inception, DeepMind (Fixed-Term Contract)",
         "date": "2026-10-26",
         "id": "google:84645954526814918"
+      },
+      {
+        "title": "Senior Security Engineer, Agentic Red Team, DeepMind",
+        "date": "2026-10-27",
+        "id": "google:126767008036332230"
+      },
+      {
+        "title": "Research Scientist, Robotics Data, Pretraining, DeepMind",
+        "date": "2026-10-27",
+        "id": "google:89853379034915526"
+      },
+      {
+        "title": "Senior Research Engineer, AI Assisted Chip Design, DeepMind",
+        "date": "2026-10-27",
+        "id": "google:98309173208326854"
       }
     ],
     "Wing": [
@@ -27719,6 +27784,11 @@
         "title": "Customer Success Manager",
         "date": "2026-10-26",
         "id": "greenhouse:4724475006"
+      },
+      {
+        "title": "Customer Success Manager - Philadelphia, PA",
+        "date": "2026-10-27",
+        "id": "greenhouse:4724473006"
       }
     ],
     "Waabi": [
@@ -28243,6 +28313,11 @@
         "title": "Director of Communications",
         "date": "2026-10-26",
         "id": "lever:e2c99391-2880-414f-9a59-c2799dbd12f5"
+      },
+      {
+        "title": "Operations Analyst",
+        "date": "2026-10-27",
+        "id": "lever:4d3d7741-f357-4a6d-b18f-60e2541c1a7f"
       }
     ],
     "Stack AV": [
@@ -36054,6 +36129,11 @@
         "title": "Shift Lead, Robot Operations (2nd Shift)",
         "date": "2026-10-26",
         "id": "rippling:6629bdee-503b-42f9-b8f0-1806d729905c"
+      },
+      {
+        "title": "Senior IT Engineer",
+        "date": "2026-10-27",
+        "id": "rippling:b586237b-c3c6-441c-8914-8de50c72392a"
       }
     ],
     "Woven by Toyota": [
@@ -36792,6 +36872,16 @@
         "title": "\u30c7\u30fc\u30bf\u30a8\u30f3\u30b8\u30cb\u30a2\u30fbCity Data Platform Development\uff08\u969c\u304c\u3044\u8005\u96c7\u7528\uff09",
         "date": "2026-10-22",
         "id": "lever:3a9d97c8-24c0-4213-ae6e-0745e3922970"
+      },
+      {
+        "title": "Senior Technical Program Manager, Active Learning Loop",
+        "date": "2026-10-27",
+        "id": "lever:1b08ea84-bc28-4fbd-86ea-90bbc81fab5e"
+      },
+      {
+        "title": "\u30b7\u30cb\u30a2\u30c6\u30af\u30cb\u30ab\u30eb\u30d7\u30ed\u30b0\u30e9\u30e0\u30de\u30cd\u30fc\u30b8\u30e3\u30fc \u30fbActive Learning Loop",
+        "date": "2026-10-27",
+        "id": "lever:553a0b31-0216-41d5-a8ef-fd5c4847d39a"
       }
     ],
     "Generalist AI": [
@@ -37801,6 +37891,11 @@
         "title": "Sustainability Manager",
         "date": "2026-10-23",
         "id": "greenhouse:5013401101"
+      },
+      {
+        "title": "Senior Product Manager - Retrieval",
+        "date": "2026-10-27",
+        "id": "greenhouse:4986184101"
       }
     ],
     "Northrop Grumman": [
@@ -42194,6 +42289,16 @@
         "title": "Program Manager, Critical Harm Operations",
         "date": "2026-10-26",
         "id": "ashby:aaf9aa75-e782-49a0-8820-79b96f343bb0"
+      },
+      {
+        "title": "Tax Director, Tax Counsel",
+        "date": "2026-10-27",
+        "id": "ashby:30e3b7b2-1fe4-49a4-a82f-9c34626f0441"
+      },
+      {
+        "title": "Site Civil, Structural & Architectural Lead (CSLA)",
+        "date": "2026-10-27",
+        "id": "ashby:d1abed60-d3d1-4c8d-a58b-3a96139fbf4e"
       }
     ],
     "John Deere": [
@@ -43217,6 +43322,31 @@
         "title": "SecOps Specialist",
         "date": "2026-10-26",
         "id": "lever:c24c144a-031e-4008-8ddb-424b83307ec2"
+      },
+      {
+        "title": "C++ Software Engineer",
+        "date": "2026-10-27",
+        "id": "lever:9495066e-ebcc-49ed-bac5-0480be15753f"
+      },
+      {
+        "title": "Production Quality Engineer",
+        "date": "2026-10-27",
+        "id": "lever:0a1d7baf-bfbe-466a-b12b-05ca3936108c"
+      },
+      {
+        "title": "Production Quality Engineer",
+        "date": "2026-10-27",
+        "id": "lever:23239c7c-5aa1-449b-bc44-4b754d4f42c5"
+      },
+      {
+        "title": "Production Quality Engineer",
+        "date": "2026-10-27",
+        "id": "lever:6c2c3630-b6cc-465b-9671-2a5dbbf0017d"
+      },
+      {
+        "title": "Production Quality Engineer",
+        "date": "2026-10-27",
+        "id": "lever:ad23da3b-e74e-4b41-84b5-bb8abfa125a6"
       }
     ],
     "Dusty Robotics": [
@@ -43816,6 +43946,11 @@
         "title": "\u2b50\ufe0f Marketing Internship (human)",
         "date": "2026-10-26",
         "id": "ashby:40a99678-e2e4-4306-acd5-5293d2d67480"
+      },
+      {
+        "title": "\u2b50\ufe0f Marketing Internship (Mensch)",
+        "date": "2026-10-27",
+        "id": "ashby:05468581-45bd-44d1-a2b7-fb024d2517e8"
       }
     ],
     "Mundane": [
