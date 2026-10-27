@@ -273,3 +273,4 @@ Neura Robotics,https://jobs.ashbyhq.com/neura-robotics-gmbh,@ashby->FILTER:inter
 Dusty Robotics,https://ats.rippling.com/dusty-robotics-inc/jobs?page=0&pageSize=100,@rippling
 Vecna Robotics,https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d066998dd60166a3122fb873a0&m=t,@paycor
 Realtime Robotics,https://apply.workable.com/realtime-robotics/,@workable
+Mundane,https://mundane.co/careers,CLICK:#roles details.dept:nth-of-type(1) > summary->CLICK:#roles details.dept:nth-of-type(2) > summary->CLICK:#roles details.dept:nth-of-type(3) > summary->CLICK:#roles details.dept:nth-of-type(4) > summary->CSS:a[href^='/careers/'] h3
