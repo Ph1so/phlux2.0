@@ -274,3 +274,8 @@ Dusty Robotics,https://ats.rippling.com/dusty-robotics-inc/jobs?page=0&pageSize=
 Vecna Robotics,https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d066998dd60166a3122fb873a0&m=t,@paycor
 Realtime Robotics,https://apply.workable.com/realtime-robotics/,@workable
 Mundane,https://mundane.co/careers,CLICK:#roles details.dept:nth-of-type(1) > summary->CLICK:#roles details.dept:nth-of-type(2) > summary->CLICK:#roles details.dept:nth-of-type(3) > summary->CLICK:#roles details.dept:nth-of-type(4) > summary->CSS:a[href^='/careers/'] h3
+Anthropic,https://job-boards.greenhouse.io/anthropic,@greenhouse
+xAI,https://job-boards.greenhouse.io/xai,@greenhouse
+Thinking Machines Lab,https://jobs.ashbyhq.com/thinkingmachines,@ashby
+Bot Auto,https://job-boards.greenhouse.io/botauto,@greenhouse
+Slate Auto,https://recar.wd108.myworkdayjobs.com/SLATEcareers,@workday
