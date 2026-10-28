@@ -708,6 +708,11 @@
         "title": "\u2b50\ufe0f Research Intern - Machine Learning and Optimization - Redmond",
         "date": "2026-10-28",
         "id": "eightfold:1970393557049981"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Intern - MSR Systems Research Group - Redmond",
+        "date": "2026-10-28",
+        "id": "eightfold:1970393557050039"
       }
     ],
     "Amazon": [
@@ -1830,6 +1835,11 @@
         "title": "\u2b50\ufe0f ASIC Engineer Intern, Physical Design",
         "date": "2026-10-28",
         "id": "meta:1823027662342331"
+      },
+      {
+        "title": "\u2b50\ufe0f Technical Program Manager Intern, Global Supply Management \u2014 Reality Labs (2027)",
+        "date": "2026-10-28",
+        "id": "meta:3333103890230916"
       }
     ],
     "Apple": [
@@ -5744,6 +5754,11 @@
         "title": "\u2b50\ufe0f Reinforcement Learning Intern",
         "date": "2026-10-28",
         "id": "smartrecruiters:744000158310864"
+      },
+      {
+        "title": "\u2b50\ufe0f Medical Education & Communication Intern",
+        "date": "2026-10-28",
+        "id": "smartrecruiters:744000158361530"
       }
     ],
     "Stoke Space": [
@@ -7720,6 +7735,11 @@
         "title": "Senior Manager, Marketing Programs",
         "date": "2026-10-27",
         "id": "greenhouse:6230285004"
+      },
+      {
+        "title": "Staff Robotics Architect - Embedded Systems",
+        "date": "2026-10-28",
+        "id": "greenhouse:6208306004"
       }
     ],
     "Cobot": [
@@ -9848,6 +9868,16 @@
         "title": "Software Engineer, Robot Integration and Test",
         "date": "2026-10-28",
         "id": "greenhouse:5465556008"
+      },
+      {
+        "title": "Electronic Technician \u2013 Wire Harness Fabrication",
+        "date": "2026-10-28",
+        "id": "greenhouse:5466370008"
+      },
+      {
+        "title": "Hardware Validation - Electrical Engineer",
+        "date": "2026-10-28",
+        "id": "greenhouse:5233633008"
       }
     ],
     "Sanctuary AI": [
@@ -11627,6 +11657,11 @@
         "title": "\u2b50\ufe0f Lidar R&D and Architecture Intern",
         "date": "2026-10-28",
         "id": "ashby:b61cb8ea-3ab6-46ed-90d7-be3ad9ac85ad"
+      },
+      {
+        "title": "Senior Hardware Reliability Engineer",
+        "date": "2026-10-28",
+        "id": "ashby:d48259b5-237d-4f25-8084-f5a11eaf8b3e"
       }
     ],
     "Zoox": [
@@ -14159,6 +14194,11 @@
         "title": "Senior People Partner",
         "date": "2026-10-27",
         "id": "lever:f42608dc-b331-4bd1-86bc-371ac3285d75"
+      },
+      {
+        "title": "Machine Learning Engineer - Vision Foundation Models",
+        "date": "2026-10-28",
+        "id": "lever:06f146c2-25f6-40fd-8393-4f92ce518929"
       }
     ],
     "Pony.ai": [
@@ -17931,6 +17971,11 @@
         "title": "Technical Program Manager, Maritime International Deployments",
         "date": "N/A",
         "id": "greenhouse:5252777007"
+      },
+      {
+        "title": "\u2b50\ufe0f Winter 2027 Library Science Co-op",
+        "date": "2026-10-28",
+        "id": "greenhouse:5278662007"
       }
     ],
     "Matic Robots": [
@@ -23987,6 +24032,16 @@
         "title": "Perception Engineer, Autonomy (Air Domain)",
         "date": "2026-10-28",
         "id": "ashby:7edcde77-bf0c-4ee3-a7cc-77f3a60f1036"
+      },
+      {
+        "title": "Software Engineer (Autonomy Tools - Sensor Sim)",
+        "date": "2026-10-28",
+        "id": "ashby:2f3f027d-9f9e-4469-955b-229b04db1141"
+      },
+      {
+        "title": "Systems Engineer, Insights and Analytics (SDS Trucking)",
+        "date": "2026-10-28",
+        "id": "ashby:3b27bf8a-0890-4f46-b003-e838a0ce7432"
       }
     ],
     "FieldAI": [
@@ -27574,6 +27629,11 @@
         "title": "Operations Supervisor (Haslet, TX)",
         "date": "2026-10-26",
         "id": "greenhouse:4173085009"
+      },
+      {
+        "title": "Senior Systems Integration & Test Engineer",
+        "date": "2026-10-28",
+        "id": "greenhouse:4469005009"
       }
     ],
     "Outrider": [
@@ -29045,6 +29105,11 @@
         "title": "Data Annotator I (Fixed Term)",
         "date": "2026-10-26",
         "id": "greenhouse:8916327002"
+      },
+      {
+        "title": "Senior Systems Engineer \u2013 AD-Kit Components",
+        "date": "2026-10-28",
+        "id": "greenhouse:8921954002"
       }
     ],
     "Saronic": [
@@ -32261,6 +32326,11 @@
         "title": "Software Engineer - C2 Interfaces & Integrations",
         "date": "2026-10-27",
         "id": "rippling:0671f36d-d379-4ca0-8260-f825f8dd742d"
+      },
+      {
+        "title": "Senior Manager - Enterprise Data & Applications",
+        "date": "2026-10-28",
+        "id": "rippling:11463e87-6f34-469c-b5d6-a14c838e892e"
       }
     ],
     "Berkshire Grey": [
@@ -38060,6 +38130,11 @@
         "title": "\u2b50\ufe0f 2027 Summer Corporate Intern - Procurement",
         "date": "2026-10-22",
         "id": "workday:R0000380151"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Corporate Intern - Information Technology",
+        "date": "2026-10-28",
+        "id": "workday:R0000383086-1"
       }
     ],
     "Ocado": [
@@ -42847,6 +42922,36 @@
         "title": "Network Infrastructure Lead",
         "date": "2026-10-28",
         "id": "ashby:6c1d86d0-e89d-475b-a324-6c57fa30b345"
+      },
+      {
+        "title": "BIM Designer & Coordinator",
+        "date": "2026-10-28",
+        "id": "ashby:ad6b55f9-fa63-4860-b852-d90592e49d1c"
+      },
+      {
+        "title": "Communications Lead, Cyber",
+        "date": "2026-10-28",
+        "id": "ashby:c12ea9bc-8590-4913-a213-1977296fb3db"
+      },
+      {
+        "title": "Engineering Manager, Guardian",
+        "date": "2026-10-28",
+        "id": "ashby:a02f6f9c-2006-41db-b9b3-04654f8dfd5a"
+      },
+      {
+        "title": "Design Engineer: Power Generation",
+        "date": "2026-10-28",
+        "id": "ashby:5a4a52a0-2eee-4cde-8b9f-320ebff572a4"
+      },
+      {
+        "title": "Research Engineer / Research Scientist, Human Flourishing",
+        "date": "2026-10-28",
+        "id": "ashby:0f600ed1-d70a-4648-820f-a1d1da3f7617"
+      },
+      {
+        "title": "Data Scientist, Cloud Distribution & Growth",
+        "date": "2026-10-28",
+        "id": "ashby:b82699a2-5819-4276-a402-fd88f56f9246"
       }
     ],
     "John Deere": [
@@ -42917,6 +43022,11 @@
         "title": "\u2b50\ufe0f Mechanical Engineer Intern, Autonomy (Summer 2027)",
         "date": "2026-10-22",
         "id": "icims:5494"
+      },
+      {
+        "title": "\u2b50\ufe0f Powertrain Mechanical Engineer, Battery (Intern Summer 2027)",
+        "date": "2026-10-28",
+        "id": "icims:5493"
       }
     ],
     "Mobileye": [
@@ -45203,6 +45313,21 @@
         "title": "Associate Director/Director, Frontier and AI Product Counsel",
         "date": "2026-10-28",
         "id": "greenhouse:4429017009"
+      },
+      {
+        "title": "\u2b50\ufe0f Co-Op, Electron Microscopy",
+        "date": "2026-10-28",
+        "id": "greenhouse:4469144009"
+      },
+      {
+        "title": "\u2b50\ufe0f Co-Op, Finance",
+        "date": "2026-10-28",
+        "id": "greenhouse:4469146009"
+      },
+      {
+        "title": "\u2b50\ufe0f Co-Op, Structuring Scientific Data for Discovery",
+        "date": "2026-10-28",
+        "id": "greenhouse:4469150009"
       }
     ],
     "Anthropic": [
@@ -48615,6 +48740,26 @@
         "title": "Data Science Tech Lead Manager, Model Experience",
         "date": "2026-10-28",
         "id": "greenhouse:5197211008"
+      },
+      {
+        "title": "Anthropic Research Resident",
+        "date": "2026-10-28",
+        "id": "greenhouse:5439169008"
+      },
+      {
+        "title": "Anthropic Research Resident",
+        "date": "2026-10-28",
+        "id": "greenhouse:5438311008"
+      },
+      {
+        "title": "Senior Partner Systems Analyst",
+        "date": "2026-10-28",
+        "id": "greenhouse:5465561008"
+      },
+      {
+        "title": "Staff+ Software Engineer, Deployment",
+        "date": "2026-10-28",
+        "id": "greenhouse:5466480008"
       }
     ],
     "xAI": [
@@ -50419,6 +50564,11 @@
         "title": "Security Engineer, Detection & Response",
         "date": "2026-10-27",
         "id": "ashby:9cff7438-49a8-4801-b19e-22b40067769b"
+      },
+      {
+        "title": "Recruiting Coordinator",
+        "date": "2026-10-28",
+        "id": "ashby:e20f69ca-fb50-4dff-9e7a-33344d110822"
       }
     ],
     "Bot Auto": [
