@@ -1815,6 +1815,11 @@
         "title": "\u2b50\ufe0f Research Scientist Intern - Neural Representations Compression",
         "date": "2026-10-27",
         "id": "meta:2368433610564528"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Ads Recommendations (PhD)",
+        "date": "2026-10-27",
+        "id": "meta:1691709792593561"
       }
     ],
     "Apple": [
@@ -7510,7 +7515,8 @@
       },
       {
         "title": "Senior Solutions Engineer",
-        "date": "N/A"
+        "date": "N/A",
+        "id": "greenhouse:6225942004"
       },
       {
         "title": "Senior Staff AI Software Engineer, Perception",
@@ -19666,6 +19672,11 @@
         "title": "Senior Electrical Engineer II, Power & Propulsion",
         "date": "2026-10-27",
         "id": "greenhouse:5277708007"
+      },
+      {
+        "title": "Brand Designer",
+        "date": "2026-10-27",
+        "id": "greenhouse:5277764007"
       }
     ],
     "Lyft": [
@@ -42610,6 +42621,16 @@
         "title": "Strategic Finance, Workloads",
         "date": "2026-10-27",
         "id": "ashby:de0b0df5-7390-4781-9548-d8710d736909"
+      },
+      {
+        "title": "Intelligence Systems Analyst",
+        "date": "2026-10-27",
+        "id": "ashby:d4a191f9-58f6-4c89-95f0-0c23ea59a8e4"
+      },
+      {
+        "title": "Support Vendor Manager, APAC",
+        "date": "2026-10-27",
+        "id": "ashby:d4fed8a0-cf2a-49b1-b216-80d710827e16"
       }
     ],
     "John Deere": [
@@ -50944,5 +50965,10 @@
       }
     ]
   },
-  "email_threads": {}
+  "email_threads": {
+    "internship": {
+      "date": "2026-10-27",
+      "message_id": "<179314621986.2431.14800704056490584751@phlux>"
+    }
+  }
 }
