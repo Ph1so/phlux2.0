@@ -1189,6 +1189,11 @@
         "title": "\u2b50\ufe0f PhD Economics Intern \u2013 Finance, Macroeconomics, and Forecasting - Summer 2027",
         "date": "2026-10-27",
         "id": "amazon:10590600"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Applied Science Internship - Robotics - United States",
+        "date": "2026-10-28",
+        "id": "amazon:10591833"
       }
     ],
     "Meta": [
@@ -1840,6 +1845,11 @@
         "title": "\u2b50\ufe0f Technical Program Manager Intern, Global Supply Management \u2014 Reality Labs (2027)",
         "date": "2026-10-28",
         "id": "meta:3333103890230916"
+      },
+      {
+        "title": "\u2b50\ufe0f ML Innovation for Products, PhD Research Intern",
+        "date": "2026-10-28",
+        "id": "meta:1060093353751700"
       }
     ],
     "Apple": [
@@ -5492,6 +5502,11 @@
         "title": "Engineering Technician Program Trainee",
         "date": "2026-10-27",
         "id": "tesla:287928"
+      },
+      {
+        "title": "\u2b50\ufe0f Internship, Data Engineer, Energy (Winter/Spring 2027)",
+        "date": "2026-10-28",
+        "id": "tesla:287982"
       }
     ],
     "Gecko Robotics": [
@@ -14199,6 +14214,11 @@
         "title": "Machine Learning Engineer - Vision Foundation Models",
         "date": "2026-10-28",
         "id": "lever:06f146c2-25f6-40fd-8393-4f92ce518929"
+      },
+      {
+        "title": "Mechatronics Engineer - Closures",
+        "date": "2026-10-28",
+        "id": "lever:e6a4bbe1-20ab-4f1f-af07-f06fabedeabd"
       }
     ],
     "Pony.ai": [
@@ -18378,6 +18398,11 @@
         "title": "Senior Engineer, Product Security",
         "date": "2026-10-27",
         "id": "rippling:96b3a47d-fe21-4def-a660-916108ceb6c9"
+      },
+      {
+        "title": "Pricing Operations Manager",
+        "date": "2026-10-28",
+        "id": "rippling:8b919d0f-356b-4f76-8e4c-11e6a17d5248"
       }
     ],
     "Pickle Robot": [
@@ -20903,6 +20928,11 @@
         "title": "\u2b50\ufe0f Summer 2027 - Mechanical Engineering Intern, Air Vehicle Systems and Test #6465+",
         "date": "2026-10-28",
         "id": "lever:bc41648b-c201-4b01-8feb-d228cbfdd875"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 - Product Support Engineering Intern #6470 & #6442",
+        "date": "2026-10-28",
+        "id": "lever:5fb0fc3c-3747-4351-92fd-459b3df7c82c"
       }
     ],
     "Swarm Aero": [
@@ -25832,6 +25862,11 @@
         "title": "Cloud Infrastructure Engineer",
         "date": "2026-10-22",
         "id": "ashby:a464dfbe-50c6-4194-893a-8a01241e992c"
+      },
+      {
+        "title": "Senior Robotics Integration Engineer",
+        "date": "2026-10-28",
+        "id": "ashby:7118d150-7014-418b-ac7f-e720151f530a"
       }
     ],
     "Niantic Spatial": [
@@ -27634,6 +27669,11 @@
         "title": "Senior Systems Integration & Test Engineer",
         "date": "2026-10-28",
         "id": "greenhouse:4469005009"
+      },
+      {
+        "title": "Global Supply Chain Manager",
+        "date": "2026-10-28",
+        "id": "greenhouse:4120577009"
       }
     ],
     "Outrider": [
@@ -28202,6 +28242,16 @@
         "title": "Customer Success Manager - Philadelphia, PA",
         "date": "2026-10-27",
         "id": "greenhouse:4724473006"
+      },
+      {
+        "title": "Head of Marketing - Bolingbrook, IL",
+        "date": "2026-10-28",
+        "id": "greenhouse:4724916006"
+      },
+      {
+        "title": "Head of Marketing - Oakland, CA",
+        "date": "2026-10-28",
+        "id": "greenhouse:4725623006"
       }
     ],
     "Waabi": [
@@ -32052,6 +32102,11 @@
         "title": "Senior Systems Integration Engineer",
         "date": "2026-10-23",
         "id": "rippling:ec319155-eb27-4276-a6e0-6159c5c9dd24"
+      },
+      {
+        "title": "Associate, Bot Production",
+        "date": "2026-10-28",
+        "id": "rippling:5d5fa4ff-22f8-46fc-9743-8e7105e517da"
       }
     ],
     "Overland AI": [
@@ -42952,6 +43007,21 @@
         "title": "Data Scientist, Cloud Distribution & Growth",
         "date": "2026-10-28",
         "id": "ashby:b82699a2-5819-4276-a402-fd88f56f9246"
+      },
+      {
+        "title": "Product Content Creator",
+        "date": "2026-10-28",
+        "id": "ashby:67c67c36-e710-4f21-bd9c-759eb72cfabf"
+      },
+      {
+        "title": "Europe Trade Compliance Lead",
+        "date": "2026-10-28",
+        "id": "ashby:850a0f1b-26ed-462e-9236-22c9f09aa03c"
+      },
+      {
+        "title": "Incident Commander, Detection & Response - APAC",
+        "date": "2026-10-28",
+        "id": "ashby:50d89082-42a3-42ca-93f5-2110b87a3be6"
       }
     ],
     "John Deere": [
@@ -48760,6 +48830,11 @@
         "title": "Staff+ Software Engineer, Deployment",
         "date": "2026-10-28",
         "id": "greenhouse:5466480008"
+      },
+      {
+        "title": "Senior Field Engineer, Data Center Design and Engineering",
+        "date": "2026-10-28",
+        "id": "greenhouse:5466517008"
       }
     ],
     "xAI": [
@@ -50569,6 +50644,11 @@
         "title": "Recruiting Coordinator",
         "date": "2026-10-28",
         "id": "ashby:e20f69ca-fb50-4dff-9e7a-33344d110822"
+      },
+      {
+        "title": "Brand Designer",
+        "date": "2026-10-28",
+        "id": "ashby:9ab3e86f-b636-4a75-867c-4ffd04d7b87d"
       }
     ],
     "Bot Auto": [
