@@ -713,6 +713,16 @@
         "title": "\u2b50\ufe0f Research Intern - MSR Systems Research Group - Redmond",
         "date": "2026-10-28",
         "id": "eightfold:1970393557050039"
+      },
+      {
+        "title": "\u2b50\ufe0f Applied Scientist: Internship Opportunities, Turing",
+        "date": "2026-10-29",
+        "id": "eightfold:1970393557050150"
+      },
+      {
+        "title": "\u2b50\ufe0f Applied Science: PhD Internship Opportunities, Turing",
+        "date": "2026-10-29",
+        "id": "eightfold:1970393557050154"
       }
     ],
     "Amazon": [
@@ -6431,6 +6441,16 @@
         "title": "Delivery Excellence Consultant",
         "date": "2026-10-28",
         "id": "greyorange:1195296"
+      },
+      {
+        "title": "SDE III UI Engineer \u2014 Sizer / Flow Designer",
+        "date": "2026-10-29",
+        "id": "greyorange:1172186"
+      },
+      {
+        "title": "Technical Program Manager III",
+        "date": "2026-10-29",
+        "id": "greyorange:1191493"
       }
     ],
     "General Motors": [
@@ -7959,6 +7979,11 @@
         "title": "Application Mechatronics Engineer",
         "date": "2026-10-27",
         "id": "teamio:2001501244"
+      },
+      {
+        "title": "Elektromechanik - stavba a o\u017eivovanie robotov",
+        "date": "2026-10-29",
+        "id": "teamio:2001501889"
       }
     ],
     "Ambi Robotics": [
@@ -11677,6 +11702,16 @@
         "title": "Senior Hardware Reliability Engineer",
         "date": "2026-10-28",
         "id": "ashby:d48259b5-237d-4f25-8084-f5a11eaf8b3e"
+      },
+      {
+        "title": "Lead Fleet Technician",
+        "date": "2026-10-29",
+        "id": "ashby:0b28d7cf-fafd-4c3b-899b-772b5e57b917"
+      },
+      {
+        "title": "Lead Fleet Technician",
+        "date": "2026-10-29",
+        "id": "ashby:2940aff6-fee8-4c26-961b-0300b2dfad72"
       }
     ],
     "Zoox": [
@@ -14219,6 +14254,11 @@
         "title": "Mechatronics Engineer - Closures",
         "date": "2026-10-28",
         "id": "lever:e6a4bbe1-20ab-4f1f-af07-f06fabedeabd"
+      },
+      {
+        "title": "Senior Manager, Contingent Workforce & Travel",
+        "date": "2026-10-29",
+        "id": "lever:40a0ff29-6701-4c82-a5eb-afb69682b6c6"
       }
     ],
     "Pony.ai": [
@@ -25867,6 +25907,11 @@
         "title": "Senior Robotics Integration Engineer",
         "date": "2026-10-28",
         "id": "ashby:7118d150-7014-418b-ac7f-e720151f530a"
+      },
+      {
+        "title": "Robotics Applied Research Lead",
+        "date": "2026-10-29",
+        "id": "ashby:122185dd-16f2-4051-9e23-cd9339bfc30c"
       }
     ],
     "Niantic Spatial": [
@@ -26828,6 +26873,16 @@
         "title": "Game Designer, Inception, DeepMind",
         "date": "2026-10-28",
         "id": "google:117730216456921798"
+      },
+      {
+        "title": "Research Engineer, Gemini Personalization Research, DeepMind",
+        "date": "2026-10-29",
+        "id": "google:79768134398943942"
+      },
+      {
+        "title": "Technical Program Manager, End-to-End AI Systems Integration, DeepMind",
+        "date": "2026-10-29",
+        "id": "google:117631466568852166"
       }
     ],
     "Wing": [
@@ -27914,6 +27969,31 @@
         "title": "Welding Sales Manager",
         "date": "2026-10-20",
         "id": "ashby:cfb04df2-0b41-429d-bacd-4ea963397fbb"
+      },
+      {
+        "title": "Senior Mechanical Engineer (On-site)",
+        "date": "2026-10-29",
+        "id": "ashby:6ebc3be6-4601-4ac9-82be-c30cc79d69f9"
+      },
+      {
+        "title": "Mechanical Engineer (On-site)",
+        "date": "2026-10-29",
+        "id": "ashby:35bc9140-1548-4780-bc69-8c90591ee070"
+      },
+      {
+        "title": "Senior Electrical Engineer \u2014 Safety & Systems Integration (On-site)",
+        "date": "2026-10-29",
+        "id": "ashby:f5fe4e60-21c4-4de7-8f21-e8cae48e7d63"
+      },
+      {
+        "title": "Senior Staff Mechanical Engineer (On-site)",
+        "date": "2026-10-29",
+        "id": "ashby:fddbc0ed-a924-44bf-913f-6ee04d6f0e69"
+      },
+      {
+        "title": "Senior Staff Electrical Engineer (On-site)",
+        "date": "2026-10-29",
+        "id": "ashby:9cc89fce-b6bb-4b9c-8695-5692071adbdf"
       }
     ],
     "Bright Machines": [
@@ -30522,6 +30602,16 @@
         "title": "Finance Manager, Manufacturing Finance",
         "date": "2026-10-28",
         "id": "ashby:b73f699c-62fe-43f6-8ff4-d08b437fe4cd"
+      },
+      {
+        "title": "Compliance Operations Specialist",
+        "date": "2026-10-29",
+        "id": "ashby:2872af19-6633-4f2b-a07c-b8917cc5192d"
+      },
+      {
+        "title": "Project Manager, Shipyards",
+        "date": "2026-10-29",
+        "id": "ashby:4698c615-f807-48cb-9917-17260a50c2ec"
       }
     ],
     "Built Robotics": [
@@ -33982,6 +34072,11 @@
         "title": "Commissioning Services Team Lead",
         "date": "2026-10-28",
         "id": "workday:R8352"
+      },
+      {
+        "title": "Buyer - Direct Materials",
+        "date": "2026-10-29",
+        "id": "workday:R8373"
       }
     ],
     "PROCEPT BioRobotics": [
@@ -37455,6 +37550,11 @@
         "title": "\u30b7\u30cb\u30a2\u30c6\u30af\u30cb\u30ab\u30eb\u30d7\u30ed\u30b0\u30e9\u30e0\u30de\u30cd\u30fc\u30b8\u30e3\u30fc \u30fbActive Learning Loop",
         "date": "2026-10-27",
         "id": "lever:553a0b31-0216-41d5-a8ef-fd5c4847d39a"
+      },
+      {
+        "title": "ML Platform Engineer, AD/ADAS",
+        "date": "2026-10-29",
+        "id": "lever:91b6634f-8266-4861-b6ca-573028b0f4a4"
       }
     ],
     "Generalist AI": [
@@ -43022,6 +43122,41 @@
         "title": "Incident Commander, Detection & Response - APAC",
         "date": "2026-10-28",
         "id": "ashby:50d89082-42a3-42ca-93f5-2110b87a3be6"
+      },
+      {
+        "title": "Software Engineer, IP Infrastructure",
+        "date": "2026-10-29",
+        "id": "ashby:33acf0e2-5c11-46d7-9dc9-417f5537139b"
+      },
+      {
+        "title": "Network Infrastructure Engineer, Global Network Infra (WAN)",
+        "date": "2026-10-29",
+        "id": "ashby:9f7371c4-e306-4a45-a400-aa2843fabd85"
+      },
+      {
+        "title": "Senior Procurement Manager \u2013 Infrastructure Complex Deals",
+        "date": "2026-10-29",
+        "id": "ashby:0fca3b36-8aaa-491a-be87-09efacfeca5e"
+      },
+      {
+        "title": "Software Engineer, Infranomics",
+        "date": "2026-10-29",
+        "id": "ashby:b6e0d9c6-a5ad-4d27-ad67-fde760e277b6"
+      },
+      {
+        "title": "Software Engineer, Traffic Infrastructure",
+        "date": "2026-10-29",
+        "id": "ashby:1d386acc-5fe0-44ed-b288-a6b1b891c9a8"
+      },
+      {
+        "title": "Employer Brand, Communications & Social",
+        "date": "2026-10-29",
+        "id": "ashby:0ed35971-23c6-4723-a5c6-c24ce0ca8350"
+      },
+      {
+        "title": "Sales Manager, Startups",
+        "date": "2026-10-29",
+        "id": "ashby:d1f21456-f0bf-48ad-bb8d-ae0020a10600"
       }
     ],
     "John Deere": [
@@ -44105,6 +44240,21 @@
         "title": "Talent Acquisition Partner - Temporary (1 year)",
         "date": "2026-10-28",
         "id": "lever:79932ba7-840a-4c1b-8dca-80722712d51b"
+      },
+      {
+        "title": "Experienced Algorithm & Software Engineer",
+        "date": "2026-10-29",
+        "id": "lever:33ea9cd2-d1b8-41a2-bdec-d71659de14f7"
+      },
+      {
+        "title": "\u2b50\ufe0f NOC Service Analyst (Student Position)",
+        "date": "2026-10-29",
+        "id": "lever:d067c94b-f63b-4100-bb3a-229427dd750c"
+      },
+      {
+        "title": "Senior Technical Project Manager \u2013 Robotaxi",
+        "date": "2026-10-29",
+        "id": "lever:ec69a3de-fd8e-429c-a492-74c73940a032"
       }
     ],
     "Dusty Robotics": [
@@ -48835,6 +48985,26 @@
         "title": "Senior Field Engineer, Data Center Design and Engineering",
         "date": "2026-10-28",
         "id": "greenhouse:5466517008"
+      },
+      {
+        "title": "Enterprise Account Executive, Public Sector",
+        "date": "2026-10-29",
+        "id": "greenhouse:5458689008"
+      },
+      {
+        "title": "Enterprise Account Executive, Public Sector",
+        "date": "2026-10-29",
+        "id": "greenhouse:5458064008"
+      },
+      {
+        "title": "Public Sector Sales Lead",
+        "date": "2026-10-29",
+        "id": "greenhouse:5426617008"
+      },
+      {
+        "title": "Staff+ Software Engineer, Enterprise Connectivity",
+        "date": "2026-10-29",
+        "id": "greenhouse:5173120008"
       }
     ],
     "xAI": [
@@ -50377,6 +50547,11 @@
         "title": "Web Engineer, X",
         "date": "2026-10-27",
         "id": "greenhouse:5063930007"
+      },
+      {
+        "title": "Sr. Mechanical Engineer - Memphis",
+        "date": "2026-10-29",
+        "id": "greenhouse:5278993007"
       }
     ],
     "Thinking Machines Lab": [
@@ -51458,13 +51633,28 @@
         "title": "\u2b50\ufe0f Slate Auto Internship Interest - Warsaw, IN",
         "date": "2026-10-28",
         "id": "workday:JR101341"
+      },
+      {
+        "title": "Technical Program Manager II \u2013 Launch",
+        "date": "2026-10-29",
+        "id": "workday:JR101627"
+      },
+      {
+        "title": "Program Management Analyst - Launch",
+        "date": "2026-10-29",
+        "id": "workday:JR101626"
+      },
+      {
+        "title": "Change Control Specialist",
+        "date": "2026-10-29",
+        "id": "workday:JR101625"
       }
     ]
   },
   "email_threads": {
     "internship": {
-      "date": "2026-10-28",
-      "message_id": "<179320457768.2188.4980790426839408957@phlux>"
+      "date": "2026-10-29",
+      "message_id": "<179329151613.2362.12419473592881837552@phlux>"
     }
   }
 }

@@ -6,7 +6,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 Phlux Job Listings
-*Showing the 898 most recent of 32,680 roles tracked across 271 companies. See [all listings](listings/README.md) for the full history.*
+*Showing the 898 most recent of 32,716 roles tracked across 271 companies. See [all listings](listings/README.md) for the full history.*
 
 
 <table>
@@ -19,6 +19,272 @@ Easily track jobs across top tech companies.
   </thead>
   <tbody>
 
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://apply.careers.microsoft.com/careers?query=intern&location=United%20States&sort_by=relevance"><img src="https://cdn.brandfetch.io/microsoft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Microsoft" height="20" style="vertical-align:middle; margin-right:6px;"> Microsoft</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Applied Scientist: Internship Opportunities, Turing</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://apply.careers.microsoft.com/careers?query=intern&location=United%20States&sort_by=relevance"><img src="https://cdn.brandfetch.io/microsoft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Microsoft" height="20" style="vertical-align:middle; margin-right:6px;"> Microsoft</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Applied Science: PhD Internship Opportunities, Turing</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.greyorange.com/company/careers/#th-job-section"><img src="https://cdn.brandfetch.io/greyorange.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="GreyOrange" height="20" style="vertical-align:middle; margin-right:6px;"> GreyOrange</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">SDE III UI Engineer — Sizer / Flow Designer</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.greyorange.com/company/careers/#th-job-section"><img src="https://cdn.brandfetch.io/greyorange.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="GreyOrange" height="20" style="vertical-align:middle; margin-right:6px;"> GreyOrange</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Technical Program Manager III</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://brightpick.ai/careers/#openpositions"><img src="https://cdn.brandfetch.io/brightpick.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Brightpick" height="20" style="vertical-align:middle; margin-right:6px;"> Brightpick</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Elektromechanik - stavba a oživovanie robotov</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/aurora-operations-inc/"><img src="https://cdn.brandfetch.io/aurora.tech/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Aurora Innovation" height="20" style="vertical-align:middle; margin-right:6px;"> Aurora Innovation</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Lead Fleet Technician</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/aurora-operations-inc/"><img src="https://cdn.brandfetch.io/aurora.tech/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Aurora Innovation" height="20" style="vertical-align:middle; margin-right:6px;"> Aurora Innovation</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Lead Fleet Technician</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Manager, Contingent Workforce & Travel</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/humanoid/"><img src="https://cdn.brandfetch.io/thehumanoid.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Humanoid" height="20" style="vertical-align:middle; margin-right:6px;"> Humanoid</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Robotics Applied Research Lead</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.google.com/about/careers/applications/jobs/results?company=DeepMind"><img src="https://cdn.brandfetch.io/deepmind.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="DeepMind" height="20" style="vertical-align:middle; margin-right:6px;"> DeepMind</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Research Engineer, Gemini Personalization Research, DeepMind</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.google.com/about/careers/applications/jobs/results?company=DeepMind"><img src="https://cdn.brandfetch.io/deepmind.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="DeepMind" height="20" style="vertical-align:middle; margin-right:6px;"> DeepMind</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Technical Program Manager, End-to-End AI Systems Integration, DeepMind</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/standardbots"><img src="https://cdn.brandfetch.io/standardbots.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Standard Bots" height="20" style="vertical-align:middle; margin-right:6px;"> Standard Bots</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Mechanical Engineer (On-site)</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/standardbots"><img src="https://cdn.brandfetch.io/standardbots.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Standard Bots" height="20" style="vertical-align:middle; margin-right:6px;"> Standard Bots</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Mechanical Engineer (On-site)</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/standardbots"><img src="https://cdn.brandfetch.io/standardbots.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Standard Bots" height="20" style="vertical-align:middle; margin-right:6px;"> Standard Bots</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Electrical Engineer — Safety & Systems Integration (On-site)</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/standardbots"><img src="https://cdn.brandfetch.io/standardbots.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Standard Bots" height="20" style="vertical-align:middle; margin-right:6px;"> Standard Bots</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Staff Mechanical Engineer (On-site)</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/standardbots"><img src="https://cdn.brandfetch.io/standardbots.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Standard Bots" height="20" style="vertical-align:middle; margin-right:6px;"> Standard Bots</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Staff Electrical Engineer (On-site)</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/saronic"><img src="https://cdn.brandfetch.io/saronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saronic" height="20" style="vertical-align:middle; margin-right:6px;"> Saronic</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Compliance Operations Specialist</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/saronic"><img src="https://cdn.brandfetch.io/saronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saronic" height="20" style="vertical-align:middle; margin-right:6px;"> Saronic</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Project Manager, Shipyards</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic"><img src="https://cdn.brandfetch.io/symbotic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Symbotic" height="20" style="vertical-align:middle; margin-right:6px;"> Symbotic</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Buyer - Direct Materials</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/woven-by-toyota"><img src="https://cdn.brandfetch.io/woven-city.global/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Woven by Toyota" height="20" style="vertical-align:middle; margin-right:6px;"> Woven by Toyota</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">ML Platform Engineer, AD/ADAS</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer, IP Infrastructure</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Network Infrastructure Engineer, Global Network Infra (WAN)</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Procurement Manager – Infrastructure Complex Deals</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer, Infranomics</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Software Engineer, Traffic Infrastructure</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Employer Brand, Communications & Social</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sales Manager, Startups</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.eu.lever.co/mobileye"><img src="https://cdn.brandfetch.io/mobileye.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mobileye" height="20" style="vertical-align:middle; margin-right:6px;"> Mobileye</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Experienced Algorithm & Software Engineer</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.eu.lever.co/mobileye"><img src="https://cdn.brandfetch.io/mobileye.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mobileye" height="20" style="vertical-align:middle; margin-right:6px;"> Mobileye</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ NOC Service Analyst (Student Position)</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.eu.lever.co/mobileye"><img src="https://cdn.brandfetch.io/mobileye.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mobileye" height="20" style="vertical-align:middle; margin-right:6px;"> Mobileye</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Senior Technical Project Manager – Robotaxi</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Enterprise Account Executive, Public Sector</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Enterprise Account Executive, Public Sector</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Public Sector Sales Lead</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff+ Software Engineer, Enterprise Connectivity</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/xai"><img src="https://cdn.brandfetch.io/x.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="xAI" height="20" style="vertical-align:middle; margin-right:6px;"> xAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sr. Mechanical Engineer - Memphis</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://recar.wd108.myworkdayjobs.com/SLATEcareers"><img src="https://cdn.brandfetch.io/slate.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Slate Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Slate Auto</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Technical Program Manager II – Launch</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://recar.wd108.myworkdayjobs.com/SLATEcareers"><img src="https://cdn.brandfetch.io/slate.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Slate Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Slate Auto</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Program Management Analyst - Launch</div></td>
+  <td>2026-10-29</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://recar.wd108.myworkdayjobs.com/SLATEcareers"><img src="https://cdn.brandfetch.io/slate.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Slate Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Slate Auto</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Change Control Specialist</div></td>
+  <td>2026-10-29</td>
+</tr>
   <tr>
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://apply.careers.microsoft.com/careers?query=intern&location=United%20States&sort_by=relevance"><img src="https://cdn.brandfetch.io/microsoft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Microsoft" height="20" style="vertical-align:middle; margin-right:6px;"> Microsoft</a></div>
@@ -6037,272 +6303,6 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff / Senior Software Engineer, Security Fusion Platform</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff+ Site Reliability Engineer, Safeguards ML Infra</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff+ Software Engineer, Access Programs</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff+ Software Engineer, Account Abuse</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff+ Software Engineer, Account Abuse (Machine Learning)</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff+ Software Engineer, Account Creation</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Software Engineer, AI Reliability</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Software Engineer, AI Reliability Engineering</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Software Engineer, AI Reliability Engineering</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Software Engineer, Android</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff+ Software Engineer, Auth & Identity</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff+ Software Engineer, Billing Platform</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff+ Software Engineer, Caching</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff+ Software Engineer, Capacity Engineering</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff+ Software Engineer, Claude App Infrastructure</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Software Engineer, Claude Code</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff+ Software Engineer, Claude Managed Agents</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff+ Software Engineer, Claude Science</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Software Engineer, Code RL</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Software Engineer: Compute</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Software Engineer, Continuous Integration</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff+ Software Engineer, Cybersecurity Products</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff+ Software Engineer, Databases</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff+ Software Engineer, Data Infrastructure</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff+ Software Engineer, Developer Acceleration</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff+ Software Engineer, Developer Experience</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff+ Software Engineer, Developer Productivity</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff+ Software Engineer, Distributed Systems</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff+ Software Engineer, Enterprise AI Products</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff+ Software Engineer, Enterprise (Full Stack)</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff+ Software Engineer, Enterprise Knowledge Work</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff+ Software Engineer, Enterprise (Platform)</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Software Engineer, Environments Infrastructure</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff+ Software Engineer, Experimentation</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Software Engineer, Finance Engineering</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff+ Software Engineer, Full-stack</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff+ Software Engineer, GRC Platform</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Software Engineer, Growth</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Software Engineer, GTM AI Engineering</div></td>
   <td>2026-10-27</td>
 </tr>
 
