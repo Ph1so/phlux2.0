@@ -305,6 +305,21 @@
         "title": "\u2b50\ufe0f Customer Technical Program Management Intern, OEMs System Partner \u2013 Summer 2027",
         "date": "2026-10-26",
         "id": "workday:JR2028512"
+      },
+      {
+        "title": "\u2b50\ufe0f VLSI CAD Timing Intern, Applied AI - Summer 2027",
+        "date": "2026-10-29",
+        "id": "workday:JR2026799"
+      },
+      {
+        "title": "\u2b50\ufe0f AI Systems Software Engineering Intern \u2013 Summer 2027",
+        "date": "2026-10-29",
+        "id": "workday:JR2027170"
+      },
+      {
+        "title": "\u2b50\ufe0f Compiler Software Engineering Intern - Summer 2027",
+        "date": "2026-10-29",
+        "id": "workday:JR2028607"
       }
     ],
     "Google": [
@@ -1895,6 +1910,11 @@
         "title": "\u2b50\ufe0f Research Scientist Intern, Scam and Trust (PhD)",
         "date": "2026-10-29",
         "id": "meta:2355649268510104"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Agent for Recommendation (PhD)",
+        "date": "2026-10-29",
+        "id": "meta:1713161050367751"
       }
     ],
     "Apple": [
@@ -5602,6 +5622,11 @@
         "title": "\u2b50\ufe0f Internship, Actuator Mechanical Design Engineer, Optimus (Summer 2027)",
         "date": "2026-10-29",
         "id": "tesla:288232"
+      },
+      {
+        "title": "\u2b50\ufe0f Internship, Optimus Mechanical Design Engineer, Electronic Devices (Winter/Spring 2027)",
+        "date": "2026-10-29",
+        "id": "tesla:288413"
       }
     ],
     "Gecko Robotics": [
@@ -7270,6 +7295,11 @@
         "title": "GVHE Hardware-Software Co-Optimization Architect",
         "date": "2026-10-22",
         "id": "workday:JR-202622372-1"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles",
+        "date": "2026-10-29",
+        "id": "workday:JR-202623439"
       }
     ],
     "Locus Robotics": [
@@ -7890,6 +7920,11 @@
         "title": "Systems Integration Engineer III",
         "date": "2026-10-29",
         "id": "greenhouse:6238079004"
+      },
+      {
+        "title": "Manager, Mechanical Engineering",
+        "date": "2026-10-29",
+        "id": "greenhouse:6233521004"
       }
     ],
     "Cobot": [
@@ -14414,6 +14449,26 @@
         "title": "Senior/Staff Technical Product Manager, Operational Design Domain (ODD) Tools",
         "date": "2026-10-29",
         "id": "lever:0d678716-71bd-496e-8188-470df42c22b7"
+      },
+      {
+        "title": "\u2b50\ufe0f Contract Student Worker - Autonomy and Geofence Expansion (20 hrs/wk)",
+        "date": "2026-10-29",
+        "id": "lever:45594791-0b7b-4310-9a6e-067f53e4a191"
+      },
+      {
+        "title": "\u2b50\ufe0f Contract Student Worker - Software Engineer (40 hrs/wk)",
+        "date": "2026-10-29",
+        "id": "lever:67982bee-811b-453b-8596-b53c13f7a78d"
+      },
+      {
+        "title": "Senior Software Engineer, C++ Vehicle Experience",
+        "date": "2026-10-29",
+        "id": "lever:8703109b-1cb5-4e78-999a-7093ca4407e2"
+      },
+      {
+        "title": "Systems Engineer, Motion Controls Safety",
+        "date": "2026-10-29",
+        "id": "lever:6e2c1641-a814-43ad-a807-34f585a35fd9"
       }
     ],
     "Pony.ai": [
@@ -17573,6 +17628,11 @@
         "title": "\u2b50\ufe0f Motorsport Marketing & Operations Intern - 2027",
         "date": "2026-10-29",
         "id": "smartrecruiters:744000158575749"
+      },
+      {
+        "title": "\u2b50\ufe0f IT Systems Engineering Intern (19 hours per week)",
+        "date": "2026-10-29",
+        "id": "smartrecruiters:744000158620079"
       }
     ],
     "Intrinsic": [
@@ -21505,6 +21565,11 @@
         "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Sensor Performance Engineer Intern",
         "date": "2026-10-27",
         "id": "greenhouse:8319171"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Weather Perception",
+        "date": "2026-10-29",
+        "id": "greenhouse:8335511"
       }
     ],
     "Wayve": [
@@ -24287,6 +24352,11 @@
         "title": "Systems Engineer, Insights and Analytics (SDS Trucking)",
         "date": "2026-10-28",
         "id": "ashby:3b27bf8a-0890-4f46-b003-e838a0ce7432"
+      },
+      {
+        "title": "Software Engineer- Maps Rendering",
+        "date": "2026-10-29",
+        "id": "ashby:88cd29c0-a142-4f7a-b9ea-be557bac9624"
       }
     ],
     "FieldAI": [
@@ -37781,6 +37851,11 @@
         "title": "ML Platform Engineer, AD/ADAS",
         "date": "2026-10-29",
         "id": "lever:91b6634f-8266-4861-b6ca-573028b0f4a4"
+      },
+      {
+        "title": "ML\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u30a8\u30f3\u30b8\u30cb\u30a2\u30fbAD/ADAS",
+        "date": "2026-10-29",
+        "id": "lever:3d1b295c-3bde-441c-83de-14c31bc68316"
       }
     ],
     "Generalist AI": [
@@ -43418,6 +43493,16 @@
         "title": "Account Director, Federal Partnerships (Defense)",
         "date": "2026-10-29",
         "id": "ashby:88d4dce1-a3ef-495f-b711-54988812336b"
+      },
+      {
+        "title": "Service Designer, Intelligence & Investigations",
+        "date": "2026-10-29",
+        "id": "ashby:33250b88-936a-4994-950c-fc5fe346446c"
+      },
+      {
+        "title": "Research Program Manager, Safety Measurement",
+        "date": "2026-10-29",
+        "id": "ashby:4bcc25ef-cf03-47db-896c-0fd9122afab1"
       }
     ],
     "John Deere": [
@@ -49301,6 +49386,16 @@
         "title": "Staff / Senior Data Center Security Engineer",
         "date": "2026-10-29",
         "id": "greenhouse:5419154008"
+      },
+      {
+        "title": "Research Scientist, Life Sciences (Large Molecules, Antibody Design)",
+        "date": "2026-10-29",
+        "id": "greenhouse:5467092008"
+      },
+      {
+        "title": "Research Scientist, Life Sciences (Large Molecules, Process Development)",
+        "date": "2026-10-29",
+        "id": "greenhouse:5467099008"
       }
     ],
     "xAI": [
