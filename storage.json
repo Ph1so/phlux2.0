@@ -1234,6 +1234,16 @@
         "title": "\u2b50\ufe0f UX Designer Intern \u2013 Summer 2027",
         "date": "2026-10-29",
         "id": "amazon:10592766"
+      },
+      {
+        "title": "\u2b50\ufe0f Graduate Pharmacist Intern, Amazon Pharmacy",
+        "date": "2026-10-30",
+        "id": "amazon:10593569"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027",
+        "date": "2026-10-30",
+        "id": "amazon:10593521"
       }
     ],
     "Meta": [
@@ -1915,6 +1925,16 @@
         "title": "\u2b50\ufe0f Research Scientist Intern, Agent for Recommendation (PhD)",
         "date": "2026-10-29",
         "id": "meta:1713161050367751"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Generative AI (PhD)",
+        "date": "2026-10-30",
+        "id": "meta:1127102149763705"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Photorealistic Telepresence (PhD)",
+        "date": "2026-10-30",
+        "id": "meta:1358944629494375"
       }
     ],
     "Apple": [
@@ -3504,6 +3524,11 @@
         "title": "International Operations Manager",
         "date": "N/A",
         "id": "greenhouse:8048000"
+      },
+      {
+        "title": "[2027] Senior Software Engineer - Data Acquisition PhD Early Career",
+        "date": "2026-10-30",
+        "id": "greenhouse:8315883"
       }
     ],
     "SpaceX": [
@@ -7300,6 +7325,31 @@
         "title": "\u2b50\ufe0f 2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles",
         "date": "2026-10-29",
         "id": "workday:JR-202623439"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern - Research and Development - Aftertreatment Catalysis",
+        "date": "2026-10-30",
+        "id": "workday:JR-202622721"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern - Research & Development - Energy and Propulsion Controls",
+        "date": "2026-10-30",
+        "id": "workday:JR-202622207"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern - Research and Development - EPSR Lab",
+        "date": "2026-10-30",
+        "id": "workday:JR-202623300"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern \u2013 Research and Development \u2013 Vehicle Health Management",
+        "date": "2026-10-30",
+        "id": "workday:JR-202622258"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern - Research and Development - Energy and Propulsion Systems Architecture",
+        "date": "2026-10-30",
+        "id": "workday:JR-202622231"
       }
     ],
     "Locus Robotics": [
@@ -7925,6 +7975,11 @@
         "title": "Manager, Mechanical Engineering",
         "date": "2026-10-29",
         "id": "greenhouse:6233521004"
+      },
+      {
+        "title": "Senior Manager, Field Services",
+        "date": "2026-10-30",
+        "id": "greenhouse:6230936004"
       }
     ],
     "Cobot": [
@@ -8456,6 +8511,26 @@
         "title": "\u2b50\ufe0f Machine Learning & Robotics Internship 2027",
         "date": "2026-10-29",
         "id": "greenhouse:8924241002"
+      },
+      {
+        "title": "Engineering Manager, Hardware Design",
+        "date": "2026-10-30",
+        "id": "greenhouse:8925116002"
+      },
+      {
+        "title": "Production Lead (2nd shift)",
+        "date": "2026-10-30",
+        "id": "greenhouse:8925148002"
+      },
+      {
+        "title": "Production Scheduler",
+        "date": "2026-10-30",
+        "id": "greenhouse:8925225002"
+      },
+      {
+        "title": "Warehouse and Logistics Associate",
+        "date": "2026-10-30",
+        "id": "greenhouse:8925231002"
       }
     ],
     "Figure AI": [
@@ -9737,6 +9812,21 @@
         "title": "Senior Staff Test Engineer - Reliability",
         "date": "2026-10-29",
         "id": "greenhouse:6238478004"
+      },
+      {
+        "title": "Engineering Manager - Controls",
+        "date": "2026-10-30",
+        "id": "greenhouse:6239373004"
+      },
+      {
+        "title": "Senior Design Engineer - Electromagnetic (R&D)",
+        "date": "2026-10-30",
+        "id": "greenhouse:6239334004"
+      },
+      {
+        "title": "Sr. Software Systems Safety Engineer",
+        "date": "2026-10-30",
+        "id": "greenhouse:6239229004"
       }
     ],
     "Titan Robotics": [
@@ -17633,6 +17723,16 @@
         "title": "\u2b50\ufe0f IT Systems Engineering Intern (19 hours per week)",
         "date": "2026-10-29",
         "id": "smartrecruiters:744000158620079"
+      },
+      {
+        "title": "\u2b50\ufe0f Logistics/Supply Chain Intern (Jan 2027)",
+        "date": "2026-10-30",
+        "id": "smartrecruiters:744000158774734"
+      },
+      {
+        "title": "\u2b50\ufe0f Manufacturing Engineering Intern (Jan 2027)",
+        "date": "2026-10-30",
+        "id": "smartrecruiters:744000158774229"
       }
     ],
     "Intrinsic": [
@@ -27143,6 +27243,26 @@
         "title": "Robotics Embedded Software Tech Lead, DeepMind",
         "date": "2026-10-29",
         "id": "google:127119667801006790"
+      },
+      {
+        "title": "Technical Program Manager, Cross-Product Execution and Model Feedback Operations, DeepMind",
+        "date": "2026-10-30",
+        "id": "google:123440770613945030"
+      },
+      {
+        "title": "Software Engineer, Applied AI Agents, Professional Intelligence, DeepMind",
+        "date": "2026-10-30",
+        "id": "google:74956705875534534"
+      },
+      {
+        "title": "Research Engineer, Multi-Agent Learning, DeepMind",
+        "date": "2026-10-30",
+        "id": "google:101218541104964294"
+      },
+      {
+        "title": "Senior Software Engineer, Data and Infrastructure, Professional Intelligence, DeepMind",
+        "date": "2026-10-30",
+        "id": "google:117925620289020614"
       }
     ],
     "Wing": [
@@ -28259,6 +28379,11 @@
         "title": "Senior Staff Electrical Engineer (On-site)",
         "date": "2026-10-29",
         "id": "ashby:9cc89fce-b6bb-4b9c-8695-5692071adbdf"
+      },
+      {
+        "title": "Internal Purchasing Specialist",
+        "date": "2026-10-30",
+        "id": "ashby:93cb3731-d5bd-4a02-be13-dc929a232d0f"
       }
     ],
     "Bright Machines": [
@@ -34373,6 +34498,16 @@
         "title": "Program Manager, Vision & Robotics",
         "date": "2026-10-29",
         "id": "workday:R8342"
+      },
+      {
+        "title": "Staff Robotics Software Engineer, Perception & AI",
+        "date": "2026-10-30",
+        "id": "workday:R8366"
+      },
+      {
+        "title": "Program Manager - Cell Engineering",
+        "date": "2026-10-30",
+        "id": "workday:R8380"
       }
     ],
     "PROCEPT BioRobotics": [
@@ -37098,6 +37233,11 @@
         "title": "Senior IT Engineer",
         "date": "2026-10-27",
         "id": "rippling:b586237b-c3c6-441c-8914-8de50c72392a"
+      },
+      {
+        "title": "Member of Technical Staff: Quality Engineer",
+        "date": "2026-10-30",
+        "id": "rippling:8e0a24ca-914b-415b-ab96-ed8b1c61d641"
       }
     ],
     "Woven by Toyota": [
@@ -37856,6 +37996,16 @@
         "title": "ML\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u30a8\u30f3\u30b8\u30cb\u30a2\u30fbAD/ADAS",
         "date": "2026-10-29",
         "id": "lever:3d1b295c-3bde-441c-83de-14c31bc68316"
+      },
+      {
+        "title": "Backend Engineer, Integrated Booking and Ticketing System, Facility Service System",
+        "date": "2026-10-30",
+        "id": "lever:49ca6b64-6884-48cb-a5a4-4d86cf984d82"
+      },
+      {
+        "title": "\u30d0\u30c3\u30af\u30a8\u30f3\u30c9\u30a8\u30f3\u30b8\u30cb\u30a2\u3001\u7d71\u5408\u30e2\u30d3\u30ea\u30c6\u30a3\u30a4\u30f3\u30d5\u30e9\u30fbFacility Service System",
+        "date": "2026-10-30",
+        "id": "lever:6e3dc171-c199-4c4c-b6a4-e9f250d56f62"
       }
     ],
     "Generalist AI": [
@@ -38880,6 +39030,11 @@
         "title": "Senior General Ledger Accountant",
         "date": "2026-10-28",
         "id": "greenhouse:5019145101"
+      },
+      {
+        "title": "Senior HSFE Specialist",
+        "date": "2026-10-30",
+        "id": "greenhouse:4977578101"
       }
     ],
     "Northrop Grumman": [
@@ -43503,6 +43658,11 @@
         "title": "Research Program Manager, Safety Measurement",
         "date": "2026-10-29",
         "id": "ashby:4bcc25ef-cf03-47db-896c-0fd9122afab1"
+      },
+      {
+        "title": "Applied AI Delivery Lead - London",
+        "date": "2026-10-30",
+        "id": "ashby:ec0aa7c7-8995-4e01-9939-594a94549f85"
       }
     ],
     "John Deere": [
@@ -45904,6 +46064,26 @@
         "title": "\u2b50\ufe0f Co-Op, Structuring Scientific Data for Discovery",
         "date": "2026-10-28",
         "id": "greenhouse:4469150009"
+      },
+      {
+        "title": "\u2b50\ufe0f Co-Op, Bayesian Methods for Complex Decision Making",
+        "date": "2026-10-30",
+        "id": "greenhouse:4469148009"
+      },
+      {
+        "title": "\u2b50\ufe0f Co-Op, Editorial Content",
+        "date": "2026-10-30",
+        "id": "greenhouse:4472542009"
+      },
+      {
+        "title": "\u2b50\ufe0f Co-Op, SCADA Engineer",
+        "date": "2026-10-30",
+        "id": "greenhouse:4467407009"
+      },
+      {
+        "title": "Senior Scientist, Analytical Chemistry",
+        "date": "2026-10-30",
+        "id": "greenhouse:4192713009"
       }
     ],
     "Anthropic": [
@@ -49396,6 +49576,16 @@
         "title": "Research Scientist, Life Sciences (Large Molecules, Process Development)",
         "date": "2026-10-29",
         "id": "greenhouse:5467099008"
+      },
+      {
+        "title": "Customer Success Manager, Beneficial Deployments EMEA",
+        "date": "2026-10-30",
+        "id": "greenhouse:5462040008"
+      },
+      {
+        "title": "Research Operations Lead, Biology",
+        "date": "2026-10-30",
+        "id": "greenhouse:5467690008"
       }
     ],
     "xAI": [
@@ -50948,6 +51138,16 @@
         "title": "Sr. Analyst, Monetization Operations",
         "date": "2026-10-29",
         "id": "greenhouse:5278701007"
+      },
+      {
+        "title": "KYC Analyst",
+        "date": "2026-10-30",
+        "id": "greenhouse:5279620007"
+      },
+      {
+        "title": "Operation & Maintenance Engineer (Power Plant) - Memphis",
+        "date": "2026-10-30",
+        "id": "greenhouse:5279894007"
       }
     ],
     "Thinking Machines Lab": [
@@ -52054,13 +52254,23 @@
         "title": "Packaging Engineer - Accessories and Service Parts",
         "date": "2026-10-29",
         "id": "workday:JR101628"
+      },
+      {
+        "title": "Manufacturing Quality Engineer \u2013 Electrical Systems & Software",
+        "date": "2026-10-30",
+        "id": "workday:JR101643"
+      },
+      {
+        "title": "Supplier Quality Engineer, Accessories",
+        "date": "2026-10-30",
+        "id": "workday:JR101642"
       }
     ]
   },
   "email_threads": {
     "internship": {
-      "date": "2026-10-29",
-      "message_id": "<179329151613.2362.12419473592881837552@phlux>"
+      "date": "2026-10-30",
+      "message_id": "<179337751926.2424.13445045351804350646@phlux>"
     }
   }
 }
