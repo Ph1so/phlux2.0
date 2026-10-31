@@ -738,6 +738,11 @@
         "title": "\u2b50\ufe0f Applied Science: PhD Internship Opportunities, Turing",
         "date": "2026-10-29",
         "id": "eightfold:1970393557050154"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Intern - Office of Applied Research",
+        "date": "2026-10-30",
+        "id": "eightfold:1970393557051409"
       }
     ],
     "Amazon": [
@@ -1940,6 +1945,11 @@
         "title": "\u2b50\ufe0f Research Scientist Intern, MSL - Agentic Post-Training (PhD)",
         "date": "2026-10-30",
         "id": "meta:1155292783739299"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Video RecSys (PhD)",
+        "date": "2026-10-30",
+        "id": "meta:1553890293163197"
       }
     ],
     "Apple": [
@@ -12087,6 +12097,11 @@
         "title": "Sr. Staff Technical Recruiter, Physical AI",
         "date": "2026-10-29",
         "id": "ashby:ea541778-ad60-454f-8a23-feffae9bed4a"
+      },
+      {
+        "title": "Manufacturing Hardware Technician",
+        "date": "2026-10-30",
+        "id": "ashby:184a9c82-e6a2-4f8a-b288-f82ab2a53d2a"
       }
     ],
     "Zoox": [
@@ -14664,6 +14679,11 @@
         "title": "Staff Systems Engineer, Simulation Systems Verification and Validation Lead",
         "date": "2026-10-30",
         "id": "lever:fd2dfb61-b04c-4489-85ee-f55389c11126"
+      },
+      {
+        "title": "Test Infrastructure Engineer",
+        "date": "2026-10-30",
+        "id": "lever:6320b978-abf4-483b-a09f-bfba0c44c485"
       }
     ],
     "Pony.ai": [
@@ -18620,7 +18640,8 @@
       },
       {
         "title": "\u2b50\ufe0f Mechanical Design Engineer Intern",
-        "date": "2026-10-19"
+        "date": "2026-10-19",
+        "id": "ashby:4b9f178f-5346-443d-899e-4d8a76372517"
       },
       {
         "title": "Systems Engineer (Firmware)",
@@ -29771,6 +29792,16 @@
         "title": "Senior Systems Engineer \u2013 AD-Kit Components",
         "date": "2026-10-28",
         "id": "greenhouse:8921954002"
+      },
+      {
+        "title": "Behavioral Safety Manager",
+        "date": "2026-10-30",
+        "id": "greenhouse:8921964002"
+      },
+      {
+        "title": "Functional Safety Manager",
+        "date": "2026-10-30",
+        "id": "greenhouse:8921962002"
       }
     ],
     "Saronic": [
@@ -43859,6 +43890,16 @@
         "title": "Product Growth",
         "date": "2026-10-30",
         "id": "ashby:65dd3a22-32f8-4559-875a-bbb923664c87"
+      },
+      {
+        "title": "Senior Counsel, AI Product",
+        "date": "2026-10-30",
+        "id": "ashby:36a746ab-66a6-4f3e-b164-3ca8fa9e0658"
+      },
+      {
+        "title": "Manufacturing Quality Engineer, Data Center Equipment",
+        "date": "2026-10-30",
+        "id": "ashby:2df14230-1cb5-4727-a34e-f480303e4212"
       }
     ],
     "John Deere": [
@@ -49817,6 +49858,16 @@
         "title": "Engineering Manager, Integrity and Attestation",
         "date": "2026-10-30",
         "id": "greenhouse:5394403008"
+      },
+      {
+        "title": "Data Engineer",
+        "date": "2026-10-30",
+        "id": "greenhouse:5464234008"
+      },
+      {
+        "title": "Staff+ Software Engineer, Backend",
+        "date": "2026-10-30",
+        "id": "greenhouse:5174755008"
       }
     ],
     "xAI": [
@@ -51379,6 +51430,16 @@
         "title": "Operation & Maintenance Engineer (Power Plant) - Memphis",
         "date": "2026-10-30",
         "id": "greenhouse:5279894007"
+      },
+      {
+        "title": "Construction Superintendent, Fluid/Mechanical - Memphis",
+        "date": "2026-10-30",
+        "id": "greenhouse:5280771007"
+      },
+      {
+        "title": "Instrumentation & Controls Technician (Power Plant) - Memphis",
+        "date": "2026-10-30",
+        "id": "greenhouse:5280433007"
       }
     ],
     "Thinking Machines Lab": [
