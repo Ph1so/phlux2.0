@@ -743,6 +743,11 @@
         "title": "\u2b50\ufe0f Research Intern - Office of Applied Research",
         "date": "2026-10-30",
         "id": "eightfold:1970393557051409"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
+        "date": "2026-11-01",
+        "id": "eightfold:1970393556922930"
       }
     ],
     "Amazon": [
@@ -4971,6 +4976,11 @@
         "title": "\u2b50\ufe0f SA0342: Internship - Sound event and anomaly detection",
         "date": "2026-10-28",
         "id": "html:https://www.merl.com/employment/internship-openings#SA0342"
+      },
+      {
+        "title": "\u2b50\ufe0f OR0334: Internship - Physical AI for Dexterous, Contact-Rich Humanoid Manipulation",
+        "date": "2026-11-01",
+        "id": "html:https://www.merl.com/employment/internship-openings#OR0334"
       }
     ],
     "Onward Robotics": [
@@ -45023,6 +45033,36 @@
         "title": "Senior Technical Project Manager \u2013 Robotaxi",
         "date": "2026-10-29",
         "id": "lever:ec69a3de-fd8e-429c-a492-74c73940a032"
+      },
+      {
+        "title": "Junior Validation & Integration Engineer",
+        "date": "2026-11-01",
+        "id": "lever:b1883e14-5a78-4cd4-af6d-f22790187366"
+      },
+      {
+        "title": "Machine Learning Software Engineer",
+        "date": "2026-11-01",
+        "id": "lever:1b3f71b9-fe39-41d3-bd43-4ae7ad18f92e"
+      },
+      {
+        "title": "Machine Learning Software Engineer",
+        "date": "2026-11-01",
+        "id": "lever:72e986e2-94b4-49f6-be5f-74a48de8a71d"
+      },
+      {
+        "title": "Senior Backend Engineer",
+        "date": "2026-11-01",
+        "id": "lever:a2369d4c-e0ef-41e7-bf8a-db12cc46c79e"
+      },
+      {
+        "title": "Senior IC Test Engineer",
+        "date": "2026-11-01",
+        "id": "lever:6adda8cd-5563-4747-96de-305cd96ee5dd"
+      },
+      {
+        "title": "Validation & Integration Engineer",
+        "date": "2026-11-01",
+        "id": "lever:a6cf562b-dca7-4708-9772-7539a13b9a37"
       }
     ],
     "Dusty Robotics": [
@@ -52586,8 +52626,8 @@
   },
   "email_threads": {
     "internship": {
-      "date": "2026-10-31",
-      "message_id": "<179347554575.2431.7139142426098415562@phlux>"
+      "date": "2026-11-01",
+      "message_id": "<179355070587.2376.1196301827008743120@phlux>"
     }
   }
 }
