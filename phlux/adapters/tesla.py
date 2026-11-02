@@ -17,6 +17,9 @@ elsewhere, e.g. a Mac, they stay headless rather than open windows. Each
 scrape tries undetected-chromedriver, then nodriver, then undetected-
 chromedriver again, a fresh browser each time, and gives up only when every
 one is refused.
+
+A listing's page is ``/careers/search/job/<title slug>-<id>``, the slug being
+the title lowercased with each run of other characters made a hyphen.
 """
 from __future__ import annotations
 
@@ -25,8 +28,10 @@ import gc
 import json
 import logging
 import os
+import re
 import sys
 import time
+import unicodedata
 from typing import Callable, Dict, List, Tuple
 from urllib.parse import parse_qs, urlparse
 
@@ -43,6 +48,7 @@ PAGE_SETTLE_SECONDS = 3
 FETCH_ATTEMPTS = 4
 FETCH_RETRY_SECONDS = 3
 DENIED_TITLE = "Access Denied"
+SEARCH_PATH = "/careers/search"
 
 
 def headed() -> bool:
@@ -152,6 +158,17 @@ def fetch_state(url: str) -> Dict:
     raise RuntimeError("Tesla refused every browser (" + "; ".join(failures) + ")")
 
 
+def job_url(search_url: str, listing: Dict) -> str:
+    """Return a listing's page on the site of the search page *search_url*."""
+    parts = urlparse(search_url)
+    # Keep a locale prefix such as /de_DE before /careers/search.
+    prefix = parts.path.split(SEARCH_PATH, 1)[0] if SEARCH_PATH in parts.path else ""
+    ascii_title = unicodedata.normalize("NFKD", listing["t"]).encode("ascii", "ignore").decode()
+    slug = re.sub(r"[^a-z0-9]+", "-", ascii_title.lower()).strip("-")
+    name = f"{slug}-{listing['id']}" if slug else str(listing["id"])
+    return f"{parts.scheme}://{parts.netloc}{prefix}{SEARCH_PATH}/job/{name}"
+
+
 @adapter(NAME)
 def fetch(url: str, arg: str = "") -> List[Posting]:
     """Return the Tesla listings the search URL and *arg*'s departments select."""
@@ -161,6 +178,6 @@ def fetch(url: str, arg: str = "") -> List[Posting]:
     departments = [d.strip() for d in arg.split("|") if d.strip()]
     state = fetch_state(url)
     return [
-        Posting(f"{NAME}:{listing['id']}", " ".join(listing["t"].split()))
+        Posting(f"{NAME}:{listing['id']}", " ".join(listing["t"].split()), url=job_url(url, listing))
         for listing in matching_listings(state, job_type, site, departments)
     ]

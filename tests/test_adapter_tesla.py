@@ -31,11 +31,28 @@ class TestFetch:
             ("tesla:1", "Internship, Optimus"),
             ("tesla:5", "Internship, Data Platforms"),
         ]
+        assert [p.url for p in postings] == [
+            "https://www.tesla.com/careers/search/job/internship-optimus-1",
+            "https://www.tesla.com/careers/search/job/internship-data-platforms-5",
+        ]
 
     def test_no_departments_keeps_all(self):
         with patch.object(tesla, "fetch_state", return_value=STATE):
             postings = tesla.fetch(URL)
         assert [p.id for p in postings] == ["tesla:1", "tesla:2", "tesla:5"]
+
+
+class TestJobUrl:
+    @pytest.mark.parametrize("search_url, title, expected", [
+        (URL, "Internship, Software Engineer, Vehicle Firmware (Winter/Spring 2027)",
+         "https://www.tesla.com/careers/search/job/internship-software-engineer-vehicle-firmware-winter-spring-2027-9"),
+        (URL, "Sr. Ingénieur  Qualité", "https://www.tesla.com/careers/search/job/sr-ingenieur-qualite-9"),
+        ("https://www.tesla.com/de_DE/careers/search/?site=DE", "Praktikum",
+         "https://www.tesla.com/de_DE/careers/search/job/praktikum-9"),
+        (URL, "???", "https://www.tesla.com/careers/search/job/9"),
+    ])
+    def test_slug_and_id_under_the_search_page(self, search_url, title, expected):
+        assert tesla.job_url(search_url, {"id": "9", "t": title}) == expected
 
 
 class TestFetchState:
