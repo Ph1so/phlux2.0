@@ -1,10 +1,12 @@
 """Tests for phlux/scraping.py."""
+import copy
 import os
 from datetime import datetime
 from pathlib import Path
 from unittest.mock import MagicMock, patch
 
 import pytest
+import pytz
 
 from phlux.models import Company, ScrapeResult
 from phlux.scraping import (
@@ -537,3 +539,143 @@ class TestBoardErrors:
             with pytest.raises(RuntimeError, match="WebDriverException: Message: chrome crashed") as exc:
                 scrape_company(Company("Acme", "https://acme.com/jobs", "CSS:h3"))
         pickle.dumps(exc.value)
+
+
+# ── track_closures ────────────────────────────────────────────────────────────
+
+class TestTrackClosures:
+    @staticmethod
+    def at(hour, minute=0, day=1):
+        return pytz.timezone("US/Eastern").localize(datetime(2026, 11, day, hour, minute))
+
+    @staticmethod
+    def stored(n, closed=()):
+        return [
+            {"title": f"Role {i}", "date": "2026-10-01", "id": f"x:{i}", **({"closed": "2026-10-20"} if i in closed else {})}
+            for i in range(n)
+        ]
+
+    @staticmethod
+    def scrape(indices, name="Acme"):
+        return ScrapeResult(name, [f"Role {i}" for i in indices], "https://acme.com", [f"x:{i}" for i in indices])
+
+    def _track(self, data, result, when, trust_empty=False):
+        from phlux.scraping import track_closures
+        track_closures(data, result, trust_empty=trust_empty, now=when)
+
+    def test_missing_posting_closes_and_company_is_checked(self):
+        data = {"companies": {"Acme": self.stored(3)}, "checked": {"Acme": "2026-10-31"}}
+        self._track(data, self.scrape([0, 2]), self.at(12))
+        assert [j.get("closed") for j in data["companies"]["Acme"]] == [None, "2026-11-01", None]
+        assert data["checked"] == {"Acme": "2026-11-01"}
+
+    def test_first_look_closes_the_backlog_undated(self):
+        # Before tracking began nobody saw these close, so there is no date to give.
+        data = {"companies": {"Acme": self.stored(3)}}
+        self._track(data, self.scrape([0, 2]), self.at(12))
+        assert [j.get("closed") for j in data["companies"]["Acme"]] == [None, "N/A", None]
+        assert data["checked"] == {"Acme": "2026-11-01"}
+
+    def test_first_look_big_drop_is_confirmed_undated(self):
+        data = {"companies": {"Acme": self.stored(10)}}
+        self._track(data, self.scrape([0]), self.at(12))
+        self._track(data, self.scrape([0]), self.at(13, 30))
+        assert {j.get("closed") for j in data["companies"]["Acme"][1:]} == {"N/A"}
+
+    def test_reappearing_posting_reopens(self):
+        data = {"companies": {"Acme": self.stored(2, closed={1})}}
+        self._track(data, self.scrape([0, 1]), self.at(12))
+        assert all("closed" not in j for j in data["companies"]["Acme"])
+
+    def test_matches_a_renamed_posting_by_id_and_a_legacy_one_by_title(self):
+        data = {"companies": {"Acme": [
+            {"title": "Planner", "date": "2026-10-01", "id": "x:1"},
+            {"title": "Welder", "date": "2026-10-01"},
+            "Legacy string role",
+        ]}}
+        result = ScrapeResult("Acme", ["Senior Planner", "Welder"], "https://acme.com", ["x:1", None])
+        self._track(data, result, self.at(12))
+        assert data["companies"]["Acme"][:2] == [
+            {"title": "Planner", "date": "2026-10-01", "id": "x:1"},
+            {"title": "Welder", "date": "2026-10-01"},
+        ]
+
+    def test_untrusted_empty_result_changes_nothing(self):
+        # A page scrape that timed out returns nothing too.
+        data = {"companies": {"Acme": self.stored(3)}}
+        before = copy.deepcopy(data)
+        self._track(data, self.scrape([]), self.at(12))
+        assert data["companies"] == before["companies"]
+        assert "Acme" not in data.get("checked", {})
+
+    def test_trusted_empty_board_closes_only_after_a_second_look(self):
+        data = {"companies": {"Acme": self.stored(2)}, "checked": {"Acme": "2026-10-31"}}
+        self._track(data, self.scrape([]), self.at(12), trust_empty=True)
+        assert all("closed" not in j for j in data["companies"]["Acme"])
+        assert data["pending_closures"]["Acme"]["keys"] == ["x:0", "x:1"]
+        self._track(data, self.scrape([]), self.at(13, 30), trust_empty=True)
+        assert [j["closed"] for j in data["companies"]["Acme"]] == ["2026-11-01", "2026-11-01"]
+        assert "Acme" not in data["pending_closures"]
+
+    def test_big_drop_waits_an_hour_and_closes_what_is_still_missing(self):
+        data = {"companies": {"Acme": self.stored(10)}, "checked": {"Acme": "2026-10-31"}}
+        self._track(data, self.scrape([0, 1, 2]), self.at(12))  # 7 of 10 gone
+        assert all("closed" not in j for j in data["companies"]["Acme"])
+        self._track(data, self.scrape([0, 1, 2]), self.at(12, 30))  # too soon
+        assert all("closed" not in j for j in data["companies"]["Acme"])
+        self._track(data, self.scrape([0, 1, 2, 3, 4]), self.at(13, 15))  # 3 and 4 came back
+        closed = [j["id"] for j in data["companies"]["Acme"] if "closed" in j]
+        assert closed == ["x:5", "x:6", "x:7", "x:8", "x:9"]
+        assert "Acme" not in data["pending_closures"]
+
+    def test_a_hold_is_never_rewritten_while_it_waits(self):
+        # A scraper returning a different partial list each run must not make
+        # every run write storage (each bot commit starts another run).
+        data = {"companies": {"Acme": self.stored(10)}}
+        self._track(data, self.scrape([0, 1]), self.at(12))
+        held = copy.deepcopy(data["pending_closures"])
+        self._track(data, self.scrape([2, 3]), self.at(12, 20))
+        assert data["pending_closures"] == held
+
+    def test_small_drop_closes_at_once_and_clears_a_hold(self):
+        data = {"companies": {"Acme": self.stored(10)}, "checked": {"Acme": "2026-10-31"},
+                "pending_closures": {"Acme": {"since": "2026-11-01T09:00-04:00", "keys": ["x:1"]}}}
+        self._track(data, self.scrape(range(1, 10)), self.at(12))
+        assert [j["id"] for j in data["companies"]["Acme"] if "closed" in j] == ["x:0"]
+        assert data["pending_closures"] == {}
+
+    def test_quiet_run_leaves_storage_untouched(self):
+        data = {"companies": {"Acme": self.stored(4, closed={3})}, "checked": {"Acme": "2026-11-01"},
+                "pending_closures": {}}
+        before = copy.deepcopy(data)
+        self._track(data, self.scrape([0, 1, 2]), self.at(18))
+        assert data == before
+
+
+class TestScrapeCompaniesClosures:
+    def _scrape(self, tmp_path, storage, companies, **patches):
+        import json
+        from concurrent.futures import ThreadPoolExecutor
+
+        from phlux.scraping import ScrapeManager
+
+        path = tmp_path / "storage.json"
+        path.write_text(json.dumps(storage), encoding="utf-8")
+        with patch("phlux.scraping.ProcessPoolExecutor", ThreadPoolExecutor), \
+             patch("phlux.config.load_config", return_value={}), \
+             patch("phlux.scraping.scrape_company", **patches):
+            return ScrapeManager().scrape_companies(companies, storage_path=str(path), max_workers=2)["data"]
+
+    def test_failed_scrape_closes_nothing(self, tmp_path):
+        storage = {"companies": {"Acme": [{"title": "Planner", "date": "2026-10-01", "id": "ashby:1"}]}}
+        data = self._scrape(tmp_path, storage, [Company("Acme", "https://jobs.ashbyhq.com/acme", "@ashby")],
+                            side_effect=RuntimeError("HTTPError: 500"))
+        assert "closed" not in data["companies"]["Acme"][0]
+        assert "Acme" not in data.get("checked", {})
+
+    def test_board_scrapes_trust_an_empty_board(self, tmp_path):
+        storage = {"companies": {"Acme": [{"title": "Planner", "date": "2026-10-01", "id": "ashby:1"}]}}
+        data = self._scrape(tmp_path, storage, [Company("Acme", "https://jobs.ashbyhq.com/acme", "@ashby")],
+                            return_value=ScrapeResult("Acme", [], "https://jobs.ashbyhq.com/acme"))
+        assert "Acme" in data["pending_closures"]
+        assert "Acme" in data["checked"]

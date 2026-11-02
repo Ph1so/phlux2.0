@@ -6,7 +6,7 @@ import logging
 import os
 import time
 from concurrent.futures import ProcessPoolExecutor, as_completed
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 from typing import Dict, Iterable, List, Tuple
 
@@ -75,6 +75,16 @@ def expand_presets(instructions: str) -> str:
 NA_DATE = "N/A"
 # Top-level storage key that turns on silent seeding (see ScrapeManager.scrape_companies).
 SEED_FLAG = "seed_new_companies"
+# Top-level storage keys kept by track_closures: each company's last trusted
+# scrape date, and closures waiting for a second look.
+CHECKED_KEY = "checked"
+PENDING_KEY = "pending_closures"
+# A drop of at least this many postings, and over this share of a company's open
+# ones, is held until a scrape at least CONFIRM_AFTER later sees the same.
+BIG_DROP_MIN = 5
+BIG_DROP_SHARE = 0.5
+CONFIRM_AFTER = timedelta(hours=1)
+EASTERN = pytz.timezone("US/Eastern")
 
 
 class Actions:
@@ -520,6 +530,86 @@ def process_jobs(data: dict, result: ScrapeResult, new_jobs: Dict, seed: bool = 
         }
 
 
+def _posting_key(entry: dict) -> str:
+    return entry.get("id") or f"title:{entry['title']}"
+
+
+def track_closures(data: dict, result: ScrapeResult, trust_empty: bool = False,
+                   now: datetime | None = None) -> None:
+    """Record which of a company's stored postings closed, from a scrape that succeeded.
+
+    A stored posting the scrape no longer shows gets ``closed`` (the date it was
+    first missed); one that shows again loses it. The company's ``checked`` date
+    (in :data:`CHECKED_KEY`) records the last scrape trusted this way. Postings
+    already gone on a company's first such look closed at some unknown point
+    before tracking began, so they are stamped ``"N/A"`` instead.
+
+    Missing a posting is not proof it closed, so two guards stand between a
+    flaky scrape and a wave of false closures:
+
+    * An empty result closes nothing unless *trust_empty* (board APIs raise on
+      failure, so their empty answer means an empty board; a page scrape that
+      timed out also returns nothing).
+    * A big drop (an empty result, or :data:`BIG_DROP_MIN`+ postings and over
+      :data:`BIG_DROP_SHARE` of the open ones) waits in :data:`PENDING_KEY`. A
+      scrape at least :data:`CONFIRM_AFTER` later closes those of them it still
+      misses. The hold is never rewritten while it waits, so a scraper that
+      returns a different partial list every run can't make every run write.
+
+    Storage changes only when something closes, reopens or the day turns, so a
+    quiet run still writes nothing (each bot commit starts another run).
+
+    Args:
+        data: Mutable ``storage.json`` contents, after :func:`process_jobs`.
+        result: The company's scrape, which must not have failed.
+        trust_empty: Whether an empty result means the company lists nothing.
+        now: Stand-in for the current time.
+    """
+    now = now or datetime.now(EASTERN)
+    today = now.date().isoformat()
+    pending = data.setdefault(PENDING_KEY, {})
+    if not result.jobs and not trust_empty:
+        return
+    checked = data.setdefault(CHECKED_KEY, {})
+    stamp = NA_DATE if result.name not in checked else today
+    checked[result.name] = today
+
+    seen_ids = {i for i in result.ids if i}
+    seen_titles = {job.replace("\n", " - ") for job in result.jobs}
+    entries = [j for j in data.get("companies", {}).get(result.name, []) if isinstance(j, dict)]
+    missing = []
+    for entry in entries:
+        if (entry.get("id") and entry["id"] in seen_ids) or entry["title"] in seen_titles:
+            entry.pop("closed", None)
+        elif "closed" not in entry:
+            missing.append(entry)
+
+    open_count = sum(1 for e in entries if "closed" not in e)
+    big = bool(missing) and (
+        not result.jobs or (len(missing) >= BIG_DROP_MIN and len(missing) > BIG_DROP_SHARE * open_count)
+    )
+    if big:
+        held = pending.get(result.name)
+        if not held:
+            pending[result.name] = {
+                "since": now.isoformat(timespec="minutes"),
+                "keys": sorted(_posting_key(e) for e in missing),
+                **({"backlog": True} if stamp == NA_DATE else {}),
+            }
+            logger.warning("%s: %d of %d postings missing; holding closures for a second look",
+                           result.name, len(missing), open_count)
+            return
+        if now - datetime.fromisoformat(held["since"]) < CONFIRM_AFTER:
+            return
+        confirmed = set(held["keys"])
+        missing = [e for e in missing if _posting_key(e) in confirmed]
+        if held.get("backlog"):
+            stamp = NA_DATE
+    pending.pop(result.name, None)
+    for entry in missing:
+        entry["closed"] = stamp
+
+
 def autoApply(jobs: List[str], url: str) -> None:
     """Trigger the ``auto-apply.yml`` GitHub Actions workflow for each job.
 
@@ -644,15 +734,19 @@ class ScrapeManager:
             futures = {executor.submit(scrape_company, c): c for c in companies}
             for future in as_completed(futures):
                 company = futures[future]
+                failed = False
                 try:
                     result = future.result()
                 except Exception as e:
                     logger.error("Error scraping %s: %s", company.name, e)
                     result = ScrapeResult(company.name, [], company.link)
+                    failed = True
                 if not result.jobs:
                     no_jobs_count += 1
                 seed = seed_empty and not data.get("companies", {}).get(company.name)
                 process_jobs(data, result, new_jobs, seed=seed)
+                if not failed:
+                    track_closures(data, result, trust_empty=bool(board_of(company.selector)))
 
         logger.info("Companies with no jobs found: %d", no_jobs_count)
         return {"data": data, "new_jobs": new_jobs}
