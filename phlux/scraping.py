@@ -438,6 +438,15 @@ def load_company_data(
     return filter_companies(companies, names)
 
 
+def _fill_in(entry: dict | None, **fields: str) -> None:
+    """Set each non-empty field *entry* doesn't have yet; never replace one."""
+    if entry is None:
+        return
+    for key, value in fields.items():
+        if value and not entry.get(key):
+            entry[key] = value
+
+
 def switching_to_ids(existing: List, result: ScrapeResult) -> bool:
     """Return True on a company's first scrape by board API.
 
@@ -456,13 +465,12 @@ def process_jobs(data: dict, result: ScrapeResult, new_jobs: Dict, seed: bool = 
     A posting is new when neither its title nor (for board APIs) its id is
     stored. An id keeps a posting from coming back as new after its title is
     edited; matching titles keep the existing one-row-per-title behaviour. A
-    stored posting that turns up with an id or page link it lacks gets them
-    recorded. A stored link is never replaced: some sites put per-visit tracking
-    in their links, and rewriting storage on every run would make every bot run
-    commit (and every commit start another run).
+    stored posting that turns up with an id, page link or location it lacks
+    gets them recorded. Stored links and locations are never replaced: some
+    sites put per-visit tracking in their links, and rewriting storage on every
+    run would make every bot run commit (and every commit start another run).
 
-    New postings are also recorded in *new_jobs* so callers can send alerts,
-    with their ``location`` when the board gives one (storage leaves it out).
+    New postings are also recorded in *new_jobs* so callers can send alerts.
 
     Args:
         data: Mutable dict representing ``storage.json`` contents.
@@ -500,9 +508,7 @@ def process_jobs(data: dict, result: ScrapeResult, new_jobs: Dict, seed: bool = 
     for job, job_id, location, url in zip(result.jobs, ids, locations, urls):
         job = job.replace("\n", " - ")
         if job_id and job_id in existing_ids:
-            entry = by_id.get(job_id)
-            if url and entry is not None and not entry.get("url"):
-                entry["url"] = url
+            _fill_in(by_id.get(job_id), url=url, location=location)
             continue
         if job in existing_titles:
             entry = by_title.get(job)
@@ -510,16 +516,14 @@ def process_jobs(data: dict, result: ScrapeResult, new_jobs: Dict, seed: bool = 
                 entry["id"] = job_id
                 existing_ids.add(job_id)
                 by_id[job_id] = entry
-            if url and entry is not None and not entry.get("url"):
-                entry["url"] = url
+            _fill_in(entry, url=url, location=location)
             continue
         record = {"title": job, "date": stamp}
         if job_id:
             record["id"] = job_id
-        if url:
-            record["url"] = url
+        _fill_in(record, url=url, location=location)
         new_list.append(record)
-        alerts.append({**record, "location": location} if location else record)
+        alerts.append(record)
 
     data["companies"][result.name] = existing + new_list
 

@@ -334,14 +334,20 @@ class TestProcessJobsWithIds:
         assert data["companies"]["Acme"][0]["date"] != "N/A"
         assert "Acme" in new_jobs["companies"]
 
-    def test_location_goes_to_the_alert_but_not_storage(self):
+    def test_location_goes_to_the_alert_and_storage(self):
         data = {"companies": {"Acme": [{"title": "Planner", "date": "2026-10-01", "id": "ashby:1"}]}}
         new_jobs = {}
         result = ScrapeResult("Acme", ["Planner", "⭐️ Robotics Intern", "Welder"], "https://acme.com",
                               ["ashby:1", "ashby:2", "ashby:3"], ["Austin", "Munich +1", ""])
         process_jobs(data, result, new_jobs)
         assert [j.get("location") for j in new_jobs["companies"]["Acme"]["jobs"]] == ["Munich +1", None]
-        assert all("location" not in j for j in data["companies"]["Acme"])
+        assert [j.get("location") for j in data["companies"]["Acme"]] == ["Austin", "Munich +1", None]
+
+    def test_stored_location_is_never_replaced(self):
+        data = {"companies": {"Acme": [{"title": "Planner", "date": "2026-10-01", "id": "ashby:1",
+                                        "location": "Austin"}]}}
+        process_jobs(data, ScrapeResult("Acme", ["Planner"], "https://acme.com", ["ashby:1"], ["Austin +2"]), {})
+        assert data["companies"]["Acme"][0]["location"] == "Austin"
 
 
 class TestProcessJobsWithUrls:
