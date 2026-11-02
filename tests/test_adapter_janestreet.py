@@ -4,7 +4,7 @@ from unittest.mock import MagicMock, patch
 import pytest
 
 from phlux.adapters import ADAPTERS
-from phlux.adapters.janestreet import DIRECTORY, MAIN, fetch, paramify, paramify_strict
+from phlux.adapters.janestreet import DIRECTORY, MAIN, fetch, location, paramify, paramify_strict
 
 OPEN_ROLES = "https://www.janestreet.com/join-jane-street/open-roles/"
 JOBS = [
@@ -81,3 +81,16 @@ def test_all_locations():
 def test_unknown_filter_value_is_refused(query):
     with pytest.raises(ValueError):
         run(query)
+
+
+def test_locations_written_out():
+    postings = run("?type=internship&location=all-locations")
+    assert [p.location for p in postings] == ["New York, NY", "New York, NY", "London, United Kingdom"]
+
+
+@pytest.mark.parametrize("city, expected", [
+    ("NYC", "New York, NY"), ("CHI", "Chicago, IL"), ("HKG", "Hong Kong"),
+    ("NYC/HKG", "New York, NY +1"), ("XYZ", "XYZ"), ("", ""),
+])
+def test_location_codes(city, expected):
+    assert location(city) == expected

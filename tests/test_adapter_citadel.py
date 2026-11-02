@@ -59,3 +59,8 @@ class TestFetch:
     def test_office_names_map_to_regions(self):
         assert citadel.wanted_regions("london,hong-kong") == {"Europe", "Asia"}
         assert citadel.wanted_regions("") == set()
+
+
+def test_location_is_the_slugs_region():
+    postings = fetch(SEARCH)
+    assert [p.location for p in postings] == ["US", "Europe", "US", "", ""]

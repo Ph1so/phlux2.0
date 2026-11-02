@@ -10,7 +10,8 @@ are applied to the slugs: ``experience-filter=internships`` keeps slugs with
 "intern" in them, and ``location-filter`` (regions or offices, comma-separated)
 keeps the slugs whose region it covers. Titles are rebuilt from the slug, as
 the job pages that hold the real titles are behind the challenge. The
-sitemap's URL is the job's page.
+sitemap's URL is the job's page, and the slug's region (``US``, ``Europe``…)
+its location, the only one the sitemap gives.
 """
 from __future__ import annotations
 
@@ -86,5 +87,5 @@ def fetch(url: str, arg: str = "") -> List[Posting]:
         region = slug_region(slug)
         if regions and region and region not in regions:
             continue
-        postings.append(Posting(f"{NAME}:{slug}", slug_title(slug), url=job_url))
+        postings.append(Posting(f"{NAME}:{slug}", slug_title(slug), region or "", job_url))
     return postings

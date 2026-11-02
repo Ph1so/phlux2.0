@@ -19,7 +19,8 @@ The page also lists last season's internships that are not open yet, marked
 has no ids). Those are not postings and are left out; when one opens, it shows
 up in main.json with an id and is reported as new.
 
-The page links an open position to ``/join-jane-street/position/<id>/``.
+The page links an open position to ``/join-jane-street/position/<id>/``. Its
+``city`` is a code (``NYC``, ``NYC/HKG`` for two), written out by :data:`PLACES`.
 """
 from __future__ import annotations
 
@@ -28,7 +29,7 @@ from typing import Dict, List
 from urllib.parse import parse_qsl, urlsplit
 
 from ..models import Posting
-from .base import adapter, get
+from .base import adapter, get, place
 
 SITE = "https://www.janestreet.com"
 MAIN = SITE + "/jobs/main.json"
@@ -39,6 +40,12 @@ CITY_NAMES = {
     "NYC": "New York", "LDN": "London", "HKG": "Hong Kong", "AMS": "Amsterdam",
     "CHI": "Chicago", "SGP": "Singapore", "MUM": "Mumbai", "SHA": "Shanghai",
     "PHL": "Philadelphia", "SF": "San Francisco", "ATX": "Austin", "NYC/HKG": "New York/Hong Kong",
+}
+# Where each city code is, as a person writes it.
+PLACES = {
+    "NYC": "New York, NY", "CHI": "Chicago, IL", "PHL": "Philadelphia, PA", "SF": "San Francisco, CA",
+    "ATX": "Austin, TX", "LDN": "London, United Kingdom", "HKG": "Hong Kong", "AMS": "Amsterdam, Netherlands",
+    "SGP": "Singapore", "MUM": "Mumbai, India", "SHA": "Shanghai, China",
 }
 EXPERIENCED = "Full-Time: Experienced"
 NEW_GRAD = "Full-Time: New Grad"
@@ -89,6 +96,12 @@ def _jobs() -> List[Dict[str, str]]:
         job["type"] = job_type(job.pop("availability", ""))
         jobs.append(job)
     return jobs
+
+
+def location(city: str) -> str:
+    """Return where a position's ``city`` code is (``NYC`` → "New York, NY"), plus a count of any more."""
+    codes = [c.strip() for c in str(city or "").split("/") if c.strip()]
+    return place(None, [PLACES.get(c, CITY_NAMES.get(c, c)) for c in codes])
 
 
 def _choose(param: str, value: str, options: Dict[str, List[str]]) -> List[str]:
@@ -143,5 +156,5 @@ def select(jobs: List[Dict[str, str]], url: str) -> List[Dict[str, str]]:
 @adapter("janestreet")
 def fetch(url: str, arg: str = "") -> List[Posting]:
     """Return the open positions the Jane Street open-roles link shows."""
-    return [Posting(f"janestreet:{j['id']}", j["position"], url=POSITION.format(id=j["id"]))
+    return [Posting(f"janestreet:{j['id']}", j["position"], location(j["location"]), POSITION.format(id=j["id"]))
             for j in select(_jobs(), url)]

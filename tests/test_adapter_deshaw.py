@@ -52,3 +52,17 @@ def test_failed_page_raises(html):
     with patch("phlux.adapters.deshaw.get", return_value=response(html)):
         with pytest.raises(RuntimeError):
             fetch(URL)
+
+
+def test_location_from_the_office():
+    html = page({"internships": [
+        {"id": "1", "displayName": "Quant Intern (New York)", "office": [{"abbreviation": "NYC", "name": "New York"}]},
+        {"id": "2", "displayName": "Intern (London)", "office": [{"abbreviation": "LON", "name": "London"}]},
+        {"id": "3", "displayName": "Intern", "office": [{"name": "New York"}, {"name": "London"}]},
+        {"id": "4", "displayName": "Intern (Singapore)",
+         "data": {"jobMetadata": {"jobLocations": [{"name": "Singapore", "abbreviation": "SG"}]}}},
+        {"id": "5", "displayName": "Intern"},
+    ]})
+    with patch("phlux.adapters.deshaw.get", return_value=response(html)):
+        postings = fetch(URL)
+    assert [p.location for p in postings] == ["New York, NY", "London", "New York, NY +1", "Singapore", ""]
