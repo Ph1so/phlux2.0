@@ -13,6 +13,8 @@ takes three steps, as the page does:
 
 The query returns every matching job at once (no paging). Postings are keyed
 by Meta's job id, the one in ``/profile/job_details/<id>/``, the job's page.
+A job's ``locations`` are already written "Menlo Park, CA"; the first is shown,
+with a count of the rest.
 """
 from __future__ import annotations
 
@@ -25,7 +27,7 @@ from urllib.parse import parse_qsl, urlsplit
 import requests
 
 from ..models import Posting
-from .base import adapter, get, post
+from .base import adapter, get, place, post, tidy_place
 
 logger = logging.getLogger(__name__)
 
@@ -143,4 +145,7 @@ def fetch(url: str, arg: str = "") -> List[Posting]:
         if data is None:
             raise RuntimeError(f"Meta does not know the {QUERY} doc_id {_doc_id} from its own page")
     jobs = data["job_search_with_featured_jobs"]["all_jobs"] or []
-    return [Posting(f"meta:{j['id']}", " ".join(j["title"].split()), url=JOB_PAGE.format(id=j["id"])) for j in jobs]
+    return [Posting(f"meta:{j['id']}", " ".join(j["title"].split()),
+                    place(None, [tidy_place(loc) for loc in j.get("locations") or [] if isinstance(loc, str)]),
+                    JOB_PAGE.format(id=j["id"]))
+            for j in jobs]

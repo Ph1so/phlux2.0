@@ -98,3 +98,33 @@ class TestHeaded:
         monkeypatch.setattr(tesla.sys, "platform", platform)
         monkeypatch.setenv("DISPLAY", display)
         assert tesla.headed() is expected
+
+
+class TestLocation:
+    def test_listings_located_by_their_city_in_geo(self):
+        with patch.object(tesla, "fetch_state", return_value=GEO_STATE):
+            postings = tesla.fetch(URL)
+        # Ids may be numbers or strings; Berlin is outside the search's site.
+        assert [(p.id, p.location) for p in postings] == [("tesla:1", "Palo Alto, CA"), ("tesla:2", "Austin, TX")]
+
+    def test_places_abroad_name_their_country(self):
+        assert tesla.places(GEO_STATE["geo"]) == {
+            "10": "Palo Alto, CA", "11": "Austin, TX", "20": "Toronto, Canada", "30": "Berlin, Germany"}
+
+
+GEO_STATE = {
+    "lookup": {"types": {"1": "intern"}, "departments": {"3": "Tesla SI"}},
+    "geo": [
+        {"id": "5", "sites": [
+            {"id": "US", "states": [{"id": "CA", "cities": {"Palo Alto": ["10"]}},
+                                    {"id": "TX", "cities": {"Austin": [11]}}]},
+            {"id": "CA", "states": [{"id": "ON", "cities": {"Toronto": ["20"]}}]},
+        ]},
+        {"id": "6", "sites": [{"id": "DE", "states": [{"id": "BB", "cities": {"Berlin": ["30"]}}]}]},
+    ],
+    "listings": [
+        {"id": "1", "t": "Internship, Optimus", "y": 1, "l": "10", "dp": "3"},
+        {"id": "2", "t": "Internship, Cell Engineering", "y": 1, "l": 11, "dp": "3"},
+        {"id": "3", "t": "Internship, Berlin", "y": 1, "l": "30", "dp": "3"},
+    ],
+}

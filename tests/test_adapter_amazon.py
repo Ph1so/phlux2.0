@@ -5,7 +5,7 @@ from unittest.mock import MagicMock, patch
 import pytest
 
 from phlux.adapters import ADAPTERS
-from phlux.adapters.amazon import fetch, search_json_params, team_search_body
+from phlux.adapters.amazon import coded_place, fetch, location, search_json_params, team_search_body
 
 SEARCH = ("https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=recent"
           "&country%5B%5D=USA&base_query=intern&loc_query=")
@@ -151,6 +151,52 @@ class TestTeamPage:
                 patch("phlux.adapters.amazon.post", return_value=response({"found": 22436, "searchHits": []})):
             with pytest.raises(RuntimeError):
                 fetch(TEAM)
+
+
+def loc(code):
+    """One of a job's ``locations``, a JSON string as the APIs give it."""
+    return json.dumps({"location": code, "countryIso2a": code[:2], "type": "ONSITE"})
+
+
+class TestLocation:
+    @pytest.mark.parametrize("code, expected", [
+        ("US, TX, Austin", "Austin, TX"),
+        ("US, MA, North Reading", "North Reading, MA"),
+        ("DE, BE, Berlin", "Berlin, Germany"),
+        ("CA, ON, Toronto", "Toronto, Canada"),
+        ("US, WA", "Washington"),
+        ("US", "United States"),
+    ])
+    def test_codes_written_out(self, code, expected):
+        assert coded_place(code) == expected
+
+    def test_main_location_then_a_count_of_the_rest(self):
+        others = [loc("US, VA, Arlington"), loc("US, MA, North Reading"), loc("US, MA, Westboro")]
+        assert location("US, MA, North Reading", others) == "North Reading, MA +2"
+
+    def test_unreadable_locations_are_skipped(self):
+        assert location("US, TX, Austin", ["not json", loc("US, TX, Austin")]) == "Austin, TX"
+        assert location("", None) == ""
+
+    def test_search_page_postings_carry_locations(self):
+        page = {"error": None, "hits": 2, "jobs": [
+            {**job(1, "Intern"), "location": "US, WA, Seattle", "locations": [loc("US, WA, Seattle")]},
+            {**job(2, "Intern"), "location": "US, IN, Plainfield", "locations": [loc("US, NH, Manchester")]},
+        ]}
+        with patch("phlux.adapters.amazon.get", return_value=response(page)):
+            postings = fetch(SEARCH)
+        assert [p.location for p in postings] == ["Seattle, WA", "Plainfield, IN +1"]
+
+    def test_team_page_postings_carry_locations(self):
+        page = response(text=team_page([]), url=TEAM)
+        found = hit(11, "Robotics Intern")
+        found["fields"].update({"location": ["US, MA, North Reading"],
+                                "locations": [loc("US, MA, North Reading"), loc("US, MA, Westboro")]})
+        result = {"found": 2, "searchHits": [found, hit(12, "Co-op")]}
+        with patch("phlux.adapters.amazon.get", return_value=page), \
+                patch("phlux.adapters.amazon.post", return_value=response(result)):
+            postings = fetch(TEAM)
+        assert [p.location for p in postings] == ["North Reading, MA +1", ""]
 
 
 def test_other_pages_are_refused():

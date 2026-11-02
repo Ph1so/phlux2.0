@@ -91,3 +91,16 @@ def test_page_without_token_raises():
     with patch("phlux.adapters.meta.get", return_value=response("<html></html>")):
         with pytest.raises(RuntimeError):
             fetch(URL)
+
+
+def test_first_location_with_a_count_of_the_rest():
+    answer = json.dumps({"data": {"job_search_with_featured_jobs": {"all_jobs": [
+        {"id": "1", "title": "A", "locations": ["Menlo Park, CA"]},
+        {"id": "2", "title": "B", "locations": ["Sunnyvale, CA", "Bellevue, WA", "Redmond, WA"]},
+        {"id": "3", "title": "C", "locations": ["Zurich, Switzerland", "London, UK"]},
+        {"id": "4", "title": "D", "locations": []},
+    ]}}})
+    with patch("phlux.adapters.meta.get", return_value=response(PAGE)), \
+            patch("phlux.adapters.meta.post", return_value=response(answer)):
+        postings = fetch(URL)
+    assert [p.location for p in postings] == ["Menlo Park, CA", "Sunnyvale, CA +2", "Zurich, Switzerland +1", ""]

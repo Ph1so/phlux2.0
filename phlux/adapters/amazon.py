@@ -21,6 +21,10 @@ Postings are keyed by Amazon's iCIMS job id, the number in ``/jobs/<id>/...``.
 A job's page is search.json's ``job_path`` (``/en/jobs/<id>/<title slug>``);
 team page hits name no page, so theirs is ``/<locale>/jobs/<id>``, which
 amazon.jobs redirects to the full path.
+
+Both searches give a job's main location as ``US, TX, Austin`` (country code,
+region, city) and every location it is posted in as JSON strings in
+``locations``; they are written "Austin, TX" (:func:`location`).
 """
 from __future__ import annotations
 
@@ -31,7 +35,7 @@ from typing import Dict, Iterable, List, Set
 from urllib.parse import parse_qsl, urljoin, urlsplit
 
 from ..models import Posting
-from .base import adapter, get, post
+from .base import adapter, format_place, get, place, post
 
 PAGE_SIZE = 100
 # A filtered search never comes near this; the whole site is over 20,000.
@@ -123,8 +127,8 @@ def _search_page(url: str) -> List[Posting]:
         hits = page.get("hits") or 0
         _check_hits(hits, url)
         postings += [
-            Posting(f"amazon:{j['id_icims']}", _title(j["title"]),
-                    url=urljoin(origin, j["job_path"]) if j.get("job_path") else _job_url(url, j["id_icims"]))
+            Posting(f"amazon:{j['id_icims']}", _title(j["title"]), location(j.get("location"), j.get("locations")),
+                    urljoin(origin, j["job_path"]) if j.get("job_path") else _job_url(url, j["id_icims"]))
             for j in page.get("jobs") or []
         ]
         offset += PAGE_SIZE
@@ -278,7 +282,9 @@ def _team_page(url: str) -> List[Posting]:
         for hit in result.get("searchHits") or []:
             fields = hit["fields"]
             job_id = fields["icimsJobId"][0]
-            postings.append(Posting(f"amazon:{job_id}", _title(fields["title"][0]), url=_job_url(page.url, job_id)))
+            postings.append(Posting(f"amazon:{job_id}", _title(fields["title"][0]),
+                                    location((fields.get("location") or [""])[0], fields.get("locations")),
+                                    _job_url(page.url, job_id)))
     return postings
 
 
@@ -294,6 +300,34 @@ def _check_hits(hits: int, url: str) -> None:
 
 def _title(title: str) -> str:
     return " ".join(title.split())
+
+
+def coded_place(code: str | None) -> str:
+    """Return an amazon.jobs location code written out: ``US, TX, Austin`` → "Austin, TX".
+
+    The code is the country's two-letter code, then the region and the city
+    when it names them (``DE, BE, Berlin`` → "Berlin, Germany"; ``US`` → "United States").
+    """
+    parts = [p.strip() for p in (code or "").split(",")]
+    if len(parts) >= 3:
+        return format_place(", ".join(parts[2:]), parts[1], parts[0])
+    if len(parts) == 2:
+        return format_place("", parts[1], parts[0])
+    return format_place("", "", parts[0])
+
+
+def location(main: str | None, others: Iterable[str] | None = None) -> str:
+    """Return a job's location: its *main* location code and how many more it is posted in.
+
+    *others* are the job's ``locations``, JSON strings whose ``location`` is a code.
+    """
+    codes = []
+    for raw in others or []:
+        try:
+            codes.append(json.loads(raw).get("location") if isinstance(raw, str) else raw.get("location"))
+        except (ValueError, AttributeError):
+            continue
+    return place(coded_place(main) if main else "", [coded_place(c) for c in codes if c])
 
 
 def _job_url(page_url: str, job_id) -> str:

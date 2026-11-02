@@ -19,7 +19,9 @@ chromedriver again, a fresh browser each time, and gives up only when every
 one is refused.
 
 A listing's page is ``/careers/search/job/<title slug>-<id>``, the slug being
-the title lowercased with each run of other characters made a hyphen.
+the title lowercased with each run of other characters made a hyphen. Its
+location id (``l``) is one of a city's in the state's ``geo`` (country site,
+state, city), so it is written "Palo Alto, CA".
 """
 from __future__ import annotations
 
@@ -38,7 +40,7 @@ from urllib.parse import parse_qs, urlparse
 from ..models import Posting
 from ..scrapers.tesla import _FETCH_JS, STATE_PATH, matching_listings
 from ..utils import _chrome_major_version, _user_agent, get_driver
-from .base import adapter
+from .base import adapter, format_place
 
 logger = logging.getLogger(__name__)
 
@@ -158,6 +160,19 @@ def fetch_state(url: str) -> Dict:
     raise RuntimeError("Tesla refused every browser (" + "; ".join(failures) + ")")
 
 
+def places(geo) -> Dict[str, str]:
+    """Return each location id in the careers state's *geo* as its place ("Palo Alto, CA")."""
+    found: Dict[str, str] = {}
+    for region in geo or []:
+        for site in region.get("sites") or []:
+            for state in site.get("states") or []:
+                for city, ids in (state.get("cities") or {}).items():
+                    name = format_place(city, state.get("id"), site.get("id"))
+                    for location_id in ids or []:
+                        found.setdefault(str(location_id), name)
+    return found
+
+
 def job_url(search_url: str, listing: Dict) -> str:
     """Return a listing's page on the site of the search page *search_url*."""
     parts = urlparse(search_url)
@@ -177,7 +192,9 @@ def fetch(url: str, arg: str = "") -> List[Posting]:
     site = query.get("site", ["US"])[0]
     departments = [d.strip() for d in arg.split("|") if d.strip()]
     state = fetch_state(url)
+    where = places(state.get("geo"))
     return [
-        Posting(f"{NAME}:{listing['id']}", " ".join(listing["t"].split()), url=job_url(url, listing))
+        Posting(f"{NAME}:{listing['id']}", " ".join(listing["t"].split()), where.get(str(listing.get("l")), ""),
+                job_url(url, listing))
         for listing in matching_listings(state, job_type, site, departments)
     ]

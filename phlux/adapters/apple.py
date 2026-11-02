@@ -14,6 +14,10 @@ Postings are keyed by the job's id in ``/details/<id>/...`` (one per posting
 location, e.g. ``200673612-0157``). That page is linked as
 ``/<locale>/details/<id>``, in the search's language; Apple redirects it to
 the full path with the title's slug, which the id alone survives.
+
+Each result names its ``locations`` by Apple's site names ("Cupertino",
+"Austin", or "United States" for a job open across the country), which are
+kept as they are; a place abroad also gets its country ("Munich, Germany").
 """
 from __future__ import annotations
 
@@ -25,7 +29,7 @@ from typing import List, Tuple
 from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
 from ..models import Posting
-from .base import adapter, get, unique
+from .base import adapter, format_place, get, is_us, place, unique, us_state
 
 DATA = re.compile(r"window\.__staticRouterHydrationData\s*=\s*JSON\.parse\((\".*?\")\);", re.S)
 MAX_PAGES = 50
@@ -52,6 +56,17 @@ def job_url(url: str, job_id: str) -> str:
     return JOB_PAGE.format(locale=locale, id=job_id)
 
 
+def location_name(location: dict) -> str:
+    """Return one of a result's ``locations`` as the search page shows it, with its country if abroad."""
+    name = " ".join(str(location.get("name") or location.get("city") or "").split())
+    country = location.get("countryName") or ""
+    if is_us(country) or not country:
+        if location.get("city") and us_state(location.get("stateProvince")):
+            return format_place(location["city"], location["stateProvince"], "US")
+        return name
+    return format_place(name, "", country)
+
+
 def parse(html: str, url: str = "") -> Tuple[List[Posting], int]:
     """Return ``(postings, total)`` from a results page of the search *url*.
 
@@ -63,7 +78,8 @@ def parse(html: str, url: str = "") -> Tuple[List[Posting], int]:
         raise ValueError("No search data on the Apple jobs page")
     search = json.loads(json.loads(match.group(1)))["loaderData"]["search"]
     jobs = search.get("searchResults") or []
-    postings = [Posting(f"apple:{j['id']}", " ".join(j["postingTitle"].split()), url=job_url(url, j["id"]))
+    postings = [Posting(f"apple:{j['id']}", " ".join(j["postingTitle"].split()),
+                        place(None, [location_name(loc) for loc in j.get("locations") or []]), job_url(url, j["id"]))
                 for j in jobs]
     return postings, search.get("totalRecords") or 0
 

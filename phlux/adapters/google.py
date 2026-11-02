@@ -9,6 +9,10 @@ as is, adding ``page=N`` for each page of 20. A ``page`` already in the link is
 ignored: every page is read. A job's page is ``…/jobs/results/<id>`` (the
 results page links ``<id>-<title slug>``, but the id alone serves the same
 page and survives a retitling).
+
+A job's tenth field lists its locations, each ``[display, [address], city,
+postal code, region, country code]``: a US one is written "Mountain View, CA",
+one abroad as Google shows it ("London, UK").
 """
 from __future__ import annotations
 
@@ -19,12 +23,14 @@ from typing import List, Tuple
 from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
 from ..models import Posting
-from .base import adapter, get, unique
+from .base import adapter, format_place, get, place, tidy_place, unique
 
 DATA = re.compile(r"AF_initDataCallback\(\{key: 'ds:1', hash: '\d+', data:")
 # 50 pages of 20 is a thousand jobs; a scope that wide is not a filtered one.
 MAX_PAGES = 50
 JOB_PAGE = "https://www.google.com/about/careers/applications/jobs/results/{id}"
+# Where a job's list of locations sits in its array.
+LOCATIONS = 9
 
 
 def page_url(url: str, page: int) -> str:
@@ -33,6 +39,24 @@ def page_url(url: str, page: int) -> str:
     params = [(k, v) for k, v in parse_qsl(parts.query, keep_blank_values=True) if k != "page"]
     params.append(("page", str(page)))
     return urlunsplit(parts._replace(query=urlencode(params)))
+
+
+def location_name(loc) -> str:
+    """Return one ``[display, [address], city, postal, region, country]`` location as a person writes it."""
+    if not isinstance(loc, list) or not loc:
+        return ""
+    display = loc[0] if isinstance(loc[0], str) else ""
+    padded = loc + [None] * 6
+    city, region, country = padded[2], padded[4], padded[5]
+    if country == "US" and (city or region):
+        return format_place(city, region, country)
+    return tidy_place(display)
+
+
+def location(job: list) -> str:
+    """Return a job's first location and how many more it lists."""
+    locations = job[LOCATIONS] if len(job) > LOCATIONS and isinstance(job[LOCATIONS], list) else []
+    return place(None, [location_name(loc) for loc in locations])
 
 
 def parse(html: str) -> Tuple[List[Posting], int, int]:
@@ -46,7 +70,7 @@ def parse(html: str) -> Tuple[List[Posting], int, int]:
         raise ValueError("No job data (ds:1) on the Google Careers page")
     data, _ = json.JSONDecoder().raw_decode(html, match.end())
     jobs, total, size = data[0] or [], data[-2] or 0, data[-1] or 20
-    postings = [Posting(f"google:{job[0]}", " ".join(job[1].split()), url=JOB_PAGE.format(id=job[0]))
+    postings = [Posting(f"google:{job[0]}", " ".join(job[1].split()), location(job), JOB_PAGE.format(id=job[0]))
                 for job in jobs]
     return postings, total, size
 

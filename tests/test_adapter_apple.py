@@ -88,3 +88,24 @@ def test_later_page_empty_raises():
     with patch("phlux.adapters.apple.get", side_effect=lambda url, **kw: response(pages[page_of(url)])):
         with pytest.raises(RuntimeError):
             fetch(URL)
+
+
+def located_page(locations):
+    data = {"loaderData": {"search": {"searchResults": [
+        {"id": f"{i}-1", "postingTitle": "Intern", "locations": locs} for i, locs in enumerate(locations)
+    ], "totalRecords": len(locations)}}}
+    return f"<script>window.__staticRouterHydrationData = JSON.parse({json.dumps(json.dumps(data))});</script>"
+
+
+def test_locations_as_the_search_shows_them():
+    usa = "United States of America"
+    postings, _ = parse(located_page([
+        [{"name": "Cupertino", "city": "", "stateProvince": "", "countryName": usa}],
+        [{"name": "United States", "city": "", "stateProvince": "", "countryName": usa}],
+        [{"name": "Austin", "city": "Austin", "stateProvince": "Texas", "countryName": usa}],
+        [{"name": "Munich", "city": "", "stateProvince": "", "countryName": "Germany"}],
+        [{"name": "Cupertino", "countryName": usa}, {"name": "Austin", "countryName": usa}],
+        [],
+    ]), URL)
+    assert [p.location for p in postings] == [
+        "Cupertino", "United States", "Austin, TX", "Munich, Germany", "Cupertino +1", ""]
