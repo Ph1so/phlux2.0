@@ -12,7 +12,8 @@ person exactly what is scraped.
 Each posting's ``externalPath`` ends in ``_<job id>`` (the requisition id,
 plus ``-N`` when a requisition is posted more than once). The slug before it
 keeps the title from when the job was first posted, so the id, not the path,
-is the stable key.
+is the stable key. The job's page is that path under the board's own page,
+``https://<host>/[<locale>/]<site>/job/…``.
 """
 from __future__ import annotations
 
@@ -49,6 +50,8 @@ class Board(NamedTuple):
     api: str
     facets: Dict[str, List[str]]
     search: str
+    # The board page a job's ``externalPath`` is under, with the URL's locale.
+    page: str
 
 
 def parse_board(url: str) -> Board:
@@ -59,12 +62,17 @@ def parse_board(url: str) -> Board:
     """
     parts = urlsplit(url)
     host = parts.netloc.lower()
-    segments = [s for s in parts.path.split("/") if s and not LOCALE.match(s)]
+    path = [s for s in parts.path.split("/") if s]
+    # Positions in *path* of the segments that are not a locale.
+    kept = [i for i, s in enumerate(path) if not LOCALE.match(s)]
+    segments = [path[i] for i in kept]
     if host.endswith(".myworkdayjobs.com"):
         tenant = host.split(".")[0]
         site = segments[0] if segments else ""
+        end = kept[0] + 1 if kept else 0
     elif host.endswith(".myworkdaysite.com") and len(segments) >= 3 and segments[0] == "recruiting":
         tenant, site = segments[1], segments[2]
+        end = kept[2] + 1
     else:
         raise ValueError(f"Not a Workday board URL: {url}")
     if not site:
@@ -77,7 +85,8 @@ def parse_board(url: str) -> Board:
         for key, values in params.items()
         if key not in IGNORED_PARAMS and not key.startswith("utm_") and any(values)
     }
-    return Board(API.format(host=host, tenant=tenant, site=site), facets, search)
+    page = f"https://{host}/" + "/".join(path[:end])
+    return Board(API.format(host=host, tenant=tenant, site=site), facets, search, page)
 
 
 def _page(board_api: str, facets: Dict[str, List[str]], search: str, offset: int, referer: str) -> dict:
@@ -107,12 +116,15 @@ def job_id(job: dict) -> Optional[str]:
     return tail.rsplit("_", 1)[-1] if "_" in tail else path
 
 
-def to_posting(job: dict) -> Posting:
+def to_posting(job: dict, board_page: str = "") -> Posting:
+    """Return *job* as a posting; *board_page* (:attr:`Board.page`) makes its link."""
     title = " ".join((job.get("title") or "").split())
     # "Santa Clara, CA", or "3 Locations" when there are several.
     location = " ".join((job.get("locationsText") or "").split())
     key = job_id(job)
-    return Posting(f"{NAME}:{key}" if key else title_id(NAME, title), title, location)
+    path = (job.get("externalPath") or "").strip()
+    url = board_page + path if board_page and path.startswith("/") else ""
+    return Posting(f"{NAME}:{key}" if key else title_id(NAME, title), title, location, url)
 
 
 @adapter(NAME)
@@ -148,7 +160,7 @@ def fetch(url: str, arg: str = "") -> List[Posting]:
             return []
         else:
             jobs = _page(board.api, facets, board.search, page * PAGE_SIZE, url).get("jobPostings", [])
-        return [to_posting(j) for j in jobs if j.get("title")]
+        return [to_posting(j, board.page) for j in jobs if j.get("title")]
 
     postings = paged(fetch_page, max_pages=MAX_PAGES)
     if total > MAX_PAGES * PAGE_SIZE:

@@ -65,6 +65,21 @@ class TestParseBoard:
     def test_api_endpoint(self, url, api):
         assert parse_board(url).api == api
 
+    @pytest.mark.parametrize("url, page", [
+        ("https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs?workerSubType=1",
+         "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite"),
+        ("https://intel.wd1.myworkdayjobs.com/External?workerSubType=1",
+         "https://intel.wd1.myworkdayjobs.com/External"),
+        ("https://NVIDIA.wd5.myworkdayjobs.com/fr-CA/NVIDIAExternalCareerSite/",
+         "https://nvidia.wd5.myworkdayjobs.com/fr-CA/NVIDIAExternalCareerSite"),
+        ("https://wd5.myworkdaysite.com/en-US/recruiting/acme/External",
+         "https://wd5.myworkdaysite.com/en-US/recruiting/acme/External"),
+        ("https://wd5.myworkdaysite.com/recruiting/acme/acme/jobs",
+         "https://wd5.myworkdaysite.com/recruiting/acme/acme"),
+    ])
+    def test_page_keeps_the_locale_and_ends_at_the_site(self, url, page):
+        assert parse_board(url).page == page
+
     def test_repeated_params_become_one_facet_with_several_ids(self):
         url = (f"https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers"
                f"?workerSubType=a&workerSubType=b&locationCountry={US}")
@@ -118,6 +133,8 @@ class TestFetch:
             ("workday:JR0001", "PhD Research Intern"),
             ("workday:JR0002", "Job 2"),
         ]
+        assert postings[0].url == ("https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite"
+                                   "/job/US-CA-Santa-Clara/Job-1_JR0001")
         url, body, headers = calls[0]
         assert url == NVIDIA_API
         assert body == {
@@ -154,6 +171,15 @@ class TestFetch:
             fetch(f"https://leidos.wd5.myworkdayjobs.com/External?q=intern&locationCountry={US}")
         assert calls[0][1]["searchText"] == "intern"
         assert calls[0][1]["appliedFacets"] == {"locationCountry": [US]}
+
+    def test_links_need_no_locale_and_a_posting_without_a_path_has_none(self):
+        mock, _ = board([job(1), {"title": "No Path", "bulletFields": ["R-9"]}])
+        with mock:
+            postings = fetch(f"https://intel.wd1.myworkdayjobs.com/External?locations={US}")
+        assert [p.url for p in postings] == [
+            "https://intel.wd1.myworkdayjobs.com/External/job/US-CA-Santa-Clara/Job-1_JR0001",
+            "",
+        ]
 
     def test_untitled_postings_are_skipped(self):
         mock, _ = board([job(1), {"bulletFields": ["R-1"]}, job(2)])

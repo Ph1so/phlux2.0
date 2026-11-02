@@ -6,7 +6,7 @@ from unittest.mock import MagicMock, patch
 import pytest
 
 from phlux.adapters import ADAPTERS
-from phlux.adapters.eightfold import api_request, fetch, pcsx_filters, snake_case
+from phlux.adapters.eightfold import api_request, fetch, pcsx_filters, position_url, snake_case
 
 OPTIONS = {
     "seniority": {"displayName": "Seniority", "options": {"labelMap": {"0": "Intern", "1": "Entry"}}},
@@ -32,7 +32,8 @@ def response(payload=None, text=""):
 
 
 def positions(start, count, total):
-    return [{"id": n, "name": f"Intern  {n}"} for n in range(start, min(start + count, total))]
+    return [{"id": n, "name": f"Intern  {n}", "positionUrl": f"/careers/job/{n}"}
+            for n in range(start, min(start + count, total))]
 
 
 def test_registered():
@@ -111,6 +112,8 @@ def test_pcsx_pages_until_count(sleep):
         postings = fetch(url)
     assert [p.id for p in postings] == [f"eightfold:{n}" for n in range(12)]
     assert postings[0].title == "Intern 0"
+    # positionUrl is relative to the careers site.
+    assert postings[0].url == "https://careers.acme.com/careers/job/0"
     # The page, then two API pages; no third call once the count is reached.
     assert [c[0] for c in calls] == [url] + ["https://careers.acme.com/api/pcsx/search"] * 2
     assert [dict(c[1]["params"])["start"] for c in calls[1:]] == ["0", "10"]
@@ -126,13 +129,26 @@ def test_legacy_reads_top_level_positions(sleep):
     def get(target, **kwargs):
         if target == url:
             return response(text=legacy_page())
-        return response({"count": 1, "positions": [{"id": 7, "name": "Video Intern"}]})
+        return response({"count": 1, "positions": [{
+            "id": 7, "name": "Video Intern", "canonicalPositionUrl": "https://jobs.acme.com/careers/job/7"}]})
 
     with patch("phlux.adapters.eightfold.get", side_effect=get) as mock:
         postings = fetch(url)
-    assert [(p.id, p.title) for p in postings] == [("eightfold:7", "Video Intern")]
+    assert [(p.id, p.title, p.url) for p in postings] == [
+        ("eightfold:7", "Video Intern", "https://jobs.acme.com/careers/job/7")]
     assert mock.call_args_list[1].args == ("https://jobs.acme.com/api/apply/v2/jobs",)
     assert mock.call_args_list[1].kwargs["params"] == [("domain", "acme.com"), ("query", "intern"), ("start", "0")]
+
+
+@pytest.mark.parametrize("position, expected", [
+    ({"id": 5, "positionUrl": "/careers/job/5"}, "https://careers.acme.com/careers/job/5"),
+    ({"id": 5, "canonicalPositionUrl": "https://careers.acme.com/careers/job/5"},
+     "https://careers.acme.com/careers/job/5"),
+    # Without either, the page every Eightfold site uses for a position.
+    ({"id": 5}, "https://careers.acme.com/careers/job/5"),
+])
+def test_position_url(position, expected):
+    assert position_url("https://careers.acme.com", position) == expected
 
 
 @patch("phlux.adapters.base.time.sleep")

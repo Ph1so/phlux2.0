@@ -20,7 +20,9 @@ one), and the cookies it sets keep the API from answering 429 at once.
 Both APIs return 10 positions a page whatever ``num`` asks, and answer 429 to
 quick calls, so pages are :data:`DELAY` seconds apart. Keep a row's search
 narrow (a ``query`` or filters): :data:`MAX_PAGES` pages is the most read.
-A position's ``id`` is the stable key.
+A position's ``id`` is the stable key. Its page is PCSX's ``positionUrl``
+(relative, ``/careers/job/<id>``) on the careers site, or the older API's
+absolute ``canonicalPositionUrl``.
 """
 from __future__ import annotations
 
@@ -28,7 +30,7 @@ import json
 import logging
 import re
 from typing import Dict, List, Optional, Tuple
-from urllib.parse import urlsplit
+from urllib.parse import urljoin, urlsplit
 
 import requests
 
@@ -50,6 +52,8 @@ PAGE_PARAMS = {"domain", "query", "location", "sort_by", "start", "pid", "hl"}
 # Parameters that only steer the page (paging, which position is open, tracking).
 LEGACY_DROPPED = {"start", "num", "pid", "triggerGoButton"}
 FILTER_PREFIX = "filter_"
+# A position's page on the careers site, for an API answer that names none.
+POSITION_PATH = "/careers/job/{id}"
 # lodash's word split, which the page uses to snake_case filter keys.
 _WORDS = re.compile(r"[A-Z]{2,}(?=[A-Z][a-z]+[0-9]*|\b)|[A-Z]?[a-z]+[0-9]*|[A-Z]|[0-9]+")
 
@@ -138,12 +142,20 @@ def api_request(url: str, html: str) -> Tuple[str, List[Tuple[str, str]], bool]:
     return origin + LEGACY_API, api_params, False
 
 
+def position_url(origin: str, position: dict) -> str:
+    """Return a position's page on the careers site at *origin*."""
+    path = position.get("canonicalPositionUrl") or position.get("positionUrl")
+    return urljoin(origin + "/", path or POSITION_PATH.format(id=position["id"]))
+
+
 @adapter(NAME)
 def fetch(url: str, arg: str = "") -> List[Posting]:
     """Return the positions an Eightfold careers search URL shows, across all its pages."""
     session = requests.Session()
     html = get(url, session=session).text
     api, params, pcsx = api_request(url, html)
+    parts = urlsplit(url)
+    origin = f"{parts.scheme}://{parts.netloc}"
     total: Dict[str, int] = {}
 
     def fetch_page(page: int) -> List[Posting]:
@@ -155,7 +167,7 @@ def fetch(url: str, arg: str = "") -> List[Posting]:
         data = body["data"] if pcsx else body
         total["count"] = int(data.get("count") or 0)
         return [
-            Posting(f"{NAME}:{p['id']}", " ".join(str(p["name"]).split()))
+            Posting(f"{NAME}:{p['id']}", " ".join(str(p["name"]).split()), url=position_url(origin, p))
             for p in data.get("positions") or []
         ]
 
