@@ -3,7 +3,9 @@
 The portal page carries a short-lived session token (``configsFromHost.sessionJWT``)
 and names its API host; the job list is then a POST to that host's
 ``/api/ats/job-posting-previews/search``, paged with ``skip``/``take``.
-A job's page is ``…/portal/<key>/jobs/<jobId>`` on the portal.
+A job's page is ``…/portal/<key>/jobs/<jobId>`` on the portal. Its
+``locations`` is text naming the location and its address ("Main Location -
+PITTSBURGH, PA 15201"), written "Pittsburgh, PA".
 """
 from __future__ import annotations
 
@@ -13,7 +15,7 @@ from typing import List
 from urllib.parse import urlsplit
 
 from ..models import Posting
-from .base import adapter, get, post
+from .base import adapter, get, place, post, tidy_place
 
 CONFIG = re.compile(r"configsFromHost\s*=\s*")
 # A portal URL's path up to its key: ``/v4/ats/web.php/portal/<key>``.
@@ -47,6 +49,20 @@ def job_page(url: str, job_id) -> str:
     return f"{parts.scheme}://{parts.netloc}{match.group(0)}/jobs/{job_id}" if match else ""
 
 
+def address_place(address: str) -> str:
+    """Return one ``<name> - <CITY>, <ST> <zip>`` location as "City, ST"."""
+    city, comma, rest = " ".join(address.split()).rsplit(" - ", 1)[-1].partition(",")
+    if city.isupper():
+        city = city.title()
+    return tidy_place(city + comma + rest)
+
+
+def location(job: dict) -> str:
+    """Return a job's location, plus a count of any more ("Remote" for a remote job naming none)."""
+    names = [address_place(a) for a in re.split(r"[;|]", job.get("locations") or "")]
+    return place(None, names) or ("Remote" if "remote" in str(job.get("remoteType") or "").lower() else "")
+
+
 @adapter("paycom")
 def fetch(url: str, arg: str = "") -> List[Posting]:
     """Return every posting on a Paycom career portal."""
@@ -58,7 +74,8 @@ def fetch(url: str, arg: str = "") -> List[Posting]:
             "skip": page * PAGE_SIZE, "take": PAGE_SIZE, "filtersForQuery": NO_FILTERS,
         }).json()
         jobs = data.get("jobPostingPreviews") or []
-        postings.extend(Posting(f"paycom:{j['jobId']}", j["jobTitle"], url=job_page(url, j["jobId"])) for j in jobs)
+        postings.extend(Posting(f"paycom:{j['jobId']}", j["jobTitle"], location(j), job_page(url, j["jobId"]))
+                        for j in jobs)
         if not jobs or len(postings) >= (data.get("jobPostingPreviewsCount") or 0):
             break
     return postings

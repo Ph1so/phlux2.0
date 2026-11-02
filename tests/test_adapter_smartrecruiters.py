@@ -79,3 +79,18 @@ def test_empty_board():
     with patch("phlux.adapters.smartrecruiters.get", return_value=response({"totalFound": 0, "content": []})) as get:
         assert fetch(API) == []
     assert get.call_count == 1
+
+
+@pytest.mark.parametrize("where, expected", [
+    ({"city": "Florence", "region": "KY", "country": "us", "fullLocation": "Florence, KY, United States"},
+     "Florence, KY"),
+    ({"city": "Sunnyvale", "region": "California", "country": "us"}, "Sunnyvale, CA"),
+    ({"city": "Munich", "region": "BY", "country": "de", "fullLocation": "Munich, BY, Germany"}, "Munich, Germany"),
+    ({"city": "Stuttgart", "region": "BW", "country": "de"}, "Stuttgart, Germany"),
+    ({"remote": True, "country": "us", "fullLocation": "United States"}, "Remote"),
+    ({}, ""),
+])
+def test_location(where, expected):
+    payload = {"totalFound": 1, "content": [{"id": "1", "name": "Intern", "location": where}]}
+    with patch("phlux.adapters.smartrecruiters.get", return_value=response(payload)):
+        assert fetch(API)[0].location == expected

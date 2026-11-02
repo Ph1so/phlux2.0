@@ -48,3 +48,18 @@ def test_failure_raises():
     with patch("phlux.adapters.greyorange.post", return_value=response({"success": False, "data": None})):
         with pytest.raises(RuntimeError):
             fetch(URL)
+
+
+@pytest.mark.parametrize("text, expected", [
+    ("Austin, Texas, United States (USA)", "Austin, TX"),
+    ("Atlanta, Georgia, United States (USA)", "Atlanta, GA"),
+    ("Redwood City", "Redwood City"),
+    ("Gurugram, Haryana, India", "Gurugram, Haryana, India"),
+    ("Mexico City, Mexico City, Mexico", "Mexico City, Mexico"),
+    (None, ""),
+])
+def test_location(text, expected):
+    data = {"success": True, "data": {"totalCount": 1, "pageSize": 10,
+                                      "jobs": [{"id": "1", "jobTitle": "Engineer", "location": text}]}}
+    with patch("phlux.adapters.greyorange.post", return_value=response(data)):
+        assert fetch(URL)[0].location == expected

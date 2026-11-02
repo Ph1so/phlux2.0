@@ -73,3 +73,30 @@ def test_graphql_errors_raise():
          patch("phlux.adapters.teamio.post", return_value=response({"errors": [{"message": "bad key"}]})):
         with pytest.raises(RuntimeError):
             fetch("https://acme.ai/careers/")
+
+
+def test_query_asks_for_locations():
+    with patch("phlux.adapters.teamio.get", return_value=response(text=PAGE)), \
+         patch("phlux.adapters.teamio.post", return_value=response(ads([]))) as post:
+        fetch("https://acme.ai/careers/")
+    assert "locations { city region country }" in post.call_args.kwargs["json"]["query"]
+
+
+@pytest.mark.parametrize("title, locations, expected", [
+    ("Robotics QA Engineer", [{"city": "Bratislava-Ružinov", "region": "Bratislavský", "country": "Slovensko"}],
+     "Bratislava-Ružinov, Slovensko"),
+    ("Technical Warehouse Operator [Austin, TX]", [{"city": None, "region": None, "country": "Spojené státy americké"}],
+     "Austin, TX"),
+    ("Field Technician [York, PA 17402]", [{"city": None, "region": None, "country": "Spojené státy americké"}],
+     "York, PA"),
+    ("Technical Account Manager", [{"city": None, "region": None, "country": "Spojené státy americké"}],
+     "United States"),
+    ("Technician [m/ž]", [{"city": "Bratislava", "region": "Bratislavský", "country": "Slovensko"},
+                          {"city": "Košice", "region": "Košický", "country": "Slovensko"}], "Bratislava, Slovensko +1"),
+    ("Intern", [], ""),
+])
+def test_location(title, locations, expected):
+    with patch("phlux.adapters.teamio.get", return_value=response(text=PAGE)), \
+         patch("phlux.adapters.teamio.post", return_value=response(ads([{"id": "1", "title": title,
+                                                                           "locations": locations}]))):
+        assert fetch("https://acme.ai/careers/")[0].location == expected

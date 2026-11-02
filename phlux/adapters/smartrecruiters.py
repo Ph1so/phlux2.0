@@ -24,6 +24,9 @@ The API returns at most 100 postings per request; pages follow ``offset``
 until ``totalFound``. A posting's ``id`` is the stable key. The list gives no
 page URL (only each posting's detail, one request apiece), so the link is
 built as the career page links its jobs: ``jobs.smartrecruiters.com/<company>/<id>``.
+A posting's ``location`` gives its city, region and country code; it is
+written "Florence, KY" in the US and "Munich, Germany" abroad (the country's
+name ends ``fullLocation``).
 """
 from __future__ import annotations
 
@@ -32,7 +35,7 @@ from typing import Dict, List, Tuple
 from urllib.parse import quote, unquote, urlsplit
 
 from ..models import Posting
-from .base import adapter, get, paged, query
+from .base import adapter, format_place, get, is_us, paged, query
 
 logger = logging.getLogger(__name__)
 
@@ -81,6 +84,18 @@ def posting_url(posting: dict, company: str) -> str:
     return JOB_PAGE.format(company=quote(identifier), id=quote(str(posting["id"])))
 
 
+def location(posting: dict) -> str:
+    """Return where a posting is, or "Remote" for a remote one that names no city."""
+    loc = posting.get("location") or {}
+    city, region, country = loc.get("city"), loc.get("region"), loc.get("country") or ""
+    if loc.get("remote") and not city:
+        return "Remote"
+    if not is_us(country):
+        full = str(loc.get("fullLocation") or "")
+        country = full.rsplit(",", 1)[-1] if "," in full else (country or full)
+    return format_place(city, region, country)
+
+
 @adapter(NAME)
 def fetch(url: str, arg: str = "") -> List[Posting]:
     """Return the postings a SmartRecruiters board or API URL selects, across all pages."""
@@ -95,7 +110,7 @@ def fetch(url: str, arg: str = "") -> List[Posting]:
         body = get(api, params=params + [("limit", str(PAGE_SIZE)), ("offset", str(offset))]).json()
         total["found"] = int(body.get("totalFound") or 0)
         return [
-            Posting(f"{NAME}:{p['id']}", " ".join(p["name"].split()), url=posting_url(p, company))
+            Posting(f"{NAME}:{p['id']}", " ".join(p["name"].split()), location(p), posting_url(p, company))
             for p in body.get("content") or []
         ]
 

@@ -11,6 +11,11 @@ page, routed by the query (``?r=detail&id=<ad id>``; its links also carry
 paging and tracking parameters, left out here). That URL is the job's link,
 unless the widget is set to route otherwise (``legacyRouting``, or a separate
 detail page when ``onePage`` is off), where no link is given.
+
+An ad's ``locations`` give its city, region and country in the widget's
+language ("Bratislava-Ružinov", "Bratislavský", "Slovensko"). Ads in the US
+often name only the country there and put the town in the title
+("Technical Warehouse Operator [Austin, TX]"), which is then the location.
 """
 from __future__ import annotations
 
@@ -20,7 +25,7 @@ from typing import List
 from urllib.parse import urlencode, urlsplit, urlunsplit
 
 from ..models import Posting
-from .base import adapter, get, post, unique
+from .base import adapter, format_place, get, place, post, tidy_place, unique, us_state
 
 WIDGET = re.compile(r"__LMC_CAREER_WIDGET__\s*=\s*")
 API = "https://api.capybara.lmc.cz/api/graphql/widget"
@@ -31,13 +36,38 @@ query WidgetJobAds($widgetId: ID!, $page: Int!, $rps: Int!) {
   widget(id: $widgetId) {
     jobAdList(page: $page, filters: [], rps: $rps) {
       groupedJobAds {
-        jobAds { id title }
-        groups { jobAds { id title } }
+        jobAds { id title locations { city region country } }
+        groups { jobAds { id title locations { city region country } } }
       }
       paginator { currentPage lastPage }
     }
   }
 }"""
+
+
+# The United States as the widget names it (Czech, Slovak, English).
+UNITED_STATES = {"spojené státy americké", "spojené štáty americké", "usa", "united states", "us"}
+# "[Austin, TX]" ending a title.
+TITLE_PLACE = re.compile(r"\[([^\[\]]+)\]\s*$")
+
+
+def location(ad: dict) -> str:
+    """Return an ad's first location and how many more, or the US town its title names."""
+    names, cities, us = [], False, False
+    for loc in ad.get("locations") or []:
+        if not isinstance(loc, dict):
+            continue
+        country = " ".join(str(loc.get("country") or "").split())
+        if country.casefold() in UNITED_STATES:
+            country, us = "US", True
+        cities = cities or bool(loc.get("city"))
+        names.append(format_place(loc.get("city"), loc.get("region"), country))
+    match = TITLE_PLACE.search(ad.get("title") or "")
+    if match and not cities and (us or not names):
+        town, _, state = tidy_place(match.group(1)).rpartition(", ")
+        if town and us_state(state):
+            return f"{town}, {us_state(state)}"
+    return place(None, names)
 
 
 def job_url(page_url: str, config: dict, ad_id: str) -> str:
@@ -76,7 +106,8 @@ def fetch(url: str, arg: str = "") -> List[Posting]:
         jobs = list(grouped.get("jobAds") or [])
         for group in grouped.get("groups") or []:
             jobs.extend(group.get("jobAds") or [])
-        postings.extend(Posting(f"teamio:{j['id']}", j["title"], url=job_url(url, config, j["id"])) for j in jobs)
+        postings.extend(Posting(f"teamio:{j['id']}", j["title"], location(j), job_url(url, config, j["id"]))
+                        for j in jobs)
         last = (ads.get("paginator") or {}).get("lastPage") or 1
         page += 1
     return unique(postings)

@@ -5,7 +5,8 @@ The careers page loads its openings ten at a time from WordPress's
 the jobs, ``totalCount`` and ``pageSize``. Every page is read; the browser only
 showed the first. Postings are keyed by the job id of GreyOrange's ATS, whose
 page for a job (the careers page's "Apply Now") is its ``jobUrl`` under
-``careers.greyorange.com/greyorange/jobview/``.
+``careers.greyorange.com/greyorange/jobview/``. Its ``location`` is free text
+("Atlanta", "Austin, Texas, United States (USA)" → "Austin, TX").
 """
 from __future__ import annotations
 
@@ -14,7 +15,7 @@ from typing import List
 from urllib.parse import quote
 
 from ..models import Posting
-from .base import adapter, post, unique
+from .base import adapter, post, tidy_place, unique
 
 API = "https://www.greyorange.com/wp-admin/admin-ajax.php"
 JOB_PAGE = "https://careers.greyorange.com/greyorange/jobview/{slug}"
@@ -33,7 +34,8 @@ def _job_url(job: dict) -> str:
 
 
 def _postings(data: dict) -> List[Posting]:
-    return [Posting(f"greyorange:{j['id']}", " ".join(j["jobTitle"].split()), url=_job_url(j))
+    return [Posting(f"greyorange:{j['id']}", " ".join(j["jobTitle"].split()), tidy_place(j.get("location")),
+                    _job_url(j))
             for j in data.get("jobs") or []]
 
 

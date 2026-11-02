@@ -48,3 +48,24 @@ def test_empty_board():
 def test_missing_page_data_raises():
     with pytest.raises(ValueError):
         page_data("<html>Access denied</html>")
+
+
+def where(city=None, state=None, country="USA"):
+    return {"Name": "HQ", "City": city, "State": state, "Zip": None, "Country": country}
+
+
+@pytest.mark.parametrize("job, expected", [
+    ({"JobLocation": where("Philadelphia", "PA"), "ShouldDisplayLocation": True, "IsRemote": False},
+     "Philadelphia, PA"),
+    ({"JobLocation": where("Austin", "Texas"), "ShouldDisplayLocation": True, "IsRemote": False}, "Austin, TX"),
+    ({"JobLocation": where(), "LocationName": "Remote Worker - N/A", "ShouldDisplayLocation": True,
+      "IsRemote": True}, "Remote"),
+    ({"JobLocation": where(), "ShouldDisplayLocation": False, "IsRemote": True}, "Remote"),
+    ({"JobLocation": where("Philadelphia", "PA"), "ShouldDisplayLocation": False, "IsRemote": False}, ""),
+    ({"JobLocation": where("Toronto", "ON", "CAN"), "ShouldDisplayLocation": True}, "Toronto, Canada"),
+    ({}, ""),
+])
+def test_location(job, expected):
+    html = page([{"JobId": 1, "JobTitle": "Intern", **job}])
+    with patch("phlux.adapters.paylocity.get", return_value=response(html)):
+        assert fetch(URL)[0].location == expected

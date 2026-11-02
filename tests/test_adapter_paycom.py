@@ -69,3 +69,18 @@ def test_empty_portal():
                                                                      "jobPostingPreviews": []})) as post:
         assert fetch(URL) == []
     assert post.call_count == 1
+
+
+@pytest.mark.parametrize("job, expected", [
+    ({"locations": "Main Location - PITTSBURGH, PA 15201"}, "Pittsburgh, PA"),
+    ({"locations": "HQ - WINSTON-SALEM, NC 27101-1234"}, "Winston-Salem, NC"),
+    ({"locations": "Pittsburgh, PA; Austin, TX 78701"}, "Pittsburgh, PA +1"),
+    ({"locations": "Main Location - PITTSBURGH, PA 15201", "remoteType": "Fully Remote"}, "Pittsburgh, PA"),
+    ({"locations": "", "remoteType": "Fully Remote"}, "Remote"),
+    ({"locations": None, "remoteType": ""}, ""),
+])
+def test_location(job, expected):
+    answer = {"jobPostingPreviewsCount": 1, "jobPostingPreviews": [{"jobId": 1, "jobTitle": "Intern", **job}]}
+    with patch("phlux.adapters.paycom.get", return_value=response(text=HTML)), \
+         patch("phlux.adapters.paycom.post", return_value=response(answer)):
+        assert fetch(URL)[0].location == expected
