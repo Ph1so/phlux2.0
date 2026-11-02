@@ -279,6 +279,60 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
 .btn:hover { border-color: var(--blue); background: var(--blue-soft); }
 .none { padding: 40px 18px; text-align: center; color: var(--muted); }
 
+/* ── Tabs ─────────────────────────────────────────────────────────────── */
+
+.tabs { display: flex; gap: 4px; border-bottom: 1px solid var(--line); margin-top: -4px; }
+.tab {
+  text-decoration: none; font-weight: 500; color: var(--text-2); padding: 9px 12px;
+  border-bottom: 2px solid transparent; margin-bottom: -1px;
+}
+.tab:hover { color: var(--text); }
+.tab[aria-current="page"] { color: var(--blue); border-bottom-color: var(--blue); }
+.view { display: flex; flex-direction: column; gap: 20px; }
+
+/* ── Past seasons ─────────────────────────────────────────────────────── */
+
+.past-head { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 10px 16px; }
+.past-head h2 { font-size: 20px; font-weight: 700; letter-spacing: -0.02em; }
+.past-head p { margin: 4px 0 0; color: var(--text-2); max-width: 70ch; }
+
+.weeks { padding: 18px 18px 12px; }
+.bars { display: flex; align-items: flex-end; gap: 2px; height: 120px; border-bottom: 1px solid var(--line); }
+.bar { flex: 1 1 0; min-width: 0; background: var(--blue); border-radius: 2px 2px 0 0; opacity: 0.85; }
+.bar:hover { opacity: 1; }
+.bar.zero { background: var(--line); height: 2px !important; }
+.months { position: relative; height: 18px; margin-top: 6px; }
+.months span { position: absolute; transform: translateX(-2px); font-size: 11px; color: var(--muted); white-space: nowrap; }
+
+.tl-head, .tl-row { display: grid; grid-template-columns: minmax(150px, 220px) minmax(0, 1fr) 70px; gap: 0 14px; align-items: center; }
+.tl-head { padding: 9px 18px; background: var(--head); border-bottom: 1px solid var(--line); font-size: 12px; color: var(--muted); font-weight: 500; }
+.tl-head .axis { position: relative; height: 16px; }
+.tl-head .axis span { position: absolute; transform: translateX(-2px); white-space: nowrap; }
+.tl-head .n, .tl-row .n { text-align: right; }
+.tl-row {
+  width: 100%; padding: 9px 18px; border: 0; border-bottom: 1px solid var(--line-soft);
+  background: none; font: inherit; color: inherit; text-align: left; cursor: pointer;
+}
+.tl-row:hover, .tl-row[aria-expanded="true"] { background: var(--hover); }
+.tl-row .who { display: flex; align-items: center; gap: 10px; min-width: 0; font-weight: 600; }
+.tl-row .who span { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.tl-row .n { font-weight: 600; font-variant-numeric: tabular-nums; }
+.tl-row .n small { display: block; font-size: 11.5px; font-weight: 400; color: var(--muted); }
+.lane-track { position: relative; height: 26px; }
+.lane-track .grid { position: absolute; top: 0; bottom: 0; width: 1px; background: var(--line-soft); }
+.lane-track .base { position: absolute; left: 0; right: 0; top: 50%; height: 1px; background: var(--line); }
+.tick { position: absolute; top: 6px; width: 2px; height: 14px; border-radius: 1px; background: var(--blue); opacity: 0.55; transform: translateX(-1px); }
+.tick.seen { background: none; border: 1px solid var(--blue); width: 4px; transform: translateX(-2px); opacity: 0.6; }
+.open-dot { position: absolute; top: 50%; width: 10px; height: 10px; margin: -5px 0 0 -5px; border-radius: 50%; background: var(--green); box-shadow: 0 0 0 2px var(--card); }
+.open-dot.before { background: var(--card); border: 2px solid var(--green); box-shadow: none; }
+.roles { list-style: none; margin: 0; padding: 4px 18px 12px calc(18px + 34px); background: var(--hover); border-bottom: 1px solid var(--line-soft); }
+.roles li { display: grid; grid-template-columns: 64px minmax(0, 1fr); gap: 10px; padding: 6px 0; border-top: 1px solid var(--line-soft); font-size: 13px; }
+.roles li:first-child { border-top: 0; }
+.roles .day { color: var(--muted); font-variant-numeric: tabular-nums; }
+.roles .t { color: var(--text); }
+.roles .chips { display: inline-flex; flex-wrap: wrap; gap: 5px; margin-left: 6px; vertical-align: 1px; }
+.roles .more { color: var(--muted); }
+
 /* ── Footer ───────────────────────────────────────────────────────────── */
 
 .notes { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 24px; color: var(--text-2); font-size: 13px; padding-top: 8px; }
@@ -293,6 +347,10 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
 }
 @media (max-width: 720px) {
   .stamp { display: none; }
+  .tl-head { display: none; }
+  .tl-row { grid-template-columns: minmax(0, 1fr) auto; gap: 6px 12px; }
+  .tl-row .lane-track { grid-column: 1 / -1; grid-row: 2; }
+  .roles { padding-left: 16px; }
   /* Tables become stacked rows: company line, role, then location and date. */
   table.stack thead { display: none; }
   table.stack, table.stack tbody, table.stack tr, table.stack td { display: block; width: 100%; }
@@ -337,6 +395,7 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
       <a href="#internships">Internships</a>
       <a href="#openings">Openings</a>
       <a href="#companies">Companies</a>
+      <a href="#past">Past seasons</a>
     </nav>
     <div class="right">
       <span class="stamp" id="stamp"></span>
@@ -359,6 +418,12 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
     <p>Every internship at <span id="n-companies">the</span> robotics companies we track, read straight from their own job boards every hour, with a forecast of who opens next.</p>
   </section>
 
+  <nav class="tabs" aria-label="Season">
+    <a class="tab" href="#now" id="tab-now" aria-current="page">This season</a>
+    <a class="tab" href="#past" id="tab-past">Past seasons</a>
+  </nav>
+
+  <div class="view" id="view-now">
   <section class="stats" aria-label="Summary">
     <div class="stat"><span class="k">Open internships</span><span class="v" id="s-open">0</span><span class="s" id="s-open-sub"></span></div>
     <div class="stat"><span class="k">New this week</span><span class="v" id="s-new">0</span><span class="s" id="s-new-sub"></span></div>
@@ -449,6 +514,65 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
       </table>
     </div>
   </section>
+
+  </div>
+
+  <div class="view" id="view-past" hidden>
+    <section class="past-head">
+      <div>
+        <h2 id="past-title">Past seasons</h2>
+        <p>Every internship the bot saw in a season, company by company. Ticks are postings; a green dot marks when a company first opened.</p>
+      </div>
+      <select class="pick" id="past-season" aria-label="Season"></select>
+    </section>
+
+    <section class="stats" aria-label="Season summary">
+      <div class="stat"><span class="k">Internships posted</span><span class="v" id="p-count">0</span><span class="s" id="p-count-sub"></span></div>
+      <div class="stat"><span class="k">Companies that posted</span><span class="v" id="p-cos">0</span><span class="s" id="p-cos-sub"></span></div>
+      <div class="stat"><span class="k">First to open</span><span class="v" id="p-first">–</span><span class="s" id="p-first-sub"></span></div>
+      <div class="stat"><span class="k">Busiest week</span><span class="v" id="p-peak">–</span><span class="s" id="p-peak-sub"></span></div>
+    </section>
+
+    <section class="card" aria-labelledby="weeks-title">
+      <div class="card-head">
+        <div>
+          <h2 id="weeks-title">When internships appeared</h2>
+          <div class="sub" id="weeks-sub"></div>
+        </div>
+      </div>
+      <div class="weeks"><div class="bars" id="bars"></div><div class="months" id="bar-months"></div></div>
+    </section>
+
+    <section class="card" aria-labelledby="season-title">
+      <div class="card-head">
+        <div>
+          <h2 id="season-title">Season timeline</h2>
+          <div class="sub">Select a company to see its roles.</div>
+        </div>
+        <div class="legend" aria-hidden="true">
+          <span><i class="mark opened"></i>First opened</span>
+          <span><i class="mark" style="border:2px solid var(--green);background:var(--card)"></i>Already open when first seen</span>
+        </div>
+      </div>
+      <form class="filters" id="past-filters" role="search">
+        <label class="search">
+          <svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><circle cx="7" cy="7" r="5" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M11 11l3.5 3.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+          <input type="search" id="pq" placeholder="Search roles or companies" autocomplete="off" aria-label="Search past roles">
+        </label>
+        <select class="pick" id="p-segment" aria-label="Segment"><option value="">All segments</option></select>
+        <select class="pick" id="p-field" aria-label="Field"><option value="">All fields</option></select>
+        <select class="pick" id="p-sort" aria-label="Sort">
+          <option value="first">Sort: first to open</option>
+          <option value="count">Sort: most internships</option>
+          <option value="name">Sort: A–Z</option>
+        </select>
+        <label class="switch"><input type="checkbox" id="p-robotics" checked> Robotics only</label>
+      </form>
+      <div class="tl-head" aria-hidden="true"><span>Company</span><div class="axis" id="tl-axis"></div><span class="n">Internships</span></div>
+      <div id="tl-rows"></div>
+      <p class="none" id="tl-none" hidden>No internships match these filters.</p>
+    </section>
+  </div>
 
   <footer class="notes">
     <div>
@@ -882,6 +1006,208 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
     });
   }
 
+  // ── Past seasons ──────────────────────────────────────────────────────
+  var PAST = DATA.past || [];
+  var past = { season: 0, q: "", segment: "", field: "", sort: "first", open: {} };
+
+  function seasonData(i) {
+    var s = PAST[i];
+    if (!s.items) {  // parsed on first view only
+      var P = {};
+      s.fields.forEach(function (f, j) { P[f] = j; });
+      s.startDay = parseDay(s.start);
+      s.days = Math.round((parseDay(s.end) - s.startDay) / DAY) + 1;
+      s.items = s.rows.map(function (r) {
+        var c = companies[r[P.company]];
+        return { company: c, title: r[P.title], day: s.startDay + r[P.day] * DAY, offset: r[P.day], backlog: !!r[P.backlog],
+                 season: r[P.season], year: r[P.year], degree: r[P.degree], field: r[P.field],
+                 haystack: (r[P.title] + " " + c.name).toLowerCase() };
+      });
+    }
+    return s;
+  }
+  function pastMatches(it) {
+    if (!inScope(it.company)) return false;
+    if (past.segment && it.company.segment !== past.segment) return false;
+    if (past.field && it.field !== past.field) return false;
+    if (past.q) {
+      var words = past.q.toLowerCase().split(/\s+/).filter(Boolean);
+      for (var i = 0; i < words.length; i++) if (it.haystack.indexOf(words[i]) === -1) return false;
+    }
+    return true;
+  }
+  function monthStarts(s) {
+    var out = [];
+    for (var d = s.startDay; d < s.startDay + s.days * DAY; d += DAY) {
+      if (new Date(d).getUTCDate() === 1) out.push(d);
+    }
+    return out;
+  }
+  function pct(s, day) { return ((day - s.startDay) / DAY) / s.days * 100; }
+
+  function renderPast() {
+    if (!PAST.length) return;
+    var s = seasonData(past.season);
+    var items = s.items.filter(pastMatches);
+    var name = "Summer " + s.cycle;
+    $("past-title").textContent = name;
+
+    // Group by company.
+    var byCo = new Map();
+    items.forEach(function (it) {
+      var g = byCo.get(it.company);
+      if (!g) { g = { c: it.company, items: [], first: null, backlog: false }; byCo.set(it.company, g); }
+      g.items.push(it);
+      // The earliest sighting; if it was already open then, it opened that day or earlier.
+      if (g.first === null || it.day < g.first || (it.day === g.first && it.backlog)) {
+        g.first = it.day;
+        g.backlog = it.backlog;
+      }
+    });
+    var groups = Array.from(byCo.values());
+
+    // Headline figures.
+    var dated = items.filter(function (it) { return !it.backlog; });
+    $("p-count").textContent = items.length.toLocaleString("en-US");
+    $("p-count-sub").textContent = dated.length.toLocaleString("en-US") + " posted during the season";
+    $("p-cos").textContent = String(groups.length);
+    $("p-cos-sub").textContent = "of " + plural(companies.filter(inScope).length, "company", "companies") + " tracked now";
+    var openers = groups.filter(function (g) { return g.first !== null && !g.backlog; }).sort(function (a, b) { return a.first - b.first; });
+    $("p-first").textContent = openers.length ? fmt(openers[0].first) : "–";
+    $("p-first-sub").textContent = openers.length ? openers.slice(0, 3).map(function (g) { return g.c.name; }).join(", ") : "";
+    var weeks = Math.ceil(s.days / 7), counts = new Array(weeks).fill(0);
+    dated.forEach(function (it) { counts[Math.min(weeks - 1, Math.floor(it.offset / 7))] += 1; });
+    var peak = counts.reduce(function (best, n, i) { return n > counts[best] ? i : best; }, 0);
+    $("p-peak").textContent = counts[peak] ? fmt(s.startDay + peak * 7 * DAY) : "–";
+    $("p-peak-sub").textContent = counts[peak] ? plural(counts[peak], "internship") + " that week" : "";
+
+    // Weekly bars.
+    var backlog = items.length - dated.length;
+    $("weeks-sub").textContent = "Internships that appeared each week of the " + name + " season" +
+      (backlog ? ". Another " + backlog.toLocaleString("en-US") + " were already open when first seen, so they aren't counted by week." : ".");
+    var max = Math.max.apply(null, counts.concat([1]));
+    var bars = $("bars");
+    bars.textContent = "";
+    counts.forEach(function (n, i) {
+      var b = el("div", "bar" + (n ? "" : " zero"));
+      b.style.height = (n / max * 100) + "%";
+      b.title = "Week of " + fmt(s.startDay + i * 7 * DAY) + ": " + plural(n, "internship");
+      bars.appendChild(b);
+    });
+    var months = monthStarts(s);
+    [$("bar-months"), $("tl-axis")].forEach(function (axis) {
+      axis.textContent = "";
+      months.forEach(function (d, i) {
+        if (i % 2 && axis.clientWidth < 560) return;  // every other month when narrow
+        var label = el("span", null, MONTHS[new Date(d).getUTCMonth()]);
+        label.style.left = pct(s, d) + "%";
+        axis.appendChild(label);
+      });
+    });
+
+    // Timeline rows.
+    var order = {
+      first: function (a, b) { return a.first - b.first || a.c.name.localeCompare(b.c.name); },
+      count: function (a, b) { return b.items.length - a.items.length || a.c.name.localeCompare(b.c.name); },
+      name: function (a, b) { return a.c.name.localeCompare(b.c.name); }
+    }[past.sort];
+    groups.sort(order);
+    var list = $("tl-rows");
+    list.textContent = "";
+    $("tl-none").hidden = groups.length > 0;
+    groups.forEach(function (g) {
+      var row = el("button", "tl-row");
+      row.type = "button";
+      var expanded = !!past.open[g.c.name];
+      row.setAttribute("aria-expanded", String(expanded));
+      var who = el("span", "who");
+      who.appendChild(logo(g.c, true));
+      who.appendChild(el("span", null, g.c.name));
+      row.appendChild(who);
+      var track = el("span", "lane-track");
+      months.forEach(function (d) { var line = el("i", "grid"); line.style.left = pct(s, d) + "%"; track.appendChild(line); });
+      track.appendChild(el("i", "base"));
+      g.items.forEach(function (it) {
+        var t = el("i", "tick" + (it.backlog ? " seen" : ""));
+        t.style.left = pct(s, it.day) + "%";
+        track.appendChild(t);
+      });
+      var dot = el("i", "open-dot" + (g.backlog ? " before" : ""));
+      dot.style.left = pct(s, g.first) + "%";
+      track.appendChild(dot);
+      track.title = g.c.name + (g.backlog ? ": already open when first seen, " : ": first opened ") + fmt(g.first);
+      row.appendChild(track);
+      var n = el("span", "n", String(g.items.length));
+      n.appendChild(el("small", null, (g.backlog ? "open by " : "from ") + fmt(g.first)));
+      row.appendChild(n);
+      row.addEventListener("click", function () {
+        past.open[g.c.name] = !past.open[g.c.name];
+        renderPast();
+      });
+      list.appendChild(row);
+      if (expanded) list.appendChild(rolesList(g));
+    });
+  }
+  function rolesList(g) {
+    var ul = el("ul", "roles");
+    var LIMIT = 150;
+    g.items.slice().sort(function (a, b) { return a.day - b.day || a.title.localeCompare(b.title); }).slice(0, LIMIT).forEach(function (it) {
+      var li = el("li");
+      li.appendChild(el("span", "day", (it.backlog ? "By " : "") + fmt(it.day)));
+      var text = el("span");
+      text.appendChild(el("span", "t", it.title));
+      var chips = el("span", "chips");
+      [seasonLabel(it.season, it.year), DEGREES[it.degree], FIELDS[it.field]].forEach(function (t) {
+        if (t && t !== "Other") chips.appendChild(el("span", "chip", t));
+      });
+      if (chips.childNodes.length) text.appendChild(chips);
+      li.appendChild(text);
+      ul.appendChild(li);
+    });
+    if (g.items.length > LIMIT) ul.appendChild(el("li", "more", "and " + (g.items.length - LIMIT) + " more"));
+    return ul;
+  }
+  if (PAST.length) {
+    PAST.forEach(function (s, i) { $("past-season").appendChild(new Option("Summer " + s.cycle, String(i))); });
+    var seen = {};
+    PAST.forEach(function (s) { s.rows.forEach(function (r) { seen[companies[r[0]].segment] = 1; }); });
+    Object.keys(seen).sort().forEach(function (v) { $("p-segment").appendChild(new Option(SEGMENTS[v] || v, v)); });
+    Object.keys(FIELDS).forEach(function (v) { $("p-field").appendChild(new Option(FIELDS[v], v)); });
+  } else {
+    $("tab-past").hidden = true;
+  }
+  [["past-season", "season"], ["p-segment", "segment"], ["p-field", "field"], ["p-sort", "sort"]].forEach(function (pair) {
+    $(pair[0]).addEventListener("change", function () {
+      past[pair[1]] = pair[1] === "season" ? +$(pair[0]).value : $(pair[0]).value;
+      renderPast();
+    });
+  });
+  $("pq").addEventListener("input", function () { past.q = $("pq").value.trim(); renderPast(); });
+  // One robotics switch per view, both driving the same setting.
+  $("p-robotics").addEventListener("change", function () {
+    roboticsOnly.checked = $("p-robotics").checked;
+    roboticsOnly.dispatchEvent(new Event("change"));
+  });
+  $("past-filters").addEventListener("submit", function (e) { e.preventDefault(); });
+
+  // ── Views ─────────────────────────────────────────────────────────────
+  // #past shows past seasons; any other hash is a place in this season's view.
+  function route() {
+    var showPast = location.hash === "#past" && PAST.length > 0;
+    $("view-now").hidden = showPast;
+    $("view-past").hidden = !showPast;
+    $("tab-now").setAttribute("aria-current", showPast ? "false" : "page");
+    $("tab-past").setAttribute("aria-current", showPast ? "page" : "false");
+    if (showPast) {
+      renderPast();
+    } else {
+      var target = location.hash && location.hash !== "#now" && document.getElementById(location.hash.slice(1));
+      if (target) target.scrollIntoView();
+      renderTimeline(groups());  // its width was 0 while hidden
+    }
+  }
+  window.addEventListener("hashchange", route);
+
   // ── Wiring ────────────────────────────────────────────────────────────
   ["segment", "field", "degree", "season"].forEach(function (id) {
     var input = $(id), saved = recall(id);
@@ -935,7 +1261,10 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
   var resizeTimer;
   window.addEventListener("resize", function () {
     clearTimeout(resizeTimer);
-    resizeTimer = setTimeout(function () { renderTimeline(groups()); }, 150);
+    resizeTimer = setTimeout(function () {
+      if ($("view-past").hidden) renderTimeline(groups());
+      else renderPast();
+    }, 150);
   });
 
   function renderAll() {
@@ -945,7 +1274,10 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
     renderBoard();
     renderCompanies();
     renderHealth();
+    $("p-robotics").checked = roboticsOnly.checked;
+    if (!$("view-past").hidden) renderPast();
   }
   renderAll();
+  route();
 })();
 </script>

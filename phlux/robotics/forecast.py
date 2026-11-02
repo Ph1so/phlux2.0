@@ -82,12 +82,30 @@ class Forecast:
         return out
 
 
-def openings(df) -> Dict[str, Dict[int, Opening]]:
-    """Return each company's opening per cycle from the analytics postings frame.
+@dataclass(frozen=True)
+class SeasonRow:
+    """One internship posting from the history, with the cycle it belongs to.
 
-    Uses summer (or season-less) internship rows, leaving out duplicates, junk
-    and mass re-detection days, which are scraper artifacts rather than
-    postings appearing.
+    ``backlog`` means it was already open when first seen (see the module
+    docstring), so ``day`` is when it was found rather than when it opened.
+    """
+
+    company: str
+    title: str
+    day: date
+    cycle: int
+    backlog: bool
+    season: str = ""
+    target_year: int = 0
+    degree: str = ""
+    domain: str = ""
+
+
+def season_rows(df) -> List[SeasonRow]:
+    """Return the history's summer (or season-less) internships, cycle by cycle.
+
+    Leaves out duplicates, junk and mass re-detection days, which are scraper
+    artifacts rather than postings appearing.
 
     Args:
         df: The frame from :func:`phlux.analytics.build_dataset`.
@@ -100,19 +118,36 @@ def openings(df) -> Dict[str, Dict[int, Opening]]:
         & ~df["is_bulk_day"].astype(bool)
         & (df["season"].fillna("").isin(["summer", ""]))
     )
-    rows = df[usable]
     # The first day each company appears in each file: anything stamped then
     # was a backlog already on its careers page.
     first_day = df.groupby(["company", "source"], observed=True)["date"].min().dt.date.to_dict()
-
-    found: Dict[str, Dict[int, Opening]] = {}
-    for row in rows.itertuples(index=False):
+    out = []
+    for row in df[usable].itertuples(index=False):
         day = row.date.date()
-        cycle = cycle_of(day, row.season or None, None if row.target_year != row.target_year else row.target_year)
-        backlog = bool(row.is_seed) or day == first_day.get((row.company, row.source))
-        current = found.setdefault(row.company, {}).get(cycle)
-        if current is None or day < current.first_seen or (day == current.first_seen and backlog):
-            found[row.company][cycle] = Opening(cycle, day, backlog)
+        year = None if row.target_year != row.target_year else row.target_year  # NaN when absent
+        # Missing text is NaN in the frame; test frames carry fewer columns.
+        text = lambda field: v if isinstance(v := getattr(row, field, ""), str) else ""  # noqa: E731
+        out.append(SeasonRow(
+            company=row.company,
+            title=text("title").replace("⭐️", "").strip(),
+            day=day,
+            cycle=cycle_of(day, text("season") or None, year),
+            backlog=bool(row.is_seed) or day == first_day.get((row.company, row.source)),
+            season=text("season"),
+            target_year=int(year or 0),
+            degree=text("degree"),
+            domain=text("domain"),
+        ))
+    return out
+
+
+def openings(df) -> Dict[str, Dict[int, Opening]]:
+    """Return each company's opening per cycle: its first internship of that cycle."""
+    found: Dict[str, Dict[int, Opening]] = {}
+    for row in season_rows(df):
+        current = found.setdefault(row.company, {}).get(row.cycle)
+        if current is None or row.day < current.first_seen or (row.day == current.first_seen and row.backlog):
+            found[row.company][row.cycle] = Opening(row.cycle, row.day, row.backlog)
     return found
 
 

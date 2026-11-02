@@ -17,6 +17,7 @@ from __future__ import annotations
 
 import json
 import logging
+from collections import defaultdict
 from datetime import date, datetime, timedelta
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Optional
@@ -34,7 +35,7 @@ from phlux.scraping import CHECKED_KEY, NA_DATE, load_company_data
 from phlux.utils import board_link
 
 from . import logos
-from .forecast import Forecast, forecast, openings
+from .forecast import Forecast, SeasonRow, forecast, openings, season_rows
 
 logger = logging.getLogger(__name__)
 
@@ -45,6 +46,9 @@ STAR = "⭐️"
 RECENT_DAYS = 30
 EASTERN = pytz.timezone("US/Eastern")
 ROBOTICS_TIERS = {"core", "adjacent"}
+# A past season with fewer dated internships than this is too thin to show
+# (Summer 2025: tracking began in June 2025, so it is nearly all backlog).
+PAST_MIN_DATED = 200
 
 # The document around template.html for the site; artifact previews get the
 # same reset from claude.ai.
@@ -105,6 +109,45 @@ def internship_rows(name: str, entries: Iterable[Any], today: date) -> List[Dict
     return rows
 
 
+def season_window(cycle: int) -> tuple[date, date]:
+    """Return the days a season's timeline spans: June before last through June.
+
+    July starts most hiring for the next summer; the June before it holds the
+    early birds and whatever was already open when tracking began.
+    """
+    return date(cycle - 1, 6, 1), date(cycle, 6, 30)
+
+
+def past_seasons(rows: Iterable[SeasonRow], index: Dict[str, int], current_cycle: int) -> List[Dict[str, Any]]:
+    """Return each finished season's internships for the site's past seasons view, newest first.
+
+    Only companies in *index* (name → position in the payload's companies)
+    count. A title appears once per company and season, at its first sighting.
+    Postings are columns like the live ones; ``day`` counts from the season's start.
+    """
+    by_cycle: Dict[int, Dict[tuple, SeasonRow]] = defaultdict(dict)
+    for row in sorted(rows, key=lambda r: r.day):
+        start, end = season_window(row.cycle)
+        if row.company in index and row.cycle < current_cycle and start <= row.day <= end:
+            by_cycle[row.cycle].setdefault((row.company, row.title), row)
+    fields = ["company", "title", "day", "backlog", "season", "year", "degree", "field"]
+    seasons = []
+    for cycle in sorted(by_cycle, reverse=True):
+        found = list(by_cycle[cycle].values())
+        if sum(not r.backlog for r in found) < PAST_MIN_DATED:
+            continue
+        start, end = season_window(cycle)
+        seasons.append({
+            "cycle": cycle,
+            "start": start.isoformat(),
+            "end": end.isoformat(),
+            "fields": fields,
+            "rows": [[index[r.company], r.title, (r.day - start).days, int(r.backlog), r.season,
+                      r.target_year, r.degree, r.domain] for r in found],
+        })
+    return seasons
+
+
 def build_payload(
     storage: Dict[str, Any],
     companies: List[Company],
@@ -112,6 +155,7 @@ def build_payload(
     industries: Dict[str, Dict[str, str]],
     icons: Dict[str, str],
     now: datetime,
+    history: Iterable[SeasonRow] = (),
 ) -> Dict[str, Any]:
     """Assemble everything the page shows.
 
@@ -122,6 +166,8 @@ def build_payload(
         industries: ``industries.csv`` tagging, by name.
         icons: Each company's logo, as a URL or ``data:`` URI, by name.
         now: The build time.
+        history: Past internships (:func:`phlux.robotics.forecast.season_rows`)
+            for the past seasons view.
     """
     today = now.date()
     stored = storage.get("companies", {})
@@ -147,16 +193,18 @@ def build_payload(
     # Columns rather than one object per posting: the page embeds this.
     index = {c["name"]: i for i, c in enumerate(company_rows)}
     fields = ["company", "title", "url", "location", "found", "closed", "season", "year", "degree", "field"]
+    cycle = next(iter(forecasts.values())).cycle if forecasts else today.year + 1
     return {
         "generated": now.isoformat(timespec="minutes"),
         "today": today.isoformat(),
-        "cycle": next(iter(forecasts.values())).cycle if forecasts else today.year + 1,
+        "cycle": cycle,
         "recentDays": RECENT_DAYS,
         # Undated postings were already open on the season's first scrape.
         "seasonStart": STORAGE.epoch_start.isoformat(),
         "companies": company_rows,
         "fields": fields,
         "postings": [[index[p["company"]] if f == "company" else p[f] for f in fields] for p in postings],
+        "past": past_seasons(history, index, cycle),
     }
 
 
@@ -168,18 +216,20 @@ def render(payload: Dict[str, Any], template: str, document: bool = True) -> str
     """
     if DATA_MARKER not in template:
         raise ValueError(f"template has no {DATA_MARKER} marker")
-    # A literal "</script>" in a title would close the data block early.
-    data = json.dumps(payload, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
+    # A literal "</script>" in a title would close the data block early, and
+    # NaN (pandas' missing value) isn't JSON: the page would fail to load.
+    data = json.dumps(payload, ensure_ascii=False, separators=(",", ":"), allow_nan=False).replace("</", "<\\/")
     body = template.replace(DATA_MARKER, data)
     return DOCUMENT.format(body=body) if document else body
 
 
-def load_forecasts(names: List[str], today: date) -> Dict[str, Forecast]:
-    """Forecast *names* from the full scrape history."""
+def load_history(names: List[str], today: date) -> tuple[Dict[str, Forecast], List[SeasonRow]]:
+    """Return *names*' forecasts and every past internship, from the full scrape history."""
     from phlux.analytics import build_dataset
 
-    history = openings(build_dataset(today=today))
-    return {f.company: f for f in forecast(names, history, today)}
+    df = build_dataset(today=today)
+    forecasts = {f.company: f for f in forecast(names, openings(df), today)}
+    return forecasts, season_rows(df)
 
 
 def build_site(out_dir: Path, now: Optional[datetime] = None, document: bool = True,
@@ -190,10 +240,8 @@ def build_site(out_dir: Path, now: Optional[datetime] = None, document: bool = T
     companies = list({c.name: c for c in select_companies(
         load_company_data(REPO_ROOT / "companies.csv"), load_company_list_setting())}.values())
     icons = {c.name: logos.data_uri(c.name) for c in companies}
-    payload = build_payload(
-        storage, companies, load_forecasts([c.name for c in companies], now.date()),
-        load_industries(), icons, now,
-    )
+    forecasts, history = load_history([c.name for c in companies], now.date())
+    payload = build_payload(storage, companies, forecasts, load_industries(), icons, now, history)
     out_dir.mkdir(parents=True, exist_ok=True)
     path = out_dir / "index.html"
     path.write_text(render(payload, TEMPLATE.read_text(encoding="utf-8"), document), encoding="utf-8")

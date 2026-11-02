@@ -82,6 +82,10 @@ class TestRender:
         body = render({"a": 1}, "<p>__DATA__</p>", document=False)
         assert body == '<p>{"a":1}</p>'
 
+    def test_refuses_nan(self):
+        with pytest.raises(ValueError):
+            render({"season": float("nan")}, "<p>__DATA__</p>")
+
     def test_template_needs_the_marker(self):
         with pytest.raises(ValueError):
             render({}, "<p>no marker</p>")
