@@ -5,17 +5,19 @@ Nothing in this file is scraped. Snapshot from the discovery run on 2026-11-01; 
 The weekly discovery report, [README.md](README.md), has current numbers and newly found companies;
 it never touches this file.
 
+**Added to tracking on 2026-11-01:** Beyond Reach Labs, Pyka, Relling, Icarus, Weave Robotics (its real board is
+Dover, not the same-named Greenhouse board listed here before), Tuesday Labs and Boost Robotics.
+
 **To add a company:** paste its row into `companies.csv`, then add its name to `lists/robotics.json`
 (the bot only scrapes companies in that list). While `seed_new_companies` in `storage.json` is false,
 its first scrape emails every internship it has open; set it to true first for a silent start.
 
-## Robotics, internships open (16)
+## Robotics, internships open (15)
 
 | Company | What they do | Internships / postings | Job board |
 | --- | --- | --- | --- |
 | [Spaceium Inc](https://spaceium.com) | In-Space Refueling | 5 / 12 | [greenhouse](https://job-boards.greenhouse.io/spaceium) |
 | [AstroForge](https://www.astroforge.io/) | We Mine Asteroids | 4 / 15 | [gem](https://jobs.gem.com/astroforge-io) |
-| [Relling](https://relling.co) | deploying the first billion robots for manufacturing | 4 / 12 | [ashby](https://jobs.ashbyhq.com/Relling) |
 | [Multiply Labs](http://multiplylabs.com/) | Robotic production capacity for the pharma manufacturing industry | 3 / 11 | [lever](https://jobs.lever.co/multiplylabs) |
 | [Nox Metals](https://noxmetals.co/) | Supplying America's Industrial Base | 2 / 37 | [ashby](https://jobs.ashbyhq.com/nox-metals) |
 | [Revise Robotics](https://www.reviserobotics.com/) | Automating refurbishment of $1T in consumer electronics | 2 / 2 | [ashby](https://jobs.ashbyhq.com/reviserobotics) |
@@ -35,7 +37,6 @@ its first scrape emails every internship it has open; set it to true first for a
 ```csv
 Spaceium,https://job-boards.greenhouse.io/spaceium,@greenhouse
 AstroForge,https://jobs.gem.com/astroforge-io,@gem
-Relling,https://jobs.ashbyhq.com/Relling,@ashby
 Multiply Labs,https://jobs.lever.co/multiplylabs,@lever
 Nox Metals,https://jobs.ashbyhq.com/nox-metals,@ashby
 Revise Robotics,https://jobs.ashbyhq.com/reviserobotics,@ashby
@@ -53,7 +54,7 @@ Verne Robotics,https://jobs.ashbyhq.com/Verne%20Robotics,@ashby
 
 </details>
 
-## Adjacent: space, aerospace, energy, internships open (14)
+## Adjacent: space, aerospace, energy, internships open (12)
 
 | Company | What they do | Internships / postings | Job board |
 | --- | --- | --- | --- |
@@ -62,10 +63,8 @@ Verne Robotics,https://jobs.ashbyhq.com/Verne%20Robotics,@ashby
 | [Inversion Space](https://www.inversionspace.com/) | Turning space into a transportation layer for Earth | 7 / 90 | [greenhouse](https://job-boards.greenhouse.io/inversionspace) |
 | [Helion Energy](http://helionenergy.com) | Building the world's first fusion power plant | 4 / 63 | [ashby](https://jobs.ashbyhq.com/helion) |
 | [Odys Aviation](https://www.odysaviation.com/) | Vertical takeoff and landing aircraft for major airlines | 3 / 14 | [ashby](https://jobs.ashbyhq.com/odys-aviation) |
-| [Beyond Reach Labs](https://www.beyondreachlabs.com) | Space solar arrays that grow to the size of a football field in orbit | 2 / 7 | [ashby](https://jobs.ashbyhq.com/beyondreachlabs) |
 | [General Astronautics](https://generalastro.com/) | Superintelligent space Robots | 2 / 5 | [ashby](https://jobs.ashbyhq.com/generalastronautics) |
 | [H3X Technologies](http://h3x.tech/) | The lightest electric aircraft motors in the world. | 2 / 4 | [ashby](https://jobs.ashbyhq.com/h3x-technologies) |
-| [Pyka](https://flypyka.com) | Autonomous electric airplanes | 2 / 15 | [lever](https://jobs.lever.co/pyka) |
 | [Wardstone](https://www.wardstone.us) | The Modular Interceptor Platform | 2 / 19 | [gem](https://jobs.gem.com/wardstone-space) |
 | [Apolink](https://apolink.space) | 24/7 satellite connectivity in low Earth orbit | 1 / 2 | [ashby](https://jobs.ashbyhq.com/apolink) |
 | [Boom](https://boomsupersonic.com/) | Economically and environmentally sustainable supersonic travel | 1 / 29 | [rippling](https://ats.rippling.com/boom-supersonic/jobs) |
@@ -80,10 +79,8 @@ HyLight,https://app.dover.com/HyLight/careers/07e7aff2-18e8-4518-8d08-b6a6b165ea
 Inversion Space,https://job-boards.greenhouse.io/inversionspace,@greenhouse->FILTER:intern
 Helion Energy,https://jobs.ashbyhq.com/helion,@ashby->FILTER:intern
 Odys Aviation,https://jobs.ashbyhq.com/odys-aviation,@ashby
-Beyond Reach Labs,https://jobs.ashbyhq.com/beyondreachlabs,@ashby
 General Astronautics,https://jobs.ashbyhq.com/generalastronautics,@ashby
 H3X Technologies,https://jobs.ashbyhq.com/h3x-technologies,@ashby
-Pyka,https://jobs.lever.co/pyka,@lever
 Wardstone,https://jobs.gem.com/wardstone-space,@gem
 Apolink,https://jobs.ashbyhq.com/apolink,@ashby
 Boom,https://ats.rippling.com/boom-supersonic/jobs,@rippling
@@ -93,7 +90,7 @@ Singularity,https://ats.rippling.com/singularity-defense/jobs,@rippling
 
 </details>
 
-## Robotics, no internships open (23)
+## Robotics, no internships open (21)
 
 Boards phlux can read; worth adding before their next hiring season.
 
@@ -104,7 +101,6 @@ Boards phlux can read; worth adding before their next hiring season.
 | [AON3D](https://www.aon3d.com) | Additive Manufacturing with advanced materials | 2 | [greenhouse](https://job-boards.greenhouse.io/aon3d-fr) |
 | [Atum Works](https://atum.works/) | Gigascale Nanomanufacturing | 3 | [ashby](https://jobs.ashbyhq.com/atumworks) |
 | [Azalea Robotics Corporation](https://azalearobotics.com/) | Automating airport baggage handling with robots. | 1 | [dover](https://app.dover.com/jobs/azalearobotics) |
-| [Boost Robotics](https://www.boostrobotics.ai) | Robots for the inspection and maintenance of data centers | 2 | [gem](https://jobs.gem.com/boost-robotics) |
 | [Charge Robotics](https://chargerobotics.com/) | Robots that build solar farms | 13 | [ashby](https://jobs.ashbyhq.com/charge-robotics) |
 | [CircuitHub](https://circuithub.com) | On-Demand Electronics Manufacturing | 10 | [ashby](https://jobs.ashbyhq.com/circuithub) |
 | [Corvus Robotics](https://www.corvus-robotics.com) | Autonomous drones to help warehouses scan inventory. | 8 | [ashby](https://jobs.ashbyhq.com/corvus-robotics) |
@@ -118,7 +114,6 @@ Boards phlux can read; worth adding before their next hiring season.
 | [Paladin](http://paladindrones.io) | We deploy autonomous drones to 911 calls. Our software gives first… | 1 | [jazzhr](https://paladindrones.applytojob.com/apply) |
 | [Skyways](http://skyways.com) | Creating a new form of air transportation to advance our civilization | 20 | [lever](https://jobs.lever.co/skyways) |
 | [Tekton Dynamics](https://www.tekton-dynamics.com) | AI control layer for welding robots | 2 | [ashby](https://jobs.ashbyhq.com/tekton-dynamics) |
-| [Tuesday Labs](https://www.tuesdaylabs.com) | Delightful robots | 1 | [ashby](https://jobs.ashbyhq.com/tuesday-labs) |
 | [Ultra](https://ultra.tech) | Practical, general-purpose robots for repetitive industrial tasks | 18 | [gem](https://jobs.gem.com/ultra) |
 | [Volta Labs, Inc.](http://voltalabs.com) | Unlocking the utility of genomics for the world. | 3 | [lever](https://jobs.lever.co/voltalabs) |
 | [Vorticity](http://vorticity.xyz/) | The Fastest Scientific Computing Platform on the Planet | 1 | [ashby](https://jobs.ashbyhq.com/vorticity) |
@@ -131,7 +126,6 @@ Andromeda Surgical,https://jobs.ashbyhq.com/andromedasurgical,@ashby
 AON3D,https://job-boards.greenhouse.io/aon3d-fr,@greenhouse
 Atum Works,https://jobs.ashbyhq.com/atumworks,@ashby
 Azalea Robotics Corporation,https://app.dover.com/jobs/azalearobotics,@dover
-Boost Robotics,https://jobs.gem.com/boost-robotics,@gem
 Charge Robotics,https://jobs.ashbyhq.com/charge-robotics,@ashby
 CircuitHub,https://jobs.ashbyhq.com/circuithub,@ashby
 Corvus Robotics,https://jobs.ashbyhq.com/corvus-robotics,@ashby
@@ -145,7 +139,6 @@ Neuron Industries,https://jobs.gem.com/neuron,@gem
 Paladin,https://paladindrones.applytojob.com/apply,@jazzhr
 Skyways,https://jobs.lever.co/skyways,@lever
 Tekton Dynamics,https://jobs.ashbyhq.com/tekton-dynamics,@ashby
-Tuesday Labs,https://jobs.ashbyhq.com/tuesday-labs,@ashby
 Ultra,https://jobs.gem.com/ultra,@gem
 Volta Labs,https://jobs.lever.co/voltalabs,@lever
 Vorticity,https://jobs.ashbyhq.com/vorticity,@ashby
@@ -153,7 +146,7 @@ Vorticity,https://jobs.ashbyhq.com/vorticity,@ashby
 
 </details>
 
-## Adjacent, no internships open (16)
+## Adjacent, no internships open (15)
 
 | Company | What they do | Postings | Job board |
 | --- | --- | --- | --- |
@@ -164,7 +157,6 @@ Vorticity,https://jobs.ashbyhq.com/vorticity,@ashby
 | [Farcast](https://www.farcast.com/) | We build advanced satcom user terminals | 3 | [lever](https://jobs.lever.co/Farcast) |
 | [Heart Aerospace](http://www.heartaerospace.com) | Heart makes electric airplanes with an all-electric range of 250 miles | 4 | [greenhouse](https://job-boards.greenhouse.io/heartaerospace) |
 | [Hubble Network](https://hubble.com) | Bluetooth to Space | 17 | [greenhouse](https://job-boards.greenhouse.io/hubblenetwork) |
-| [Icarus](https://www.icarus.one/) | Stratospheric birds for defense | 22 | [greenhouse](https://job-boards.greenhouse.io/icarus) |
 | [Inflection Space Systems](https://inflection-space.com/) | Hyperscaling space manufacturing | 6 | [rippling](https://ats.rippling.com/inflection-space/jobs) |
 | [Luminate](http://www.luminatemed.com) | We make cancer care at home possible. | 7 | [bamboohr](https://luminatemedical.bamboohr.com/careers) |
 | [Maritime Fusion](https://maritimefusion.com) | Fusion reactors for ships | 4 | [gusto](https://jobs.gusto.com/boards/maritime-fusion-34d86452-e58d-44d8-86b9-39b654807910) |
@@ -184,7 +176,6 @@ Epsilon3,https://jobs.lever.co/epsilon3,@lever
 Farcast,https://jobs.lever.co/Farcast,@lever
 Heart Aerospace,https://job-boards.greenhouse.io/heartaerospace,@greenhouse
 Hubble Network,https://job-boards.greenhouse.io/hubblenetwork,@greenhouse
-Icarus,https://job-boards.greenhouse.io/icarus,@greenhouse
 Inflection Space Systems,https://ats.rippling.com/inflection-space/jobs,@rippling
 Luminate,https://luminatemedical.bamboohr.com/careers,@bamboohr
 Maritime Fusion,https://jobs.gusto.com/boards/maritime-fusion-34d86452-e58d-44d8-86b9-39b654807910,@gusto
@@ -197,7 +188,7 @@ Turion Space,https://jobs.ashbyhq.com/turion-space,@ashby
 
 </details>
 
-## Check before adding (3)
+## Check before adding (2)
 
 These boards share the company's name but nothing confirmed it is the same company.
 
@@ -205,14 +196,12 @@ These boards share the company's name but nothing confirmed it is the same compa
 | --- | --- | --- | --- |
 | [Preload](https://preload.ai) | Sensorimotor context for physical AI | 9 | [greenhouse](https://job-boards.greenhouse.io/preload) |
 | [Remora](https://www.remoracarbon.com) | Modular carbon capture | 9 | [greenhouse](https://job-boards.greenhouse.io/remoracarbon) |
-| [Weave Robotics](https://www.weaverobotics.com) | Practical and delightful home robots | 3 | [greenhouse](https://job-boards.greenhouse.io/weave) |
 
 <details><summary>Rows for <code>companies.csv</code></summary>
 
 ```csv
 Preload,https://job-boards.greenhouse.io/preload,@greenhouse
 Remora,https://job-boards.greenhouse.io/remoracarbon,@greenhouse
-Weave Robotics,https://job-boards.greenhouse.io/weave,@greenhouse
 ```
 
 </details>
