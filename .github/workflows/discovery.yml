@@ -1,0 +1,60 @@
+name: Company Discovery
+
+# Weekly: find robotics companies phlux doesn't track yet and the job board each
+# uses, and commit discovery/ (candidates.json and README.md). It only suggests
+# rows; companies.csv, lists/ and storage.json are never touched.
+on:
+  schedule:
+    - cron: '0 14 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: discovery
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      # The default token: its push does not trigger the job scraper, so this
+      # commit never starts a scrape (and never sends email).
+      - uses: actions/checkout@v3
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+
+      - uses: actions/cache@v3
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: ${{ runner.os }}-pip-
+
+      - name: Install dependencies
+        run: |
+          python -m venv .venv
+          .venv/bin/pip install --upgrade pip
+          .venv/bin/pip install -r requirements.txt
+
+      - name: Discover companies
+        run: .venv/bin/python -m phlux.discovery
+
+      - name: Commit results
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add discovery
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update discovered companies [bot]"
+            # The job scraper pushes to main many times a day.
+            git pull --rebase origin main
+            git push
+          fi

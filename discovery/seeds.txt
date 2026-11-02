@@ -1,0 +1,3 @@
+# Companies to check on every discovery run, besides the YC dataset.
+# One per line: Name,website (quote a name that has a comma). The website may
+# also be a careers page or a job board URL.
