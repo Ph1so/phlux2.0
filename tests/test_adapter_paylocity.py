@@ -32,9 +32,10 @@ def test_reads_jobs_from_page_data():
     ])
     with patch("phlux.adapters.paylocity.get", return_value=response(html)) as get:
         postings = fetch(URL)
-    assert [(p.id, p.title) for p in postings] == [
-        ("paylocity:4586493", "Shuttle Attendant; Part-Time"),
-        ("paylocity:1", "Robotics Intern {Summer}"),
+    assert [(p.id, p.title, p.url) for p in postings] == [
+        ("paylocity:4586493", "Shuttle Attendant; Part-Time",
+         "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4586493"),
+        ("paylocity:1", "Robotics Intern {Summer}", "https://recruiting.paylocity.com/Recruiting/Jobs/Details/1"),
     ]
     get.assert_called_once_with(URL)
 

@@ -3,17 +3,21 @@
 The portal page carries a short-lived session token (``configsFromHost.sessionJWT``)
 and names its API host; the job list is then a POST to that host's
 ``/api/ats/job-posting-previews/search``, paged with ``skip``/``take``.
+A job's page is ``…/portal/<key>/jobs/<jobId>`` on the portal.
 """
 from __future__ import annotations
 
 import json
 import re
 from typing import List
+from urllib.parse import urlsplit
 
 from ..models import Posting
 from .base import adapter, get, post
 
 CONFIG = re.compile(r"configsFromHost\s*=\s*")
+# A portal URL's path up to its key: ``/v4/ats/web.php/portal/<key>``.
+PORTAL = re.compile(r"^.*?/portal/[^/]+", re.I)
 API_HOST = re.compile(r"https://portal-applicant-tracking\.[a-z0-9.-]+\.paycomonline\.net")
 DEFAULT_API_HOST = "https://portal-applicant-tracking.us-cent.paycomonline.net"
 SEARCH_PATH = "/api/ats/job-posting-previews/search"
@@ -36,6 +40,13 @@ def session(html: str) -> tuple:
     return config["sessionJWT"], host.group(0) if host else DEFAULT_API_HOST
 
 
+def job_page(url: str, job_id) -> str:
+    """Return the page of job *job_id* on the portal at *url*, or "" if *url* names no portal."""
+    parts = urlsplit(url)
+    match = PORTAL.match(parts.path)
+    return f"{parts.scheme}://{parts.netloc}{match.group(0)}/jobs/{job_id}" if match else ""
+
+
 @adapter("paycom")
 def fetch(url: str, arg: str = "") -> List[Posting]:
     """Return every posting on a Paycom career portal."""
@@ -47,7 +58,7 @@ def fetch(url: str, arg: str = "") -> List[Posting]:
             "skip": page * PAGE_SIZE, "take": PAGE_SIZE, "filtersForQuery": NO_FILTERS,
         }).json()
         jobs = data.get("jobPostingPreviews") or []
-        postings.extend(Posting(f"paycom:{j['jobId']}", j["jobTitle"]) for j in jobs)
+        postings.extend(Posting(f"paycom:{j['jobId']}", j["jobTitle"], url=job_page(url, j["jobId"])) for j in jobs)
         if not jobs or len(postings) >= (data.get("jobPostingPreviewsCount") or 0):
             break
     return postings

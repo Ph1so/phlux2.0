@@ -4,7 +4,7 @@ from unittest.mock import MagicMock, patch
 import pytest
 
 from phlux.adapters import ADAPTERS
-from phlux.adapters.paycom import fetch, session
+from phlux.adapters.paycom import fetch, job_page, session
 
 URL = "https://www.paycomonline.net/v4/ats/web.php/portal/32B3464F7837FF4F95871E123F85C49C/career-page"
 HOST = "https://portal-applicant-tracking.us-east.paycomonline.net"
@@ -49,10 +49,18 @@ def test_searches_with_token_and_pages():
         ("paycom:334846", "Robot Software Engineer II"),
         ("paycom:1", "Intern"),
     ]
+    assert postings[0].url == (
+        "https://www.paycomonline.net/v4/ats/web.php/portal/32B3464F7837FF4F95871E123F85C49C/jobs/299627")
     call = post.call_args_list[0]
     assert call.args == (HOST + "/api/ats/job-posting-previews/search",)
     assert call.kwargs["headers"] == {"Authorization": "eyJ.abc.def", "Portal-Host-Referrer": URL}
     assert [c.kwargs["json"]["skip"] for c in post.call_args_list] == [0, 2]
+
+
+def test_job_page_needs_a_portal_key():
+    assert job_page(URL + "?lang=en", 7) == (
+        "https://www.paycomonline.net/v4/ats/web.php/portal/32B3464F7837FF4F95871E123F85C49C/jobs/7")
+    assert job_page("https://www.paycomonline.net/v4/ats/web.php/jobs", 7) == ""
 
 
 def test_empty_portal():

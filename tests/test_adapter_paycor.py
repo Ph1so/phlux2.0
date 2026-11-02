@@ -32,6 +32,11 @@ def test_reads_job_links_with_ids():
         ("paycor:8a7887a8", "Robotics Intern"),
     ]
     get.assert_called_once_with(URL)
+    # Relative links are made absolute; display and source parameters are dropped.
+    assert [p.url for p in postings] == [
+        "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=abc&id=8a78839f",
+        "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=abc&id=8a7887a8",
+    ]
 
 
 def test_empty_board():
