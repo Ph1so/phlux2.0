@@ -5,8 +5,9 @@ A row's Link is the search page a person opens,
 That page asks
 ``GET https://<host>/hcmRestApi/resources/latest/recruitingCEJobRequisitions``
 with ``finder=findReqs;siteNumber=<site>,keyword=…,locationId=…,limit=…,offset=…``
-(the URL's search parameters become the finder's), and ``expand=requisitionList``,
-without which the answer has no jobs. This module sends the same request.
+(the URL's search parameters become the finder's), and ``expand`` naming
+``requisitionList`` (without which the answer has no jobs) and its
+``secondaryLocations``. This module sends the same request.
 
 Carried over from the URL: ``keyword``, ``locationId`` (or the ``location``
 text when no id is given), ``sortBy``, ``radius``/``radiusUnit``,
@@ -18,7 +19,9 @@ match titles.
 The API returns at most :data:`PAGE_SIZE` jobs per request (a larger limit
 returns none); pages follow ``offset`` until ``TotalJobsCount``. A job's
 ``Id`` (the requisition number) is the stable key, and its page is
-``…/CandidateExperience/<lang>/sites/<site>/job/<Id>``.
+``…/CandidateExperience/<lang>/sites/<site>/job/<Id>``. Its ``PrimaryLocation``
+("Dearborn, MI, United States", written "Dearborn, MI") comes first, then a
+count of its ``secondaryLocations``.
 """
 from __future__ import annotations
 
@@ -27,7 +30,7 @@ from typing import Dict, List
 from urllib.parse import unquote, urlsplit
 
 from ..models import Posting
-from .base import adapter, first, get, paged, query
+from .base import adapter, first, get, paged, place, query, tidy_place
 
 logger = logging.getLogger(__name__)
 
@@ -37,6 +40,8 @@ PAGE_SIZE = 200
 # Requests per company per run (10,000 jobs); a bigger scope is cut short.
 MAX_PAGES = 50
 # Search-page parameters that are finder parameters under the same name.
+# The job list, and each job's other locations, as the search page expands them.
+EXPAND = "requisitionList.secondaryLocations"
 FINDER_PARAMS = ("keyword", "locationId", "sortBy", "radius", "radiusUnit", "lastSelectedFacet",
                  "workLocationCountryCode", "workLocationZipCode")
 
@@ -75,6 +80,12 @@ def site_page(url: str) -> str:
     return f"{parts.scheme}://{parts.netloc}/" + "/".join(segments[:names.index("sites") + 2])
 
 
+def location(job: dict) -> str:
+    """Return a job's primary location, plus a count of its secondary ones."""
+    others = [s.get("Name") if isinstance(s, dict) else s for s in job.get("secondaryLocations") or []]
+    return place(tidy_place(job.get("PrimaryLocation")), [tidy_place(o) for o in others if isinstance(o, str)])
+
+
 @adapter(NAME)
 def fetch(url: str, arg: str = "") -> List[Posting]:
     """Return the jobs an Oracle Cloud HCM search URL shows, across all its pages."""
@@ -89,13 +100,13 @@ def fetch(url: str, arg: str = "") -> List[Posting]:
         if "count" in total and offset >= total["count"]:
             return []
         finder = "findReqs;" + ",".join(terms + [f"limit={PAGE_SIZE}", f"offset={offset}"])
-        body = get(api, params={"onlyData": "true", "expand": "requisitionList", "finder": finder}).json()
+        body = get(api, params={"onlyData": "true", "expand": EXPAND, "finder": finder}).json()
         items = body.get("items") or []
         if not items:
             return []
         total["count"] = int(items[0].get("TotalJobsCount") or 0)
         return [
-            Posting(f"{NAME}:{job['Id']}", " ".join(job["Title"].split()), url=f"{site}/job/{job['Id']}")
+            Posting(f"{NAME}:{job['Id']}", " ".join(job["Title"].split()), location(job), f"{site}/job/{job['Id']}")
             for job in items[0].get("requisitionList") or []
         ]
 

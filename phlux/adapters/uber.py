@@ -5,7 +5,8 @@ query string (``countries``, ``team``, ``subTeam``, ``search``...), so the link'
 query is passed through as is, adding ``page=N`` for each page of 10. The API
 answers ``jobs``, ``totalJobs`` and ``totalPages``. Postings are keyed by
 Uber's job id, the one in ``/en/jobs/<id>/``; each job's ``Urls`` give that
-page's path.
+page's path. Its ``Locations`` (city, region, country) are written "New York
+City, NY", the first with a count of the rest; a remote job with none is "Remote".
 """
 from __future__ import annotations
 
@@ -13,7 +14,7 @@ from typing import List
 from urllib.parse import parse_qsl, urljoin, urlsplit
 
 from ..models import Posting
-from .base import adapter, get, unique
+from .base import adapter, format_place, get, place, unique
 
 SITE = "https://jobs.uber.com"
 API = SITE + "/api/jobs/search/"
@@ -27,6 +28,13 @@ def job_url(job: dict) -> str:
     return urljoin(SITE, chosen["Url"] if chosen else f"/en/jobs/{job['Id']}/")
 
 
+def location(job: dict) -> str:
+    """Return a job's first location and how many more it lists."""
+    names = [format_place(loc.get("City"), loc.get("Region"), loc.get("Country") or loc.get("CountryCode"))
+             for loc in job.get("Locations") or [] if isinstance(loc, dict)]
+    return place(None, names) or ("Remote" if job.get("Remote") else "")
+
+
 @adapter("uber")
 def fetch(url: str, arg: str = "") -> List[Posting]:
     """Return every posting the Uber careers search in *url* finds."""
@@ -38,7 +46,7 @@ def fetch(url: str, arg: str = "") -> List[Posting]:
         pages = result.get("totalPages") or 1
         if pages > MAX_PAGES:
             raise RuntimeError(f"Uber careers search finds {result.get('totalJobs')} jobs; narrow {url}")
-        postings += [Posting(f"uber:{j['Id']}", " ".join(j["Title"].split()), url=job_url(j))
+        postings += [Posting(f"uber:{j['Id']}", " ".join(j["Title"].split()), location(j), job_url(j))
                      for j in result.get("jobs") or []]
         page += 1
     return unique(postings)

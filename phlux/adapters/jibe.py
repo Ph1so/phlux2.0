@@ -10,7 +10,9 @@ own search parameters (``keywords``, ``location``, ``categories``, ``tags1``,
 The API returns at most :data:`PAGE_SIZE` jobs per request (a larger limit is
 an error); pages count from 1 until ``totalCount``. A job's ``req_id`` (its
 iCIMS requisition number, also its ``slug``) is the stable key. The job's page
-is its ``slug`` under the search page: ``…/careers-home/jobs/<slug>``.
+is its ``slug`` under the search page: ``…/careers-home/jobs/<slug>``. Its
+``city``, ``state`` and ``country_code`` are its main location ("Palo Alto,
+CA"), and ``additional_locations`` the others, counted after it.
 """
 from __future__ import annotations
 
@@ -19,7 +21,7 @@ from typing import Dict, List, Tuple
 from urllib.parse import quote, urlsplit
 
 from ..models import Posting
-from .base import adapter, get, paged, query
+from .base import adapter, format_place, get, paged, place, query, tidy_place
 
 logger = logging.getLogger(__name__)
 
@@ -56,6 +58,17 @@ def job_url(jobs: str, job: dict) -> str:
     return f"{jobs}/{quote(slug, safe='')}" if slug else ""
 
 
+def _place(fields: dict) -> str:
+    return format_place(fields.get("city"), fields.get("state"), fields.get("country_code") or fields.get("country"))
+
+
+def location(job: dict) -> str:
+    """Return a job's main location, plus a count of its additional ones."""
+    main = _place(job) or tidy_place(str(job.get("short_location") or "").split(";")[0])
+    others = [_place(loc) for loc in job.get("additional_locations") or [] if isinstance(loc, dict)]
+    return place(main, others)
+
+
 @adapter(NAME)
 def fetch(url: str, arg: str = "") -> List[Posting]:
     """Return the jobs a Jibe search URL shows, across all its pages."""
@@ -69,7 +82,7 @@ def fetch(url: str, arg: str = "") -> List[Posting]:
         body = get(api, params=params + [("page", str(page + 1)), ("limit", str(PAGE_SIZE))]).json()
         total["count"] = int(body.get("totalCount") or 0)
         jobs = [j.get("data", j) for j in body.get("jobs") or []]
-        return [Posting(f"{NAME}:{_job_id(j)}", " ".join(j["title"].split()), url=job_url(jobs_url, j))
+        return [Posting(f"{NAME}:{_job_id(j)}", " ".join(j["title"].split()), location(j), job_url(jobs_url, j))
                 for j in jobs if _job_id(j)]
 
     postings = paged(fetch_page, max_pages=MAX_PAGES)

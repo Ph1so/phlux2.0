@@ -22,7 +22,9 @@ quick calls, so pages are :data:`DELAY` seconds apart. Keep a row's search
 narrow (a ``query`` or filters): :data:`MAX_PAGES` pages is the most read.
 A position's ``id`` is the stable key. Its page is PCSX's ``positionUrl``
 (relative, ``/careers/job/<id>``) on the careers site, or the older API's
-absolute ``canonicalPositionUrl``.
+absolute ``canonicalPositionUrl``. Its ``locations`` ("San Diego, California,
+United States of America", …; the older API also names one ``location``) are
+written "San Diego, CA +2".
 """
 from __future__ import annotations
 
@@ -35,7 +37,7 @@ from urllib.parse import urljoin, urlsplit
 import requests
 
 from ..models import Posting
-from .base import adapter, first, get, paged, query, soup
+from .base import adapter, first, get, paged, place, query, soup, tidy_place
 
 logger = logging.getLogger(__name__)
 
@@ -148,6 +150,16 @@ def position_url(origin: str, position: dict) -> str:
     return urljoin(origin + "/", path or POSITION_PATH.format(id=position["id"]))
 
 
+def location(position: dict) -> str:
+    """Return a position's location: its first (or named) one and how many more it lists."""
+    names = position.get("locations") or position.get("standardizedLocations") or []
+    if isinstance(names, str):
+        names = [names]
+    main = position.get("location")
+    return place(tidy_place(main) if isinstance(main, str) else None,
+                 [tidy_place(n) for n in names if isinstance(n, str)])
+
+
 @adapter(NAME)
 def fetch(url: str, arg: str = "") -> List[Posting]:
     """Return the positions an Eightfold careers search URL shows, across all its pages."""
@@ -167,7 +179,7 @@ def fetch(url: str, arg: str = "") -> List[Posting]:
         data = body["data"] if pcsx else body
         total["count"] = int(data.get("count") or 0)
         return [
-            Posting(f"{NAME}:{p['id']}", " ".join(str(p["name"]).split()), url=position_url(origin, p))
+            Posting(f"{NAME}:{p['id']}", " ".join(str(p["name"]).split()), location(p), position_url(origin, p))
             for p in data.get("positions") or []
         ]
 

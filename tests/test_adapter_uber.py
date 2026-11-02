@@ -57,3 +57,21 @@ def test_huge_search_is_refused():
     with patch("phlux.adapters.uber.get", return_value=response(page(1, range(10), pages=72))):
         with pytest.raises(RuntimeError):
             fetch("https://jobs.uber.com/en/jobs/")
+
+
+def where(city, region, country="United States"):
+    return {"City": city, "Region": region, "Country": country, "CountryCode": None, "Address": ""}
+
+
+@pytest.mark.parametrize("job, expected", [
+    ({"Locations": [where("Dallas", "Texas")]}, "Dallas, TX"),
+    ({"Locations": [where("Chicago", "Illinois"), where("San Francisco", "California"),
+                    where("Washington", "District of Columbia"), where("New York City", "New York")]}, "Chicago, IL +3"),
+    ({"Locations": [where("Amsterdam", "North Holland", "Netherlands")]}, "Amsterdam, Netherlands"),
+    ({"Locations": [], "Remote": True}, "Remote"),
+    ({"Locations": None}, ""),
+])
+def test_location(job, expected):
+    answer = {"totalPages": 1, "jobs": [{"Id": "1", "Title": "Intern", **job}]}
+    with patch("phlux.adapters.uber.get", return_value=response(answer)):
+        assert fetch(URL)[0].location == expected

@@ -62,3 +62,22 @@ def test_no_jobs():
     with patch("phlux.adapters.jibe.get", return_value=response({"totalCount": 0, "jobs": []})) as get:
         assert fetch(PAGE) == []
     assert get.call_count == 1
+
+
+def test_main_location_then_a_count_of_additional_ones():
+    def place(city, state, code="US"):
+        return {"city": city, "state": state, "country": "United States", "country_code": code}
+
+    payload = {"totalCount": 4, "jobs": [
+        {"data": {"req_id": "1", "title": "A", **place("Palo Alto", "California"),
+                  "full_location": "Palo Alto, California", "multipleLocations": False}},
+        {"data": {"req_id": "2", "title": "B", **place("Seattle", "Washington"), "multipleLocations": True,
+                  "additional_locations": [place("Atlanta", "Georgia"), place("Allen", "Texas"),
+                                           place("Seattle", "Washington")]}},
+        {"data": {"req_id": "3", "title": "C", "city": "Munich", "state": "Bavaria", "country": "Germany",
+                  "country_code": "DE"}},
+        {"data": {"req_id": "4", "title": "D", "short_location": "Normal, Illinois; Irvine, California"}},
+    ]}
+    with patch("phlux.adapters.jibe.get", return_value=response(payload)):
+        postings = fetch(PAGE)
+    assert [p.location for p in postings] == ["Palo Alto, CA", "Seattle, WA +2", "Munich, Germany", "Normal, IL"]

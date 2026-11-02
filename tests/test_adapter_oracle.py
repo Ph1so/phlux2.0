@@ -58,7 +58,7 @@ def test_pages_by_offset_until_total():
     assert first.args == (API,)
     assert first.kwargs["params"] == {
         "onlyData": "true",
-        "expand": "requisitionList",
+        "expand": "requisitionList.secondaryLocations",
         "finder": "findReqs;siteNumber=CX_1,keyword=intern,limit=200,offset=0",
     }
     assert second.kwargs["params"]["finder"].endswith("offset=200")
@@ -75,3 +75,21 @@ def test_no_jobs():
     with patch("phlux.adapters.oracle.get", return_value=response(page(0, []))) as get:
         assert fetch(SITE) == []
     assert get.call_count == 1
+
+
+def test_primary_location_then_a_count_of_secondary_ones():
+    jobs = [
+        {"Id": "1", "Title": "A", "PrimaryLocation": "Dearborn, MI, United States", "secondaryLocations": []},
+        {"Id": "2", "Title": "B", "PrimaryLocation": "Dearborn, MI, United States", "secondaryLocations": [
+            {"Name": "Sterling Heights, MI, United States", "CountryCode": "US"},
+            {"Name": "Dearborn, MI, United States", "CountryCode": "US"},
+            {"Name": "Long Beach, CA, United States", "CountryCode": "US"}]},
+        {"Id": "3", "Title": "C", "PrimaryLocation": "MI, United States"},
+        {"Id": "4", "Title": "D", "PrimaryLocation": "United States"},
+        {"Id": "5", "Title": "E", "PrimaryLocation": "Cologne, North Rhine-Westphalia, Germany"},
+        {"Id": "6", "Title": "F"},
+    ]
+    with patch("phlux.adapters.oracle.get", return_value=response({"items": [{"TotalJobsCount": 6, "requisitionList": jobs}]})):
+        postings = fetch(SITE)
+    assert [p.location for p in postings] == [
+        "Dearborn, MI", "Dearborn, MI +2", "Michigan", "United States", "Cologne, North Rhine-Westphalia, Germany", ""]

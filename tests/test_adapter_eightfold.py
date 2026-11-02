@@ -163,3 +163,43 @@ def test_empty_search(sleep):
     with patch("phlux.adapters.eightfold.get", side_effect=get) as mock:
         assert fetch(url) == []
     assert mock.call_count == 2
+
+
+@patch("phlux.adapters.base.time.sleep")
+def test_locations_written_city_state_with_a_count(sleep):
+    url = "https://careers.acme.com/careers?seniority=Intern"
+    found = [
+        {"id": 1, "name": "A", "locations": ["San Diego, California, United States of America"],
+         "standardizedLocations": ["San Diego, CA, US"]},
+        {"id": 2, "name": "B", "locations": ["San Diego, California, United States of America",
+                                              "New Jersey, United States of America",
+                                              "Santa Clara, California, United States of America"]},
+        {"id": 3, "name": "C", "standardizedLocations": ["Boxborough, MA, US"]},
+        {"id": 4, "name": "D", "locations": ["Munich, Bavaria, Germany"]},
+        {"id": 5, "name": "E"},
+    ]
+
+    def get(target, **kwargs):
+        if target == url:
+            return response(text=pcsx_page())
+        return response({"data": {"count": len(found), "positions": found}})
+
+    with patch("phlux.adapters.eightfold.get", side_effect=get):
+        postings = fetch(url)
+    assert [p.location for p in postings] == [
+        "San Diego, CA", "San Diego, CA +2", "Boxborough, MA", "Munich, Bavaria, Germany", ""]
+
+
+@patch("phlux.adapters.base.time.sleep")
+def test_legacy_location_comes_first(sleep):
+    url = "https://jobs.acme.com/careers?query=intern"
+
+    def get(target, **kwargs):
+        if target == url:
+            return response(text=legacy_page())
+        return response({"count": 1, "positions": [{
+            "id": 7, "name": "Video Intern", "location": "Boston, Massachusetts, United States",
+            "locations": ["Austin, Texas, United States", "Boston, Massachusetts, United States"]}]})
+
+    with patch("phlux.adapters.eightfold.get", side_effect=get):
+        assert fetch(url)[0].location == "Boston, MA +1"
