@@ -14,9 +14,9 @@ def response(html):
     return mock
 
 
-def row(rid, title):
+def row(rid, title, extra=""):
     return (f'<div class="oracletaleocwsv2-accordion-head-info"><h4 class="oracletaleocwsv2-head-title">'
-            f'<a href="{BASE}viewRequisition?org=ACME&amp;cws=47&amp;rid={rid}" class="viewJobLink">{title}</a>'
+            f'<a href="{BASE}viewRequisition?org=ACME&amp;cws=47&amp;rid={rid}{extra}" class="viewJobLink">{title}</a>'
             f'</h4><div>San Jose, CA</div></div>')
 
 
@@ -34,7 +34,13 @@ def test_registered():
 def test_parse_titles_ids_and_count():
     postings, next_url, matched = parse_results(page([row(11510, " Computer Vision  Research Intern")], 2), URL)
     assert [(p.id, p.title) for p in postings] == [("taleo:11510", "Computer Vision Research Intern")]
+    assert postings[0].url == BASE + "viewRequisition?org=ACME&cws=47&rid=11510"
     assert next_url is None and matched == 2
+
+
+def test_job_link_keeps_only_what_picks_the_job():
+    postings, _, _ = parse_results(page([row(7, "Intern", "&amp;jsessionid=XYZ&amp;src=board")]), URL)
+    assert postings[0].url == BASE + "viewRequisition?org=ACME&cws=47&rid=7"
 
 
 def test_follows_scroll_links():

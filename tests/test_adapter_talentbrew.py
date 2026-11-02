@@ -41,6 +41,14 @@ def test_parse_titles_ids_and_pages():
     assert pages == 1 and scope["data-keywords"] == "intern"
 
 
+def test_parse_job_links_against_the_page():
+    html = ('<section id="search-results" data-total-results="1" data-total-pages="1">'
+            '<a data-job-id="98739712096" href="/job/tokyo/sr-logistics-specialist/42682/98739712096?src=x">'
+            '<h2>Sr. Logistics Specialist</h2></a></section>')
+    postings, _, _ = parse_results(html, URL + "&p=2")
+    assert postings[0].url == "https://careers.acme.com/job/tokyo/sr-logistics-specialist/42682/98739712096"
+
+
 def test_span_title_markup():
     html = ('<section id="search-results" data-total-results="1" data-records-per-page="15">'
             '<a data-job-id="9" href="/job/9"><span class="search-results__job-title">Commercial Intern</span></a>'
@@ -59,6 +67,7 @@ def test_reads_all_pages():
     with patch("phlux.adapters.talentbrew.get", side_effect=[response(p) for p in pages]) as get:
         postings = fetch(URL)
     assert [p.id for p in postings] == ["talentbrew:1", "talentbrew:2", "talentbrew:3"]
+    assert [p.url for p in postings] == [f"https://careers.acme.com/job/x/{i}" for i in (1, 2, 3)]
     assert [c.args[0] for c in get.call_args_list] == [URL, URL + "&p=2"]
 
 

@@ -17,7 +17,7 @@ from __future__ import annotations
 import logging
 import time
 from typing import Callable, Dict, Iterable, List, Optional
-from urllib.parse import parse_qs, unquote, urlsplit
+from urllib.parse import parse_qs, unquote, urljoin, urlsplit, urlunsplit
 
 import requests
 from bs4 import BeautifulSoup
@@ -126,6 +126,16 @@ def paged(fetch_page: Callable[[int], List[Posting]], delay: float = 0.0,
     else:
         logger.warning("Stopped after %d pages", max_pages)
     return postings
+
+
+def bare_url(href: str, base_url: str = "") -> str:
+    """Return *href*, made absolute against *base_url*, without its query or fragment.
+
+    For a job link whose parameters only track the visit or steer the list page,
+    so the same job gets the same URL on every run.
+    """
+    parts = urlsplit(urljoin(base_url, href))
+    return urlunsplit((parts.scheme, parts.netloc, parts.path, "", ""))
 
 
 def soup(html: str) -> BeautifulSoup:

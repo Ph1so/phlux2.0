@@ -8,13 +8,14 @@ the HTML (``h4.oracletaleocwsv2-head-title a``) and says how many matched
 from the link in ``a.jscroll-next``; this module follows those links.
 
 A job's ``rid`` (its requisition id, in its ``viewRequisition`` link) is the
-stable key.
+stable key. That link, kept to the parameters that pick the job (``org``,
+``cws``, ``rid``), is the job's page.
 """
 from __future__ import annotations
 
 import logging
 from typing import List, Optional, Tuple
-from urllib.parse import parse_qs, urljoin, urlsplit
+from urllib.parse import parse_qs, urlencode, urljoin, urlsplit, urlunsplit
 
 from ..models import Posting
 from .base import adapter, get, soup, text, unique
@@ -24,6 +25,16 @@ logger = logging.getLogger(__name__)
 NAME = "taleo"
 # Requests per company per run; a longer list is cut short.
 MAX_PAGES = 50
+# The parameters of a viewRequisition link that pick the job.
+JOB_PARAMS = ("org", "cws", "rid")
+
+
+def job_page(href: str) -> str:
+    """Return a job's ``viewRequisition`` link with only :data:`JOB_PARAMS`."""
+    parts = urlsplit(href)
+    params = parse_qs(parts.query)
+    kept = [(key, params[key][0]) for key in JOB_PARAMS if params.get(key)]
+    return urlunsplit((parts.scheme, parts.netloc, parts.path, urlencode(kept), ""))
 
 
 def parse_results(html: str, base_url: str) -> Tuple[List[Posting], Optional[str], Optional[int]]:
@@ -35,7 +46,7 @@ def parse_results(html: str, base_url: str) -> Tuple[List[Posting], Optional[str
         rid = parse_qs(urlsplit(href).query).get("rid", [""])[0]
         title = text(link)
         if title:
-            postings.append(Posting(f"{NAME}:{rid or href}", title))
+            postings.append(Posting(f"{NAME}:{rid or href}", title, url=job_page(href)))
     nxt = page.select("a.jscroll-next[href]")
     next_url = urljoin(base_url, nxt[-1]["href"]) if nxt else None
     count_node = page.select_one(".oracletaleocwsv2-totals-callout .oracletaleocwsv2-panel-number")

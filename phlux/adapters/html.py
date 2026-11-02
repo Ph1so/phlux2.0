@@ -5,7 +5,8 @@ row's selector names the job title elements, as a ``CSS:`` action would:
 ``@html:.publication-source h2 a``. Everything after ``@html:`` is the selector,
 colons included.
 
-Each posting's id is the absolute URL of the link the title is, or sits in.
+Each posting's id is the absolute URL of the link the title is, or sits in,
+and that URL is also its page.
 For pages where the link sits beside the title rather than around it, the
 selector can name the job's container too, Selenium-style:
 ``@html:.b-job-item >> .b-job-item__title`` takes the title from the first
@@ -17,7 +18,7 @@ from __future__ import annotations
 
 import logging
 from typing import List, Optional
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlsplit
 
 from ..models import Posting
 from .base import adapter, get, soup, text, title_id, unique
@@ -55,8 +56,11 @@ def postings(html: str, base_url: str, selector: str) -> List[Posting]:
         title = text(node)
         if not title:
             continue
-        key = f"{NAME}:{urljoin(base_url, href)}" if href else title_id(NAME, title)
-        found.append(Posting(key, title))
+        link = urljoin(base_url, href) if href else ""
+        key = f"{NAME}:{link}" if link else title_id(NAME, title)
+        # A mailto: or javascript: "link" is no page to send a person to.
+        url = link if urlsplit(link).scheme in ("http", "https") else ""
+        found.append(Posting(key, title, url=url))
     return unique(found)
 
 

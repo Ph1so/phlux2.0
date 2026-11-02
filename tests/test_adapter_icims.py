@@ -53,11 +53,19 @@ def test_parse_plain_anchor_without_heading():
     assert pages is None
 
 
+def test_parse_makes_relative_links_absolute():
+    html = '<a class="iCIMS_Anchor" href="/jobs/12/flight-test-intern/job?mobile=false&amp;in_iframe=1"><h3>Intern</h3></a>'
+    postings, _ = parse_results(html, PORTAL + "?in_iframe=1&pr=0")
+    assert postings[0].url == "https://careers-acme.icims.com/jobs/12/flight-test-intern/job"
+
+
 def test_reads_every_page_and_stops_at_count():
     pages = [results([row(1, "A"), row(2, "B")], 1, 2), results([row(3, "C")], 2, 2)]
     with patch("phlux.adapters.icims.get", side_effect=[response(p) for p in pages]) as get:
         postings = fetch(PORTAL + "?ss=1&searchKeyword=intern")
     assert [p.id for p in postings] == ["icims:1", "icims:2", "icims:3"]
+    # The iframe view's in_iframe=1 is not part of the job's page.
+    assert postings[0].url == "https://careers-acme.icims.com/jobs/1/slug/job"
     assert [c.args[0] for c in get.call_args_list] == [
         PORTAL + "?ss=1&searchKeyword=intern&in_iframe=1&pr=0",
         PORTAL + "?ss=1&searchKeyword=intern&in_iframe=1&pr=1",

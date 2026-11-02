@@ -32,6 +32,11 @@ def test_title_link_is_the_id():
         ("html:https://www.example.com/careers/internships#OR0330", "OR0330: Internship - Power Systems"),
         ("html:https://www.example.com/jobs/2", "Robotics Intern"),
     ]
+    # The link that keys a posting is its page too.
+    assert [p.url for p in found] == [
+        "https://www.example.com/careers/internships#OR0330",
+        "https://www.example.com/jobs/2",
+    ]
 
 
 def test_title_inside_a_link():
@@ -55,8 +60,14 @@ def test_container_link_beside_the_title():
 
 def test_no_link_falls_back_to_title():
     html = '<h3 class="accordion-item__title"> Inventory  Specialist </h3><h3 class="accordion-item__title"></h3>'
-    assert [(p.id, p.title) for p in postings(html, URL, ".accordion-item__title")] == [
-        ("html:title:Inventory Specialist", "Inventory Specialist")]
+    assert [(p.id, p.title, p.url) for p in postings(html, URL, ".accordion-item__title")] == [
+        ("html:title:Inventory Specialist", "Inventory Specialist", "")]
+
+
+def test_a_mailto_link_is_no_page():
+    html = '<a class="j" href="mailto:jobs@example.com">Write to us: Intern</a>'
+    found = postings(html, URL, ".j")
+    assert [(p.id, p.url) for p in found] == [("html:mailto:jobs@example.com", "")]
 
 
 def test_repeated_postings_kept_once():

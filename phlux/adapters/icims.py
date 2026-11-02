@@ -9,7 +9,8 @@ keeping every search parameter of the Link (``searchKeyword``,
 
 Pages hold about 20 jobs and are chosen with ``pr`` (counting from 0); the
 first page says "Page 1 of N". A job's id, from its link
-``/jobs/<id>/<slug>/job``, is the stable key.
+``/jobs/<id>/<slug>/job``, is the stable key; that link, without the iframe
+view's ``in_iframe=1``, is the job's page.
 """
 from __future__ import annotations
 
@@ -19,7 +20,7 @@ from typing import Dict, List, Optional
 from urllib.parse import urlencode, urlsplit, urlunsplit
 
 from ..models import Posting
-from .base import adapter, get, paged, query, soup, text
+from .base import adapter, bare_url, get, paged, query, soup, text
 
 logger = logging.getLogger(__name__)
 
@@ -40,8 +41,8 @@ def page_url(url: str, page: int) -> str:
     return urlunsplit((parts.scheme, parts.netloc, parts.path, urlencode(params), ""))
 
 
-def parse_results(html: str) -> tuple[List[Posting], Optional[int]]:
-    """Return the postings on a results page and its page count, if shown."""
+def parse_results(html: str, base_url: str = "") -> tuple[List[Posting], Optional[int]]:
+    """Return the postings on a results page at *base_url* and its page count, if shown."""
     page = soup(html)
     postings = []
     for anchor in page.select("a.iCIMS_Anchor[href]"):
@@ -56,7 +57,7 @@ def parse_results(html: str) -> tuple[List[Posting], Optional[int]]:
                 label.decompose()
             title = text(anchor)
         if title:
-            postings.append(Posting(f"{NAME}:{match.group(1)}", title))
+            postings.append(Posting(f"{NAME}:{match.group(1)}", title, url=bare_url(anchor["href"], base_url)))
     count = PAGE_COUNT.search(page.get_text(" "))
     return postings, int(count.group(1)) if count else None
 
@@ -69,7 +70,8 @@ def fetch(url: str, arg: str = "") -> List[Posting]:
     def fetch_page(page: int) -> List[Posting]:
         if "count" in pages and page >= pages["count"]:
             return []
-        postings, count = parse_results(get(page_url(url, page)).text)
+        results = page_url(url, page)
+        postings, count = parse_results(get(results).text, results)
         if count is not None:
             pages["count"] = count
         return postings

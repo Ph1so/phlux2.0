@@ -7,7 +7,7 @@ from phlux.adapters.jazzhr import fetch
 HTML = """
 <a href="https://acme.applytojob.com/apply">Home</a>
 <ul class="list-group">
-  <li class="list-group-item"><h3><a href="https://acme.applytojob.com/apply/xWoufwUdo4/Join-Team">
+  <li class="list-group-item"><h3><a href="https://acme.applytojob.com/apply/xWoufwUdo4/Join-Team?source=board">
     Join   Team Acme</a></h3><ul><li>Los Angeles, CA</li></ul></li>
   <li class="list-group-item"><h3><a href="/apply/KmTWfIjRFt/Mechanical-Engineer">Mechanical Engineer</a></h3>
     <a href="/apply/KmTWfIjRFt/Mechanical-Engineer">Apply</a></li>
@@ -28,9 +28,9 @@ def test_registered():
 def test_reads_job_links_with_codes_as_ids():
     with patch("phlux.adapters.jazzhr.get", return_value=response(HTML)) as get:
         postings = fetch("https://acme.applytojob.com/apply")
-    assert [(p.id, p.title) for p in postings] == [
-        ("jazzhr:xWoufwUdo4", "Join Team Acme"),
-        ("jazzhr:KmTWfIjRFt", "Mechanical Engineer"),
+    assert [(p.id, p.title, p.url) for p in postings] == [
+        ("jazzhr:xWoufwUdo4", "Join Team Acme", "https://acme.applytojob.com/apply/xWoufwUdo4/Join-Team"),
+        ("jazzhr:KmTWfIjRFt", "Mechanical Engineer", "https://acme.applytojob.com/apply/KmTWfIjRFt/Mechanical-Engineer"),
     ]
     get.assert_called_once_with("https://acme.applytojob.com/apply")
 

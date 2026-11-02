@@ -14,7 +14,8 @@ different search, or a total far from the first page's (totals drift by a few
 between requests), this module stops there rather than read jobs outside the
 Link's scope.
 
-A job's ``data-job-id`` is the stable key.
+A job's ``data-job-id`` is the stable key, and its link
+(``/job/<city>/<title slug>/<site id>/<job id>``) is the job's page.
 """
 from __future__ import annotations
 
@@ -23,7 +24,7 @@ from typing import Dict, List, Optional, Tuple
 from urllib.parse import urlencode, urlsplit, urlunsplit
 
 from ..models import Posting
-from .base import adapter, get, query, soup, text, unique
+from .base import adapter, bare_url, get, query, soup, text, unique
 
 logger = logging.getLogger(__name__)
 
@@ -46,8 +47,11 @@ def page_url(url: str, page: int) -> str:
     return urlunsplit((parts.scheme, parts.netloc, parts.path, urlencode(params), ""))
 
 
-def parse_results(html: str) -> Tuple[List[Posting], Dict[str, str], Optional[int]]:
-    """Return a results page's postings, its scope attributes and its page count."""
+def parse_results(html: str, base_url: str = "") -> Tuple[List[Posting], Dict[str, str], Optional[int]]:
+    """Return a results page's postings, its scope attributes and its page count.
+
+    Job links are made absolute against *base_url*, the page's URL.
+    """
     page = soup(html)
     section = page.select_one("#search-results")
     if section is None:
@@ -57,7 +61,8 @@ def parse_results(html: str) -> Tuple[List[Posting], Dict[str, str], Optional[in
         heading = link.select_one("h2, h3, h4, [class*='job-title']")
         title = text(heading if heading is not None else link)
         if title:
-            postings.append(Posting(f"{NAME}:{link['data-job-id']}", title))
+            url = bare_url(link["href"], base_url) if link.get("href") else ""
+            postings.append(Posting(f"{NAME}:{link['data-job-id']}", title, url=url))
     scope = {attr: section.get(attr, "") for attr in SCOPE_ATTRS + (TOTAL_ATTR,)}
     pages = section.get("data-total-pages", "")
     if not pages.isdigit():
@@ -79,9 +84,9 @@ def same_search(first: Dict[str, str], other: Dict[str, str]) -> bool:
 @adapter(NAME)
 def fetch(url: str, arg: str = "") -> List[Posting]:
     """Return the jobs a TalentBrew search URL shows, across all its pages."""
-    postings, scope, pages = parse_results(get(url).text)
+    postings, scope, pages = parse_results(get(url).text, url)
     for page in range(2, min(pages or 1, MAX_PAGES) + 1):
-        found, page_scope, _ = parse_results(get(page_url(url, page)).text)
+        found, page_scope, _ = parse_results(get(page_url(url, page)).text, url)
         if not same_search(scope, page_scope):
             logger.warning("%s page %d shows another search (%s, not %s); stopped there",
                            url, page, page_scope, scope)
