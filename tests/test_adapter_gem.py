@@ -27,3 +27,20 @@ def test_reads_job_posts():
         ("gem:am9icG9zdDpM", "Robotics Intern", ""),
     ]
     get.assert_called_once_with("https://api.gem.com/job_board/v0/acme/job_posts/")
+
+
+def test_location_from_offices_else_the_posts_location():
+    def office(name, location):
+        return {"id": name, "name": name, "location": {"name": location}}
+
+    payload = [
+        {"id": "a", "title": "A", "location": {"name": "San Francisco, United States"},
+         "offices": [office("San Francisco, California", "San Francisco, United States")]},
+        {"id": "b", "title": "B", "location": {"name": "United States - Remote"},
+         "offices": [office("Remote, United States", "United States - Remote"), office("Los Angeles", "")]},
+        {"id": "c", "title": "C", "location": {"name": "Munich, Germany"}, "offices": []},
+        {"id": "d", "title": "D"},
+    ]
+    with patch("phlux.adapters.gem.get", return_value=response(payload)):
+        postings = fetch("https://jobs.gem.com/acme")
+    assert [p.location for p in postings] == ["San Francisco, CA", "Remote, United States +1", "Munich, Germany", ""]

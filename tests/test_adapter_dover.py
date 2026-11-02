@@ -87,3 +87,19 @@ def test_empty_board():
     })
     with patch("phlux.adapters.dover.get", side_effect=get):
         assert fetch("https://app.dover.com/jobs/acme") == []
+
+
+def test_location_primary_first_then_a_count():
+    def loc(name, primary=False, city="", state=""):
+        return {"name": name, "is_primary": primary, "location_type": "IN_OFFICE",
+                "location_option": {"display_name": name, "city": city, "state": state, "country": "US"}}
+
+    get = routes({JOBS: {"count": 4, "next": None, "results": [
+        {"id": "j1", "title": "A", "locations": [loc("San Francisco, CA", True, "San Francisco", "California")]},
+        {"id": "j2", "title": "B", "locations": [loc("Austin, TX"), loc("Boston, Massachusetts", True)]},
+        {"id": "j3", "title": "C", "locations": [{"location_option": {"display_name": "Remote (United States)"}}]},
+        {"id": "j4", "title": "D", "locations": []},
+    ]}})
+    with patch("phlux.adapters.dover.get", side_effect=get):
+        postings = fetch(f"https://app.dover.com/careers/{CLIENT}")
+    assert [p.location for p in postings] == ["San Francisco, CA", "Boston, MA +1", "Remote (United States)", ""]

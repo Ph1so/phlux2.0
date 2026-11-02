@@ -78,3 +78,33 @@ def test_pages_until_total_pages():
 def test_empty_board():
     with patch("phlux.adapters.rippling.get", return_value=response({"items": [], "totalPages": 0})):
         assert fetch("https://ats.rippling.com/acme/jobs") == []
+
+
+def located(job_id, *names):
+    return {"id": job_id, "name": "Intern", "url": f"https://ats.rippling.com/acme/jobs/{job_id}",
+            "locations": [{"name": n, "country": "United States", "countryCode": "US"} for n in names]}
+
+
+def test_a_jobs_locations_from_all_its_items_sorted():
+    pages = [
+        {"items": [located("a", "Huntsville, AL"), located("b", "Remote (United States)"),
+                   located("a", "Arlington, VA")], "totalPages": 2},
+        {"items": [located("a", "Clarksburg, MD"), located("c")], "totalPages": 2},
+    ]
+    with patch("phlux.adapters.rippling.get", side_effect=[response(p) for p in pages]):
+        postings = fetch("https://ats.rippling.com/acme/jobs")
+    assert [(p.id, p.location) for p in postings] == [
+        ("rippling:a", "Arlington, VA +2"), ("rippling:b", "Remote (United States)"), ("rippling:c", "")]
+
+
+def test_the_same_job_reads_the_same_in_any_order():
+    items = [located("a", "Huntsville, AL"), located("a", "Arlington, VA")]
+    for order in (items, items[::-1]):
+        with patch("phlux.adapters.rippling.get", return_value=response({"items": order, "totalPages": 1})):
+            assert fetch("https://ats.rippling.com/acme/jobs")[0].location == "Arlington, VA +1"
+
+
+def test_a_location_without_a_name_is_built_from_its_fields():
+    item = {"id": "a", "name": "Intern", "locations": [{"city": "Boston", "stateCode": "MA", "countryCode": "US"}]}
+    with patch("phlux.adapters.rippling.get", return_value=response({"items": [item], "totalPages": 1})):
+        assert fetch("https://ats.rippling.com/acme/jobs")[0].location == "Boston, MA"

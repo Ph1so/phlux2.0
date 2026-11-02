@@ -6,14 +6,16 @@ The board URL's ``query`` (search text, which Workable matches against
 descriptions too), ``department`` (ids), ``worktype`` and ``workplace`` are
 passed on. Its ``location`` filter is not understood here, so a URL with one
 is refused rather than read as the whole board. A job's page is
-``apply.workable.com/<slug>/j/<shortcode>/``.
+``apply.workable.com/<slug>/j/<shortcode>/``. Its ``location`` (city, region,
+country) is written "Fremont, CA", followed by a count of its other shown
+``locations``; a remote job naming no city is "Remote".
 """
 from __future__ import annotations
 
 from typing import List
 
 from ..models import Posting
-from .base import adapter, first, path_slug, post, query
+from .base import adapter, first, format_place, path_slug, place, post, query
 
 API = "https://apply.workable.com/api/v3/accounts/{slug}/jobs"
 JOB_PAGE = "https://apply.workable.com/{slug}/j/{shortcode}/"
@@ -35,6 +37,22 @@ def search_body(url: str) -> dict:
     }
 
 
+def _place(loc) -> str:
+    if not isinstance(loc, dict):
+        return ""
+    return format_place(loc.get("city"), loc.get("region"), loc.get("countryCode") or loc.get("country"))
+
+
+def location(job: dict) -> str:
+    """Return a job's location, plus a count of the other locations it shows."""
+    others = [_place(loc) for loc in job.get("locations") or [] if isinstance(loc, dict) and not loc.get("hidden")]
+    found = place(_place(job.get("location")), others)
+    remote = job.get("remote") or job.get("workplace") == "remote"
+    if remote and not (job.get("location") or {}).get("city"):
+        return "Remote"
+    return found
+
+
 @adapter("workable")
 def fetch(url: str, arg: str = "") -> List[Posting]:
     """Return the postings a Workable board URL shows, filtered by its query."""
@@ -45,7 +63,8 @@ def fetch(url: str, arg: str = "") -> List[Posting]:
     for _ in range(MAX_PAGES):
         data = post(api, json=body).json()
         postings.extend(
-            Posting(f"workable:{j['shortcode']}", j["title"], url=JOB_PAGE.format(slug=slug, shortcode=j["shortcode"]))
+            Posting(f"workable:{j['shortcode']}", j["title"], location(j),
+                    JOB_PAGE.format(slug=slug, shortcode=j["shortcode"]))
             for j in data.get("results", [])
         )
         if not data.get("nextPage") or not data.get("results"):

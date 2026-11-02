@@ -51,3 +51,16 @@ def test_gone_board_raises():
     with patch("phlux.adapters.bamboohr.get", return_value=response(redirect="https://www.bamboohr.com")):
         with pytest.raises(RuntimeError, match="gone"):
             fetch("https://acme.bamboohr.com/careers")
+
+
+@pytest.mark.parametrize("job, expected", [
+    ({"location": {"city": "San Antonio", "state": "Texas"}}, "San Antonio, TX"),
+    ({"location": {"city": None, "state": None},
+      "atsLocation": {"city": "Munich", "state": "Bavaria", "country": "Germany"}}, "Munich, Germany"),
+    ({"location": {"city": None, "state": None}, "atsLocation": {}, "isRemote": True}, "Remote"),
+    ({"location": None, "atsLocation": None, "isRemote": None}, ""),
+])
+def test_location(job, expected):
+    payload = {"result": [{"id": "1", "jobOpeningName": "Intern", **job}]}
+    with patch("phlux.adapters.bamboohr.get", return_value=response(payload)):
+        assert fetch("https://acme.bamboohr.com/careers")[0].location == expected

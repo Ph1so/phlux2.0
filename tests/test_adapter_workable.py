@@ -51,3 +51,23 @@ def test_empty_board():
     with patch("phlux.adapters.workable.post", return_value=response({"total": 0, "results": []})) as post:
         assert fetch("https://apply.workable.com/acme") == []
     assert post.call_count == 1
+
+
+def where(city, region, country="United States", code="US", **extra):
+    return {"city": city, "region": region, "country": country, "countryCode": code, **extra}
+
+
+@pytest.mark.parametrize("job, expected", [
+    ({"location": where("Fremont", "California"), "locations": [where("Fremont", "California", hidden=False)]},
+     "Fremont, CA"),
+    ({"location": where("Fremont", "California"),
+      "locations": [where("Fremont", "California"), where("Guangzhou", "Guangdong", "China", "CN"),
+                    where("Austin", "Texas", hidden=True)]}, "Fremont, CA +1"),
+    ({"location": where("Munich", "Bavaria", "Germany", "DE")}, "Munich, Germany"),
+    ({"location": where("", "", "United States", "US"), "remote": True, "workplace": "remote"}, "Remote"),
+    ({"location": None}, ""),
+])
+def test_location(job, expected):
+    payload = {"total": 1, "results": [{"shortcode": "AAA", "title": "Intern", **job}]}
+    with patch("phlux.adapters.workable.post", return_value=response(payload)):
+        assert fetch("https://apply.workable.com/acme/")[0].location == expected

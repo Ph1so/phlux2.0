@@ -44,3 +44,23 @@ def test_empty_board():
     with patch("phlux.adapters.kula.get", return_value=response(payload)) as get:
         assert fetch("https://careers.kula.ai/acme-ai") == []
     assert get.call_count == 1
+
+
+def test_location_from_the_jobs_offices():
+    def office(city, state, country, code, remote=False):
+        return {"name": city, "location": ", ".join(p for p in (city, state, country) if p), "city": city,
+                "state": state, "country": country, "country_code": code, "remote": remote}
+
+    def post(post_id, offices):
+        return {"id": post_id, "title": "Intern", "listed": True, "kind": "external",
+                "ats_job": {"workplace": "office", "offices": offices}}
+
+    payload = {"data": [
+        post(1, [office("Vancouver", "British Columbia", "Canada", "CA")]),
+        post(2, [office("Austin", "Texas", "United States", "US"), office("Vancouver", "British Columbia", "Canada", "CA")]),
+        post(3, [office(None, None, "United States", "US", remote=True)]),
+        post(4, []),
+    ], "meta": {"pages": 1}}
+    with patch("phlux.adapters.kula.get", return_value=response(payload)):
+        postings = fetch("https://careers.kula.ai/acme-ai")
+    assert [p.location for p in postings] == ["Vancouver, Canada", "Austin, TX +1", "Remote, United States", ""]
