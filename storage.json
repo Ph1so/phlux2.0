@@ -440,6 +440,13 @@
         "id": "workday:JR2028607",
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607",
         "location": "US, WA, Redmond"
+      },
+      {
+        "title": "\u2b50\ufe0f Product Marketing MBA Intern, AI Infrastructure \u2014 Summer 2027",
+        "date": "2026-11-02",
+        "id": "workday:JR2028699",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-MBA-Intern--AI-Infrastructure---Summer-2027_JR2028699",
+        "location": "US, CA, Santa Clara"
       }
     ],
     "Google": [
@@ -793,7 +800,8 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393556988203",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556988203",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-02"
       },
       {
         "title": "\u2b50\ufe0f Applied Science: Internship Opportunities - Redmond",
@@ -849,7 +857,8 @@
         "title": "\u2b50\ufe0f Researcher Intern, CoreAI",
         "date": "2026-10-15",
         "id": "eightfold:1970393557027387",
-        "closed": "N/A"
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557027387",
+        "location": "United States, Washington, Redmond +1"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Efficient AI Software Systems",
@@ -1029,6 +1038,27 @@
         "id": "eightfold:1970393556925823",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556925823",
         "location": "United States, Washington, Redmond"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
+        "date": "2026-11-02",
+        "id": "eightfold:1970393556951950",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
+        "location": "United States, Washington, Redmond"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Intern - Foundational Models & Agent",
+        "date": "2026-11-02",
+        "id": "eightfold:1970393557052982",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557052982",
+        "location": "United States, Washington, Redmond"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer: Internship Opportunities",
+        "date": "2026-11-02",
+        "id": "eightfold:1970393557044764",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557044764",
+        "location": "United States, California, Aliso Viejo"
       }
     ],
     "Amazon": [
@@ -1729,6 +1759,27 @@
         "id": "amazon:10593521",
         "url": "https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027",
         "location": "Seattle, WA +8"
+      },
+      {
+        "title": "\u2b50\ufe0f Amazon Finance Rotational Program (AFRP) Accounting Intern \u2013 Summer 2027",
+        "date": "2026-11-02",
+        "id": "amazon:10594729",
+        "url": "https://www.amazon.jobs/en/jobs/10594729/amazon-finance-rotational-program-afrp-accounting-intern-summer-2027",
+        "location": "Seattle, WA"
+      },
+      {
+        "title": "\u2b50\ufe0f Associate Engagement Manager Intern- National Security, AWS Professional Services",
+        "date": "2026-11-02",
+        "id": "amazon:10594714",
+        "url": "https://www.amazon.jobs/en/jobs/10594714/associate-engagement-manager-intern-national-security-aws-professional-services",
+        "location": "Arlington, VA"
+      },
+      {
+        "title": "\u2b50\ufe0f Associate Engagement Manager Intern, AWS Professional Services",
+        "date": "2026-11-02",
+        "id": "amazon:10594713",
+        "url": "https://www.amazon.jobs/en/jobs/10594713/associate-engagement-manager-intern-aws-professional-services",
+        "location": "Arlington, VA +1"
       }
     ],
     "Meta": [
@@ -2529,7 +2580,8 @@
         "date": "2026-10-26",
         "id": "meta:1423049949381658",
         "url": "https://www.metacareers.com/profile/job_details/1423049949381658/",
-        "location": "Burlingame, CA"
+        "location": "Burlingame, CA",
+        "closed": "2026-11-02"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, Multimodal and Multitasking Machine Learning (PhD)",
@@ -2711,6 +2763,27 @@
         "id": "meta:1406585275871250",
         "url": "https://www.metacareers.com/profile/job_details/1406585275871250/",
         "location": "Montreal, Canada"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Interactive Physics Simulation for Robotics (PhD)",
+        "date": "2026-11-02",
+        "id": "meta:1143164681833409",
+        "url": "https://www.metacareers.com/profile/job_details/1143164681833409/",
+        "location": "Redmond, WA"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Human Sensing for Wearables, AR and VR (PhD)",
+        "date": "2026-11-02",
+        "id": "meta:1886852912490515",
+        "url": "https://www.metacareers.com/profile/job_details/1886852912490515/",
+        "location": "Zurich, Switzerland"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern PhD, PAR Safety Evals and Red Teaming",
+        "date": "2026-11-02",
+        "id": "meta:1272664685039241",
+        "url": "https://www.metacareers.com/profile/job_details/1272664685039241/",
+        "location": "Menlo Park, CA +1"
       }
     ],
     "Apple": [
@@ -5117,7 +5190,8 @@
         "date": "2026-10-13",
         "id": "greenhouse:7904363003",
         "url": "https://www.zipline.com/open-roles/7904363003?gh_jid=7904363003",
-        "location": "Dallas-Fort Worth, Texas, USA"
+        "location": "Dallas-Fort Worth, Texas, USA",
+        "closed": "2026-11-02"
       },
       {
         "title": "\u2b50\ufe0f Controls Engineer Intern (Spring 2027)",
@@ -5180,7 +5254,8 @@
         "date": "2026-10-13",
         "id": "greenhouse:7980874003",
         "url": "https://www.zipline.com/open-roles/7980874003?gh_jid=7980874003",
-        "location": "South San Francisco, California, USA"
+        "location": "South San Francisco, California, USA",
+        "closed": "2026-11-02"
       },
       {
         "title": "\u2b50\ufe0f Electrical Project Engineer Intern (Summer 2027)",
@@ -5294,7 +5369,8 @@
         "date": "2026-10-13",
         "id": "greenhouse:7968519003",
         "url": "https://www.zipline.com/open-roles/7968519003?gh_jid=7968519003",
-        "location": "South San Francisco, California, USA"
+        "location": "South San Francisco, California, USA",
+        "closed": "2026-11-02"
       },
       {
         "title": "\u2b50\ufe0f Marketing Operations & Project Management Intern (Summer 2027)",
@@ -8117,6 +8193,13 @@
         "date": "2026-10-28",
         "id": "smartrecruiters:744000158361530",
         "url": "https://jobs.smartrecruiters.com/Intuitive/744000158406669",
+        "location": "Sunnyvale, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f AI/ML Engineer Intern",
+        "date": "2026-11-02",
+        "id": "smartrecruiters:744000159218439",
+        "url": "https://jobs.smartrecruiters.com/Intuitive/744000159218439",
         "location": "Sunnyvale, CA"
       }
     ],
@@ -11114,6 +11197,13 @@
         "id": "greenhouse:6239021004",
         "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6239021004",
         "location": "Hybrid- Fremont, CA"
+      },
+      {
+        "title": "Senior Data Engineer, Data Analytics",
+        "date": "2026-11-02",
+        "id": "greenhouse:6237009004",
+        "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6237009004",
+        "location": "Remote"
       }
     ],
     "Cobot": [
@@ -11566,7 +11656,8 @@
         "date": "N/A",
         "id": "greenhouse:8627013002",
         "url": "https://boards.greenhouse.io/pathrobotics/jobs/8627013002?gh_jid=8627013002",
-        "location": "Columbus, Ohio"
+        "location": "Columbus, Ohio",
+        "closed": "2026-11-02"
       },
       {
         "title": "Field Services Lead",
@@ -11764,7 +11855,8 @@
         "date": "2026-10-20",
         "id": "greenhouse:8902713002",
         "url": "https://boards.greenhouse.io/pathrobotics/jobs/8902713002?gh_jid=8902713002",
-        "location": "Columbus, Ohio"
+        "location": "Columbus, Ohio",
+        "closed": "2026-11-02"
       },
       {
         "title": "Facilities Associate",
@@ -12934,7 +13026,8 @@
         "date": "2026-10-26",
         "id": "greenhouse:8044945003",
         "url": "https://motional.com/open-positions/?gh_jid=8044945003#/8044945003",
-        "location": "Las Vegas, Nevada, United States; Pittsburgh, Pennsylvania, United States"
+        "location": "Las Vegas, Nevada, United States; Pittsburgh, Pennsylvania, United States",
+        "closed": "2026-11-02"
       },
       {
         "title": "Senior Engineer, In-Car Visualization",
@@ -14976,7 +15069,8 @@
         "date": "N/A",
         "id": "greenhouse:4285015009",
         "url": "https://job-boards.greenhouse.io/avride/jobs/4285015009",
-        "location": "Austin, Texas"
+        "location": "Austin, Texas",
+        "closed": "2026-11-02"
       },
       {
         "title": "Senior Software Engineer \u2013 Pipeline Infrastructure",
@@ -15706,7 +15800,8 @@
         "date": "N/A",
         "id": "ashby:c1d7ed99-e9da-4289-9d94-4b41f5eefb20",
         "url": "https://jobs.ashbyhq.com/aurora-operations-inc/c1d7ed99-e9da-4289-9d94-4b41f5eefb20",
-        "location": "Pittsburgh, PA"
+        "location": "Pittsburgh, PA",
+        "closed": "2026-11-02"
       },
       {
         "title": "Senior Analyst, Investor Relations",
@@ -15738,7 +15833,8 @@
         "date": "N/A",
         "id": "ashby:0022575a-140e-49da-8570-76569605ee1d",
         "url": "https://jobs.ashbyhq.com/aurora-operations-inc/0022575a-140e-49da-8570-76569605ee1d",
-        "location": "Pittsburgh, PA"
+        "location": "Pittsburgh, PA",
+        "closed": "2026-11-02"
       },
       {
         "title": "Senior Manager, Global Supply Management",
@@ -19563,7 +19659,8 @@
         "date": "N/A",
         "id": "lever:6e661ebe-548b-4532-a243-a310fbf60223",
         "url": "https://jobs.lever.co/zoox/6e661ebe-548b-4532-a243-a310fbf60223",
-        "location": "Foster City, CA"
+        "location": "Foster City, CA",
+        "closed": "2026-11-02"
       },
       {
         "title": "Staff/Senior Staff Software Engineer - Product Security",
@@ -19854,6 +19951,20 @@
         "id": "lever:6320b978-abf4-483b-a09f-bfba0c44c485",
         "url": "https://jobs.lever.co/zoox/6320b978-abf4-483b-a09f-bfba0c44c485",
         "location": "Foster City, CA"
+      },
+      {
+        "title": "Human Resources Generalist",
+        "date": "2026-11-02",
+        "id": "lever:008c7252-edd0-4e72-a79b-0dc021f212d5",
+        "url": "https://jobs.lever.co/zoox/008c7252-edd0-4e72-a79b-0dc021f212d5",
+        "location": "Foster City, CA"
+      },
+      {
+        "title": "Team Lead, Vehicle Technicians",
+        "date": "2026-11-02",
+        "id": "lever:80d8492a-0cf3-41d8-b381-5c0014874e59",
+        "url": "https://jobs.lever.co/zoox/80d8492a-0cf3-41d8-b381-5c0014874e59",
+        "location": "San Francisco, CA"
       }
     ],
     "Pony.ai": [
@@ -21133,7 +21244,8 @@
         "date": "N/A",
         "id": "greenhouse:7902399",
         "url": "https://nuro.ai/careersitem?gh_jid=7902399",
-        "location": "Mountain View, California (HQ)"
+        "location": "Mountain View, California (HQ)",
+        "closed": "2026-11-02"
       },
       {
         "title": "Security Engineer, Infrastructure",
@@ -21485,7 +21597,8 @@
         "date": "N/A",
         "id": "greenhouse:8222063",
         "url": "https://nuro.ai/careersitem?gh_jid=8222063",
-        "location": "Mountain View, California (HQ)"
+        "location": "Mountain View, California (HQ)",
+        "closed": "2026-11-02"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer, AI Platform - Intern",
@@ -22561,7 +22674,8 @@
         "date": "2026-09-29",
         "id": "smartrecruiters:744000152463644",
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000152463644",
-        "location": "Charleston, SC"
+        "location": "Charleston, SC",
+        "closed": "2026-11-02"
       },
       {
         "title": "Industrial Equipment Technician - 3rd Shift",
@@ -23206,14 +23320,16 @@
         "date": "2026-10-09",
         "id": "smartrecruiters:744000154673159",
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154673159",
-        "location": "Fountain Inn, SC"
+        "location": "Fountain Inn, SC",
+        "closed": "2026-11-02"
       },
       {
         "title": "\u2b50\ufe0f Product Management Co-op- Spring 2027",
         "date": "2026-10-09",
         "id": "smartrecruiters:744000154671460",
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154671460",
-        "location": "Fountain Inn, SC"
+        "location": "Fountain Inn, SC",
+        "closed": "2026-11-02"
       },
       {
         "title": "Sales Controlling - Sr. Financial Analyst",
@@ -23230,14 +23346,16 @@
         "date": "2026-10-09",
         "id": "smartrecruiters:744000154765090",
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154765090",
-        "location": "Fountain Inn, SC"
+        "location": "Fountain Inn, SC",
+        "closed": "2026-11-02"
       },
       {
         "title": "\u2b50\ufe0f Mechanical Engineering Co-op Spring 2027",
         "date": "2026-10-09",
         "id": "smartrecruiters:744000154765539",
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154765539",
-        "location": "Fountain Inn, SC"
+        "location": "Fountain Inn, SC",
+        "closed": "2026-11-02"
       },
       {
         "title": "\u2b50\ufe0f Manufacturing Engineering Intern",
@@ -23294,7 +23412,8 @@
         "date": "2026-10-12",
         "id": "smartrecruiters:744000155071894",
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155071894",
-        "location": "Fountain Inn, SC"
+        "location": "Fountain Inn, SC",
+        "closed": "2026-11-02"
       },
       {
         "title": "Demand Planning Manager",
@@ -25585,7 +25704,8 @@
         "date": "N/A",
         "id": "ashby:0d54aef7-1da2-405a-9ec7-d4dd032fcaa1",
         "url": "https://jobs.ashbyhq.com/scout-ai/0d54aef7-1da2-405a-9ec7-d4dd032fcaa1",
-        "location": "Sunnyvale, CA"
+        "location": "Sunnyvale, CA",
+        "closed": "2026-11-02"
       },
       {
         "title": "Director of Business Development, Air Dominance",
@@ -26526,6 +26646,20 @@
         "id": "greenhouse:8046791003",
         "url": "https://job-boards.greenhouse.io/diligentrobotics/jobs/8046791003",
         "location": "Austin, Texas, United States"
+      },
+      {
+        "title": "Lead Clinical Robot Associate - Barstow, CA (on-site)",
+        "date": "2026-11-02",
+        "id": "greenhouse:8163738003",
+        "url": "https://job-boards.greenhouse.io/diligentrobotics/jobs/8163738003",
+        "location": "Barstow, California, United States"
+      },
+      {
+        "title": "Part Time (temporary) - Clinical Robot Associate - Newark, DE (on-site)",
+        "date": "2026-11-02",
+        "id": "greenhouse:8162134003",
+        "url": "https://job-boards.greenhouse.io/diligentrobotics/jobs/8162134003",
+        "location": "Newark, Delaware, United States"
       }
     ],
     "Phantom AI": [],
@@ -28474,6 +28608,13 @@
         "url": "https://jobs.lever.co/shieldai/5fb0fc3c-3747-4351-92fd-459b3df7c82c",
         "location": "Dallas, Texas",
         "closed": "2026-11-02"
+      },
+      {
+        "title": "\u2b50\ufe0f Structures / Mechanical Test Co-op - January 2027 Co-op",
+        "date": "2026-11-02",
+        "id": "lever:1be0e71a-cf7f-4966-8532-09e6f40bb9dc",
+        "url": "https://jobs.lever.co/shieldai/1be0e71a-cf7f-4966-8532-09e6f40bb9dc",
+        "location": "Dallas, Texas"
       }
     ],
     "Swarm Aero": [
@@ -29727,7 +29868,8 @@
         "title": "Hardware Engineer",
         "date": "N/A",
         "id": "ashby:087f6417-5d8c-45b6-a7d0-dfaa2cc92cf8",
-        "closed": "N/A"
+        "url": "https://jobs.ashbyhq.com/bedrock-robotics/087f6417-5d8c-45b6-a7d0-dfaa2cc92cf8",
+        "location": "San Francisco, CA"
       },
       {
         "title": "Head of Validation and Systems Engineering",
@@ -30493,7 +30635,8 @@
         "date": "N/A",
         "id": "ashby:4d8e8e1f-9145-4625-8aad-1d53ba4cc7b6",
         "url": "https://jobs.ashbyhq.com/applied/4d8e8e1f-9145-4625-8aad-1d53ba4cc7b6",
-        "location": "Sunnyvale"
+        "location": "Sunnyvale",
+        "closed": "2026-11-02"
       },
       {
         "title": "Technical Business Development, Japan Market (US-based)",
@@ -32297,7 +32440,8 @@
         "date": "2026-10-07",
         "id": "ashby:c65ae625-09d2-4e94-ab37-7ae2444b84a0",
         "url": "https://jobs.ashbyhq.com/applied/c65ae625-09d2-4e94-ab37-7ae2444b84a0",
-        "location": "Sunnyvale"
+        "location": "Sunnyvale",
+        "closed": "2026-11-02"
       },
       {
         "title": "Software Integration Engineer, Vehicle OS",
@@ -32440,7 +32584,8 @@
         "date": "2026-10-13",
         "id": "ashby:3137ff11-69ad-4a24-8086-36ef9249c611",
         "url": "https://jobs.ashbyhq.com/applied/3137ff11-69ad-4a24-8086-36ef9249c611",
-        "location": "Illinois Remote"
+        "location": "Illinois Remote",
+        "closed": "2026-11-02"
       },
       {
         "title": "Industrials Integration Engineer",
@@ -37249,6 +37394,13 @@
         "id": "ashby:cf28c8a4-da64-4f2e-9533-8df37ec46496",
         "url": "https://jobs.ashbyhq.com/dyna-robotics/cf28c8a4-da64-4f2e-9533-8df37ec46496",
         "location": "Customer Site"
+      },
+      {
+        "title": "Model Evaluation Lead",
+        "date": "2026-11-02",
+        "id": "ashby:807a15e2-5ce3-4429-a804-efc2e94eb67c",
+        "url": "https://jobs.ashbyhq.com/dyna-robotics/807a15e2-5ce3-4429-a804-efc2e94eb67c",
+        "location": "Redwood City, CA"
       }
     ],
     "Dexterity": [
@@ -38083,6 +38235,13 @@
         "id": "ashby:b2dfe3c0-e3fe-499e-b707-257b25782646",
         "url": "https://jobs.ashbyhq.com/standardbots/b2dfe3c0-e3fe-499e-b707-257b25782646",
         "location": "US (Remote)"
+      },
+      {
+        "title": "Lead Functional Safety Engineer",
+        "date": "2026-11-02",
+        "id": "ashby:3b22218e-7a30-40cc-a908-26c9254bb5bf",
+        "url": "https://jobs.ashbyhq.com/standardbots/3b22218e-7a30-40cc-a908-26c9254bb5bf",
+        "location": "Glen Cove, NY"
       }
     ],
     "Bright Machines": [
@@ -38518,6 +38677,20 @@
         "id": "greenhouse:4725623006",
         "url": "https://job-boards.greenhouse.io/formic/jobs/4725623006",
         "location": "San Francisco, CA || Oakland, CA"
+      },
+      {
+        "title": "Customer Success Manager - Bolingbrook, IL",
+        "date": "2026-11-02",
+        "id": "greenhouse:4726483006",
+        "url": "https://job-boards.greenhouse.io/formic/jobs/4726483006",
+        "location": "Bolingbrook, IL"
+      },
+      {
+        "title": "Head of Marketing - Remote, USA",
+        "date": "2026-11-02",
+        "id": "greenhouse:4726500006",
+        "url": "https://job-boards.greenhouse.io/formic/jobs/4726500006",
+        "location": "Remote, USA"
       }
     ],
     "Waabi": [
@@ -39779,6 +39952,13 @@
         "id": "greenhouse:8921960002",
         "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8921960002",
         "location": "Ann Arbor, MI"
+      },
+      {
+        "title": "Application Integration Engineer 1",
+        "date": "2026-11-02",
+        "id": "greenhouse:8924000002",
+        "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8924000002",
+        "location": "Remote - US"
       }
     ],
     "Saronic": [
@@ -41693,7 +41873,8 @@
         "date": "2026-10-31",
         "id": "ashby:79bc48c9-f5ab-4b84-8ca2-93793ded820b",
         "url": "https://jobs.ashbyhq.com/saronic/79bc48c9-f5ab-4b84-8ca2-93793ded820b",
-        "location": "Austin, TX"
+        "location": "Austin, TX",
+        "closed": "2026-11-02"
       },
       {
         "title": "Loads & Dynamics Engineer",
@@ -41707,6 +41888,13 @@
         "date": "2026-11-02",
         "id": "ashby:a424fdc6-83b5-4176-9172-7bf951e7b97d",
         "url": "https://jobs.ashbyhq.com/saronic/a424fdc6-83b5-4176-9172-7bf951e7b97d",
+        "location": "Austin, TX"
+      },
+      {
+        "title": "Senior Financial Analyst - FinOps",
+        "date": "2026-11-02",
+        "id": "ashby:67560109-fe19-4cb4-a84d-3f6e2a123078",
+        "url": "https://jobs.ashbyhq.com/saronic/67560109-fe19-4cb4-a84d-3f6e2a123078",
         "location": "Austin, TX"
       }
     ],
@@ -44063,7 +44251,8 @@
         "date": "2026-10-14",
         "id": "paylocity:4549555",
         "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4549555",
-        "location": "Remote"
+        "location": "Remote",
+        "closed": "2026-11-02"
       },
       {
         "title": "Linux Systems Engineer",
@@ -45817,7 +46006,8 @@
         "date": "2026-10-22",
         "id": "workday:R7517",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Staff-Software-Engineer---Fleet-Operations_R7517",
-        "location": "USA Wilmington, MA - HQ"
+        "location": "USA Wilmington, MA - HQ",
+        "closed": "2026-11-02"
       },
       {
         "title": "Staff Software Engineer - Fleet Controls",
@@ -45978,6 +46168,13 @@
         "id": "workday:R8403",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Remote--Travel---MI/New-Grad--Project-Manager--Manufacturing_R8403",
         "location": "USA Remote & Travel - MI"
+      },
+      {
+        "title": "Remote Operation Center Specialist",
+        "date": "2026-11-02",
+        "id": "workday:R8356",
+        "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Remote-Operation-Center-Specialist_R8356",
+        "location": "USA Wilmington, MA - HQ"
       }
     ],
     "PROCEPT BioRobotics": [
@@ -51634,7 +51831,8 @@
         "date": "2026-10-22",
         "id": "ashby:7daff2af-1686-43fe-85c0-ca912c8747ac",
         "url": "https://jobs.ashbyhq.com/openai/7daff2af-1686-43fe-85c0-ca912c8747ac",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-02"
       },
       {
         "title": "Android Engineer, Applied Foundations",
@@ -54788,7 +54986,8 @@
         "date": "2026-10-22",
         "id": "ashby:f9c64ecf-d52a-44f0-9d9f-99575ae80d7f",
         "url": "https://jobs.ashbyhq.com/openai/f9c64ecf-d52a-44f0-9d9f-99575ae80d7f",
-        "location": "Washington, DC"
+        "location": "Washington, DC",
+        "closed": "2026-11-02"
       },
       {
         "title": "Strategic Delivery Lead, Cyber",
@@ -54987,7 +55186,8 @@
         "date": "2026-10-22",
         "id": "ashby:f6880901-6527-4b71-9f70-bc8d38989b84",
         "url": "https://jobs.ashbyhq.com/openai/f6880901-6527-4b71-9f70-bc8d38989b84",
-        "location": "San Francisco +3"
+        "location": "San Francisco +3",
+        "closed": "2026-11-02"
       },
       {
         "title": "Product Design Lead, Growth - Codex",
@@ -55506,7 +55706,8 @@
         "date": "2026-10-22",
         "id": "ashby:fe7039ce-51e2-4cfa-9ea5-507eb7a0eee1",
         "url": "https://jobs.ashbyhq.com/openai/fe7039ce-51e2-4cfa-9ea5-507eb7a0eee1",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-02"
       },
       {
         "title": "Engineering Manager, Preparedness",
@@ -56152,14 +56353,16 @@
         "date": "2026-10-22",
         "id": "ashby:4d14449e-5e7f-45d4-b103-8776a6c87086",
         "url": "https://jobs.ashbyhq.com/openai/4d14449e-5e7f-45d4-b103-8776a6c87086",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-02"
       },
       {
         "title": "Software Engineer, Inference - Performance Optimization",
         "date": "2026-10-22",
         "id": "ashby:85fceac9-fb8a-4d71-a524-a8e5f1e9b01b",
         "url": "https://jobs.ashbyhq.com/openai/85fceac9-fb8a-4d71-a524-a8e5f1e9b01b",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-02"
       },
       {
         "title": "Software Engineer, Infrastructure - Analytics Platform",
@@ -56187,7 +56390,8 @@
         "date": "2026-10-22",
         "id": "ashby:83b6755d-7785-4186-9050-5ef3ad127941",
         "url": "https://jobs.ashbyhq.com/openai/83b6755d-7785-4186-9050-5ef3ad127941",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-02"
       },
       {
         "title": "Software Engineer, Model Runtime",
@@ -57711,6 +57915,20 @@
         "id": "ashby:8c1ce3bb-4451-49da-8fc9-315549a77289",
         "url": "https://jobs.ashbyhq.com/openai/8c1ce3bb-4451-49da-8fc9-315549a77289",
         "location": "Paris, France"
+      },
+      {
+        "title": "Sales and Partnerships",
+        "date": "2026-11-02",
+        "id": "ashby:45a0886d-a60d-4d5a-9afa-785a75042044",
+        "url": "https://jobs.ashbyhq.com/openai/45a0886d-a60d-4d5a-9afa-785a75042044",
+        "location": "London, UK +12"
+      },
+      {
+        "title": "Account Director, Startups | New Business",
+        "date": "2026-11-02",
+        "id": "ashby:50053f7b-c154-45af-b497-3298c826a15f",
+        "url": "https://jobs.ashbyhq.com/openai/50053f7b-c154-45af-b497-3298c826a15f",
+        "location": "San Francisco"
       }
     ],
     "John Deere": [
@@ -59259,7 +59477,8 @@
         "date": "2026-10-22",
         "id": "rippling:6d514064-f1ab-4e70-a8bd-78d8aecb4e99",
         "url": "https://ats.rippling.com/dusty-robotics-inc/jobs/6d514064-f1ab-4e70-a8bd-78d8aecb4e99",
-        "location": "Mountain View, CA"
+        "location": "Mountain View, CA",
+        "closed": "2026-11-02"
       },
       {
         "title": "Senior Electrical Engineer",
@@ -60288,7 +60507,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:4222051009",
         "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4222051009",
-        "location": "San Francisco, CA USA"
+        "location": "San Francisco, CA USA",
+        "closed": "2026-11-02"
       },
       {
         "title": "ML Scientist I/II, AI for Protein Engineering",
@@ -60906,6 +61126,13 @@
         "date": "2026-11-02",
         "id": "greenhouse:4472544009",
         "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4472544009",
+        "location": "Cambridge, MA USA"
+      },
+      {
+        "title": "Automation Engineer I/II, Sustaining Engineering & Lab Operations",
+        "date": "2026-11-02",
+        "id": "greenhouse:4414378009",
+        "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4414378009",
         "location": "Cambridge, MA USA"
       }
     ],
@@ -62722,14 +62949,16 @@
         "date": "2026-10-27",
         "id": "greenhouse:5458322008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5458322008",
-        "location": "London, UK"
+        "location": "London, UK",
+        "closed": "2026-11-02"
       },
       {
         "title": "International Compensation Partner",
         "date": "2026-10-27",
         "id": "greenhouse:5452859008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452859008",
-        "location": "Dublin, IE"
+        "location": "Dublin, IE",
+        "closed": "2026-11-02"
       },
       {
         "title": "International Finance Program Management",
@@ -64924,14 +65153,16 @@
         "date": "2026-10-27",
         "id": "greenhouse:5211305008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5211305008",
-        "location": "London, UK"
+        "location": "London, UK",
+        "closed": "2026-11-02"
       },
       {
         "title": "Staff+ Software Engineer, Kubernetes Platform",
         "date": "2026-10-27",
         "id": "greenhouse:5211241008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5211241008",
-        "location": "San Francisco, CA | New York City, NY | Seattle, WA"
+        "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+        "closed": "2026-11-02"
       },
       {
         "title": "Staff+ Software Engineer, Memory & Search",
@@ -64959,7 +65190,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5211498008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5211498008",
-        "location": "London, UK"
+        "location": "London, UK",
+        "closed": "2026-11-02"
       },
       {
         "title": "Staff+ Software Engineer, Node Infra",
@@ -67100,7 +67332,8 @@
         "title": "Member of Technical Staff - Model Training",
         "date": "2026-10-27",
         "id": "greenhouse:5086324007",
-        "closed": "N/A"
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5086324007",
+        "location": "Palo Alto, CA; Austin, TX; New York, NY; Seattle, WA"
       },
       {
         "title": "Member of Technical Staff - Multimodal Understanding",
@@ -68078,6 +68311,27 @@
         "id": "greenhouse:5280433007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5280433007",
         "location": "Southaven, MS; Memphis, TN"
+      },
+      {
+        "title": "Sr. Model Engineer, Mid-training",
+        "date": "2026-11-02",
+        "id": "greenhouse:5280957007",
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5280957007",
+        "location": "Palo Alto, CA"
+      },
+      {
+        "title": "Sr. Model Engineer, Model Training",
+        "date": "2026-11-02",
+        "id": "greenhouse:5281818007",
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5281818007",
+        "location": "Palo Alto, CA; Austin, TX; New York, NY; Seattle, WA"
+      },
+      {
+        "title": "Sr. Model Engineer, Post-Training & RL",
+        "date": "2026-11-02",
+        "id": "greenhouse:5280958007",
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5280958007",
+        "location": "Palo Alto, CA"
       }
     ],
     "Thinking Machines Lab": [
@@ -69650,7 +69904,8 @@
         "date": "2026-11-01",
         "id": "ashby:5b16a59b-87b1-4ab3-812d-38f38ec4c55d",
         "url": "https://jobs.ashbyhq.com/beyondreachlabs/5b16a59b-87b1-4ab3-812d-38f38ec4c55d",
-        "location": "New York City"
+        "location": "New York City",
+        "closed": "2026-11-02"
       },
       {
         "title": "\u2b50\ufe0f Mechanical Engineer Intern (Summer 2027)",
@@ -69957,7 +70212,8 @@
         "date": "2026-11-01",
         "id": "lever:0ada2c15-a50a-4b94-8bd2-bb9dc95e63ac",
         "url": "https://jobs.lever.co/pyka/0ada2c15-a50a-4b94-8bd2-bb9dc95e63ac",
-        "location": "Alameda HQ"
+        "location": "Alameda HQ",
+        "closed": "2026-11-02"
       },
       {
         "title": "\u2b50\ufe0f Electrical Engineering Internship - Winter/Spring 2027 (Early Interest)",
