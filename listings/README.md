@@ -1,4 +1,4 @@
-# 📚 All Phlux Listings
+# All listings
 
 [← Back to recent listings](../README.md)
 

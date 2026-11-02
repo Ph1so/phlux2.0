@@ -1,14 +1,27 @@
-# 🌀 Phlux: Phi's Job Tracker
+<div align="center">
 
-Easily track jobs across top tech companies.
+<a href="https://ph1so.github.io/phlux2.0/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/phlux-robotics-dark.svg">
+    <img src="assets/phlux-robotics.svg" alt="phlux robotics" height="56">
+  </picture>
+</a>
 
-🛰️ **[Phlux Robotics](https://ph1so.github.io/phlux2.0/)**: every open robotics internship, with a forecast of who opens next.
+<p>Internship openings from the job boards of robotics and tech companies, checked every hour.</p>
 
+<p>
+  <a href="https://ph1so.github.io/phlux2.0/"><img src="https://img.shields.io/badge/browse-internships-1f5fff?style=flat-square" alt="Browse internships"></a>
+  <a href="https://github.com/Ph1so/phlux2.0/actions/workflows/job-scraper.yml"><img src="https://img.shields.io/github/actions/workflow/status/Ph1so/phlux2.0/job-scraper.yml?branch=main&style=flat-square&label=scraper" alt="Scraper status"></a>
+  <img src="https://img.shields.io/badge/roles_tracked-32.9k-475467?style=flat-square" alt="32,906 roles tracked">
+</p>
 
----
+<p><a href="https://ph1so.github.io/phlux2.0/"><b>Website</b></a> &nbsp;·&nbsp; <a href="listings/README.md"><b>All listings</b></a></p>
 
-## 🔍 Phlux Job Listings
-*Showing the 695 most recent of 32,906 roles tracked across 271 companies. See [all listings](listings/README.md) for the full history.*
+</div>
+
+## Latest roles
+
+Showing the 692 most recent of 32,906 roles tracked across 271 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
 
 
 <table>
@@ -4865,29 +4878,8 @@ Easily track jobs across top tech companies.
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5375376008">Data Center Mechanical Engineer</a></div></td>
   <td>2026-10-27</td>
 </tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Data Center Operations Lead - Partner Site Operations</div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5450099008">Data Engineer, Billing & Payments</a></div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5418610008">Data Engineer, GTM</a></div></td>
-  <td>2026-10-27</td>
-</tr>
 
   </tbody>
 </table>
 
----
+<sub>Updated every hour by the <a href=".github/workflows/job-scraper.yml">job scraper</a>. Roles link straight to their postings where the job board gives one.</sub>
