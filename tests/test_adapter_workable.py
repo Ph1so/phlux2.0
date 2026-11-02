@@ -38,9 +38,9 @@ def test_pages_with_next_page_token():
     ]
     with patch("phlux.adapters.workable.post", side_effect=[response(p) for p in pages]) as post:
         postings = fetch("https://apply.workable.com/acme/")
-    assert [(p.id, p.title) for p in postings] == [
-        ("workable:AAA", "Engineer"),
-        ("workable:BBB", "Research Intern"),
+    assert [(p.id, p.title, p.url) for p in postings] == [
+        ("workable:AAA", "Engineer", "https://apply.workable.com/acme/j/AAA/"),
+        ("workable:BBB", "Research Intern", "https://apply.workable.com/acme/j/BBB/"),
     ]
     first, second = post.call_args_list
     assert first.args == (API,) and first.kwargs["json"] == EMPTY

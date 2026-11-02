@@ -28,7 +28,10 @@ def test_listed_posts_across_pages():
     ]
     with patch("phlux.adapters.kula.get", side_effect=[response(p) for p in pages]) as get:
         postings = fetch("https://careers.kula.ai/acme-ai")
-    assert [(p.id, p.title) for p in postings] == [("kula:1", "ML Research Intern"), ("kula:4", "Head of Hardware")]
+    assert [(p.id, p.title, p.url) for p in postings] == [
+        ("kula:1", "ML Research Intern", "https://careers.kula.ai/acme-ai/1"),
+        ("kula:4", "Head of Hardware", "https://careers.kula.ai/acme-ai/4"),
+    ]
     assert get.call_args_list[0].args == (API,)
     assert [c.kwargs["params"] for c in get.call_args_list] == [
         {"accountName": "acme-ai", "type": "ats_job_post.index", "items": 99, "page": 1},

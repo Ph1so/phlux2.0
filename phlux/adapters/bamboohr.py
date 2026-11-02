@@ -3,7 +3,7 @@
 The board page lists every opening from ``/careers/list`` as JSON in one
 request. A company that leaves BambooHR keeps its subdomain, but it redirects
 to BambooHR's marketing site; that is reported as an error rather than read as
-an empty board.
+an empty board. An opening's page is ``<slug>.bamboohr.com/careers/<id>``.
 """
 from __future__ import annotations
 
@@ -14,6 +14,7 @@ from ..models import Posting
 from .base import adapter, get
 
 API = "https://{slug}.bamboohr.com/careers/list"
+JOB_PAGE = "https://{slug}.bamboohr.com/careers/{id}"
 
 
 def board_slug(url: str) -> str:
@@ -34,4 +35,5 @@ def fetch(url: str, arg: str = "") -> List[Posting]:
             f"BambooHR board {slug!r} is gone (redirects to {response.headers.get('location')})"
         )
     jobs = response.json().get("result", [])
-    return [Posting(f"bamboohr:{j['id']}", j["jobOpeningName"]) for j in jobs]
+    return [Posting(f"bamboohr:{j['id']}", j["jobOpeningName"], url=JOB_PAGE.format(slug=slug, id=j["id"]))
+            for j in jobs]

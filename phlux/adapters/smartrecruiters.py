@@ -21,13 +21,15 @@ Beware: the API ignores parameters it does not know (``customField.…``,
 ``typeOfEmployment``) rather than refusing them.
 
 The API returns at most 100 postings per request; pages follow ``offset``
-until ``totalFound``. A posting's ``id`` is the stable key.
+until ``totalFound``. A posting's ``id`` is the stable key. The list gives no
+page URL (only each posting's detail, one request apiece), so the link is
+built as the career page links its jobs: ``jobs.smartrecruiters.com/<company>/<id>``.
 """
 from __future__ import annotations
 
 import logging
 from typing import Dict, List, Tuple
-from urllib.parse import unquote, urlsplit
+from urllib.parse import quote, unquote, urlsplit
 
 from ..models import Posting
 from .base import adapter, get, paged, query
@@ -43,6 +45,7 @@ MAX_PAGES = 50
 DROPPED = {"limit", "offset"}
 # The career page's search box; the API calls it ``q``.
 SEARCH_PARAM = "search"
+JOB_PAGE = "https://jobs.smartrecruiters.com/{company}/{id}"
 
 
 def api_request(url: str) -> Tuple[str, List[Tuple[str, str]]]:
@@ -72,10 +75,17 @@ def api_request(url: str) -> Tuple[str, List[Tuple[str, str]]]:
     return API.format(company=company), params
 
 
+def posting_url(posting: dict, company: str) -> str:
+    """Return a posting's page, under its own company identifier if it names one."""
+    identifier = (posting.get("company") or {}).get("identifier") or company
+    return JOB_PAGE.format(company=quote(identifier), id=quote(str(posting["id"])))
+
+
 @adapter(NAME)
 def fetch(url: str, arg: str = "") -> List[Posting]:
     """Return the postings a SmartRecruiters board or API URL selects, across all pages."""
     api, params = api_request(url)
+    company = unquote(api.split("/")[-2])
     total: Dict[str, int] = {}
 
     def fetch_page(page: int) -> List[Posting]:
@@ -85,7 +95,7 @@ def fetch(url: str, arg: str = "") -> List[Posting]:
         body = get(api, params=params + [("limit", str(PAGE_SIZE)), ("offset", str(offset))]).json()
         total["found"] = int(body.get("totalFound") or 0)
         return [
-            Posting(f"{NAME}:{p['id']}", " ".join(p["name"].split()))
+            Posting(f"{NAME}:{p['id']}", " ".join(p["name"].split()), url=posting_url(p, company))
             for p in body.get("content") or []
         ]
 

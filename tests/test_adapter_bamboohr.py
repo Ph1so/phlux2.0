@@ -40,9 +40,9 @@ def test_reads_careers_list():
     ]}
     with patch("phlux.adapters.bamboohr.get", return_value=response(payload)) as get:
         postings = fetch("https://acme.bamboohr.com/careers")
-    assert [(p.id, p.title) for p in postings] == [
-        ("bamboohr:112", "Controls Engineer"),
-        ("bamboohr:7", "Software Intern"),
+    assert [(p.id, p.title, p.url) for p in postings] == [
+        ("bamboohr:112", "Controls Engineer", "https://acme.bamboohr.com/careers/112"),
+        ("bamboohr:7", "Software Intern", "https://acme.bamboohr.com/careers/7"),
     ]
     get.assert_called_once_with("https://acme.bamboohr.com/careers/list", allow_redirects=False)
 

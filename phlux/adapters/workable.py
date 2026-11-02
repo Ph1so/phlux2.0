@@ -5,7 +5,8 @@ with a ``nextPage`` token and takes the board's filters in its request body.
 The board URL's ``query`` (search text, which Workable matches against
 descriptions too), ``department`` (ids), ``worktype`` and ``workplace`` are
 passed on. Its ``location`` filter is not understood here, so a URL with one
-is refused rather than read as the whole board.
+is refused rather than read as the whole board. A job's page is
+``apply.workable.com/<slug>/j/<shortcode>/``.
 """
 from __future__ import annotations
 
@@ -15,6 +16,7 @@ from ..models import Posting
 from .base import adapter, first, path_slug, post, query
 
 API = "https://apply.workable.com/api/v3/accounts/{slug}/jobs"
+JOB_PAGE = "https://apply.workable.com/{slug}/j/{shortcode}/"
 MAX_PAGES = 50
 
 
@@ -36,12 +38,16 @@ def search_body(url: str) -> dict:
 @adapter("workable")
 def fetch(url: str, arg: str = "") -> List[Posting]:
     """Return the postings a Workable board URL shows, filtered by its query."""
-    api = API.format(slug=path_slug(url))
+    slug = path_slug(url)
+    api = API.format(slug=slug)
     body = search_body(url)
     postings: List[Posting] = []
     for _ in range(MAX_PAGES):
         data = post(api, json=body).json()
-        postings.extend(Posting(f"workable:{j['shortcode']}", j["title"]) for j in data.get("results", []))
+        postings.extend(
+            Posting(f"workable:{j['shortcode']}", j["title"], url=JOB_PAGE.format(slug=slug, shortcode=j["shortcode"]))
+            for j in data.get("results", [])
+        )
         if not data.get("nextPage") or not data.get("results"):
             break
         body = {**body, "token": data["nextPage"]}

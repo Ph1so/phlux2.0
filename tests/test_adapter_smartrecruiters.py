@@ -45,6 +45,19 @@ def test_other_urls_refused(url):
         api_request(url)
 
 
+def test_postings_link_to_their_career_page():
+    payload = {"totalFound": 2, "content": [
+        {"id": "744000158406669", "name": "System Engineer Intern", "company": {"identifier": "AcmeInc"}},
+        {"id": "744000158334809", "name": "Design Intern"},
+    ]}
+    with patch("phlux.adapters.smartrecruiters.get", return_value=response(payload)):
+        postings = fetch("https://careers.smartrecruiters.com/Acme?search=intern")
+    assert [p.url for p in postings] == [
+        "https://jobs.smartrecruiters.com/AcmeInc/744000158406669",
+        "https://jobs.smartrecruiters.com/Acme/744000158334809",
+    ]
+
+
 def test_pages_by_offset_until_total():
     pages = [
         {"totalFound": 101, "content": [{"id": str(n), "name": f"Intern  {n}"} for n in range(100)]},
