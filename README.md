@@ -8,7 +8,7 @@ Easily track jobs across top tech companies.
 ---
 
 ## 🔍 Phlux Job Listings
-*Showing the 697 most recent of 32,906 roles tracked across 271 companies. See [all listings](listings/README.md) for the full history.*
+*Showing the 695 most recent of 32,906 roles tracked across 271 companies. See [all listings](listings/README.md) for the full history.*
 
 
 <table>
@@ -214,7 +214,7 @@ Easily track jobs across top tech companies.
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tesla.com/careers/search/?type=intern&site=US"><img src="https://cdn.brandfetch.io/tesla.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tesla" height="20" style="vertical-align:middle; margin-right:6px;"> Tesla</a></div>
 </td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Internship, Megapack Business Development, Energy (Winter/Spring 2027)</div></td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.tesla.com/careers/search/job/internship-megapack-business-development-energy-winter-spring-2027-288126">⭐️ Internship, Megapack Business Development, Energy (Winter/Spring 2027)</a></div></td>
   <td>2026-10-30</td>
 </tr>
   <tr>
@@ -984,14 +984,14 @@ Easily track jobs across top tech companies.
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tesla.com/careers/search/?type=intern&site=US"><img src="https://cdn.brandfetch.io/tesla.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tesla" height="20" style="vertical-align:middle; margin-right:6px;"> Tesla</a></div>
 </td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Internship, Actuator Mechanical Design Engineer, Optimus (Summer 2027)</div></td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.tesla.com/careers/search/job/internship-actuator-mechanical-design-engineer-optimus-summer-2027-288232">⭐️ Internship, Actuator Mechanical Design Engineer, Optimus (Summer 2027)</a></div></td>
   <td>2026-10-29</td>
 </tr>
   <tr>
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tesla.com/careers/search/?type=intern&site=US"><img src="https://cdn.brandfetch.io/tesla.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tesla" height="20" style="vertical-align:middle; margin-right:6px;"> Tesla</a></div>
 </td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Internship, Optimus Mechanical Design Engineer, Electronic Devices (Winter/Spring 2027)</div></td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.tesla.com/careers/search/job/internship-optimus-mechanical-design-engineer-electronic-devices-winter-spring-2027-288413">⭐️ Internship, Optimus Mechanical Design Engineer, Electronic Devices (Winter/Spring 2027)</a></div></td>
   <td>2026-10-29</td>
 </tr>
   <tr>
@@ -1726,7 +1726,7 @@ Easily track jobs across top tech companies.
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tesla.com/careers/search/?type=intern&site=US"><img src="https://cdn.brandfetch.io/tesla.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tesla" height="20" style="vertical-align:middle; margin-right:6px;"> Tesla</a></div>
 </td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Internship, Data Engineer, Energy (Winter/Spring 2027)</div></td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.tesla.com/careers/search/job/internship-data-engineer-energy-winter-spring-2027-287982">⭐️ Internship, Data Engineer, Energy (Winter/Spring 2027)</a></div></td>
   <td>2026-10-28</td>
 </tr>
   <tr>
@@ -2482,7 +2482,7 @@ Easily track jobs across top tech companies.
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tesla.com/careers/search/?type=intern&site=US"><img src="https://cdn.brandfetch.io/tesla.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tesla" height="20" style="vertical-align:middle; margin-right:6px;"> Tesla</a></div>
 </td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Engineering Technician Program Trainee</div></td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.tesla.com/careers/search/job/engineering-technician-program-trainee-287928">Engineering Technician Program Trainee</a></div></td>
   <td>2026-10-27</td>
 </tr>
   <tr>
@@ -4884,20 +4884,6 @@ Easily track jobs across top tech companies.
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5418610008">Data Engineer, GTM</a></div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5448481008">Data Engineer, Product</a></div></td>
-  <td>2026-10-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5238460008">Data Operations Manager, Human Data</a></div></td>
   <td>2026-10-27</td>
 </tr>
 
