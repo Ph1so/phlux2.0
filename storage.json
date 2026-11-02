@@ -735,13 +735,15 @@
         "title": "\u2b50\ufe0f Research Intern - Data Systems",
         "date": "2026-10-13",
         "id": "eightfold:1970393557008574",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557008574"
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557008574",
+        "closed": "2026-11-02"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Quantum Algorithms",
         "date": "2026-10-13",
         "id": "eightfold:1970393557021663",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557021663"
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557021663",
+        "closed": "2026-11-02"
       },
       {
         "title": "\u2b50\ufe0f Product Management Intern - CTJ - TS",
@@ -824,7 +826,8 @@
         "title": "\u2b50\ufe0f Research Intern - Gray Systems Lab (GSL)",
         "date": "2026-10-16",
         "id": "eightfold:1970393557041730",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557045445"
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557045445",
+        "closed": "2026-11-02"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Machine Learning at MSR NYC",
@@ -1893,7 +1896,8 @@
         "title": "\u2b50\ufe0f Research Scientist Intern, Audio Quality with AI",
         "date": "2026-10-20",
         "id": "meta:4556622427930384",
-        "url": "https://www.metacareers.com/profile/job_details/4556622427930384/"
+        "url": "https://www.metacareers.com/profile/job_details/4556622427930384/",
+        "closed": "2026-11-02"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Self-Improving Agentic Systems and AI Research Agents",
@@ -2428,6 +2432,12 @@
         "date": "2026-11-02",
         "id": "meta:1126525590244595",
         "url": "https://www.metacareers.com/profile/job_details/1126525590244595/"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, FAIR - World Model Foundations (PhD) | Stagiaire chercheur\u00b7se scientifique, FAIR - World Model Foundations (Doctorat)",
+        "date": "2026-11-02",
+        "id": "meta:1406585275871250",
+        "url": "https://www.metacareers.com/profile/job_details/1406585275871250/"
       }
     ],
     "Apple": [
@@ -3091,7 +3101,8 @@
         "date": "2026-10-13",
         "id": "greenhouse:8488701002",
         "url": "https://www.optiver.com/join-us/jobs/8488701002/?gh_jid=8488701002",
-        "location": "Amsterdam, North Holland, Netherlands"
+        "location": "Amsterdam, North Holland, Netherlands",
+        "closed": "2026-11-02"
       },
       {
         "title": "\u2b50\ufe0f Quantitative Research Internship, Bachelor or Master (Summer 2027 - Shanghai)",
@@ -28445,7 +28456,8 @@
         "date": "N/A",
         "id": "ashby:544f2ba2-35f0-4c1c-a559-6d5abc248db3",
         "url": "https://jobs.ashbyhq.com/wayve/544f2ba2-35f0-4c1c-a559-6d5abc248db3",
-        "location": "Sunnyvale, California USA"
+        "location": "Sunnyvale, California USA",
+        "closed": "2026-11-02"
       },
       {
         "title": "Radar Lead",
@@ -38777,6 +38789,13 @@
         "id": "greenhouse:8921962002",
         "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8921962002",
         "location": "Ann Arbor, MI; Remote - US"
+      },
+      {
+        "title": "Principal Systems Engineer - Compute Platform Integration",
+        "date": "2026-11-02",
+        "id": "greenhouse:8921960002",
+        "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8921960002",
+        "location": "Ann Arbor, MI"
       }
     ],
     "Saronic": [
@@ -39542,7 +39561,8 @@
         "date": "2026-10-14",
         "id": "ashby:17f5f5cb-8e13-443d-afb4-e2ddb6155248",
         "url": "https://jobs.ashbyhq.com/saronic/17f5f5cb-8e13-443d-afb4-e2ddb6155248",
-        "location": "Austin, TX"
+        "location": "Austin, TX",
+        "closed": "2026-11-02"
       },
       {
         "title": "Metrology Engineer \u2013 Accuracy Control",
@@ -42987,7 +43007,8 @@
         "title": "VP, U.S. Business Development",
         "date": "2026-10-14",
         "id": "paylocity:4052981",
-        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4052981"
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4052981",
+        "closed": "2026-11-02"
       },
       {
         "title": "Engineering Program Manager",
@@ -44843,6 +44864,20 @@
         "id": "workday:R8234",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Customer-Success_R8234",
         "location": "USA Wilmington, MA - HQ"
+      },
+      {
+        "title": "New Grad- Manufacturing Engineer",
+        "date": "2026-11-02",
+        "id": "workday:R8402",
+        "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington-MA---ITC/New-Grad--Manufacturing-Engineer_R8402",
+        "location": "USA Wilmington, MA - ITC"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern- Manufacturing Engineer",
+        "date": "2026-11-02",
+        "id": "workday:R8400",
+        "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington-MA---ITC/Intern--Manufacturing-Engineer_R8400",
+        "location": "USA Wilmington, MA - ITC"
       }
     ],
     "PROCEPT BioRobotics": [
@@ -62569,7 +62604,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5018472008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5018472008",
-        "location": "San Francisco, CA"
+        "location": "San Francisco, CA",
+        "closed": "2026-11-02"
       },
       {
         "title": "Research & Education Sales Lead, Beneficial Deployments",
@@ -63655,7 +63691,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5250091008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5250091008",
-        "location": "San Francisco, CA | New York City, NY | Seattle, WA"
+        "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+        "closed": "2026-11-02"
       },
       {
         "title": "Staff Software Engineer, Growth",
@@ -67902,7 +67939,8 @@
         "date": "2026-10-27",
         "id": "workday:JR101218-1",
         "url": "https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Warsaw-Indiana/Manufacturing-Quality-Engineer--GA_JR101218-1",
-        "location": "Warsaw, Indiana"
+        "location": "Warsaw, Indiana",
+        "closed": "2026-11-02"
       },
       {
         "title": "Buyer 1 - Wiring & Electrical Components",
