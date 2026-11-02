@@ -63,6 +63,7 @@ def test_reads_every_page_from_total():
     with patch("phlux.adapters.google.get", side_effect=get) as mock:
         postings = fetch("https://www.google.com/about/careers/applications/jobs/results?company=DeepMind&page=2")
     assert [p.id for p in postings] == [f"google:{i}" for i in range(45)]
+    assert postings[0].url == "https://www.google.com/about/careers/applications/jobs/results/0"
     assert mock.call_count == 3
 
 

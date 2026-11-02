@@ -6,7 +6,7 @@ from urllib.parse import parse_qsl, urlsplit
 import pytest
 
 from phlux.adapters import ADAPTERS
-from phlux.adapters.apple import fetch, parse
+from phlux.adapters.apple import fetch, job_url, parse
 
 URL = "https://jobs.apple.com/en-us/search?location=united-states-USA&team=internships-STDNT-INTRN"
 
@@ -46,6 +46,15 @@ def test_parse():
     assert total == 2
 
 
+@pytest.mark.parametrize("url, expected", [
+    (URL, "https://jobs.apple.com/en-us/details/200-0157"),
+    ("https://jobs.apple.com/en-gb/search?team=internships-STDNT-INTRN", "https://jobs.apple.com/en-gb/details/200-0157"),
+    ("https://jobs.apple.com/search", "https://jobs.apple.com/en-us/details/200-0157"),
+])
+def test_job_url_in_the_searchs_language(url, expected):
+    assert job_url(url, "200-0157") == expected
+
+
 def test_parse_without_data():
     with pytest.raises(ValueError):
         parse("<html></html>")
@@ -57,6 +66,7 @@ def test_reads_every_page():
     with patch("phlux.adapters.apple.get", side_effect=lambda url, **kw: response(pages[page_of(url)])) as get:
         postings = fetch(URL + "&page=3")
     assert len(postings) == 25
+    assert postings[0].url == "https://jobs.apple.com/en-us/details/0-1"
     assert [page_of(c.args[0]) for c in get.call_args_list] == [1, 2]
     assert "team=internships-STDNT-INTRN" in get.call_args_list[0].args[0]
 

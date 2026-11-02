@@ -18,6 +18,9 @@ a company's scope. A search that finds more than :data:`MAX_HITS` jobs is
 refused instead.
 
 Postings are keyed by Amazon's iCIMS job id, the number in ``/jobs/<id>/...``.
+A job's page is search.json's ``job_path`` (``/en/jobs/<id>/<title slug>``);
+team page hits name no page, so theirs is ``/<locale>/jobs/<id>``, which
+amazon.jobs redirects to the full path.
 """
 from __future__ import annotations
 
@@ -108,7 +111,8 @@ def _lookup(table: Dict, key: str, value: str):
 
 def _search_page(url: str) -> List[Posting]:
     parts = urlsplit(url)
-    endpoint = f"{parts.scheme}://{parts.netloc}{parts.path.rstrip('/')}.json"
+    origin = f"{parts.scheme}://{parts.netloc}"
+    endpoint = f"{origin}{parts.path.rstrip('/')}.json"
     params = search_json_params(url)
     postings: List[Posting] = []
     offset = 0
@@ -118,7 +122,11 @@ def _search_page(url: str) -> List[Posting]:
             raise RuntimeError(f"amazon.jobs search failed: {page['error']}")
         hits = page.get("hits") or 0
         _check_hits(hits, url)
-        postings += [Posting(f"amazon:{j['id_icims']}", _title(j["title"])) for j in page.get("jobs") or []]
+        postings += [
+            Posting(f"amazon:{j['id_icims']}", _title(j["title"]),
+                    url=urljoin(origin, j["job_path"]) if j.get("job_path") else _job_url(url, j["id_icims"]))
+            for j in page.get("jobs") or []
+        ]
         offset += PAGE_SIZE
         if offset >= hits or not page.get("jobs"):
             return postings
@@ -269,7 +277,8 @@ def _team_page(url: str) -> List[Posting]:
         pages = math.ceil(found / PAGE_SIZE)
         for hit in result.get("searchHits") or []:
             fields = hit["fields"]
-            postings.append(Posting(f"amazon:{fields['icimsJobId'][0]}", _title(fields["title"][0])))
+            job_id = fields["icimsJobId"][0]
+            postings.append(Posting(f"amazon:{job_id}", _title(fields["title"][0]), url=_job_url(page.url, job_id)))
     return postings
 
 
@@ -285,6 +294,17 @@ def _check_hits(hits: int, url: str) -> None:
 
 def _title(title: str) -> str:
     return " ".join(title.split())
+
+
+def _job_url(page_url: str, job_id) -> str:
+    """Return job *job_id*'s page on the site and in the language of *page_url*."""
+    parts = urlsplit(page_url)
+    segments = [s for s in parts.path.split("/") if s]
+    # /<locale>/search, or /content/<locale>/teams/...
+    if segments and segments[0] == "content":
+        segments = segments[1:]
+    locale = segments[0] if segments else "en"
+    return f"{parts.scheme}://{parts.netloc}/{locale}/jobs/{job_id}"
 
 
 @adapter("amazon")

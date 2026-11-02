@@ -21,7 +21,8 @@ def response(payload=None, text="", url=""):
 
 
 def job(icims, title):
-    return {"id": f"uuid-{icims}", "id_icims": str(icims), "title": title}
+    return {"id": f"uuid-{icims}", "id_icims": str(icims), "title": title,
+            "job_path": f"/en/jobs/{icims}/intern-{icims}"}
 
 
 def team_page(search_filters, key="KEY123"):
@@ -67,11 +68,18 @@ class TestSearchPage:
             postings = fetch(SEARCH)
         assert len(postings) == 150
         assert postings[0].id == "amazon:0" and postings[0].title == "Intern 0"
+        assert postings[0].url == "https://www.amazon.jobs/en/jobs/0/intern-0"
         assert get.call_args_list[0].args == ("https://www.amazon.jobs/en/search.json",)
         first = get.call_args_list[0].kwargs["params"]
         assert ("normalized_country_code[]", "USA") in first and ("base_query", "intern") in first
         assert ("offset", 0) in first and ("result_limit", 100) in first
         assert ("offset", 100) in get.call_args_list[1].kwargs["params"]
+
+    def test_a_job_without_a_path_links_by_id(self):
+        page = {"error": None, "hits": 1, "jobs": [{"id_icims": "7", "title": "Intern"}]}
+        with patch("phlux.adapters.amazon.get", return_value=response(page)):
+            postings = fetch("https://www.amazon.jobs/es/search?base_query=intern")
+        assert postings[0].url == "https://www.amazon.jobs/es/jobs/7"
 
     def test_no_hits(self):
         with patch("phlux.adapters.amazon.get", return_value=response({"error": None, "hits": 0, "jobs": []})):
@@ -113,6 +121,8 @@ class TestTeamPage:
                 patch("phlux.adapters.amazon.post", return_value=response(result)) as post:
             postings = fetch(TEAM)
         assert [(p.id, p.title) for p in postings] == [("amazon:11", "Robotics Intern"), ("amazon:12", "Co-op")]
+        # Hits name no page; the job's id under the team page's site and locale is one.
+        assert [p.url for p in postings] == ["https://www.amazon.jobs/en/jobs/11", "https://www.amazon.jobs/en/jobs/12"]
         assert post.call_args.args == ("https://www.amazon.jobs/api/jobs/search?is_als=true",)
         assert post.call_args.kwargs["headers"]["X-Api-Key"] == "KEY123"
 

@@ -6,7 +6,9 @@ page's jobs as JSON, ``[[job, ...], null, total, page_size]``, where each job
 starts ``[id, title, ...]``. Every filter in the link (``category``, ``location``,
 ``employment_type``, ``company``...) is the page's own, so the link is fetched
 as is, adding ``page=N`` for each page of 20. A ``page`` already in the link is
-ignored: every page is read.
+ignored: every page is read. A job's page is ``…/jobs/results/<id>`` (the
+results page links ``<id>-<title slug>``, but the id alone serves the same
+page and survives a retitling).
 """
 from __future__ import annotations
 
@@ -22,6 +24,7 @@ from .base import adapter, get, unique
 DATA = re.compile(r"AF_initDataCallback\(\{key: 'ds:1', hash: '\d+', data:")
 # 50 pages of 20 is a thousand jobs; a scope that wide is not a filtered one.
 MAX_PAGES = 50
+JOB_PAGE = "https://www.google.com/about/careers/applications/jobs/results/{id}"
 
 
 def page_url(url: str, page: int) -> str:
@@ -43,7 +46,8 @@ def parse(html: str) -> Tuple[List[Posting], int, int]:
         raise ValueError("No job data (ds:1) on the Google Careers page")
     data, _ = json.JSONDecoder().raw_decode(html, match.end())
     jobs, total, size = data[0] or [], data[-2] or 0, data[-1] or 20
-    postings = [Posting(f"google:{job[0]}", " ".join(job[1].split())) for job in jobs]
+    postings = [Posting(f"google:{job[0]}", " ".join(job[1].split()), url=JOB_PAGE.format(id=job[0]))
+                for job in jobs]
     return postings, total, size
 
 
