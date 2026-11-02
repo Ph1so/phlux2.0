@@ -1,0 +1,1710 @@
+<title>Robotics Intern Radar</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans+Condensed:wght@600&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+:root {
+  color-scheme: light;
+  --plane: #f9f9f7;
+  --surface: #fcfcfb;
+  --sunk: #f2f1ed;
+  --ink: #0b0b0b;
+  --ink-2: #52514e;
+  --muted: #898781;
+  --grid: #e1e0d9;
+  --axis: #c3c2b7;
+  --border: rgba(11, 11, 11, 0.10);
+  --s1: #2a78d6;
+  --s2: #eb6834;
+  --s3: #1baf7a;
+  --track: #e6e5e0;
+  --good: #0ca30c;
+  --warning: #fab219;
+  --critical: #d03b3b;
+  --focus: #2a78d6;
+  --shadow: 0 1px 2px rgba(11, 11, 11, 0.06), 0 8px 24px rgba(11, 11, 11, 0.06);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --plane: #0d0d0d;
+    --surface: #1a1a19;
+    --sunk: #141413;
+    --ink: #ffffff;
+    --ink-2: #c3c2b7;
+    --muted: #898781;
+    --grid: #2c2c2a;
+    --axis: #383835;
+    --border: rgba(255, 255, 255, 0.10);
+    --s1: #3987e5;
+    --s2: #d95926;
+    --s3: #199e70;
+    --track: #2c2c2a;
+    --focus: #3987e5;
+    --shadow: 0 1px 2px rgba(0, 0, 0, 0.5), 0 8px 24px rgba(0, 0, 0, 0.45);
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --plane: #0d0d0d;
+  --surface: #1a1a19;
+  --sunk: #141413;
+  --ink: #ffffff;
+  --ink-2: #c3c2b7;
+  --muted: #898781;
+  --grid: #2c2c2a;
+  --axis: #383835;
+  --border: rgba(255, 255, 255, 0.10);
+  --s1: #3987e5;
+  --s2: #d95926;
+  --s3: #199e70;
+  --track: #2c2c2a;
+  --focus: #3987e5;
+  --shadow: 0 1px 2px rgba(0, 0, 0, 0.5), 0 8px 24px rgba(0, 0, 0, 0.45);
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--plane);
+  color: var(--ink);
+  font-family: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+.wrap {
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: 28px 24px 72px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+/* ── Masthead ──────────────────────────────────────────────────────────── */
+
+.masthead {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 8px 16px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--grid);
+}
+.masthead h1 {
+  font-family: "IBM Plex Sans Condensed", "IBM Plex Sans", sans-serif;
+  font-weight: 600;
+  font-size: 30px;
+  letter-spacing: -0.01em;
+  margin: 0;
+  text-wrap: balance;
+}
+.masthead .lede {
+  color: var(--ink-2);
+  max-width: 58ch;
+  margin: 0;
+}
+.masthead .stamp {
+  margin-left: auto;
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 11px;
+  color: var(--muted);
+  text-align: right;
+  white-space: nowrap;
+}
+
+/* ── Filters ───────────────────────────────────────────────────────────── */
+
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 12px 18px;
+  padding: 14px 16px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+.field { display: flex; flex-direction: column; gap: 5px; }
+.field > label {
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+select, input[type="search"] {
+  font: inherit;
+  font-size: 13px;
+  color: var(--ink);
+  background: var(--plane);
+  border: 1px solid var(--axis);
+  border-radius: 5px;
+  padding: 6px 9px;
+  min-width: 150px;
+}
+input[type="search"] { min-width: 190px; }
+select:focus-visible, input:focus-visible, button:focus-visible, [tabindex]:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: 2px;
+}
+.filters .reset { margin-left: auto; }
+button {
+  font: inherit;
+  font-size: 13px;
+  color: var(--ink-2);
+  background: var(--plane);
+  border: 1px solid var(--axis);
+  border-radius: 5px;
+  padding: 6px 11px;
+  cursor: pointer;
+}
+button:hover { background: var(--sunk); color: var(--ink); }
+
+/* ── Stat tiles ────────────────────────────────────────────────────────── */
+
+.kpis {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  gap: 1px;
+  background: var(--border);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  overflow: hidden;
+}
+.kpi {
+  background: var(--surface);
+  padding: 14px 16px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+.kpi .k-label {
+  font-size: 11px;
+  font-weight: 500;
+  color: var(--muted);
+  letter-spacing: 0.02em;
+}
+.kpi .k-value {
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+}
+.kpi .k-note { font-size: 12px; color: var(--ink-2); }
+
+/* ── Panels ────────────────────────────────────────────────────────────── */
+
+.panel {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 18px 20px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  min-width: 0;
+}
+.panel-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 14px; }
+.panel-head h2 {
+  font-size: 15px;
+  font-weight: 600;
+  margin: 0;
+  letter-spacing: -0.005em;
+}
+.panel-head p { margin: 0; font-size: 12.5px; color: var(--ink-2); max-width: 66ch; }
+.panel-head .tools { margin-left: auto; display: flex; gap: 6px; align-items: center; }
+.footnote { font-size: 11.5px; color: var(--muted); margin: 0; max-width: 78ch; }
+
+.seg-toggle { display: flex; flex-wrap: wrap; gap: 4px; }
+.seg-toggle button {
+  font-size: 12px;
+  padding: 4px 10px;
+  border-radius: 999px;
+  background: transparent;
+  border: 1px solid transparent;
+  color: var(--ink-2);
+}
+.seg-toggle button:hover { background: var(--sunk); }
+.seg-toggle button[aria-pressed="true"] {
+  background: var(--sunk);
+  border-color: var(--axis);
+  color: var(--ink);
+  font-weight: 500;
+}
+
+.two-col {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+  gap: 20px;
+}
+
+/* ── Ranked bars (leaderboard, role mix) ───────────────────────────────── */
+
+.ranks { display: flex; flex-direction: column; gap: 9px; }
+.rank-row {
+  display: grid;
+  grid-template-columns: minmax(120px, 190px) 1fr auto;
+  align-items: center;
+  gap: 12px;
+  border: 0;
+  background: none;
+  padding: 2px 4px;
+  border-radius: 5px;
+  text-align: left;
+  width: 100%;
+  cursor: pointer;
+  color: inherit;
+}
+.rank-row:hover { background: var(--sunk); }
+.rank-name { min-width: 0; display: flex; flex-direction: column; gap: 1px; }
+.rank-name b {
+  font-weight: 500;
+  font-size: 13px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.rank-name span { font-size: 10.5px; color: var(--muted); }
+.rank-track { height: 10px; background: var(--track); border-radius: 0 5px 5px 0; position: relative; }
+.rank-fill {
+  height: 100%;
+  background: var(--s1);
+  border-radius: 0 4px 4px 0;
+  min-width: 2px;
+}
+.rank-value {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-variant-numeric: tabular-nums;
+  font-size: 13px;
+  font-weight: 500;
+  min-width: 40px;
+  text-align: right;
+}
+
+/* ── SVG chart chrome ──────────────────────────────────────────────────── */
+
+.chart { position: relative; width: 100%; }
+.chart svg { display: block; width: 100%; overflow: visible; }
+.ax-label { font-size: 10.5px; fill: var(--muted); font-family: "IBM Plex Mono", ui-monospace, monospace; }
+.row-label { font-size: 12px; fill: var(--ink-2); }
+.row-count { font-size: 10.5px; fill: var(--muted); font-family: "IBM Plex Mono", ui-monospace, monospace; }
+.gridline { stroke: var(--grid); stroke-width: 1; }
+.baseline { stroke: var(--axis); stroke-width: 1; }
+
+.legend { display: flex; flex-wrap: wrap; gap: 6px 16px; align-items: center; }
+.legend-item { display: flex; align-items: center; gap: 6px; font-size: 12px; color: var(--ink-2); }
+.legend-key { width: 14px; height: 2px; border-radius: 1px; }
+.legend-key.rect { height: 10px; width: 10px; border-radius: 2px; }
+
+.tip {
+  position: absolute;
+  pointer-events: none;
+  z-index: 20;
+  background: var(--surface);
+  border: 1px solid var(--axis);
+  border-radius: 6px;
+  box-shadow: var(--shadow);
+  padding: 8px 10px;
+  font-size: 12px;
+  min-width: 130px;
+  opacity: 0;
+  transition: opacity 90ms linear;
+}
+.tip[data-show="true"] { opacity: 1; }
+.tip .t-head { font-weight: 600; margin-bottom: 4px; font-size: 12.5px; }
+.tip .t-sub { color: var(--muted); font-size: 11px; margin-bottom: 5px; }
+.tip .t-row { display: flex; align-items: center; gap: 7px; margin-top: 2px; }
+.tip .t-key { width: 12px; height: 2px; border-radius: 1px; flex: none; }
+.tip .t-val {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-variant-numeric: tabular-nums;
+  font-weight: 600;
+  margin-left: auto;
+}
+.tip .t-name { color: var(--ink-2); }
+
+/* ── Tables ────────────────────────────────────────────────────────────── */
+
+.table-scroll { overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; font-size: 13px; }
+th, td { text-align: left; padding: 7px 10px; border-bottom: 1px solid var(--grid); white-space: nowrap; }
+th {
+  font-size: 10px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--muted);
+  border-bottom-color: var(--axis);
+  position: sticky;
+  top: 0;
+  background: var(--surface);
+}
+th.sortable { cursor: pointer; user-select: none; }
+th.sortable:hover { color: var(--ink); }
+th[aria-sort] { color: var(--ink); }
+td.num, th.num {
+  text-align: right;
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-variant-numeric: tabular-nums;
+}
+tbody tr:hover { background: var(--sunk); }
+tbody tr.clickable { cursor: pointer; }
+.co-cell { display: flex; align-items: center; gap: 8px; }
+
+.chip {
+  display: inline-block;
+  font-size: 10.5px;
+  padding: 1px 7px;
+  border-radius: 999px;
+  border: 1px solid var(--axis);
+  color: var(--ink-2);
+  white-space: nowrap;
+}
+.chip.core { border-color: var(--s1); color: var(--s1); }
+.chip.adjacent { border-color: var(--axis); }
+
+.flag {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 11px;
+  color: var(--ink-2);
+}
+.flag::before {
+  content: "";
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--good);
+  flex: none;
+}
+.flag.warning::before { background: var(--warning); }
+.flag.critical::before { background: var(--critical); }
+
+.empty { color: var(--muted); font-size: 13px; padding: 18px 2px; }
+
+/* ── Drawer ────────────────────────────────────────────────────────────── */
+
+.scrim {
+  position: fixed;
+  inset: 0;
+  background: rgba(11, 11, 11, 0.32);
+  z-index: 40;
+}
+.drawer {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: min(460px, 100vw);
+  background: var(--surface);
+  border-left: 1px solid var(--border);
+  box-shadow: var(--shadow);
+  z-index: 41;
+  display: flex;
+  flex-direction: column;
+}
+.drawer-head {
+  padding: 18px 20px 14px;
+  border-bottom: 1px solid var(--grid);
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+}
+.drawer-head h2 { margin: 0 0 3px; font-size: 18px; font-weight: 600; }
+.drawer-head .sub { font-size: 12px; color: var(--ink-2); }
+.drawer-body { overflow-y: auto; padding: 16px 20px 28px; display: flex; flex-direction: column; gap: 18px; }
+.drawer-body h3 {
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 0 0 8px;
+}
+.mini-stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px; background: var(--border); border: 1px solid var(--border); border-radius: 6px; overflow: hidden; }
+.mini-stats div { background: var(--surface); padding: 9px 11px; }
+.mini-stats .m-val { font-size: 19px; font-weight: 600; font-variant-numeric: tabular-nums; }
+.mini-stats .m-lab { font-size: 10.5px; color: var(--muted); }
+.title-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0; }
+.title-list li {
+  display: flex;
+  gap: 10px;
+  align-items: baseline;
+  padding: 6px 0;
+  border-bottom: 1px solid var(--grid);
+  font-size: 12.5px;
+}
+.title-list time {
+  font-family: "IBM Plex Mono", ui-monospace, monospace;
+  font-size: 11px;
+  color: var(--muted);
+  flex: none;
+  width: 52px;
+}
+.title-list span { min-width: 0; }
+
+.sr-only {
+  position: absolute;
+  width: 1px; height: 1px;
+  padding: 0; margin: -1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; }
+}
+</style>
+
+<div class="wrap">
+  <header class="masthead">
+    <div style="display:flex; flex-direction:column; gap:6px;">
+      <h1>Robotics Intern Radar</h1>
+      <p class="lede">Every posting phlux has watched appear on a robotics or robotics-adjacent careers page — who opens first, who hires most, and which scrapers you can trust.</p>
+    </div>
+    <div class="stamp" id="stamp"></div>
+  </header>
+
+  <section class="filters" aria-label="Filters">
+    <div class="field">
+      <label for="f-tier">Robotics tier</label>
+      <select id="f-tier">
+        <option value="robotics">Robotics — core + adjacent</option>
+        <option value="core">Core only — builds robots</option>
+        <option value="adjacent">Adjacent only — enables robots</option>
+        <option value="all">Everything tracked</option>
+        <option value="none">Non-robotics (for contrast)</option>
+      </select>
+    </div>
+    <div class="field">
+      <label for="f-segment">Segment</label>
+      <select id="f-segment"><option value="all">All segments</option></select>
+    </div>
+    <div class="field">
+      <label for="f-level">Level</label>
+      <select id="f-level">
+        <option value="all">Interns + new grad</option>
+        <option value="intern">Internships</option>
+        <option value="new_grad">New grad</option>
+        <option value="any">Every posting</option>
+      </select>
+    </div>
+    <div class="field">
+      <label for="f-epoch">Window</label>
+      <select id="f-epoch">
+        <option value="all">All time</option>
+      </select>
+    </div>
+    <div class="field">
+      <label for="f-q">Search titles</label>
+      <input type="search" id="f-q" placeholder="manipulation, perception, SLAM…" autocomplete="off">
+    </div>
+    <button class="reset" id="f-reset" type="button">Reset</button>
+  </section>
+
+  <section class="kpis" id="kpis" aria-label="Summary"></section>
+
+  <section class="panel">
+    <div class="panel-head">
+      <div>
+        <h2>Who hires most</h2>
+        <p id="lb-sub"></p>
+      </div>
+      <div class="tools">
+        <div class="seg-toggle" id="lb-metric" role="group" aria-label="Ranking metric"></div>
+      </div>
+    </div>
+    <div class="ranks" id="leaderboard"></div>
+    <p class="footnote" id="lb-foot"></p>
+  </section>
+
+  <section class="panel">
+    <div class="panel-head">
+      <div>
+        <h2>The opening race</h2>
+        <p>The day each company's first internship of the season was spotted. One dot per company; the vertical rule is the segment's median.</p>
+      </div>
+      <div class="tools">
+        <button type="button" id="race-view" aria-pressed="false">Table</button>
+      </div>
+    </div>
+    <div class="chart" id="race-chart"></div>
+    <div id="race-table" hidden class="table-scroll"></div>
+    <p class="footnote">Backlog days are excluded: when phlux starts watching a company it records that whole careers page at once, which dates the scraper rather than the job. A company appears here only once it has posted something after that.</p>
+  </section>
+
+  <section class="panel">
+    <div class="panel-head">
+      <div>
+        <h2>Postings per month</h2>
+        <p>New postings first seen each month, split by how close the company is to robotics.</p>
+      </div>
+      <div class="tools">
+        <button type="button" id="vol-view" aria-pressed="false">Table</button>
+      </div>
+    </div>
+    <div class="legend" id="vol-legend"></div>
+    <div class="chart" id="vol-chart"></div>
+    <div id="vol-table" hidden class="table-scroll"></div>
+    <p class="footnote">January 2026 runs low by construction: the archive handoff re-seeded every company that month, and backlog rows carry no discoverable open date, so they are excluded.</p>
+  </section>
+
+  <div class="two-col">
+    <section class="panel">
+      <div class="panel-head">
+        <div><h2>Segments by volume</h2><p>Postings in the current slice.</p></div>
+      </div>
+      <div class="ranks" id="segments"></div>
+    </section>
+    <section class="panel">
+      <div class="panel-head">
+        <div><h2>What they hire for</h2><p>Role type, read from the job title.</p></div>
+      </div>
+      <div class="ranks" id="roles"></div>
+    </section>
+  </div>
+
+  <section class="panel">
+    <div class="panel-head">
+      <div>
+        <h2>Company board</h2>
+        <p>Every company in the slice. Click a row for its postings. Sort by any column.</p>
+      </div>
+    </div>
+    <div class="table-scroll" style="max-height: 560px; overflow-y: auto;">
+      <table id="board">
+        <thead><tr id="board-head"></tr></thead>
+        <tbody id="board-body"></tbody>
+      </table>
+    </div>
+    <p class="footnote" id="board-foot"></p>
+  </section>
+
+  <footer class="footnote" id="provenance"></footer>
+</div>
+
+<div id="drawer-root"></div>
+
+<script id="data" type="application/json">__DATA__</script>
+<script>
+(function () {
+  "use strict";
+
+  const RAW = JSON.parse(document.getElementById("data").textContent);
+  const CO = RAW.lookups.companies;
+  const DOMAINS = RAW.lookups.domains;
+  const LEVELS = RAW.lookups.levels;
+  const SOURCES = RAW.lookups.sources;
+  const P = RAW.postings;
+  const N = P.day.length;
+  const ORIGIN = new Date(RAW.origin + "T00:00:00");
+  const DAY_MS = 86400000;
+
+  const LVL_INTERN = LEVELS.indexOf("intern");
+  const LVL_NEWGRAD = LEVELS.indexOf("new_grad");
+
+  const SEGMENT_LABEL = {
+    autonomous_vehicles: "Autonomous vehicles",
+    humanoids: "Humanoids",
+    warehouse_logistics: "Warehouse & logistics",
+    industrial_field: "Industrial & field",
+    defense_autonomy: "Defense autonomy",
+    medical_robotics: "Medical robotics",
+    consumer_service: "Consumer & service",
+    research_labs: "Research labs",
+    robotics_software: "Robotics software",
+    sensors_silicon: "Sensors & silicon",
+    industrial_automation: "Industrial automation",
+    ev_automotive: "EV & automotive",
+    space_hardware: "Space hardware",
+  };
+  const DOMAIN_LABEL = {
+    ml_ai: "ML & AI",
+    hardware: "Hardware",
+    software: "Software",
+    engineering_general: "Engineering (general)",
+    other_engineering: "Other engineering",
+    research: "Research",
+    business: "Business",
+    data: "Data",
+    quant_finance: "Quant & finance",
+    product: "Product",
+    design: "Design",
+    security: "Security",
+    other: "Other",
+  };
+  const SECTOR_LABEL = {
+    robotics: "Robotics",
+    big_tech: "Big tech",
+    semiconductors: "Semiconductors",
+    quant_finance: "Quant & finance",
+    fintech: "Fintech",
+    enterprise_software: "Enterprise software",
+    consumer_internet: "Consumer internet",
+    gaming: "Gaming",
+    defense_services: "Defense services",
+    biotech: "Biotech",
+    consulting: "Consulting",
+    other: "Other",
+  };
+
+  const segLabel = (s) => SEGMENT_LABEL[s] || (s ? s : "Not robotics");
+  const domLabel = (d) => DOMAIN_LABEL[d] || d;
+  const fmt = (n) => n.toLocaleString("en-US");
+
+  const dayToDate = (d) => new Date(ORIGIN.getTime() + d * DAY_MS);
+  const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+  function shortDate(d) {
+    const dt = dayToDate(d);
+    return MONTHS[dt.getMonth()] + " " + dt.getDate();
+  }
+  function fullDate(d) {
+    const dt = dayToDate(d);
+    return MONTHS[dt.getMonth()] + " " + dt.getDate() + ", " + dt.getFullYear();
+  }
+  function monthKey(d) {
+    const dt = dayToDate(d);
+    return dt.getFullYear() * 12 + dt.getMonth();
+  }
+  function monthLabel(key, withYear) {
+    const m = ((key % 12) + 12) % 12;
+    const y = Math.floor(key / 12);
+    return MONTHS[m] + (withYear ? " ’" + String(y).slice(2) : "");
+  }
+
+  // Precomputed per-row month bucket; every view groups by it.
+  const ROW_MONTH = new Int32Array(N);
+  for (let i = 0; i < N; i++) ROW_MONTH[i] = monthKey(P.day[i]);
+  let MONTH_MIN = Infinity, MONTH_MAX = -Infinity, DAY_MIN = Infinity, DAY_MAX = -Infinity;
+  for (let i = 0; i < N; i++) {
+    if (ROW_MONTH[i] < MONTH_MIN) MONTH_MIN = ROW_MONTH[i];
+    if (ROW_MONTH[i] > MONTH_MAX) MONTH_MAX = ROW_MONTH[i];
+    if (P.day[i] < DAY_MIN) DAY_MIN = P.day[i];
+    if (P.day[i] > DAY_MAX) DAY_MAX = P.day[i];
+  }
+  const ALL_MONTHS = [];
+  for (let m = MONTH_MIN; m <= MONTH_MAX; m++) ALL_MONTHS.push(m);
+
+  // Days on which a company's whole backlog landed because the scraper had just
+  // started watching it. Those postings are real, but the date records phlux's
+  // arrival, not an opening — so timing views skip them.
+  const BACKLOG = new Set((RAW.backlogDays || []).map((d) => d[0] + ":" + d[1]));
+  const isOpening = (i) => !BACKLOG.has(P.company[i] + ":" + P.day[i]);
+
+  const TITLE_LOWER = P.title.map((t) => t.toLowerCase());
+
+  // Segments present in the data, ordered by how many companies sit in each.
+  const SEGMENTS = (function () {
+    const count = new Map();
+    CO.forEach((c) => {
+      if (!c.segment) return;
+      count.set(c.segment, (count.get(c.segment) || 0) + 1);
+    });
+    return Array.from(count.keys()).sort((a, b) => count.get(b) - count.get(a));
+  })();
+
+  const state = {
+    tier: "robotics",
+    segment: "all",
+    level: "all",
+    epoch: "all",
+    q: "",
+    metric: "intern",
+    raceView: "chart",
+    volView: "chart",
+    sort: { key: "intern", dir: -1 },
+    selected: null,
+  };
+
+  // ── Filtering ────────────────────────────────────────────────────────────
+
+  function companyPasses(c) {
+    if (state.tier === "robotics" && c.tier === "none") return false;
+    if (state.tier === "core" && c.tier !== "core") return false;
+    if (state.tier === "adjacent" && c.tier !== "adjacent") return false;
+    if (state.tier === "none" && c.tier !== "none") return false;
+    if (state.segment !== "all" && c.segment !== state.segment) return false;
+    return true;
+  }
+
+  function levelPasses(i) {
+    if (state.level === "any") return true;
+    if (state.level === "intern") return P.level[i] === LVL_INTERN;
+    if (state.level === "new_grad") return P.level[i] === LVL_NEWGRAD;
+    return P.level[i] === LVL_INTERN || P.level[i] === LVL_NEWGRAD;
+  }
+
+  let COMPANY_OK = new Uint8Array(CO.length);
+  let ROWS = [];
+
+  function recompute() {
+    COMPANY_OK = new Uint8Array(CO.length);
+    CO.forEach((c, i) => { COMPANY_OK[i] = companyPasses(c) ? 1 : 0; });
+
+    const epochCode = state.epoch === "all" ? -1 : SOURCES.indexOf(state.epoch);
+    const q = state.q.trim().toLowerCase();
+    const rows = [];
+    for (let i = 0; i < N; i++) {
+      if (!COMPANY_OK[P.company[i]]) continue;
+      if (epochCode >= 0 && P.source[i] !== epochCode) continue;
+      if (!levelPasses(i)) continue;
+      if (q && TITLE_LOWER[i].indexOf(q) === -1) continue;
+      rows.push(i);
+    }
+    ROWS = rows;
+  }
+
+  // ── Small DOM helpers ────────────────────────────────────────────────────
+
+  function el(tag, cls, text) {
+    const node = document.createElement(tag);
+    if (cls) node.className = cls;
+    if (text != null) node.textContent = text;
+    return node;
+  }
+  const SVGNS = "http://www.w3.org/2000/svg";
+  function svgEl(tag, attrs) {
+    const node = document.createElementNS(SVGNS, tag);
+    for (const k in attrs) node.setAttribute(k, attrs[k]);
+    return node;
+  }
+
+  function makeTip(host) {
+    const tip = el("div", "tip");
+    tip.setAttribute("role", "status");
+    host.appendChild(tip);
+    return {
+      node: tip,
+      show(x, y) {
+        tip.dataset.show = "true";
+        const w = host.clientWidth;
+        const tw = tip.offsetWidth;
+        let left = x + 14;
+        if (left + tw > w) left = Math.max(0, x - tw - 14);
+        tip.style.left = left + "px";
+        tip.style.top = Math.max(0, y - tip.offsetHeight - 10) + "px";
+      },
+      hide() { tip.dataset.show = "false"; },
+    };
+  }
+
+  function buildTable(host, columns, rows) {
+    host.textContent = "";
+    const table = el("table");
+    const thead = el("thead");
+    const htr = el("tr");
+    columns.forEach((c) => {
+      const th = el("th", c.num ? "num" : null, c.label);
+      htr.appendChild(th);
+    });
+    thead.appendChild(htr);
+    table.appendChild(thead);
+    const tbody = el("tbody");
+    rows.forEach((r) => {
+      const tr = el("tr");
+      columns.forEach((c, ci) => tr.appendChild(el("td", c.num ? "num" : null, String(r[ci]))));
+      tbody.appendChild(tr);
+    });
+    table.appendChild(tbody);
+    host.appendChild(table);
+  }
+
+  // ── Stat tiles ───────────────────────────────────────────────────────────
+
+  function renderKpis() {
+    const host = document.getElementById("kpis");
+    host.textContent = "";
+
+    const companies = new Set();
+    let interns = 0, newGrad = 0;
+    const firstByCo = new Map();
+    for (const i of ROWS) {
+      companies.add(P.company[i]);
+      if (P.level[i] === LVL_INTERN) {
+        interns++;
+        if (isOpening(i)) {
+          const c = P.company[i];
+          if (!firstByCo.has(c) || P.day[i] < firstByCo.get(c)) firstByCo.set(c, P.day[i]);
+        }
+      }
+      if (P.level[i] === LVL_NEWGRAD) newGrad++;
+    }
+
+    let earliest = null;
+    firstByCo.forEach((day, c) => {
+      if (!earliest || day < earliest.day) earliest = { day: day, co: CO[c].name };
+    });
+
+    const tiles = [
+      { label: "Companies posting", value: fmt(companies.size), note: companies.size ? SEGMENTS.filter((s) => {
+          return Array.from(companies).some((c) => CO[c].segment === s);
+        }).length + " segments represented" : "—" },
+      { label: "Internships", value: fmt(interns), note: "postings matching the slice" },
+      { label: "New grad roles", value: fmt(newGrad), note: "entry-level, non-intern" },
+      { label: "First to open", value: earliest ? shortDate(earliest.day) : "—",
+        note: earliest ? earliest.co : "no internships in slice" },
+    ];
+
+    tiles.forEach((t) => {
+      const tile = el("div", "kpi");
+      tile.appendChild(el("div", "k-label", t.label));
+      tile.appendChild(el("div", "k-value", t.value));
+      tile.appendChild(el("div", "k-note", t.note));
+      host.appendChild(tile);
+    });
+  }
+
+  // ── Leaderboard ──────────────────────────────────────────────────────────
+
+  const METRICS = [
+    { key: "intern", label: "Internships", test: (i) => P.level[i] === LVL_INTERN },
+    { key: "newgrad", label: "New grad", test: (i) => P.level[i] === LVL_NEWGRAD },
+    { key: "ml", label: "ML & AI", test: (i) => DOMAINS[P.domain[i]] === "ml_ai" },
+    { key: "hardware", label: "Hardware", test: (i) => DOMAINS[P.domain[i]] === "hardware" },
+    { key: "software", label: "Software", test: (i) => DOMAINS[P.domain[i]] === "software" },
+    { key: "research", label: "Research", test: (i) => DOMAINS[P.domain[i]] === "research" },
+    { key: "all", label: "All postings", test: () => true },
+  ];
+  const LB_LIMIT = 15;
+
+  function metricCounts(test) {
+    const counts = new Map();
+    for (const i of ROWS) {
+      if (!test(i)) continue;
+      const c = P.company[i];
+      counts.set(c, (counts.get(c) || 0) + 1);
+    }
+    return Array.from(counts.entries())
+      .map(([c, n]) => ({ co: c, n: n }))
+      .sort((a, b) => b.n - a.n || CO[a.co].name.localeCompare(CO[b.co].name));
+  }
+
+  function renderRanks(host, items, max, onClick) {
+    host.textContent = "";
+    if (!items.length) {
+      host.appendChild(el("p", "empty", "Nothing in this slice. Loosen a filter."));
+      return;
+    }
+    items.forEach((it) => {
+      const row = el(onClick ? "button" : "div", "rank-row");
+      if (onClick) row.type = "button";
+      else row.style.cursor = "default";
+      const name = el("div", "rank-name");
+      name.appendChild(el("b", null, it.name));
+      if (it.sub) name.appendChild(el("span", null, it.sub));
+      row.appendChild(name);
+      const track = el("div", "rank-track");
+      const fill = el("div", "rank-fill");
+      fill.style.width = Math.max(1, (it.n / max) * 100) + "%";
+      track.appendChild(fill);
+      row.appendChild(track);
+      row.appendChild(el("div", "rank-value", fmt(it.n)));
+      if (onClick) row.addEventListener("click", () => onClick(it));
+      host.appendChild(row);
+    });
+  }
+
+  function renderLeaderboard() {
+    const tabs = document.getElementById("lb-metric");
+    if (!tabs.childElementCount) {
+      METRICS.forEach((m) => {
+        const b = el("button", null, m.label);
+        b.type = "button";
+        b.dataset.key = m.key;
+        b.addEventListener("click", () => { state.metric = m.key; render(); });
+        tabs.appendChild(b);
+      });
+    }
+    Array.from(tabs.children).forEach((b) => {
+      b.setAttribute("aria-pressed", String(b.dataset.key === state.metric));
+    });
+
+    const metric = METRICS.find((m) => m.key === state.metric);
+    const ranked = metricCounts(metric.test);
+    const shown = ranked.slice(0, LB_LIMIT);
+    const max = shown.length ? shown[0].n : 1;
+
+    renderRanks(
+      document.getElementById("leaderboard"),
+      shown.map((r) => ({
+        name: CO[r.co].name,
+        sub: segLabel(CO[r.co].segment) + (CO[r.co].suspect ? " · check data" : ""),
+        n: r.n,
+        co: r.co,
+      })),
+      max,
+      (it) => openDrawer(it.co)
+    );
+
+    document.getElementById("lb-sub").textContent =
+      "Ranked by " + metric.label.toLowerCase() + " in the current slice.";
+    const total = ranked.reduce((a, b) => a + b.n, 0);
+    document.getElementById("lb-foot").textContent = ranked.length > LB_LIMIT
+      ? "Showing the top " + LB_LIMIT + " of " + ranked.length + " companies · " + fmt(total) + " postings in total. The full list is in the company board below."
+      : fmt(total) + " postings across " + ranked.length + " companies.";
+  }
+
+  // ── The opening race ─────────────────────────────────────────────────────
+
+  function raceData() {
+    // Earliest internship sighting per company that is an opening rather than a
+    // backlog dump from the day phlux started watching that company.
+    const first = new Map();
+    for (const i of ROWS) {
+      if (P.level[i] !== LVL_INTERN) continue;
+      if (!isOpening(i)) continue;
+      const c = P.company[i];
+      if (!first.has(c) || P.day[i] < first.get(c)) first.set(c, P.day[i]);
+    }
+    const bySeg = new Map();
+    first.forEach((day, c) => {
+      const seg = CO[c].segment || "not_robotics";
+      if (!bySeg.has(seg)) bySeg.set(seg, []);
+      bySeg.get(seg).push({ co: c, day: day });
+    });
+    const groups = [];
+    bySeg.forEach((points, seg) => {
+      points.sort((a, b) => a.day - b.day);
+      const days = points.map((p) => p.day);
+      const median = days[Math.floor(days.length / 2)];
+      groups.push({ seg: seg, points: points, median: median });
+    });
+    groups.sort((a, b) => a.median - b.median);
+    return groups;
+  }
+
+  function renderRace() {
+    const host = document.getElementById("race-chart");
+    const tableHost = document.getElementById("race-table");
+    const btn = document.getElementById("race-view");
+    const groups = raceData();
+
+    btn.setAttribute("aria-pressed", String(state.raceView === "table"));
+    btn.textContent = state.raceView === "table" ? "Chart" : "Table";
+    host.hidden = state.raceView === "table";
+    tableHost.hidden = state.raceView !== "table";
+
+    if (state.raceView === "table") {
+      const rows = [];
+      groups.forEach((g) => g.points.forEach((p) => {
+        rows.push([CO[p.co].name, segLabel(g.seg), fullDate(p.day)]);
+      }));
+      buildTable(tableHost, [
+        { label: "Company" }, { label: "Segment" }, { label: "First internship seen" },
+      ], rows);
+      return;
+    }
+
+    host.textContent = "";
+    if (!groups.length) {
+      host.appendChild(el("p", "empty", "No internship openings in this slice."));
+      return;
+    }
+
+    const width = Math.max(520, host.clientWidth || 900);
+    const padL = 172, padR = 18, padT = 26, padB = 30;
+    const rowH = 30;
+    const height = padT + groups.length * rowH + padB;
+    const x = (d) => padL + ((d - DAY_MIN) / Math.max(1, DAY_MAX - DAY_MIN)) * (width - padL - padR);
+
+    const svg = svgEl("svg", {
+      viewBox: "0 0 " + width + " " + height,
+      height: height,
+      role: "img",
+      "aria-label": "First internship sighting per company, grouped by robotics segment",
+    });
+
+    // Month gridlines.
+    let lastYear = null;
+    ALL_MONTHS.forEach((m) => {
+      const y = Math.floor(m / 12), mo = ((m % 12) + 12) % 12;
+      const day = Math.round((new Date(y, mo, 1) - ORIGIN) / DAY_MS);
+      if (day < DAY_MIN || day > DAY_MAX) return;
+      const px = x(day);
+      svg.appendChild(svgEl("line", {
+        x1: px, x2: px, y1: padT - 8, y2: height - padB + 4, class: "gridline",
+      }));
+      const showYear = y !== lastYear;
+      lastYear = y;
+      const label = svgEl("text", { x: px, y: height - padB + 18, class: "ax-label", "text-anchor": "middle" });
+      label.textContent = monthLabel(m, showYear);
+      svg.appendChild(label);
+    });
+
+    const tip = makeTip(host);
+
+    groups.forEach((g, gi) => {
+      const cy = padT + gi * rowH + rowH / 2;
+
+      const lab = svgEl("text", { x: padL - 12, y: cy + 4, class: "row-label", "text-anchor": "end" });
+      lab.textContent = segLabel(g.seg);
+      svg.appendChild(lab);
+
+      const count = svgEl("text", { x: padL - 12, y: cy + 15, class: "row-count", "text-anchor": "end" });
+      count.textContent = g.points.length + (g.points.length === 1 ? " company" : " companies");
+      svg.appendChild(count);
+
+      svg.appendChild(svgEl("line", {
+        x1: padL, x2: width - padR, y1: cy, y2: cy, class: "gridline",
+      }));
+
+      // Median rule for the segment.
+      svg.appendChild(svgEl("line", {
+        x1: x(g.median), x2: x(g.median), y1: cy - 11, y2: cy + 11,
+        stroke: "var(--axis)", "stroke-width": 2,
+      }));
+
+      g.points.forEach((p) => {
+        const px = x(p.day);
+        svg.appendChild(svgEl("circle", {
+          cx: px, cy: cy, r: 6.5, fill: "var(--surface)",
+        }));
+        const dot = svgEl("circle", {
+          cx: px, cy: cy, r: 4.5, fill: "var(--s1)", "fill-opacity": 0.85,
+        });
+        svg.appendChild(dot);
+
+        const hit = svgEl("circle", {
+          cx: px, cy: cy, r: 12, fill: "transparent",
+          tabindex: "0", role: "button",
+          "aria-label": CO[p.co].name + ", first internship " + fullDate(p.day),
+        });
+        hit.style.cursor = "pointer";
+        const show = () => {
+          tip.node.textContent = "";
+          tip.node.appendChild(el("div", "t-head", CO[p.co].name));
+          tip.node.appendChild(el("div", "t-sub", segLabel(g.seg)));
+          const row = el("div", "t-row");
+          row.appendChild(el("span", "t-name", "First internship"));
+          row.appendChild(el("span", "t-val", fullDate(p.day)));
+          tip.node.appendChild(row);
+          tip.show(px, cy);
+        };
+        hit.addEventListener("pointerenter", show);
+        hit.addEventListener("focus", show);
+        hit.addEventListener("pointerleave", tip.hide);
+        hit.addEventListener("blur", tip.hide);
+        hit.addEventListener("click", () => openDrawer(p.co));
+        hit.addEventListener("keydown", (e) => {
+          if (e.key === "Enter" || e.key === " ") { e.preventDefault(); openDrawer(p.co); }
+        });
+        svg.appendChild(hit);
+      });
+    });
+
+    host.appendChild(svg);
+  }
+
+  // ── Postings per month ───────────────────────────────────────────────────
+
+  const VOL_SERIES = [
+    { key: "core", label: "Core robotics", color: "var(--s1)" },
+    { key: "adjacent", label: "Robotics-adjacent", color: "var(--s2)" },
+    { key: "none", label: "Everything else", color: "var(--s3)" },
+  ];
+
+  function volumeData() {
+    // Always all three tiers, so the comparison holds when the tier filter moves.
+    const epochCode = state.epoch === "all" ? -1 : SOURCES.indexOf(state.epoch);
+    const q = state.q.trim().toLowerCase();
+    const series = VOL_SERIES.map(() => new Map());
+    for (let i = 0; i < N; i++) {
+      const c = CO[P.company[i]];
+      if (state.segment !== "all" && c.segment !== state.segment) continue;
+      if (epochCode >= 0 && P.source[i] !== epochCode) continue;
+      if (!levelPasses(i)) continue;
+      if (q && TITLE_LOWER[i].indexOf(q) === -1) continue;
+      const si = VOL_SERIES.findIndex((s) => s.key === c.tier);
+      if (si < 0) continue;
+      const m = ROW_MONTH[i];
+      series[si].set(m, (series[si].get(m) || 0) + 1);
+    }
+    return series.map((m) => ALL_MONTHS.map((k) => m.get(k) || 0));
+  }
+
+  function renderVolume() {
+    const host = document.getElementById("vol-chart");
+    const tableHost = document.getElementById("vol-table");
+    const btn = document.getElementById("vol-view");
+    const data = volumeData();
+
+    const legend = document.getElementById("vol-legend");
+    if (!legend.childElementCount) {
+      VOL_SERIES.forEach((s) => {
+        const item = el("div", "legend-item");
+        const key = el("span", "legend-key");
+        key.style.background = s.color;
+        item.appendChild(key);
+        item.appendChild(el("span", null, s.label));
+        legend.appendChild(item);
+      });
+    }
+
+    btn.setAttribute("aria-pressed", String(state.volView === "table"));
+    btn.textContent = state.volView === "table" ? "Chart" : "Table";
+    host.hidden = state.volView === "table";
+    tableHost.hidden = state.volView !== "table";
+
+    if (state.volView === "table") {
+      buildTable(tableHost,
+        [{ label: "Month" }].concat(VOL_SERIES.map((s) => ({ label: s.label, num: true }))),
+        ALL_MONTHS.map((m, mi) => [monthLabel(m, true)].concat(data.map((d) => fmt(d[mi]))))
+      );
+      return;
+    }
+
+    host.textContent = "";
+    const width = Math.max(520, host.clientWidth || 900);
+    const padL = 46, padR = 96, padT = 14, padB = 30;
+    const height = 260;
+    const maxV = Math.max(1, ...data.map((d) => Math.max(...d)));
+    const niceMax = Math.ceil(maxV / 100) * 100 || 100;
+    const x = (i) => padL + (ALL_MONTHS.length === 1 ? 0 : (i / (ALL_MONTHS.length - 1)) * (width - padL - padR));
+    const y = (v) => padT + (1 - v / niceMax) * (height - padT - padB);
+
+    const svg = svgEl("svg", {
+      viewBox: "0 0 " + width + " " + height,
+      height: height,
+      role: "img",
+      "aria-label": "Postings first seen each month, by robotics tier",
+    });
+
+    const ticks = 4;
+    for (let t = 0; t <= ticks; t++) {
+      const v = (niceMax / ticks) * t;
+      svg.appendChild(svgEl("line", {
+        x1: padL, x2: width - padR, y1: y(v), y2: y(v),
+        class: t === 0 ? "baseline" : "gridline",
+      }));
+      const lab = svgEl("text", { x: padL - 9, y: y(v) + 4, class: "ax-label", "text-anchor": "end" });
+      lab.textContent = fmt(Math.round(v));
+      svg.appendChild(lab);
+    }
+
+    ALL_MONTHS.forEach((m, i) => {
+      if (ALL_MONTHS.length > 10 && i % 2 === 1) return;
+      const lab = svgEl("text", { x: x(i), y: height - padB + 18, class: "ax-label", "text-anchor": "middle" });
+      lab.textContent = monthLabel(m, ((m % 12) + 12) % 12 === 0 || i === 0);
+      svg.appendChild(lab);
+    });
+
+    data.forEach((series, si) => {
+      const path = series.map((v, i) => (i ? "L" : "M") + x(i) + " " + y(v)).join(" ");
+      svg.appendChild(svgEl("path", {
+        d: path, fill: "none", stroke: VOL_SERIES[si].color,
+        "stroke-width": 2, "stroke-linejoin": "round", "stroke-linecap": "round",
+      }));
+      const lastI = series.length - 1;
+      svg.appendChild(svgEl("circle", {
+        cx: x(lastI), cy: y(series[lastI]), r: 6, fill: "var(--surface)",
+      }));
+      svg.appendChild(svgEl("circle", {
+        cx: x(lastI), cy: y(series[lastI]), r: 4, fill: VOL_SERIES[si].color,
+      }));
+    });
+
+    // Direct end-labels, nudged apart only enough to not overlap.
+    const ends = data.map((s, si) => ({ si: si, v: s[s.length - 1], y: y(s[s.length - 1]) }))
+      .sort((a, b) => a.y - b.y);
+    for (let i = 1; i < ends.length; i++) {
+      if (ends[i].y - ends[i - 1].y < 15) ends[i].y = ends[i - 1].y + 15;
+    }
+    ends.forEach((e) => {
+      const lab = svgEl("text", {
+        x: x(ALL_MONTHS.length - 1) + 12, y: e.y + 4, class: "ax-label", "text-anchor": "start",
+      });
+      lab.setAttribute("fill", "var(--ink-2)");
+      lab.textContent = fmt(e.v);
+      svg.appendChild(lab);
+    });
+
+    const tip = makeTip(host);
+    const cross = svgEl("line", {
+      x1: 0, x2: 0, y1: padT, y2: height - padB,
+      stroke: "var(--axis)", "stroke-width": 1, opacity: 0,
+    });
+    svg.appendChild(cross);
+
+    const overlay = svgEl("rect", {
+      x: padL - 10, y: 0, width: width - padL - padR + 20, height: height, fill: "transparent",
+    });
+    overlay.style.cursor = "crosshair";
+    svg.appendChild(overlay);
+
+    function moveTo(clientX, rect) {
+      const rel = ((clientX - rect.left) / rect.width) * width;
+      let idx = Math.round(((rel - padL) / (width - padL - padR)) * (ALL_MONTHS.length - 1));
+      idx = Math.max(0, Math.min(ALL_MONTHS.length - 1, idx));
+      cross.setAttribute("x1", x(idx));
+      cross.setAttribute("x2", x(idx));
+      cross.setAttribute("opacity", 1);
+      tip.node.textContent = "";
+      tip.node.appendChild(el("div", "t-head", monthLabel(ALL_MONTHS[idx], true)));
+      data.forEach((s, si) => {
+        const row = el("div", "t-row");
+        const key = el("span", "t-key");
+        key.style.background = VOL_SERIES[si].color;
+        row.appendChild(key);
+        row.appendChild(el("span", "t-name", VOL_SERIES[si].label));
+        row.appendChild(el("span", "t-val", fmt(s[idx])));
+        tip.node.appendChild(row);
+      });
+      const px = (x(idx) / width) * host.clientWidth;
+      tip.show(px, height * 0.55);
+    }
+
+    overlay.addEventListener("pointermove", (e) => moveTo(e.clientX, svg.getBoundingClientRect()));
+    overlay.addEventListener("pointerleave", () => {
+      cross.setAttribute("opacity", 0);
+      tip.hide();
+    });
+
+    host.appendChild(svg);
+  }
+
+  // ── Segment + role breakdowns ────────────────────────────────────────────
+
+  function renderBreakdowns() {
+    const segCounts = new Map();
+    const domCounts = new Map();
+    for (const i of ROWS) {
+      const seg = CO[P.company[i]].segment || "not_robotics";
+      segCounts.set(seg, (segCounts.get(seg) || 0) + 1);
+      const d = DOMAINS[P.domain[i]];
+      domCounts.set(d, (domCounts.get(d) || 0) + 1);
+    }
+
+    const segItems = Array.from(segCounts.entries())
+      .sort((a, b) => b[1] - a[1])
+      .map(([seg, n]) => ({ name: segLabel(seg), n: n, seg: seg }));
+    renderRanks(
+      document.getElementById("segments"),
+      segItems,
+      segItems.length ? segItems[0].n : 1,
+      (it) => {
+        if (it.seg === "not_robotics") return;
+        state.segment = it.seg;
+        document.getElementById("f-segment").value = it.seg;
+        render();
+      }
+    );
+
+    const domItems = Array.from(domCounts.entries())
+      .sort((a, b) => b[1] - a[1])
+      .map(([d, n]) => ({ name: domLabel(d), n: n }));
+    renderRanks(document.getElementById("roles"), domItems, domItems.length ? domItems[0].n : 1, null);
+  }
+
+  // ── Company board ────────────────────────────────────────────────────────
+
+  const BOARD_COLS = [
+    { key: "name", label: "Company", num: false },
+    { key: "segment", label: "Segment", num: false },
+    { key: "intern", label: "Interns", num: true },
+    { key: "newgrad", label: "New grad", num: true },
+    { key: "total", label: "Postings", num: true },
+    { key: "first", label: "First seen", num: true },
+    { key: "last", label: "Last seen", num: true },
+    { key: "trend", label: "Monthly", num: false },
+    { key: "health", label: "Data", num: false },
+  ];
+
+  function boardRows() {
+    const agg = new Map();
+    for (const i of ROWS) {
+      const c = P.company[i];
+      let a = agg.get(c);
+      if (!a) {
+        a = { co: c, intern: 0, newgrad: 0, total: 0, first: Infinity, last: -Infinity, months: new Map() };
+        agg.set(c, a);
+      }
+      a.total++;
+      if (P.level[i] === LVL_INTERN) a.intern++;
+      if (P.level[i] === LVL_NEWGRAD) a.newgrad++;
+      if (P.day[i] < a.first) a.first = P.day[i];
+      if (P.day[i] > a.last) a.last = P.day[i];
+      a.months.set(ROW_MONTH[i], (a.months.get(ROW_MONTH[i]) || 0) + 1);
+    }
+    const rows = Array.from(agg.values());
+    const dir = state.sort.dir, key = state.sort.key;
+    rows.sort((a, b) => {
+      let va, vb;
+      if (key === "name") { va = CO[a.co].name.toLowerCase(); vb = CO[b.co].name.toLowerCase(); }
+      else if (key === "segment") { va = segLabel(CO[a.co].segment); vb = segLabel(CO[b.co].segment); }
+      else if (key === "health") { va = CO[a.co].keptShare; vb = CO[b.co].keptShare; }
+      else if (key === "trend") { va = a.total; vb = b.total; }
+      else { va = a[key]; vb = b[key]; }
+      if (va < vb) return -1 * dir;
+      if (va > vb) return 1 * dir;
+      return CO[a.co].name.localeCompare(CO[b.co].name);
+    });
+    return rows;
+  }
+
+  function sparkline(months) {
+    const w = 78, h = 20;
+    const vals = ALL_MONTHS.map((m) => months.get(m) || 0);
+    const max = Math.max(1, ...vals);
+    const svg = svgEl("svg", { viewBox: "0 0 " + w + " " + h, width: w, height: h, "aria-hidden": "true" });
+    const x = (i) => (vals.length === 1 ? w / 2 : (i / (vals.length - 1)) * (w - 4) + 2);
+    const y = (v) => h - 3 - (v / max) * (h - 7);
+    const d = vals.map((v, i) => (i ? "L" : "M") + x(i) + " " + y(v)).join(" ");
+    svg.appendChild(svgEl("path", {
+      d: d, fill: "none", stroke: "var(--axis)", "stroke-width": 1.5, "stroke-linejoin": "round",
+    }));
+    let lastIdx = -1;
+    vals.forEach((v, i) => { if (v > 0) lastIdx = i; });
+    if (lastIdx >= 0) {
+      svg.appendChild(svgEl("circle", { cx: x(lastIdx), cy: y(vals[lastIdx]), r: 3.2, fill: "var(--s1)" }));
+    }
+    return svg;
+  }
+
+  function healthCell(co) {
+    const c = CO[co];
+    const wrap = el("span", "flag");
+    if (c.junk) {
+      wrap.className = "flag critical";
+      wrap.appendChild(document.createTextNode("Bad scrape"));
+    } else if (c.suspect) {
+      wrap.className = "flag warning";
+      wrap.appendChild(document.createTextNode("Check"));
+    } else {
+      wrap.appendChild(document.createTextNode(Math.round(c.keptShare * 100) + "% clean"));
+    }
+    return wrap;
+  }
+
+  function renderBoard() {
+    const head = document.getElementById("board-head");
+    if (!head.childElementCount) {
+      BOARD_COLS.forEach((c) => {
+        const th = el("th", "sortable" + (c.num ? " num" : ""), c.label);
+        th.tabIndex = 0;
+        const activate = () => {
+          if (state.sort.key === c.key) state.sort.dir *= -1;
+          else state.sort = { key: c.key, dir: c.num ? -1 : 1 };
+          render();
+        };
+        th.addEventListener("click", activate);
+        th.addEventListener("keydown", (e) => {
+          if (e.key === "Enter" || e.key === " ") { e.preventDefault(); activate(); }
+        });
+        head.appendChild(th);
+      });
+    }
+    Array.from(head.children).forEach((th, i) => {
+      if (BOARD_COLS[i].key === state.sort.key) {
+        th.setAttribute("aria-sort", state.sort.dir === 1 ? "ascending" : "descending");
+      } else {
+        th.removeAttribute("aria-sort");
+      }
+    });
+
+    const body = document.getElementById("board-body");
+    body.textContent = "";
+    const rows = boardRows();
+
+    if (!rows.length) {
+      const tr = el("tr");
+      const td = el("td", "empty", "No companies match these filters.");
+      td.colSpan = BOARD_COLS.length;
+      tr.appendChild(td);
+      body.appendChild(tr);
+    }
+
+    rows.forEach((r) => {
+      const c = CO[r.co];
+      const tr = el("tr", "clickable");
+      tr.tabIndex = 0;
+
+      const tdName = el("td");
+      const cell = el("div", "co-cell");
+      cell.appendChild(el("span", null, c.name));
+      if (c.tier !== "none") cell.appendChild(el("span", "chip " + c.tier, c.tier));
+      tdName.appendChild(cell);
+      tr.appendChild(tdName);
+
+      tr.appendChild(el("td", null, c.segment ? segLabel(c.segment) : SECTOR_LABEL[c.sector] || c.sector));
+      tr.appendChild(el("td", "num", fmt(r.intern)));
+      tr.appendChild(el("td", "num", fmt(r.newgrad)));
+      tr.appendChild(el("td", "num", fmt(r.total)));
+      tr.appendChild(el("td", "num", shortDate(r.first)));
+      tr.appendChild(el("td", "num", shortDate(r.last)));
+
+      const tdTrend = el("td");
+      tdTrend.appendChild(sparkline(r.months));
+      tr.appendChild(tdTrend);
+
+      const tdHealth = el("td");
+      tdHealth.appendChild(healthCell(r.co));
+      tr.appendChild(tdHealth);
+
+      tr.addEventListener("click", () => openDrawer(r.co));
+      tr.addEventListener("keydown", (e) => {
+        if (e.key === "Enter") { e.preventDefault(); openDrawer(r.co); }
+      });
+      body.appendChild(tr);
+    });
+
+    const silent = RAW.silentCompanies.length;
+    document.getElementById("board-foot").textContent =
+      fmt(rows.length) + " companies in this slice. " + fmt(silent) +
+      " tracked companies produced no usable postings at all and are not listed — their selectors are almost certainly broken.";
+  }
+
+  // ── Drawer ───────────────────────────────────────────────────────────────
+
+  function openDrawer(co) {
+    state.selected = co;
+    renderDrawer();
+  }
+  function closeDrawer() {
+    state.selected = null;
+    renderDrawer();
+  }
+
+  function renderDrawer() {
+    const root = document.getElementById("drawer-root");
+    root.textContent = "";
+    if (state.selected == null) {
+      document.body.style.overflow = "";
+      return;
+    }
+    document.body.style.overflow = "hidden";
+
+    const co = state.selected;
+    const c = CO[co];
+    const rows = ROWS.filter((i) => P.company[i] === co)
+      .sort((a, b) => P.day[b] - P.day[a]);
+
+    const scrim = el("div", "scrim");
+    scrim.addEventListener("click", closeDrawer);
+    root.appendChild(scrim);
+
+    const drawer = el("aside", "drawer");
+    drawer.setAttribute("role", "dialog");
+    drawer.setAttribute("aria-modal", "true");
+    drawer.setAttribute("aria-label", c.name);
+
+    const head = el("div", "drawer-head");
+    const headText = el("div");
+    headText.appendChild(el("h2", null, c.name));
+    const sub = el("div", "sub");
+    sub.textContent = (c.segment ? segLabel(c.segment) : SECTOR_LABEL[c.sector] || c.sector) +
+      (c.tier !== "none" ? " · " + c.tier + " robotics" : "");
+    headText.appendChild(sub);
+    head.appendChild(headText);
+    const close = el("button", null, "Close");
+    close.type = "button";
+    close.style.marginLeft = "auto";
+    close.addEventListener("click", closeDrawer);
+    head.appendChild(close);
+    drawer.appendChild(head);
+
+    const body = el("div", "drawer-body");
+
+    let interns = 0, newGrad = 0;
+    const domCounts = new Map();
+    const months = new Map();
+    rows.forEach((i) => {
+      if (P.level[i] === LVL_INTERN) interns++;
+      if (P.level[i] === LVL_NEWGRAD) newGrad++;
+      const d = DOMAINS[P.domain[i]];
+      domCounts.set(d, (domCounts.get(d) || 0) + 1);
+      months.set(ROW_MONTH[i], (months.get(ROW_MONTH[i]) || 0) + 1);
+    });
+
+    const stats = el("div", "mini-stats");
+    [["Postings", rows.length], ["Internships", interns], ["New grad", newGrad]].forEach(([lab, val]) => {
+      const cell = el("div");
+      cell.appendChild(el("div", "m-val", fmt(val)));
+      cell.appendChild(el("div", "m-lab", lab));
+      stats.appendChild(cell);
+    });
+    body.appendChild(stats);
+
+    if (c.junk || c.suspect) {
+      const warn = el("div");
+      warn.appendChild(el("h3", null, "Data health"));
+      const flag = el("span", "flag " + (c.junk ? "critical" : "warning"));
+      flag.appendChild(document.createTextNode(c.junk
+        ? "This scraper is picking up page furniture, not job titles. Treat these counts as unreliable."
+        : "One day accounts for an unusually large share of this company's history — it may be a re-read of the whole page rather than a real drop."));
+      warn.appendChild(flag);
+      body.appendChild(warn);
+    }
+
+    const trend = el("div");
+    trend.appendChild(el("h3", null, "Postings by month"));
+    const bars = el("div", "ranks");
+    const maxM = Math.max(1, ...ALL_MONTHS.map((m) => months.get(m) || 0));
+    ALL_MONTHS.filter((m) => months.get(m)).forEach((m) => {
+      const row = el("div", "rank-row");
+      row.style.cursor = "default";
+      row.style.gridTemplateColumns = "72px 1fr auto";
+      row.appendChild(el("div", "rank-name", monthLabel(m, true)));
+      const track = el("div", "rank-track");
+      const fill = el("div", "rank-fill");
+      fill.style.width = ((months.get(m) / maxM) * 100) + "%";
+      track.appendChild(fill);
+      row.appendChild(track);
+      row.appendChild(el("div", "rank-value", fmt(months.get(m))));
+      bars.appendChild(row);
+    });
+    trend.appendChild(bars);
+    body.appendChild(trend);
+
+    const roles = el("div");
+    roles.appendChild(el("h3", null, "Role mix"));
+    const roleBars = el("div", "ranks");
+    const sortedDom = Array.from(domCounts.entries()).sort((a, b) => b[1] - a[1]);
+    const maxD = sortedDom.length ? sortedDom[0][1] : 1;
+    sortedDom.forEach(([d, n]) => {
+      const row = el("div", "rank-row");
+      row.style.cursor = "default";
+      row.style.gridTemplateColumns = "128px 1fr auto";
+      row.appendChild(el("div", "rank-name", domLabel(d)));
+      const track = el("div", "rank-track");
+      const fill = el("div", "rank-fill");
+      fill.style.width = ((n / maxD) * 100) + "%";
+      track.appendChild(fill);
+      row.appendChild(track);
+      row.appendChild(el("div", "rank-value", fmt(n)));
+      roleBars.appendChild(row);
+    });
+    roles.appendChild(roleBars);
+    body.appendChild(roles);
+
+    const titles = el("div");
+    titles.appendChild(el("h3", null, "Postings, newest first"));
+    const list = el("ul", "title-list");
+    rows.slice(0, 250).forEach((i) => {
+      const li = el("li");
+      const t = el("time", null, shortDate(P.day[i]));
+      t.dateTime = dayToDate(P.day[i]).toISOString().slice(0, 10);
+      li.appendChild(t);
+      li.appendChild(el("span", null, P.title[i]));
+      list.appendChild(li);
+    });
+    titles.appendChild(list);
+    if (rows.length > 250) {
+      titles.appendChild(el("p", "footnote", "Showing the 250 most recent of " + fmt(rows.length) + "."));
+    }
+    body.appendChild(titles);
+
+    drawer.appendChild(body);
+    root.appendChild(drawer);
+    close.focus();
+  }
+
+  document.addEventListener("keydown", (e) => {
+    if (e.key === "Escape" && state.selected != null) closeDrawer();
+  });
+
+  // ── Wiring ───────────────────────────────────────────────────────────────
+
+  function initControls() {
+    const segSel = document.getElementById("f-segment");
+    SEGMENTS.forEach((s) => {
+      const opt = el("option", null, segLabel(s));
+      opt.value = s;
+      segSel.appendChild(opt);
+    });
+
+    const epochSel = document.getElementById("f-epoch");
+    const spans = SOURCES.map((s) => {
+      let lo = Infinity, hi = -Infinity;
+      const code = SOURCES.indexOf(s);
+      for (let i = 0; i < N; i++) {
+        if (P.source[i] !== code) continue;
+        if (P.day[i] < lo) lo = P.day[i];
+        if (P.day[i] > hi) hi = P.day[i];
+      }
+      return { key: s, lo: lo, hi: hi };
+    });
+    spans.forEach((sp) => {
+      const opt = el("option", null,
+        monthLabel(monthKey(sp.lo), true) + " – " + monthLabel(monthKey(sp.hi), true));
+      opt.value = sp.key;
+      epochSel.appendChild(opt);
+    });
+
+    const bind = (id, key) => {
+      const node = document.getElementById(id);
+      node.addEventListener("change", () => { state[key] = node.value; render(); });
+      return node;
+    };
+    bind("f-tier", "tier");
+    bind("f-segment", "segment");
+    bind("f-level", "level");
+    bind("f-epoch", "epoch");
+
+    let qTimer = null;
+    const q = document.getElementById("f-q");
+    q.addEventListener("input", () => {
+      clearTimeout(qTimer);
+      qTimer = setTimeout(() => { state.q = q.value; render(); }, 180);
+    });
+
+    document.getElementById("f-reset").addEventListener("click", () => {
+      state.tier = "robotics";
+      state.segment = "all";
+      state.level = "all";
+      state.epoch = "all";
+      state.q = "";
+      document.getElementById("f-tier").value = "robotics";
+      segSel.value = "all";
+      document.getElementById("f-level").value = "all";
+      epochSel.value = "all";
+      q.value = "";
+      render();
+    });
+
+    document.getElementById("race-view").addEventListener("click", () => {
+      state.raceView = state.raceView === "chart" ? "table" : "chart";
+      renderRace();
+    });
+    document.getElementById("vol-view").addEventListener("click", () => {
+      state.volView = state.volView === "chart" ? "table" : "chart";
+      renderVolume();
+    });
+
+    const robotics = CO.filter((c) => c.tier !== "none").length;
+    document.getElementById("stamp").textContent =
+      fmt(N) + " postings · " + fmt(CO.length) + " companies · " + robotics + " robotics";
+    document.getElementById("provenance").textContent =
+      "Built from phlux's own scrape history (" + RAW.origin + " onward). A posting's date is the day the " +
+      "scraper first saw the title, so it measures when a job appeared, not when it closed — nothing here " +
+      "knows whether a role is still open. Duplicate titles, first-sighting backlogs, mass re-detection days " +
+      "and junk scrapes are excluded before anything is counted.";
+  }
+
+  let resizeTimer = null;
+  window.addEventListener("resize", () => {
+    clearTimeout(resizeTimer);
+    resizeTimer = setTimeout(() => { renderRace(); renderVolume(); }, 140);
+  });
+
+  function render() {
+    recompute();
+    renderKpis();
+    renderLeaderboard();
+    renderRace();
+    renderVolume();
+    renderBreakdowns();
+    renderBoard();
+    if (state.selected != null) renderDrawer();
+  }
+
+  initControls();
+  render();
+})();
+</script>

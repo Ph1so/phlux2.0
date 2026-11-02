@@ -1,0 +1,280 @@
+Name,Sector,RoboticsTier,RoboticsSegment
+Microsoft,big_tech,none,
+Uber,consumer_internet,none,
+Google,big_tech,none,
+Nvidia,robotics,adjacent,sensors_silicon
+Meta,big_tech,none,
+Netflix,big_tech,none,
+AWS,big_tech,none,
+Pinterest,consumer_internet,none,
+Amazon,big_tech,none,
+ispace,robotics,adjacent,space_hardware
+Welch's,other,none,
+Apple,big_tech,none,
+IBM,big_tech,none,
+Salesforce,enterprise_software,none,
+LinkedIn,consumer_internet,none,
+Intel,semiconductors,none,
+Autodesk,robotics,adjacent,robotics_software
+Bank of America,quant_finance,none,
+Blue Origin,robotics,adjacent,space_hardware
+Liberty Mutual,quant_finance,none,
+Optiver,quant_finance,none,
+PayPal,fintech,none,
+Wayfair,consumer_internet,none,
+Citadel,quant_finance,none,
+Airbnb,consumer_internet,none,
+Cisco,big_tech,none,
+DE Shaws,quant_finance,none,
+Hudson River Trading,quant_finance,none,
+Morgan Stanley,quant_finance,none,
+Spotify,consumer_internet,none,
+TwoSigma,quant_finance,none,
+Stripe,fintech,none,
+Snap,consumer_internet,none,
+Ramp,fintech,none,
+Workday,enterprise_software,none,
+Atlassian,enterprise_software,none,
+Cohere,enterprise_software,none,
+Riot Games,gaming,none,
+Datadog,enterprise_software,none,
+Doordash,consumer_internet,none,
+MongoDB,enterprise_software,none,
+Slack,enterprise_software,none,
+Splunk,enterprise_software,none,
+Amazon Robotics,robotics,core,warehouse_logistics
+AMD,semiconductors,none,
+TikTok,big_tech,none,
+Robinhood,fintech,none,
+Intuit,fintech,none,
+Nokia,big_tech,none,
+EA,gaming,none,
+Dassault Systems,robotics,adjacent,robotics_software
+Rivian,robotics,adjacent,ev_automotive
+Palantir,enterprise_software,none,
+Expedia,consumer_internet,none,
+Susquehanna,quant_finance,none,
+Roblox,gaming,none,
+ByteDance,big_tech,none,
+Jane Street,quant_finance,none,
+Oracle,big_tech,none,
+Asana,enterprise_software,none,
+Grammarly,enterprise_software,none,
+Adobe,big_tech,none,
+Databricks,enterprise_software,none,
+SpaceX,robotics,adjacent,space_hardware
+TSMC,semiconductors,none,
+Boston Scientific,robotics,adjacent,industrial_automation
+Siemens,robotics,adjacent,industrial_automation
+Rockwell Automation,robotics,adjacent,industrial_automation
+Scheider Electric,robotics,adjacent,industrial_automation
+X,big_tech,none,
+Verkada,robotics,adjacent,sensors_silicon
+Neuralink,robotics,core,medical_robotics
+Zipline,robotics,core,defense_autonomy
+Cloudflare,enterprise_software,none,
+Capital One,quant_finance,none,
+Deloitte,consulting,none,
+Roku,other,none,
+Unity,robotics,adjacent,robotics_software
+Github,enterprise_software,none,
+RedHat,enterprise_software,none,
+Boston Dynamics,robotics,core,humanoids
+Epic Games,gaming,none,
+Twitch,consumer_internet,none,
+Visa,fintech,none,
+Replit,enterprise_software,none,
+Vercel,enterprise_software,none,
+Hugging Face,enterprise_software,none,
+Verizon,big_tech,none,
+Notion,enterprise_software,none,
+JP Morgan Chase,quant_finance,none,
+Genesis Therapeutics,biotech,none,
+Duolingo,consumer_internet,none,
+Scale AI,robotics,adjacent,robotics_software
+Coinbase,fintech,none,
+Disney,other,none,
+Goldman Sachs,quant_finance,none,
+Beli,consumer_internet,none,
+Relativity,robotics,adjacent,space_hardware
+Qualcomm,semiconductors,none,
+Leidos,defense_services,none,
+Radix Trading,quant_finance,none,
+Razer,gaming,none,
+Docusign,enterprise_software,none,
+Konrad,enterprise_software,none,
+Tencent,big_tech,none,
+Point72,quant_finance,none,
+Sentry,enterprise_software,none,
+Comcast,big_tech,none,
+HP,big_tech,none,
+Skydio,robotics,core,defense_autonomy
+Sony,big_tech,none,
+UKG,enterprise_software,none,
+Target,other,none,
+Amentum,defense_services,none,
+Boeing,robotics,adjacent,space_hardware
+DRW,quant_finance,none,
+Kodiak Robotics,robotics,core,autonomous_vehicles
+XPENG,robotics,adjacent,ev_automotive
+Tesla,robotics,adjacent,ev_automotive
+C3,robotics,adjacent,robotics_software
+Mercedes Benz,robotics,adjacent,ev_automotive
+Mosaic,robotics,core,industrial_field
+T-Mobile,big_tech,none,
+Samsung,big_tech,none,
+Medtronic,robotics,adjacent,industrial_automation
+Akuna Capital,quant_finance,none,
+Toyota Research Insitute,robotics,adjacent,research_labs
+Mitsubishi Electric Research Laboratories,robotics,adjacent,research_labs
+Bose,robotics,adjacent,sensors_silicon
+Gecko Robotics,robotics,core,industrial_field
+Onward Robotics,robotics,core,warehouse_logistics
+Mujin,robotics,core,warehouse_logistics
+Intuitive Surgical,robotics,core,medical_robotics
+Stoke Space,robotics,adjacent,space_hardware
+Honda Research Insitute,robotics,adjacent,research_labs
+Agility Robotics,robotics,core,humanoids
+iRobot,robotics,core,consumer_service
+GreyOrange,robotics,core,warehouse_logistics
+General Motors,robotics,adjacent,ev_automotive
+Brightpick,robotics,core,warehouse_logistics
+Locus Robotics,robotics,core,warehouse_logistics
+Path Robotics,robotics,core,industrial_field
+GrayMatter Robotics,robotics,core,industrial_field
+Chef Robotics,robotics,core,industrial_field
+Cobot,robotics,core,warehouse_logistics
+Ambi Robotics,robotics,core,warehouse_logistics
+Apptronik,robotics,core,humanoids
+Figure AI,robotics,core,humanoids
+1x,robotics,core,humanoids
+Sanctuary AI,robotics,core,humanoids
+RocketLab,robotics,adjacent,space_hardware
+Zillow,consumer_internet,none,
+Northwood Space,robotics,adjacent,space_hardware
+Motional,robotics,core,autonomous_vehicles
+Lucid Motors,robotics,adjacent,ev_automotive
+Titan Robotics,robotics,core,industrial_field
+Near Earth Autonomy,robotics,core,defense_autonomy
+Skild AI,robotics,adjacent,research_labs
+Aurora Innovation,robotics,core,autonomous_vehicles
+RichTech Robotics,robotics,core,consumer_service
+Tensor Auto,robotics,core,autonomous_vehicles
+Avride,robotics,core,autonomous_vehicles
+May Mobility,robotics,core,autonomous_vehicles
+Beep,robotics,core,autonomous_vehicles
+Zoox,robotics,core,autonomous_vehicles
+Pony.ai,robotics,core,autonomous_vehicles
+Nuro,robotics,core,autonomous_vehicles
+Lila Sciences,robotics,adjacent,research_labs
+Mitre,robotics,adjacent,research_labs
+Serve Robotics,robotics,core,warehouse_logistics
+Draper,robotics,adjacent,research_labs
+Bosch,robotics,adjacent,industrial_automation
+Anduril,robotics,core,defense_autonomy
+Aeva,robotics,adjacent,sensors_silicon
+Forterra,robotics,core,defense_autonomy
+Intrinsic,robotics,adjacent,robotics_software
+Shure,robotics,adjacent,sensors_silicon
+Robotics and AI Insitute,robotics,adjacent,research_labs
+Sunday,robotics,core,consumer_service
+Machina Labs,robotics,core,industrial_field
+Matic Robots,robotics,core,consumer_service
+Pickle Robot,robotics,core,warehouse_logistics
+ScoutAI,robotics,adjacent,robotics_software
+Lyft,consumer_internet,none,
+AeroVect,robotics,core,autonomous_vehicles
+Gather AI,robotics,core,warehouse_logistics
+Carbon Robotics,robotics,core,industrial_field
+Scythe Robotics,robotics,core,industrial_field
+Anywhere Robotics,robotics,core,warehouse_logistics
+Futurewei Technologies,robotics,adjacent,industrial_automation
+Diligent Robotics,robotics,core,medical_robotics
+Phantom AI,robotics,core,autonomous_vehicles
+Neros Technologies,robotics,core,defense_autonomy
+Swarm Aero,robotics,core,defense_autonomy
+Glydways,robotics,core,autonomous_vehicles
+Navier,robotics,core,autonomous_vehicles
+Blue River Technology,robotics,core,industrial_field
+Lodestar,robotics,core,defense_autonomy
+Morsecorp,robotics,core,defense_autonomy
+Impulse Space,robotics,adjacent,space_hardware
+Wayve,robotics,core,autonomous_vehicles
+Shield AI,robotics,core,defense_autonomy
+DeepMind,robotics,adjacent,research_labs
+Waymo,robotics,core,autonomous_vehicles
+Bedrock Robotics,robotics,core,industrial_field
+Applied Intuition,robotics,adjacent,robotics_software
+FieldAI,robotics,adjacent,research_labs
+Humanoid,robotics,core,humanoids
+World Labs,robotics,adjacent,research_labs
+Niantic Spatial,robotics,adjacent,research_labs
+Raytheon,defense_services,none,
+FigureAI,robotics,core,humanoids
+Wing,robotics,core,defense_autonomy
+Physical Intelligence,robotics,core,humanoids
+The Bot Company,robotics,core,consumer_service
+Dyna Robotics,robotics,core,humanoids
+Dexterity,robotics,core,warehouse_logistics
+Nimble Robotics,robotics,core,warehouse_logistics
+Outrider,robotics,core,warehouse_logistics
+Standard Bots,robotics,core,industrial_automation
+Bright Machines,robotics,core,industrial_automation
+Formic,robotics,core,industrial_automation
+Waabi,robotics,core,autonomous_vehicles
+Stack AV,robotics,core,autonomous_vehicles
+Torc Robotics,robotics,core,autonomous_vehicles
+Saronic,robotics,core,defense_autonomy
+Reliable Robotics,robotics,core,defense_autonomy
+Built Robotics,robotics,core,industrial_field
+ANYbotics,robotics,core,industrial_field
+Viam,robotics,adjacent,robotics_software
+Foxglove,robotics,adjacent,robotics_software
+Hadrian,robotics,core,industrial_automation
+Coco Robotics,robotics,core,consumer_service
+Saildrone,robotics,core,defense_autonomy
+Mytra,robotics,core,warehouse_logistics
+Overland AI,robotics,core,defense_autonomy
+Berkshire Grey,robotics,core,warehouse_logistics
+Plus One Robotics,robotics,core,warehouse_logistics
+Ghost Robotics,robotics,core,defense_autonomy
+Stryker,robotics,adjacent,medical_robotics
+Johnson & Johnson,robotics,adjacent,medical_robotics
+Persona AI,robotics,core,humanoids
+PlusAI,robotics,core,autonomous_vehicles
+Symbotic,robotics,core,warehouse_logistics
+PROCEPT BioRobotics,robotics,core,medical_robotics
+ABB,robotics,adjacent,industrial_automation
+Miso Robotics,robotics,core,consumer_service
+KUKA,robotics,core,industrial_automation
+Teradyne,robotics,adjacent,industrial_automation
+Zimmer Biomet,robotics,adjacent,medical_robotics
+Intuitive Machines,robotics,adjacent,space_hardware
+FANUC America,robotics,core,industrial_automation
+Voyager Technologies,robotics,adjacent,space_hardware
+Starship Technologies,robotics,core,consumer_service
+Exotec,robotics,core,warehouse_logistics
+Gatik,robotics,core,autonomous_vehicles
+Walden Robotics,robotics,core,humanoids
+Woven by Toyota,robotics,core,autonomous_vehicles
+Generalist AI,robotics,adjacent,research_labs
+Genesis AI,robotics,adjacent,research_labs
+Mind Robotics,robotics,core,industrial_automation
+OpenAI,robotics,adjacent,research_labs
+Ocado,robotics,core,warehouse_logistics
+Caterpillar,robotics,core,industrial_field
+Northrop Grumman,robotics,adjacent,space_hardware
+John Deere,robotics,core,industrial_field
+Lockheed Martin,robotics,adjacent,space_hardware
+Ford,robotics,adjacent,ev_automotive
+Joby Aviation,robotics,adjacent,space_hardware
+Mobileye,robotics,core,autonomous_vehicles
+Neura Robotics,robotics,core,humanoids
+Dusty Robotics,robotics,core,industrial_field
+Vecna Robotics,robotics,core,warehouse_logistics
+Realtime Robotics,robotics,adjacent,robotics_software
+Anthropic,robotics,adjacent,research_labs
+xAI,robotics,adjacent,research_labs
+Thinking Machines Lab,robotics,adjacent,research_labs
+Bot Auto,robotics,core,autonomous_vehicles
+Slate Auto,robotics,adjacent,ev_automotive
