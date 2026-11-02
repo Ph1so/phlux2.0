@@ -224,12 +224,16 @@ def render(payload: Dict[str, Any], template: str, document: bool = True) -> str
 
 
 def load_history(names: List[str], today: date) -> tuple[Dict[str, Forecast], List[SeasonRow]]:
-    """Return *names*' forecasts and every past internship, from the full scrape history."""
+    """Return *names*' forecasts and every past internship, from the full scrape history.
+
+    Forecasts follow summer internships only; the past seasons view shows
+    every season's.
+    """
     from phlux.analytics import build_dataset
 
     df = build_dataset(today=today)
     forecasts = {f.company: f for f in forecast(names, openings(df), today)}
-    return forecasts, season_rows(df)
+    return forecasts, season_rows(df, summer_only=False, keep_uncertain=True)
 
 
 def build_site(out_dir: Path, now: Optional[datetime] = None, document: bool = True,

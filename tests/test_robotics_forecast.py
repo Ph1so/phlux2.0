@@ -65,6 +65,29 @@ class TestOpenings:
         assert found["Acme"][2026] == Opening(2026, date(2025, 8, 1), True)
         assert found["Beta"][2026] == Opening(2026, date(2025, 10, 3), True)
 
+    def test_every_season_on_request(self):
+        df = frame([
+            {"company": "Acme", "date": "2025-06-01", "is_internship": False},
+            {"company": "Acme", "date": "2025-08-03", "season": "fall", "title": "Controls Co-op, Fall 2026"},
+            {"company": "Acme", "date": "2025-09-10", "season": "summer"},
+        ])
+        from phlux.robotics.forecast import season_rows
+        assert [r.season for r in season_rows(df)] == ["summer"]
+        assert [r.season for r in season_rows(df, summer_only=False)] == ["fall", "summer"]
+
+    def test_uncertain_rows_kept_as_backlog_on_request(self):
+        from phlux.robotics.forecast import season_rows
+        df = frame([
+            {"company": "Acme", "date": "2025-06-01", "is_internship": False},
+            {"company": "Acme", "date": "2025-08-01", "is_bulk_day": True},
+            {"company": "Junk", "date": "2025-06-01", "is_internship": False},
+            {"company": "Junk", "date": "2025-09-01", "company_is_junk": True},
+            {"company": "Acme", "date": "2025-08-02", "is_duplicate": True},
+        ])
+        assert season_rows(df) == []
+        kept = season_rows(df, keep_uncertain=True)
+        assert [(r.company, r.backlog) for r in kept] == [("Acme", True), ("Junk", True)]
+
     def test_leaves_out_artifacts_and_off_season_internships(self):
         df = frame([
             {"company": "Acme", "date": "2025-06-01", "is_internship": False},

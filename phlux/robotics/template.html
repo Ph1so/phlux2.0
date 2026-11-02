@@ -521,7 +521,7 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
     <section class="past-head">
       <div>
         <h2 id="past-title">Past seasons</h2>
-        <p>Every internship the bot saw in a season, company by company. Ticks are postings; a green dot marks when a company first opened.</p>
+        <p>Every internship and co-op the bot saw in a recruiting year (June to June), company by company. Ticks are postings; a green dot marks when a company first posted one.</p>
       </div>
       <select class="pick" id="past-season" aria-label="Season"></select>
     </section>
@@ -561,6 +561,14 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
         </label>
         <select class="pick" id="p-segment" aria-label="Segment"><option value="">All segments</option></select>
         <select class="pick" id="p-field" aria-label="Field"><option value="">All fields</option></select>
+        <select class="pick" id="p-term" aria-label="Season">
+          <option value="">Any season</option>
+          <option value="summer">Summer</option>
+          <option value="fall">Fall</option>
+          <option value="winter">Winter</option>
+          <option value="spring">Spring</option>
+          <option value="none">Not specified</option>
+        </select>
         <select class="pick" id="p-sort" aria-label="Sort">
           <option value="first">Sort: first to open</option>
           <option value="count">Sort: most internships</option>
@@ -1008,7 +1016,8 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
 
   // ── Past seasons ──────────────────────────────────────────────────────
   var PAST = DATA.past || [];
-  var past = { season: 0, q: "", segment: "", field: "", sort: "first", open: {} };
+  var past = { season: 0, q: "", segment: "", field: "", term: "", sort: "first", open: {} };
+  function seasonName(cycle) { return (cycle - 1) + "–" + String(cycle).slice(2) + " season"; }
 
   function seasonData(i) {
     var s = PAST[i];
@@ -1030,6 +1039,7 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
     if (!inScope(it.company)) return false;
     if (past.segment && it.company.segment !== past.segment) return false;
     if (past.field && it.field !== past.field) return false;
+    if (past.term === "none" ? it.season : past.term && it.season !== past.term) return false;
     if (past.q) {
       var words = past.q.toLowerCase().split(/\s+/).filter(Boolean);
       for (var i = 0; i < words.length; i++) if (it.haystack.indexOf(words[i]) === -1) return false;
@@ -1049,8 +1059,8 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
     if (!PAST.length) return;
     var s = seasonData(past.season);
     var items = s.items.filter(pastMatches);
-    var name = "Summer " + s.cycle;
-    $("past-title").textContent = name;
+    var name = seasonName(s.cycle);
+    $("past-title").textContent = name[0].toUpperCase() + name.slice(1);
 
     // Group by company.
     var byCo = new Map();
@@ -1083,7 +1093,7 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
 
     // Weekly bars.
     var backlog = items.length - dated.length;
-    $("weeks-sub").textContent = "Internships that appeared each week of the " + name + " season" +
+    $("weeks-sub").textContent = "Internships that appeared each week of the " + name +
       (backlog ? ". Another " + backlog.toLocaleString("en-US") + " were already open when first seen, so they aren't counted by week." : ".");
     var max = Math.max.apply(null, counts.concat([1]));
     var bars = $("bars");
@@ -1168,7 +1178,7 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
     return ul;
   }
   if (PAST.length) {
-    PAST.forEach(function (s, i) { $("past-season").appendChild(new Option("Summer " + s.cycle, String(i))); });
+    PAST.forEach(function (s, i) { $("past-season").appendChild(new Option(seasonName(s.cycle), String(i))); });
     var seen = {};
     PAST.forEach(function (s) { s.rows.forEach(function (r) { seen[companies[r[0]].segment] = 1; }); });
     Object.keys(seen).sort().forEach(function (v) { $("p-segment").appendChild(new Option(SEGMENTS[v] || v, v)); });
@@ -1176,7 +1186,7 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
   } else {
     $("tab-past").hidden = true;
   }
-  [["past-season", "season"], ["p-segment", "segment"], ["p-field", "field"], ["p-sort", "sort"]].forEach(function (pair) {
+  [["past-season", "season"], ["p-segment", "segment"], ["p-field", "field"], ["p-term", "term"], ["p-sort", "sort"]].forEach(function (pair) {
     $(pair[0]).addEventListener("change", function () {
       past[pair[1]] = pair[1] === "season" ? +$(pair[0]).value : $(pair[0]).value;
       renderPast();

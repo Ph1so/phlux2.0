@@ -101,28 +101,38 @@ class SeasonRow:
     domain: str = ""
 
 
-def season_rows(df) -> List[SeasonRow]:
-    """Return the history's summer (or season-less) internships, cycle by cycle.
+def season_rows(df, summer_only: bool = True, keep_uncertain: bool = False) -> List[SeasonRow]:
+    """Return the history's internships, cycle by cycle.
 
-    Leaves out duplicates, junk and mass re-detection days, which are scraper
-    artifacts rather than postings appearing.
+    Leaves out duplicates and junk titles. Rows from mass re-detection days and
+    from companies whose scrape was mostly junk are real postings with doubtful
+    dates; they are dropped, or with *keep_uncertain* kept as ``backlog``
+    (already open when first seen), which suits browsing but not measuring
+    openings.
 
     Args:
         df: The frame from :func:`phlux.analytics.build_dataset`.
+        summer_only: Keep only summer (or season-less) internships, which is
+            what openings are measured by; fall, winter and spring co-ops are
+            hired on their own clocks.
+        keep_uncertain: Keep rows with doubtful dates, marked as backlog.
     """
+    uncertain = df["is_bulk_day"].astype(bool) | df["company_is_junk"].astype(bool)
     usable = (
         df["is_internship"].astype(bool)
         & ~df["is_duplicate"].astype(bool)
         & ~df["is_junk_title"].astype(bool)
-        & ~df["company_is_junk"].astype(bool)
-        & ~df["is_bulk_day"].astype(bool)
-        & (df["season"].fillna("").isin(["summer", ""]))
     )
+    if not keep_uncertain:
+        usable &= ~uncertain
+    if summer_only:
+        usable &= df["season"].fillna("").isin(["summer", ""])
+    doubtful = set(df.index[uncertain & usable])
     # The first day each company appears in each file: anything stamped then
     # was a backlog already on its careers page.
     first_day = df.groupby(["company", "source"], observed=True)["date"].min().dt.date.to_dict()
     out = []
-    for row in df[usable].itertuples(index=False):
+    for index, row in zip(df.index[usable], df[usable].itertuples(index=False)):
         day = row.date.date()
         year = None if row.target_year != row.target_year else row.target_year  # NaN when absent
         # Missing text is NaN in the frame; test frames carry fewer columns.
@@ -132,7 +142,7 @@ def season_rows(df) -> List[SeasonRow]:
             title=text("title").replace("⭐️", "").strip(),
             day=day,
             cycle=cycle_of(day, text("season") or None, year),
-            backlog=bool(row.is_seed) or day == first_day.get((row.company, row.source)),
+            backlog=bool(row.is_seed) or day == first_day.get((row.company, row.source)) or index in doubtful,
             season=text("season"),
             target_year=int(year or 0),
             degree=text("degree"),
