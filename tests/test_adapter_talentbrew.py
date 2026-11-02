@@ -81,3 +81,21 @@ def test_total_drift_is_tolerated():
     pages = [page([(1, "A"), (2, "B")], 60, 2), page([(3, "C")], 59, 2)]
     with patch("phlux.adapters.talentbrew.get", side_effect=[response(p) for p in pages]):
         assert len(fetch(URL)) == 3
+
+
+@pytest.mark.parametrize("markup, expected", [
+    ('<span class="job-location">Bedford, Massachusetts</span>', "Bedford, MA"),
+    ('<span class="job-location">Tokyo, Tokyo</span>', "Tokyo"),
+    ('<span class="job-location">London, England, United Kingdom</span>', "London, England, United Kingdom"),
+    ('<span class="search-results__location">Pasadena, CA</span>', "Pasadena, CA"),
+    ("", ""),
+])
+def test_location_inside_the_job_link(markup, expected):
+    html = (f'<section id="search-results" data-total-results="1" data-total-pages="1">'
+            f'<a data-job-id="9" href="/job/9"><h2>Intern</h2>{markup}</a></section>')
+    assert parse_results(html)[0][0].location == expected
+
+
+def test_fetch_keeps_locations():
+    with patch("phlux.adapters.talentbrew.get", return_value=response(page([(1, "A")], 1, 1))):
+        assert [p.location for p in fetch(URL)] == ["Bedford, MA"]

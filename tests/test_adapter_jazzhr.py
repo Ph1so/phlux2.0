@@ -38,3 +38,18 @@ def test_reads_job_links_with_codes_as_ids():
 def test_empty_board():
     with patch("phlux.adapters.jazzhr.get", return_value=response("<p>No openings</p>")):
         assert fetch("https://acme.applytojob.com/") == []
+
+
+def test_location_beside_the_map_marker():
+    html = """
+    <ul class="list-group">
+      <li class="list-group-item"><h3><a href="/apply/aaa/A">A</a></h3>
+        <ul class="list-inline list-group-item-text"><li><i class="fa fa-map-marker"></i>Los Angeles, CA</li>
+          <li><i class="fa fa-sitemap"></i>Engineering</li></ul></li>
+      <li class="list-group-item"><h3><a href="/apply/bbb/B">B</a></h3>
+        <ul class="list-inline list-group-item-text"><li><i class="fa fa-map-marker"></i>Pittsburgh, Pennsylvania</li></ul></li>
+      <li class="list-group-item"><h3><a href="/apply/ccc/C">C</a></h3></li>
+    </ul>"""
+    with patch("phlux.adapters.jazzhr.get", return_value=response(html)):
+        postings = fetch("https://acme.applytojob.com/apply")
+    assert [p.location for p in postings] == ["Los Angeles, CA", "Pittsburgh, PA", ""]

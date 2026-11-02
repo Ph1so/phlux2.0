@@ -50,3 +50,23 @@ def test_a_link_without_an_id_is_kept_whole():
 def test_empty_board():
     with patch("phlux.adapters.paycor.get", return_value=response("<table></table>")):
         assert fetch(URL) == []
+
+
+def test_location_from_the_rows_description():
+    html = """
+    <div class="gnewtonCareerGroupRowClass"><div class="gnewtonCareerGroupJobTitleClass">
+      <a href="JobIntroduction.action?clientId=abc&amp;id=1">A</a></div>
+      <div class="gnewtonCareerGroupJobDescriptionClass">
+        Detroit, MI
+      </div></div>
+    <div class="gnewtonCareerGroupRowClass"><div class="gnewtonCareerGroupJobTitleClass">
+      <a href="JobIntroduction.action?clientId=abc&amp;id=2">B</a></div>
+      <div class="gnewtonCareerGroupJobDescriptionClass">Remote</div></div>
+    <div class="gnewtonCareerGroupRowClass"><div class="gnewtonCareerGroupJobTitleClass">
+      <a href="JobIntroduction.action?clientId=abc&amp;id=3">C</a></div>
+      <div class="gnewtonCareerGroupJobDescriptionClass">Waltham, Massachusetts</div></div>
+    <a href="JobIntroduction.action?clientId=abc&amp;id=4">D</a>
+    """
+    with patch("phlux.adapters.paycor.get", return_value=response(html)):
+        postings = fetch(URL)
+    assert [p.location for p in postings] == ["Detroit, MI", "Remote", "Waltham, MA", ""]

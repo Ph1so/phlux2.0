@@ -41,3 +41,26 @@ def test_reads_postings_with_uuid_ids():
 def test_empty_board():
     with patch("phlux.adapters.gusto.get", return_value=response("<p>No open positions</p>")):
         assert fetch(URL) == []
+
+
+PIN = ('<svg viewBox="0 0 24 24"><path d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0z"/>'
+       '<path d="M15 11a3 3 0 11-6 0 3 3 0 016 0z"/></svg>')
+SALARY = '<p class="text-gray-500 flex items-center"><svg><path d="M0.5 3.31601Z"/></svg> $25 per hour &middot; Intern</p>'
+
+
+def test_locations_beside_the_map_pin():
+    html = f"""
+    <a href="/postings/acme-a-4c883caa-7a7e-445b-9241-c01fcf60bd3f"><div><h3>Deployment Engineer</h3>
+      <p class="text-gray-500 flex">{PIN}
+        Fremont, CA
+        </br>
+        Remote
+        </br>
+      </p>{SALARY}</div></a>
+    <a href="/postings/acme-b-65e8e232-5331-44b9-bed1-181e1d9eddd6"><div><h3>Intern</h3>
+      <p class="text-gray-500 flex">{PIN} San Jose, California </br></p>{SALARY}</div></a>
+    <a href="/postings/acme-c-11111111-5331-44b9-bed1-181e1d9eddd6"><div><h3>No location</h3>{SALARY}</div></a>
+    """
+    with patch("phlux.adapters.gusto.get", return_value=response(html)):
+        postings = fetch(URL)
+    assert [p.location for p in postings] == ["Fremont, CA +1", "San Jose, CA", ""]

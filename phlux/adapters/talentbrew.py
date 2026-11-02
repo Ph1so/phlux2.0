@@ -15,7 +15,9 @@ between requests), this module stops there rather than read jobs outside the
 Link's scope.
 
 A job's ``data-job-id`` is the stable key, and its link
-(``/job/<city>/<title slug>/<site id>/<job id>``) is the job's page.
+(``/job/<city>/<title slug>/<site id>/<job id>``) is the job's page. The
+link's ``.job-location`` is where the job is ("Bedford, Massachusetts", written
+"Bedford, MA").
 """
 from __future__ import annotations
 
@@ -24,7 +26,7 @@ from typing import Dict, List, Optional, Tuple
 from urllib.parse import urlencode, urlsplit, urlunsplit
 
 from ..models import Posting
-from .base import adapter, bare_url, get, query, soup, text, unique
+from .base import adapter, bare_url, get, query, soup, text, tidy_place, unique
 
 logger = logging.getLogger(__name__)
 
@@ -35,6 +37,8 @@ PAGE_PARAM = "p"
 # Attributes of section#search-results that must match across pages of one search.
 SCOPE_ATTRS = ("data-keywords", "data-location")
 TOTAL_ATTR = "data-total-results"
+# Where a result names its location; sites built from other templates name the class alike.
+LOCATION = ".job-location, [class*='location']"
 
 
 def page_url(url: str, page: int) -> str:
@@ -62,7 +66,9 @@ def parse_results(html: str, base_url: str = "") -> Tuple[List[Posting], Dict[st
         title = text(heading if heading is not None else link)
         if title:
             url = bare_url(link["href"], base_url) if link.get("href") else ""
-            postings.append(Posting(f"{NAME}:{link['data-job-id']}", title, url=url))
+            where = link.select_one(LOCATION)
+            postings.append(Posting(f"{NAME}:{link['data-job-id']}", title,
+                                    tidy_place(text(where)) if where is not None else "", url))
     scope = {attr: section.get(attr, "") for attr in SCOPE_ATTRS + (TOTAL_ATTR,)}
     pages = section.get("data-total-pages", "")
     if not pages.isdigit():

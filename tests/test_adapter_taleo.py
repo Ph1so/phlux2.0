@@ -71,3 +71,45 @@ def test_stops_when_scroll_link_repeats_page():
 def test_no_jobs():
     with patch("phlux.adapters.taleo.get", return_value=response(page([], 0))):
         assert fetch(URL) == []
+
+
+def sort_by(*names):
+    options = "".join(f'<option value="{URL}&act=sort&sortColumn={i}">{n}</option>' for i, n in enumerate(names))
+    return (f'<label for="sel1">Sort by:</label><select class="form-select orderbyPicker" id="sel1">{options}</select>'
+            '<select class="sortOrderbyPicker"><option value="sortOrder=A">Ascending</option></select>')
+
+
+def detailed_row(rid, *lines):
+    cells = "".join(f'<div tabindex="0" >{line}</div>' for line in lines)
+    return (f'<div class="oracletaleocwsv2-accordion-head-info"><h4 class="oracletaleocwsv2-head-title">'
+            f'<a href="{BASE}viewRequisition?org=ACME&amp;cws=47&amp;rid={rid}">Intern {rid}</a></h4>{cells}</div>')
+
+
+def test_location_column_named_by_the_sort_options():
+    html = sort_by("Job Title", "Job Function", "Location", "Req #") + page([
+        detailed_row(1, "Other", "San Jose, CA", "1"),
+        detailed_row(2, "Legal", "Santa Clara, California", "2"),
+        detailed_row(3, "Other"),
+    ])
+    postings, _, _ = parse_results(html, URL)
+    assert [p.location for p in postings] == ["San Jose, CA", "Santa Clara, CA", ""]
+
+
+def test_other_column_orders():
+    html = sort_by("Location", "Job Title", "Req #") + page([detailed_row(1, "Bridgewater, NJ", "1")])
+    assert parse_results(html, URL)[0][0].location == "Bridgewater, NJ"
+
+
+def test_no_location_without_the_sort_options():
+    assert parse_results(page([detailed_row(1, "Other", "San Jose, CA", "1")]), URL)[0][0].location == ""
+
+
+def test_scrolled_rows_use_the_first_pages_columns():
+    pages = [
+        sort_by("Job Title", "Job Function", "Location", "Req #")
+        + page([detailed_row(1, "Other", "San Jose, CA", "1")], 2, "searchResults?org=ACME&cws=47&act=next&rowFrom=1"),
+        page([detailed_row(2, "Other", "Bridgewater, NJ", "2")]),
+    ]
+    with patch("phlux.adapters.taleo.get", side_effect=[response(p) for p in pages]):
+        postings = fetch(URL)
+    assert [p.location for p in postings] == ["San Jose, CA", "Bridgewater, NJ"]

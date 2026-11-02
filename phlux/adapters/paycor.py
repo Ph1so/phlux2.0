@@ -5,7 +5,8 @@ with the job's ``id``. Its search form submits as a GET
 (``CareerHomeSearch.action?clientId=...&keyword=...&departmentId=...``), so a
 filtered board URL is fetched as it is and read with its filters. That link,
 kept to its ``clientId`` and ``id`` (it also carries the board's display and
-source parameters), is the job's page.
+source parameters), is the job's page. The row's description cell under the
+title is the job's location ("Waltham, MA", "Remote").
 """
 from __future__ import annotations
 
@@ -13,7 +14,7 @@ from typing import List
 from urllib.parse import urlencode, urljoin, urlsplit, urlunsplit
 
 from ..models import Posting
-from .base import adapter, first, get, query, soup, text, unique
+from .base import adapter, first, get, query, soup, text, tidy_place, unique
 
 
 # The parameters of a job link that pick the job; the rest only steer the display.
@@ -30,6 +31,13 @@ def job_page(job_url: str) -> str:
     return urlunsplit((parts.scheme, parts.netloc, parts.path, urlencode(kept), ""))
 
 
+def location(link) -> str:
+    """Return the location in the board row a job link is in."""
+    row = link.find_parent(class_="gnewtonCareerGroupRowClass")
+    cell = row.select_one(".gnewtonCareerGroupJobDescriptionClass") if row is not None else None
+    return tidy_place(text(cell)) if cell is not None else ""
+
+
 @adapter("paycor")
 def fetch(url: str, arg: str = "") -> List[Posting]:
     """Return the postings listed on a Paycor board page."""
@@ -39,5 +47,5 @@ def fetch(url: str, arg: str = "") -> List[Posting]:
         job_id = first(query(job_url), "id") or job_url
         title = text(link)
         if title:
-            postings.append(Posting(f"paycor:{job_id}", title, url=job_page(job_url)))
+            postings.append(Posting(f"paycor:{job_id}", title, location(link), job_page(job_url)))
     return unique(postings)

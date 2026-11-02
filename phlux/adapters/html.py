@@ -12,16 +12,19 @@ selector can name the job's container too, Selenium-style:
 ``@html:.b-job-item >> .b-job-item__title`` takes the title from the first
 ``.b-job-item__title`` in each ``.b-job-item`` and, failing a link around the
 title, the first link in that container. A title with no link at all is keyed
-by its text (:func:`~phlux.adapters.base.title_id`).
+by its text (:func:`~phlux.adapters.base.title_id`). In a container, the first
+element whose class names a location (``.b-job-item__location``) is the job's
+location; without a container there is none.
 """
 from __future__ import annotations
 
 import logging
+import re
 from typing import List, Optional
 from urllib.parse import urljoin, urlsplit
 
 from ..models import Posting
-from .base import adapter, get, soup, text, title_id, unique
+from .base import adapter, get, soup, text, tidy_place, title_id, unique
 
 logger = logging.getLogger(__name__)
 
@@ -29,12 +32,26 @@ NAME = "html"
 HEADERS = {"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"}
 # Webflow collection lists stop at 100 items, silently.
 WEBFLOW_CAP = 100
+# In a job's container, an element whose class says it holds the location.
+LOCATION = "[class*='location' i]"
+LABEL = re.compile(r"^locations?\s*:\s*", re.IGNORECASE)
 
 
 def _link(node) -> Optional[str]:
     """Return the href of *node* if it is a link, else of the link around it."""
     anchor = node if node.name == "a" else node.find_parent("a")
     return anchor.get("href") if anchor is not None and anchor.get("href") else None
+
+
+def _location(item, title) -> str:
+    """Return the text of the first location element in container *item*, outside its *title*."""
+    for node in item.select(LOCATION):
+        if node is title or any(p is title for p in node.parents) or any(p is node for p in title.parents):
+            continue
+        found = LABEL.sub("", text(node))
+        if found:
+            return tidy_place(found)
+    return ""
 
 
 def postings(html: str, base_url: str, selector: str) -> List[Posting]:
@@ -47,12 +64,13 @@ def postings(html: str, base_url: str, selector: str) -> List[Posting]:
             title = item.select_one(title_selector)
             if title is not None:
                 inner = item.select_one("a[href]")
-                pairs.append((title, _link(title) or (inner.get("href") if inner is not None else None)))
+                pairs.append((title, _link(title) or (inner.get("href") if inner is not None else None),
+                              _location(item, title)))
     else:
-        pairs = [(title, _link(title)) for title in page.select(container)]
+        pairs = [(title, _link(title), "") for title in page.select(container)]
 
     found = []
-    for node, href in pairs:
+    for node, href, location in pairs:
         title = text(node)
         if not title:
             continue
@@ -60,7 +78,7 @@ def postings(html: str, base_url: str, selector: str) -> List[Posting]:
         key = f"{NAME}:{link}" if link else title_id(NAME, title)
         # A mailto: or javascript: "link" is no page to send a person to.
         url = link if urlsplit(link).scheme in ("http", "https") else ""
-        found.append(Posting(key, title, url=url))
+        found.append(Posting(key, title, location, url))
     return unique(found)
 
 

@@ -11,6 +11,10 @@ Pages hold about 20 jobs and are chosen with ``pr`` (counting from 0); the
 first page says "Page 1 of N". A job's id, from its link
 ``/jobs/<id>/<slug>/job``, is the stable key; that link, without the iframe
 view's ``in_iframe=1``, is the job's page.
+
+Each result's "Job Locations" field codes its place as country, region and
+city (``US-CA-San Carlos``, ``JP-13-Tokyo``), written "San Carlos, CA" and
+"Tokyo, Japan"; several are separated by ``|``.
 """
 from __future__ import annotations
 
@@ -20,7 +24,7 @@ from typing import Dict, List, Optional
 from urllib.parse import urlencode, urlsplit, urlunsplit
 
 from ..models import Posting
-from .base import adapter, bare_url, get, paged, query, soup, text
+from .base import adapter, bare_url, format_place, get, paged, place, query, soup, text, us_state
 
 logger = logging.getLogger(__name__)
 
@@ -31,6 +35,44 @@ MAX_PAGES = 50
 DROPPED = {"pr", "in_iframe"}
 JOB_ID = re.compile(r"/jobs/(\d+)/")
 PAGE_COUNT = re.compile(r"Page\s+\d+\s+of\s+(\d+)")
+# The labels a result gives its location field.
+LOCATION_LABELS = {"job locations", "job location", "locations", "location"}
+COUNTRY_CODE = re.compile(r"^[A-Z]{2}$")
+REGION_CODE = re.compile(r"^[A-Za-z0-9]{1,3}$")
+
+
+def coded_place(code: str) -> str:
+    """Return an iCIMS location code written out: ``US-CA-San Carlos`` → "San Carlos, CA".
+
+    A numeric region (``JP-13-Tokyo``) is left out, and a city may hold hyphens
+    (``US-NC-Winston-Salem``). Text that is no such code is kept as it is.
+    """
+    code = " ".join(code.split())
+    country, _, rest = code.partition("-")
+    if not COUNTRY_CODE.match(country) or not rest:
+        return code
+    region, _, city = rest.partition("-")
+    if not city:
+        # "US-CA" names a state; "US-Remote" or "SG-Singapore" a place.
+        if country == "US" and us_state(region):
+            return format_place("", region, country)
+        return format_place(rest, "", country)
+    if not REGION_CODE.match(region):
+        region, city = "", rest
+    return format_place(city, "" if region.isdigit() else region, country)
+
+
+def location(anchor) -> str:
+    """Return the location field of the result a job link is in, and how many more it names."""
+    card = anchor.find_parent(class_="iCIMS_JobCardItem") or anchor.find_parent(class_="row")
+    if card is None:
+        return ""
+    for label in card.select(".field-label"):
+        if text(label).casefold() in LOCATION_LABELS:
+            value = label.find_next_sibling()
+            codes = text(value).split("|") if value is not None else []
+            return place(None, [coded_place(c) for c in codes])
+    return ""
 
 
 def page_url(url: str, page: int) -> str:
@@ -49,6 +91,7 @@ def parse_results(html: str, base_url: str = "") -> tuple[List[Posting], Optiona
         match = JOB_ID.search(anchor["href"])
         if not match:
             continue
+        where = location(anchor)
         heading = anchor.find(["h3", "h2", "h4"])
         if heading is not None:
             title = text(heading)
@@ -57,7 +100,7 @@ def parse_results(html: str, base_url: str = "") -> tuple[List[Posting], Optiona
                 label.decompose()
             title = text(anchor)
         if title:
-            postings.append(Posting(f"{NAME}:{match.group(1)}", title, url=bare_url(anchor["href"], base_url)))
+            postings.append(Posting(f"{NAME}:{match.group(1)}", title, where, bare_url(anchor["href"], base_url)))
     count = PAGE_COUNT.search(page.get_text(" "))
     return postings, int(count.group(1)) if count else None
 

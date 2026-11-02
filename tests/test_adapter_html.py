@@ -98,3 +98,24 @@ def test_webflow_cap_is_flagged(caplog):
     with patch("phlux.adapters.html.get", return_value=response(html)), caplog.at_level(logging.WARNING):
         assert len(fetch(URL, arg=".j")) == 100
     assert "Webflow" in caplog.text
+
+
+def test_location_from_the_container():
+    html = """
+    <div class="b-job-item"><div class="b-job-item__title"><h3>Research Intern: Polymer Composite</h3></div>
+      <div class="b-job-item__location">
+        Columbus, OH
+      </div><a href="/-/polymer">View More</a></div>
+    <div class="b-job-item"><div class="b-job-item__title"><h3>Research Intern: Planning</h3></div>
+      <span class="job-location-icon"></span><p class="Location">Location: San Jose, California</p>
+      <a href="/-/planning">View More</a></div>
+    <div class="b-job-item"><div class="b-job-item__title"><h3>Research Intern: Vision</h3></div>
+      <a href="/-/vision">View More</a></div>
+    """
+    found = postings(html, URL, ".b-job-item >> .b-job-item__title")
+    assert [p.location for p in found] == ["Columbus, OH", "San Jose, CA", ""]
+
+
+def test_no_location_without_a_container():
+    html = '<li><h2><a href="/jobs/2">Robotics Intern</a></h2><span class="location">Boston, MA</span></li>'
+    assert postings(html, URL, "h2 a")[0].location == ""

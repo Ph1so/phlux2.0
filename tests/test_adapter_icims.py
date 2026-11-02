@@ -1,6 +1,8 @@
 """Tests for phlux/adapters/icims.py (HTTP mocked)."""
 from unittest.mock import MagicMock, patch
 
+import pytest
+
 from phlux.adapters import ADAPTERS
 from phlux.adapters.icims import fetch, page_url, parse_results
 
@@ -76,3 +78,42 @@ def test_no_results():
     with patch("phlux.adapters.icims.get", return_value=response("<html><body>No jobs</body></html>")) as get:
         assert fetch(PORTAL) == []
     assert get.call_count == 1
+
+
+def card(job_id, where):
+    """A result as the job-card layout renders it, with its "Job Locations" field."""
+    return f"""
+    <li class="iCIMS_JobCardItem"><div class="row">
+      <div class="col-xs-6 header left"><span class="sr-only field-label">Job Locations</span>
+        <span>
+        {where}</span></div>
+      <div class="col-xs-12 title"><a class="iCIMS_Anchor" href="{PORTAL[:-7]}/{job_id}/slug/job">
+        <span class="sr-only field-label">Title</span><h3>Intern {job_id}</h3></a></div>
+      <div class="col-xs-12 additionalFields"><dl><dt class="iCIMS_JobHeaderField">Category</dt>
+        <dd><span>Flight Test</span></dd></dl></div>
+    </div></li>"""
+
+
+@pytest.mark.parametrize("where, expected", [
+    ("US-CA-San Carlos", "San Carlos, CA"),
+    ("US-NC-Winston-Salem", "Winston-Salem, NC"),
+    ("JP-13-Tokyo", "Tokyo, Japan"),
+    ("DE-BY-Munich", "Munich, Germany"),
+    ("US-CA", "California"),
+    ("US-Remote", "Remote"),
+    ("US-CA-Marina | US-CA-San Carlos", "Marina, CA +1"),
+    ("Multiple Locations", "Multiple Locations"),
+])
+def test_location_codes_written_out(where, expected):
+    postings, _ = parse_results(results([card(7, where)], 1, 1))
+    assert postings[0].location == expected
+
+
+def test_row_layout_location():
+    postings, _ = parse_results(results([row(5486, "Intern")], 1, 1))
+    assert postings[0].location == "California"
+
+
+def test_no_location_field():
+    html = f'<a class="iCIMS_Anchor" href="{PORTAL[:-7]}/12/x/job"><h3>Intern</h3></a>'
+    assert parse_results(html)[0][0].location == ""
