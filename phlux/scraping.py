@@ -79,6 +79,9 @@ SEED_FLAG = "seed_new_companies"
 # scrape date, and closures waiting for a second look.
 CHECKED_KEY = "checked"
 PENDING_KEY = "pending_closures"
+# Top-level storage key kept by track_failures: companies whose scrape is
+# failing, since when and with what error (see phlux.health).
+FAILING_KEY = "failing"
 # A drop of at least this many postings, and over this share of a company's open
 # ones, is held until a scrape at least CONFIRM_AFTER later sees the same.
 BIG_DROP_MIN = 5
@@ -534,6 +537,27 @@ def process_jobs(data: dict, result: ScrapeResult, new_jobs: Dict, seed: bool = 
         }
 
 
+def track_failures(data: dict, name: str, error: str | None = None, now: datetime | None = None) -> None:
+    """Record when a company's scrape starts failing, and forget it once it works again.
+
+    Only the first failure is written (its date and error), so a company that
+    fails every run changes storage once rather than on every run (each bot
+    commit starts another run).
+
+    Args:
+        data: Mutable ``storage.json`` contents.
+        name: The company scraped.
+        error: The scrape's error, or None if it succeeded.
+        now: Stand-in for the current time.
+    """
+    failing = data.setdefault(FAILING_KEY, {})
+    if error is None:
+        failing.pop(name, None)
+    elif name not in failing:
+        today = (now or datetime.now(EASTERN)).date().isoformat()
+        failing[name] = {"since": today, "error": " ".join(error.split())[:200]}
+
+
 def _posting_key(entry: dict) -> str:
     return entry.get("id") or f"title:{entry['title']}"
 
@@ -741,10 +765,12 @@ class ScrapeManager:
                 failed = False
                 try:
                     result = future.result()
+                    track_failures(data, company.name)
                 except Exception as e:
                     logger.error("Error scraping %s: %s", company.name, e)
                     result = ScrapeResult(company.name, [], company.link)
                     failed = True
+                    track_failures(data, company.name, str(e))
                 if not result.jobs:
                     no_jobs_count += 1
                 seed = seed_empty and not data.get("companies", {}).get(company.name)

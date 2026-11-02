@@ -685,3 +685,47 @@ class TestScrapeCompaniesClosures:
                             return_value=ScrapeResult("Acme", [], "https://jobs.ashbyhq.com/acme"))
         assert "Acme" in data["pending_closures"]
         assert "Acme" in data["checked"]
+
+
+# ── track_failures ────────────────────────────────────────────────────────────
+
+class TestTrackFailures:
+    WHEN = pytz.timezone("US/Eastern").localize(datetime(2026, 11, 2, 9, 0))
+
+    def test_records_the_first_failure_only(self):
+        from phlux.scraping import track_failures
+        data = {}
+        track_failures(data, "Uber", "HTTPError: 403 Client Error:\n Forbidden", now=self.WHEN)
+        first = copy.deepcopy(data)
+        track_failures(data, "Uber", "HTTPError: 500 Server Error", now=self.WHEN.replace(day=3))
+        assert data == first == {"failing": {"Uber": {"since": "2026-11-02", "error": "HTTPError: 403 Client Error: Forbidden"}}}
+
+    def test_success_clears_it(self):
+        from phlux.scraping import track_failures
+        data = {"failing": {"Uber": {"since": "2026-11-02", "error": "403"}}}
+        track_failures(data, "Uber", now=self.WHEN)
+        track_failures(data, "Acme", now=self.WHEN)
+        assert data == {"failing": {}}
+
+    def test_scrape_manager_tracks_both(self, tmp_path):
+        import json
+        from concurrent.futures import ThreadPoolExecutor
+
+        from phlux.scraping import ScrapeManager
+
+        path = tmp_path / "storage.json"
+        path.write_text(json.dumps({"companies": {}, "failing": {"Beta": {"since": "2026-10-30", "error": "x"}}}))
+
+        def scrape(company):
+            if company.name == "Acme":
+                raise RuntimeError("HTTPError: 403 Forbidden")
+            return ScrapeResult(company.name, ["Planner"], company.link, ["ashby:1"])
+
+        with patch("phlux.scraping.ProcessPoolExecutor", ThreadPoolExecutor), \
+             patch("phlux.config.load_config", return_value={}), \
+             patch("phlux.scraping.scrape_company", side_effect=scrape):
+            data = ScrapeManager().scrape_companies(
+                [Company("Acme", "https://a", "@ashby"), Company("Beta", "https://b", "@ashby")],
+                storage_path=str(path), max_workers=2)["data"]
+        assert list(data["failing"]) == ["Acme"]
+        assert data["failing"]["Acme"]["error"] == "HTTPError: 403 Forbidden"

@@ -27,6 +27,7 @@ from phlux.analytics.dataset import load_industries
 from phlux.analytics.sources import STORAGE
 from phlux.analytics.titles import parse_title
 from phlux.config import load_company_list_setting
+from phlux.health import find_issues, status
 from phlux.lists import REPO_ROOT, select_companies
 from phlux.models import Company
 from phlux.scraping import CHECKED_KEY, NA_DATE, load_company_data
@@ -125,6 +126,7 @@ def build_payload(
     today = now.date()
     stored = storage.get("companies", {})
     checked = storage.get(CHECKED_KEY, {})
+    issues = {i.company: i for i in find_issues(storage, [c.name for c in companies], today)}
     company_rows, postings = [], []
     for company in companies:
         tags = industries.get(company.name, {})
@@ -137,6 +139,7 @@ def build_payload(
             "careers": board_link(company.link),
             "icon": icons.get(company.name, ""),
             "checked": checked.get(company.name, ""),
+            "health": status(issues.get(company.name)),
             "forecast": fc.as_dict() if fc else None,
         })
         postings += internship_rows(company.name, stored.get(company.name, []), today)

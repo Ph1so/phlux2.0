@@ -58,6 +58,8 @@ class TestBuildPayload:
         assert acme["checked"] == "2026-11-01"
         assert acme["forecast"]["expected"] == "2026-11-20"
         assert quant["forecast"] is None
+        assert acme["health"]["status"] == "ok"
+        assert quant["health"] == {"status": "stale", "since": None, "detail": "never checked"}
 
     def test_postings_are_rows_of_the_listed_fields(self):
         payload = self.payload()
