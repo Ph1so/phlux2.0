@@ -9,13 +9,14 @@ own search parameters (``keywords``, ``location``, ``categories``, ``tags1``,
 
 The API returns at most :data:`PAGE_SIZE` jobs per request (a larger limit is
 an error); pages count from 1 until ``totalCount``. A job's ``req_id`` (its
-iCIMS requisition number, also its ``slug``) is the stable key.
+iCIMS requisition number, also its ``slug``) is the stable key. The job's page
+is its ``slug`` under the search page: ``…/careers-home/jobs/<slug>``.
 """
 from __future__ import annotations
 
 import logging
 from typing import Dict, List, Tuple
-from urllib.parse import urlsplit
+from urllib.parse import quote, urlsplit
 
 from ..models import Posting
 from .base import adapter, get, paged, query
@@ -42,10 +43,24 @@ def _job_id(job: dict) -> str:
     return str(job.get("req_id") or job.get("slug") or job.get("apply_url") or "")
 
 
+def jobs_page(url: str) -> str:
+    """Return the page job pages sit under: the search page ``…/jobs``, or ``/jobs`` on its site."""
+    parts = urlsplit(url)
+    path = parts.path.rstrip("/")
+    return f"{parts.scheme}://{parts.netloc}" + (path if path.endswith("/jobs") else "/jobs")
+
+
+def job_url(jobs: str, job: dict) -> str:
+    """Return a job's page under *jobs* (:func:`jobs_page`), or "" if it has no slug or id."""
+    slug = str(job.get("slug") or job.get("req_id") or "")
+    return f"{jobs}/{quote(slug, safe='')}" if slug else ""
+
+
 @adapter(NAME)
 def fetch(url: str, arg: str = "") -> List[Posting]:
     """Return the jobs a Jibe search URL shows, across all its pages."""
     api, params = api_request(url)
+    jobs_url = jobs_page(url)
     total: Dict[str, int] = {}
 
     def fetch_page(page: int) -> List[Posting]:
@@ -54,7 +69,8 @@ def fetch(url: str, arg: str = "") -> List[Posting]:
         body = get(api, params=params + [("page", str(page + 1)), ("limit", str(PAGE_SIZE))]).json()
         total["count"] = int(body.get("totalCount") or 0)
         jobs = [j.get("data", j) for j in body.get("jobs") or []]
-        return [Posting(f"{NAME}:{_job_id(j)}", " ".join(j["title"].split())) for j in jobs if _job_id(j)]
+        return [Posting(f"{NAME}:{_job_id(j)}", " ".join(j["title"].split()), url=job_url(jobs_url, j))
+                for j in jobs if _job_id(j)]
 
     postings = paged(fetch_page, max_pages=MAX_PAGES)
     if total.get("count", 0) > len(postings):

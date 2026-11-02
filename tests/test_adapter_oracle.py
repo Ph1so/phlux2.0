@@ -4,7 +4,7 @@ from unittest.mock import MagicMock, patch
 import pytest
 
 from phlux.adapters import ADAPTERS
-from phlux.adapters.oracle import fetch, finder_terms
+from phlux.adapters.oracle import fetch, finder_terms, site_page
 
 SITE = "https://acme.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/jobs"
 API = "https://acme.fa.em5.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions"
@@ -52,6 +52,7 @@ def test_pages_by_offset_until_total():
         postings = fetch(SITE + "?keyword=intern")
     assert len(postings) == 201
     assert (postings[0].id, postings[0].title) == ("oraclehcm:0", "Job 0")
+    assert postings[0].url == "https://acme.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/0"
     assert get.call_count == 2
     first, second = get.call_args_list
     assert first.args == (API,)
@@ -61,6 +62,13 @@ def test_pages_by_offset_until_total():
         "finder": "findReqs;siteNumber=CX_1,keyword=intern,limit=200,offset=0",
     }
     assert second.kwargs["params"]["finder"].endswith("offset=200")
+
+
+def test_site_page_drops_the_search():
+    assert site_page(SITE + "/?keyword=intern&mode=location") == (
+        "https://acme.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1")
+    with pytest.raises(ValueError):
+        site_page("https://acme.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/")
 
 
 def test_no_jobs():

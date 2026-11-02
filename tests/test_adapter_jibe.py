@@ -2,7 +2,9 @@
 from unittest.mock import MagicMock, patch
 
 from phlux.adapters import ADAPTERS
-from phlux.adapters.jibe import api_request, fetch
+import pytest
+
+from phlux.adapters.jibe import api_request, fetch, jobs_page
 
 PAGE = "https://careers.acme.com/careers-home/jobs"
 API = "https://careers.acme.com/api/jobs"
@@ -33,6 +35,7 @@ def test_pages_from_one_until_total():
         postings = fetch(PAGE + "?categories=Interns")
     assert len(postings) == 101
     assert (postings[0].id, postings[0].title) == ("jibe:0", "Intern 0")
+    assert postings[0].url == "https://careers.acme.com/careers-home/jobs/0"
     first, second = get.call_args_list
     assert first.args == (API,)
     assert first.kwargs["params"] == [("categories", "Interns"), ("page", "1"), ("limit", "100")]
@@ -43,7 +46,16 @@ def test_pages_from_one_until_total():
 def test_falls_back_to_slug():
     payload = {"totalCount": 1, "jobs": [{"data": {"slug": "abc", "title": "Co-op"}}]}
     with patch("phlux.adapters.jibe.get", return_value=response(payload)):
-        assert [p.id for p in fetch(PAGE)] == ["jibe:abc"]
+        assert [(p.id, p.url) for p in fetch(PAGE)] == [("jibe:abc", "https://careers.acme.com/careers-home/jobs/abc")]
+
+
+@pytest.mark.parametrize("url, expected", [
+    (PAGE + "/?page=2", PAGE),
+    ("https://jobs.acme.com/jobs?keywords=intern", "https://jobs.acme.com/jobs"),
+    ("https://jobs.acme.com/search?keywords=intern", "https://jobs.acme.com/jobs"),
+])
+def test_job_pages_sit_under_the_search_page(url, expected):
+    assert jobs_page(url) == expected
 
 
 def test_no_jobs():

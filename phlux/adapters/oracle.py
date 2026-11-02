@@ -17,7 +17,8 @@ match titles.
 
 The API returns at most :data:`PAGE_SIZE` jobs per request (a larger limit
 returns none); pages follow ``offset`` until ``TotalJobsCount``. A job's
-``Id`` (the requisition number) is the stable key.
+``Id`` (the requisition number) is the stable key, and its page is
+``…/CandidateExperience/<lang>/sites/<site>/job/<Id>``.
 """
 from __future__ import annotations
 
@@ -64,12 +65,23 @@ def finder_terms(url: str) -> List[str]:
     return terms
 
 
+def site_page(url: str) -> str:
+    """Return the Candidate Experience site a search page *url* belongs to, ``…/sites/<site>``."""
+    parts = urlsplit(url)
+    segments = [s for s in parts.path.split("/") if s]
+    names = [unquote(s) for s in segments]
+    if "sites" not in names or names.index("sites") + 1 >= len(names):
+        raise ValueError(f"No Candidate Experience site in {url}")
+    return f"{parts.scheme}://{parts.netloc}/" + "/".join(segments[:names.index("sites") + 2])
+
+
 @adapter(NAME)
 def fetch(url: str, arg: str = "") -> List[Posting]:
     """Return the jobs an Oracle Cloud HCM search URL shows, across all its pages."""
     parts = urlsplit(url)
     api = API.format(origin=f"{parts.scheme}://{parts.netloc}")
     terms = finder_terms(url)
+    site = site_page(url)
     total: Dict[str, int] = {}
 
     def fetch_page(page: int) -> List[Posting]:
@@ -83,7 +95,7 @@ def fetch(url: str, arg: str = "") -> List[Posting]:
             return []
         total["count"] = int(items[0].get("TotalJobsCount") or 0)
         return [
-            Posting(f"{NAME}:{job['Id']}", " ".join(job["Title"].split()))
+            Posting(f"{NAME}:{job['Id']}", " ".join(job["Title"].split()), url=f"{site}/job/{job['Id']}")
             for job in items[0].get("requisitionList") or []
         ]
 
