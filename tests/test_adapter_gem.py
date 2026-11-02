@@ -22,8 +22,8 @@ def test_reads_job_posts():
     ]
     with patch("phlux.adapters.gem.get", return_value=response(payload)) as get:
         postings = fetch("https://jobs.gem.com/acme")
-    assert [(p.id, p.title) for p in postings] == [
-        ("gem:am9icG9zdDpx", "Forward Deployed Engineer"),
-        ("gem:am9icG9zdDpM", "Robotics Intern"),
+    assert [(p.id, p.title, p.url) for p in postings] == [
+        ("gem:am9icG9zdDpx", "Forward Deployed Engineer", "https://jobs.gem.com/acme/am9icG9zdDpx"),
+        ("gem:am9icG9zdDpM", "Robotics Intern", ""),
     ]
     get.assert_called_once_with("https://api.gem.com/job_board/v0/acme/job_posts/")

@@ -6,7 +6,8 @@ several locations once per location, under the same id; those collapse into
 one posting here. That endpoint takes the board URL's own filters —
 ``searchQuery``, ``workplaceType``, ``country``, ``state``, ``city``,
 ``departments`` — so they are passed through as they are, and a person
-opening the link sees the same jobs.
+opening the link sees the same jobs. Each job's ``url`` is its page,
+``ats.rippling.com/<slug>/jobs/<id>``.
 """
 from __future__ import annotations
 
@@ -18,6 +19,7 @@ from ..models import Posting
 from .base import adapter, get, paged, query, unique
 
 API = "https://ats.rippling.com/api/v2/board/{slug}/jobs"
+JOB_PAGE = "https://ats.rippling.com/{slug}/jobs/{id}"
 PAGE_SIZE = 100
 # The adapter pages through the board itself.
 PAGING_PARAMS = {"page", "pageSize"}
@@ -48,7 +50,8 @@ def board_filters(url: str) -> Dict[str, List[str]]:
 @adapter("rippling")
 def fetch(url: str, arg: str = "") -> List[Posting]:
     """Return the postings a Rippling board URL shows, filtered by its query."""
-    api = API.format(slug=board_slug(url))
+    slug = board_slug(url)
+    api = API.format(slug=slug)
     filters = board_filters(url)
     total_pages: List[int] = []
 
@@ -57,6 +60,9 @@ def fetch(url: str, arg: str = "") -> List[Posting]:
             return []
         data = get(api, params={**filters, "page": n, "pageSize": PAGE_SIZE}).json()
         total_pages[:] = [data.get("totalPages") or 1]
-        return [Posting(f"rippling:{j['id']}", j["name"]) for j in data.get("items", [])]
+        return [
+            Posting(f"rippling:{j['id']}", j["name"], url=j.get("url") or JOB_PAGE.format(slug=slug, id=j["id"]))
+            for j in data.get("items", [])
+        ]
 
     return unique(paged(page))

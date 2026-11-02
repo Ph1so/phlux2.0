@@ -16,7 +16,8 @@ def response(payload):
 
 
 def job(job_id, name, city="Boston"):
-    return {"id": job_id, "name": name, "locations": [{"city": city}]}
+    return {"id": job_id, "name": name, "url": f"https://ats.rippling.com/acme/jobs/{job_id}",
+            "locations": [{"city": city}]}
 
 
 def test_registered():
@@ -49,11 +50,18 @@ def test_one_posting_per_job_id_with_filters_passed_on():
     ], "totalPages": 1}
     with patch("phlux.adapters.rippling.get", return_value=response(payload)) as get:
         postings = fetch("https://ats.rippling.com/acme/jobs?page=0&pageSize=100&searchQuery=intern")
-    assert [(p.id, p.title) for p in postings] == [
-        ("rippling:a", "Robotics  Intern"),
-        ("rippling:b", "Recruiter"),
+    assert [(p.id, p.title, p.url) for p in postings] == [
+        ("rippling:a", "Robotics  Intern", "https://ats.rippling.com/acme/jobs/a"),
+        ("rippling:b", "Recruiter", "https://ats.rippling.com/acme/jobs/b"),
     ]
     get.assert_called_once_with(API, params={"searchQuery": ["intern"], "page": 0, "pageSize": 100})
+
+
+def test_a_job_without_a_url_links_to_its_board_page():
+    payload = {"items": [{"id": "c", "name": "Intern"}], "totalPages": 1}
+    with patch("phlux.adapters.rippling.get", return_value=response(payload)):
+        postings = fetch("https://ats.rippling.com/en-GB/acme/jobs")
+    assert postings[0].url == "https://ats.rippling.com/acme/jobs/c"
 
 
 def test_pages_until_total_pages():
