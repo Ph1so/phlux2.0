@@ -6,6 +6,7 @@ most recent postings, trimmed to a byte budget. The full history goes into
 """
 from __future__ import annotations
 
+import html
 import json
 import shutil
 from dataclasses import dataclass
@@ -30,6 +31,7 @@ class Row:
     company: str
     title: str
     found: Optional[date]
+    url: str = ""
 
 
 def load_company_links(csv_path: str = "companies.csv") -> Dict[str, str]:
@@ -78,11 +80,11 @@ def flatten(jobs: Dict[str, List[Any]], today: Optional[date] = None, legacy_md:
     for company, postings in jobs.items():
         for role in postings or []:
             if isinstance(role, dict):
-                title, raw = role.get("title", ""), role.get("date", "N/A")
+                title, raw, url = role.get("title", ""), role.get("date", "N/A"), role.get("url", "")
             else:
-                title, raw = role, "N/A"
+                title, raw, url = role, "N/A", ""
             title = title.replace("\n", " ").replace("|", "\\|").strip()
-            rows.append(Row(company, title, parse_found_date(raw, today, legacy_md)))
+            rows.append(Row(company, title, parse_found_date(raw, today, legacy_md), url))
     return rows
 
 
@@ -153,12 +155,13 @@ def generate_readme(
     total_companies = len({company for company, _ in tracked})
     table_rows: List[str] = []
     for row in recent[:max_rows]:
+        title = f'<a href="{html.escape(row.url)}">{row.title}</a>' if row.url else row.title
         table_rows.append(
             f"""  <tr>
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;">{company_cell(row.company)}</div>
 </td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">{row.title}</div></td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">{title}</div></td>
   <td>{row.found.isoformat()}</td>
 </tr>"""
         )
@@ -219,6 +222,8 @@ def _listing_page(heading: str, rows: List[Row], links: Dict[str, str],
             logos[row.company] = f'<img src="{url}" alt="" height="16"> ' if url else ""
         company = logos[row.company] + company
         title = row.title.replace("<", "&lt;")
+        if row.url:
+            title = f"[{title.replace('[', '&#91;').replace(']', '&#93;')}](<{row.url}>)"
         lines.append(f"| {company} | {title} | {row.found.isoformat() if row.found else 'N/A'} |")
     lines.append("")
     lines += [f"[{ref}]: {links[c]}" for c, ref in refs.items() if c in links]

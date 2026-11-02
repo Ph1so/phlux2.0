@@ -53,6 +53,14 @@ class TestGreenhouse:
     def test_slug(self, url):
         assert greenhouse_slug(url) == "acme"
 
+    def test_links_each_posting(self):
+        jobs = {"jobs": [{"id": 1, "title": "Intern", "absolute_url": "https://job-boards.greenhouse.io/acme/jobs/1"},
+                         {"id": 2, "title": "Recruiter"}]}
+        mock, _ = fake_get({GH + "jobs": jobs})
+        with mock:
+            postings = greenhouse_postings("https://job-boards.greenhouse.io/acme")
+        assert [p.url for p in postings] == ["https://job-boards.greenhouse.io/acme/jobs/1", ""]
+
     def test_whole_board_with_ids(self):
         mock, _ = fake_get({GH + "jobs": GH_JOBS})
         with mock:
@@ -115,7 +123,7 @@ class TestPlace:
 
 class TestLever:
     JOBS = [
-        {"id": "a", "text": "Robotics Intern",
+        {"id": "a", "text": "Robotics Intern", "hostedUrl": "https://jobs.lever.co/acme/a",
          "categories": {"commitment": "Internship", "location": "Denver", "allLocations": ["Denver", "Austin"]}},
         {"id": "b", "text": "Controls Engineer", "categories": {"commitment": "Full-time"}},
     ]
@@ -126,6 +134,7 @@ class TestLever:
             postings = lever_postings("https://jobs.lever.co/acme")
         assert [(p.id, p.title) for p in postings] == [("lever:a", "Robotics Intern"), ("lever:b", "Controls Engineer")]
         assert [p.location for p in postings] == ["Denver +1", ""]
+        assert [p.url for p in postings] == ["https://jobs.lever.co/acme/a", ""]
         assert calls[0][1]["params"] == {"mode": "json"}
 
     def test_commitment_filter(self):
@@ -143,7 +152,7 @@ class TestLever:
 
 class TestAshby:
     JOBS = {"jobs": [
-        {"id": "x", "title": "Perception Intern", "isListed": True,
+        {"id": "x", "title": "Perception Intern", "isListed": True, "jobUrl": "https://jobs.ashbyhq.com/acme/x",
          "location": "San Francisco", "secondaryLocations": [{"location": "New York"}]},
         {"id": "y", "title": "Hidden Role", "isListed": False},
         {"id": "z", "title": "Planner", "isListed": True},
@@ -161,6 +170,7 @@ class TestAshby:
         with mock:
             postings = ashby_postings("https://jobs.ashbyhq.com/acme")
         assert [p.location for p in postings] == ["San Francisco +1", ""]
+        assert [p.url for p in postings] == ["https://jobs.ashbyhq.com/acme/x", ""]
 
     def test_location_filter_matches_primary_or_secondary(self):
         graph = response({"data": {"jobBoard": {"jobPostings": [

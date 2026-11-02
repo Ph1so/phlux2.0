@@ -105,6 +105,16 @@ class TestFormatMessageHtml:
         html = self._call(intern_message)
         assert "·" not in html
 
+    def test_links_title_to_its_posting(self, intern_message):
+        intern_message["companies"]["Acme"]["jobs"][0]["url"] = "https://jobs.lever.co/acme/1?a=1&b=2"
+        html = self._call(intern_message)
+        assert '<a href="https://jobs.lever.co/acme/1?a=1&amp;b=2" target="_blank"' in html
+        assert ">Software Engineer Intern</a>" in html
+
+    def test_plain_title_without_a_link(self, intern_message):
+        html = self._call(intern_message)
+        assert "Software Engineer Intern</a>" not in html
+
 
 # ── format_message_html_fulltime ──────────────────────────────────────────────
 

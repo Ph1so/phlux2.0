@@ -19,11 +19,14 @@ class Posting:
     """One job read from a board or site: a stable ``source:id`` key and its title.
 
     ``location`` is shown in alert emails; it's empty where the source gives none.
+    ``url`` is the posting's own page, so alerts can link straight to it; it's
+    empty where the source has no page per job.
     """
 
     id: str
     title: str
     location: str = ""
+    url: str = ""
 
 
 @dataclass
@@ -32,7 +35,7 @@ class ScrapeResult:
 
     ``ids`` is either empty, or parallel to ``jobs`` with each posting's
     ``board:id`` key (see :mod:`phlux.boards`); only board APIs provide ids.
-    ``locations`` is likewise empty or parallel to ``jobs``.
+    ``locations`` and ``urls`` are likewise empty or parallel to ``jobs``.
     """
 
     name: str
@@ -40,4 +43,5 @@ class ScrapeResult:
     link: str
     ids: List[Optional[str]] = field(default_factory=list)
     locations: List[str] = field(default_factory=list)
+    urls: List[str] = field(default_factory=list)
 

@@ -102,6 +102,13 @@ class TestGenerateReadme:
         assert "<img" in readme
         assert "https://cdn.example.com/acme.png" in readme
 
+    def test_links_title_to_its_posting(self):
+        jobs = {"Acme": [{"title": "Engineer", "date": "5/1", "url": "https://acme.com/jobs/1?a=1&b=2"},
+                         {"title": "Welder", "date": "5/1"}]}
+        readme = _call_generate(jobs, {"Acme": "https://acme.com"})
+        assert '<a href="https://acme.com/jobs/1?a=1&amp;b=2">Engineer</a>' in readme
+        assert ">Welder</div>" in readme
+
     def test_skips_empty_company(self):
         jobs = {"Acme": [], "Beta": [{"title": "Dev", "date": "5/1"}]}
         links = {"Acme": "https://acme.com", "Beta": "https://beta.com"}
@@ -179,6 +186,13 @@ class TestGenerateListings:
         page = pages["2026-10.md"]
         assert '| <img src="https://logo.example/acme.png" alt="" height="16"> [Acme][c0] | A |' in page
         assert '| <img src="https://logo.example/beta.png" alt="" height="16"> Beta | B |' in page
+
+    def test_links_title_to_its_posting(self):
+        jobs = {"Acme": [{"title": "Intern [Robotics]", "date": "2026-10-02", "url": "https://acme.com/jobs/1"},
+                         {"title": "Welder", "date": "2026-10-02"}]}
+        page = generate_listings(jobs, {"Acme": "https://acme.com"})["2026-10.md"]
+        assert "| [Intern &#91;Robotics&#93;](<https://acme.com/jobs/1>) |" in page
+        assert "| Welder |" in page
 
     def test_no_logo_without_icon(self):
         jobs = {"Acme": [{"title": "A", "date": "2026-10-02"}]}

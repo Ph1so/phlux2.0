@@ -61,6 +61,11 @@ def _format_email_html(message: Dict[str, Any], filter_fn: Callable[[str], bool]
         lines.append("<ul style='margin-top: 5px;'>")
         for job in filtered:
             title = job["title"].strip().replace("\n", " ")
+            if job.get("url"):
+                title = (
+                    f'<a href="{html.escape(job["url"])}" target="_blank" '
+                    f'style="color: inherit;">{title}</a>'
+                )
             location = (
                 f" <span style='color: #6b7280;'>· {html.escape(job['location'])}</span>"
                 if job.get("location")

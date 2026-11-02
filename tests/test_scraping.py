@@ -342,6 +342,44 @@ class TestProcessJobsWithIds:
         assert all("location" not in j for j in data["companies"]["Acme"])
 
 
+class TestProcessJobsWithUrls:
+    def _run(self, data, jobs, ids, urls):
+        new_jobs = {}
+        process_jobs(data, ScrapeResult("Acme", jobs, "https://acme.com", ids, [], urls), new_jobs)
+        return new_jobs
+
+    def test_new_posting_stores_its_link_and_alerts_with_it(self):
+        data = {"companies": {"Acme": [{"title": "Planner", "date": "2026-10-01", "id": "ashby:1"}]}}
+        new_jobs = self._run(data, ["Planner", "⭐️ Robotics Intern"], ["ashby:1", "ashby:2"],
+                             ["", "https://jobs.ashbyhq.com/acme/2"])
+        assert data["companies"]["Acme"][1]["url"] == "https://jobs.ashbyhq.com/acme/2"
+        assert new_jobs["companies"]["Acme"]["jobs"][0]["url"] == "https://jobs.ashbyhq.com/acme/2"
+
+    def test_stored_posting_found_by_id_gets_its_link(self):
+        data = {"companies": {"Acme": [{"title": "Planner", "date": "2026-10-01", "id": "ashby:1"}]}}
+        new_jobs = self._run(data, ["Planner II"], ["ashby:1"], ["https://jobs.ashbyhq.com/acme/1"])
+        assert data["companies"]["Acme"] == [
+            {"title": "Planner", "date": "2026-10-01", "id": "ashby:1", "url": "https://jobs.ashbyhq.com/acme/1"}]
+        assert "Acme" not in new_jobs.get("companies", {})
+
+    def test_stored_posting_found_by_title_gets_its_id_and_link(self):
+        data = {"companies": {"Acme": [
+            {"title": "Planner", "date": "2026-10-01", "id": "ashby:9"},
+            {"title": "Perception", "date": "2026-10-02"},
+        ]}}
+        self._run(data, ["Perception"], ["ashby:2"], ["https://jobs.ashbyhq.com/acme/2"])
+        assert data["companies"]["Acme"][1] == {
+            "title": "Perception", "date": "2026-10-02", "id": "ashby:2", "url": "https://jobs.ashbyhq.com/acme/2"}
+
+    def test_stored_link_is_never_replaced(self):
+        # Some sites add per-visit tracking to links; rewriting them every run
+        # would make every bot run commit storage.json.
+        stored = {"title": "Planner", "date": "2026-10-01", "id": "x:1", "url": "https://x.com/1?ref=a"}
+        data = {"companies": {"Acme": [dict(stored)]}}
+        self._run(data, ["Planner"], ["x:1"], ["https://x.com/1?ref=b"])
+        assert data["companies"]["Acme"] == [stored]
+
+
 class TestBoardRouting:
     @pytest.mark.parametrize("instructions, board", [
         ("@greenhouse", "greenhouse"),
@@ -356,16 +394,18 @@ class TestBoardRouting:
 
     def test_get_board_jobs_filters_stars_and_tidies(self):
         postings = [
-            Posting("lever:1", "Robotics  Software Intern", "Pittsburgh, PA"),
+            Posting("lever:1", "Robotics  Software Intern", "Pittsburgh, PA", "https://jobs.lever.co/acme/1"),
             Posting("lever:2", "Senior  Recruiter", "Remote"),
             Posting("lever:3", "Perception Intern, Whats New"),
         ]
         with patch("phlux.scraping.board_postings", return_value=postings) as fetch:
-            titles, ids, locations = get_board_jobs("Acme", "https://jobs.lever.co/acme", "@lever->FILTER:intern")
+            titles, ids, locations, urls = get_board_jobs(
+                "Acme", "https://jobs.lever.co/acme", "@lever->FILTER:intern")
         fetch.assert_called_once_with("lever", "https://jobs.lever.co/acme", "")
         assert titles == ["⭐️ Robotics Software Intern", "⭐️ Perception Intern, Whats New"]
         assert ids == ["lever:1", "lever:3"]
         assert locations == ["Pittsburgh, PA", ""]
+        assert urls == ["https://jobs.lever.co/acme/1", ""]
 
     def test_filter_keeps_titles_matching_any_alternative(self):
         postings = [
@@ -375,16 +415,18 @@ class TestBoardRouting:
             Posting("workday:4", "Winter Co-op, Controls"),
         ]
         with patch("phlux.scraping.board_postings", return_value=postings):
-            _, ids, _ = get_board_jobs("Acme", "https://x.wd5.myworkdayjobs.com/Acme",
+            _, ids, _, _ = get_board_jobs("Acme", "https://x.wd5.myworkdayjobs.com/Acme",
                                     "@workday->FILTER:intern|co-op|early career")
         assert ids == ["workday:1", "workday:2", "workday:4"]
 
     def test_scrape_company_uses_api_for_boards(self):
-        with patch("phlux.scraping.board_postings", return_value=[Posting("ashby:1", "Planner", "Austin")]), \
+        posting = Posting("ashby:1", "Planner", "Austin", "https://jobs.ashbyhq.com/acme/1")
+        with patch("phlux.scraping.board_postings", return_value=[posting]), \
              patch("phlux.scraping.get_jobs_headless") as headless:
             result = scrape_company(Company("Acme", "https://jobs.ashbyhq.com/acme", "@ashby"))
         headless.assert_not_called()
-        assert (result.jobs, result.ids, result.locations) == (["Planner"], ["ashby:1"], ["Austin"])
+        assert (result.jobs, result.ids, result.locations, result.urls) == (
+            ["Planner"], ["ashby:1"], ["Austin"], ["https://jobs.ashbyhq.com/acme/1"])
 
     def test_scrape_company_uses_browser_otherwise(self):
         with patch("phlux.scraping.get_jobs_headless", return_value=["Planner"]) as headless:

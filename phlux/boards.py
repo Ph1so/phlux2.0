@@ -113,7 +113,8 @@ def greenhouse_postings(url: str) -> List[Posting]:
     params = _query(url)
     jobs = _get(GREENHOUSE_API.format(slug=slug, path="jobs")).json()["jobs"]
     pairs = [
-        (Posting(f"greenhouse:{j['id']}", j["title"], place((j.get("location") or {}).get("name"))), j)
+        (Posting(f"greenhouse:{j['id']}", j["title"], place((j.get("location") or {}).get("name")),
+                 j.get("absolute_url") or ""), j)
         for j in jobs
     ]
     if params.get("keyword"):
@@ -147,6 +148,7 @@ def lever_postings(url: str) -> List[Posting]:
             f"lever:{j['id']}",
             j["text"],
             place(j.get("categories", {}).get("location"), j.get("categories", {}).get("allLocations") or []),
+            j.get("hostedUrl") or "",
         )
         for j in jobs
     ]
@@ -202,6 +204,7 @@ def ashby_postings(url: str) -> List[Posting]:
             f"ashby:{j['id']}",
             j["title"],
             place(j.get("location"), [s.get("location") for s in j.get("secondaryLocations") or []]),
+            j.get("jobUrl") or "",
         )
         for j in jobs
     ]

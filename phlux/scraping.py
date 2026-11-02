@@ -359,7 +359,7 @@ def board_of(instructions: str) -> str | None:
 
 
 @retry(wait=wait_fixed(5), stop=stop_after_attempt(3))
-def get_board_jobs(name: str, urls: str, instructions: str) -> Tuple[List[str], List[str], List[str]]:
+def get_board_jobs(name: str, urls: str, instructions: str) -> Tuple[List[str], List[str], List[str], List[str]]:
     """Read a company's postings from its job board's API.
 
     *urls* are the company's board URLs, whose query parameters narrow the board
@@ -370,13 +370,14 @@ def get_board_jobs(name: str, urls: str, instructions: str) -> Tuple[List[str], 
     here.
 
     Returns:
-        ``(titles, ids, locations)``: titles normalized and starred like page
-        scrapes, and each posting's ``board:id`` key and location in the same order.
+        ``(titles, ids, locations, urls)``: titles normalized and starred like
+        page scrapes, and each posting's ``board:id`` key, location and own page
+        in the same order.
     """
     board, arg = _board_token(instructions)
     postings = board_postings(board, urls, arg)
     # Boards keep stray double spaces that a browser would collapse.
-    rows = [(" ".join(p.title.split()), p.id, p.location) for p in postings]
+    rows = [(" ".join(p.title.split()), p.id, p.location, p.url) for p in postings]
     for action in instructions.strip().strip('"').split("->")[1:]:
         action = action.strip()
         if action.startswith(f"{FILTER}:"):
@@ -384,8 +385,8 @@ def get_board_jobs(name: str, urls: str, instructions: str) -> Tuple[List[str], 
             rows = [row for row in rows if any(keyword_in(row[0], k) for k in keywords)]
         elif action and action != UNDETECTED:
             logger.warning("Ignoring %s for %s: it has no meaning for a board API", action, name)
-    titles = finish_titles(name, [t for t, _, _ in rows], strip_badge=False)
-    return titles, [i for _, i, _ in rows], [loc for _, _, loc in rows]
+    titles = finish_titles(name, [row[0] for row in rows], strip_badge=False)
+    return titles, [row[1] for row in rows], [row[2] for row in rows], [row[3] for row in rows]
 
 
 def scrape_company(company: Company) -> ScrapeResult:
@@ -398,8 +399,8 @@ def scrape_company(company: Company) -> ScrapeResult:
     """
     try:
         if board_of(company.selector):
-            titles, ids, locations = get_board_jobs(company.name, company.link, company.selector)
-            return ScrapeResult(company.name, titles, company.link, ids, locations)
+            titles, ids, locations, urls = get_board_jobs(company.name, company.link, company.selector)
+            return ScrapeResult(company.name, titles, company.link, ids, locations, urls)
         jobs = get_jobs_headless(company.name, company.link, company.selector)
         return ScrapeResult(company.name, jobs, company.link)
     except Exception as e:
@@ -445,7 +446,10 @@ def process_jobs(data: dict, result: ScrapeResult, new_jobs: Dict, seed: bool = 
     A posting is new when neither its title nor (for board APIs) its id is
     stored. An id keeps a posting from coming back as new after its title is
     edited; matching titles keep the existing one-row-per-title behaviour. A
-    stored title that turns up with an id gets that id recorded.
+    stored posting that turns up with an id or page link it lacks gets them
+    recorded. A stored link is never replaced: some sites put per-visit tracking
+    in their links, and rewriting storage on every run would make every bot run
+    commit (and every commit start another run).
 
     New postings are also recorded in *new_jobs* so callers can send alerts,
     with their ``location`` when the board gives one (storage leaves it out).
@@ -476,23 +480,34 @@ def process_jobs(data: dict, result: ScrapeResult, new_jobs: Dict, seed: bool = 
     now = datetime.now(eastern)
     stamp = NA_DATE if seed else now.date().isoformat()
 
+    by_id = {j["id"]: j for j in existing if isinstance(j, dict) and j.get("id")}
+
     ids = result.ids or [None] * len(result.jobs)
     locations = result.locations or [""] * len(result.jobs)
+    urls = result.urls or [""] * len(result.jobs)
     new_list = []
     alerts = []
-    for job, job_id, location in zip(result.jobs, ids, locations):
+    for job, job_id, location, url in zip(result.jobs, ids, locations, urls):
         job = job.replace("\n", " - ")
         if job_id and job_id in existing_ids:
+            entry = by_id.get(job_id)
+            if url and entry is not None and not entry.get("url"):
+                entry["url"] = url
             continue
         if job in existing_titles:
             entry = by_title.get(job)
             if job_id and entry is not None and not entry.get("id"):
                 entry["id"] = job_id
                 existing_ids.add(job_id)
+                by_id[job_id] = entry
+            if url and entry is not None and not entry.get("url"):
+                entry["url"] = url
             continue
         record = {"title": job, "date": stamp}
         if job_id:
             record["id"] = job_id
+        if url:
+            record["url"] = url
         new_list.append(record)
         alerts.append({**record, "location": location} if location else record)
 
