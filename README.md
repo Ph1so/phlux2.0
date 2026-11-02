@@ -1663,7 +1663,7 @@ Easily track jobs across top tech companies.
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://apply.careers.microsoft.com/careers?query=intern&location=United%20States&sort_by=relevance"><img src="https://cdn.brandfetch.io/microsoft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Microsoft" height="20" style="vertical-align:middle; margin-right:6px;"> Microsoft</a></div>
 </td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Research Intern - Machine Learning and Optimization - Redmond</div></td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://apply.careers.microsoft.com/careers/job/1970393557049981">⭐️ Research Intern - Machine Learning and Optimization - Redmond</a></div></td>
   <td>2026-10-28</td>
 </tr>
   <tr>
