@@ -121,6 +121,10 @@ h1, h2, h3 { margin: 0; text-wrap: balance; }
   border: 1px solid var(--line); border-radius: 8px; padding: 6px 11px; background: var(--card);
 }
 .ghost:hover { border-color: var(--blue); color: var(--blue); }
+button.ghost { font-family: inherit; cursor: pointer; }
+/* The theme button shows the theme it switches to: a sun in dark mode, a moon in light. */
+.ghost .moon, :root[data-mode="light"] .ghost .sun { display: none; }
+:root[data-mode="light"] .ghost .moon { display: inline; }
 
 /* ── Page ─────────────────────────────────────────────────────────────── */
 
@@ -296,6 +300,7 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
   table.stack tbody tr:hover td { background: none; }
 }
 @media (max-width: 480px) {
+  .theme-label { display: none; }
   .intro h1 { font-size: 23px; }
   .stat .v { font-size: 22px; }
   .seg button { padding: 6px 8px; }
@@ -304,6 +309,14 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
   .switch input, .switch input::after { transition: none; }
 }
 </style>
+<script>
+(function () {
+  try {
+    var saved = localStorage.getItem("phlux-robotics:theme");
+    if (saved === "light" || saved === "dark") document.documentElement.setAttribute("data-theme", saved);
+  } catch (e) {}
+})();
+</script>
 
 <header class="topbar">
   <div class="gutter">
@@ -322,6 +335,11 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
     </nav>
     <div class="right">
       <span class="stamp" id="stamp"></span>
+      <button class="ghost" type="button" id="theme" aria-label="Switch to light mode">
+        <svg class="sun" width="15" height="15" viewBox="0 0 16 16" aria-hidden="true"><circle cx="8" cy="8" r="3.2" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M8 1v1.6M8 13.4V15M1 8h1.6M13.4 8H15M3.05 3.05l1.13 1.13M11.82 11.82l1.13 1.13M3.05 12.95l1.13-1.13M11.82 4.18l1.13-1.13" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>
+        <svg class="moon" width="15" height="15" viewBox="0 0 16 16" aria-hidden="true"><path d="M13.5 9.8A5.6 5.6 0 0 1 6.2 2.5a5.6 5.6 0 1 0 7.3 7.3z" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/></svg>
+        <span class="theme-label">Light</span>
+      </button>
       <a class="ghost" href="https://github.com/Ph1so/phlux2.0" target="_blank" rel="noopener">
         <svg width="15" height="15" viewBox="0 0 16 16" aria-hidden="true"><path fill="currentColor" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
         GitHub
@@ -862,6 +880,26 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
     if (state.company && !inScope(state.company)) state.company = null;
     renderAll();
   });
+  var dark = window.matchMedia ? window.matchMedia("(prefers-color-scheme: dark)") : null;
+  function theme() {
+    var chosen = document.documentElement.getAttribute("data-theme");
+    return chosen === "light" || chosen === "dark" ? chosen : dark && dark.matches ? "dark" : "light";
+  }
+  function paintThemeButton() {
+    var next = theme() === "dark" ? "light" : "dark";
+    document.documentElement.setAttribute("data-mode", next === "dark" ? "light" : "dark");
+    $("theme").setAttribute("aria-label", "Switch to " + next + " mode");
+    $("theme").querySelector(".theme-label").textContent = next === "dark" ? "Dark" : "Light";
+  }
+  $("theme").addEventListener("click", function () {
+    var next = theme() === "dark" ? "light" : "dark";
+    document.documentElement.setAttribute("data-theme", next);
+    store("theme", next);
+    paintThemeButton();
+  });
+  if (dark && dark.addEventListener) dark.addEventListener("change", paintThemeButton);
+  paintThemeButton();
+
   var resizeTimer;
   window.addEventListener("resize", function () {
     clearTimeout(resizeTimer);
