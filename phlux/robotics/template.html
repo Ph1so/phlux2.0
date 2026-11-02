@@ -1,0 +1,880 @@
+<title>Phlux Robotics</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="Every internship at the robotics companies phlux tracks, read from their job boards every hour, with forecasts of who opens next.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
+<style>
+/* Layout: a data product in the levels.fyi manner. Sticky white top bar,
+   headline figures, then bordered white cards holding dense tables. */
+:root {
+  color-scheme: light;
+  --page: #f5f6f8;
+  --card: #ffffff;
+  --head: #f9fafb;
+  --hover: #f5f8ff;
+  --line: #e4e7ec;
+  --line-soft: #eef0f3;
+  --text: #101828;
+  --text-2: #475467;
+  --muted: #667085;
+  --blue: #1f5fff;
+  --blue-soft: #ebf1ff;
+  --green: #067647;
+  --green-soft: #e7f6ec;
+  --amber: #b54708;
+  --amber-soft: #fef3e2;
+  --red: #c4320a;
+  --red-soft: #fdeee9;
+  --shadow: 0 1px 2px rgba(16, 24, 40, 0.05);
+  --font: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --page: #0b0d11;
+    --card: #12151b;
+    --head: #171b22;
+    --hover: #18202e;
+    --line: #262c36;
+    --line-soft: #1e232b;
+    --text: #f2f4f7;
+    --text-2: #c2c8d2;
+    --muted: #8b94a3;
+    --blue: #6e98ff;
+    --blue-soft: #1b2742;
+    --green: #47cd89;
+    --green-soft: #12291e;
+    --amber: #fdb022;
+    --amber-soft: #2e2311;
+    --red: #f97066;
+    --red-soft: #33191a;
+    --shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --page: #0b0d11;
+  --card: #12151b;
+  --head: #171b22;
+  --hover: #18202e;
+  --line: #262c36;
+  --line-soft: #1e232b;
+  --text: #f2f4f7;
+  --text-2: #c2c8d2;
+  --muted: #8b94a3;
+  --blue: #6e98ff;
+  --blue-soft: #1b2742;
+  --green: #47cd89;
+  --green-soft: #12291e;
+  --amber: #fdb022;
+  --amber-soft: #2e2311;
+  --red: #f97066;
+  --red-soft: #33191a;
+  --shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--page);
+  color: var(--text);
+  font-family: var(--font);
+  font-size: 14px;
+  line-height: 1.45;
+  -webkit-font-smoothing: antialiased;
+  font-feature-settings: "cv11", "ss01";
+}
+body::before {
+  content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px);
+  z-index: 10; background: var(--card);
+}
+a { color: inherit; }
+:focus-visible { outline: 2px solid var(--blue); outline-offset: 2px; border-radius: 4px; }
+h1, h2, h3 { margin: 0; text-wrap: balance; }
+.num { font-variant-numeric: tabular-nums; }
+.gutter {
+  max-width: 1200px; margin: 0 auto;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+
+/* ── Top bar ──────────────────────────────────────────────────────────── */
+
+.topbar {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5;
+  background: var(--card); border-bottom: 1px solid var(--line);
+}
+.topbar .gutter { display: flex; align-items: center; gap: 28px; height: 56px; }
+.wordmark { display: flex; align-items: center; gap: 9px; text-decoration: none; font-size: 17px; letter-spacing: -0.02em; white-space: nowrap; }
+.wordmark b { font-weight: 700; }
+.wordmark span { font-weight: 500; color: var(--blue); }
+.wordmark svg { flex: none; }
+.nav { display: flex; gap: 4px; }
+.nav a { text-decoration: none; color: var(--text-2); font-weight: 500; padding: 7px 10px; border-radius: 6px; }
+.nav a:hover { background: var(--head); color: var(--text); }
+.topbar .right { margin-left: auto; display: flex; align-items: center; gap: 14px; }
+.stamp { font-size: 12.5px; color: var(--muted); white-space: nowrap; }
+.ghost {
+  display: inline-flex; align-items: center; gap: 6px; text-decoration: none;
+  font-weight: 500; font-size: 13px; color: var(--text);
+  border: 1px solid var(--line); border-radius: 8px; padding: 6px 11px; background: var(--card);
+}
+.ghost:hover { border-color: var(--blue); color: var(--blue); }
+
+/* ── Page ─────────────────────────────────────────────────────────────── */
+
+main.gutter { display: flex; flex-direction: column; gap: 20px; padding-block: 28px 56px; }
+.intro h1 { font-size: 28px; font-weight: 700; letter-spacing: -0.025em; }
+.intro p { margin: 6px 0 0; color: var(--text-2); max-width: 70ch; font-size: 15px; }
+
+.stats { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px; }
+.stat {
+  background: var(--card); border: 1px solid var(--line); border-radius: 10px; box-shadow: var(--shadow);
+  padding: 14px 16px; display: flex; flex-direction: column; gap: 2px; min-width: 0;
+}
+.stat .k { font-size: 12.5px; color: var(--muted); font-weight: 500; }
+.stat .v { font-size: 26px; font-weight: 700; letter-spacing: -0.02em; font-variant-numeric: tabular-nums; }
+.stat .s { font-size: 12.5px; color: var(--text-2); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+.card { background: var(--card); border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow); min-width: 0; }
+.card-head {
+  display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px 16px;
+  padding: 16px 18px; border-bottom: 1px solid var(--line);
+}
+.card-head h2 { font-size: 16px; font-weight: 600; letter-spacing: -0.01em; }
+.card-head .sub { font-size: 13px; color: var(--muted); }
+.card-head .sub b { color: var(--text); font-weight: 600; }
+
+/* Badges */
+.badge { display: inline-flex; align-items: center; gap: 5px; font-size: 12px; font-weight: 500; padding: 2px 8px; border-radius: 999px; white-space: nowrap; line-height: 18px; }
+.badge.open, .badge.new { background: var(--green-soft); color: var(--green); }
+.badge.soon, .badge.due { background: var(--amber-soft); color: var(--amber); }
+.badge.late, .badge.closed { background: var(--red-soft); color: var(--red); }
+.badge.later, .badge.unknown { background: var(--head); color: var(--text-2); border: 1px solid var(--line-soft); }
+.chip { font-size: 12px; padding: 1px 8px; border-radius: 6px; background: var(--head); color: var(--text-2); border: 1px solid var(--line-soft); white-space: nowrap; line-height: 18px; }
+
+/* Logos */
+.logo {
+  width: 32px; height: 32px; border-radius: 8px; flex: none; overflow: hidden;
+  display: grid; place-items: center; border: 1px solid var(--line-soft);
+  background: var(--head); color: var(--text-2); font-size: 12px; font-weight: 600;
+}
+.logo img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.logo.sm { width: 24px; height: 24px; border-radius: 6px; font-size: 10px; }
+
+/* ── Openings ─────────────────────────────────────────────────────────── */
+
+.legend { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 12.5px; color: var(--text-2); }
+.legend span { display: inline-flex; align-items: center; gap: 6px; }
+.mark { width: 10px; height: 10px; border-radius: 50%; display: inline-block; flex: none; }
+.mark.opened { background: var(--green); }
+.mark.soon { border: 2px solid var(--amber); background: var(--card); }
+.mark.late { border: 2px solid var(--red); background: var(--card); }
+
+.timeline { position: relative; overflow: hidden; margin: 16px 18px 4px; }
+.tl-track { position: relative; height: var(--tl-height, 120px); }
+.tl-past {
+  position: absolute; top: 0; bottom: 22px; left: 0;
+  background: repeating-linear-gradient(135deg, var(--head) 0 6px, transparent 6px 12px);
+  border-right: 2px solid var(--blue);
+}
+.tl-today { position: absolute; top: 0; transform: translateX(-50%); font-size: 11px; font-weight: 600; color: var(--blue); background: var(--card); padding: 0 5px; z-index: 2; }
+.tl-axis { position: absolute; left: 0; right: 0; bottom: 0; height: 22px; border-top: 1px solid var(--line); }
+.tl-tick { position: absolute; bottom: 0; transform: translateX(-50%); font-size: 11px; color: var(--muted); white-space: nowrap; font-variant-numeric: tabular-nums; }
+.tl-tick::before { content: ""; position: absolute; left: 50%; top: -5px; width: 1px; height: 5px; background: var(--line); }
+.tl-item { position: absolute; display: flex; align-items: center; gap: 5px; font-size: 12px; line-height: 16px; white-space: nowrap; color: var(--text-2); }
+.tl-item .mark { transform: translateX(-50%); margin-right: -5px; }
+.tl-item.flip { flex-direction: row-reverse; }
+.tl-item.flip .mark { transform: translateX(50%); margin-right: 0; margin-left: -5px; }
+.tl-empty { position: absolute; inset: 0 0 22px; display: grid; place-items: center; color: var(--muted); font-size: 13px; }
+
+.lanes { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); border-top: 1px solid var(--line); }
+.lane { padding: 14px 18px 8px; min-width: 0; }
+.lane + .lane { border-left: 1px solid var(--line); }
+.lane h3 { display: flex; align-items: center; gap: 8px; font-size: 13px; font-weight: 600; margin-bottom: 4px; }
+.lane h3 .n { font-weight: 500; color: var(--muted); font-variant-numeric: tabular-nums; }
+.mini { list-style: none; margin: 0; padding: 0; }
+.mini li { display: grid; grid-template-columns: 24px minmax(0, 1fr); gap: 10px; align-items: center; padding: 8px 0; border-top: 1px solid var(--line-soft); }
+.mini li:first-child { border-top: 0; }
+.mini .who { font-weight: 500; background: none; border: 0; padding: 0; font: inherit; font-weight: 500; color: var(--text); cursor: pointer; text-align: left; max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; display: block; }
+.mini .who:hover { color: var(--blue); }
+.mini .when { font-size: 12.5px; color: var(--muted); }
+.mini .when b { font-weight: 500; color: var(--text-2); }
+.mini .empty { display: block; color: var(--muted); font-size: 13px; padding: 6px 0; border: 0; }
+.later { font-size: 12.5px; color: var(--muted); margin: 6px 0 4px; }
+
+/* ── Filters ──────────────────────────────────────────────────────────── */
+
+.filters { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; padding: 14px 18px; border-bottom: 1px solid var(--line); }
+.search { position: relative; flex: 1 1 240px; min-width: 0; }
+.search svg { position: absolute; left: 11px; top: 50%; transform: translateY(-50%); color: var(--muted); pointer-events: none; }
+.search input {
+  width: 100%; font: inherit; font-size: 14px; color: var(--text); background: var(--card);
+  border: 1px solid var(--line); border-radius: 8px; padding: 8px 12px 8px 34px;
+}
+.search input:focus { border-color: var(--blue); outline: none; box-shadow: 0 0 0 3px var(--blue-soft); }
+.pick {
+  font: inherit; font-size: 13.5px; font-weight: 500; color: var(--text);
+  background-color: var(--card); border: 1px solid var(--line); border-radius: 8px;
+  padding: 8px 30px 8px 12px; max-width: 100%; cursor: pointer;
+  appearance: none; -webkit-appearance: none;
+  background-image: linear-gradient(45deg, transparent 50%, var(--muted) 50%), linear-gradient(135deg, var(--muted) 50%, transparent 50%);
+  background-position: calc(100% - 15px) 52%, calc(100% - 10px) 52%;
+  background-size: 5px 5px; background-repeat: no-repeat;
+}
+.pick:hover { border-color: var(--muted); }
+.pick.set { border-color: var(--blue); color: var(--blue); background-color: var(--blue-soft); }
+.seg { display: inline-flex; background: var(--head); border: 1px solid var(--line); border-radius: 8px; padding: 2px; }
+.seg button { font: inherit; font-size: 13px; font-weight: 500; color: var(--text-2); background: none; border: 0; border-radius: 6px; padding: 6px 11px; cursor: pointer; white-space: nowrap; }
+.seg button[aria-pressed="true"] { background: var(--card); color: var(--text); box-shadow: 0 1px 2px rgba(16, 24, 40, 0.12); }
+.switch { display: inline-flex; align-items: center; gap: 8px; font-size: 13px; font-weight: 500; color: var(--text-2); cursor: pointer; white-space: nowrap; }
+.switch input { appearance: none; -webkit-appearance: none; width: 32px; height: 18px; border-radius: 999px; background: var(--line); position: relative; margin: 0; cursor: pointer; transition: background 120ms; }
+.switch input::after { content: ""; position: absolute; top: 2px; left: 2px; width: 14px; height: 14px; border-radius: 50%; background: #fff; box-shadow: 0 1px 2px rgba(0,0,0,0.2); transition: transform 120ms; }
+.switch input:checked { background: var(--blue); }
+.switch input:checked::after { transform: translateX(14px); }
+.active { display: flex; flex-wrap: wrap; gap: 8px; padding: 10px 18px; border-bottom: 1px solid var(--line); background: var(--head); }
+.tag-btn { display: inline-flex; align-items: center; gap: 6px; font: inherit; font-size: 12.5px; font-weight: 500; color: var(--blue); background: var(--blue-soft); border: 0; border-radius: 999px; padding: 3px 10px; cursor: pointer; }
+
+/* ── Tables ───────────────────────────────────────────────────────────── */
+
+.table-wrap { overflow-x: auto; }
+table { width: 100%; border-collapse: collapse; }
+thead th {
+  text-align: left; font-size: 12px; font-weight: 500; color: var(--muted);
+  background: var(--head); padding: 9px 14px; border-bottom: 1px solid var(--line); white-space: nowrap;
+}
+tbody td { padding: 12px 14px; border-bottom: 1px solid var(--line-soft); vertical-align: middle; }
+tbody tr:last-child td { border-bottom: 0; }
+tbody tr:hover td { background: var(--hover); }
+th:first-child, td:first-child { padding-left: 18px; }
+th:last-child, td:last-child { padding-right: 18px; text-align: right; }
+.co-cell { display: flex; align-items: center; gap: 11px; min-width: 0; }
+.co-cell .nm { display: flex; flex-direction: column; min-width: 0; }
+.co-btn { background: none; border: 0; padding: 0; font: inherit; font-weight: 600; color: var(--text); cursor: pointer; text-align: left; white-space: nowrap; }
+.co-btn:hover { color: var(--blue); }
+.seg-name { font-size: 12px; color: var(--muted); white-space: nowrap; }
+.role { display: flex; flex-direction: column; gap: 5px; min-width: 0; }
+.role .t { font-weight: 500; color: var(--text); text-decoration: none; }
+.role a.t:hover { color: var(--blue); text-decoration: underline; text-underline-offset: 3px; }
+.role .chips { display: flex; flex-wrap: wrap; gap: 5px; }
+.loc { color: var(--text-2); font-size: 13px; }
+.posted { white-space: nowrap; }
+.posted .d { font-weight: 500; font-variant-numeric: tabular-nums; }
+.posted .r { display: block; font-size: 12px; color: var(--muted); }
+tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
+.board-link { color: var(--blue); font-weight: 500; text-decoration: none; white-space: nowrap; }
+.board-link:hover { text-decoration: underline; }
+.table-foot { display: flex; justify-content: center; padding: 14px 18px; border-top: 1px solid var(--line); }
+.btn { font: inherit; font-size: 13.5px; font-weight: 600; color: var(--blue); background: var(--card); border: 1px solid var(--line); border-radius: 8px; padding: 8px 16px; cursor: pointer; }
+.btn:hover { border-color: var(--blue); background: var(--blue-soft); }
+.none { padding: 40px 18px; text-align: center; color: var(--muted); }
+
+/* ── Footer ───────────────────────────────────────────────────────────── */
+
+.notes { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 24px; color: var(--text-2); font-size: 13px; padding-top: 8px; }
+.notes h3 { font-size: 13px; font-weight: 600; color: var(--text); margin-bottom: 4px; }
+.notes p { margin: 0; max-width: 62ch; }
+
+@media (max-width: 900px) {
+  .stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .lanes, .notes { grid-template-columns: minmax(0, 1fr); }
+  .lane + .lane { border-left: 0; border-top: 1px solid var(--line); }
+  .nav { display: none; }
+}
+@media (max-width: 720px) {
+  .stamp { display: none; }
+  /* Tables become stacked rows: company line, role, then location and date. */
+  table.stack thead { display: none; }
+  table.stack, table.stack tbody, table.stack tr, table.stack td { display: block; width: 100%; }
+  table.stack tr { padding: 12px 16px; border-bottom: 1px solid var(--line-soft); display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 6px 12px; }
+  table.stack tbody tr:last-child { border-bottom: 0; }
+  table.stack td { padding: 0 !important; border: 0; text-align: left !important; }
+  table.stack td.c-co { grid-column: 1; }
+  table.stack td.c-when { grid-column: 2; grid-row: 1; text-align: right !important; }
+  table.stack td.c-role, table.stack td.c-loc, table.stack td.c-extra { grid-column: 1 / -1; }
+  table.stack tbody tr:hover td { background: none; }
+}
+@media (max-width: 480px) {
+  .intro h1 { font-size: 23px; }
+  .stat .v { font-size: 22px; }
+  .seg button { padding: 6px 8px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .switch input, .switch input::after { transition: none; }
+}
+</style>
+
+<header class="topbar">
+  <div class="gutter">
+    <a class="wordmark" href="#top" aria-label="Phlux Robotics">
+      <svg width="26" height="26" viewBox="0 0 26 26" aria-hidden="true">
+        <rect width="26" height="26" rx="7" fill="var(--blue)"/>
+        <path d="M7 19V7h6.2a4 4 0 0 1 0 8H7" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="18.6" cy="18.6" r="2" fill="#fff"/>
+      </svg>
+      <b>phlux</b><span>robotics</span>
+    </a>
+    <nav class="nav" aria-label="Sections">
+      <a href="#internships">Internships</a>
+      <a href="#openings">Openings</a>
+      <a href="#companies">Companies</a>
+    </nav>
+    <div class="right">
+      <span class="stamp" id="stamp"></span>
+      <a class="ghost" href="https://github.com/Ph1so/phlux2.0" target="_blank" rel="noopener">
+        <svg width="15" height="15" viewBox="0 0 16 16" aria-hidden="true"><path fill="currentColor" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+        GitHub
+      </a>
+    </div>
+  </div>
+</header>
+
+<main class="gutter" id="top">
+  <section class="intro">
+    <h1>Robotics internships</h1>
+    <p>Every internship at <span id="n-companies">the</span> robotics companies we track, read straight from their own job boards every hour, with a forecast of who opens next.</p>
+  </section>
+
+  <section class="stats" aria-label="Summary">
+    <div class="stat"><span class="k">Open internships</span><span class="v" id="s-open">0</span><span class="s" id="s-open-sub"></span></div>
+    <div class="stat"><span class="k">New this week</span><span class="v" id="s-new">0</span><span class="s" id="s-new-sub"></span></div>
+    <div class="stat"><span class="k">Hiring now</span><span class="v" id="s-hiring">0</span><span class="s" id="s-hiring-sub"></span></div>
+    <div class="stat"><span class="k">Expected to open soon</span><span class="v" id="s-soon">0</span><span class="s" id="s-soon-sub"></span></div>
+  </section>
+
+  <section class="card" id="openings" aria-labelledby="openings-title">
+    <div class="card-head">
+      <div>
+        <h2 id="openings-title"><span id="cycle-name">Summer</span> openings</h2>
+        <div class="sub">Expected dates are when each company opened last year, a year on. Most land within a few weeks.</div>
+      </div>
+      <div class="legend" aria-hidden="true">
+        <span><i class="mark opened"></i>Opened</span>
+        <span><i class="mark soon"></i>Expected</span>
+        <span><i class="mark late"></i>Overdue</span>
+      </div>
+    </div>
+    <div class="timeline" id="timeline" role="img" aria-label="Timeline of recent and expected internship openings"></div>
+    <div class="lanes">
+      <div class="lane">
+        <h3>Opening soon <span class="n" id="soon-count"></span></h3>
+        <ul class="mini" id="soon-list"></ul>
+        <p class="later" id="later-note" hidden></p>
+      </div>
+      <div class="lane">
+        <h3>Just opened <span class="n" id="fresh-count"></span></h3>
+        <ul class="mini" id="fresh-list"></ul>
+      </div>
+      <div class="lane">
+        <h3>Running late <span class="n" id="late-count"></span></h3>
+        <ul class="mini" id="late-list"></ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="card" id="internships" aria-labelledby="board-title">
+    <div class="card-head">
+      <h2 id="board-title">Internships</h2>
+      <div class="sub" id="board-count" aria-live="polite"></div>
+    </div>
+    <form class="filters" id="filters" role="search">
+      <label class="search">
+        <svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><circle cx="7" cy="7" r="5" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M11 11l3.5 3.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+        <input type="search" id="q" placeholder="Search roles or companies" autocomplete="off" aria-label="Search">
+      </label>
+      <div class="seg" role="group" aria-label="Status" id="status">
+        <button type="button" data-v="open" aria-pressed="true">Open</button>
+        <button type="button" data-v="new" aria-pressed="false">New</button>
+        <button type="button" data-v="closed" aria-pressed="false">Closed</button>
+      </div>
+      <select class="pick" id="segment" aria-label="Segment"><option value="">All segments</option></select>
+      <select class="pick" id="field" aria-label="Field"><option value="">All fields</option></select>
+      <select class="pick" id="degree" aria-label="Degree">
+        <option value="">Any degree</option>
+        <option value="bachelors">Bachelor's</option>
+        <option value="masters">Master's</option>
+        <option value="phd">PhD</option>
+        <option value="none">Not specified</option>
+      </select>
+      <select class="pick" id="season" aria-label="Season"><option value="">Any season</option></select>
+      <label class="switch"><input type="checkbox" id="robotics-only" checked> Robotics only</label>
+    </form>
+    <div class="active" id="active" hidden></div>
+    <div class="table-wrap">
+      <table class="stack" id="board">
+        <thead><tr><th>Company</th><th>Role</th><th>Location</th><th>Posted</th></tr></thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </div>
+    <p class="none" id="none" hidden>No internships match these filters.</p>
+    <div class="table-foot" id="more-row" hidden><button class="btn" type="button" id="more">Show more</button></div>
+  </section>
+
+  <section class="card" id="companies" aria-labelledby="co-title">
+    <div class="card-head">
+      <h2 id="co-title">Companies</h2>
+      <div class="sub">Select a company to see only its internships.</div>
+    </div>
+    <div class="table-wrap">
+      <table class="stack">
+        <thead><tr><th>Company</th><th>Open internships</th><th>Summer opening</th><th>Job board</th></tr></thead>
+        <tbody id="co-rows"></tbody>
+      </table>
+    </div>
+  </section>
+
+  <footer class="notes">
+    <div>
+      <h3>Where this comes from</h3>
+      <p>A bot reads each company's own job board every hour, mostly through the public APIs behind Greenhouse, Lever, Ashby, Workday and similar systems. Internships are titles that say intern, co-op or student.</p>
+    </div>
+    <div>
+      <h3>How forecasts work</h3>
+      <p>A company's expected date is the day its first summer internship appeared last year, a year on. "By" means it was already open when we started watching, so it opened that day or earlier.</p>
+    </div>
+    <div>
+      <h3>Open and closed</h3>
+      <p>A posting closes when its board stops listing it. Large drops wait an hour for a second look, so a board that briefly fails to load doesn't close everything. Built with <a href="https://github.com/Ph1so/phlux2.0">phlux</a>.</p>
+    </div>
+  </footer>
+</main>
+
+<script type="application/json" id="phlux-data">__DATA__</script>
+<script>
+(function () {
+  "use strict";
+  var DATA = JSON.parse(document.getElementById("phlux-data").textContent);
+  var DAY = 86400000;
+  var TODAY = parseDay(DATA.today);
+  var PAGE = 50;
+  var FRESH_DAYS = 14;
+
+  var SEGMENTS = {
+    autonomous_vehicles: "Autonomous vehicles", warehouse_logistics: "Warehouse & logistics",
+    research_labs: "Research labs", defense_autonomy: "Defense & autonomy",
+    industrial_field: "Industrial & field", humanoids: "Humanoids",
+    robotics_software: "Robotics software", ev_automotive: "EVs & automotive",
+    consumer_service: "Consumer & service", industrial_automation: "Industrial automation",
+    space_hardware: "Space hardware", medical_robotics: "Medical robotics",
+    sensors_silicon: "Sensors & silicon", "": "Tech & finance"
+  };
+  var FIELDS = {
+    ml_ai: "ML & AI", software: "Software", hardware: "Hardware & robotics",
+    other_engineering: "Aerospace & other eng.", engineering_general: "Engineering",
+    data: "Data", security: "Security", research: "Research", product: "Product",
+    design: "Design", business: "Business", quant_finance: "Quant", other: "Other"
+  };
+  var DEGREES = { bachelors: "Bachelor's", masters: "Master's", phd: "PhD" };
+  var MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+
+  // ── Data ──────────────────────────────────────────────────────────────
+  var companies = DATA.companies.map(function (c) { c.open = 0; c.fresh = 0; return c; });
+  var F = {};
+  DATA.fields.forEach(function (f, i) { F[f] = i; });
+  var postings = DATA.postings.map(function (r) {
+    var c = companies[r[F.company]];
+    var p = {
+      company: c, title: r[F.title], url: r[F.url], location: r[F.location],
+      found: r[F.found] ? parseDay(r[F.found]) : null, closed: r[F.closed],
+      season: r[F.season], year: r[F.year], degree: r[F.degree], field: r[F.field]
+    };
+    p.closedDay = p.closed && p.closed !== "N/A" ? parseDay(p.closed) : null;
+    p.isNew = !p.closed && p.found !== null && daysFrom(p.found) >= -7;
+    if (!p.closed) c.open += 1;
+    if (p.isNew) c.fresh += 1;
+    p.haystack = (p.title + " " + c.name + " " + p.location).toLowerCase();
+    return p;
+  });
+
+  // ── Helpers ───────────────────────────────────────────────────────────
+  function parseDay(s) { var a = s.split("-"); return Date.UTC(+a[0], +a[1] - 1, +a[2]); }
+  function fmt(day) { var d = new Date(day); return MONTHS[d.getUTCMonth()] + " " + d.getUTCDate(); }
+  function daysFrom(day) { return Math.round((day - TODAY) / DAY); }
+  function relative(day) {
+    var n = daysFrom(day);
+    if (n === 0) return "today";
+    if (n === 1) return "tomorrow";
+    if (n === -1) return "yesterday";
+    return n > 0 ? "in " + n + " days" : -n + " days ago";
+  }
+  function el(tag, cls, text) {
+    var node = document.createElement(tag);
+    if (cls) node.className = cls;
+    if (text != null) node.textContent = text;
+    return node;
+  }
+  function initials(name) {
+    return name.replace(/[^A-Za-z0-9 ]/g, "").split(" ").filter(Boolean).slice(0, 2)
+      .map(function (w) { return w[0]; }).join("").toUpperCase() || "?";
+  }
+  function logo(c, small) {
+    var box = el("span", "logo" + (small ? " sm" : ""));
+    box.setAttribute("aria-hidden", "true");
+    if (c.icon) {
+      var img = new Image();
+      img.alt = "";
+      img.onerror = function () { box.textContent = initials(c.name); };
+      img.src = c.icon;
+      box.appendChild(img);
+    } else {
+      box.textContent = initials(c.name);
+    }
+    return box;
+  }
+  function seasonLabel(season, year) {
+    if (!season) return year ? String(year) : "";
+    return season[0].toUpperCase() + season.slice(1) + (year ? " " + year : "");
+  }
+  function link(href, cls, text) {
+    var a = el("a", cls, text);
+    a.href = href; a.target = "_blank"; a.rel = "noopener";
+    return a;
+  }
+  function store(key, value) { try { localStorage.setItem("phlux-robotics:" + key, value); } catch (e) {} }
+  function recall(key) { try { return localStorage.getItem("phlux-robotics:" + key); } catch (e) { return null; } }
+  function plural(n, word, many) { return n.toLocaleString("en-US") + " " + (n === 1 ? word : many || word + "s"); }
+
+  // ── State ─────────────────────────────────────────────────────────────
+  var $ = function (id) { return document.getElementById(id); };
+  var state = { q: "", segment: "", field: "", degree: "", season: "", status: "open", company: null, shown: PAGE };
+  var roboticsOnly = $("robotics-only");
+  if (recall("robotics") === "0") roboticsOnly.checked = false;
+  function inScope(c) { return !roboticsOnly.checked || c.robotics; }
+
+  // ── Forecast groups ───────────────────────────────────────────────────
+  function byExpected(a, b) { return parseDay(a.forecast.expected) - parseDay(b.forecast.expected); }
+  function groups() {
+    var all = companies.filter(function (c) { return c.forecast && inScope(c); });
+    var status = function (s) { return function (c) { return c.forecast.status === s; }; };
+    return {
+      soon: all.filter(function (c) { return c.forecast.status === "soon" || c.forecast.status === "due"; }).sort(byExpected),
+      later: all.filter(status("later")).sort(byExpected),
+      late: all.filter(status("late")).sort(function (a, b) { return byExpected(b, a); }),
+      fresh: all.filter(function (c) {
+        var o = c.forecast.opened;
+        return c.forecast.status === "open" && o && !o.on_or_before && daysFrom(parseDay(o.first_seen)) >= -FRESH_DAYS;
+      }).sort(function (a, b) { return parseDay(b.forecast.opened.first_seen) - parseDay(a.forecast.opened.first_seen); })
+    };
+  }
+  function lastYear(f) { return (f.last.on_or_before ? "by " : "") + fmt(parseDay(f.last.first_seen)); }
+
+  // ── Header figures ────────────────────────────────────────────────────
+  function renderStats(g) {
+    var scoped = companies.filter(inScope);
+    var open = postings.filter(function (p) { return !p.closed && inScope(p.company); });
+    var fresh = open.filter(function (p) { return p.isNew; });
+    var hiring = scoped.filter(function (c) { return c.open > 0; });
+    $("n-companies").textContent = String(scoped.length);
+    $("s-open").textContent = open.length.toLocaleString("en-US");
+    $("s-open-sub").textContent = "at " + plural(hiring.length, "company", "companies");
+    $("s-new").textContent = fresh.length.toLocaleString("en-US");
+    var freshCos = scoped.filter(function (c) { return c.fresh > 0; }).sort(function (a, b) { return b.fresh - a.fresh; });
+    $("s-new-sub").textContent = freshCos.length ? "Most from " + freshCos.slice(0, 2).map(function (c) { return c.name; }).join(", ") : "None this week";
+    $("s-hiring").textContent = String(hiring.length);
+    $("s-hiring-sub").textContent = "of " + plural(scoped.length, "company", "companies") + " tracked";
+    $("s-soon").textContent = String(g.soon.length);
+    var next = g.soon[0];
+    $("s-soon-sub").textContent = !next ? "Nobody in the next six weeks" :
+      "Next: " + next.name + ", " + (next.forecast.status === "due" ? "any day now" : fmt(parseDay(next.forecast.expected)));
+    var at = new Date(DATA.generated);
+    $("stamp").textContent = "Updated " + fmt(TODAY) + ", " +
+      at.toLocaleTimeString("en-US", { hour: "numeric", minute: "2-digit", timeZone: "America/New_York" }) + " ET";
+    $("cycle-name").textContent = "Summer " + DATA.cycle;
+  }
+
+  // ── Openings ──────────────────────────────────────────────────────────
+  function mini(c, parts) {
+    var li = el("li");
+    li.appendChild(logo(c, true));
+    var text = el("div");
+    var who = el("button", "who", c.name);
+    who.type = "button";
+    who.addEventListener("click", function () { pickCompany(c); });
+    text.appendChild(who);
+    var when = el("div", "when");
+    parts.forEach(function (part) { when.appendChild(typeof part === "string" ? document.createTextNode(part) : el("b", null, part.b)); });
+    text.appendChild(when);
+    li.appendChild(text);
+    return li;
+  }
+  function fill(id, countId, items, empty, build) {
+    var list = $(id);
+    list.textContent = "";
+    $(countId).textContent = items.length ? String(items.length) : "";
+    if (!items.length) { list.appendChild(el("li", "empty", empty)); return; }
+    items.forEach(function (c) { list.appendChild(build(c)); });
+  }
+  function renderOpenings(g) {
+    fill("soon-list", "soon-count", g.soon, "No company is expected in the next six weeks.", function (c) {
+      var f = c.forecast, day = parseDay(f.expected);
+      return mini(c, [f.status === "due" ? { b: "Any day now" } : { b: fmt(day) + " · " + relative(day) }, " · last year " + lastYear(f)]);
+    });
+    var note = $("later-note");
+    note.hidden = !g.later.length;
+    note.textContent = g.later.length ? "Later: " + g.later.slice(0, 5).map(function (c) {
+      return c.name + " (" + fmt(parseDay(c.forecast.expected)) + ")";
+    }).join(", ") + (g.later.length > 5 ? " and " + (g.later.length - 5) + " more" : "") : "";
+    fill("fresh-list", "fresh-count", g.fresh, "Nobody opened in the last two weeks.", function (c) {
+      return mini(c, [{ b: fmt(parseDay(c.forecast.opened.first_seen)) }, " · " + (c.open ? c.open + " open now" : "closed again")]);
+    });
+    fill("late-list", "late-count", g.late, "Nobody is running late.", function (c) {
+      return mini(c, ["Last year " + lastYear(c.forecast) + " · ", { b: "nothing yet" }]);
+    });
+    renderTimeline(g);
+  }
+
+  var measure = document.createElement("canvas").getContext("2d");
+  function renderTimeline(g) {
+    var box = $("timeline");
+    box.textContent = "";
+    var width = box.clientWidth || 900;
+    var start = TODAY - 21 * DAY, end = TODAY + 49 * DAY;
+    var x = function (day) { return (day - start) / (end - start) * width; };
+    var items = [];
+    g.fresh.forEach(function (c) { items.push({ c: c, day: parseDay(c.forecast.opened.first_seen), kind: "opened" }); });
+    g.soon.concat(g.later, g.late).forEach(function (c) {
+      var day = parseDay(c.forecast.expected);
+      if (day >= start && day <= end) items.push({ c: c, day: day, kind: c.forecast.status === "late" ? "late" : "soon" });
+    });
+    items.sort(function (a, b) { return a.day - b.day; });
+
+    // Each item takes the first lane its label fits in; near the right edge
+    // the label goes left of its mark instead.
+    measure.font = "12px Inter, system-ui, sans-serif";
+    var lanes = [], LANE = 20, TOP = 22, MAX_LANES = 8;
+    items.forEach(function (it) {
+      it.x = x(it.day);
+      var w = 14 + measure.measureText(it.c.name).width;
+      it.flip = it.x + w > width;
+      var from = it.flip ? it.x - w : it.x - 6, to = it.flip ? it.x + 6 : it.x + w;
+      var lane = lanes.findIndex(function (endX) { return endX < from - 4; });
+      if (lane === -1) lane = lanes.length;
+      it.lane = Math.min(lane, MAX_LANES - 1);
+      it.label = lane < MAX_LANES && from >= 0;
+      lanes[lane] = it.label ? to : it.x + 6;
+    });
+
+    var track = el("div", "tl-track");
+    track.style.setProperty("--tl-height", (TOP + Math.min(Math.max(lanes.length, 2), MAX_LANES) * LANE + 30) + "px");
+    var past = el("div", "tl-past");
+    past.style.width = x(TODAY) + "px";
+    track.appendChild(past);
+    var today = el("div", "tl-today", "Today");
+    today.style.left = x(TODAY) + "px";
+    track.appendChild(today);
+    var axis = el("div", "tl-axis"), lastTick = -Infinity;
+    for (var d = start; d <= end; d += DAY) {
+      if (new Date(d).getUTCDay() !== 1) continue;  // Mondays
+      var px = x(d);
+      if (px < 18 || px > width - 18 || Math.abs(px - x(TODAY)) < 28 || px - lastTick < 56) continue;
+      lastTick = px;
+      var tick = el("span", "tl-tick", fmt(d));
+      tick.style.left = px + "px";
+      axis.appendChild(tick);
+    }
+    track.appendChild(axis);
+    if (!items.length) track.appendChild(el("div", "tl-empty", "Nothing opened recently or expected in the next seven weeks."));
+    items.forEach(function (it) {
+      var node = el("span", "tl-item" + (it.flip ? " flip" : ""));
+      node.title = it.c.name + (it.kind === "opened" ? ": opened " : ": expected ") + fmt(it.day);
+      node.style.top = (TOP + it.lane * LANE) + "px";
+      if (it.flip) node.style.right = (width - it.x) + "px";
+      else node.style.left = it.x + "px";
+      node.appendChild(el("i", "mark " + it.kind));
+      if (it.label) node.appendChild(document.createTextNode(it.c.name));
+      track.appendChild(node);
+    });
+    box.appendChild(track);
+  }
+
+  // ── Internships ───────────────────────────────────────────────────────
+  function rank(key) {
+    var seen = {};
+    postings.forEach(function (p) { var v = key(p); if (v != null) seen[v] = (seen[v] || 0) + 1; });
+    return Object.keys(seen).sort(function (a, b) { return seen[b] - seen[a]; });
+  }
+  rank(function (p) { return p.company.segment; }).forEach(function (v) { $("segment").appendChild(new Option(SEGMENTS[v] || v, v)); });
+  rank(function (p) { return p.field; }).forEach(function (v) { $("field").appendChild(new Option(FIELDS[v] || v, v)); });
+  rank(function (p) { return p.season ? p.season + "|" + (p.year || "") : null; }).sort().forEach(function (v) {
+    var parts = v.split("|");
+    $("season").appendChild(new Option(seasonLabel(parts[0], +parts[1] || 0), v));
+  });
+  $("season").appendChild(new Option("Not specified", "none"));
+
+  function matches(p) {
+    var c = p.company;
+    if (!inScope(c) || (state.company && c !== state.company)) return false;
+    if (state.status === "open" && p.closed) return false;
+    if (state.status === "new" && !p.isNew) return false;
+    if (state.status === "closed" && !p.closedDay) return false;
+    if (state.segment && c.segment !== state.segment) return false;
+    if (state.field && p.field !== state.field) return false;
+    if (state.degree === "none" ? p.degree : state.degree && p.degree !== state.degree) return false;
+    if (state.season === "none" ? p.season : state.season && p.season + "|" + (p.year || "") !== state.season) return false;
+    if (state.q) {
+      var words = state.q.toLowerCase().split(/\s+/).filter(Boolean);
+      for (var i = 0; i < words.length; i++) if (p.haystack.indexOf(words[i]) === -1) return false;
+    }
+    return true;
+  }
+  function order(a, b) {
+    var ka = state.status === "closed" ? a.closedDay : a.found || 0;
+    var kb = state.status === "closed" ? b.closedDay : b.found || 0;
+    return kb - ka || a.company.name.localeCompare(b.company.name) || a.title.localeCompare(b.title);
+  }
+  function companyCell(c) {
+    var td = el("td", "c-co");
+    var cell = el("div", "co-cell");
+    cell.appendChild(logo(c));
+    var nm = el("div", "nm");
+    var b = el("button", "co-btn", c.name);
+    b.type = "button";
+    b.addEventListener("click", function () { pickCompany(c); });
+    nm.appendChild(b);
+    nm.appendChild(el("span", "seg-name", SEGMENTS[c.segment] || ""));
+    cell.appendChild(nm);
+    td.appendChild(cell);
+    return td;
+  }
+  function row(p) {
+    var tr = el("tr", p.closed ? "is-closed" : "");
+    tr.appendChild(companyCell(p.company));
+    var role = el("td", "c-role");
+    var box = el("div", "role");
+    box.appendChild(p.url ? link(p.url, "t", p.title) : el("span", "t", p.title));
+    var chips = el("div", "chips");
+    [seasonLabel(p.season, p.year), DEGREES[p.degree], FIELDS[p.field]].forEach(function (t) {
+      if (t && t !== "Other") chips.appendChild(el("span", "chip", t));
+    });
+    if (!p.url && p.company.careers) chips.appendChild(link(p.company.careers, "board-link", "Job board ↗"));
+    if (chips.childNodes.length) box.appendChild(chips);
+    role.appendChild(box);
+    tr.appendChild(role);
+    tr.appendChild(el("td", "c-loc loc", p.location || ""));
+    var when = el("td", "c-when posted");
+    if (p.closed) {
+      when.appendChild(el("span", "badge closed", p.closedDay ? "Closed " + fmt(p.closedDay) : "Closed"));
+    } else if (p.found) {
+      if (daysFrom(p.found) >= -3) { when.appendChild(el("span", "badge new", "New")); when.appendChild(document.createTextNode(" ")); }
+      when.appendChild(el("span", "d", fmt(p.found)));
+      when.appendChild(el("span", "r", relative(p.found)));
+    } else {
+      when.appendChild(el("span", "r", "Open since before " + fmt(parseDay(DATA.seasonStart))));
+    }
+    tr.appendChild(when);
+    return tr;
+  }
+  function renderActive() {
+    var box = $("active");
+    box.textContent = "";
+    box.hidden = !state.company;
+    if (!state.company) return;
+    var b = el("button", "tag-btn", state.company.name + "  ×");
+    b.type = "button";
+    b.setAttribute("aria-label", "Show every company, not just " + state.company.name);
+    b.addEventListener("click", function () { state.company = null; state.shown = PAGE; renderBoard(); });
+    box.appendChild(b);
+  }
+  function renderBoard() {
+    renderActive();
+    ["segment", "field", "degree", "season"].forEach(function (id) { $(id).classList.toggle("set", !!state[id]); });
+    var hits = postings.filter(matches).sort(order);
+    var body = $("rows");
+    body.textContent = "";
+    hits.slice(0, state.shown).forEach(function (p) { body.appendChild(row(p)); });
+    $("board").hidden = !hits.length;
+    $("none").hidden = hits.length > 0;
+    $("more-row").hidden = hits.length <= state.shown;
+    $("more").textContent = "Show " + Math.min(PAGE, hits.length - state.shown) + " more";
+    var noun = { open: "open", "new": "new this week", closed: "closed in the last " + DATA.recentDays + " days" }[state.status];
+    $("board-count").innerHTML = "";
+    var strong = el("b", null, hits.length.toLocaleString("en-US"));
+    $("board-count").appendChild(strong);
+    $("board-count").appendChild(document.createTextNode(" " + noun));
+  }
+  function pickCompany(c) {
+    state.company = c;
+    state.shown = PAGE;
+    renderBoard();
+    $("internships").scrollIntoView({ behavior: "smooth", block: "start" });
+  }
+
+  // ── Companies ─────────────────────────────────────────────────────────
+  var OUTLOOK = {
+    open: function (f) { return f.opened && !f.opened.on_or_before ? "Open since " + fmt(parseDay(f.opened.first_seen)) : "Open"; },
+    due: function () { return "Due now"; },
+    soon: function (f) { return "Expected " + fmt(parseDay(f.expected)); },
+    later: function (f) { return "Expected " + fmt(parseDay(f.expected)); },
+    late: function () { return "Running late"; },
+    unknown: function () { return "No forecast yet"; }
+  };
+  function renderCompanies() {
+    var body = $("co-rows");
+    body.textContent = "";
+    companies.filter(inScope).slice().sort(function (a, b) {
+      return b.open - a.open || a.name.localeCompare(b.name);
+    }).forEach(function (c) {
+      var tr = el("tr");
+      tr.appendChild(companyCell(c));
+      var n = el("td", "c-extra num");
+      n.textContent = c.open ? plural(c.open, "internship") + " open" : "None open";
+      if (c.fresh) { n.appendChild(document.createTextNode(" ")); n.appendChild(el("span", "badge new", c.fresh + " new")); }
+      tr.appendChild(n);
+      var f = c.forecast;
+      var fc = el("td", "c-extra");
+      fc.appendChild(el("span", "badge " + (f ? f.status : "unknown"), f ? OUTLOOK[f.status](f) : "No forecast yet"));
+      tr.appendChild(fc);
+      var jb = el("td", "c-when");
+      if (c.careers) jb.appendChild(link(c.careers, "board-link", "Open ↗"));
+      tr.appendChild(jb);
+      body.appendChild(tr);
+    });
+  }
+
+  // ── Wiring ────────────────────────────────────────────────────────────
+  ["segment", "field", "degree", "season"].forEach(function (id) {
+    var input = $(id), saved = recall(id);
+    if (saved && Array.prototype.some.call(input.options, function (o) { return o.value === saved; })) {
+      input.value = saved;
+      state[id] = saved;
+    }
+    input.addEventListener("change", function () {
+      state[id] = input.value;
+      state.shown = PAGE;
+      store(id, input.value);
+      renderBoard();
+    });
+  });
+  $("q").addEventListener("input", function () { state.q = $("q").value.trim(); state.shown = PAGE; renderBoard(); });
+  Array.prototype.forEach.call($("status").querySelectorAll("button"), function (b) {
+    b.addEventListener("click", function () {
+      state.status = b.dataset.v;
+      state.shown = PAGE;
+      Array.prototype.forEach.call($("status").querySelectorAll("button"), function (o) { o.setAttribute("aria-pressed", String(o === b)); });
+      renderBoard();
+    });
+  });
+  $("filters").addEventListener("submit", function (e) { e.preventDefault(); });
+  $("more").addEventListener("click", function () { state.shown += PAGE; renderBoard(); });
+  roboticsOnly.addEventListener("change", function () {
+    store("robotics", roboticsOnly.checked ? "1" : "0");
+    if (state.company && !inScope(state.company)) state.company = null;
+    renderAll();
+  });
+  var resizeTimer;
+  window.addEventListener("resize", function () {
+    clearTimeout(resizeTimer);
+    resizeTimer = setTimeout(function () { renderTimeline(groups()); }, 150);
+  });
+
+  function renderAll() {
+    var g = groups();
+    renderStats(g);
+    renderOpenings(g);
+    renderBoard();
+    renderCompanies();
+  }
+  renderAll();
+})();
+</script>

@@ -21,7 +21,7 @@ from phlux.utils import board_link, update_icons
 MAX_PAGE_BYTES = 450_000
 README_MAX_ROWS = 1000
 LISTINGS_DIR = Path("listings")
-# Where the job-scraper workflow deploys python -m phlux.radar.
+# Where the job-scraper workflow deploys python -m phlux.robotics.
 SITE_URL = "https://ph1so.github.io/phlux2.0/"
 PREV_YEARS_DIR = Path("prev_years")
 
@@ -172,7 +172,7 @@ def generate_readme(
         lines = [
             "# 🌀 Phlux: Phi's Job Tracker\n",
             "Easily track jobs across top tech companies.\n",
-            f"🛰️ **[Robotics Intern Radar]({SITE_URL})**: every open robotics internship, "
+            f"🛰️ **[Phlux Robotics]({SITE_URL})**: every open robotics internship, "
             "with a forecast of who opens next.\n",
             f"\n---\n\n## 🔍 Phlux Job Listings\n"
             f"*Showing the {n:,} most recent of {len(tracked):,} roles tracked across "

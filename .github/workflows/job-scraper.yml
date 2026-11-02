@@ -60,11 +60,16 @@ jobs:
       - name: Generate README
         run: .venv/bin/python generate_readme.py
 
+      # Only new companies or changed icons download anything.
+      - name: Fetch new company logos
+        continue-on-error: true
+        run: .venv/bin/python -m phlux.robotics logos
+
       - name: Commit results
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add storage.json README.md icons.json listings
+          git add storage.json README.md icons.json listings logos
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
@@ -79,10 +84,10 @@ jobs:
 
       # The site comes after the commit and can't fail the job: a failed job
       # starts the retry job, which scrapes and emails again.
-      - name: Build the Robotics Intern Radar site
+      - name: Build the Phlux Robotics site
         id: site
         continue-on-error: true
-        run: .venv/bin/python -m phlux.radar --out site
+        run: .venv/bin/python -m phlux.robotics --out site
 
       - name: Upload the site
         if: steps.site.outcome == 'success'

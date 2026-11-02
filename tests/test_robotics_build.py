@@ -1,0 +1,91 @@
+"""Tests for phlux/robotics/build.py."""
+import json
+from datetime import date, datetime
+
+import pytest
+
+from phlux.models import Company
+from phlux.robotics.build import TEMPLATE, build_payload, internship_rows, render
+from phlux.robotics.forecast import SOON, Forecast, Opening
+
+TODAY = date(2026, 11, 1)
+
+
+class TestInternshipRows:
+    def test_keeps_starred_titles_open_or_closed_lately(self):
+        entries = [
+            {"title": "⭐️ Perception Intern, PhD - Summer 2027", "date": "2026-10-20", "id": "x:1",
+             "url": "https://jobs.example/1", "location": "Boston, MA"},
+            {"title": "Senior Perception Engineer", "date": "2026-10-20"},
+            {"title": "⭐️ Mechanical Engineering Co-op", "date": "N/A", "closed": "2026-10-25"},
+            {"title": "⭐️ Old Intern", "date": "2026-09-30", "closed": "2026-09-01"},
+            {"title": "⭐️ Backlog Intern", "date": "N/A", "closed": "N/A"},
+            "⭐️ Legacy string",
+        ]
+        rows = internship_rows("Acme", entries, TODAY)
+        assert rows == [
+            {"company": "Acme", "title": "Perception Intern, PhD - Summer 2027", "url": "https://jobs.example/1",
+             "location": "Boston, MA", "found": "2026-10-20", "closed": "", "season": "summer", "year": 2027,
+             "degree": "phd", "field": "ml_ai"},
+            {"company": "Acme", "title": "Mechanical Engineering Co-op", "url": "", "location": "", "found": "",
+             "closed": "2026-10-25", "season": "", "year": 0, "degree": "", "field": "hardware"},
+        ]
+
+
+class TestBuildPayload:
+    def payload(self):
+        storage = {
+            "companies": {"Acme": [{"title": "⭐️ Robotics Intern", "date": "2026-10-30"}], "Quant Co": []},
+            "checked": {"Acme": "2026-11-01"},
+        }
+        companies = [
+            Company("Acme", "https://job-boards.greenhouse.io/acme?keyword=intern", "@greenhouse"),
+            Company("Quant Co", "https://jobs.lever.co/quant", "@lever"),
+        ]
+        forecasts = {"Acme": Forecast("Acme", SOON, 2027, last=Opening(2026, date(2025, 11, 20), False),
+                                      expected=date(2026, 11, 20))}
+        industries = {"Acme": {"robotics_tier": "core", "robotics_segment": "humanoids"},
+                      "Quant Co": {"robotics_tier": "none", "robotics_segment": ""}}
+        icons = {"Acme": "data:image/webp;base64,AAAA"}
+        now = datetime(2026, 11, 1, 17, 5)
+        return build_payload(storage, companies, forecasts, industries, icons, now)
+
+    def test_companies_carry_tagging_links_and_forecasts(self):
+        acme, quant = self.payload()["companies"]
+        assert acme["robotics"] is True and quant["robotics"] is False
+        assert acme["careers"] == "https://job-boards.greenhouse.io/acme"  # keyword search dropped
+        assert acme["icon"] == "data:image/webp;base64,AAAA"
+        assert acme["checked"] == "2026-11-01"
+        assert acme["forecast"]["expected"] == "2026-11-20"
+        assert quant["forecast"] is None
+
+    def test_postings_are_rows_of_the_listed_fields(self):
+        payload = self.payload()
+        assert payload["cycle"] == 2027
+        assert payload["today"] == "2026-11-01"
+        [row] = payload["postings"]
+        posting = dict(zip(payload["fields"], row))
+        assert posting["company"] == 0
+        assert posting["title"] == "Robotics Intern"
+
+
+class TestRender:
+    def test_wraps_the_body_in_a_document_with_the_data_inside(self):
+        page = render({"title": "Intern </script><script>alert(1)</script>"}, "<p>__DATA__</p>")
+        assert page.startswith("<!doctype html>")
+        assert "<\\/script>" in page and "</script><script>" not in page
+        assert "viewport-fit=cover" in page
+
+    def test_fragment_for_artifact_previews(self):
+        body = render({"a": 1}, "<p>__DATA__</p>", document=False)
+        assert body == '<p>{"a":1}</p>'
+
+    def test_template_needs_the_marker(self):
+        with pytest.raises(ValueError):
+            render({}, "<p>no marker</p>")
+
+    def test_real_template_has_one_marker_and_a_title(self):
+        template = TEMPLATE.read_text(encoding="utf-8")
+        assert template.count("__DATA__") == 1
+        assert template.startswith("<title>Phlux Robotics</title>")
+        json.loads(render({"x": 1}, template, document=False).split('id="phlux-data">')[1].split("</script>")[0])
