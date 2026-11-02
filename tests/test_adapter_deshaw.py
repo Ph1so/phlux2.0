@@ -27,7 +27,8 @@ def test_registered():
 
 def test_reads_every_internship():
     html = page({"internships": [
-        {"id": "5890", "displayName": "Quantitative Analyst Intern (New York) –  Summer 2027"},
+        {"id": "5890", "displayName": "Quantitative Analyst Intern (New York) –  Summer 2027",
+         "data": {"id": 5890, "jobUrl": "Quantitative-Analyst-Intern-New-York-Summer-2027-5890"}},
         {"id": "5925", "displayName": "Systems Engineering Intern (London) - Summer 2027"},
     ], "regularJobs": [{"id": "1", "displayName": "Not an internship"}], "jobsFetchingError": False})
     with patch("phlux.adapters.deshaw.get", return_value=response(html)):
@@ -36,6 +37,9 @@ def test_reads_every_internship():
         ("deshaw:5890", "Quantitative Analyst Intern (New York) – Summer 2027"),
         ("deshaw:5925", "Systems Engineering Intern (London) - Summer 2027"),
     ]
+    # The page links jobUrl lowercased; a job without one has no link.
+    assert [p.url for p in postings] == [
+        "https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890", ""]
 
 
 def test_no_internships():

@@ -9,7 +9,8 @@ So the row's Link stays the job search a person would open, and its filters
 are applied to the slugs: ``experience-filter=internships`` keeps slugs with
 "intern" in them, and ``location-filter`` (regions or offices, comma-separated)
 keeps the slugs whose region it covers. Titles are rebuilt from the slug, as
-the job pages that hold the real titles are behind the challenge.
+the job pages that hold the real titles are behind the challenge. The
+sitemap's URL is the job's page.
 """
 from __future__ import annotations
 
@@ -76,7 +77,7 @@ def fetch(url: str, arg: str = "") -> List[Posting]:
 
     postings: List[Posting] = []
     seen: Set[str] = set()
-    for _, slug in JOB_URL.findall(sitemap):
+    for job_url, slug in JOB_URL.findall(sitemap):
         if slug in seen:
             continue
         seen.add(slug)
@@ -85,5 +86,5 @@ def fetch(url: str, arg: str = "") -> List[Posting]:
         region = slug_region(slug)
         if regions and region and region not in regions:
             continue
-        postings.append(Posting(f"{NAME}:{slug}", slug_title(slug)))
+        postings.append(Posting(f"{NAME}:{slug}", slug_title(slug), url=job_url))
     return postings

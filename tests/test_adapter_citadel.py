@@ -46,6 +46,7 @@ class TestFetch:
             "citadel:equities-citadel-associate-program-summer-internship-2028",
             "citadel:commodities-analyst",
         ]
+        assert postings[0].url == "https://www.citadel.com/careers/details/software-engineer-intern-us/"
 
     def test_internships_in_american_offices(self):
         postings = fetch(SEARCH + "?experience-filter=internships&location-filter=americas,chicago,new-york")

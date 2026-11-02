@@ -3,17 +3,21 @@
 The careers page loads its openings ten at a time from WordPress's
 ``admin-ajax.php`` (``action=go_fetch_jobs&page=N``), which answers JSON with
 the jobs, ``totalCount`` and ``pageSize``. Every page is read; the browser only
-showed the first. Postings are keyed by the job id of GreyOrange's ATS.
+showed the first. Postings are keyed by the job id of GreyOrange's ATS, whose
+page for a job (the careers page's "Apply Now") is its ``jobUrl`` under
+``careers.greyorange.com/greyorange/jobview/``.
 """
 from __future__ import annotations
 
 import math
 from typing import List
+from urllib.parse import quote
 
 from ..models import Posting
 from .base import adapter, post, unique
 
 API = "https://www.greyorange.com/wp-admin/admin-ajax.php"
+JOB_PAGE = "https://careers.greyorange.com/greyorange/jobview/{slug}"
 MAX_PAGES = 30
 
 
@@ -24,8 +28,13 @@ def _page(page: int) -> dict:
     return result["data"]
 
 
+def _job_url(job: dict) -> str:
+    return JOB_PAGE.format(slug=quote(job["jobUrl"])) if job.get("jobUrl") else ""
+
+
 def _postings(data: dict) -> List[Posting]:
-    return [Posting(f"greyorange:{j['id']}", " ".join(j["jobTitle"].split())) for j in data.get("jobs") or []]
+    return [Posting(f"greyorange:{j['id']}", " ".join(j["jobTitle"].split()), url=_job_url(j))
+            for j in data.get("jobs") or []]
 
 
 @adapter("greyorange")

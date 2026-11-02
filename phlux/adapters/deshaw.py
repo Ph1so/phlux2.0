@@ -4,12 +4,14 @@ The page is a server-rendered Next.js page: its ``__NEXT_DATA__`` script holds
 every listed internship under ``props.pageProps.internships`` (all of them,
 including the ones the browser only shows after "more jobs" is clicked).
 Postings are keyed by D. E. Shaw's job id, the number ending the job's URL.
+That URL is ``/careers/<data.jobUrl>``, lowercased as the page links it.
 """
 from __future__ import annotations
 
 import json
 import re
 from typing import List
+from urllib.parse import quote, urljoin
 
 from ..models import Posting
 from .base import adapter, get
@@ -33,8 +35,14 @@ def internships(html: str) -> List[dict]:
     return props["internships"] or []
 
 
+def job_url(url: str, job: dict) -> str:
+    """Return an internship's page on the site of *url*, or "" if it names none."""
+    slug = (job.get("data") or {}).get("jobUrl")
+    return urljoin(url, "/careers/" + quote(slug.lower())) if slug else ""
+
+
 @adapter("deshaw")
 def fetch(url: str, arg: str = "") -> List[Posting]:
     """Return every internship on the D. E. Shaw internships page."""
-    return [Posting(f"deshaw:{job['id']}", " ".join(job["displayName"].split()))
+    return [Posting(f"deshaw:{job['id']}", " ".join(job["displayName"].split()), url=job_url(url, job))
             for job in internships(get(url).text)]

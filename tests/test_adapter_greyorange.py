@@ -17,7 +17,8 @@ def response(payload):
 
 def page(page, jobs, total=12, size=5):
     return {"success": True, "data": {"html": "", "totalCount": total, "pageSize": size, "page": page,
-                                      "jobs": [{"id": str(i), "jobTitle": f"Engineer  {i}"} for i in jobs]}}
+                                      "jobs": [{"id": str(i), "jobTitle": f"Engineer  {i}", "jobUrl": f"engineer-{i}-2026"}
+                                               for i in jobs]}}
 
 
 def test_registered():
@@ -31,6 +32,7 @@ def test_reads_every_page():
         postings = fetch(URL)
     assert [p.id for p in postings] == [f"greyorange:{i}" for i in range(12)]
     assert postings[0].title == "Engineer 0"
+    assert postings[0].url == "https://careers.greyorange.com/greyorange/jobview/engineer-0-2026"
     assert post.call_args_list[0].args == (API,)
     assert post.call_args_list[0].kwargs["data"] == {"action": "go_fetch_jobs", "page": 1}
     assert post.call_count == 3
