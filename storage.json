@@ -735,15 +735,13 @@
         "title": "\u2b50\ufe0f Research Intern - Data Systems",
         "date": "2026-10-13",
         "id": "eightfold:1970393557008574",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557008574",
-        "closed": "2026-11-02"
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557008574"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Quantum Algorithms",
         "date": "2026-10-13",
         "id": "eightfold:1970393557021663",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557021663",
-        "closed": "2026-11-02"
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557021663"
       },
       {
         "title": "\u2b50\ufe0f Product Management Intern - CTJ - TS",
@@ -826,8 +824,7 @@
         "title": "\u2b50\ufe0f Research Intern - Gray Systems Lab (GSL)",
         "date": "2026-10-16",
         "id": "eightfold:1970393557041730",
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393557045445",
-        "closed": "2026-11-02"
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557045445"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Machine Learning at MSR NYC",
@@ -2029,7 +2026,8 @@
         "title": "\u2b50\ufe0f Research Scientist Intern, Audio-Visual Conversation Scene Generation (PhD)",
         "date": "2026-10-22",
         "id": "meta:3364701000388712",
-        "url": "https://www.metacareers.com/profile/job_details/3364701000388712/"
+        "url": "https://www.metacareers.com/profile/job_details/3364701000388712/",
+        "closed": "2026-11-02"
       },
       {
         "title": "\u2b50\ufe0f ASIC Engineer Intern, Architecture",
@@ -11773,14 +11771,16 @@
         "date": "N/A",
         "id": "greenhouse:6581329003",
         "url": "https://motional.com/open-positions/?gh_jid=6581329003#/6581329003",
-        "location": "Boston, Massachusetts, United States; Remote U.S."
+        "location": "Boston, Massachusetts, United States; Remote U.S.",
+        "closed": "2026-11-02"
       },
       {
         "title": "Principal Engineer Team Lead, Prediction & ML Planner",
         "date": "N/A",
         "id": "greenhouse:6354724003",
         "url": "https://motional.com/open-positions/?gh_jid=6354724003#/6354724003",
-        "location": "Boston, Massachusetts, United States; Pittsburgh, Pennsylvania, United States; Remote U.S."
+        "location": "Boston, Massachusetts, United States; Pittsburgh, Pennsylvania, United States; Remote U.S.",
+        "closed": "2026-11-02"
       },
       {
         "title": "Principal Engineer Team Lead, Safety & Targets",
