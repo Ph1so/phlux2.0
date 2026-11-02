@@ -21,9 +21,11 @@ JOB_PARAMS = ("clientId", "id")
 
 
 def job_page(job_url: str) -> str:
-    """Return a job link with only the parameters that pick the job."""
+    """Return a job link with only the parameters that pick the job (as is without an ``id``)."""
     parts = urlsplit(job_url)
     params = query(job_url)
+    if not first(params, "id"):
+        return job_url
     kept = [(key, first(params, key)) for key in JOB_PARAMS if first(params, key)]
     return urlunsplit((parts.scheme, parts.netloc, parts.path, urlencode(kept), ""))
 

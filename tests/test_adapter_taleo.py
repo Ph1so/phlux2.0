@@ -43,6 +43,13 @@ def test_job_link_keeps_only_what_picks_the_job():
     assert postings[0].url == BASE + "viewRequisition?org=ACME&cws=47&rid=7"
 
 
+def test_job_link_without_a_rid_is_kept_whole():
+    html = f'<h4 class="oracletaleocwsv2-head-title"><a href="{BASE}viewRequisition?org=ACME&amp;job=9">Intern</a></h4>'
+    postings, _, _ = parse_results(html, URL)
+    assert (postings[0].id, postings[0].url) == (
+        f"taleo:{BASE}viewRequisition?org=ACME&job=9", BASE + "viewRequisition?org=ACME&job=9")
+
+
 def test_follows_scroll_links():
     pages = [
         page([row(1, "A"), row(2, "B")], 3, "searchResults?org=ACME&cws=47&act=next&rowFrom=2"),

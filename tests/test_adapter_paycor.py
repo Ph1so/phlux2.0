@@ -39,6 +39,14 @@ def test_reads_job_links_with_ids():
     ]
 
 
+def test_a_link_without_an_id_is_kept_whole():
+    html = '<a href="JobIntroduction.action?clientId=abc&amp;job=9">Intern</a>'
+    with patch("phlux.adapters.paycor.get", return_value=response(html)):
+        postings = fetch(URL)
+    link = "https://recruitingbypaycor.com/career/JobIntroduction.action?clientId=abc&job=9"
+    assert [(p.id, p.url) for p in postings] == [(f"paycor:{link}", link)]
+
+
 def test_empty_board():
     with patch("phlux.adapters.paycor.get", return_value=response("<table></table>")):
         assert fetch(URL) == []

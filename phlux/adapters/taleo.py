@@ -30,9 +30,11 @@ JOB_PARAMS = ("org", "cws", "rid")
 
 
 def job_page(href: str) -> str:
-    """Return a job's ``viewRequisition`` link with only :data:`JOB_PARAMS`."""
+    """Return a job's ``viewRequisition`` link with only :data:`JOB_PARAMS` (as is without a ``rid``)."""
     parts = urlsplit(href)
     params = parse_qs(parts.query)
+    if not params.get("rid"):
+        return href
     kept = [(key, params[key][0]) for key in JOB_PARAMS if params.get(key)]
     return urlunsplit((parts.scheme, parts.netloc, parts.path, urlencode(kept), ""))
 
