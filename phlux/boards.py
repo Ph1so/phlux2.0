@@ -27,6 +27,7 @@ import requests
 
 from .adapters import ADAPTERS
 from .adapters.base import path_slug as _path_slug
+from .adapters.base import place
 from .adapters.base import query as _query
 from .models import Posting
 
@@ -54,18 +55,6 @@ def keyword_in(title: str, keyword: str) -> bool:
     if keyword.lower().startswith("intern"):
         title = _NOT_INTERN.sub(" ", title)
     return re.search(r"\b" + re.escape(keyword), title, re.IGNORECASE) is not None
-
-
-def place(primary: str | None, others: Iterable[str | None] = ()) -> str:
-    """Return a posting's location for display: the first one, plus a count of the rest."""
-    names: List[str] = []
-    for name in [primary, *others]:
-        name = " ".join((name or "").split())
-        if name and name not in names:
-            names.append(name)
-    if not names:
-        return ""
-    return f"{names[0]} +{len(names) - 1}" if len(names) > 1 else names[0]
 
 
 def _title_has(postings: Iterable[Tuple[Posting, dict]], keywords: List[str]) -> List[Tuple[Posting, dict]]:
