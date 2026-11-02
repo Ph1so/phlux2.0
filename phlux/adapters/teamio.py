@@ -5,12 +5,19 @@ and the widget reads its jobs from LMC's GraphQL API. Both values are public
 and read from the page on every run, since the site may re-embed the widget
 with new ones. A widget may group its jobs (``groups[].jobAds``) or not
 (``jobAds``); both are read.
+
+A job ad has no page of its own: the widget opens it in place, on the careers
+page, routed by the query (``?r=detail&id=<ad id>``; its links also carry
+paging and tracking parameters, left out here). That URL is the job's link,
+unless the widget is set to route otherwise (``legacyRouting``, or a separate
+detail page when ``onePage`` is off), where no link is given.
 """
 from __future__ import annotations
 
 import json
 import re
 from typing import List
+from urllib.parse import urlencode, urlsplit, urlunsplit
 
 from ..models import Posting
 from .base import adapter, get, post, unique
@@ -31,6 +38,14 @@ query WidgetJobAds($widgetId: ID!, $page: Int!, $rps: Int!) {
     }
   }
 }"""
+
+
+def job_url(page_url: str, config: dict, ad_id: str) -> str:
+    """Return the careers page at *page_url* opened on ad *ad_id*, as the widget links it."""
+    if config.get("legacyRouting") or config.get("onePage") is False:
+        return ""
+    parts = urlsplit(page_url)
+    return urlunsplit((parts.scheme, parts.netloc, parts.path or "/", urlencode([("r", "detail"), ("id", ad_id)]), ""))
 
 
 def widget_config(html: str) -> dict:
@@ -61,7 +76,7 @@ def fetch(url: str, arg: str = "") -> List[Posting]:
         jobs = list(grouped.get("jobAds") or [])
         for group in grouped.get("groups") or []:
             jobs.extend(group.get("jobAds") or [])
-        postings.extend(Posting(f"teamio:{j['id']}", j["title"]) for j in jobs)
+        postings.extend(Posting(f"teamio:{j['id']}", j["title"], url=job_url(url, config, j["id"])) for j in jobs)
         last = (ads.get("paginator") or {}).get("lastPage") or 1
         page += 1
     return unique(postings)

@@ -4,7 +4,7 @@ from unittest.mock import MagicMock, patch
 import pytest
 
 from phlux.adapters import ADAPTERS
-from phlux.adapters.teamio import API, fetch, widget_config
+from phlux.adapters.teamio import API, fetch, job_url, widget_config
 
 PAGE = ('<div id="capybara"></div><script>window.__LMC_CAREER_WIDGET__ = '
         '{"apiKey":"pubkey","widgetId":"w-1","selector":"#capybara","themes":["base"]};</script>')
@@ -48,12 +48,24 @@ def test_reads_ungrouped_and_grouped_ads_across_pages():
         ("teamio:2", "QA Engineer"),
         ("teamio:3", "Intern"),
     ]
+    # The widget opens an ad on the careers page itself; the page's anchor is dropped.
+    assert postings[0].url == "https://acme.ai/careers/?r=detail&id=1"
     get.assert_called_once_with("https://acme.ai/careers/#openpositions")
     first = post.call_args_list[0]
     assert first.args == (API,)
     assert first.kwargs["headers"] == {"X-Api-Key": "pubkey"}
     assert first.kwargs["json"]["variables"] == {"widgetId": "w-1", "page": 1, "rps": 100}
     assert post.call_args_list[1].kwargs["json"]["variables"]["page"] == 2
+
+
+@pytest.mark.parametrize("config, expected", [
+    ({}, "https://acme.ai/careers/?r=detail&id=7"),
+    ({"onePage": True, "legacyRouting": False}, "https://acme.ai/careers/?r=detail&id=7"),
+    ({"legacyRouting": True}, ""),
+    ({"onePage": False, "detailPath": "/careers/job"}, ""),
+])
+def test_job_url_follows_the_widgets_routing(config, expected):
+    assert job_url("https://acme.ai/careers/?utm_source=x#openpositions", config, "7") == expected
 
 
 def test_graphql_errors_raise():
