@@ -12,7 +12,7 @@ takes three steps, as the page does:
    the current one in the page's JavaScript and ask again.
 
 The query returns every matching job at once (no paging). Postings are keyed
-by Meta's job id, the one in ``/profile/job_details/<id>/``.
+by Meta's job id, the one in ``/profile/job_details/<id>/``, the job's page.
 """
 from __future__ import annotations
 
@@ -30,6 +30,7 @@ from .base import adapter, get, post
 logger = logging.getLogger(__name__)
 
 GRAPHQL = "https://www.metacareers.com/graphql"
+JOB_PAGE = "https://www.metacareers.com/profile/job_details/{id}/"
 QUERY = "CareersJobSearchResultsDataQuery"
 # The doc_id when this was written; replaced from Meta's JavaScript once stale.
 DOC_ID = "27506805582236862"
@@ -142,4 +143,4 @@ def fetch(url: str, arg: str = "") -> List[Posting]:
         if data is None:
             raise RuntimeError(f"Meta does not know the {QUERY} doc_id {_doc_id} from its own page")
     jobs = data["job_search_with_featured_jobs"]["all_jobs"] or []
-    return [Posting(f"meta:{j['id']}", " ".join(j["title"].split())) for j in jobs]
+    return [Posting(f"meta:{j['id']}", " ".join(j["title"].split()), url=JOB_PAGE.format(id=j["id"])) for j in jobs]

@@ -54,6 +54,10 @@ def test_internships_in_new_york():
     # Unlisted ids are not on the page; titles are shown with & spelled out.
     assert [(p.id, p.title) for p in postings] == [
         ("janestreet:1", "Quantitative Trader"), ("janestreet:2", "Sales and Trading")]
+    assert [p.url for p in postings] == [
+        "https://www.janestreet.com/join-jane-street/position/1/",
+        "https://www.janestreet.com/join-jane-street/position/2/",
+    ]
 
 
 def test_students_and_new_grads():

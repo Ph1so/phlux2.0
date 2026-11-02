@@ -18,6 +18,8 @@ The page also lists last season's internships that are not open yet, marked
 "not currently accepting applications" (from ``/jobs/internships.json``, which
 has no ids). Those are not postings and are left out; when one opens, it shows
 up in main.json with an id and is reported as new.
+
+The page links an open position to ``/join-jane-street/position/<id>/``.
 """
 from __future__ import annotations
 
@@ -31,6 +33,7 @@ from .base import adapter, get
 SITE = "https://www.janestreet.com"
 MAIN = SITE + "/jobs/main.json"
 DIRECTORY = SITE + "/static/position-directories.json"
+POSITION = SITE + "/join-jane-street/position/{id}/"
 
 CITY_NAMES = {
     "NYC": "New York", "LDN": "London", "HKG": "Hong Kong", "AMS": "Amsterdam",
@@ -140,4 +143,5 @@ def select(jobs: List[Dict[str, str]], url: str) -> List[Dict[str, str]]:
 @adapter("janestreet")
 def fetch(url: str, arg: str = "") -> List[Posting]:
     """Return the open positions the Jane Street open-roles link shows."""
-    return [Posting(f"janestreet:{j['id']}", j["position"]) for j in select(_jobs(), url)]
+    return [Posting(f"janestreet:{j['id']}", j["position"], url=POSITION.format(id=j["id"]))
+            for j in select(_jobs(), url)]

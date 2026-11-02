@@ -52,7 +52,8 @@ def test_reads_results_not_featured_jobs():
     with patch("phlux.adapters.meta.get", return_value=response(PAGE)), \
             patch("phlux.adapters.meta.post", return_value=response(results(("1", "Software  Engineer Intern")))) as post:
         postings = fetch(URL)
-    assert [(p.id, p.title) for p in postings] == [("meta:1", "Software Engineer Intern")]
+    assert [(p.id, p.title, p.url) for p in postings] == [
+        ("meta:1", "Software Engineer Intern", "https://www.metacareers.com/profile/job_details/1/")]
     form = post.call_args.kwargs["data"]
     assert form["lsd"] == "TOKEN1" and form["doc_id"] == meta.DOC_ID
     assert json.loads(form["variables"])["search_input"]["roles"] == ["Internship"]
