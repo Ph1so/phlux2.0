@@ -23,6 +23,38 @@ README_MAX_ROWS = 1000
 LISTINGS_DIR = Path("listings")
 # Where the job-scraper workflow deploys python -m phlux.robotics.
 SITE_URL = "https://ph1so.github.io/phlux2.0/"
+# The README's masthead: the Phlux Robotics logo (with a dark-mode version),
+# a one-line description, status badges and the main links.
+HEADER = """<div align="center">
+
+<a href="{site}">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/phlux-robotics-dark.svg">
+    <img src="assets/phlux-robotics.svg" alt="phlux robotics" height="56">
+  </picture>
+</a>
+
+<p>Internship openings from the job boards of robotics and tech companies, checked every hour.</p>
+
+<p>
+  <a href="{site}"><img src="https://img.shields.io/badge/browse-internships-1f5fff?style=flat-square" alt="Browse internships"></a>
+  <a href="https://github.com/Ph1so/phlux2.0/actions/workflows/job-scraper.yml"><img src="https://img.shields.io/github/actions/workflow/status/Ph1so/phlux2.0/job-scraper.yml?branch=main&style=flat-square&label=scraper" alt="Scraper status"></a>
+  <img src="https://img.shields.io/badge/roles_tracked-{roles}-475467?style=flat-square" alt="{roles_full} roles tracked">
+</p>
+
+<p><a href="{site}"><b>Website</b></a> &nbsp;·&nbsp; <a href="listings/README.md"><b>All listings</b></a></p>
+
+</div>
+"""
+
+
+def _compact(n: int) -> str:
+    """Return *n* the way a badge shows it: 950, 12.4k, 1.2M."""
+    if n < 1000:
+        return str(n)
+    if n < 1_000_000:
+        return f"{n / 1000:.1f}k".replace(".0k", "k")
+    return f"{n / 1_000_000:.1f}M".replace(".0M", "M")
 PREV_YEARS_DIR = Path("prev_years")
 
 
@@ -170,13 +202,11 @@ def generate_readme(
 
     def render(n: int) -> str:
         lines = [
-            "# 🌀 Phlux: Phi's Job Tracker\n",
-            "Easily track jobs across top tech companies.\n",
-            f"🛰️ **[Phlux Robotics]({SITE_URL})**: every open robotics internship, "
-            "with a forecast of who opens next.\n",
-            f"\n---\n\n## 🔍 Phlux Job Listings\n"
-            f"*Showing the {n:,} most recent of {len(tracked):,} roles tracked across "
-            f"{total_companies} companies. See [all listings](listings/README.md) for the full history.*\n",
+            HEADER.format(site=SITE_URL, roles=_compact(len(tracked)), roles_full=f"{len(tracked):,}"),
+            "## Latest roles\n",
+            f"Showing the {n:,} most recent of {len(tracked):,} roles tracked across "
+            f"{total_companies} companies. ⭐️ marks internships and co-ops. "
+            "See [all listings](listings/README.md) for the full history.\n",
             """
 <table>
   <thead>
@@ -192,7 +222,9 @@ def generate_readme(
             """
   </tbody>
 </table>
-\n---
+
+<sub>Updated every hour by the <a href=".github/workflows/job-scraper.yml">job scraper</a>. \
+Roles link straight to their postings where the job board gives one.</sub>
 """,
         ]
         return "\n".join(lines)
@@ -273,7 +305,7 @@ def generate_listings(
         by_month.setdefault(row.found.strftime("%Y-%m"), []).append(row)
 
     pages: Dict[str, str] = {}
-    index = ["# 📚 All Phlux Listings\n", "[← Back to recent listings](../README.md)\n",
+    index = ["# All listings\n", "[← Back to recent listings](../README.md)\n",
              "| Month | Roles |", "| --- | --- |"]
     for month, rows in by_month.items():
         month_pages = _paginate(month, f"{month} listings", rows, links, max_bytes, icons)
