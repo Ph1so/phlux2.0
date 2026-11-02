@@ -1,7 +1,8 @@
 """Build the site, or refresh its logos.
 
 ``python -m phlux.robotics [--out site] [--storage FILE] [--fragment]`` builds the page;
-``python -m phlux.robotics logos`` downloads the logos the active list lacks.
+``python -m phlux.robotics logos`` downloads the logos the active list lacks;
+``python -m phlux.robotics geo`` refreshes the US map data (rarely needed).
 """
 from __future__ import annotations
 
@@ -14,7 +15,7 @@ from phlux.config import load_company_list_setting
 from phlux.lists import REPO_ROOT, select_companies
 from phlux.scraping import load_company_data
 
-from . import logos
+from . import geo, logos
 from .build import build_site
 
 
@@ -29,7 +30,7 @@ def refresh_logos() -> None:
 
 def main() -> None:
     parser = argparse.ArgumentParser(prog="python -m phlux.robotics", description="Build the Phlux Robotics page.")
-    parser.add_argument("command", nargs="?", choices=("build", "logos"), default="build")
+    parser.add_argument("command", nargs="?", choices=("build", "logos", "geo"), default="build")
     parser.add_argument("--out", type=Path, default=Path("site"), help="Output directory (default: site/).")
     parser.add_argument("--storage", type=Path, help="Storage file to read (default: the repo's storage.json).")
     parser.add_argument("--fragment", action="store_true",
@@ -39,6 +40,9 @@ def main() -> None:
     logging.getLogger("phlux.robotics").setLevel(logging.INFO)
     if args.command == "logos":
         refresh_logos()
+        return
+    if args.command == "geo":
+        print("Wrote %d state outlines and %d places" % geo.refresh())
         return
     kwargs = {"storage_path": args.storage} if args.storage else {}
     print(build_site(args.out, document=not args.fragment, **kwargs))

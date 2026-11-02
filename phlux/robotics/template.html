@@ -28,6 +28,14 @@
   --red-soft: #fdeee9;
   --shadow: 0 1px 2px rgba(16, 24, 40, 0.05);
   --font: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  /* The map: one blue, light to dark by count (flipped in dark mode), and orange city dots. */
+  --seq-0: #eef0f3;
+  --seq-1: #cde2fb;
+  --seq-2: #9ec5f4;
+  --seq-3: #6da7ec;
+  --seq-4: #3987e5;
+  --seq-5: #1c5cab;
+  --dot: #eb6834;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
@@ -50,6 +58,13 @@
     --red: #f97066;
     --red-soft: #33191a;
     --shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+    --seq-0: #1e232b;
+    --seq-1: #184f95;
+    --seq-2: #256abf;
+    --seq-3: #3987e5;
+    --seq-4: #6da7ec;
+    --seq-5: #b7d3f6;
+    --dot: #f08a5b;
   }
 }
 :root[data-theme="dark"] {
@@ -72,6 +87,13 @@
   --red: #f97066;
   --red-soft: #33191a;
   --shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+  --seq-0: #1e232b;
+  --seq-1: #184f95;
+  --seq-2: #256abf;
+  --seq-3: #3987e5;
+  --seq-4: #6da7ec;
+  --seq-5: #b7d3f6;
+  --dot: #f08a5b;
 }
 
 * { box-sizing: border-box; }
@@ -142,6 +164,8 @@ main.gutter { display: flex; flex-direction: column; gap: 20px; padding-block: 2
 .stat .s { font-size: 12.5px; color: var(--text-2); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 
 .card { background: var(--card); border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow); min-width: 0; }
+/* Clear the sticky top bar when a section is jumped to (#map, #internships…). */
+.card, .view { scroll-margin-top: calc(72px + env(safe-area-inset-top, 0px)); }
 .card-head {
   display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px 16px;
   padding: 16px 18px; border-bottom: 1px solid var(--line);
@@ -279,6 +303,55 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
 .btn:hover { border-color: var(--blue); background: var(--blue-soft); }
 .none { padding: 40px 18px; text-align: center; color: var(--muted); }
 
+/* ── Map ──────────────────────────────────────────────────────────────── */
+
+.geo { display: grid; grid-template-columns: minmax(0, 2.3fr) minmax(220px, 1fr); }
+.geo-map { position: relative; padding: 14px 18px 10px; min-width: 0; }
+.geo-map svg { display: block; width: 100%; height: auto; }
+.st { fill: var(--seq-0); stroke: var(--card); stroke-width: 1; cursor: pointer; }
+.st[data-b="1"] { fill: var(--seq-1); } .st[data-b="2"] { fill: var(--seq-2); } .st[data-b="3"] { fill: var(--seq-3); }
+.st[data-b="4"] { fill: var(--seq-4); } .st[data-b="5"] { fill: var(--seq-5); }
+.st:hover, .st.on { stroke: var(--text); stroke-width: 1.5; }
+.town { fill: var(--dot); stroke: var(--card); stroke-width: 2; pointer-events: none; }
+.town.on { stroke: var(--text); }
+.hit { fill: transparent; cursor: pointer; }
+.tip {
+  position: absolute; pointer-events: none; z-index: 3; background: var(--card); color: var(--text);
+  border: 1px solid var(--line); border-radius: 8px; box-shadow: 0 4px 16px rgba(16, 24, 40, 0.12);
+  padding: 7px 10px; font-size: 12.5px; line-height: 1.4; white-space: nowrap;
+}
+.tip b { font-weight: 600; }
+.tip span { color: var(--text-2); }
+.geo-key { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 14px; font-size: 12px; color: var(--text-2); padding: 0 18px 14px; }
+.geo-key .steps { display: inline-flex; align-items: center; gap: 4px; font-variant-numeric: tabular-nums; }
+.geo-key .steps i { width: 18px; height: 10px; border-radius: 2px; display: inline-block; }
+.geo-key .dotkey { width: 10px; height: 10px; border-radius: 50%; background: var(--dot); display: inline-block; vertical-align: -1px; }
+.geo-side { border-left: 1px solid var(--line); padding: 14px 18px; display: flex; flex-direction: column; gap: 12px; min-width: 0; }
+.geo-side h3 { font-size: 13px; font-weight: 600; }
+.towns-list { list-style: none; margin: 0; padding: 0; }
+.towns-list li button {
+  width: 100%; display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 3px 10px; align-items: center;
+  background: none; border: 0; padding: 6px 0; font: inherit; color: inherit; text-align: left; cursor: pointer;
+}
+.towns-list li + li button { border-top: 1px solid var(--line-soft); }
+.towns-list .nm { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-weight: 500; }
+.towns-list .ct { font-variant-numeric: tabular-nums; color: var(--text-2); font-size: 12.5px; }
+.towns-list .bar { grid-column: 1 / -1; height: 3px; border-radius: 2px; background: var(--dot); opacity: 0.75; }
+.towns-list button:hover .nm, .towns-list button.on .nm { color: var(--blue); }
+.buckets { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px; }
+.bucket { border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; min-width: 0; }
+.bucket .n { display: block; font-weight: 700; font-size: 16px; font-variant-numeric: tabular-nums; }
+.bucket .k { display: block; font-size: 11.5px; color: var(--muted); }
+
+/* Locations of a role posted in several places */
+.locs summary { cursor: pointer; color: var(--text-2); list-style: none; }
+.locs summary::-webkit-details-marker { display: none; }
+.locs summary::after { content: " ▾"; color: var(--muted); }
+.locs[open] summary::after { content: " ▴"; }
+.locs ul { list-style: none; margin: 6px 0 0; padding: 0; display: flex; flex-direction: column; gap: 3px; }
+.locs a { color: var(--blue); text-decoration: none; }
+.locs a:hover { text-decoration: underline; }
+
 /* ── Tabs ─────────────────────────────────────────────────────────────── */
 
 .tabs { display: flex; gap: 4px; border-bottom: 1px solid var(--line); margin-top: -4px; }
@@ -340,6 +413,8 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
 .notes p { margin: 0; max-width: 62ch; }
 
 @media (max-width: 900px) {
+  .geo { grid-template-columns: minmax(0, 1fr); }
+  .geo-side { border-left: 0; border-top: 1px solid var(--line); }
   .stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .lanes, .notes { grid-template-columns: minmax(0, 1fr); }
   .lane + .lane { border-left: 0; border-top: 1px solid var(--line); }
@@ -394,6 +469,7 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
     <nav class="nav" aria-label="Sections">
       <a href="#internships">Internships</a>
       <a href="#openings">Openings</a>
+      <a href="#map">Map</a>
       <a href="#companies">Companies</a>
       <a href="#past">Past seasons</a>
     </nav>
@@ -457,6 +533,30 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
       <div class="lane">
         <h3>Running late <span class="n" id="late-count"></span></h3>
         <ul class="mini" id="late-list"></ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="card" id="map" aria-labelledby="map-title" hidden>
+    <div class="card-head">
+      <div>
+        <h2 id="map-title">Where the internships are</h2>
+        <div class="sub">Open internships by state, with a dot per city. Select one to see its internships; the map follows the filters below.</div>
+      </div>
+    </div>
+    <div class="geo">
+      <div>
+        <div class="geo-map" id="geo-map"><div class="tip" id="tip" hidden></div></div>
+        <div class="geo-key" aria-hidden="true">
+          <span>Internships per state</span>
+          <span class="steps" id="geo-steps"></span>
+          <span><i class="dotkey"></i> City</span>
+        </div>
+      </div>
+      <div class="geo-side">
+        <h3>Top cities</h3>
+        <ul class="towns-list" id="towns-list"></ul>
+        <div class="buckets" id="buckets"></div>
       </div>
     </div>
   </section>
@@ -635,15 +735,52 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
     var p = {
       company: c, title: r[F.title], url: r[F.url], location: r[F.location],
       found: r[F.found] ? parseDay(r[F.found]) : null, closed: r[F.closed],
-      season: r[F.season], year: r[F.year], degree: r[F.degree], field: r[F.field]
+      season: r[F.season], year: r[F.year], degree: r[F.degree], field: r[F.field],
+      where: (F.where !== undefined && r[F.where]) || []
     };
     p.closedDay = p.closed && p.closed !== "N/A" ? parseDay(p.closed) : null;
     p.isNew = !p.closed && p.found !== null && daysFrom(p.found) >= -7;
-    if (!p.closed) c.open += 1;
-    if (p.isNew) c.fresh += 1;
+    p.key = r[F.company] + "|" + p.title.toLowerCase();
     p.haystack = (p.title + " " + c.name + " " + p.location).toLowerCase();
     return p;
   });
+  // A role is a title at a company: the same internship posted in several
+  // cities is one role. Companies count roles, not postings.
+  (function () {
+    var seenOpen = {}, seenNew = {};
+    postings.forEach(function (p) {
+      if (!p.closed && !seenOpen[p.key]) { seenOpen[p.key] = 1; p.company.open += 1; }
+      if (p.isNew && !seenNew[p.key]) { seenNew[p.key] = 1; p.company.fresh += 1; }
+    });
+  })();
+  var MAP = DATA.map;
+  var TOWNS = MAP ? MAP.towns : [];
+  // The states a posting is in, through its towns or bare state codes.
+  postings.forEach(function (p) {
+    p.states = {};
+    p.where.forEach(function (w) {
+      if (typeof w === "number") p.states[TOWNS[w][1]] = 1;
+      else if (w.length === 2) p.states[w] = 1;
+    });
+  });
+  function groupRoles(list) {
+    var roles = [], byKey = {};
+    list.forEach(function (p) {
+      var r = byKey[p.key];
+      if (!r) {
+        r = byKey[p.key] = { company: p.company, title: p.title, items: [], found: p.found, closedDay: p.closedDay,
+                             closed: true, isNew: false, first: p };
+        roles.push(r);
+      }
+      r.items.push(p);
+      if (p.found !== null && (r.found === null || p.found < r.found)) r.found = p.found;
+      if (!p.closed) r.closed = false;
+      if (p.closedDay && (!r.closedDay || p.closedDay > r.closedDay)) r.closedDay = p.closedDay;
+      if (p.isNew) r.isNew = true;
+      if (!r.first.url && p.url) r.first = p;
+    });
+    return roles;
+  }
 
   // ── Helpers ───────────────────────────────────────────────────────────
   function parseDay(s) { var a = s.split("-"); return Date.UTC(+a[0], +a[1] - 1, +a[2]); }
@@ -695,7 +832,7 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
 
   // ── State ─────────────────────────────────────────────────────────────
   var $ = function (id) { return document.getElementById(id); };
-  var state = { q: "", segment: "", field: "", degree: "", season: "", status: "open", company: null, shown: PAGE };
+  var state = { q: "", segment: "", field: "", degree: "", season: "", status: "open", company: null, place: null, shown: PAGE };
   var roboticsOnly = $("robotics-only");
   if (recall("robotics") === "0") roboticsOnly.checked = false;
   function inScope(c) { return !roboticsOnly.checked || c.robotics; }
@@ -720,8 +857,8 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
   // ── Header figures ────────────────────────────────────────────────────
   function renderStats(g) {
     var scoped = companies.filter(inScope);
-    var open = postings.filter(function (p) { return !p.closed && inScope(p.company); });
-    var fresh = open.filter(function (p) { return p.isNew; });
+    var open = groupRoles(postings.filter(function (p) { return !p.closed && inScope(p.company); }));
+    var fresh = open.filter(function (r) { return r.isNew; });
     var hiring = scoped.filter(function (c) { return c.open > 0; });
     $("n-companies").textContent = String(scoped.length);
     $("s-open").textContent = open.length.toLocaleString("en-US");
@@ -860,9 +997,14 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
   });
   $("season").appendChild(new Option("Not specified", "none"));
 
-  function matches(p) {
+  function inPlace(p, place) {
+    if (place.town !== undefined) return p.where.indexOf(place.town) !== -1;
+    return !!p.states[place.state];
+  }
+  function matches(p, anyPlace) {
     var c = p.company;
     if (!inScope(c) || (state.company && c !== state.company)) return false;
+    if (!anyPlace && state.place && !inPlace(p, state.place)) return false;
     if (state.status === "open" && p.closed) return false;
     if (state.status === "new" && !p.isNew) return false;
     if (state.status === "closed" && !p.closedDay) return false;
@@ -881,6 +1023,10 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
     var kb = state.status === "closed" ? b.closedDay : b.found || 0;
     return kb - ka || a.company.name.localeCompare(b.company.name) || a.title.localeCompare(b.title);
   }
+  function placeName(place) {
+    if (place.town !== undefined) return TOWNS[place.town][0] + ", " + TOWNS[place.town][1];
+    return MAP.names[place.state] || place.state;
+  }
   function companyCell(c) {
     var td = el("td", "c-co");
     var cell = el("div", "co-cell");
@@ -895,12 +1041,35 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
     td.appendChild(cell);
     return td;
   }
-  function row(p) {
-    var tr = el("tr", p.closed ? "is-closed" : "");
-    tr.appendChild(companyCell(p.company));
+  function locationCell(r) {
+    var td = el("td", "c-loc loc");
+    var located = r.items.filter(function (p) { return p.location; });
+    var names = [];
+    located.forEach(function (p) { if (names.indexOf(p.location) === -1) names.push(p.location); });
+    if (r.items.length < 2 || names.length < 2) {
+      td.textContent = names[0] || "";
+      return td;
+    }
+    var details = el("details", "locs");
+    details.appendChild(el("summary", null, names[0] + " +" + (names.length - 1)));
+    var ul = el("ul");
+    r.items.forEach(function (p) {
+      if (!p.location) return;
+      var li = el("li");
+      li.appendChild(p.url ? link(p.url, null, p.location) : el("span", null, p.location));
+      ul.appendChild(li);
+    });
+    details.appendChild(ul);
+    td.appendChild(details);
+    return td;
+  }
+  function row(r) {
+    var p = r.first;
+    var tr = el("tr", r.closed ? "is-closed" : "");
+    tr.appendChild(companyCell(r.company));
     var role = el("td", "c-role");
     var box = el("div", "role");
-    box.appendChild(p.url ? link(p.url, "t", p.title) : el("span", "t", p.title));
+    box.appendChild(p.url ? link(p.url, "t", r.title) : el("span", "t", r.title));
     var chips = el("div", "chips");
     [seasonLabel(p.season, p.year), DEGREES[p.degree], FIELDS[p.field]].forEach(function (t) {
       if (t && t !== "Other") chips.appendChild(el("span", "chip", t));
@@ -909,14 +1078,14 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
     if (chips.childNodes.length) box.appendChild(chips);
     role.appendChild(box);
     tr.appendChild(role);
-    tr.appendChild(el("td", "c-loc loc", p.location || ""));
+    tr.appendChild(locationCell(r));
     var when = el("td", "c-when posted");
-    if (p.closed) {
-      when.appendChild(el("span", "badge closed", p.closedDay ? "Closed " + fmt(p.closedDay) : "Closed"));
-    } else if (p.found) {
-      if (daysFrom(p.found) >= -3) { when.appendChild(el("span", "badge new", "New")); when.appendChild(document.createTextNode(" ")); }
-      when.appendChild(el("span", "d", fmt(p.found)));
-      when.appendChild(el("span", "r", relative(p.found)));
+    if (r.closed) {
+      when.appendChild(el("span", "badge closed", r.closedDay ? "Closed " + fmt(r.closedDay) : "Closed"));
+    } else if (r.found) {
+      if (daysFrom(r.found) >= -3) { when.appendChild(el("span", "badge new", "New")); when.appendChild(document.createTextNode(" ")); }
+      when.appendChild(el("span", "d", fmt(r.found)));
+      when.appendChild(el("span", "r", relative(r.found)));
     } else {
       when.appendChild(el("span", "r", "Open since before " + fmt(parseDay(DATA.seasonStart))));
     }
@@ -926,31 +1095,166 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
   function renderActive() {
     var box = $("active");
     box.textContent = "";
-    box.hidden = !state.company;
-    if (!state.company) return;
-    var b = el("button", "tag-btn", state.company.name + "  ×");
-    b.type = "button";
-    b.setAttribute("aria-label", "Show every company, not just " + state.company.name);
-    b.addEventListener("click", function () { state.company = null; state.shown = PAGE; renderBoard(); });
-    box.appendChild(b);
+    box.hidden = !state.company && !state.place;
+    [[state.company && state.company.name, "company"], [state.place && placeName(state.place), "place"]].forEach(function (chip) {
+      if (!chip[0]) return;
+      var b = el("button", "tag-btn", chip[0] + "  ×");
+      b.type = "button";
+      b.setAttribute("aria-label", "Stop filtering by " + chip[0]);
+      b.addEventListener("click", function () { state[chip[1]] = null; state.shown = PAGE; renderBoard(); });
+      box.appendChild(b);
+    });
   }
   function renderBoard() {
     renderActive();
     ["segment", "field", "degree", "season"].forEach(function (id) { $(id).classList.toggle("set", !!state[id]); });
-    var hits = postings.filter(matches).sort(order);
+    var matching = postings.filter(function (p) { return matches(p); });
+    var hits = groupRoles(matching).sort(order);
     var body = $("rows");
     body.textContent = "";
-    hits.slice(0, state.shown).forEach(function (p) { body.appendChild(row(p)); });
+    hits.slice(0, state.shown).forEach(function (r) { body.appendChild(row(r)); });
     $("board").hidden = !hits.length;
     $("none").hidden = hits.length > 0;
     $("more-row").hidden = hits.length <= state.shown;
     $("more").textContent = "Show " + Math.min(PAGE, hits.length - state.shown) + " more";
     var noun = { open: "open", "new": "new this week", closed: "closed in the last " + DATA.recentDays + " days" }[state.status];
     $("board-count").innerHTML = "";
-    var strong = el("b", null, hits.length.toLocaleString("en-US"));
+    var strong = el("b", null, plural(hits.length, "role"));
     $("board-count").appendChild(strong);
-    $("board-count").appendChild(document.createTextNode(" " + noun));
+    $("board-count").appendChild(document.createTextNode(" " + noun +
+      (matching.length > hits.length ? " · " + plural(matching.length, "posting") : "")));
+    renderMap();
   }
+  // Count thresholds for the five shades of the state map.
+  var STEPS = [1, 3, 10, 30, 100];
+  function shade(n) {
+    var b = 0;
+    STEPS.forEach(function (t, i) { if (n >= t) b = i + 1; });
+    return b;
+  }
+  var SVGNS = "http://www.w3.org/2000/svg";
+  var mapBuilt = false, statePaths = {}, townDots = [];
+  function buildMap() {
+    var box = $("geo-map");
+    var svg = document.createElementNS(SVGNS, "svg");
+    svg.setAttribute("viewBox", "0 0 " + MAP.width + " " + MAP.height);
+    svg.setAttribute("role", "img");
+    svg.setAttribute("aria-label", "Map of open internships by US state and city");
+    var states = document.createElementNS(SVGNS, "g");
+    Object.keys(MAP.states).forEach(function (code) {
+      var path = document.createElementNS(SVGNS, "path");
+      path.setAttribute("d", MAP.states[code]);
+      path.setAttribute("class", "st");
+      path.addEventListener("click", function () { pickPlace({ state: code }); });
+      path.addEventListener("mousemove", function (e) { tip(e, code); });
+      path.addEventListener("mouseleave", hideTip);
+      statePaths[code] = path;
+      states.appendChild(path);
+    });
+    svg.appendChild(states);
+    var dots = document.createElementNS(SVGNS, "g");
+    TOWNS.forEach(function (t, i) {
+      var dot = document.createElementNS(SVGNS, "circle");
+      dot.setAttribute("cx", t[2]); dot.setAttribute("cy", t[3]); dot.setAttribute("class", "town");
+      var hit = document.createElementNS(SVGNS, "circle");
+      hit.setAttribute("cx", t[2]); hit.setAttribute("cy", t[3]); hit.setAttribute("class", "hit");
+      hit.addEventListener("click", function () { pickPlace({ town: i }); });
+      hit.addEventListener("mousemove", function (e) { tip(e, null, i); });
+      hit.addEventListener("mouseleave", hideTip);
+      dots.appendChild(dot); dots.appendChild(hit);
+      townDots.push([dot, hit]);
+    });
+    svg.appendChild(dots);
+    box.appendChild(svg);
+    var steps = $("geo-steps");
+    STEPS.forEach(function (t, i) {
+      var sw = el("i"); sw.style.background = "var(--seq-" + (i + 1) + ")";
+      steps.appendChild(sw);
+    });
+    steps.appendChild(document.createTextNode(" 1 → " + STEPS[STEPS.length - 1] + "+"));
+    mapBuilt = true;
+  }
+  var mapCounts = { states: {}, towns: {} };
+  function tip(e, code, town) {
+    var box = $("geo-map"), t = $("tip"), rect = box.getBoundingClientRect();
+    t.textContent = "";
+    var name = town !== undefined && town !== null ? TOWNS[town][0] + ", " + TOWNS[town][1] : MAP.names[code] || code;
+    var n = town !== undefined && town !== null ? mapCounts.towns[town] || 0 : mapCounts.states[code] || 0;
+    t.appendChild(el("b", null, name));
+    t.appendChild(el("span", null, " · " + plural(n, "internship")));
+    t.hidden = false;
+    var x = e.clientX - rect.left + 12, y = e.clientY - rect.top + 12;
+    if (x + t.offsetWidth > rect.width) x = e.clientX - rect.left - t.offsetWidth - 12;
+    t.style.left = x + "px"; t.style.top = y + "px";
+  }
+  function hideTip() { $("tip").hidden = true; }
+  function renderMap() {
+    if (!MAP) return;
+    $("map").hidden = false;
+    if (!mapBuilt) buildMap();
+    // Every open role matching the board's filters except the place itself.
+    var roles = groupRoles(postings.filter(function (p) { return matches(p, true); }));
+    var counts = { states: {}, towns: {} }, remote = 0, abroad = 0, unknown = 0;
+    roles.forEach(function (r) {
+      var states = {}, towns = {}, flags = {};
+      r.items.forEach(function (p) {
+        Object.keys(p.states).forEach(function (s) { states[s] = 1; });
+        p.where.forEach(function (w) { if (typeof w === "number") towns[w] = 1; else if (w.length > 2) flags[w] = 1; });
+      });
+      Object.keys(states).forEach(function (s) { counts.states[s] = (counts.states[s] || 0) + 1; });
+      Object.keys(towns).forEach(function (t) { counts.towns[t] = (counts.towns[t] || 0) + 1; });
+      if (flags.remote) remote += 1;
+      if (flags.abroad && !Object.keys(states).length) abroad += 1;
+      if (!Object.keys(states).length && !flags.remote && !flags.abroad) unknown += 1;
+    });
+    mapCounts = counts;
+    Object.keys(statePaths).forEach(function (code) {
+      var path = statePaths[code];
+      path.setAttribute("data-b", String(shade(counts.states[code] || 0)));
+      path.classList.toggle("on", !!(state.place && state.place.state === code));
+    });
+    var max = 1;
+    Object.keys(counts.towns).forEach(function (t) { max = Math.max(max, counts.towns[t]); });
+    townDots.forEach(function (pair, i) {
+      var n = counts.towns[i] || 0;
+      var r = n ? 3 + 11 * Math.sqrt(n / max) : 0;
+      pair[0].setAttribute("r", r.toFixed(1));
+      pair[1].setAttribute("r", n ? Math.max(r, 8).toFixed(1) : 0);
+      pair[0].classList.toggle("on", !!(state.place && state.place.town === i));
+    });
+    var list = $("towns-list");
+    list.textContent = "";
+    Object.keys(counts.towns).map(Number).sort(function (a, b) { return counts.towns[b] - counts.towns[a] || TOWNS[a][0].localeCompare(TOWNS[b][0]); })
+      .slice(0, 8).forEach(function (i) {
+        var li = el("li"), b = el("button");
+        b.type = "button";
+        b.classList.toggle("on", !!(state.place && state.place.town === i));
+        b.appendChild(el("span", "nm", TOWNS[i][0] + ", " + TOWNS[i][1]));
+        b.appendChild(el("span", "ct", String(counts.towns[i])));
+        var bar = el("span", "bar"); bar.style.width = (counts.towns[i] / max * 100) + "%";
+        b.appendChild(bar);
+        b.addEventListener("click", function () { pickPlace({ town: i }); });
+        li.appendChild(b);
+        list.appendChild(li);
+      });
+    if (!list.childNodes.length) list.appendChild(el("li", "empty", "No cities for these filters."));
+    var buckets = $("buckets");
+    buckets.textContent = "";
+    [[remote, "Remote"], [abroad, "Outside the US"], [unknown, "Location not listed"]].forEach(function (b) {
+      var d = el("div", "bucket");
+      d.appendChild(el("span", "n", b[0].toLocaleString("en-US")));
+      d.appendChild(el("span", "k", b[1]));
+      buckets.appendChild(d);
+    });
+  }
+  function pickPlace(place) {
+    var same = state.place && state.place.state === place.state && state.place.town === place.town;
+    state.place = same ? null : place;
+    state.shown = PAGE;
+    renderBoard();
+    if (!same) $("internships").scrollIntoView({ behavior: "smooth", block: "start" });
+  }
+
   function pickCompany(c) {
     state.company = c;
     state.shown = PAGE;

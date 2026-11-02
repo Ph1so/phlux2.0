@@ -71,6 +71,27 @@ class TestBuildPayload:
         assert posting["title"] == "Robotics Intern"
 
 
+class TestMapData:
+    def test_postings_carry_where_and_the_page_gets_the_map(self):
+        from phlux.robotics.places import Gazetteer
+        storage = {"companies": {"Acme": [
+            {"title": "⭐️ Robotics Intern", "date": "2026-10-30", "location": "Santa Clara, CA +1"},
+            {"title": "⭐️ Controls Intern", "date": "2026-10-30", "location": "Remote"},
+            {"title": "⭐️ Perception Intern", "date": "2026-10-30"},
+        ]}}
+        payload = build_payload(storage, [Company("Acme", "https://jobs.lever.co/acme", "@lever")], {}, {}, {},
+                                datetime(2026, 11, 1, 17, 5), gazetteer=Gazetteer({"CA": {"santa clara": [40, 273]}}),
+                                state_paths={"CA": "M0,0Z"})
+        where = [dict(zip(payload["fields"], row))["where"] for row in payload["postings"]]
+        assert where == [[0], ["remote"], []]
+        assert payload["map"]["towns"] == [["Santa Clara", "CA", 40, 273]]
+        assert payload["map"]["states"] == {"CA": "M0,0Z"} and payload["map"]["names"]["CA"] == "California"
+
+    def test_no_map_without_its_data(self):
+        payload = build_payload({"companies": {}}, [], {}, {}, {}, datetime(2026, 11, 1))
+        assert payload["map"] is None
+
+
 class TestRender:
     def test_wraps_the_body_in_a_document_with_the_data_inside(self):
         page = render({"title": "Intern </script><script>alert(1)</script>"}, "<p>__DATA__</p>")

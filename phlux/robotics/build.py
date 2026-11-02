@@ -34,7 +34,8 @@ from phlux.models import Company
 from phlux.scraping import CHECKED_KEY, NA_DATE, load_company_data
 from phlux.utils import board_link
 
-from . import logos
+from . import geo, logos
+from .places import STATES, Gazetteer, parse
 from .forecast import Forecast, SeasonRow, forecast, openings, season_rows
 
 logger = logging.getLogger(__name__)
@@ -148,6 +149,43 @@ def past_seasons(rows: Iterable[SeasonRow], index: Dict[str, int], current_cycle
     return seasons
 
 
+class Mapper:
+    """Turns location text into the site's map references, numbering towns as they appear.
+
+    A posting's ``where`` is a list of: town indexes into :attr:`towns`
+    (``[name, state, x, y]``), bare state codes where no town is known, and
+    ``"remote"``, ``"abroad"`` or ``"vague"``; it is empty when the board gave no
+    location at all.
+    """
+
+    def __init__(self, gazetteer: Gazetteer):
+        self.gazetteer = gazetteer
+        self.towns: List[list] = []
+        self._index: Dict[tuple, int] = {}
+        self._cache: Dict[str, list] = {}
+
+    def where(self, location: str) -> list:
+        if location in self._cache:
+            return self._cache[location]
+        found = parse(location, self.gazetteer)
+        refs: list = []
+        for state, town in found.places:
+            point = self.gazetteer.point(state, town) if town else None
+            if point is None:
+                refs.append(state)
+                continue
+            key = (state, town.casefold())
+            if key not in self._index:
+                self._index[key] = len(self.towns)
+                self.towns.append([town, state, *point])
+            refs.append(self._index[key])
+        refs += [flag for flag in ("remote", "abroad", "vague") if getattr(found, flag)]
+        if location and not refs:
+            refs.append("vague")
+        self._cache[location] = list(dict.fromkeys(refs))
+        return self._cache[location]
+
+
 def build_payload(
     storage: Dict[str, Any],
     companies: List[Company],
@@ -156,6 +194,8 @@ def build_payload(
     icons: Dict[str, str],
     now: datetime,
     history: Iterable[SeasonRow] = (),
+    gazetteer: Optional[Gazetteer] = None,
+    state_paths: Optional[Dict[str, str]] = None,
 ) -> Dict[str, Any]:
     """Assemble everything the page shows.
 
@@ -168,6 +208,9 @@ def build_payload(
         now: The build time.
         history: Past internships (:func:`phlux.robotics.forecast.season_rows`)
             for the past seasons view.
+        gazetteer: Town lookup for placing postings on the map; without it
+            (or *state_paths*) the page has no map.
+        state_paths: Each state's outline, from :func:`phlux.robotics.geo.load_states`.
     """
     today = now.date()
     stored = storage.get("companies", {})
@@ -192,7 +235,10 @@ def build_payload(
 
     # Columns rather than one object per posting: the page embeds this.
     index = {c["name"]: i for i, c in enumerate(company_rows)}
-    fields = ["company", "title", "url", "location", "found", "closed", "season", "year", "degree", "field"]
+    mapper = Mapper(gazetteer) if gazetteer and state_paths else None
+    for p in postings:
+        p["where"] = mapper.where(p["location"]) if mapper else []
+    fields = ["company", "title", "url", "location", "found", "closed", "season", "year", "degree", "field", "where"]
     cycle = next(iter(forecasts.values())).cycle if forecasts else today.year + 1
     return {
         "generated": now.isoformat(timespec="minutes"),
@@ -205,6 +251,8 @@ def build_payload(
         "fields": fields,
         "postings": [[index[p["company"]] if f == "company" else p[f] for f in fields] for p in postings],
         "past": past_seasons(history, index, cycle),
+        "map": {"width": geo.WIDTH, "height": geo.HEIGHT, "states": state_paths, "names": STATES,
+                "towns": mapper.towns} if mapper else None,
     }
 
 
@@ -245,7 +293,8 @@ def build_site(out_dir: Path, now: Optional[datetime] = None, document: bool = T
         load_company_data(REPO_ROOT / "companies.csv"), load_company_list_setting())}.values())
     icons = {c.name: logos.data_uri(c.name) for c in companies}
     forecasts, history = load_history([c.name for c in companies], now.date())
-    payload = build_payload(storage, companies, forecasts, load_industries(), icons, now, history)
+    payload = build_payload(storage, companies, forecasts, load_industries(), icons, now, history,
+                            Gazetteer(geo.load_places()), geo.load_states())
     out_dir.mkdir(parents=True, exist_ok=True)
     path = out_dir / "index.html"
     path.write_text(render(payload, TEMPLATE.read_text(encoding="utf-8"), document), encoding="utf-8")
