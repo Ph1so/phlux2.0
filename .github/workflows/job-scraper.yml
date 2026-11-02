@@ -77,6 +77,37 @@ jobs:
         continue-on-error: true
         run: .venv/bin/python -m phlux.mail_cleanup
 
+      # The site comes after the commit and can't fail the job: a failed job
+      # starts the retry job, which scrapes and emails again.
+      - name: Build the Robotics Intern Radar site
+        id: site
+        continue-on-error: true
+        run: .venv/bin/python -m phlux.radar --out site
+
+      - name: Upload the site
+        if: steps.site.outcome == 'success'
+        continue-on-error: true
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  pages:
+    needs: run
+    runs-on: ubuntu-latest
+    # Fails until GitHub Pages is switched on (Settings → Pages → Source:
+    # GitHub Actions); that mustn't mark every scrape run as failed.
+    continue-on-error: true
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4
+
   retry:
     needs: run
     if: failure()
