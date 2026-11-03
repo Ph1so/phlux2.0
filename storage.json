@@ -71825,10 +71825,6 @@
     "Anywhere Robotics": {
       "since": "2026-11-02",
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.gusto.com/boards/anyware-robotics-e7cbbd33-db1c-470e-93b3-020992d24e20"
-    },
-    "Mitsubishi Electric Research Laboratories": {
-      "since": "2026-11-02",
-      "error": "ReadTimeout: HTTPSConnectionPool(host='www.merl.com', port=443): Read timed out. (read timeout=30)"
     }
   }
 }
