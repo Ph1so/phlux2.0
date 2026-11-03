@@ -12,7 +12,7 @@
 <p>
   <a href="https://ph1so.github.io/phlux2.0/"><img src="https://img.shields.io/badge/browse-internships-1f5fff?style=flat-square" alt="Browse internships"></a>
   <a href="https://github.com/Ph1so/phlux2.0/actions/workflows/job-scraper.yml"><img src="https://img.shields.io/github/actions/workflow/status/Ph1so/phlux2.0/job-scraper.yml?branch=main&style=flat-square&label=scraper" alt="Scraper status"></a>
-  <img src="https://img.shields.io/badge/roles_tracked-33.3k-475467?style=flat-square" alt="33,312 roles tracked">
+  <img src="https://img.shields.io/badge/roles_tracked-33.3k-475467?style=flat-square" alt="33,313 roles tracked">
 </p>
 
 <p><a href="https://ph1so.github.io/phlux2.0/"><b>Website</b></a> &nbsp;·&nbsp; <a href="listings/README.md"><b>All listings</b></a></p>
@@ -21,7 +21,7 @@
 
 ## Latest roles
 
-Showing the 619 most recent of 33,312 roles tracked across 279 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
+Showing the 619 most recent of 33,313 roles tracked across 279 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
 
 
 <table>
@@ -214,6 +214,13 @@ Showing the 619 most recent of 33,312 roles tracked across 279 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/applied/"><img src="https://cdn.brandfetch.io/appliedintuition.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Applied Intuition" height="20" style="vertical-align:middle; margin-right:6px;"> Applied Intuition</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/applied/a533bb19-fa39-46ea-bae4-1fdb93a8d01f">EMEA Statutory Reporting Senior Manager</a></div></td>
+  <td>2026-11-03</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/field-ai"><img src="https://cdn.brandfetch.io/fieldai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="FieldAI" height="20" style="vertical-align:middle; margin-right:6px;"> FieldAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/field-ai/ac9efae0-21d0-417e-9c2a-a519d5743d10">Field Operations Lead (Federal)</a></div></td>
   <td>2026-11-03</td>
 </tr>
   <tr>
@@ -4358,13 +4365,6 @@ Showing the 619 most recent of 33,312 roles tracked across 279 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/persona.ai"><img src="https://cdn.brandfetch.io/personainc.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Persona AI" height="20" style="vertical-align:middle; margin-right:6px;"> Persona AI</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/persona.ai/345b21fa-bdf6-44ef-a1ac-df5185b897a2">Mechanical Engineer, Data Collection Hardware</a></div></td>
-  <td>2026-10-29</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic"><img src="https://cdn.brandfetch.io/symbotic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Symbotic" height="20" style="vertical-align:middle; margin-right:6px;"> Symbotic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Remote--Travel/Buyer---Direct-Materials_R8373">Buyer - Direct Materials</a></div></td>
   <td>2026-10-29</td>
 </tr>
 
