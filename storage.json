@@ -13985,6 +13985,13 @@
         "id": "greenhouse:5800433004",
         "url": "https://boards.greenhouse.io/apptronik/jobs/5800433004?gh_jid=5800433004",
         "location": "Austin, TX"
+      },
+      {
+        "title": "Manager, Talent Acquisition Operations",
+        "date": "2026-11-04",
+        "id": "greenhouse:6248659004",
+        "url": "https://boards.greenhouse.io/apptronik/jobs/6248659004?gh_jid=6248659004",
+        "location": "Austin, TX"
       }
     ],
     "Titan Robotics": [
@@ -20352,6 +20359,13 @@
         "id": "lever:01ff8f1c-eda8-4c45-9cca-b4461d8757d5",
         "url": "https://jobs.lever.co/zoox/01ff8f1c-eda8-4c45-9cca-b4461d8757d5",
         "location": "Foster City, CA"
+      },
+      {
+        "title": "Staff Software Engineer - GPU System Software, Onboard Execution",
+        "date": "2026-11-04",
+        "id": "lever:6f987774-9331-46fa-991a-0e01e0c69282",
+        "url": "https://jobs.lever.co/zoox/6f987774-9331-46fa-991a-0e01e0c69282",
+        "location": "Foster City, CA +2"
       }
     ],
     "Pony.ai": [
@@ -46872,7 +46886,8 @@
         "date": "2026-10-26",
         "id": "workday:R8331",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Remote--Travel/Manager--Industrial-Controls-Engineering_R8331",
-        "location": "USA Remote & Travel"
+        "location": "USA Remote & Travel",
+        "closed": "2026-11-04"
       },
       {
         "title": "Customer Partner, Leader (Operations)",
@@ -46908,7 +46923,8 @@
         "date": "2026-10-28",
         "id": "workday:R8353",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Remote--Travel/Manager--Project-Operations_R8353",
-        "location": "USA Remote & Travel"
+        "location": "USA Remote & Travel",
+        "closed": "2026-11-04"
       },
       {
         "title": "Commissioning Services Team Lead",
@@ -56372,7 +56388,8 @@
         "date": "2026-10-22",
         "id": "ashby:d8ebcb30-c789-4e75-bf9b-a1e3fb09dd2f",
         "url": "https://jobs.ashbyhq.com/openai/d8ebcb30-c789-4e75-bf9b-a1e3fb09dd2f",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-04"
       },
       {
         "title": "Full-Stack SWE, Data Acquisition (Foundations)",
@@ -64156,7 +64173,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5407418008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5407418008",
-        "location": "San Francisco, CA"
+        "location": "San Francisco, CA",
+        "closed": "2026-11-04"
       },
       {
         "title": "Head of Sales Excellence & Methodology",
