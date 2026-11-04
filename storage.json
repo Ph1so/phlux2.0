@@ -32416,7 +32416,8 @@
         "date": "N/A",
         "id": "ashby:4c00e632-aef0-4ea2-871b-3c76166d6095",
         "url": "https://jobs.ashbyhq.com/applied/4c00e632-aef0-4ea2-871b-3c76166d6095",
-        "location": "Sunnyvale"
+        "location": "Sunnyvale",
+        "closed": "2026-11-04"
       },
       {
         "title": "Mining Site Lead",
@@ -54882,7 +54883,8 @@
         "date": "2026-10-22",
         "id": "ashby:f4467078-033c-4638-ac7e-69a532276d85",
         "url": "https://jobs.ashbyhq.com/openai/f4467078-033c-4638-ac7e-69a532276d85",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-04"
       },
       {
         "title": "Account Director, Enterprise | ANZ",
