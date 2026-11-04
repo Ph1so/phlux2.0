@@ -8845,7 +8845,8 @@
         "date": "2026-10-12",
         "id": "talentbrew:101868214112",
         "url": "https://careers.irobot.com/job/bedford/associate-portfolio-manager-gtm-americas/42682/101868214112",
-        "location": "Bedford, MA"
+        "location": "Bedford, MA",
+        "closed": "2026-11-04"
       },
       {
         "title": "\u2b50\ufe0f (Spring 2027) Mechanical Engineer Co-op - Innovation",
@@ -8859,8 +8860,7 @@
         "date": "2026-11-04",
         "id": "talentbrew:102845405904",
         "url": "https://careers.irobot.com/job/tokyo/digital-marketing-manager/42682/102845405904",
-        "location": "Tokyo",
-        "closed": "2026-11-04"
+        "location": "Tokyo"
       }
     ],
     "Mujin": [
@@ -37112,7 +37112,8 @@
         "date": "N/A",
         "id": "google:102726078115521222",
         "url": "https://www.google.com/about/careers/applications/jobs/results/102726078115521222",
-        "location": "Mountain View, CA +1"
+        "location": "Mountain View, CA +1",
+        "closed": "2026-11-04"
       },
       {
         "title": "Technical Writer, DeepMind, DeepMind Institute",
@@ -73354,6 +73355,10 @@
     "Anywhere Robotics": {
       "since": "2026-11-02",
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.gusto.com/boards/anyware-robotics-e7cbbd33-db1c-470e-93b3-020992d24e20"
+    },
+    "Tesla": {
+      "since": "2026-11-04",
+      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
     }
   }
 }
