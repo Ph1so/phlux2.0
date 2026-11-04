@@ -8866,8 +8866,7 @@
         "date": "2026-11-04",
         "id": "talentbrew:102845405904",
         "url": "https://careers.irobot.com/job/tokyo/digital-marketing-manager/42682/102845405904",
-        "location": "Tokyo",
-        "closed": "2026-11-04"
+        "location": "Tokyo"
       }
     ],
     "Mujin": [
@@ -56266,7 +56265,8 @@
         "date": "2026-10-22",
         "id": "ashby:8dcf85ee-563d-40de-bc78-cf829404d212",
         "url": "https://jobs.ashbyhq.com/openai/8dcf85ee-563d-40de-bc78-cf829404d212",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-04"
       },
       {
         "title": "Business Recruiter, APAC",
