@@ -471,6 +471,20 @@
         "id": "workday:JR2029220-1",
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1",
         "location": "US, TX, Austin"
+      },
+      {
+        "title": "\u2b50\ufe0f Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027",
+        "date": "2026-11-04",
+        "id": "workday:JR2027548",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548",
+        "location": "US, CA, Santa Clara"
+      },
+      {
+        "title": "\u2b50\ufe0f VLSI Timing Methodology Intern - Summer 2027",
+        "date": "2026-11-04",
+        "id": "workday:JR2026798",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-Timing-Methodology-Intern---Summer-2027_JR2026798",
+        "location": "US, CA, Santa Clara"
       }
     ],
     "Google": [
@@ -772,11 +786,13 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393556983221",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-04"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Intern - CTJ - TS",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "closed": "2026-11-04"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Security Research Group, Microsoft Research Redmond",
@@ -1109,6 +1125,13 @@
         "date": "2026-11-03",
         "id": "eightfold:1970393557037859",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557037859",
+        "location": "United States, Washington, Redmond"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Intern - Research in Software Engineering, ML Systems, Agents",
+        "date": "2026-11-04",
+        "id": "eightfold:1970393557054069",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
         "location": "United States, Washington, Redmond"
       }
     ],
@@ -13831,7 +13854,8 @@
         "date": "N/A",
         "id": "greenhouse:5791008004",
         "url": "https://boards.greenhouse.io/apptronik/jobs/5791008004?gh_jid=5791008004",
-        "location": "Austin, TX"
+        "location": "Austin, TX",
+        "closed": "2026-11-04"
       },
       {
         "title": "Firmware Engineer - Actuation",
@@ -16643,7 +16667,8 @@
         "date": "N/A",
         "id": "ashby:d53ae555-c6b5-4cd5-82d4-0ed03720fcec",
         "url": "https://jobs.ashbyhq.com/aurora-operations-inc/9349f21f-483f-4d97-abd8-4bb1e85fda2d",
-        "location": "Pittsburgh, PA"
+        "location": "Pittsburgh, PA",
+        "closed": "2026-11-04"
       },
       {
         "title": "Command Center Specialist",
@@ -29374,11 +29399,13 @@
         "date": "2026-10-13",
         "id": "greenhouse:8198218",
         "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
-        "location": "Mountain View, California, United States; San Francisco, California, United States"
+        "location": "Mountain View, California, United States; San Francisco, California, United States",
+        "closed": "2026-11-04"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "closed": "2026-11-04"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern, MBA, Operations Planning",
@@ -29763,6 +29790,13 @@
         "id": "greenhouse:8337719",
         "url": "https://careers.withwaymo.com/jobs?gh_jid=8337719",
         "location": "Mountain View, CA, USA"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Depot Automation",
+        "date": "2026-11-04",
+        "id": "greenhouse:8350687",
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=8350687",
+        "location": "San Francisco, California"
       }
     ],
     "Wayve": [
@@ -30408,6 +30442,13 @@
         "date": "2026-11-03",
         "id": "ashby:221cde72-b8fc-4ab4-94e9-d525383c54dc",
         "url": "https://jobs.ashbyhq.com/wayve/221cde72-b8fc-4ab4-94e9-d525383c54dc",
+        "location": "Sunnyvale, California USA"
+      },
+      {
+        "title": "Sensor Technology Engineer",
+        "date": "2026-11-04",
+        "id": "ashby:cc28eaa2-2625-4a7e-b18f-533f2c685e4f",
+        "url": "https://jobs.ashbyhq.com/wayve/cc28eaa2-2625-4a7e-b18f-533f2c685e4f",
         "location": "Sunnyvale, California USA"
       }
     ],
@@ -36133,7 +36174,8 @@
         "date": "N/A",
         "id": "ashby:0e999010-0450-455a-ad09-9b3dbd4a05f2",
         "url": "https://jobs.ashbyhq.com/niantic-spatial/0e999010-0450-455a-ad09-9b3dbd4a05f2",
-        "location": "San Francisco, CA +1"
+        "location": "San Francisco, CA +1",
+        "closed": "2026-11-04"
       },
       {
         "title": "Technical Lead, Computer Vision",
@@ -40745,7 +40787,8 @@
         "date": "2026-10-14",
         "id": "greenhouse:8862639002",
         "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8862639002",
-        "location": "Fort Worth, Texas; Ann Arbor, Michigan"
+        "location": "Fort Worth, Texas; Ann Arbor, Michigan",
+        "closed": "2026-11-04"
       },
       {
         "title": "Software Engineer II - Build Tools",
@@ -45481,7 +45524,8 @@
         "date": "2026-10-14",
         "id": "ashby:a68c0823-0b61-4741-9fbc-a1f6d701e4ed",
         "url": "https://jobs.ashbyhq.com/persona.ai/a68c0823-0b61-4741-9fbc-a1f6d701e4ed",
-        "location": "Pensacola, FL or Houston, TX"
+        "location": "Pensacola, FL or Houston, TX",
+        "closed": "2026-11-04"
       },
       {
         "title": "\u2b50\ufe0f Machine Learning Internship, Manipulation",
@@ -45496,7 +45540,8 @@
         "date": "2026-10-14",
         "id": "ashby:1e8d195c-e28e-423d-a06a-9eeb401ed4fc",
         "url": "https://jobs.ashbyhq.com/persona.ai/1e8d195c-e28e-423d-a06a-9eeb401ed4fc",
-        "location": "Houston, TX"
+        "location": "Houston, TX",
+        "closed": "2026-11-04"
       },
       {
         "title": "Deep Learning - Robot Manipulation Engineer",
@@ -47266,6 +47311,27 @@
         "id": "workday:R8121",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Technical-Program-Manager_R8121",
         "location": "USA Wilmington, MA - HQ"
+      },
+      {
+        "title": "Software Engineer (Python, Kubernetes)",
+        "date": "2026-11-04",
+        "id": "workday:R8420",
+        "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/VNM-Ho-Chi-Minh/Software-Engineer--Python--Kubernetes-_R8420",
+        "location": "VNM Ho Chi Minh"
+      },
+      {
+        "title": "Staff Software Engineer (Python, Kubernetes)",
+        "date": "2026-11-04",
+        "id": "workday:R8422",
+        "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/VNM-Ho-Chi-Minh/Staff-Software-Engineer--Python--Kubernetes-_R8422",
+        "location": "VNM Ho Chi Minh"
+      },
+      {
+        "title": "Senior Software Engineer (Python, Kubernetes)",
+        "date": "2026-11-04",
+        "id": "workday:R8421",
+        "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/VNM-Ho-Chi-Minh/Senior-Software-Engineer--Python--Kubernetes-_R8421",
+        "location": "VNM Ho Chi Minh"
       }
     ],
     "PROCEPT BioRobotics": [
@@ -50755,7 +50821,8 @@
         "date": "2026-10-22",
         "id": "lever:d4a03146-3fb1-4ec3-94de-2ee9bf462e4b",
         "url": "https://jobs.lever.co/woven-by-toyota/d4a03146-3fb1-4ec3-94de-2ee9bf462e4b",
-        "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a"
+        "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a",
+        "closed": "2026-11-04"
       },
       {
         "title": "ADAS HMI Engineer, Customer Application",
@@ -51374,6 +51441,34 @@
         "id": "lever:6bf20bde-8eb1-4522-9e92-2f39c939c60f",
         "url": "https://jobs.lever.co/woven-by-toyota/6bf20bde-8eb1-4522-9e92-2f39c939c60f",
         "location": "Palo Alto, CA +1"
+      },
+      {
+        "title": "AD/ADAS \u30bd\u30d5\u30c8\u30a2\u30fc\u30ad\u8a2d\u8a08\u3001\u7d44\u307f\u8fbc\u307f\u30bd\u30d5\u30c8\u8a2d\u8a08",
+        "date": "2026-11-04",
+        "id": "lever:efe50741-f2d4-4194-8862-65b8d22d847c",
+        "url": "https://jobs.lever.co/woven-by-toyota/efe50741-f2d4-4194-8862-65b8d22d847c",
+        "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a"
+      },
+      {
+        "title": "Embedded SWE, AD/ADAS Architecture Design",
+        "date": "2026-11-04",
+        "id": "lever:6ae289c2-cdbf-4239-8434-be8d2a70a05f",
+        "url": "https://jobs.lever.co/woven-by-toyota/6ae289c2-cdbf-4239-8434-be8d2a70a05f",
+        "location": "Tokyo"
+      },
+      {
+        "title": "Product Management Director Japan, Arene",
+        "date": "2026-11-04",
+        "id": "lever:3f6852e5-70c0-4ab0-836f-c71d13a83f32",
+        "url": "https://jobs.lever.co/woven-by-toyota/3f6852e5-70c0-4ab0-836f-c71d13a83f32",
+        "location": "Tokyo"
+      },
+      {
+        "title": "\u30d7\u30ed\u30c0\u30af\u30c8\u30de\u30cd\u30b8\u30e1\u30f3\u30c8\u30c7\u30a3\u30ec\u30af\u30bf\u30fc\u30fbArene",
+        "date": "2026-11-04",
+        "id": "lever:712c2cc3-0fd8-46ea-8bd6-2404ee829c4b",
+        "url": "https://jobs.lever.co/woven-by-toyota/712c2cc3-0fd8-46ea-8bd6-2404ee829c4b",
+        "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a"
       }
     ],
     "Generalist AI": [
@@ -56434,7 +56529,8 @@
         "date": "2026-10-22",
         "id": "ashby:bce2bcbd-01e6-4afc-9109-d325483aa47e",
         "url": "https://jobs.ashbyhq.com/openai/bce2bcbd-01e6-4afc-9109-d325483aa47e",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-04"
       },
       {
         "title": "Product Designer, Accessibility",
@@ -58105,7 +58201,8 @@
         "title": "Technical Program Manager, Compute Infrastructure",
         "date": "2026-10-22",
         "id": "ashby:8fb1615c-34bf-47c4-a1d1-b7b2f836bbd3",
-        "closed": "N/A"
+        "url": "https://jobs.ashbyhq.com/openai/8fb1615c-34bf-47c4-a1d1-b7b2f836bbd3",
+        "location": "San Francisco"
       },
       {
         "title": "Technical Program Manager, Developer Velocity",
@@ -59406,6 +59503,27 @@
         "date": "2026-11-04",
         "id": "ashby:5692fcec-bd48-40b4-9cd3-2c881faf176c",
         "url": "https://jobs.ashbyhq.com/openai/5692fcec-bd48-40b4-9cd3-2c881faf176c",
+        "location": "San Francisco"
+      },
+      {
+        "title": "Technical Program Manager, Capacity Analytics & Tooling",
+        "date": "2026-11-04",
+        "id": "ashby:5cc72bc7-e6a0-40e0-9f60-23474cd9acdb",
+        "url": "https://jobs.ashbyhq.com/openai/5cc72bc7-e6a0-40e0-9f60-23474cd9acdb",
+        "location": "San Francisco"
+      },
+      {
+        "title": "Technical Program Manager, Research Compute Services",
+        "date": "2026-11-04",
+        "id": "ashby:e49133e6-4030-4295-b393-1725aa410344",
+        "url": "https://jobs.ashbyhq.com/openai/e49133e6-4030-4295-b393-1725aa410344",
+        "location": "San Francisco"
+      },
+      {
+        "title": "Technical Program Manager, Global Infrastructure Planning",
+        "date": "2026-11-04",
+        "id": "ashby:df242b29-6a84-4968-8d57-cbeec20dee67",
+        "url": "https://jobs.ashbyhq.com/openai/df242b29-6a84-4968-8d57-cbeec20dee67",
         "location": "San Francisco"
       }
     ],
@@ -67858,6 +67976,13 @@
         "id": "greenhouse:5473216008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5473216008",
         "location": "San Francisco, CA | New York City, NY"
+      },
+      {
+        "title": "Learning & Education Specialist",
+        "date": "2026-11-04",
+        "id": "greenhouse:5462661008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5462661008",
+        "location": "San Francisco, CA | New York City, NY"
       }
     ],
     "xAI": [
@@ -68207,14 +68332,16 @@
         "date": "2026-10-27",
         "id": "greenhouse:5119679007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5119679007",
-        "location": "Southaven, MS; Memphis, TN"
+        "location": "Southaven, MS; Memphis, TN",
+        "closed": "2026-11-04"
       },
       {
         "title": "Construction Manager - Memphis",
         "date": "2026-10-27",
         "id": "greenhouse:5218144007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5218144007",
-        "location": "Southaven, MS; Memphis, TN"
+        "location": "Southaven, MS; Memphis, TN",
+        "closed": "2026-11-04"
       },
       {
         "title": "Construction Manager, Power Generation - Memphis",
@@ -68263,14 +68390,16 @@
         "date": "2026-10-27",
         "id": "greenhouse:5123845007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5123845007",
-        "location": "Southaven, MS; Memphis, TN"
+        "location": "Southaven, MS; Memphis, TN",
+        "closed": "2026-11-04"
       },
       {
         "title": "Construction Superintendent, Mechanical (Night Shift) - Memphis",
         "date": "2026-10-27",
         "id": "greenhouse:5124669007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5124669007",
-        "location": "Southaven, MS; Memphis, TN"
+        "location": "Southaven, MS; Memphis, TN",
+        "closed": "2026-11-04"
       },
       {
         "title": "Construction Superintendent, Power Generation - Memphis",
@@ -68291,7 +68420,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5124681007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5124681007",
-        "location": "Memphis, TN"
+        "location": "Memphis, TN",
+        "closed": "2026-11-04"
       },
       {
         "title": "Controls Engineer (Power Generation) - Memphis",
