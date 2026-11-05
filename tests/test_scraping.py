@@ -14,7 +14,6 @@ from phlux.scraping import (
     PRESETS,
     Actions,
     _paginate,
-    autoApply,
     board_of,
     expand_presets,
     get_board_jobs,
@@ -441,54 +440,6 @@ class TestBoardRouting:
             result = scrape_company(Company("Acme", "https://acme.com/jobs", "CSS:h3"))
         headless.assert_called_once_with("Acme", "https://acme.com/jobs", "CSS:h3")
         assert (result.jobs, result.ids) == (["Planner"], [])
-
-
-# ── autoApply ─────────────────────────────────────────────────────────────────
-
-class TestAutoApply:
-    def test_raises_without_gh_token(self):
-        with patch.dict(os.environ, {}, clear=True):
-            with pytest.raises(RuntimeError, match="GH_TOKEN not set"):
-                autoApply(["Software Engineer"], "https://careers.example.com")
-
-    def test_dispatches_workflow_for_job(self):
-        element_mock = MagicMock()
-        element_mock.get_attribute.return_value = "12345"
-
-        driver_mock = MagicMock()
-        wait_mock = MagicMock()
-        wait_mock.until.return_value = element_mock
-
-        post_mock = MagicMock()
-        post_mock.return_value.status_code = 204
-
-        with patch("phlux.scraping.get_driver", return_value=driver_mock), \
-             patch("phlux.scraping.WebDriverWait", return_value=wait_mock), \
-             patch("phlux.scraping.requests.post", post_mock), \
-             patch.dict(os.environ, {"GH_TOKEN": "fake_token"}):
-            autoApply(["Software Engineer"], "https://careers.example.com")
-
-        post_mock.assert_called_once()
-        call_kwargs = post_mock.call_args
-        assert "Authorization" in call_kwargs.kwargs.get("headers", call_kwargs[1].get("headers", {}))
-
-    def test_skips_job_with_no_seqno(self):
-        element_mock = MagicMock()
-        element_mock.get_attribute.return_value = None  # no seqno
-
-        driver_mock = MagicMock()
-        wait_mock = MagicMock()
-        wait_mock.until.return_value = element_mock
-
-        post_mock = MagicMock()
-
-        with patch("phlux.scraping.get_driver", return_value=driver_mock), \
-             patch("phlux.scraping.WebDriverWait", return_value=wait_mock), \
-             patch("phlux.scraping.requests.post", post_mock), \
-             patch.dict(os.environ, {"GH_TOKEN": "fake_token"}):
-            autoApply(["Software Engineer"], "https://careers.example.com")
-
-        post_mock.assert_not_called()
 
 
 # ── ScrapeManager seeding ─────────────────────────────────────────────────────

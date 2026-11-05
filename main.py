@@ -12,10 +12,7 @@ from email.utils import make_msgid
 from pathlib import Path
 from typing import Any, Callable, Dict, List, Optional
 
-import gspread
 import pytz
-from gspread_formatting import CellFormat, format_cell_range
-from oauth2client.service_account import ServiceAccountCredentials
 
 from phlux.config import load_company_list_setting, load_config, load_email_config
 from phlux.lists import select_companies
@@ -201,42 +198,6 @@ def has_full_time_roles(message: dict) -> bool:
         for company_data in message.get("companies", {}).values()
         for job in company_data.get("jobs", [])
     )
-
-
-# ── Google Sheets ─────────────────────────────────────────────────────────────
-
-def update_internship_tracker(jobs: List[str]) -> None:
-    """Append newly found Susquehanna internship titles to the tracking sheet.
-
-    Writes each job as a row of ``[company – title, date, "Applied"]`` and
-    right-aligns the date column.
-
-    Args:
-        jobs: List of job title strings to record.
-    """
-    raw = os.environ.get("GOOGLE_KEY_JSON")
-    if not raw:
-        logger.error("GOOGLE_KEY_JSON not set; skipping tracker update.")
-        return
-    creds_dict = json.loads(raw)
-    scope = [
-        "https://spreadsheets.google.com/feeds",
-        "https://www.googleapis.com/auth/drive",
-    ]
-    creds = ServiceAccountCredentials.from_json_keyfile_dict(creds_dict, scope)
-    client = gspread.authorize(creds)
-
-    worksheet = client.open_by_key("1pZMYgV4GJZJIwyTSG4-ufWeUnJNE7ZQzcFk35qJj7QI").worksheet("Phi26")
-    start_row = len(worksheet.col_values(1)) + 1
-
-    eastern = pytz.timezone("US/Eastern")
-    now = datetime.now(eastern)
-    today = f"{now.month}/{now.day}/{now.year}"
-
-    rows = [["Susquehanna - " + job, today, "Applied"] for job in jobs]
-    end_row = start_row + len(rows) - 1
-    worksheet.update(values=rows, range_name=f"A{start_row}:C{end_row}")
-    format_cell_range(worksheet, f"B{start_row}:B{end_row}", CellFormat(horizontalAlignment="RIGHT"))
 
 
 # ── Main ──────────────────────────────────────────────────────────────────────

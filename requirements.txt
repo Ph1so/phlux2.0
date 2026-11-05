@@ -7,9 +7,6 @@ lxml
 beautifulsoup4
 python-dotenv
 requests
-gspread
-oauth2client
-gspread-formatting
 undetected-chromedriver
 nodriver
 setuptools

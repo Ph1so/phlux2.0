@@ -11,8 +11,7 @@ from pathlib import Path
 from typing import Dict, Iterable, List, Tuple
 
 import pytz
-import requests
-from selenium.common.exceptions import TimeoutException, WebDriverException, NoSuchElementException
+from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
@@ -636,80 +635,6 @@ def track_closures(data: dict, result: ScrapeResult, trust_empty: bool = False,
     pending.pop(result.name, None)
     for entry in missing:
         entry["closed"] = stamp
-
-
-def autoApply(jobs: List[str], url: str) -> None:
-    """Trigger the ``auto-apply.yml`` GitHub Actions workflow for each job.
-
-    Looks up the Susquehanna job sequence number from the careers page and
-    dispatches one workflow run per job via the GitHub API.
-
-    Args:
-        jobs: List of job titles to apply to.
-        url: Susquehanna careers page URL to search for job links.
-
-    Raises:
-        RuntimeError: If ``GH_TOKEN`` is not set in the environment.
-    """
-    token = os.environ.get("GH_TOKEN")
-    if not token:
-        raise RuntimeError("GH_TOKEN not set in environment")
-
-    repo = "Ph1so/phlux2.0"
-    workflow_id = "auto-apply.yml"
-    driver = get_driver()
-
-    try:
-        driver.get(url)
-        for job in jobs:
-            logger.info("Auto Apply Job: %s", job)
-            try:
-                element = WebDriverWait(driver, 15).until(
-                    EC.presence_of_element_located(
-                        (
-                            By.XPATH,
-                            f"//a[.//div[contains(@class, 'job-title')]"
-                            f"/span[normalize-space() = '{job}']]",
-                        )
-                    )
-                )
-                job_seqno = element.get_attribute("data-ph-at-job-seqno-text")
-            except NoSuchElementException:
-                logger.warning("Element for job '%s' not found on page.", job)
-                continue
-
-            if not job_seqno:
-                logger.warning("No job_seqno found for job '%s'. Skipping.", job)
-                continue
-
-            apply_url = f"https://careers.sig.com/apply?jobSeqNo={job_seqno}"
-            try:
-                response = requests.post(
-                    f"https://api.github.com/repos/{repo}/actions/workflows/{workflow_id}/dispatches",
-                    headers={
-                        "Accept": "application/vnd.github+json",
-                        "Authorization": f"Bearer {token}",
-                    },
-                    json={"ref": "main", "inputs": {"url": apply_url}},
-                    timeout=10,
-                )
-                if response.status_code == 204:
-                    logger.info("Successfully triggered workflow for: %s", job)
-                else:
-                    logger.error(
-                        "Failed to trigger workflow for: %s | Status: %s | %s",
-                        job, response.status_code, response.text,
-                    )
-            except requests.RequestException as e:
-                logger.error("HTTP error while applying to job '%s': %s", job, e)
-
-    except WebDriverException as e:
-        logger.error("WebDriver error: %s", e)
-    finally:
-        try:
-            driver.quit()
-        except Exception:
-            pass
 
 
 class ScrapeManager:

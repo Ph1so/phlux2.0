@@ -19,8 +19,6 @@ concurrency:
 
 env:
   GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-  GH_TOKEN: ${{ secrets.GH_TOKEN }}
-  GOOGLE_KEY_JSON: ${{ secrets.GOOGLE_KEY_JSON }}
   ICONS_ID: ${{ secrets.ICONS_ID }}
   ICONS_API: ${{ secrets.ICONS_API }}
 
