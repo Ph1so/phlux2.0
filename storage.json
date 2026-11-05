@@ -8888,8 +8888,7 @@
         "date": "2026-11-04",
         "id": "talentbrew:102845405904",
         "url": "https://careers.irobot.com/job/tokyo/digital-marketing-manager/42682/102845405904",
-        "location": "Tokyo",
-        "closed": "2026-11-04"
+        "location": "Tokyo"
       }
     ],
     "Mujin": [
@@ -55633,7 +55632,8 @@
         "date": "2026-10-22",
         "id": "ashby:e5c39e03-6121-47be-8bd3-f6128557b38f",
         "url": "https://jobs.ashbyhq.com/openai/e5c39e03-6121-47be-8bd3-f6128557b38f",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-04"
       },
       {
         "title": "GTM Strategy & Operations, Professional Services",
