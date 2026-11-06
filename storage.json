@@ -1776,7 +1776,6 @@
         "title": "Amazon Finance Rotational Program (AFRP) - Business Unit Finance, Early Career - 2027",
         "date": "2026-10-23",
         "id": "amazon:10587748",
-        "closed": "N/A",
         "url": "https://www.amazon.jobs/en/jobs/10587748/amazon-finance-rotational-program-afrp-business-unit-finance-early-career-2027",
         "location": "Seattle, WA"
       },
@@ -4253,7 +4252,8 @@
         "date": "N/A",
         "id": "greenhouse:8188161",
         "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8188161",
-        "location": "San Francisco, CA; New York, NY"
+        "location": "San Francisco, CA; New York, NY",
+        "early": "As a New Grad Product Designer, you\u2019ll join and learn from designers shaping this new practice \u2014 one where AI is native to how you explore ideas, prototype, and ship."
       },
       {
         "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) \u2013 US",
@@ -4303,7 +4303,8 @@
         "date": "2026-10-09",
         "id": "greenhouse:8163709",
         "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709",
-        "location": "Los Angeles, CA; New York, NY; San Francisco, CA; Sunnyvale, CA; Seattle, WA"
+        "location": "Los Angeles, CA; New York, NY; San Francisco, CA; Sunnyvale, CA; Seattle, WA",
+        "early": "\u2026We\u2019re excited about you because you have\u2026 A bachelor\u2019s or master\u2019s degree in Computer Science or a related discipline, graduating between Fall 2026 and Summer 2027 At least two previous software engineering internships\u2026"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer, Intern - Labs (Summer 2027)",
@@ -6075,7 +6076,8 @@
         "date": "N/A",
         "id": "greenhouse:8072244",
         "url": "https://careers.roblox.com/jobs/8072244?gh_jid=8072244",
-        "location": "San Mateo, CA, United States"
+        "location": "San Mateo, CA, United States",
+        "early": "As an Early Career Software Engineer at Roblox, your story begins with supportive mentorship and immediate, global impact."
       },
       {
         "title": "Software Engineer, Foundation AI",
@@ -6807,7 +6809,8 @@
         "date": "2026-10-13",
         "id": "greenhouse:7980932003",
         "url": "https://www.zipline.com/open-roles/7980932003?gh_jid=7980932003",
-        "location": "South San Francisco, California, USA"
+        "location": "South San Francisco, California, USA",
+        "closed": "2026-11-06"
       },
       {
         "title": "\u2b50\ufe0f Embedded Software Engineering Intern (Summer 2027)",
@@ -8533,7 +8536,8 @@
         "date": "N/A",
         "id": "greenhouse:4730851005",
         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730851005",
-        "location": "Doha, Qatar"
+        "location": "Doha, Qatar",
+        "early": "As a New Grad Software Engineer, you will own meaningful, customer-facing work from day one \u2014 shipping products, talking directly to the customers who use them, and iterating fast."
       },
       {
         "title": "Software Engineer - New Grad",
@@ -8548,7 +8552,8 @@
         "date": "N/A",
         "id": "greenhouse:4736426005",
         "url": "https://job-boards.greenhouse.io/scaleai/jobs/4736426005",
-        "location": "San Francisco, CA"
+        "location": "San Francisco, CA",
+        "early": "As a New Grad Software Engineer on this team, you will own meaningful, mission-facing work from day one: shipping features, sitting with the government stakeholders who use them, and iterating fast."
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Intern (Summer 2027)",
@@ -11068,6 +11073,13 @@
         "id": "greyorange:1202240",
         "url": "https://careers.greyorange.com/greyorange/jobview/senior-engineer-noc-gurugram-hq-2026110312175370",
         "location": "Gurugram - HQ"
+      },
+      {
+        "title": "Software Development Engineer II",
+        "date": "2026-11-06",
+        "id": "greyorange:1201507",
+        "url": "https://careers.greyorange.com/greyorange/jobview/software-development-engineer-ii-gurugram-hq-2026110514104045",
+        "location": "Gurugram - HQ"
       }
     ],
     "General Motors": [
@@ -11128,7 +11140,8 @@
         "date": "N/A",
         "id": "workday:JR-202619684",
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/GM-Global-Technical-Center---Cole-Engineering-Center-Podium/XMLNAME-2027-Summer-Intern---Warehouse-Operations-Intern_JR-202619684",
-        "location": "3 Locations"
+        "location": "3 Locations",
+        "closed": "2026-11-06"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Creative Design (Interior/Exterior)",
@@ -11603,7 +11616,8 @@
         "date": "2026-10-02",
         "id": "workday:JR-202621697",
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697",
-        "location": "Warren, Michigan, United States of America"
+        "location": "Warren, Michigan, United States of America",
+        "closed": "2026-11-06"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern \u2013 Machine Learning Intern, Autonomous Vehicles: Software Validation (Master's)",
@@ -12028,7 +12042,8 @@
         "date": "2026-10-22",
         "id": "workday:JR-202619679",
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Global-Customer-Research-Intern--Master-MBA-Degree-_JR-202619679",
-        "location": "Warren, Michigan, United States of America"
+        "location": "Warren, Michigan, United States of America",
+        "closed": "2026-11-06"
       },
       {
         "title": "GVHE Hardware-Software Co-Optimization Architect",
@@ -12464,7 +12479,8 @@
         "title": "Total Rewards Lead",
         "date": "N/A",
         "id": "greenhouse:6190376004",
-        "closed": "N/A"
+        "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6190376004",
+        "location": "Remote"
       },
       {
         "title": "People Operations Specialist",
@@ -13095,7 +13111,8 @@
         "date": "N/A",
         "id": "ashby:76f37dcd-57f6-4ed1-a487-83a9bb7749ab",
         "url": "https://jobs.ashbyhq.com/cobot/76f37dcd-57f6-4ed1-a487-83a9bb7749ab",
-        "location": "Santa Clara"
+        "location": "Santa Clara",
+        "early": "This is an ideal role for recent STEM university graduates."
       },
       {
         "title": "Staff Embedded Software Engineer, Robotics",
@@ -14317,7 +14334,8 @@
         "date": "2026-10-05",
         "id": "greenhouse:7647987003",
         "url": "https://motional.com/open-positions/?gh_jid=7647987003#/7647987003",
-        "location": "Singapore, Central, Singapore"
+        "location": "Singapore, Central, Singapore",
+        "closed": "2026-11-06"
       },
       {
         "title": "Director, Onboard Core Software",
@@ -15481,7 +15499,8 @@
         "date": "2026-10-16",
         "id": "greenhouse:6226572004",
         "url": "https://boards.greenhouse.io/apptronik/jobs/6226572004?gh_jid=6226572004",
-        "location": "Austin, Texas & Sunnyvale, California"
+        "location": "Austin, Texas & Sunnyvale, California",
+        "early": "We are actively looking for top early-career, graduate (MS/PhD), and experienced talent in robotics, autonomous systems, control theory, and perception to join our growing team."
       },
       {
         "title": "Staff Simulation Engineer - Core Simulation Platform",
@@ -17137,7 +17156,8 @@
         "date": "2026-09-29",
         "id": "greenhouse:4424101009",
         "url": "https://job-boards.greenhouse.io/avride/jobs/4424101009",
-        "location": "Corvallis, Oregon"
+        "location": "Corvallis, Oregon",
+        "early": "and we are hiring a motivated, entry-level Robot Service Technician Assistant to support this exciting deployment."
       },
       {
         "title": "Remote Assistance Operator (AM and PM Shift Options)",
@@ -17251,21 +17271,24 @@
         "date": "2026-10-30",
         "id": "greenhouse:4474918009",
         "url": "https://job-boards.greenhouse.io/avride/jobs/4474918009",
-        "location": "Tucson, Arizona"
+        "location": "Tucson, Arizona",
+        "early": "and we are hiring a motivated, entry-level Robot Service Technician Assistant to support this exciting deployment."
       },
       {
         "title": "Robot Service Technician Assistant \u2013 Part Time Weekend/Contract",
         "date": "2026-10-30",
         "id": "greenhouse:4414528009",
         "url": "https://job-boards.greenhouse.io/avride/jobs/4414528009",
-        "location": "Davie, Florida"
+        "location": "Davie, Florida",
+        "early": "and we are hiring a motivated, entry-level Robot Service Technician Assistant to support this exciting deployment."
       },
       {
         "title": "Robot Service Technician Assistant (Part Time Weekdays)",
         "date": "2026-11-02",
         "id": "greenhouse:4421738009",
         "url": "https://job-boards.greenhouse.io/avride/jobs/4421738009",
-        "location": "Atlanta, Georgia"
+        "location": "Atlanta, Georgia",
+        "early": "and we are hiring a motivated, entry-level Robot Service Technician Assistant to support this exciting deployment."
       },
       {
         "title": "Robot Service Technician \u2013 Full-Time/Contract",
@@ -18560,7 +18583,8 @@
         "date": "2026-11-02",
         "id": "ashby:3083054b-aa88-4cd5-86c2-96af5ddf1ee3",
         "url": "https://jobs.ashbyhq.com/aurora-operations-inc/3083054b-aa88-4cd5-86c2-96af5ddf1ee3",
-        "location": "Pittsburgh, PA"
+        "location": "Pittsburgh, PA",
+        "early": "As our engineering organization grows, we\u2019re hiring an early-career engineer who wants hands-on experience across a modern engineering stack (CI/CD, cloud infrastructure, identity and access, and AI developer tools) an\u2026"
       }
     ],
     "Zoox": [
@@ -23768,7 +23792,8 @@
         "date": "N/A",
         "id": "greenhouse:7351066",
         "url": "https://nuro.ai/careersitem?gh_jid=7351066",
-        "location": "Mountain View, California (HQ)"
+        "location": "Mountain View, California (HQ)",
+        "early": "About the Role Our software team is growing, and we are looking for talented engineers who are graduating by December 2026 to join us and be instrumental to one of the following areas: Data Platform, Onboard Systems, M\u2026"
       },
       {
         "title": "Software Engineer, Applied AI Infrastructure",
@@ -27527,7 +27552,8 @@
         "date": "2026-10-02",
         "id": "ashby:bb3db1ee-3544-4daf-a617-96e68e8faa19",
         "url": "https://jobs.ashbyhq.com/MaticRobots/bb3db1ee-3544-4daf-a617-96e68e8faa19",
-        "location": "Menlo Park, CA"
+        "location": "Menlo Park, CA",
+        "early": "0-4 years of experience in talent acquisition at a high-growth tech startup"
       },
       {
         "title": "Robotics Material Handler",
@@ -28128,7 +28154,8 @@
         "date": "2026-11-05",
         "id": "lever:ce714e73-4cce-42df-9f1d-137e3d52cf45",
         "url": "https://jobs.lever.co/picklerobot/ce714e73-4cce-42df-9f1d-137e3d52cf45",
-        "location": "Charlestown, MA"
+        "location": "Charlestown, MA",
+        "early": "This is an entry-level, hands-on role\u2014you\u2019ll execute defined test and commissioning procedures on the floor, working closely with senior engineers and technicians as you build toward owning test processes independently\u2026"
       }
     ],
     "ScoutAI": [
@@ -29046,7 +29073,8 @@
         "date": "N/A",
         "id": "greenhouse:8003692003",
         "url": "https://job-boards.greenhouse.io/diligentrobotics/jobs/8003692003",
-        "location": "Rochester, New York, United States"
+        "location": "Rochester, New York, United States",
+        "early": "This is a part-time, entry-level role at Diligent Robotics and will work 3, 8-hour shifts per week."
       },
       {
         "title": "Field Service Technician",
@@ -29107,7 +29135,8 @@
         "date": "2026-10-08",
         "id": "greenhouse:8017179003",
         "url": "https://job-boards.greenhouse.io/diligentrobotics/jobs/8017179003",
-        "location": "Los Angeles, California, United States"
+        "location": "Los Angeles, California, United States",
+        "early": "This is a part-time, entry-level role at Diligent Robotics and will average 2-3 8-hour shifts per week."
       },
       {
         "title": "Lead Clinical Robot Associate - Memphis, TN (On-Site)",
@@ -29142,7 +29171,8 @@
         "date": "2026-11-02",
         "id": "greenhouse:8162134003",
         "url": "https://job-boards.greenhouse.io/diligentrobotics/jobs/8162134003",
-        "location": "Newark, Delaware, United States"
+        "location": "Newark, Delaware, United States",
+        "early": "This is a temporary part-time, entry-level role at Diligent Robotics."
       },
       {
         "title": "Field Application Specialist",
@@ -29728,7 +29758,8 @@
         "date": "N/A",
         "id": "greenhouse:5244594007",
         "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5244594007",
-        "location": "Torrance, California, United States"
+        "location": "Torrance, California, United States",
+        "early": "\u2026rt based on production priorities and operational requirements You should have the following High school diploma or GED Entry-level to 2 years of experience in materials, receiving, inventory control, warehousing, logi\u2026"
       },
       {
         "title": "Media Relations Manager",
@@ -30021,7 +30052,8 @@
         "date": "2026-11-05",
         "id": "greenhouse:5285470007",
         "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5285470007",
-        "location": "Torrance, California, United States"
+        "location": "Torrance, California, United States",
+        "early": "\u2026g, private equity, management consulting, venture-backed startups, or similar high-performance environments Exceptional new graduates with relevant internship experience will be considered Bachelor's degree in finance,\u2026"
       }
     ],
     "Lyft": [
@@ -33008,7 +33040,8 @@
         "date": "N/A",
         "id": "ashby:45fc41cd-8280-4010-ba1f-def6114b3e39",
         "url": "https://jobs.ashbyhq.com/applied/45fc41cd-8280-4010-ba1f-def6114b3e39",
-        "location": "Sunnyvale"
+        "location": "Sunnyvale",
+        "early": "We are looking for passionate early-career Research Engineers to join the Research Group at Applied Intuition."
       },
       {
         "title": "Scenario Engineer - New Grad (December 2026)",
@@ -34678,7 +34711,8 @@
         "date": "N/A",
         "id": "ashby:567062a4-578e-4d05-a175-4fff84dd07b5",
         "url": "https://jobs.ashbyhq.com/applied/567062a4-578e-4d05-a175-4fff84dd07b5",
-        "location": "Sunnyvale"
+        "location": "Sunnyvale",
+        "early": "This role is ideal for early-career engineers who enjoy hands-on work with automotive hardware, embedded systems, and software testing, and who want to grow into automotive OTA domain experts."
       },
       {
         "title": "Product Manager - Developer Tooling",
@@ -34962,7 +34996,8 @@
         "date": "2026-09-29",
         "id": "ashby:3f40814e-0b1d-414a-a62b-5c7288223a4e",
         "url": "https://jobs.ashbyhq.com/applied/3f40814e-0b1d-414a-a62b-5c7288223a4e",
-        "location": "Stuttgart"
+        "location": "Stuttgart",
+        "early": "2+ years of relevant experience, also open to high-performing new grads with <2.0 GPA (on German scale)"
       },
       {
         "title": "Supply Chain Business Process Architect",
@@ -35044,42 +35079,48 @@
         "date": "2026-10-01",
         "id": "ashby:a561fff8-aa38-4a5d-8b29-66c191f7328e",
         "url": "https://jobs.ashbyhq.com/applied/a561fff8-aa38-4a5d-8b29-66c191f7328e",
-        "location": "Sunnyvale"
+        "location": "Sunnyvale",
+        "early": "Applied is looking for a new grad Cybersecurity Engineer who is passionate about building security into vehicle platforms from the ground up."
       },
       {
         "title": "Embedded Software Engineer - New Grad (2027)",
         "date": "2026-10-01",
         "id": "ashby:6971d533-1536-448b-96b8-544ad5383f44",
         "url": "https://jobs.ashbyhq.com/applied/6971d533-1536-448b-96b8-544ad5383f44",
-        "location": "Sunnyvale"
+        "location": "Sunnyvale",
+        "early": "BS/BA, MS, or PhD in Computer Engineering, Computer Science, or related degree graduating by December 2026 or Summer 2027"
       },
       {
         "title": "Embedded Test Engineer - New Grad (2027)",
         "date": "2026-10-01",
         "id": "ashby:0695a5b7-6823-4da5-b918-3b580d49662c",
         "url": "https://jobs.ashbyhq.com/applied/0695a5b7-6823-4da5-b918-3b580d49662c",
-        "location": "Sunnyvale"
+        "location": "Sunnyvale",
+        "early": "We are looking for a highly motivated and curious New Grad Embedded Test Engineer to join our team in Sunnyvale."
       },
       {
         "title": "Forward Deployed Engineer - New Grad (2027)",
         "date": "2026-10-01",
         "id": "ashby:31140958-d768-452c-8498-0b1c7f403943",
         "url": "https://jobs.ashbyhq.com/applied/31140958-d768-452c-8498-0b1c7f403943",
-        "location": "Sunnyvale"
+        "location": "Sunnyvale",
+        "early": "We are hiring our first new graduate class"
       },
       {
         "title": "Hardware Integration Engineer - New Grad (2027)",
         "date": "2026-10-01",
         "id": "ashby:4c3cd892-2ef0-40b6-877a-39540a224a5c",
         "url": "https://jobs.ashbyhq.com/applied/4c3cd892-2ef0-40b6-877a-39540a224a5c",
-        "location": "Sunnyvale"
+        "location": "Sunnyvale",
+        "early": "Strong fundamentals in circuit design, digital/analog electronics, and PCB layout graduating by December 2026 or Summer 2027"
       },
       {
         "title": "OTA/Cloud Validation Engineer - New Grad (2027)",
         "date": "2026-10-01",
         "id": "ashby:e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95",
         "url": "https://jobs.ashbyhq.com/applied/e5ec6599-5ae4-4f0f-b0fd-cd6f4cad8d95",
-        "location": "Sunnyvale"
+        "location": "Sunnyvale",
+        "early": "Applied Intuition is looking for a motivated New Grad OTA Validation Engineer to join our Validation team."
       },
       {
         "title": "Scenario Engineer - New Grad (2027)",
@@ -35098,14 +35139,16 @@
         "date": "2026-10-01",
         "id": "ashby:250080bd-10a8-4e5f-82b8-506029292d19",
         "url": "https://jobs.ashbyhq.com/applied/250080bd-10a8-4e5f-82b8-506029292d19",
-        "location": "Sunnyvale"
+        "location": "Sunnyvale",
+        "early": "BS or MS in Computer Science, Computer Engineering, Electrical Engineering, Mechatronics, Mechanical Engineering, or a related field graduating by December 2026 or Summer 2027"
       },
       {
         "title": "UX Test Engineer - New Grad (2027)",
         "date": "2026-10-01",
         "id": "ashby:c222bb2f-893d-455b-8dd2-f585205632e4",
         "url": "https://jobs.ashbyhq.com/applied/c222bb2f-893d-455b-8dd2-f585205632e4",
-        "location": "Sunnyvale"
+        "location": "Sunnyvale",
+        "early": "Applied is seeking a high-energy, detail-oriented New Graduate UX Test Engineer to join our specialized Validation team."
       },
       {
         "title": "Senior Technical Recruiter - Defense",
@@ -35170,7 +35213,8 @@
         "date": "2026-10-06",
         "id": "ashby:95ef249d-49fe-4e6b-99d4-362da75b0c9f",
         "url": "https://jobs.ashbyhq.com/applied/95ef249d-49fe-4e6b-99d4-362da75b0c9f",
-        "location": "Sunnyvale"
+        "location": "Sunnyvale",
+        "closed": "2026-11-06"
       },
       {
         "title": "Head of Recruiting Operations",
@@ -36512,28 +36556,32 @@
         "date": "N/A",
         "id": "lever:9ad21207-951e-43f5-a63f-69f02f7c95c2",
         "url": "https://jobs.lever.co/field-ai/9ad21207-951e-43f5-a63f-69f02f7c95c2",
-        "location": "Irvine, CA"
+        "location": "Irvine, CA",
+        "early": "Experience Level: We are recruiting across a wide range of experience levels from entry level engineers to senior and staff engineers."
       },
       {
         "title": "Electrical Engineer, Humanoid Robotics",
         "date": "N/A",
         "id": "lever:93042d45-ffe3-46a1-8eaf-e229ea228b06",
         "url": "https://jobs.lever.co/field-ai/93042d45-ffe3-46a1-8eaf-e229ea228b06",
-        "location": "Boston, MA"
+        "location": "Boston, MA",
+        "early": "Experience Level: We are recruiting across a wide range of experience levels from entry level engineers to senior and staff engineers."
       },
       {
         "title": "Electrical Engineer, Robotics Hardware",
         "date": "N/A",
         "id": "lever:e6717cef-ac78-4e67-a8de-33e195490ac8",
         "url": "https://jobs.lever.co/field-ai/e6717cef-ac78-4e67-a8de-33e195490ac8",
-        "location": "Irvine, CA"
+        "location": "Irvine, CA",
+        "early": "Experience Level: We are recruiting across a wide range of experience levels from entry level engineers to senior and staff engineers."
       },
       {
         "title": "Embedded Systems Engineer, Autonomous Vehicles (Federal)",
         "date": "N/A",
         "id": "lever:5aa0a3ef-b693-4404-829a-63d8b9dad776",
         "url": "https://jobs.lever.co/field-ai/5aa0a3ef-b693-4404-829a-63d8b9dad776",
-        "location": "Irvine, CA"
+        "location": "Irvine, CA",
+        "early": "Experience Level: We are recruiting across a wide range of experience levels from entry level engineers to senior and staff engineers."
       },
       {
         "title": "Embedded Systems Engineer, Humanoid Robotics",
@@ -36547,7 +36595,8 @@
         "date": "N/A",
         "id": "lever:7a0d12c7-957b-42f6-a9c9-9605fab6d2a4",
         "url": "https://jobs.lever.co/field-ai/7a0d12c7-957b-42f6-a9c9-9605fab6d2a4",
-        "location": "Irvine, CA"
+        "location": "Irvine, CA",
+        "early": "Experience Level: We are recruiting across a wide range of experience levels from entry level engineers to senior and staff engineers."
       },
       {
         "title": "Enterprise Account Executive, Construction",
@@ -36575,7 +36624,8 @@
         "date": "N/A",
         "id": "lever:3a115140-cbee-4d96-b61d-7403596b77ca",
         "url": "https://jobs.lever.co/field-ai/3a115140-cbee-4d96-b61d-7403596b77ca",
-        "location": "Remote - US"
+        "location": "Remote - US",
+        "early": "This role is ideal for recent graduates who thrive in both technical and operational environments and are ready to travel to project sites around the U.S."
       },
       {
         "title": "Forward Deployed Engineer",
@@ -36660,14 +36710,16 @@
         "date": "N/A",
         "id": "lever:0e394f4f-f8fe-4986-93eb-e9fb21bbbbbd",
         "url": "https://jobs.lever.co/field-ai/0e394f4f-f8fe-4986-93eb-e9fb21bbbbbd",
-        "location": "Irvine, CA"
+        "location": "Irvine, CA",
+        "early": "Experience Level: We are recruiting across a wide range of experience levels from entry level engineers to senior and staff engineers."
       },
       {
         "title": "Mechanical Engineer, Robotics Hardware",
         "date": "N/A",
         "id": "lever:c6d6d504-d01a-4ba5-9b33-f3e857f630d4",
         "url": "https://jobs.lever.co/field-ai/c6d6d504-d01a-4ba5-9b33-f3e857f630d4",
-        "location": "Irvine, CA"
+        "location": "Irvine, CA",
+        "early": "Experience Level: We are recruiting across a wide range of experience levels from entry level engineers to senior and staff engineers."
       },
       {
         "title": "\u2b50\ufe0f Mechanical Engineer, Robotics Hardware Intern",
@@ -36681,7 +36733,8 @@
         "date": "N/A",
         "id": "lever:7e41ac8f-4269-492b-9e1d-97b30a00c92b",
         "url": "https://jobs.lever.co/field-ai/7e41ac8f-4269-492b-9e1d-97b30a00c92b",
-        "location": "Irvine, CA"
+        "location": "Irvine, CA",
+        "early": "Experience Level: We are recruiting across a wide range of experience levels from entry level engineers to senior and staff engineers."
       },
       {
         "title": "Perception Engineer, 3D Representation & Navigation",
@@ -36846,7 +36899,8 @@
         "date": "N/A",
         "id": "lever:9fe4ed83-5dc4-4d3c-8e16-edb59900c79e",
         "url": "https://jobs.lever.co/field-ai/9fe4ed83-5dc4-4d3c-8e16-edb59900c79e",
-        "location": "Irvine, CA +1"
+        "location": "Irvine, CA +1",
+        "early": "Bachelors Degree in Computer Science or other relevant field 2+ years of experience in QA, robotics testing, or hands-on technical roles (open to strong entry-level candidates with relevant experience or projects) Comf\u2026"
       },
       {
         "title": "Robotics Release Engineer, System Validation",
@@ -37069,14 +37123,16 @@
         "date": "N/A",
         "id": "lever:0c026e5f-99c5-419d-9458-1f2db08fcb8f",
         "url": "https://jobs.lever.co/field-ai/0c026e5f-99c5-419d-9458-1f2db08fcb8f",
-        "location": "Irvine, CA"
+        "location": "Irvine, CA",
+        "early": "Experience Level: We are recruiting across a wide range of experience levels from entry level engineers to senior and staff engineers."
       },
       {
         "title": "Sensor Systems Engineer, Autonomous Vehicles (Federal)",
         "date": "N/A",
         "id": "lever:c0932811-6a6e-45b4-bced-4d0efe50d427",
         "url": "https://jobs.lever.co/field-ai/c0932811-6a6e-45b4-bced-4d0efe50d427",
-        "location": "Irvine, CA"
+        "location": "Irvine, CA",
+        "early": "Experience Level: We are recruiting across a wide range of experience levels from entry level engineers to senior and staff engineers."
       },
       {
         "title": "\u2b50\ufe0f Simulation, Sim to Real Intern",
@@ -38166,14 +38222,16 @@
         "date": "2026-11-02",
         "id": "ashby:dec81d75-8b17-4361-9b82-e0cc6118c618",
         "url": "https://jobs.ashbyhq.com/humanoid/dec81d75-8b17-4361-9b82-e0cc6118c618",
-        "location": "Canada, Vancouver, BC"
+        "location": "Canada, Vancouver, BC",
+        "early": "This opportunity is ideal for an early-career or intermediate engineer who enjoys practical engineering challenges, wants to strengthen their robotics expertise, and is excited to learn from a highly experienced multid\u2026"
       },
       {
         "title": "Test and Validation Engineer - Contract",
         "date": "2026-11-02",
         "id": "ashby:e5256a33-7ae1-497e-8c44-daa3ebe6e68b",
         "url": "https://jobs.ashbyhq.com/humanoid/e5256a33-7ae1-497e-8c44-daa3ebe6e68b",
-        "location": "Canada, Vancouver, BC"
+        "location": "Canada, Vancouver, BC",
+        "early": "This is an exciting opportunity for an early-career or intermediate engineer to gain hands-on experience in robotics testing, actuator characterization, automated validation, and hardware development while learning fro\u2026"
       },
       {
         "title": "Robotics Engineer (Night Shift)",
@@ -38980,7 +39038,8 @@
         "date": "N/A",
         "id": "google:97084041571771078",
         "url": "https://www.google.com/about/careers/applications/jobs/results/97084041571771078",
-        "location": "Z\u00fcrich, Switzerland"
+        "location": "Z\u00fcrich, Switzerland",
+        "closed": "2026-11-06"
       },
       {
         "title": "Staff Research Scientist, Gemini Research, DeepMind",
@@ -40171,7 +40230,8 @@
         "date": "2026-11-05",
         "id": "ashby:58d9a0e7-8082-4575-ad50-0163c91458cc",
         "url": "https://jobs.ashbyhq.com/physicalintelligence/58d9a0e7-8082-4575-ad50-0163c91458cc",
-        "location": "Mountain View"
+        "location": "Mountain View",
+        "closed": "2026-11-06"
       }
     ],
     "The Bot Company": [
@@ -40427,6 +40487,13 @@
         "date": "2026-11-02",
         "id": "ashby:807a15e2-5ce3-4429-a804-efc2e94eb67c",
         "url": "https://jobs.ashbyhq.com/dyna-robotics/807a15e2-5ce3-4429-a804-efc2e94eb67c",
+        "location": "Redwood City, CA"
+      },
+      {
+        "title": "Workplace Coordinator",
+        "date": "2026-11-06",
+        "id": "ashby:e999e084-97ae-4f45-a810-36295e355573",
+        "url": "https://jobs.ashbyhq.com/dyna-robotics/e999e084-97ae-4f45-a810-36295e355573",
         "location": "Redwood City, CA"
       }
     ],
@@ -40801,7 +40868,8 @@
         "date": "2026-10-14",
         "id": "greenhouse:4449207009",
         "url": "https://job-boards.greenhouse.io/nimblerobotics/jobs/4449207009",
-        "location": "SFHQ"
+        "location": "SFHQ",
+        "early": "\u2026rking knowledge of GD&T Experience using cutter compensation and adjusting machine offsets independently (preferred for recent graduates) Accurate record-keeping and part tracking Ability to follow instructions meticul\u2026"
       },
       {
         "title": "Robot Support Associate",
@@ -40827,7 +40895,8 @@
         "date": "2026-10-14",
         "id": "greenhouse:4453394009",
         "url": "https://job-boards.greenhouse.io/nimblerobotics/jobs/4204567009",
-        "location": "Haslet, TX"
+        "location": "Haslet, TX",
+        "early": "Qualifications 0-5 years of experience in a production environment supporting and improving complex robotics systems, or a minimum of 2 years of experience combined with a Bachelor of Science degree in Computer Science\u2026"
       },
       {
         "title": "Maintenance Supervisor - Automation & Robotics Fulfillment (Burlington, NJ)",
@@ -41241,7 +41310,8 @@
         "date": "2026-10-29",
         "id": "ashby:35bc9140-1548-4780-bc69-8c90591ee070",
         "url": "https://jobs.ashbyhq.com/standardbots/35bc9140-1548-4780-bc69-8c90591ee070",
-        "location": "Boston, MA"
+        "location": "Boston, MA",
+        "early": "Experience: Bachelor's degree in Mechanical Engineering, Mechatronics, or related, and 0\u20133 years of hands-on hardware experience (internships and project teams count)"
       },
       {
         "title": "Senior Electrical Engineer \u2014 Safety & Systems Integration (On-site)",
@@ -42857,7 +42927,8 @@
         "date": "2026-10-14",
         "id": "greenhouse:8646178002",
         "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8646178002",
-        "location": "Fort Worth, Texas"
+        "location": "Fort Worth, Texas",
+        "early": "Demonstrates competences and technical proficiencies typically acquired through BS+ 0-3+ years of experience."
       },
       {
         "title": "Logistics Manager 1",
@@ -42927,7 +42998,8 @@
         "date": "2026-10-14",
         "id": "greenhouse:8864848002",
         "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8881987002",
-        "location": "Ann Arbor, MI"
+        "location": "Ann Arbor, MI",
+        "early": "What You\u2019ll Need to Succeed Bachelor\u2019s Degree in Computer Science, Robotics, Electrical Engineering or related technical field, plus demonstrates competencies and technical proficiencies typically acquired through 0-3+\u2026"
       },
       {
         "title": "Director of Engineering, TorcOS",
@@ -43085,7 +43157,8 @@
         "date": "2026-11-02",
         "id": "greenhouse:8924000002",
         "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8924000002",
-        "location": "Remote - US"
+        "location": "Remote - US",
+        "early": "Bachelor\u2019s Degree in Computer Science, Information Technology, Software Development, or related field plus demonstrates competences and technical proficiencies typically acquired through 0-4+ years of experience."
       }
     ],
     "Saronic": [
@@ -44676,14 +44749,16 @@
         "date": "2026-10-15",
         "id": "ashby:e2853143-feb3-4ad2-b64a-05966a191624",
         "url": "https://jobs.ashbyhq.com/saronic/e2853143-feb3-4ad2-b64a-05966a191624",
-        "location": "Austin, TX"
+        "location": "Austin, TX",
+        "early": "Saronic is seeking a University Recruiter to help build the pipeline of interns and new grads who will design, build, and operate the next generation of autonomous maritime vessels."
       },
       {
         "title": "Systems Engineer I",
         "date": "2026-10-15",
         "id": "ashby:846faa91-763f-4c16-aec5-2cd48830d3ff",
         "url": "https://jobs.ashbyhq.com/saronic/846faa91-763f-4c16-aec5-2cd48830d3ff",
-        "location": "Austin, TX"
+        "location": "Austin, TX",
+        "early": "This role is ideal for an early-career engineer who wants to grow quickly in a fast-paced, high-growth environment."
       },
       {
         "title": "Camera Optomechanical Engineer",
@@ -44860,7 +44935,8 @@
         "date": "2026-10-23",
         "id": "ashby:3be0bf6e-4c76-4168-b767-cd88836f0fd4",
         "url": "https://jobs.ashbyhq.com/saronic/3be0bf6e-4c76-4168-b767-cd88836f0fd4",
-        "location": "Franklin, LA"
+        "location": "Franklin, LA",
+        "early": "This is an on-site, entry-level role for someone who is dependable, approachable, and detail-oriented, and who wants to learn HR operations by supporting people who work with their hands."
       },
       {
         "title": "Deputy Program Manager, Marauder",
@@ -45141,7 +45217,8 @@
         "date": "2026-11-05",
         "id": "ashby:0783226b-e1bf-4723-a1e5-6d6317f65546",
         "url": "https://jobs.ashbyhq.com/saronic/0783226b-e1bf-4723-a1e5-6d6317f65546",
-        "location": "Austin, TX"
+        "location": "Austin, TX",
+        "early": "This is an ideal role for an early-career designer who is hungry to grow, loves experimenting with new tools, and wants to be at the center of a fast-changing field."
       },
       {
         "title": "Motion Designer",
@@ -47890,7 +47967,8 @@
         "date": "2026-10-26",
         "id": "ashby:3ac0b4ef-674f-458c-b0e1-98d2df36c834",
         "url": "https://jobs.ashbyhq.com/persona.ai/3ac0b4ef-674f-458c-b0e1-98d2df36c834",
-        "location": "Houston, TX"
+        "location": "Houston, TX",
+        "early": "This is an ideal role for an early-career recruiter who wants real ownership of a program, loves working with students, and has the organization to keep a busy interview calendar running smoothly at the same time."
       },
       {
         "title": "Mechanical Engineer, Data Collection Hardware",
@@ -52808,7 +52886,8 @@
         "date": "2026-10-22",
         "id": "lever:4be9f9b4-962f-4b09-80ea-8e37ca563795",
         "url": "https://jobs.lever.co/woven-by-toyota/4be9f9b4-962f-4b09-80ea-8e37ca563795",
-        "location": "Tokyo"
+        "location": "Tokyo",
+        "closed": "2026-11-06"
       },
       {
         "title": "Senior Product Manager, Developer Productivity",
@@ -52924,7 +53003,8 @@
         "date": "2026-10-22",
         "id": "lever:731bd7fe-7cd4-4fad-ae50-635c1507ad3a",
         "url": "https://jobs.lever.co/woven-by-toyota/731bd7fe-7cd4-4fad-ae50-635c1507ad3a",
-        "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a"
+        "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a",
+        "closed": "2026-11-06"
       },
       {
         "title": "\u30b7\u30cb\u30a2\u30a8\u30f3\u30b8\u30cb\u30a2\uff08\u5730\u56f3\u30c7\u30fc\u30bf\u8abf\u9054\u30fb\u30b3\u30f3\u30d1\u30a4\u30eb\uff09",
@@ -53308,7 +53388,8 @@
         "date": "2026-10-22",
         "id": "lever:f77f3a77-ade8-4c4d-bab4-a865620d8a22",
         "url": "https://jobs.lever.co/woven-by-toyota/f77f3a77-ade8-4c4d-bab4-a865620d8a22",
-        "location": "Tokyo"
+        "location": "Tokyo",
+        "closed": "2026-11-06"
       },
       {
         "title": "Crisis Confidential Management Assistant Manager, Process Improvement",
@@ -53402,7 +53483,8 @@
         "date": "2026-10-22",
         "id": "lever:dc582c54-c8df-4e63-a3cb-f14919c0d85a",
         "url": "https://jobs.lever.co/woven-by-toyota/dc582c54-c8df-4e63-a3cb-f14919c0d85a",
-        "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a"
+        "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a",
+        "closed": "2026-11-06"
       },
       {
         "title": "\u30d0\u30c3\u30af\u30a8\u30f3\u30c9\u30a8\u30f3\u30b8\u30cb\u30a2\u30fbRobot Platform Software",
@@ -55893,7 +55975,8 @@
         "date": "2026-10-22",
         "id": "ashby:55150071-fce8-48f5-aea4-14ed78b83511",
         "url": "https://jobs.ashbyhq.com/openai/55150071-fce8-48f5-aea4-14ed78b83511",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "early": "0-1 years of experience in software engineering or a relevant field"
       },
       {
         "title": "Software Engineer, Backend \u2014 Dots",
@@ -61538,7 +61621,8 @@
         "date": "2026-11-01",
         "id": "ashby:a46ffc60-39c6-4b1e-bd0f-9c33a8b06703",
         "url": "https://jobs.ashbyhq.com/openai/a46ffc60-39c6-4b1e-bd0f-9c33a8b06703",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "early": "We are seeking hands-on, early-career controls engineers with practical experience in building management systems (BMS) and mechanical controls, or electrical power monitoring systems (EPMS) and electrical controls."
       },
       {
         "title": "Controls Engineer: Power Generation",
@@ -66955,7 +67039,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5444769008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5444769008",
-        "location": "San Francisco, CA | New York City, NY | Seattle, WA"
+        "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+        "closed": "2026-11-06"
       },
       {
         "title": "GTM Programs Manager, GTM Initiatives",
@@ -68170,7 +68255,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5285248008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5285248008",
-        "location": "San Francisco, CA"
+        "location": "San Francisco, CA",
+        "early": "About the role We are hiring Research Associates: early-career bench scientists who will join a small team to help establish our biology research program."
       },
       {
         "title": "Research Counsel",
@@ -71008,7 +71094,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5212987007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5212987007",
-        "location": "Memphis, TN"
+        "location": "Memphis, TN",
+        "early": "COOK This is an entry-level line cook position for individuals who are familiar with basic cooking principles and techniques, have a firm understanding of all basic food safety principles, and can identify and use stan\u2026"
       },
       {
         "title": "Cook (Sushi)",
@@ -71285,7 +71372,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:4939298007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/4939298007",
-        "location": "Memphis, TN"
+        "location": "Memphis, TN",
+        "early": "This entry-level role emphasizes hands-on learning, teamwork, and attention to detail in a fast-paced setting."
       },
       {
         "title": "Facilities Maintenance Technician - 3rd Shift - Memphis",
@@ -71362,7 +71450,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5220531007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5220531007",
-        "location": "Memphis, TN"
+        "location": "Memphis, TN",
+        "early": "ALL SHIFTS This is an entry-level opportunity for someone who enjoys a fast-paced environment and a dynamic workload within a large team."
       },
       {
         "title": "Fraud Analyst (Sat-Weds)",
@@ -72731,7 +72820,8 @@
         "date": "2026-10-30",
         "id": "greenhouse:5279620007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5279620007",
-        "location": "Palo Alto, CA; New York, NY"
+        "location": "Palo Alto, CA; New York, NY",
+        "early": "Comfortable working a high-volume queue CAMS certification Entry-level candidates with strong analytical skills are welcome COMPENSATION AND BENEFITS: $100,000"
       },
       {
         "title": "Operation & Maintenance Engineer (Power Plant) - Memphis",
@@ -72930,6 +73020,27 @@
         "id": "greenhouse:5280765007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5280765007",
         "location": "Southaven, MS; Memphis, TN"
+      },
+      {
+        "title": "Model Engineer, Multimodal Understanding",
+        "date": "2026-11-06",
+        "id": "greenhouse:5286976007",
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5286976007",
+        "location": "Palo Alto, CA"
+      },
+      {
+        "title": "Sr. Software Engineer, Ads Product",
+        "date": "2026-11-06",
+        "id": "greenhouse:5286968007",
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5286968007",
+        "location": "Palo Alto, CA"
+      },
+      {
+        "title": "Sr. Software Engineer, Data Engineering (X)",
+        "date": "2026-11-06",
+        "id": "greenhouse:5286971007",
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5286971007",
+        "location": "Palo Alto, CA"
       }
     ],
     "Thinking Machines Lab": [
@@ -73358,7 +73469,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5371947008",
         "url": "https://job-boards.greenhouse.io/botauto/jobs/5371947008",
-        "location": "Houston, TX"
+        "location": "Houston, TX",
+        "early": "(including upcoming graduates) in Computer Science, Robotics, Electrical Engineering, Applied Mathematics, Physics, or a related quantitative field."
       },
       {
         "title": "Algorithm Engineer, Reinforcement Learning",
@@ -73450,7 +73562,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5441694008",
         "url": "https://job-boards.greenhouse.io/botauto/jobs/5441694008",
-        "location": "Houston, TX"
+        "location": "Houston, TX",
+        "early": "About the Role We are looking for an early-career Planning & Control Engineer to help develop and improve the driving behavior of our autonomous trucks."
       },
       {
         "title": "Senior Algorithm Engineer, Deep Learning & Vision",
@@ -73513,14 +73626,16 @@
         "date": "2026-10-27",
         "id": "greenhouse:5448119008",
         "url": "https://job-boards.greenhouse.io/botauto/jobs/5448119008",
-        "location": "Houston, TX"
+        "location": "Houston, TX",
+        "early": "Required Qualifications Bachelor\u2019s degree in Computer Science, Engineering, or a related field, or equivalent practical experience 0\u20132 years of experience in software engineering, platform engineering, DevOps, or SRE (\u2026"
       },
       {
         "title": "Software Engineer, Security Engineering",
         "date": "2026-10-27",
         "id": "greenhouse:5433415008",
         "url": "https://job-boards.greenhouse.io/botauto/jobs/5433415008",
-        "location": "Houston, TX"
+        "location": "Houston, TX",
+        "early": "Required Qualifications Bachelor's degree in Computer Science, Engineering, Cybersecurity, or a related field, or equivalent practical experience 0-2 years of software engineering, security engineering, or related expe\u2026"
       },
       {
         "title": "Software Engineer, VCU (Vehicle Control Unit)",
@@ -74717,7 +74832,8 @@
         "date": "2026-11-01",
         "id": "greenhouse:5232335008",
         "url": "https://job-boards.greenhouse.io/icarus/jobs/5232335008",
-        "location": "El Segundo"
+        "location": "El Segundo",
+        "early": "\u2026operations Work closely with avionics, GNC, power, RF, and software teams What we\u2019re looking for Formula SAE experience Recent grad, soon-to-graduate student, or exceptional student willing to take a break from school\u2026"
       },
       {
         "title": "Flight Operations Crew Chief",
@@ -74866,7 +74982,8 @@
         "date": "2026-11-01",
         "id": "lever:c8db112f-ec73-452e-af7e-31a8e11e7986",
         "url": "https://jobs.lever.co/pyka/c8db112f-ec73-452e-af7e-31a8e11e7986",
-        "location": "Alameda HQ"
+        "location": "Alameda HQ",
+        "early": "We are seeking a detail-oriented and motivated Entry-Level Composite Assembly Technician to join our manufacturing team."
       },
       {
         "title": "Deployed Flight Test Engineer",
@@ -76024,165 +76141,165 @@
     }
   },
   "checked": {
-    "Google": "2026-11-05",
-    "Meta": "2026-11-05",
-    "Nvidia": "2026-11-05",
-    "AWS": "2026-11-05",
-    "Amazon": "2026-11-05",
-    "Netflix": "2026-11-05",
-    "Autodesk": "2026-11-05",
-    "Apple": "2026-11-05",
-    "Optiver": "2026-11-05",
-    "Citadel": "2026-11-05",
-    "Blue Origin": "2026-11-05",
-    "Hudson River Trading": "2026-11-05",
-    "Riot Games": "2026-11-05",
-    "DE Shaws": "2026-11-05",
-    "Doordash": "2026-11-05",
-    "Amazon Robotics": "2026-11-05",
-    "Rivian": "2026-11-05",
-    "Roblox": "2026-11-05",
-    "Jane Street": "2026-11-05",
-    "SpaceX": "2026-11-05",
-    "Neuralink": "2026-11-05",
-    "Zipline": "2026-11-05",
-    "Boston Dynamics": "2026-11-05",
-    "Scale AI": "2026-11-05",
-    "Relativity": "2026-11-05",
-    "Palantir": "2026-11-05",
-    "Skydio": "2026-11-05",
-    "Kodiak Robotics": "2026-11-05",
-    "XPENG": "2026-11-05",
-    "C3": "2026-11-05",
-    "Toyota Research Insitute": "2026-11-05",
-    "Qualcomm": "2026-11-05",
-    "Mitsubishi Electric Research Laboratories": "2026-11-05",
-    "Mujin": "2026-11-05",
-    "Microsoft": "2026-11-05",
-    "Intuitive Surgical": "2026-11-05",
-    "Onward Robotics": "2026-11-05",
-    "Agility Robotics": "2026-11-05",
-    "iRobot": "2026-11-05",
-    "Honda Research Insitute": "2026-11-05",
-    "Brightpick": "2026-11-05",
-    "Locus Robotics": "2026-11-05",
-    "Path Robotics": "2026-11-05",
-    "GrayMatter Robotics": "2026-11-05",
-    "Chef Robotics": "2026-11-05",
-    "Cobot": "2026-11-05",
-    "Ambi Robotics": "2026-11-05",
-    "Apptronik": "2026-11-05",
-    "Figure AI": "2026-11-05",
-    "1x": "2026-11-05",
-    "Sanctuary AI": "2026-11-05",
-    "Motional": "2026-11-05",
-    "Lucid Motors": "2026-11-05",
-    "Titan Robotics": "2026-11-05",
-    "Near Earth Autonomy": "2026-11-05",
-    "Skild AI": "2026-11-05",
-    "Aurora Innovation": "2026-11-05",
-    "Tensor Auto": "2026-11-05",
-    "Avride": "2026-11-05",
-    "May Mobility": "2026-11-05",
-    "Beep": "2026-11-05",
-    "Zoox": "2026-11-05",
-    "Pony.ai": "2026-11-05",
-    "Nuro": "2026-11-05",
-    "Lila Sciences": "2026-11-05",
-    "Serve Robotics": "2026-11-05",
-    "Bosch": "2026-11-05",
-    "Anduril": "2026-11-05",
-    "Aeva": "2026-11-05",
-    "Forterra": "2026-11-05",
-    "Intrinsic": "2026-11-05",
-    "Gecko Robotics": "2026-11-05",
-    "Robotics and AI Insitute": "2026-11-05",
-    "Sunday": "2026-11-05",
-    "Machina Labs": "2026-11-05",
-    "Matic Robots": "2026-11-05",
-    "GreyOrange": "2026-11-05",
-    "ScoutAI": "2026-11-05",
-    "AeroVect": "2026-11-05",
-    "Gather AI": "2026-11-05",
-    "Carbon Robotics": "2026-11-05",
-    "Pickle Robot": "2026-11-05",
-    "Scythe Robotics": "2026-11-05",
-    "Futurewei Technologies": "2026-11-05",
-    "Diligent Robotics": "2026-11-05",
-    "Phantom AI": "2026-11-05",
-    "Neros Technologies": "2026-11-05",
-    "Swarm Aero": "2026-11-05",
-    "Wayve": "2026-11-05",
-    "Shield AI": "2026-11-05",
-    "DeepMind": "2026-11-05",
-    "Waymo": "2026-11-05",
-    "Bedrock Robotics": "2026-11-05",
-    "Applied Intuition": "2026-11-05",
-    "FieldAI": "2026-11-05",
-    "Humanoid": "2026-11-05",
-    "World Labs": "2026-11-05",
-    "General Motors": "2026-11-05",
-    "Niantic Spatial": "2026-11-05",
-    "Wing": "2026-11-05",
-    "Physical Intelligence": "2026-11-05",
-    "The Bot Company": "2026-11-05",
-    "Dyna Robotics": "2026-11-05",
-    "Nimble Robotics": "2026-11-05",
-    "Standard Bots": "2026-11-05",
-    "Dexterity": "2026-11-05",
-    "Formic": "2026-11-05",
-    "Bright Machines": "2026-11-05",
-    "Stack AV": "2026-11-05",
-    "Torc Robotics": "2026-11-05",
-    "Saronic": "2026-11-05",
-    "Reliable Robotics": "2026-11-05",
-    "Built Robotics": "2026-11-05",
-    "Coco Robotics": "2026-11-05",
-    "Mytra": "2026-11-05",
-    "Waabi": "2026-11-05",
-    "Overland AI": "2026-11-05",
-    "Plus One Robotics": "2026-11-05",
-    "Persona AI": "2026-11-05",
-    "Ghost Robotics": "2026-11-05",
-    "PlusAI": "2026-11-05",
-    "Miso Robotics": "2026-11-05",
-    "Gatik": "2026-11-05",
-    "Humble Robotics": "2026-11-05",
-    "Rhoda AI": "2026-11-05",
-    "Walden Robotics": "2026-11-05",
-    "Symbotic": "2026-11-05",
-    "Generalist AI": "2026-11-05",
-    "Genesis AI": "2026-11-05",
-    "Mind Robotics": "2026-11-05",
-    "Woven by Toyota": "2026-11-05",
-    "OpenAI": "2026-11-05",
-    "Ocado": "2026-11-05",
-    "Caterpillar": "2026-11-05",
-    "Joby Aviation": "2026-11-05",
-    "Mobileye": "2026-11-05",
-    "Neura Robotics": "2026-11-05",
-    "Dusty Robotics": "2026-11-05",
-    "Vecna Robotics": "2026-11-05",
-    "Realtime Robotics": "2026-11-05",
-    "John Deere": "2026-11-05",
-    "Anthropic": "2026-11-05",
-    "xAI": "2026-11-05",
-    "Thinking Machines Lab": "2026-11-05",
-    "Bot Auto": "2026-11-05",
-    "Slate Auto": "2026-11-05",
-    "Ford": "2026-11-05",
-    "Mundane": "2026-11-05",
-    "Uber": "2026-11-05",
+    "Google": "2026-11-06",
+    "Meta": "2026-11-06",
+    "Nvidia": "2026-11-06",
+    "AWS": "2026-11-06",
+    "Amazon": "2026-11-06",
+    "Netflix": "2026-11-06",
+    "Autodesk": "2026-11-06",
+    "Apple": "2026-11-06",
+    "Optiver": "2026-11-06",
+    "Citadel": "2026-11-06",
+    "Blue Origin": "2026-11-06",
+    "Hudson River Trading": "2026-11-06",
+    "Riot Games": "2026-11-06",
+    "DE Shaws": "2026-11-06",
+    "Doordash": "2026-11-06",
+    "Amazon Robotics": "2026-11-06",
+    "Rivian": "2026-11-06",
+    "Roblox": "2026-11-06",
+    "Jane Street": "2026-11-06",
+    "SpaceX": "2026-11-06",
+    "Neuralink": "2026-11-06",
+    "Zipline": "2026-11-06",
+    "Boston Dynamics": "2026-11-06",
+    "Scale AI": "2026-11-06",
+    "Relativity": "2026-11-06",
+    "Palantir": "2026-11-06",
+    "Skydio": "2026-11-06",
+    "Kodiak Robotics": "2026-11-06",
+    "XPENG": "2026-11-06",
+    "C3": "2026-11-06",
+    "Toyota Research Insitute": "2026-11-06",
+    "Qualcomm": "2026-11-06",
+    "Mitsubishi Electric Research Laboratories": "2026-11-06",
+    "Mujin": "2026-11-06",
+    "Microsoft": "2026-11-06",
+    "Intuitive Surgical": "2026-11-06",
+    "Onward Robotics": "2026-11-06",
+    "Agility Robotics": "2026-11-06",
+    "iRobot": "2026-11-06",
+    "Honda Research Insitute": "2026-11-06",
+    "Brightpick": "2026-11-06",
+    "Locus Robotics": "2026-11-06",
+    "Path Robotics": "2026-11-06",
+    "GrayMatter Robotics": "2026-11-06",
+    "Chef Robotics": "2026-11-06",
+    "Cobot": "2026-11-06",
+    "Ambi Robotics": "2026-11-06",
+    "Apptronik": "2026-11-06",
+    "Figure AI": "2026-11-06",
+    "1x": "2026-11-06",
+    "Sanctuary AI": "2026-11-06",
+    "Motional": "2026-11-06",
+    "Lucid Motors": "2026-11-06",
+    "Titan Robotics": "2026-11-06",
+    "Near Earth Autonomy": "2026-11-06",
+    "Skild AI": "2026-11-06",
+    "Aurora Innovation": "2026-11-06",
+    "Tensor Auto": "2026-11-06",
+    "Avride": "2026-11-06",
+    "May Mobility": "2026-11-06",
+    "Beep": "2026-11-06",
+    "Zoox": "2026-11-06",
+    "Pony.ai": "2026-11-06",
+    "Nuro": "2026-11-06",
+    "Lila Sciences": "2026-11-06",
+    "Serve Robotics": "2026-11-06",
+    "Bosch": "2026-11-06",
+    "Anduril": "2026-11-06",
+    "Aeva": "2026-11-06",
+    "Forterra": "2026-11-06",
+    "Intrinsic": "2026-11-06",
+    "Gecko Robotics": "2026-11-06",
+    "Robotics and AI Insitute": "2026-11-06",
+    "Sunday": "2026-11-06",
+    "Machina Labs": "2026-11-06",
+    "Matic Robots": "2026-11-06",
+    "GreyOrange": "2026-11-06",
+    "ScoutAI": "2026-11-06",
+    "AeroVect": "2026-11-06",
+    "Gather AI": "2026-11-06",
+    "Carbon Robotics": "2026-11-06",
+    "Pickle Robot": "2026-11-06",
+    "Scythe Robotics": "2026-11-06",
+    "Futurewei Technologies": "2026-11-06",
+    "Diligent Robotics": "2026-11-06",
+    "Phantom AI": "2026-11-06",
+    "Neros Technologies": "2026-11-06",
+    "Swarm Aero": "2026-11-06",
+    "Wayve": "2026-11-06",
+    "Shield AI": "2026-11-06",
+    "DeepMind": "2026-11-06",
+    "Waymo": "2026-11-06",
+    "Bedrock Robotics": "2026-11-06",
+    "Applied Intuition": "2026-11-06",
+    "FieldAI": "2026-11-06",
+    "Humanoid": "2026-11-06",
+    "World Labs": "2026-11-06",
+    "General Motors": "2026-11-06",
+    "Niantic Spatial": "2026-11-06",
+    "Wing": "2026-11-06",
+    "Physical Intelligence": "2026-11-06",
+    "The Bot Company": "2026-11-06",
+    "Dyna Robotics": "2026-11-06",
+    "Nimble Robotics": "2026-11-06",
+    "Standard Bots": "2026-11-06",
+    "Dexterity": "2026-11-06",
+    "Formic": "2026-11-06",
+    "Bright Machines": "2026-11-06",
+    "Stack AV": "2026-11-06",
+    "Torc Robotics": "2026-11-06",
+    "Saronic": "2026-11-06",
+    "Reliable Robotics": "2026-11-06",
+    "Built Robotics": "2026-11-06",
+    "Coco Robotics": "2026-11-06",
+    "Mytra": "2026-11-06",
+    "Waabi": "2026-11-06",
+    "Overland AI": "2026-11-06",
+    "Plus One Robotics": "2026-11-06",
+    "Persona AI": "2026-11-06",
+    "Ghost Robotics": "2026-11-06",
+    "PlusAI": "2026-11-06",
+    "Miso Robotics": "2026-11-06",
+    "Gatik": "2026-11-06",
+    "Humble Robotics": "2026-11-06",
+    "Rhoda AI": "2026-11-06",
+    "Walden Robotics": "2026-11-06",
+    "Symbotic": "2026-11-06",
+    "Generalist AI": "2026-11-06",
+    "Genesis AI": "2026-11-06",
+    "Mind Robotics": "2026-11-06",
+    "Woven by Toyota": "2026-11-06",
+    "OpenAI": "2026-11-06",
+    "Ocado": "2026-11-06",
+    "Caterpillar": "2026-11-06",
+    "Joby Aviation": "2026-11-06",
+    "Mobileye": "2026-11-06",
+    "Neura Robotics": "2026-11-06",
+    "Dusty Robotics": "2026-11-06",
+    "Vecna Robotics": "2026-11-06",
+    "Realtime Robotics": "2026-11-06",
+    "John Deere": "2026-11-06",
+    "Anthropic": "2026-11-06",
+    "xAI": "2026-11-06",
+    "Thinking Machines Lab": "2026-11-06",
+    "Bot Auto": "2026-11-06",
+    "Slate Auto": "2026-11-06",
+    "Ford": "2026-11-06",
+    "Mundane": "2026-11-06",
+    "Uber": "2026-11-06",
     "Anywhere Robotics": "2026-11-01",
-    "Tesla": "2026-11-05",
-    "Beyond Reach Labs": "2026-11-05",
-    "Relling": "2026-11-05",
-    "Icarus": "2026-11-05",
-    "Pyka": "2026-11-05",
-    "Tuesday Labs": "2026-11-05",
-    "Weave Robotics": "2026-11-05",
-    "Boost Robotics": "2026-11-05",
-    "Oshkosh": "2026-11-05"
+    "Tesla": "2026-11-06",
+    "Beyond Reach Labs": "2026-11-06",
+    "Relling": "2026-11-06",
+    "Icarus": "2026-11-06",
+    "Pyka": "2026-11-06",
+    "Tuesday Labs": "2026-11-06",
+    "Weave Robotics": "2026-11-06",
+    "Boost Robotics": "2026-11-06",
+    "Oshkosh": "2026-11-06"
   },
   "failing": {
     "Anywhere Robotics": {

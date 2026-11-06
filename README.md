@@ -12,7 +12,7 @@
 <p>
   <a href="https://ph1so.github.io/phlux2.0/"><img src="https://img.shields.io/badge/browse-internships-1f5fff?style=flat-square" alt="Browse internships"></a>
   <a href="https://github.com/Ph1so/phlux2.0/actions/workflows/job-scraper.yml"><img src="https://img.shields.io/github/actions/workflow/status/Ph1so/phlux2.0/job-scraper.yml?branch=main&style=flat-square&label=scraper" alt="Scraper status"></a>
-  <img src="https://img.shields.io/badge/roles_tracked-33.6k-475467?style=flat-square" alt="33,554 roles tracked">
+  <img src="https://img.shields.io/badge/roles_tracked-33.7k-475467?style=flat-square" alt="33,744 roles tracked">
 </p>
 
 <p><a href="https://ph1so.github.io/phlux2.0/"><b>Website</b></a> &nbsp;·&nbsp; <a href="listings/README.md"><b>All listings</b></a></p>
@@ -21,7 +21,7 @@
 
 ## Latest roles
 
-Showing the 613 most recent of 33,554 roles tracked across 279 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
+Showing the 613 most recent of 33,744 roles tracked across 279 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
 
 
 <table>
@@ -34,6 +34,41 @@ Showing the 613 most recent of 33,554 roles tracked across 279 companies. ⭐️
   </thead>
   <tbody>
 
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.greyorange.com/company/careers/#th-job-section"><img src="https://cdn.brandfetch.io/greyorange.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="GreyOrange" height="20" style="vertical-align:middle; margin-right:6px;"> GreyOrange</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.greyorange.com/greyorange/jobview/software-development-engineer-ii-gurugram-hq-2026110514104045">Software Development Engineer II</a></div></td>
+  <td>2026-11-06</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/dyna-robotics"><img src="https://cdn.brandfetch.io/dyna.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Dyna Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Dyna Robotics</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/dyna-robotics/e999e084-97ae-4f45-a810-36295e355573">Workplace Coordinator</a></div></td>
+  <td>2026-11-06</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/xai"><img src="https://cdn.brandfetch.io/x.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="xAI" height="20" style="vertical-align:middle; margin-right:6px;"> xAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/xai/jobs/5286976007">Model Engineer, Multimodal Understanding</a></div></td>
+  <td>2026-11-06</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/xai"><img src="https://cdn.brandfetch.io/x.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="xAI" height="20" style="vertical-align:middle; margin-right:6px;"> xAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/xai/jobs/5286968007">Sr. Software Engineer, Ads Product</a></div></td>
+  <td>2026-11-06</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/xai"><img src="https://cdn.brandfetch.io/x.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="xAI" height="20" style="vertical-align:middle; margin-right:6px;"> xAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/xai/jobs/5286971007">Sr. Software Engineer, Data Engineering (X)</a></div></td>
+  <td>2026-11-06</td>
+</tr>
   <tr>
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"><img src="https://cdn.brandfetch.io/nvidia.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nvidia" height="20" style="vertical-align:middle; margin-right:6px;"> Nvidia</a></div>
@@ -4288,41 +4323,6 @@ Showing the 613 most recent of 33,554 roles tracked across 279 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/Relling"><img src="https://www.google.com/s2/favicons?domain=relling.co&sz=128" alt="Relling" height="20" style="vertical-align:middle; margin-right:6px;"> Relling</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/Relling/d8a427a7-7426-45eb-9c23-61fa12e30b3b">⭐️ Business Operations Intern</a></div></td>
-  <td>2026-11-01</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/Relling"><img src="https://www.google.com/s2/favicons?domain=relling.co&sz=128" alt="Relling" height="20" style="vertical-align:middle; margin-right:6px;"> Relling</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/Relling/5f0c9337-ea45-45e2-9608-c53530d4d422">Mechatronics Engineer - New Grad</a></div></td>
-  <td>2026-11-01</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/Relling"><img src="https://www.google.com/s2/favicons?domain=relling.co&sz=128" alt="Relling" height="20" style="vertical-align:middle; margin-right:6px;"> Relling</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/Relling/7bd1608d-00e2-432a-b2ff-99ce92c13cf3">⭐️ Controls Engineering Intern</a></div></td>
-  <td>2026-11-01</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/Relling"><img src="https://www.google.com/s2/favicons?domain=relling.co&sz=128" alt="Relling" height="20" style="vertical-align:middle; margin-right:6px;"> Relling</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/Relling/fd72719f-24d6-4b1c-9e34-285d6a575e3e">⭐️ Robotics Software Engineering Intern</a></div></td>
-  <td>2026-11-01</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/Relling"><img src="https://www.google.com/s2/favicons?domain=relling.co&sz=128" alt="Relling" height="20" style="vertical-align:middle; margin-right:6px;"> Relling</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/Relling/91369822-84d7-4d24-b2e8-287201f00acd">⭐️ Mechatronics Engineering Intern</a></div></td>
-  <td>2026-11-01</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/Relling"><img src="https://www.google.com/s2/favicons?domain=relling.co&sz=128" alt="Relling" height="20" style="vertical-align:middle; margin-right:6px;"> Relling</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/Relling/eca17d6f-d56a-477d-818e-e879a6e1c824">Controls Engineer</a></div></td>
   <td>2026-11-01</td>
 </tr>
 
