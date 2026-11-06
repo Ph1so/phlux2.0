@@ -143,6 +143,19 @@ class TestLever:
             postings = lever_postings("https://jobs.lever.co/acme?commitment=internship")
         assert [p.id for p in postings] == ["lever:a"]
 
+    def test_keyword_filters_titles(self):
+        mock, _ = fake_get({"https://api.lever.co/v0/postings/acme": self.JOBS})
+        with mock:
+            postings = lever_postings("https://jobs.lever.co/acme?keyword=controls&keyword=new%20grad")
+        assert [p.id for p in postings] == ["lever:b"]
+
+    def test_commitment_and_keyword_urls_chain(self):
+        mock, _ = fake_get({"https://api.lever.co/v0/postings/acme": self.JOBS})
+        with mock:
+            postings = board_postings(
+                "lever", "https://jobs.lever.co/acme?commitment=Internship->https://jobs.lever.co/acme?keyword=controls")
+        assert [p.id for p in postings] == ["lever:a", "lever:b"]
+
     def test_eu_board_uses_eu_api(self):
         mock, calls = fake_get({"https://api.eu.lever.co/v0/postings/acme": self.JOBS})
         with mock:

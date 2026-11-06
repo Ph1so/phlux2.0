@@ -348,6 +348,17 @@ class TestProcessJobsWithIds:
         process_jobs(data, ScrapeResult("Acme", ["Planner"], "https://acme.com", ["ashby:1"], ["Austin +2"]), {})
         assert data["companies"]["Acme"][0]["location"] == "Austin"
 
+    def test_new_grad_line_is_stored_and_filled_in_without_an_alert(self):
+        line = "Recent graduates are encouraged to apply."
+        data = {"companies": {"Acme": [{"title": "Planner", "date": "2026-10-01", "id": "ashby:1"}]}}
+        new_jobs = {}
+        result = ScrapeResult("Acme", ["Planner", "Welder"], "https://acme.com", ["ashby:1", "ashby:2"],
+                              early=[line, ""])
+        process_jobs(data, result, new_jobs)
+        assert data["companies"]["Acme"][0]["early"] == line  # filled in on the stored posting
+        assert "early" not in data["companies"]["Acme"][1]
+        assert [j["title"] for j in new_jobs["companies"]["Acme"]["jobs"]] == ["Welder"]
+
 
 class TestProcessJobsWithUrls:
     def _run(self, data, jobs, ids, urls):
@@ -406,13 +417,25 @@ class TestBoardRouting:
             Posting("lever:3", "Perception Intern, Whats New"),
         ]
         with patch("phlux.scraping.board_postings", return_value=postings) as fetch:
-            titles, ids, locations, urls = get_board_jobs(
+            titles, ids, locations, urls, early = get_board_jobs(
                 "Acme", "https://jobs.lever.co/acme", "@lever->FILTER:intern")
         fetch.assert_called_once_with("lever", "https://jobs.lever.co/acme", "")
         assert titles == ["⭐️ Robotics Software Intern", "⭐️ Perception Intern, Whats New"]
         assert ids == ["lever:1", "lever:3"]
         assert locations == ["Pittsburgh, PA", ""]
         assert urls == ["https://jobs.lever.co/acme/1", ""]
+        assert early == ["", ""]
+
+    def test_get_board_jobs_finds_new_grad_lines_but_not_for_internships(self):
+        welcome = "Recent graduates are encouraged to apply."
+        postings = [
+            Posting("ashby:1", "Controls Engineer", description="Tune loops. " + welcome),
+            Posting("ashby:2", "Controls Intern", description="Summer role. " + welcome),
+            Posting("ashby:3", "Perception Engineer", description="5+ years of experience in C++."),
+        ]
+        with patch("phlux.scraping.board_postings", return_value=postings):
+            titles, ids, _, _, early = get_board_jobs("Acme", "https://jobs.ashbyhq.com/acme", "@ashby")
+        assert dict(zip(ids, early)) == {"ashby:1": welcome, "ashby:2": "", "ashby:3": ""}
 
     def test_filter_keeps_titles_matching_any_alternative(self):
         postings = [
@@ -422,7 +445,7 @@ class TestBoardRouting:
             Posting("workday:4", "Winter Co-op, Controls"),
         ]
         with patch("phlux.scraping.board_postings", return_value=postings):
-            _, ids, _, _ = get_board_jobs("Acme", "https://x.wd5.myworkdayjobs.com/Acme",
+            _, ids, _, _, _ = get_board_jobs("Acme", "https://x.wd5.myworkdayjobs.com/Acme",
                                     "@workday->FILTER:intern|co-op|early career")
         assert ids == ["workday:1", "workday:2", "workday:4"]
 

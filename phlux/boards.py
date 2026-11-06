@@ -13,7 +13,9 @@ narrow it: the URL's query parameters (``keyword``, ``departments[]``,
 ``offices[]``, Lever's ``commitment``, Ashby's ``locationId``…) become filters
 applied here, so the results match what that URL shows a person. One difference:
 Greenhouse's ``keyword`` search also matches job descriptions, but here it only
-matches the start of a word in the title (see :func:`keyword_in`).
+matches the start of a word in the title (see :func:`keyword_in`). Lever's pages
+have no keyword search, but a ``keyword`` on a Lever URL is read the same way, so
+one URL can narrow by ``commitment`` and another chained after it by title.
 """
 from __future__ import annotations
 
@@ -29,6 +31,7 @@ from .adapters import ADAPTERS
 from .adapters.base import path_slug as _path_slug
 from .adapters.base import place
 from .adapters.base import query as _query
+from .early_career import html_text
 from .models import Posting
 
 logger = logging.getLogger(__name__)
@@ -97,13 +100,13 @@ def _greenhouse_job_ids(slug: str, kind: str, wanted: Set[str]) -> Set[int]:
 
 
 def greenhouse_postings(url: str) -> List[Posting]:
-    """Return the postings a Greenhouse board URL shows, filtered by its query."""
+    """Return the postings a Greenhouse board URL shows, filtered by its query, with descriptions."""
     slug = greenhouse_slug(url)
     params = _query(url)
-    jobs = _get(GREENHOUSE_API.format(slug=slug, path="jobs")).json()["jobs"]
+    jobs = _get(GREENHOUSE_API.format(slug=slug, path="jobs"), params={"content": "true"}).json()["jobs"]
     pairs = [
         (Posting(f"greenhouse:{j['id']}", j["title"], place((j.get("location") or {}).get("name")),
-                 j.get("absolute_url") or ""), j)
+                 j.get("absolute_url") or "", html_text(j.get("content"))), j)
         for j in jobs
     ]
     if params.get("keyword"):
@@ -122,7 +125,7 @@ LEVER_CATEGORIES = ("commitment", "team", "department", "location")
 
 
 def lever_postings(url: str) -> List[Posting]:
-    """Return the postings a Lever board URL shows, filtered by its query."""
+    """Return the postings a Lever board URL shows, filtered by its query and any ``keyword``."""
     parts = urlsplit(url)
     host = "api.eu.lever.co" if ".eu." in parts.netloc else "api.lever.co"
     slug = _path_slug(url)
@@ -132,12 +135,17 @@ def lever_postings(url: str) -> List[Posting]:
         if params.get(key):
             wanted = {v.lower() for v in params[key]}
             jobs = [j for j in jobs if str(j.get("categories", {}).get(key, "")).lower() in wanted]
+    if params.get("keyword"):
+        jobs = [j for j in jobs if any(keyword_in(j["text"], k) for k in params["keyword"])]
     return [
         Posting(
             f"lever:{j['id']}",
             j["text"],
             place(j.get("categories", {}).get("location"), j.get("categories", {}).get("allLocations") or []),
             j.get("hostedUrl") or "",
+            "\n".join([j.get("descriptionPlain") or ""]
+                      + [f"{part.get('text', '')}\n{html_text(part.get('content'))}" for part in j.get("lists") or []]
+                      + [j.get("additionalPlain") or ""]),
         )
         for j in jobs
     ]
@@ -194,6 +202,7 @@ def ashby_postings(url: str) -> List[Posting]:
             j["title"],
             place(j.get("location"), [s.get("location") for s in j.get("secondaryLocations") or []]),
             j.get("jobUrl") or "",
+            j.get("descriptionPlain") or html_text(j.get("descriptionHtml")),
         )
         for j in jobs
     ]

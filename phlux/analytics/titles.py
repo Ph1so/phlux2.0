@@ -46,15 +46,47 @@ _INTERNSHIP_RE = re.compile(
 
 _NEW_GRAD_RE = re.compile(
     r"\bnew ?grad(?:uate)?s?\b"
-    r"|\b(?:university|college|recent) grad(?:uate)?s?\b"
+    r"|\b(?:university|college|recent|phd) grad(?:uate)?s?\b"
     r"|\bgrad(?:uate)? (?:program|hire|rotational|scheme)\b"
-    r"|\bearly career\b"
+    r"|\bearly[- ]career\b"
     r"|\bentry[- ]level\b"
     r"|\bcampus hire\b"
     r"|\brotational program\b"
     r"|\bresidency\b"
     r"|\bassociate program\b"
+    r"|\bjunior\b"
+    r"|\bclass of 20\d\d\b"
+    r"|\b20\d\d (?:start|grad(?:uate)?s?)\b"
 )
+
+# An engineering role, for the site's new-grad view: the title names an engineer or
+# developer, or a robotics, autonomy, vision or AI/ML subject ("Machine Learning
+# Researcher", "Autonomy Scientist"), and isn't a sales, support, operations or
+# data-collection role that borrows the words ("Solutions Engineer", "Robot
+# Operator", "AI Trainer", "University Recruiter, Engineering").
+_ENGINEERING_ROLE_RE = re.compile(
+    r"\bengineer(?:s|ing)?\b|\bdevelopers?\b|\bsoftware\b|\bfirmware\b|\bprogrammer\b|\bswe\b|\bsde\b"
+    r"|\bapplied scientist\b"
+)
+_ROBOTICS_TOPIC_RE = re.compile(
+    r"\brobot\w*|\bautonom\w*|\bself[- ]driving\b|\bvision\b|\bcv\b|\bperception\b|\bimaging\b"
+    r"|\bai\b|\bartificial intelligence\b|\bml\b|\bmachine learning\b|\bdeep learning\b"
+    r"|\breinforcement learning\b|\brl\b|\bllms?\b|\bfoundation models?\b|\bgenerative\b|\bneural\b|\bnlp\b"
+    r"|\bcontrols\b|\bcontrol (?:systems?|theory)\b|\b(?:motion|motor|flight) control\b"
+    r"|\b(?:motion|path) planning\b|\btrajector\w*|\blocali[sz]ation\b|\bslam\b|\bmapping\b"
+    r"|\bsensor fusion\b|\bstate estimation\b|\bmanipulation\b|\bgrasp\w*|\blocomotion\b|\bkinematic\w*"
+    r"|\bteleoperation\b|\bhaptic\w*|\bhuman[- ]robot\b|\bhri\b|\bmechatronic\w*|\bembedded\b|\bfpga\b"
+    r"|\bactuat\w*|\bsensors?\b|\blidar\b|\bradar\b|\bpower electronics\b|\bsimulation\b|\bsim\b"
+    r"|\bdigital twin\b|\bgnc\b|\bguidance\b|\bnavigation\b|\bdrones?\b|\buav\b|\buas\b|\bhumanoids?\b"
+)
+_NOT_ENGINEERING_ROLE_RE = re.compile(
+    r"\b(?:sales|pre-?sales|solutions?|customer|support|recruit(?:er|ers|ing)?|technicians?|managers?"
+    r"|coordinator|director|operators?|teleoperators?|pilots?|annotat\w*|labelers?|trainers?|tutors?"
+    r"|collectors?|strateg\w*|specialists?|analysts?)\b"
+)
+# Roles a subject alone doesn't make engineering ("Clinical Robot Associate",
+# "Robotics Assistant"); "Associate Engineer" still counts by naming an engineer.
+_TOPIC_ONLY_NOT_RE = re.compile(r"\b(?:associates?|assistants?|interns?)\b")
 
 # ── Degree ────────────────────────────────────────────────────────────────────
 
@@ -219,6 +251,30 @@ def is_internship(title: str) -> bool:
     boundaries, so "Leadership Program" and "Shipping Analyst" do not match.
     """
     return bool(_INTERNSHIP_RE.search(title.lower()))
+
+
+# A title that names a level above new grad: "Senior", "Staff", "Lead", "Engineer II".
+_SENIOR_RE = re.compile(
+    r"\b(?:senior|sr\.?|staff|principal|lead|manager|director|head|vp|architect|chief|expert|distinguished"
+    r"|ii|iii|iv|v|2|3|4|5)\b"
+)
+
+
+def is_senior_title(title: str) -> bool:
+    """Return True if *title* names a level above new grad (senior, staff, lead, II and up)."""
+    return bool(_SENIOR_RE.search(title.lower()))
+
+
+def is_engineering_role(title: str) -> bool:
+    """Return True if *title* is an engineering, software, robotics or AI/ML job.
+
+    Narrower than the domain table: "Product Designer" and "Area Manager" are not
+    engineering roles even when their domain is hardware or software.
+    """
+    text = title.lower()
+    named = _ENGINEERING_ROLE_RE.search(text) or (
+        _ROBOTICS_TOPIC_RE.search(text) and not _TOPIC_ONLY_NOT_RE.search(text))
+    return bool(named) and not _NOT_ENGINEERING_ROLE_RE.search(text)
 
 
 def parse_title(title: str) -> ParsedTitle:

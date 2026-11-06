@@ -34,8 +34,9 @@ OFFICES = {
     "Europe": {"london", "paris", "dublin", "zurich", "geneva", "amsterdam"},
     "Asia": {"hong-kong", "singapore", "shanghai", "sydney", "tokyo", "gurugram"},
 }
-# Experience filter values, by the slug word that marks them.
-EXPERIENCE = {"internships": "intern", "graduates": "graduate"}
+# Experience filter values, by the slug word that marks them. The search page's
+# own value for graduate roles is "new-graduates"; "graduates" is kept for old links.
+EXPERIENCE = {"internships": "intern", "new-graduates": "graduate", "graduates": "graduate"}
 # Slug words that are acronyms rather than capitalized words.
 SPELLING = {w: w.upper() for w in ("us", "bs", "ms", "mba", "ml", "ai", "emea", "apac", "it", "hr")}
 SPELLING["phd"] = "PhD"

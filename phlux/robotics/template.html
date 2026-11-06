@@ -286,6 +286,8 @@ th:last-child, td:last-child { padding-right: 18px; text-align: right; }
 .role .t { font-weight: 500; color: var(--text); text-decoration: none; }
 .role a.t:hover { color: var(--blue); text-decoration: underline; text-underline-offset: 3px; }
 .role .chips { display: flex; flex-wrap: wrap; gap: 5px; }
+.chip.from-desc { background: var(--blue-soft); color: var(--blue); border-color: transparent; }
+.role .why { margin: 0; font-size: 12.5px; line-height: 1.45; color: var(--text-2); max-width: 62ch; }
 .loc { color: var(--text-2); font-size: 13px; }
 .posted { white-space: nowrap; }
 .posted .d { font-weight: 500; font-variant-numeric: tabular-nums; }
@@ -490,12 +492,14 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
 
 <main class="gutter" id="top">
   <section class="intro">
-    <h1>Robotics internships</h1>
-    <p>Every internship at <span id="n-companies">the</span> robotics companies we track, read straight from their own job boards every hour, with a forecast of who opens next.</p>
+    <h1 id="intro-title">Robotics internships</h1>
+    <p id="intro-interns">Every internship at <span id="n-companies">the</span> robotics companies we track, read straight from their own job boards every hour, with a forecast of who opens next.</p>
+    <p id="intro-newgrad" hidden>Every new grad and early career engineering, robotics and AI/ML role at <span id="ng-companies">the</span> robotics companies we track, read straight from their own job boards every hour.</p>
   </section>
 
   <nav class="tabs" aria-label="Season">
     <a class="tab" href="#now" id="tab-now" aria-current="page">This season</a>
+    <a class="tab" href="#new-grad" id="tab-newgrad">New grad</a>
     <a class="tab" href="#past" id="tab-past">Past seasons</a>
   </nav>
 
@@ -617,6 +621,55 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
 
   </div>
 
+  <div class="view" id="view-newgrad" hidden>
+  <section class="stats" aria-label="New grad summary">
+    <div class="stat"><span class="k">Open new grad roles</span><span class="v" id="g-open">0</span><span class="s" id="g-open-sub"></span></div>
+    <div class="stat"><span class="k">New this week</span><span class="v" id="g-new">0</span><span class="s" id="g-new-sub"></span></div>
+    <div class="stat"><span class="k">Hiring new grads</span><span class="v" id="g-hiring">0</span><span class="s" id="g-hiring-sub"></span></div>
+    <div class="stat"><span class="k">Most roles</span><span class="v" id="g-top">–</span><span class="s" id="g-top-sub"></span></div>
+  </section>
+
+  <section class="card" id="new-grad-roles" aria-labelledby="ng-title">
+    <div class="card-head">
+      <div>
+        <h2 id="ng-title">New grad roles</h2>
+        <div class="sub">Engineering, robotics and AI/ML roles whose titles say new grad, early career, entry level, junior or university graduate, or whose descriptions say they take new grads.</div>
+      </div>
+      <div class="sub" id="ng-count" aria-live="polite"></div>
+    </div>
+    <form class="filters" id="ng-filters" role="search">
+      <label class="search">
+        <svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><circle cx="7" cy="7" r="5" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M11 11l3.5 3.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+        <input type="search" id="ng-q" placeholder="Search roles or companies" autocomplete="off" aria-label="Search new grad roles">
+      </label>
+      <div class="seg" role="group" aria-label="Status" id="ng-status">
+        <button type="button" data-v="open" aria-pressed="true">Open</button>
+        <button type="button" data-v="new" aria-pressed="false">New</button>
+        <button type="button" data-v="closed" aria-pressed="false">Closed</button>
+      </div>
+      <select class="pick" id="ng-segment" aria-label="Segment"><option value="">All segments</option></select>
+      <select class="pick" id="ng-field" aria-label="Field"><option value="">All fields</option></select>
+      <select class="pick" id="ng-degree" aria-label="Degree">
+        <option value="">Any degree</option>
+        <option value="bachelors">Bachelor's</option>
+        <option value="masters">Master's</option>
+        <option value="phd">PhD</option>
+        <option value="none">Not specified</option>
+      </select>
+      <label class="switch"><input type="checkbox" id="ng-robotics" checked> Robotics only</label>
+    </form>
+    <div class="active" id="ng-active" hidden></div>
+    <div class="table-wrap">
+      <table class="stack" id="ng-board">
+        <thead><tr><th>Company</th><th>Role</th><th>Location</th><th>Posted</th></tr></thead>
+        <tbody id="ng-rows"></tbody>
+      </table>
+    </div>
+    <p class="none" id="ng-none" hidden>No new grad roles match these filters.</p>
+    <div class="table-foot" id="ng-more-row" hidden><button class="btn" type="button" id="ng-more">Show more</button></div>
+  </section>
+  </div>
+
   <div class="view" id="view-past" hidden>
     <section class="past-head">
       <div>
@@ -685,7 +738,7 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
   <footer class="notes">
     <div>
       <h3>Where this comes from</h3>
-      <p>A bot reads each company's own job board every hour, mostly through the public APIs behind Greenhouse, Lever, Ashby, Workday and similar systems. Internships are titles that say intern, co-op or student.</p>
+      <p>A bot reads each company's own job board every hour, mostly through the public APIs behind Greenhouse, Lever, Ashby, Workday and similar systems. Internships are titles that say intern, co-op or student. New grad roles are engineering, robotics and AI/ML titles that say new grad, early career, entry level, junior or university graduate, plus roles whose descriptions welcome recent graduates or ask for 0 years of experience.</p>
     </div>
     <div>
       <h3>How forecasts work</h3>
@@ -730,20 +783,22 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
   var companies = DATA.companies.map(function (c) { c.open = 0; c.fresh = 0; return c; });
   var F = {};
   DATA.fields.forEach(function (f, i) { F[f] = i; });
-  var postings = DATA.postings.map(function (r) {
+  function toPosting(r) {
     var c = companies[r[F.company]];
     var p = {
       company: c, title: r[F.title], url: r[F.url], location: r[F.location],
       found: r[F.found] ? parseDay(r[F.found]) : null, closed: r[F.closed],
       season: r[F.season], year: r[F.year], degree: r[F.degree], field: r[F.field],
-      where: (F.where !== undefined && r[F.where]) || []
+      where: (F.where !== undefined && r[F.where]) || [],
+      early: (F.early !== undefined && r[F.early]) || ""
     };
     p.closedDay = p.closed && p.closed !== "N/A" ? parseDay(p.closed) : null;
     p.isNew = !p.closed && p.found !== null && daysFrom(p.found) >= -7;
     p.key = r[F.company] + "|" + p.title.toLowerCase();
     p.haystack = (p.title + " " + c.name + " " + p.location).toLowerCase();
     return p;
-  });
+  }
+  var postings = DATA.postings.map(toPosting);
   // A role is a title at a company: the same internship posted in several
   // cities is one role. Companies count roles, not postings.
   (function () {
@@ -753,6 +808,9 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
       if (p.isNew && !seenNew[p.key]) { seenNew[p.key] = 1; p.company.fresh += 1; }
     });
   })();
+  // New grad roles: the same fields as internships, shown on their own tab.
+  var NG = DATA.newGrad || { since: DATA.seasonStart, postings: [] };
+  var ngPostings = NG.postings.map(toPosting);
   var MAP = DATA.map;
   var TOWNS = MAP ? MAP.towns : [];
   // The states a posting is in, through its towns or bare state codes.
@@ -984,14 +1042,16 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
   }
 
   // ── Internships ───────────────────────────────────────────────────────
-  function rank(key) {
+  function rank(list, key) {
     var seen = {};
-    postings.forEach(function (p) { var v = key(p); if (v != null) seen[v] = (seen[v] || 0) + 1; });
+    list.forEach(function (p) { var v = key(p); if (v != null) seen[v] = (seen[v] || 0) + 1; });
     return Object.keys(seen).sort(function (a, b) { return seen[b] - seen[a]; });
   }
-  rank(function (p) { return p.company.segment; }).forEach(function (v) { $("segment").appendChild(new Option(SEGMENTS[v] || v, v)); });
-  rank(function (p) { return p.field; }).forEach(function (v) { $("field").appendChild(new Option(FIELDS[v] || v, v)); });
-  rank(function (p) { return p.season ? p.season + "|" + (p.year || "") : null; }).sort().forEach(function (v) {
+  rank(postings, function (p) { return p.company.segment; }).forEach(function (v) { $("segment").appendChild(new Option(SEGMENTS[v] || v, v)); });
+  rank(postings, function (p) { return p.field; }).forEach(function (v) { $("field").appendChild(new Option(FIELDS[v] || v, v)); });
+  rank(ngPostings, function (p) { return p.company.segment; }).forEach(function (v) { $("ng-segment").appendChild(new Option(SEGMENTS[v] || v, v)); });
+  rank(ngPostings, function (p) { return p.field; }).forEach(function (v) { $("ng-field").appendChild(new Option(FIELDS[v] || v, v)); });
+  rank(postings, function (p) { return p.season ? p.season + "|" + (p.year || "") : null; }).sort().forEach(function (v) {
     var parts = v.split("|");
     $("season").appendChild(new Option(seasonLabel(parts[0], +parts[1] || 0), v));
   });
@@ -1001,40 +1061,44 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
     if (place.town !== undefined) return p.where.indexOf(place.town) !== -1;
     return !!p.states[place.state];
   }
-  function matches(p, anyPlace) {
+  // *s* is a board's filters: the internship board's (state) unless given.
+  function matches(p, anyPlace, s) {
+    s = s || state;
     var c = p.company;
-    if (!inScope(c) || (state.company && c !== state.company)) return false;
-    if (!anyPlace && state.place && !inPlace(p, state.place)) return false;
-    if (state.status === "open" && p.closed) return false;
-    if (state.status === "new" && !p.isNew) return false;
-    if (state.status === "closed" && !p.closedDay) return false;
-    if (state.segment && c.segment !== state.segment) return false;
-    if (state.field && p.field !== state.field) return false;
-    if (state.degree === "none" ? p.degree : state.degree && p.degree !== state.degree) return false;
-    if (state.season === "none" ? p.season : state.season && p.season + "|" + (p.year || "") !== state.season) return false;
-    if (state.q) {
-      var words = state.q.toLowerCase().split(/\s+/).filter(Boolean);
+    if (!inScope(c) || (s.company && c !== s.company)) return false;
+    if (!anyPlace && s.place && !inPlace(p, s.place)) return false;
+    if (s.status === "open" && p.closed) return false;
+    if (s.status === "new" && !p.isNew) return false;
+    if (s.status === "closed" && !p.closedDay) return false;
+    if (s.segment && c.segment !== s.segment) return false;
+    if (s.field && p.field !== s.field) return false;
+    if (s.degree === "none" ? p.degree : s.degree && p.degree !== s.degree) return false;
+    if (s.season === "none" ? p.season : s.season && p.season + "|" + (p.year || "") !== s.season) return false;
+    if (s.q) {
+      var words = s.q.toLowerCase().split(/\s+/).filter(Boolean);
       for (var i = 0; i < words.length; i++) if (p.haystack.indexOf(words[i]) === -1) return false;
     }
     return true;
   }
-  function order(a, b) {
-    var ka = state.status === "closed" ? a.closedDay : a.found || 0;
-    var kb = state.status === "closed" ? b.closedDay : b.found || 0;
-    return kb - ka || a.company.name.localeCompare(b.company.name) || a.title.localeCompare(b.title);
+  function orderFor(s) {
+    return function (a, b) {
+      var ka = s.status === "closed" ? a.closedDay : a.found || 0;
+      var kb = s.status === "closed" ? b.closedDay : b.found || 0;
+      return kb - ka || a.company.name.localeCompare(b.company.name) || a.title.localeCompare(b.title);
+    };
   }
   function placeName(place) {
     if (place.town !== undefined) return TOWNS[place.town][0] + ", " + TOWNS[place.town][1];
     return MAP.names[place.state] || place.state;
   }
-  function companyCell(c) {
+  function companyCell(c, pick) {
     var td = el("td", "c-co");
     var cell = el("div", "co-cell");
     cell.appendChild(logo(c));
     var nm = el("div", "nm");
     var b = el("button", "co-btn", c.name);
     b.type = "button";
-    b.addEventListener("click", function () { pickCompany(c); });
+    b.addEventListener("click", function () { (pick || pickCompany)(c); });
     nm.appendChild(b);
     nm.appendChild(el("span", "seg-name", SEGMENTS[c.segment] || ""));
     cell.appendChild(nm);
@@ -1063,10 +1127,11 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
     td.appendChild(details);
     return td;
   }
-  function row(r) {
+  // *since* is the day undated roles were already open by; *pick* filters the board by a company.
+  function row(r, since, pick) {
     var p = r.first;
     var tr = el("tr", r.closed ? "is-closed" : "");
-    tr.appendChild(companyCell(r.company));
+    tr.appendChild(companyCell(r.company, pick));
     var role = el("td", "c-role");
     var box = el("div", "role");
     box.appendChild(p.url ? link(p.url, "t", r.title) : el("span", "t", r.title));
@@ -1074,8 +1139,11 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
     [seasonLabel(p.season, p.year), DEGREES[p.degree], FIELDS[p.field]].forEach(function (t) {
       if (t && t !== "Other") chips.appendChild(el("span", "chip", t));
     });
+    if (p.early) chips.appendChild(el("span", "chip from-desc", "From description"));
     if (!p.url && p.company.careers) chips.appendChild(link(p.company.careers, "board-link", "Job board ↗"));
     if (chips.childNodes.length) box.appendChild(chips);
+    // Listed for its description rather than its title: show the line that says so.
+    if (p.early) box.appendChild(el("p", "why", "“" + p.early + "”"));
     role.appendChild(box);
     tr.appendChild(role);
     tr.appendChild(locationCell(r));
@@ -1087,7 +1155,7 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
       when.appendChild(el("span", "d", fmt(r.found)));
       when.appendChild(el("span", "r", relative(r.found)));
     } else {
-      when.appendChild(el("span", "r", "Open since before " + fmt(parseDay(DATA.seasonStart))));
+      when.appendChild(el("span", "r", "Open since before " + fmt(parseDay(since || DATA.seasonStart))));
     }
     tr.appendChild(when);
     return tr;
@@ -1109,7 +1177,7 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
     renderActive();
     ["segment", "field", "degree", "season"].forEach(function (id) { $(id).classList.toggle("set", !!state[id]); });
     var matching = postings.filter(function (p) { return matches(p); });
-    var hits = groupRoles(matching).sort(order);
+    var hits = groupRoles(matching).sort(orderFor(state));
     var body = $("rows");
     body.textContent = "";
     hits.slice(0, state.shown).forEach(function (r) { body.appendChild(row(r)); });
@@ -1262,6 +1330,63 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
     $("internships").scrollIntoView({ behavior: "smooth", block: "start" });
   }
 
+  // ── New grad ──────────────────────────────────────────────────────────
+  var ng = { q: "", segment: "", field: "", degree: "", status: "open", company: null, shown: PAGE };
+  function pickNgCompany(c) {
+    ng.company = c;
+    ng.shown = PAGE;
+    renderNewGrad();
+    $("new-grad-roles").scrollIntoView({ behavior: "smooth", block: "start" });
+  }
+  function renderNewGrad() {
+    var scoped = companies.filter(inScope);
+    var open = groupRoles(ngPostings.filter(function (p) { return !p.closed && inScope(p.company); }));
+    var byCompany = function (roles) {
+      var n = {};
+      roles.forEach(function (r) { n[r.company.name] = (n[r.company.name] || 0) + 1; });
+      return Object.keys(n).map(function (k) { return { name: k, n: n[k] }; })
+        .sort(function (a, b) { return b.n - a.n || a.name.localeCompare(b.name); });
+    };
+    var hiring = byCompany(open), fresh = byCompany(open.filter(function (r) { return r.isNew; }));
+    var names = function (list) { return list.slice(0, 2).map(function (x) { return x.name; }).join(", "); };
+    $("ng-companies").textContent = String(scoped.length);
+    $("g-open").textContent = open.length.toLocaleString("en-US");
+    $("g-open-sub").textContent = "at " + plural(hiring.length, "company", "companies");
+    $("g-new").textContent = fresh.reduce(function (t, x) { return t + x.n; }, 0).toLocaleString("en-US");
+    $("g-new-sub").textContent = fresh.length ? "Most from " + names(fresh) : "None this week";
+    $("g-hiring").textContent = String(hiring.length);
+    $("g-hiring-sub").textContent = "of " + plural(scoped.length, "company", "companies") + " tracked";
+    $("g-top").textContent = hiring.length ? String(hiring[0].n) : "–";
+    $("g-top-sub").textContent = hiring.length ? "at " + hiring[0].name + (hiring[1] ? ", then " + hiring[1].name : "") : "";
+
+    var box = $("ng-active");
+    box.textContent = "";
+    box.hidden = !ng.company;
+    if (ng.company) {
+      var chip = el("button", "tag-btn", ng.company.name + "  ×");
+      chip.type = "button";
+      chip.setAttribute("aria-label", "Stop filtering by " + ng.company.name);
+      chip.addEventListener("click", function () { ng.company = null; ng.shown = PAGE; renderNewGrad(); });
+      box.appendChild(chip);
+    }
+    ["segment", "field", "degree"].forEach(function (k) { $("ng-" + k).classList.toggle("set", !!ng[k]); });
+    var matching = ngPostings.filter(function (p) { return matches(p, false, ng); });
+    var hits = groupRoles(matching).sort(orderFor(ng));
+    var body = $("ng-rows");
+    body.textContent = "";
+    hits.slice(0, ng.shown).forEach(function (r) { body.appendChild(row(r, NG.since, pickNgCompany)); });
+    $("ng-board").hidden = !hits.length;
+    $("ng-none").hidden = hits.length > 0;
+    $("ng-more-row").hidden = hits.length <= ng.shown;
+    $("ng-more").textContent = "Show " + Math.min(PAGE, hits.length - ng.shown) + " more";
+    var noun = { open: "open", "new": "new this week", closed: "closed in the last " + DATA.recentDays + " days" }[ng.status];
+    var count = $("ng-count");
+    count.textContent = "";
+    count.appendChild(el("b", null, plural(hits.length, "role")));
+    count.appendChild(document.createTextNode(" " + noun +
+      (matching.length > hits.length ? " · " + plural(matching.length, "posting") : "")));
+  }
+
   // ── Companies ─────────────────────────────────────────────────────────
   var OUTLOOK = {
     open: function (f) { return f.opened && !f.opened.on_or_before ? "Open since " + fmt(parseDay(f.opened.first_seen)) : "Open"; },
@@ -1295,7 +1420,7 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
       return b.open - a.open || a.name.localeCompare(b.name);
     }).forEach(function (c) {
       var tr = el("tr");
-      var cell = companyCell(c);
+      var cell = companyCell(c, pickCompany);
       var h = c.health && HEALTH[c.health.status] && HEALTH[c.health.status](c.health);
       if (h) {
         var badge = el("span", "badge " + h.cls, h.text);
@@ -1505,15 +1630,23 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
   $("past-filters").addEventListener("submit", function (e) { e.preventDefault(); });
 
   // ── Views ─────────────────────────────────────────────────────────────
-  // #past shows past seasons; any other hash is a place in this season's view.
+  // #past shows past seasons and #new-grad new grad roles; any other hash is a
+  // place in this season's view.
   function route() {
-    var showPast = location.hash === "#past" && PAST.length > 0;
-    $("view-now").hidden = showPast;
-    $("view-past").hidden = !showPast;
-    $("tab-now").setAttribute("aria-current", showPast ? "false" : "page");
-    $("tab-past").setAttribute("aria-current", showPast ? "page" : "false");
-    if (showPast) {
+    var view = location.hash === "#past" && PAST.length > 0 ? "past" : location.hash === "#new-grad" ? "newgrad" : "now";
+    $("view-now").hidden = view !== "now";
+    $("view-past").hidden = view !== "past";
+    $("view-newgrad").hidden = view !== "newgrad";
+    $("tab-now").setAttribute("aria-current", view === "now" ? "page" : "false");
+    $("tab-past").setAttribute("aria-current", view === "past" ? "page" : "false");
+    $("tab-newgrad").setAttribute("aria-current", view === "newgrad" ? "page" : "false");
+    $("intro-title").textContent = view === "newgrad" ? "Robotics new grad roles" : "Robotics internships";
+    $("intro-interns").hidden = view === "newgrad";
+    $("intro-newgrad").hidden = view !== "newgrad";
+    if (view === "past") {
       renderPast();
+    } else if (view === "newgrad") {
+      renderNewGrad();
     } else {
       var target = location.hash && location.hash !== "#now" && document.getElementById(location.hash.slice(1));
       if (target) target.scrollIntoView();
@@ -1547,9 +1680,28 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
   });
   $("filters").addEventListener("submit", function (e) { e.preventDefault(); });
   $("more").addEventListener("click", function () { state.shown += PAGE; renderBoard(); });
+  ["segment", "field", "degree"].forEach(function (k) {
+    $("ng-" + k).addEventListener("change", function () { ng[k] = $("ng-" + k).value; ng.shown = PAGE; renderNewGrad(); });
+  });
+  $("ng-q").addEventListener("input", function () { ng.q = $("ng-q").value.trim(); ng.shown = PAGE; renderNewGrad(); });
+  Array.prototype.forEach.call($("ng-status").querySelectorAll("button"), function (b) {
+    b.addEventListener("click", function () {
+      ng.status = b.dataset.v;
+      ng.shown = PAGE;
+      Array.prototype.forEach.call($("ng-status").querySelectorAll("button"), function (o) { o.setAttribute("aria-pressed", String(o === b)); });
+      renderNewGrad();
+    });
+  });
+  $("ng-filters").addEventListener("submit", function (e) { e.preventDefault(); });
+  $("ng-more").addEventListener("click", function () { ng.shown += PAGE; renderNewGrad(); });
+  $("ng-robotics").addEventListener("change", function () {
+    roboticsOnly.checked = $("ng-robotics").checked;
+    roboticsOnly.dispatchEvent(new Event("change"));
+  });
   roboticsOnly.addEventListener("change", function () {
     store("robotics", roboticsOnly.checked ? "1" : "0");
     if (state.company && !inScope(state.company)) state.company = null;
+    if (ng.company && !inScope(ng.company)) ng.company = null;
     renderAll();
   });
   var dark = window.matchMedia ? window.matchMedia("(prefers-color-scheme: dark)") : null;
@@ -1576,8 +1728,8 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
   window.addEventListener("resize", function () {
     clearTimeout(resizeTimer);
     resizeTimer = setTimeout(function () {
-      if ($("view-past").hidden) renderTimeline(groups());
-      else renderPast();
+      if (!$("view-now").hidden) renderTimeline(groups());
+      else if (!$("view-past").hidden) renderPast();
     }, 150);
   });
 
@@ -1588,7 +1740,9 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
     renderBoard();
     renderCompanies();
     renderHealth();
+    renderNewGrad();
     $("p-robotics").checked = roboticsOnly.checked;
+    $("ng-robotics").checked = roboticsOnly.checked;
     if (!$("view-past").hidden) renderPast();
   }
   renderAll();

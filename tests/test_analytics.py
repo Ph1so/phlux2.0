@@ -156,6 +156,44 @@ class TestParseTitle:
     def test_level_new_grad(self):
         assert titles.parse_title("Software Engineer, University Graduate").level == "new_grad"
 
+    @pytest.mark.parametrize("title", [
+        "Junior Perception Engineer",
+        "2027 Early Career Firmware Engineer",
+        "Early-Career Controls Engineer",
+        "Quantitative Researcher PhD Graduate (US)",
+        "Software Engineer, Infrastructure, PhD, Early Career, 2027 Start",
+        "Software Engineer, Class of 2027",
+        "New Graduate Engineer, Propulsion (Raptor)",
+    ])
+    def test_level_new_grad_wordings(self, title):
+        assert titles.parse_title(title).level == "new_grad"
+
+    @pytest.mark.parametrize("title, expected", [
+        ("Software Engineer - New Grad", True),
+        ("Forward Deployed Software Engineer, New Grad", True),
+        ("Quantitative Developer, New Grad", True),
+        ("Engineer I, PCB - New Grad", True),
+        ("Product Designer, New Grad", False),
+        ("Area Manager, Early Career (2027)", False),
+        ("Junior IT Support Engineer", False),
+        ("Solutions Engineer, Early Career", False),
+        ("Early Career & University Relations Recruiter", False),
+        ("Entry-Level Production Technician", False),
+        ("Entry-Level - AI/Machine Learning Researcher", True),
+        ("Autonomy Scientist, New Grad", True),
+        ("Driving Simulation Researcher, Entry Level", True),
+        ("Perception - New Grad", True),
+        ("Robot Operator, Entry Level", False),
+        ("AI Trainer, Early Career", False),
+        ("Robotics Data Collector - Entry Level", False),
+        ("Robotics AI Strategy & Program Lead, Early Career", False),
+        ("Research Scientist, Materials, Entry Level", False),
+        ("Clinical Robot Associate, Entry Level", False),
+        ("Associate Robotics Engineer, New Grad", True),
+    ])
+    def test_is_engineering_role(self, title, expected):
+        assert titles.is_engineering_role(title) is expected
+
     def test_level_unspecified(self):
         assert titles.parse_title("Staff Software Engineer").level == "unspecified"
 

@@ -5,7 +5,7 @@ from datetime import date, datetime
 import pytest
 
 from phlux.models import Company
-from phlux.robotics.build import TEMPLATE, build_payload, internship_rows, render
+from phlux.robotics.build import TEMPLATE, build_payload, internship_rows, new_grad_rows, render
 from phlux.robotics.forecast import SOON, Forecast, Opening
 
 TODAY = date(2026, 11, 1)
@@ -26,16 +26,51 @@ class TestInternshipRows:
         assert rows == [
             {"company": "Acme", "title": "Perception Intern, PhD - Summer 2027", "url": "https://jobs.example/1",
              "location": "Boston, MA", "found": "2026-10-20", "closed": "", "season": "summer", "year": 2027,
-             "degree": "phd", "field": "ml_ai"},
+             "degree": "phd", "field": "ml_ai", "early": ""},
             {"company": "Acme", "title": "Mechanical Engineering Co-op", "url": "", "location": "", "found": "",
-             "closed": "2026-10-25", "season": "", "year": 0, "degree": "", "field": "hardware"},
+             "closed": "2026-10-25", "season": "", "year": 0, "degree": "", "field": "hardware", "early": ""},
         ]
+
+
+class TestNewGradRows:
+    def test_keeps_unstarred_new_grad_engineering_roles(self):
+        entries = [
+            {"title": "Software Engineer - New Grad (2027)", "date": "2026-10-20", "url": "https://jobs.example/2",
+             "location": "Austin, TX"},
+            {"title": "Early Career - Mechanical Design Engineer", "date": "N/A", "closed": "2026-10-25"},
+            {"title": "New Grad Robotics Engineer", "date": "2026-09-01", "closed": "2026-09-15"},  # closed long ago
+            {"title": "Senior Perception Engineer", "date": "2026-10-20"},  # not new grad
+            {"title": "Product Designer, New Grad", "date": "2026-10-20"},  # not engineering
+            {"title": "Junior IT Support Engineer", "date": "2026-10-20"},  # support role
+            {"title": "⭐️ Software Engineer Intern", "date": "2026-10-20"},  # internship
+            "Legacy New Grad Engineer",
+        ]
+        rows = new_grad_rows("Acme", entries, TODAY)
+        assert [(r["title"], r["found"], r["closed"]) for r in rows] == [
+            ("Software Engineer - New Grad (2027)", "2026-10-20", ""),
+            ("Early Career - Mechanical Design Engineer", "", "2026-10-25"),
+        ]
+        assert rows[0]["url"] == "https://jobs.example/2" and rows[0]["year"] == 2027
+        assert rows[0]["field"] == "software"
+
+    def test_description_line_lists_an_unlabeled_role(self):
+        line = "Recent graduates are encouraged to apply."
+        entries = [
+            {"title": "Controls Engineer", "date": "2026-10-20", "early": line},
+            {"title": "Senior Controls Engineer", "date": "2026-10-20", "early": line},  # senior title
+            {"title": "Account Executive", "date": "2026-10-20", "early": line},  # not engineering
+            {"title": "Perception Engineer", "date": "2026-10-20"},  # no line
+        ]
+        rows = new_grad_rows("Acme", entries, TODAY)
+        assert [(r["title"], r["early"]) for r in rows] == [("Controls Engineer", line)]
 
 
 class TestBuildPayload:
     def payload(self):
         storage = {
-            "companies": {"Acme": [{"title": "⭐️ Robotics Intern", "date": "2026-10-30"}], "Quant Co": []},
+            "companies": {"Acme": [{"title": "⭐️ Robotics Intern", "date": "2026-10-30"},
+                                   {"title": "Controls Engineer, Early Career", "date": "2026-10-31"}],
+                          "Quant Co": []},
             "checked": {"Acme": "2026-11-01"},
         }
         companies = [
@@ -69,6 +104,15 @@ class TestBuildPayload:
         posting = dict(zip(payload["fields"], row))
         assert posting["company"] == 0
         assert posting["title"] == "Robotics Intern"
+
+    def test_new_grad_roles_are_rows_of_the_same_fields(self):
+        payload = self.payload()
+        [row] = payload["newGrad"]["postings"]
+        posting = dict(zip(payload["fields"], row))
+        assert posting["company"] == 0
+        assert posting["title"] == "Controls Engineer, Early Career"
+        assert posting["found"] == "2026-10-31"
+        assert payload["newGrad"]["since"] >= payload["seasonStart"]
 
 
 class TestMapData:

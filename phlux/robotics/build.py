@@ -9,6 +9,12 @@ Internships are the titles the bot itself starred (``⭐️``), so the site and 
 alert emails agree on what counts. Season, degree and field come from the
 analytics title parser.
 
+The new-grad view lists unstarred titles that name an engineering, robotics or
+AI/ML role (:func:`phlux.analytics.titles.is_engineering_role`) and either say new
+grad or early career in the title, or carry the description line the scraper
+found saying the role takes new grads (``early``, see :mod:`phlux.early_career`).
+They never go in an email: only starred titles do.
+
 ``template.html`` is written as a page body (title, styles, markup, scripts,
 no ``<html>`` or ``<head>``) so the same file can also be previewed as a
 claude.ai artifact; :func:`render` wraps it in a document for the site.
@@ -26,7 +32,7 @@ import pytz
 
 from phlux.analytics.dataset import load_industries
 from phlux.analytics.sources import STORAGE
-from phlux.analytics.titles import parse_title
+from phlux.analytics.titles import is_engineering_role, is_senior_title, parse_title
 from phlux.config import load_company_list_setting
 from phlux.health import find_issues, status
 from phlux.lists import REPO_ROOT, select_companies
@@ -47,6 +53,10 @@ STAR = "⭐️"
 RECENT_DAYS = 30
 EASTERN = pytz.timezone("US/Eastern")
 ROBOTICS_TIERS = {"core", "adjacent"}
+# The day the scrapes were widened to read new-grad roles too. Roles already open
+# at those companies were recorded undated, so an undated new-grad role was open by
+# this day (or by the season's start, if that is later).
+NEW_GRAD_SINCE = date(2026, 11, 6)
 # A past season with fewer dated internships than this is too thin to show
 # (Summer 2025: tracking began in June 2025, so it is nearly all backlog).
 PAST_MIN_DATED = 200
@@ -79,34 +89,62 @@ def _closed_recently(closed: str, today: date) -> bool:
         return False
 
 
+def _listed(entry: Any, today: date) -> bool:
+    """Return True for a stored posting that is open or closed in the last :data:`RECENT_DAYS`."""
+    if not isinstance(entry, dict) or not entry.get("title"):
+        return False
+    closed = entry.get("closed", "")
+    return not closed or _closed_recently(closed, today)
+
+
+def _row(name: str, entry: Dict[str, Any], title: str) -> Dict[str, Any]:
+    """Return a posting as the site's row: its title plus the fields the page filters on."""
+    parsed = parse_title(title)
+    found = entry.get("date", NA_DATE)
+    return {
+        "company": name,
+        "title": title,
+        "url": entry.get("url", ""),
+        "location": entry.get("location", ""),
+        "found": "" if found == NA_DATE else found,
+        "closed": entry.get("closed", ""),
+        "season": parsed.season or "",
+        "year": parsed.target_year or 0,
+        "degree": parsed.degree or "",
+        "field": parsed.domain,
+        "early": "",
+    }
+
+
 def internship_rows(name: str, entries: Iterable[Any], today: date) -> List[Dict[str, Any]]:
     """Return the site's rows for one company's stored internships.
 
     Open ones and those closed in the last :data:`RECENT_DAYS`; titles lose
     their star and gain the fields the page filters on.
     """
+    return [_row(name, e, e["title"][len(STAR):].strip())
+            for e in entries if _listed(e, today) and e["title"].startswith(STAR)]
+
+
+def new_grad_rows(name: str, entries: Iterable[Any], today: date) -> List[Dict[str, Any]]:
+    """Return the site's rows for one company's new-grad engineering roles.
+
+    Unstarred titles, open or closed lately like internships, that name an
+    engineering, robotics or AI/ML role and either read as new grad, or (below
+    senior level) carry a description line saying the role takes new grads,
+    which the row keeps as ``early`` to show why it is listed.
+    """
     rows = []
     for entry in entries:
-        if not isinstance(entry, dict) or not entry.get("title", "").startswith(STAR):
+        if not _listed(entry, today) or entry["title"].startswith(STAR):
             continue
-        closed = entry.get("closed", "")
-        if closed and not _closed_recently(closed, today):
+        title = entry["title"].strip()
+        if not is_engineering_role(title):
             continue
-        title = entry["title"][len(STAR):].strip()
-        parsed = parse_title(title)
-        found = entry.get("date", NA_DATE)
-        rows.append({
-            "company": name,
-            "title": title,
-            "url": entry.get("url", ""),
-            "location": entry.get("location", ""),
-            "found": "" if found == NA_DATE else found,
-            "closed": closed,
-            "season": parsed.season or "",
-            "year": parsed.target_year or 0,
-            "degree": parsed.degree or "",
-            "field": parsed.domain,
-        })
+        if parse_title(title).level == "new_grad":
+            rows.append(_row(name, entry, title))
+        elif entry.get("early") and not is_senior_title(title):
+            rows.append({**_row(name, entry, title), "early": entry["early"]})
     return rows
 
 
@@ -216,7 +254,7 @@ def build_payload(
     stored = storage.get("companies", {})
     checked = storage.get(CHECKED_KEY, {})
     issues = {i.company: i for i in find_issues(storage, [c.name for c in companies], today)}
-    company_rows, postings = [], []
+    company_rows, postings, new_grad = [], [], []
     for company in companies:
         tags = industries.get(company.name, {})
         tier = tags.get("robotics_tier", "core")
@@ -232,13 +270,19 @@ def build_payload(
             "forecast": fc.as_dict() if fc else None,
         })
         postings += internship_rows(company.name, stored.get(company.name, []), today)
+        new_grad += new_grad_rows(company.name, stored.get(company.name, []), today)
 
-    # Columns rather than one object per posting: the page embeds this.
     index = {c["name"]: i for i, c in enumerate(company_rows)}
     mapper = Mapper(gazetteer) if gazetteer and state_paths else None
-    for p in postings:
+    for p in postings + new_grad:
         p["where"] = mapper.where(p["location"]) if mapper else []
-    fields = ["company", "title", "url", "location", "found", "closed", "season", "year", "degree", "field", "where"]
+    fields = ["company", "title", "url", "location", "found", "closed", "season", "year", "degree", "field", "where",
+              "early"]
+
+    # Columns rather than one object per posting: the page embeds this.
+    def columns(rows: List[Dict[str, Any]]) -> List[list]:
+        return [[index[p["company"]] if f == "company" else p[f] for f in fields] for p in rows]
+
     cycle = next(iter(forecasts.values())).cycle if forecasts else today.year + 1
     return {
         "generated": now.isoformat(timespec="minutes"),
@@ -249,7 +293,12 @@ def build_payload(
         "seasonStart": STORAGE.epoch_start.isoformat(),
         "companies": company_rows,
         "fields": fields,
-        "postings": [[index[p["company"]] if f == "company" else p[f] for f in fields] for p in postings],
+        "postings": columns(postings),
+        # Same fields as postings.
+        "newGrad": {
+            "since": max(STORAGE.epoch_start, NEW_GRAD_SINCE).isoformat(),
+            "postings": columns(new_grad),
+        },
         "past": past_seasons(history, index, cycle),
         "map": {"width": geo.WIDTH, "height": geo.HEIGHT, "states": state_paths, "names": STATES,
                 "towns": mapper.towns} if mapper else None,
@@ -298,5 +347,6 @@ def build_site(out_dir: Path, now: Optional[datetime] = None, document: bool = T
     out_dir.mkdir(parents=True, exist_ok=True)
     path = out_dir / "index.html"
     path.write_text(render(payload, TEMPLATE.read_text(encoding="utf-8"), document), encoding="utf-8")
-    logger.info("wrote %s: %d companies, %d internships", path, len(payload["companies"]), len(payload["postings"]))
+    logger.info("wrote %s: %d companies, %d internships, %d new-grad roles", path, len(payload["companies"]),
+                len(payload["postings"]), len(payload["newGrad"]["postings"]))
     return path

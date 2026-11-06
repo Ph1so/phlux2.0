@@ -56,6 +56,10 @@ class TestFetch:
             "Equities Citadel Associate Program Summer Internship 2028",
         ]
 
+    def test_new_graduates_keeps_graduate_slugs(self):
+        postings = fetch(SEARCH + "?experience-filter=new-graduates&location-filter=americas")
+        assert [p.id for p in postings] == ["citadel:quantitative-researcher-phd-graduate-us"]
+
     def test_office_names_map_to_regions(self):
         assert citadel.wanted_regions("london,hong-kong") == {"Europe", "Asia"}
         assert citadel.wanted_regions("") == set()
