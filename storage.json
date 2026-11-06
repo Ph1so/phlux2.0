@@ -39038,8 +39038,7 @@
         "date": "N/A",
         "id": "google:97084041571771078",
         "url": "https://www.google.com/about/careers/applications/jobs/results/97084041571771078",
-        "location": "Z\u00fcrich, Switzerland",
-        "closed": "2026-11-06"
+        "location": "Z\u00fcrich, Switzerland"
       },
       {
         "title": "Staff Research Scientist, Gemini Research, DeepMind",
@@ -39503,7 +39502,8 @@
         "date": "2026-10-26",
         "id": "google:93924217757541062",
         "url": "https://www.google.com/about/careers/applications/jobs/results/93924217757541062",
-        "location": "London, UK"
+        "location": "London, UK",
+        "closed": "2026-11-06"
       },
       {
         "title": "Legal Counsel, DeepMind",
@@ -39755,6 +39755,13 @@
         "id": "google:88601134075126470",
         "url": "https://www.google.com/about/careers/applications/jobs/results/88601134075126470",
         "location": "Mountain View, CA +1"
+      },
+      {
+        "title": "Senior Network Engineer, Robotics, Enterprise Engineering, DeepMind",
+        "date": "2026-11-06",
+        "id": "google:129752143451038406",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/129752143451038406",
+        "location": "Mountain View, CA"
       }
     ],
     "Wing": [
