@@ -12,7 +12,7 @@
 <p>
   <a href="https://ph1so.github.io/phlux2.0/"><img src="https://img.shields.io/badge/browse-internships-1f5fff?style=flat-square" alt="Browse internships"></a>
   <a href="https://github.com/Ph1so/phlux2.0/actions/workflows/job-scraper.yml"><img src="https://img.shields.io/github/actions/workflow/status/Ph1so/phlux2.0/job-scraper.yml?branch=main&style=flat-square&label=scraper" alt="Scraper status"></a>
-  <img src="https://img.shields.io/badge/roles_tracked-33.5k-475467?style=flat-square" alt="33,530 roles tracked">
+  <img src="https://img.shields.io/badge/roles_tracked-33.6k-475467?style=flat-square" alt="33,554 roles tracked">
 </p>
 
 <p><a href="https://ph1so.github.io/phlux2.0/"><b>Website</b></a> &nbsp;·&nbsp; <a href="listings/README.md"><b>All listings</b></a></p>
@@ -21,7 +21,7 @@
 
 ## Latest roles
 
-Showing the 611 most recent of 33,530 roles tracked across 279 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
+Showing the 613 most recent of 33,554 roles tracked across 279 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
 
 
 <table>
@@ -57,6 +57,13 @@ Showing the 611 most recent of 33,530 roles tracked across 279 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"><img src="https://cdn.brandfetch.io/nvidia.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nvidia" height="20" style="vertical-align:middle; margin-right:6px;"> Nvidia</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-and-Engineering-Intern--Agentic-Systems-Intelligence---Summer-2027_JR2028260">⭐️ Research and Engineering Intern, Agentic Systems Intelligence – Summer 2027</a></div></td>
+  <td>2026-11-05</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/palantir?commitment=Internship"><img src="https://cdn.brandfetch.io/palantir.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Palantir" height="20" style="vertical-align:middle; margin-right:6px;"> Palantir</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/palantir/40840cef-bbd7-4557-bb21-cbdcf4be616e">⭐️ Software Engineer, Internship - Sovereign AI Systems</a></div></td>
@@ -81,6 +88,13 @@ Showing the 611 most recent of 33,530 roles tracked across 279 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/tri/?commitment=Intern"><img src="https://cdn.brandfetch.io/tri.global/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Toyota Research Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Toyota Research Insitute</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/tri/8955d154-acfc-4e6b-a68c-14f1438034c9">⭐️ Robotics Intern, Mechanical Engineering</a></div></td>
+  <td>2026-11-05</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/tri/?commitment=Intern"><img src="https://cdn.brandfetch.io/tri.global/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Toyota Research Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Toyota Research Insitute</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/tri/86e6a285-bb0a-4e84-8bf9-bd498d45c33d">⭐️ Accelerated Science Intern, Multi-Agent Learning and Coordination</a></div></td>
   <td>2026-11-05</td>
 </tr>
   <tr>
@@ -176,9 +190,65 @@ Showing the 611 most recent of 33,530 roles tracked across 279 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/avride/jobs/4483495009">Software Engineer, Sensors and System Software (C++, Linux)</a></div></td>
+  <td>2026-11-05</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/zoox/a5483274-c09e-4338-b2e4-cf0b373655d1">Senior/Staff Technical Program Manager - Process and Tools</a></div></td>
+  <td>2026-11-05</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/zoox/53f5297a-fe30-4e1e-ab1c-96db5b23eded">⭐️ Hardware Engineer Intern, Manufacturing Operations [Summer 2027]</a></div></td>
+  <td>2026-11-05</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62">⭐️ Hardware Engineer Intern, Vehicle Development [Summer 2027]</a></div></td>
+  <td>2026-11-05</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b">⭐️ Hardware Engineer Intern, Vehicle Systems [Summer 2027]</a></div></td>
+  <td>2026-11-05</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/zoox/f35b2447-360f-4945-8ae8-16870e8d7558">⭐️ Information Technology & Applications Intern [Summer 2027]</a></div></td>
+  <td>2026-11-05</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877">⭐️ Software Engineer Intern, Autonomy Software [Summer 2027]</a></div></td>
+  <td>2026-11-05</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520">⭐️ Software Engineer Intern, Software Platforms & Product [Summer 2027]</a></div></td>
+  <td>2026-11-05</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20">⭐️ Software Engineer Intern, Software Systems [Summer 2027]</a></div></td>
   <td>2026-11-05</td>
 </tr>
   <tr>
@@ -442,6 +512,13 @@ Showing the 611 most recent of 33,530 roles tracked across 279 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/plus-2"><img src="https://cdn.brandfetch.io/plus.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="PlusAI" height="20" style="vertical-align:middle; margin-right:6px;"> PlusAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/plus-2/8a381270-f77d-4300-b032-873e615bc529">Principal Engineer, Mapping and Localization</a></div></td>
+  <td>2026-11-05</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic"><img src="https://cdn.brandfetch.io/symbotic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Symbotic" height="20" style="vertical-align:middle; margin-right:6px;"> Symbotic</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--BIM-Modeler_R8435">New Grad- BIM Modeler</a></div></td>
@@ -452,6 +529,13 @@ Showing the 611 most recent of 33,530 roles tracked across 279 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=gatikaiinc"><img src="https://cdn.brandfetch.io/gatik.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Gatik" height="20" style="vertical-align:middle; margin-right:6px;"> Gatik</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://boards.greenhouse.io/gatikaiinc/jobs/4727749006?gh_jid=4727749006">Senior Manager, Market Expansion & Operations Strategy</a></div></td>
+  <td>2026-11-05</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/rhoda-ai"><img src="https://www.google.com/s2/favicons?domain=rhoda.ai&sz=128" alt="Rhoda AI" height="20" style="vertical-align:middle; margin-right:6px;"> Rhoda AI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/rhoda-ai/df2aa2a4-ca56-4fa6-b106-89a7fc6a9bb4">⭐️ Optical Sensing Intern - Robot Perception</a></div></td>
   <td>2026-11-05</td>
 </tr>
   <tr>
@@ -610,6 +694,34 @@ Showing the 611 most recent of 33,530 roles tracked across 279 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/9c1aa1f3-b4d0-48fa-814b-37d36ad0ad2e">Forward Deployed Engineer (FDE), Cyber - NYC</a></div></td>
+  <td>2026-11-05</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/d4650f77-45ed-4bee-92ac-097a62fa6341">Content Maker</a></div></td>
+  <td>2026-11-05</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/a84e6109-142f-45ae-80e1-05811732cca1">Forward Deployed Engineer (FDE), Cyber - SF</a></div></td>
+  <td>2026-11-05</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/cda6eab0-edab-4dfc-8923-40ca3b0928b5">Legal Program Manager</a></div></td>
+  <td>2026-11-05</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.eu.lever.co/mobileye"><img src="https://cdn.brandfetch.io/mobileye.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mobileye" height="20" style="vertical-align:middle; margin-right:6px;"> Mobileye</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.eu.lever.co/mobileye/86638ec0-b5f8-4cd5-b3f9-19b1b8932368">Experienced Software Linux Integration Engineer - OS team</a></div></td>
@@ -680,6 +792,20 @@ Showing the 611 most recent of 33,530 roles tracked across 279 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5463197008">Equity Accounting and Reporting</a></div></td>
+  <td>2026-11-05</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5473110008">Public Policy, Strategic Advisory</a></div></td>
+  <td>2026-11-05</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/xai"><img src="https://cdn.brandfetch.io/x.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="xAI" height="20" style="vertical-align:middle; margin-right:6px;"> xAI</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/xai/jobs/5286282007">Data Center Operations Technician - Memphis</a></div></td>
@@ -690,6 +816,41 @@ Showing the 611 most recent of 33,530 roles tracked across 279 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/xai"><img src="https://cdn.brandfetch.io/x.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="xAI" height="20" style="vertical-align:middle; margin-right:6px;"> xAI</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/xai/jobs/5279647007">Sr. Commercial Counsel, Public Sector</a></div></td>
+  <td>2026-11-05</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/xai"><img src="https://cdn.brandfetch.io/x.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="xAI" height="20" style="vertical-align:middle; margin-right:6px;"> xAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/xai/jobs/5286889007">Analytics Engineer (X)</a></div></td>
+  <td>2026-11-05</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/xai"><img src="https://cdn.brandfetch.io/x.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="xAI" height="20" style="vertical-align:middle; margin-right:6px;"> xAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/xai/jobs/5283867007">Construction Manager, Electrical - Mobile Construction</a></div></td>
+  <td>2026-11-05</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/xai"><img src="https://cdn.brandfetch.io/x.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="xAI" height="20" style="vertical-align:middle; margin-right:6px;"> xAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/xai/jobs/5283864007">Construction Manager, Structural - Mobile Construction</a></div></td>
+  <td>2026-11-05</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/xai"><img src="https://cdn.brandfetch.io/x.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="xAI" height="20" style="vertical-align:middle; margin-right:6px;"> xAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/xai/jobs/5279988007">Construction Superintendent, Electrical - Mobile Construction</a></div></td>
+  <td>2026-11-05</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/xai"><img src="https://cdn.brandfetch.io/x.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="xAI" height="20" style="vertical-align:middle; margin-right:6px;"> xAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/xai/jobs/5280765007">Construction Superintendent, Structural - Mobile Construction</a></div></td>
   <td>2026-11-05</td>
 </tr>
   <tr>
@@ -732,6 +893,13 @@ Showing the 611 most recent of 33,530 roles tracked across 279 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/beyondreachlabs"><img src="https://cdn.brandfetch.io/beyondreachlabs.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Beyond Reach Labs" height="20" style="vertical-align:middle; margin-right:6px;"> Beyond Reach Labs</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/beyondreachlabs/34463135-cc0a-403d-8d7c-3e3f4fa29c8c">Manufacturing Engineer</a></div></td>
+  <td>2026-11-05</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/pyka"><img src="https://cdn.brandfetch.io/flypyka.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Pyka" height="20" style="vertical-align:middle; margin-right:6px;"> Pyka</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/pyka/43f0df97-ca88-4bdb-bf49-0cc22ab3b8ef">Logistics Analyst (Cuiabá, Brazil only)</a></div></td>
   <td>2026-11-05</td>
 </tr>
   <tr>
@@ -4155,160 +4323,6 @@ Showing the 611 most recent of 33,530 roles tracked across 279 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/Relling"><img src="https://www.google.com/s2/favicons?domain=relling.co&sz=128" alt="Relling" height="20" style="vertical-align:middle; margin-right:6px;"> Relling</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/Relling/eca17d6f-d56a-477d-818e-e879a6e1c824">Controls Engineer</a></div></td>
-  <td>2026-11-01</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/Relling"><img src="https://www.google.com/s2/favicons?domain=relling.co&sz=128" alt="Relling" height="20" style="vertical-align:middle; margin-right:6px;"> Relling</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/Relling/8be851c1-79af-4f10-b032-ff4bf4294055">Mechatronics Engineer</a></div></td>
-  <td>2026-11-01</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/Relling"><img src="https://www.google.com/s2/favicons?domain=relling.co&sz=128" alt="Relling" height="20" style="vertical-align:middle; margin-right:6px;"> Relling</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/Relling/c9e6b558-aaa8-4bfb-9fc6-79620c134dc6">Robotics Software Engineer</a></div></td>
-  <td>2026-11-01</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/Relling"><img src="https://www.google.com/s2/favicons?domain=relling.co&sz=128" alt="Relling" height="20" style="vertical-align:middle; margin-right:6px;"> Relling</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/Relling/44ce58c4-d5a1-436e-8687-870c8f9d778a">Controls Engineer - New Grad</a></div></td>
-  <td>2026-11-01</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/Relling"><img src="https://www.google.com/s2/favicons?domain=relling.co&sz=128" alt="Relling" height="20" style="vertical-align:middle; margin-right:6px;"> Relling</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/Relling/93531e57-2937-487a-b1b1-f0c9f05876b1">Account Executive, Industrial Automation</a></div></td>
-  <td>2026-11-01</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/Relling"><img src="https://www.google.com/s2/favicons?domain=relling.co&sz=128" alt="Relling" height="20" style="vertical-align:middle; margin-right:6px;"> Relling</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/Relling/89ad3d5e-74f4-4c00-87dc-b59038f67a5f">Electrical Engineer</a></div></td>
-  <td>2026-11-01</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/icarus"><img src="https://www.google.com/s2/favicons?domain=icarus.one&sz=128" alt="Icarus" height="20" style="vertical-align:middle; margin-right:6px;"> Icarus</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/icarus/jobs/5454396008">Airspace & Range Lead</a></div></td>
-  <td>2026-11-01</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/icarus"><img src="https://www.google.com/s2/favicons?domain=icarus.one&sz=128" alt="Icarus" height="20" style="vertical-align:middle; margin-right:6px;"> Icarus</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/icarus/jobs/5103489008">Dream Job</a></div></td>
-  <td>2026-11-01</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/icarus"><img src="https://www.google.com/s2/favicons?domain=icarus.one&sz=128" alt="Icarus" height="20" style="vertical-align:middle; margin-right:6px;"> Icarus</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/icarus/jobs/5232335008">Engineer (Formula SAE Track)</a></div></td>
-  <td>2026-11-01</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/icarus"><img src="https://www.google.com/s2/favicons?domain=icarus.one&sz=128" alt="Icarus" height="20" style="vertical-align:middle; margin-right:6px;"> Icarus</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/icarus/jobs/5287194008">Flight Operations Crew Chief</a></div></td>
-  <td>2026-11-01</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/icarus"><img src="https://www.google.com/s2/favicons?domain=icarus.one&sz=128" alt="Icarus" height="20" style="vertical-align:middle; margin-right:6px;"> Icarus</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/icarus/jobs/5287168008">Flight Operations Engineer</a></div></td>
-  <td>2026-11-01</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/icarus"><img src="https://www.google.com/s2/favicons?domain=icarus.one&sz=128" alt="Icarus" height="20" style="vertical-align:middle; margin-right:6px;"> Icarus</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/icarus/jobs/5287151008">Flight Operations Generalist</a></div></td>
-  <td>2026-11-01</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/icarus"><img src="https://www.google.com/s2/favicons?domain=icarus.one&sz=128" alt="Icarus" height="20" style="vertical-align:middle; margin-right:6px;"> Icarus</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/icarus/jobs/5287116008">Flight Test Engineer</a></div></td>
-  <td>2026-11-01</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/icarus"><img src="https://www.google.com/s2/favicons?domain=icarus.one&sz=128" alt="Icarus" height="20" style="vertical-align:middle; margin-right:6px;"> Icarus</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/icarus/jobs/5102844008">Forward Deployed Engineer</a></div></td>
-  <td>2026-11-01</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/icarus"><img src="https://www.google.com/s2/favicons?domain=icarus.one&sz=128" alt="Icarus" height="20" style="vertical-align:middle; margin-right:6px;"> Icarus</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/icarus/jobs/5455676008">Head of People</a></div></td>
-  <td>2026-11-01</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/icarus"><img src="https://www.google.com/s2/favicons?domain=icarus.one&sz=128" alt="Icarus" height="20" style="vertical-align:middle; margin-right:6px;"> Icarus</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/icarus/jobs/5444155008">Logistics Lead</a></div></td>
-  <td>2026-11-01</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/icarus"><img src="https://www.google.com/s2/favicons?domain=icarus.one&sz=128" alt="Icarus" height="20" style="vertical-align:middle; margin-right:6px;"> Icarus</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/icarus/jobs/5281224008">Manufacturing Engineer</a></div></td>
-  <td>2026-11-01</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/icarus"><img src="https://www.google.com/s2/favicons?domain=icarus.one&sz=128" alt="Icarus" height="20" style="vertical-align:middle; margin-right:6px;"> Icarus</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/icarus/jobs/5281248008">Mechanical Engineer</a></div></td>
-  <td>2026-11-01</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/icarus"><img src="https://www.google.com/s2/favicons?domain=icarus.one&sz=128" alt="Icarus" height="20" style="vertical-align:middle; margin-right:6px;"> Icarus</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/icarus/jobs/5396033008">Network Engineer</a></div></td>
-  <td>2026-11-01</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/icarus"><img src="https://www.google.com/s2/favicons?domain=icarus.one&sz=128" alt="Icarus" height="20" style="vertical-align:middle; margin-right:6px;"> Icarus</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/icarus/jobs/5100594008">Senior Electrical Engineer</a></div></td>
-  <td>2026-11-01</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/icarus"><img src="https://www.google.com/s2/favicons?domain=icarus.one&sz=128" alt="Icarus" height="20" style="vertical-align:middle; margin-right:6px;"> Icarus</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/icarus/jobs/5102774008">Senior Embedded Software Engineer</a></div></td>
-  <td>2026-11-01</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/icarus"><img src="https://www.google.com/s2/favicons?domain=icarus.one&sz=128" alt="Icarus" height="20" style="vertical-align:middle; margin-right:6px;"> Icarus</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/icarus/jobs/5287322008">Senior Forward Deployed Engineer</a></div></td>
-  <td>2026-11-01</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/icarus"><img src="https://www.google.com/s2/favicons?domain=icarus.one&sz=128" alt="Icarus" height="20" style="vertical-align:middle; margin-right:6px;"> Icarus</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/icarus/jobs/5102826008">Senior Manufacturing Engineer</a></div></td>
   <td>2026-11-01</td>
 </tr>
 

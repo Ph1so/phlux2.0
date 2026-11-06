@@ -506,6 +506,13 @@
         "id": "workday:JR2028740",
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Human-Resources-Intern---Summer-2027_JR2028740",
         "location": "US, CA, Santa Clara"
+      },
+      {
+        "title": "\u2b50\ufe0f Research and Engineering Intern, Agentic Systems Intelligence \u2013 Summer 2027",
+        "date": "2026-11-05",
+        "id": "workday:JR2028260",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-and-Engineering-Intern--Agentic-Systems-Intelligence---Summer-2027_JR2028260",
+        "location": "3 Locations"
       }
     ],
     "Google": [
@@ -6108,7 +6115,8 @@
         "date": "N/A",
         "id": "greenhouse:4226655009",
         "url": "https://job-boards.greenhouse.io/kodiak/jobs/4226655009",
-        "location": "Mountain View, CA"
+        "location": "Mountain View, CA",
+        "closed": "2026-11-05"
       },
       {
         "title": "Technical Lead, Multimodal Transformers",
@@ -6141,14 +6149,16 @@
         "date": "N/A",
         "id": "greenhouse:4246360009",
         "url": "https://job-boards.greenhouse.io/kodiak/jobs/4246360009",
-        "location": "Mountain View, CA"
+        "location": "Mountain View, CA",
+        "closed": "2026-11-05"
       },
       {
         "title": "Senior Software Engineer, Controls (Simulation)",
         "date": "N/A",
         "id": "greenhouse:4337363009",
         "url": "https://job-boards.greenhouse.io/kodiak/jobs/4337363009",
-        "location": "Mountain View, CA"
+        "location": "Mountain View, CA",
+        "closed": "2026-11-05"
       },
       {
         "title": "Software Engineer, Controls (C++)",
@@ -6162,7 +6172,8 @@
         "date": "N/A",
         "id": "greenhouse:4005126009",
         "url": "https://job-boards.greenhouse.io/kodiak/jobs/4005126009",
-        "location": "Mountain View, CA"
+        "location": "Mountain View, CA",
+        "closed": "2026-11-05"
       },
       {
         "title": "Electrical Engineering Technician",
@@ -6197,7 +6208,8 @@
         "date": "N/A",
         "id": "greenhouse:4005123009",
         "url": "https://job-boards.greenhouse.io/kodiak/jobs/4005123009",
-        "location": "Mountain View, CA"
+        "location": "Mountain View, CA",
+        "closed": "2026-11-05"
       },
       {
         "title": "Software Engineer, UI Tools Infrastructure",
@@ -6301,14 +6313,16 @@
         "date": "N/A",
         "id": "greenhouse:4288973009",
         "url": "https://job-boards.greenhouse.io/kodiak/jobs/4288973009",
-        "location": "Mountain View, CA"
+        "location": "Mountain View, CA",
+        "closed": "2026-11-05"
       },
       {
         "title": "Senior Software Engineer, Planning Infrastructure",
         "date": "N/A",
         "id": "greenhouse:4297189009",
         "url": "https://job-boards.greenhouse.io/kodiak/jobs/4297189009",
-        "location": "Mountain View, CA"
+        "location": "Mountain View, CA",
+        "closed": "2026-11-05"
       },
       {
         "title": "Staff Software Engineer, Behavior Planning",
@@ -6450,7 +6464,8 @@
         "date": "2026-09-29",
         "id": "greenhouse:4421830009",
         "url": "https://job-boards.greenhouse.io/kodiak/jobs/4421830009",
-        "location": "Mountain View, CA"
+        "location": "Mountain View, CA",
+        "closed": "2026-11-05"
       },
       {
         "title": "Fullstack Engineer, UI Tools",
@@ -6962,6 +6977,13 @@
         "id": "lever:8955d154-acfc-4e6b-a68c-14f1438034c9",
         "url": "https://jobs.lever.co/tri/8955d154-acfc-4e6b-a68c-14f1438034c9",
         "location": "Cambridge, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Accelerated Science Intern, Multi-Agent Learning and Coordination",
+        "date": "2026-11-05",
+        "id": "lever:86e6a285-bb0a-4e84-8bf9-bd498d45c33d",
+        "url": "https://jobs.lever.co/tri/86e6a285-bb0a-4e84-8bf9-bd498d45c33d",
+        "location": "Los Altos, CA"
       }
     ],
     "Mitsubishi Electric Research Laboratories": [
@@ -15927,6 +15949,13 @@
         "id": "greenhouse:4419915009",
         "url": "https://job-boards.greenhouse.io/avride/jobs/4419915009",
         "location": "Lakeland, Florida"
+      },
+      {
+        "title": "Software Engineer, Sensors and System Software (C++, Linux)",
+        "date": "2026-11-05",
+        "id": "greenhouse:4483495009",
+        "url": "https://job-boards.greenhouse.io/avride/jobs/4483495009",
+        "location": "Austin, Texas"
       }
     ],
     "May Mobility": [
@@ -20682,6 +20711,55 @@
         "date": "2026-11-05",
         "id": "lever:a5483274-c09e-4338-b2e4-cf0b373655d1",
         "url": "https://jobs.lever.co/zoox/a5483274-c09e-4338-b2e4-cf0b373655d1",
+        "location": "Foster City, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Hardware Engineer Intern, Manufacturing Operations [Summer 2027]",
+        "date": "2026-11-05",
+        "id": "lever:53f5297a-fe30-4e1e-ab1c-96db5b23eded",
+        "url": "https://jobs.lever.co/zoox/53f5297a-fe30-4e1e-ab1c-96db5b23eded",
+        "location": "Foster City, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Hardware Engineer Intern, Vehicle Development [Summer 2027]",
+        "date": "2026-11-05",
+        "id": "lever:0accbf9e-9b09-4733-b495-fb6dce13ba62",
+        "url": "https://jobs.lever.co/zoox/0accbf9e-9b09-4733-b495-fb6dce13ba62",
+        "location": "Foster City, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Hardware Engineer Intern, Vehicle Systems [Summer 2027]",
+        "date": "2026-11-05",
+        "id": "lever:0c32245b-f51d-40d2-8e57-a0be1b744c5b",
+        "url": "https://jobs.lever.co/zoox/0c32245b-f51d-40d2-8e57-a0be1b744c5b",
+        "location": "Foster City, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Information Technology & Applications Intern [Summer 2027]",
+        "date": "2026-11-05",
+        "id": "lever:f35b2447-360f-4945-8ae8-16870e8d7558",
+        "url": "https://jobs.lever.co/zoox/f35b2447-360f-4945-8ae8-16870e8d7558",
+        "location": "Foster City, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer Intern, Autonomy Software [Summer 2027]",
+        "date": "2026-11-05",
+        "id": "lever:7b20b929-d9a4-4995-a472-16cd4925a877",
+        "url": "https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877",
+        "location": "Foster City, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer Intern, Software Platforms & Product [Summer 2027]",
+        "date": "2026-11-05",
+        "id": "lever:88f6cb68-1534-44af-80db-10e43c203520",
+        "url": "https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520",
+        "location": "Foster City, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer Intern, Software Systems [Summer 2027]",
+        "date": "2026-11-05",
+        "id": "lever:8b32157b-ab44-4078-85ea-1d8d7b747a20",
+        "url": "https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20",
         "location": "Foster City, CA"
       }
     ],
@@ -34886,7 +34964,8 @@
         "date": "N/A",
         "id": "lever:fe613d6b-3cad-48ae-9e5f-91a9d0ce8a96",
         "url": "https://jobs.lever.co/field-ai/fe613d6b-3cad-48ae-9e5f-91a9d0ce8a96",
-        "location": "Irvine, CA"
+        "location": "Irvine, CA",
+        "closed": "2026-11-05"
       },
       {
         "title": "Mechanical Engineer, Autonomous Vehicles (Federal)",
@@ -39123,7 +39202,8 @@
         "date": "2026-10-26",
         "id": "greenhouse:4173085009",
         "url": "https://job-boards.greenhouse.io/nimblerobotics/jobs/4173085009",
-        "location": "Haslet, TX"
+        "location": "Haslet, TX",
+        "closed": "2026-11-05"
       },
       {
         "title": "Senior Systems Integration & Test Engineer",
@@ -42736,7 +42816,8 @@
         "date": "2026-10-14",
         "id": "ashby:d5f30d63-303c-4899-8d68-c248c8d7905b",
         "url": "https://jobs.ashbyhq.com/saronic/d5f30d63-303c-4899-8d68-c248c8d7905b",
-        "location": "Austin, TX +1"
+        "location": "Austin, TX +1",
+        "closed": "2026-11-05"
       },
       {
         "title": "Software Engineer, Generalist",
@@ -46799,6 +46880,13 @@
         "id": "lever:fab19e1f-92a3-4118-98df-0ad7f1fef336",
         "url": "https://jobs.lever.co/plus-2/fab19e1f-92a3-4118-98df-0ad7f1fef336",
         "location": "Santa Clara, CA"
+      },
+      {
+        "title": "Principal Engineer, Mapping and Localization",
+        "date": "2026-11-05",
+        "id": "lever:8a381270-f77d-4300-b032-873e615bc529",
+        "url": "https://jobs.lever.co/plus-2/8a381270-f77d-4300-b032-873e615bc529",
+        "location": "Santa Clara, CA"
       }
     ],
     "Symbotic": [
@@ -50524,6 +50612,13 @@
         "id": "ashby:9a57c8ff-dd2b-4547-a46a-44658a699ba5",
         "url": "https://jobs.ashbyhq.com/rhoda-ai/9a57c8ff-dd2b-4547-a46a-44658a699ba5",
         "location": "Mountain View"
+      },
+      {
+        "title": "\u2b50\ufe0f Optical Sensing Intern - Robot Perception",
+        "date": "2026-11-05",
+        "id": "ashby:df2aa2a4-ca56-4fa6-b106-89a7fc6a9bb4",
+        "url": "https://jobs.ashbyhq.com/rhoda-ai/df2aa2a4-ca56-4fa6-b106-89a7fc6a9bb4",
+        "location": "Mountain View"
       }
     ],
     "Walden Robotics": [
@@ -51238,8 +51333,7 @@
         "date": "2026-10-22",
         "id": "lever:06bdf7d1-b80a-4aab-a748-21dbaed1feed",
         "url": "https://jobs.lever.co/woven-by-toyota/06bdf7d1-b80a-4aab-a748-21dbaed1feed",
-        "location": "Tokyo",
-        "closed": "2026-11-05"
+        "location": "Tokyo"
       },
       {
         "title": "Engineering Manager, ML Training Infrastructure",
@@ -52000,7 +52094,8 @@
         "date": "2026-10-22",
         "id": "ashby:501c1a01-1124-4ae3-b0da-607c4d1454cd",
         "url": "https://jobs.ashbyhq.com/generalist/501c1a01-1124-4ae3-b0da-607c4d1454cd",
-        "location": "San Francisco Bay Area (San Mateo)"
+        "location": "San Francisco Bay Area (San Mateo)",
+        "closed": "2026-11-05"
       },
       {
         "title": "Talent Acquisition Partner",
@@ -52056,7 +52151,8 @@
         "date": "2026-10-22",
         "id": "ashby:a9bee1c6-517b-4740-b4c0-10b6675bb07e",
         "url": "https://jobs.ashbyhq.com/generalist/a9bee1c6-517b-4740-b4c0-10b6675bb07e",
-        "location": "San Francisco Bay Area (San Mateo) or Boston (Somerville)"
+        "location": "San Francisco Bay Area (San Mateo) or Boston (Somerville)",
+        "closed": "2026-11-05"
       },
       {
         "title": "Software Engineer: Frontend",
@@ -55272,8 +55368,7 @@
         "date": "2026-10-22",
         "id": "ashby:7f76be3a-38d0-4ff4-b997-9f1672e78bc0",
         "url": "https://jobs.ashbyhq.com/openai/7f76be3a-38d0-4ff4-b997-9f1672e78bc0",
-        "location": "New York City",
-        "closed": "2026-11-05"
+        "location": "New York City"
       },
       {
         "title": "Forward Deployed Engineer (FDE), Healthcare - NYC",
@@ -57187,7 +57282,8 @@
         "date": "2026-10-22",
         "id": "ashby:b2250643-bfd0-4ce6-abbf-cb7e8c8123ba",
         "url": "https://jobs.ashbyhq.com/openai/b2250643-bfd0-4ce6-abbf-cb7e8c8123ba",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-05"
       },
       {
         "title": "Compute Electrical Engineer, Robotics",
@@ -59826,7 +59922,8 @@
         "date": "2026-11-02",
         "id": "ashby:ed37f572-0310-43fb-99b8-0600d9123638",
         "url": "https://jobs.ashbyhq.com/openai/ed37f572-0310-43fb-99b8-0600d9123638",
-        "location": "US - Remote"
+        "location": "US - Remote",
+        "closed": "2026-11-05"
       },
       {
         "title": "Senior Counsel, Trademark",
@@ -60149,6 +60246,34 @@
         "date": "2026-11-05",
         "id": "ashby:783704d7-5afa-45aa-899b-1d6799f73004",
         "url": "https://jobs.ashbyhq.com/openai/783704d7-5afa-45aa-899b-1d6799f73004",
+        "location": "San Francisco +1"
+      },
+      {
+        "title": "Forward Deployed Engineer (FDE), Cyber - NYC",
+        "date": "2026-11-05",
+        "id": "ashby:9c1aa1f3-b4d0-48fa-814b-37d36ad0ad2e",
+        "url": "https://jobs.ashbyhq.com/openai/9c1aa1f3-b4d0-48fa-814b-37d36ad0ad2e",
+        "location": "New York City +1"
+      },
+      {
+        "title": "Content Maker",
+        "date": "2026-11-05",
+        "id": "ashby:d4650f77-45ed-4bee-92ac-097a62fa6341",
+        "url": "https://jobs.ashbyhq.com/openai/d4650f77-45ed-4bee-92ac-097a62fa6341",
+        "location": "San Francisco"
+      },
+      {
+        "title": "Forward Deployed Engineer (FDE), Cyber - SF",
+        "date": "2026-11-05",
+        "id": "ashby:a84e6109-142f-45ae-80e1-05811732cca1",
+        "url": "https://jobs.ashbyhq.com/openai/a84e6109-142f-45ae-80e1-05811732cca1",
+        "location": "San Francisco"
+      },
+      {
+        "title": "Legal Program Manager",
+        "date": "2026-11-05",
+        "id": "ashby:cda6eab0-edab-4dfc-8923-40ca3b0928b5",
+        "url": "https://jobs.ashbyhq.com/openai/cda6eab0-edab-4dfc-8923-40ca3b0928b5",
         "location": "San Francisco +1"
       }
     ],
@@ -66987,7 +67112,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:4942024008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/4942024008",
-        "location": "San Francisco, CA | New York City, NY"
+        "location": "San Francisco, CA | New York City, NY",
+        "closed": "2026-11-05"
       },
       {
         "title": "Software Engineer, Business Technology",
@@ -67057,7 +67183,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5444766008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5444766008",
-        "location": "New York City, NY; San Francisco, CA; Seattle, WA"
+        "location": "New York City, NY; San Francisco, CA; Seattle, WA",
+        "closed": "2026-11-05"
       },
       {
         "title": "Software Engineer, Tokens and Prompt Structures",
@@ -67134,7 +67261,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5206978008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5206978008",
-        "location": "San Francisco, CA | New York City, NY | Seattle, WA"
+        "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+        "closed": "2026-11-05"
       },
       {
         "title": "Staff Research Engineer, Discovery Team",
@@ -68697,6 +68825,20 @@
         "id": "greenhouse:5468937008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468937008",
         "location": "San Francisco, CA"
+      },
+      {
+        "title": "Equity Accounting and Reporting",
+        "date": "2026-11-05",
+        "id": "greenhouse:5463197008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5463197008",
+        "location": "San Francisco, CA"
+      },
+      {
+        "title": "Public Policy, Strategic Advisory",
+        "date": "2026-11-05",
+        "id": "greenhouse:5473110008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5473110008",
+        "location": "San Francisco, CA; Washington, DC"
       }
     ],
     "xAI": [
@@ -68934,7 +69076,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5252678007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5252678007",
-        "location": "Southaven, MS; Memphis, TN"
+        "location": "Southaven, MS; Memphis, TN",
+        "closed": "2026-11-05"
       },
       {
         "title": "Certified Weld Inspector (CWI) - Memphis",
@@ -69025,7 +69168,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5269037007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5269037007",
-        "location": "Southaven, MS; Memphis, TN"
+        "location": "Southaven, MS; Memphis, TN",
+        "closed": "2026-11-05"
       },
       {
         "title": "Commissioning Engineer (Electrical) - Memphis",
@@ -69039,7 +69183,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5123063007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5123063007",
-        "location": "Southaven, MS; Memphis, TN"
+        "location": "Southaven, MS; Memphis, TN",
+        "closed": "2026-11-05"
       },
       {
         "title": "Construction Manager, Mechanical - Memphis",
@@ -69069,14 +69214,16 @@
         "date": "2026-10-27",
         "id": "greenhouse:5123051007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5123051007",
-        "location": "Southaven, MS; Memphis, TN"
+        "location": "Southaven, MS; Memphis, TN",
+        "closed": "2026-11-05"
       },
       {
         "title": "Construction Rigger - Memphis",
         "date": "2026-10-27",
         "id": "greenhouse:5246600007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5246600007",
-        "location": "Southaven, MS; Memphis, TN"
+        "location": "Southaven, MS; Memphis, TN",
+        "closed": "2026-11-05"
       },
       {
         "title": "Construction Scheduler - Memphis",
@@ -69127,7 +69274,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5123852007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5123852007",
-        "location": "Southaven, MS; Memphis, TN"
+        "location": "Southaven, MS; Memphis, TN",
+        "closed": "2026-11-05"
       },
       {
         "title": "Construction Superintendent, Structural (Night Shift) - Memphis",
@@ -69156,7 +69304,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5225280007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5225280007",
-        "location": "Southaven, MS; Memphis, TN"
+        "location": "Southaven, MS; Memphis, TN",
+        "closed": "2026-11-05"
       },
       {
         "title": "Controls Technician (Physical Infrastructure) - Memphis",
@@ -69594,14 +69743,16 @@
         "date": "2026-10-27",
         "id": "greenhouse:5246678007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5246678007",
-        "location": "Southaven, MS; Memphis, TN"
+        "location": "Southaven, MS; Memphis, TN",
+        "closed": "2026-11-05"
       },
       {
         "title": "Industrial Welder - Memphis",
         "date": "2026-10-27",
         "id": "greenhouse:5246657007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5246657007",
-        "location": "Southaven, MS; Memphis, TN"
+        "location": "Southaven, MS; Memphis, TN",
+        "closed": "2026-11-05"
       },
       {
         "title": "Infrastructure Security Engineer (Bare Metal & Platform)",
@@ -69636,7 +69787,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5248860007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5248860007",
-        "location": "Southaven, MS; Memphis, TN"
+        "location": "Southaven, MS; Memphis, TN",
+        "closed": "2026-11-05"
       },
       {
         "title": "IT Network Engineer - Memphis",
@@ -70113,7 +70265,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5224741007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5224741007",
-        "location": "Southaven, MS; Memphis, TN"
+        "location": "Southaven, MS; Memphis, TN",
+        "closed": "2026-11-05"
       },
       {
         "title": "Porter - Memphis",
@@ -71053,6 +71206,41 @@
         "id": "greenhouse:5279647007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5279647007",
         "location": "Austin, TX; Los Angeles, CA; New York, NY; Palo Alto, CA"
+      },
+      {
+        "title": "Analytics Engineer (X)",
+        "date": "2026-11-05",
+        "id": "greenhouse:5286889007",
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5286889007",
+        "location": "Palo Alto, CA"
+      },
+      {
+        "title": "Construction Manager, Electrical - Mobile Construction",
+        "date": "2026-11-05",
+        "id": "greenhouse:5283867007",
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5283867007",
+        "location": "Southaven, MS; Memphis, TN"
+      },
+      {
+        "title": "Construction Manager, Structural - Mobile Construction",
+        "date": "2026-11-05",
+        "id": "greenhouse:5283864007",
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5283864007",
+        "location": "Southaven, MS; Memphis, TN"
+      },
+      {
+        "title": "Construction Superintendent, Electrical - Mobile Construction",
+        "date": "2026-11-05",
+        "id": "greenhouse:5279988007",
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5279988007",
+        "location": "Southaven, MS; Memphis, TN"
+      },
+      {
+        "title": "Construction Superintendent, Structural - Mobile Construction",
+        "date": "2026-11-05",
+        "id": "greenhouse:5280765007",
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5280765007",
+        "location": "Southaven, MS; Memphis, TN"
       }
     ],
     "Thinking Machines Lab": [
@@ -73018,7 +73206,8 @@
         "date": "2026-11-01",
         "id": "lever:4b778d4b-9fab-4df8-9a91-0728e6658a48",
         "url": "https://jobs.lever.co/pyka/4b778d4b-9fab-4df8-9a91-0728e6658a48",
-        "location": "Alameda HQ"
+        "location": "Alameda HQ",
+        "closed": "2026-11-05"
       },
       {
         "title": "Field Maintenance Specialist (Brazil only)",
@@ -73089,6 +73278,13 @@
         "id": "lever:2c7db323-e4e8-4c07-8ec6-ad351b0f24eb",
         "url": "https://jobs.lever.co/pyka/2c7db323-e4e8-4c07-8ec6-ad351b0f24eb",
         "location": "Alameda HQ"
+      },
+      {
+        "title": "Logistics Analyst (Cuiab\u00e1, Brazil only)",
+        "date": "2026-11-05",
+        "id": "lever:43f0df97-ca88-4bdb-bf49-0cc22ab3b8ef",
+        "url": "https://jobs.lever.co/pyka/43f0df97-ca88-4bdb-bf49-0cc22ab3b8ef",
+        "location": "Cuiaba"
       }
     ],
     "Tuesday Labs": [
