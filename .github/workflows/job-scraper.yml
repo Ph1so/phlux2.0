@@ -4,8 +4,11 @@ on:
   push:
     branches:
       - main
+  # Hourly, 6am-11pm Eastern all year: cron is UTC, so 10:00-04:00 UTC covers
+  # both EDT (UTC-4) and EST (UTC-5), with an extra run at one end of the day.
+  # Minute 17 because GitHub delays and drops runs most at the top of the hour.
   schedule:
-    - cron: '0 10-23,0 * * *'
+    - cron: '17 0-4,10-23 * * *'
   workflow_dispatch:
 
 permissions:
