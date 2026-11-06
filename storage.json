@@ -3288,7 +3288,8 @@
         "date": "2026-10-26",
         "id": "meta:1831104024740439",
         "url": "https://www.metacareers.com/profile/job_details/1831104024740439/",
-        "location": "Redmond, WA"
+        "location": "Redmond, WA",
+        "closed": "2026-11-06"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, FAIR - Video Generation Self-Improvement (PhD)",
@@ -28822,7 +28823,9 @@
       {
         "title": "Senior Systems Test Engineer",
         "date": "N/A",
-        "closed": "N/A"
+        "id": "ashby:d0918f28-c018-4911-8237-a7acacce7930",
+        "url": "https://jobs.ashbyhq.com/AeroVect/d0918f28-c018-4911-8237-a7acacce7930",
+        "location": "Atlanta - Hybrid +5"
       },
       {
         "title": "Operations Safety Lead",
