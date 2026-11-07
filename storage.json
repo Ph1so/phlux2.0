@@ -845,8 +845,7 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557021663",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557021663",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-06"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Product Management Intern - CTJ - TS",
@@ -943,8 +942,7 @@
         "date": "2026-10-16",
         "id": "eightfold:1970393557041730",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557045445",
-        "location": "United States, Washington, Redmond +1",
-        "closed": "2026-11-06"
+        "location": "United States, Washington, Redmond +1"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Machine Learning at MSR NYC",
@@ -18671,7 +18669,8 @@
         "date": "2026-10-26",
         "id": "ashby:058e3b3a-dd13-4736-84a8-b19d5de2c9f5",
         "url": "https://jobs.ashbyhq.com/aurora-operations-inc/058e3b3a-dd13-4736-84a8-b19d5de2c9f5",
-        "location": "Mountain View, CA +1"
+        "location": "Mountain View, CA +1",
+        "closed": "2026-11-06"
       },
       {
         "title": "\u2b50\ufe0f Full Stack Intern",
