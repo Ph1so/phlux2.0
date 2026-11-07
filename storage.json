@@ -9626,6 +9626,20 @@
         "id": "tesla:289240",
         "url": "https://www.tesla.com/careers/search/job/internship-software-engineer-si-reinforcement-learning-winter-spring-2027-289240",
         "location": "Palo Alto, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Internship, Software Engineer, Inference Infrastructure (Summer 2027)",
+        "date": "2026-11-06",
+        "id": "tesla:289254",
+        "url": "https://www.tesla.com/careers/search/job/internship-software-engineer-inference-infrastructure-summer-2027-289254",
+        "location": "Palo Alto, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Internship, Software Engineer, SI Reinforcement Learning (Summer 2027)",
+        "date": "2026-11-06",
+        "id": "tesla:289241",
+        "url": "https://www.tesla.com/careers/search/job/internship-software-engineer-si-reinforcement-learning-summer-2027-289241",
+        "location": "Palo Alto, CA"
       }
     ],
     "Gecko Robotics": [
@@ -22367,6 +22381,13 @@
         "date": "2026-11-06",
         "id": "lever:614f35d6-a415-4f44-be38-cb38877df1db",
         "url": "https://jobs.lever.co/zoox/614f35d6-a415-4f44-be38-cb38877df1db",
+        "location": "Foster City, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f AI Workflows & Safety Decision Making Intern [2027]",
+        "date": "2026-11-06",
+        "id": "lever:0168ad29-2fd8-4c91-865c-b9fff8aa30c1",
+        "url": "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1",
         "location": "Foster City, CA"
       }
     ],
@@ -52896,8 +52917,7 @@
         "date": "2026-10-22",
         "id": "rippling:be20eb3c-d633-4dd2-9d31-52b12a728afc",
         "url": "https://ats.rippling.com/walden-robotics/jobs/be20eb3c-d633-4dd2-9d31-52b12a728afc",
-        "location": "Cambridge, MA",
-        "closed": "2026-11-02"
+        "location": "Cambridge, MA"
       },
       {
         "title": "Environmental Health & Safety Lead",
@@ -52926,8 +52946,7 @@
         "date": "2026-10-22",
         "id": "rippling:f176aaaf-e54b-4ca6-82d8-f9b39e5e4cd8",
         "url": "https://ats.rippling.com/walden-robotics/jobs/f176aaaf-e54b-4ca6-82d8-f9b39e5e4cd8",
-        "location": "Cambridge, MA",
-        "closed": "2026-11-02"
+        "location": "Cambridge, MA"
       },
       {
         "title": "Senior Corporate Security Engineer",
@@ -67939,8 +67958,7 @@
         "date": "2026-10-27",
         "id": "greenhouse:5409191008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5409191008",
-        "location": "San Francisco, CA",
-        "closed": "2026-11-06"
+        "location": "San Francisco, CA"
       },
       {
         "title": "Litigation Counsel",
@@ -73699,6 +73717,20 @@
         "id": "greenhouse:5286971007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5286971007",
         "location": "Palo Alto, CA"
+      },
+      {
+        "title": "Sr. Model Engineer, Imagine",
+        "date": "2026-11-06",
+        "id": "greenhouse:5286975007",
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5286975007",
+        "location": "Palo Alto, CA"
+      },
+      {
+        "title": "Sr. Model Engineer, Voice",
+        "date": "2026-11-06",
+        "id": "greenhouse:5286973007",
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5286973007",
+        "location": "Palo Alto, CA"
       }
     ],
     "Thinking Machines Lab": [
@@ -75709,7 +75741,8 @@
         "date": "2026-11-06",
         "id": "greenhouse:5476047008",
         "url": "https://job-boards.greenhouse.io/icarus/jobs/5476047008",
-        "location": "El Segundo"
+        "location": "El Segundo",
+        "closed": "2026-11-06"
       },
       {
         "title": "Warehouse Associate",
