@@ -1014,7 +1014,8 @@
         "date": "2026-10-22",
         "id": "eightfold:1970393557040991",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557040991",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-07"
       },
       {
         "title": "\u2b50\ufe0f Security Research Intern",
@@ -1132,7 +1133,8 @@
         "date": "2026-11-02",
         "id": "eightfold:1970393557044764",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557044764",
-        "location": "United States, California, Aliso Viejo"
+        "location": "United States, California, Aliso Viejo",
+        "closed": "2026-11-07"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Speech Processing",
@@ -55485,8 +55487,7 @@
         "date": "2026-10-22",
         "id": "greenhouse:4974163101",
         "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=4974163101&gh_jid=4974163101",
-        "location": "London, United Kingdom",
-        "closed": "2026-11-04"
+        "location": "London, United Kingdom"
       },
       {
         "title": "Senior Data Engineer",
@@ -57415,7 +57416,8 @@
         "date": "2026-10-22",
         "id": "ashby:d6476403-46f5-4748-aa19-25c52d241cdc",
         "url": "https://jobs.ashbyhq.com/openai/d6476403-46f5-4748-aa19-25c52d241cdc",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-07"
       },
       {
         "title": "Manager, Revenue Accounting, Technical (Strategic Commercial Deals)",
@@ -76944,15 +76946,15 @@
   "checked": {
     "Google": "2026-11-07",
     "Meta": "2026-11-07",
-    "Nvidia": "2026-11-06",
+    "Nvidia": "2026-11-07",
     "AWS": "2026-11-07",
     "Amazon": "2026-11-07",
     "Netflix": "2026-11-07",
-    "Autodesk": "2026-11-06",
+    "Autodesk": "2026-11-07",
     "Apple": "2026-11-07",
     "Optiver": "2026-11-07",
     "Citadel": "2026-11-07",
-    "Blue Origin": "2026-11-06",
+    "Blue Origin": "2026-11-07",
     "Hudson River Trading": "2026-11-07",
     "Riot Games": "2026-11-07",
     "DE Shaws": "2026-11-07",
@@ -76964,7 +76966,7 @@
     "SpaceX": "2026-11-07",
     "Neuralink": "2026-11-07",
     "Zipline": "2026-11-07",
-    "Boston Dynamics": "2026-11-06",
+    "Boston Dynamics": "2026-11-07",
     "Scale AI": "2026-11-07",
     "Relativity": "2026-11-07",
     "Palantir": "2026-11-07",
@@ -77039,7 +77041,7 @@
     "FieldAI": "2026-11-07",
     "Humanoid": "2026-11-07",
     "World Labs": "2026-11-07",
-    "General Motors": "2026-11-06",
+    "General Motors": "2026-11-07",
     "Niantic Spatial": "2026-11-07",
     "Wing": "2026-11-07",
     "Physical Intelligence": "2026-11-07",
@@ -77075,7 +77077,7 @@
     "Woven by Toyota": "2026-11-07",
     "OpenAI": "2026-11-07",
     "Ocado": "2026-11-07",
-    "Caterpillar": "2026-11-06",
+    "Caterpillar": "2026-11-07",
     "Joby Aviation": "2026-11-07",
     "Mobileye": "2026-11-07",
     "Neura Robotics": "2026-11-07",
@@ -77100,40 +77102,12 @@
     "Tuesday Labs": "2026-11-07",
     "Weave Robotics": "2026-11-07",
     "Boost Robotics": "2026-11-07",
-    "Oshkosh": "2026-11-06"
+    "Oshkosh": "2026-11-07"
   },
   "failing": {
     "Anywhere Robotics": {
       "since": "2026-11-02",
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.gusto.com/boards/anyware-robotics-e7cbbd33-db1c-470e-93b3-020992d24e20"
-    },
-    "Nvidia": {
-      "since": "2026-11-07",
-      "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-    },
-    "Autodesk": {
-      "since": "2026-11-07",
-      "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-    },
-    "Blue Origin": {
-      "since": "2026-11-07",
-      "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-    },
-    "Boston Dynamics": {
-      "since": "2026-11-07",
-      "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-    },
-    "General Motors": {
-      "since": "2026-11-07",
-      "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-    },
-    "Caterpillar": {
-      "since": "2026-11-07",
-      "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
-    },
-    "Oshkosh": {
-      "since": "2026-11-07",
-      "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
     }
   }
 }
