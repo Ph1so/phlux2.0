@@ -77195,14 +77195,6 @@
     "Tesla": {
       "since": "2026-11-08",
       "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
-    },
-    "Pony.ai": {
-      "since": "2026-11-08",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/pony-dot-ai/jobs"
-    },
-    "Realtime Robotics": {
-      "since": "2026-11-08",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/realtime-robotics/jobs"
     }
   }
 }
