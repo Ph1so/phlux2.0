@@ -31722,6 +31722,37 @@
         "id": "lever:a33572c0-d03e-4be9-812a-673bb66e3a6e",
         "url": "https://jobs.lever.co/shieldai/a33572c0-d03e-4be9-812a-673bb66e3a6e",
         "location": "Seattle, Washington"
+      },
+      {
+        "title": "Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125",
+        "date": "2026-11-08",
+        "id": "lever:af183d8c-51d0-40df-9c04-fbddae0d83aa",
+        "url": "https://jobs.lever.co/shieldai/af183d8c-51d0-40df-9c04-fbddae0d83aa",
+        "location": "Washington, D.C.",
+        "early": "As an entry-level engineer, you will work with experienced engineers on well-defined software, configuration, and test tasks."
+      },
+      {
+        "title": "Engineer I, Software - Autonomy Capabilities - New Grad - 6129",
+        "date": "2026-11-08",
+        "id": "lever:f8e0f87f-0e12-4e05-a491-4e8272494896",
+        "url": "https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896",
+        "location": "United States",
+        "early": "As an entry-level engineer, you will build and test well-defined autonomy software with regular guidance from experienced engineers."
+      },
+      {
+        "title": "Engineer I, Software - Perception - New Grad - 6135",
+        "date": "2026-11-08",
+        "id": "lever:cd641bcb-f613-44dd-b66d-2df360067319",
+        "url": "https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319",
+        "location": "Washington, D.C.",
+        "early": "As an entry-level engineer, you will develop and validate well-defined perception features, tools, or tests alongside experienced engineers."
+      },
+      {
+        "title": "Engineer II, Software - Ground Control Station - Full Stack - New Grad - 6140",
+        "date": "2026-11-08",
+        "id": "lever:88f7b66e-3412-40c8-b74d-aafc462405ff",
+        "url": "https://jobs.lever.co/shieldai/88f7b66e-3412-40c8-b74d-aafc462405ff",
+        "location": "Washington, D.C."
       }
     ],
     "Swarm Aero": [
@@ -71345,6 +71376,13 @@
         "id": "greenhouse:5472952008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5472952008",
         "location": "San Francisco, CA | New York City, NY"
+      },
+      {
+        "title": "Research Engineer, Cybersecurity RL",
+        "date": "2026-11-08",
+        "id": "greenhouse:5459191008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459191008",
+        "location": "San Francisco, CA | New York City, NY"
       }
     ],
     "xAI": [
@@ -77157,6 +77195,14 @@
     "Tesla": {
       "since": "2026-11-08",
       "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
+    },
+    "Pony.ai": {
+      "since": "2026-11-08",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/pony-dot-ai/jobs"
+    },
+    "Realtime Robotics": {
+      "since": "2026-11-08",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/realtime-robotics/jobs"
     }
   }
 }

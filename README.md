@@ -12,7 +12,7 @@
 <p>
   <a href="https://ph1so.github.io/phlux2.0/"><img src="https://img.shields.io/badge/browse-internships-1f5fff?style=flat-square" alt="Browse internships"></a>
   <a href="https://github.com/Ph1so/phlux2.0/actions/workflows/job-scraper.yml"><img src="https://img.shields.io/github/actions/workflow/status/Ph1so/phlux2.0/job-scraper.yml?branch=main&style=flat-square&label=scraper" alt="Scraper status"></a>
-  <img src="https://img.shields.io/badge/roles_tracked-33.8k-475467?style=flat-square" alt="33,844 roles tracked">
+  <img src="https://img.shields.io/badge/roles_tracked-33.8k-475467?style=flat-square" alt="33,849 roles tracked">
 </p>
 
 <p><a href="https://ph1so.github.io/phlux2.0/"><b>Website</b></a> &nbsp;·&nbsp; <a href="listings/README.md"><b>All listings</b></a></p>
@@ -21,7 +21,7 @@
 
 ## Latest roles
 
-Showing the 615 most recent of 33,844 roles tracked across 279 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
+Showing the 614 most recent of 33,849 roles tracked across 279 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
 
 
 <table>
@@ -34,6 +34,34 @@ Showing the 615 most recent of 33,844 roles tracked across 279 companies. ⭐️
   </thead>
   <tbody>
 
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/shieldai?commitment=Intern"><img src="https://cdn.brandfetch.io/shield.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Shield AI" height="20" style="vertical-align:middle; margin-right:6px;"> Shield AI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/shieldai/af183d8c-51d0-40df-9c04-fbddae0d83aa">Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125</a></div></td>
+  <td>2026-11-08</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/shieldai?commitment=Intern"><img src="https://cdn.brandfetch.io/shield.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Shield AI" height="20" style="vertical-align:middle; margin-right:6px;"> Shield AI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896">Engineer I, Software - Autonomy Capabilities - New Grad - 6129</a></div></td>
+  <td>2026-11-08</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/shieldai?commitment=Intern"><img src="https://cdn.brandfetch.io/shield.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Shield AI" height="20" style="vertical-align:middle; margin-right:6px;"> Shield AI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319">Engineer I, Software - Perception - New Grad - 6135</a></div></td>
+  <td>2026-11-08</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/shieldai?commitment=Intern"><img src="https://cdn.brandfetch.io/shield.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Shield AI" height="20" style="vertical-align:middle; margin-right:6px;"> Shield AI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/shieldai/88f7b66e-3412-40c8-b74d-aafc462405ff">Engineer II, Software - Ground Control Station - Full Stack - New Grad - 6140</a></div></td>
+  <td>2026-11-08</td>
+</tr>
   <tr>
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
@@ -53,6 +81,13 @@ Showing the 615 most recent of 33,844 roles tracked across 279 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.eu.lever.co/mobileye"><img src="https://cdn.brandfetch.io/mobileye.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mobileye" height="20" style="vertical-align:middle; margin-right:6px;"> Mobileye</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.eu.lever.co/mobileye/342bbac1-839f-4aff-a050-ceb39ceef9aa">Data Analytics Project Manager</a></div></td>
+  <td>2026-11-08</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5459191008">Research Engineer, Cybersecurity RL</a></div></td>
   <td>2026-11-08</td>
 </tr>
   <tr>
@@ -4295,48 +4330,6 @@ Showing the 615 most recent of 33,844 roles tracked across 279 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh?workerSubType=247b1d93650401bb5dd910235911ff06&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/oshkoshcorp.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Oshkosh" height="20" style="vertical-align:middle; margin-right:6px;"> Oshkosh</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Bradenton-Florida-United-States/Student-Electrician---1st-Shift_R51241">⭐️ Student Electrician - 1st Shift</a></div></td>
-  <td>2026-11-02</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh?workerSubType=247b1d93650401bb5dd910235911ff06&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/oshkoshcorp.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Oshkosh" height="20" style="vertical-align:middle; margin-right:6px;"> Oshkosh</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Bradenton-Florida-United-States/Student-Welder---1st-Shift_R51239">⭐️ Student Welder - 1st Shift</a></div></td>
-  <td>2026-11-02</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh?workerSubType=247b1d93650401bb5dd910235911ff06&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/oshkoshcorp.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Oshkosh" height="20" style="vertical-align:middle; margin-right:6px;"> Oshkosh</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Bradenton-Florida-United-States/Student-Painter---1st-Shift_R51238">⭐️ Student Painter - 1st Shift</a></div></td>
-  <td>2026-11-02</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh?workerSubType=247b1d93650401bb5dd910235911ff06&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/oshkoshcorp.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Oshkosh" height="20" style="vertical-align:middle; margin-right:6px;"> Oshkosh</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Industrial-Design-Intern_R49703">⭐️ Industrial Design Intern</a></div></td>
-  <td>2026-11-02</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh?workerSubType=247b1d93650401bb5dd910235911ff06&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/oshkoshcorp.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Oshkosh" height="20" style="vertical-align:middle; margin-right:6px;"> Oshkosh</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Madison-Wisconsin-United-States/FEA-Engineer-Intern_R51129">⭐️ FEA Engineer Intern</a></div></td>
-  <td>2026-11-02</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh?workerSubType=247b1d93650401bb5dd910235911ff06&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/oshkoshcorp.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Oshkosh" height="20" style="vertical-align:middle; margin-right:6px;"> Oshkosh</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Clearwater-Florida-United-States/Engineer-Intern---Mechanical--Year-Round-_R51145">⭐️ Engineer Intern - Mechanical (Year Round)</a></div></td>
-  <td>2026-11-02</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh?workerSubType=247b1d93650401bb5dd910235911ff06&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/oshkoshcorp.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Oshkosh" height="20" style="vertical-align:middle; margin-right:6px;"> Oshkosh</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/International-Finance-Intern--Year-Round-_R51139">⭐️ International Finance Intern (Year Round)</a></div></td>
   <td>2026-11-02</td>
 </tr>
 
