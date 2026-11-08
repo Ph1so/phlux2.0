@@ -1112,7 +1112,8 @@
         "date": "2026-11-02",
         "id": "eightfold:1970393556925823",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556925823",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-08"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
@@ -60140,7 +60141,8 @@
         "date": "2026-10-22",
         "id": "ashby:6ba0ce24-ad32-4c3b-b49c-b373be9a8480",
         "url": "https://jobs.ashbyhq.com/openai/6ba0ce24-ad32-4c3b-b49c-b373be9a8480",
-        "location": "US - Remote +2"
+        "location": "US - Remote +2",
+        "closed": "2026-11-08"
       },
       {
         "title": "Data Center Controls Network Engineer",
@@ -60189,8 +60191,7 @@
         "date": "2026-10-22",
         "id": "ashby:0ed12b35-0115-4ad3-81f5-ea1bb05c9f6b",
         "url": "https://jobs.ashbyhq.com/openai/0ed12b35-0115-4ad3-81f5-ea1bb05c9f6b",
-        "location": "San Francisco +2",
-        "closed": "2026-11-06"
+        "location": "San Francisco +2"
       },
       {
         "title": "Datacenter Networking Technician, AI Compute Deployment - Stargate",
@@ -61787,7 +61788,8 @@
         "date": "2026-10-27",
         "id": "ashby:d1abed60-d3d1-4c8d-a58b-3a96139fbf4e",
         "url": "https://jobs.ashbyhq.com/openai/d1abed60-d3d1-4c8d-a58b-3a96139fbf4e",
-        "location": "US - Remote"
+        "location": "US - Remote",
+        "closed": "2026-11-08"
       },
       {
         "title": "Technical Program Manager, Lab Infrastructure (Silicon & Systems)",
@@ -61881,7 +61883,8 @@
         "date": "2026-10-28",
         "id": "ashby:86133dea-e4e2-4030-b8e6-8f944be27b0e",
         "url": "https://jobs.ashbyhq.com/openai/86133dea-e4e2-4030-b8e6-8f944be27b0e",
-        "location": "US - Remote"
+        "location": "US - Remote",
+        "closed": "2026-11-08"
       },
       {
         "title": "Motion Designer",
@@ -61917,7 +61920,8 @@
         "date": "2026-10-28",
         "id": "ashby:c3f0fb07-2153-4ba9-b812-cd7ceb363ae8",
         "url": "https://jobs.ashbyhq.com/openai/c3f0fb07-2153-4ba9-b812-cd7ceb363ae8",
-        "location": "US - Remote"
+        "location": "US - Remote",
+        "closed": "2026-11-08"
       },
       {
         "title": "Network Infrastructure Lead",
@@ -62661,6 +62665,13 @@
         "id": "ashby:41408133-b45f-4c7b-a0df-c050f16d92de",
         "url": "https://jobs.ashbyhq.com/openai/41408133-b45f-4c7b-a0df-c050f16d92de",
         "location": "New York City"
+      },
+      {
+        "title": "Civil & Structural Architect, Power Generation",
+        "date": "2026-11-08",
+        "id": "ashby:1a475859-21e3-45fc-9e93-8763aa1d0992",
+        "url": "https://jobs.ashbyhq.com/openai/1a475859-21e3-45fc-9e93-8763aa1d0992",
+        "location": "US - Remote"
       }
     ],
     "John Deere": [
@@ -62977,7 +62988,8 @@
         "date": "2026-10-22",
         "id": "lever:51ce434c-d324-4817-bd2f-55fe5046991e",
         "url": "https://jobs.eu.lever.co/mobileye/51ce434c-d324-4817-bd2f-55fe5046991e",
-        "location": "Ramat Gan, Israel"
+        "location": "Ramat Gan, Israel",
+        "closed": "2026-11-08"
       },
       {
         "title": "AI Engineering Execution Manager (Temporary Position - Maternity Leave)",
@@ -63736,7 +63748,8 @@
         "title": "Production Software Engineer for Algo Objects",
         "date": "2026-10-22",
         "id": "lever:b571e504-4e18-4de1-a12f-eaac1392bf8f",
-        "closed": "N/A"
+        "url": "https://jobs.eu.lever.co/mobileye/b571e504-4e18-4de1-a12f-eaac1392bf8f",
+        "location": "Jerusalem, Israel"
       },
       {
         "title": "Python Data Solutions Specialist-Temporary Position",
@@ -63877,7 +63890,8 @@
         "date": "2026-10-22",
         "id": "lever:48a6b951-576a-45cd-b347-9eeb2e3a6e34",
         "url": "https://jobs.eu.lever.co/mobileye/48a6b951-576a-45cd-b347-9eeb2e3a6e34",
-        "location": "Ramat Gan, Israel"
+        "location": "Ramat Gan, Israel",
+        "closed": "2026-11-08"
       },
       {
         "title": "Sr. Software Engineer - Robot Compute Platform",
@@ -63923,8 +63937,7 @@
         "date": "2026-10-22",
         "id": "lever:c457aba7-5e7c-4085-ae7d-f9e2001621b6",
         "url": "https://jobs.eu.lever.co/mobileye/c457aba7-5e7c-4085-ae7d-f9e2001621b6",
-        "location": "Jerusalem, Israel",
-        "closed": "2026-11-05"
+        "location": "Jerusalem, Israel"
       },
       {
         "title": "Experienced SoC Verification Engineer",
@@ -63978,7 +63991,8 @@
         "date": "2026-10-22",
         "id": "lever:6a585853-ec67-49fb-af6d-68adc60b5977",
         "url": "https://jobs.eu.lever.co/mobileye/6a585853-ec67-49fb-af6d-68adc60b5977",
-        "location": "Tel-Aviv, Israel"
+        "location": "Tel-Aviv, Israel",
+        "closed": "2026-11-08"
       },
       {
         "title": "Deep Learning Algorithm Developer",
@@ -64228,7 +64242,8 @@
         "date": "2026-11-03",
         "id": "lever:df0e4aa1-62ca-4774-b443-cc806a8d28ab",
         "url": "https://jobs.eu.lever.co/mobileye/df0e4aa1-62ca-4774-b443-cc806a8d28ab",
-        "location": "Ramat Gan, Israel"
+        "location": "Ramat Gan, Israel",
+        "closed": "2026-11-08"
       },
       {
         "title": "Strategic Sales and Account Management Team Lead",
@@ -64309,6 +64324,20 @@
         "date": "2026-11-05",
         "id": "lever:3e606a90-02b2-4449-959d-e9a12ce7cd53",
         "url": "https://jobs.eu.lever.co/mobileye/3e606a90-02b2-4449-959d-e9a12ce7cd53",
+        "location": "Jerusalem, Israel"
+      },
+      {
+        "title": "Autonomous Vehicle Validation Field Engineer",
+        "date": "2026-11-08",
+        "id": "lever:6fccf6c1-f0c6-4f95-b290-48410598752e",
+        "url": "https://jobs.eu.lever.co/mobileye/6fccf6c1-f0c6-4f95-b290-48410598752e",
+        "location": "Jerusalem, Israel"
+      },
+      {
+        "title": "Data Analytics Project Manager",
+        "date": "2026-11-08",
+        "id": "lever:342bbac1-839f-4aff-a050-ceb39ceef9aa",
+        "url": "https://jobs.eu.lever.co/mobileye/342bbac1-839f-4aff-a050-ceb39ceef9aa",
         "location": "Jerusalem, Israel"
       }
     ],
@@ -77124,6 +77153,10 @@
     "Anywhere Robotics": {
       "since": "2026-11-02",
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.gusto.com/boards/anyware-robotics-e7cbbd33-db1c-470e-93b3-020992d24e20"
+    },
+    "Tesla": {
+      "since": "2026-11-08",
+      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
     }
   }
 }
