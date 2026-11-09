@@ -949,7 +949,8 @@
         "date": "2026-10-15",
         "id": "eightfold:1970393557041731",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-09"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Gray Systems Lab (GSL)",
@@ -3729,6 +3730,13 @@
         "id": "meta:1457417369832343",
         "url": "https://www.metacareers.com/profile/job_details/1457417369832343/",
         "location": "Singapore"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Computational Photography & Computer Vision (PhD)",
+        "date": "2026-11-09",
+        "id": "meta:1670489511324528",
+        "url": "https://www.metacareers.com/profile/job_details/1670489511324528/",
+        "location": "Redmond, WA"
       }
     ],
     "Apple": [
@@ -5351,7 +5359,8 @@
         "date": "N/A",
         "id": "greenhouse:8222014",
         "url": "https://www.riotgames.com/en/work-with-us/job/8222014?gh_jid=8222014",
-        "location": "Los Angeles, USA"
+        "location": "Los Angeles, USA",
+        "closed": "2026-11-09"
       }
     ],
     "Jane Street": [
@@ -7551,6 +7560,13 @@
         "id": "ashby:1f3826bd-12da-41c5-a8ad-7b4efc9483b1",
         "url": "https://jobs.ashbyhq.com/skydio/1f3826bd-12da-41c5-a8ad-7b4efc9483b1",
         "location": "San Mateo, California, United States"
+      },
+      {
+        "title": "\u2b50\ufe0f Systems Engineering Intern - Summer 2027",
+        "date": "2026-11-09",
+        "id": "ashby:33f1f123-8cec-4e6a-b125-e8831603a62a",
+        "url": "https://jobs.ashbyhq.com/skydio/33f1f123-8cec-4e6a-b125-e8831603a62a",
+        "location": "San Mateo, California, United States"
       }
     ],
     "Relativity": [
@@ -9686,7 +9702,8 @@
         "date": "2026-11-06",
         "id": "tesla:289254",
         "url": "https://www.tesla.com/careers/search/job/internship-software-engineer-inference-infrastructure-summer-2027-289254",
-        "location": "Palo Alto, CA"
+        "location": "Palo Alto, CA",
+        "closed": "2026-11-09"
       },
       {
         "title": "\u2b50\ufe0f Internship, Software Engineer, SI Reinforcement Learning (Summer 2027)",
@@ -27213,6 +27230,13 @@
         "id": "ashby:f70e454e-b938-466e-be3f-e52ee5ebf51f",
         "url": "https://jobs.ashbyhq.com/sunday/f70e454e-b938-466e-be3f-e52ee5ebf51f",
         "location": "Redwood City, CA"
+      },
+      {
+        "title": "Technical Recruiter",
+        "date": "2026-11-09",
+        "id": "ashby:9df4261f-af13-4167-acd7-46e319e8c070",
+        "url": "https://jobs.ashbyhq.com/sunday/9df4261f-af13-4167-acd7-46e319e8c070",
+        "location": "Redwood City, CA"
       }
     ],
     "Machina Labs": [
@@ -29076,14 +29100,16 @@
         "date": "N/A",
         "id": "ashby:ea2bc59e-075f-42f9-9df0-8c2e41c5731c",
         "url": "https://jobs.ashbyhq.com/AeroVect/ea2bc59e-075f-42f9-9df0-8c2e41c5731c",
-        "location": "Toronto - Remote"
+        "location": "Toronto - Remote",
+        "closed": "2026-11-09"
       },
       {
         "title": "Recruiter, Field Operations (Atlanta)",
         "date": "N/A",
         "id": "ashby:6f33d0e8-c271-4f37-b24e-9edc9c1cebf2",
         "url": "https://jobs.ashbyhq.com/AeroVect/6f33d0e8-c271-4f37-b24e-9edc9c1cebf2",
-        "location": "Atlanta - Hybrid"
+        "location": "Atlanta - Hybrid",
+        "closed": "2026-11-09"
       },
       {
         "title": "Senior Technical Recruiter, Hardware",
@@ -29755,7 +29781,8 @@
         "date": "N/A",
         "id": "greenhouse:5209843007",
         "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5209843007",
-        "location": "Remote"
+        "location": "Remote",
+        "closed": "2026-11-09"
       },
       {
         "title": "EUCOM Business Development Manager",
@@ -37217,7 +37244,8 @@
         "date": "N/A",
         "id": "lever:efa2ab69-0465-4e13-b512-119d0f72b099",
         "url": "https://jobs.lever.co/field-ai/efa2ab69-0465-4e13-b512-119d0f72b099",
-        "location": "Irvine, CA +1"
+        "location": "Irvine, CA +1",
+        "closed": "2026-11-09"
       },
       {
         "title": "Field Application Engineer",
@@ -40443,7 +40471,8 @@
         "date": "2026-10-13",
         "id": "greenhouse:8872578002",
         "url": "https://wing.com/careers/8872578002?gh_jid=8872578002",
-        "location": "Palo Alto, California"
+        "location": "Palo Alto, California",
+        "closed": "2026-11-09"
       },
       {
         "title": "\u2b50\ufe0f Execution & Topology Software Engineering Intern, Summer 2027",
@@ -43485,7 +43514,8 @@
         "date": "2026-10-14",
         "id": "greenhouse:8703221002",
         "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8703221002",
-        "location": "Ann Arbor, MI"
+        "location": "Ann Arbor, MI",
+        "closed": "2026-11-09"
       },
       {
         "title": "Software Engineer II, Mission Interface",
@@ -54582,6 +54612,20 @@
         "id": "lever:003be95c-64c2-49eb-b8a5-d116c638fa1b",
         "url": "https://jobs.lever.co/woven-by-toyota/003be95c-64c2-49eb-b8a5-d116c638fa1b",
         "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a"
+      },
+      {
+        "title": "Control Engineer, Behavior Actuation",
+        "date": "2026-11-09",
+        "id": "lever:f4bd3303-0dda-4538-8967-68f20d80da55",
+        "url": "https://jobs.lever.co/woven-by-toyota/f4bd3303-0dda-4538-8967-68f20d80da55",
+        "location": "Palo Alto, CA"
+      },
+      {
+        "title": "Senior Software Engineer, Behavior Actuation",
+        "date": "2026-11-09",
+        "id": "lever:dc8f88dd-4c62-4456-99d7-2c3c4a12e97b",
+        "url": "https://jobs.lever.co/woven-by-toyota/dc8f88dd-4c62-4456-99d7-2c3c4a12e97b",
+        "location": "Ann Arbor, MI"
       }
     ],
     "Generalist AI": [
@@ -57450,14 +57494,16 @@
         "date": "2026-10-22",
         "id": "ashby:7f299784-2c75-4d73-99e5-1e5043ec7b48",
         "url": "https://jobs.ashbyhq.com/openai/7f299784-2c75-4d73-99e5-1e5043ec7b48",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-09"
       },
       {
         "title": "Data Scientist, B2B Strategy & Intelligence",
         "date": "2026-10-22",
         "id": "ashby:756d8c20-649a-47f2-8012-553b5f6cb0c5",
         "url": "https://jobs.ashbyhq.com/openai/756d8c20-649a-47f2-8012-553b5f6cb0c5",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-09"
       },
       {
         "title": "Data Scientist, Codex",
@@ -63003,6 +63049,13 @@
         "date": "2026-11-09",
         "id": "ashby:6384df1b-c2e0-4265-ad9b-d4a7bca706d6",
         "url": "https://jobs.ashbyhq.com/openai/6384df1b-c2e0-4265-ad9b-d4a7bca706d6",
+        "location": "San Francisco"
+      },
+      {
+        "title": "Senior Counsel, Litigation (Safety)",
+        "date": "2026-11-09",
+        "id": "ashby:1a607736-8631-4fd9-a1a9-f790318d12d2",
+        "url": "https://jobs.ashbyhq.com/openai/1a607736-8631-4fd9-a1a9-f790318d12d2",
         "location": "San Francisco"
       }
     ],
@@ -73018,7 +73071,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5051985007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5051985007",
-        "location": "Palo Alto, CA"
+        "location": "Palo Alto, CA",
+        "closed": "2026-11-09"
       },
       {
         "title": "Member of Technical Staff - Imagine Product",
@@ -73047,7 +73101,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5111374007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5111374007",
-        "location": "Palo Alto, CA"
+        "location": "Palo Alto, CA",
+        "closed": "2026-11-09"
       },
       {
         "title": "Member of Technical Staff - Sandbox Service",
@@ -73308,7 +73363,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5213773007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5213773007",
-        "location": "Palo Alto, CA; Austin, TX; Bastrop, TX; New York, NY"
+        "location": "Palo Alto, CA; Austin, TX; Bastrop, TX; New York, NY",
+        "closed": "2026-11-09"
       },
       {
         "title": "Program Manager, Prohibited & Regulated Content",
@@ -74207,7 +74263,8 @@
         "date": "2026-11-06",
         "id": "greenhouse:5286976007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5286976007",
-        "location": "Palo Alto, CA"
+        "location": "Palo Alto, CA",
+        "closed": "2026-11-09"
       },
       {
         "title": "Sr. Software Engineer, Ads Product",
@@ -74228,7 +74285,8 @@
         "date": "2026-11-06",
         "id": "greenhouse:5286975007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5286975007",
-        "location": "Palo Alto, CA"
+        "location": "Palo Alto, CA",
+        "closed": "2026-11-09"
       },
       {
         "title": "Sr. Model Engineer, Voice",
@@ -74243,6 +74301,13 @@
         "id": "greenhouse:5288098007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5288098007",
         "location": "Palo Alto, CA; Seattle, WA"
+      },
+      {
+        "title": "Automation & Controls Engineer, Data Center Facilities",
+        "date": "2026-11-09",
+        "id": "greenhouse:5289470007",
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5289470007",
+        "location": "Southaven, MS; Memphis, TN"
       }
     ],
     "Thinking Machines Lab": [
@@ -75323,7 +75388,8 @@
         "date": "2026-10-27",
         "id": "workday:JR101459",
         "url": "https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Troy-Michigan/Buyer-II---Indirect-Procurement_JR101459",
-        "location": "Troy, Michigan"
+        "location": "Troy, Michigan",
+        "closed": "2026-11-09"
       },
       {
         "title": "Manufacturing Quality Engineer, GA",
@@ -77448,12 +77514,6 @@
         "title:\u2b50\ufe0f Supply Chain Engineering Intern \u2013 Robotics (2026 Fall)"
       ],
       "backlog": true
-    },
-    "Riot Games": {
-      "since": "2026-11-09T13:51-05:00",
-      "keys": [
-        "greenhouse:8222014"
-      ]
     }
   },
   "checked": {

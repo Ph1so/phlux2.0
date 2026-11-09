@@ -12,7 +12,7 @@
 <p>
   <a href="https://ph1so.github.io/phlux2.0/"><img src="https://img.shields.io/badge/browse-internships-1f5fff?style=flat-square" alt="Browse internships"></a>
   <a href="https://github.com/Ph1so/phlux2.0/actions/workflows/job-scraper.yml"><img src="https://img.shields.io/github/actions/workflow/status/Ph1so/phlux2.0/job-scraper.yml?branch=main&style=flat-square&label=scraper" alt="Scraper status"></a>
-  <img src="https://img.shields.io/badge/roles_tracked-33.9k-475467?style=flat-square" alt="33,895 roles tracked">
+  <img src="https://img.shields.io/badge/roles_tracked-33.9k-475467?style=flat-square" alt="33,901 roles tracked">
 </p>
 
 <p><a href="https://ph1so.github.io/phlux2.0/"><b>Website</b></a> &nbsp;·&nbsp; <a href="listings/README.md"><b>All listings</b></a></p>
@@ -21,7 +21,7 @@
 
 ## Latest roles
 
-Showing the 615 most recent of 33,895 roles tracked across 279 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
+Showing the 615 most recent of 33,901 roles tracked across 279 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
 
 
 <table>
@@ -50,6 +50,13 @@ Showing the 615 most recent of 33,895 roles tracked across 279 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.metacareers.com/jobsearch/?roles[0]=Internship"><img src="https://cdn.brandfetch.io/meta.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Meta" height="20" style="vertical-align:middle; margin-right:6px;"> Meta</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.metacareers.com/profile/job_details/1670489511324528/">⭐️ Research Scientist Intern, Computational Photography & Computer Vision (PhD)</a></div></td>
+  <td>2026-11-09</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=new-york"><img src="https://cdn.brandfetch.io/janestreet.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Jane Street" height="20" style="vertical-align:middle; margin-right:6px;"> Jane Street</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.janestreet.com/join-jane-street/position/8927083002/">Formal Methods Research and Development</a></div></td>
@@ -60,6 +67,13 @@ Showing the 615 most recent of 33,895 roles tracked across 279 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/?workerSubType=fbfd99a3c13201ab06a11542991f9208"><img src="https://cdn.brandfetch.io/bostondynamics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boston Dynamics" height="20" style="vertical-align:middle; margin-right:6px;"> Boston Dynamics</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Manufacturing-Test-Engineer-Co-Op_R3360">⭐️ Manufacturing Test Engineer Co-Op</a></div></td>
+  <td>2026-11-09</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/skydio"><img src="https://cdn.brandfetch.io/skydio.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Skydio" height="20" style="vertical-align:middle; margin-right:6px;"> Skydio</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/skydio/33f1f123-8cec-4e6a-b125-e8831603a62a">⭐️ Systems Engineering Intern - Summer 2027</a></div></td>
   <td>2026-11-09</td>
 </tr>
   <tr>
@@ -123,6 +137,13 @@ Showing the 615 most recent of 33,895 roles tracked across 279 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/aurora-operations-inc/"><img src="https://cdn.brandfetch.io/aurora.tech/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Aurora Innovation" height="20" style="vertical-align:middle; margin-right:6px;"> Aurora Innovation</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/aurora-operations-inc/03a94a6c-66bd-4076-89be-e4d13bd8d67b">Staff Manufacturing Photonics Test Engineer</a></div></td>
+  <td>2026-11-09</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/sunday/"><img src="https://cdn.brandfetch.io/sunday.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sunday" height="20" style="vertical-align:middle; margin-right:6px;"> Sunday</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/sunday/9df4261f-af13-4167-acd7-46e319e8c070">Technical Recruiter</a></div></td>
   <td>2026-11-09</td>
 </tr>
   <tr>
@@ -204,6 +225,20 @@ Showing the 615 most recent of 33,895 roles tracked across 279 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/woven-by-toyota"><img src="https://cdn.brandfetch.io/woven-city.global/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Woven by Toyota" height="20" style="vertical-align:middle; margin-right:6px;"> Woven by Toyota</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/woven-by-toyota/f4bd3303-0dda-4538-8967-68f20d80da55">Control Engineer, Behavior Actuation</a></div></td>
+  <td>2026-11-09</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/woven-by-toyota"><img src="https://cdn.brandfetch.io/woven-city.global/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Woven by Toyota" height="20" style="vertical-align:middle; margin-right:6px;"> Woven by Toyota</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/woven-by-toyota/dc8f88dd-4c62-4456-99d7-2c3c4a12e97b">Senior Software Engineer, Behavior Actuation</a></div></td>
+  <td>2026-11-09</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=ocadogroup"><img src="https://cdn.brandfetch.io/ocado.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Ocado" height="20" style="vertical-align:middle; margin-right:6px;"> Ocado</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ocadogroup.com/jobs/details?gh_jid=5030675101&amp;gh_jid=5030675101">Talent and Performance Manager</a></div></td>
@@ -270,6 +305,13 @@ Showing the 615 most recent of 33,895 roles tracked across 279 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/6384df1b-c2e0-4265-ad9b-d4a7bca706d6">Executive in Residence, Cyber</a></div></td>
+  <td>2026-11-09</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/1a607736-8631-4fd9-a1a9-f790318d12d2">Senior Counsel, Litigation (Safety)</a></div></td>
   <td>2026-11-09</td>
 </tr>
   <tr>
@@ -368,6 +410,13 @@ Showing the 615 most recent of 33,895 roles tracked across 279 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5391155008">Head of Technology Partnerships</a></div></td>
+  <td>2026-11-09</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/xai"><img src="https://cdn.brandfetch.io/x.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="xAI" height="20" style="vertical-align:middle; margin-right:6px;"> xAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/xai/jobs/5289470007">Automation & Controls Engineer, Data Center Facilities</a></div></td>
   <td>2026-11-09</td>
 </tr>
   <tr>
@@ -4288,55 +4337,6 @@ Showing the 615 most recent of 33,895 roles tracked across 279 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic"><img src="https://cdn.brandfetch.io/symbotic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Symbotic" height="20" style="vertical-align:middle; margin-right:6px;"> Symbotic</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington-MA---ITC/New-Grad--Manufacturing-Engineer_R8402">New Grad- Manufacturing Engineer</a></div></td>
-  <td>2026-11-02</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic"><img src="https://cdn.brandfetch.io/symbotic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Symbotic" height="20" style="vertical-align:middle; margin-right:6px;"> Symbotic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington-MA---ITC/Intern--Manufacturing-Engineer_R8400">⭐️ Intern- Manufacturing Engineer</a></div></td>
-  <td>2026-11-02</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic"><img src="https://cdn.brandfetch.io/symbotic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Symbotic" height="20" style="vertical-align:middle; margin-right:6px;"> Symbotic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Remote--Travel---MI/New-Grad--Project-Manager--Manufacturing_R8403">New Grad- Project Manager, Manufacturing</a></div></td>
-  <td>2026-11-02</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic"><img src="https://cdn.brandfetch.io/symbotic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Symbotic" height="20" style="vertical-align:middle; margin-right:6px;"> Symbotic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Remote-Operation-Center-Specialist_R8356">Remote Operation Center Specialist</a></div></td>
-  <td>2026-11-02</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/genesis"><img src="https://cdn.brandfetch.io/genesis-ai.company/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Genesis AI" height="20" style="vertical-align:middle; margin-right:6px;"> Genesis AI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/genesis/ecb41d1f-978e-4602-8838-b4a59f830530">Recruiting Coordinator</a></div></td>
-  <td>2026-11-02</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/genesis"><img src="https://cdn.brandfetch.io/genesis-ai.company/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Genesis AI" height="20" style="vertical-align:middle; margin-right:6px;"> Genesis AI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/genesis/909d15dc-054c-4ebd-93be-036b61f72acf">Senior People Partner</a></div></td>
-  <td>2026-11-02</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/genesis"><img src="https://cdn.brandfetch.io/genesis-ai.company/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Genesis AI" height="20" style="vertical-align:middle; margin-right:6px;"> Genesis AI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/genesis/28d3e46c-69f0-4aa6-8113-9117407e964e">Growth Engineer, Recruiting & People</a></div></td>
-  <td>2026-11-02</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=ocadogroup"><img src="https://cdn.brandfetch.io/ocado.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Ocado" height="20" style="vertical-align:middle; margin-right:6px;"> Ocado</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ocadogroup.com/jobs/details?gh_jid=5008552101&amp;gh_jid=5008552101">Commercial Solutions Graduate 2027</a></div></td>
   <td>2026-11-02</td>
 </tr>
 
