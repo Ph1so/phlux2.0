@@ -852,14 +852,16 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557008574",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557008574",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-09"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Quantum Algorithms",
         "date": "2026-10-13",
         "id": "eightfold:1970393557021663",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557021663",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-09"
       },
       {
         "title": "\u2b50\ufe0f Product Management Intern - CTJ - TS",
@@ -1186,6 +1188,13 @@
         "id": "eightfold:1970393557056017",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557056017",
         "location": "United States, NY +1"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Intern - Next-Generation AI Agents",
+        "date": "2026-11-09",
+        "id": "eightfold:1970393557070079",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557070079",
+        "location": "United States, Washington, Redmond"
       }
     ],
     "Amazon": [
@@ -2101,7 +2110,8 @@
         "date": "N/A",
         "id": "amazon:10575017",
         "url": "https://www.amazon.jobs/en/jobs/10575017/recruiting-coordinator-amazon-university",
-        "location": "Arlington, VA"
+        "location": "Arlington, VA",
+        "closed": "2026-11-09"
       },
       {
         "title": "Cloud Hardware Development Engineer I, Annapurna Labs, Early Career - 2027",
@@ -3743,6 +3753,13 @@
         "id": "meta:1670489511324528",
         "url": "https://www.metacareers.com/profile/job_details/1670489511324528/",
         "location": "Redmond, WA"
+      },
+      {
+        "title": "\u2b50\ufe0f Strategic Sourcing Manager Intern \u2014 Reality Labs Hardware (2027)",
+        "date": "2026-11-09",
+        "id": "meta:1632929388311563",
+        "url": "https://www.metacareers.com/profile/job_details/1632929388311563/",
+        "location": "Menlo Park, CA"
       }
     ],
     "Apple": [
@@ -6822,7 +6839,8 @@
         "date": "2026-10-13",
         "id": "greenhouse:7980889003",
         "url": "https://www.zipline.com/open-roles/7980889003?gh_jid=7980889003",
-        "location": "Austin, Texas, USA; Houston, Texas, USA; Phoenix, Arizona, USA; San Antonio, Texas, USA"
+        "location": "Austin, Texas, USA; Houston, Texas, USA; Phoenix, Arizona, USA; San Antonio, Texas, USA",
+        "closed": "2026-11-09"
       },
       {
         "title": "\u2b50\ufe0f Commercial Strategy & Operations Intern (Summer 2027)",
@@ -13178,7 +13196,8 @@
         "date": "2026-10-15",
         "id": "greenhouse:6222796004",
         "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6222796004",
-        "location": "Onsite- Salem, OR"
+        "location": "Onsite- Salem, OR",
+        "closed": "2026-11-09"
       },
       {
         "title": "Senior Triage & RCA Engineer",
@@ -18862,7 +18881,8 @@
         "date": "2026-10-27",
         "id": "ashby:eb30effe-3d6b-4cf5-a022-b5b70dccab45",
         "url": "https://jobs.ashbyhq.com/aurora-operations-inc/eb30effe-3d6b-4cf5-a022-b5b70dccab45",
-        "location": "Coppell, TX"
+        "location": "Coppell, TX",
+        "closed": "2026-11-09"
       },
       {
         "title": "\u2b50\ufe0f Lidar Systems Intern",
@@ -18924,7 +18944,8 @@
         "date": "2026-11-02",
         "id": "ashby:281239f7-6a7f-4c6d-922c-d45f70aef5c2",
         "url": "https://jobs.ashbyhq.com/aurora-operations-inc/281239f7-6a7f-4c6d-922c-d45f70aef5c2",
-        "location": "Mountain View, CA +5"
+        "location": "Mountain View, CA +5",
+        "closed": "2026-11-09"
       },
       {
         "title": "Staff Software Engineer - Frameworks",
@@ -27244,6 +27265,13 @@
         "id": "ashby:9df4261f-af13-4167-acd7-46e319e8c070",
         "url": "https://jobs.ashbyhq.com/sunday/9df4261f-af13-4167-acd7-46e319e8c070",
         "location": "Redwood City, CA"
+      },
+      {
+        "title": "G&A Recruiter (Contract)",
+        "date": "2026-11-09",
+        "id": "ashby:4231d223-08dc-45cc-b91a-aa97485696de",
+        "url": "https://jobs.ashbyhq.com/sunday/4231d223-08dc-45cc-b91a-aa97485696de",
+        "location": "Redwood City, CA"
       }
     ],
     "Machina Labs": [
@@ -33870,7 +33898,8 @@
         "date": "N/A",
         "id": "ashby:5010d552-e3fb-4818-93ba-5dc68daa2a03",
         "url": "https://jobs.ashbyhq.com/applied/5010d552-e3fb-4818-93ba-5dc68daa2a03",
-        "location": "Sunnyvale"
+        "location": "Sunnyvale",
+        "closed": "2026-11-09"
       },
       {
         "title": "People Business Partner",
@@ -36414,6 +36443,13 @@
         "id": "ashby:2d8c533a-7696-4a33-9d9c-9d05bc3b8572",
         "url": "https://jobs.ashbyhq.com/applied/2d8c533a-7696-4a33-9d9c-9d05bc3b8572",
         "location": "Washington, D.C."
+      },
+      {
+        "title": "Senior Electrical Engineer, Drone",
+        "date": "2026-11-09",
+        "id": "ashby:0cf26dc7-f0a0-459b-9e2f-98978bcdf561",
+        "url": "https://jobs.ashbyhq.com/applied/0cf26dc7-f0a0-459b-9e2f-98978bcdf561",
+        "location": "Sunnyvale"
       }
     ],
     "FieldAI": [
@@ -43877,6 +43913,13 @@
         "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8924000002",
         "location": "Remote - US",
         "early": "Bachelor\u2019s Degree in Computer Science, Information Technology, Software Development, or related field plus demonstrates competences and technical proficiencies typically acquired through 0-4+ years of experience."
+      },
+      {
+        "title": "Senior Software Engineer, Autonomy Core Frameworks",
+        "date": "2026-11-09",
+        "id": "greenhouse:8703225002",
+        "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8703225002",
+        "location": "Ann Arbor, MI"
       }
     ],
     "Saronic": [
@@ -46212,7 +46255,8 @@
         "date": "2026-10-14",
         "id": "ashby:ec7e43b0-352a-4145-bd9c-68891eaaa77d",
         "url": "https://jobs.ashbyhq.com/reliable-robotics/ec7e43b0-352a-4145-bd9c-68891eaaa77d",
-        "location": "Mountain View, CA"
+        "location": "Mountain View, CA",
+        "closed": "2026-11-09"
       },
       {
         "title": "Sr. Electrical New Product Introduction (NPI) Engineer",
@@ -48745,6 +48789,27 @@
         "id": "ashby:8a866ae6-613e-4d46-af2d-7dc13eb926bb",
         "url": "https://jobs.ashbyhq.com/persona.ai/8a866ae6-613e-4d46-af2d-7dc13eb926bb",
         "location": "Pensacola, FL or Houston, TX"
+      },
+      {
+        "title": "Senior Robotics Software Engineer, Autonomy",
+        "date": "2026-11-09",
+        "id": "ashby:b55e4875-e58b-42b7-ac78-73cd610bbfb4",
+        "url": "https://jobs.ashbyhq.com/persona.ai/b55e4875-e58b-42b7-ac78-73cd610bbfb4",
+        "location": "Houston, TX"
+      },
+      {
+        "title": "Senior XR Software Engineer, Teleoperation",
+        "date": "2026-11-09",
+        "id": "ashby:40c633b0-fd8d-4a30-9f97-ff4027d270d9",
+        "url": "https://jobs.ashbyhq.com/persona.ai/40c633b0-fd8d-4a30-9f97-ff4027d270d9",
+        "location": "Houston, TX"
+      },
+      {
+        "title": "Staff Engineer, Deep Learning Manipulation",
+        "date": "2026-11-09",
+        "id": "ashby:98039cce-e74c-4fd4-ba5f-2210184de495",
+        "url": "https://jobs.ashbyhq.com/persona.ai/98039cce-e74c-4fd4-ba5f-2210184de495",
+        "location": "Houston, TX"
       }
     ],
     "Johnson & Johnson": [
@@ -63100,6 +63165,20 @@
         "id": "ashby:320f6132-7a72-425e-8045-4fd59f99f31c",
         "url": "https://jobs.ashbyhq.com/openai/320f6132-7a72-425e-8045-4fd59f99f31c",
         "location": "London, UK"
+      },
+      {
+        "title": "Novel Abuse Red Teamer",
+        "date": "2026-11-09",
+        "id": "ashby:9e7c3009-6a91-4927-b242-3d5aa766c722",
+        "url": "https://jobs.ashbyhq.com/openai/9e7c3009-6a91-4927-b242-3d5aa766c722",
+        "location": "San Francisco +2"
+      },
+      {
+        "title": "Account Director, Startups | New Business - UK&I",
+        "date": "2026-11-09",
+        "id": "ashby:3b85fc17-403b-4ca0-81e3-21c2aec9c052",
+        "url": "https://jobs.ashbyhq.com/openai/3b85fc17-403b-4ca0-81e3-21c2aec9c052",
+        "location": "London, UK"
       }
     ],
     "John Deere": [
@@ -71897,6 +71976,13 @@
         "id": "greenhouse:5477379008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5477379008",
         "location": "San Francisco, CA; Seattle, WA"
+      },
+      {
+        "title": "Product Marketing Manager, Knowledge Work - Enterprise",
+        "date": "2026-11-09",
+        "id": "greenhouse:5470528008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5470528008",
+        "location": "San Francisco, CA | New York City, NY"
       }
     ],
     "xAI": [
