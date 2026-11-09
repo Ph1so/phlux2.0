@@ -852,16 +852,14 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557008574",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557008574",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-09"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Quantum Algorithms",
         "date": "2026-10-13",
         "id": "eightfold:1970393557021663",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557021663",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-09"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Product Management Intern - CTJ - TS",
@@ -9742,6 +9740,13 @@
         "date": "2026-11-09",
         "id": "tesla:289480",
         "url": "https://www.tesla.com/careers/search/job/internship-mobile-developer-optimus-winter-spring-2027-289480",
+        "location": "Palo Alto, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Internship, Software Engineer, SI ML Platform (Winter/Spring 2027)",
+        "date": "2026-11-09",
+        "id": "tesla:289478",
+        "url": "https://www.tesla.com/careers/search/job/internship-software-engineer-si-ml-platform-winter-spring-2027-289478",
         "location": "Palo Alto, CA"
       }
     ],
