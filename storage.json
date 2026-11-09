@@ -8234,7 +8234,8 @@
         "date": "2026-10-10",
         "id": "eightfold:446721346084",
         "url": "https://careers.qualcomm.com/careers/job/446721346084",
-        "location": "San Diego, CA"
+        "location": "San Diego, CA",
+        "closed": "2026-11-09"
       },
       {
         "title": "\u2b50\ufe0f Security (Product, Systems, Cyber) Engineering Internship - Summer 2027",
@@ -71846,6 +71847,13 @@
         "id": "greenhouse:5391155008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391155008",
         "location": "San Francisco, CA | New York City, NY | Seattle, WA"
+      },
+      {
+        "title": "Staff+ Software Engineer, Safeguards Evals",
+        "date": "2026-11-09",
+        "id": "greenhouse:5477379008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5477379008",
+        "location": "San Francisco, CA; Seattle, WA"
       }
     ],
     "xAI": [
