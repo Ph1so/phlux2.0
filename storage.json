@@ -2501,6 +2501,13 @@
         "id": "amazon:10581072",
         "url": "https://www.amazon.jobs/en/jobs/10581072/solutions-architect-ags-tech-early-career-2027-us",
         "location": "Seattle, WA +2"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Development Engineer Intern - Summer 2027",
+        "date": "2026-11-09",
+        "id": "amazon:10597379",
+        "url": "https://www.amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027",
+        "location": "Seattle, WA +4"
       }
     ],
     "Meta": [
@@ -7606,7 +7613,8 @@
         "date": "N/A",
         "id": "greenhouse:4363440009",
         "url": "https://job-boards.greenhouse.io/kodiak/jobs/4363440009",
-        "location": "Mountain View, CA"
+        "location": "Mountain View, CA",
+        "closed": "2026-11-09"
       },
       {
         "title": "World Model Research Scientist- Physical AI",
@@ -8233,8 +8241,7 @@
         "date": "2026-10-10",
         "id": "eightfold:446721346084",
         "url": "https://careers.qualcomm.com/careers/job/446721346084",
-        "location": "San Diego, CA",
-        "closed": "2026-11-09"
+        "location": "San Diego, CA"
       },
       {
         "title": "\u2b50\ufe0f Security (Product, Systems, Cyber) Engineering Internship - Summer 2027",
@@ -10134,7 +10141,8 @@
         "date": "2026-11-06",
         "id": "smartrecruiters:744000160306349",
         "url": "https://jobs.smartrecruiters.com/Intuitive/744000160306349",
-        "location": "Sunnyvale, CA"
+        "location": "Sunnyvale, CA",
+        "closed": "2026-11-09"
       }
     ],
     "Stoke Space": [
@@ -20772,8 +20780,7 @@
         "date": "N/A",
         "id": "lever:0dd5de4b-4e98-4808-85fd-e739e7fc5bba",
         "url": "https://jobs.lever.co/zoox/0dd5de4b-4e98-4808-85fd-e739e7fc5bba",
-        "location": "San Diego, CA",
-        "closed": "2026-11-03"
+        "location": "San Diego, CA"
       },
       {
         "title": "Embedded Software Engineer - Battery Management Systems",
@@ -48731,6 +48738,13 @@
         "id": "ashby:f416f272-a627-4fe7-82e8-be126748ff47",
         "url": "https://jobs.ashbyhq.com/persona.ai/f416f272-a627-4fe7-82e8-be126748ff47",
         "location": "Houston, TX"
+      },
+      {
+        "title": "\u2b50\ufe0f Humanoid Robotics Software Internship",
+        "date": "2026-11-09",
+        "id": "ashby:8a866ae6-613e-4d46-af2d-7dc13eb926bb",
+        "url": "https://jobs.ashbyhq.com/persona.ai/8a866ae6-613e-4d46-af2d-7dc13eb926bb",
+        "location": "Pensacola, FL or Houston, TX"
       }
     ],
     "Johnson & Johnson": [
@@ -50403,6 +50417,27 @@
         "id": "workday:R8446",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Remote--Travel/Senior-Manager--Strategic-Sourcing--Contract-Manufacturing-_R8446",
         "location": "USA Remote & Travel"
+      },
+      {
+        "title": "Technical Support Escalations Manager (Nights)",
+        "date": "2026-11-09",
+        "id": "workday:R7756-1",
+        "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Remote--Travel/Technical-Support-Escalations-Manager_R7756-1",
+        "location": "USA Remote & Travel"
+      },
+      {
+        "title": "Staff Software Engineer - .Net",
+        "date": "2026-11-09",
+        "id": "workday:R8455",
+        "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Staff-Software-Engineer---Net_R8455",
+        "location": "USA Wilmington, MA - HQ"
+      },
+      {
+        "title": "Staff Software Engineer - .Net",
+        "date": "2026-11-09",
+        "id": "workday:R8456",
+        "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Staff-Software-Engineer---Net_R8456",
+        "location": "USA Wilmington, MA - HQ"
       }
     ],
     "PROCEPT BioRobotics": [
@@ -62916,7 +62951,8 @@
         "date": "2026-11-06",
         "id": "ashby:df688f65-0159-4f0b-9944-0d9492c0b001",
         "url": "https://jobs.ashbyhq.com/openai/df688f65-0159-4f0b-9944-0d9492c0b001",
-        "location": "Paris, France"
+        "location": "Paris, France",
+        "closed": "2026-11-09"
       },
       {
         "title": "Forward Deployed Engineer (FDE), Life Sciences - NYC",
@@ -63057,6 +63093,13 @@
         "id": "ashby:1a607736-8631-4fd9-a1a9-f790318d12d2",
         "url": "https://jobs.ashbyhq.com/openai/1a607736-8631-4fd9-a1a9-f790318d12d2",
         "location": "San Francisco"
+      },
+      {
+        "title": "Partner Sales and Development Leader, Southern Europe",
+        "date": "2026-11-09",
+        "id": "ashby:320f6132-7a72-425e-8045-4fd59f99f31c",
+        "url": "https://jobs.ashbyhq.com/openai/320f6132-7a72-425e-8045-4fd59f99f31c",
+        "location": "London, UK"
       }
     ],
     "John Deere": [
@@ -69876,7 +69919,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5397704008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5397704008",
-        "location": "San Francisco, CA | New York City, NY"
+        "location": "San Francisco, CA | New York City, NY",
+        "closed": "2026-11-09"
       },
       {
         "title": "Security Risk & Compliance, Agent Security",
@@ -75248,7 +75292,8 @@
         "date": "2026-10-27",
         "id": "workday:JR101539",
         "url": "https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Warsaw-Indiana/Facilities-Coordinator_JR101539",
-        "location": "Warsaw, Indiana"
+        "location": "Warsaw, Indiana",
+        "closed": "2026-11-09"
       },
       {
         "title": "Vehicle Engineering Technician, Electrical",
@@ -77494,6 +77539,13 @@
         "id": "workday:R49826",
         "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Orlando-Florida-United-States/Quality-Intern--Summer-2027-_R49826",
         "location": "Orlando, Florida, United States"
+      },
+      {
+        "title": "\u2b50\ufe0f Supplier Quality Engineer Intern",
+        "date": "2026-11-09",
+        "id": "workday:R50855",
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Supplier-Quality-Engineer-Intern_R50855",
+        "location": "Oshkosh, Wisconsin, United States"
       }
     ]
   },
