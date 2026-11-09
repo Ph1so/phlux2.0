@@ -774,8 +774,7 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557040344",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557040344",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-08"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Machine Learning for Biology and Healthcare",
@@ -1121,7 +1120,8 @@
         "date": "2026-11-02",
         "id": "eightfold:1970393556951950",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-09"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Foundational Models & Agent",
@@ -54381,6 +54381,13 @@
         "id": "lever:67fbf85b-6c59-4a29-ad1d-335658aaa5ae",
         "url": "https://jobs.lever.co/woven-by-toyota/67fbf85b-6c59-4a29-ad1d-335658aaa5ae",
         "location": "Ann Arbor, MI"
+      },
+      {
+        "title": "Assistant Manager, Administration",
+        "date": "2026-11-09",
+        "id": "lever:63d9ff81-1aea-4b14-bccf-5eb50902e512",
+        "url": "https://jobs.lever.co/woven-by-toyota/63d9ff81-1aea-4b14-bccf-5eb50902e512",
+        "location": "Tokyo"
       }
     ],
     "Generalist AI": [
