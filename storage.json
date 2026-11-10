@@ -527,6 +527,13 @@
         "id": "workday:JR2026644",
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Research-Intern--Observability---Summer-2027_JR2026644",
         "location": "US, CA, Santa Clara"
+      },
+      {
+        "title": "\u2b50\ufe0f AI Operations Intern, AI Clouds - Summer 2027",
+        "date": "2026-11-10",
+        "id": "workday:JR2029119-1",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1",
+        "location": "US, CA, Santa Clara"
       }
     ],
     "Google": [
@@ -991,7 +998,8 @@
         "date": "2026-10-19",
         "id": "eightfold:1970393557043754",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557043754",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-10"
       },
       {
         "title": "\u2b50\ufe0f Business Program Management INTERN",
@@ -1119,8 +1127,7 @@
         "date": "2026-11-01",
         "id": "eightfold:1970393556922930",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-10"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Business Program Manager, Global Intern Experience & Innovation",
@@ -8274,7 +8281,8 @@
         "date": "2026-10-10",
         "id": "eightfold:446721346084",
         "url": "https://careers.qualcomm.com/careers/job/446721346084",
-        "location": "San Diego, CA"
+        "location": "San Diego, CA",
+        "closed": "2026-11-10"
       },
       {
         "title": "\u2b50\ufe0f Security (Product, Systems, Cyber) Engineering Internship - Summer 2027",
@@ -10564,8 +10572,7 @@
         "date": "N/A",
         "id": "talentbrew:100427657728",
         "url": "https://careers.irobot.com/job/tokyo/account-manager/42682/100427657728",
-        "location": "Tokyo",
-        "closed": "2026-11-10"
+        "location": "Tokyo"
       },
       {
         "title": "Sr. Logistics Specialist",
@@ -14221,6 +14228,13 @@
         "date": "2026-10-30",
         "id": "greenhouse:8926017002",
         "url": "https://boards.greenhouse.io/pathrobotics/jobs/8926017002?gh_jid=8926017002",
+        "location": "Columbus, Ohio"
+      },
+      {
+        "title": "Field Install Technician",
+        "date": "2026-11-10",
+        "id": "greenhouse:8932141002",
+        "url": "https://boards.greenhouse.io/pathrobotics/jobs/8932141002?gh_jid=8932141002",
         "location": "Columbus, Ohio"
       }
     ],
@@ -18296,7 +18310,8 @@
         "date": "N/A",
         "id": "ashby:f5058d0e-2643-428b-8f82-94b53c6f5110",
         "url": "https://jobs.ashbyhq.com/aurora-operations-inc/f5058d0e-2643-428b-8f82-94b53c6f5110",
-        "location": "Dallas, TX"
+        "location": "Dallas, TX",
+        "closed": "2026-11-10"
       },
       {
         "title": "Senior Staff Signal Processing Engineer",
@@ -18353,7 +18368,8 @@
         "date": "N/A",
         "id": "ashby:87a34832-fcdb-41af-b559-519395436808",
         "url": "https://jobs.ashbyhq.com/aurora-operations-inc/87a34832-fcdb-41af-b559-519395436808",
-        "location": "Pittsburgh, PA"
+        "location": "Pittsburgh, PA",
+        "closed": "2026-11-10"
       },
       {
         "title": "Technical Program Manager, Vehicle Programs",
@@ -26766,7 +26782,8 @@
         "date": "2026-10-22",
         "id": "smartrecruiters:744000145555289",
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145555289",
-        "location": "Farmington Hills, MI"
+        "location": "Farmington Hills, MI",
+        "closed": "2026-11-10"
       },
       {
         "title": "\u2b50\ufe0f Spring 2027 Key User - Supply Chain / Computer Science - Co-op",
@@ -40634,6 +40651,20 @@
         "id": "google:119181943320257222",
         "url": "https://www.google.com/about/careers/applications/jobs/results/119181943320257222",
         "location": "London, UK"
+      },
+      {
+        "title": "Research Scientist, Provenance, DeepMind",
+        "date": "2026-11-10",
+        "id": "google:116759032009499334",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/116759032009499334",
+        "location": "London, UK"
+      },
+      {
+        "title": "Product Manager, Agentic Capability, DeepMind",
+        "date": "2026-11-10",
+        "id": "google:75520748898132678",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/75520748898132678",
+        "location": "Mountain View, CA"
       }
     ],
     "Wing": [
@@ -41784,7 +41815,9 @@
       {
         "title": "Operations Supervisor (Burlington, NJ)",
         "date": "2026-10-14",
-        "closed": "N/A"
+        "id": "greenhouse:4101373009",
+        "url": "https://job-boards.greenhouse.io/nimblerobotics/jobs/4101373009",
+        "location": "Burlington, NJ"
       },
       {
         "title": "Robotics Field Engineer",
@@ -56437,6 +56470,13 @@
         "id": "greenhouse:5032232101",
         "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=5032232101&gh_jid=5032232101",
         "location": "London, United Kingdom"
+      },
+      {
+        "title": "PLC Software Engineer",
+        "date": "2026-11-10",
+        "id": "greenhouse:5005536101",
+        "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=5005536101&gh_jid=5005536101",
+        "location": "Athens, Greece"
       }
     ],
     "Northrop Grumman": [
@@ -64490,11 +64530,13 @@
         "date": "2026-10-22",
         "id": "lever:da4f0a8d-6af3-4150-9acf-1898e83d5a61",
         "url": "https://jobs.eu.lever.co/mobileye/e58368d8-ec21-4e5e-871d-40707762b959",
-        "location": "Jerusalem, Israel"
+        "location": "Jerusalem, Israel",
+        "closed": "2026-11-10"
       },
       {
         "title": "C++ Developer \u2013 Neural Network Integration & Production 3D Sensing Systems",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "closed": "2026-11-10"
       },
       {
         "title": "C++ Software Developer",
@@ -64613,11 +64655,13 @@
         "date": "2026-10-22",
         "id": "lever:0568658c-174c-43ff-86c8-7a42202cbd8f",
         "url": "https://jobs.eu.lever.co/mobileye/0568658c-174c-43ff-86c8-7a42202cbd8f",
-        "location": "Jerusalem, Israel"
+        "location": "Jerusalem, Israel",
+        "closed": "2026-11-10"
       },
       {
         "title": "Senior C++ Developer \u2013 Neural Network Integration & Production 3D Sensing Systems",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "closed": "2026-11-10"
       },
       {
         "title": "Senior Computer Vision Data Engineer",
@@ -64867,7 +64911,8 @@
         "date": "2026-10-25",
         "id": "lever:303d899e-2b03-41f7-97d2-824da4e51190",
         "url": "https://jobs.eu.lever.co/mobileye/303d899e-2b03-41f7-97d2-824da4e51190",
-        "location": "Tel-Aviv, Israel"
+        "location": "Tel-Aviv, Israel",
+        "closed": "2026-11-10"
       },
       {
         "title": "Visual GenAI Research Expert",
@@ -64996,7 +65041,8 @@
         "date": "2026-10-29",
         "id": "lever:ec69a3de-fd8e-429c-a492-74c73940a032",
         "url": "https://jobs.eu.lever.co/mobileye/ec69a3de-fd8e-429c-a492-74c73940a032",
-        "location": "Petah Tikva, Israel"
+        "location": "Petah Tikva, Israel",
+        "closed": "2026-11-10"
       },
       {
         "title": "Junior Validation & Integration Engineer",
@@ -65177,7 +65223,8 @@
         "date": "2026-11-08",
         "id": "lever:342bbac1-839f-4aff-a050-ceb39ceef9aa",
         "url": "https://jobs.eu.lever.co/mobileye/342bbac1-839f-4aff-a050-ceb39ceef9aa",
-        "location": "Jerusalem, Israel"
+        "location": "Jerusalem, Israel",
+        "closed": "2026-11-10"
       },
       {
         "title": "Embedded Systems Software Architect - OS Group",
@@ -67025,6 +67072,13 @@
         "date": "2026-11-09",
         "id": "greenhouse:4458156009",
         "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4458156009",
+        "location": "Cambridge, MA USA; San Francisco, CA USA"
+      },
+      {
+        "title": "Director / Senior Director, AI x Lab Integration",
+        "date": "2026-11-10",
+        "id": "greenhouse:4465079009",
+        "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4465079009",
         "location": "Cambridge, MA USA; San Francisco, CA USA"
       }
     ],
@@ -71334,7 +71388,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5435343008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5435343008",
-        "location": "Remote-Friendly, United States"
+        "location": "Remote-Friendly, United States",
+        "closed": "2026-11-10"
       },
       {
         "title": "State and Local Affairs Lead, West",
@@ -77694,7 +77749,8 @@
         "date": "2026-11-02",
         "id": "workday:R49472",
         "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Orrville-Ohio-United-States/Test---Development-Engineering-Intern_R49472",
-        "location": "Orrville, Ohio, United States"
+        "location": "Orrville, Ohio, United States",
+        "closed": "2026-11-10"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Intern",
