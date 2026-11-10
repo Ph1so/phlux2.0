@@ -1133,8 +1133,7 @@
         "date": "2026-11-02",
         "id": "eightfold:1970393557043712",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557043712",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-10"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Explore Program Engineering Internship Opportunities: First-Year Students, Redmond",
@@ -1179,8 +1178,7 @@
         "date": "2026-11-02",
         "id": "eightfold:1970393557053024",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557053024",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-10"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer, Teamwork Experiences Internship Opportunities",
@@ -43996,7 +43994,8 @@
         "date": "2026-10-14",
         "id": "greenhouse:8686846002",
         "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8686846002",
-        "location": "Remote - US, Ann Arbor, MI"
+        "location": "Remote - US, Ann Arbor, MI",
+        "closed": "2026-11-10"
       },
       {
         "title": "Senior SOTIF Engineer",
