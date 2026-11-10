@@ -853,8 +853,7 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557022480",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557022480",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-10"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Supply Chain Program Management Intern",
@@ -1077,8 +1076,7 @@
         "date": "2026-10-23",
         "id": "eightfold:1970393557045963",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557045963",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-10"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Business Program Management INTERN (CO+I Exec)",
@@ -67088,6 +67086,27 @@
         "id": "greenhouse:4465079009",
         "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4465079009",
         "location": "Cambridge, MA USA; San Francisco, CA USA"
+      },
+      {
+        "title": "ML Research Engineer, Performance Optimization",
+        "date": "2026-11-10",
+        "id": "greenhouse:4455701009",
+        "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4455701009",
+        "location": "Cambridge, MA USA; San Francisco, CA USA"
+      },
+      {
+        "title": "ML Research Scientist, Environments & Harnesses",
+        "date": "2026-11-10",
+        "id": "greenhouse:4462270009",
+        "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4462270009",
+        "location": "Cambridge, MA USA; London, UK; San Francisco, CA USA"
+      },
+      {
+        "title": "ML Research Scientist, Scientific Evaluations",
+        "date": "2026-11-10",
+        "id": "greenhouse:4472554009",
+        "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4472554009",
+        "location": "Cambridge, MA USA; London, UK; San Francisco, CA USA"
       }
     ],
     "Anthropic": [
