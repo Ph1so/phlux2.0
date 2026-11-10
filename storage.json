@@ -10570,7 +10570,8 @@
         "date": "N/A",
         "id": "talentbrew:100427657728",
         "url": "https://careers.irobot.com/job/tokyo/account-manager/42682/100427657728",
-        "location": "Tokyo"
+        "location": "Tokyo",
+        "closed": "2026-11-10"
       },
       {
         "title": "Sr. Logistics Specialist",
@@ -29184,7 +29185,8 @@
         "date": "N/A",
         "id": "ashby:4c71c373-2092-4701-8616-395119e33068",
         "url": "https://jobs.ashbyhq.com/AeroVect/4c71c373-2092-4701-8616-395119e33068",
-        "location": "South San Francisco - Onsite"
+        "location": "South San Francisco - Onsite",
+        "closed": "2026-11-10"
       },
       {
         "title": "Senior Hardware Field Engineer",
@@ -29214,7 +29216,8 @@
         "date": "N/A",
         "id": "ashby:84d884fe-f360-4cec-9c25-ce90e82121b8",
         "url": "https://jobs.ashbyhq.com/AeroVect/84d884fe-f360-4cec-9c25-ce90e82121b8",
-        "location": "Atlanta"
+        "location": "Atlanta",
+        "closed": "2026-11-10"
       },
       {
         "title": "Controller",
@@ -29435,6 +29438,13 @@
         "id": "ashby:e58b80f3-6394-44c4-9e56-a4b636b4eeab",
         "url": "https://jobs.ashbyhq.com/AeroVect/e58b80f3-6394-44c4-9e56-a4b636b4eeab",
         "location": "Toronto - Remote"
+      },
+      {
+        "title": "Senior Electrical Engineer, Autonomous Vehicles",
+        "date": "2026-11-10",
+        "id": "ashby:adc8d194-17d6-453c-a147-3ef6c18e9e46",
+        "url": "https://jobs.ashbyhq.com/AeroVect/adc8d194-17d6-453c-a147-3ef6c18e9e46",
+        "location": "South San Francisco - Onsite"
       }
     ],
     "Gather AI": [
