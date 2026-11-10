@@ -949,7 +949,8 @@
         "date": "2026-10-14",
         "id": "eightfold:1970393557041012",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557041012",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-10"
       },
       {
         "title": "\u2b50\ufe0f Researcher Intern, CoreAI",
@@ -998,8 +999,7 @@
         "date": "2026-10-19",
         "id": "eightfold:1970393557043754",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557043754",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-10"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Business Program Management INTERN",
@@ -10572,7 +10572,8 @@
         "date": "N/A",
         "id": "talentbrew:100427657728",
         "url": "https://careers.irobot.com/job/tokyo/account-manager/42682/100427657728",
-        "location": "Tokyo"
+        "location": "Tokyo",
+        "closed": "2026-11-10"
       },
       {
         "title": "Sr. Logistics Specialist",
