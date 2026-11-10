@@ -866,7 +866,8 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557008574",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557008574",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-10"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Quantum Algorithms",
@@ -1133,7 +1134,8 @@
         "date": "2026-11-02",
         "id": "eightfold:1970393557043712",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557043712",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-10"
       },
       {
         "title": "\u2b50\ufe0f Explore Program Engineering Internship Opportunities: First-Year Students, Redmond",
@@ -1178,7 +1180,8 @@
         "date": "2026-11-02",
         "id": "eightfold:1970393557053024",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557053024",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-10"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer, Teamwork Experiences Internship Opportunities",
@@ -1199,7 +1202,8 @@
         "date": "2026-11-06",
         "id": "eightfold:1970393557056017",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557056017",
-        "location": "United States, NY +1"
+        "location": "United States, NY +1",
+        "closed": "2026-11-10"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Next-Generation AI Agents",
@@ -10570,7 +10574,8 @@
         "date": "N/A",
         "id": "talentbrew:100427657728",
         "url": "https://careers.irobot.com/job/tokyo/account-manager/42682/100427657728",
-        "location": "Tokyo"
+        "location": "Tokyo",
+        "closed": "2026-11-10"
       },
       {
         "title": "Sr. Logistics Specialist",
@@ -39088,7 +39093,8 @@
         "date": "2026-11-10",
         "id": "ashby:89b42195-f87c-4aea-9c8a-d9bff42b0cde",
         "url": "https://jobs.ashbyhq.com/humanoid/89b42195-f87c-4aea-9c8a-d9bff42b0cde",
-        "location": "UK, London"
+        "location": "UK, London",
+        "closed": "2026-11-10"
       }
     ],
     "Niantic Spatial": [
@@ -56483,6 +56489,13 @@
         "id": "greenhouse:5005536101",
         "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=5005536101&gh_jid=5005536101",
         "location": "Athens, Greece"
+      },
+      {
+        "title": "Pre-Sales Manager",
+        "date": "2026-11-10",
+        "id": "greenhouse:5020881101",
+        "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=5020881101&gh_jid=5020881101",
+        "location": "Hatfield, United Kingdom"
       }
     ],
     "Northrop Grumman": [
@@ -78181,6 +78194,229 @@
         "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Supplier-Quality-Engineer-Intern_R50855",
         "location": "Oshkosh, Wisconsin, United States"
       }
+    ],
+    "General Robotics": [
+      {
+        "title": "Systems Engineer",
+        "date": "2026-11-10",
+        "id": "ashby:53272841-b423-47b0-8499-b0ab197e3221",
+        "url": "https://jobs.ashbyhq.com/generalrobotics/53272841-b423-47b0-8499-b0ab197e3221",
+        "location": "Redmond, WA"
+      },
+      {
+        "title": "Systems Engineer - Machine Learning",
+        "date": "2026-11-10",
+        "id": "ashby:1df8cd97-2a12-4f02-abf6-25549401b01b",
+        "url": "https://jobs.ashbyhq.com/generalrobotics/1df8cd97-2a12-4f02-abf6-25549401b01b",
+        "location": "Redmond, WA"
+      },
+      {
+        "title": "Senior 3D Technical Artist/Creative Technologist",
+        "date": "2026-11-10",
+        "id": "ashby:0820e878-6778-4840-8491-ff46b6b4d261",
+        "url": "https://jobs.ashbyhq.com/generalrobotics/0820e878-6778-4840-8491-ff46b6b4d261",
+        "location": "Redmond, WA"
+      },
+      {
+        "title": "Robotics Engineer",
+        "date": "2026-11-10",
+        "id": "ashby:78abd116-9842-4c40-9649-a73e1573f2e8",
+        "url": "https://jobs.ashbyhq.com/generalrobotics/78abd116-9842-4c40-9649-a73e1573f2e8",
+        "location": "Redmond, WA"
+      },
+      {
+        "title": "Robotics Engineer - Singapore: Field Robotics Specialist",
+        "date": "2026-11-10",
+        "id": "ashby:85908300-5d92-4479-a4c2-576c42bc49b7",
+        "url": "https://jobs.ashbyhq.com/generalrobotics/85908300-5d92-4479-a4c2-576c42bc49b7",
+        "location": "Singapore"
+      },
+      {
+        "title": "Robotics Engineer - Singapore: AI Specialist",
+        "date": "2026-11-10",
+        "id": "ashby:139c29f9-c612-4057-b1db-ef3a40948e89",
+        "url": "https://jobs.ashbyhq.com/generalrobotics/139c29f9-c612-4057-b1db-ef3a40948e89",
+        "location": "Singapore"
+      },
+      {
+        "title": "Robotics Engineer - Humanoids focus",
+        "date": "2026-11-10",
+        "id": "ashby:1acc15e9-f249-49c8-a0bb-5453da71327d",
+        "url": "https://jobs.ashbyhq.com/generalrobotics/1acc15e9-f249-49c8-a0bb-5453da71327d",
+        "location": "Redmond, WA"
+      },
+      {
+        "title": "Robotics Engineer - Manipulation focus",
+        "date": "2026-11-10",
+        "id": "ashby:fe8a5cf8-0932-49a5-9a29-82b7a9d9dac2",
+        "url": "https://jobs.ashbyhq.com/generalrobotics/fe8a5cf8-0932-49a5-9a29-82b7a9d9dac2",
+        "location": "Redmond, WA"
+      },
+      {
+        "title": "Robotics Engineer - Teleoperation focus",
+        "date": "2026-11-10",
+        "id": "ashby:a2de17d6-ad9e-49ae-9ed3-db7dd7dd87fa",
+        "url": "https://jobs.ashbyhq.com/generalrobotics/a2de17d6-ad9e-49ae-9ed3-db7dd7dd87fa",
+        "location": "Redmond, WA"
+      },
+      {
+        "title": "Technical Project Manager",
+        "date": "2026-11-10",
+        "id": "ashby:33daba24-8ffb-4149-b8dd-deecf92bdce0",
+        "url": "https://jobs.ashbyhq.com/generalrobotics/33daba24-8ffb-4149-b8dd-deecf92bdce0",
+        "location": "Singapore"
+      },
+      {
+        "title": "Robotics Engineer: Foundation Model Training",
+        "date": "2026-11-10",
+        "id": "ashby:cecd7ab2-e942-469e-af5e-347221063e23",
+        "url": "https://jobs.ashbyhq.com/generalrobotics/cecd7ab2-e942-469e-af5e-347221063e23",
+        "location": "Redmond, WA"
+      },
+      {
+        "title": "Robotics Engineer - Singapore: Foundation Model Training",
+        "date": "2026-11-10",
+        "id": "ashby:a9a1dfa5-62b7-4805-83f8-2d10b382ee9b",
+        "url": "https://jobs.ashbyhq.com/generalrobotics/a9a1dfa5-62b7-4805-83f8-2d10b382ee9b",
+        "location": "Singapore"
+      }
+    ],
+    "Eka Robotics": [
+      {
+        "title": "Senior/Staff/Principal Mechanical Engineer",
+        "date": "2026-11-10",
+        "id": "ashby:b12d6cea-1083-4b11-8db4-db49d7441190",
+        "url": "https://jobs.ashbyhq.com/ekarobotics/b12d6cea-1083-4b11-8db4-db49d7441190",
+        "location": "Boston Area"
+      },
+      {
+        "title": "Machine Learning / Reinforcement Learning Infrastructure Engineer",
+        "date": "2026-11-10",
+        "id": "ashby:c7039cd4-4471-4eb8-8a1f-4dc05bbc7cbf",
+        "url": "https://jobs.ashbyhq.com/ekarobotics/c7039cd4-4471-4eb8-8a1f-4dc05bbc7cbf",
+        "location": "Boston Area"
+      },
+      {
+        "title": "Senior/Staff/Principal Hardware Test Engineer",
+        "date": "2026-11-10",
+        "id": "ashby:43c0b407-82c8-46a4-8ebc-0c6590c03527",
+        "url": "https://jobs.ashbyhq.com/ekarobotics/43c0b407-82c8-46a4-8ebc-0c6590c03527",
+        "location": "Boston Area"
+      },
+      {
+        "title": "Robotics Software Engineer",
+        "date": "2026-11-10",
+        "id": "ashby:66d53460-791d-4d6c-b601-b80b261a86bb",
+        "url": "https://jobs.ashbyhq.com/ekarobotics/66d53460-791d-4d6c-b601-b80b261a86bb",
+        "location": "Boston Area"
+      },
+      {
+        "title": "Machine Learning / Computer Vision Engineer",
+        "date": "2026-11-10",
+        "id": "ashby:85a22260-a520-4640-b846-98e179317f10",
+        "url": "https://jobs.ashbyhq.com/ekarobotics/85a22260-a520-4640-b846-98e179317f10",
+        "location": "Boston Area"
+      },
+      {
+        "title": "Machine Learning / Reinforcement Learning Engineer",
+        "date": "2026-11-10",
+        "id": "ashby:487c6c9c-d87a-4ae1-86c3-1ee53b5ffe84",
+        "url": "https://jobs.ashbyhq.com/ekarobotics/487c6c9c-d87a-4ae1-86c3-1ee53b5ffe84",
+        "location": "Boston Area"
+      },
+      {
+        "title": "Research Engineer \u2013 Simulation",
+        "date": "2026-11-10",
+        "id": "ashby:ba779e63-09a4-4d71-8373-192734add757",
+        "url": "https://jobs.ashbyhq.com/ekarobotics/ba779e63-09a4-4d71-8373-192734add757",
+        "location": "Boston Area"
+      },
+      {
+        "title": "Senior Recruiter",
+        "date": "2026-11-10",
+        "id": "ashby:8146cc93-cc39-4f66-b4ac-4ccb6b38cd02",
+        "url": "https://jobs.ashbyhq.com/ekarobotics/8146cc93-cc39-4f66-b4ac-4ccb6b38cd02",
+        "location": "Boston Area +1"
+      },
+      {
+        "title": "Head of People",
+        "date": "2026-11-10",
+        "id": "ashby:6801e7f3-6d44-4767-a678-d4b5747fa2be",
+        "url": "https://jobs.ashbyhq.com/ekarobotics/6801e7f3-6d44-4767-a678-d4b5747fa2be",
+        "location": "Boston Area"
+      },
+      {
+        "title": "Forward Deployed Robotics Engineer",
+        "date": "2026-11-10",
+        "id": "ashby:91491000-bbef-4e32-b719-3f42f41b07ce",
+        "url": "https://jobs.ashbyhq.com/ekarobotics/91491000-bbef-4e32-b719-3f42f41b07ce",
+        "location": "Boston Area"
+      },
+      {
+        "title": "Developer Productivity Engineer",
+        "date": "2026-11-10",
+        "id": "ashby:d07ecc50-fdbd-4ddf-b4ab-037f6e076d11",
+        "url": "https://jobs.ashbyhq.com/ekarobotics/d07ecc50-fdbd-4ddf-b4ab-037f6e076d11",
+        "location": "Boston Area"
+      },
+      {
+        "title": "Business Operations Analyst",
+        "date": "2026-11-10",
+        "id": "ashby:faf7394f-840a-49e6-bb15-3904009bd8a8",
+        "url": "https://jobs.ashbyhq.com/ekarobotics/faf7394f-840a-49e6-bb15-3904009bd8a8",
+        "location": "Boston Area"
+      }
+    ],
+    "Bonsai Robotics": [
+      {
+        "title": "\u2b50\ufe0f Field Operations Intern",
+        "date": "2026-11-10",
+        "id": "rippling:7d874946-6dae-422f-a6de-bfab6e1b2323",
+        "url": "https://ats.rippling.com/bonsairoboticsmain/jobs/7d874946-6dae-422f-a6de-bfab6e1b2323",
+        "location": "Davis, CA"
+      },
+      {
+        "title": "Office Manager",
+        "date": "2026-11-10",
+        "id": "rippling:694660e3-811e-4a1a-bd25-0bfc961f37f9",
+        "url": "https://ats.rippling.com/bonsairoboticsmain/jobs/694660e3-811e-4a1a-bd25-0bfc961f37f9",
+        "location": "San Jose, CA"
+      },
+      {
+        "title": "Assembly and Fulfillment Technician",
+        "date": "2026-11-10",
+        "id": "rippling:41571d56-0cd1-4918-94f4-9abaf4b2f379",
+        "url": "https://ats.rippling.com/bonsairoboticsmain/jobs/41571d56-0cd1-4918-94f4-9abaf4b2f379",
+        "location": "Watsonville, CA"
+      },
+      {
+        "title": "Senior Program Manager",
+        "date": "2026-11-10",
+        "id": "rippling:e32b1391-20c9-476e-abc5-b8e9c7ddf981",
+        "url": "https://ats.rippling.com/bonsairoboticsmain/jobs/e32b1391-20c9-476e-abc5-b8e9c7ddf981",
+        "location": "San Jose, CA"
+      },
+      {
+        "title": "Account Executive",
+        "date": "2026-11-10",
+        "id": "rippling:e4fb37a4-5e33-4f37-991a-52d224ef46b9",
+        "url": "https://ats.rippling.com/bonsairoboticsmain/jobs/e4fb37a4-5e33-4f37-991a-52d224ef46b9",
+        "location": "Hybrid (California, US)"
+      },
+      {
+        "title": "Senior Robotics Software Engineer, Simulation",
+        "date": "2026-11-10",
+        "id": "rippling:e4b23b71-f43f-435a-85eb-72a9abf6b67c",
+        "url": "https://ats.rippling.com/bonsairoboticsmain/jobs/e4b23b71-f43f-435a-85eb-72a9abf6b67c",
+        "location": "San Jose, CA"
+      },
+      {
+        "title": "Senior Robotics Software Engineer",
+        "date": "2026-11-10",
+        "id": "rippling:562b9afc-e3ba-4255-965d-f5dd959bd044",
+        "url": "https://ats.rippling.com/bonsairoboticsmain/jobs/562b9afc-e3ba-4255-965d-f5dd959bd044",
+        "location": "San Jose, CA"
+      }
     ]
   },
   "email_threads": {
@@ -78368,7 +78604,10 @@
     "Tuesday Labs": "2026-11-10",
     "Weave Robotics": "2026-11-10",
     "Boost Robotics": "2026-11-10",
-    "Oshkosh": "2026-11-10"
+    "Oshkosh": "2026-11-10",
+    "General Robotics": "2026-11-10",
+    "Eka Robotics": "2026-11-10",
+    "Bonsai Robotics": "2026-11-10"
   },
   "failing": {
     "Anywhere Robotics": {
