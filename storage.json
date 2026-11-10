@@ -866,8 +866,7 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557008574",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557008574",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-10"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Quantum Algorithms",
@@ -1202,8 +1201,7 @@
         "date": "2026-11-06",
         "id": "eightfold:1970393557056017",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557056017",
-        "location": "United States, NY +1",
-        "closed": "2026-11-10"
+        "location": "United States, NY +1"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Next-Generation AI Agents",
@@ -10574,8 +10572,7 @@
         "date": "N/A",
         "id": "talentbrew:100427657728",
         "url": "https://careers.irobot.com/job/tokyo/account-manager/42682/100427657728",
-        "location": "Tokyo",
-        "closed": "2026-11-10"
+        "location": "Tokyo"
       },
       {
         "title": "Sr. Logistics Specialist",
@@ -72519,6 +72516,13 @@
         "id": "greenhouse:5477774008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5477774008",
         "location": "Tokyo, Japan"
+      },
+      {
+        "title": "Marketing Events Manager, International",
+        "date": "2026-11-10",
+        "id": "greenhouse:5424288008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424288008",
+        "location": "London, UK"
       }
     ],
     "xAI": [
