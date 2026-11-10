@@ -10608,8 +10608,7 @@
         "date": "N/A",
         "id": "talentbrew:100427657728",
         "url": "https://careers.irobot.com/job/tokyo/account-manager/42682/100427657728",
-        "location": "Tokyo",
-        "closed": "2026-11-10"
+        "location": "Tokyo"
       },
       {
         "title": "Sr. Logistics Specialist",
@@ -33369,6 +33368,13 @@
         "id": "ashby:cc28eaa2-2625-4a7e-b18f-533f2c685e4f",
         "url": "https://jobs.ashbyhq.com/wayve/cc28eaa2-2625-4a7e-b18f-533f2c685e4f",
         "location": "Sunnyvale, California USA"
+      },
+      {
+        "title": "Principal Research Scientist \u2013 Multimodal Reasoning & Embodied AI",
+        "date": "2026-11-10",
+        "id": "ashby:a4bd512b-36de-4a28-96b4-80e6b056ee4b",
+        "url": "https://jobs.ashbyhq.com/wayve/a4bd512b-36de-4a28-96b4-80e6b056ee4b",
+        "location": "Sunnyvale, California USA +1"
       }
     ],
     "Bedrock Robotics": [
@@ -49001,7 +49007,8 @@
         "date": "2026-10-14",
         "id": "ashby:de83c3eb-e6e4-4ba2-a675-db4e8ef7918a",
         "url": "https://jobs.ashbyhq.com/persona.ai/de83c3eb-e6e4-4ba2-a675-db4e8ef7918a",
-        "location": "Houston, TX"
+        "location": "Houston, TX",
+        "closed": "2026-11-10"
       },
       {
         "title": "Welding Engineer",
@@ -50836,6 +50843,13 @@
         "id": "workday:R8467",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Manchester-PA/Automation-Maintenance-Technician_R8467",
         "location": "USA Manchester, PA"
+      },
+      {
+        "title": "Senior Software Systems Engineer",
+        "date": "2026-11-10",
+        "id": "workday:R8478",
+        "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Senior-Software-Systems-Engineer_R8478",
+        "location": "USA Wilmington, MA - HQ"
       }
     ],
     "PROCEPT BioRobotics": [
@@ -53695,7 +53709,8 @@
         "date": "2026-10-22",
         "id": "rippling:2b633611-771c-4666-a975-092768748903",
         "url": "https://ats.rippling.com/walden-robotics/jobs/2b633611-771c-4666-a975-092768748903",
-        "location": "Cambridge, MA"
+        "location": "Cambridge, MA",
+        "closed": "2026-11-10"
       },
       {
         "title": "UX Designer",
@@ -53792,7 +53807,8 @@
         "date": "2026-10-22",
         "id": "rippling:42209379-77ab-423f-9d2a-3963676c23fb",
         "url": "https://ats.rippling.com/walden-robotics/jobs/42209379-77ab-423f-9d2a-3963676c23fb",
-        "location": "Cambridge, MA"
+        "location": "Cambridge, MA",
+        "closed": "2026-11-10"
       },
       {
         "title": "Senior Member of Technical Staff: Reinforcement Learning for Wholebody Control",
@@ -75953,7 +75969,8 @@
         "date": "2026-10-27",
         "id": "workday:JR101336",
         "url": "https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Troy-Michigan/Sr-Electrical-Switch-Release-Engineer_JR101336",
-        "location": "Troy, Michigan"
+        "location": "Troy, Michigan",
+        "closed": "2026-11-10"
       },
       {
         "title": "IT Support Specialist",
