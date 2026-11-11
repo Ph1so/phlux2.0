@@ -1618,7 +1618,8 @@
         "date": "2026-10-22",
         "id": "amazon:10537998",
         "url": "https://www.amazon.jobs/en/jobs/10537998/data-center-engineering-operations-technician-internship",
-        "location": "Sterling, VA +5"
+        "location": "Sterling, VA +5",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Cloud Hardware Development Engineer Intern, Annapurna Labs - 2027",
@@ -2553,7 +2554,8 @@
         "date": "2026-11-09",
         "id": "amazon:10597379",
         "url": "https://www.amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027",
-        "location": "Seattle, WA +4"
+        "location": "Seattle, WA +4",
+        "closed": "2026-11-11"
       },
       {
         "title": "Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2027, Amazon Dedicated Cloud (ADC)",
@@ -3826,6 +3828,13 @@
         "id": "meta:1875991733421297",
         "url": "https://www.metacareers.com/profile/job_details/1875991733421297/",
         "location": "Singapore"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, LLM Memory and Skills (PhD)",
+        "date": "2026-11-11",
+        "id": "meta:1676116714093186",
+        "url": "https://www.metacareers.com/profile/job_details/1676116714093186/",
+        "location": "Bellevue, WA +2"
       }
     ],
     "Apple": [
@@ -5184,7 +5193,8 @@
         "id": "lever:37780e70-c7af-45e1-9be7-071df201c387",
         "url": "https://jobs.lever.co/palantir/37780e70-c7af-45e1-9be7-071df201c387",
         "location": "New York, NY",
-        "early": "Person Required Must be graduating in December 2026 or Spring 2027 Ability to travel 25 \u2013 75% required."
+        "early": "Person Required Must be graduating in December 2026 or Spring 2027 Ability to travel 25 \u2013 75% required.",
+        "closed": "2026-11-11"
       },
       {
         "title": "Forward Deployed Infrastructure Engineer, New Grad - UK Government",
@@ -27190,7 +27200,8 @@
         "date": "2026-11-10",
         "id": "smartrecruiters:744000160938137",
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160938137",
-        "location": "Londonderry, NH"
+        "location": "Londonderry, NH",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Sales Operations Intern",
@@ -27198,6 +27209,13 @@
         "id": "smartrecruiters:744000160930321",
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160930321",
         "location": "Watertown, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Human Resources Intern (Winter 2027)",
+        "date": "2026-11-11",
+        "id": "smartrecruiters:744000161100324",
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161100324",
+        "location": "Londonderry, NH"
       }
     ],
     "Intrinsic": [
@@ -28317,7 +28335,8 @@
         "date": "N/A",
         "id": "greenhouse:5266291007",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5266291007?gh_jid=5266291007",
-        "location": "Dublin, Dublin, Ireland"
+        "location": "Dublin, Dublin, Ireland",
+        "closed": "2026-11-11"
       },
       {
         "title": "2027 Early Career Warhead Engineer",
@@ -30126,7 +30145,8 @@
         "id": "greenhouse:8003692003",
         "url": "https://job-boards.greenhouse.io/diligentrobotics/jobs/8003692003",
         "location": "Rochester, New York, United States",
-        "early": "This is a part-time, entry-level role at Diligent Robotics and will work 3, 8-hour shifts per week."
+        "early": "This is a part-time, entry-level role at Diligent Robotics and will work 3, 8-hour shifts per week.",
+        "closed": "2026-11-11"
       },
       {
         "title": "Field Service Technician",
@@ -30239,6 +30259,13 @@
         "id": "greenhouse:8196006003",
         "url": "https://job-boards.greenhouse.io/diligentrobotics/jobs/8196006003",
         "location": "Anywhere in the US"
+      },
+      {
+        "title": "Technical Support Specialist - Robotics (overnight)",
+        "date": "2026-11-11",
+        "id": "greenhouse:8201487003",
+        "url": "https://job-boards.greenhouse.io/diligentrobotics/jobs/8201487003",
+        "location": "Austin, Texas, United States"
       }
     ],
     "Phantom AI": [],
@@ -33528,7 +33555,8 @@
         "date": "2026-10-14",
         "id": "ashby:000a7973-cec6-401c-818a-06781f1f6644",
         "url": "https://jobs.ashbyhq.com/wayve/000a7973-cec6-401c-818a-06781f1f6644",
-        "location": "Sunnyvale, California USA"
+        "location": "Sunnyvale, California USA",
+        "closed": "2026-11-11"
       },
       {
         "title": "Software Engineer, Data Ingestion",
@@ -39498,8 +39526,21 @@
         "date": "2026-11-10",
         "id": "ashby:89b42195-f87c-4aea-9c8a-d9bff42b0cde",
         "url": "https://jobs.ashbyhq.com/humanoid/89b42195-f87c-4aea-9c8a-d9bff42b0cde",
-        "location": "UK, London",
-        "closed": "2026-11-10"
+        "location": "UK, London"
+      },
+      {
+        "title": "IT Systems Admin",
+        "date": "2026-11-11",
+        "id": "ashby:908855ed-251a-4a2b-a48f-5027e5fe8ceb",
+        "url": "https://jobs.ashbyhq.com/humanoid/908855ed-251a-4a2b-a48f-5027e5fe8ceb",
+        "location": "UK, London"
+      },
+      {
+        "title": "Senior UX/UI Designer",
+        "date": "2026-11-11",
+        "id": "ashby:d9202f9d-0581-4216-916d-f11c34abf772",
+        "url": "https://jobs.ashbyhq.com/humanoid/d9202f9d-0581-4216-916d-f11c34abf772",
+        "location": "UK, London"
       }
     ],
     "Niantic Spatial": [
@@ -40160,7 +40201,8 @@
         "date": "2026-10-21",
         "id": "google:142611399284007622",
         "url": "https://www.google.com/about/careers/applications/jobs/results/142611399284007622",
-        "location": "London, UK +1"
+        "location": "London, UK +1",
+        "closed": "2026-11-11"
       },
       {
         "title": "Staff Research Engineer, GenAI Reinforcement Learning, DeepMind",
@@ -40582,7 +40624,8 @@
         "date": "N/A",
         "id": "google:126754223260869318",
         "url": "https://www.google.com/about/careers/applications/jobs/results/126754223260869318",
-        "location": "Mountain View, CA +2"
+        "location": "Mountain View, CA +2",
+        "closed": "2026-11-11"
       },
       {
         "title": "Software Engineer, Gemini App Skills Platform, DeepMind",
@@ -41105,6 +41148,34 @@
         "id": "google:95821221060321990",
         "url": "https://www.google.com/about/careers/applications/jobs/results/95821221060321990",
         "location": "Mountain View, CA"
+      },
+      {
+        "title": "Senior Research Engineer, Multimodal Reasoning and Media Forensics, DeepMind",
+        "date": "2026-11-11",
+        "id": "google:128352815188714182",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/128352815188714182",
+        "location": "Mountain View, CA +1"
+      },
+      {
+        "title": "Security Engineer, DeepMind Agentic Detection and Response",
+        "date": "2026-11-11",
+        "id": "google:143922037276975814",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/143922037276975814",
+        "location": "New York, NY"
+      },
+      {
+        "title": "Technical Program Manager, Gemma, DeepMind",
+        "date": "2026-11-11",
+        "id": "google:79361738150945478",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/79361738150945478",
+        "location": "London, UK +1"
+      },
+      {
+        "title": "APAC AI Policy Manager, DeepMind",
+        "date": "2026-11-11",
+        "id": "google:133163865755001542",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/133163865755001542",
+        "location": "Singapore"
       }
     ],
     "Wing": [
@@ -42086,7 +42157,8 @@
         "date": "2026-10-14",
         "id": "greenhouse:4327271009",
         "url": "https://job-boards.greenhouse.io/nimblerobotics/jobs/4327271009",
-        "location": "San Francisco, CA"
+        "location": "San Francisco, CA",
+        "closed": "2026-11-11"
       },
       {
         "title": "Software Engineer II, Cloud Logistics",
@@ -44150,7 +44222,8 @@
         "date": "2026-10-14",
         "id": "greenhouse:8525554002",
         "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8525554002",
-        "location": "Ann Arbor, MI, Fort Worth, TX"
+        "location": "Ann Arbor, MI, Fort Worth, TX",
+        "closed": "2026-11-11"
       },
       {
         "title": "Senior, Machine Learning Engineer - 3D Perception",
@@ -44582,6 +44655,13 @@
         "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8931910002",
         "location": "Ann Arbor, MI",
         "early": "\u2026ring or a related technical field plus demonstrated competencies and technical proficiencies typically acquired through 0+ years of experience."
+      },
+      {
+        "title": "Autonomous Fleet Specialist",
+        "date": "2026-11-11",
+        "id": "greenhouse:8935827002",
+        "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8935827002",
+        "location": "Fort Worth, Texas"
       }
     ],
     "Saronic": [
@@ -50578,7 +50658,8 @@
         "title": "Principal Electrical Engineer",
         "date": "2026-10-22",
         "id": "workday:R8165",
-        "closed": "N/A"
+        "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Principal-Electrical-Engineer_R8165",
+        "location": "USA Wilmington, MA - HQ"
       },
       {
         "title": "Senior Manager, Electrical Engineering Design",
@@ -50777,7 +50858,8 @@
         "date": "2026-10-22",
         "id": "workday:R6834",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Senior-AI-Analytics-Engineer_R6834",
-        "location": "USA Wilmington, MA - HQ"
+        "location": "USA Wilmington, MA - HQ",
+        "closed": "2026-11-11"
       },
       {
         "title": "Site Installation Manager",
@@ -50941,7 +51023,8 @@
         "date": "2026-10-22",
         "id": "workday:R7091-1",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Mechanical-Engineering-Manabager_R7091-1",
-        "location": "USA Wilmington, MA - HQ"
+        "location": "USA Wilmington, MA - HQ",
+        "closed": "2026-11-11"
       },
       {
         "title": "Senior Security Automation Engineer",
@@ -51226,6 +51309,13 @@
         "id": "workday:R8438-1",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Tolleson-AZ/System-Operator_R8438-1",
         "location": "USA Tolleson, AZ"
+      },
+      {
+        "title": "New Grad- Project Scheduler",
+        "date": "2026-11-11",
+        "id": "workday:R8492",
+        "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Remote--Travel/New-Grad--Project-Scheduler_R8492",
+        "location": "USA Remote & Travel"
       }
     ],
     "PROCEPT BioRobotics": [
@@ -59203,15 +59293,18 @@
         "date": "2026-10-22",
         "id": "ashby:8a3fdf98-ad82-4082-ace0-9edb89bc8f6d",
         "url": "https://jobs.ashbyhq.com/openai/8a3fdf98-ad82-4082-ace0-9edb89bc8f6d",
-        "location": "Singapore"
+        "location": "Singapore",
+        "closed": "2026-11-11"
       },
       {
         "title": "Account Director, Mid-Market",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "closed": "2026-11-11"
       },
       {
         "title": "Account Director, Mid-Market",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "closed": "2026-11-11"
       },
       {
         "title": "Account Director, Mid-Market | Korea",
@@ -59612,7 +59705,8 @@
         "date": "2026-10-22",
         "id": "ashby:bb1c9e6f-892e-434b-9f02-fcf6a238bc1c",
         "url": "https://jobs.ashbyhq.com/openai/bb1c9e6f-892e-434b-9f02-fcf6a238bc1c",
-        "location": "Dublin, Ireland"
+        "location": "Dublin, Ireland",
+        "closed": "2026-11-11"
       },
       {
         "title": "Customer Success Manager - Ads Solutions (Dutch speaking)",
@@ -61376,7 +61470,8 @@
         "date": "2026-10-22",
         "id": "ashby:bbe1e108-b8cf-4c57-a646-f89eb1007f1c",
         "url": "https://jobs.ashbyhq.com/openai/bbe1e108-b8cf-4c57-a646-f89eb1007f1c",
-        "location": "US - Remote"
+        "location": "US - Remote",
+        "closed": "2026-11-11"
       },
       {
         "title": "Data Center Hardware Quality & Reliability Engineer",
@@ -64152,6 +64247,13 @@
         "id": "ashby:1ddf1fcf-a647-4016-92c3-2da4b45d1b15",
         "url": "https://jobs.ashbyhq.com/openai/1ddf1fcf-a647-4016-92c3-2da4b45d1b15",
         "location": "Singapore"
+      },
+      {
+        "title": "Manager, Applied AI Architects (Australia)",
+        "date": "2026-11-11",
+        "id": "ashby:f4552c9d-e15f-4f2c-bf03-fd2cc1e11068",
+        "url": "https://jobs.ashbyhq.com/openai/f4552c9d-e15f-4f2c-bf03-fd2cc1e11068",
+        "location": "Sydney, Australia"
       }
     ],
     "John Deere": [
@@ -65433,7 +65535,8 @@
         "date": "2026-10-22",
         "id": "lever:c457aba7-5e7c-4085-ae7d-f9e2001621b6",
         "url": "https://jobs.eu.lever.co/mobileye/c457aba7-5e7c-4085-ae7d-f9e2001621b6",
-        "location": "Jerusalem, Israel"
+        "location": "Jerusalem, Israel",
+        "closed": "2026-11-11"
       },
       {
         "title": "Experienced SoC Verification Engineer",
@@ -65546,7 +65649,8 @@
         "date": "2026-10-26",
         "id": "lever:be730214-2c22-4acf-aff9-422fb6823f3e",
         "url": "https://jobs.eu.lever.co/mobileye/be730214-2c22-4acf-aff9-422fb6823f3e",
-        "location": "Jerusalem, Israel"
+        "location": "Jerusalem, Israel",
+        "closed": "2026-11-11"
       },
       {
         "title": "SecOps Specialist",
@@ -65859,7 +65963,8 @@
         "date": "2026-11-09",
         "id": "lever:a262af21-b179-42a9-b8e4-1b1a32eb66f4",
         "url": "https://jobs.eu.lever.co/mobileye/a262af21-b179-42a9-b8e4-1b1a32eb66f4",
-        "location": "Jerusalem, Israel"
+        "location": "Jerusalem, Israel",
+        "closed": "2026-11-11"
       },
       {
         "title": "Autosar Cybersecurity Software Development (m/w/d)",
@@ -65973,6 +66078,13 @@
         "date": "2026-11-11",
         "id": "lever:7bbe8e79-e693-44df-a183-9f875f176d88",
         "url": "https://jobs.eu.lever.co/mobileye/7bbe8e79-e693-44df-a183-9f875f176d88",
+        "location": "Jerusalem, Israel"
+      },
+      {
+        "title": "Algorithm Developer - Vision Algorithms",
+        "date": "2026-11-11",
+        "id": "lever:4445a729-d5ec-4ae4-b1f6-5bea979b4dce",
+        "url": "https://jobs.eu.lever.co/mobileye/4445a729-d5ec-4ae4-b1f6-5bea979b4dce",
         "location": "Jerusalem, Israel"
       }
     ],
@@ -66666,6 +66778,13 @@
         "id": "ashby:3dc7b60f-7c14-4bfb-8bd1-0f1830f905de",
         "url": "https://jobs.ashbyhq.com/neura-robotics-gmbh/3dc7b60f-7c14-4bfb-8bd1-0f1830f905de",
         "location": "Metzingen / Riederich"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern Quality Engineer (Human)",
+        "date": "2026-11-11",
+        "id": "ashby:ecf265c6-e2da-44ba-a63e-349d424e74b8",
+        "url": "https://jobs.ashbyhq.com/neura-robotics-gmbh/ecf265c6-e2da-44ba-a63e-349d424e74b8",
+        "location": "I14"
       }
     ],
     "Mundane": [
@@ -69003,7 +69122,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5248895008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5248895008",
-        "location": "Tokyo, Japan"
+        "location": "Tokyo, Japan",
+        "closed": "2026-11-11"
       },
       {
         "title": "Enterprise Account Executive, Digital Native Business - Munich",
@@ -69198,7 +69318,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5104756008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5104756008",
-        "location": "Tokyo, Japan"
+        "location": "Tokyo, Japan",
+        "closed": "2026-11-11"
       },
       {
         "title": "Executive Communications Writer",
@@ -69407,7 +69528,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5454518008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454518008",
-        "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | New York City, NY"
+        "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | New York City, NY",
+        "closed": "2026-11-11"
       },
       {
         "title": "GTM Strategy & Operations - AMER Enterprise Tech",
@@ -72916,8 +73038,7 @@
         "date": "2026-11-04",
         "id": "greenhouse:5449880008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5449880008",
-        "location": "London, UK",
-        "closed": "2026-11-06"
+        "location": "London, UK"
       },
       {
         "title": "Procurement Operations Business Partner - Workplace, Security and People",
@@ -73198,6 +73319,13 @@
         "id": "greenhouse:5458159008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5458159008",
         "location": "Tokyo, Japan"
+      },
+      {
+        "title": "International Infrastructure Accounting",
+        "date": "2026-11-11",
+        "id": "greenhouse:5475136008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5475136008",
+        "location": "Dublin, IE"
       }
     ],
     "xAI": [
