@@ -88422,7 +88422,8 @@
       },
       {
         "title": "\u2b50\ufe0f Software Engineer Data & AI PhD (Intern) - United States",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Hardware Engineer PhD (Intern) - United States",
@@ -88447,12 +88448,12 @@
       },
       {
         "title": "\u2b50\ufe0f Software Engineer Full-Stack / Backend I (Intern) \u2013 United States",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Business Analyst I (Intern) United States",
-        "date": "2026-11-11",
-        "closed": "2026-11-11"
+        "date": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Hardware Engineer I (Intern) - United States",
@@ -88461,13 +88462,11 @@
       },
       {
         "title": "\u2b50\ufe0f Software Consulting Engineer I (Intern) United States",
-        "date": "2026-11-11",
-        "closed": "2026-11-11"
+        "date": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f PROPEL Project Specialist I (Intern) United States",
-        "date": "2026-11-11",
-        "closed": "2026-11-11"
+        "date": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer Embedded Systems I (Intern) - United States",
@@ -88475,7 +88474,8 @@
       },
       {
         "title": "\u2b50\ufe0f Consulting Engineer I (Intern) - United States",
-        "date": "2026-11-11"
+        "date": "2026-11-11",
+        "closed": "2026-11-11"
       }
     ],
     "TwoSigma": [
