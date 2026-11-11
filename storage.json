@@ -5803,7 +5803,8 @@
         "date": "N/A",
         "id": "greenhouse:7736276003",
         "url": "https://boards.greenhouse.io/neuralink/jobs/7736276003?gh_jid=7736276003",
-        "location": "Austin, Texas, United States; South San Francisco, California, United States"
+        "location": "Austin, Texas, United States; South San Francisco, California, United States",
+        "closed": "2026-11-10"
       },
       {
         "title": "\u2b50\ufe0f Machine Learning Engineer Intern",
@@ -76023,8 +76024,7 @@
         "date": "2026-11-09",
         "id": "ashby:2628909c-b655-4475-b0f5-fbadf7e9992f",
         "url": "https://jobs.ashbyhq.com/ThinkingMachines/2628909c-b655-4475-b0f5-fbadf7e9992f",
-        "location": "San Francisco",
-        "closed": "2026-11-10"
+        "location": "San Francisco"
       }
     ],
     "Bot Auto": [
