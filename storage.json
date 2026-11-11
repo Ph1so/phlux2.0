@@ -1113,16 +1113,14 @@
         "date": "2026-10-28",
         "id": "eightfold:1970393557049981",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557049981",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-11"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - MSR Systems Research Group - Redmond",
         "date": "2026-10-28",
         "id": "eightfold:1970393557050039",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557050039",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-11"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Applied Scientist: Internship Opportunities, Turing",
@@ -1157,8 +1155,7 @@
         "date": "2026-11-02",
         "id": "eightfold:1970393557043712",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557043712",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-11"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Explore Program Engineering Internship Opportunities: First-Year Students, Redmond",
@@ -1196,8 +1193,7 @@
         "date": "2026-11-02",
         "id": "eightfold:1970393557053016",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557053016",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-11"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Coding Agents & Post-Training Optimization",
@@ -5534,6 +5530,13 @@
         "date": "2026-11-11",
         "id": "greenhouse:8356358",
         "url": "https://www.riotgames.com/en/work-with-us/job/8356358?gh_jid=8356358",
+        "location": "Los Angeles, USA"
+      },
+      {
+        "title": "\u2b50\ufe0f Machine Learning Engineering Intern (Masters/PhD) - Summer 2027",
+        "date": "2026-11-11",
+        "id": "greenhouse:8356771",
+        "url": "https://www.riotgames.com/en/work-with-us/job/8356771?gh_jid=8356771",
         "location": "Los Angeles, USA"
       }
     ],
@@ -22913,6 +22916,13 @@
         "id": "lever:beeb6f55-0d41-4481-a5d8-18b1f9b6657b",
         "url": "https://jobs.lever.co/zoox/beeb6f55-0d41-4481-a5d8-18b1f9b6657b",
         "location": "Foster City, CA +1"
+      },
+      {
+        "title": "Senior Manager, R&D Vehicle Production",
+        "date": "2026-11-11",
+        "id": "lever:05935821-98c8-4882-8b53-6f00c48e0b64",
+        "url": "https://jobs.lever.co/zoox/05935821-98c8-4882-8b53-6f00c48e0b64",
+        "location": "Fremont, CA"
       }
     ],
     "Pony.ai": [
@@ -32687,7 +32697,8 @@
         "date": "2026-10-13",
         "id": "greenhouse:8248060",
         "url": "https://careers.withwaymo.com/jobs?gh_jid=8248060",
-        "location": "Mountain View, CA, USA"
+        "location": "Mountain View, CA, USA",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Conflict Behavior",
