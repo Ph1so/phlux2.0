@@ -1113,14 +1113,16 @@
         "date": "2026-10-28",
         "id": "eightfold:1970393557049981",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557049981",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - MSR Systems Research Group - Redmond",
         "date": "2026-10-28",
         "id": "eightfold:1970393557050039",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557050039",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Applied Scientist: Internship Opportunities, Turing",
@@ -1155,7 +1157,8 @@
         "date": "2026-11-02",
         "id": "eightfold:1970393557043712",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557043712",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Explore Program Engineering Internship Opportunities: First-Year Students, Redmond",
@@ -1193,7 +1196,8 @@
         "date": "2026-11-02",
         "id": "eightfold:1970393557053016",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557053016",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Coding Agents & Post-Training Optimization",
@@ -2547,7 +2551,8 @@
         "date": "2026-11-06",
         "id": "amazon:10581072",
         "url": "https://www.amazon.jobs/en/jobs/10581072/solutions-architect-ags-tech-early-career-2027-us",
-        "location": "Seattle, WA +2"
+        "location": "Seattle, WA +2",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Software Development Engineer Intern - Summer 2027",
@@ -10090,7 +10095,8 @@
         "date": "2026-09-28",
         "id": "ashby:0ffeeb6d-88a7-4677-912d-8316457a72ca",
         "url": "https://jobs.ashbyhq.com/gecko-robotics/0ffeeb6d-88a7-4677-912d-8316457a72ca",
-        "location": "New York City +1"
+        "location": "New York City +1",
+        "closed": "2026-11-11"
       },
       {
         "title": "Quality Engineer, Hardware",
@@ -21452,7 +21458,8 @@
         "date": "N/A",
         "id": "lever:8840bf52-a4f9-468f-bff6-a9d58ab7f19d",
         "url": "https://jobs.lever.co/zoox/8840bf52-a4f9-468f-bff6-a9d58ab7f19d",
-        "location": "Foster City, CA"
+        "location": "Foster City, CA",
+        "closed": "2026-11-11"
       },
       {
         "title": "Release Engineer",
@@ -38573,7 +38580,8 @@
         "date": "N/A",
         "id": "ashby:0e32672b-86f4-4514-92f0-3ef5f3a0ca6a",
         "url": "https://jobs.ashbyhq.com/humanoid/0e32672b-86f4-4514-92f0-3ef5f3a0ca6a",
-        "location": "UK, London"
+        "location": "UK, London",
+        "closed": "2026-11-11"
       },
       {
         "title": "VP of Industrial Product Engineering",
@@ -39526,7 +39534,8 @@
         "date": "2026-11-10",
         "id": "ashby:89b42195-f87c-4aea-9c8a-d9bff42b0cde",
         "url": "https://jobs.ashbyhq.com/humanoid/89b42195-f87c-4aea-9c8a-d9bff42b0cde",
-        "location": "UK, London"
+        "location": "UK, London",
+        "closed": "2026-11-11"
       },
       {
         "title": "IT Systems Admin",
@@ -51301,7 +51310,8 @@
         "date": "2026-11-10",
         "id": "workday:R8478",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Senior-Software-Systems-Engineer_R8478",
-        "location": "USA Wilmington, MA - HQ"
+        "location": "USA Wilmington, MA - HQ",
+        "closed": "2026-11-11"
       },
       {
         "title": "System Operator",
@@ -51316,6 +51326,13 @@
         "id": "workday:R8492",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Remote--Travel/New-Grad--Project-Scheduler_R8492",
         "location": "USA Remote & Travel"
+      },
+      {
+        "title": "New Grad- Robotics Software Engineer",
+        "date": "2026-11-11",
+        "id": "workday:R8496",
+        "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Robotics-Software-Engineer_R8496",
+        "location": "USA Wilmington, MA - HQ"
       }
     ],
     "PROCEPT BioRobotics": [
@@ -53876,6 +53893,27 @@
         "id": "greenhouse:4727749006",
         "url": "https://boards.greenhouse.io/gatikaiinc/jobs/4727749006?gh_jid=4727749006",
         "location": "Phoenix, AZ OR Dallas Fort-Worth, TX OR Santa Clara, CA"
+      },
+      {
+        "title": "Technical Program Manager, Hardware",
+        "date": "2026-11-11",
+        "id": "greenhouse:4728913006",
+        "url": "https://boards.greenhouse.io/gatikaiinc/jobs/4728913006?gh_jid=4728913006",
+        "location": "Santa Clara, CA"
+      },
+      {
+        "title": "Technical Program Manager, Operations Readiness",
+        "date": "2026-11-11",
+        "id": "greenhouse:4728912006",
+        "url": "https://boards.greenhouse.io/gatikaiinc/jobs/4728912006?gh_jid=4728912006",
+        "location": "Santa Clara, CA"
+      },
+      {
+        "title": "Technical Program Manager, Software",
+        "date": "2026-11-11",
+        "id": "greenhouse:4728914006",
+        "url": "https://boards.greenhouse.io/gatikaiinc/jobs/4728914006?gh_jid=4728914006",
+        "location": "Santa Clara, CA"
       }
     ],
     "Exotec": [
@@ -62068,7 +62106,8 @@
         "date": "2026-10-22",
         "id": "ashby:d1121575-a1a7-47c9-97e6-56c70f441143",
         "url": "https://jobs.ashbyhq.com/openai/d1121575-a1a7-47c9-97e6-56c70f441143",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-11"
       },
       {
         "title": "Tech Lead, Deployment & Operations \u2014 Custom Infrastructure",
@@ -63901,7 +63940,8 @@
         "date": "2026-11-05",
         "id": "ashby:d4650f77-45ed-4bee-92ac-097a62fa6341",
         "url": "https://jobs.ashbyhq.com/openai/d4650f77-45ed-4bee-92ac-097a62fa6341",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-11"
       },
       {
         "title": "Forward Deployed Engineer (FDE), Cyber - SF",
@@ -69102,7 +69142,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5391293008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391293008",
-        "location": "Paris, France"
+        "location": "Paris, France",
+        "closed": "2026-11-11"
       },
       {
         "title": "Enterprise Account Executive - CEE",
@@ -75831,6 +75872,13 @@
         "id": "greenhouse:5282197007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5282197007",
         "location": "Austin, TX; New York, NY; Palo Alto, CA; Washington, DC"
+      },
+      {
+        "title": "AI Tutor, Spanish - Temporary",
+        "date": "2026-11-11",
+        "id": "greenhouse:5090264007",
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5090264007",
+        "location": "Remote, International"
       }
     ],
     "Thinking Machines Lab": [
@@ -77568,6 +77616,13 @@
         "id": "ashby:812bb2b6-b65a-482e-b070-d6a1109570c3",
         "url": "https://jobs.ashbyhq.com/beyondreachlabs/812bb2b6-b65a-482e-b070-d6a1109570c3",
         "location": "New York City"
+      },
+      {
+        "title": "Build Engineer",
+        "date": "2026-11-11",
+        "id": "ashby:50be617f-764e-48bc-9686-bfb06bad9d46",
+        "url": "https://jobs.ashbyhq.com/beyondreachlabs/50be617f-764e-48bc-9686-bfb06bad9d46",
+        "location": "New York City"
       }
     ],
     "Relling": [
@@ -78372,7 +78427,8 @@
         "date": "2026-11-02",
         "id": "workday:R51242",
         "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Fluid-Power-Engineer-Intern_R51242",
-        "location": "Oshkosh, Wisconsin, United States"
+        "location": "Oshkosh, Wisconsin, United States",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Operations Supervisor Intern",
@@ -78499,7 +78555,8 @@
         "date": "2026-11-02",
         "id": "workday:R50551",
         "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Jefferson-City-Tennessee-United-States/Controls-Engineer-Intern_R50551",
-        "location": "Jefferson City, Tennessee, United States"
+        "location": "Jefferson City, Tennessee, United States",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Manufacturing Engineering Intern",
@@ -78730,7 +78787,8 @@
         "date": "2026-11-02",
         "id": "workday:R50272",
         "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Electrical-Engineering-Intern_R50272",
-        "location": "Oshkosh, Wisconsin, United States"
+        "location": "Oshkosh, Wisconsin, United States",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Autonomy & Active Safety Engineering Intern",
