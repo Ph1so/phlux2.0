@@ -2552,6 +2552,13 @@
         "id": "amazon:10597379",
         "url": "https://www.amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027",
         "location": "Seattle, WA +4"
+      },
+      {
+        "title": "Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2027, Amazon Dedicated Cloud (ADC)",
+        "date": "2026-11-10",
+        "id": "amazon:10601956",
+        "url": "https://www.amazon.jobs/en/jobs/10601956/software-development-engineer-amazon-dedicated-cloud-early-career-2027-amazon-dedicated-cloud-adc",
+        "location": "Seattle, WA +4"
       }
     ],
     "Meta": [
@@ -19143,7 +19150,8 @@
         "title": "\u2b50\ufe0f Lidar R&D and Architecture Intern",
         "date": "2026-10-28",
         "id": "ashby:b61cb8ea-3ab6-46ed-90d7-be3ad9ac85ad",
-        "closed": "N/A"
+        "url": "https://jobs.ashbyhq.com/aurora-operations-inc/b61cb8ea-3ab6-46ed-90d7-be3ad9ac85ad",
+        "location": "Bozeman, MT"
       },
       {
         "title": "Senior Hardware Reliability Engineer",
@@ -24514,7 +24522,8 @@
         "date": "N/A",
         "id": "greenhouse:8049766",
         "url": "https://nuro.ai/careersitem?gh_jid=8049766",
-        "location": "California - SF"
+        "location": "California - SF",
+        "closed": "2026-11-10"
       },
       {
         "title": "\u2b50\ufe0f Social Media Intern",
@@ -28321,6 +28330,14 @@
         "id": "greenhouse:5291546007",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5291546007?gh_jid=5291546007",
         "location": "Costa Mesa, California, United States"
+      },
+      {
+        "title": "2027 Early Career Finance Emerging Leadership Rotational Program",
+        "date": "2026-11-10",
+        "id": "greenhouse:5291829007",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5291829007?gh_jid=5291829007",
+        "location": "Costa Mesa, California, United States",
+        "early": "If you are a highly motivated recent grad who is eager to learn and make a visible impact, this program is for you."
       }
     ],
     "Matic Robots": [
@@ -29354,6 +29371,13 @@
         "date": "2026-11-09",
         "id": "ashby:0e688473-bb28-44df-9320-5c883ed5feeb",
         "url": "https://jobs.ashbyhq.com/scout-ai/0e688473-bb28-44df-9320-5c883ed5feeb",
+        "location": "Sunnyvale, CA"
+      },
+      {
+        "title": "Supply Chain Manager",
+        "date": "2026-11-10",
+        "id": "ashby:35742edb-5882-4fa9-9e99-32fb08e0ac1c",
+        "url": "https://jobs.ashbyhq.com/scout-ai/35742edb-5882-4fa9-9e99-32fb08e0ac1c",
         "location": "Sunnyvale, CA"
       }
     ],
@@ -46163,7 +46187,8 @@
         "date": "2026-10-20",
         "id": "ashby:57d2c35f-a191-4211-85d1-0fd380aa712c",
         "url": "https://jobs.ashbyhq.com/saronic/57d2c35f-a191-4211-85d1-0fd380aa712c",
-        "location": "Austin, TX"
+        "location": "Austin, TX",
+        "closed": "2026-11-10"
       },
       {
         "title": "Industrial Engineer",
@@ -46577,6 +46602,27 @@
         "date": "2026-11-09",
         "id": "ashby:62636523-c7da-4076-aee4-bc7c0d8685d0",
         "url": "https://jobs.ashbyhq.com/saronic/62636523-c7da-4076-aee4-bc7c0d8685d0",
+        "location": "Austin, TX"
+      },
+      {
+        "title": "Manager, IT Systems Engineering",
+        "date": "2026-11-10",
+        "id": "ashby:d9873313-fd76-403e-b284-d13b091c5182",
+        "url": "https://jobs.ashbyhq.com/saronic/d9873313-fd76-403e-b284-d13b091c5182",
+        "location": "Austin, TX"
+      },
+      {
+        "title": "Manager, IT Network",
+        "date": "2026-11-10",
+        "id": "ashby:f27f1118-757f-41d2-8131-d4b0922af1ff",
+        "url": "https://jobs.ashbyhq.com/saronic/f27f1118-757f-41d2-8131-d4b0922af1ff",
+        "location": "Austin, TX"
+      },
+      {
+        "title": "Lead IT Technician",
+        "date": "2026-11-10",
+        "id": "ashby:5a0a0fe8-f3c2-4a01-8234-bb7b86f79ca9",
+        "url": "https://jobs.ashbyhq.com/saronic/5a0a0fe8-f3c2-4a01-8234-bb7b86f79ca9",
         "location": "Austin, TX"
       }
     ],
@@ -54979,7 +55025,8 @@
         "date": "2026-10-22",
         "id": "lever:1ceb5fb5-2b1a-452f-bd8e-10aee8dcc7e9",
         "url": "https://jobs.lever.co/woven-by-toyota/1ceb5fb5-2b1a-452f-bd8e-10aee8dcc7e9",
-        "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a +1"
+        "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a +1",
+        "closed": "2026-11-10"
       },
       {
         "title": "\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30de\u30cd\u30fc\u30b8\u30e3\u30fc\u30fb\u4e8b\u696d\u958b\u767a, Smart Logistics",
@@ -57951,21 +57998,24 @@
         "date": "2026-10-22",
         "id": "ashby:5d5a4116-b409-4676-b357-7094ad87d15d",
         "url": "https://jobs.ashbyhq.com/openai/5d5a4116-b409-4676-b357-7094ad87d15d",
-        "location": "San Francisco +1"
+        "location": "San Francisco +1",
+        "closed": "2026-11-10"
       },
       {
         "title": "Internal Communications, Enterprise & Growth",
         "date": "2026-10-22",
         "id": "ashby:dcbb011b-bc0f-41e6-b3c6-34068d177e54",
         "url": "https://jobs.ashbyhq.com/openai/dcbb011b-bc0f-41e6-b3c6-34068d177e54",
-        "location": "San Francisco +1"
+        "location": "San Francisco +1",
+        "closed": "2026-11-10"
       },
       {
         "title": "Internal Communications, Research and Product",
         "date": "2026-10-22",
         "id": "ashby:83ef2875-3b91-4f4d-88c5-68317e56d039",
         "url": "https://jobs.ashbyhq.com/openai/83ef2875-3b91-4f4d-88c5-68317e56d039",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-10"
       },
       {
         "title": "Media Relations, Safety Communications",
@@ -59088,8 +59138,7 @@
         "date": "2026-10-22",
         "id": "ashby:76084eee-9186-4897-ae12-3445307e61be",
         "url": "https://jobs.ashbyhq.com/openai/76084eee-9186-4897-ae12-3445307e61be",
-        "location": "Seoul, South Korea",
-        "closed": "2026-11-10"
+        "location": "Seoul, South Korea"
       },
       {
         "title": "Account Director, Public Sector - Tokyo",
@@ -62873,7 +62922,8 @@
         "date": "2026-10-27",
         "id": "ashby:30e3b7b2-1fe4-49a4-a82f-9c34626f0441",
         "url": "https://jobs.ashbyhq.com/openai/30e3b7b2-1fe4-49a4-a82f-9c34626f0441",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-10"
       },
       {
         "title": "Site Civil, Structural & Architectural Lead (CSLA)",
@@ -64007,6 +64057,13 @@
         "id": "ashby:6cc80c7c-c4ec-41e8-bbdd-a66be512106b",
         "url": "https://jobs.ashbyhq.com/openai/6cc80c7c-c4ec-41e8-bbdd-a66be512106b",
         "location": "US - Remote"
+      },
+      {
+        "title": "Applied AI Architect, Cyber",
+        "date": "2026-11-10",
+        "id": "ashby:97e3df39-8a0b-493d-8cc4-c35e01491516",
+        "url": "https://jobs.ashbyhq.com/openai/97e3df39-8a0b-493d-8cc4-c35e01491516",
+        "location": "Vancouver"
       }
     ],
     "John Deere": [
@@ -73267,7 +73324,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5227684007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5227684007",
-        "location": "Southaven, MS; Memphis, TN"
+        "location": "Southaven, MS; Memphis, TN",
+        "closed": "2026-11-10"
       },
       {
         "title": "Civil Engineer - Memphis",
@@ -73544,7 +73602,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5252402007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5252402007",
-        "location": "Southaven, MS; Memphis, TN"
+        "location": "Southaven, MS; Memphis, TN",
+        "closed": "2026-11-10"
       },
       {
         "title": "Data Center Fiber Technician",
@@ -73797,14 +73856,16 @@
         "date": "2026-10-27",
         "id": "greenhouse:5227699007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5227699007",
-        "location": "Southaven, MS; Memphis, TN"
+        "location": "Southaven, MS; Memphis, TN",
+        "closed": "2026-11-10"
       },
       {
         "title": "Facilities Operations Technician - Memphis",
         "date": "2026-10-27",
         "id": "greenhouse:5264627007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5264627007",
-        "location": "Southaven, MS; Memphis, TN"
+        "location": "Southaven, MS; Memphis, TN",
+        "closed": "2026-11-10"
       },
       {
         "title": "Facilities Specialist - Memphis",
@@ -74220,7 +74281,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5245782007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5245782007",
-        "location": "Southaven, MS; Memphis, TN"
+        "location": "Southaven, MS; Memphis, TN",
+        "closed": "2026-11-10"
       },
       {
         "title": "Megapack Field Technician - Memphis",
@@ -74484,7 +74546,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5255505007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5255505007",
-        "location": "Southaven, MS; Memphis, TN"
+        "location": "Southaven, MS; Memphis, TN",
+        "closed": "2026-11-10"
       },
       {
         "title": "Power System Engineer (Transmission & Distribution) - Memphis",
