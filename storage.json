@@ -65020,6 +65020,13 @@
         "id": "workday:R10260318",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkridge/XMLNAME-2027-Manufacturing-Engineering-Intern---Elkridge-MD_R10260318",
         "location": "United States-Maryland-Elkridge"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Industrial Engineering Intern - Elkridge MD",
+        "date": "2026-11-11",
+        "id": "workday:R10260314",
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkridge/XMLNAME-2027-Industrial-Engineering-Intern---Elkridge-MD_R10260314",
+        "location": "United States-Maryland-Elkridge"
       }
     ],
     "OpenAI": [
@@ -88211,7 +88218,8 @@
       },
       {
         "title": "\u2b50\ufe0f Research - Quantum Performance and Demonstrations - Intern 2027 - Internship - Multiple Cities",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Consulting - Portfolio Development Intern 2027 - Internship - New York, US",
@@ -88219,7 +88227,8 @@
       },
       {
         "title": "\u2b50\ufe0f Research - Quantum Error Correction Theory Intern - 2027 - Internship - Yorktown Heights, US",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Consulting - Intern Package Consultant \u2013 Microsoft 2027 - Internship - Chicago, US",
@@ -88228,6 +88237,14 @@
       {
         "title": "\u2b50\ufe0f Infrastructure & Technology - Software Developer Intern/Tucson-AZ - Internship - TUCSON, US",
         "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Product Management - Product Manager Intern 2027 - Lowell - Internship - LOWELL, US",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "\u2b50\ufe0f Data & Analytics - Quantum Data Scientist Intern - 2027 - Internship - Yorktown Heights, US",
+        "date": "2026-11-11"
       }
     ],
     "Bank of America": [
@@ -90079,12 +90096,12 @@
       },
       {
         "title": "\u2b50\ufe0f 2027 Intern - Research PhD Intern",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f 2027 Intern - Experience Researcher",
-        "date": "2026-11-11",
-        "closed": "2026-11-11"
+        "date": "2026-11-11"
       }
     ],
     "Databricks": [
