@@ -33120,6 +33120,13 @@
         "id": "lever:082808e5-5e3b-4189-9034-3ebd69d8c0dc",
         "url": "https://jobs.lever.co/shieldai/082808e5-5e3b-4189-9034-3ebd69d8c0dc",
         "location": "Dallas, Texas"
+      },
+      {
+        "title": "Engineer II, Software - Autonomy Capabilities - New Grad - 6131",
+        "date": "2026-11-11",
+        "id": "lever:d2050861-fd48-4ac6-9606-e1e502a817af",
+        "url": "https://jobs.lever.co/shieldai/d2050861-fd48-4ac6-9606-e1e502a817af",
+        "location": "United States"
       }
     ],
     "Swarm Aero": [
@@ -88684,7 +88691,8 @@
       },
       {
         "title": "\u2b50\ufe0f Mechanical Engineer I (Intern) - United States",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Communications Specialist I (Intern) - United States",
@@ -88696,7 +88704,8 @@
       },
       {
         "title": "\u2b50\ufe0f Hardware Engineer PhD (Intern) - United States",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Legal Summer Intern Rising 2L (Intern) - United States",
@@ -88740,13 +88749,11 @@
       },
       {
         "title": "\u2b50\ufe0f Software Engineer Embedded Systems I (Intern) - United States",
-        "date": "2026-11-11",
-        "closed": "2026-11-11"
+        "date": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Consulting Engineer I (Intern) - United States",
-        "date": "2026-11-11",
-        "closed": "2026-11-11"
+        "date": "2026-11-11"
       }
     ],
     "TwoSigma": [
@@ -90435,6 +90442,10 @@
       {
         "title": "Lead C# Developer - Core Trading Technology",
         "date": "N/A"
+      },
+      {
+        "title": "Trade Surveillance Analyst",
+        "date": "2026-11-11"
       }
     ],
     "Adobe": [
