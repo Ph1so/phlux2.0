@@ -276,10 +276,10 @@ class TestSendEmailAll:
             send_email_all(message, test=test, threads=threads)
         return sent[0]
 
-    def test_goes_to_all_internships_bcc_only(self, intern_message):
+    def test_addressed_to_all_internships_bcc_only(self, intern_message):
         msg = self._send(intern_message)
-        assert msg["To"] is None  # "to" gets the usual alert, not a second copy
-        assert msg["Bcc"] == "all@x.com"
+        assert msg["To"] == "all@x.com"  # a missing To header sent it to spam
+        assert msg["Bcc"] is None  # "to" gets the usual alert, not a second copy
         assert msg["Subject"] == "🚀 New Internship Alerts!"
 
     def test_test_send_goes_to_the_alert_address(self, intern_message):
@@ -332,11 +332,11 @@ class TestMainAlertsByAudience:
 
     def test_unlisted_companies_start_quiet(self, tmp_path, monkeypatch):
         _, kwargs = self._run(tmp_path, monkeypatch, self._jobs("Robo"))
-        assert kwargs["quiet_until_checked"] == {"Bank"}
+        assert kwargs["unlisted"] == {"Bank"}
 
     def test_nobody_on_all_internships_bcc_sends_no_all_email(self, tmp_path, monkeypatch):
         sends, kwargs = self._run(tmp_path, monkeypatch, self._jobs("Robo"), cfg={**ALL_CFG, "all_internships_bcc": []})
-        assert list(sends) == ["usual"] and kwargs["quiet_until_checked"] == set()
+        assert list(sends) == ["usual"] and kwargs["unlisted"] == set()
 
     def test_failed_all_email_does_not_fail_the_run(self, tmp_path, monkeypatch):
         sends, _ = self._run(tmp_path, monkeypatch, self._jobs("Robo"), all_fails=True)

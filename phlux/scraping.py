@@ -644,6 +644,22 @@ def track_closures(data: dict, result: ScrapeResult, trust_empty: bool = False,
         entry["closed"] = stamp
 
 
+def mark_checked(data: dict, result: ScrapeResult, trust_empty: bool = False,
+                 now: datetime | None = None) -> None:
+    """Record a trusted scrape's ``checked`` date without tracking closures.
+
+    For companies scraped only for ``all_internships_bcc``. Many are page
+    scrapes that show a different slice of a long board each run (Cisco,
+    Adobe), so tracking closures would close and reopen postings every run:
+    each run would commit, and every bot commit starts another run. Any
+    closures held for a second look are dropped.
+    """
+    if not result.jobs and not trust_empty:
+        return
+    data.setdefault(CHECKED_KEY, {})[result.name] = (now or datetime.now(EASTERN)).date().isoformat()
+    data.get(PENDING_KEY, {}).pop(result.name, None)
+
+
 class ScrapeManager:
     """Orchestrates parallel scraping of all companies and merges results.
 
@@ -660,7 +676,7 @@ class ScrapeManager:
         companies: List[Company],
         storage_path: str = "storage.json",
         max_workers: int = os.cpu_count() or 4,
-        quiet_until_checked: Collection[str] = (),
+        unlisted: Collection[str] = (),
     ) -> Dict:
         """Scrape all companies in parallel and return updated job data.
 
@@ -668,12 +684,14 @@ class ScrapeManager:
             companies: List of companies to scrape.
             storage_path: Path to the persistent job-storage JSON file.
             max_workers: Maximum number of parallel worker processes.
-            quiet_until_checked: Companies whose postings are recorded silently
-                (like ``seed_new_companies``) until a scrape first gives them a
+            unlisted: Companies scraped only for ``all_internships_bcc``.
+                Their postings are recorded silently (like
+                ``seed_new_companies``) until a scrape first gives them a
                 ``checked`` date, so turning a company on alerts only what's
                 posted after, not its whole board. Stored entries don't count:
                 a company dropped from the list long ago has missed postings
-                since, and they would all look new.
+                since, and they would all look new. Their closures aren't
+                tracked (see :func:`mark_checked`).
 
         Returns:
             A dict with keys ``"data"`` (full storage contents) and
@@ -713,10 +731,15 @@ class ScrapeManager:
                 if not result.jobs:
                     no_jobs_count += 1
                 seed = (seed_empty and not data.get("companies", {}).get(company.name)) or (
-                    company.name in quiet_until_checked and company.name not in data.get(CHECKED_KEY, {}))
+                    company.name in unlisted and company.name not in data.get(CHECKED_KEY, {}))
                 process_jobs(data, result, new_jobs, seed=seed)
-                if not failed:
-                    track_closures(data, result, trust_empty=bool(board_of(company.selector)))
+                if failed:
+                    continue
+                trust_empty = bool(board_of(company.selector))
+                if company.name in unlisted:
+                    mark_checked(data, result, trust_empty=trust_empty)
+                else:
+                    track_closures(data, result, trust_empty=trust_empty)
 
         logger.info("Companies with no jobs found: %d", no_jobs_count)
         return {"data": data, "new_jobs": new_jobs}

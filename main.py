@@ -110,7 +110,7 @@ def _send_email_impl(
     email_cfg: Dict[str, Any],
     threads: Optional[Dict[str, Any]] = None,
     kind: str = "",
-    bcc_only: bool = False,
+    to: Optional[str] = None,
 ) -> None:
     """Build and send an email via Gmail SMTP.
 
@@ -120,14 +120,13 @@ def _send_email_impl(
     References header naming a message already in the conversation. When it is
     the day's first, it is recorded in *threads* once sent.
 
-    With *bcc_only* the email goes to *bcc* alone, with no To header, so "to"
-    doesn't get a second copy; a test send still goes to "to".
+    With *to*, the email goes there instead of to "to" (a test send still goes
+    to "to").
     """
     msg = EmailMessage()
     msg["Subject"] = subject
     msg["From"] = email_cfg["from"]
-    if test or not bcc_only:
-        msg["To"] = email_cfg["to"]
+    msg["To"] = email_cfg["to"] if test or not to else to
     if not test and bcc:
         msg["Bcc"] = ", ".join(bcc)
 
@@ -167,18 +166,23 @@ def send_email(message: Dict[str, Any], test: bool = False, threads: Optional[Di
 
 
 def send_email_all(message: Dict[str, Any], test: bool = False, threads: Optional[Dict[str, Any]] = None) -> None:
-    """Send every new internship, from every company scraped, to ``all_internships_bcc``."""
+    """Send every new internship, from every company scraped, to ``all_internships_bcc``.
+
+    They're addressed in To, not Bcc: Gmail sent the first one, with no To
+    header, to spam. Everyone on the list sees the others' addresses. "to"
+    isn't sent a copy; it gets the usual alert.
+    """
     email_cfg = load_email_config()
     _send_email_impl(
         message,
         subject="🚀 New Internship Alerts!",
-        bcc=email_cfg["all_internships_bcc"],
+        bcc=[],
+        to=", ".join(email_cfg["all_internships_bcc"]),
         format_fn=format_message_html,
         test=test,
         email_cfg=email_cfg,
         threads=threads,
         kind="internship_all",
-        bcc_only=True,
     )
 
 
@@ -242,7 +246,7 @@ def main() -> None:
     # Companies scraped only for all_internships_bcc start out quiet: their
     # boards' current postings are recorded, not emailed as new.
     result = manager.scrape_companies(
-        companies=companies, quiet_until_checked={c.name for c in companies} - listed_names)
+        companies=companies, unlisted={c.name for c in companies} - listed_names)
     data = result["data"]
     storage = Path("storage.json")
 

@@ -485,14 +485,26 @@ class TestScrapeCompaniesSeeding:
     def test_quiet_company_records_silently_until_checked(self, tmp_path):
         # Beta was dropped from the list long ago: its old entry doesn't make "New Role" news.
         storage = {"companies": {"Beta": [{"title": "Old Role", "date": "2026-05-01"}]}}
-        result = self._scrape(tmp_path, storage, quiet_until_checked={"Beta"})
+        result = self._scrape(tmp_path, storage, unlisted={"Beta"})
         assert list(result["new_jobs"]["companies"]) == ["Acme"]
         assert result["data"]["companies"]["Beta"][-1] == {"title": "New Role", "date": "N/A"}
         assert "Beta" in result["data"]["checked"]
 
+    def test_unlisted_company_tracks_no_closures(self, tmp_path):
+        # A page showing a different slice each run mustn't close and reopen postings every run.
+        storage = {"companies": {"Acme": [{"title": "Gone Role", "date": "2026-11-01"}],
+                                 "Beta": [{"title": "Gone Role", "date": "2026-11-01"}]},
+                   "checked": {"Acme": "2026-11-10", "Beta": "2026-11-10"},
+                   "pending_closures": {"Beta": {"since": "2026-11-10T09:00-05:00", "keys": ["title:Gone Role"]}}}
+        data = self._scrape(tmp_path, storage, unlisted={"Beta"})["data"]
+        assert "closed" in data["companies"]["Acme"][0]
+        assert "closed" not in data["companies"]["Beta"][0]
+        assert "Beta" not in data["pending_closures"]
+        assert data["checked"]["Beta"] != "2026-11-10"
+
     def test_quiet_company_alerts_once_checked(self, tmp_path):
         storage = {"companies": {}, "checked": {"Beta": "2026-11-10"}}
-        result = self._scrape(tmp_path, storage, quiet_until_checked={"Beta"})
+        result = self._scrape(tmp_path, storage, unlisted={"Beta"})
         assert set(result["new_jobs"]["companies"]) == {"Acme", "Beta"}
 
     def test_flag_seeds_only_companies_with_nothing_stored(self, tmp_path):
