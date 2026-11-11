@@ -12,7 +12,7 @@
 <p>
   <a href="https://ph1so.github.io/phlux2.0/"><img src="https://img.shields.io/badge/browse-internships-1f5fff?style=flat-square" alt="Browse internships"></a>
   <a href="https://github.com/Ph1so/phlux2.0/actions/workflows/job-scraper.yml"><img src="https://img.shields.io/github/actions/workflow/status/Ph1so/phlux2.0/job-scraper.yml?branch=main&style=flat-square&label=scraper" alt="Scraper status"></a>
-  <img src="https://img.shields.io/badge/roles_tracked-35.8k-475467?style=flat-square" alt="35,788 roles tracked">
+  <img src="https://img.shields.io/badge/roles_tracked-35.8k-475467?style=flat-square" alt="35,789 roles tracked">
 </p>
 
 <p><a href="https://ph1so.github.io/phlux2.0/"><b>Website</b></a> &nbsp;·&nbsp; <a href="listings/README.md"><b>All listings</b></a></p>
@@ -21,7 +21,7 @@
 
 ## Latest roles
 
-Showing the 643 most recent of 35,788 roles tracked across 288 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
+Showing the 644 most recent of 35,789 roles tracked across 288 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
 
 
 <table>
@@ -130,6 +130,13 @@ Showing the 643 most recent of 35,788 roles tracked across 288 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/riotgames"><img src="https://cdn.brandfetch.io/riotgames.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Riot Games" height="20" style="vertical-align:middle; margin-right:6px;"> Riot Games</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.riotgames.com/en/work-with-us/job/8356525?gh_jid=8356525">⭐️ Technical Game Design Intern, League of Legends and Teamfight Tactics - Summer 2027</a></div></td>
+  <td>2026-11-11</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/tri/?commitment=Intern"><img src="https://cdn.brandfetch.io/tri.global/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Toyota Research Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Toyota Research Insitute</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/tri/ad346610-e4a6-4cd2-a357-11d731b136a2">⭐️ Future Product Innovation Research Intern, Human-AI Computational Design</a></div></td>
   <td>2026-11-11</td>
 </tr>
   <tr>

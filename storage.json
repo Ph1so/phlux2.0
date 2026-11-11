@@ -3781,7 +3781,8 @@
         "date": "2026-11-06",
         "id": "meta:1750797606003820",
         "url": "https://www.metacareers.com/profile/job_details/1750797606003820/",
-        "location": "Menlo Park, CA +1"
+        "location": "Menlo Park, CA +1",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Battery Algorithms Engineering Intern",
@@ -8755,6 +8756,13 @@
         "date": "2026-11-10",
         "id": "lever:be41a03c-460e-4ff7-b817-f012aa1c4b37",
         "url": "https://jobs.lever.co/tri/be41a03c-460e-4ff7-b817-f012aa1c4b37",
+        "location": "Los Altos, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Future Product Innovation Research Intern, Human-AI Computational Design",
+        "date": "2026-11-11",
+        "id": "lever:ad346610-e4a6-4cd2-a357-11d731b136a2",
+        "url": "https://jobs.lever.co/tri/ad346610-e4a6-4cd2-a357-11d731b136a2",
         "location": "Los Altos, CA"
       }
     ],
