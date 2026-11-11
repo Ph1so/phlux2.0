@@ -16463,7 +16463,8 @@
         "date": "2026-10-28",
         "id": "greenhouse:6237418004",
         "url": "https://boards.greenhouse.io/apptronik/jobs/6237418004?gh_jid=6237418004",
-        "location": "Austin, TX"
+        "location": "Austin, TX",
+        "closed": "2026-11-11"
       },
       {
         "title": "Senior Hardware Test Engineer - Components",
@@ -65012,6 +65013,13 @@
         "id": "workday:R10258075",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Facilities-Management---San-Diego-CA_R10258075",
         "location": "United States-California-San Diego"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Manufacturing Engineering Intern - Elkridge MD",
+        "date": "2026-11-11",
+        "id": "workday:R10260318",
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkridge/XMLNAME-2027-Manufacturing-Engineering-Intern---Elkridge-MD_R10260318",
+        "location": "United States-Maryland-Elkridge"
       }
     ],
     "OpenAI": [
@@ -90071,12 +90079,12 @@
       },
       {
         "title": "\u2b50\ufe0f 2027 Intern - Research PhD Intern",
-        "date": "N/A",
-        "closed": "2026-11-11"
+        "date": "N/A"
       },
       {
         "title": "\u2b50\ufe0f 2027 Intern - Experience Researcher",
-        "date": "2026-11-11"
+        "date": "2026-11-11",
+        "closed": "2026-11-11"
       }
     ],
     "Databricks": [
