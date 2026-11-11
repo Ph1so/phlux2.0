@@ -2573,6 +2573,13 @@
         "id": "amazon:10601956",
         "url": "https://www.amazon.jobs/en/jobs/10601956/software-development-engineer-amazon-dedicated-cloud-early-career-2027-amazon-dedicated-cloud-adc",
         "location": "Seattle, WA +4"
+      },
+      {
+        "title": "Data Engineer I, Fire TV",
+        "date": "2026-11-11",
+        "id": "amazon:10513820",
+        "url": "https://www.amazon.jobs/en/jobs/10513820/data-engineer-i-fire-tv",
+        "location": "Seattle, WA"
       }
     ],
     "Meta": [
@@ -13813,7 +13820,8 @@
         "date": "2026-10-13",
         "id": "teamio:2001334520",
         "url": "https://brightpick.ai/careers/?r=detail&id=2001334520",
-        "location": "Charleroi, PA"
+        "location": "Charleroi, PA",
+        "closed": "2026-11-11"
       },
       {
         "title": "Robotics QA Engineer",
@@ -92855,6 +92863,22 @@
       {
         "title": "Residential Installation & Service Technician",
         "date": "N/A"
+      },
+      {
+        "title": "Senior Auditor, Technology",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "SMB Senior Account Executive, Comcast Business",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "Enterprise Account Executive, Comcast Business",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "SMB Senior Account Executive, Comcast Business",
+        "date": "2026-11-11"
       }
     ],
     "HP": [
@@ -95235,31 +95259,6 @@
         "title:\u2b50\ufe0f Supply Chain Engineering Intern \u2013 Robotics (2026 Fall)"
       ],
       "backlog": true
-    },
-    "Pinterest": {
-      "since": "2026-11-11T17:26-05:00",
-      "keys": [
-        "title:Designer, PPM",
-        "title:Director of Sales, Entertainment",
-        "title:Director, Machine Learning Engineering, Ads Measurement",
-        "title:Engineering Manager II, Runtime Services",
-        "title:Lead Digital Producer",
-        "title:Motion Designer, PPM SMB",
-        "title:Product Policy Lead, Ads",
-        "title:Retail Transformation Lead",
-        "title:Sr. Client Account Manager, Luxury Fashion",
-        "title:Sr. Client Partner, Auto",
-        "title:Sr. Data Scientist, Performance Marketing",
-        "title:Sr. Industry Manager, Travel",
-        "title:Sr. Manager, Ads Product Marketing- PerformanceAutomation",
-        "title:Sr. Product Manager, Data and Signals Intelligence",
-        "title:Sr. Security Software Engineer, Security Operations",
-        "title:Staff Machine Learning Engineer, Content Visual AI",
-        "title:Staff Product Manager, Content-to-Discovery Infrastructure",
-        "title:Staff Product Manager, Measurement Partner Optimization",
-        "title:Staff Qualitative Product Researcher, Ads Integrity",
-        "title:Technical Program Manager II, Infrastructure (Capacity & Efficiency)"
-      ]
     }
   },
   "checked": {
