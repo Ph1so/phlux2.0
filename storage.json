@@ -53241,11 +53241,13 @@
         "date": "2026-10-14",
         "id": "greenhouse:4556559006",
         "url": "https://boards.greenhouse.io/gatikaiinc/jobs/4666036006?gh_jid=4666036006",
-        "location": "Fort Worth, Texas"
+        "location": "Fort Worth, Texas",
+        "closed": "2026-11-10"
       },
       {
         "title": "Mechanical Integration Technician",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "closed": "2026-11-10"
       },
       {
         "title": "Senior Mechanical Engineer",
@@ -53259,7 +53261,8 @@
         "date": "2026-10-14",
         "id": "greenhouse:4615948006",
         "url": "https://boards.greenhouse.io/gatikaiinc/jobs/4615948006?gh_jid=4615948006",
-        "location": "Santa Clara, CA"
+        "location": "Santa Clara, CA",
+        "closed": "2026-11-10"
       },
       {
         "title": "Staff Electrical Engineer",
@@ -53273,14 +53276,16 @@
         "date": "2026-10-14",
         "id": "greenhouse:4656694006",
         "url": "https://boards.greenhouse.io/gatikaiinc/jobs/4656694006?gh_jid=4656694006",
-        "location": "Santa Clara, CA"
+        "location": "Santa Clara, CA",
+        "closed": "2026-11-10"
       },
       {
         "title": "IT Support Engineer",
         "date": "2026-10-14",
         "id": "greenhouse:4695642006",
         "url": "https://boards.greenhouse.io/gatikaiinc/jobs/4695642006?gh_jid=4695642006",
-        "location": "Santa Clara, CA"
+        "location": "Santa Clara, CA",
+        "closed": "2026-11-10"
       },
       {
         "title": "Head, Manufacturing",
@@ -53294,7 +53299,8 @@
         "date": "2026-10-14",
         "id": "greenhouse:4616694006",
         "url": "https://boards.greenhouse.io/gatikaiinc/jobs/4616694006?gh_jid=4616694006",
-        "location": "Rochester Hills, Michigan"
+        "location": "Rochester Hills, Michigan",
+        "closed": "2026-11-10"
       },
       {
         "title": "Buyer",
@@ -53308,7 +53314,8 @@
         "date": "2026-10-14",
         "id": "greenhouse:4612700006",
         "url": "https://boards.greenhouse.io/gatikaiinc/jobs/4612700006?gh_jid=4612700006",
-        "location": "Rochester Hills, Michigan"
+        "location": "Rochester Hills, Michigan",
+        "closed": "2026-11-10"
       },
       {
         "title": "Senior Research Engineer, Perception",
@@ -53377,7 +53384,8 @@
         "date": "2026-10-14",
         "id": "greenhouse:4656690006",
         "url": "https://boards.greenhouse.io/gatikaiinc/jobs/4656690006?gh_jid=4656690006",
-        "location": "Santa Clara, CA"
+        "location": "Santa Clara, CA",
+        "closed": "2026-11-10"
       },
       {
         "title": "Senior Software Engineer, C++",
@@ -53426,14 +53434,16 @@
         "date": "2026-10-14",
         "id": "greenhouse:4656688006",
         "url": "https://boards.greenhouse.io/gatikaiinc/jobs/4656688006?gh_jid=4656688006",
-        "location": "Santa Clara, CA"
+        "location": "Santa Clara, CA",
+        "closed": "2026-11-10"
       },
       {
         "title": "Senior/Staff GIS Engineer, HD Mapping",
         "date": "2026-10-14",
         "id": "greenhouse:4656696006",
         "url": "https://boards.greenhouse.io/gatikaiinc/jobs/4656696006?gh_jid=4656696006",
-        "location": "Santa Clara, CA"
+        "location": "Santa Clara, CA",
+        "closed": "2026-11-10"
       },
       {
         "title": "Senior/Staff Site Reliability Engineer",
@@ -64064,6 +64074,13 @@
         "id": "ashby:97e3df39-8a0b-493d-8cc4-c35e01491516",
         "url": "https://jobs.ashbyhq.com/openai/97e3df39-8a0b-493d-8cc4-c35e01491516",
         "location": "Vancouver"
+      },
+      {
+        "title": "Manager, Deployment Lead, Forward Deployed Engineering (FDE) - Singapore",
+        "date": "2026-11-10",
+        "id": "ashby:1ddf1fcf-a647-4016-92c3-2da4b45d1b15",
+        "url": "https://jobs.ashbyhq.com/openai/1ddf1fcf-a647-4016-92c3-2da4b45d1b15",
+        "location": "Singapore"
       }
     ],
     "John Deere": [
@@ -76006,7 +76023,8 @@
         "date": "2026-11-09",
         "id": "ashby:2628909c-b655-4475-b0f5-fbadf7e9992f",
         "url": "https://jobs.ashbyhq.com/ThinkingMachines/2628909c-b655-4475-b0f5-fbadf7e9992f",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-10"
       }
     ],
     "Bot Auto": [
