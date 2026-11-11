@@ -88441,8 +88441,7 @@
       },
       {
         "title": "\u2b50\ufe0f Amplify Marketing Specialist I (Intern) - United States",
-        "date": "N/A",
-        "closed": "2026-11-11"
+        "date": "N/A"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer Full-Stack / Backend I (Intern) \u2013 United States",
@@ -88451,7 +88450,8 @@
       },
       {
         "title": "\u2b50\ufe0f Business Analyst I (Intern) United States",
-        "date": "2026-11-11"
+        "date": "2026-11-11",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Hardware Engineer I (Intern) - United States",
@@ -90183,12 +90183,12 @@
       },
       {
         "title": "\u2b50\ufe0f 2027 Intern - Research PhD Intern",
-        "date": "N/A",
-        "closed": "2026-11-11"
+        "date": "N/A"
       },
       {
         "title": "\u2b50\ufe0f 2027 Intern - Experience Researcher",
-        "date": "2026-11-11"
+        "date": "2026-11-11",
+        "closed": "2026-11-11"
       }
     ],
     "Databricks": [
