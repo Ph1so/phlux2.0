@@ -1231,6 +1231,13 @@
         "id": "eightfold:1970393557070079",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557070079",
         "location": "United States, Washington, Redmond"
+      },
+      {
+        "title": "\u2b50\ufe0f Product Manager: Internship Opportunities",
+        "date": "2026-11-11",
+        "id": "eightfold:1970393556953113",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556953113",
+        "location": "United States, Washington, Redmond"
       }
     ],
     "Amazon": [
@@ -88580,7 +88587,8 @@
       },
       {
         "title": "\u2b50\ufe0f Research - Quantum Performance and Demonstrations - Intern 2027 - Internship - Multiple Cities",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Consulting - Portfolio Development Intern 2027 - Internship - New York, US",
@@ -88588,7 +88596,8 @@
       },
       {
         "title": "\u2b50\ufe0f Research - Quantum Error Correction Theory Intern - 2027 - Internship - Yorktown Heights, US",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Consulting - Intern Package Consultant \u2013 Microsoft 2027 - Internship - Chicago, US",
@@ -88600,13 +88609,11 @@
       },
       {
         "title": "\u2b50\ufe0f Product Management - Product Manager Intern 2027 - Lowell - Internship - LOWELL, US",
-        "date": "2026-11-11",
-        "closed": "2026-11-11"
+        "date": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Data & Analytics - Quantum Data Scientist Intern - 2027 - Internship - Yorktown Heights, US",
-        "date": "2026-11-11",
-        "closed": "2026-11-11"
+        "date": "2026-11-11"
       }
     ],
     "Bank of America": [
@@ -88691,8 +88698,7 @@
       },
       {
         "title": "\u2b50\ufe0f Mechanical Engineer I (Intern) - United States",
-        "date": "N/A",
-        "closed": "2026-11-11"
+        "date": "N/A"
       },
       {
         "title": "\u2b50\ufe0f Communications Specialist I (Intern) - United States",
@@ -88704,8 +88710,7 @@
       },
       {
         "title": "\u2b50\ufe0f Hardware Engineer PhD (Intern) - United States",
-        "date": "N/A",
-        "closed": "2026-11-11"
+        "date": "N/A"
       },
       {
         "title": "\u2b50\ufe0f Legal Summer Intern Rising 2L (Intern) - United States",
@@ -88721,21 +88726,21 @@
       },
       {
         "title": "\u2b50\ufe0f Amplify Marketing Specialist I (Intern) - United States",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer Full-Stack / Backend I (Intern) \u2013 United States",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Business Analyst I (Intern) United States",
-        "date": "2026-11-11",
-        "closed": "2026-11-11"
+        "date": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Hardware Engineer I (Intern) - United States",
-        "date": "2026-11-11",
-        "closed": "2026-11-11"
+        "date": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Software Consulting Engineer I (Intern) United States",
@@ -88749,11 +88754,13 @@
       },
       {
         "title": "\u2b50\ufe0f Software Engineer Embedded Systems I (Intern) - United States",
-        "date": "2026-11-11"
+        "date": "2026-11-11",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Consulting Engineer I (Intern) - United States",
-        "date": "2026-11-11"
+        "date": "2026-11-11",
+        "closed": "2026-11-11"
       }
     ],
     "TwoSigma": [
@@ -90401,7 +90408,8 @@
       },
       {
         "title": "Lead C# Developer - Core Trading Technology",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "Head of Insurance Sales and Business Development",
@@ -90441,7 +90449,8 @@
       },
       {
         "title": "Lead C# Developer - Core Trading Technology",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "Trade Surveillance Analyst",
