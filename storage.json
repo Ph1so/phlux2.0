@@ -50424,7 +50424,8 @@
         "date": "2026-10-14",
         "id": "rippling:d8dd88fe-89d4-479e-943a-f945b8d8a992",
         "url": "https://ats.rippling.com/overland-ai/jobs/d8dd88fe-89d4-479e-943a-f945b8d8a992",
-        "location": "Seattle, WA"
+        "location": "Seattle, WA",
+        "closed": "2026-11-11"
       },
       {
         "title": "Product Marketing Manager",
@@ -67855,7 +67856,8 @@
         "date": "2026-10-22",
         "id": "ashby:e8342a83-0036-438e-807a-6e0865659179",
         "url": "https://jobs.ashbyhq.com/openai/e8342a83-0036-438e-807a-6e0865659179",
-        "location": "Paris, France"
+        "location": "Paris, France",
+        "closed": "2026-11-11"
       },
       {
         "title": "Senior Counsel, Product (Hardware)",
@@ -87855,98 +87857,79 @@
     "Pinterest": [
       {
         "title": "\u2b50\ufe0f Product Design Intern (USA)",
-        "date": "N/A",
-        "closed": "2026-11-11"
+        "date": "N/A"
       },
       {
         "title": "\u2b50\ufe0f UX Quantitative Research Intern (USA)",
-        "date": "N/A",
-        "closed": "2026-11-11"
+        "date": "N/A"
       },
       {
         "title": "\u2b50\ufe0f Strategy & Operations Intern 2027 (USA)",
-        "date": "N/A",
-        "closed": "2026-11-11"
+        "date": "N/A"
       },
       {
         "title": "\u2b50\ufe0f Content Enablement Intern 2027 (USA)",
-        "date": "N/A",
-        "closed": "2026-11-11"
+        "date": "N/A"
       },
       {
         "title": "\u2b50\ufe0f Master's Data Science Internship 2027 (USA)",
-        "date": "N/A",
-        "closed": "2026-11-11"
+        "date": "N/A"
       },
       {
         "title": "Master's University Grad Machine Learning Engineer 2027 (USA)",
-        "date": "N/A",
-        "closed": "2026-11-11"
+        "date": "N/A"
       },
       {
         "title": "\u2b50\ufe0f PhD Data Science Internship 2027 (USA)",
-        "date": "N/A",
-        "closed": "2026-11-11"
+        "date": "N/A"
       },
       {
         "title": "\u2b50\ufe0f PhD Machine Learning Internship 2027 (USA)",
-        "date": "N/A",
-        "closed": "2026-11-11"
+        "date": "N/A"
       },
       {
         "title": "PhD University Grad Machine Learning Engineer (USA)",
-        "date": "N/A",
-        "closed": "2026-11-11"
+        "date": "N/A"
       },
       {
         "title": "\u2b50\ufe0f Solutions Engineer Intern 2027 (USA)",
-        "date": "N/A",
-        "closed": "2026-11-11"
+        "date": "N/A"
       },
       {
         "title": "Master's University Grad Data Scientist (USA)",
-        "date": "N/A",
-        "closed": "2026-11-11"
+        "date": "N/A"
       },
       {
         "title": "\u2b50\ufe0f Master's Machine Learning Internship 2027 (USA)",
-        "date": "N/A",
-        "closed": "2026-11-11"
+        "date": "N/A"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer Intern 2027 (USA)",
-        "date": "N/A",
-        "closed": "2026-11-11"
+        "date": "N/A"
       },
       {
         "title": "\u2b50\ufe0f Machine Learning Intern 2027 (Toronto)",
-        "date": "N/A",
-        "closed": "2026-11-11"
+        "date": "N/A"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Intern 2027 (Toronto)",
-        "date": "N/A",
-        "closed": "2026-11-11"
+        "date": "N/A"
       },
       {
         "title": "\u2b50\ufe0f Machine Learning Intern 2027 (Zurich)",
-        "date": "N/A",
-        "closed": "2026-11-11"
+        "date": "N/A"
       },
       {
         "title": "\u2b50\ufe0f Machine Learning Intern 2027 (Dublin)",
-        "date": "N/A",
-        "closed": "2026-11-11"
+        "date": "N/A"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Intern 2027 (Dublin)",
-        "date": "N/A",
-        "closed": "2026-11-11"
+        "date": "N/A"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Intern 2027 (Zurich)",
-        "date": "N/A",
-        "closed": "2026-11-11"
+        "date": "N/A"
       },
       {
         "title": "Sr. Data Scientist, Performance Marketing",
@@ -88317,8 +88300,7 @@
       },
       {
         "title": "\u2b50\ufe0f Research - Quantum Performance and Demonstrations - Intern 2027 - Internship - Multiple Cities",
-        "date": "N/A",
-        "closed": "2026-11-11"
+        "date": "N/A"
       },
       {
         "title": "\u2b50\ufe0f Consulting - Portfolio Development Intern 2027 - Internship - New York, US",
@@ -88326,8 +88308,7 @@
       },
       {
         "title": "\u2b50\ufe0f Research - Quantum Error Correction Theory Intern - 2027 - Internship - Yorktown Heights, US",
-        "date": "N/A",
-        "closed": "2026-11-11"
+        "date": "N/A"
       },
       {
         "title": "\u2b50\ufe0f Consulting - Intern Package Consultant \u2013 Microsoft 2027 - Internship - Chicago, US",
@@ -88339,11 +88320,13 @@
       },
       {
         "title": "\u2b50\ufe0f Product Management - Product Manager Intern 2027 - Lowell - Internship - LOWELL, US",
-        "date": "2026-11-11"
+        "date": "2026-11-11",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Data & Analytics - Quantum Data Scientist Intern - 2027 - Internship - Yorktown Heights, US",
-        "date": "2026-11-11"
+        "date": "2026-11-11",
+        "closed": "2026-11-11"
       }
     ],
     "Bank of America": [
@@ -88437,8 +88420,7 @@
       },
       {
         "title": "\u2b50\ufe0f Software Engineer Data & AI PhD (Intern) - United States",
-        "date": "N/A",
-        "closed": "2026-11-11"
+        "date": "N/A"
       },
       {
         "title": "\u2b50\ufe0f Hardware Engineer PhD (Intern) - United States",
@@ -88459,16 +88441,17 @@
       },
       {
         "title": "\u2b50\ufe0f Amplify Marketing Specialist I (Intern) - United States",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer Full-Stack / Backend I (Intern) \u2013 United States",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Business Analyst I (Intern) United States",
-        "date": "2026-11-11",
-        "closed": "2026-11-11"
+        "date": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Hardware Engineer I (Intern) - United States",
@@ -90200,12 +90183,12 @@
       },
       {
         "title": "\u2b50\ufe0f 2027 Intern - Research PhD Intern",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f 2027 Intern - Experience Researcher",
-        "date": "2026-11-11",
-        "closed": "2026-11-11"
+        "date": "2026-11-11"
       }
     ],
     "Databricks": [
@@ -95247,6 +95230,31 @@
         "title:Wireless Networking Engineer"
       ],
       "backlog": true
+    },
+    "Pinterest": {
+      "since": "2026-11-11T17:26-05:00",
+      "keys": [
+        "title:Designer, PPM",
+        "title:Director of Sales, Entertainment",
+        "title:Director, Machine Learning Engineering, Ads Measurement",
+        "title:Engineering Manager II, Runtime Services",
+        "title:Lead Digital Producer",
+        "title:Motion Designer, PPM SMB",
+        "title:Product Policy Lead, Ads",
+        "title:Retail Transformation Lead",
+        "title:Sr. Client Account Manager, Luxury Fashion",
+        "title:Sr. Client Partner, Auto",
+        "title:Sr. Data Scientist, Performance Marketing",
+        "title:Sr. Industry Manager, Travel",
+        "title:Sr. Manager, Ads Product Marketing- PerformanceAutomation",
+        "title:Sr. Product Manager, Data and Signals Intelligence",
+        "title:Sr. Security Software Engineer, Security Operations",
+        "title:Staff Machine Learning Engineer, Content Visual AI",
+        "title:Staff Product Manager, Content-to-Discovery Infrastructure",
+        "title:Staff Product Manager, Measurement Partner Optimization",
+        "title:Staff Qualitative Product Researcher, Ads Integrity",
+        "title:Technical Program Manager II, Infrastructure (Capacity & Efficiency)"
+      ]
     }
   },
   "checked": {
