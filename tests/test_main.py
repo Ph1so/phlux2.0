@@ -6,12 +6,14 @@ from unittest.mock import MagicMock, mock_open, patch
 import pytest
 
 import main
+from phlux.models import Company
 from main import (
     format_message_html,
     format_message_html_fulltime,
     has_full_time_roles,
     has_internships,
     send_email,
+    send_email_all,
     send_email_fulltime,
 )
 
@@ -251,3 +253,93 @@ class TestSendEmailFulltime:
              patch.dict(os.environ, {"GMAIL_APP_PASSWORD": "secret"}):
             send_email_fulltime(fulltime_message, test=True)
         smtp_instance.login.assert_called_once()
+
+
+# ── all_internships_bcc ───────────────────────────────────────────────────────
+
+ALL_CFG = {
+    "from": "me@x.com", "to": "me@x.com", "login": "me@x.com",
+    "internship_bcc": ["friend@x.com"], "all_internships_bcc": ["all@x.com"],
+    "fulltime_enabled": False, "fulltime_bcc": [],
+}
+
+
+class TestSendEmailAll:
+    def _send(self, message, test=False, threads=None):
+        sent = []
+        smtp_cls, smtp_instance = _make_smtp_mock()
+        smtp_instance.send_message.side_effect = lambda msg: sent.append(msg)
+        with patch("main.load_email_config", return_value=ALL_CFG), \
+             patch("main.smtplib.SMTP_SSL", smtp_cls), \
+             patch("builtins.open", mock_open(read_data="{}")), \
+             patch.dict(os.environ, {"GMAIL_APP_PASSWORD": "secret"}):
+            send_email_all(message, test=test, threads=threads)
+        return sent[0]
+
+    def test_goes_to_all_internships_bcc_only(self, intern_message):
+        msg = self._send(intern_message)
+        assert msg["To"] is None  # "to" gets the usual alert, not a second copy
+        assert msg["Bcc"] == "all@x.com"
+        assert msg["Subject"] == "🚀 New Internship Alerts!"
+
+    def test_test_send_goes_to_the_alert_address(self, intern_message):
+        msg = self._send(intern_message, test=True)
+        assert msg["To"] == "me@x.com" and msg["Bcc"] is None
+
+    def test_keeps_its_own_thread(self, intern_message):
+        today = main.datetime.now(main.EASTERN).date().isoformat()
+        threads = {"internship": {"date": today, "message_id": "<root@phlux>"}}
+        msg = self._send(intern_message, threads=threads)
+        assert "In-Reply-To" not in msg
+        assert threads["internship_all"]["message_id"] == msg["Message-ID"]
+
+
+class TestMainAlertsByAudience:
+    """The usual alert covers the company list; all_internships_bcc gets every company."""
+
+    def _run(self, tmp_path, monkeypatch, new_jobs, cfg=ALL_CFG, all_fails=False):
+        monkeypatch.chdir(tmp_path)
+        listed = [Company("Robo", "https://robo.com", "sel")]
+        other = [Company("Bank", "https://bank.com", "sel")]
+        everything = listed + other if cfg["all_internships_bcc"] else listed
+        manager = MagicMock()
+        manager.return_value.scrape_companies.return_value = {"data": {"companies": {}}, "new_jobs": new_jobs}
+        sends = {}
+        with patch("main.load_config"), patch("main.ScrapeManager", manager), \
+             patch("main.load_email_config", return_value=cfg), \
+             patch("main.load_company_data", return_value=everything), \
+             patch("main.scrape_scope", return_value=(everything, listed)), \
+             patch("main.update_icons"), \
+             patch("main.send_email", side_effect=lambda m, **kw: sends.setdefault("usual", m)), \
+             patch("main.send_email_all", side_effect=OSError("smtp down") if all_fails
+                   else lambda m, **kw: sends.setdefault("all", m)):
+            main.main()
+        return sends, manager.return_value.scrape_companies.call_args.kwargs
+
+    @staticmethod
+    def _jobs(*companies):
+        return {"companies": {c: {"jobs": [{"title": "Intern", "date": "2026-11-11"}], "link": ""}
+                              for c in companies}}
+
+    def test_usual_alert_keeps_to_the_list(self, tmp_path, monkeypatch):
+        sends, _ = self._run(tmp_path, monkeypatch, self._jobs("Robo", "Bank"))
+        assert list(sends["usual"]["companies"]) == ["Robo"]
+        assert list(sends["all"]["companies"]) == ["Robo", "Bank"]
+
+    def test_only_unlisted_internships_skip_the_usual_alert(self, tmp_path, monkeypatch):
+        sends, _ = self._run(tmp_path, monkeypatch, self._jobs("Bank"))
+        assert "usual" not in sends and list(sends["all"]["companies"]) == ["Bank"]
+
+    def test_unlisted_companies_start_quiet(self, tmp_path, monkeypatch):
+        _, kwargs = self._run(tmp_path, monkeypatch, self._jobs("Robo"))
+        assert kwargs["quiet_until_checked"] == {"Bank"}
+
+    def test_nobody_on_all_internships_bcc_sends_no_all_email(self, tmp_path, monkeypatch):
+        sends, kwargs = self._run(tmp_path, monkeypatch, self._jobs("Robo"), cfg={**ALL_CFG, "all_internships_bcc": []})
+        assert list(sends) == ["usual"] and kwargs["quiet_until_checked"] == set()
+
+    def test_failed_all_email_does_not_fail_the_run(self, tmp_path, monkeypatch):
+        sends, _ = self._run(tmp_path, monkeypatch, self._jobs("Robo"), all_fails=True)
+        assert list(sends) == ["usual"]
+        assert (tmp_path / "storage.json").exists()
+

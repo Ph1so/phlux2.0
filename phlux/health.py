@@ -31,7 +31,7 @@ from typing import Dict, Iterable, List, Optional
 import pytz
 
 from .config import load_company_list_setting, load_email_config
-from .lists import REPO_ROOT, select_companies
+from .lists import REPO_ROOT, scrape_scope
 from .scraping import CHECKED_KEY, FAILING_KEY, PENDING_KEY, load_company_data
 
 STALE_DAYS = 2
@@ -121,7 +121,9 @@ def send(subject: str, body: str) -> None:
 
 
 def active_companies() -> List[str]:
-    companies = select_companies(load_company_data(REPO_ROOT / "companies.csv"), load_company_list_setting())
+    """Names of the companies the bot scrapes, including any scraped only for ``all_internships_bcc``."""
+    companies, _ = scrape_scope(load_company_data(REPO_ROOT / "companies.csv"), load_company_list_setting(),
+                                everything=bool(load_email_config()["all_internships_bcc"]))
     return list(dict.fromkeys(c.name for c in companies))
 
 

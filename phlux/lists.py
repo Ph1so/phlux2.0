@@ -23,7 +23,7 @@ import logging
 from dataclasses import dataclass, field
 from datetime import date
 from pathlib import Path
-from typing import Iterable, List, Sequence
+from typing import Iterable, List, Sequence, Tuple
 
 from .models import Company
 
@@ -227,3 +227,24 @@ def select_companies(
         company_list.name, len(selected), len(companies),
     )
     return selected
+
+
+def scrape_scope(companies: Sequence[Company], list_ref: str | Path | None, everything: bool,
+                 lists_dir: Path | str = DEFAULT_LISTS_DIR) -> Tuple[List[Company], List[Company]]:
+    """Return the companies to scrape and the active list's share of them.
+
+    The usual alerts only cover the list named by *list_ref*. With *everything*
+    (someone is on ``all_internships_bcc``) every company is scraped, so that
+    email can list them all.
+
+    Args:
+        companies: Companies parsed from ``companies.csv``.
+        list_ref: The ``COMPANY_LIST`` setting.
+        everything: Whether to scrape every company, not just the list's.
+        lists_dir: Directory holding list files.
+
+    Returns:
+        ``(to_scrape, listed)``; the two are the same list when *everything* is false.
+    """
+    listed = select_companies(companies, list_ref, lists_dir)
+    return (list(companies) if everything else listed), listed

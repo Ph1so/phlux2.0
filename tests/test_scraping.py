@@ -468,7 +468,7 @@ class TestBoardRouting:
 # ── ScrapeManager seeding ─────────────────────────────────────────────────────
 
 class TestScrapeCompaniesSeeding:
-    def _scrape(self, tmp_path, storage):
+    def _scrape(self, tmp_path, storage, **kwargs):
         import json
         from concurrent.futures import ThreadPoolExecutor
 
@@ -480,7 +480,20 @@ class TestScrapeCompaniesSeeding:
         with patch("phlux.scraping.ProcessPoolExecutor", ThreadPoolExecutor), \
              patch("phlux.scraping.get_jobs_headless", return_value=["Old Role", "New Role"]), \
              patch("phlux.config.load_config", return_value={}):
-            return ScrapeManager().scrape_companies(companies, storage_path=str(path), max_workers=2)
+            return ScrapeManager().scrape_companies(companies, storage_path=str(path), max_workers=2, **kwargs)
+
+    def test_quiet_company_records_silently_until_checked(self, tmp_path):
+        # Beta was dropped from the list long ago: its old entry doesn't make "New Role" news.
+        storage = {"companies": {"Beta": [{"title": "Old Role", "date": "2026-05-01"}]}}
+        result = self._scrape(tmp_path, storage, quiet_until_checked={"Beta"})
+        assert list(result["new_jobs"]["companies"]) == ["Acme"]
+        assert result["data"]["companies"]["Beta"][-1] == {"title": "New Role", "date": "N/A"}
+        assert "Beta" in result["data"]["checked"]
+
+    def test_quiet_company_alerts_once_checked(self, tmp_path):
+        storage = {"companies": {}, "checked": {"Beta": "2026-11-10"}}
+        result = self._scrape(tmp_path, storage, quiet_until_checked={"Beta"})
+        assert set(result["new_jobs"]["companies"]) == {"Acme", "Beta"}
 
     def test_flag_seeds_only_companies_with_nothing_stored(self, tmp_path):
         storage = {

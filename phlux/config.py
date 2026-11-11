@@ -10,12 +10,16 @@ DEFAULT_CONFIG_PATH = Path(__file__).resolve().parent.parent / "config.json"
 # Fallback email settings used when config.json omits an "EMAIL" key (or a field
 # within it). The sender/login default to the account that has always been used;
 # BCC lists default to empty so the email only goes to "to".
+# ``all_internships_bcc`` get a separate email listing every new internship at
+# every company in companies.csv, not just those in COMPANY_LIST; while it names
+# anyone, the bot scrapes every company (see phlux.lists.scrape_scope).
 DEFAULT_EMAIL_CONFIG: Dict[str, Any] = {
     "from": "phiwe3296@gmail.com",
     "to": "phiwe3296@gmail.com",
     "login": "phiwe3296@gmail.com",
     "internship_bcc_enabled": True,
     "internship_bcc": [],
+    "all_internships_bcc": [],
     "fulltime_enabled": True,
     "fulltime_bcc": [],
 }
@@ -44,12 +48,12 @@ def load_company_list_setting(path: Path | str = DEFAULT_CONFIG_PATH) -> str | N
 def load_email_config(path: Path | str = DEFAULT_CONFIG_PATH) -> Dict[str, Any]:
     """Return email settings from the ``EMAIL`` section, filled with defaults.
 
-    Missing fields fall back to :data:`DEFAULT_EMAIL_CONFIG`. ``internship_bcc``
-    and ``fulltime_bcc`` may be given as a list of addresses or a single
-    comma-separated string.
+    Missing fields fall back to :data:`DEFAULT_EMAIL_CONFIG`. ``internship_bcc``,
+    ``all_internships_bcc`` and ``fulltime_bcc`` may be given as a list of
+    addresses or a single comma-separated string.
     """
     email = {**DEFAULT_EMAIL_CONFIG, **load_config(path).get("EMAIL", {})}
-    for key in ("internship_bcc", "fulltime_bcc"):
+    for key in ("internship_bcc", "all_internships_bcc", "fulltime_bcc"):
         value = email[key]
         if isinstance(value, str):
             email[key] = [addr.strip() for addr in value.split(",") if addr.strip()]

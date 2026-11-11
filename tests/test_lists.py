@@ -11,6 +11,7 @@ from phlux.lists import (
     load_company_list,
     resolve_list_path,
     save_company_list,
+    scrape_scope,
     select_companies,
     slugify,
 )
@@ -176,6 +177,19 @@ class TestSelectCompanies:
     def test_stale_list_still_runs(self, companies, lists_dir):
         write_list(lists_dir, "stale", {"companies": ["Nvidia", "Deleted Co"]})
         assert [c.name for c in select_companies(companies, "stale", lists_dir)] == ["Nvidia"]
+
+
+class TestScrapeScope:
+    def test_list_only_by_default(self, companies, lists_dir):
+        write_list(lists_dir, "robotics", {"companies": ["Nvidia", "Tesla"]})
+        scrape, listed = scrape_scope(companies, "robotics", everything=False, lists_dir=lists_dir)
+        assert [c.name for c in scrape] == [c.name for c in listed] == ["Nvidia", "Tesla"]
+
+    def test_everything_scrapes_every_company_but_keeps_the_list(self, companies, lists_dir):
+        write_list(lists_dir, "robotics", {"companies": ["Nvidia", "Tesla"]})
+        scrape, listed = scrape_scope(companies, "robotics", everything=True, lists_dir=lists_dir)
+        assert scrape == companies
+        assert [c.name for c in listed] == ["Nvidia", "Tesla"]
 
 
 # ── load_company_data filtering ───────────────────────────────────────────────

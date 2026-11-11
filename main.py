@@ -10,12 +10,12 @@ from datetime import datetime
 from email.message import EmailMessage
 from email.utils import make_msgid
 from pathlib import Path
-from typing import Any, Callable, Dict, List, Optional
+from typing import Any, Callable, Dict, List, Optional, Set
 
 import pytz
 
 from phlux.config import load_company_list_setting, load_config, load_email_config
-from phlux.lists import select_companies
+from phlux.lists import scrape_scope
 from phlux.scraping import ScrapeManager, load_company_data
 from phlux.utils import is_full_time, is_internship, update_icons
 
@@ -110,6 +110,7 @@ def _send_email_impl(
     email_cfg: Dict[str, Any],
     threads: Optional[Dict[str, Any]] = None,
     kind: str = "",
+    bcc_only: bool = False,
 ) -> None:
     """Build and send an email via Gmail SMTP.
 
@@ -118,11 +119,15 @@ def _send_email_impl(
     alerts in one conversation; Gmail threads on a matching subject plus a
     References header naming a message already in the conversation. When it is
     the day's first, it is recorded in *threads* once sent.
+
+    With *bcc_only* the email goes to *bcc* alone, with no To header, so "to"
+    doesn't get a second copy; a test send still goes to "to".
     """
     msg = EmailMessage()
     msg["Subject"] = subject
     msg["From"] = email_cfg["from"]
-    msg["To"] = email_cfg["to"]
+    if test or not bcc_only:
+        msg["To"] = email_cfg["to"]
     if not test and bcc:
         msg["Bcc"] = ", ".join(bcc)
 
@@ -161,6 +166,22 @@ def send_email(message: Dict[str, Any], test: bool = False, threads: Optional[Di
     )
 
 
+def send_email_all(message: Dict[str, Any], test: bool = False, threads: Optional[Dict[str, Any]] = None) -> None:
+    """Send every new internship, from every company scraped, to ``all_internships_bcc``."""
+    email_cfg = load_email_config()
+    _send_email_impl(
+        message,
+        subject="🚀 New Internship Alerts!",
+        bcc=email_cfg["all_internships_bcc"],
+        format_fn=format_message_html,
+        test=test,
+        email_cfg=email_cfg,
+        threads=threads,
+        kind="internship_all",
+        bcc_only=True,
+    )
+
+
 def send_email_fulltime(
     message: Dict[str, Any], test: bool = False, threads: Optional[Dict[str, Any]] = None
 ) -> None:
@@ -191,6 +212,11 @@ def has_internships(message: dict) -> bool:
     )
 
 
+def only_companies(message: dict, names: Set[str]) -> dict:
+    """Return *message* keeping only the companies in *names*."""
+    return {**message, "companies": {c: v for c, v in message.get("companies", {}).items() if c in names}}
+
+
 def has_full_time_roles(message: dict) -> bool:
     """Return True if any job in *message* is a full-time (non-internship) role."""
     return any(
@@ -206,11 +232,17 @@ def main() -> None:
     """Run the full scrape → store → alert pipeline."""
     load_config()
     manager = ScrapeManager()
-    companies = select_companies(load_company_data(), load_company_list_setting())
+    email_cfg = load_email_config()
+    everyone = bool(email_cfg["all_internships_bcc"])
+    companies, listed = scrape_scope(load_company_data(), load_company_list_setting(), everything=everyone)
     if not companies:
         print("No companies selected — check COMPANY_LIST in config.json.")
         return
-    result = manager.scrape_companies(companies=companies)
+    listed_names = {c.name for c in listed}
+    # Companies scraped only for all_internships_bcc start out quiet: their
+    # boards' current postings are recorded, not emailed as new.
+    result = manager.scrape_companies(
+        companies=companies, quiet_until_checked={c.name for c in companies} - listed_names)
     data = result["data"]
     storage = Path("storage.json")
 
@@ -220,14 +252,24 @@ def main() -> None:
     if new_jobs.get("companies"):
         update_icons(companies=companies)
         threads = data.setdefault(THREADS_KEY, {})
-        if has_internships(new_jobs):
-            send_email(new_jobs, test=False, threads=threads)
+        # The usual alerts cover the company list only, as before.
+        listed_jobs = only_companies(new_jobs, listed_names)
+        if has_internships(listed_jobs):
+            send_email(listed_jobs, test=False, threads=threads)
         else:
             print("Scrape complete: no new internship/co-op positions found.")
-        if not load_email_config()["fulltime_enabled"]:
+        if everyone and has_internships(new_jobs):
+            # A failure here mustn't fail the run: the retry job would scrape
+            # again and send the alerts above a second time.
+            try:
+                send_email_all(new_jobs, test=False, threads=threads)
+            except Exception as e:
+                logger.error("All-internships email failed: %s", e)
+                print(f"All-internships email failed: {e}")
+        if not email_cfg["fulltime_enabled"]:
             print("Full-time emails are disabled in config; skipping.")
-        elif has_full_time_roles(new_jobs):
-            send_email_fulltime(new_jobs, test=False, threads=threads)
+        elif has_full_time_roles(listed_jobs):
+            send_email_fulltime(listed_jobs, test=False, threads=threads)
         else:
             print("Scrape complete: no new full-time positions found.")
         # Saved again so the next run can reply to today's first alert.

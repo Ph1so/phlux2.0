@@ -8,7 +8,7 @@ import time
 from concurrent.futures import ProcessPoolExecutor, as_completed
 from datetime import datetime, timedelta
 from pathlib import Path
-from typing import Dict, Iterable, List, Tuple
+from typing import Collection, Dict, Iterable, List, Tuple
 
 import pytz
 from selenium.common.exceptions import TimeoutException
@@ -660,6 +660,7 @@ class ScrapeManager:
         companies: List[Company],
         storage_path: str = "storage.json",
         max_workers: int = os.cpu_count() or 4,
+        quiet_until_checked: Collection[str] = (),
     ) -> Dict:
         """Scrape all companies in parallel and return updated job data.
 
@@ -667,6 +668,12 @@ class ScrapeManager:
             companies: List of companies to scrape.
             storage_path: Path to the persistent job-storage JSON file.
             max_workers: Maximum number of parallel worker processes.
+            quiet_until_checked: Companies whose postings are recorded silently
+                (like ``seed_new_companies``) until a scrape first gives them a
+                ``checked`` date, so turning a company on alerts only what's
+                posted after, not its whole board. Stored entries don't count:
+                a company dropped from the list long ago has missed postings
+                since, and they would all look new.
 
         Returns:
             A dict with keys ``"data"`` (full storage contents) and
@@ -705,7 +712,8 @@ class ScrapeManager:
                     track_failures(data, company.name, str(e))
                 if not result.jobs:
                     no_jobs_count += 1
-                seed = seed_empty and not data.get("companies", {}).get(company.name)
+                seed = (seed_empty and not data.get("companies", {}).get(company.name)) or (
+                    company.name in quiet_until_checked and company.name not in data.get(CHECKED_KEY, {}))
                 process_jobs(data, result, new_jobs, seed=seed)
                 if not failed:
                     track_closures(data, result, trust_empty=bool(board_of(company.selector)))
