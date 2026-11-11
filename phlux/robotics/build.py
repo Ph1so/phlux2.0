@@ -1,7 +1,7 @@
 """Build the Phlux Robotics site: one HTML page with its data inside.
 
-The page lists every internship the bot is tracking at the active list's
-companies, open or closed in the last :data:`RECENT_DAYS`, with when each
+The page lists every internship the bot is tracking at the companies it
+scrapes, open or closed in the last :data:`RECENT_DAYS`, with when each
 company is expected to open for the coming summer (:mod:`phlux.robotics.forecast`).
 It is static, so GitHub Pages can serve it; the bot rebuilds it after each run.
 
@@ -33,11 +33,10 @@ import pytz
 from phlux.analytics.dataset import load_industries
 from phlux.analytics.sources import STORAGE
 from phlux.analytics.titles import is_engineering_role, is_senior_title, parse_title
-from phlux.config import load_company_list_setting
 from phlux.health import find_issues, status
-from phlux.lists import REPO_ROOT, select_companies
+from phlux.lists import REPO_ROOT, scraped_companies
 from phlux.models import Company
-from phlux.scraping import CHECKED_KEY, NA_DATE, load_company_data
+from phlux.scraping import CHECKED_KEY, NA_DATE
 from phlux.utils import board_link
 
 from . import geo, logos
@@ -335,11 +334,14 @@ def load_history(names: List[str], today: date) -> tuple[Dict[str, Forecast], Li
 
 def build_site(out_dir: Path, now: Optional[datetime] = None, document: bool = True,
                storage_path: Path = REPO_ROOT / "storage.json") -> Path:
-    """Write ``index.html`` for the active list into *out_dir* and return its path."""
+    """Write ``index.html`` for every company the bot scrapes into *out_dir* and return its path.
+
+    That's every company while anyone is on ``all_internships_bcc``; the page's
+    Robotics tab narrows it to those ``industries.csv`` tags as robotics.
+    """
     now = now or datetime.now(EASTERN)
     storage = json.loads(storage_path.read_text(encoding="utf-8"))
-    companies = list({c.name: c for c in select_companies(
-        load_company_data(REPO_ROOT / "companies.csv"), load_company_list_setting())}.values())
+    companies = scraped_companies()
     icons = {c.name: logos.data_uri(c.name) for c in companies}
     forecasts, history = load_history([c.name for c in companies], now.date())
     payload = build_payload(storage, companies, forecasts, load_industries(), icons, now, history,

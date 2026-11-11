@@ -1,7 +1,7 @@
 """Build the site, or refresh its logos.
 
 ``python -m phlux.robotics [--out site] [--storage FILE] [--fragment]`` builds the page;
-``python -m phlux.robotics logos`` downloads the logos the active list lacks;
+``python -m phlux.robotics logos`` downloads the logos the scraped companies lack;
 ``python -m phlux.robotics geo`` refreshes the US map data (rarely needed).
 """
 from __future__ import annotations
@@ -11,16 +11,14 @@ import json
 import logging
 from pathlib import Path
 
-from phlux.config import load_company_list_setting
-from phlux.lists import REPO_ROOT, select_companies
-from phlux.scraping import load_company_data
+from phlux.lists import REPO_ROOT, scraped_companies
 
 from . import geo, logos
 from .build import build_site
 
 
 def refresh_logos() -> None:
-    companies = select_companies(load_company_data(REPO_ROOT / "companies.csv"), load_company_list_setting())
+    companies = scraped_companies()
     try:
         icons = json.loads((REPO_ROOT / "icons.json").read_text(encoding="utf-8"))
     except (FileNotFoundError, json.JSONDecodeError):

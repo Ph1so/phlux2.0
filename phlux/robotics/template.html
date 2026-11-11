@@ -282,6 +282,7 @@ th:last-child, td:last-child { padding-right: 18px; text-align: right; }
 .co-btn { background: none; border: 0; padding: 0; font: inherit; font-weight: 600; color: var(--text); cursor: pointer; text-align: left; white-space: nowrap; }
 .co-btn:hover { color: var(--blue); }
 .seg-name { font-size: 12px; color: var(--muted); white-space: nowrap; }
+.scope { margin-bottom: 14px; }
 .role { display: flex; flex-direction: column; gap: 5px; min-width: 0; }
 .role .t { font-weight: 500; color: var(--text); text-decoration: none; }
 .role a.t:hover { color: var(--blue); text-decoration: underline; text-underline-offset: 3px; }
@@ -492,9 +493,13 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
 
 <main class="gutter" id="top">
   <section class="intro">
+    <div class="seg scope" role="group" aria-label="Companies" id="scope">
+      <button type="button" data-v="robotics" aria-pressed="true">Robotics</button>
+      <button type="button" data-v="all" aria-pressed="false">All companies</button>
+    </div>
     <h1 id="intro-title">Robotics internships</h1>
-    <p id="intro-interns">Every internship at <span id="n-companies">the</span> robotics companies we track, read straight from their own job boards every hour, with a forecast of who opens next.</p>
-    <p id="intro-newgrad" hidden>Every new grad and early career engineering, robotics and AI/ML role at <span id="ng-companies">the</span> robotics companies we track, read straight from their own job boards every hour.</p>
+    <p id="intro-interns">Every internship at <span id="n-companies">the</span> <span class="scope-robotics">robotics </span>companies we track, read straight from their own job boards every hour, with a forecast of who opens next.</p>
+    <p id="intro-newgrad" hidden>Every new grad and early career engineering, robotics and AI/ML role at <span id="ng-companies">the</span> <span class="scope-robotics">robotics </span>companies we track, read straight from their own job boards every hour.</p>
   </section>
 
   <nav class="tabs" aria-label="Season">
@@ -590,7 +595,6 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
         <option value="none">Not specified</option>
       </select>
       <select class="pick" id="season" aria-label="Season"><option value="">Any season</option></select>
-      <label class="switch"><input type="checkbox" id="robotics-only" checked> Robotics only</label>
     </form>
     <div class="active" id="active" hidden></div>
     <div class="table-wrap">
@@ -656,7 +660,6 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
         <option value="phd">PhD</option>
         <option value="none">Not specified</option>
       </select>
-      <label class="switch"><input type="checkbox" id="ng-robotics" checked> Robotics only</label>
     </form>
     <div class="active" id="ng-active" hidden></div>
     <div class="table-wrap">
@@ -727,7 +730,6 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
           <option value="count">Sort: most internships</option>
           <option value="name">Sort: A–Z</option>
         </select>
-        <label class="switch"><input type="checkbox" id="p-robotics" checked> Robotics only</label>
       </form>
       <div class="tl-head" aria-hidden="true"><span>Company</span><div class="axis" id="tl-axis"></div><span class="n">Internships</span></div>
       <div id="tl-rows"></div>
@@ -891,9 +893,9 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
   // ── State ─────────────────────────────────────────────────────────────
   var $ = function (id) { return document.getElementById(id); };
   var state = { q: "", segment: "", field: "", degree: "", season: "", status: "open", company: null, place: null, shown: PAGE };
-  var roboticsOnly = $("robotics-only");
-  if (recall("robotics") === "0") roboticsOnly.checked = false;
-  function inScope(c) { return !roboticsOnly.checked || c.robotics; }
+  // The Robotics / All companies tabs: robotics companies only, or every company scraped.
+  var roboticsOnly = recall("robotics") !== "0";
+  function inScope(c) { return !roboticsOnly || c.robotics; }
 
   // ── Forecast groups ───────────────────────────────────────────────────
   function byExpected(a, b) { return parseDay(a.forecast.expected) - parseDay(b.forecast.expected); }
@@ -1622,25 +1624,29 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
     });
   });
   $("pq").addEventListener("input", function () { past.q = $("pq").value.trim(); renderPast(); });
-  // One robotics switch per view, both driving the same setting.
-  $("p-robotics").addEventListener("change", function () {
-    roboticsOnly.checked = $("p-robotics").checked;
-    roboticsOnly.dispatchEvent(new Event("change"));
-  });
   $("past-filters").addEventListener("submit", function (e) { e.preventDefault(); });
 
   // ── Views ─────────────────────────────────────────────────────────────
   // #past shows past seasons and #new-grad new grad roles; any other hash is a
   // place in this season's view.
+  var currentView = "now";
+  function paintScope() {
+    Array.prototype.forEach.call($("scope").querySelectorAll("button"), function (b) {
+      b.setAttribute("aria-pressed", String((b.dataset.v === "robotics") === roboticsOnly));
+    });
+    Array.prototype.forEach.call(document.querySelectorAll(".scope-robotics"), function (el) { el.hidden = !roboticsOnly; });
+    var what = currentView === "newgrad" ? "new grad roles" : "internships";
+    $("intro-title").textContent = roboticsOnly ? "Robotics " + what : what.charAt(0).toUpperCase() + what.slice(1);
+  }
   function route() {
-    var view = location.hash === "#past" && PAST.length > 0 ? "past" : location.hash === "#new-grad" ? "newgrad" : "now";
+    var view = currentView = location.hash === "#past" && PAST.length > 0 ? "past" : location.hash === "#new-grad" ? "newgrad" : "now";
     $("view-now").hidden = view !== "now";
     $("view-past").hidden = view !== "past";
     $("view-newgrad").hidden = view !== "newgrad";
     $("tab-now").setAttribute("aria-current", view === "now" ? "page" : "false");
     $("tab-past").setAttribute("aria-current", view === "past" ? "page" : "false");
     $("tab-newgrad").setAttribute("aria-current", view === "newgrad" ? "page" : "false");
-    $("intro-title").textContent = view === "newgrad" ? "Robotics new grad roles" : "Robotics internships";
+    paintScope();
     $("intro-interns").hidden = view === "newgrad";
     $("intro-newgrad").hidden = view !== "newgrad";
     if (view === "past") {
@@ -1694,15 +1700,14 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
   });
   $("ng-filters").addEventListener("submit", function (e) { e.preventDefault(); });
   $("ng-more").addEventListener("click", function () { ng.shown += PAGE; renderNewGrad(); });
-  $("ng-robotics").addEventListener("change", function () {
-    roboticsOnly.checked = $("ng-robotics").checked;
-    roboticsOnly.dispatchEvent(new Event("change"));
-  });
-  roboticsOnly.addEventListener("change", function () {
-    store("robotics", roboticsOnly.checked ? "1" : "0");
-    if (state.company && !inScope(state.company)) state.company = null;
-    if (ng.company && !inScope(ng.company)) ng.company = null;
-    renderAll();
+  Array.prototype.forEach.call($("scope").querySelectorAll("button"), function (b) {
+    b.addEventListener("click", function () {
+      roboticsOnly = b.dataset.v === "robotics";
+      store("robotics", roboticsOnly ? "1" : "0");
+      if (state.company && !inScope(state.company)) state.company = null;
+      if (ng.company && !inScope(ng.company)) ng.company = null;
+      renderAll();
+    });
   });
   var dark = window.matchMedia ? window.matchMedia("(prefers-color-scheme: dark)") : null;
   function theme() {
@@ -1741,8 +1746,7 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
     renderCompanies();
     renderHealth();
     renderNewGrad();
-    $("p-robotics").checked = roboticsOnly.checked;
-    $("ng-robotics").checked = roboticsOnly.checked;
+    paintScope();
     if (!$("view-past").hidden) renderPast();
   }
   renderAll();

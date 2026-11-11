@@ -248,3 +248,17 @@ def scrape_scope(companies: Sequence[Company], list_ref: str | Path | None, ever
     """
     listed = select_companies(companies, list_ref, lists_dir)
     return (list(companies) if everything else listed), listed
+
+
+def scraped_companies(csv_path: Path | str = REPO_ROOT / "companies.csv") -> List[Company]:
+    """Every company the bot scrapes under config.json, once each.
+
+    The ``COMPANY_LIST`` companies, or all of them while anyone is on
+    ``all_internships_bcc`` (see :func:`scrape_scope`).
+    """
+    from .config import load_company_list_setting, load_email_config
+
+    companies, _ = scrape_scope(load_companies(csv_path), load_company_list_setting(),
+                                everything=bool(load_email_config()["all_internships_bcc"]))
+    return list({c.name: c for c in companies}.values())
+
