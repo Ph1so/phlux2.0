@@ -21,7 +21,7 @@
 
 ## Latest roles
 
-Showing the 637 most recent of 35,781 roles tracked across 288 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
+Showing the 639 most recent of 35,781 roles tracked across 288 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
 
 
 <table>
@@ -564,6 +564,34 @@ Showing the 637 most recent of 35,781 roles tracked across 288 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.cisco.com/global/en/search-results"><img src="https://cdn.brandfetch.io/cisco.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Cisco" height="20" style="vertical-align:middle; margin-right:6px;"> Cisco</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Consulting Engineer I (Intern) - United States</div></td>
+  <td>2026-11-11</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://stripe.com/careers/search?teams=University&locations=North+America&page=1"><img src="https://cdn.brandfetch.io/stripe.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Stripe" height="20" style="vertical-align:middle; margin-right:6px;"> Stripe</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Software Engineer, Intern (Summer)</div></td>
+  <td>2026-11-11</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://stripe.com/careers/search?teams=University&locations=North+America&page=1"><img src="https://cdn.brandfetch.io/stripe.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Stripe" height="20" style="vertical-align:middle; margin-right:6px;"> Stripe</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Software Engineer, Intern (Summer)</div></td>
+  <td>2026-11-11</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://stripe.com/careers/search?teams=University&locations=North+America&page=1"><img src="https://cdn.brandfetch.io/stripe.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Stripe" height="20" style="vertical-align:middle; margin-right:6px;"> Stripe</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Software Engineer, Intern (Summer)</div></td>
+  <td>2026-11-11</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://stripe.com/careers/search?teams=University&locations=North+America&page=1"><img src="https://cdn.brandfetch.io/stripe.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Stripe" height="20" style="vertical-align:middle; margin-right:6px;"> Stripe</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Software Engineer, Intern (Summer)</div></td>
   <td>2026-11-11</td>
 </tr>
   <tr>
@@ -4477,20 +4505,6 @@ Showing the 637 most recent of 35,781 roles tracked across 288 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/woven-by-toyota"><img src="https://cdn.brandfetch.io/woven-city.global/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Woven by Toyota" height="20" style="vertical-align:middle; margin-right:6px;"> Woven by Toyota</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/woven-by-toyota/6ae289c2-cdbf-4239-8434-be8d2a70a05f">Embedded SWE, AD/ADAS Architecture Design</a></div></td>
-  <td>2026-11-04</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/woven-by-toyota"><img src="https://cdn.brandfetch.io/woven-city.global/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Woven by Toyota" height="20" style="vertical-align:middle; margin-right:6px;"> Woven by Toyota</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/woven-by-toyota/3f6852e5-70c0-4ab0-836f-c71d13a83f32">Product Management Director Japan, Arene</a></div></td>
-  <td>2026-11-04</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/woven-by-toyota"><img src="https://cdn.brandfetch.io/woven-city.global/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Woven by Toyota" height="20" style="vertical-align:middle; margin-right:6px;"> Woven by Toyota</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/woven-by-toyota/712c2cc3-0fd8-46ea-8bd6-2404ee829c4b">プロダクトマネジメントディレクター・Arene</a></div></td>
   <td>2026-11-04</td>
 </tr>
 

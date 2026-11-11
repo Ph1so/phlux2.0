@@ -8500,7 +8500,8 @@
         "date": "2026-10-13",
         "id": "eightfold:446721246663",
         "url": "https://careers.qualcomm.com/careers/job/446721246663",
-        "location": "Los Altos, CA"
+        "location": "Los Altos, CA",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Wireless Systems Engineering Internship - Summer 2027",
@@ -46588,7 +46589,8 @@
         "date": "2026-10-14",
         "id": "ashby:3a734d21-e7cb-4315-a696-31639311062e",
         "url": "https://jobs.ashbyhq.com/saronic/3a734d21-e7cb-4315-a696-31639311062e",
-        "location": "Brownsville, TX +1"
+        "location": "Brownsville, TX +1",
+        "closed": "2026-11-11"
       },
       {
         "title": "Manufacturing Engineering Manager",
@@ -88445,8 +88447,7 @@
       },
       {
         "title": "\u2b50\ufe0f Software Engineer Full-Stack / Backend I (Intern) \u2013 United States",
-        "date": "N/A",
-        "closed": "2026-11-11"
+        "date": "N/A"
       },
       {
         "title": "\u2b50\ufe0f Business Analyst I (Intern) United States",
@@ -88460,16 +88461,17 @@
       },
       {
         "title": "\u2b50\ufe0f Software Consulting Engineer I (Intern) United States",
-        "date": "2026-11-11"
+        "date": "2026-11-11",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f PROPEL Project Specialist I (Intern) United States",
-        "date": "2026-11-11"
+        "date": "2026-11-11",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer Embedded Systems I (Intern) - United States",
-        "date": "2026-11-11",
-        "closed": "2026-11-11"
+        "date": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Consulting Engineer I (Intern) - United States",
@@ -88686,19 +88688,23 @@
       },
       {
         "title": "\u2b50\ufe0f Software Engineer, Intern (Summer or Winter)",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer, Intern (Summer or Winter)",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer, Intern (Summer or Winter)",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer, Intern (Summer or Winter)",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "Software Engineer, New Grad",
@@ -88715,6 +88721,22 @@
       {
         "title": "Software Engineer, New Grad",
         "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer, Intern (Summer)",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer, Intern (Summer)",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer, Intern (Summer)",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer, Intern (Summer)",
+        "date": "2026-11-11"
       }
     ],
     "Cohere": [
@@ -90183,12 +90205,12 @@
       },
       {
         "title": "\u2b50\ufe0f 2027 Intern - Research PhD Intern",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f 2027 Intern - Experience Researcher",
-        "date": "2026-11-11",
-        "closed": "2026-11-11"
+        "date": "2026-11-11"
       }
     ],
     "Databricks": [
