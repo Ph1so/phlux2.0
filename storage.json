@@ -1193,8 +1193,7 @@
         "date": "2026-11-02",
         "id": "eightfold:1970393557053016",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557053016",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-10"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Coding Agents & Post-Training Optimization",
@@ -1513,7 +1512,8 @@
         "date": "2026-10-15",
         "id": "amazon:10580097",
         "url": "https://www.amazon.jobs/en/jobs/10580097/software-development-engineer-ii-tais-dmr",
-        "location": "Seattle, WA"
+        "location": "Seattle, WA",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Creative Marketing Intern \u2013 Summer 2027",
@@ -2095,7 +2095,8 @@
         "date": "N/A",
         "id": "amazon:10574919",
         "url": "https://www.amazon.jobs/en/jobs/10574919/sde-ii-aws-invoicing",
-        "location": "Seattle, WA"
+        "location": "Seattle, WA",
+        "closed": "2026-11-11"
       },
       {
         "title": "Customer Acquisition Manager, ISV",
@@ -3818,6 +3819,13 @@
         "id": "meta:1100150399514897",
         "url": "https://www.metacareers.com/profile/job_details/1100150399514897/",
         "location": "Sunnyvale, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, MSL - Multimodal Interaction and Generation (PhD)",
+        "date": "2026-11-11",
+        "id": "meta:1875991733421297",
+        "url": "https://www.metacareers.com/profile/job_details/1875991733421297/",
+        "location": "Singapore"
       }
     ],
     "Apple": [
@@ -5490,6 +5498,27 @@
         "date": "2026-11-10",
         "id": "greenhouse:8356815",
         "url": "https://www.riotgames.com/en/work-with-us/job/8356815?gh_jid=8356815",
+        "location": "Los Angeles, USA"
+      },
+      {
+        "title": "\u2b50\ufe0f Community Manager Intern - Summer 2027",
+        "date": "2026-11-11",
+        "id": "greenhouse:8354416",
+        "url": "https://www.riotgames.com/en/work-with-us/job/8354416?gh_jid=8354416",
+        "location": "Los Angeles, USA"
+      },
+      {
+        "title": "\u2b50\ufe0f Data Engineering Intern - Summer 2027",
+        "date": "2026-11-11",
+        "id": "greenhouse:8356716",
+        "url": "https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716",
+        "location": "Los Angeles, USA"
+      },
+      {
+        "title": "\u2b50\ufe0f Social Media Manager Intern - Summer 2027",
+        "date": "2026-11-11",
+        "id": "greenhouse:8356358",
+        "url": "https://www.riotgames.com/en/work-with-us/job/8356358?gh_jid=8356358",
         "location": "Los Angeles, USA"
       }
     ],
@@ -21890,7 +21919,8 @@
         "date": "N/A",
         "id": "lever:83967e5c-bfb4-4b3d-974a-fd0fefe4a168",
         "url": "https://jobs.lever.co/zoox/83967e5c-bfb4-4b3d-974a-fd0fefe4a168",
-        "location": "Foster City, CA"
+        "location": "Foster City, CA",
+        "closed": "2026-11-11"
       },
       {
         "title": "Senior Technical Program Manager, Manufacturing Capacity",
@@ -24796,6 +24826,13 @@
         "date": "2026-11-10",
         "id": "greenhouse:6523341",
         "url": "https://nuro.ai/careersitem?gh_jid=6523341",
+        "location": "Mountain View, California (HQ)"
+      },
+      {
+        "title": "Technical Lead Software Engineer, Routing",
+        "date": "2026-11-11",
+        "id": "greenhouse:8376286",
+        "url": "https://nuro.ai/careersitem?gh_jid=8376286",
         "location": "Mountain View, California (HQ)"
       }
     ],
@@ -32265,7 +32302,8 @@
         "date": "N/A",
         "id": "lever:0cdcb67f-0550-4f14-987f-82cc6d17ea6e",
         "url": "https://jobs.lever.co/shieldai/0cdcb67f-0550-4f14-987f-82cc6d17ea6e",
-        "location": "San Diego, California"
+        "location": "San Diego, California",
+        "closed": "2026-11-11"
       },
       {
         "title": "Engineer I, Mechanical (R6302) - New Grad",
@@ -32287,56 +32325,64 @@
         "date": "N/A",
         "id": "lever:71a4617f-c917-4536-bbf1-8d11d04d8cba",
         "url": "https://jobs.lever.co/shieldai/71a4617f-c917-4536-bbf1-8d11d04d8cba",
-        "location": "Washington, D.C. +1"
+        "location": "Washington, D.C. +1",
+        "closed": "2026-11-11"
       },
       {
         "title": "Engineer I, Software - Factory Team - New Grad - 6235",
         "date": "N/A",
         "id": "lever:59e0cf9b-04d7-43c0-8a65-9d411fe56c68",
         "url": "https://jobs.lever.co/shieldai/59e0cf9b-04d7-43c0-8a65-9d411fe56c68",
-        "location": "Washington, D.C. +1"
+        "location": "Washington, D.C. +1",
+        "closed": "2026-11-11"
       },
       {
         "title": "Engineer I, Software Integration - New Grad - 6214",
         "date": "N/A",
         "id": "lever:7c8aaf63-ab92-4c0f-8a54-9cf1ce07ca69",
         "url": "https://jobs.lever.co/shieldai/7c8aaf63-ab92-4c0f-8a54-9cf1ce07ca69",
-        "location": "Washington, D.C. +1"
+        "location": "Washington, D.C. +1",
+        "closed": "2026-11-11"
       },
       {
         "title": "Engineer II, Flight Test - New Grad - 6222",
         "date": "N/A",
         "id": "lever:c28e98ff-88ce-4e56-ada5-4cee7d417885",
         "url": "https://jobs.lever.co/shieldai/c28e98ff-88ce-4e56-ada5-4cee7d417885",
-        "location": "San Diego, California"
+        "location": "San Diego, California",
+        "closed": "2026-11-11"
       },
       {
         "title": "Engineer II, Integration - New Grad - 6202",
         "date": "N/A",
         "id": "lever:de13deec-afa6-4d78-b920-aeb5571be9d3",
         "url": "https://jobs.lever.co/shieldai/de13deec-afa6-4d78-b920-aeb5571be9d3",
-        "location": "Washington, D.C."
+        "location": "Washington, D.C.",
+        "closed": "2026-11-11"
       },
       {
         "title": "Engineer II, Simulation Framework - New Grad - 6204",
         "date": "N/A",
         "id": "lever:39a7aa1b-9988-4ac7-ade9-12dd16cbae62",
         "url": "https://jobs.lever.co/shieldai/39a7aa1b-9988-4ac7-ade9-12dd16cbae62",
-        "location": "San Diego, California +1"
+        "location": "San Diego, California +1",
+        "closed": "2026-11-11"
       },
       {
         "title": "Engineer II, Software - Factory - New Grad - 6217",
         "date": "N/A",
         "id": "lever:681efe7f-2c2a-4830-8976-9a6f77d9d3e5",
         "url": "https://jobs.lever.co/shieldai/681efe7f-2c2a-4830-8976-9a6f77d9d3e5",
-        "location": "Washington, D.C. +1"
+        "location": "Washington, D.C. +1",
+        "closed": "2026-11-11"
       },
       {
         "title": "Engineer II, Software Test and Automation - New Grad - 6221",
         "date": "N/A",
         "id": "lever:ebf49595-032b-493d-a80e-3ac00eb4d0ab",
         "url": "https://jobs.lever.co/shieldai/ebf49595-032b-493d-a80e-3ac00eb4d0ab",
-        "location": "Washington, D.C."
+        "location": "Washington, D.C.",
+        "closed": "2026-11-11"
       },
       {
         "title": "EWIS Harness Design - Engineer I - New Grad",
@@ -41037,6 +41083,27 @@
         "date": "2026-11-10",
         "id": "google:75520748898132678",
         "url": "https://www.google.com/about/careers/applications/jobs/results/75520748898132678",
+        "location": "Mountain View, CA"
+      },
+      {
+        "title": "UX Designer, Inception, Terra Nova, DeepMind",
+        "date": "2026-11-11",
+        "id": "google:107713538826347206",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/107713538826347206",
+        "location": "Mountain View, CA +1"
+      },
+      {
+        "title": "Software Engineer, Agentic Model Serving, Robotics, DeepMind",
+        "date": "2026-11-11",
+        "id": "google:117013208174076614",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/117013208174076614",
+        "location": "Mountain View, CA"
+      },
+      {
+        "title": "Frontier AI Research Scientist, DeepMind",
+        "date": "2026-11-11",
+        "id": "google:95821221060321990",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/95821221060321990",
         "location": "Mountain View, CA"
       }
     ],
@@ -58920,7 +58987,8 @@
         "title": "US External Affairs Associate, Global Affairs",
         "date": "2026-10-22",
         "id": "ashby:544af761-e37a-450c-884b-b96506c1b883",
-        "closed": "N/A"
+        "url": "https://jobs.ashbyhq.com/openai/544af761-e37a-450c-884b-b96506c1b883",
+        "location": "Washington, DC"
       },
       {
         "title": "Account Associate - SF",
@@ -61458,7 +61526,8 @@
         "date": "2026-10-22",
         "id": "ashby:1f247dd3-5c54-49a7-83f5-ca6cf6ed7717",
         "url": "https://jobs.ashbyhq.com/openai/1f247dd3-5c54-49a7-83f5-ca6cf6ed7717",
-        "location": "US - Remote"
+        "location": "US - Remote",
+        "closed": "2026-11-11"
       },
       {
         "title": "Manufacturing Test Engineer",
@@ -64193,8 +64262,7 @@
         "date": "2026-10-22",
         "id": "lever:2f097b49-9076-460e-8eb1-581746890e00",
         "url": "https://jobs.eu.lever.co/mobileye/2f097b49-9076-460e-8eb1-581746890e00",
-        "location": "Jerusalem, Israel",
-        "closed": "2026-11-10"
+        "location": "Jerusalem, Israel"
       },
       {
         "title": "Senior Talent Acquisition Partner",
@@ -64971,7 +65039,8 @@
         "date": "2026-10-22",
         "id": "lever:69573dbb-51f5-4442-a874-396b76206498",
         "url": "https://jobs.eu.lever.co/mobileye/69573dbb-51f5-4442-a874-396b76206498",
-        "location": "Shanghai, China"
+        "location": "Shanghai, China",
+        "closed": "2026-11-11"
       },
       {
         "title": "Semiconductor Quality & Reliability Engineer",
@@ -65593,7 +65662,8 @@
         "date": "2026-11-01",
         "id": "lever:b1883e14-5a78-4cd4-af6d-f22790187366",
         "url": "https://jobs.eu.lever.co/mobileye/b1883e14-5a78-4cd4-af6d-f22790187366",
-        "location": "Jerusalem, Israel"
+        "location": "Jerusalem, Israel",
+        "closed": "2026-11-11"
       },
       {
         "title": "Machine Learning Software Engineer",
@@ -65810,7 +65880,8 @@
         "date": "2026-11-09",
         "id": "lever:8ad31b79-8816-4142-a677-4bea7a452328",
         "url": "https://jobs.eu.lever.co/mobileye/8ad31b79-8816-4142-a677-4bea7a452328",
-        "location": "Ramat Gan, Israel"
+        "location": "Ramat Gan, Israel",
+        "closed": "2026-11-11"
       },
       {
         "title": "Optical Path Safety Architect Manager",
@@ -65881,6 +65952,27 @@
         "date": "2026-11-10",
         "id": "lever:e54024e2-45ed-482c-a777-251f602d6484",
         "url": "https://jobs.eu.lever.co/mobileye/e54024e2-45ed-482c-a777-251f602d6484",
+        "location": "Jerusalem, Israel"
+      },
+      {
+        "title": "Budget & Operations Coordinator",
+        "date": "2026-11-11",
+        "id": "lever:3598731b-e2b3-4bd2-8bce-7a17aecf7421",
+        "url": "https://jobs.eu.lever.co/mobileye/3598731b-e2b3-4bd2-8bce-7a17aecf7421",
+        "location": "Jerusalem, Israel"
+      },
+      {
+        "title": "Integration and Validation Architect",
+        "date": "2026-11-11",
+        "id": "lever:0f1300dc-6177-4b40-a0c3-4678149293da",
+        "url": "https://jobs.eu.lever.co/mobileye/0f1300dc-6177-4b40-a0c3-4678149293da",
+        "location": "Haifa, Israel"
+      },
+      {
+        "title": "Integration and Validation Architect",
+        "date": "2026-11-11",
+        "id": "lever:7bbe8e79-e693-44df-a183-9f875f176d88",
+        "url": "https://jobs.eu.lever.co/mobileye/7bbe8e79-e693-44df-a183-9f875f176d88",
         "location": "Jerusalem, Israel"
       }
     ],
@@ -70269,14 +70361,16 @@
         "date": "2026-10-27",
         "id": "greenhouse:5409934008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5409934008",
-        "location": "San Francisco, CA | New York City, NY | Seattle, WA"
+        "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+        "closed": "2026-11-11"
       },
       {
         "title": "Product Manager, New Markets and Monetization",
         "date": "2026-10-27",
         "id": "greenhouse:5386182008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5386182008",
-        "location": "San Francisco, CA"
+        "location": "San Francisco, CA",
+        "closed": "2026-11-11"
       },
       {
         "title": "Product Manager, Public Sector",
@@ -72531,7 +72625,8 @@
         "date": "2026-10-29",
         "id": "greenhouse:5465578008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5465578008",
-        "location": "New York City, NY; San Francisco, CA | New York City, NY; Seattle, WA"
+        "location": "New York City, NY; San Francisco, CA | New York City, NY; Seattle, WA",
+        "closed": "2026-11-11"
       },
       {
         "title": "Senior Engineer, Bioinformatics",
@@ -73096,6 +73191,13 @@
         "id": "greenhouse:5477601008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5477601008",
         "location": "San Francisco, CA | New York City, NY"
+      },
+      {
+        "title": "Partnerships Enablement Specialist, Japan",
+        "date": "2026-11-11",
+        "id": "greenhouse:5458159008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5458159008",
+        "location": "Tokyo, Japan"
       }
     ],
     "xAI": [
@@ -74601,7 +74703,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5237890007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5237890007",
-        "location": "Southaven, MS; Memphis, TN"
+        "location": "Southaven, MS; Memphis, TN",
+        "closed": "2026-11-11"
       },
       {
         "title": "Program Manager, Data Center Construction - Memphis",
@@ -74810,7 +74913,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5215007007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5215007007",
-        "location": "Southaven, MS; Memphis, TN"
+        "location": "Southaven, MS; Memphis, TN",
+        "closed": "2026-11-11"
       },
       {
         "title": "Site Reliability Engineer",
@@ -75210,7 +75314,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5214210007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5214210007",
-        "location": "Southaven, MS; Memphis, TN"
+        "location": "Southaven, MS; Memphis, TN",
+        "closed": "2026-11-11"
       },
       {
         "title": "Supervisor, OSP Fiber - Memphis",
@@ -75231,14 +75336,16 @@
         "date": "2026-10-27",
         "id": "greenhouse:5241152007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5241152007",
-        "location": "Southaven, MS; Memphis, TN"
+        "location": "Southaven, MS; Memphis, TN",
+        "closed": "2026-11-11"
       },
       {
         "title": "Supervisor, Transportation & Logistics - Memphis",
         "date": "2026-10-27",
         "id": "greenhouse:5247101007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5247101007",
-        "location": "Southaven, MS; Memphis, TN"
+        "location": "Southaven, MS; Memphis, TN",
+        "closed": "2026-11-11"
       },
       {
         "title": "Support Agent, X Money",
@@ -79051,8 +79158,8 @@
   },
   "email_threads": {
     "internship": {
-      "date": "2026-11-10",
-      "message_id": "<179431484079.2509.501536216682473961@phlux>"
+      "date": "2026-11-11",
+      "message_id": "<179438975038.2510.13045677590413491846@phlux>"
     }
   },
   "pending_closures": {
@@ -79076,168 +79183,168 @@
     }
   },
   "checked": {
-    "Google": "2026-11-10",
-    "Meta": "2026-11-10",
-    "Nvidia": "2026-11-10",
-    "AWS": "2026-11-10",
-    "Amazon": "2026-11-10",
-    "Netflix": "2026-11-10",
-    "Autodesk": "2026-11-10",
-    "Apple": "2026-11-10",
-    "Optiver": "2026-11-10",
-    "Citadel": "2026-11-10",
-    "Blue Origin": "2026-11-10",
-    "Hudson River Trading": "2026-11-10",
-    "Riot Games": "2026-11-10",
-    "DE Shaws": "2026-11-10",
-    "Doordash": "2026-11-10",
-    "Amazon Robotics": "2026-11-10",
-    "Rivian": "2026-11-10",
-    "Roblox": "2026-11-10",
-    "Jane Street": "2026-11-10",
-    "SpaceX": "2026-11-10",
-    "Neuralink": "2026-11-10",
-    "Zipline": "2026-11-10",
-    "Boston Dynamics": "2026-11-10",
-    "Scale AI": "2026-11-10",
-    "Relativity": "2026-11-10",
-    "Palantir": "2026-11-10",
-    "Skydio": "2026-11-10",
-    "Kodiak Robotics": "2026-11-10",
-    "XPENG": "2026-11-10",
-    "C3": "2026-11-10",
-    "Toyota Research Insitute": "2026-11-10",
-    "Qualcomm": "2026-11-10",
-    "Mitsubishi Electric Research Laboratories": "2026-11-10",
-    "Mujin": "2026-11-10",
-    "Microsoft": "2026-11-10",
-    "Intuitive Surgical": "2026-11-10",
-    "Onward Robotics": "2026-11-10",
-    "Agility Robotics": "2026-11-10",
-    "iRobot": "2026-11-10",
-    "Honda Research Insitute": "2026-11-10",
-    "Brightpick": "2026-11-10",
-    "Locus Robotics": "2026-11-10",
-    "Path Robotics": "2026-11-10",
-    "GrayMatter Robotics": "2026-11-10",
-    "Chef Robotics": "2026-11-10",
-    "Cobot": "2026-11-10",
-    "Ambi Robotics": "2026-11-10",
-    "Apptronik": "2026-11-10",
-    "Figure AI": "2026-11-10",
-    "1x": "2026-11-10",
-    "Sanctuary AI": "2026-11-10",
-    "Motional": "2026-11-10",
-    "Lucid Motors": "2026-11-10",
-    "Titan Robotics": "2026-11-10",
-    "Near Earth Autonomy": "2026-11-10",
-    "Skild AI": "2026-11-10",
-    "Aurora Innovation": "2026-11-10",
-    "Tensor Auto": "2026-11-10",
-    "Avride": "2026-11-10",
-    "May Mobility": "2026-11-10",
-    "Beep": "2026-11-10",
-    "Zoox": "2026-11-10",
-    "Pony.ai": "2026-11-10",
-    "Nuro": "2026-11-10",
-    "Lila Sciences": "2026-11-10",
-    "Serve Robotics": "2026-11-10",
-    "Bosch": "2026-11-10",
-    "Anduril": "2026-11-10",
-    "Aeva": "2026-11-10",
-    "Forterra": "2026-11-10",
-    "Intrinsic": "2026-11-10",
-    "Gecko Robotics": "2026-11-10",
-    "Robotics and AI Insitute": "2026-11-10",
-    "Sunday": "2026-11-10",
-    "Machina Labs": "2026-11-10",
-    "Matic Robots": "2026-11-10",
-    "GreyOrange": "2026-11-10",
-    "ScoutAI": "2026-11-10",
-    "AeroVect": "2026-11-10",
-    "Gather AI": "2026-11-10",
-    "Carbon Robotics": "2026-11-10",
-    "Pickle Robot": "2026-11-10",
-    "Scythe Robotics": "2026-11-10",
-    "Futurewei Technologies": "2026-11-10",
-    "Diligent Robotics": "2026-11-10",
-    "Phantom AI": "2026-11-10",
-    "Neros Technologies": "2026-11-10",
-    "Swarm Aero": "2026-11-10",
-    "Wayve": "2026-11-10",
-    "Shield AI": "2026-11-10",
-    "DeepMind": "2026-11-10",
-    "Waymo": "2026-11-10",
-    "Bedrock Robotics": "2026-11-10",
-    "Applied Intuition": "2026-11-10",
-    "FieldAI": "2026-11-10",
-    "Humanoid": "2026-11-10",
-    "World Labs": "2026-11-10",
-    "General Motors": "2026-11-10",
-    "Niantic Spatial": "2026-11-10",
-    "Wing": "2026-11-10",
-    "Physical Intelligence": "2026-11-10",
-    "The Bot Company": "2026-11-10",
-    "Dyna Robotics": "2026-11-10",
-    "Nimble Robotics": "2026-11-10",
-    "Standard Bots": "2026-11-10",
-    "Dexterity": "2026-11-10",
-    "Formic": "2026-11-10",
-    "Bright Machines": "2026-11-10",
-    "Stack AV": "2026-11-10",
-    "Torc Robotics": "2026-11-10",
-    "Saronic": "2026-11-10",
-    "Reliable Robotics": "2026-11-10",
-    "Built Robotics": "2026-11-10",
-    "Coco Robotics": "2026-11-10",
-    "Mytra": "2026-11-10",
-    "Waabi": "2026-11-10",
-    "Overland AI": "2026-11-10",
-    "Plus One Robotics": "2026-11-10",
-    "Persona AI": "2026-11-10",
-    "Ghost Robotics": "2026-11-10",
-    "PlusAI": "2026-11-10",
-    "Miso Robotics": "2026-11-10",
-    "Gatik": "2026-11-10",
-    "Humble Robotics": "2026-11-10",
-    "Rhoda AI": "2026-11-10",
-    "Walden Robotics": "2026-11-10",
-    "Symbotic": "2026-11-10",
-    "Generalist AI": "2026-11-10",
-    "Genesis AI": "2026-11-10",
-    "Mind Robotics": "2026-11-10",
-    "Woven by Toyota": "2026-11-10",
-    "OpenAI": "2026-11-10",
-    "Ocado": "2026-11-10",
-    "Caterpillar": "2026-11-10",
-    "Joby Aviation": "2026-11-10",
-    "Mobileye": "2026-11-10",
-    "Neura Robotics": "2026-11-10",
-    "Dusty Robotics": "2026-11-10",
-    "Vecna Robotics": "2026-11-10",
-    "Realtime Robotics": "2026-11-10",
-    "John Deere": "2026-11-10",
-    "Anthropic": "2026-11-10",
-    "xAI": "2026-11-10",
-    "Thinking Machines Lab": "2026-11-10",
-    "Bot Auto": "2026-11-10",
-    "Slate Auto": "2026-11-10",
-    "Ford": "2026-11-10",
-    "Mundane": "2026-11-10",
-    "Uber": "2026-11-10",
+    "Google": "2026-11-11",
+    "Meta": "2026-11-11",
+    "Nvidia": "2026-11-11",
+    "AWS": "2026-11-11",
+    "Amazon": "2026-11-11",
+    "Netflix": "2026-11-11",
+    "Autodesk": "2026-11-11",
+    "Apple": "2026-11-11",
+    "Optiver": "2026-11-11",
+    "Citadel": "2026-11-11",
+    "Blue Origin": "2026-11-11",
+    "Hudson River Trading": "2026-11-11",
+    "Riot Games": "2026-11-11",
+    "DE Shaws": "2026-11-11",
+    "Doordash": "2026-11-11",
+    "Amazon Robotics": "2026-11-11",
+    "Rivian": "2026-11-11",
+    "Roblox": "2026-11-11",
+    "Jane Street": "2026-11-11",
+    "SpaceX": "2026-11-11",
+    "Neuralink": "2026-11-11",
+    "Zipline": "2026-11-11",
+    "Boston Dynamics": "2026-11-11",
+    "Scale AI": "2026-11-11",
+    "Relativity": "2026-11-11",
+    "Palantir": "2026-11-11",
+    "Skydio": "2026-11-11",
+    "Kodiak Robotics": "2026-11-11",
+    "XPENG": "2026-11-11",
+    "C3": "2026-11-11",
+    "Toyota Research Insitute": "2026-11-11",
+    "Qualcomm": "2026-11-11",
+    "Mitsubishi Electric Research Laboratories": "2026-11-11",
+    "Mujin": "2026-11-11",
+    "Microsoft": "2026-11-11",
+    "Intuitive Surgical": "2026-11-11",
+    "Onward Robotics": "2026-11-11",
+    "Agility Robotics": "2026-11-11",
+    "iRobot": "2026-11-11",
+    "Honda Research Insitute": "2026-11-11",
+    "Brightpick": "2026-11-11",
+    "Locus Robotics": "2026-11-11",
+    "Path Robotics": "2026-11-11",
+    "GrayMatter Robotics": "2026-11-11",
+    "Chef Robotics": "2026-11-11",
+    "Cobot": "2026-11-11",
+    "Ambi Robotics": "2026-11-11",
+    "Apptronik": "2026-11-11",
+    "Figure AI": "2026-11-11",
+    "1x": "2026-11-11",
+    "Sanctuary AI": "2026-11-11",
+    "Motional": "2026-11-11",
+    "Lucid Motors": "2026-11-11",
+    "Titan Robotics": "2026-11-11",
+    "Near Earth Autonomy": "2026-11-11",
+    "Skild AI": "2026-11-11",
+    "Aurora Innovation": "2026-11-11",
+    "Tensor Auto": "2026-11-11",
+    "Avride": "2026-11-11",
+    "May Mobility": "2026-11-11",
+    "Beep": "2026-11-11",
+    "Zoox": "2026-11-11",
+    "Pony.ai": "2026-11-11",
+    "Nuro": "2026-11-11",
+    "Lila Sciences": "2026-11-11",
+    "Serve Robotics": "2026-11-11",
+    "Bosch": "2026-11-11",
+    "Anduril": "2026-11-11",
+    "Aeva": "2026-11-11",
+    "Forterra": "2026-11-11",
+    "Intrinsic": "2026-11-11",
+    "Gecko Robotics": "2026-11-11",
+    "Robotics and AI Insitute": "2026-11-11",
+    "Sunday": "2026-11-11",
+    "Machina Labs": "2026-11-11",
+    "Matic Robots": "2026-11-11",
+    "GreyOrange": "2026-11-11",
+    "ScoutAI": "2026-11-11",
+    "AeroVect": "2026-11-11",
+    "Gather AI": "2026-11-11",
+    "Carbon Robotics": "2026-11-11",
+    "Pickle Robot": "2026-11-11",
+    "Scythe Robotics": "2026-11-11",
+    "Futurewei Technologies": "2026-11-11",
+    "Diligent Robotics": "2026-11-11",
+    "Phantom AI": "2026-11-11",
+    "Neros Technologies": "2026-11-11",
+    "Swarm Aero": "2026-11-11",
+    "Wayve": "2026-11-11",
+    "Shield AI": "2026-11-11",
+    "DeepMind": "2026-11-11",
+    "Waymo": "2026-11-11",
+    "Bedrock Robotics": "2026-11-11",
+    "Applied Intuition": "2026-11-11",
+    "FieldAI": "2026-11-11",
+    "Humanoid": "2026-11-11",
+    "World Labs": "2026-11-11",
+    "General Motors": "2026-11-11",
+    "Niantic Spatial": "2026-11-11",
+    "Wing": "2026-11-11",
+    "Physical Intelligence": "2026-11-11",
+    "The Bot Company": "2026-11-11",
+    "Dyna Robotics": "2026-11-11",
+    "Nimble Robotics": "2026-11-11",
+    "Standard Bots": "2026-11-11",
+    "Dexterity": "2026-11-11",
+    "Formic": "2026-11-11",
+    "Bright Machines": "2026-11-11",
+    "Stack AV": "2026-11-11",
+    "Torc Robotics": "2026-11-11",
+    "Saronic": "2026-11-11",
+    "Reliable Robotics": "2026-11-11",
+    "Built Robotics": "2026-11-11",
+    "Coco Robotics": "2026-11-11",
+    "Mytra": "2026-11-11",
+    "Waabi": "2026-11-11",
+    "Overland AI": "2026-11-11",
+    "Plus One Robotics": "2026-11-11",
+    "Persona AI": "2026-11-11",
+    "Ghost Robotics": "2026-11-11",
+    "PlusAI": "2026-11-11",
+    "Miso Robotics": "2026-11-11",
+    "Gatik": "2026-11-11",
+    "Humble Robotics": "2026-11-11",
+    "Rhoda AI": "2026-11-11",
+    "Walden Robotics": "2026-11-11",
+    "Symbotic": "2026-11-11",
+    "Generalist AI": "2026-11-11",
+    "Genesis AI": "2026-11-11",
+    "Mind Robotics": "2026-11-11",
+    "Woven by Toyota": "2026-11-11",
+    "OpenAI": "2026-11-11",
+    "Ocado": "2026-11-11",
+    "Caterpillar": "2026-11-11",
+    "Joby Aviation": "2026-11-11",
+    "Mobileye": "2026-11-11",
+    "Neura Robotics": "2026-11-11",
+    "Dusty Robotics": "2026-11-11",
+    "Vecna Robotics": "2026-11-11",
+    "Realtime Robotics": "2026-11-11",
+    "John Deere": "2026-11-11",
+    "Anthropic": "2026-11-11",
+    "xAI": "2026-11-11",
+    "Thinking Machines Lab": "2026-11-11",
+    "Bot Auto": "2026-11-11",
+    "Slate Auto": "2026-11-11",
+    "Ford": "2026-11-11",
+    "Mundane": "2026-11-11",
+    "Uber": "2026-11-11",
     "Anywhere Robotics": "2026-11-01",
-    "Tesla": "2026-11-10",
-    "Beyond Reach Labs": "2026-11-10",
-    "Relling": "2026-11-10",
-    "Icarus": "2026-11-10",
-    "Pyka": "2026-11-10",
-    "Tuesday Labs": "2026-11-10",
-    "Weave Robotics": "2026-11-10",
-    "Boost Robotics": "2026-11-10",
-    "Oshkosh": "2026-11-10",
-    "General Robotics": "2026-11-10",
-    "Eka Robotics": "2026-11-10",
-    "Bonsai Robotics": "2026-11-10"
+    "Tesla": "2026-11-11",
+    "Beyond Reach Labs": "2026-11-11",
+    "Relling": "2026-11-11",
+    "Icarus": "2026-11-11",
+    "Pyka": "2026-11-11",
+    "Tuesday Labs": "2026-11-11",
+    "Weave Robotics": "2026-11-11",
+    "Boost Robotics": "2026-11-11",
+    "Oshkosh": "2026-11-11",
+    "General Robotics": "2026-11-11",
+    "Eka Robotics": "2026-11-11",
+    "Bonsai Robotics": "2026-11-11"
   },
   "failing": {
     "Anywhere Robotics": {
