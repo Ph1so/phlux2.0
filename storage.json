@@ -88331,11 +88331,21 @@
       },
       {
         "title": "\u2b50\ufe0f Amplify Marketing Specialist I (Intern) - United States",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer Full-Stack / Backend I (Intern) \u2013 United States",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
+      },
+      {
+        "title": "\u2b50\ufe0f Business Analyst I (Intern) United States",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "\u2b50\ufe0f Hardware Engineer I (Intern) - United States",
+        "date": "2026-11-11"
       }
     ],
     "TwoSigma": [
@@ -92440,7 +92450,12 @@
       },
       {
         "title": "\u2b50\ufe0f Product Marketing Intern",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
+      },
+      {
+        "title": "\u2b50\ufe0f Chemical Engineer / Chemist Postdoctoral Intern",
+        "date": "2026-11-11"
       }
     ],
     "UKG": [
@@ -94750,6 +94765,10 @@
     "internship": {
       "date": "2026-11-11",
       "message_id": "<179438975038.2510.13045677590413491846@phlux>"
+    },
+    "internship_all": {
+      "date": "2026-11-11",
+      "message_id": "<179443449794.2565.5476120584244166661@phlux>"
     }
   },
   "pending_closures": {
