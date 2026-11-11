@@ -87855,79 +87855,178 @@
     "Pinterest": [
       {
         "title": "\u2b50\ufe0f Product Design Intern (USA)",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f UX Quantitative Research Intern (USA)",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Strategy & Operations Intern 2027 (USA)",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Content Enablement Intern 2027 (USA)",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Master's Data Science Internship 2027 (USA)",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "Master's University Grad Machine Learning Engineer 2027 (USA)",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f PhD Data Science Internship 2027 (USA)",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f PhD Machine Learning Internship 2027 (USA)",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "PhD University Grad Machine Learning Engineer (USA)",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Solutions Engineer Intern 2027 (USA)",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "Master's University Grad Data Scientist (USA)",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Master's Machine Learning Internship 2027 (USA)",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer Intern 2027 (USA)",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Machine Learning Intern 2027 (Toronto)",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Intern 2027 (Toronto)",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Machine Learning Intern 2027 (Zurich)",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Machine Learning Intern 2027 (Dublin)",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Intern 2027 (Dublin)",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Intern 2027 (Zurich)",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-11"
+      },
+      {
+        "title": "Sr. Data Scientist, Performance Marketing",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "Sr. Industry Manager, Travel",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "Director of Sales, Entertainment",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "Engineering Manager II, Runtime Services",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "Product Policy Lead, Ads",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "Lead Digital Producer",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "Motion Designer, PPM SMB",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "Staff Qualitative Product Researcher, Ads Integrity",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "Retail Transformation Lead",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "Designer, PPM",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "Director, Machine Learning Engineering, Ads Measurement",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "Sr. Client Account Manager, Luxury Fashion",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "Sr. Manager, Ads Product Marketing- PerformanceAutomation",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "Sr. Security Software Engineer, Security Operations",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "Staff Machine Learning Engineer, Content Visual AI",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "Technical Program Manager II, Infrastructure (Capacity & Efficiency)",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "Staff Product Manager, Content-to-Discovery Infrastructure",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "Sr. Product Manager, Data and Signals Intelligence",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "Sr. Client Partner, Auto",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "Staff Product Manager, Measurement Partner Optimization",
+        "date": "2026-11-11"
       }
     ],
     "Intel": [
@@ -88364,12 +88463,12 @@
       },
       {
         "title": "\u2b50\ufe0f Software Engineer Full-Stack / Backend I (Intern) \u2013 United States",
-        "date": "N/A",
-        "closed": "2026-11-11"
+        "date": "N/A"
       },
       {
         "title": "\u2b50\ufe0f Business Analyst I (Intern) United States",
-        "date": "2026-11-11"
+        "date": "2026-11-11",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Hardware Engineer I (Intern) - United States",
@@ -88386,6 +88485,11 @@
       },
       {
         "title": "\u2b50\ufe0f Software Engineer Embedded Systems I (Intern) - United States",
+        "date": "2026-11-11",
+        "closed": "2026-11-11"
+      },
+      {
+        "title": "\u2b50\ufe0f Consulting Engineer I (Intern) - United States",
         "date": "2026-11-11"
       }
     ],
@@ -90096,12 +90200,12 @@
       },
       {
         "title": "\u2b50\ufe0f 2027 Intern - Research PhD Intern",
-        "date": "N/A",
-        "closed": "2026-11-11"
+        "date": "N/A"
       },
       {
         "title": "\u2b50\ufe0f 2027 Intern - Experience Researcher",
-        "date": "2026-11-11"
+        "date": "2026-11-11",
+        "closed": "2026-11-11"
       }
     ],
     "Databricks": [

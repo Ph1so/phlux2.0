@@ -12,7 +12,7 @@
 <p>
   <a href="https://ph1so.github.io/phlux2.0/"><img src="https://img.shields.io/badge/browse-internships-1f5fff?style=flat-square" alt="Browse internships"></a>
   <a href="https://github.com/Ph1so/phlux2.0/actions/workflows/job-scraper.yml"><img src="https://img.shields.io/github/actions/workflow/status/Ph1so/phlux2.0/job-scraper.yml?branch=main&style=flat-square&label=scraper" alt="Scraper status"></a>
-  <img src="https://img.shields.io/badge/roles_tracked-35.8k-475467?style=flat-square" alt="35,760 roles tracked">
+  <img src="https://img.shields.io/badge/roles_tracked-35.8k-475467?style=flat-square" alt="35,781 roles tracked">
 </p>
 
 <p><a href="https://ph1so.github.io/phlux2.0/"><b>Website</b></a> &nbsp;·&nbsp; <a href="listings/README.md"><b>All listings</b></a></p>
@@ -21,7 +21,7 @@
 
 ## Latest roles
 
-Showing the 627 most recent of 35,760 roles tracked across 288 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
+Showing the 637 most recent of 35,781 roles tracked across 288 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
 
 
 <table>
@@ -372,6 +372,146 @@ Showing the 627 most recent of 35,760 roles tracked across 288 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.pinterestcareers.com/jobs/?orderby=0&pagesize=20&page=1&radius=100&team=University#js-job-search-results"><img src="https://cdn.brandfetch.io/pinterest.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Pinterest" height="20" style="vertical-align:middle; margin-right:6px;"> Pinterest</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sr. Data Scientist, Performance Marketing</div></td>
+  <td>2026-11-11</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.pinterestcareers.com/jobs/?orderby=0&pagesize=20&page=1&radius=100&team=University#js-job-search-results"><img src="https://cdn.brandfetch.io/pinterest.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Pinterest" height="20" style="vertical-align:middle; margin-right:6px;"> Pinterest</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sr. Industry Manager, Travel</div></td>
+  <td>2026-11-11</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.pinterestcareers.com/jobs/?orderby=0&pagesize=20&page=1&radius=100&team=University#js-job-search-results"><img src="https://cdn.brandfetch.io/pinterest.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Pinterest" height="20" style="vertical-align:middle; margin-right:6px;"> Pinterest</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Director of Sales, Entertainment</div></td>
+  <td>2026-11-11</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.pinterestcareers.com/jobs/?orderby=0&pagesize=20&page=1&radius=100&team=University#js-job-search-results"><img src="https://cdn.brandfetch.io/pinterest.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Pinterest" height="20" style="vertical-align:middle; margin-right:6px;"> Pinterest</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Engineering Manager II, Runtime Services</div></td>
+  <td>2026-11-11</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.pinterestcareers.com/jobs/?orderby=0&pagesize=20&page=1&radius=100&team=University#js-job-search-results"><img src="https://cdn.brandfetch.io/pinterest.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Pinterest" height="20" style="vertical-align:middle; margin-right:6px;"> Pinterest</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Product Policy Lead, Ads</div></td>
+  <td>2026-11-11</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.pinterestcareers.com/jobs/?orderby=0&pagesize=20&page=1&radius=100&team=University#js-job-search-results"><img src="https://cdn.brandfetch.io/pinterest.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Pinterest" height="20" style="vertical-align:middle; margin-right:6px;"> Pinterest</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Lead Digital Producer</div></td>
+  <td>2026-11-11</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.pinterestcareers.com/jobs/?orderby=0&pagesize=20&page=1&radius=100&team=University#js-job-search-results"><img src="https://cdn.brandfetch.io/pinterest.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Pinterest" height="20" style="vertical-align:middle; margin-right:6px;"> Pinterest</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Motion Designer, PPM SMB</div></td>
+  <td>2026-11-11</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.pinterestcareers.com/jobs/?orderby=0&pagesize=20&page=1&radius=100&team=University#js-job-search-results"><img src="https://cdn.brandfetch.io/pinterest.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Pinterest" height="20" style="vertical-align:middle; margin-right:6px;"> Pinterest</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Qualitative Product Researcher, Ads Integrity</div></td>
+  <td>2026-11-11</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.pinterestcareers.com/jobs/?orderby=0&pagesize=20&page=1&radius=100&team=University#js-job-search-results"><img src="https://cdn.brandfetch.io/pinterest.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Pinterest" height="20" style="vertical-align:middle; margin-right:6px;"> Pinterest</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Retail Transformation Lead</div></td>
+  <td>2026-11-11</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.pinterestcareers.com/jobs/?orderby=0&pagesize=20&page=1&radius=100&team=University#js-job-search-results"><img src="https://cdn.brandfetch.io/pinterest.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Pinterest" height="20" style="vertical-align:middle; margin-right:6px;"> Pinterest</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Designer, PPM</div></td>
+  <td>2026-11-11</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.pinterestcareers.com/jobs/?orderby=0&pagesize=20&page=1&radius=100&team=University#js-job-search-results"><img src="https://cdn.brandfetch.io/pinterest.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Pinterest" height="20" style="vertical-align:middle; margin-right:6px;"> Pinterest</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Director, Machine Learning Engineering, Ads Measurement</div></td>
+  <td>2026-11-11</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.pinterestcareers.com/jobs/?orderby=0&pagesize=20&page=1&radius=100&team=University#js-job-search-results"><img src="https://cdn.brandfetch.io/pinterest.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Pinterest" height="20" style="vertical-align:middle; margin-right:6px;"> Pinterest</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sr. Client Account Manager, Luxury Fashion</div></td>
+  <td>2026-11-11</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.pinterestcareers.com/jobs/?orderby=0&pagesize=20&page=1&radius=100&team=University#js-job-search-results"><img src="https://cdn.brandfetch.io/pinterest.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Pinterest" height="20" style="vertical-align:middle; margin-right:6px;"> Pinterest</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sr. Manager, Ads Product Marketing- PerformanceAutomation</div></td>
+  <td>2026-11-11</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.pinterestcareers.com/jobs/?orderby=0&pagesize=20&page=1&radius=100&team=University#js-job-search-results"><img src="https://cdn.brandfetch.io/pinterest.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Pinterest" height="20" style="vertical-align:middle; margin-right:6px;"> Pinterest</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sr. Security Software Engineer, Security Operations</div></td>
+  <td>2026-11-11</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.pinterestcareers.com/jobs/?orderby=0&pagesize=20&page=1&radius=100&team=University#js-job-search-results"><img src="https://cdn.brandfetch.io/pinterest.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Pinterest" height="20" style="vertical-align:middle; margin-right:6px;"> Pinterest</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Machine Learning Engineer, Content Visual AI</div></td>
+  <td>2026-11-11</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.pinterestcareers.com/jobs/?orderby=0&pagesize=20&page=1&radius=100&team=University#js-job-search-results"><img src="https://cdn.brandfetch.io/pinterest.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Pinterest" height="20" style="vertical-align:middle; margin-right:6px;"> Pinterest</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Technical Program Manager II, Infrastructure (Capacity & Efficiency)</div></td>
+  <td>2026-11-11</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.pinterestcareers.com/jobs/?orderby=0&pagesize=20&page=1&radius=100&team=University#js-job-search-results"><img src="https://cdn.brandfetch.io/pinterest.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Pinterest" height="20" style="vertical-align:middle; margin-right:6px;"> Pinterest</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Product Manager, Content-to-Discovery Infrastructure</div></td>
+  <td>2026-11-11</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.pinterestcareers.com/jobs/?orderby=0&pagesize=20&page=1&radius=100&team=University#js-job-search-results"><img src="https://cdn.brandfetch.io/pinterest.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Pinterest" height="20" style="vertical-align:middle; margin-right:6px;"> Pinterest</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sr. Product Manager, Data and Signals Intelligence</div></td>
+  <td>2026-11-11</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.pinterestcareers.com/jobs/?orderby=0&pagesize=20&page=1&radius=100&team=University#js-job-search-results"><img src="https://cdn.brandfetch.io/pinterest.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Pinterest" height="20" style="vertical-align:middle; margin-right:6px;"> Pinterest</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Sr. Client Partner, Auto</div></td>
+  <td>2026-11-11</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.pinterestcareers.com/jobs/?orderby=0&pagesize=20&page=1&radius=100&team=University#js-job-search-results"><img src="https://cdn.brandfetch.io/pinterest.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Pinterest" height="20" style="vertical-align:middle; margin-right:6px;"> Pinterest</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Staff Product Manager, Measurement Partner Optimization</div></td>
+  <td>2026-11-11</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Product Management - Product Manager Intern 2027 - Lowell - Internship - LOWELL, US</div></td>
@@ -417,6 +557,13 @@ Showing the 627 most recent of 35,760 roles tracked across 288 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.cisco.com/global/en/search-results"><img src="https://cdn.brandfetch.io/cisco.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Cisco" height="20" style="vertical-align:middle; margin-right:6px;"> Cisco</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Software Engineer Embedded Systems I (Intern) - United States</div></td>
+  <td>2026-11-11</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.cisco.com/global/en/search-results"><img src="https://cdn.brandfetch.io/cisco.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Cisco" height="20" style="vertical-align:middle; margin-right:6px;"> Cisco</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Consulting Engineer I (Intern) - United States</div></td>
   <td>2026-11-11</td>
 </tr>
   <tr>
@@ -4344,83 +4491,6 @@ Showing the 627 most recent of 35,760 roles tracked across 288 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/woven-by-toyota"><img src="https://cdn.brandfetch.io/woven-city.global/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Woven by Toyota" height="20" style="vertical-align:middle; margin-right:6px;"> Woven by Toyota</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/woven-by-toyota/712c2cc3-0fd8-46ea-8bd6-2404ee829c4b">プロダクトマネジメントディレクター・Arene</a></div></td>
-  <td>2026-11-04</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/generalist"><img src="https://cdn.brandfetch.io/generalistai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Generalist AI" height="20" style="vertical-align:middle; margin-right:6px;"> Generalist AI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/generalist/88d48e83-127f-4035-a271-9592cef5402f">Forward Deployed Engineer</a></div></td>
-  <td>2026-11-04</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/generalist"><img src="https://cdn.brandfetch.io/generalistai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Generalist AI" height="20" style="vertical-align:middle; margin-right:6px;"> Generalist AI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/generalist/15b3d06b-ffa9-495a-b56f-d662c9be2b86">Forward Deployed Engineer</a></div></td>
-  <td>2026-11-04</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/genesis"><img src="https://cdn.brandfetch.io/genesis-ai.company/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Genesis AI" height="20" style="vertical-align:middle; margin-right:6px;"> Genesis AI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/genesis/eb5d25fa-5b2e-4b85-ac72-47eb36881439">Executive Assistant to Founders</a></div></td>
-  <td>2026-11-04</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/b282adce-cabe-462b-b9ef-8fa01c4c5b82">AI Deployment Manager (Korean-Speaking)</a></div></td>
-  <td>2026-11-04</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/c67d4a21-5677-4f93-8962-3ac618a6f6c2">AI Deployment Manager (Japanese-Speaking)</a></div></td>
-  <td>2026-11-04</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/f7dbbb26-4880-4cf1-bdf9-b8aefa3572cd">Portfolio Product Marketing Lead</a></div></td>
-  <td>2026-11-04</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/646bf721-c634-4863-ae3c-35e56701d9e0">Sales Manager, Startups \| New Business UK&I</a></div></td>
-  <td>2026-11-04</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/cf0516c9-5227-4d7c-a8e9-219a4ac52422">Head of Performance Marketing</a></div></td>
-  <td>2026-11-04</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/5f3a3325-bc3c-4f92-8456-f22add6fe52b">Industry & Experiential Marketing Lead, Ads</a></div></td>
-  <td>2026-11-04</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/c033c8a7-88bb-44d1-b299-2fd420be5f57">Content & Solutions Marketing Lead, Ads</a></div></td>
-  <td>2026-11-04</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/1790fe9e-2ac3-45df-894e-f731d243395f">AI Deployment Manager - Builder</a></div></td>
   <td>2026-11-04</td>
 </tr>
 
