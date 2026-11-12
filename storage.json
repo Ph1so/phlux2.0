@@ -2027,7 +2027,8 @@
         "date": "N/A",
         "id": "amazon:10593925",
         "url": "https://www.amazon.jobs/en/jobs/10593925/content-specialist-idc-cx-content-strategy-aws-marketing",
-        "location": "New York, NY"
+        "location": "New York, NY",
+        "closed": "2026-11-12"
       },
       {
         "title": "Software Development Engineer, Early Career - 2027 (US)",
@@ -3869,6 +3870,13 @@
         "id": "meta:2690374264750493",
         "url": "https://www.metacareers.com/profile/job_details/2690374264750493/",
         "location": "Menlo Park, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f UX Research Scientist Intern, Contextual AI (PhD)",
+        "date": "2026-11-12",
+        "id": "meta:1447131743482590",
+        "url": "https://www.metacareers.com/profile/job_details/1447131743482590/",
+        "location": "Redmond, WA"
       }
     ],
     "Apple": [
@@ -6953,6 +6961,14 @@
         "id": "greenhouse:8647897002",
         "url": "https://boards.greenhouse.io/spacex/jobs/8647897002?gh_jid=8647897002",
         "location": "Redmond, WA"
+      },
+      {
+        "title": "New Graduate Engineer, Aerospace Software (Starfall)",
+        "date": "2026-11-12",
+        "id": "greenhouse:8939697002",
+        "url": "https://boards.greenhouse.io/spacex/jobs/8939697002?gh_jid=8939697002",
+        "location": "Hawthorne, CA",
+        "early": "NEW GRADUATE ENGINEER, AEROSPACE SOFTWARE (STARFALL) As a Software Engineer on the Starfall Engineering organization, you will design and implement software and firmware for the next generation of avionics systems at S\u2026"
       }
     ],
     "Zipline": [
@@ -7948,7 +7964,8 @@
         "date": "N/A",
         "id": "greenhouse:4409345009",
         "url": "https://job-boards.greenhouse.io/kodiak/jobs/4409345009",
-        "location": "Mountain View, CA"
+        "location": "Mountain View, CA",
+        "closed": "2026-11-12"
       },
       {
         "title": "Staff, Hardware Electrical Engineer",
@@ -13459,7 +13476,8 @@
         "date": "N/A",
         "id": "greenhouse:6148969004",
         "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6148969004",
-        "location": "Remote"
+        "location": "Remote",
+        "closed": "2026-11-12"
       },
       {
         "title": "Senior Safety Software Engineer",
@@ -25321,6 +25339,13 @@
         "id": "greenhouse:8376286",
         "url": "https://nuro.ai/careersitem?gh_jid=8376286",
         "location": "Mountain View, California (HQ)"
+      },
+      {
+        "title": "Software Engineer, Performance",
+        "date": "2026-11-12",
+        "id": "greenhouse:6810051",
+        "url": "https://nuro.ai/careersitem?gh_jid=6810051",
+        "location": "Mountain View, California (HQ)"
       }
     ],
     "Aeva": [
@@ -29930,6 +29955,13 @@
         "id": "ashby:46bec65f-e57b-4aa5-b1b6-7c8cc19ac939",
         "url": "https://jobs.ashbyhq.com/scout-ai/46bec65f-e57b-4aa5-b1b6-7c8cc19ac939",
         "location": "Paso Robles, CA"
+      },
+      {
+        "title": "Senior Manager of Business Development",
+        "date": "2026-11-12",
+        "id": "ashby:68174db5-e077-4ab7-9b68-cbf6b230af15",
+        "url": "https://jobs.ashbyhq.com/scout-ai/68174db5-e077-4ab7-9b68-cbf6b230af15",
+        "location": "Remote"
       }
     ],
     "AeroVect": [
@@ -43210,6 +43242,13 @@
         "id": "ashby:e999e084-97ae-4f45-a810-36295e355573",
         "url": "https://jobs.ashbyhq.com/dyna-robotics/e999e084-97ae-4f45-a810-36295e355573",
         "location": "Redwood City, CA"
+      },
+      {
+        "title": "Senior Network and Systems Engineer",
+        "date": "2026-11-12",
+        "id": "ashby:be2f88d7-bcdf-4b24-9a53-92a93e38e744",
+        "url": "https://jobs.ashbyhq.com/dyna-robotics/be2f88d7-bcdf-4b24-9a53-92a93e38e744",
+        "location": "Redwood City, CA"
       }
     ],
     "Dexterity": [
@@ -45495,6 +45534,20 @@
         "id": "greenhouse:5282007007",
         "url": "https://job-boards.greenhouse.io/stackav/jobs/5282007007",
         "location": "Pittsburgh, PA"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Intern (PhD), Autonomy",
+        "date": "2026-11-12",
+        "id": "greenhouse:5287594007",
+        "url": "https://job-boards.greenhouse.io/stackav/jobs/5287594007",
+        "location": "Pittsburgh, PA or Remote (US)"
+      },
+      {
+        "title": "Senior Software Engineer, ML Platform",
+        "date": "2026-11-12",
+        "id": "greenhouse:5293676007",
+        "url": "https://job-boards.greenhouse.io/stackav/jobs/5293676007",
+        "location": "Pittsburgh, PA or Remote"
       }
     ],
     "Torc Robotics": [
@@ -48088,6 +48141,20 @@
         "id": "ashby:be1c4c0c-15fd-4a9a-914d-8150e9bc0514",
         "url": "https://jobs.ashbyhq.com/saronic/be1c4c0c-15fd-4a9a-914d-8150e9bc0514",
         "location": "Austin, TX"
+      },
+      {
+        "title": "Network Engineer",
+        "date": "2026-11-12",
+        "id": "ashby:757b12ba-28da-4662-ae46-7c9f299dba5b",
+        "url": "https://jobs.ashbyhq.com/saronic/757b12ba-28da-4662-ae46-7c9f299dba5b",
+        "location": "Austin, TX"
+      },
+      {
+        "title": "Network Administrator",
+        "date": "2026-11-12",
+        "id": "ashby:d9c5db3f-687c-42f5-92d0-7866feb4163b",
+        "url": "https://jobs.ashbyhq.com/saronic/d9c5db3f-687c-42f5-92d0-7866feb4163b",
+        "location": "Austin, TX"
       }
     ],
     "Built Robotics": [
@@ -49712,7 +49779,8 @@
         "date": "2026-10-14",
         "id": "ashby:75a445ee-3fb8-46df-9976-4f6727de3d8a",
         "url": "https://jobs.ashbyhq.com/hadrian-automation/75a445ee-3fb8-46df-9976-4f6727de3d8a",
-        "location": "Los Angeles, CA"
+        "location": "Los Angeles, CA",
+        "closed": "2026-11-12"
       },
       {
         "title": "Training Specialist, Welding",
@@ -59432,6 +59500,13 @@
         "id": "workday:JR00045531",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Houston-Texas-United-States-of-America/Project-Engineer_JR00045531",
         "location": "Houston, Texas, United States of America"
+      },
+      {
+        "title": "Local Business Line Manager Service Robotics",
+        "date": "2026-11-12",
+        "id": "workday:JR00052425",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MI-Auburn-Hills/Local-Business-Line-Manager-Service-Robotics_JR00052425",
+        "location": "USA, MI, Auburn Hills"
       }
     ],
     "Teradyne": [
@@ -69160,6 +69235,13 @@
         "id": "workday:R10260401",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Missouri-Saint-Charles/XMLNAME-2027-Wafer-Processing-Engineering-Internship---Saint-Charles-MO_R10260401",
         "location": "United States-Missouri-Saint Charles"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Systems Engineering Intern - Graduate Level - Plymouth MN",
+        "date": "2026-11-12",
+        "id": "workday:R10260431",
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/XMLNAME-2027-Systems-Engineering-Intern---Graduate-Level---Plymouth-MN_R10260431",
+        "location": "United States-Minnesota-Plymouth"
       }
     ],
     "OpenAI": [
@@ -76198,6 +76280,20 @@
         "id": "ashby:c8f41c4f-427b-4dee-a89f-6599126d0bad",
         "url": "https://jobs.ashbyhq.com/openai/c8f41c4f-427b-4dee-a89f-6599126d0bad",
         "location": "San Francisco +1"
+      },
+      {
+        "title": "Product Designer, Physical Engineering",
+        "date": "2026-11-12",
+        "id": "ashby:8e754a28-926e-40f9-b33d-6e2b838ef5dd",
+        "url": "https://jobs.ashbyhq.com/openai/8e754a28-926e-40f9-b33d-6e2b838ef5dd",
+        "location": "San Francisco"
+      },
+      {
+        "title": "Client Partner, Ads Solutions - Retail/E-Commerce",
+        "date": "2026-11-12",
+        "id": "ashby:c355b400-c2e7-4297-a842-1024d10b2aa3",
+        "url": "https://jobs.ashbyhq.com/openai/c355b400-c2e7-4297-a842-1024d10b2aa3",
+        "location": "San Francisco +1"
       }
     ],
     "John Deere": [
@@ -79348,8 +79444,7 @@
         "date": "N/A",
         "id": "eightfold:996477411704",
         "url": "https://lockheedmartin.eightfold.ai/careers/job/996477411704",
-        "location": "King of Prussia, PA",
-        "closed": "2026-11-12"
+        "location": "King of Prussia, PA"
       },
       {
         "title": "\u2b50\ufe0f Project Engineer (F-16) - Intern",
@@ -79364,6 +79459,20 @@
         "id": "eightfold:996477909687",
         "url": "https://lockheedmartin.eightfold.ai/careers/job/996477909687",
         "location": "Littleton, CO"
+      },
+      {
+        "title": "\u2b50\ufe0f Embedded Software Engineering Intern - Summer 2027",
+        "date": "2026-11-12",
+        "id": "eightfold:996477501085",
+        "url": "https://lockheedmartin.eightfold.ai/careers/job/996477501085",
+        "location": "Highlands Ranch, CO"
+      },
+      {
+        "title": "\u2b50\ufe0f Embedded Software Engineering Intern - Summer 2027",
+        "date": "2026-11-12",
+        "id": "eightfold:996477219222",
+        "url": "https://lockheedmartin.eightfold.ai/careers/job/996477219222",
+        "location": "Highlands Ranch, CO"
       }
     ],
     "Vecna Robotics": [
@@ -81370,7 +81479,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5385546008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385546008",
-        "location": "Remote-Friendly (Travel Required) | Canada"
+        "location": "Remote-Friendly (Travel Required) | Canada",
+        "closed": "2026-11-12"
       },
       {
         "title": "Compute Country Lead, Japan",
@@ -86192,6 +86302,13 @@
         "id": "greenhouse:5479135008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5479135008",
         "location": "San Francisco, CA | New York City, NY"
+      },
+      {
+        "title": "Staff Software Engineer, Support Technology",
+        "date": "2026-11-12",
+        "id": "greenhouse:5478876008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5478876008",
+        "location": "San Francisco, CA | New York City, NY | Seattle, WA"
       }
     ],
     "xAI": [
@@ -88656,7 +88773,8 @@
         "date": "2026-11-08",
         "id": "greenhouse:5288098007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5288098007",
-        "location": "Palo Alto, CA; Seattle, WA"
+        "location": "Palo Alto, CA; Seattle, WA",
+        "closed": "2026-11-12"
       },
       {
         "title": "Automation & Controls Engineer, Data Center Facilities",
@@ -89002,7 +89120,8 @@
         "date": "2026-10-27",
         "id": "ashby:9756df25-730d-4ef8-bcec-088f2d3a687f",
         "url": "https://jobs.ashbyhq.com/thinkingmachines/9756df25-730d-4ef8-bcec-088f2d3a687f",
-        "location": "San Francisco +1"
+        "location": "San Francisco +1",
+        "closed": "2026-11-12"
       },
       {
         "title": "Product Policy",
@@ -94536,6 +94655,20 @@
         "id": "ibm:129114",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=129114",
         "location": "Monroe"
+      },
+      {
+        "title": "Technical Support - Hardware and Software Products ELH - 2027",
+        "date": "2026-11-12",
+        "id": "ibm:129918",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=129918",
+        "location": "Poughkeepsie"
+      },
+      {
+        "title": "Entry Level IBM Z Engineering System Test Hardware Engineer - Poughkeepsie, NY - 2027",
+        "date": "2026-11-12",
+        "id": "ibm:137694",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=137694",
+        "location": "Poughkeepsie"
       }
     ],
     "Bank of America": [
@@ -106662,7 +106795,8 @@
         "date": "N/A",
         "id": "talentbrew:101906667360",
         "url": "https://www.capitalonecareers.com/job/mclean/mba-product-intern-summer-2027/31238/101906667360",
-        "location": "McLean, VA"
+        "location": "McLean, VA",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Current PhD, Applied Research Internship Program - Summer 2027",
@@ -109188,6 +109322,13 @@
       {
         "title": "\u2b50\ufe0f Software Engineer Intern",
         "date": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f AI Platform Engineer Intern",
+        "date": "2026-11-12",
+        "id": "jibe:30578",
+        "url": "https://careers.docusign.com/careers-home/jobs/30578",
+        "location": "San Francisco, CA"
       }
     ],
     "Konrad": [
@@ -110868,7 +111009,8 @@
         "date": "N/A",
         "id": "talentbrew:100378295536",
         "url": "https://jobs.boeing.com/job/wichita/boeing-wichita-summer-2027-internship-program-paid-manufacturing-engineering/185/100378295536",
-        "location": "Wichita, KS"
+        "location": "Wichita, KS",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Boeing - Wichita Summer 2027 Internship Program (Paid) - Supplier Quality Assurance & Compliance",
@@ -113455,7 +113597,8 @@
         "date": "N/A",
         "id": "pinpoint:508903",
         "url": "https://impulsespace.pinpointhq.com/en/postings/ecef433a-a3f2-46a7-aa2e-59874543ad05",
-        "location": "Redondo Beach, CA"
+        "location": "Redondo Beach, CA",
+        "closed": "2026-11-12"
       },
       {
         "title": "Senior Avionics Electrical Engineer - Electric Propulsion",
@@ -113841,6 +113984,13 @@
         "date": "N/A",
         "id": "pinpoint:606098",
         "url": "https://impulsespace.pinpointhq.com/en/postings/e2886c3e-f592-47ca-b0fd-773bfac37608",
+        "location": "Redondo Beach, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Manufacturing Engineering Intern (Summer 2027)",
+        "date": "2026-11-12",
+        "id": "pinpoint:565879",
+        "url": "https://impulsespace.pinpointhq.com/en/postings/db2664bb-d8ef-41fb-80d6-c19ac0215a34",
         "location": "Redondo Beach, CA"
       }
     ],
