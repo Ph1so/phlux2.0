@@ -27642,6 +27642,13 @@
         "id": "smartrecruiters:744000161100324",
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161100324",
         "location": "Londonderry, NH"
+      },
+      {
+        "title": "\u2b50\ufe0f AI Research Intern \u2013 Time Series Foundation Models",
+        "date": "2026-11-12",
+        "id": "smartrecruiters:744000161339309",
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161339309",
+        "location": "Sunnyvale, CA"
       }
     ],
     "Intrinsic": [
@@ -79184,6 +79191,13 @@
         "url": "https://lockheedmartin.eightfold.ai/careers/job/996477411704",
         "location": "King of Prussia, PA",
         "closed": "2026-11-12"
+      },
+      {
+        "title": "\u2b50\ufe0f Project Engineer (F-16) - Intern",
+        "date": "2026-11-12",
+        "id": "eightfold:996477457111",
+        "url": "https://lockheedmartin.eightfold.ai/careers/job/996477457111",
+        "location": "Fort Worth, TX"
       }
     ],
     "Vecna Robotics": [
@@ -79535,7 +79549,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:4371404009",
         "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4371404009",
-        "location": "Cambridge, MA USA; San Francisco, CA USA"
+        "location": "Cambridge, MA USA; San Francisco, CA USA",
+        "closed": "2026-11-12"
       },
       {
         "title": "Associate Director/Director, Commercial Counsel",
@@ -110640,7 +110655,8 @@
         "date": "N/A",
         "id": "talentbrew:100378295536",
         "url": "https://jobs.boeing.com/job/wichita/boeing-wichita-summer-2027-internship-program-paid-manufacturing-engineering/185/100378295536",
-        "location": "Wichita, KS"
+        "location": "Wichita, KS",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Boeing - Wichita Summer 2027 Internship Program (Paid) - Supplier Quality Assurance & Compliance",
