@@ -8565,7 +8565,8 @@
         "date": "2026-10-14",
         "id": "eightfold:446720740540",
         "url": "https://careers.qualcomm.com/careers/job/446720740540",
-        "location": "San Diego, CA"
+        "location": "San Diego, CA",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Automotive Engineering Internship \u2013 Summer 2027",
@@ -83640,7 +83641,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5149405007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5149405007",
-        "location": "Memphis, TN"
+        "location": "Memphis, TN",
+        "closed": "2026-11-11"
       },
       {
         "title": "Porter Supervisor - Memphis",
@@ -92985,6 +92987,10 @@
       },
       {
         "title": "\u2b50\ufe0f Chemical Engineer / Chemist Postdoctoral Intern",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "\u2b50\ufe0f Product Management Intern",
         "date": "2026-11-11"
       }
     ],
