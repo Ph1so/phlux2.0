@@ -12,7 +12,7 @@
 <p>
   <a href="https://ph1so.github.io/phlux2.0/"><img src="https://img.shields.io/badge/browse-internships-1f5fff?style=flat-square" alt="Browse internships"></a>
   <a href="https://github.com/Ph1so/phlux2.0/actions/workflows/job-scraper.yml"><img src="https://img.shields.io/github/actions/workflow/status/Ph1so/phlux2.0/job-scraper.yml?branch=main&style=flat-square&label=scraper" alt="Scraper status"></a>
-  <img src="https://img.shields.io/badge/roles_tracked-37.7k-475467?style=flat-square" alt="37,661 roles tracked">
+  <img src="https://img.shields.io/badge/roles_tracked-37.7k-475467?style=flat-square" alt="37,681 roles tracked">
 </p>
 
 <p><a href="https://ph1so.github.io/phlux2.0/"><b>Website</b></a> &nbsp;·&nbsp; <a href="listings/README.md"><b>All listings</b></a></p>
@@ -21,7 +21,7 @@
 
 ## Latest roles
 
-Showing the 659 most recent of 37,661 roles tracked across 295 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
+Showing the 658 most recent of 37,681 roles tracked across 295 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
 
 
 <table>
@@ -78,9 +78,23 @@ Showing the 659 most recent of 37,661 roles tracked across 295 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/motional"><img src="https://cdn.brandfetch.io/motional.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Motional" height="20" style="vertical-align:middle; margin-right:6px;"> Motional</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://motional.com/open-positions/?gh_jid=8202777003#/8202777003">Senior HR Business Partner</a></div></td>
+  <td>2026-11-12</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://recruiting.paylocity.com/recruiting/jobs/All/3a4d8744-ab51-41d9-a0cf-43de316c7dca/Beep-Inc"><img src="https://cdn.brandfetch.io/go-beep.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Beep" height="20" style="vertical-align:middle; margin-right:6px;"> Beep</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://recruiting.paylocity.com/Recruiting/Jobs/Details/4661220">Sr. Financial Analyst, Strategic Finance</a></div></td>
+  <td>2026-11-12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/aurora-operations-inc/"><img src="https://cdn.brandfetch.io/aurora.tech/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Aurora Innovation" height="20" style="vertical-align:middle; margin-right:6px;"> Aurora Innovation</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/aurora-operations-inc/98b2fec5-918d-460f-b0fb-121c71ecf7d4">Senior People Business Partner</a></div></td>
   <td>2026-11-12</td>
 </tr>
   <tr>
@@ -113,9 +127,23 @@ Showing the 659 most recent of 37,661 roles tracked across 295 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/zoox/d53c9355-98ca-4d28-a769-cd54e85ff025">Mechanical Engineer - Sensor Cleaning</a></div></td>
+  <td>2026-11-12</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/nuro"><img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nuro" height="20" style="vertical-align:middle; margin-right:6px;"> Nuro</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://nuro.ai/careersitem?gh_jid=6810051">Software Engineer, Performance</a></div></td>
+  <td>2026-11-12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/nuro"><img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nuro" height="20" style="vertical-align:middle; margin-right:6px;"> Nuro</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://nuro.ai/careersitem?gh_jid=8360415">Systems Engineering, New Grad 2027</a></div></td>
   <td>2026-11-12</td>
 </tr>
   <tr>
@@ -137,6 +165,27 @@ Showing the 659 most recent of 37,661 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/lyft"><img src="https://cdn.brandfetch.io/lyft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lyft" height="20" style="vertical-align:middle; margin-right:6px;"> Lyft</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://app.careerpuck.com/job-board/lyft/job/8938458002?gh_jid=8938458002">Senior Data Scientist, Autonomous Vehicles</a></div></td>
+  <td>2026-11-12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/lyft"><img src="https://cdn.brandfetch.io/lyft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lyft" height="20" style="vertical-align:middle; margin-right:6px;"> Lyft</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://app.careerpuck.com/job-board/lyft/job/8938627002?gh_jid=8938627002">Senior Account Executive, Transit & Healthcare</a></div></td>
+  <td>2026-11-12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/lyft"><img src="https://cdn.brandfetch.io/lyft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lyft" height="20" style="vertical-align:middle; margin-right:6px;"> Lyft</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://app.careerpuck.com/job-board/lyft/job/8938558002?gh_jid=8938558002">Senior Account Executive, Transit & Healthcare</a></div></td>
+  <td>2026-11-12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/applied/"><img src="https://cdn.brandfetch.io/appliedintuition.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Applied Intuition" height="20" style="vertical-align:middle; margin-right:6px;"> Applied Intuition</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/applied/e57d6415-b9d5-428e-8d13-a97c83249385">Finance & Accounting Program Manager</a></div></td>
   <td>2026-11-12</td>
 </tr>
   <tr>
@@ -200,6 +249,27 @@ Showing the 659 most recent of 37,661 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/saronic"><img src="https://cdn.brandfetch.io/saronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saronic" height="20" style="vertical-align:middle; margin-right:6px;"> Saronic</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/saronic/d9c5db3f-687c-42f5-92d0-7866feb4163b">Network Administrator</a></div></td>
+  <td>2026-11-12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/hadrian-automation"><img src="https://cdn.brandfetch.io/hadrian.io/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Hadrian" height="20" style="vertical-align:middle; margin-right:6px;"> Hadrian</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/hadrian-automation/f5d91808-1231-4c2e-94a1-1926116afa6b">Robotics Engineer, Additive Automation</a></div></td>
+  <td>2026-11-12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/hadrian-automation"><img src="https://cdn.brandfetch.io/hadrian.io/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Hadrian" height="20" style="vertical-align:middle; margin-right:6px;"> Hadrian</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/hadrian-automation/536321d0-70cd-4ffb-af14-6b552ab52bbb">Test Automation Engineer, Hardware-in-the-Loop</a></div></td>
+  <td>2026-11-12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/hadrian-automation"><img src="https://cdn.brandfetch.io/hadrian.io/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Hadrian" height="20" style="vertical-align:middle; margin-right:6px;"> Hadrian</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/hadrian-automation/4a746d49-5101-41c6-89a0-a2cbb44a2fca">Process Controls Engineer, Sensing & DAQ</a></div></td>
   <td>2026-11-12</td>
 </tr>
   <tr>
@@ -316,9 +386,37 @@ Showing the 659 most recent of 37,661 roles tracked across 295 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Mebane/Electrical-Engineering-Co-op--Summer-2027_JR00051091">⭐️ Electrical Engineering Co-op- Summer 2027</a></div></td>
+  <td>2026-11-12</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.teradyne.com/teradyne/search/?q=&locationsearch=United+States&sortColumn=referencedate&sortDirection=desc"><img src="https://cdn.brandfetch.io/teradyne.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Teradyne" height="20" style="vertical-align:middle; margin-right:6px;"> Teradyne</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.teradyne.com/Teradyne/job/North-Reading-Senior-Director%2C-Product-Quality-%28Compute-Test%2C-North-Reading%29-MA/1450196100/">Senior Director, Product Quality (Compute Test, North Reading)</a></div></td>
+  <td>2026-11-12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.teradyne.com/teradyne/search/?q=&locationsearch=United+States&sortColumn=referencedate&sortDirection=desc"><img src="https://cdn.brandfetch.io/teradyne.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Teradyne" height="20" style="vertical-align:middle; margin-right:6px;"> Teradyne</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.teradyne.com/Teradyne/job/Agoura-Hills-New-Product-Master-Scheduler-%28Teradyne%2C-Agoura-Hills-CA%29-CA-91301/1450346200/">New Product Master Scheduler (Teradyne, Agoura Hills CA)</a></div></td>
+  <td>2026-11-12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.teradyne.com/teradyne/search/?q=&locationsearch=United+States&sortColumn=referencedate&sortDirection=desc"><img src="https://cdn.brandfetch.io/teradyne.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Teradyne" height="20" style="vertical-align:middle; margin-right:6px;"> Teradyne</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.teradyne.com/Teradyne/job/North-Reading-New-Product-Master-Scheduler-%28Teradyne%2C-N_-Reading-MA%29-MA/1450343300/">New Product Master Scheduler (Teradyne, N. Reading MA)</a></div></td>
+  <td>2026-11-12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/humble-robotics"><img src="https://www.google.com/s2/favicons?domain=humblerobotics.ai&sz=128" alt="Humble Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Humble Robotics</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/humble-robotics/d69d730d-c201-4a31-9d5d-4d763dc003ae">Entry Lever Operator</a></div></td>
   <td>2026-11-12</td>
 </tr>
   <tr>
@@ -435,6 +533,13 @@ Showing the 659 most recent of 37,661 roles tracked across 295 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/fd5522f1-8e39-4d60-8b8a-34fae61104cb">Federal Account Director, Intelligence Community</a></div></td>
+  <td>2026-11-12</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.eu.lever.co/mobileye"><img src="https://cdn.brandfetch.io/mobileye.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mobileye" height="20" style="vertical-align:middle; margin-right:6px;"> Mobileye</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.eu.lever.co/mobileye/9ef5fd2f-54b4-4ddd-b7ac-2139d91abd88">Data Engineering Team Leader</a></div></td>
@@ -484,6 +589,13 @@ Showing the 659 most recent of 37,661 roles tracked across 295 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://lockheedmartin.eightfold.ai/careers?location=United%20States&levelOfExperience=Intern,Co-Op/Summer%20Intern&sort_by=timestamp"><img src="https://cdn.brandfetch.io/lockheedmartin.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lockheed Martin" height="20" style="vertical-align:middle; margin-right:6px;"> Lockheed Martin</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477911187">⭐️ Aerospace Engineer (Signature Management) - Intern</a></div></td>
+  <td>2026-11-12</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5479122008">Technical Program Manager, External Evaluators</a></div></td>
@@ -519,6 +631,13 @@ Showing the 659 most recent of 37,661 roles tracked across 295 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/pinterest?departments%5B%5D=71442"><img src="https://cdn.brandfetch.io/pinterest.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Pinterest" height="20" style="vertical-align:middle; margin-right:6px;"> Pinterest</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.pinterestcareers.com/jobs/?gh_jid=8214783">⭐️ Sales Analytics Intern 2027 (USA)</a></div></td>
+  <td>2026-11-12</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ibm.com/careers/JobDetail?jobId=129918">Technical Support - Hardware and Software Products ELH - 2027</a></div></td>
@@ -540,6 +659,20 @@ Showing the 659 most recent of 37,661 roles tracked across 295 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/cohere/"><img src="https://cdn.brandfetch.io/cohere.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Cohere" height="20" style="vertical-align:middle; margin-right:6px;"> Cohere</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/cohere/58c1bb1d-2a19-42af-84e2-e6d276591ef6">Content Strategist</a></div></td>
+  <td>2026-11-12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/cohere/"><img src="https://cdn.brandfetch.io/cohere.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Cohere" height="20" style="vertical-align:middle; margin-right:6px;"> Cohere</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/cohere/36135ef8-0064-4445-88aa-6ab31ac03a33">Content Editor</a></div></td>
+  <td>2026-11-12</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.atlassian.com/company/careers/all-jobs?team=Interns&location=&search="><img src="https://cdn.brandfetch.io/atlassian.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Atlassian" height="20" style="vertical-align:middle; margin-right:6px;"> Atlassian</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.atlassian.com/company/careers/details/26246">AI Researcher (PhD), 2027 Graduate U.S.</a></div></td>
@@ -550,6 +683,13 @@ Showing the 659 most recent of 37,661 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://lifeattiktok.com/search?recruitment_id_list=202%2C301&job_category_id_list=&subject_id_list=7459985269216905480%2C7459988146945116434%2C7602165694751705397%2C7602166391986194741%2C7602165701485299973%2C7602165694713678133&location_code_list=CT_247%2CCT_94%2CCT_243%2CCT_104%2CCT_114%2CCT_75%2CCT_1103355%2CCT_157%2CCT_233&limit=12&offset=0"><img src="https://cdn.brandfetch.io/tiktok.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="TikTok" height="20" style="vertical-align:middle; margin-right:6px;"> TikTok</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://lifeattiktok.com/search/7704696088079010053">⭐️ Software Engineer - Intern (TikTok Search) - 2027 Start</a></div></td>
+  <td>2026-11-12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ea.com/en_US/careers/Home/?8171=%5B10618%5D&8171_format=5683&4537=%5B8693%5D&4537_format=3020&listFilterMode=1&jobRecordsPerPage=20&"><img src="https://cdn.brandfetch.io/ea.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="EA" height="20" style="vertical-align:middle; margin-right:6px;"> EA</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ea.com/en_US/careers/JobDetail/MBA-Intern-Platform-Strategy-Summer-2027/216515">⭐️ MBA Intern, Platform Strategy (Summer 2027)</a></div></td>
   <td>2026-11-12</td>
 </tr>
   <tr>
@@ -606,6 +746,20 @@ Showing the 659 most recent of 37,661 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.tsmc.com/en_US/careers/SearchJobs/?542=13100&542_format=486&listFilterMode=1&jobRecordsPerPage=100&"><img src="https://cdn.brandfetch.io/tsmc.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="TSMC" height="20" style="vertical-align:middle; margin-right:6px;"> TSMC</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Legal Intern</div></td>
+  <td>2026-11-12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.tsmc.com/en_US/careers/SearchJobs/?542=13100&542_format=486&listFilterMode=1&jobRecordsPerPage=100&"><img src="https://cdn.brandfetch.io/tsmc.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="TSMC" height="20" style="vertical-align:middle; margin-right:6px;"> TSMC</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Design and Technology Platform (DTP) Intern</div></td>
+  <td>2026-11-12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://bostonscientific.eightfold.ai/careers?start=0&location=United+States&pid=563602797912246&sort_by=distance&filter_include_remote=1&filter_seniority=Intern"><img src="https://cdn.brandfetch.io/bostonscientific.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boston Scientific" height="20" style="vertical-align:middle; margin-right:6px;"> Boston Scientific</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://bostonscientific.eightfold.ai/careers/job/563602813674227">⭐️ Endoscopy Commercial Strategy & Excellence Intern 2027</a></div></td>
   <td>2026-11-12</td>
 </tr>
   <tr>
@@ -669,6 +823,13 @@ Showing the 659 most recent of 37,661 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://impulsespace.pinpointhq.com/"><img src="https://cdn.brandfetch.io/impulsespace.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Impulse Space" height="20" style="vertical-align:middle; margin-right:6px;"> Impulse Space</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://impulsespace.pinpointhq.com/en/postings/db2664bb-d8ef-41fb-80d6-c19ac0215a34">⭐️ Manufacturing Engineering Intern (Summer 2027)</a></div></td>
+  <td>2026-11-12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://impulsespace.pinpointhq.com/"><img src="https://cdn.brandfetch.io/impulsespace.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Impulse Space" height="20" style="vertical-align:middle; margin-right:6px;"> Impulse Space</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://impulsespace.pinpointhq.com/en/postings/2b03cd5d-4a58-48a0-81f4-ea8c8c7bcd2a">⭐️ RF Test Engineering Intern (Summer 2027)</a></div></td>
   <td>2026-11-12</td>
 </tr>
   <tr>
@@ -4477,174 +4638,6 @@ Showing the 659 most recent of 37,661 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.rivian.com/careers-home/jobs?sortBy=relevance&page=1&limit=100&categories=Internships%20%26%20Early%20Career"><img src="https://cdn.brandfetch.io/rivian.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Rivian" height="20" style="vertical-align:middle; margin-right:6px;"> Rivian</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.rivian.com/careers-home/jobs/35898">⭐️ UIUC Research Park Intern - Computation Methods, Thermal Analysis</a></div></td>
-  <td>2026-11-06</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.rivian.com/careers-home/jobs?sortBy=relevance&page=1&limit=100&categories=Internships%20%26%20Early%20Career"><img src="https://cdn.brandfetch.io/rivian.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Rivian" height="20" style="vertical-align:middle; margin-right:6px;"> Rivian</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.rivian.com/careers-home/jobs/35896">⭐️ UIUC Research Park Intern - ML AI Motor Controls Algorithm</a></div></td>
-  <td>2026-11-06</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/skydio"><img src="https://cdn.brandfetch.io/skydio.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Skydio" height="20" style="vertical-align:middle; margin-right:6px;"> Skydio</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/skydio/1f3826bd-12da-41c5-a8ad-7b4efc9483b1">⭐️ UX Product Design Intern - Winter 2027</a></div></td>
-  <td>2026-11-06</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/tri/?commitment=Intern"><img src="https://cdn.brandfetch.io/tri.global/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Toyota Research Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Toyota Research Insitute</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/tri/e1ed2b1f-d345-4e7c-b963-76195369538d">⭐️ Robotics Intern, World Action Models for Robot Policy</a></div></td>
-  <td>2026-11-06</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.merl.com/employment/internship-openings"><img src="https://cdn.brandfetch.io/mitsubishielectric.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mitsubishi Electric Research Laboratories" height="20" style="vertical-align:middle; margin-right:6px;"> Mitsubishi Electric Research Laboratories</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.merl.com/employment/internship-openings#ST0348">⭐️ ST0348: Internship - AI-Aided Fluid Modeling and Engineering Design</a></div></td>
-  <td>2026-11-06</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.merl.com/employment/internship-openings"><img src="https://cdn.brandfetch.io/mitsubishielectric.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mitsubishi Electric Research Laboratories" height="20" style="vertical-align:middle; margin-right:6px;"> Mitsubishi Electric Research Laboratories</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.merl.com/employment/internship-openings#ST0347">⭐️ ST0347: Internship - Radar/Sensor Reasoning Models</a></div></td>
-  <td>2026-11-06</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tesla.com/careers/search/?type=intern&site=US"><img src="https://cdn.brandfetch.io/tesla.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tesla" height="20" style="vertical-align:middle; margin-right:6px;"> Tesla</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.tesla.com/careers/search/job/internship-software-engineer-si-reinforcement-learning-winter-spring-2027-289240">⭐️ Internship, Software Engineer, SI Reinforcement Learning (Winter/Spring 2027)</a></div></td>
-  <td>2026-11-06</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tesla.com/careers/search/?type=intern&site=US"><img src="https://cdn.brandfetch.io/tesla.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tesla" height="20" style="vertical-align:middle; margin-right:6px;"> Tesla</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.tesla.com/careers/search/job/internship-software-engineer-inference-infrastructure-summer-2027-289254">⭐️ Internship, Software Engineer, Inference Infrastructure (Summer 2027)</a></div></td>
-  <td>2026-11-06</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.tesla.com/careers/search/?type=intern&site=US"><img src="https://cdn.brandfetch.io/tesla.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tesla" height="20" style="vertical-align:middle; margin-right:6px;"> Tesla</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.tesla.com/careers/search/job/internship-software-engineer-si-reinforcement-learning-summer-2027-289241">⭐️ Internship, Software Engineer, SI Reinforcement Learning (Summer 2027)</a></div></td>
-  <td>2026-11-06</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://api.smartrecruiters.com/v1/companies/Intuitive/postings?country=us&custom_field.61211d107c9ac71cd5f99177=fcd8045c-1621-41d9-8992-5dc498d4875e&custom_field.612118931fa63c295566925f=EMP2"><img src="https://cdn.brandfetch.io/intuitivesurgical.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Intuitive Surgical" height="20" style="vertical-align:middle; margin-right:6px;"> Intuitive Surgical</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.smartrecruiters.com/Intuitive/744000160306349">⭐️ Marketing Events Intern</a></div></td>
-  <td>2026-11-06</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.greyorange.com/company/careers/#th-job-section"><img src="https://cdn.brandfetch.io/greyorange.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="GreyOrange" height="20" style="vertical-align:middle; margin-right:6px;"> GreyOrange</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.greyorange.com/greyorange/jobview/software-development-engineer-ii-gurugram-hq-2026110514104045">Software Development Engineer II</a></div></td>
-  <td>2026-11-06</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.greyorange.com/company/careers/#th-job-section"><img src="https://cdn.brandfetch.io/greyorange.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="GreyOrange" height="20" style="vertical-align:middle; margin-right:6px;"> GreyOrange</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.greyorange.com/greyorange/jobview/technial-program-manager-i-gurugram-hq-2026092512355732">Technial Program Manager - I</a></div></td>
-  <td>2026-11-06</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM?Location_Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=81219c91208501029134b6999c1b05d6"><img src="https://cdn.brandfetch.io/gm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="General Motors" height="20" style="vertical-align:middle; margin-right:6px;"> General Motors</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Manufacturing-Engineering-Rotational-Program_JR-202623777">Entry-Level Manufacturing Engineering Rotational Program</a></div></td>
-  <td>2026-11-06</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM?Location_Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=81219c91208501029134b6999c1b05d6"><img src="https://cdn.brandfetch.io/gm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="General Motors" height="20" style="vertical-align:middle; margin-right:6px;"> General Motors</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Mainframe-Systems-Engineer_JR-202623745">Entry Level Mainframe Systems Engineer</a></div></td>
-  <td>2026-11-06</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/locusrobotics"><img src="https://cdn.brandfetch.io/locusrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Locus Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Locus Robotics</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/locusrobotics/jobs/5259931007">Applied AI Scientist, Simulation & Reinforcement Learning</a></div></td>
-  <td>2026-11-06</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/locusrobotics"><img src="https://cdn.brandfetch.io/locusrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Locus Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Locus Robotics</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/locusrobotics/jobs/5271052007">Customer Success Manager</a></div></td>
-  <td>2026-11-06</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/motional"><img src="https://cdn.brandfetch.io/motional.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Motional" height="20" style="vertical-align:middle; margin-right:6px;"> Motional</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://motional.com/open-positions/?gh_jid=8197883003#/8197883003">Principal Product Manager</a></div></td>
-  <td>2026-11-06</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=apptronik"><img src="https://cdn.brandfetch.io/apptronik.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Apptronik" height="20" style="vertical-align:middle; margin-right:6px;"> Apptronik</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://boards.greenhouse.io/apptronik/jobs/6251384004?gh_jid=6251384004">Staff Software Engineer, ML</a></div></td>
-  <td>2026-11-06</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=apptronik"><img src="https://cdn.brandfetch.io/apptronik.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Apptronik" height="20" style="vertical-align:middle; margin-right:6px;"> Apptronik</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://boards.greenhouse.io/apptronik/jobs/6204959004?gh_jid=6204959004">Senior Industrial Designer</a></div></td>
-  <td>2026-11-06</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/maymobility/"><img src="https://cdn.brandfetch.io/maymobility.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="May Mobility" height="20" style="vertical-align:middle; margin-right:6px;"> May Mobility</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/maymobility/jobs/8922412002">Field Autonomy Applications Engineer</a></div></td>
-  <td>2026-11-06</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/zoox/cf38cf65-d821-402d-819b-cb9c89194513">Senior Electrical Harness Engineer</a></div></td>
-  <td>2026-11-06</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/zoox/9e5326f4-d879-465f-8118-4584b1ba6018">Senior/Staff Technical Program Manager - Automation & Scaling</a></div></td>
-  <td>2026-11-06</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97">⭐️ Data Science Intern [Summer 2027]</a></div></td>
-  <td>2026-11-06</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/zoox/fbc2a7a6-b916-4f3f-b825-a4b3d5d60852">⭐️ Process Improvement Intern [2027]</a></div></td>
-  <td>2026-11-06</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/zoox/affbfa7d-30c5-4639-aa56-2ba138200bd8">⭐️ Program Manager, Infrastructure Operations Intern [Summer 2027]</a></div></td>
   <td>2026-11-06</td>
 </tr>
 
