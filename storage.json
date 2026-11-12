@@ -32637,6 +32637,14 @@
       {
         "title": "Software Engineer, Identity",
         "date": "N/A"
+      },
+      {
+        "title": "Engineering Manager, Quality & Developer Experience - LUS",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "Gestionnaire en ing\u00e9nierie, Qualit\u00e9 et exp\u00e9rience d\u00e9veloppeur - LUS",
+        "date": "2026-11-11"
       }
     ],
     "Glydways": [
@@ -85154,21 +85162,24 @@
         "date": "2026-11-05",
         "id": "ashby:39d630ce-af8d-404c-a7eb-cbaac2f96b24",
         "url": "https://jobs.ashbyhq.com/thinkingmachines/39d630ce-af8d-404c-a7eb-cbaac2f96b24",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-11"
       },
       {
         "title": "Technical Recruiter: Security",
         "date": "2026-11-05",
         "id": "ashby:fa72912b-78b7-40ae-8a54-c2a524675f2c",
         "url": "https://jobs.ashbyhq.com/thinkingmachines/fa72912b-78b7-40ae-8a54-c2a524675f2c",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-11"
       },
       {
         "title": "Product Management Recruiter",
         "date": "2026-11-05",
         "id": "ashby:3d90697c-362e-4b6e-8600-e1d39115c6cd",
         "url": "https://jobs.ashbyhq.com/thinkingmachines/3d90697c-362e-4b6e-8600-e1d39115c6cd",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-11"
       },
       {
         "title": "Business Recruiter",
