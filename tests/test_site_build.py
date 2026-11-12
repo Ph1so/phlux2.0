@@ -97,6 +97,19 @@ class TestBuildPayload:
         assert acme["health"]["status"] == "ok"
         assert quant["health"] == {"status": "stale", "since": None, "detail": "never checked"}
 
+    def test_robotics_tab_is_the_company_list_not_the_tags(self):
+        storage = {"companies": {}}
+        companies = [Company("Acme", "https://jobs.lever.co/acme", "@lever"),
+                     Company("Quant Co", "https://jobs.lever.co/quant", "@lever")]
+        industries = {"Acme": {"robotics_tier": "adjacent", "robotics_segment": "space_hardware"},
+                      "Quant Co": {"sector": "quant_finance", "robotics_tier": "none", "robotics_segment": ""}}
+        acme, quant = build_payload(storage, companies, {}, industries, {}, datetime(2026, 11, 1),
+                                    listed=["Quant Co"])["companies"]
+        assert acme["robotics"] is False and quant["robotics"] is True
+        # The segment picker still groups by the tags.
+        assert acme["roboticsSegment"] is True and quant["roboticsSegment"] is False
+        assert (acme["segment"], quant["segment"]) == ("space_hardware", "quant_finance")
+
     def test_postings_are_rows_of_the_listed_fields(self):
         payload = self.payload()
         assert payload["cycle"] == 2027

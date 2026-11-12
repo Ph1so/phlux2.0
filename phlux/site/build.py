@@ -34,7 +34,7 @@ from phlux.analytics.dataset import load_industries
 from phlux.analytics.sources import STORAGE
 from phlux.analytics.titles import is_engineering_role, is_senior_title, parse_title
 from phlux.health import find_issues, status
-from phlux.lists import REPO_ROOT, scraped_companies
+from phlux.lists import REPO_ROOT, listed_companies, scraped_companies
 from phlux.models import Company
 from phlux.scraping import CHECKED_KEY, NA_DATE
 from phlux.utils import board_link
@@ -233,6 +233,7 @@ def build_payload(
     history: Iterable[SeasonRow] = (),
     gazetteer: Optional[Gazetteer] = None,
     state_paths: Optional[Dict[str, str]] = None,
+    listed: Optional[Iterable[str]] = None,
 ) -> Dict[str, Any]:
     """Assemble everything the page shows.
 
@@ -248,8 +249,12 @@ def build_payload(
         gazetteer: Town lookup for placing postings on the map; without it
             (or *state_paths*) the page has no map.
         state_paths: Each state's outline, from :func:`phlux.site.geo.load_states`.
+        listed: The ``COMPANY_LIST`` companies' names: the Robotics tab shows
+            these and no others. Without a list, it goes by the
+            ``industries.csv`` robotics tags.
     """
     today = now.date()
+    listed = set(listed) if listed is not None else None
     stored = storage.get("companies", {})
     checked = storage.get(CHECKED_KEY, {})
     issues = {i.company: i for i in find_issues(storage, [c.name for c in companies], today)}
@@ -258,12 +263,17 @@ def build_payload(
         tags = industries.get(company.name, {})
         tier = tags.get("robotics_tier", "core")
         fc = forecasts.get(company.name)
+        tagged = tier in ROBOTICS_TIERS
         company_rows.append({
             "name": company.name,
             # Robotics companies by segment (humanoids, warehouse…), the rest
             # by sector (big tech, quant…), so either tab can be narrowed.
-            "segment": tags.get("robotics_segment", "") if tier in ROBOTICS_TIERS else tags.get("sector", ""),
-            "robotics": tier in ROBOTICS_TIERS,
+            "segment": tags.get("robotics_segment", "") if tagged else tags.get("sector", ""),
+            # Whether the segment is a robotics one, for grouping the segment picker.
+            "roboticsSegment": tagged,
+            # On the Robotics tab: the alert list's companies, the same ones the
+            # usual emails cover.
+            "robotics": company.name in listed if listed is not None else tagged,
             "careers": board_link(company.link),
             "icon": icons.get(company.name, ""),
             "checked": checked.get(company.name, ""),
@@ -339,15 +349,17 @@ def build_site(out_dir: Path, now: Optional[datetime] = None, document: bool = T
     """Write ``index.html`` for every company the bot scrapes into *out_dir* and return its path.
 
     That's every company while anyone is on ``all_internships_bcc``; the page's
-    Robotics tab narrows it to those ``industries.csv`` tags as robotics.
+    Robotics tab narrows it to the ``COMPANY_LIST`` companies.
     """
     now = now or datetime.now(EASTERN)
     storage = json.loads(storage_path.read_text(encoding="utf-8"))
     companies = scraped_companies()
+    listed = listed_companies()
     icons = {c.name: logos.data_uri(c.name) for c in companies}
     forecasts, history = load_history([c.name for c in companies], now.date())
     payload = build_payload(storage, companies, forecasts, load_industries(), icons, now, history,
-                            Gazetteer(geo.load_places()), geo.load_states())
+                            Gazetteer(geo.load_places()), geo.load_states(),
+                            listed=[c.name for c in listed] if listed is not None else None)
     out_dir.mkdir(parents=True, exist_ok=True)
     path = out_dir / "index.html"
     path.write_text(render(payload, TEMPLATE.read_text(encoding="utf-8"), document), encoding="utf-8")

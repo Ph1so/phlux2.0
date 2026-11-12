@@ -1743,12 +1743,11 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
     }, 150);
   });
 
-  // Each segment picker lists the segments in the current tab: robotics
-  // segments on Robotics, those and the other sectors on All companies. A
-  // choice the tab doesn't have is cleared. On All companies the two kinds
-  // are grouped.
+  // Each segment picker lists the segments in the current tab. A choice the
+  // tab doesn't have is cleared. When a tab has both robotics segments and
+  // other sectors, the two kinds are grouped.
   var roboticsSegment = {};
-  companies.forEach(function (c) { if (c.robotics) roboticsSegment[c.segment] = true; });
+  companies.forEach(function (c) { if (c.roboticsSegment) roboticsSegment[c.segment] = true; });
   function fillSegments() {
     function fill(id, values, s) {
       var pick = $(id);

@@ -262,3 +262,13 @@ def scraped_companies(csv_path: Path | str = REPO_ROOT / "companies.csv") -> Lis
                                 everything=bool(load_email_config()["all_internships_bcc"]))
     return list({c.name: c for c in companies}.values())
 
+
+def listed_companies(csv_path: Path | str = REPO_ROOT / "companies.csv") -> List[Company] | None:
+    """The ``COMPANY_LIST`` companies, once each, or ``None`` when no list is configured."""
+    from .config import load_company_list_setting
+
+    setting = load_company_list_setting()
+    if not setting:
+        return None
+    return list({c.name: c for c in select_companies(load_companies(csv_path), setting)}.values())
+
