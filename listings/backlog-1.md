@@ -1,6 +1,6 @@
 # Already open when this season began (part 1)
 
-[← All listings](README.md) · 1052 roles
+[← All listings](README.md) · 1060 roles
 
 | Company | Role | Date Found |
 | --- | --- | --- |
@@ -1056,6 +1056,14 @@
 | <img src="https://cdn.brandfetch.io/aeva.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Aeva][c39] | [Product Inventory Specialist (6-month Contract)](<https://jobs.lever.co/aeva/49da097b-9318-4ee2-b40c-9190ad87671a>) | N/A |
 | <img src="https://cdn.brandfetch.io/aeva.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Aeva][c39] | [Program Operations Manager](<https://jobs.lever.co/aeva/f8171466-39ec-4a9a-ba41-7465098b760a>) | N/A |
 | <img src="https://cdn.brandfetch.io/aeva.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Aeva][c39] | [Senior Embedded Controls Engineer – Scanning Systems](<https://jobs.lever.co/aeva/288aa800-56ed-4538-9f2b-ec7d50dbf932>) | N/A |
+| <img src="https://cdn.brandfetch.io/aeva.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Aeva][c39] | [Senior Embedded Software Engineer - Bangalore, India](<https://jobs.lever.co/aeva/511bda52-6282-46a0-a06c-79785669e6e0>) | N/A |
+| <img src="https://cdn.brandfetch.io/aeva.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Aeva][c39] | [Senior LiDAR Algorithms Engineer](<https://jobs.lever.co/aeva/1084b26f-5c62-4ba5-8e0d-c1888471959c>) | N/A |
+| <img src="https://cdn.brandfetch.io/aeva.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Aeva][c39] | [Senior Manager of Business Development](<https://jobs.lever.co/aeva/4c45fe5c-aad3-4e5a-9e51-f2d9ed15b540>) | N/A |
+| <img src="https://cdn.brandfetch.io/aeva.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Aeva][c39] | [Senior Manager, Global Supply Management](<https://jobs.lever.co/aeva/26cb9892-6ccb-4c14-9877-98cbbf0f8876>) | N/A |
+| <img src="https://cdn.brandfetch.io/aeva.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Aeva][c39] | [Senior Opto Mechanical Design Engineer](<https://jobs.lever.co/aeva/bc2e0c03-fb9f-4bb9-ade0-ddfe30fa1a9f>) | N/A |
+| <img src="https://cdn.brandfetch.io/aeva.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Aeva][c39] | [Senior Perception Engineer](<https://jobs.lever.co/aeva/982d5437-86da-4026-a02f-a92aa6219912>) | N/A |
+| <img src="https://cdn.brandfetch.io/aeva.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Aeva][c39] | [Senior Perception Engineer - Bangalore, India](<https://jobs.lever.co/aeva/142f731c-7de5-4978-8d64-33e1132f5570>) | N/A |
+| <img src="https://cdn.brandfetch.io/aeva.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Aeva][c39] | [Senior State Estimation and Calibration Engineer - Mountain View, CA](<https://jobs.lever.co/aeva/58bf82b8-d19f-46c6-b807-b4497a437d51>) | N/A |
 
 [c0]: https://www.google.com/about/careers/applications/jobs/results/?category=DATA_CENTER_OPERATIONS&category=DEVELOPER_RELATIONS&category=HARDWARE_ENGINEERING&category=INFORMATION_TECHNOLOGY&category=MANUFACTURING_SUPPLY_CHAIN&category=NETWORK_ENGINEERING&category=PRODUCT_MANAGEMENT&category=PROGRAM_MANAGEMENT&category=SOFTWARE_ENGINEERING&category=TECHNICAL_INFRASTRUCTURE_ENGINEERING&category=TECHNICAL_SOLUTIONS&category=TECHNICAL_WRITING&category=USER_EXPERIENCE&jex=ENTRY_LEVEL&src=Online%2FGoogle%20Website%2FByF&employment_type=INTERN&employment_type=FULL_TIME&employment_type=PART_TIME&employment_type=TEMPORARY&location=United%20States
 [c1]: https://www.amazon.jobs/en/search?base_query=intern&country%5B%5D=USA&sort=recent

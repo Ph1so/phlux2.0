@@ -1,9 +1,22 @@
 # Already open when this season began (part 4)
 
-[← All listings](README.md) · 1052 roles
+[← All listings](README.md) · 1060 roles
 
 | Company | Role | Date Found |
 | --- | --- | --- |
+| <img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [IBM][c0] | [⭐️ Intern Data Engineer - Data Services - 2027](<https://careers.ibm.com/careers/JobDetail?jobId=128824>) | N/A |
+| <img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [IBM][c0] | [⭐️ Global Sales Incentives – Sales Plan Design, Segmentation & Analytics Intern 2027](<https://careers.ibm.com/careers/JobDetail?jobId=129911>) | N/A |
+| <img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [IBM][c0] | [⭐️ AI Software Engineer Spring Co-op 2027](<https://careers.ibm.com/careers/JobDetail?jobId=137269>) | N/A |
+| <img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [IBM][c0] | [⭐️ AI-Native Security Research Intern 2027](<https://careers.ibm.com/careers/JobDetail?jobId=132704>) | N/A |
+| <img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [IBM][c0] | [⭐️ QA/Test Developer Intern: Systems Assurance - Poughkeepsie, NY - 2027](<https://careers.ibm.com/careers/JobDetail?jobId=130758>) | N/A |
+| <img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [IBM][c0] | [Mainframe Z System Verification Tester Apprentice](<https://careers.ibm.com/careers/JobDetail?jobId=137080>) | N/A |
+| <img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [IBM][c0] | [⭐️ Strategy Consultant Intern 2027 – Enterprise Application Integration (EAI)](<https://careers.ibm.com/careers/JobDetail?jobId=128717>) | N/A |
+| <img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [IBM][c0] | [⭐️ Co-Op Developer – Adobe 2027](<https://careers.ibm.com/careers/JobDetail?jobId=128711>) | N/A |
+| <img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [IBM][c0] | [⭐️ Quantum Runtime Framework Intern 2027](<https://careers.ibm.com/careers/JobDetail?jobId=133669>) | N/A |
+| <img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [IBM][c0] | [⭐️ Back End Developer Intern - NY POK RK - 2027](<https://careers.ibm.com/careers/JobDetail?jobId=137098>) | N/A |
+| <img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [IBM][c0] | [⭐️ Intern Security Consultant - Cyber Strategy & Risk 2027](<https://careers.ibm.com/careers/JobDetail?jobId=128551>) | N/A |
+| <img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [IBM][c0] | [⭐️ Intern Application Developer 2027 – DPE](<https://careers.ibm.com/careers/JobDetail?jobId=128825>) | N/A |
+| <img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [IBM][c0] | [⭐️ Quantum Algorithms Engineer Intern 2027](<https://careers.ibm.com/careers/JobDetail?jobId=133789>) | N/A |
 | <img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [IBM][c0] | [⭐️ Technical Specialist - General Professional (Intern, 2027)](<https://careers.ibm.com/careers/JobDetail?jobId=135171>) | N/A |
 | <img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [IBM][c0] | [⭐️ Intern Data Engineer - Data Services - 2027](<https://careers.ibm.com/careers/JobDetail?jobId=128823>) | N/A |
 | <img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [IBM][c0] | [⭐️ Compliance SW Developer Intern: Systems Assurance - Poughkeepsie, NY - 2027](<https://careers.ibm.com/careers/JobDetail?jobId=130759>) | N/A |
@@ -1051,11 +1064,6 @@
 | <img src="https://cdn.brandfetch.io/bytedance.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [ByteDance][c21] | [Production System Engineer Graduate (Server Management) - 2027 Start](<https://joinbytedance.com/search/7667619321477515573>) | N/A |
 | <img src="https://cdn.brandfetch.io/bytedance.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [ByteDance][c21] | [GPU Application Platform Engineer Graduate (Server Research and Development) - 2027 Start (PhD)](<https://joinbytedance.com/search/7668473918173284661>) | N/A |
 | <img src="https://cdn.brandfetch.io/bytedance.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [ByteDance][c21] | [Infrastructure Delivery Engineer Graduate (Server Delivery) - 2027 Start](<https://joinbytedance.com/search/7669854602477684997>) | N/A |
-| <img src="https://cdn.brandfetch.io/bytedance.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [ByteDance][c21] | [Multi-Cloud CDN Scheduling Platform Engineer Graduate (CDN Platform) - 2027 Start](<https://joinbytedance.com/search/7670355132899526965>) | N/A |
-| <img src="https://cdn.brandfetch.io/bytedance.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [ByteDance][c21] | [Large Language Model Inference System Engineer Graduate (Applied Machine Learning) - 2027 Start](<https://joinbytedance.com/search/7667726338627356933>) | N/A |
-| <img src="https://cdn.brandfetch.io/bytedance.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [ByteDance][c21] | [Visual Generation & Multimodal Evaluation Machine Learning Engineer Graduate (AML-Ark-US) - 2027 Start](<https://joinbytedance.com/search/7671102043532462389>) | N/A |
-| <img src="https://cdn.brandfetch.io/bytedance.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [ByteDance][c21] | [Research Scientist Graduate (Seed Model - Vision - Generative AI) - 2026 Start (PhD)](<https://joinbytedance.com/search/7671030761623177477>) | N/A |
-| <img src="https://cdn.brandfetch.io/bytedance.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [ByteDance][c21] | [3D Graphics Innovation Engineer Graduate (PICO Foundation-Developer Technology) - 2027 Start](<https://joinbytedance.com/search/7667926830305528117>) | N/A |
 
 [c0]: https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States
 [c1]: https://careers.bankofamerica.com/en-us/students/job-search?ref=search&rows=24&search=jobsByLocation&searchstring=United+States

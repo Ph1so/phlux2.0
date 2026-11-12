@@ -1,9 +1,14 @@
 # Already open when this season began (part 5)
 
-[← All listings](README.md) · 1052 roles
+[← All listings](README.md) · 1057 roles
 
 | Company | Role | Date Found |
 | --- | --- | --- |
+| <img src="https://cdn.brandfetch.io/bytedance.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [ByteDance][c0] | [Multi-Cloud CDN Scheduling Platform Engineer Graduate (CDN Platform) - 2027 Start](<https://joinbytedance.com/search/7670355132899526965>) | N/A |
+| <img src="https://cdn.brandfetch.io/bytedance.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [ByteDance][c0] | [Large Language Model Inference System Engineer Graduate (Applied Machine Learning) - 2027 Start](<https://joinbytedance.com/search/7667726338627356933>) | N/A |
+| <img src="https://cdn.brandfetch.io/bytedance.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [ByteDance][c0] | [Visual Generation & Multimodal Evaluation Machine Learning Engineer Graduate (AML-Ark-US) - 2027 Start](<https://joinbytedance.com/search/7671102043532462389>) | N/A |
+| <img src="https://cdn.brandfetch.io/bytedance.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [ByteDance][c0] | [Research Scientist Graduate (Seed Model - Vision - Generative AI) - 2026 Start (PhD)](<https://joinbytedance.com/search/7671030761623177477>) | N/A |
+| <img src="https://cdn.brandfetch.io/bytedance.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [ByteDance][c0] | [3D Graphics Innovation Engineer Graduate (PICO Foundation-Developer Technology) - 2027 Start](<https://joinbytedance.com/search/7667926830305528117>) | N/A |
 | <img src="https://cdn.brandfetch.io/bytedance.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [ByteDance][c0] | [Research Scientist Graduate (Seed Model - Speech) - 2027 Start](<https://joinbytedance.com/search/7623548379708197125>) | N/A |
 | <img src="https://cdn.brandfetch.io/bytedance.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [ByteDance][c0] | [Research Scientist - Driven Agent Self-Evolution - Global Frontier Tech Recruitment Program - 2027 Start (PhD)](<https://joinbytedance.com/search/7629847900210399493>) | N/A |
 | <img src="https://cdn.brandfetch.io/bytedance.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [ByteDance][c0] | [Talent Acquisition Specialist Graduate (Data) - 2027 Start](<https://joinbytedance.com/search/7668507242945825077>) | N/A |
@@ -443,8 +448,8 @@
 | <img src="https://cdn.brandfetch.io/notion.so/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Notion][c22] | [Software Engineer, Growth (Early Career)](<https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f>) | N/A |
 | <img src="https://cdn.brandfetch.io/notion.so/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Notion][c22] | [Notino Experience Program Manager - EMEA & APAC, Early Career](<https://jobs.ashbyhq.com/notion/9c2e6e72-6dc0-496c-a705-32d441fa04c7>) | N/A |
 | <img src="https://cdn.brandfetch.io/notion.so/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Notion][c22] | [Software Engineer, New Grad (Dec 2026)](<https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816>) | N/A |
-| <img src="https://cdn.brandfetch.io/huggingface.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Hugging Face][c23] | Senior Open-Source Python Engineer, ML Developer Tools - EMEA Remote | N/A |
-| <img src="https://cdn.brandfetch.io/huggingface.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Hugging Face][c23] | Senior Open-Source Python Engineer, ML Developer Tools - US Remote | N/A |
+| <img src="https://cdn.brandfetch.io/huggingface.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Hugging Face][c23] | [Senior Open-Source Python Engineer, ML Developer Tools - EMEA Remote](<https://apply.workable.com/huggingface/j/DB4D7C0EC8/>) | N/A |
+| <img src="https://cdn.brandfetch.io/huggingface.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Hugging Face][c23] | [Senior Open-Source Python Engineer, ML Developer Tools - US Remote](<https://apply.workable.com/huggingface/j/F88446C814/>) | N/A |
 | <img src="https://cdn.brandfetch.io/genesistherapeutics.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Genesis Therapeutics][c24] | [ML Research Engineer, Foundation Models (Senior / Staff / Principal)](<https://jobs.ashbyhq.com/genesis-molecular-ai/fbca4380-dc17-4b90-acf3-cf4b105cbc0d>) | N/A |
 | <img src="https://cdn.brandfetch.io/genesistherapeutics.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Genesis Therapeutics][c24] | [Applied ML Scientist (Staff / Principal)](<https://jobs.ashbyhq.com/genesis-molecular-ai/b239a6b5-40f2-41fd-93e6-3b7ca2c7eac7>) | N/A |
 | <img src="https://cdn.brandfetch.io/genesistherapeutics.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Genesis Therapeutics][c24] | [ML Research Scientist, Foundation Models (Senior / Staff / Principal)](<https://jobs.ashbyhq.com/genesis-molecular-ai/c1c47745-4e5c-4e0e-9d71-16d7ea28895a>) | N/A |
