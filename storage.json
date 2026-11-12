@@ -6158,7 +6158,8 @@
         "date": "2026-10-13",
         "id": "jibe:33603",
         "url": "https://careers.rivian.com/careers-home/jobs/33603",
-        "location": "Torrance, CA"
+        "location": "Torrance, CA",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Intern - Enterprise Applications (Spring 2027 Co-Op)",
@@ -8452,8 +8453,7 @@
         "date": "2026-10-09",
         "id": "eightfold:446720740649",
         "url": "https://careers.qualcomm.com/careers/job/446720740649",
-        "location": "San Diego, CA +4",
-        "closed": "2026-11-11"
+        "location": "San Diego, CA +4"
       },
       {
         "title": "\u2b50\ufe0f RF/Analog Design/Mixed-Signal Engineering Internship \u2013 Summer 2027",
@@ -8530,16 +8530,14 @@
         "date": "2026-10-13",
         "id": "eightfold:446720740637",
         "url": "https://careers.qualcomm.com/careers/job/446720740637",
-        "location": "San Diego, CA +3",
-        "closed": "2026-11-11"
+        "location": "San Diego, CA +3"
       },
       {
         "title": "\u2b50\ufe0f Multimedia Engineering Internship \u2013 Summer 2027",
         "date": "2026-10-13",
         "id": "eightfold:446720740640",
         "url": "https://careers.qualcomm.com/careers/job/446720740640",
-        "location": "San Diego, CA +1",
-        "closed": "2026-11-11"
+        "location": "San Diego, CA +1"
       },
       {
         "title": "\u2b50\ufe0f Machine Learning & Artificial Intelligence Engineering Internship \u2013 Summer 2027",
@@ -50419,7 +50417,8 @@
         "date": "2026-10-14",
         "id": "rippling:3d7c6886-a607-4602-99fc-6ebb4965378d",
         "url": "https://ats.rippling.com/overland-ai/jobs/3d7c6886-a607-4602-99fc-6ebb4965378d",
-        "location": "Seattle, WA"
+        "location": "Seattle, WA",
+        "closed": "2026-11-11"
       },
       {
         "title": "Accounting Manager",
