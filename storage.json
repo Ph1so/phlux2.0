@@ -895,7 +895,8 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557021663",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557021663",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Product Management Intern - CTJ - TS",
@@ -1143,7 +1144,8 @@
         "date": "2026-10-30",
         "id": "eightfold:1970393557051409",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557051409",
-        "location": "United States, Washington, Redmond +1"
+        "location": "United States, Washington, Redmond +1",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
@@ -1157,7 +1159,8 @@
         "date": "2026-11-02",
         "id": "eightfold:1970393557043712",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557043712",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Explore Program Engineering Internship Opportunities: First-Year Students, Redmond",
@@ -31636,14 +31639,16 @@
         "date": "N/A",
         "id": "greenhouse:8860849002",
         "url": "https://app.careerpuck.com/job-board/lyft/job/8860849002?gh_jid=8860849002",
-        "location": "Montreal, Canada"
+        "location": "Montreal, Canada",
+        "closed": "2026-11-12"
       },
       {
         "title": "Asset Planning Analyst",
         "date": "N/A",
         "id": "greenhouse:8860781002",
         "url": "https://app.careerpuck.com/job-board/lyft/job/8860781002?gh_jid=8860781002",
-        "location": "Montreal, Canada"
+        "location": "Montreal, Canada",
+        "closed": "2026-11-12"
       },
       {
         "title": "Sr. Manager, GTM Strategy & Sales Packaging",
@@ -54089,8 +54094,7 @@
         "date": "2026-10-15",
         "id": "workday:R8084",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Remote--Travel/Integration-Specialist_R8084",
-        "location": "USA Remote & Travel",
-        "closed": "2026-11-12"
+        "location": "USA Remote & Travel"
       },
       {
         "title": "Maintenance Supervisor",
@@ -59289,6 +59293,13 @@
         "id": "workday:JR00039556",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Houston-Texas-United-States-of-America/Senior-Lead-Electrical-Engineer_JR00039556",
         "location": "Houston, Texas, United States of America"
+      },
+      {
+        "title": "Sales Specialist \u2013 Continuous Gas Analyzer / CEMS",
+        "date": "2026-11-12",
+        "id": "workday:JR00052814",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Texas-USA/Sales-Specialist---Continuous-Gas-Analyzer---CEMS_JR00052814",
+        "location": "5 Locations"
       }
     ],
     "Teradyne": [
@@ -89540,7 +89551,8 @@
         "date": "2026-10-27",
         "id": "workday:JR101530",
         "url": "https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Louisville-Kentucky/Warehouse-Associate--Wraps-_JR101530",
-        "location": "Louisville, Kentucky"
+        "location": "Louisville, Kentucky",
+        "closed": "2026-11-12"
       },
       {
         "title": "Production Control SAP Manager",
@@ -111011,6 +111023,13 @@
         "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/New-York-New-York/Summer-2027-Digital-Marketing-Internship_REQ381325",
         "location": "New York, New York",
         "closed": "2026-11-12"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Data Product Internship",
+        "date": "2026-11-12",
+        "id": "workday:REQ381212",
+        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Data-Product-Internship_REQ381212",
+        "location": "Bellevue, Washington"
       }
     ],
     "Akuna Capital": [
