@@ -902,7 +902,8 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557021663",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557021663",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Product Management Intern - CTJ - TS",
@@ -1224,8 +1225,7 @@
         "date": "2026-11-04",
         "id": "eightfold:1970393557054069",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-12"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - AI & Human Systems",
@@ -13507,8 +13507,7 @@
         "date": "N/A",
         "id": "greenhouse:6148969004",
         "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6148969004",
-        "location": "Remote",
-        "closed": "2026-11-12"
+        "location": "Remote"
       },
       {
         "title": "Senior Safety Software Engineer",
@@ -13925,7 +13924,8 @@
         "date": "2026-10-13",
         "id": "teamio:2001421082",
         "url": "https://brightpick.ai/careers/?r=detail&id=2001421082",
-        "location": "La Vergne, TN"
+        "location": "La Vergne, TN",
+        "closed": "2026-11-12"
       },
       {
         "title": "Technical Account Manager",
@@ -15682,7 +15682,8 @@
         "date": "N/A",
         "id": "greenhouse:7789999003",
         "url": "https://motional.com/open-positions/?gh_jid=7789999003#/7789999003",
-        "location": "Boston, Massachusetts, United States; Pittsburgh, Pennsylvania, United States; Remote U.S."
+        "location": "Boston, Massachusetts, United States; Pittsburgh, Pennsylvania, United States; Remote U.S.",
+        "closed": "2026-11-12"
       },
       {
         "title": "Senior Onboard Vehicle Network Engineer",
@@ -23038,7 +23039,8 @@
         "date": "N/A",
         "id": "lever:5e3b9230-064e-4d68-aaf6-04862186b0ce",
         "url": "https://jobs.lever.co/zoox/5e3b9230-064e-4d68-aaf6-04862186b0ce",
-        "location": "Phoenix, AZ"
+        "location": "Phoenix, AZ",
+        "closed": "2026-11-12"
       },
       {
         "title": "Technical Program Manager - Body & Closures",
@@ -26003,6 +26005,13 @@
         "id": "lever:4018ed48-617c-443e-8b2e-25339a79346a",
         "url": "https://jobs.lever.co/aeva/4018ed48-617c-443e-8b2e-25339a79346a",
         "location": "Mountain View, CA"
+      },
+      {
+        "title": "Senior Manager of Business Development - Japan",
+        "date": "2026-11-12",
+        "id": "lever:6172f57d-135b-4b4d-a6b9-2351dedaa636",
+        "url": "https://jobs.lever.co/aeva/6172f57d-135b-4b4d-a6b9-2351dedaa636",
+        "location": "Japan"
       }
     ],
     "Bosch": [
@@ -31695,7 +31704,8 @@
         "date": "N/A",
         "id": "greenhouse:5217795007",
         "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5217795007",
-        "location": "Torrance, California, United States"
+        "location": "Torrance, California, United States",
+        "closed": "2026-11-12"
       },
       {
         "title": "Senior Electrical Engineer II, Design Assurance",
@@ -32055,7 +32065,8 @@
         "date": "N/A",
         "id": "greenhouse:8839156002",
         "url": "https://app.careerpuck.com/job-board/lyft/job/8839156002?gh_jid=8839156002",
-        "location": "San Francisco, CA"
+        "location": "San Francisco, CA",
+        "closed": "2026-11-12"
       },
       {
         "title": "Firmware Engineer, LUS",
@@ -45900,7 +45911,8 @@
         "date": "2026-10-14",
         "id": "greenhouse:8790834002",
         "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8790834002",
-        "location": "Remote - US, Ann Arbor, MI"
+        "location": "Remote - US, Ann Arbor, MI",
+        "closed": "2026-11-12"
       },
       {
         "title": "Office Manager I",
@@ -73781,7 +73793,8 @@
         "date": "2026-10-22",
         "id": "ashby:e602cd50-002d-4ace-bb30-19db0afcf635",
         "url": "https://jobs.ashbyhq.com/openai/e602cd50-002d-4ace-bb30-19db0afcf635",
-        "location": "San Francisco +2"
+        "location": "San Francisco +2",
+        "closed": "2026-11-12"
       },
       {
         "title": "Data Center Infrastructure Engineering Program Manager (Network and Whitespace)",
@@ -75120,7 +75133,8 @@
         "date": "2026-10-22",
         "id": "ashby:099374c6-3cbb-4964-9a1d-31e6e5b5dcd2",
         "url": "https://jobs.ashbyhq.com/openai/099374c6-3cbb-4964-9a1d-31e6e5b5dcd2",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-12"
       },
       {
         "title": "Senior Manager, Occupancy Planning & Workplace Strategy",
@@ -75571,8 +75585,7 @@
         "date": "2026-10-28",
         "id": "ashby:5a4a52a0-2eee-4cde-8b9f-320ebff572a4",
         "url": "https://jobs.ashbyhq.com/openai/5a4a52a0-2eee-4cde-8b9f-320ebff572a4",
-        "location": "San Francisco",
-        "closed": "2026-11-06"
+        "location": "San Francisco"
       },
       {
         "title": "Research Engineer / Research Scientist, Human Flourishing",
@@ -76257,14 +76270,16 @@
         "date": "2026-11-06",
         "id": "ashby:554a6565-0c9a-42e8-8f6f-a22ba23f336b",
         "url": "https://jobs.ashbyhq.com/openai/554a6565-0c9a-42e8-8f6f-a22ba23f336b",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-12"
       },
       {
         "title": "Mechanical Engineer, Power Generation",
         "date": "2026-11-06",
         "id": "ashby:015de5ce-8210-418d-abc6-f8b8712f0dbd",
         "url": "https://jobs.ashbyhq.com/openai/015de5ce-8210-418d-abc6-f8b8712f0dbd",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-12"
       },
       {
         "title": "Applied AI Engineer, Enterprise - EDU",
@@ -76278,7 +76293,8 @@
         "date": "2026-11-06",
         "id": "ashby:94d44e8c-987f-4350-bb13-5a855be957db",
         "url": "https://jobs.ashbyhq.com/openai/94d44e8c-987f-4350-bb13-5a855be957db",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-12"
       },
       {
         "title": "GTM Strategy & Planning",
@@ -76693,6 +76709,13 @@
         "id": "ashby:680833a1-01e4-4689-917c-71a4f00ff86c",
         "url": "https://jobs.ashbyhq.com/openai/680833a1-01e4-4689-917c-71a4f00ff86c",
         "location": "San Francisco"
+      },
+      {
+        "title": "Partner Director, EY North America",
+        "date": "2026-11-12",
+        "id": "ashby:fcfc366b-354d-4604-9fc3-ede92e531a61",
+        "url": "https://jobs.ashbyhq.com/openai/fcfc366b-354d-4604-9fc3-ede92e531a61",
+        "location": "New York City +1"
       }
     ],
     "John Deere": [
@@ -82871,7 +82894,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5267707008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5267707008",
-        "location": "San Francisco, CA"
+        "location": "San Francisco, CA",
+        "closed": "2026-11-12"
       },
       {
         "title": "Growth Account Executive, AI Native",
@@ -86760,6 +86784,13 @@
         "id": "greenhouse:5478799008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5478799008",
         "location": "San Francisco, CA | New York City, NY | Seattle, WA"
+      },
+      {
+        "title": "Customer Marketing Lead, Startups",
+        "date": "2026-11-12",
+        "id": "greenhouse:5477150008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5477150008",
+        "location": "San Francisco, CA | New York City, NY"
       }
     ],
     "xAI": [
@@ -93744,7 +93775,8 @@
         "date": "N/A",
         "id": "ibm:130049",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=130049",
-        "location": "Poughkeepsie"
+        "location": "Poughkeepsie",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Silicon Technology Research and Development Research Scientist Intern - 2027",
@@ -95152,6 +95184,13 @@
         "id": "ibm:136982",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=136982",
         "location": "Rochester"
+      },
+      {
+        "title": "\u2b50\ufe0f IBM Z Engineering System Test QA/Test Developer Intern - Poughkeepsie, NY - 2027",
+        "date": "2026-11-12",
+        "id": "ibm:129927",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=129927",
+        "location": "Poughkeepsie"
       }
     ],
     "Bank of America": [
@@ -101932,7 +101971,8 @@
         "date": "N/A",
         "id": "bytedance:7537163899668531474",
         "url": "https://joinbytedance.com/search/7537163899668531474",
-        "location": "Seattle, WA"
+        "location": "Seattle, WA",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f AI Infrastructure Engineer Intern (Compute Efficiency & Scheduling) - 2027 Summer",
@@ -102275,7 +102315,8 @@
         "date": "N/A",
         "id": "bytedance:7537164763424606482",
         "url": "https://joinbytedance.com/search/7537164763424606482",
-        "location": "San Jose, CA"
+        "location": "San Jose, CA",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist - Intern (Video and Edge, Multimedia Lab) - 2027 Start",
@@ -111551,7 +111592,8 @@
         "date": "N/A",
         "id": "talentbrew:100378295536",
         "url": "https://jobs.boeing.com/job/wichita/boeing-wichita-summer-2027-internship-program-paid-manufacturing-engineering/185/100378295536",
-        "location": "Wichita, KS"
+        "location": "Wichita, KS",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Boeing - Wichita Summer 2027 Internship Program (Paid) - Supplier Quality Assurance & Compliance",
