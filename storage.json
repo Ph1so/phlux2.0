@@ -776,6 +776,13 @@
         "id": "eightfold:790315673635",
         "url": "https://explore.jobs.netflix.net/careers/job/790315673635",
         "location": "Los Gatos, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Strategy MBA Internship, Summer 2027",
+        "date": "2026-11-12",
+        "id": "eightfold:790319427586",
+        "url": "https://explore.jobs.netflix.net/careers/job/790319427586",
+        "location": "Los Angeles, CA"
       }
     ],
     "Uber": [
@@ -4923,15 +4930,18 @@
         "date": "N/A",
         "id": "lever:3db7e40a-28e0-4ad1-96c5-93de5bc96aa9",
         "url": "https://jobs.lever.co/palantir/3db7e40a-28e0-4ad1-96c5-93de5bc96aa9",
-        "location": "Washington, D.C."
+        "location": "Washington, D.C.",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Forward Deployed Infrastructure Engineer, Internship - US Government",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Forward Deployed Infrastructure Engineer, Internship - US Government",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Forward Deployed Software Engineer, Internship",
@@ -8781,6 +8791,13 @@
         "id": "lever:e01def2d-0ee0-4f24-bf38-0b52a8047ea7",
         "url": "https://jobs.lever.co/tri/e01def2d-0ee0-4f24-bf38-0b52a8047ea7",
         "location": "Los Altos, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Robotics Intern, Prototyping and Research Operations",
+        "date": "2026-11-12",
+        "id": "lever:4f1efb39-385b-4ff9-8e82-1459a6b22628",
+        "url": "https://jobs.lever.co/tri/4f1efb39-385b-4ff9-8e82-1459a6b22628",
+        "location": "Cambridge, MA"
       }
     ],
     "Mitsubishi Electric Research Laboratories": [
@@ -12430,8 +12447,7 @@
         "date": "2026-10-12",
         "id": "workday:JR-202621747",
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Connected-Vehicle-Systems_JR-202621747",
-        "location": "Warren, Michigan, United States of America",
-        "closed": "2026-11-12"
+        "location": "Warren, Michigan, United States of America"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Intern - Research and Development - Smart Manufacturing Systems",
@@ -13541,7 +13557,8 @@
         "date": "2026-10-15",
         "id": "greenhouse:6222793004",
         "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6222793004",
-        "location": "Onsite- Salem, OR"
+        "location": "Onsite- Salem, OR",
+        "closed": "2026-11-12"
       },
       {
         "title": "Senior Supply Planner - Raw Components",
@@ -13563,7 +13580,8 @@
         "date": "2026-10-16",
         "id": "greenhouse:6225720004",
         "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6225720004",
-        "location": "Remote"
+        "location": "Remote",
+        "closed": "2026-11-12"
       },
       {
         "title": "Mechanical Engineer II",
@@ -15775,7 +15793,8 @@
         "date": "N/A",
         "id": "greenhouse:7759318003",
         "url": "https://motional.com/open-positions/?gh_jid=7759318003#/7759318003",
-        "location": "Boston, Massachusetts, United States; Remote U.S."
+        "location": "Boston, Massachusetts, United States; Remote U.S.",
+        "closed": "2026-11-12"
       },
       {
         "title": "Sr. QA Automation Test Engineer",
@@ -22933,7 +22952,8 @@
         "title": "Team Lead, Readiness & Response",
         "date": "N/A",
         "id": "lever:0a46e434-d154-4ac1-8d56-1c75481b3e4b",
-        "closed": "N/A"
+        "url": "https://jobs.lever.co/zoox/c82ee292-da57-4801-ab41-7a8daf78ff65",
+        "location": "Atlanta, GA"
       },
       {
         "title": "Team Lead, Vehicle Operations (1st Shift)",
@@ -23335,6 +23355,34 @@
         "id": "lever:05935821-98c8-4882-8b53-6f00c48e0b64",
         "url": "https://jobs.lever.co/zoox/05935821-98c8-4882-8b53-6f00c48e0b64",
         "location": "Fremont, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Contract Student Worker \u2013 Firmware Engineer (FW Core System Services)",
+        "date": "2026-11-12",
+        "id": "lever:54be0f19-9a45-466d-89bc-bc72dd3f9d68",
+        "url": "https://jobs.lever.co/zoox/54be0f19-9a45-466d-89bc-bc72dd3f9d68",
+        "location": "Foster City, CA +2"
+      },
+      {
+        "title": "\u2b50\ufe0f Contract Student Worker - Machine Learning Engineer",
+        "date": "2026-11-12",
+        "id": "lever:79cd1de5-c540-4917-8820-960f65fb8f9e",
+        "url": "https://jobs.lever.co/zoox/79cd1de5-c540-4917-8820-960f65fb8f9e",
+        "location": "Boston, MA +3"
+      },
+      {
+        "title": "\u2b50\ufe0f Contract Student Worker - Software Engineer (20/hrs week)",
+        "date": "2026-11-12",
+        "id": "lever:116fa648-0397-47b5-a7ab-08d7f96594b3",
+        "url": "https://jobs.lever.co/zoox/116fa648-0397-47b5-a7ab-08d7f96594b3",
+        "location": "Foster City, CA"
+      },
+      {
+        "title": "Senior Software Engineer - Autonomy Safety Metric",
+        "date": "2026-11-12",
+        "id": "lever:536c5019-daa9-45c2-985e-32ba0ef32289",
+        "url": "https://jobs.lever.co/zoox/536c5019-daa9-45c2-985e-32ba0ef32289",
+        "location": "Foster City, CA"
       }
     ],
     "Pony.ai": [
@@ -27440,7 +27488,8 @@
         "date": "2026-10-22",
         "id": "smartrecruiters:744000146546262",
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000146546262",
-        "location": "Farmington Hills, MI"
+        "location": "Farmington Hills, MI",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Intern (8 months/40hrs per week)",
@@ -40026,7 +40075,8 @@
         "date": "N/A",
         "id": "ashby:a1b6e0c7-1d1e-437d-957c-c82146f90bf3",
         "url": "https://jobs.ashbyhq.com/humanoid/a1b6e0c7-1d1e-437d-957c-c82146f90bf3",
-        "location": "UK, London"
+        "location": "UK, London",
+        "closed": "2026-11-12"
       },
       {
         "title": "Validation Engineer II",
@@ -46645,7 +46695,8 @@
         "date": "2026-10-14",
         "id": "ashby:8a7a12ca-9d53-4242-9c9e-f5d1d37bc83f",
         "url": "https://jobs.ashbyhq.com/saronic/8a7a12ca-9d53-4242-9c9e-f5d1d37bc83f",
-        "location": "Franklin, LA"
+        "location": "Franklin, LA",
+        "closed": "2026-11-12"
       },
       {
         "title": "Material Expeditor",
@@ -51776,7 +51827,8 @@
         "date": "2026-10-14",
         "id": "workday:R572824-1",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Flower-Mound-Texas/Summer-2027-Internship---RA-QA---Quality-Assurance---Texas_R572824-1",
-        "location": "Flower Mound, Texas"
+        "location": "Flower Mound, Texas",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - RA/QA - Post Market Regulatory Affairs - Virtual",
@@ -54964,7 +55016,8 @@
         "date": "2026-11-10",
         "id": "workday:R8467",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Manchester-PA/Automation-Maintenance-Technician_R8467",
-        "location": "USA Manchester, PA"
+        "location": "USA Manchester, PA",
+        "closed": "2026-11-12"
       },
       {
         "title": "Senior Software Systems Engineer",
@@ -56804,7 +56857,8 @@
         "date": "N/A",
         "id": "workday:JR00049299",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-AR-Jonesboro/XMLNAME-2nd-Shift-CNC-Set-up-Operator--RussellStoll-_JR00049299",
-        "location": "USA, AR, Jonesboro"
+        "location": "USA, AR, Jonesboro",
+        "closed": "2026-11-12"
       },
       {
         "title": "Electrical Test Technician",
@@ -59357,6 +59411,27 @@
         "id": "workday:JR00053407",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MS--Columbus-Home-Office/CNC-Machining-Operator_JR00053407",
         "location": "USA, MS, Columbus, Home Office"
+      },
+      {
+        "title": "Plate Line Operator",
+        "date": "2026-11-12",
+        "id": "workday:JR00053190-2",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Ormond-Beach-Florida-United-States-of-America/Plate-Line-Operator_JR00053190-2",
+        "location": "Ormond Beach, Florida, United States of America"
+      },
+      {
+        "title": "VFD Technical Support Specialist",
+        "date": "2026-11-12",
+        "id": "workday:JR00043867",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/New-Berlin-Wisconsin-United-States-of-America/VFD-Support-Specialist_JR00043867",
+        "location": "50 Locations"
+      },
+      {
+        "title": "Project Engineer",
+        "date": "2026-11-12",
+        "id": "workday:JR00045531",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Houston-Texas-United-States-of-America/Project-Engineer_JR00045531",
+        "location": "Houston, Texas, United States of America"
       }
     ],
     "Teradyne": [
@@ -68076,7 +68151,8 @@
         "title": "\u2b50\ufe0f 2027 Summer Corporate Internship - Human Resources",
         "date": "2026-10-22",
         "id": "workday:R0000380177",
-        "closed": "N/A"
+        "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Human-Resources_R0000380177",
+        "location": "4 Locations"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Corporate Intern - Communications",
@@ -76094,6 +76170,34 @@
         "id": "ashby:4197587e-c0d0-46e4-b86a-25a87d22b056",
         "url": "https://jobs.ashbyhq.com/openai/4197587e-c0d0-46e4-b86a-25a87d22b056",
         "location": "London, UK"
+      },
+      {
+        "title": "Security Incident Response Team Manager",
+        "date": "2026-11-12",
+        "id": "ashby:f23e6564-d8a4-403c-87ac-5c77c810bf3d",
+        "url": "https://jobs.ashbyhq.com/openai/f23e6564-d8a4-403c-87ac-5c77c810bf3d",
+        "location": "San Francisco +1"
+      },
+      {
+        "title": "Threat Detection and Response Engineering Manager",
+        "date": "2026-11-12",
+        "id": "ashby:b8ee8378-63a1-4741-a07f-647ece282dea",
+        "url": "https://jobs.ashbyhq.com/openai/b8ee8378-63a1-4741-a07f-647ece282dea",
+        "location": "San Francisco +1"
+      },
+      {
+        "title": "Client Partner, Ads Solutions - CPG",
+        "date": "2026-11-12",
+        "id": "ashby:27f0dba0-bbb0-42e3-ae58-e6bf516924cb",
+        "url": "https://jobs.ashbyhq.com/openai/27f0dba0-bbb0-42e3-ae58-e6bf516924cb",
+        "location": "San Francisco +1"
+      },
+      {
+        "title": "Client Partner, Ads Solutions - Technology",
+        "date": "2026-11-12",
+        "id": "ashby:c8f41c4f-427b-4dee-a89f-6599126d0bad",
+        "url": "https://jobs.ashbyhq.com/openai/c8f41c4f-427b-4dee-a89f-6599126d0bad",
+        "location": "San Francisco +1"
       }
     ],
     "John Deere": [
@@ -79253,6 +79357,13 @@
         "id": "eightfold:996477457111",
         "url": "https://lockheedmartin.eightfold.ai/careers/job/996477457111",
         "location": "Fort Worth, TX"
+      },
+      {
+        "title": "\u2b50\ufe0f aerospace engineering intern",
+        "date": "2026-11-12",
+        "id": "eightfold:996477909687",
+        "url": "https://lockheedmartin.eightfold.ai/careers/job/996477909687",
+        "location": "Littleton, CO"
       }
     ],
     "Vecna Robotics": [
@@ -89116,14 +89227,16 @@
         "date": "2026-10-27",
         "id": "greenhouse:5374307008",
         "url": "https://job-boards.greenhouse.io/botauto/jobs/5374307008",
-        "location": "Dallas, TX"
+        "location": "Dallas, TX",
+        "closed": "2026-11-12"
       },
       {
         "title": "Local Driver CDL",
         "date": "2026-10-27",
         "id": "greenhouse:5374292008",
         "url": "https://job-boards.greenhouse.io/botauto/jobs/5374292008",
-        "location": "Hutchins, TX"
+        "location": "Hutchins, TX",
+        "closed": "2026-11-12"
       },
       {
         "title": "Mechanical Engineer, Autonomous Vehicle",
@@ -89239,14 +89352,16 @@
         "date": "2026-11-06",
         "id": "greenhouse:5474292008",
         "url": "https://job-boards.greenhouse.io/botauto/jobs/5474292008",
-        "location": "Houston, TX"
+        "location": "Houston, TX",
+        "closed": "2026-11-12"
       },
       {
         "title": "OTR Driver CDL",
         "date": "2026-11-06",
         "id": "greenhouse:5474285008",
         "url": "https://job-boards.greenhouse.io/botauto/jobs/5474285008",
-        "location": "Hutchins, TX"
+        "location": "Hutchins, TX",
+        "closed": "2026-11-12"
       },
       {
         "title": "Software Engineer, Simulation & Reinforcement Learning",
@@ -89904,7 +90019,8 @@
         "date": "2026-10-27",
         "id": "workday:JR101355",
         "url": "https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Warsaw-Indiana/Plant-Vehicle-Engineer--Powertrain---Chassis_JR101355",
-        "location": "Warsaw, Indiana"
+        "location": "Warsaw, Indiana",
+        "closed": "2026-11-12"
       },
       {
         "title": "Senior Vehicle CAE Engineer",
@@ -92955,7 +93071,8 @@
         "date": "N/A",
         "id": "ibm:133782",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=133782",
-        "location": "Multiple Cities"
+        "location": "Multiple Cities",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Intern Data Engineer - AI & Analytics - 2027",
@@ -94983,14 +95100,16 @@
         "date": "N/A",
         "id": "morganstanley:21522",
         "url": "https://morganstanley.tal.net/vx/candidate/so/pm/1/pl/1/opp/21522",
-        "location": "London, United Kingdom"
+        "location": "London, United Kingdom",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f 2027 Technology Summer Analyst Programme (London)",
         "date": "N/A",
         "id": "morganstanley:21520",
         "url": "https://morganstanley.tal.net/vx/candidate/so/pm/1/pl/1/opp/21520",
-        "location": "London, United Kingdom"
+        "location": "London, United Kingdom",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f 2027 Investment Management Summer Analyst Programme - Fixed Income (London)",
@@ -96256,7 +96375,8 @@
         "date": "N/A",
         "id": "ashby:bfa95525-f25f-4445-947e-c36308c1fc83",
         "url": "https://jobs.ashbyhq.com/cohere/bfa95525-f25f-4445-947e-c36308c1fc83",
-        "location": "New York +7"
+        "location": "New York +7",
+        "closed": "2026-11-12"
       },
       {
         "title": "Senior Security Operations Engineer",
@@ -96270,7 +96390,8 @@
         "date": "N/A",
         "id": "ashby:f161c820-ad71-4be5-adff-2c51126e96d1",
         "url": "https://jobs.ashbyhq.com/cohere/f161c820-ad71-4be5-adff-2c51126e96d1",
-        "location": "New York +3"
+        "location": "New York +3",
+        "closed": "2026-11-12"
       },
       {
         "title": "Head of Sales, Southern Europe (Italy, Spain, Portugal)",
@@ -105161,6 +105282,13 @@
         "url": "https://careers.adobe.com/us/en/job/R172738/2027-Intern-Product-Design-Intern",
         "location": "Bangalore, India +1",
         "closed": "2026-11-12"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Intern - Communications",
+        "date": "2026-11-12",
+        "id": "phenom:R173413",
+        "url": "https://careers.adobe.com/us/en/job/R173413/2027-Intern-Communications",
+        "location": "San Francisco, CA +1"
       }
     ],
     "Databricks": [
@@ -105811,6 +105939,10 @@
       },
       {
         "title": "\u2b50\ufe0f Speciality Intern",
+        "date": "2026-11-12"
+      },
+      {
+        "title": "\u2b50\ufe0f Legal Intern",
         "date": "2026-11-12"
       }
     ],
@@ -109827,49 +109959,56 @@
         "date": "N/A",
         "id": "workday:R0000450602",
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/27100-Eucalyptus-Ave-Moreno-ValleyCA-92555-4522/Store-Executive-Intern--Store-Leadership-Intern----Moreno-Valley---Inland-Empire--CA--CA--Starting-Summer-2027-_R0000450602",
-        "location": "27100 Eucalyptus Ave, Moreno Valley,CA 92555-4522"
+        "location": "27100 Eucalyptus Ave, Moreno Valley,CA 92555-4522",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Store Executive Intern (Store Leadership Intern) \u2013 Orange County, CA (Starting Summer 2027)",
         "date": "N/A",
         "id": "workday:R0000450599",
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/200-W-Orangethorpe-Ave-FullertonCA-92832-2900/Store-Executive-Intern--Store-Leadership-Intern----Orange-County--CA--Starting-Summer-2027-_R0000450599",
-        "location": "4 Locations"
+        "location": "4 Locations",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Store Executive Intern (Store Leadership Intern) \u2013 Eastern Los Angeles County, CA (Starting Summer 2027)",
         "date": "N/A",
         "id": "workday:R0000450592",
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/747-Grand-Ave-Diamond-Bar-CA-91765-8400/Store-Executive-Intern--Store-Leadership-Intern----Eastern-Los-Angeles-County--CA--Starting-Summer-2027-_R0000450592",
-        "location": "3 Locations"
+        "location": "3 Locations",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Store Executive Intern (Store Leadership Intern) \u2013 Greater Long Beach, CA (Starting Summer 2027)",
         "date": "N/A",
         "id": "workday:R0000450291",
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/2270-N-Bellflower-Blvd-Long-BeachCA-90815-2017/Store-Executive-Intern--Store-Leadership-Intern----Long-Beach--CA--Starting-Summer-2027-_R0000450291",
-        "location": "4 Locations"
+        "location": "4 Locations",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Store Executive Intern (Store Leadership Intern) \u2013 San Diego North County, CA (Starting Summer 2027)",
         "date": "N/A",
         "id": "workday:R0000450297",
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/2255-S-El-Camino-Real-OceansideCA-92054-6318/Store-Executive-Intern--Store-Leadership-Intern----San-Diego-North-County--CA--Starting-Summer-2027-_R0000450297",
-        "location": "5 Locations"
+        "location": "5 Locations",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Store Executive Intern (Store Leadership Intern) \u2013 Manhattan Beach, CA (Starting Summer 2027)",
         "date": "N/A",
         "id": "workday:R0000450296",
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1200-N-Sepulveda-Blvd-Manhattan-BeachCA-90266-5104/Store-Executive-Intern--Store-Leadership-Intern----Manhattan-Beach--CA--Starting-Summer-2027-_R0000450296",
-        "location": "1200 N Sepulveda Blvd, Manhattan Beach,CA 90266-5104"
+        "location": "1200 N Sepulveda Blvd, Manhattan Beach,CA 90266-5104",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Store Executive Intern (Store Leadership Intern) \u2013 Greater San Diego, CA (Starting Summer 2027)",
         "date": "N/A",
         "id": "workday:R0000450290",
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1288-Camino-Del-Rio-N-San-DiegoCA-92108-1511/Store-Executive-Intern--Store-Leadership-Intern----Southern-San-Diego--CA--Starting-Summer-2027-_R0000450290",
-        "location": "1288 Camino Del Rio N, San Diego,CA 92108-1511"
+        "location": "1288 Camino Del Rio N, San Diego,CA 92108-1511",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Store Executive Intern (Store Leadership Intern) - Norridge, IL (Starting Summer 2027) \u200b",
@@ -109946,14 +110085,16 @@
         "date": "N/A",
         "id": "workday:R0000449492",
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/777-E-Colorado-Blvd-PasadenaCA-91101-2104/Store-Executive-Intern--Store-Leadership-Intern----Greater-Pasadena--CA--Starting-Summer-2027-_R0000449492",
-        "location": "4 Locations"
+        "location": "4 Locations",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Store Executive Intern (Store Leadership Intern) \u2013 North/West of Sacramento, CA (Starting Summer 2027)",
         "date": "N/A",
         "id": "workday:R0000450285",
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/4601-2nd-St-DavisCA-95618-9446/Store-Executive-Intern--Store-Leadership-Intern----North---West-Sacramento--CA--Starting-Summer-2027-_R0000450285",
-        "location": "4601 2nd St, Davis,CA 95618-9446"
+        "location": "4601 2nd St, Davis,CA 95618-9446",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Store Executive Intern (Store Leadership Intern) - Miami- Starting Summer 2027)\u200b",
@@ -110394,21 +110535,24 @@
         "date": "N/A",
         "id": "workday:R0000448417",
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/2800-Dublin-Blvd-DublinCA-94568-4589/Store-Executive-Intern--Store-Leadership-Intern----Bay-Area--CA--Starting-Summer-2027-_R0000448417",
-        "location": "33 Locations"
+        "location": "33 Locations",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Store Executive Intern (Store Leadership Intern) \u2013 Tucson, AZ (Starting Summer 2027)",
         "date": "N/A",
         "id": "workday:R0000450589",
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/4040-N-Oracle-Rd-TucsonAZ-85705-2720/Store-Executive-Intern--Store-Leadership-Intern----Tucson--AZ--Starting-Summer-2027-_R0000450589",
-        "location": "7 Locations"
+        "location": "7 Locations",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Store Executive Intern (Store Leadership Intern) \u2013 Greater Phoenix, AZ (Starting Summer 2027)",
         "date": "N/A",
         "id": "workday:R0000450585",
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1625-E-Camelback-Rd-PhoenixAZ-85016-3901/Store-Executive-Intern--Store-Leadership-Intern----Greater-Phoenix--AZ--Starting-Summer-2027-_R0000450585",
-        "location": "7 Locations"
+        "location": "7 Locations",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Financial Analyst Intern - Minneapolis, MN (Starting Summer, 2027)",
@@ -110423,14 +110567,16 @@
         "date": "N/A",
         "id": "workday:R0000450280",
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/205-S-Clovis-Ave-FresnoCA-93727-4223/Store-Executive-Intern--Store-Leadership-Intern----Fresno--CA--Starting-Summer-2027-_R0000450280",
-        "location": "2 Locations"
+        "location": "2 Locations",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Store Executive Intern (Store Leadership Intern) \u2013 West Portland, OR (Starting Summer 2027)",
         "date": "N/A",
         "id": "workday:R0000450277",
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/10775-SW-Beaverton-Hillsdale-Hwy-BeavertonOR-97005-3001/Store-Executive-Intern--Store-Leadership-Intern----West-Portland--OR--Starting-Summer-2027-_R0000450277",
-        "location": "4 Locations"
+        "location": "4 Locations",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Store Executive Intern (Store Leadership Intern) \u2013 Eugene, OR (Starting Summer 2027)",
@@ -110722,8 +110868,7 @@
         "date": "N/A",
         "id": "talentbrew:100378295536",
         "url": "https://jobs.boeing.com/job/wichita/boeing-wichita-summer-2027-internship-program-paid-manufacturing-engineering/185/100378295536",
-        "location": "Wichita, KS",
-        "closed": "2026-11-12"
+        "location": "Wichita, KS"
       },
       {
         "title": "\u2b50\ufe0f Boeing - Wichita Summer 2027 Internship Program (Paid) - Supplier Quality Assurance & Compliance",
