@@ -8452,7 +8452,8 @@
         "date": "2026-10-09",
         "id": "eightfold:446720740649",
         "url": "https://careers.qualcomm.com/careers/job/446720740649",
-        "location": "San Diego, CA +4"
+        "location": "San Diego, CA +4",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f RF/Analog Design/Mixed-Signal Engineering Internship \u2013 Summer 2027",
@@ -8515,8 +8516,7 @@
         "date": "2026-10-13",
         "id": "eightfold:446720740636",
         "url": "https://careers.qualcomm.com/careers/job/446720740636",
-        "location": "San Diego, CA",
-        "closed": "2026-11-11"
+        "location": "San Diego, CA"
       },
       {
         "title": "\u2b50\ufe0f Modular Engineering Internship \u2013 Summer 2027",
@@ -8530,14 +8530,16 @@
         "date": "2026-10-13",
         "id": "eightfold:446720740637",
         "url": "https://careers.qualcomm.com/careers/job/446720740637",
-        "location": "San Diego, CA +3"
+        "location": "San Diego, CA +3",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Multimedia Engineering Internship \u2013 Summer 2027",
         "date": "2026-10-13",
         "id": "eightfold:446720740640",
         "url": "https://careers.qualcomm.com/careers/job/446720740640",
-        "location": "San Diego, CA +1"
+        "location": "San Diego, CA +1",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Machine Learning & Artificial Intelligence Engineering Internship \u2013 Summer 2027",
