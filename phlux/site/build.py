@@ -260,7 +260,9 @@ def build_payload(
         fc = forecasts.get(company.name)
         company_rows.append({
             "name": company.name,
-            "segment": tags.get("robotics_segment", ""),
+            # Robotics companies by segment (humanoids, warehouse…), the rest
+            # by sector (big tech, quant…), so either tab can be narrowed.
+            "segment": tags.get("robotics_segment", "") if tier in ROBOTICS_TIERS else tags.get("sector", ""),
             "robotics": tier in ROBOTICS_TIERS,
             "careers": board_link(company.link),
             "icon": icons.get(company.name, ""),

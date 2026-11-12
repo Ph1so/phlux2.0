@@ -80,7 +80,7 @@ class TestBuildPayload:
         forecasts = {"Acme": Forecast("Acme", SOON, 2027, last=Opening(2026, date(2025, 11, 20), False),
                                       expected=date(2026, 11, 20))}
         industries = {"Acme": {"robotics_tier": "core", "robotics_segment": "humanoids"},
-                      "Quant Co": {"robotics_tier": "none", "robotics_segment": ""}}
+                      "Quant Co": {"sector": "quant_finance", "robotics_tier": "none", "robotics_segment": ""}}
         icons = {"Acme": "data:image/webp;base64,AAAA"}
         now = datetime(2026, 11, 1, 17, 5)
         return build_payload(storage, companies, forecasts, industries, icons, now)
@@ -88,6 +88,7 @@ class TestBuildPayload:
     def test_companies_carry_tagging_links_and_forecasts(self):
         acme, quant = self.payload()["companies"]
         assert acme["robotics"] is True and quant["robotics"] is False
+        assert (acme["segment"], quant["segment"]) == ("humanoids", "quant_finance")
         assert acme["careers"] == "https://job-boards.greenhouse.io/acme"  # keyword search dropped
         assert acme["icon"] == "data:image/webp;base64,AAAA"
         assert acme["checked"] == "2026-11-01"

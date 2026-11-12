@@ -494,10 +494,10 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
 <main class="gutter" id="top">
   <section class="intro">
     <div class="seg scope" role="group" aria-label="Companies" id="scope">
-      <button type="button" data-v="robotics" aria-pressed="true">Robotics</button>
-      <button type="button" data-v="all" aria-pressed="false">All companies</button>
+      <button type="button" data-v="all" aria-pressed="true">All companies</button>
+      <button type="button" data-v="robotics" aria-pressed="false">Robotics</button>
     </div>
-    <h1 id="intro-title">Robotics internships</h1>
+    <h1 id="intro-title">Internships</h1>
     <p id="intro-interns">Every internship at <span id="n-companies">the</span> <span class="scope-robotics">robotics </span>companies we track, read straight from their own job boards every hour, with a forecast of who opens next.</p>
     <p id="intro-newgrad" hidden>Every new grad and early career engineering, robotics and AI/ML role at <span id="ng-companies">the</span> <span class="scope-robotics">robotics </span>companies we track, read straight from their own job boards every hour.</p>
   </section>
@@ -770,7 +770,11 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
     robotics_software: "Robotics software", ev_automotive: "EVs & automotive",
     consumer_service: "Consumer & service", industrial_automation: "Industrial automation",
     space_hardware: "Space hardware", medical_robotics: "Medical robotics",
-    sensors_silicon: "Sensors & silicon", "": "Tech & finance"
+    sensors_silicon: "Sensors & silicon",
+    // Companies outside robotics go by sector.
+    big_tech: "Big tech", enterprise_software: "Enterprise software", quant_finance: "Quant & trading",
+    consumer_internet: "Consumer internet", fintech: "Fintech", gaming: "Gaming", semiconductors: "Semiconductors",
+    defense_services: "Defense & services", consulting: "Consulting", biotech: "Biotech", other: "Other tech"
   };
   var FIELDS = {
     ml_ai: "ML & AI", software: "Software", hardware: "Hardware & robotics",
@@ -899,8 +903,8 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
   // ── State ─────────────────────────────────────────────────────────────
   var $ = function (id) { return document.getElementById(id); };
   var state = { q: "", segment: "", field: "", degree: "", season: "", status: "open", company: null, place: null, shown: PAGE };
-  // The Robotics / All companies tabs: robotics companies only, or every company scraped.
-  var roboticsOnly = recall("robotics") !== "0";
+  // The All companies / Robotics tabs: every company scraped (the default), or robotics companies only.
+  var roboticsOnly = recall("robotics") === "1";
   function inScope(c) { return !roboticsOnly || c.robotics; }
 
   // ── Forecast groups ───────────────────────────────────────────────────
@@ -1055,9 +1059,7 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
     list.forEach(function (p) { var v = key(p); if (v != null) seen[v] = (seen[v] || 0) + 1; });
     return Object.keys(seen).sort(function (a, b) { return seen[b] - seen[a]; });
   }
-  rank(postings, function (p) { return p.company.segment; }).forEach(function (v) { $("segment").appendChild(new Option(SEGMENTS[v] || v, v)); });
   rank(postings, function (p) { return p.field; }).forEach(function (v) { $("field").appendChild(new Option(FIELDS[v] || v, v)); });
-  rank(ngPostings, function (p) { return p.company.segment; }).forEach(function (v) { $("ng-segment").appendChild(new Option(SEGMENTS[v] || v, v)); });
   rank(ngPostings, function (p) { return p.field; }).forEach(function (v) { $("ng-field").appendChild(new Option(FIELDS[v] || v, v)); });
   rank(postings, function (p) { return p.season ? p.season + "|" + (p.year || "") : null; }).sort().forEach(function (v) {
     var parts = v.split("|");
@@ -1616,9 +1618,6 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
   }
   if (PAST.length) {
     PAST.forEach(function (s, i) { $("past-season").appendChild(new Option(seasonName(s.cycle), String(i))); });
-    var seen = {};
-    PAST.forEach(function (s) { s.rows.forEach(function (r) { seen[companies[r[0]].segment] = 1; }); });
-    Object.keys(seen).sort().forEach(function (v) { $("p-segment").appendChild(new Option(SEGMENTS[v] || v, v)); });
     Object.keys(FIELDS).forEach(function (v) { $("p-field").appendChild(new Option(FIELDS[v], v)); });
   } else {
     $("tab-past").hidden = true;
@@ -1744,7 +1743,41 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
     }, 150);
   });
 
+  // Each segment picker lists the segments in the current tab: robotics
+  // segments on Robotics, those and the other sectors on All companies. A
+  // choice the tab doesn't have is cleared. On All companies the two kinds
+  // are grouped.
+  var roboticsSegment = {};
+  companies.forEach(function (c) { if (c.robotics) roboticsSegment[c.segment] = true; });
+  function fillSegments() {
+    function fill(id, values, s) {
+      var pick = $(id);
+      while (pick.children.length > 1) pick.removeChild(pick.lastChild);
+      var kinds = [values.filter(function (v) { return roboticsSegment[v]; }),
+                   values.filter(function (v) { return !roboticsSegment[v]; })];
+      var grouped = kinds[0].length && kinds[1].length;
+      kinds.forEach(function (kind, i) {
+        var box = pick;
+        if (grouped) { box = document.createElement("optgroup"); box.label = i ? "Tech, finance & more" : "Robotics"; pick.appendChild(box); }
+        kind.forEach(function (v) { box.appendChild(new Option(SEGMENTS[v] || v, v)); });
+      });
+      if (s.segment && values.indexOf(s.segment) === -1) s.segment = "";
+      pick.value = s.segment;
+      pick.classList.toggle("set", !!s.segment);
+    }
+    function segment(p) { return inScope(p.company) && p.company.segment || null; }
+    fill("segment", rank(postings, segment), state);
+    fill("ng-segment", rank(ngPostings, segment), ng);
+    if (PAST.length) {
+      var seen = {};
+      PAST.forEach(function (s) {
+        s.rows.forEach(function (r) { var c = companies[r[0]]; if (inScope(c) && c.segment) seen[c.segment] = 1; });
+      });
+      fill("p-segment", Object.keys(seen).sort(function (a, b) { return (SEGMENTS[a] || a).localeCompare(SEGMENTS[b] || b); }), past);
+    }
+  }
   function renderAll() {
+    fillSegments();
     var g = groups();
     renderStats(g);
     renderOpenings(g);
