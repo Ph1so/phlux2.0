@@ -501,6 +501,14 @@ class TestScrapeCompaniesSeeding:
         assert "closed" not in data["companies"]["Beta"][0]
         assert "Beta" not in data["pending_closures"]
         assert data["checked"]["Beta"] != "2026-11-10"
+        assert list(data["closures_untracked"]) == ["Beta"]
+
+    def test_untracked_note_is_written_once(self, tmp_path):
+        # A quiet run must write nothing new, or every bot run would commit.
+        storage = {"companies": {"Beta": [{"title": "Old Role", "date": "2026-11-01"}]},
+                   "checked": {"Beta": "2026-11-10"}, "closures_untracked": {"Beta": "2026-11-01"}}
+        data = self._scrape(tmp_path, storage, unlisted={"Beta"})["data"]
+        assert data["closures_untracked"] == {"Beta": "2026-11-01"}
 
     def test_quiet_company_alerts_once_checked(self, tmp_path):
         storage = {"companies": {}, "checked": {"Beta": "2026-11-10"}}
@@ -581,6 +589,23 @@ class TestTrackClosures:
         assert [j.get("closed") for j in data["companies"]["Acme"]] == [None, "N/A", None]
         assert data["checked"] == {"Acme": "2026-11-01"}
 
+    def test_first_look_after_untracked_spell_closes_undated(self):
+        data = {"companies": {"Acme": self.stored(3)}, "checked": {"Acme": "2026-10-31"},
+                "closures_untracked": {"Acme": "2026-10-01"}}
+        self._track(data, self.scrape([0, 2]), self.at(12))
+        assert [j.get("closed") for j in data["companies"]["Acme"]] == [None, "N/A", None]
+        assert data["closures_untracked"] == {}
+        # Tracked from here on: the next closure gets its date.
+        self._track(data, self.scrape([0]), self.at(12, day=2))
+        assert data["companies"]["Acme"][2]["closed"] == "2026-11-02"
+
+    def test_big_drop_after_untracked_spell_is_confirmed_undated(self):
+        data = {"companies": {"Acme": self.stored(10)}, "checked": {"Acme": "2026-10-31"},
+                "closures_untracked": {"Acme": "2026-10-01"}}
+        self._track(data, self.scrape([0]), self.at(12))
+        self._track(data, self.scrape([0]), self.at(13, 30))
+        assert {j.get("closed") for j in data["companies"]["Acme"][1:]} == {"N/A"}
+
     def test_first_look_big_drop_is_confirmed_undated(self):
         data = {"companies": {"Acme": self.stored(10)}}
         self._track(data, self.scrape([0]), self.at(12))
@@ -658,7 +683,7 @@ class TestTrackClosures:
 
 
 class TestScrapeCompaniesClosures:
-    def _scrape(self, tmp_path, storage, companies, **patches):
+    def _scrape(self, tmp_path, storage, companies, unlisted=(), **patches):
         import json
         from concurrent.futures import ThreadPoolExecutor
 
@@ -669,7 +694,31 @@ class TestScrapeCompaniesClosures:
         with patch("phlux.scraping.ProcessPoolExecutor", ThreadPoolExecutor), \
              patch("phlux.config.load_config", return_value={}), \
              patch("phlux.scraping.scrape_company", **patches):
-            return ScrapeManager().scrape_companies(companies, storage_path=str(path), max_workers=2)["data"]
+            return ScrapeManager().scrape_companies(companies, storage_path=str(path), max_workers=2,
+                                                    unlisted=unlisted)["data"]
+
+    def test_unlisted_board_company_tracks_closures(self, tmp_path):
+        # A board API reads the whole board every run, so it's trusted outside the list too.
+        storage = {"companies": {"Beta": [{"title": "Planner", "date": "2026-10-01", "id": "ashby:1"},
+                                          {"title": "Welder", "date": "2026-10-01", "id": "ashby:2"}]},
+                   "checked": {"Beta": "2026-11-10"}}
+        data = self._scrape(tmp_path, storage, [Company("Beta", "https://jobs.ashbyhq.com/beta", "@ashby")],
+                            unlisted={"Beta"},
+                            return_value=ScrapeResult("Beta", ["Planner"], "https://jobs.ashbyhq.com/beta",
+                                                      ["ashby:1"]))
+        assert [j.get("closed") for j in data["companies"]["Beta"]] == [None, data["checked"]["Beta"]]
+
+    def test_unlisted_board_company_closes_its_backlog_undated(self, tmp_path):
+        # While its page was scraped, nobody saw "Welder" close.
+        storage = {"companies": {"Beta": [{"title": "Planner", "date": "2026-10-01", "id": "ashby:1"},
+                                          {"title": "Welder", "date": "2026-10-01", "id": "ashby:2"}]},
+                   "checked": {"Beta": "2026-11-10"}, "closures_untracked": {"Beta": "2026-11-01"}}
+        data = self._scrape(tmp_path, storage, [Company("Beta", "https://jobs.ashbyhq.com/beta", "@ashby")],
+                            unlisted={"Beta"},
+                            return_value=ScrapeResult("Beta", ["Planner"], "https://jobs.ashbyhq.com/beta",
+                                                      ["ashby:1"]))
+        assert [j.get("closed") for j in data["companies"]["Beta"]] == [None, "N/A"]
+        assert data["closures_untracked"] == {}
 
     def test_failed_scrape_closes_nothing(self, tmp_path):
         storage = {"companies": {"Acme": [{"title": "Planner", "date": "2026-10-01", "id": "ashby:1"}]}}

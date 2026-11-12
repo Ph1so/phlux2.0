@@ -79,6 +79,10 @@ SEED_FLAG = "seed_new_companies"
 # scrape date, and closures waiting for a second look.
 CHECKED_KEY = "checked"
 PENDING_KEY = "pending_closures"
+# Top-level storage key kept by mark_checked: companies whose closures aren't
+# being tracked, and since when. Their first tracked look stamps what's already
+# gone "N/A", like a company's very first look.
+UNTRACKED_KEY = "closures_untracked"
 # Top-level storage key kept by track_failures: companies whose scrape is
 # failing, since when and with what error (see phlux.health).
 FAILING_KEY = "failing"
@@ -576,7 +580,8 @@ def track_closures(data: dict, result: ScrapeResult, trust_empty: bool = False,
     first missed); one that shows again loses it. The company's ``checked`` date
     (in :data:`CHECKED_KEY`) records the last scrape trusted this way. Postings
     already gone on a company's first such look closed at some unknown point
-    before tracking began, so they are stamped ``"N/A"`` instead.
+    before tracking began, so they are stamped ``"N/A"`` instead; so are those
+    gone on its first look after a spell untracked (:data:`UNTRACKED_KEY`).
 
     Missing a posting is not proof it closed, so two guards stand between a
     flaky scrape and a wave of false closures:
@@ -605,8 +610,10 @@ def track_closures(data: dict, result: ScrapeResult, trust_empty: bool = False,
     if not result.jobs and not trust_empty:
         return
     checked = data.setdefault(CHECKED_KEY, {})
-    stamp = NA_DATE if result.name not in checked else today
+    untracked = data.get(UNTRACKED_KEY, {})
+    stamp = NA_DATE if result.name not in checked or result.name in untracked else today
     checked[result.name] = today
+    untracked.pop(result.name, None)
 
     seen_ids = {i for i in result.ids if i}
     seen_titles = {job.replace("\n", " - ") for job in result.jobs}
@@ -648,15 +655,19 @@ def mark_checked(data: dict, result: ScrapeResult, trust_empty: bool = False,
                  now: datetime | None = None) -> None:
     """Record a trusted scrape's ``checked`` date without tracking closures.
 
-    For companies scraped only for ``all_internships_bcc``. Many are page
-    scrapes that show a different slice of a long board each run (Cisco,
-    Adobe), so tracking closures would close and reopen postings every run:
-    each run would commit, and every bot commit starts another run. Any
-    closures held for a second look are dropped.
+    For page scrapes of companies scraped only for ``all_internships_bcc``.
+    Some show a different slice of a long board each run (Cisco and Adobe
+    did), so tracking closures would close and reopen postings every run: each
+    run would commit, and every bot commit starts another run. Any closures
+    held for a second look are dropped, and the company is noted in
+    :data:`UNTRACKED_KEY` (once, so quiet runs still write nothing) for
+    :func:`track_closures` to pick up from if it's tracked again.
     """
     if not result.jobs and not trust_empty:
         return
-    data.setdefault(CHECKED_KEY, {})[result.name] = (now or datetime.now(EASTERN)).date().isoformat()
+    today = (now or datetime.now(EASTERN)).date().isoformat()
+    data.setdefault(CHECKED_KEY, {})[result.name] = today
+    data.setdefault(UNTRACKED_KEY, {}).setdefault(result.name, today)
     data.get(PENDING_KEY, {}).pop(result.name, None)
 
 
@@ -690,8 +701,9 @@ class ScrapeManager:
                 ``checked`` date, so turning a company on alerts only what's
                 posted after, not its whole board. Stored entries don't count:
                 a company dropped from the list long ago has missed postings
-                since, and they would all look new. Their closures aren't
-                tracked (see :func:`mark_checked`).
+                since, and they would all look new. Their closures are
+                tracked when they're read through a board API, but not from
+                page scrapes (see :func:`mark_checked`).
 
         Returns:
             A dict with keys ``"data"`` (full storage contents) and
@@ -735,8 +747,11 @@ class ScrapeManager:
                 process_jobs(data, result, new_jobs, seed=seed)
                 if failed:
                     continue
+                # A board API reads the whole board (or search) every run, so it
+                # can be trusted with closures; a page scrape outside the list
+                # may show a different slice each run (see mark_checked).
                 trust_empty = bool(board_of(company.selector))
-                if company.name in unlisted:
+                if company.name in unlisted and not trust_empty:
                     mark_checked(data, result, trust_empty=trust_empty)
                 else:
                     track_closures(data, result, trust_empty=trust_empty)
