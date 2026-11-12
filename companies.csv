@@ -8,8 +8,8 @@ Netflix,https://explore.jobs.netflix.net/careers?domain=netflix.com&query=%22int
 AWS,https://amazon.jobs/content/en/teams/amazon-web-services/internships?country%5B%5D=US,@amazon
 Pinterest,https://job-boards.greenhouse.io/pinterest?departments%5B%5D=71442,@greenhouse
 Amazon,https://www.amazon.jobs/en/search?base_query=intern&country%5B%5D=USA&sort=recent->https://www.amazon.jobs/en/search?base_query=early%20career&country%5B%5D=USA&sort=recent,@amazon
-ispace,https://jobs.lever.co/ispace-inc,@lever->FILTER:intern
-Welch's,https://job-boards.greenhouse.io/welchsinc?keyword=intern,@greenhouse
+ispace,https://jobs.lever.co/ispace-inc,@lever->FILTER:intern|new grad|early career|entry|junior|university grad|college grad
+Welch's,https://job-boards.greenhouse.io/welchsinc,@greenhouse->FILTER:intern|new grad|early career|entry|junior|university grad|college grad
 Apple,https://jobs.apple.com/en-us/search?location=united-states-USA&team=internships-STDNT-INTRN,@apple
 IBM,https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States->https://www.ibm.com/careers/search?field_keyword_18[0]=Entry%20Level&field_keyword_05[0]=United%20States,@ibm
 Salesforce,https://salesforce.wd12.myworkdayjobs.com/External_Career_Site?workerSubType=3a910852b2c31010f48d2cefdccd0000&CF_-_REC_-_LRV_-_Job_Posting_Anchor_-_Country_from_Job_Posting_Location_Extended=bc33aa3152ec42d4995f4791a106ed09,@workday
@@ -28,7 +28,7 @@ Cisco,https://careers.cisco.com/global/en/search-results?keywords=intern&qcountr
 DE Shaws,https://www.deshaw.com/careers/internships,@deshaw
 Hudson River Trading,https://job-boards.greenhouse.io/embed/job_board?for=wehrtyou->https://job-boards.greenhouse.io/embed/job_board?for=wehrtyou&page=2,@greenhouse->FILTER:intern|new grad|early career|entry|junior|university grad|college grad
 Morgan Stanley,https://www.morganstanley.com/careers/career-opportunities-search?opportunity=sg#,@morganstanley
-Spotify,https://jobs.lever.co/spotify,@lever->FILTER:intern
+Spotify,https://jobs.lever.co/spotify,@lever->FILTER:intern|new grad|early career|entry|junior|university grad|college grad
 TwoSigma,https://careers.twosigma.com/careers/OpenRoles/?5086=%5B16718737%5D&5086_format=3149&listFilterMode=1&jobRecordsPerPage=10&,@avature:.article__header__content__text > span
 Stripe,https://job-boards.greenhouse.io/stripe?departments%5B%5D=84359&offices%5B%5D=65234&offices%5B%5D=87006&offices%5B%5D=87002,@greenhouse
 Snap,https://snapchat.wd1.myworkdayjobs.com/snap?q=intern,@workday->FILTER:intern
@@ -40,7 +40,7 @@ Riot Games,https://job-boards.greenhouse.io/riotgames,@greenhouse->FILTER:intern
 Datadog,https://job-boards.greenhouse.io/datadog,@greenhouse->FILTER:intern|new grad|early career|entry|junior|university grad|college grad
 Doordash,https://job-boards.greenhouse.io/embed/job_board?for=doordashusa&keyword=intern->https://job-boards.greenhouse.io/embed/job_board?for=doordashusa&keyword=entry-level,@greenhouse
 MongoDB,https://job-boards.greenhouse.io/mongodb,@greenhouse->FILTER:intern|new grad|early career|entry|junior|university grad|college grad
-Slack,https://salesforce.wd12.myworkdayjobs.com/Slack,@workday->FILTER:intern
+Slack,https://salesforce.wd12.myworkdayjobs.com/Slack,@workday->FILTER:intern|new grad|early career|entry|junior|university grad|college grad
 Splunk,https://careers.cisco.com/global/en/splunk/search-page?keywords=intern,@phenom->FILTER:intern
 Amazon Robotics,https://www.amazon.jobs/content/en/teams/ftr/amazon-robotics?country%5B%5D=US&employment-type%5B%5D=Intern,@amazon
 AMD,https://careers.amd.com/careers-home/jobs?categories=Student%20%2F%20Intern%20%2F%20Temp&tags1=No&country=United%20States,@jibe
@@ -58,8 +58,8 @@ Roblox,https://job-boards.greenhouse.io/embed/job_board?for=roblox&keyword=inter
 ByteDance,https://joinbytedance.com/search?keyword=&limit=12&offset=0&location_code_list=CT_1103355%2CCT_157%2CCT_94%2CCT_114%2CCT_100764%2CCT_75%2CCT_233%2CCT_203&recruitment_id_list=202%2C301->https://joinbytedance.com/search?keyword=&limit=12&offset=0&location_code_list=CT_1103355%2CCT_157%2CCT_94%2CCT_114%2CCT_100764%2CCT_75%2CCT_233%2CCT_203&recruitment_id_list=201,@bytedance
 Jane Street,https://www.janestreet.com/join-jane-street/open-roles/?type=internship&location=new-york,@janestreet
 Oracle,https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/jobs?lastSelectedFacet=locations&selectedLocationsFacet=300000000106749%3B300000000149325&selectedFlexFieldsFacets=%22AttributeChar14%7CSDR%22->https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/jobs?lastSelectedFacet=locations&selectedLocationsFacet=300000000106749%3B300000000149325&selectedFlexFieldsFacets=%22AttributeChar4%7CStudent%2FIntern%22,@oraclehcm
-Asana,https://job-boards.greenhouse.io/asana?keyword=intern,@greenhouse
-Grammarly,https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc,@ashby->FILTER:intern
+Asana,https://job-boards.greenhouse.io/asana,@greenhouse->FILTER:intern|new grad|early career|entry|junior|university grad|college grad
+Grammarly,https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc,@ashby->FILTER:intern|new grad|early career|entry|junior|university grad|college grad
 Adobe,https://careers.adobe.com/us/en/search-results?qkexperienceLevel=University%20Intern,@phenom
 Databricks,https://job-boards.greenhouse.io/databricks?departments%5B%5D=4001023002,@greenhouse
 SpaceX,https://job-boards.greenhouse.io/spacex,@greenhouse->FILTER:internship|new grad|early career|entry|junior|university grad|college grad
@@ -68,26 +68,26 @@ Boston Scientific,https://bostonscientific.eightfold.ai/careers?start=0&location
 Siemens,https://jobs.sw.siemens.com/locations/usa/jobs/?q=intern,@directemployers->FILTER:intern|co-op
 Rockwell Automation,https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers,@workday
 Scheider Electric,https://careers.se.com/global/jobs?keywords=internship&sortBy=relevance&page=1&country=United%20States&tags1=Intern,@jibe
-X,https://job-boards.greenhouse.io/xai?keyword=intern,@greenhouse->FILTER:intern
+X,https://job-boards.greenhouse.io/xai,@greenhouse->FILTER:intern|new grad|early career|entry|junior|university grad|college grad
 Verkada,https://job-boards.greenhouse.io/verkada,@greenhouse->FILTER:intern|new grad|early career|entry|junior|university grad|college grad
 Neuralink,https://job-boards.greenhouse.io/neuralink,@greenhouse->FILTER:intern|new grad|early career|entry|junior|university grad|college grad
 Zipline,https://job-boards.greenhouse.io/embed/job_board?for=flyzipline,@greenhouse->FILTER:intern|new grad|early career|entry|junior|university grad|college grad
 Cloudflare,https://job-boards.greenhouse.io/embed/job_board?for=cloudflare&departments[]=70480,@greenhouse
 Capital One,"https://www.capitalonecareers.com/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22industry%22,%22value%22:%22Internship%22%7D]",@talentbrew
 Deloitte,https://apply.deloitte.com/en_US/careers/SearchJobs/?9339=%5B480%2C477%2C478%5D&9339_format=5915&26444=%5B113185584%2C113185586%2C113185566%2C113185568%2C113185564%5D&26444_format=44221&listFilterMode=1&jobRecordsPerPage=10&sort=relevancy,@avature:.article__header__text__subtitle > span:last-child
-Roku,https://job-boards.greenhouse.io/roku?keyword=intern,@greenhouse
+Roku,https://job-boards.greenhouse.io/roku,@greenhouse->FILTER:intern|new grad|early career|entry|junior|university grad|college grad
 Unity,https://unitytech.wd1.myworkdayjobs.com/Unity,@workday->FILTER:intern|student|co-op|new grad|early career|entry|junior|university grad|college grad|graduate
 Github,https://www.github.careers/careers-home/jobs,@jibe->FILTER:intern|co-op|student|new grad|early career|entry|junior|university grad|college grad
 RedHat,https://redhat.wd5.myworkdayjobs.com/jobs/?a=bc33aa3152ec42d4995f4791a106ed09&d=c18026e77576010f6ef6126f4e43ec4a,@workday->FILTER:intern
 Boston Dynamics,https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/?workerSubType=fbfd99a3c13201ab06a11542991f9208,@workday
 Epic Games,https://job-boards.greenhouse.io/epicgames?offices%5B%5D=4008800004,@greenhouse->FILTER:intern|new grad|early career|entry|junior|university grad|college grad
-Twitch,https://job-boards.greenhouse.io/embed/job_board?for=twitch,@greenhouse->FILTER:intern
+Twitch,https://job-boards.greenhouse.io/embed/job_board?for=twitch,@greenhouse->FILTER:intern|new grad|early career|entry|junior|university grad|college grad
 Visa,https://visa.wd5.myworkdayjobs.com/Visa?jobFamily=2745bc1368021016a99151158b7a3a64,@workday
 Replit,https://jobs.ashbyhq.com/replit/,@ashby
 Vercel,https://job-boards.greenhouse.io/vercel,@greenhouse->FILTER:intern|new grad|early career|entry|junior|university grad|college grad
 Hugging Face,https://apply.workable.com/huggingface/,@workable
 Verizon,https://verizon.wd12.myworkdayjobs.com/verizon-careers?jobFamilyGroup=4466d54cbeba1000ae7ce480184d0000,@workday
-Notion,https://jobs.ashbyhq.com/notion/,@ashby->FILTER:intern
+Notion,https://jobs.ashbyhq.com/notion/,@ashby->FILTER:intern|new grad|early career|entry|junior|university grad|college grad
 JP Morgan Chase,https://www.jpmorganchase.com/careers/explore-opportunities/programs/software-engineer-summer->https://www.jpmorganchase.com/careers/explore-opportunities/programs/data-analytics-opportunities->https://www.jpmorganchase.com/careers/explore-opportunities/programs/tfsg-hackathons->https://www.jpmorganchase.com/careers/explore-opportunities/programs/quant-fin-programs->https://www.jpmorganchase.com/careers/explore-opportunities/programs/design-dev-summer->https://www.jpmorganchase.com/careers/explore-opportunities/programs/et-experience->https://www.jpmorganchase.com/careers/explore-opportunities/programs/career-edyou->https://www.jpmorganchase.com/careers/explore-opportunities/programs/research-technologies-summer-associate-program,@jpmc
 Genesis Therapeutics,https://jobs.ashbyhq.com/genesis-molecular-ai/,@ashby
 Duolingo,https://job-boards.greenhouse.io/duolingo?departments%5B%5D=4063987002,@greenhouse
@@ -105,7 +105,7 @@ Docusign,https://careers.docusign.com/careers-home/jobs?tags1=Intern,@jibe
 Konrad,https://job-boards.greenhouse.io/konradgroup,@greenhouse->FILTER:intern|new grad|early career|entry|junior|university grad|college grad
 Tencent,"https://join.qq.com/post.html?query=p_2,w_407,w_408,w_401&c_t=2",@tencent
 Point72,https://job-boards.greenhouse.io/point72,@greenhouse->FILTER:intern|new grad|early career|entry|junior|university grad|college grad
-Sentry,https://jobs.ashbyhq.com/sentry/,@ashby->FILTER:intern
+Sentry,https://jobs.ashbyhq.com/sentry/,@ashby->FILTER:intern|new grad|early career|entry|junior|university grad|college grad
 Comcast,"https://jobs.comcast.com/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.InternRotational%22,%22value%22:%22Intern%22%7D]",@talentbrew
 HP,https://apply.hp.com/careers?query=internship&domain=hp.com&filter_seniority=internship&location=United%20States&sort_by=relevance,@eightfold
 Skydio,https://jobs.ashbyhq.com/skydio,@ashby->FILTER:intern|new grad|early career|entry|junior|university grad|college grad
@@ -119,7 +119,7 @@ Kodiak Robotics,https://job-boards.greenhouse.io/kodiak,@greenhouse
 XPENG,https://job-boards.greenhouse.io/xpengmotors,@greenhouse->FILTER:intern|new grad|early career|entry|junior|university grad|college grad
 Tesla,https://www.tesla.com/careers/search/?type=intern&site=US,@tesla:Tesla SI|Engineering & Information Technology
 C3,https://job-boards.greenhouse.io/c3ascend,@greenhouse
-Mercedes Benz,https://jobs.lever.co/MBRDNA?commitment=Intern,@lever
+Mercedes Benz,https://jobs.lever.co/MBRDNA?commitment=Intern->https://jobs.lever.co/MBRDNA?keyword=new%20grad&keyword=early%20career&keyword=entry&keyword=junior&keyword=university%20grad&keyword=college%20grad,@lever
 Mosaic,https://mosaic.wd5.myworkdayjobs.com/mosaic?workerSubType=ed8099291cc44a449715a96f49b3b316&locations=650055bade3a47079294e41cfa83d322&locations=8e6a747b95174ec58844a56e3a58fea7&locations=679a79860e514d81a6cb1f68c9c88e09&locations=5eb4fe3563194525801ecea18921c4c6,@workday
 T-Mobile,https://tmobile.wd1.myworkdayjobs.com/External?Job_Family_Group=426b19690b7b1036f85c59a787b10a19,@workday
 Samsung,https://sec.wd3.myworkdayjobs.com/Samsung_Careers?workerSubType=189767dd6c920145d5c3e59c2c297819&Location_Country=bc33aa3152ec42d4995f4791a106ed09,@workday
@@ -148,9 +148,9 @@ Apptronik,https://job-boards.greenhouse.io/embed/job_board?for=apptronik->https:
 Figure AI,https://job-boards.greenhouse.io/figureai/,@greenhouse->FILTER:intern|new grad|early career|entry|junior|university grad|college grad
 1x,https://jobs.ashbyhq.com/1x,@ashby->FILTER:intern|new grad|early career|entry|junior|university grad|college grad
 Sanctuary AI,https://careers.kula.ai/sanctuary-ai,@kula->FILTER:intern|new grad|early career|entry|junior|university grad|college grad
-RocketLab,https://job-boards.greenhouse.io/rocketlab?keyword=intern,@greenhouse
+RocketLab,https://job-boards.greenhouse.io/rocketlab,@greenhouse->FILTER:intern|new grad|early career|entry|junior|university grad|college grad
 Zillow,https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External?workerSubType=156fb9a2f01c10bed80e178a5482955b,@workday
-Northwood Space,https://jobs.ashbyhq.com/NorthwoodSpace,@ashby->FILTER:intern
+Northwood Space,https://jobs.ashbyhq.com/NorthwoodSpace,@ashby->FILTER:intern|new grad|early career|entry|junior|university grad|college grad
 Motional,https://job-boards.greenhouse.io/motional,@greenhouse
 Lucid Motors,https://job-boards.greenhouse.io/lucidmotors,@greenhouse->FILTER:intern|new grad|early career|entry|junior|university grad|college grad
 Titan Robotics,https://www.titanrobots.com/careers#footer-sections,@html:.accordion-item__title
