@@ -15085,7 +15085,8 @@
         "date": "N/A",
         "id": "greenhouse:7990045003",
         "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7990045003",
-        "location": "Toronto, CAN"
+        "location": "Toronto, CAN",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Integration & Test Intern Summer 2027",
@@ -16020,7 +16021,8 @@
         "date": "N/A",
         "id": "greenhouse:5780398004",
         "url": "https://boards.greenhouse.io/apptronik/jobs/5780398004?gh_jid=5780398004",
-        "location": "Austin, TX"
+        "location": "Austin, TX",
+        "closed": "2026-11-12"
       },
       {
         "title": "Hardware Integration Engineer - Dexterity",
@@ -16044,7 +16046,8 @@
         "date": "N/A",
         "id": "greenhouse:5780473004",
         "url": "https://boards.greenhouse.io/apptronik/jobs/5780473004?gh_jid=5780473004",
-        "location": "Austin, Texas"
+        "location": "Austin, Texas",
+        "closed": "2026-11-12"
       },
       {
         "title": "Senior Electrical Engineer - Apollo 2",
@@ -16146,7 +16149,8 @@
         "date": "N/A",
         "id": "greenhouse:5780475004",
         "url": "https://boards.greenhouse.io/apptronik/jobs/5780475004?gh_jid=5780475004",
-        "location": "Austin, Texas"
+        "location": "Austin, Texas",
+        "closed": "2026-11-12"
       },
       {
         "title": "Staff Electrical Engineer - Compute",
@@ -42443,7 +42447,8 @@
         "date": "2026-10-13",
         "id": "greenhouse:8872480002",
         "url": "https://wing.com/careers/8872480002?gh_jid=8872480002",
-        "location": "Palo Alto, California"
+        "location": "Palo Alto, California",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Guidance, Navigation, and Controls Engineering Intern, Summer 2027",
@@ -59324,6 +59329,34 @@
         "id": "workday:JR00048735",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Italy/Robotics-Global-Product-Manager---Connected-Care-Solutions-for-Industrial-Applications_JR00048735",
         "location": "19 Locations"
+      },
+      {
+        "title": "Machine Operator",
+        "date": "2026-11-12",
+        "id": "workday:JR00049796",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-AR-Jonesboro/Machine-Operator_JR00049796",
+        "location": "USA, AR, Jonesboro"
+      },
+      {
+        "title": "Senior Project Lead Engineer",
+        "date": "2026-11-12",
+        "id": "workday:JR00045571",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Houston-Texas-United-States-of-America/Senior-Project-Lead-Engineer_JR00045571",
+        "location": "2 Locations"
+      },
+      {
+        "title": "Product Manager - Industrial Machinery and VFDs",
+        "date": "2026-11-12",
+        "id": "workday:JR00043858",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Manager---Industrial-Machinery-and-VFDs_JR00043858",
+        "location": "New Berlin, Wisconsin, United States of America"
+      },
+      {
+        "title": "CNC Machining Operator",
+        "date": "2026-11-12",
+        "id": "workday:JR00053407",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MS--Columbus-Home-Office/CNC-Machining-Operator_JR00053407",
+        "location": "USA, MS, Columbus, Home Office"
       }
     ],
     "Teradyne": [
@@ -69044,6 +69077,13 @@
         "id": "workday:R10260310",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkridge/XMLNAME-2027-Electronics-Engineering-Intern---Elkridge-MD_R10260310",
         "location": "United States-Maryland-Elkridge"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Wafer Processing Engineering Internship - Saint Charles MO",
+        "date": "2026-11-12",
+        "id": "workday:R10260401",
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Missouri-Saint-Charles/XMLNAME-2027-Wafer-Processing-Engineering-Internship---Saint-Charles-MO_R10260401",
+        "location": "United States-Missouri-Saint Charles"
       }
     ],
     "OpenAI": [
@@ -88082,7 +88122,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5267552007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5267552007",
-        "location": "Memphis, TN"
+        "location": "Memphis, TN",
+        "closed": "2026-11-12"
       },
       {
         "title": "Supervisor, Child Safety Operations",
@@ -96514,6 +96555,13 @@
         "id": "atlassian:25998",
         "url": "https://www.atlassian.com/company/careers/details/25998",
         "location": "Seattle, WA"
+      },
+      {
+        "title": "AI Researcher (PhD), 2027 Graduate U.S.",
+        "date": "2026-11-12",
+        "id": "atlassian:26246",
+        "url": "https://www.atlassian.com/company/careers/details/26246",
+        "location": "San Francisco, CA +1"
       }
     ],
     "Splunk": [
@@ -110674,7 +110722,8 @@
         "date": "N/A",
         "id": "talentbrew:100378295536",
         "url": "https://jobs.boeing.com/job/wichita/boeing-wichita-summer-2027-internship-program-paid-manufacturing-engineering/185/100378295536",
-        "location": "Wichita, KS"
+        "location": "Wichita, KS",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Boeing - Wichita Summer 2027 Internship Program (Paid) - Supplier Quality Assurance & Compliance",
