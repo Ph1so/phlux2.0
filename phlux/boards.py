@@ -45,8 +45,9 @@ def _get(url: str, **kwargs) -> requests.Response:
     return response
 
 
-# Words that merely start with "intern" and so would match a keyword search for it.
-_NOT_INTERN = re.compile(r"\bintern(?:al|ally|als|ation|ational|ationally|et)\b", re.IGNORECASE)
+# Words that merely start with "intern" and so would match a keyword search for it
+# (French/German "interne(s)" means internal).
+_NOT_INTERN = re.compile(r"\bintern(?:al|ally|als|ation|ational|ationally|et|e|es)\b", re.IGNORECASE)
 
 
 def keyword_in(title: str, keyword: str) -> bool:

@@ -53,6 +53,11 @@ class TestIsInternship:
         for title in ("Contract Student Worker - Data Analyst", "Student Researcher, PhD", "Students Program"):
             assert is_internship(title) is True, title
 
+    def test_ignores_french_interne(self):
+        assert is_internship("Senior Backend Developer, Outils IA internes") is False
+        assert is_internship("Interne Revision (m/w/d)") is False
+        assert is_internship("Stagiaire / Intern, Supply Chain") is True
+
     def test_ignores_student_inside_words(self):
         assert is_internship("Studentenwerk Liaison") is False
 
@@ -62,6 +67,9 @@ class TestIsInternship:
         "MBA Investment Analyst (New York) – Summer 2027",
         "GMAF Summer 2027 - Horsham, PA",
         "START Optimus Service Technician (Winter 2027)",
+        "2027 | Americas | New York City Area | Engineering | Summer Analyst",
+        "2027 Machine Learning Center of Excellence (NLP) - Summer Associate",
+        "2027 Technology Summer Analyst Programme - Application Development (Glasgow)",
     ])
     def test_matches_student_programs(self, title):
         assert is_internship(title) is True
@@ -74,6 +82,8 @@ class TestIsInternship:
         "Field Engineer Fellow (Skillbridge)",
         "Graduate Engineer Trainee",
         "Summer Camp Coordinator",
+        "2027 | Americas | New York City Area | Engineering | New Analyst",
+        "Analyst, Summer Associate Recruiting",
     ])
     def test_ignores_full_time_programs(self, title):
         assert is_internship(title) is False

@@ -56,21 +56,26 @@ def _user_agent(chrome_major: int) -> str:
 
 # Matches internship / co-op postings. "intern" has no trailing word boundary so
 # scraped titles with a glued-on badge ("InternNew") still match; instead it
-# excludes the words that merely start with it (Internal, International, Internet).
+# excludes the words that merely start with it (Internal, International, Internet,
+# and French/German "interne(s)", internal).
 # "student" catches student-worker roles (e.g. Zoox's "Contract Student Worker").
 _INTERN_PATTERN = re.compile(
-    r"\bintern(?!al|ation|et)|\bco[- ]?ops?\b|\bstudents?\b", re.IGNORECASE
+    r"\bintern(?!al|ation|et|es?\b)|\bco[- ]?ops?\b|\bstudents?\b", re.IGNORECASE
 )
 # Student programs whose titles never say "intern": Palantir's "Meritocracy
 # Fellowship", "Anthropic Fellows Program, …", D. E. Shaw's "MBA Summer Associate
-# – Summer 2027". A bare "Fellow" is left out: it also names senior roles
-# ("Technical Fellow") and SkillBridge placements for veterans.
+# – Summer 2027", and the banks' "Summer Analyst" / "Summer Associate" programs
+# (Goldman Sachs, Morgan Stanley, JPMorganChase). A bare "Fellow" is left out:
+# it also names senior roles ("Technical Fellow") and SkillBridge placements for veterans.
 _PROGRAM_PATTERN = re.compile(
-    r"\bfellowship\b|\bfellows program\b|\b(?:summer|fall|winter|spring)\s+20\d\d\b", re.IGNORECASE
+    r"\bfellowship\b|\bfellows program\b|\b(?:summer|fall|winter|spring)\s+20\d\d\b"
+    r"|\bsummer\s+(?:analyst|associate)s?\b",
+    re.IGNORECASE,
 )
-# Full-time roles that still match the above: postdoc fellowships and new-grad
-# roles naming a graduation window ("Entry-Level (Graduation Date: Fall 2026-Summer 2027)").
-_NOT_PROGRAM_PATTERN = re.compile(r"post-?doc|graduat|entry[- ]level|new grad", re.IGNORECASE)
+# Full-time roles that still match the above: postdoc fellowships, the programs'
+# recruiters, and new-grad roles naming a graduation window ("Entry-Level
+# (Graduation Date: Fall 2026-Summer 2027)").
+_NOT_PROGRAM_PATTERN = re.compile(r"post-?doc|graduat|entry[- ]level|new grad|recruit", re.IGNORECASE)
 
 
 def is_internship(title: str) -> bool:

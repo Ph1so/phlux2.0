@@ -222,6 +222,7 @@ class TestKeywordIn:
         ("Senior Software Engineer, Internal Tooling", "intern", False),
         ("International Expansion Lead", "intern", False),
         ("Internet Services Engineer", "INTERN", False),
+        ("Senior Backend Developer, Outils IA internes", "intern", False),
         ("Internal Tools Intern", "intern", True),
         ("Spring 2027 Engineering Internship/Co-op", "internship", True),
         ("Winter Co-op", "co-op", True),
