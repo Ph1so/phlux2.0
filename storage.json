@@ -92083,6 +92083,78 @@
       {
         "title": "\u2b50\ufe0f Software Engineer Intern (First Play) - Summer 2027 (Mountain View, CA)",
         "date": "N/A"
+      },
+      {
+        "title": "Stagiaire en pharmacie, r\u00e9mun\u00e9r\u00e9(e) \u00e0 l\u2019heure \u2013 PHX temps partiel Quarts de travail flexibles",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "Stagiaire en pharmacie, r\u00e9mun\u00e9r\u00e9(e) \u00e0 l\u2019heure \u2013 PHX temps partiel Quarts de travail flexibles",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "Stagiaire en pharmacie, r\u00e9mun\u00e9r\u00e9(e) \u00e0 l\u2019heure \u2013 PHX temps partiel Quarts de travail flexibles",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "\u00c9tudiant(e) en pharmacie, r\u00e9mun\u00e9r\u00e9(e) \u00e0 l\u2019heure \u2013 PHX temps partiel Quarts de travail flexibles",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "\u00c9tudiant(e) en pharmacie, r\u00e9mun\u00e9r\u00e9(e) \u00e0 l\u2019heure syndiqu\u00e9(e) \u2013 PHX temps partiel Quarts de travail flexibles",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "\u00c9tudiant(e) en pharmacie, r\u00e9mun\u00e9r\u00e9(e) \u00e0 l\u2019heure syndiqu\u00e9(e) \u2013 PHX temps partiel Quarts de travail flexibles",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "\u00c9tudiant(e) en pharmacie, r\u00e9mun\u00e9r\u00e9(e) \u00e0 l\u2019heure \u2013 PHX temps partiel Quarts de travail flexibles",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "\u00c9tudiant(e) en pharmacie, r\u00e9mun\u00e9r\u00e9(e) \u00e0 l\u2019heure \u2013 PHX temps partiel Quarts de travail flexibles",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "\u00c9tudiant(e) en pharmacie, r\u00e9mun\u00e9r\u00e9(e) \u00e0 l\u2019heure \u2013 PHX temps partiel Quarts de travail flexibles",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "\u00c9tudiant(e) en pharmacie, r\u00e9mun\u00e9r\u00e9(e) \u00e0 l\u2019heure \u2013 PHX temps partiel Quarts de travail flexibles",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "\u00c9tudiant(e) en pharmacie, r\u00e9mun\u00e9r\u00e9(e) \u00e0 l\u2019heure \u2013 PHX temps partiel Quarts de travail flexibles",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "\u00c9tudiant(e) en pharmacie, r\u00e9mun\u00e9r\u00e9(e) \u00e0 l\u2019heure \u2013 PHX temps partiel Quarts de travail flexibles",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "\u00c9tudiant(e) en pharmacie, r\u00e9mun\u00e9r\u00e9(e) \u00e0 l\u2019heure \u2013 PHX temps partiel Quarts de travail flexibles",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "\u00c9tudiant(e) en pharmacie, r\u00e9mun\u00e9r\u00e9(e) \u00e0 l\u2019heure \u2013 PHX temps partiel Quarts de travail flexibles",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "\u00c9tudiant(e) en pharmacie, r\u00e9mun\u00e9r\u00e9(e) \u00e0 l\u2019heure \u2013 PHX temps partiel Quarts de travail flexibles",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "\u00c9tudiant(e) en pharmacie, r\u00e9mun\u00e9r\u00e9(e) \u00e0 l\u2019heure \u2013 PHX temps partiel jour",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "\u00c9tudiant(e) en pharmacie, r\u00e9mun\u00e9r\u00e9(e) \u00e0 l\u2019heure \u2013 PHX temps partiel jour",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "\u00c9tudiant(e) en pharmacie, r\u00e9mun\u00e9r\u00e9(e) \u00e0 l\u2019heure \u2013 PHX temps partiel jour",
+        "date": "2026-11-11"
       }
     ],
     "Liberty Mutual": [],
@@ -105300,6 +105372,10 @@
       {
         "title": "\u2b50\ufe0f Corporate Planning (CPO) Intern",
         "date": "2026-11-11"
+      },
+      {
+        "title": "\u2b50\ufe0f Equipment Engineer (EE) Intern",
+        "date": "2026-11-11"
       }
     ],
     "Boston Scientific": [
@@ -114847,15 +114923,12 @@
     "Navier": {
       "since": "2026-11-11",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/navierboat/jobs?content=true"
-    },
-    "TSMC": {
-      "since": "2026-11-11",
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://careers.tsmc.com/en_US/careers/SearchJobs/?542=13100&542_format=486&listFilterMode=1&jobRecordsPerPage=100&"
     }
   },
   "closures_untracked": {
     "LinkedIn": "2026-11-11",
     "TSMC": "2026-11-11",
-    "Amentum": "2026-11-11"
+    "Amentum": "2026-11-11",
+    "Exotec": "2026-11-11"
   }
 }
