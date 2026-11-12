@@ -6,7 +6,7 @@ from unittest.mock import MagicMock, patch
 import pytest
 
 from phlux.adapters import ADAPTERS
-from phlux.adapters.eightfold import api_request, fetch, pcsx_filters, position_url, snake_case
+from phlux.adapters.eightfold import WALKS, api_request, fetch, pcsx_filters, position_url, snake_case
 
 OPTIONS = {
     "seniority": {"displayName": "Seniority", "options": {"labelMap": {"0": "Intern", "1": "Entry"}}},
@@ -120,6 +120,45 @@ def test_pcsx_pages_until_count(sleep):
     assert ("filter_seniority", "0") in calls[1][1]["params"]
     # One session carries the page's cookies to the API.
     assert len({id(c[1]["session"]) for c in calls}) == 1
+
+
+@patch("phlux.adapters.base.time.sleep")
+def test_walks_again_when_pages_overlap(sleep):
+    """Qualcomm from CI: page 2 repeated page 1's positions, so a walk read 12 of 18."""
+    url = "https://careers.acme.com/careers?seniority=Intern"
+    walks = []
+
+    def get(target, **kwargs):
+        if target == url:
+            return response(text=pcsx_page())
+        start = int(dict(kwargs["params"])["start"])
+        if start == 0:
+            walks.append(start)
+        # The first walk's second page repeats 8 of page 1; later walks are in order.
+        page = positions(2, 10, 18) if start == 10 and len(walks) == 1 else positions(start, 10, 18)
+        return response({"data": {"count": 18, "positions": page}})
+
+    with patch("phlux.adapters.eightfold.get", side_effect=get):
+        postings = fetch(url)
+    assert sorted(int(p.id.split(":")[1]) for p in postings) == list(range(18))
+    assert len(walks) == 2
+
+
+@patch("phlux.adapters.base.time.sleep")
+def test_settles_for_fewer_after_every_walk(sleep):
+    url = "https://careers.acme.com/careers?seniority=Intern"
+
+    def get(target, **kwargs):
+        if target == url:
+            return response(text=pcsx_page())
+        # The count says 18, but no walk ever shows more than the first 10.
+        return response({"data": {"count": 18, "positions": positions(0, 10, 18)}})
+
+    with patch("phlux.adapters.eightfold.get", side_effect=get) as mock:
+        postings = fetch(url)
+    assert [p.id for p in postings] == [f"eightfold:{n}" for n in range(10)]
+    # The page, then both API pages a walk, three times.
+    assert mock.call_count == 1 + 2 * WALKS
 
 
 @patch("phlux.adapters.base.time.sleep")

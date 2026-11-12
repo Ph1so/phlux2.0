@@ -20,6 +20,15 @@ one), and the cookies it sets keep the API from answering 429 at once.
 Both APIs return 10 positions a page whatever ``num`` asks, and answer 429 to
 quick calls, so pages are :data:`DELAY` seconds apart. Keep a row's search
 narrow (a ``query`` or filters): :data:`MAX_PAGES` pages is the most read.
+
+The order isn't always stable between calls: from GitHub Actions, Qualcomm's
+second page sometimes repeated positions from its first, so a walk came back
+with 12 of 18. The positions skipped looked closed, the next run reopened
+them, and every run committed (each bot commit starts another run). So a walk
+reads every page up to the API's ``count``, even a page of positions already
+seen (where ``base.paged`` would stop); one that ends short of the count is
+repeated, up to :data:`WALKS` in all, and the positions of every walk are kept.
+
 A position's ``id`` is the stable key. Its page is PCSX's ``positionUrl``
 (relative, ``/careers/job/<id>``) on the careers site, or the older API's
 absolute ``canonicalPositionUrl``. Its ``locations`` ("San Diego, California,
@@ -31,13 +40,14 @@ from __future__ import annotations
 import json
 import logging
 import re
+import time
 from typing import Dict, List, Optional, Tuple
 from urllib.parse import urljoin, urlsplit
 
 import requests
 
 from ..models import Posting
-from .base import adapter, first, get, paged, place, query, soup, tidy_place
+from .base import adapter, first, get, place, query, soup, tidy_place
 
 logger = logging.getLogger(__name__)
 
@@ -47,6 +57,8 @@ PAGE_SIZE = 10
 DELAY = 2.0
 # Requests per company per run (500 positions); a bigger scope is cut short.
 MAX_PAGES = 50
+# Walks through the pages before settling for fewer positions than the count.
+WALKS = 3
 PCSX_API = "/api/pcsx/search"
 LEGACY_API = "/api/apply/v2/jobs"
 # Parameters the careers page reads itself rather than as filters.
@@ -168,22 +180,39 @@ def fetch(url: str, arg: str = "") -> List[Posting]:
     api, params, pcsx = api_request(url, html)
     parts = urlsplit(url)
     origin = f"{parts.scheme}://{parts.netloc}"
-    total: Dict[str, int] = {}
-
-    def fetch_page(page: int) -> List[Posting]:
-        start = page * PAGE_SIZE
-        if "count" in total and start >= total["count"]:
-            return []
+    def fetch_page(start: int) -> Tuple[int, List[Posting]]:
         body = get(api, session=session, params=params + [("start", str(start))],
                    headers={"Accept": "application/json"}).json()
         data = body["data"] if pcsx else body
-        total["count"] = int(data.get("count") or 0)
-        return [
+        return int(data.get("count") or 0), [
             Posting(f"{NAME}:{p['id']}", " ".join(str(p["name"]).split()), location(p), position_url(origin, p))
             for p in data.get("positions") or []
         ]
 
-    postings = paged(fetch_page, delay=DELAY, max_pages=MAX_PAGES)
-    if total.get("count", 0) > MAX_PAGES * PAGE_SIZE:
-        logger.warning("%s has %d positions; read only the first %d", url, total["count"], len(postings))
+    postings: List[Posting] = []
+    seen: set = set()
+    count: Optional[int] = None
+    calls = 0
+    for _ in range(WALKS):
+        # Every page up to the count, even one of positions already seen.
+        start = 0
+        while count is None or start < min(count, MAX_PAGES * PAGE_SIZE):
+            if calls:
+                time.sleep(DELAY)
+            calls += 1
+            count, page = fetch_page(start)
+            if not page:
+                break
+            for posting in page:
+                if posting.id not in seen:
+                    seen.add(posting.id)
+                    postings.append(posting)
+            start += PAGE_SIZE
+        if count > MAX_PAGES * PAGE_SIZE:
+            logger.warning("%s has %d positions; read only the first %d", url, count, len(postings))
+            break
+        if len(postings) >= count:
+            break
+    else:
+        logger.warning("%s: read %d of %d positions in %d walks", url, len(postings), count, WALKS)
     return postings
