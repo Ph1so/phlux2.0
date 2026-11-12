@@ -1223,7 +1223,8 @@
         "date": "2026-11-06",
         "id": "eightfold:1970393557056017",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557056017",
-        "location": "United States, NY +1"
+        "location": "United States, NY +1",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Next-Generation AI Agents",
@@ -91027,6 +91028,10 @@
       },
       {
         "title": "\u2b50\ufe0f Material Management Intern",
+        "date": "2026-11-11"
+      },
+      {
+        "title": "\u2b50\ufe0f Corporate Planning (CPO) Intern",
         "date": "2026-11-11"
       }
     ],
