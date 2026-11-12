@@ -14095,8 +14095,7 @@
         "date": "N/A",
         "id": "greenhouse:8244915002",
         "url": "https://boards.greenhouse.io/pathrobotics/jobs/8244915002?gh_jid=8244915002",
-        "location": "Columbus, Ohio",
-        "closed": "2026-11-12"
+        "location": "Columbus, Ohio"
       },
       {
         "title": "Data Engineer",
@@ -18767,6 +18766,13 @@
         "id": "paylocity:4586493",
         "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4586493",
         "location": "Atlanta, GA"
+      },
+      {
+        "title": "Sr. Financial Analyst, Strategic Finance",
+        "date": "2026-11-12",
+        "id": "paylocity:4661220",
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4661220",
+        "location": "Orlando, FL"
       }
     ],
     "Aurora Innovation": [
@@ -50380,7 +50386,8 @@
         "date": "2026-10-14",
         "id": "greenhouse:4412980009",
         "url": "https://www.saildrone.com/careers/available-jobs?gh_jid=4412980009",
-        "location": "Alameda, California, United States"
+        "location": "Alameda, California, United States",
+        "closed": "2026-11-12"
       },
       {
         "title": "Perception Machine Learning Engineer",
