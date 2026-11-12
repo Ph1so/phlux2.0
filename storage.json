@@ -15169,6 +15169,36 @@
         "id": "greenhouse:7986956003",
         "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986956003",
         "location": "Long Beach, CA"
+      },
+      {
+        "title": "Junior Development Engineer - Neutron",
+        "date": "N/A",
+        "id": "greenhouse:7994943003",
+        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7994943003",
+        "location": "Auckland, NZ"
+      },
+      {
+        "title": "Junior Ground Systems Engineer - Instrumentation & Control",
+        "date": "N/A",
+        "id": "greenhouse:8034180003",
+        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8034180003",
+        "location": "Auckland, NZ"
+      },
+      {
+        "title": "Junior Manufacturing Engineer",
+        "date": "N/A",
+        "id": "greenhouse:8032172003",
+        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8032172003",
+        "location": "Auckland, NZ",
+        "early": "Have you recently graduated with a Bachelor's degree in Mechanical, Electrical, Mechatronics, Computer Engineering, Chemical Engineering, Material Science, or similar?"
+      },
+      {
+        "title": "Junior Radio Frequency Engineer - Test",
+        "date": "N/A",
+        "id": "greenhouse:8013612003",
+        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8013612003",
+        "location": "Auckland, NZ",
+        "early": "This is an entry-level role."
       }
     ],
     "Motional": [
@@ -52817,7 +52847,7 @@
         "location": "Issy-les-Moulineaux, France"
       },
       {
-        "title": "Global Market Access Summer Associate",
+        "title": "\u2b50\ufe0f Global Market Access Summer Associate",
         "date": "N/A",
         "id": "workday:R-101873",
         "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Raritan-New-Jersey-United-States-of-America/Global-Market-Access-Summer-Associate_R-101873",
@@ -88730,27 +88760,27 @@
     ],
     "Bank of America": [
       {
-        "title": "Global Investment Banking Summer Analyst Program 2028 - Energy",
+        "title": "\u2b50\ufe0f Global Investment Banking Summer Analyst Program 2028 - Energy",
         "date": "N/A"
       },
       {
-        "title": "Latin America Investment Banking Summer Associate Program \u2013 2027",
+        "title": "\u2b50\ufe0f Latin America Investment Banking Summer Associate Program \u2013 2027",
         "date": "N/A"
       },
       {
-        "title": "Global Investment Banking Summer Associate Program - 2027",
+        "title": "\u2b50\ufe0f Global Investment Banking Summer Associate Program - 2027",
         "date": "N/A"
       },
       {
-        "title": "Global Markets Sales & Trading Summer Associate Program - 2027",
+        "title": "\u2b50\ufe0f Global Markets Sales & Trading Summer Associate Program - 2027",
         "date": "N/A"
       },
       {
-        "title": "Global Quantitative Research Summer Associate Program - 2027",
+        "title": "\u2b50\ufe0f Global Quantitative Research Summer Associate Program - 2027",
         "date": "N/A"
       },
       {
-        "title": "Quantitative Strategies & Data Group Summer Associate Program - 2027",
+        "title": "\u2b50\ufe0f Quantitative Strategies & Data Group Summer Associate Program - 2027",
         "date": "N/A"
       }
     ],
@@ -88767,19 +88797,19 @@
         "date": "N/A"
       },
       {
-        "title": "2027 Fund Services Summer Analyst Programme - Accounting (Glasgow)",
+        "title": "\u2b50\ufe0f 2027 Fund Services Summer Analyst Programme - Accounting (Glasgow)",
         "date": "N/A"
       },
       {
-        "title": "2027 Investment Management Summer Analyst Programme - Global Sales and Marketing (London)",
+        "title": "\u2b50\ufe0f 2027 Investment Management Summer Analyst Programme - Global Sales and Marketing (London)",
         "date": "N/A"
       },
       {
-        "title": "2027 Investment Management Summer Analyst Programme - Real Assets (London)",
+        "title": "\u2b50\ufe0f 2027 Investment Management Summer Analyst Programme - Real Assets (London)",
         "date": "N/A"
       },
       {
-        "title": "2027 Non-Financial Risk Summer Analyst Programme (Glasgow)",
+        "title": "\u2b50\ufe0f 2027 Non-Financial Risk Summer Analyst Programme (Glasgow)",
         "date": "N/A"
       },
       {
@@ -88791,7 +88821,7 @@
         "date": "N/A"
       },
       {
-        "title": "2027 Technology Summer Analyst Programme - Application Development (Glasgow)",
+        "title": "\u2b50\ufe0f 2027 Technology Summer Analyst Programme - Application Development (Glasgow)",
         "date": "N/A"
       },
       {
@@ -91271,6 +91301,13 @@
         "id": "greenhouse:8258241",
         "url": "https://www.weareroku.com/jobs/8258241?gh_jid=8258241",
         "location": "San Jose, California"
+      },
+      {
+        "title": "Software Engineer, Early Careers AI/UI",
+        "date": "N/A",
+        "id": "greenhouse:8188704",
+        "url": "https://www.weareroku.com/jobs/8188704?gh_jid=8188704",
+        "location": "San Jose, California"
       }
     ],
     "Deloitte": [
@@ -92114,6 +92151,43 @@
         "id": "ashby:ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9",
         "url": "https://jobs.ashbyhq.com/notion/ea6f01b1-dda2-4b0f-b351-d3e7c5e9c9e9",
         "location": "New York, New York"
+      },
+      {
+        "title": "Software Engineer, Early Career (AI)",
+        "date": "N/A",
+        "id": "ashby:85947779-6b87-466a-98bc-30a640448c28",
+        "url": "https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28",
+        "location": "San Francisco, California",
+        "early": "We're looking for an Early Career AI Engineer to join as a strategic partner in shaping Notion's AI vision."
+      },
+      {
+        "title": "Head of Early Career Recruiting",
+        "date": "N/A",
+        "id": "ashby:076371b1-e9b0-4ad7-b67b-ae9e4572f65a",
+        "url": "https://jobs.ashbyhq.com/notion/076371b1-e9b0-4ad7-b67b-ae9e4572f65a",
+        "location": "San Francisco, California +1"
+      },
+      {
+        "title": "Software Engineer, Growth (Early Career)",
+        "date": "N/A",
+        "id": "ashby:297b4ece-765f-4eea-b1b8-46057cb6501f",
+        "url": "https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f",
+        "location": "San Francisco, California",
+        "early": "As an Early Career Software Engineer at Notion, you\u2019ll help shape core user experiences and accelerate how people discover value in Notion."
+      },
+      {
+        "title": "Notino Experience Program Manager - EMEA & APAC, Early Career",
+        "date": "N/A",
+        "id": "ashby:9c2e6e72-6dc0-496c-a705-32d441fa04c7",
+        "url": "https://jobs.ashbyhq.com/notion/9c2e6e72-6dc0-496c-a705-32d441fa04c7",
+        "location": "Dublin, Ireland"
+      },
+      {
+        "title": "Software Engineer, New Grad (Dec 2026)",
+        "date": "N/A",
+        "id": "ashby:e32799d2-8ef8-4803-8189-c72514afa816",
+        "url": "https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816",
+        "location": "San Francisco, California"
       }
     ],
     "Hugging Face": [
@@ -92347,11 +92421,11 @@
     ],
     "Goldman Sachs": [
       {
-        "title": "2027 Summer Analyst Program",
+        "title": "\u2b50\ufe0f 2027 Summer Analyst Program",
         "date": "N/A"
       },
       {
-        "title": "2027 Summer Associate Program",
+        "title": "\u2b50\ufe0f 2027 Summer Associate Program",
         "date": "N/A"
       },
       {
@@ -92814,6 +92888,14 @@
         "id": "ashby:fa522ac5-fc9f-4ce1-a191-842496a235a2",
         "url": "https://jobs.ashbyhq.com/sentry/fa522ac5-fc9f-4ce1-a191-842496a235a2",
         "location": "Vienna, Austria"
+      },
+      {
+        "title": "Software Engineer, New Grad (2027)",
+        "date": "N/A",
+        "id": "ashby:f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2",
+        "url": "https://jobs.ashbyhq.com/sentry/f345b525-b2e9-4dc1-bec1-85fb4c3b3cf2",
+        "location": "Vienna, Austria",
+        "early": "New grad hires are rad hires."
       }
     ],
     "Tencent": [
@@ -93624,6 +93706,29 @@
         "id": "ashby:7bfa4ec0-7d5a-475b-aa2b-0cd0741e1549",
         "url": "https://jobs.ashbyhq.com/northwoodspace/7bfa4ec0-7d5a-475b-aa2b-0cd0741e1549",
         "location": "Torrance, CA"
+      },
+      {
+        "title": "Electrical Engineer (Portal) - New Grad",
+        "date": "N/A",
+        "id": "ashby:ca73b132-2264-4649-ad83-73ea3e69fe5d",
+        "url": "https://jobs.ashbyhq.com/northwoodspace/ca73b132-2264-4649-ad83-73ea3e69fe5d",
+        "location": "Torrance, CA",
+        "early": "0-2 + years of professional experience in electrical design"
+      },
+      {
+        "title": "Software Engineer- Early Career (Platform)",
+        "date": "N/A",
+        "id": "ashby:f7b9e8d5-7368-4a54-b445-ff647f12b1b6",
+        "url": "https://jobs.ashbyhq.com/northwoodspace/f7b9e8d5-7368-4a54-b445-ff647f12b1b6",
+        "location": "Torrance, CA",
+        "early": "As an early-career Software Engineer on the Platform team, you'll ship to real production systems from your first weeks, with close mentorship, and take on more ownership as you show you're ready."
+      },
+      {
+        "title": "Lifecycle Electrical Engineer (Prism) - New Grad",
+        "date": "N/A",
+        "id": "ashby:ca559bda-f67e-4bbd-a9d8-4737b5fe02e0",
+        "url": "https://jobs.ashbyhq.com/northwoodspace/ca559bda-f67e-4bbd-a9d8-4737b5fe02e0",
+        "location": "Torrance, CA"
       }
     ],
     "Zillow": [
@@ -93832,15 +93937,15 @@
         "date": "N/A"
       },
       {
-        "title": "2027 Machine Learning Center of Excellence - Time Series and Reinforcement Learning (TSRL) - Summer Associate",
+        "title": "\u2b50\ufe0f 2027 Machine Learning Center of Excellence - Time Series and Reinforcement Learning (TSRL) - Summer Associate",
         "date": "N/A"
       },
       {
-        "title": "2027 Machine Learning Center of Excellence (Quant AI) - Summer Associate",
+        "title": "\u2b50\ufe0f 2027 Machine Learning Center of Excellence (Quant AI) - Summer Associate",
         "date": "N/A"
       },
       {
-        "title": "2027 Machine Learning Center of Excellence (NLP) - Summer Associate",
+        "title": "\u2b50\ufe0f 2027 Machine Learning Center of Excellence (NLP) - Summer Associate",
         "date": "N/A"
       },
       {
@@ -96667,5 +96772,130 @@
       "since": "2026-11-11",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/navierboat/jobs?content=true"
     }
+  },
+  "closures_untracked": {
+    "Pinterest": "2026-11-11",
+    "ispace": "2026-11-11",
+    "Welch's": "2026-11-11",
+    "IBM": "2026-11-11",
+    "Salesforce": "2026-11-11",
+    "LinkedIn": "2026-11-11",
+    "Intel": "2026-11-11",
+    "Bank of America": "2026-11-11",
+    "Liberty Mutual": "2026-11-11",
+    "PayPal": "2026-11-11",
+    "Airbnb": "2026-11-11",
+    "Cisco": "2026-11-11",
+    "Morgan Stanley": "2026-11-11",
+    "Spotify": "2026-11-11",
+    "TwoSigma": "2026-11-11",
+    "Stripe": "2026-11-11",
+    "Snap": "2026-11-11",
+    "Ramp": "2026-11-11",
+    "Workday": "2026-11-11",
+    "Atlassian": "2026-11-11",
+    "Cohere": "2026-11-11",
+    "Datadog": "2026-11-11",
+    "MongoDB": "2026-11-11",
+    "Slack": "2026-11-11",
+    "Splunk": "2026-11-11",
+    "TikTok": "2026-11-11",
+    "Robinhood": "2026-11-11",
+    "Intuit": "2026-11-11",
+    "Nokia": "2026-11-11",
+    "EA": "2026-11-11",
+    "Dassault Systems": "2026-11-11",
+    "Expedia": "2026-11-11",
+    "Susquehanna": "2026-11-11",
+    "ByteDance": "2026-11-11",
+    "Oracle": "2026-11-11",
+    "Asana": "2026-11-11",
+    "Grammarly": "2026-11-11",
+    "Adobe": "2026-11-11",
+    "Databricks": "2026-11-11",
+    "TSMC": "2026-11-11",
+    "Boston Scientific": "2026-11-11",
+    "Siemens": "2026-11-11",
+    "Rockwell Automation": "2026-11-11",
+    "Scheider Electric": "2026-11-11",
+    "X": "2026-11-11",
+    "Verkada": "2026-11-11",
+    "Cloudflare": "2026-11-11",
+    "Capital One": "2026-11-11",
+    "Deloitte": "2026-11-11",
+    "Roku": "2026-11-11",
+    "Github": "2026-11-11",
+    "RedHat": "2026-11-11",
+    "Epic Games": "2026-11-11",
+    "Twitch": "2026-11-11",
+    "Visa": "2026-11-11",
+    "Replit": "2026-11-11",
+    "Vercel": "2026-11-11",
+    "Hugging Face": "2026-11-11",
+    "Verizon": "2026-11-11",
+    "Notion": "2026-11-11",
+    "JP Morgan Chase": "2026-11-11",
+    "Genesis Therapeutics": "2026-11-11",
+    "Duolingo": "2026-11-11",
+    "Coinbase": "2026-11-11",
+    "Disney": "2026-11-11",
+    "Goldman Sachs": "2026-11-11",
+    "Beli": "2026-11-11",
+    "Leidos": "2026-11-11",
+    "Radix Trading": "2026-11-11",
+    "Razer": "2026-11-11",
+    "Docusign": "2026-11-11",
+    "Tencent": "2026-11-11",
+    "Point72": "2026-11-11",
+    "Sentry": "2026-11-11",
+    "Comcast": "2026-11-11",
+    "HP": "2026-11-11",
+    "Sony": "2026-11-11",
+    "UKG": "2026-11-11",
+    "Target": "2026-11-11",
+    "Amentum": "2026-11-11",
+    "Boeing": "2026-11-11",
+    "DRW": "2026-11-11",
+    "Mercedes Benz": "2026-11-11",
+    "Mosaic": "2026-11-11",
+    "T-Mobile": "2026-11-11",
+    "Samsung": "2026-11-11",
+    "Medtronic": "2026-11-11",
+    "Akuna Capital": "2026-11-11",
+    "Bose": "2026-11-11",
+    "Stoke Space": "2026-11-11",
+    "RocketLab": "2026-11-11",
+    "Zillow": "2026-11-11",
+    "Northwood Space": "2026-11-11",
+    "Mitre": "2026-11-11",
+    "Draper": "2026-11-11",
+    "Shure": "2026-11-11",
+    "Lyft": "2026-11-11",
+    "Glydways": "2026-11-11",
+    "Blue River Technology": "2026-11-11",
+    "Lodestar": "2026-11-11",
+    "Morsecorp": "2026-11-11",
+    "Impulse Space": "2026-11-11",
+    "Outrider": "2026-11-11",
+    "ANYbotics": "2026-11-11",
+    "Viam": "2026-11-11",
+    "Foxglove": "2026-11-11",
+    "Hadrian": "2026-11-11",
+    "Saildrone": "2026-11-11",
+    "Berkshire Grey": "2026-11-11",
+    "Stryker": "2026-11-11",
+    "Johnson & Johnson": "2026-11-11",
+    "PROCEPT BioRobotics": "2026-11-11",
+    "ABB": "2026-11-11",
+    "KUKA": "2026-11-11",
+    "Teradyne": "2026-11-11",
+    "Zimmer Biomet": "2026-11-11",
+    "Intuitive Machines": "2026-11-11",
+    "FANUC America": "2026-11-11",
+    "Voyager Technologies": "2026-11-11",
+    "Starship Technologies": "2026-11-11",
+    "Exotec": "2026-11-11",
+    "Northrop Grumman": "2026-11-11",
+    "Lockheed Martin": "2026-11-11"
   }
 }
