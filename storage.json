@@ -59265,6 +59265,10 @@
       {
         "title": "Mixed Signal Electrical Engineer (Compute Test, North Reading, MA)",
         "date": "N/A"
+      },
+      {
+        "title": "FPGA Design Engineer (MTD, Tualatin, OR)",
+        "date": "2026-11-11"
       }
     ],
     "KUKA": [
@@ -63028,14 +63032,16 @@
         "date": "2026-10-22",
         "id": "lever:d59b0f20-4b3b-49bf-b9a6-600ee7050db0",
         "url": "https://jobs.lever.co/woven-by-toyota/d59b0f20-4b3b-49bf-b9a6-600ee7050db0",
-        "location": "Tokyo"
+        "location": "Tokyo",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u30b7\u30cb\u30a2\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30d3\u30b8\u30e7\u30f3\uff0f\u6a5f\u68b0\u5b66\u7fd2\u30a8\u30f3\u30b8\u30cb\u30a2\u30fbDigital Twin Platform",
         "date": "2026-10-22",
         "id": "lever:c2c2f32a-7732-4cee-a64f-5a937646fcf1",
         "url": "https://jobs.lever.co/woven-by-toyota/c2c2f32a-7732-4cee-a64f-5a937646fcf1",
-        "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a"
+        "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a",
+        "closed": "2026-11-11"
       },
       {
         "title": "\u30b7\u30cb\u30a2\u30d7\u30ed\u30c0\u30af\u30c8\u30aa\u30fc\u30ca\u30fc\uff06\u4e8b\u696d\u958b\u767a\u30b3\u30f3\u30b5\u30eb\u30bf\u30f3\u30c8\u30fbMobility Infrastructure",
