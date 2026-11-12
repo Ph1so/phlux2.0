@@ -70,6 +70,9 @@ def location(anchor) -> str:
     for label in card.select(".field-label"):
         if text(label).casefold() in LOCATION_LABELS:
             value = label.find_next_sibling()
+            if value is None and label.parent is not None and label.parent.name == "dt":
+                # Newer cards put the label in a <dt> and the codes in the <dd> after it.
+                value = label.parent.find_next_sibling("dd")
             codes = text(value).split("|") if value is not None else []
             return place(None, [coded_place(c) for c in codes])
     return ""

@@ -230,6 +230,18 @@ def test_locations_written_city_state_with_a_count(sleep):
 
 
 @patch("phlux.adapters.base.time.sleep")
+def test_raw_ats_locations_give_way_to_standardized_ones(sleep):
+    # Boston Scientific's tenant puts its ATS's own text in "locations".
+    from phlux.adapters.eightfold import location
+    assert location({"locations": ["United States | US-MN-Maple Grove", "Arden Hills US-MN, United States |  N/A"],
+                     "standardizedLocations": ["Maple Grove, MN, US", "US"]}) == "Maple Grove, MN +1"
+    assert location({"locations": ["United States | US-MN-Maple Grove"],
+                     "standardizedLocations": ["US"]}) == "United States"
+    # Without standardized ones, the raw text is still better than nothing.
+    assert location({"locations": ["United States | US-MN-Maple Grove"]}) == "United States | US-MN-Maple Grove"
+
+
+@patch("phlux.adapters.base.time.sleep")
 def test_legacy_location_comes_first(sleep):
     url = "https://jobs.acme.com/careers?query=intern"
 

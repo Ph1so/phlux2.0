@@ -22,11 +22,12 @@ link's ``.job-location`` is where the job is ("Bedford, Massachusetts", written
 from __future__ import annotations
 
 import logging
+import re
 from typing import Dict, List, Optional, Tuple
 from urllib.parse import urlencode, urlsplit, urlunsplit
 
 from ..models import Posting
-from .base import adapter, bare_url, get, query, soup, text, tidy_place, unique
+from .base import adapter, bare_url, get, place, query, soup, text, tidy_place, unique
 
 logger = logging.getLogger(__name__)
 
@@ -51,6 +52,17 @@ def page_url(url: str, page: int) -> str:
     return urlunsplit((parts.scheme, parts.netloc, parts.path, urlencode(params), ""))
 
 
+def job_place(where: str) -> str:
+    """Return a result's location text written per :mod:`phlux.adapters.base`.
+
+    Several places come joined with " / " ("Glendale, California / Orlando,
+    Florida" → "Glendale, CA +1"); "; and other locations" (Boeing) is dropped.
+    """
+    where = re.sub(r"[;,]?\s*and other locations\s*$", "", where, flags=re.IGNORECASE)
+    names = [tidy_place(n) for n in where.split(" / ")]
+    return place(names[0], names[1:]) if names else ""
+
+
 def parse_results(html: str, base_url: str = "") -> Tuple[List[Posting], Dict[str, str], Optional[int]]:
     """Return a results page's postings, its scope attributes and its page count.
 
@@ -67,8 +79,12 @@ def parse_results(html: str, base_url: str = "") -> Tuple[List[Posting], Dict[st
         if title:
             url = bare_url(link["href"], base_url) if link.get("href") else ""
             where = link.select_one(LOCATION)
+            # Some templates (Boeing) put the location beside the link, in its list item.
+            item = link.find_parent("li") if where is None else None
+            if item is not None:
+                where = item.select_one(LOCATION)
             postings.append(Posting(f"{NAME}:{link['data-job-id']}", title,
-                                    tidy_place(text(where)) if where is not None else "", url))
+                                    job_place(text(where)) if where is not None else "", url))
     scope = {attr: section.get(attr, "") for attr in SCOPE_ATTRS + (TOTAL_ATTR,)}
     pages = section.get("data-total-pages", "")
     if not pages.isdigit():

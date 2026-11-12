@@ -47,7 +47,7 @@ from urllib.parse import urljoin, urlsplit
 import requests
 
 from ..models import Posting
-from .base import adapter, first, get, place, query, soup, tidy_place
+from .base import adapter, first, get, is_us, place, query, soup, tidy_place
 
 logger = logging.getLogger(__name__)
 
@@ -162,14 +162,30 @@ def position_url(origin: str, position: dict) -> str:
     return urljoin(origin + "/", path or POSITION_PATH.format(id=position["id"]))
 
 
+def _tidy(name: str) -> str:
+    return "United States" if is_us(name) else tidy_place(name)
+
+
 def location(position: dict) -> str:
-    """Return a position's location: its first (or named) one and how many more it lists."""
-    names = position.get("locations") or position.get("standardizedLocations") or []
+    """Return a position's location: its first (or named) one and how many more it lists.
+
+    Some tenants fill ``locations`` with their ATS's raw text ("United States |
+    US-MN-Maple Grove"); their ``standardizedLocations`` ("Maple Grove, MN, US")
+    are used instead.
+    """
+    names = position.get("locations") or []
     if isinstance(names, str):
         names = [names]
+    standard = position.get("standardizedLocations") or []
+    if isinstance(standard, str):
+        standard = [standard]
+    if not names or (standard and any("|" in n for n in names if isinstance(n, str))):
+        names = standard
     main = position.get("location")
-    return place(tidy_place(main) if isinstance(main, str) else None,
-                 [tidy_place(n) for n in names if isinstance(n, str)])
+    if isinstance(main, str) and "|" in main and standard:
+        main = None
+    return place(_tidy(main) if isinstance(main, str) else None,
+                 [_tidy(n) for n in names if isinstance(n, str)])
 
 
 @adapter(NAME)

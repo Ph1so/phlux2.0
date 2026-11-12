@@ -117,3 +117,20 @@ def test_row_layout_location():
 def test_no_location_field():
     html = f'<a class="iCIMS_Anchor" href="{PORTAL[:-7]}/12/x/job"><h3>Intern</h3></a>'
     assert parse_results(html)[0][0].location == ""
+
+
+def test_location_in_a_header_group():
+    # Shure's cards put the label in a <dt> (after an icon) and the codes in the next <dd>.
+    html = results([f"""
+    <li class="iCIMS_JobCardItem"><div class="row">
+      <div class="col-xs-12 title"><a class="iCIMS_Anchor" href="{PORTAL[:-7]}/5042/intern/job"><h3>Intern, OPS PM</h3></a></div>
+      <div class="col-xs-12 additionalFields"><dl class="iCIMS_JobHeaderGroup">
+        <div class="iCIMS_JobHeaderTag"><dt class="iCIMS_JobHeaderField"><span class="glyphicons"></span>
+          <span class="sr-only field-label">Job Locations</span></dt>
+          <dd class="iCIMS_JobHeaderData"><span>US-IL-Niles | CN-JS-Suzhou</span></dd></div>
+        <div class="iCIMS_JobHeaderTag"><dt class="iCIMS_JobHeaderField">Workplace Arrangement</dt>
+          <dd class="iCIMS_JobHeaderData"><span>On-site</span></dd></div>
+      </dl></div>
+    </div></li>"""], 1, 1)
+    postings, _ = parse_results(html)
+    assert postings[0].location == "Niles, IL +1"

@@ -99,3 +99,21 @@ def test_location_inside_the_job_link(markup, expected):
 def test_fetch_keeps_locations():
     with patch("phlux.adapters.talentbrew.get", return_value=response(page([(1, "A")], 1, 1))):
         assert [p.location for p in fetch(URL)] == ["Bedford, MA"]
+
+
+def test_location_beside_the_link_in_its_list_item():
+    # Boeing's template puts the location next to the link, not inside it.
+    html = ('<section id="search-results" data-keywords="" data-location="" data-total-results="1" '
+            'data-total-pages="1"><ul><li><a data-job-id="7" href="/job/wichita/finance-co-op/185/7">'
+            '<h2>Finance Co-Op</h2></a><span class="search-results__job-info location">Wichita, Kansas</span>'
+            '</li></ul></section>')
+    postings, _, _ = parse_results(html, "https://jobs.boeing.com/search-jobs")
+    assert postings[0].location == "Wichita, KS"
+
+
+def test_several_places_and_other_locations():
+    from phlux.adapters.talentbrew import job_place
+    assert job_place("Glendale, California / Orlando, Florida") == "Glendale, CA +1"
+    assert job_place("Everett, Washington; and other locations") == "Everett, WA"
+    assert job_place("Bedford, Massachusetts") == "Bedford, MA"
+    assert job_place("") == ""
