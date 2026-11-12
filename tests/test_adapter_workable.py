@@ -10,6 +10,20 @@ API = "https://apply.workable.com/api/v3/accounts/acme/jobs"
 EMPTY = {"query": "", "location": [], "department": [], "worktype": [], "workplace": [], "remote": []}
 
 
+@pytest.fixture(autouse=True)
+def no_wait():
+    with patch("phlux.adapters.workable.time.sleep") as sleep:
+        yield sleep
+
+
+def test_pages_are_spaced_out(no_wait):
+    pages = [{"results": [{"shortcode": "A1", "title": "Intern"}], "nextPage": "t"},
+             {"results": [{"shortcode": "B2", "title": "Engineer"}]}]
+    with patch("phlux.adapters.workable.post", side_effect=[MagicMock(json=MagicMock(return_value=p)) for p in pages]):
+        assert [p.id for p in fetch("https://apply.workable.com/acme/")] == ["workable:A1", "workable:B2"]
+    no_wait.assert_called_once()
+
+
 def response(payload):
     mock = MagicMock()
     mock.json.return_value = payload

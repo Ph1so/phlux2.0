@@ -12,6 +12,7 @@ country) is written "Fremont, CA", followed by a count of its other shown
 """
 from __future__ import annotations
 
+import time
 from typing import List
 
 from ..models import Posting
@@ -20,6 +21,9 @@ from .base import adapter, first, format_place, path_slug, place, post, query
 API = "https://apply.workable.com/api/v3/accounts/{slug}/jobs"
 JOB_PAGE = "https://apply.workable.com/{slug}/j/{shortcode}/"
 MAX_PAGES = 50
+# Workable answers 429 to a burst of requests from one address (the bot reads
+# several Workable boards at once), so pages are spaced out.
+PAGE_DELAY = 1.0
 
 
 def search_body(url: str) -> dict:
@@ -60,7 +64,9 @@ def fetch(url: str, arg: str = "") -> List[Posting]:
     api = API.format(slug=slug)
     body = search_body(url)
     postings: List[Posting] = []
-    for _ in range(MAX_PAGES):
+    for page in range(MAX_PAGES):
+        if page:
+            time.sleep(PAGE_DELAY)
         data = post(api, json=body).json()
         postings.extend(
             Posting(f"workable:{j['shortcode']}", j["title"], location(j),

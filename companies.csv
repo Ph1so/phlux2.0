@@ -63,7 +63,7 @@ Grammarly,https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc,@ashby->FILTER:in
 Adobe,https://careers.adobe.com/us/en/search-results?qkexperienceLevel=University%20Intern,@phenom
 Databricks,https://job-boards.greenhouse.io/databricks?departments%5B%5D=4001023002,@greenhouse
 SpaceX,https://job-boards.greenhouse.io/spacex,@greenhouse->FILTER:internship|new grad|early career|entry|junior|university grad|college grad
-TSMC,https://careers.tsmc.com/en_US/careers/SearchJobs/?542=13100&542_format=486&listFilterMode=1&jobRecordsPerPage=100&,@avature
+TSMC,https://careers.tsmc.com/en_US/careers/SearchJobs/?542=13100&542_format=486&listFilterMode=1&jobRecordsPerPage=100&,CSS:h3 a.link
 Boston Scientific,https://bostonscientific.eightfold.ai/careers?start=0&location=United+States&pid=563602797912246&sort_by=distance&filter_include_remote=1&filter_seniority=Intern,@eightfold
 Siemens,https://jobs.sw.siemens.com/locations/usa/jobs/?q=intern,@directemployers->FILTER:intern|co-op
 Rockwell Automation,https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers,@workday
@@ -251,7 +251,7 @@ Intuitive Machines,https://workforcenow.adp.com/mascsr/default/mdf/recruitment/r
 FANUC America,https://myjobs.adp.com/fanuc/cx/job-listing,@adp
 Voyager Technologies,https://job-boards.greenhouse.io/voyagertechnologiesinc,@greenhouse
 Starship Technologies,https://starship.teamtailor.com/jobs,@teamtailor
-Exotec,https://apply.workable.com/exotec/,@workable
+Exotec,https://apply.workable.com/exotec/,CLICK:button[data-ui='load-more-button']->CLICK:button[data-ui='load-more-button']->CSS:li[data-ui='job'] h3
 Gatik,https://job-boards.greenhouse.io/embed/job_board?for=gatikaiinc,@greenhouse
 Humble Robotics,https://jobs.lever.co/humble-robotics,@lever->FILTER:intern|new grad|early career|entry|junior|university grad|college grad
 Rhoda AI,https://jobs.ashbyhq.com/rhoda-ai,@ashby->FILTER:intern|new grad|early career|entry|junior|university grad|college grad
