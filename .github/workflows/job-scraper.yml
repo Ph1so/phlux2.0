@@ -1,14 +1,14 @@
 name: Job Scraper
 
 on:
+  # Your own pushes start a run. The bot's commits say [skip ci], so they don't:
+  # a scraper that shows a different set of postings each run would otherwise
+  # close and reopen them every run, and each commit would start the next run.
   push:
     branches:
       - main
-  # Hourly, 6am-11pm Eastern all year: cron is UTC, so 10:00-04:00 UTC covers
-  # both EDT (UTC-4) and EST (UTC-5), with an extra run at one end of the day.
-  # Minute 17 because GitHub delays and drops runs most at the top of the hour.
-  schedule:
-    - cron: '17 0-4,10-23 * * *'
+  # Hourly, 6am-11pm Eastern: hourly.yml starts each run, since GitHub's own
+  # schedule fires only a few of its hourly slots a day.
   workflow_dispatch:
 
 permissions:
@@ -74,7 +74,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Update storage.json, readme and icons.json [bot]"
+            git commit -m "Update storage.json, readme and icons.json [bot] [skip ci]"
             git pull --rebase origin main
             git push
           fi
@@ -162,7 +162,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "Update storage.json, readme and icons.json [bot]"
+            git commit -m "Update storage.json, readme and icons.json [bot] [skip ci]"
             git pull --rebase origin main
             git push
           fi

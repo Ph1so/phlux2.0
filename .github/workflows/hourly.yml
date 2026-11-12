@@ -1,0 +1,44 @@
+name: Hourly Scrape
+
+# Starts the job scraper once an hour, 6am-11pm Eastern. GitHub's schedule on
+# its own fires only 2-4 of its hourly slots a day, so each run of this
+# workflow starts the scraper, waits an hour, then starts its own next run.
+#
+# The schedule here is only a backup that restarts the loop if it ever stops
+# (a failed run, or the workflow turned off and on). While the loop is going, a
+# run the schedule adds waits as pending and the loop's next run replaces it, so
+# there is only ever one loop.
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch:
+
+permissions:
+  actions: write
+
+concurrency:
+  group: hourly-scrape
+  cancel-in-progress: false
+
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    timeout-minutes: 70
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+    steps:
+      - name: Start the job scraper
+        run: |
+          hour=$(TZ=America/New_York date +%-H)
+          if [ "$hour" -ge 6 ] && [ "$hour" -le 23 ]; then
+            gh workflow run job-scraper.yml --ref main
+          else
+            echo "Night in Eastern time (hour $hour): no scrape this hour"
+          fi
+
+      - name: Wait an hour
+        run: sleep 3540
+
+      - name: Start the next hour's run
+        run: gh workflow run hourly.yml --ref main
