@@ -824,7 +824,8 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557040344",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557040344",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Machine Learning for Biology and Healthcare",
@@ -32140,11 +32141,13 @@
         "date": "N/A",
         "id": "greenhouse:8783214002",
         "url": "https://app.careerpuck.com/job-board/lyft/job/8783214002?gh_jid=8783214002",
-        "location": "San Francisco, CA"
+        "location": "San Francisco, CA",
+        "closed": "2026-11-12"
       },
       {
         "title": "Senior Product Manager, Customer Care AI",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-12"
       },
       {
         "title": "Senior Product Manager, Hardware (Bikeshare Stations) - Lyft Urban Solutions (Micromobility)",
@@ -59288,6 +59291,13 @@
         "id": "workday:JR00052675-1",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Richmond-Virginia-United-States-of-America/Lean-Challenge-Intern-Richmond--VA---Summer-2027_JR00052675-1",
         "location": "Richmond, Virginia, United States of America"
+      },
+      {
+        "title": "Senior Power Systems Engineer",
+        "date": "2026-11-12",
+        "id": "workday:JR00039556",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Houston-Texas-United-States-of-America/Senior-Lead-Electrical-Engineer_JR00039556",
+        "location": "Houston, Texas, United States of America"
       }
     ],
     "Teradyne": [
@@ -110616,8 +110626,7 @@
         "date": "N/A",
         "id": "talentbrew:100378295536",
         "url": "https://jobs.boeing.com/job/wichita/boeing-wichita-summer-2027-internship-program-paid-manufacturing-engineering/185/100378295536",
-        "location": "Wichita, KS",
-        "closed": "2026-11-12"
+        "location": "Wichita, KS"
       },
       {
         "title": "\u2b50\ufe0f Boeing - Wichita Summer 2027 Internship Program (Paid) - Supplier Quality Assurance & Compliance",
