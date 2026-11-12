@@ -12,7 +12,7 @@
 <p>
   <a href="https://ph1so.github.io/phlux2.0/"><img src="https://img.shields.io/badge/browse-internships-1f5fff?style=flat-square" alt="Browse internships"></a>
   <a href="https://github.com/Ph1so/phlux2.0/actions/workflows/job-scraper.yml"><img src="https://img.shields.io/github/actions/workflow/status/Ph1so/phlux2.0/job-scraper.yml?branch=main&style=flat-square&label=scraper" alt="Scraper status"></a>
-  <img src="https://img.shields.io/badge/roles_tracked-35.9k-475467?style=flat-square" alt="35,933 roles tracked">
+  <img src="https://img.shields.io/badge/roles_tracked-35.9k-475467?style=flat-square" alt="35,934 roles tracked">
 </p>
 
 <p><a href="https://ph1so.github.io/phlux2.0/"><b>Website</b></a> &nbsp;·&nbsp; <a href="listings/README.md"><b>All listings</b></a></p>
@@ -21,7 +21,7 @@
 
 ## Latest roles
 
-Showing the 663 most recent of 35,933 roles tracked across 294 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
+Showing the 663 most recent of 35,934 roles tracked across 294 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
 
 
 <table>
@@ -312,6 +312,13 @@ Showing the 663 most recent of 35,933 roles tracked across 294 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic"><img src="https://cdn.brandfetch.io/symbotic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Symbotic" height="20" style="vertical-align:middle; margin-right:6px;"> Symbotic</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Robotics-Software-Engineer_R8496">New Grad- Robotics Software Engineer</a></div></td>
+  <td>2026-11-11</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MI-Auburn-Hills/Bid-and-Proposal-Specialist--Automotive-Robotics-US_JR00052331">Bid and Proposal Specialist, Automotive Robotics US</a></div></td>
   <td>2026-11-11</td>
 </tr>
   <tr>
@@ -4666,13 +4673,6 @@ Showing the 663 most recent of 35,933 roles tracked across 294 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/scout-ai"><img src="https://cdn.brandfetch.io/scoutco.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ScoutAI" height="20" style="vertical-align:middle; margin-right:6px;"> ScoutAI</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/scout-ai/0d32eeca-b0aa-41d0-b15d-6a4013dac3e4">Senior Staff Mechanical Engineer</a></div></td>
-  <td>2026-11-05</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/AeroVect/"><img src="https://cdn.brandfetch.io/aerovect.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="AeroVect" height="20" style="vertical-align:middle; margin-right:6px;"> AeroVect</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/AeroVect/49403b08-400b-43e7-91f8-709c965bda54">Embedded Linux Software Engineer</a></div></td>
   <td>2026-11-05</td>
 </tr>
 
