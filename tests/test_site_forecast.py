@@ -1,10 +1,10 @@
-"""Tests for phlux/robotics/forecast.py."""
+"""Tests for phlux/site/forecast.py."""
 from datetime import date
 
 import pandas as pd
 import pytest
 
-from phlux.robotics.forecast import (
+from phlux.site.forecast import (
     DUE,
     LATE,
     LATER,
@@ -71,12 +71,12 @@ class TestOpenings:
             {"company": "Acme", "date": "2025-08-03", "season": "fall", "title": "Controls Co-op, Fall 2026"},
             {"company": "Acme", "date": "2025-09-10", "season": "summer"},
         ])
-        from phlux.robotics.forecast import season_rows
+        from phlux.site.forecast import season_rows
         assert [r.season for r in season_rows(df)] == ["summer"]
         assert [r.season for r in season_rows(df, summer_only=False)] == ["fall", "summer"]
 
     def test_uncertain_rows_kept_as_backlog_on_request(self):
-        from phlux.robotics.forecast import season_rows
+        from phlux.site.forecast import season_rows
         df = frame([
             {"company": "Acme", "date": "2025-06-01", "is_internship": False},
             {"company": "Acme", "date": "2025-08-01", "is_bulk_day": True},

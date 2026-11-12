@@ -1,6 +1,6 @@
 """US map geometry for the site: state outlines and where each town sits on them.
 
-Both come from public data and are committed under ``phlux/robotics/geo/`` so a
+Both come from public data and are committed under ``phlux/site/geo/`` so a
 site build needs no network:
 
 * ``us_states.json``: each state's outline as an SVG path, from the ``us-atlas``
@@ -10,7 +10,7 @@ site build needs no network:
   same box, from the Census Gazetteer, projected here with the same
   ``geoAlbersUsa`` so a town's dot lands on its state.
 
-``python -m phlux.robotics geo`` downloads both and rewrites the files; they only
+``python -m phlux.site geo`` downloads both and rewrites the files; they only
 change when the Census does.
 """
 from __future__ import annotations

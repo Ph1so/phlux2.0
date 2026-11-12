@@ -1,8 +1,8 @@
 """Build the site, or refresh its logos.
 
-``python -m phlux.robotics [--out site] [--storage FILE] [--fragment]`` builds the page;
-``python -m phlux.robotics logos`` downloads the logos the scraped companies lack;
-``python -m phlux.robotics geo`` refreshes the US map data (rarely needed).
+``python -m phlux.site [--out site] [--storage FILE] [--fragment]`` builds the page;
+``python -m phlux.site logos`` downloads the logos the scraped companies lack;
+``python -m phlux.site geo`` refreshes the US map data (rarely needed).
 """
 from __future__ import annotations
 
@@ -27,7 +27,7 @@ def refresh_logos() -> None:
 
 
 def main() -> None:
-    parser = argparse.ArgumentParser(prog="python -m phlux.robotics", description="Build the Phlux Robotics page.")
+    parser = argparse.ArgumentParser(prog="python -m phlux.site", description="Build the Phlux page.")
     parser.add_argument("command", nargs="?", choices=("build", "logos", "geo"), default="build")
     parser.add_argument("--out", type=Path, default=Path("site"), help="Output directory (default: site/).")
     parser.add_argument("--storage", type=Path, help="Storage file to read (default: the repo's storage.json).")
@@ -35,7 +35,7 @@ def main() -> None:
                         help="Write the page body without <html>/<head>, for a claude.ai artifact preview.")
     args = parser.parse_args()
     logging.basicConfig(level=logging.WARNING, format="%(levelname)s %(name)s: %(message)s")
-    logging.getLogger("phlux.robotics").setLevel(logging.INFO)
+    logging.getLogger("phlux.site").setLevel(logging.INFO)
     if args.command == "logos":
         refresh_logos()
         return

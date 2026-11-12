@@ -21,16 +21,16 @@ from phlux.utils import board_link, update_icons
 MAX_PAGE_BYTES = 450_000
 README_MAX_ROWS = 1000
 LISTINGS_DIR = Path("listings")
-# Where the job-scraper workflow deploys python -m phlux.robotics.
+# Where the job-scraper workflow deploys python -m phlux.site.
 SITE_URL = "https://ph1so.github.io/phlux2.0/"
-# The README's masthead: the Phlux Robotics logo (with a dark-mode version),
+# The README's masthead: the Phlux logo (with a dark-mode version),
 # a one-line description, status badges and the main links.
 HEADER = """<div align="center">
 
 <a href="{site}">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/phlux-robotics-dark.svg">
-    <img src="assets/phlux-robotics.svg" alt="phlux robotics" height="56">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/phlux-dark.svg">
+    <img src="assets/phlux.svg" alt="phlux" height="56">
   </picture>
 </a>
 

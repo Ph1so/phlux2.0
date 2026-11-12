@@ -1,8 +1,8 @@
-"""Build the Phlux Robotics site: one HTML page with its data inside.
+"""Build the Phlux site: one HTML page with its data inside.
 
 The page lists every internship the bot is tracking at the companies it
 scrapes, open or closed in the last :data:`RECENT_DAYS`, with when each
-company is expected to open for the coming summer (:mod:`phlux.robotics.forecast`).
+company is expected to open for the coming summer (:mod:`phlux.site.forecast`).
 It is static, so GitHub Pages can serve it; the bot rebuilds it after each run.
 
 Internships are the titles the bot itself starred (``⭐️``), so the site and the
@@ -243,11 +243,11 @@ def build_payload(
         industries: ``industries.csv`` tagging, by name.
         icons: Each company's logo, as a URL or ``data:`` URI, by name.
         now: The build time.
-        history: Past internships (:func:`phlux.robotics.forecast.season_rows`)
+        history: Past internships (:func:`phlux.site.forecast.season_rows`)
             for the past seasons view.
         gazetteer: Town lookup for placing postings on the map; without it
             (or *state_paths*) the page has no map.
-        state_paths: Each state's outline, from :func:`phlux.robotics.geo.load_states`.
+        state_paths: Each state's outline, from :func:`phlux.site.geo.load_states`.
     """
     today = now.date()
     stored = storage.get("companies", {})

@@ -1,9 +1,9 @@
-"""Tests for phlux/robotics/places.py and phlux/robotics/geo.py."""
+"""Tests for phlux/site/places.py and phlux/site/geo.py."""
 import pytest
 
-from phlux.robotics import geo
-from phlux.robotics.build import Mapper
-from phlux.robotics.places import Gazetteer, parse
+from phlux.site import geo
+from phlux.site.build import Mapper
+from phlux.site.places import Gazetteer, parse
 
 TOWNS = {
     "CA": {"santa clara": [40, 273], "san francisco": [30, 260], "sunnyvale": [41, 272], "south san francisco": [31, 262]},

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="158" height="56" viewBox="0 0 158 56" role="img" aria-label="phlux">
+  <rect width="56" height="56" rx="15" fill="#1f5fff"/>
+  <g transform="scale(2.1538)">
+    <path d="M7 19V7h6.2a4 4 0 0 1 0 8H7" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="18.6" cy="18.6" r="2" fill="#fff"/>
+  </g>
+  <text x="72" y="38" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="-0.6" fill="#f2f4f7">phlux</text>
+</svg>

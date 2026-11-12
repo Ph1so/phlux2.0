@@ -4,5 +4,5 @@ __pycache__
 analysis
 # Real emails used by tracker/test/eval.js; never commit (public repo)
 tracker/test/fixtures/
-# Built by python -m phlux.radar and deployed to GitHub Pages, never committed
-site/
+# Built by python -m phlux.site and deployed to GitHub Pages, never committed
+/site/

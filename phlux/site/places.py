@@ -8,7 +8,7 @@ turns one into the US places it names (state, and town when it gives one), and
 says whether it is remote, outside the US, or too vague to place ("3
 Locations", "Flexible - Any SpaceX Site").
 
-A town is found in the Census places for its state (see :mod:`phlux.robotics.geo`).
+A town is found in the Census places for its state (see :mod:`phlux.site.geo`).
 Some hubs are often written without a state ("San Francisco", "Boston"), so
 :data:`HUBS` names their state. Any other bare town isn't placed: too many
 foreign cities share a name with some small US place (Munich, North Dakota).
@@ -104,7 +104,7 @@ def _state(token: str) -> Optional[str]:
 
 
 class Gazetteer:
-    """Town lookup by state, from :func:`phlux.robotics.geo.load_places`."""
+    """Town lookup by state, from :func:`phlux.site.geo.load_places`."""
 
     def __init__(self, places: Dict[str, Dict[str, List[int]]]):
         self.places = places

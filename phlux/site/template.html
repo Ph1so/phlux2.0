@@ -1,6 +1,6 @@
-<title>Phlux Robotics</title>
+<title>Phlux</title>
 <meta name="claude:viewport-fit-sides" content="cover">
-<meta name="description" content="Every internship at the robotics companies phlux tracks, read from their job boards every hour, with forecasts of who opens next.">
+<meta name="description" content="Every internship at the companies phlux tracks, robotics and beyond, read from their job boards every hour, with forecasts of who opens next.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap">
@@ -130,7 +130,6 @@ h1, h2, h3 { margin: 0; text-wrap: balance; }
 .topbar .gutter { display: flex; align-items: center; gap: 28px; height: 56px; }
 .wordmark { display: flex; align-items: center; gap: 9px; text-decoration: none; font-size: 17px; letter-spacing: -0.02em; white-space: nowrap; }
 .wordmark b { font-weight: 700; }
-.wordmark span { font-weight: 500; color: var(--blue); }
 .wordmark svg { flex: none; }
 .nav { display: flex; gap: 4px; }
 .nav a { text-decoration: none; color: var(--text-2); font-weight: 500; padding: 7px 10px; border-radius: 6px; }
@@ -453,7 +452,8 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
 <script>
 (function () {
   try {
-    var saved = localStorage.getItem("phlux-robotics:theme");
+    // "phlux-robotics:" keys are from before the site was renamed.
+    var saved = localStorage.getItem("phlux:theme") || localStorage.getItem("phlux-robotics:theme");
     if (saved === "light" || saved === "dark") document.documentElement.setAttribute("data-theme", saved);
   } catch (e) {}
 })();
@@ -461,13 +461,13 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
 
 <header class="topbar">
   <div class="gutter">
-    <a class="wordmark" href="#top" aria-label="Phlux Robotics">
+    <a class="wordmark" href="#top" aria-label="Phlux">
       <svg width="26" height="26" viewBox="0 0 26 26" aria-hidden="true">
         <rect width="26" height="26" rx="7" fill="var(--blue)"/>
         <path d="M7 19V7h6.2a4 4 0 0 1 0 8H7" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
         <circle cx="18.6" cy="18.6" r="2" fill="#fff"/>
       </svg>
-      <b>phlux</b><span>robotics</span>
+      <b>phlux</b>
     </a>
     <nav class="nav" aria-label="Sections">
       <a href="#internships">Internships</a>
@@ -886,8 +886,14 @@ tr.is-closed .t, tr.is-closed .loc { color: var(--muted); }
     a.href = href; a.target = "_blank"; a.rel = "noopener";
     return a;
   }
-  function store(key, value) { try { localStorage.setItem("phlux-robotics:" + key, value); } catch (e) {} }
-  function recall(key) { try { return localStorage.getItem("phlux-robotics:" + key); } catch (e) { return null; } }
+  function store(key, value) { try { localStorage.setItem("phlux:" + key, value); } catch (e) {} }
+  // Falls back to the key from before the site was renamed (phlux robotics).
+  function recall(key) {
+    try {
+      var value = localStorage.getItem("phlux:" + key);
+      return value !== null ? value : localStorage.getItem("phlux-robotics:" + key);
+    } catch (e) { return null; }
+  }
   function plural(n, word, many) { return n.toLocaleString("en-US") + " " + (n === 1 ? word : many || word + "s"); }
 
   // ── State ─────────────────────────────────────────────────────────────

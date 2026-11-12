@@ -1,8 +1,8 @@
-"""Tests for phlux/robotics/logos.py (HTTP mocked)."""
+"""Tests for phlux/site/logos.py (HTTP mocked)."""
 import json
 from unittest.mock import MagicMock, patch
 
-from phlux.robotics import logos
+from phlux.site import logos
 
 ICONS = {
     "Acme Robotics": {"readme": "https://cdn.brandfetch.io/acme.com/w/400/h/400?c=abc", "email": "x"},
@@ -26,7 +26,7 @@ def test_sized_asks_for_a_small_logo():
 
 
 def test_fetches_each_logo_once_and_embeds_it(tmp_path):
-    with patch("phlux.robotics.logos.get", return_value=image()) as get:
+    with patch("phlux.site.logos.get", return_value=image()) as get:
         assert logos.fetch_missing(["Acme Robotics", "Beta", "Gamma"], ICONS, tmp_path) == 2
         assert logos.fetch_missing(["Acme Robotics", "Beta", "Gamma"], ICONS, tmp_path) == 0
     assert get.call_count == 2
@@ -37,16 +37,16 @@ def test_fetches_each_logo_once_and_embeds_it(tmp_path):
 
 
 def test_a_changed_icon_replaces_the_old_file(tmp_path):
-    with patch("phlux.robotics.logos.get", return_value=image()):
+    with patch("phlux.site.logos.get", return_value=image()):
         logos.fetch_missing(["Beta"], ICONS, tmp_path)
-    with patch("phlux.robotics.logos.get", return_value=image(b"\x89PNG", "image/png")):
+    with patch("phlux.site.logos.get", return_value=image(b"\x89PNG", "image/png")):
         logos.fetch_missing(["Beta"], {"Beta": "https://cdn.brandfetch.io/beta.ai/w/400/h/400"}, tmp_path)
     assert sorted(p.name for p in tmp_path.iterdir()) == ["beta.png", "sources.json"]
 
 
 def test_a_failed_or_odd_download_is_skipped(tmp_path):
-    with patch("phlux.robotics.logos.get", side_effect=RuntimeError("403")):
+    with patch("phlux.site.logos.get", side_effect=RuntimeError("403")):
         assert logos.fetch_missing(["Beta"], ICONS, tmp_path) == 0
-    with patch("phlux.robotics.logos.get", return_value=image(b"<html>", "text/html")):
+    with patch("phlux.site.logos.get", return_value=image(b"<html>", "text/html")):
         assert logos.fetch_missing(["Beta"], ICONS, tmp_path) == 0
     assert logos.data_uri("Beta", tmp_path) == ""

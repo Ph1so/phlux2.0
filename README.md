@@ -2,8 +2,8 @@
 
 <a href="https://ph1so.github.io/phlux2.0/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/phlux-robotics-dark.svg">
-    <img src="assets/phlux-robotics.svg" alt="phlux robotics" height="56">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/phlux-dark.svg">
+    <img src="assets/phlux.svg" alt="phlux" height="56">
   </picture>
 </a>
 

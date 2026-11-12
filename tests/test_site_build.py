@@ -1,12 +1,12 @@
-"""Tests for phlux/robotics/build.py."""
+"""Tests for phlux/site/build.py."""
 import json
 from datetime import date, datetime
 
 import pytest
 
 from phlux.models import Company
-from phlux.robotics.build import TEMPLATE, build_payload, internship_rows, new_grad_rows, render
-from phlux.robotics.forecast import SOON, Forecast, Opening
+from phlux.site.build import TEMPLATE, build_payload, internship_rows, new_grad_rows, render
+from phlux.site.forecast import SOON, Forecast, Opening
 
 TODAY = date(2026, 11, 1)
 
@@ -117,7 +117,7 @@ class TestBuildPayload:
 
 class TestMapData:
     def test_postings_carry_where_and_the_page_gets_the_map(self):
-        from phlux.robotics.places import Gazetteer
+        from phlux.site.places import Gazetteer
         storage = {"companies": {"Acme": [
             {"title": "⭐️ Robotics Intern", "date": "2026-10-30", "location": "Santa Clara, CA +1"},
             {"title": "⭐️ Controls Intern", "date": "2026-10-30", "location": "Remote"},
@@ -158,5 +158,5 @@ class TestRender:
     def test_real_template_has_one_marker_and_a_title(self):
         template = TEMPLATE.read_text(encoding="utf-8")
         assert template.count("__DATA__") == 1
-        assert template.startswith("<title>Phlux Robotics</title>")
+        assert template.startswith("<title>Phlux</title>")
         json.loads(render({"x": 1}, template, document=False).split('id="phlux-data">')[1].split("</script>")[0])
