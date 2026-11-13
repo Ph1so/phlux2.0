@@ -988,8 +988,7 @@
         "date": "2026-10-15",
         "id": "eightfold:1970393557027387",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557027387",
-        "location": "United States, Washington, Redmond +1",
-        "closed": "2026-11-12"
+        "location": "United States, Washington, Redmond +1"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Efficient AI Software Systems",
@@ -1189,8 +1188,7 @@
         "date": "2026-11-02",
         "id": "eightfold:1970393557052982",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557052982",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-12"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer: Internship Opportunities",
@@ -66715,7 +66713,8 @@
         "date": "2026-10-22",
         "id": "lever:58729e8e-1edd-44a3-892f-a5469dfe6d43",
         "url": "https://jobs.lever.co/woven-by-toyota/58729e8e-1edd-44a3-892f-a5469dfe6d43",
-        "location": "Tokyo"
+        "location": "Tokyo",
+        "closed": "2026-11-12"
       },
       {
         "title": "Senior Software Engineer - Data Acquisition",
@@ -67697,6 +67696,20 @@
         "id": "lever:80a4941c-3905-4ee8-b706-6ff9fef739e5",
         "url": "https://jobs.lever.co/woven-by-toyota/80a4941c-3905-4ee8-b706-6ff9fef739e5",
         "location": "Ann Arbor, MI"
+      },
+      {
+        "title": "Business Development Partner, Assistant Manager, Inventor Acceleration and Service",
+        "date": "2026-11-12",
+        "id": "lever:d76d2c42-c1ec-4433-8689-a4ea42f1536f",
+        "url": "https://jobs.lever.co/woven-by-toyota/d76d2c42-c1ec-4433-8689-a4ea42f1536f",
+        "location": "Susono, Shizuoka"
+      },
+      {
+        "title": "\u30d3\u30b8\u30cd\u30b9\u30c7\u30d9\u30ed\u30c3\u30d7\u30e1\u30f3\u30c8\u30d1\u30fc\u30c8\u30ca\u30fc\u30a2\u30b7\u30b9\u30bf\u30f3\u30c8\u30de\u30cd\u30b8\u30e3\u30fc\u30fbInventor Acceleration and Service",
+        "date": "2026-11-12",
+        "id": "lever:2f00c082-4b7e-4def-9a62-3e379bd04588",
+        "url": "https://jobs.lever.co/woven-by-toyota/2f00c082-4b7e-4def-9a62-3e379bd04588",
+        "location": "\u9759\u5ca1\u770c\u88fe\u91ce\u5e02"
       }
     ],
     "Generalist AI": [
@@ -67783,7 +67796,8 @@
         "date": "2026-10-22",
         "id": "ashby:fc7c7b49-248a-4849-a473-a0bd246e5486",
         "url": "https://jobs.ashbyhq.com/generalist/fc7c7b49-248a-4849-a473-a0bd246e5486",
-        "location": "San Francisco Bay Area (San Mateo) or Boston (Somerville)"
+        "location": "San Francisco Bay Area (San Mateo) or Boston (Somerville)",
+        "closed": "2026-11-12"
       },
       {
         "title": "Research Scientist: Post-Training",
@@ -67869,6 +67883,20 @@
         "id": "ashby:15b3d06b-ffa9-495a-b56f-d662c9be2b86",
         "url": "https://jobs.ashbyhq.com/generalist/15b3d06b-ffa9-495a-b56f-d662c9be2b86",
         "location": "San Francisco Bay Area (San Mateo)"
+      },
+      {
+        "title": "Research Resident",
+        "date": "2026-11-12",
+        "id": "ashby:8641eb18-ca38-415c-81d2-fdfab61e0023",
+        "url": "https://jobs.ashbyhq.com/generalist/8641eb18-ca38-415c-81d2-fdfab61e0023",
+        "location": "San Francisco Bay Area (San Mateo)"
+      },
+      {
+        "title": "Research Resident",
+        "date": "2026-11-12",
+        "id": "ashby:316558d9-8813-4b82-b520-e2bf0bb03018",
+        "url": "https://jobs.ashbyhq.com/generalist/316558d9-8813-4b82-b520-e2bf0bb03018",
+        "location": "Boston (Somerville)"
       }
     ],
     "Genesis AI": [
@@ -81789,7 +81817,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5461873008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5461873008",
-        "location": "New York City, NY; San Francisco, CA | New York City, NY"
+        "location": "New York City, NY; San Francisco, CA | New York City, NY",
+        "closed": "2026-11-12"
       },
       {
         "title": "Audit Operations Lead",
@@ -86909,6 +86938,13 @@
         "id": "greenhouse:5478939008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5478939008",
         "location": "San Francisco, CA | New York City, NY"
+      },
+      {
+        "title": "External Affairs, Southeast Asia",
+        "date": "2026-11-12",
+        "id": "greenhouse:5479890008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5479890008",
+        "location": "Singapore"
       }
     ],
     "xAI": [
@@ -89452,6 +89488,13 @@
         "id": "greenhouse:5292793007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5292793007",
         "location": "Remote, International"
+      },
+      {
+        "title": "Government Cloud Security Engineer",
+        "date": "2026-11-12",
+        "id": "greenhouse:5294116007",
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5294116007",
+        "location": "Austin, TX; New York, NY; Palo Alto, CA; Washington, DC"
       }
     ],
     "Thinking Machines Lab": [

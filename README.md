@@ -12,7 +12,7 @@
 <p>
   <a href="https://ph1so.github.io/phlux2.0/"><img src="https://img.shields.io/badge/browse-internships-1f5fff?style=flat-square" alt="Browse internships"></a>
   <a href="https://github.com/Ph1so/phlux2.0/actions/workflows/job-scraper.yml"><img src="https://img.shields.io/github/actions/workflow/status/Ph1so/phlux2.0/job-scraper.yml?branch=main&style=flat-square&label=scraper" alt="Scraper status"></a>
-  <img src="https://img.shields.io/badge/roles_tracked-37.8k-475467?style=flat-square" alt="37,752 roles tracked">
+  <img src="https://img.shields.io/badge/roles_tracked-37.8k-475467?style=flat-square" alt="37,757 roles tracked">
 </p>
 
 <p><a href="https://ph1so.github.io/phlux2.0/"><b>Website</b></a> &nbsp;·&nbsp; <a href="listings/README.md"><b>All listings</b></a></p>
@@ -21,7 +21,7 @@
 
 ## Latest roles
 
-Showing the 649 most recent of 37,752 roles tracked across 295 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
+Showing the 650 most recent of 37,757 roles tracked across 295 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
 
 
 <table>
@@ -722,6 +722,34 @@ Showing the 649 most recent of 37,752 roles tracked across 295 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/woven-by-toyota"><img src="https://cdn.brandfetch.io/woven-city.global/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Woven by Toyota" height="20" style="vertical-align:middle; margin-right:6px;"> Woven by Toyota</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/woven-by-toyota/d76d2c42-c1ec-4433-8689-a4ea42f1536f">Business Development Partner, Assistant Manager, Inventor Acceleration and Service</a></div></td>
+  <td>2026-11-12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/woven-by-toyota"><img src="https://cdn.brandfetch.io/woven-city.global/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Woven by Toyota" height="20" style="vertical-align:middle; margin-right:6px;"> Woven by Toyota</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/woven-by-toyota/2f00c082-4b7e-4def-9a62-3e379bd04588">ビジネスデベロップメントパートナーアシスタントマネジャー・Inventor Acceleration and Service</a></div></td>
+  <td>2026-11-12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/generalist"><img src="https://cdn.brandfetch.io/generalistai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Generalist AI" height="20" style="vertical-align:middle; margin-right:6px;"> Generalist AI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/generalist/8641eb18-ca38-415c-81d2-fdfab61e0023">Research Resident</a></div></td>
+  <td>2026-11-12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/generalist"><img src="https://cdn.brandfetch.io/generalistai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Generalist AI" height="20" style="vertical-align:middle; margin-right:6px;"> Generalist AI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/generalist/316558d9-8813-4b82-b520-e2bf0bb03018">Research Resident</a></div></td>
+  <td>2026-11-12</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=ocadogroup"><img src="https://cdn.brandfetch.io/ocado.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Ocado" height="20" style="vertical-align:middle; margin-right:6px;"> Ocado</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ocadogroup.com/jobs/details?gh_jid=4957066101&amp;gh_jid=4957066101">VP of Partnerships</a></div></td>
@@ -1047,6 +1075,20 @@ Showing the 649 most recent of 37,752 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5478939008">Commercial Activation Lead</a></div></td>
+  <td>2026-11-12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5479890008">External Affairs, Southeast Asia</a></div></td>
+  <td>2026-11-12</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/xai"><img src="https://cdn.brandfetch.io/x.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="xAI" height="20" style="vertical-align:middle; margin-right:6px;"> xAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/xai/jobs/5294116007">Government Cloud Security Engineer</a></div></td>
   <td>2026-11-12</td>
 </tr>
   <tr>
@@ -4540,41 +4582,6 @@ Showing the 649 most recent of 37,752 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/saronic"><img src="https://cdn.brandfetch.io/saronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saronic" height="20" style="vertical-align:middle; margin-right:6px;"> Saronic</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/saronic/62636523-c7da-4076-aee4-bc7c0d8685d0">IT Technician (Austin)</a></div></td>
-  <td>2026-11-09</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/persona.ai"><img src="https://cdn.brandfetch.io/personainc.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Persona AI" height="20" style="vertical-align:middle; margin-right:6px;"> Persona AI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/persona.ai/8a866ae6-613e-4d46-af2d-7dc13eb926bb">⭐️ Humanoid Robotics Software Internship</a></div></td>
-  <td>2026-11-09</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/persona.ai"><img src="https://cdn.brandfetch.io/personainc.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Persona AI" height="20" style="vertical-align:middle; margin-right:6px;"> Persona AI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/persona.ai/b55e4875-e58b-42b7-ac78-73cd610bbfb4">Senior Robotics Software Engineer, Autonomy</a></div></td>
-  <td>2026-11-09</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/persona.ai"><img src="https://cdn.brandfetch.io/personainc.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Persona AI" height="20" style="vertical-align:middle; margin-right:6px;"> Persona AI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/persona.ai/40c633b0-fd8d-4a30-9f97-ff4027d270d9">Senior XR Software Engineer, Teleoperation</a></div></td>
-  <td>2026-11-09</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/persona.ai"><img src="https://cdn.brandfetch.io/personainc.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Persona AI" height="20" style="vertical-align:middle; margin-right:6px;"> Persona AI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/persona.ai/98039cce-e74c-4fd4-ba5f-2210184de495">Staff Engineer, Deep Learning Manipulation</a></div></td>
-  <td>2026-11-09</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic"><img src="https://cdn.brandfetch.io/symbotic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Symbotic" height="20" style="vertical-align:middle; margin-right:6px;"> Symbotic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Buyer_R8448">⭐️ Intern- Buyer</a></div></td>
   <td>2026-11-09</td>
 </tr>
 
