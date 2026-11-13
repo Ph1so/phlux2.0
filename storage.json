@@ -902,8 +902,7 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557021663",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557021663",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-12"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Product Management Intern - CTJ - TS",
@@ -1017,7 +1016,8 @@
         "date": "2026-10-16",
         "id": "eightfold:1970393557042156",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557042156",
-        "location": "United States, Washington, Redmond +1"
+        "location": "United States, Washington, Redmond +1",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Algorithms Group: Generative Modeling",
@@ -9670,7 +9670,8 @@
         "date": "2026-10-13",
         "id": "tesla:281218",
         "url": "https://www.tesla.com/careers/search/job/internship-cell-materials-engineer-cell-engineering-winter-spring-2027-281218",
-        "location": "Louisville, CO"
+        "location": "Louisville, CO",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Internship, SI Engineer, Tesla SI (Fall 2026/Winter 2027)",
@@ -23477,6 +23478,13 @@
         "id": "lever:94942f6a-46a9-43c3-8584-840158ec8cd6",
         "url": "https://jobs.lever.co/zoox/94942f6a-46a9-43c3-8584-840158ec8cd6",
         "location": "Foster City, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Data Scientist Intern [Summer 2027]",
+        "date": "2026-11-12",
+        "id": "lever:0f42ac76-3821-4805-8b59-446477d1e1db",
+        "url": "https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db",
+        "location": "Foster City, CA"
       }
     ],
     "Pony.ai": [
@@ -33499,7 +33507,8 @@
         "date": "2026-09-28",
         "id": "greenhouse:5250237007",
         "url": "https://job-boards.greenhouse.io/glydways/jobs/5250237007",
-        "location": "Atlanta, GA"
+        "location": "Atlanta, GA",
+        "closed": "2026-11-12"
       },
       {
         "title": "Test and Commissioning Lead",
@@ -42661,6 +42670,13 @@
         "id": "google:143858085213938374",
         "url": "https://www.google.com/about/careers/applications/jobs/results/143858085213938374",
         "location": "London, UK"
+      },
+      {
+        "title": "Senior Product Manager, Personalization Modeling, DeepMind",
+        "date": "2026-11-12",
+        "id": "google:132143957051089606",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/132143957051089606",
+        "location": "Mountain View, CA"
       }
     ],
     "Wing": [
@@ -50520,6 +50536,20 @@
         "id": "ashby:ec642fa4-7833-44b9-b72d-13f918335fab",
         "url": "https://jobs.ashbyhq.com/hadrian-automation/ec642fa4-7833-44b9-b72d-13f918335fab",
         "location": "Los Angeles, CA +1"
+      },
+      {
+        "title": "Director, Forward Deployed Software Engineering",
+        "date": "2026-11-12",
+        "id": "ashby:9e76c3d0-b5a6-49e8-91b5-73967708628d",
+        "url": "https://jobs.ashbyhq.com/hadrian-automation/9e76c3d0-b5a6-49e8-91b5-73967708628d",
+        "location": "Los Angeles, CA"
+      },
+      {
+        "title": "Sr. Director, Forward Deployed Software Engineering",
+        "date": "2026-11-12",
+        "id": "ashby:801e864e-5fbb-493b-bc3a-9b5ff265fbaa",
+        "url": "https://jobs.ashbyhq.com/hadrian-automation/801e864e-5fbb-493b-bc3a-9b5ff265fbaa",
+        "location": "Los Angeles, CA"
       }
     ],
     "Saildrone": [
@@ -59771,6 +59801,13 @@
         "id": "workday:JR00051650",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MI-Auburn-Hills/Robotics-Technical-Support-Specialist_JR00051650",
         "location": "USA, MI, Auburn Hills"
+      },
+      {
+        "title": "HSE Technician (2nd shift)",
+        "date": "2026-11-12",
+        "id": "workday:JR00041509",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-TN-Selmer/HSE-Technician--2nd-shift-_JR00041509",
+        "location": "USA, TN, Selmer"
       }
     ],
     "Teradyne": [
@@ -76716,6 +76753,27 @@
         "id": "ashby:fcfc366b-354d-4604-9fc3-ede92e531a61",
         "url": "https://jobs.ashbyhq.com/openai/fcfc366b-354d-4604-9fc3-ede92e531a61",
         "location": "New York City +1"
+      },
+      {
+        "title": "Audience & Content Growth Lead, SMB Ads",
+        "date": "2026-11-12",
+        "id": "ashby:9d9d9fba-e955-4c4d-8e6f-e7fc80d7a919",
+        "url": "https://jobs.ashbyhq.com/openai/9d9d9fba-e955-4c4d-8e6f-e7fc80d7a919",
+        "location": "San Francisco"
+      },
+      {
+        "title": "Partner Director, IBM North America",
+        "date": "2026-11-12",
+        "id": "ashby:5a55fa31-64fd-4bf9-8c12-48f0d6fe1d69",
+        "url": "https://jobs.ashbyhq.com/openai/5a55fa31-64fd-4bf9-8c12-48f0d6fe1d69",
+        "location": "New York City"
+      },
+      {
+        "title": "Integrated Marketing Manager - Consumer & Brand, LATAM",
+        "date": "2026-11-12",
+        "id": "ashby:26500fa3-39c0-4e25-b557-b58415caeb6e",
+        "url": "https://jobs.ashbyhq.com/openai/26500fa3-39c0-4e25-b557-b58415caeb6e",
+        "location": "S\u00e3o Paulo"
       }
     ],
     "John Deere": [
@@ -87185,14 +87243,16 @@
         "date": "2026-10-27",
         "id": "greenhouse:5123837007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5123837007",
-        "location": "Southaven, MS; Memphis, TN"
+        "location": "Southaven, MS; Memphis, TN",
+        "closed": "2026-11-12"
       },
       {
         "title": "Construction Superintendent, Electrical (Night Shift) - Memphis",
         "date": "2026-10-27",
         "id": "greenhouse:5124647007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5124647007",
-        "location": "Southaven, MS; Memphis, TN"
+        "location": "Southaven, MS; Memphis, TN",
+        "closed": "2026-11-12"
       },
       {
         "title": "Construction Superintendent, Mechanical - Memphis",
@@ -92409,7 +92469,8 @@
         "date": "2026-11-02",
         "id": "workday:R49747",
         "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Project-Management-Intern--Summer-2027-_R49747",
-        "location": "Appleton, Wisconsin, United States"
+        "location": "Appleton, Wisconsin, United States",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Marketing Intern (Year Round)",
@@ -100812,6 +100873,13 @@
         "id": "bytedance:7704696088079010053",
         "url": "https://lifeattiktok.com/search/7704696088079010053",
         "location": "San Jose, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Machine Learning Engineer Intern (Data-Global E-Commerce-Search) - 2027 Start",
+        "date": "2026-11-12",
+        "id": "bytedance:7698822572474583301",
+        "url": "https://lifeattiktok.com/search/7698822572474583301",
+        "location": "San Jose, CA"
       }
     ],
     "MongoDB": [
@@ -101139,14 +101207,16 @@
         "date": "N/A",
         "id": "oraclehcm:40848",
         "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40848",
-        "location": "United States"
+        "location": "United States",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Mechanical Packaging Engineer Co-op",
         "date": "N/A",
         "id": "oraclehcm:40850",
         "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40850",
-        "location": "United States"
+        "location": "United States",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Optoelectronics Test Development Coop",
@@ -101174,7 +101244,8 @@
         "date": "N/A",
         "id": "oraclehcm:40566",
         "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40566",
-        "location": "United States"
+        "location": "United States",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Optical Systems Group Co-op",
@@ -101195,14 +101266,16 @@
         "date": "N/A",
         "id": "oraclehcm:40702",
         "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40702",
-        "location": "United States"
+        "location": "United States",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Optical System Engineer Co-Op",
         "date": "N/A",
         "id": "oraclehcm:40648",
         "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40648",
-        "location": "United States"
+        "location": "United States",
+        "closed": "2026-11-12"
       }
     ],
     "Expedia": [
@@ -101325,7 +101398,8 @@
         "date": "N/A",
         "id": "dassault:549636",
         "url": "https://www.3ds.com/careers/jobs/internship-quality-engineer-dec-2026-549636",
-        "location": "Pleasanton, CA"
+        "location": "Pleasanton, CA",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f INTERNSHIP - BIOVIA Social",
@@ -111592,8 +111666,7 @@
         "date": "N/A",
         "id": "talentbrew:100378295536",
         "url": "https://jobs.boeing.com/job/wichita/boeing-wichita-summer-2027-internship-program-paid-manufacturing-engineering/185/100378295536",
-        "location": "Wichita, KS",
-        "closed": "2026-11-12"
+        "location": "Wichita, KS"
       },
       {
         "title": "\u2b50\ufe0f Boeing - Wichita Summer 2027 Internship Program (Paid) - Supplier Quality Assurance & Compliance",
@@ -112338,7 +112411,8 @@
         "date": "N/A",
         "id": "phenom:R117562",
         "url": "https://careers.mitre.org/us/en/job/R117562/Software-Systems-Engineering-Intern",
-        "location": "Bellevue, NE"
+        "location": "Bellevue, NE",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Systems Engineer Intern",
