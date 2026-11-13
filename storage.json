@@ -1254,6 +1254,13 @@
         "id": "eightfold:1970393556986148",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556986148",
         "location": "United States, Washington, Redmond"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Intern - AI Coding Agents",
+        "date": "2026-11-13",
+        "id": "eightfold:1970393557073416",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557073416",
+        "location": "United States, Washington, Redmond"
       }
     ],
     "Amazon": [
@@ -6090,7 +6097,8 @@
         "date": "N/A",
         "id": "jibe:33732",
         "url": "https://careers.rivian.com/careers-home/jobs/33732",
-        "location": "Normal, IL"
+        "location": "Normal, IL",
+        "closed": "2026-11-13"
       },
       {
         "title": "Early Career - Durability Analytics Engineer",
@@ -6480,6 +6488,13 @@
         "id": "jibe:35896",
         "url": "https://careers.rivian.com/careers-home/jobs/35896",
         "location": "Champaign, IL"
+      },
+      {
+        "title": "Early Career - CAE Engineer II, Interior Hard Trim & Door Trim",
+        "date": "2026-11-13",
+        "id": "jibe:33721",
+        "url": "https://careers.rivian.com/careers-home/jobs/33721",
+        "location": "Irvine, CA"
       }
     ],
     "Roblox": [
@@ -10389,6 +10404,20 @@
         "id": "ashby:e36468fe-2e54-4269-ad7e-c772fa9fa3a0",
         "url": "https://jobs.ashbyhq.com/gecko-robotics/e36468fe-2e54-4269-ad7e-c772fa9fa3a0",
         "location": "Pittsburgh"
+      },
+      {
+        "title": "NDT Advanced Services Operator | Middle East",
+        "date": "2026-11-13",
+        "id": "ashby:eca8bd5d-f8f4-4704-a5af-47434e675812",
+        "url": "https://jobs.ashbyhq.com/gecko-robotics/eca8bd5d-f8f4-4704-a5af-47434e675812",
+        "location": "Abu Dhabi"
+      },
+      {
+        "title": "NDT Level III | Middle East",
+        "date": "2026-11-13",
+        "id": "ashby:faf08b9f-05ae-40db-8d29-22a3e6fe7e07",
+        "url": "https://jobs.ashbyhq.com/gecko-robotics/faf08b9f-05ae-40db-8d29-22a3e6fe7e07",
+        "location": "Abu Dhabi"
       }
     ],
     "Intuitive Surgical": [
@@ -13383,7 +13412,8 @@
         "date": "N/A",
         "id": "greenhouse:5973865004",
         "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=5973865004",
-        "location": "Hybrid- Salem, OR or Fremont, CA"
+        "location": "Hybrid- Salem, OR or Fremont, CA",
+        "closed": "2026-11-13"
       },
       {
         "title": "Principal Technical Program Manager",
@@ -13905,6 +13935,13 @@
         "id": "greenhouse:6248674004",
         "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6248674004",
         "location": "Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA)"
+      },
+      {
+        "title": "Software Engineer III, Software Services (Applications)",
+        "date": "2026-11-13",
+        "id": "greenhouse:6242669004",
+        "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6242669004",
+        "location": "Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA)"
       }
     ],
     "Cobot": [
@@ -14322,7 +14359,8 @@
         "date": "N/A",
         "id": "greenhouse:8632104002",
         "url": "https://boards.greenhouse.io/pathrobotics/jobs/8632104002?gh_jid=8632104002",
-        "location": "Columbus, Ohio or Remote"
+        "location": "Columbus, Ohio or Remote",
+        "closed": "2026-11-13"
       },
       {
         "title": "Senior Machine Learning Engineer (Tech Lead), Robot Learning, Loco- Manipulation",
@@ -29231,6 +29269,13 @@
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5291829007?gh_jid=5291829007",
         "location": "Costa Mesa, California, United States",
         "early": "If you are a highly motivated recent grad who is eager to learn and make a visible impact, this program is for you."
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Brand Marketing Intern",
+        "date": "2026-11-13",
+        "id": "greenhouse:5261731007",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261731007?gh_jid=5261731007",
+        "location": "Costa Mesa, California, United States"
       }
     ],
     "Matic Robots": [
@@ -30694,6 +30739,20 @@
         "id": "ashby:3a199d55-c0a4-4919-b447-ae8cef9e55a4",
         "url": "https://jobs.ashbyhq.com/AeroVect/3a199d55-c0a4-4919-b447-ae8cef9e55a4",
         "location": "South San Francisco - Onsite +1"
+      },
+      {
+        "title": "Buyer/Planner",
+        "date": "2026-11-13",
+        "id": "ashby:ce98e046-24d3-4bdc-b376-423dcc0f7f5d",
+        "url": "https://jobs.ashbyhq.com/AeroVect/ce98e046-24d3-4bdc-b376-423dcc0f7f5d",
+        "location": "Detroit - Remote"
+      },
+      {
+        "title": "Buyer/Planner",
+        "date": "2026-11-13",
+        "id": "ashby:2696cf23-051a-40aa-aa84-4f0156024037",
+        "url": "https://jobs.ashbyhq.com/AeroVect/2696cf23-051a-40aa-aa84-4f0156024037",
+        "location": "Toronto - Remote"
       }
     ],
     "Gather AI": [
@@ -33846,14 +33905,16 @@
         "date": "N/A",
         "id": "lever:87d982f2-8b2b-4c73-9a19-71e461c7b724",
         "url": "https://jobs.lever.co/shieldai/87d982f2-8b2b-4c73-9a19-71e461c7b724",
-        "location": "Dallas, Texas +2"
+        "location": "Dallas, Texas +2",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 - Advanced Manufacturing Engineering Intern",
         "date": "N/A",
         "id": "lever:c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a",
         "url": "https://jobs.lever.co/shieldai/c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a",
-        "location": "Dallas, Texas +1"
+        "location": "Dallas, Texas +1",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 - Data Science Intern (R6324)",
@@ -33866,35 +33927,40 @@
         "date": "N/A",
         "id": "lever:8c6cfcee-c6da-4a73-9bdf-3ef098ff59e6",
         "url": "https://jobs.lever.co/shieldai/8c6cfcee-c6da-4a73-9bdf-3ef098ff59e6",
-        "location": "Dallas, Texas +3"
+        "location": "Dallas, Texas +3",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 - Electrical Engineering Intern",
         "date": "N/A",
         "id": "lever:200a293f-71ce-4982-a100-ac4b500c4cf7",
         "url": "https://jobs.lever.co/shieldai/200a293f-71ce-4982-a100-ac4b500c4cf7",
-        "location": "Dallas, Texas +3"
+        "location": "Dallas, Texas +3",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 - Mechanical Engineering Intern",
         "date": "N/A",
         "id": "lever:da54c482-fe62-4f60-98b1-55ac0b82b3bc",
         "url": "https://jobs.lever.co/shieldai/da54c482-fe62-4f60-98b1-55ac0b82b3bc",
-        "location": "Seattle, Washington +1"
+        "location": "Seattle, Washington +1",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 - Software Engineer Intern",
         "date": "N/A",
         "id": "lever:8c850c75-081d-4d09-bebf-096379a93010",
         "url": "https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010",
-        "location": "San Diego, California +3"
+        "location": "San Diego, California +3",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f June 2027 Co-op - Reliability Engineering #5953",
         "date": "2026-10-23",
         "id": "lever:bef440ce-0365-4de7-9b1e-b1288cdaf7f3",
         "url": "https://jobs.lever.co/shieldai/bef440ce-0365-4de7-9b1e-b1288cdaf7f3",
-        "location": "Seattle, Washington +2"
+        "location": "Seattle, Washington +2",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 - Mechanical Engineering Intern, Air Vehicle Systems and Test #6465+",
@@ -33915,7 +33981,8 @@
         "date": "2026-11-02",
         "id": "lever:1be0e71a-cf7f-4966-8532-09e6f40bb9dc",
         "url": "https://jobs.lever.co/shieldai/1be0e71a-cf7f-4966-8532-09e6f40bb9dc",
-        "location": "Dallas, Texas"
+        "location": "Dallas, Texas",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Intern - Embedded Firmware - 5810",
@@ -33930,7 +33997,8 @@
         "date": "2026-11-05",
         "id": "lever:db8fc063-8856-4404-991c-f287712de949",
         "url": "https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949",
-        "location": "Dallas, Texas +3"
+        "location": "Dallas, Texas +3",
+        "closed": "2026-11-13"
       },
       {
         "title": "Electrical Engineer I - New Grad",
@@ -33938,7 +34006,8 @@
         "id": "lever:1b229cdc-9a0b-4704-b39b-b3b4c6e3fa89",
         "url": "https://jobs.lever.co/shieldai/1b229cdc-9a0b-4704-b39b-b3b4c6e3fa89",
         "location": "Dallas, Texas",
-        "early": "We are looking for an entry level Electrical Engineer that is ready to help us bring X-BAT to first flight."
+        "early": "We are looking for an entry level Electrical Engineer that is ready to help us bring X-BAT to first flight.",
+        "closed": "2026-11-13"
       },
       {
         "title": "Electrical Engineer I - New Grad (BOS)",
@@ -33946,7 +34015,8 @@
         "id": "lever:c9321f8a-b367-4dcb-9308-bd64ae6bac1d",
         "url": "https://jobs.lever.co/shieldai/c9321f8a-b367-4dcb-9308-bd64ae6bac1d",
         "location": "Boston, Massachusetts",
-        "early": "We are looking for an entry level Electrical Engineer that is ready to help us bring X-BAT to first flight."
+        "early": "We are looking for an entry level Electrical Engineer that is ready to help us bring X-BAT to first flight.",
+        "closed": "2026-11-13"
       },
       {
         "title": "Electrical Engineer I - New Grad (SEA) (R6107)",
@@ -33954,21 +34024,24 @@
         "id": "lever:37fa20c1-57dc-4aa1-9515-ecc87f22f31b",
         "url": "https://jobs.lever.co/shieldai/37fa20c1-57dc-4aa1-9515-ecc87f22f31b",
         "location": "Seattle, Washington",
-        "early": "We are looking for an entry level Electrical Engineer that is ready to help us bring X-BAT to first flight."
+        "early": "We are looking for an entry level Electrical Engineer that is ready to help us bring X-BAT to first flight.",
+        "closed": "2026-11-13"
       },
       {
         "title": "Electrical Engineer I, X-BAT (New Grad)",
         "date": "N/A",
         "id": "lever:5dcaa8e8-df94-4655-9d75-462d497b6b6e",
         "url": "https://jobs.lever.co/shieldai/5dcaa8e8-df94-4655-9d75-462d497b6b6e",
-        "location": "Seattle, Washington"
+        "location": "Seattle, Washington",
+        "closed": "2026-11-13"
       },
       {
         "title": "Engineer I, Electrical Integration & Test - New Grad (R5136)",
         "date": "N/A",
         "id": "lever:49d0cfc6-952f-42b6-ad6c-630597a1780a",
         "url": "https://jobs.lever.co/shieldai/49d0cfc6-952f-42b6-ad6c-630597a1780a",
-        "location": "Seattle, Washington"
+        "location": "Seattle, Washington",
+        "closed": "2026-11-13"
       },
       {
         "title": "Engineer I, Flight Test - New Grad - 6219",
@@ -33984,14 +34057,16 @@
         "id": "lever:a90d9b7d-971b-408e-8bc2-c4d09c0d5a9a",
         "url": "https://jobs.lever.co/shieldai/a90d9b7d-971b-408e-8bc2-c4d09c0d5a9a",
         "location": "Seattle, Washington +1",
-        "early": "0-1 years of related experience with a bachelor\u2019s degree in Mechanical Engineering, Aerospace Engineering, or a related technical field, or equivalent\u2026"
+        "early": "0-1 years of related experience with a bachelor\u2019s degree in Mechanical Engineering, Aerospace Engineering, or a related technical field, or equivalent\u2026",
+        "closed": "2026-11-13"
       },
       {
         "title": "Engineer I, PCB - New Grad (R6065)",
         "date": "N/A",
         "id": "lever:d4f68b62-871c-4c83-9c28-85591147907f",
         "url": "https://jobs.lever.co/shieldai/d4f68b62-871c-4c83-9c28-85591147907f",
-        "location": "Seattle, Washington"
+        "location": "Seattle, Washington",
+        "closed": "2026-11-13"
       },
       {
         "title": "Engineer I, Simulation Framework - New Grad - 6203",
@@ -34062,14 +34137,16 @@
         "date": "N/A",
         "id": "lever:8436804b-9460-4a14-9062-b45d4583a00a",
         "url": "https://jobs.lever.co/shieldai/8436804b-9460-4a14-9062-b45d4583a00a",
-        "location": "Seattle, Washington"
+        "location": "Seattle, Washington",
+        "closed": "2026-11-13"
       },
       {
         "title": "RF Engineer I - New Grad (R6108)",
         "date": "N/A",
         "id": "lever:a9d061e9-4d28-4a30-8381-5f2dc28b4416",
         "url": "https://jobs.lever.co/shieldai/a9d061e9-4d28-4a30-8381-5f2dc28b4416",
-        "location": "Seattle, Washington"
+        "location": "Seattle, Washington",
+        "closed": "2026-11-13"
       },
       {
         "title": "Software Development Engineer - New Graduate",
@@ -34077,7 +34154,8 @@
         "id": "lever:79c3b65f-ce0c-4868-bedf-4ddcc4cfe583",
         "url": "https://jobs.lever.co/shieldai/79c3b65f-ce0c-4868-bedf-4ddcc4cfe583",
         "location": "San Diego, California +2",
-        "early": "We are now reviewing applications for positions starting after graduation in 2027."
+        "early": "We are now reviewing applications for positions starting after graduation in 2027.",
+        "closed": "2026-11-13"
       },
       {
         "title": "Software Engineer I - New Grad (R6052)",
@@ -34091,7 +34169,8 @@
         "date": "2026-11-06",
         "id": "lever:a2bb6f71-abcf-4938-a3a2-803b5d7c0753",
         "url": "https://jobs.lever.co/shieldai/a2bb6f71-abcf-4938-a3a2-803b5d7c0753",
-        "location": "Dallas, Texas +1"
+        "location": "Dallas, Texas +1",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Supply Chain Materials Planner - 6434",
@@ -34107,7 +34186,8 @@
         "id": "lever:af183d8c-51d0-40df-9c04-fbddae0d83aa",
         "url": "https://jobs.lever.co/shieldai/af183d8c-51d0-40df-9c04-fbddae0d83aa",
         "location": "Washington, D.C.",
-        "early": "As an entry-level engineer, you will work with experienced engineers on well-defined software, configuration, and test tasks."
+        "early": "As an entry-level engineer, you will work with experienced engineers on well-defined software, configuration, and test tasks.",
+        "closed": "2026-11-13"
       },
       {
         "title": "Engineer I, Software - Autonomy Capabilities - New Grad - 6129",
@@ -34115,7 +34195,8 @@
         "id": "lever:f8e0f87f-0e12-4e05-a491-4e8272494896",
         "url": "https://jobs.lever.co/shieldai/f8e0f87f-0e12-4e05-a491-4e8272494896",
         "location": "United States",
-        "early": "As an entry-level engineer, you will build and test well-defined autonomy software with regular guidance from experienced engineers."
+        "early": "As an entry-level engineer, you will build and test well-defined autonomy software with regular guidance from experienced engineers.",
+        "closed": "2026-11-13"
       },
       {
         "title": "Engineer I, Software - Perception - New Grad - 6135",
@@ -34123,56 +34204,64 @@
         "id": "lever:cd641bcb-f613-44dd-b66d-2df360067319",
         "url": "https://jobs.lever.co/shieldai/cd641bcb-f613-44dd-b66d-2df360067319",
         "location": "Washington, D.C.",
-        "early": "As an entry-level engineer, you will develop and validate well-defined perception features, tools, or tests alongside experienced engineers."
+        "early": "As an entry-level engineer, you will develop and validate well-defined perception features, tools, or tests alongside experienced engineers.",
+        "closed": "2026-11-13"
       },
       {
         "title": "Engineer II, Software - Ground Control Station - Full Stack - New Grad - 6140",
         "date": "2026-11-08",
         "id": "lever:88f7b66e-3412-40c8-b74d-aafc462405ff",
         "url": "https://jobs.lever.co/shieldai/88f7b66e-3412-40c8-b74d-aafc462405ff",
-        "location": "Washington, D.C."
+        "location": "Washington, D.C.",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Aviation Safety & Airworthiness - 6456",
         "date": "2026-11-10",
         "id": "lever:082808e5-5e3b-4189-9034-3ebd69d8c0dc",
         "url": "https://jobs.lever.co/shieldai/082808e5-5e3b-4189-9034-3ebd69d8c0dc",
-        "location": "Dallas, Texas"
+        "location": "Dallas, Texas",
+        "closed": "2026-11-13"
       },
       {
         "title": "Engineer II, Software - Autonomy Capabilities - New Grad - 6131",
         "date": "2026-11-11",
         "id": "lever:d2050861-fd48-4ac6-9606-e1e502a817af",
         "url": "https://jobs.lever.co/shieldai/d2050861-fd48-4ac6-9606-e1e502a817af",
-        "location": "United States"
+        "location": "United States",
+        "closed": "2026-11-13"
       },
       {
         "title": "Engineer II, Software - Autonomous Pilot Integration - New Grad - 6127",
         "date": "2026-11-11",
         "id": "lever:d2beda9f-f7f1-46ca-86d6-5bbbd52fbe50",
         "url": "https://jobs.lever.co/shieldai/d2beda9f-f7f1-46ca-86d6-5bbbd52fbe50",
-        "location": "Washington, D.C."
+        "location": "Washington, D.C.",
+        "closed": "2026-11-13"
       },
       {
         "title": "Engineer II, Software - Perception (SD/DC/Bos) - New Grad - 6139",
         "date": "2026-11-11",
         "id": "lever:9017c8c2-2668-45d6-aff5-a7e348107c12",
         "url": "https://jobs.lever.co/shieldai/9017c8c2-2668-45d6-aff5-a7e348107c12",
-        "location": "United States"
+        "location": "United States",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f 2027 June Co-op - Hardware Test - #6426",
         "date": "2026-11-12",
         "id": "lever:3cfe5522-856e-4216-a5f7-c9188bebf12a",
         "url": "https://jobs.lever.co/shieldai/3cfe5522-856e-4216-a5f7-c9188bebf12a",
-        "location": "Dallas, Texas"
+        "location": "Dallas, Texas",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Solution Systems Engineer (6537, 6540, 6541)",
         "date": "2026-11-12",
         "id": "lever:1bcb2094-e52d-4af9-9eee-2bcd655536ca",
         "url": "https://jobs.lever.co/shieldai/1bcb2094-e52d-4af9-9eee-2bcd655536ca",
-        "location": "San Diego, California +1"
+        "location": "San Diego, California +1",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Future Concepts - 6539",
@@ -34186,14 +34275,16 @@
         "date": "2026-11-13",
         "id": "lever:a737063e-e831-49e1-98c3-25be44faac30",
         "url": "https://jobs.lever.co/shieldai/a737063e-e831-49e1-98c3-25be44faac30",
-        "location": "Washington, D.C."
+        "location": "Washington, D.C.",
+        "closed": "2026-11-13"
       },
       {
         "title": "Engineer I, Software - New Grad - 6531",
         "date": "2026-11-13",
         "id": "lever:c33ab680-2625-4da1-a96c-41bea441b98b",
         "url": "https://jobs.lever.co/shieldai/c33ab680-2625-4da1-a96c-41bea441b98b",
-        "location": "Washington, D.C."
+        "location": "Washington, D.C.",
+        "closed": "2026-11-13"
       }
     ],
     "Swarm Aero": [
@@ -34404,7 +34495,8 @@
         "date": "2026-10-13",
         "id": "greenhouse:8214350",
         "url": "https://careers.withwaymo.com/jobs?gh_jid=8214350",
-        "location": "San Francisco, California, United States"
+        "location": "San Francisco, California, United States",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations",
@@ -43050,7 +43142,8 @@
         "date": "2026-10-13",
         "id": "greenhouse:8872470002",
         "url": "https://wing.com/careers/8872470002?gh_jid=8872470002",
-        "location": "Palo Alto, California"
+        "location": "Palo Alto, California",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f Hardware Reliability Intern, Summer 2027",
@@ -47293,7 +47386,8 @@
         "date": "2026-10-14",
         "id": "ashby:6799cc7a-2128-4e8e-825d-d9210c5a17d1",
         "url": "https://jobs.ashbyhq.com/saronic/6799cc7a-2128-4e8e-825d-d9210c5a17d1",
-        "location": "Franklin, LA"
+        "location": "Franklin, LA",
+        "closed": "2026-11-13"
       },
       {
         "title": "Marine Alignment Technician",
@@ -48711,6 +48805,13 @@
         "date": "2026-11-13",
         "id": "ashby:053d7990-5e07-4a13-98e8-9d486d41b805",
         "url": "https://jobs.ashbyhq.com/saronic/053d7990-5e07-4a13-98e8-9d486d41b805",
+        "location": "Arlington, VA"
+      },
+      {
+        "title": "Director of Growth, Shipbuilding",
+        "date": "2026-11-13",
+        "id": "ashby:675e95d5-f249-4503-a2a0-7f437b68a685",
+        "url": "https://jobs.ashbyhq.com/saronic/675e95d5-f249-4503-a2a0-7f437b68a685",
         "location": "Arlington, VA"
       }
     ],
@@ -56792,8 +56893,7 @@
         "date": "2026-10-16",
         "id": "workday:JR00050360",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-UT-Salt-Lake-City/Technical-Sales-Specialist-Mining_JR00050360",
-        "location": "USA, UT, Salt Lake City",
-        "closed": "2026-11-13"
+        "location": "USA, UT, Salt Lake City"
       },
       {
         "title": "Business Process Owner - Order and Service Management",
@@ -60455,6 +60555,20 @@
         "id": "workday:JR00044849",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Oregon-United-States-of-America/Sr-Field-Service-Technician---Western-US_JR00044849",
         "location": "Remote, Oregon, United States of America"
+      },
+      {
+        "title": "Marketing Specialist",
+        "date": "2026-11-13",
+        "id": "workday:JR00053205",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-North-Carolina-United-States-of-America/Marketing-Specialist_JR00053205",
+        "location": "Remote, North Carolina, United States of America"
+      },
+      {
+        "title": "R&D Chapter Lead - USA",
+        "date": "2026-11-13",
+        "id": "workday:JR00052491",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-CT-Bloomfield/R-D-Chapter-Lead---USA_JR00052491",
+        "location": "USA, CT, Bloomfield"
       }
     ],
     "Teradyne": [
@@ -63441,7 +63555,8 @@
         "date": "N/A",
         "id": "adp:572838",
         "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=572838&lang=en_US",
-        "location": "Glen Burnie, MD"
+        "location": "Glen Burnie, MD",
+        "closed": "2026-11-13"
       },
       {
         "title": "Sheetmetal Mechanical Technician",
@@ -63778,7 +63893,8 @@
         "date": "N/A",
         "id": "adp:559899",
         "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=559899&lang=en_US",
-        "location": "Houston, TX"
+        "location": "Houston, TX",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f Marketing & Communications Operations Intern",
@@ -77763,6 +77879,20 @@
         "id": "ashby:4444d839-3f58-4369-a241-985acbbbf2f9",
         "url": "https://jobs.ashbyhq.com/openai/4444d839-3f58-4369-a241-985acbbbf2f9",
         "location": "San Francisco"
+      },
+      {
+        "title": "Enterprise Sales Manager, Healthcare",
+        "date": "2026-11-13",
+        "id": "ashby:1ea4eda8-b420-4391-bb58-cd21e189a863",
+        "url": "https://jobs.ashbyhq.com/openai/1ea4eda8-b420-4391-bb58-cd21e189a863",
+        "location": "San Francisco"
+      },
+      {
+        "title": "Full Stack Software Engineer, Consumer Health",
+        "date": "2026-11-13",
+        "id": "ashby:cc1ea124-47ad-4b81-9e4e-0c69e525b62a",
+        "url": "https://jobs.ashbyhq.com/openai/cc1ea124-47ad-4b81-9e4e-0c69e525b62a",
+        "location": "San Francisco"
       }
     ],
     "John Deere": [
@@ -85439,7 +85569,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5422117008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5422117008",
-        "location": "San Francisco, CA"
+        "location": "San Francisco, CA",
+        "closed": "2026-11-13"
       },
       {
         "title": "Research Scientist/Engineer, Biological Safety",
@@ -93287,8 +93418,7 @@
         "date": "2026-11-02",
         "id": "workday:R49418",
         "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Frederick-Maryland-United-States/Autonomy-Engineering-Intern_R49418",
-        "location": "Frederick, Maryland, United States",
-        "closed": "2026-11-10"
+        "location": "Frederick, Maryland, United States"
       },
       {
         "title": "\u2b50\ufe0f CSE Engineering Intern",
@@ -94306,7 +94436,8 @@
         "date": "N/A",
         "id": "workday:JR0286834",
         "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834",
-        "location": "5 Locations"
+        "location": "5 Locations",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering - Intern, Graduate",
@@ -102062,7 +102193,8 @@
         "date": "N/A",
         "id": "greenhouse:8198241",
         "url": "https://boards.greenhouse.io/robinhood/jobs/8198241?t=gh_src=&gh_jid=8198241",
-        "location": "Denver, CO"
+        "location": "Denver, CO",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f Investment Analyst MBA Intern, Robinhood Ventures (Summer 2027)",
@@ -102076,6 +102208,13 @@
         "date": "N/A",
         "id": "greenhouse:8197614",
         "url": "https://boards.greenhouse.io/robinhood/jobs/8197614?t=gh_src=&gh_jid=8197614",
+        "location": "New York, NY"
+      },
+      {
+        "title": "\u2b50\ufe0f Corporate Finance Intern (Summer 2027)",
+        "date": "2026-11-13",
+        "id": "greenhouse:8357464",
+        "url": "https://boards.greenhouse.io/robinhood/jobs/8357464?t=gh_src=&gh_jid=8357464",
         "location": "New York, NY"
       }
     ],
@@ -110931,7 +111070,8 @@
         "date": "2026-11-13",
         "id": "workday:R-00196931-1",
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Radar-Engineering-Intern_R-00196931-1",
-        "location": "Huntsville, AL"
+        "location": "Huntsville, AL",
+        "closed": "2026-11-13"
       }
     ],
     "Radix Trading": [
@@ -115162,7 +115302,8 @@
         "date": "N/A",
         "id": "pinpoint:604618",
         "url": "https://impulsespace.pinpointhq.com/en/postings/a29771a2-98aa-4c70-9db1-4613e43311ce",
-        "location": "Redondo Beach, CA"
+        "location": "Redondo Beach, CA",
+        "closed": "2026-11-13"
       },
       {
         "title": "Avionics Technician (Harnessing)",
@@ -117364,43 +117505,6 @@
         "title:\u2b50\ufe0f Supply Chain Engineering Intern \u2013 Robotics (2026 Fall)"
       ],
       "backlog": true
-    },
-    "Shield AI": {
-      "since": "2026-11-13T15:33-05:00",
-      "keys": [
-        "lever:082808e5-5e3b-4189-9034-3ebd69d8c0dc",
-        "lever:1b229cdc-9a0b-4704-b39b-b3b4c6e3fa89",
-        "lever:1bcb2094-e52d-4af9-9eee-2bcd655536ca",
-        "lever:1be0e71a-cf7f-4966-8532-09e6f40bb9dc",
-        "lever:200a293f-71ce-4982-a100-ac4b500c4cf7",
-        "lever:37fa20c1-57dc-4aa1-9515-ecc87f22f31b",
-        "lever:3cfe5522-856e-4216-a5f7-c9188bebf12a",
-        "lever:49d0cfc6-952f-42b6-ad6c-630597a1780a",
-        "lever:5dcaa8e8-df94-4655-9d75-462d497b6b6e",
-        "lever:79c3b65f-ce0c-4868-bedf-4ddcc4cfe583",
-        "lever:8436804b-9460-4a14-9062-b45d4583a00a",
-        "lever:87d982f2-8b2b-4c73-9a19-71e461c7b724",
-        "lever:88f7b66e-3412-40c8-b74d-aafc462405ff",
-        "lever:8c6cfcee-c6da-4a73-9bdf-3ef098ff59e6",
-        "lever:8c850c75-081d-4d09-bebf-096379a93010",
-        "lever:9017c8c2-2668-45d6-aff5-a7e348107c12",
-        "lever:a2bb6f71-abcf-4938-a3a2-803b5d7c0753",
-        "lever:a737063e-e831-49e1-98c3-25be44faac30",
-        "lever:a90d9b7d-971b-408e-8bc2-c4d09c0d5a9a",
-        "lever:a9d061e9-4d28-4a30-8381-5f2dc28b4416",
-        "lever:af183d8c-51d0-40df-9c04-fbddae0d83aa",
-        "lever:bef440ce-0365-4de7-9b1e-b1288cdaf7f3",
-        "lever:c33ab680-2625-4da1-a96c-41bea441b98b",
-        "lever:c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a",
-        "lever:c9321f8a-b367-4dcb-9308-bd64ae6bac1d",
-        "lever:cd641bcb-f613-44dd-b66d-2df360067319",
-        "lever:d2050861-fd48-4ac6-9606-e1e502a817af",
-        "lever:d2beda9f-f7f1-46ca-86d6-5bbbd52fbe50",
-        "lever:d4f68b62-871c-4c83-9c28-85591147907f",
-        "lever:da54c482-fe62-4f60-98b1-55ac0b82b3bc",
-        "lever:db8fc063-8856-4404-991c-f287712de949",
-        "lever:f8e0f87f-0e12-4e05-a491-4e8272494896"
-      ]
     }
   },
   "checked": {
@@ -117715,6 +117819,18 @@
     "Nvidia": {
       "since": "2026-11-13",
       "error": "HTTPError: 500 Server Error: Internal Server Error for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
+    },
+    "General Motors": {
+      "since": "2026-11-13",
+      "error": "HTTPError: 500 Server Error: Internal Server Error for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
+    },
+    "Johnson & Johnson": {
+      "since": "2026-11-13",
+      "error": "HTTPError: 502 Server Error: Bad Gateway for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs"
+    },
+    "Caterpillar": {
+      "since": "2026-11-13",
+      "error": "HTTPError: 500 Server Error: Internal Server Error for url: https://cat.wd5.myworkdayjobs.com/wday/cxs/cat/CaterpillarCareers/jobs"
     }
   },
   "closures_untracked": {
