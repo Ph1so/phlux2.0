@@ -8557,16 +8557,14 @@
         "date": "2026-10-10",
         "id": "eightfold:446721346084",
         "url": "https://careers.qualcomm.com/careers/job/446721346084",
-        "location": "San Diego, CA",
-        "closed": "2026-11-13"
+        "location": "San Diego, CA"
       },
       {
         "title": "\u2b50\ufe0f Security (Product, Systems, Cyber) Engineering Internship - Summer 2027",
         "date": "2026-10-13",
         "id": "eightfold:446720740636",
         "url": "https://careers.qualcomm.com/careers/job/446720740636",
-        "location": "San Diego, CA",
-        "closed": "2026-11-13"
+        "location": "San Diego, CA"
       },
       {
         "title": "\u2b50\ufe0f Modular Engineering Internship \u2013 Summer 2027",
@@ -11784,6 +11782,13 @@
         "date": "2026-11-13",
         "id": "greyorange:1185360",
         "url": "https://careers.greyorange.com/greyorange/jobview/software-development-engineer-iii-application-platform-gurugram-hq-2026101413581820",
+        "location": "Gurugram - HQ"
+      },
+      {
+        "title": "DevOps Engineer I",
+        "date": "2026-11-13",
+        "id": "greyorange:1202187",
+        "url": "https://careers.greyorange.com/greyorange/jobview/devops-engineer-i-gurugram-hq-2026110514093522",
         "location": "Gurugram - HQ"
       }
     ],
@@ -69434,6 +69439,13 @@
         "id": "greenhouse:4957066101",
         "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=4957066101&gh_jid=4957066101",
         "location": "Remote, United States of America"
+      },
+      {
+        "title": "Senior Maintenance Engineer",
+        "date": "2026-11-13",
+        "id": "greenhouse:5032824101",
+        "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=5032824101&gh_jid=5032824101",
+        "location": "Forest Park, Georgia,United States"
       }
     ],
     "Northrop Grumman": [
