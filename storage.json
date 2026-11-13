@@ -803,7 +803,8 @@
         "date": "2026-11-09",
         "id": "uber:302523",
         "url": "https://jobs.uber.com/en/jobs/302523/",
-        "location": "San Francisco, CA"
+        "location": "San Francisco, CA",
+        "closed": "2026-11-13"
       }
     ],
     "Microsoft": [
@@ -11790,6 +11791,13 @@
         "id": "greyorange:1202187",
         "url": "https://careers.greyorange.com/greyorange/jobview/devops-engineer-i-gurugram-hq-2026110514093522",
         "location": "Gurugram - HQ"
+      },
+      {
+        "title": "Senior Infrastructure Engineer",
+        "date": "2026-11-13",
+        "id": "greyorange:1197001",
+        "url": "https://careers.greyorange.com/greyorange/jobview/senior-infrastructure-engineer-gurugram-hq-2026110514190085",
+        "location": "Gurugram - HQ"
       }
     ],
     "General Motors": [
@@ -14669,6 +14677,20 @@
         "date": "2026-11-10",
         "id": "greenhouse:8932141002",
         "url": "https://boards.greenhouse.io/pathrobotics/jobs/8932141002?gh_jid=8932141002",
+        "location": "Columbus, Ohio"
+      },
+      {
+        "title": "Recruiter, Manufacturing and Operations",
+        "date": "2026-11-13",
+        "id": "greenhouse:8940984002",
+        "url": "https://boards.greenhouse.io/pathrobotics/jobs/8940984002?gh_jid=8940984002",
+        "location": "Columbus, Ohio"
+      },
+      {
+        "title": "Senior Recruiter, GTM",
+        "date": "2026-11-13",
+        "id": "greenhouse:8940990002",
+        "url": "https://boards.greenhouse.io/pathrobotics/jobs/8940990002?gh_jid=8940990002",
         "location": "Columbus, Ohio"
       }
     ],
@@ -64950,7 +64972,8 @@
         "date": "N/A",
         "id": "adp:5001233843706",
         "url": "https://myjobs.adp.com/fanuc/cx/job-details?reqId=5001233843706",
-        "location": "Huntersville, NC +1"
+        "location": "Huntersville, NC +1",
+        "closed": "2026-11-13"
       },
       {
         "title": "R&D Mechanical Engineer",
@@ -91156,8 +91179,7 @@
         "date": "2026-10-27",
         "id": "workday:JR100687",
         "url": "https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Warsaw-Indiana/Team-Member-or-Quality-Technician_JR100687",
-        "location": "Warsaw, Indiana",
-        "closed": "2026-11-10"
+        "location": "Warsaw, Indiana"
       },
       {
         "title": "Slate Auto Quality Technician",
@@ -116458,12 +116480,6 @@
         "title:\u2b50\ufe0f Supply Chain Engineering Intern \u2013 Robotics (2026 Fall)"
       ],
       "backlog": true
-    },
-    "Uber": {
-      "since": "2026-11-13T06:34-05:00",
-      "keys": [
-        "uber:302523"
-      ]
     }
   },
   "checked": {
