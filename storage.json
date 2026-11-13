@@ -858,16 +858,14 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557027326",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557027326",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-13"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Brain-Computer Interfaces",
         "date": "2026-10-13",
         "id": "eightfold:1970393557027378",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557027378",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-13"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Intern - CTJ - TS",
@@ -1191,8 +1189,7 @@
         "date": "2026-11-02",
         "id": "eightfold:1970393557052982",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557052982",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-13"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer: Internship Opportunities",
@@ -14091,6 +14088,13 @@
         "id": "ashby:67aea2dd-efd0-4aaf-8d20-a225dc96e0c4",
         "url": "https://jobs.ashbyhq.com/cobot/67aea2dd-efd0-4aaf-8d20-a225dc96e0c4",
         "location": "Santa Clara"
+      },
+      {
+        "title": "Site Operation Manager",
+        "date": "2026-11-13",
+        "id": "ashby:6c9480d6-139c-4017-91c9-2d437f4613eb",
+        "url": "https://jobs.ashbyhq.com/cobot/6c9480d6-139c-4017-91c9-2d437f4613eb",
+        "location": "Remote"
       }
     ],
     "Brightpick": [
@@ -24031,7 +24035,8 @@
         "date": "2026-10-08",
         "id": "ashby:bfe62800-e3d0-4184-99f6-b96547c31365",
         "url": "https://jobs.ashbyhq.com/serverobotics/bfe62800-e3d0-4184-99f6-b96547c31365",
-        "location": "Atlanta, GA"
+        "location": "Atlanta, GA",
+        "closed": "2026-11-13"
       },
       {
         "title": "Senior Electrical Engineer",
@@ -25725,6 +25730,13 @@
         "id": "greenhouse:8384407",
         "url": "https://nuro.ai/careersitem?gh_jid=8384407",
         "location": "Mountain View, California (HQ)"
+      },
+      {
+        "title": "Senior Software Engineer, Performance",
+        "date": "2026-11-13",
+        "id": "greenhouse:8386877",
+        "url": "https://nuro.ai/careersitem?gh_jid=8386877",
+        "location": "Mountain View, California (HQ)"
       }
     ],
     "Aeva": [
@@ -26897,7 +26909,8 @@
         "date": "2026-10-02",
         "id": "smartrecruiters:744000153195132",
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153195132",
-        "location": "Farmington Hills, MI"
+        "location": "Farmington Hills, MI",
+        "closed": "2026-11-13"
       },
       {
         "title": "Customer Service Associate",
@@ -33524,11 +33537,13 @@
         "date": "N/A",
         "id": "greenhouse:8928721002",
         "url": "https://app.careerpuck.com/job-board/lyft/job/8928721002?gh_jid=8928721002",
-        "location": "San Francisco, CA"
+        "location": "San Francisco, CA",
+        "closed": "2026-11-13"
       },
       {
         "title": "Lyft Business Customer Success Associate",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-13"
       },
       {
         "title": "Senior Manager, Global Workforce Planning",
@@ -44099,7 +44114,8 @@
         "date": "2026-11-13",
         "id": "lever:755a7b0c-98bb-4645-ab81-193c3994ff06",
         "url": "https://jobs.lever.co/dexterity/755a7b0c-98bb-4645-ab81-193c3994ff06",
-        "location": "Redwood City, CA"
+        "location": "Redwood City, CA",
+        "closed": "2026-11-13"
       }
     ],
     "Nimble Robotics": [
@@ -51179,6 +51195,13 @@
         "id": "ashby:801e864e-5fbb-493b-bc3a-9b5ff265fbaa",
         "url": "https://jobs.ashbyhq.com/hadrian-automation/801e864e-5fbb-493b-bc3a-9b5ff265fbaa",
         "location": "Los Angeles, CA"
+      },
+      {
+        "title": "Director, Government Contracts",
+        "date": "2026-11-13",
+        "id": "ashby:8121c209-5ffe-406c-bf36-dbfc9ca9dd37",
+        "url": "https://jobs.ashbyhq.com/hadrian-automation/8121c209-5ffe-406c-bf36-dbfc9ca9dd37",
+        "location": "Washington, DC"
       }
     ],
     "Saildrone": [
@@ -58866,7 +58889,8 @@
         "date": "N/A",
         "id": "workday:JR00050946-1",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Heidelberg-Baden-Wurttemberg-Germany/PIM-Senior-Admin_JR00050946-1",
-        "location": "7 Locations"
+        "location": "7 Locations",
+        "closed": "2026-11-13"
       },
       {
         "title": "Principal Power Electronics Engineer - VFDs",
@@ -62910,6 +62934,13 @@
         "date": "2026-11-13",
         "id": "successfactors:1403434600",
         "url": "https://jobs.teradyne.com/Teradyne/job/Agoura-Hills-Senior-NPI-Manufacturing-Engineer-%28TERADYNE%2C-Agoura-Hills%2C-CA%29-CA-91301/1403434600/",
+        "location": "Agoura Hills, CA"
+      },
+      {
+        "title": "Software Project Manager (Compute Test - Agoura Hills, CA)",
+        "date": "2026-11-13",
+        "id": "successfactors:1450746900",
+        "url": "https://jobs.teradyne.com/Teradyne/job/Agoura-Hills-Software-Project-Manager-%28Compute-Test-Agoura-Hills%2C-CA%29-CA-91301/1450746900/",
         "location": "Agoura Hills, CA"
       }
     ],
@@ -77398,7 +77429,8 @@
         "date": "2026-11-06",
         "id": "ashby:6fc25168-bc4c-47a0-8601-583dfaf7fcbd",
         "url": "https://jobs.ashbyhq.com/openai/6fc25168-bc4c-47a0-8601-583dfaf7fcbd",
-        "location": "San Francisco +2"
+        "location": "San Francisco +2",
+        "closed": "2026-11-13"
       },
       {
         "title": "Controls Engineer, Power Generation and Microgird",
@@ -77973,6 +78005,13 @@
         "date": "2026-11-13",
         "id": "ashby:58b0c1ff-9a9a-4a8a-a7eb-97618713574d",
         "url": "https://jobs.ashbyhq.com/openai/58b0c1ff-9a9a-4a8a-a7eb-97618713574d",
+        "location": "San Francisco"
+      },
+      {
+        "title": "Head of Technical Success, HR Business Partner \u2013 Go-to-Market",
+        "date": "2026-11-13",
+        "id": "ashby:57486b6e-0b23-4fec-9c35-5efb63fa521a",
+        "url": "https://jobs.ashbyhq.com/openai/57486b6e-0b23-4fec-9c35-5efb63fa521a",
         "location": "San Francisco"
       }
     ],
@@ -87947,7 +87986,8 @@
         "date": "2026-11-10",
         "id": "greenhouse:5467305008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467305008",
-        "location": "San Francisco, CA | New York City, NY"
+        "location": "San Francisco, CA | New York City, NY",
+        "closed": "2026-11-13"
       },
       {
         "title": "Enterprise Account Executive",
@@ -95166,7 +95206,8 @@
         "date": "N/A",
         "id": "ibm:134067",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=134067",
-        "location": "Baton Rouge"
+        "location": "Baton Rouge",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f Back End Developer Intern - NY POK JO - 2027",
@@ -95355,8 +95396,7 @@
         "date": "N/A",
         "id": "ibm:129926",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=129926",
-        "location": "Poughkeepsie",
-        "closed": "2026-11-13"
+        "location": "Poughkeepsie"
       },
       {
         "title": "\u2b50\ufe0f Intern Package Consultant - Salesforce 2027",
@@ -96155,7 +96195,8 @@
         "date": "N/A",
         "id": "ibm:128628",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=128628",
-        "location": "Durham"
+        "location": "Durham",
+        "closed": "2026-11-13"
       },
       {
         "title": "Associate Data Engineer 2027 - AI & Data Analytics",
@@ -96590,6 +96631,13 @@
         "id": "ibm:130103",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=130103",
         "location": "Rochester"
+      },
+      {
+        "title": "Data Scientist & AI ELH - RTP 2027",
+        "date": "2026-11-13",
+        "id": "ibm:132703",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=132703",
+        "location": "Multiple Cities"
       }
     ],
     "Bank of America": [
@@ -107225,6 +107273,13 @@
         "date": "2026-11-13",
         "id": "jibe:12872",
         "url": "https://careers.sig.com/jobs/12872",
+        "location": "Bala Cynwyd (Philadelphia Area), PA"
+      },
+      {
+        "title": "Executive Assistant - HR and Marketing",
+        "date": "2026-11-13",
+        "id": "jibe:13136",
+        "url": "https://careers.sig.com/jobs/13136",
         "location": "Bala Cynwyd (Philadelphia Area), PA"
       }
     ],
@@ -118016,6 +118071,18 @@
     "Oshkosh": {
       "since": "2026-11-13",
       "error": "HTTPError: 521 Server Error: <none> for url: https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs"
+    },
+    "Workday": {
+      "since": "2026-11-13",
+      "error": "HTTPError: 521 Server Error: <none> for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday_Early_Career/jobs"
+    },
+    "Leidos": {
+      "since": "2026-11-13",
+      "error": "HTTPError: 521 Server Error: <none> for url: https://leidos.wd5.myworkdayjobs.com/wday/cxs/leidos/External/jobs"
+    },
+    "KUKA": {
+      "since": "2026-11-13",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://jobs.kuka.com/search/?q=&locationsearch=United+States&locale=en_US&sortColumn=referencedate&sortDirection=desc"
     }
   },
   "closures_untracked": {
