@@ -858,14 +858,16 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557027326",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557027326",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Brain-Computer Interfaces",
         "date": "2026-10-13",
         "id": "eightfold:1970393557027378",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557027378",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Intern - CTJ - TS",
@@ -1189,7 +1191,8 @@
         "date": "2026-11-02",
         "id": "eightfold:1970393557052982",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557052982",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer: Internship Opportunities",
@@ -1260,6 +1263,13 @@
         "date": "2026-11-13",
         "id": "eightfold:1970393557073416",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557073416",
+        "location": "United States, Washington, Redmond"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Intern - MSR Software-Hardware Co-design",
+        "date": "2026-11-13",
+        "id": "eightfold:1970393557073455",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
         "location": "United States, Washington, Redmond"
       }
     ],
@@ -2620,6 +2630,13 @@
         "id": "amazon:10603470",
         "url": "https://www.amazon.jobs/en/jobs/10603470/executive-assistant-agi-agi",
         "location": "Boston, MA"
+      },
+      {
+        "title": "Area Manager, Early Career (2027) \u2013 Cleveland & Akron, Ohio",
+        "date": "2026-11-13",
+        "id": "amazon:10604985",
+        "url": "https://www.amazon.jobs/en/jobs/10604985/area-manager-early-career-2027-cleveland-akron-ohio",
+        "location": "North Randall, OH +8"
       }
     ],
     "Meta": [
@@ -3864,7 +3881,8 @@
         "date": "2026-11-09",
         "id": "meta:1632929388311563",
         "url": "https://www.metacareers.com/profile/job_details/1632929388311563/",
-        "location": "Menlo Park, CA"
+        "location": "Menlo Park, CA",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f Research Intern \u2014 Neural Network Training and Hardware\u2013Software Co-Design",
@@ -3921,6 +3939,13 @@
         "id": "meta:1674297360998408",
         "url": "https://www.metacareers.com/profile/job_details/1674297360998408/",
         "location": "Redmond, WA"
+      },
+      {
+        "title": "\u2b50\ufe0f Strategic Sourcing Manager, Intern",
+        "date": "2026-11-13",
+        "id": "meta:1819500979094439",
+        "url": "https://www.metacareers.com/profile/job_details/1819500979094439/",
+        "location": "Menlo Park, CA"
       }
     ],
     "Apple": [
@@ -14924,8 +14949,7 @@
         "date": "N/A",
         "id": "gem:am9icG9zdDpbOzMAQiwmHp8KrmlRSiHD",
         "url": "https://jobs.gem.com/chef-robotics/am9icG9zdDpbOzMAQiwmHp8KrmlRSiHD",
-        "location": "San Francisco, CA",
-        "closed": "2026-11-04"
+        "location": "San Francisco, CA"
       },
       {
         "title": "Forward Deployed Engineer",
@@ -16189,6 +16213,13 @@
         "id": "greenhouse:8202777003",
         "url": "https://motional.com/open-positions/?gh_jid=8202777003#/8202777003",
         "location": "Boston, Massachusetts, United States; Pittsburgh, Pennsylvania, United States"
+      },
+      {
+        "title": "Strategic Partner Associate",
+        "date": "2026-11-13",
+        "id": "greenhouse:8203976003",
+        "url": "https://motional.com/open-positions/?gh_jid=8203976003#/8203976003",
+        "location": "Las Vegas, Nevada, United States"
       }
     ],
     "Apptronik": [
@@ -19325,7 +19356,8 @@
         "date": "N/A",
         "id": "ashby:292a8671-8abb-4382-ad24-d08d630caa91",
         "url": "https://jobs.ashbyhq.com/aurora-operations-inc/292a8671-8abb-4382-ad24-d08d630caa91",
-        "location": "Mountain View, CA"
+        "location": "Mountain View, CA",
+        "closed": "2026-11-13"
       },
       {
         "title": "Regulatory Counsel",
@@ -23715,6 +23747,13 @@
         "date": "2026-11-13",
         "id": "lever:11a8089e-0c7b-473a-bda5-810b8ba8acc7",
         "url": "https://jobs.lever.co/zoox/11a8089e-0c7b-473a-bda5-810b8ba8acc7",
+        "location": "Foster City, CA"
+      },
+      {
+        "title": "Automation Engineer - Compute Software Performance",
+        "date": "2026-11-13",
+        "id": "lever:1825c7df-ea96-4a2d-b57b-609a61300382",
+        "url": "https://jobs.lever.co/zoox/1825c7df-ea96-4a2d-b57b-609a61300382",
         "location": "Foster City, CA"
       }
     ],
@@ -28131,19 +28170,23 @@
         "date": "N/A",
         "id": "greenhouse:6186649004",
         "url": "https://boards.greenhouse.io/intrinsicrobotics/jobs/6110357004?gh_jid=6110357004",
-        "location": "Munich, Germany"
+        "location": "Munich, Germany",
+        "closed": "2026-11-13"
       },
       {
         "title": "Robotics Software Engineer - Grasping",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-13"
       },
       {
         "title": "Robotics Software Engineer - Grasping",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-13"
       },
       {
         "title": "Robotics Software Engineer - Grasping",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-13"
       },
       {
         "title": "Senior Customer Success Engineer, Robotics Software and Automation",
@@ -28176,11 +28219,13 @@
         "date": "N/A",
         "id": "greenhouse:5810877004",
         "url": "https://boards.greenhouse.io/intrinsicrobotics/jobs/6101399004?gh_jid=6101399004",
-        "location": "Munich, Germany"
+        "location": "Munich, Germany",
+        "closed": "2026-11-13"
       },
       {
         "title": "Staff Robotics Software Engineer - Grasping",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-13"
       },
       {
         "title": "Everything Else",
@@ -35989,6 +36034,20 @@
         "date": "2026-11-05",
         "id": "ashby:a61ecded-689e-4feb-9d78-224f83981ea4",
         "url": "https://jobs.ashbyhq.com/bedrock-robotics/a61ecded-689e-4feb-9d78-224f83981ea4",
+        "location": "San Francisco, CA"
+      },
+      {
+        "title": "Software Engineer, State Estimation Foundations",
+        "date": "2026-11-13",
+        "id": "ashby:4e041384-82da-4d7c-84f6-33f46d4421df",
+        "url": "https://jobs.ashbyhq.com/bedrock-robotics/4e041384-82da-4d7c-84f6-33f46d4421df",
+        "location": "San Francisco, CA"
+      },
+      {
+        "title": "Software Engineer, Calibration",
+        "date": "2026-11-13",
+        "id": "ashby:f1def984-07a4-4139-8095-dde2b830c3ae",
+        "url": "https://jobs.ashbyhq.com/bedrock-robotics/f1def984-07a4-4139-8095-dde2b830c3ae",
         "location": "San Francisco, CA"
       }
     ],
@@ -51231,7 +51290,8 @@
         "date": "2026-10-14",
         "id": "greenhouse:4372155009",
         "url": "https://www.saildrone.com/careers/available-jobs?gh_jid=4372155009",
-        "location": "Alameda, California, United States"
+        "location": "Alameda, California, United States",
+        "closed": "2026-11-13"
       },
       {
         "title": "Mission Manager",
@@ -60569,6 +60629,13 @@
         "id": "workday:JR00052491",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-CT-Bloomfield/R-D-Chapter-Lead---USA_JR00052491",
         "location": "USA, CT, Bloomfield"
+      },
+      {
+        "title": "Inventory Access Program (IAP) Specialist",
+        "date": "2026-11-13",
+        "id": "workday:JR00052474",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Ohio-United-States-of-America/Inventory-Access-Program--IAP--Specialist_JR00052474",
+        "location": "Remote, Ohio, United States of America"
       }
     ],
     "Teradyne": [
@@ -63229,7 +63296,8 @@
         "date": "2026-11-13",
         "id": "successfactors:1376842355",
         "url": "https://jobs.kuka.com/job/Atlanta-Talent-Acquisition-Specialist-GA-30301/1376842355/",
-        "location": "Atlanta"
+        "location": "Atlanta",
+        "closed": "2026-11-13"
       }
     ],
     "Intuitive Machines": [
@@ -69135,12 +69203,12 @@
         "title": "Business Development Manager",
         "date": "2026-10-22",
         "id": "ashby:9994c8c0-4f5e-43dd-a51a-69c0c8a38937",
-        "closed": "N/A"
+        "url": "https://jobs.ashbyhq.com/genesis/9994c8c0-4f5e-43dd-a51a-69c0c8a38937",
+        "location": "San Carlos"
       },
       {
         "title": "Business Development Manager",
-        "date": "2026-10-22",
-        "closed": "N/A"
+        "date": "2026-10-22"
       },
       {
         "title": "Lead Robotics Technician",
@@ -72447,8 +72515,7 @@
         "date": "2026-10-22",
         "id": "ashby:55f36629-8351-41d9-b2f5-3d63c5e26bf7",
         "url": "https://jobs.ashbyhq.com/openai/55f36629-8351-41d9-b2f5-3d63c5e26bf7",
-        "location": "San Francisco",
-        "closed": "2026-11-13"
+        "location": "San Francisco"
       },
       {
         "title": "Account Associate - Singapore (ANZ Market)",
@@ -77893,6 +77960,20 @@
         "id": "ashby:cc1ea124-47ad-4b81-9e4e-0c69e525b62a",
         "url": "https://jobs.ashbyhq.com/openai/cc1ea124-47ad-4b81-9e4e-0c69e525b62a",
         "location": "San Francisco"
+      },
+      {
+        "title": "Account Associate - Austin",
+        "date": "2026-11-13",
+        "id": "ashby:fa49d49e-0a9b-4927-898e-2e3faa6be981",
+        "url": "https://jobs.ashbyhq.com/openai/fa49d49e-0a9b-4927-898e-2e3faa6be981",
+        "location": "US - Remote"
+      },
+      {
+        "title": "GTM Strategy & Operations, Generalist",
+        "date": "2026-11-13",
+        "id": "ashby:58b0c1ff-9a9a-4a8a-a7eb-97618713574d",
+        "url": "https://jobs.ashbyhq.com/openai/58b0c1ff-9a9a-4a8a-a7eb-97618713574d",
+        "location": "San Francisco"
       }
     ],
     "John Deere": [
@@ -82373,7 +82454,8 @@
         "date": "2026-11-02",
         "id": "greenhouse:4414378009",
         "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4414378009",
-        "location": "Cambridge, MA USA"
+        "location": "Cambridge, MA USA",
+        "closed": "2026-11-13"
       },
       {
         "title": "Director / Senior Director, Intellectual Property, Life Sciences",
@@ -84163,7 +84245,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5388719008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5388719008",
-        "location": "San Francisco, CA | New York City, NY"
+        "location": "San Francisco, CA | New York City, NY",
+        "closed": "2026-11-13"
       },
       {
         "title": "Head of Customer Success, APAC",
@@ -88020,6 +88103,27 @@
         "id": "greenhouse:5481096008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5481096008",
         "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY"
+      },
+      {
+        "title": "CMC & Manufacturing Lead, Life Sciences",
+        "date": "2026-11-13",
+        "id": "greenhouse:5481396008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5481396008",
+        "location": "Remote-Friendly, United States"
+      },
+      {
+        "title": "GTM Narrative Lead",
+        "date": "2026-11-13",
+        "id": "greenhouse:5481671008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5481671008",
+        "location": "San Francisco, CA | New York City, NY"
+      },
+      {
+        "title": "Technical Program Manager, Life Sciences Research (Genetic Medicine)",
+        "date": "2026-11-13",
+        "id": "greenhouse:5481980008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5481980008",
+        "location": "Boston, MA; San Francisco, CA | New York City, NY | Seattle, WA"
       }
     ],
     "xAI": [
@@ -90577,6 +90681,13 @@
         "id": "greenhouse:5294031007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5294031007",
         "location": "Memphis, TN"
+      },
+      {
+        "title": "Software Engineer, Consumer Subscriptions",
+        "date": "2026-11-13",
+        "id": "greenhouse:5290321007",
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5290321007",
+        "location": "Palo Alto, CA"
       }
     ],
     "Thinking Machines Lab": [
@@ -98170,7 +98281,8 @@
         "date": "N/A",
         "id": "ashby:be14b338-eac9-4099-9599-1e15cfdd11be",
         "url": "https://jobs.ashbyhq.com/cohere/be14b338-eac9-4099-9599-1e15cfdd11be",
-        "location": "New York +1"
+        "location": "New York +1",
+        "closed": "2026-11-13"
       },
       {
         "title": "VP of Sales - Public Sector",
@@ -107107,6 +107219,13 @@
         "id": "jibe:9998",
         "url": "https://careers.sig.com/jobs/9998",
         "location": "Bala Cynwyd (Philadelphia Area), PA"
+      },
+      {
+        "title": "HR Onboarding Coordinator",
+        "date": "2026-11-13",
+        "id": "jibe:12872",
+        "url": "https://careers.sig.com/jobs/12872",
+        "location": "Bala Cynwyd (Philadelphia Area), PA"
       }
     ],
     "Adobe": [
@@ -108560,6 +108679,13 @@
         "id": "jibe:140830",
         "url": "https://careers.se.com/global/jobs/140830",
         "location": "Red Oak, TX"
+      },
+      {
+        "title": "\u2b50\ufe0f Sales Enablement Intern",
+        "date": "2026-11-13",
+        "id": "jibe:141959",
+        "url": "https://careers.se.com/global/jobs/141959",
+        "location": "Raleigh, NC"
       }
     ],
     "Roku": [
@@ -108907,7 +109033,8 @@
         "date": "N/A",
         "id": "ashby:b7f12834-78d2-424d-bf83-0c942815fbf7",
         "url": "https://jobs.ashbyhq.com/replit/b7f12834-78d2-424d-bf83-0c942815fbf7",
-        "location": "Foster City, CA"
+        "location": "Foster City, CA",
+        "closed": "2026-11-13"
       },
       {
         "title": "Staff Software Engineer, Replit Cloud",
@@ -116447,7 +116574,8 @@
         "date": "N/A",
         "id": "icims:4961",
         "url": "https://careersus-shure.icims.com/jobs/4961/acoustical-engineering-intern/job",
-        "location": "Niles, IL"
+        "location": "Niles, IL",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f Automated Test Hardware Engineering Intern",
@@ -117505,6 +117633,31 @@
         "title:\u2b50\ufe0f Supply Chain Engineering Intern \u2013 Robotics (2026 Fall)"
       ],
       "backlog": true
+    },
+    "Intel": {
+      "since": "2026-11-13T17:30-05:00",
+      "keys": [
+        "workday:JR0286826",
+        "workday:JR0286827",
+        "workday:JR0286828",
+        "workday:JR0286829",
+        "workday:JR0286830",
+        "workday:JR0286836",
+        "workday:JR0288230"
+      ]
+    },
+    "Vercel": {
+      "since": "2026-11-13T17:31-05:00",
+      "keys": [
+        "greenhouse:6181759004"
+      ]
+    },
+    "Shield AI": {
+      "since": "2026-11-13T17:32-05:00",
+      "keys": [
+        "lever:633a3038-574c-45ff-babb-7e1b8b7c6196",
+        "lever:cf89556f-a5ea-4a3a-81c7-944890f76ade"
+      ]
     }
   },
   "checked": {
@@ -117831,6 +117984,38 @@
     "Caterpillar": {
       "since": "2026-11-13",
       "error": "HTTPError: 500 Server Error: Internal Server Error for url: https://cat.wd5.myworkdayjobs.com/wday/cxs/cat/CaterpillarCareers/jobs"
+    },
+    "Blue Origin": {
+      "since": "2026-11-13",
+      "error": "HTTPError: 521 Server Error: <none> for url: https://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/BlueOrigin/jobs"
+    },
+    "RedHat": {
+      "since": "2026-11-13",
+      "error": "HTTPError: 521 Server Error: <none> for url: https://redhat.wd5.myworkdayjobs.com/wday/cxs/redhat/jobs/jobs"
+    },
+    "Visa": {
+      "since": "2026-11-13",
+      "error": "HTTPError: 521 Server Error: <none> for url: https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs"
+    },
+    "Target": {
+      "since": "2026-11-13",
+      "error": "HTTPError: 521 Server Error: <none> for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
+    },
+    "Mosaic": {
+      "since": "2026-11-13",
+      "error": "HTTPError: 521 Server Error: <none> for url: https://mosaic.wd5.myworkdayjobs.com/wday/cxs/mosaic/mosaic/jobs"
+    },
+    "Zillow": {
+      "since": "2026-11-13",
+      "error": "HTTPError: 521 Server Error: <none> for url: https://zillow.wd5.myworkdayjobs.com/wday/cxs/zillow/Zillow_Group_External/jobs"
+    },
+    "Draper": {
+      "since": "2026-11-13",
+      "error": "HTTPError: 521 Server Error: <none> for url: https://draper.wd5.myworkdayjobs.com/wday/cxs/draper/Draper_Careers/jobs"
+    },
+    "Oshkosh": {
+      "since": "2026-11-13",
+      "error": "HTTPError: 521 Server Error: <none> for url: https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs"
     }
   },
   "closures_untracked": {
