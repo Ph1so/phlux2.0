@@ -23492,6 +23492,13 @@
         "id": "lever:0f42ac76-3821-4805-8b59-446477d1e1db",
         "url": "https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db",
         "location": "Foster City, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Systems & Safety Engineering Intern [Summer 2027]",
+        "date": "2026-11-12",
+        "id": "lever:442845d1-33b0-4801-a553-7fd9b806e46f",
+        "url": "https://jobs.lever.co/zoox/442845d1-33b0-4801-a553-7fd9b806e46f",
+        "location": "Foster City, CA"
       }
     ],
     "Pony.ai": [
@@ -43449,6 +43456,20 @@
         "date": "2026-11-12",
         "id": "ashby:be2f88d7-bcdf-4b24-9a53-92a93e38e744",
         "url": "https://jobs.ashbyhq.com/dyna-robotics/be2f88d7-bcdf-4b24-9a53-92a93e38e744",
+        "location": "Redwood City, CA"
+      },
+      {
+        "title": "Recruiting Coordinator",
+        "date": "2026-11-12",
+        "id": "ashby:3170310e-76ef-4d76-8159-b441964f5805",
+        "url": "https://jobs.ashbyhq.com/dyna-robotics/3170310e-76ef-4d76-8159-b441964f5805",
+        "location": "Redwood City, CA"
+      },
+      {
+        "title": "Technical Recruiter",
+        "date": "2026-11-12",
+        "id": "ashby:bc5afa6f-ac9e-4290-8f9f-944fb96545e1",
+        "url": "https://jobs.ashbyhq.com/dyna-robotics/bc5afa6f-ac9e-4290-8f9f-944fb96545e1",
         "location": "Redwood City, CA"
       }
     ],
@@ -100903,6 +100924,13 @@
         "id": "bytedance:7698822572474583301",
         "url": "https://lifeattiktok.com/search/7698822572474583301",
         "location": "San Jose, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern (TikTok - Content Ecology - Local Services) - 2027 Start (PhD)",
+        "date": "2026-11-12",
+        "id": "bytedance:7707222170826623285",
+        "url": "https://lifeattiktok.com/search/7707222170826623285",
+        "location": "San Jose, CA"
       }
     ],
     "MongoDB": [
@@ -110639,7 +110667,8 @@
         "date": "N/A",
         "id": "eightfold:43322364",
         "url": "https://apply.hp.com/careers/job/43322364",
-        "location": "Vancouver, WA"
+        "location": "Vancouver, WA",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Strategy Intern",
@@ -114207,7 +114236,8 @@
         "date": "N/A",
         "id": "pinpoint:562011",
         "url": "https://impulsespace.pinpointhq.com/en/postings/3a19ab04-c4d1-4509-987a-31f9cf621e58",
-        "location": "Redondo Beach, CA"
+        "location": "Redondo Beach, CA",
+        "closed": "2026-11-12"
       },
       {
         "title": "Manager, Spacecraft Actuators",
@@ -114679,6 +114709,13 @@
         "date": "2026-11-12",
         "id": "pinpoint:568599",
         "url": "https://impulsespace.pinpointhq.com/en/postings/2b03cd5d-4a58-48a0-81f4-ea8c8c7bcd2a",
+        "location": "Redondo Beach, CA"
+      },
+      {
+        "title": "Senior Digital Signal Processing Engineer",
+        "date": "2026-11-12",
+        "id": "pinpoint:619107",
+        "url": "https://impulsespace.pinpointhq.com/en/postings/c3ea7a41-ec09-434a-8eba-efa28e8cf1ff",
         "location": "Redondo Beach, CA"
       }
     ],
@@ -116401,6 +116438,18 @@
     "Navier": {
       "since": "2026-11-11",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/navierboat/jobs?content=true"
+    },
+    "Apple": {
+      "since": "2026-11-12",
+      "error": "ReadTimeout: HTTPSConnectionPool(host='jobs.apple.com', port=443): Read timed out. (read timeout=30)"
+    },
+    "Pony.ai": {
+      "since": "2026-11-12",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/pony-dot-ai/jobs"
+    },
+    "Realtime Robotics": {
+      "since": "2026-11-12",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/realtime-robotics/jobs"
     }
   },
   "closures_untracked": {
