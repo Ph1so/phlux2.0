@@ -988,7 +988,8 @@
         "date": "2026-10-15",
         "id": "eightfold:1970393557027387",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557027387",
-        "location": "United States, Washington, Redmond +1"
+        "location": "United States, Washington, Redmond +1",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Efficient AI Software Systems",
@@ -1188,7 +1189,8 @@
         "date": "2026-11-02",
         "id": "eightfold:1970393557052982",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557052982",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer: Internship Opportunities",
@@ -19806,6 +19808,13 @@
         "id": "ashby:98b2fec5-918d-460f-b0fb-121c71ecf7d4",
         "url": "https://jobs.ashbyhq.com/aurora-operations-inc/98b2fec5-918d-460f-b0fb-121c71ecf7d4",
         "location": "Dallas, TX"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineer Intern, Vehicle Platforms",
+        "date": "2026-11-12",
+        "id": "ashby:06daa269-c02b-43a4-88b8-b57a3ba335ef",
+        "url": "https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef",
+        "location": "Mountain View, CA"
       }
     ],
     "Zoox": [
@@ -35175,6 +35184,13 @@
         "date": "2026-11-12",
         "id": "ashby:1426c0df-2ed5-4aea-b20d-1c7d2bde3213",
         "url": "https://jobs.ashbyhq.com/wayve/1426c0df-2ed5-4aea-b20d-1c7d2bde3213",
+        "location": "Sunnyvale, California USA"
+      },
+      {
+        "title": "Data Engineer, Security Analytics",
+        "date": "2026-11-12",
+        "id": "ashby:330f5ef2-63e5-4de1-aa2c-a7581a07ea1a",
+        "url": "https://jobs.ashbyhq.com/wayve/330f5ef2-63e5-4de1-aa2c-a7581a07ea1a",
         "location": "Sunnyvale, California USA"
       }
     ],
@@ -109880,7 +109896,8 @@
         "date": "N/A",
         "id": "workday:JR2026007809",
         "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Software-Engineer-Intern_JR2026007809",
-        "location": "Singapore"
+        "location": "Singapore",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f AI Engineer Intern",
@@ -110490,7 +110507,8 @@
         "date": "N/A",
         "id": "talentbrew:100700683792",
         "url": "https://jobs.comcast.com/job/chennai/intern/45483/100700683792",
-        "location": "Chennai, Tamil Nadu"
+        "location": "Chennai, Tamil Nadu",
+        "closed": "2026-11-12"
       }
     ],
     "HP": [
@@ -110667,8 +110685,7 @@
         "date": "N/A",
         "id": "eightfold:43322364",
         "url": "https://apply.hp.com/careers/job/43322364",
-        "location": "Vancouver, WA",
-        "closed": "2026-11-12"
+        "location": "Vancouver, WA"
       },
       {
         "title": "\u2b50\ufe0f Strategy Intern",
@@ -111704,21 +111721,24 @@
         "date": "N/A",
         "id": "talentbrew:100378295744",
         "url": "https://jobs.boeing.com/job/wichita/spirit-defense-summer-2027-internship-program-paid-information-digital-technology-and-security-idt-/185/100378295744",
-        "location": "Wichita, KS"
+        "location": "Wichita, KS",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Spirit Defense - Summer 2027 Internship Program (Paid) - Operations Engineering - Manufacturing & Industrial Engineering",
         "date": "N/A",
         "id": "talentbrew:100378295696",
         "url": "https://jobs.boeing.com/job/wichita/spirit-defense-summer-2027-internship-program-paid-operations-engineering-manufacturing-and-industr/185/100378295696",
-        "location": "Wichita, KS"
+        "location": "Wichita, KS",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Boeing - Wichita Summer 2027 Internship Program (Paid) - Manufacturing Engineering",
         "date": "N/A",
         "id": "talentbrew:100378295536",
         "url": "https://jobs.boeing.com/job/wichita/boeing-wichita-summer-2027-internship-program-paid-manufacturing-engineering/185/100378295536",
-        "location": "Wichita, KS"
+        "location": "Wichita, KS",
+        "closed": "2026-11-12"
       },
       {
         "title": "\u2b50\ufe0f Boeing - Wichita Summer 2027 Internship Program (Paid) - Supplier Quality Assurance & Compliance",
@@ -116126,12 +116146,6 @@
         "title:\u2b50\ufe0f Supply Chain Engineering Intern \u2013 Robotics (2026 Fall)"
       ],
       "backlog": true
-    },
-    "Comcast": {
-      "since": "2026-11-12T20:44-05:00",
-      "keys": [
-        "talentbrew:100700683792"
-      ]
     }
   },
   "checked": {
@@ -116439,17 +116453,9 @@
       "since": "2026-11-11",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/navierboat/jobs?content=true"
     },
-    "Apple": {
+    "Citadel": {
       "since": "2026-11-12",
-      "error": "ReadTimeout: HTTPSConnectionPool(host='jobs.apple.com', port=443): Read timed out. (read timeout=30)"
-    },
-    "Pony.ai": {
-      "since": "2026-11-12",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/pony-dot-ai/jobs"
-    },
-    "Realtime Robotics": {
-      "since": "2026-11-12",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/realtime-robotics/jobs"
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
     }
   },
   "closures_untracked": {
