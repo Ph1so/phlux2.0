@@ -1124,14 +1124,16 @@
         "date": "2026-10-28",
         "id": "eightfold:1970393557049981",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557049981",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - MSR Systems Research Group - Redmond",
         "date": "2026-10-28",
         "id": "eightfold:1970393557050039",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557050039",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f Applied Scientist: Internship Opportunities, Turing",
@@ -41853,7 +41855,8 @@
         "date": "N/A",
         "id": "google:125959927041532614",
         "url": "https://www.google.com/about/careers/applications/jobs/results/125959927041532614",
-        "location": "Mountain View, CA +2"
+        "location": "Mountain View, CA +2",
+        "closed": "2026-11-13"
       },
       {
         "title": "Finance Expert Lead, Gemini Data, DeepMind",
@@ -42830,6 +42833,13 @@
         "id": "google:115337698482234054",
         "url": "https://www.google.com/about/careers/applications/jobs/results/115337698482234054",
         "location": "Mountain View, CA +1"
+      },
+      {
+        "title": "Technical Program Manager, Physical AI and Creative Technologies, DeepMind",
+        "date": "2026-11-13",
+        "id": "google:99236725082989254",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/99236725082989254",
+        "location": "Mountain View, CA +3"
       }
     ],
     "Wing": [
@@ -47618,8 +47628,7 @@
         "date": "2026-10-14",
         "id": "ashby:6880c779-2753-486e-ad2b-bd2292b94fc0",
         "url": "https://jobs.ashbyhq.com/saronic/6880c779-2753-486e-ad2b-bd2292b94fc0",
-        "location": "Brownsville, TX +1",
-        "closed": "2026-11-12"
+        "location": "Brownsville, TX +1"
       },
       {
         "title": "Manufacturing Engineer \u2013 Outfitting Detail Planning",
@@ -47648,8 +47657,7 @@
         "date": "2026-10-14",
         "id": "ashby:3a734d21-e7cb-4315-a696-31639311062e",
         "url": "https://jobs.ashbyhq.com/saronic/3a734d21-e7cb-4315-a696-31639311062e",
-        "location": "Brownsville, TX +1",
-        "closed": "2026-11-11"
+        "location": "Brownsville, TX +1"
       },
       {
         "title": "Manufacturing Engineering Manager",
@@ -55535,6 +55543,13 @@
         "id": "workday:R8496",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Robotics-Software-Engineer_R8496",
         "location": "USA Wilmington, MA - HQ"
+      },
+      {
+        "title": "Buyer (Emergent Demand)",
+        "date": "2026-11-13",
+        "id": "workday:R8506",
+        "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Remote--Travel/Buyer--Emergent-Demand-_R8506",
+        "location": "USA Remote & Travel"
       }
     ],
     "PROCEPT BioRobotics": [
@@ -55711,7 +55726,8 @@
         "date": "N/A",
         "id": "workday:2026-R78",
         "url": "https://proceptbiorobotics.wd108.myworkdayjobs.com/PROCEPT/job/New-York/Territory-Manager---Western-New-York_2026-R78",
-        "location": "New York"
+        "location": "New York",
+        "closed": "2026-11-13"
       },
       {
         "title": "Principal Electrical Engineer",
@@ -55804,6 +55820,13 @@
         "id": "workday:2026-R130",
         "url": "https://proceptbiorobotics.wd108.myworkdayjobs.com/PROCEPT/job/Indiana/Clinical-Specialist---Indianapolis_2026-R130",
         "location": "Indiana"
+      },
+      {
+        "title": "Senior Territory Manager- Dallas/Ft Worth, TX",
+        "date": "2026-11-13",
+        "id": "workday:2026-R344",
+        "url": "https://proceptbiorobotics.wd108.myworkdayjobs.com/PROCEPT/job/Texas/Senior-Territory-Manager--Dallas-Ft-Worth--TX_2026-R344",
+        "location": "Texas"
       }
     ],
     "Miso Robotics": [
@@ -55976,8 +55999,7 @@
         "date": "2026-10-14",
         "id": "workday:JR00050280",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Mebane/R-D-Senior-Engineer---MV-Switchgear_JR00050280",
-        "location": "USA, NC, Mebane",
-        "closed": "2026-11-13"
+        "location": "USA, NC, Mebane"
       },
       {
         "title": "R&D Leader Grid Components",
@@ -56191,8 +56213,7 @@
         "date": "2026-10-14",
         "id": "workday:JR00049480",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Mebane/Associate-Designer_JR00049480",
-        "location": "USA, NC, Mebane",
-        "closed": "2026-11-12"
+        "location": "USA, NC, Mebane"
       },
       {
         "title": "Associate Project Engineer",
@@ -56206,8 +56227,7 @@
         "date": "2026-10-14",
         "id": "workday:JR00044718",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Colorado-United-States-of-America/Industrial-Sales-Specialist_JR00044718",
-        "location": "Remote, Colorado, United States of America",
-        "closed": "2026-11-12"
+        "location": "Remote, Colorado, United States of America"
       },
       {
         "title": "Segment Sales Manager - Defense, Nuclear & Specialty Solutions",
@@ -60020,6 +60040,20 @@
         "id": "workday:JR00041509",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-TN-Selmer/HSE-Technician--2nd-shift-_JR00041509",
         "location": "USA, TN, Selmer"
+      },
+      {
+        "title": "R&D Senior Engineer",
+        "date": "2026-11-13",
+        "id": "workday:JR00048665",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Mebane/R-D-Senior-Engineer_JR00048665",
+        "location": "USA, NC, Mebane"
+      },
+      {
+        "title": "CNC Machining Operator - 2nd Shift-1",
+        "date": "2026-11-13",
+        "id": "workday:JR00053406-1",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MS--Columbus-Home-Office/CNC-Machining-Operator---2nd-Shift-1_JR00053406-1",
+        "location": "USA, MS, Columbus, Home Office"
       }
     ],
     "Teradyne": [
@@ -64795,6 +64829,14 @@
         "id": "greenhouse:4483519009",
         "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4483519009",
         "location": "Remote - United States"
+      },
+      {
+        "title": "Machine Learning Engineer",
+        "date": "2026-11-13",
+        "id": "greenhouse:4506412009",
+        "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4506412009",
+        "location": "El Segundo, CA",
+        "early": "We hire machine learning engineers at several levels, from early career to senior staff, and review applications on a rolling basis."
       }
     ],
     "FANUC America": [
@@ -69469,6 +69511,13 @@
         "id": "greenhouse:5032824101",
         "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=5032824101&gh_jid=5032824101",
         "location": "Forest Park, Georgia,United States"
+      },
+      {
+        "title": "Principal Product Manager",
+        "date": "2026-11-13",
+        "id": "greenhouse:4979082101",
+        "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=4979082101&gh_jid=4979082101",
+        "location": "Hatfield, United Kingdom"
       }
     ],
     "Northrop Grumman": [
@@ -69915,6 +69964,13 @@
         "id": "workday:R10260488",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Aeronautical-Engineering-Intern---Sunnyvale-CA_R10260488",
         "location": "United States-California-Sunnyvale"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Materials & Process Engineering Intern - Northridge CA",
+        "date": "2026-11-13",
+        "id": "workday:R10260526",
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Northridge/XMLNAME-2027-Materials---Process-Engineering-Intern---Northridge-CA_R10260526",
+        "location": "United States-California-Northridge"
       }
     ],
     "OpenAI": [
@@ -77518,7 +77574,8 @@
         "date": "2026-10-22",
         "id": "lever:18dafd7e-c37c-4339-96e0-fe17cb2c6390",
         "url": "https://jobs.eu.lever.co/mobileye/18dafd7e-c37c-4339-96e0-fe17cb2c6390",
-        "location": "Jerusalem, Israel"
+        "location": "Jerusalem, Israel",
+        "closed": "2026-11-13"
       },
       {
         "title": "Technical Execution Program Manager",
@@ -87071,7 +87128,8 @@
         "date": "2026-11-10",
         "id": "greenhouse:5424288008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424288008",
-        "location": "London, UK"
+        "location": "London, UK",
+        "closed": "2026-11-13"
       },
       {
         "title": "Principal Engineer, Privacy",
