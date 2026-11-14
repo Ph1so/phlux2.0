@@ -70666,7 +70666,8 @@
         "date": "2026-10-22",
         "id": "workday:R10251849",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Cape-Canaveral/XMLNAME-2027-Systems-Engineer-Intern---Cape-Canaveral-FL_R10251849",
-        "location": "United States-Florida-Cape Canaveral"
+        "location": "United States-Florida-Cape Canaveral",
+        "closed": "2026-11-14"
       },
       {
         "title": "\u2b50\ufe0f 2027 Systems Engineering Internship (AI Experience) - Dulles VA",
@@ -70697,7 +70698,8 @@
         "date": "N/A",
         "id": "workday:R10260307",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Electrical-Engineering-Intern---Sunnyvale-CA_R10260307",
-        "location": "United States-California-Sunnyvale"
+        "location": "United States-California-Sunnyvale",
+        "closed": "2026-11-14"
       },
       {
         "title": "\u2b50\ufe0f 2027 Program Cost and Schedule Control Intern - Northridge CA",
@@ -70739,14 +70741,16 @@
         "date": "N/A",
         "id": "workday:R10260245-1",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Spring-Electrical-Engineer-Co-op-Intern---Cincinnati-OH_R10260245-1",
-        "location": "United States-Ohio-Cincinnati"
+        "location": "United States-Ohio-Cincinnati",
+        "closed": "2026-11-14"
       },
       {
         "title": "\u2b50\ufe0f 2027 Propulsion Engineering Intern - Promontory UT",
         "date": "N/A",
         "id": "workday:R10260223",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/XMLNAME-2027-Propulsion-Engineering-Intern---Promontory-UT_R10260223",
-        "location": "3 Locations"
+        "location": "3 Locations",
+        "closed": "2026-11-14"
       },
       {
         "title": "\u2b50\ufe0f 2027 Mechanical Engineer Intern- Redondo Beach CA",
@@ -70761,7 +70765,8 @@
         "date": "N/A",
         "id": "workday:R10260049",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Apopka/XMLNAME-2027-Optics-Photonic-Engineering-Intern---Apopka-FL_R10260049",
-        "location": "United States-Florida-Apopka"
+        "location": "United States-Florida-Apopka",
+        "closed": "2026-11-14"
       },
       {
         "title": "\u2b50\ufe0f 2027 Operations Manufacturing Engineering Intern",
@@ -70829,7 +70834,8 @@
         "date": "N/A",
         "id": "workday:R10259462",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Engineering-Internship--Graduate-or-PhD---Dulles-VA---Baltimore-MD-_R10259462",
-        "location": "2 Locations"
+        "location": "2 Locations",
+        "closed": "2026-11-14"
       },
       {
         "title": "\u2b50\ufe0f 2027 Intern Facilities Management - San Diego CA",
@@ -118096,7 +118102,7 @@
     "Morgan Stanley": "2026-11-14",
     "Cisco": "2026-11-14",
     "TwoSigma": "2026-11-14",
-    "Snap": "2026-11-13",
+    "Snap": "2026-11-14",
     "Workday": "2026-11-13",
     "Stripe": "2026-11-14",
     "Cohere": "2026-11-14",
@@ -118120,7 +118126,7 @@
     "Susquehanna": "2026-11-14",
     "Adobe": "2026-11-14",
     "Databricks": "2026-11-14",
-    "Rockwell Automation": "2026-11-13",
+    "Rockwell Automation": "2026-11-14",
     "Siemens": "2026-11-14",
     "X": "2026-11-14",
     "TSMC": "2026-11-14",
@@ -118154,7 +118160,7 @@
     "Sentry": "2026-11-14",
     "Tencent": "2026-11-14",
     "Point72": "2026-11-14",
-    "Sony": "2026-11-13",
+    "Sony": "2026-11-14",
     "Comcast": "2026-11-14",
     "HP": "2026-11-14",
     "UKG": "2026-11-14",
@@ -118165,7 +118171,7 @@
     "Boeing": "2026-11-14",
     "Mosaic": "2026-11-14",
     "Samsung": "2026-11-14",
-    "Medtronic": "2026-11-13",
+    "Medtronic": "2026-11-14",
     "T-Mobile": "2026-11-13",
     "Akuna Capital": "2026-11-14",
     "Bose": "2026-11-14",
@@ -118189,7 +118195,7 @@
     "Hadrian": "2026-11-14",
     "Saildrone": "2026-11-14",
     "Johnson & Johnson": "2026-11-13",
-    "Stryker": "2026-11-13",
+    "Stryker": "2026-11-14",
     "PROCEPT BioRobotics": "2026-11-14",
     "Berkshire Grey": "2026-11-14",
     "Teradyne": "2026-11-14",
@@ -118200,7 +118206,7 @@
     "FANUC America": "2026-11-14",
     "Starship Technologies": "2026-11-14",
     "Shure": "2026-11-14",
-    "Northrop Grumman": "2026-11-13",
+    "Northrop Grumman": "2026-11-14",
     "ABB": "2026-11-14",
     "Exotec": "2026-11-14",
     "Lockheed Martin": "2026-11-14",
@@ -118211,7 +118217,7 @@
     "Lightwheel": "2026-11-14",
     "Tutor Intelligence": "2026-11-14",
     "AMD": "2026-11-14",
-    "Unity": "2026-11-13",
+    "Unity": "2026-11-14",
     "Konrad": "2026-11-14"
   },
   "failing": {
@@ -118251,14 +118257,6 @@
       "since": "2026-11-13",
       "error": "HTTPError: 521 Server Error: <none> for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday_Early_Career/jobs"
     },
-    "Snap": {
-      "since": "2026-11-13",
-      "error": "HTTPError: 521 Server Error: <none> for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
-    },
-    "Stryker": {
-      "since": "2026-11-13",
-      "error": "HTTPError: 521 Server Error: <none> for url: https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs"
-    },
     "Intel": {
       "since": "2026-11-13",
       "error": "HTTPError: 521 Server Error: <none> for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
@@ -118267,29 +118265,9 @@
       "since": "2026-11-13",
       "error": "HTTPError: 521 Server Error: <none> for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/uni/jobs"
     },
-    "Rockwell Automation": {
-      "since": "2026-11-13",
-      "error": "HTTPError: 521 Server Error: <none> for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
-    },
-    "Unity": {
-      "since": "2026-11-13",
-      "error": "HTTPError: 521 Server Error: <none> for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
-    },
-    "Sony": {
-      "since": "2026-11-13",
-      "error": "HTTPError: 521 Server Error: <none> for url: https://sonyglobal.wd1.myworkdayjobs.com/wday/cxs/sonyglobal/SonyGlobalCareers/jobs"
-    },
     "T-Mobile": {
       "since": "2026-11-13",
       "error": "HTTPError: 521 Server Error: <none> for url: https://tmobile.wd1.myworkdayjobs.com/wday/cxs/tmobile/External/jobs"
-    },
-    "Medtronic": {
-      "since": "2026-11-13",
-      "error": "HTTPError: 521 Server Error: <none> for url: https://medtronic.wd1.myworkdayjobs.com/wday/cxs/medtronic/MedtronicCareers/jobs"
-    },
-    "Northrop Grumman": {
-      "since": "2026-11-13",
-      "error": "HTTPError: 521 Server Error: <none> for url: https://ngc.wd1.myworkdayjobs.com/wday/cxs/ngc/Northrop_Grumman_External_Site/jobs"
     }
   },
   "closures_untracked": {
