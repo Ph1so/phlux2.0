@@ -69855,21 +69855,24 @@
         "date": "2026-10-22",
         "id": "workday:R0000391403",
         "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Product-Support-Engineering_R0000391403",
-        "location": "7 Locations"
+        "location": "7 Locations",
+        "closed": "2026-11-14"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Corporate Intern - Marketing",
         "date": "2026-10-22",
         "id": "workday:R0000391407",
         "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Marketing_R0000391407",
-        "location": "7 Locations"
+        "location": "7 Locations",
+        "closed": "2026-11-14"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Corporate Intern - Business Operations",
         "date": "2026-10-22",
         "id": "workday:R0000391405-1",
         "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Business-Operations_R0000391405-1",
-        "location": "7 Locations"
+        "location": "7 Locations",
+        "closed": "2026-11-14"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Corporate Intern - Engineering",
@@ -78175,6 +78178,13 @@
         "id": "ashby:24d1efa7-2b6d-4f5c-873f-362843ca3395",
         "url": "https://jobs.ashbyhq.com/openai/24d1efa7-2b6d-4f5c-873f-362843ca3395",
         "location": "San Francisco"
+      },
+      {
+        "title": "Applied Scientist, Product Policy Research & Measurement",
+        "date": "2026-11-14",
+        "id": "ashby:73875295-889e-4373-b20f-654e85c66ba4",
+        "url": "https://jobs.ashbyhq.com/openai/73875295-889e-4373-b20f-654e85c66ba4",
+        "location": "San Francisco +1"
       }
     ],
     "John Deere": [
@@ -107537,7 +107547,8 @@
         "date": "N/A",
         "id": "phenom:R171696",
         "url": "https://careers.adobe.com/us/en/job/R171696/2027-Intern-Solutions-Consulting-Analyst",
-        "location": "New York, NY"
+        "location": "New York, NY",
+        "closed": "2026-11-14"
       },
       {
         "title": "\u2b50\ufe0f 2027 Intern - Sales Velocity Analyst",
@@ -107726,7 +107737,8 @@
         "date": "N/A",
         "id": "phenom:R173029",
         "url": "https://careers.adobe.com/us/en/job/R173029/2027-SAMI-Intern-Adobe-Sales-Academy-BDR",
-        "location": "San Jose, CA +1"
+        "location": "San Jose, CA +1",
+        "closed": "2026-11-14"
       },
       {
         "title": "2027 University Graduate - Solutions Consulting Analyst",
@@ -108314,6 +108326,13 @@
         "id": "directemployers:AB07F3F4AD7548DBAC579BD5394EC76C",
         "url": "https://jobs.sw.siemens.com/chicago-il/strategic-student-program-digital-enterprise-software-applications-internship-summer-2027-gscs/AB07F3F4AD7548DBAC579BD5394EC76C/job/",
         "location": "Chicago, IL"
+      },
+      {
+        "title": "\u2b50\ufe0f Strategic Student Program: Digital Thread & Systems Engineering Internship (Spring 2027, GSCS)",
+        "date": "2026-11-14",
+        "id": "directemployers:13D7198060F04F6E9903F46EDF896A17",
+        "url": "https://jobs.sw.siemens.com/maryland-heights-mo/strategic-student-program-digital-thread-systems-engineering-internship-spring-2027-gscs/13D7198060F04F6E9903F46EDF896A17/job/",
+        "location": "Maryland Heights, MO"
       }
     ],
     "X": [
@@ -117931,7 +117950,7 @@
     "AWS": "2026-11-14",
     "Amazon": "2026-11-14",
     "Netflix": "2026-11-14",
-    "Autodesk": "2026-11-13",
+    "Autodesk": "2026-11-14",
     "Apple": "2026-11-14",
     "Optiver": "2026-11-14",
     "Citadel": "2026-11-12",
@@ -118058,7 +118077,7 @@
     "Woven by Toyota": "2026-11-14",
     "OpenAI": "2026-11-14",
     "Ocado": "2026-11-14",
-    "Caterpillar": "2026-11-13",
+    "Caterpillar": "2026-11-14",
     "Joby Aviation": "2026-11-14",
     "Mobileye": "2026-11-14",
     "Neura Robotics": "2026-11-14",
@@ -118103,7 +118122,7 @@
     "Cisco": "2026-11-14",
     "TwoSigma": "2026-11-14",
     "Snap": "2026-11-14",
-    "Workday": "2026-11-13",
+    "Workday": "2026-11-14",
     "Stripe": "2026-11-14",
     "Cohere": "2026-11-14",
     "Ramp": "2026-11-14",
@@ -118172,7 +118191,7 @@
     "Mosaic": "2026-11-14",
     "Samsung": "2026-11-14",
     "Medtronic": "2026-11-14",
-    "T-Mobile": "2026-11-13",
+    "T-Mobile": "2026-11-14",
     "Akuna Capital": "2026-11-14",
     "Bose": "2026-11-14",
     "Stoke Space": "2026-11-14",
@@ -118194,7 +118213,7 @@
     "Impulse Space": "2026-11-14",
     "Hadrian": "2026-11-14",
     "Saildrone": "2026-11-14",
-    "Johnson & Johnson": "2026-11-13",
+    "Johnson & Johnson": "2026-11-14",
     "Stryker": "2026-11-14",
     "PROCEPT BioRobotics": "2026-11-14",
     "Berkshire Grey": "2026-11-14",
@@ -118241,33 +118260,13 @@
       "since": "2026-11-13",
       "error": "HTTPError: 500 Server Error: Internal Server Error for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
     },
-    "Johnson & Johnson": {
-      "since": "2026-11-13",
-      "error": "HTTPError: 502 Server Error: Bad Gateway for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs"
-    },
-    "Caterpillar": {
-      "since": "2026-11-13",
-      "error": "HTTPError: 500 Server Error: Internal Server Error for url: https://cat.wd5.myworkdayjobs.com/wday/cxs/cat/CaterpillarCareers/jobs"
-    },
     "Target": {
       "since": "2026-11-13",
       "error": "HTTPError: 521 Server Error: <none> for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
     },
-    "Workday": {
-      "since": "2026-11-13",
-      "error": "HTTPError: 521 Server Error: <none> for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday_Early_Career/jobs"
-    },
     "Intel": {
       "since": "2026-11-13",
       "error": "HTTPError: 521 Server Error: <none> for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
-    },
-    "Autodesk": {
-      "since": "2026-11-13",
-      "error": "HTTPError: 521 Server Error: <none> for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/uni/jobs"
-    },
-    "T-Mobile": {
-      "since": "2026-11-13",
-      "error": "HTTPError: 521 Server Error: <none> for url: https://tmobile.wd1.myworkdayjobs.com/wday/cxs/tmobile/External/jobs"
     }
   },
   "closures_untracked": {
