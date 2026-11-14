@@ -8663,7 +8663,8 @@
         "date": "2026-10-13",
         "id": "eightfold:446720740636",
         "url": "https://careers.qualcomm.com/careers/job/446720740636",
-        "location": "San Diego, CA"
+        "location": "San Diego, CA",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f Modular Engineering Internship \u2013 Summer 2027",
@@ -10044,7 +10045,8 @@
         "date": "2026-10-13",
         "id": "tesla:281650",
         "url": "https://www.tesla.com/careers/search/job/internship-launch-engineer-manufacturing-winter-spring-2027-281650",
-        "location": "Fremont, CA"
+        "location": "Fremont, CA",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f Internship, Software Engineer, IT Apps (Winter/Spring 2027)",
@@ -20060,7 +20062,8 @@
         "date": "2026-11-12",
         "id": "ashby:06daa269-c02b-43a4-88b8-b57a3ba335ef",
         "url": "https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef",
-        "location": "Mountain View, CA"
+        "location": "Mountain View, CA",
+        "closed": "2026-11-13"
       },
       {
         "title": "Vehicle Operations Lead",
@@ -31370,7 +31373,8 @@
         "date": "N/A",
         "id": "greenhouse:5229316007",
         "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5229316007",
-        "location": "Remote"
+        "location": "Remote",
+        "closed": "2026-11-13"
       },
       {
         "title": "Business Development Associate - CENTCOM",
@@ -78114,6 +78118,20 @@
         "id": "ashby:10c7fcdc-1f07-41e3-8e37-4d930898a648",
         "url": "https://jobs.ashbyhq.com/openai/10c7fcdc-1f07-41e3-8e37-4d930898a648",
         "location": "San Francisco +1"
+      },
+      {
+        "title": "HR Business Partner, GTM",
+        "date": "2026-11-13",
+        "id": "ashby:695f73a5-00f5-416a-8939-78571263819b",
+        "url": "https://jobs.ashbyhq.com/openai/695f73a5-00f5-416a-8939-78571263819b",
+        "location": "San Francisco +1"
+      },
+      {
+        "title": "Certification Architect",
+        "date": "2026-11-13",
+        "id": "ashby:24d1efa7-2b6d-4f5c-873f-362843ca3395",
+        "url": "https://jobs.ashbyhq.com/openai/24d1efa7-2b6d-4f5c-873f-362843ca3395",
+        "location": "San Francisco"
       }
     ],
     "John Deere": [
