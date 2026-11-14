@@ -10231,6 +10231,13 @@
         "url": "https://www.tesla.com/careers/search/job/internship-software-engineer-it-apps-summer-2027-289683",
         "location": "Fremont, CA",
         "closed": "2026-11-13"
+      },
+      {
+        "title": "\u2b50\ufe0f Internship, Electrical Engineer, High Speed Hardware Design, Optimus (Winter/Spring 2027)",
+        "date": "2026-11-13",
+        "id": "tesla:289951",
+        "url": "https://www.tesla.com/careers/search/job/internship-electrical-engineer-high-speed-hardware-design-optimus-winter-spring-2027-289951",
+        "location": "Palo Alto, CA"
       }
     ],
     "Gecko Robotics": [
@@ -118272,13 +118279,13 @@
       "since": "2026-11-13",
       "error": "HTTPError: 521 Server Error: <none> for url: https://ngc.wd1.myworkdayjobs.com/wday/cxs/ngc/Northrop_Grumman_External_Site/jobs"
     },
-    "Oracle": {
-      "since": "2026-11-13",
-      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://eeho.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLoca"
-    },
     "FANUC America": {
       "since": "2026-11-13",
       "error": "HTTPError: 500 Server Error: Internal Server Error for url: https://my.adp.com/myadp_prefix/mycareer/public/staffing/v1/job-requisitions/apply-custom-filters?%24select=reqId%2CjobTitle%2CpublishedJobT"
+    },
+    "Teradyne": {
+      "since": "2026-11-13",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://jobs.teradyne.com/teradyne/search/?q=&locationsearch=United+States&sortColumn=referencedate&sortDirection=desc"
     }
   },
   "closures_untracked": {
