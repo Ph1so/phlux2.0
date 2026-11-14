@@ -42506,7 +42506,8 @@
         "date": "N/A",
         "id": "google:111853386130694854",
         "url": "https://www.google.com/about/careers/applications/jobs/results/111853386130694854",
-        "location": "New York, NY"
+        "location": "New York, NY",
+        "closed": "2026-11-14"
       },
       {
         "title": "Staff Software Engineer, GenAI Silicon Automation, DeepMind",
@@ -118285,6 +118286,18 @@
     "Target": {
       "since": "2026-11-13",
       "error": "HTTPError: 521 Server Error: <none> for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
+    },
+    "Hugging Face": {
+      "since": "2026-11-14",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/huggingface/jobs"
+    },
+    "Pony.ai": {
+      "since": "2026-11-14",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/pony-dot-ai/jobs"
+    },
+    "Realtime Robotics": {
+      "since": "2026-11-14",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/realtime-robotics/jobs"
     }
   },
   "closures_untracked": {
