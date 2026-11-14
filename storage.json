@@ -832,7 +832,8 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557040344",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557040344",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-14"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Machine Learning for Biology and Healthcare",
@@ -851,7 +852,8 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557040502",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557040502",
-        "location": "United States, Massachusetts, Cambridge +1"
+        "location": "United States, Massachusetts, Cambridge +1",
+        "closed": "2026-11-14"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Audio and Acoustics",
@@ -982,7 +984,8 @@
         "date": "2026-10-14",
         "id": "eightfold:1970393557041012",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557041012",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-14"
       },
       {
         "title": "\u2b50\ufe0f Researcher Intern, CoreAI",
@@ -1010,28 +1013,32 @@
         "date": "2026-10-16",
         "id": "eightfold:1970393557042145",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557042145",
-        "location": "United States, NY +1"
+        "location": "United States, NY +1",
+        "closed": "2026-11-14"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - MSR AI Interaction and Learning",
         "date": "2026-10-16",
         "id": "eightfold:1970393557042156",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557042156",
-        "location": "United States, Washington, Redmond +1"
+        "location": "United States, Washington, Redmond +1",
+        "closed": "2026-11-14"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Algorithms Group: Generative Modeling",
         "date": "2026-10-19",
         "id": "eightfold:1970393557043740",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557043740",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-14"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Extended Perception Interaction Cognition (EPIC)",
         "date": "2026-10-19",
         "id": "eightfold:1970393557043754",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557043754",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-14"
       },
       {
         "title": "\u2b50\ufe0f Business Program Management INTERN",
@@ -1211,7 +1218,8 @@
         "date": "2026-11-02",
         "id": "eightfold:1970393557053024",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557053024",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-14"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer, Teamwork Experiences Internship Opportunities",
@@ -43196,7 +43204,8 @@
         "date": "2026-11-12",
         "id": "google:86077512223728326",
         "url": "https://www.google.com/about/careers/applications/jobs/results/86077512223728326",
-        "location": "Mountain View, CA"
+        "location": "Mountain View, CA",
+        "closed": "2026-11-14"
       },
       {
         "title": "Gemini Vision Research Scientist, DeepMind",
@@ -43755,6 +43764,13 @@
         "date": "2026-11-14",
         "id": "ashby:16bfcb45-4056-4e8d-b1d7-7411fffeb5a1",
         "url": "https://jobs.ashbyhq.com/physicalintelligence/16bfcb45-4056-4e8d-b1d7-7411fffeb5a1",
+        "location": "San Francisco"
+      },
+      {
+        "title": "Robot Service Technician Shift Lead",
+        "date": "2026-11-14",
+        "id": "ashby:b0de3fd2-fb06-48d4-adf9-c7964e1cbc55",
+        "url": "https://jobs.ashbyhq.com/physicalintelligence/b0de3fd2-fb06-48d4-adf9-c7964e1cbc55",
         "location": "San Francisco"
       }
     ],
@@ -118049,7 +118065,7 @@
     "FieldAI": "2026-11-14",
     "Humanoid": "2026-11-14",
     "World Labs": "2026-11-14",
-    "General Motors": "2026-11-13",
+    "General Motors": "2026-11-14",
     "Niantic Spatial": "2026-11-14",
     "Wing": "2026-11-14",
     "Physical Intelligence": "2026-11-14",
@@ -118117,7 +118133,7 @@
     "Welch's": "2026-11-14",
     "ispace": "2026-11-14",
     "Pinterest": "2026-11-14",
-    "Intel": "2026-11-13",
+    "Intel": "2026-11-14",
     "LinkedIn": "2026-11-14",
     "Liberty Mutual": "2026-11-14",
     "Salesforce": "2026-11-14",
@@ -118260,17 +118276,9 @@
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
     },
-    "General Motors": {
-      "since": "2026-11-13",
-      "error": "HTTPError: 500 Server Error: Internal Server Error for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
-    },
     "Target": {
       "since": "2026-11-13",
       "error": "HTTPError: 521 Server Error: <none> for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
-    },
-    "Intel": {
-      "since": "2026-11-13",
-      "error": "HTTPError: 521 Server Error: <none> for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
     }
   },
   "closures_untracked": {
