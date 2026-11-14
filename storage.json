@@ -8663,8 +8663,7 @@
         "date": "2026-10-13",
         "id": "eightfold:446720740636",
         "url": "https://careers.qualcomm.com/careers/job/446720740636",
-        "location": "San Diego, CA",
-        "closed": "2026-11-13"
+        "location": "San Diego, CA"
       },
       {
         "title": "\u2b50\ufe0f Modular Engineering Internship \u2013 Summer 2027",
@@ -23793,6 +23792,20 @@
         "id": "lever:1825c7df-ea96-4a2d-b57b-609a61300382",
         "url": "https://jobs.lever.co/zoox/1825c7df-ea96-4a2d-b57b-609a61300382",
         "location": "Foster City, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Feature Integration Intern [Summer 2027]",
+        "date": "2026-11-13",
+        "id": "lever:2e4e91c3-f127-4c5b-9291-b93b8a340a2f",
+        "url": "https://jobs.lever.co/zoox/2e4e91c3-f127-4c5b-9291-b93b8a340a2f",
+        "location": "Foster City, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Industrial Design Intern [Summer 2027]",
+        "date": "2026-11-13",
+        "id": "lever:23867c45-d2df-4f87-86ff-244c864614cd",
+        "url": "https://jobs.lever.co/zoox/23867c45-d2df-4f87-86ff-244c864614cd",
+        "location": "Foster City, CA"
       }
     ],
     "Pony.ai": [
@@ -32923,14 +32936,16 @@
         "date": "N/A",
         "id": "greenhouse:8689127002",
         "url": "https://app.careerpuck.com/job-board/lyft/job/8689127002?gh_jid=8689127002",
-        "location": "New York, NY"
+        "location": "New York, NY",
+        "closed": "2026-11-13"
       },
       {
         "title": "Machine Learning Engineer, Fulfillment",
         "date": "N/A",
         "id": "greenhouse:8688633002",
         "url": "https://app.careerpuck.com/job-board/lyft/job/8688633002?gh_jid=8688633002",
-        "location": "San Francisco, CA"
+        "location": "San Francisco, CA",
+        "closed": "2026-11-13"
       },
       {
         "title": "Machine Learning Engineer, Lyft Business & Ads",
@@ -63423,8 +63438,7 @@
         "date": "2026-11-13",
         "id": "successfactors:1376842355",
         "url": "https://jobs.kuka.com/job/Atlanta-Talent-Acquisition-Specialist-GA-30301/1376842355/",
-        "location": "Atlanta",
-        "closed": "2026-11-13"
+        "location": "Atlanta"
       }
     ],
     "Intuitive Machines": [
@@ -118210,10 +118224,6 @@
       "since": "2026-11-13",
       "error": "HTTPError: 521 Server Error: <none> for url: https://leidos.wd5.myworkdayjobs.com/wday/cxs/leidos/External/jobs"
     },
-    "KUKA": {
-      "since": "2026-11-13",
-      "error": "HTTPError: 404 Client Error: Not Found for url: https://jobs.kuka.com/search/?q=&locationsearch=United+States&locale=en_US&sortColumn=referencedate&sortDirection=desc"
-    },
     "Snap": {
       "since": "2026-11-13",
       "error": "HTTPError: 521 Server Error: <none> for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
@@ -118261,6 +118271,14 @@
     "Northrop Grumman": {
       "since": "2026-11-13",
       "error": "HTTPError: 521 Server Error: <none> for url: https://ngc.wd1.myworkdayjobs.com/wday/cxs/ngc/Northrop_Grumman_External_Site/jobs"
+    },
+    "Oracle": {
+      "since": "2026-11-13",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://eeho.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLoca"
+    },
+    "FANUC America": {
+      "since": "2026-11-13",
+      "error": "HTTPError: 500 Server Error: Internal Server Error for url: https://my.adp.com/myadp_prefix/mycareer/public/staffing/v1/job-requisitions/apply-custom-filters?%24select=reqId%2CjobTitle%2CpublishedJobT"
     }
   },
   "closures_untracked": {
