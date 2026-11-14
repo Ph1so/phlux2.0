@@ -883,7 +883,8 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557022480",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557022480",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-14"
       },
       {
         "title": "\u2b50\ufe0f Supply Chain Program Management Intern",
@@ -896,7 +897,8 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557008574",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557008574",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-14"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Quantum Algorithms",
@@ -996,7 +998,8 @@
         "date": "2026-10-15",
         "id": "eightfold:1970393557041731",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-14"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Gray Systems Lab (GSL)",
@@ -1166,7 +1169,8 @@
         "date": "2026-11-02",
         "id": "eightfold:1970393557043712",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557043712",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-14"
       },
       {
         "title": "\u2b50\ufe0f Explore Program Engineering Internship Opportunities: First-Year Students, Redmond",
@@ -1211,7 +1215,8 @@
         "date": "2026-11-02",
         "id": "eightfold:1970393557053024",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557053024",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-14"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer, Teamwork Experiences Internship Opportunities",
@@ -110319,7 +110324,8 @@
         "date": "N/A",
         "id": "workday:R-1103456",
         "url": "https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Base-Marketing-Summer-2027-Internship_R-1103456",
-        "location": "Basking Ridge, New Jersey"
+        "location": "Basking Ridge, New Jersey",
+        "closed": "2026-11-14"
       }
     ],
     "Unity": [
@@ -117910,12 +117916,6 @@
         "title:\u2b50\ufe0f Supply Chain Engineering Intern \u2013 Robotics (2026 Fall)"
       ],
       "backlog": true
-    },
-    "Verizon": {
-      "since": "2026-11-14T06:20-05:00",
-      "keys": [
-        "workday:R-1103456"
-      ]
     }
   },
   "checked": {
