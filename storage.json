@@ -1109,8 +1109,7 @@
         "date": "2026-10-23",
         "id": "eightfold:1970393557045963",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557045963",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-14"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Business Program Management INTERN (CO+I Exec)",
@@ -117942,7 +117941,7 @@
     "SpaceX": "2026-11-14",
     "Neuralink": "2026-11-14",
     "Zipline": "2026-11-14",
-    "Boston Dynamics": "2026-11-13",
+    "Boston Dynamics": "2026-11-14",
     "Scale AI": "2026-11-14",
     "Relativity": "2026-11-14",
     "Palantir": "2026-11-14",
@@ -118134,7 +118133,7 @@
     "RedHat": "2026-11-14",
     "Capital One": "2026-11-14",
     "Twitch": "2026-11-14",
-    "Visa": "2026-11-13",
+    "Visa": "2026-11-14",
     "Replit": "2026-11-14",
     "Github": "2026-11-14",
     "Epic Games": "2026-11-14",
@@ -118148,7 +118147,7 @@
     "Goldman Sachs": "2026-11-14",
     "Beli": "2026-11-14",
     "Duolingo": "2026-11-14",
-    "Leidos": "2026-11-13",
+    "Leidos": "2026-11-14",
     "Radix Trading": "2026-11-14",
     "Razer": "2026-11-14",
     "Docusign": "2026-11-14",
@@ -118164,7 +118163,7 @@
     "Amentum": "2026-11-14",
     "Mercedes Benz": "2026-11-14",
     "Boeing": "2026-11-14",
-    "Mosaic": "2026-11-13",
+    "Mosaic": "2026-11-14",
     "Samsung": "2026-11-14",
     "Medtronic": "2026-11-13",
     "T-Mobile": "2026-11-13",
@@ -118173,7 +118172,7 @@
     "Stoke Space": "2026-11-14",
     "RocketLab": "2026-11-14",
     "Northwood Space": "2026-11-14",
-    "Zillow": "2026-11-13",
+    "Zillow": "2026-11-14",
     "Mitre": "2026-11-14",
     "Draper": "2026-11-14",
     "Lyft": "2026-11-14",
@@ -118244,29 +118243,13 @@
       "since": "2026-11-13",
       "error": "HTTPError: 500 Server Error: Internal Server Error for url: https://cat.wd5.myworkdayjobs.com/wday/cxs/cat/CaterpillarCareers/jobs"
     },
-    "Visa": {
-      "since": "2026-11-13",
-      "error": "HTTPError: 521 Server Error: <none> for url: https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs"
-    },
     "Target": {
       "since": "2026-11-13",
       "error": "HTTPError: 521 Server Error: <none> for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
     },
-    "Mosaic": {
-      "since": "2026-11-13",
-      "error": "HTTPError: 521 Server Error: <none> for url: https://mosaic.wd5.myworkdayjobs.com/wday/cxs/mosaic/mosaic/jobs"
-    },
-    "Zillow": {
-      "since": "2026-11-13",
-      "error": "HTTPError: 521 Server Error: <none> for url: https://zillow.wd5.myworkdayjobs.com/wday/cxs/zillow/Zillow_Group_External/jobs"
-    },
     "Workday": {
       "since": "2026-11-13",
       "error": "HTTPError: 521 Server Error: <none> for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday_Early_Career/jobs"
-    },
-    "Leidos": {
-      "since": "2026-11-13",
-      "error": "HTTPError: 521 Server Error: <none> for url: https://leidos.wd5.myworkdayjobs.com/wday/cxs/leidos/External/jobs"
     },
     "Snap": {
       "since": "2026-11-13",
@@ -118292,10 +118275,6 @@
       "since": "2026-11-13",
       "error": "HTTPError: 521 Server Error: <none> for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
     },
-    "Boston Dynamics": {
-      "since": "2026-11-13",
-      "error": "HTTPError: 521 Server Error: <none> for url: https://bostondynamics.wd1.myworkdayjobs.com/wday/cxs/bostondynamics/Boston_Dynamics/jobs"
-    },
     "Sony": {
       "since": "2026-11-13",
       "error": "HTTPError: 521 Server Error: <none> for url: https://sonyglobal.wd1.myworkdayjobs.com/wday/cxs/sonyglobal/SonyGlobalCareers/jobs"
@@ -118311,30 +118290,6 @@
     "Northrop Grumman": {
       "since": "2026-11-13",
       "error": "HTTPError: 521 Server Error: <none> for url: https://ngc.wd1.myworkdayjobs.com/wday/cxs/ngc/Northrop_Grumman_External_Site/jobs"
-    },
-    "Forterra": {
-      "since": "2026-11-14",
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://ats.rippling.com/api/v2/board/forterra/jobs?page=0&pageSize=100"
-    },
-    "Mytra": {
-      "since": "2026-11-14",
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://ats.rippling.com/api/v2/board/mytra/jobs?page=0&pageSize=100"
-    },
-    "Overland AI": {
-      "since": "2026-11-14",
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://ats.rippling.com/api/v2/board/overland-ai/jobs?page=0&pageSize=100"
-    },
-    "Walden Robotics": {
-      "since": "2026-11-14",
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://ats.rippling.com/api/v2/board/walden-robotics/jobs?page=0&pageSize=100"
-    },
-    "Dusty Robotics": {
-      "since": "2026-11-14",
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://ats.rippling.com/api/v2/board/dusty-robotics-inc/jobs?page=0&pageSize=100"
-    },
-    "Bonsai Robotics": {
-      "since": "2026-11-14",
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://ats.rippling.com/api/v2/board/bonsairoboticsmain/jobs?page=0&pageSize=100"
     }
   },
   "closures_untracked": {
