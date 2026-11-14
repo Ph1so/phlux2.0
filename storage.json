@@ -883,8 +883,7 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557022480",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557022480",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-14"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Supply Chain Program Management Intern",
@@ -897,8 +896,7 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557008574",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557008574",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-14"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Quantum Algorithms",
@@ -998,8 +996,7 @@
         "date": "2026-10-15",
         "id": "eightfold:1970393557041731",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-14"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Gray Systems Lab (GSL)",
@@ -1112,7 +1109,8 @@
         "date": "2026-10-23",
         "id": "eightfold:1970393557045963",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557045963",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-14"
       },
       {
         "title": "\u2b50\ufe0f Business Program Management INTERN (CO+I Exec)",
@@ -1169,8 +1167,7 @@
         "date": "2026-11-02",
         "id": "eightfold:1970393557043712",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557043712",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-14"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Explore Program Engineering Internship Opportunities: First-Year Students, Redmond",
@@ -1215,8 +1212,7 @@
         "date": "2026-11-02",
         "id": "eightfold:1970393557053024",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557053024",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-14"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer, Teamwork Experiences Internship Opportunities",
@@ -81222,7 +81218,8 @@
         "date": "N/A",
         "id": "eightfold:996477675443",
         "url": "https://lockheedmartin.eightfold.ai/careers/job/996477675443",
-        "location": "Fort Worth, TX"
+        "location": "Fort Worth, TX",
+        "closed": "2026-11-14"
       },
       {
         "title": "\u2b50\ufe0f Systems Engineer Intern",
@@ -83597,7 +83594,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5339199008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5339199008",
-        "location": "Remote-Friendly, United States"
+        "location": "Remote-Friendly, United States",
+        "closed": "2026-11-14"
       },
       {
         "title": "Data Center Capacity Delivery, Canada",
@@ -108431,14 +108429,16 @@
         "date": "N/A",
         "id": "eightfold:563602813777558",
         "url": "https://bostonscientific.eightfold.ai/careers/job/563602813777558",
-        "location": "United States"
+        "location": "United States",
+        "closed": "2026-11-14"
       },
       {
         "title": "\u2b50\ufe0f URO R&D Co-op (MAY- DEC) 2027",
         "date": "N/A",
         "id": "eightfold:563602813751491",
         "url": "https://bostonscientific.eightfold.ai/careers/job/563602813751491",
-        "location": "Maple Grove, MN"
+        "location": "Maple Grove, MN",
+        "closed": "2026-11-14"
       },
       {
         "title": "\u2b50\ufe0f Urology R&D Software Engineering Co-op",
@@ -108467,7 +108467,8 @@
         "date": "N/A",
         "id": "eightfold:563602813751490",
         "url": "https://bostonscientific.eightfold.ai/careers/job/563602813751490",
-        "location": "Arden Hills, MN"
+        "location": "Arden Hills, MN",
+        "closed": "2026-11-14"
       },
       {
         "title": "\u2b50\ufe0f R&D Software Design Intern",
@@ -117929,7 +117930,7 @@
     "Apple": "2026-11-14",
     "Optiver": "2026-11-14",
     "Citadel": "2026-11-12",
-    "Blue Origin": "2026-11-13",
+    "Blue Origin": "2026-11-14",
     "Hudson River Trading": "2026-11-14",
     "Riot Games": "2026-11-14",
     "DE Shaws": "2026-11-14",
@@ -118077,7 +118078,7 @@
     "Tuesday Labs": "2026-11-14",
     "Weave Robotics": "2026-11-14",
     "Boost Robotics": "2026-11-14",
-    "Oshkosh": "2026-11-13",
+    "Oshkosh": "2026-11-14",
     "General Robotics": "2026-11-14",
     "Eka Robotics": "2026-11-14",
     "Bonsai Robotics": "2026-11-14",
@@ -118130,7 +118131,7 @@
     "Roku": "2026-11-14",
     "Deloitte": "2026-11-14",
     "Verkada": "2026-11-14",
-    "RedHat": "2026-11-13",
+    "RedHat": "2026-11-14",
     "Capital One": "2026-11-14",
     "Twitch": "2026-11-14",
     "Visa": "2026-11-13",
@@ -118174,7 +118175,7 @@
     "Northwood Space": "2026-11-14",
     "Zillow": "2026-11-13",
     "Mitre": "2026-11-14",
-    "Draper": "2026-11-13",
+    "Draper": "2026-11-14",
     "Lyft": "2026-11-14",
     "Glydways": "2026-11-14",
     "JP Morgan Chase": "2026-11-14",
@@ -118243,10 +118244,6 @@
       "since": "2026-11-13",
       "error": "HTTPError: 500 Server Error: Internal Server Error for url: https://cat.wd5.myworkdayjobs.com/wday/cxs/cat/CaterpillarCareers/jobs"
     },
-    "Blue Origin": {
-      "since": "2026-11-13",
-      "error": "HTTPError: 521 Server Error: <none> for url: https://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/BlueOrigin/jobs"
-    },
     "Visa": {
       "since": "2026-11-13",
       "error": "HTTPError: 521 Server Error: <none> for url: https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs"
@@ -118262,14 +118259,6 @@
     "Zillow": {
       "since": "2026-11-13",
       "error": "HTTPError: 521 Server Error: <none> for url: https://zillow.wd5.myworkdayjobs.com/wday/cxs/zillow/Zillow_Group_External/jobs"
-    },
-    "Draper": {
-      "since": "2026-11-13",
-      "error": "HTTPError: 521 Server Error: <none> for url: https://draper.wd5.myworkdayjobs.com/wday/cxs/draper/Draper_Careers/jobs"
-    },
-    "Oshkosh": {
-      "since": "2026-11-13",
-      "error": "HTTPError: 521 Server Error: <none> for url: https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs"
     },
     "Workday": {
       "since": "2026-11-13",
@@ -118307,10 +118296,6 @@
       "since": "2026-11-13",
       "error": "HTTPError: 521 Server Error: <none> for url: https://bostondynamics.wd1.myworkdayjobs.com/wday/cxs/bostondynamics/Boston_Dynamics/jobs"
     },
-    "RedHat": {
-      "since": "2026-11-13",
-      "error": "HTTPError: 521 Server Error: <none> for url: https://redhat.wd5.myworkdayjobs.com/wday/cxs/redhat/jobs/jobs"
-    },
     "Sony": {
       "since": "2026-11-13",
       "error": "HTTPError: 521 Server Error: <none> for url: https://sonyglobal.wd1.myworkdayjobs.com/wday/cxs/sonyglobal/SonyGlobalCareers/jobs"
@@ -118326,6 +118311,30 @@
     "Northrop Grumman": {
       "since": "2026-11-13",
       "error": "HTTPError: 521 Server Error: <none> for url: https://ngc.wd1.myworkdayjobs.com/wday/cxs/ngc/Northrop_Grumman_External_Site/jobs"
+    },
+    "Forterra": {
+      "since": "2026-11-14",
+      "error": "HTTPError: 403 Client Error: Forbidden for url: https://ats.rippling.com/api/v2/board/forterra/jobs?page=0&pageSize=100"
+    },
+    "Mytra": {
+      "since": "2026-11-14",
+      "error": "HTTPError: 403 Client Error: Forbidden for url: https://ats.rippling.com/api/v2/board/mytra/jobs?page=0&pageSize=100"
+    },
+    "Overland AI": {
+      "since": "2026-11-14",
+      "error": "HTTPError: 403 Client Error: Forbidden for url: https://ats.rippling.com/api/v2/board/overland-ai/jobs?page=0&pageSize=100"
+    },
+    "Walden Robotics": {
+      "since": "2026-11-14",
+      "error": "HTTPError: 403 Client Error: Forbidden for url: https://ats.rippling.com/api/v2/board/walden-robotics/jobs?page=0&pageSize=100"
+    },
+    "Dusty Robotics": {
+      "since": "2026-11-14",
+      "error": "HTTPError: 403 Client Error: Forbidden for url: https://ats.rippling.com/api/v2/board/dusty-robotics-inc/jobs?page=0&pageSize=100"
+    },
+    "Bonsai Robotics": {
+      "since": "2026-11-14",
+      "error": "HTTPError: 403 Client Error: Forbidden for url: https://ats.rippling.com/api/v2/board/bonsairoboticsmain/jobs?page=0&pageSize=100"
     }
   },
   "closures_untracked": {
