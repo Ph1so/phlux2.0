@@ -1268,6 +1268,13 @@
         "id": "eightfold:1970393557073455",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
         "location": "United States, Washington, Redmond"
+      },
+      {
+        "title": "\u2b50\ufe0f Marketing MBA Internship Opportunities, United States",
+        "date": "2026-11-13",
+        "id": "eightfold:1970393556962236",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556962236",
+        "location": "United States, Washington, Redmond"
       }
     ],
     "Amazon": [
@@ -2634,6 +2641,20 @@
         "id": "amazon:10604985",
         "url": "https://www.amazon.jobs/en/jobs/10604985/area-manager-early-career-2027-cleveland-akron-ohio",
         "location": "North Randall, OH +8"
+      },
+      {
+        "title": "\u2b50\ufe0f Data Center Infrastructure Engineer Intern, Summer 2027 - East",
+        "date": "2026-11-13",
+        "id": "amazon:10605141",
+        "url": "https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east",
+        "location": "Herndon, VA"
+      },
+      {
+        "title": "\u2b50\ufe0f Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast",
+        "date": "2026-11-13",
+        "id": "amazon:10605132",
+        "url": "https://www.amazon.jobs/en/jobs/10605132/data-center-infrastructure-engineer-intern-summer-2027-west-coast",
+        "location": "Umatilla, OR +2"
       }
     ],
     "Meta": [
@@ -3548,7 +3569,8 @@
         "date": "2026-10-28",
         "id": "meta:3333103890230916",
         "url": "https://www.metacareers.com/profile/job_details/3333103890230916/",
-        "location": "Sunnyvale, CA"
+        "location": "Sunnyvale, CA",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f ML Innovation for Products, PhD Research Intern",
@@ -3694,7 +3716,8 @@
         "date": "2026-11-03",
         "id": "meta:998000219329039",
         "url": "https://www.metacareers.com/profile/job_details/998000219329039/",
-        "location": "Sunnyvale, CA"
+        "location": "Sunnyvale, CA",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, Generative Recommendation (PhD)",
@@ -20001,7 +20024,8 @@
         "id": "ashby:3083054b-aa88-4cd5-86c2-96af5ddf1ee3",
         "url": "https://jobs.ashbyhq.com/aurora-operations-inc/3083054b-aa88-4cd5-86c2-96af5ddf1ee3",
         "location": "Pittsburgh, PA",
-        "early": "As our engineering organization grows, we\u2019re hiring an early-career engineer who wants hands-on experience across a modern engineering stack (CI/CD, cloud infrastructure, identity and access, and AI developer tools) an\u2026"
+        "early": "As our engineering organization grows, we\u2019re hiring an early-career engineer who wants hands-on experience across a modern engineering stack (CI/CD, cloud infrastructure, identity and access, and AI developer tools) an\u2026",
+        "closed": "2026-11-13"
       },
       {
         "title": "Staff Manufacturing Photonics Test Engineer",
@@ -25744,6 +25768,13 @@
         "id": "greenhouse:8386877",
         "url": "https://nuro.ai/careersitem?gh_jid=8386877",
         "location": "Mountain View, California (HQ)"
+      },
+      {
+        "title": "Senior Software Engineer, Distributed Compute System",
+        "date": "2026-11-13",
+        "id": "greenhouse:7896050",
+        "url": "https://nuro.ai/careersitem?gh_jid=7896050",
+        "location": "Mountain View, California (HQ)"
       }
     ],
     "Aeva": [
@@ -30818,6 +30849,13 @@
         "id": "ashby:2696cf23-051a-40aa-aa84-4f0156024037",
         "url": "https://jobs.ashbyhq.com/AeroVect/2696cf23-051a-40aa-aa84-4f0156024037",
         "location": "Toronto - Remote"
+      },
+      {
+        "title": "Director of Human Resources",
+        "date": "2026-11-13",
+        "id": "ashby:4a03a92e-82eb-4f6a-b528-851905f0f4ff",
+        "url": "https://jobs.ashbyhq.com/AeroVect/4a03a92e-82eb-4f6a-b528-851905f0f4ff",
+        "location": "Toronto - Remote"
       }
     ],
     "Gather AI": [
@@ -35592,6 +35630,13 @@
         "date": "2026-11-12",
         "id": "ashby:330f5ef2-63e5-4de1-aa2c-a7581a07ea1a",
         "url": "https://jobs.ashbyhq.com/wayve/330f5ef2-63e5-4de1-aa2c-a7581a07ea1a",
+        "location": "Sunnyvale, California USA"
+      },
+      {
+        "title": "Senior Technical Program Manager - AV Engineering",
+        "date": "2026-11-13",
+        "id": "ashby:da57d5dc-f228-4fa3-87b1-08685205f28f",
+        "url": "https://jobs.ashbyhq.com/wayve/da57d5dc-f228-4fa3-87b1-08685205f28f",
         "location": "Sunnyvale, California USA"
       }
     ],
@@ -45374,6 +45419,20 @@
         "id": "greenhouse:4627802006",
         "url": "https://job-boards.greenhouse.io/formic/jobs/4627802006",
         "location": "San Francisco || Oakland, CA"
+      },
+      {
+        "title": "Product Manager, Machine Tending",
+        "date": "2026-11-13",
+        "id": "greenhouse:4729607006",
+        "url": "https://job-boards.greenhouse.io/formic/jobs/4729607006",
+        "location": "San Francisco, CA || Oakland, CA"
+      },
+      {
+        "title": "Product Manager, Machine Tending",
+        "date": "2026-11-13",
+        "id": "greenhouse:4729606006",
+        "url": "https://job-boards.greenhouse.io/formic/jobs/4729606006",
+        "location": "Chicago, IL || Bolingbrook, IL"
       }
     ],
     "Waabi": [
@@ -57055,8 +57114,7 @@
         "date": "2026-10-16",
         "id": "workday:JR00050031",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MI-Auburn-Hills/Robotics---Automation---Bid-and-Proposals-Specialist_JR00050031",
-        "location": "USA, MI, Auburn Hills",
-        "closed": "2026-11-13"
+        "location": "USA, MI, Auburn Hills"
       },
       {
         "title": "\u2b50\ufe0f Supplier Quality Engineer Intern",
@@ -62456,7 +62514,8 @@
         "date": "N/A",
         "id": "successfactors:1425060700",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Head-of-Corporate-Communications-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1425060700/",
-        "location": "North Reading, MA"
+        "location": "North Reading, MA",
+        "closed": "2026-11-13"
       },
       {
         "title": "Senior Robotics Software Engineer (Integrated System Test, Sunnyvale)",
@@ -73641,7 +73700,8 @@
         "date": "2026-10-22",
         "id": "ashby:a58b83f6-2955-4d89-8c13-14372c89263a",
         "url": "https://jobs.ashbyhq.com/openai/a58b83f6-2955-4d89-8c13-14372c89263a",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-13"
       },
       {
         "title": "Engineering Manager, Rosalind Workbench",
@@ -74296,7 +74356,8 @@
         "date": "2026-10-22",
         "id": "ashby:33b8effb-b048-4934-a279-87fff192a330",
         "url": "https://jobs.ashbyhq.com/openai/33b8effb-b048-4934-a279-87fff192a330",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-13"
       },
       {
         "title": "Product Manager, Enterprise Identity",
@@ -102707,6 +102768,13 @@
         "id": "talentbrew:25050",
         "url": "https://jobs.intuit.com/job/london/graduate-software-engineer-1/27595/103261389616",
         "location": "London, United Kingdom"
+      },
+      {
+        "title": "\u2b50\ufe0f Winter 2027: Product Design Co-op, Intuit Design System (8 months)",
+        "date": "2026-11-13",
+        "id": "talentbrew:25147",
+        "url": "https://jobs.intuit.com/job/toronto/winter-2027-product-design-co-op-intuit-design-system-8-months/27595/103274381168",
+        "location": "Toronto, Canada"
       }
     ],
     "Nokia": [
@@ -115694,7 +115762,8 @@
         "date": "N/A",
         "id": "pinpoint:522581",
         "url": "https://impulsespace.pinpointhq.com/en/postings/b9e06eee-f091-4173-b1ff-51e05a366ba2",
-        "location": "Redondo Beach, CA"
+        "location": "Redondo Beach, CA",
+        "closed": "2026-11-13"
       },
       {
         "title": "Senior Controls Engineer (PAT)",
@@ -118134,6 +118203,46 @@
     "Stryker": {
       "since": "2026-11-13",
       "error": "HTTPError: 521 Server Error: <none> for url: https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs"
+    },
+    "Intel": {
+      "since": "2026-11-13",
+      "error": "HTTPError: 521 Server Error: <none> for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
+    },
+    "Autodesk": {
+      "since": "2026-11-13",
+      "error": "HTTPError: 521 Server Error: <none> for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/uni/jobs"
+    },
+    "Rockwell Automation": {
+      "since": "2026-11-13",
+      "error": "HTTPError: 521 Server Error: <none> for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
+    },
+    "Unity": {
+      "since": "2026-11-13",
+      "error": "HTTPError: 521 Server Error: <none> for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
+    },
+    "Boston Dynamics": {
+      "since": "2026-11-13",
+      "error": "HTTPError: 521 Server Error: <none> for url: https://bostondynamics.wd1.myworkdayjobs.com/wday/cxs/bostondynamics/Boston_Dynamics/jobs"
+    },
+    "RedHat": {
+      "since": "2026-11-13",
+      "error": "HTTPError: 521 Server Error: <none> for url: https://redhat.wd5.myworkdayjobs.com/wday/cxs/redhat/jobs/jobs"
+    },
+    "Sony": {
+      "since": "2026-11-13",
+      "error": "HTTPError: 521 Server Error: <none> for url: https://sonyglobal.wd1.myworkdayjobs.com/wday/cxs/sonyglobal/SonyGlobalCareers/jobs"
+    },
+    "T-Mobile": {
+      "since": "2026-11-13",
+      "error": "HTTPError: 521 Server Error: <none> for url: https://tmobile.wd1.myworkdayjobs.com/wday/cxs/tmobile/External/jobs"
+    },
+    "Medtronic": {
+      "since": "2026-11-13",
+      "error": "HTTPError: 521 Server Error: <none> for url: https://medtronic.wd1.myworkdayjobs.com/wday/cxs/medtronic/MedtronicCareers/jobs"
+    },
+    "Northrop Grumman": {
+      "since": "2026-11-13",
+      "error": "HTTPError: 521 Server Error: <none> for url: https://ngc.wd1.myworkdayjobs.com/wday/cxs/ngc/Northrop_Grumman_External_Site/jobs"
     }
   },
   "closures_untracked": {
