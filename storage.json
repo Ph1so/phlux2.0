@@ -832,8 +832,7 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557040344",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557040344",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-14"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Machine Learning for Biology and Healthcare",
@@ -852,8 +851,7 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557040502",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557040502",
-        "location": "United States, Massachusetts, Cambridge +1",
-        "closed": "2026-11-14"
+        "location": "United States, Massachusetts, Cambridge +1"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Audio and Acoustics",
@@ -984,8 +982,7 @@
         "date": "2026-10-14",
         "id": "eightfold:1970393557041012",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557041012",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-14"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Researcher Intern, CoreAI",
@@ -1013,32 +1010,28 @@
         "date": "2026-10-16",
         "id": "eightfold:1970393557042145",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557042145",
-        "location": "United States, NY +1",
-        "closed": "2026-11-14"
+        "location": "United States, NY +1"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - MSR AI Interaction and Learning",
         "date": "2026-10-16",
         "id": "eightfold:1970393557042156",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557042156",
-        "location": "United States, Washington, Redmond +1",
-        "closed": "2026-11-14"
+        "location": "United States, Washington, Redmond +1"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Algorithms Group: Generative Modeling",
         "date": "2026-10-19",
         "id": "eightfold:1970393557043740",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557043740",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-14"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Extended Perception Interaction Cognition (EPIC)",
         "date": "2026-10-19",
         "id": "eightfold:1970393557043754",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557043754",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-14"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Business Program Management INTERN",
@@ -1218,8 +1211,7 @@
         "date": "2026-11-02",
         "id": "eightfold:1970393557053024",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557053024",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-14"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer, Teamwork Experiences Internship Opportunities",
@@ -18732,6 +18724,13 @@
         "id": "greenhouse:4489343009",
         "url": "https://job-boards.greenhouse.io/avride/jobs/4489343009",
         "location": "Dallas, Texas"
+      },
+      {
+        "title": "Robot Service Technician \u2013 Part-Time/Contract",
+        "date": "2026-11-14",
+        "id": "greenhouse:4413836009",
+        "url": "https://job-boards.greenhouse.io/avride/jobs/4413836009",
+        "location": "Tempe, Arizona"
       }
     ],
     "May Mobility": [
@@ -43204,8 +43203,7 @@
         "date": "2026-11-12",
         "id": "google:86077512223728326",
         "url": "https://www.google.com/about/careers/applications/jobs/results/86077512223728326",
-        "location": "Mountain View, CA",
-        "closed": "2026-11-14"
+        "location": "Mountain View, CA"
       },
       {
         "title": "Gemini Vision Research Scientist, DeepMind",
@@ -118279,6 +118277,18 @@
     "Target": {
       "since": "2026-11-13",
       "error": "HTTPError: 521 Server Error: <none> for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
+    },
+    "Hugging Face": {
+      "since": "2026-11-14",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/huggingface/jobs"
+    },
+    "Pony.ai": {
+      "since": "2026-11-14",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/pony-dot-ai/jobs"
+    },
+    "Realtime Robotics": {
+      "since": "2026-11-14",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/realtime-robotics/jobs"
     }
   },
   "closures_untracked": {
