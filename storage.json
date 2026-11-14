@@ -88375,6 +88375,13 @@
         "id": "greenhouse:5473344008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5473344008",
         "location": "Sydney, Australia"
+      },
+      {
+        "title": "Engineering Manager, Billing Platform",
+        "date": "2026-11-14",
+        "id": "greenhouse:5469291008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5469291008",
+        "location": "San Francisco, CA | New York City, NY | Seattle, WA"
       }
     ],
     "xAI": [
@@ -113547,7 +113554,8 @@
         "date": "N/A",
         "id": "talentbrew:102646214080",
         "url": "https://jobs.boeing.com/job/neu-isenburg/working-student-werkstudent-flight-deck-systems-engineering-m-f-d/185/102646214080",
-        "location": "Neu-Isenburg, Germany"
+        "location": "Neu-Isenburg, Germany",
+        "closed": "2026-11-14"
       }
     ],
     "Mosaic": [
@@ -118277,18 +118285,6 @@
     "Target": {
       "since": "2026-11-13",
       "error": "HTTPError: 521 Server Error: <none> for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
-    },
-    "Hugging Face": {
-      "since": "2026-11-14",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/huggingface/jobs"
-    },
-    "Pony.ai": {
-      "since": "2026-11-14",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/pony-dot-ai/jobs"
-    },
-    "Realtime Robotics": {
-      "since": "2026-11-14",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/realtime-robotics/jobs"
     }
   },
   "closures_untracked": {
