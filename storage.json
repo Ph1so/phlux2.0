@@ -43749,6 +43749,13 @@
         "id": "ashby:bd8cf77a-0149-45e0-84fc-726fd02253ec",
         "url": "https://jobs.ashbyhq.com/physicalintelligence/bd8cf77a-0149-45e0-84fc-726fd02253ec",
         "location": "San Francisco"
+      },
+      {
+        "title": "IT Operations Engineer",
+        "date": "2026-11-14",
+        "id": "ashby:16bfcb45-4056-4e8d-b1d7-7411fffeb5a1",
+        "url": "https://jobs.ashbyhq.com/physicalintelligence/16bfcb45-4056-4e8d-b1d7-7411fffeb5a1",
+        "location": "San Francisco"
       }
     ],
     "The Bot Company": [
@@ -114653,7 +114660,8 @@
         "date": "N/A",
         "id": "greenhouse:5652045",
         "url": "https://www.bluerivertechnology.com/job/?gh_jid=5652045",
-        "location": "Remote-US"
+        "location": "Remote-US",
+        "closed": "2026-11-14"
       },
       {
         "title": "Sr Camera Systems Engineer, Platform",
@@ -117946,7 +117954,7 @@
   "checked": {
     "Google": "2026-11-14",
     "Meta": "2026-11-14",
-    "Nvidia": "2026-11-13",
+    "Nvidia": "2026-11-14",
     "AWS": "2026-11-14",
     "Amazon": "2026-11-14",
     "Netflix": "2026-11-14",
@@ -118251,10 +118259,6 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
-    },
-    "Nvidia": {
-      "since": "2026-11-13",
-      "error": "HTTPError: 500 Server Error: Internal Server Error for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
     },
     "General Motors": {
       "since": "2026-11-13",
