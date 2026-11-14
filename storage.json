@@ -13964,6 +13964,13 @@
         "id": "greenhouse:6242669004",
         "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6242669004",
         "location": "Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA)"
+      },
+      {
+        "title": "Senior Software Engineer, Release Engineering",
+        "date": "2026-11-13",
+        "id": "greenhouse:6237014004",
+        "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6237014004",
+        "location": "Hybrid- Any Office (Fremont, CA, Salem, OR, or Pittsburgh, PA)"
       }
     ],
     "Cobot": [
@@ -31463,7 +31470,8 @@
         "date": "N/A",
         "id": "greenhouse:5174689007",
         "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5174689007",
-        "location": "Torrance, California, United States"
+        "location": "Torrance, California, United States",
+        "closed": "2026-11-13"
       },
       {
         "title": "Senior DevOps Engineer",
@@ -34222,7 +34230,8 @@
         "date": "N/A",
         "id": "lever:633a3038-574c-45ff-babb-7e1b8b7c6196",
         "url": "https://jobs.lever.co/shieldai/633a3038-574c-45ff-babb-7e1b8b7c6196",
-        "location": "Seattle, Washington"
+        "location": "Seattle, Washington",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Supplier Development Engineer - 6463",
@@ -34328,7 +34337,8 @@
         "date": "2026-11-13",
         "id": "lever:cf89556f-a5ea-4a3a-81c7-944890f76ade",
         "url": "https://jobs.lever.co/shieldai/cf89556f-a5ea-4a3a-81c7-944890f76ade",
-        "location": "Washington, D.C."
+        "location": "Washington, D.C.",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Human Machine Teaming - 6532",
@@ -34863,7 +34873,8 @@
         "date": "2026-10-29",
         "id": "greenhouse:8335511",
         "url": "https://careers.withwaymo.com/jobs?gh_jid=8335511",
-        "location": "San Francisco, CA, USA"
+        "location": "San Francisco, CA, USA",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern, PhD, Research Scientist Intern",
@@ -44511,6 +44522,13 @@
         "id": "greenhouse:5218366008",
         "url": "https://job-boards.greenhouse.io/outrider/jobs/5218366008",
         "location": "Henderson, CO"
+      },
+      {
+        "title": "Senior Manager, Customer Operations",
+        "date": "2026-11-13",
+        "id": "greenhouse:5482303008",
+        "url": "https://job-boards.greenhouse.io/outrider/jobs/5482303008",
+        "location": "Henderson, Colorado"
       }
     ],
     "Standard Bots": [
@@ -49503,6 +49521,13 @@
         "id": "ashby:cbd31c94-5a83-4d1e-8252-de67a5e594ed",
         "url": "https://jobs.ashbyhq.com/reliable-robotics/cbd31c94-5a83-4d1e-8252-de67a5e594ed",
         "location": "Mountain View, CA"
+      },
+      {
+        "title": "Experimental Test Pilot",
+        "date": "2026-11-13",
+        "id": "ashby:4116a9ff-dc37-4b8d-b227-977422d460dd",
+        "url": "https://jobs.ashbyhq.com/reliable-robotics/4116a9ff-dc37-4b8d-b227-977422d460dd",
+        "location": "Mountain View, CA +1"
       }
     ],
     "ANYbotics": [
@@ -51202,6 +51227,13 @@
         "id": "ashby:8121c209-5ffe-406c-bf36-dbfc9ca9dd37",
         "url": "https://jobs.ashbyhq.com/hadrian-automation/8121c209-5ffe-406c-bf36-dbfc9ca9dd37",
         "location": "Washington, DC"
+      },
+      {
+        "title": "Manufacturing Engineer, DFM",
+        "date": "2026-11-13",
+        "id": "ashby:8bc7e9ed-f0a3-41b0-9aee-56a050a08a29",
+        "url": "https://jobs.ashbyhq.com/hadrian-automation/8bc7e9ed-f0a3-41b0-9aee-56a050a08a29",
+        "location": "Los Angeles, CA"
       }
     ],
     "Saildrone": [
@@ -51461,7 +51493,8 @@
         "date": "2026-10-14",
         "id": "greenhouse:4193068009",
         "url": "https://www.saildrone.com/careers/available-jobs?gh_jid=4193068009",
-        "location": "Alameda, California, United States"
+        "location": "Alameda, California, United States",
+        "closed": "2026-11-13"
       },
       {
         "title": "Staff Software Engineer, Machine Learning",
@@ -78013,6 +78046,13 @@
         "id": "ashby:57486b6e-0b23-4fec-9c35-5efb63fa521a",
         "url": "https://jobs.ashbyhq.com/openai/57486b6e-0b23-4fec-9c35-5efb63fa521a",
         "location": "San Francisco"
+      },
+      {
+        "title": "Growth Product Marketing Manager",
+        "date": "2026-11-13",
+        "id": "ashby:10c7fcdc-1f07-41e3-8e37-4d930898a648",
+        "url": "https://jobs.ashbyhq.com/openai/10c7fcdc-1f07-41e3-8e37-4d930898a648",
+        "location": "San Francisco +1"
       }
     ],
     "John Deere": [
@@ -83328,7 +83368,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5388726008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5388726008",
-        "location": "San Francisco, CA | New York City, NY"
+        "location": "San Francisco, CA | New York City, NY",
+        "closed": "2026-11-13"
       },
       {
         "title": "Customer Success",
@@ -86126,7 +86167,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5389305008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5389305008",
-        "location": "San Francisco, CA | New York City, NY"
+        "location": "San Francisco, CA | New York City, NY",
+        "closed": "2026-11-13"
       },
       {
         "title": "Software Engineering Manager, Network Security",
@@ -92826,6 +92868,13 @@
         "id": "greenhouse:5479857008",
         "url": "https://job-boards.greenhouse.io/icarus/jobs/5479857008",
         "location": "El Segundo"
+      },
+      {
+        "title": "Payload Integration Engineer",
+        "date": "2026-11-13",
+        "id": "greenhouse:5482294008",
+        "url": "https://job-boards.greenhouse.io/icarus/jobs/5482294008",
+        "location": "El Segundo"
       }
     ],
     "Pyka": [
@@ -94517,7 +94566,8 @@
         "date": "N/A",
         "id": "workday:JR0288230",
         "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Facilities-Services---Intern--Graduate_JR0288230",
-        "location": "4 Locations"
+        "location": "4 Locations",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f AI Data Science / Software Engineering PhD Intern New 2027",
@@ -94552,35 +94602,40 @@
         "date": "N/A",
         "id": "workday:JR0286826",
         "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Facilities-Services---Intern--Bachelor-s_JR0286826",
-        "location": "4 Locations"
+        "location": "4 Locations",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f Platform Hardware and Systems Engineering - Intern, Bachelor\u2019s",
         "date": "N/A",
         "id": "workday:JR0286827",
         "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Bachelor-s_JR0286827",
-        "location": "5 Locations"
+        "location": "5 Locations",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f Platform Hardware and Systems Engineering - Intern, Graduate",
         "date": "N/A",
         "id": "workday:JR0286828",
         "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Platform-Hardware-and-Systems-Engineering---Intern--Graduate_JR0286828",
-        "location": "5 Locations"
+        "location": "5 Locations",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f Silicon Hardware Engineering - Intern, Bachelor\u2019s",
         "date": "N/A",
         "id": "workday:JR0286829",
         "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Bachelor-s_JR0286829",
-        "location": "5 Locations"
+        "location": "5 Locations",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f Silicon Hardware Engineering - Intern, Graduate",
         "date": "N/A",
         "id": "workday:JR0286830",
         "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Silicon-Hardware-Engineering---Intern--Graduate_JR0286830",
-        "location": "5 Locations"
+        "location": "5 Locations",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering - Intern, Bachelor\u2019s",
@@ -94595,7 +94650,8 @@
         "date": "N/A",
         "id": "workday:JR0286836",
         "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836",
-        "location": "5 Locations"
+        "location": "5 Locations",
+        "closed": "2026-11-13"
       }
     ],
     "LinkedIn": [
@@ -94741,6 +94797,13 @@
         "id": "workday:JR367516-1",
         "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Applied-AI-Strategy---Research_JR367516-1",
         "location": "California - San Francisco"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Intern - Sales Immersion, Financial Services",
+        "date": "2026-11-13",
+        "id": "workday:JR368293-1",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---Sales-Immersion--Financial-Services_JR368293-1",
+        "location": "New York - New York"
       }
     ],
     "PayPal": [
@@ -96638,6 +96701,13 @@
         "id": "ibm:132703",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=132703",
         "location": "Multiple Cities"
+      },
+      {
+        "title": "Entry Level Analog Circuit Design Engineer 2027 -Rochester, MN",
+        "date": "2026-11-13",
+        "id": "ibm:143344",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143344",
+        "location": "Rochester"
       }
     ],
     "Bank of America": [
@@ -102652,7 +102722,8 @@
         "date": "N/A",
         "id": "oraclehcm:41022",
         "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41022",
-        "location": "United States"
+        "location": "United States",
+        "closed": "2026-11-13"
       },
       {
         "title": "\u2b50\ufe0f Silicon Photonics Packaging Engineer Co-op",
@@ -109900,7 +109971,8 @@
         "date": "N/A",
         "id": "greenhouse:6181759004",
         "url": "https://job-boards.greenhouse.io/vercel/jobs/6181759004",
-        "location": "Hybrid - San Francisco"
+        "location": "Hybrid - San Francisco",
+        "closed": "2026-11-13"
       }
     ],
     "Notion": [
@@ -117688,31 +117760,6 @@
         "title:\u2b50\ufe0f Supply Chain Engineering Intern \u2013 Robotics (2026 Fall)"
       ],
       "backlog": true
-    },
-    "Intel": {
-      "since": "2026-11-13T17:30-05:00",
-      "keys": [
-        "workday:JR0286826",
-        "workday:JR0286827",
-        "workday:JR0286828",
-        "workday:JR0286829",
-        "workday:JR0286830",
-        "workday:JR0286836",
-        "workday:JR0288230"
-      ]
-    },
-    "Vercel": {
-      "since": "2026-11-13T17:31-05:00",
-      "keys": [
-        "greenhouse:6181759004"
-      ]
-    },
-    "Shield AI": {
-      "since": "2026-11-13T17:32-05:00",
-      "keys": [
-        "lever:633a3038-574c-45ff-babb-7e1b8b7c6196",
-        "lever:cf89556f-a5ea-4a3a-81c7-944890f76ade"
-      ]
     }
   },
   "checked": {
@@ -118044,10 +118091,6 @@
       "since": "2026-11-13",
       "error": "HTTPError: 521 Server Error: <none> for url: https://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/BlueOrigin/jobs"
     },
-    "RedHat": {
-      "since": "2026-11-13",
-      "error": "HTTPError: 521 Server Error: <none> for url: https://redhat.wd5.myworkdayjobs.com/wday/cxs/redhat/jobs/jobs"
-    },
     "Visa": {
       "since": "2026-11-13",
       "error": "HTTPError: 521 Server Error: <none> for url: https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs"
@@ -118083,6 +118126,14 @@
     "KUKA": {
       "since": "2026-11-13",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://jobs.kuka.com/search/?q=&locationsearch=United+States&locale=en_US&sortColumn=referencedate&sortDirection=desc"
+    },
+    "Snap": {
+      "since": "2026-11-13",
+      "error": "HTTPError: 521 Server Error: <none> for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
+    },
+    "Stryker": {
+      "since": "2026-11-13",
+      "error": "HTTPError: 521 Server Error: <none> for url: https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs"
     }
   },
   "closures_untracked": {
