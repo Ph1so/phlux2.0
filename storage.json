@@ -2309,7 +2309,8 @@
         "date": "N/A",
         "id": "amazon:10513157",
         "url": "https://www.amazon.jobs/en/jobs/10513157/mechanical-engineer-satellite-hardware",
-        "location": "Redmond, WA"
+        "location": "Redmond, WA",
+        "closed": "2026-11-15"
       },
       {
         "title": "Sr Applied Scientist, Amazon Cryptographic Libraries",
@@ -97059,14 +97060,16 @@
         "date": "N/A",
         "id": "morganstanley:20895",
         "url": "https://morganstanley.tal.net/vx/candidate/so/pm/1/pl/1/opp/20895",
-        "location": "New York, NY"
+        "location": "New York, NY",
+        "closed": "2026-11-15"
       },
       {
         "title": "\u2b50\ufe0f 2027 Fund Services Summer Analyst Programme - Accounting (Glasgow)",
         "date": "N/A",
         "id": "morganstanley:21491",
         "url": "https://morganstanley.tal.net/vx/candidate/so/pm/1/pl/1/opp/21491",
-        "location": "Glasgow, United Kingdom"
+        "location": "Glasgow, United Kingdom",
+        "closed": "2026-11-15"
       },
       {
         "title": "\u2b50\ufe0f 2027 Investment Management Summer Analyst Programme - Global Sales and Marketing (London)",
@@ -97087,42 +97090,48 @@
         "date": "N/A",
         "id": "morganstanley:21495",
         "url": "https://morganstanley.tal.net/vx/candidate/so/pm/1/pl/1/opp/21495",
-        "location": "Glasgow, United Kingdom"
+        "location": "Glasgow, United Kingdom",
+        "closed": "2026-11-15"
       },
       {
         "title": "2027 Institutional Equity Division Early Careers Program (Hong Kong / Singapore)",
         "date": "N/A",
         "id": "morganstanley:21280",
         "url": "https://morganstanley.tal.net/vx/candidate/so/pm/1/pl/1/opp/21280",
-        "location": "Hong Kong"
+        "location": "Hong Kong",
+        "closed": "2026-11-15"
       },
       {
         "title": "2027 Operations Industrial Placement Programme (Frankfurt)",
         "date": "N/A",
         "id": "morganstanley:21480",
         "url": "https://morganstanley.tal.net/vx/candidate/so/pm/1/pl/1/opp/21480",
-        "location": "Frankfurt, Germany"
+        "location": "Frankfurt, Germany",
+        "closed": "2026-11-15"
       },
       {
         "title": "\u2b50\ufe0f 2027 Technology Summer Analyst Programme - Application Development (Glasgow)",
         "date": "N/A",
         "id": "morganstanley:21481",
         "url": "https://morganstanley.tal.net/vx/candidate/so/pm/1/pl/1/opp/21481",
-        "location": "Glasgow, United Kingdom"
+        "location": "Glasgow, United Kingdom",
+        "closed": "2026-11-15"
       },
       {
         "title": "2027 Technology Industrial Placement Programme (Glasgow)",
         "date": "N/A",
         "id": "morganstanley:21483",
         "url": "https://morganstanley.tal.net/vx/candidate/so/pm/1/pl/1/opp/21483",
-        "location": "Glasgow, United Kingdom"
+        "location": "Glasgow, United Kingdom",
+        "closed": "2026-11-15"
       },
       {
         "title": "\u2b50\ufe0f 2027 Investment Management Off-Cycle Internship - Global Sales & Marketing (Frankfurt)",
         "date": "N/A",
         "id": "morganstanley:21201",
         "url": "https://morganstanley.tal.net/vx/candidate/so/pm/1/pl/1/opp/21201",
-        "location": "Frankfurt, Germany"
+        "location": "Frankfurt, Germany",
+        "closed": "2026-11-15"
       },
       {
         "title": "\u2b50\ufe0f 2027 Internal Audit Internship Program (Budapest)",
@@ -97586,14 +97595,16 @@
         "date": "N/A",
         "id": "morganstanley:21477",
         "url": "https://morganstanley.tal.net/vx/candidate/so/pm/1/pl/1/opp/21477",
-        "location": "Glasgow, United Kingdom"
+        "location": "Glasgow, United Kingdom",
+        "closed": "2026-11-15"
       },
       {
         "title": "\u2b50\ufe0f 2027 Operations Summer Analyst Programme (Glasgow)",
         "date": "N/A",
         "id": "morganstanley:21474",
         "url": "https://morganstanley.tal.net/vx/candidate/so/pm/1/pl/1/opp/21474",
-        "location": "Glasgow, United Kingdom"
+        "location": "Glasgow, United Kingdom",
+        "closed": "2026-11-15"
       },
       {
         "title": "\u2b50\ufe0f 2027 Investment Management Off-cycle Internship - Product Development (London)",
@@ -118401,6 +118412,10 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
+    },
+    "Tesla": {
+      "since": "2026-11-15",
+      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
     }
   },
   "closures_untracked": {
