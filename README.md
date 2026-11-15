@@ -12,7 +12,7 @@
 <p>
   <a href="https://ph1so.github.io/phlux2.0/"><img src="https://img.shields.io/badge/browse-internships-1f5fff?style=flat-square" alt="Browse internships"></a>
   <a href="https://github.com/Ph1so/phlux2.0/actions/workflows/job-scraper.yml"><img src="https://img.shields.io/github/actions/workflow/status/Ph1so/phlux2.0/job-scraper.yml?branch=main&style=flat-square&label=scraper" alt="Scraper status"></a>
-  <img src="https://img.shields.io/badge/roles_tracked-38k-475467?style=flat-square" alt="37,960 roles tracked">
+  <img src="https://img.shields.io/badge/roles_tracked-38k-475467?style=flat-square" alt="37,967 roles tracked">
 </p>
 
 <p><a href="https://ph1so.github.io/phlux2.0/"><b>Website</b></a> &nbsp;·&nbsp; <a href="listings/README.md"><b>All listings</b></a></p>
@@ -21,7 +21,7 @@
 
 ## Latest roles
 
-Showing the 630 most recent of 37,960 roles tracked across 295 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
+Showing the 630 most recent of 37,967 roles tracked across 295 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
 
 
 <table>
@@ -34,6 +34,55 @@ Showing the 630 most recent of 37,960 roles tracked across 295 companies. ⭐️
   </thead>
   <tbody>
 
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://apply.workable.com/exotec/"><img src="https://cdn.brandfetch.io/exotec.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Exotec" height="20" style="vertical-align:middle; margin-right:6px;"> Exotec</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">Tech Talent Acquisition Partner (F/H) - CDD 12 mois</div></td>
+  <td>2026-11-15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/9eabe3b6-7d42-4bd6-85f5-919117ad8056">Business Recruiter</a></div></td>
+  <td>2026-11-15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.eu.lever.co/mobileye"><img src="https://cdn.brandfetch.io/mobileye.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mobileye" height="20" style="vertical-align:middle; margin-right:6px;"> Mobileye</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.eu.lever.co/mobileye/d1b15808-b89c-4b61-b329-438963133015">Senior Data & ML Engineer</a></div></td>
+  <td>2026-11-15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.eu.lever.co/mobileye"><img src="https://cdn.brandfetch.io/mobileye.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mobileye" height="20" style="vertical-align:middle; margin-right:6px;"> Mobileye</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.eu.lever.co/mobileye/0f7431cb-235a-4985-a57c-07d6cb2ceb45">System Integration and Testing Expert (m/w/d)</a></div></td>
+  <td>2026-11-15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.eu.lever.co/mobileye"><img src="https://cdn.brandfetch.io/mobileye.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mobileye" height="20" style="vertical-align:middle; margin-right:6px;"> Mobileye</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.eu.lever.co/mobileye/3c6b8b90-1034-4027-864d-63fbf4660e53">System Integration and Testing Expert Cyber Focus (m/w/d)</a></div></td>
+  <td>2026-11-15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/?source=Careers_Website_ec"><img src="https://cdn.brandfetch.io/workday.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Workday" height="20" style="vertical-align:middle; margin-right:6px;"> Workday</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806">⭐️ Machine Learning Engineer Intern (Canada)</a></div></td>
+  <td>2026-11-15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/?source=Careers_Website_ec"><img src="https://cdn.brandfetch.io/workday.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Workday" height="20" style="vertical-align:middle; margin-right:6px;"> Workday</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Software-Development-Engineer-Intern_JR-0110807">⭐️ Software Development Engineer Intern (Canada)</a></div></td>
+  <td>2026-11-15</td>
+</tr>
   <tr>
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.merl.com/employment/internship-openings"><img src="https://cdn.brandfetch.io/mitsubishielectric.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mitsubishi Electric Research Laboratories" height="20" style="vertical-align:middle; margin-right:6px;"> Mitsubishi Electric Research Laboratories</a></div>
@@ -4393,55 +4442,6 @@ Showing the 630 most recent of 37,960 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/tutorintelligence"><img src="https://cdn.brandfetch.io/tutorintelligence.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tutor Intelligence" height="20" style="vertical-align:middle; margin-right:6px;"> Tutor Intelligence</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/tutorintelligence/8ddecc24-28e0-44e6-aa83-0425d668a5b2">Not seeing a role that fits you?</a></div></td>
-  <td>2026-11-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/tutorintelligence"><img src="https://cdn.brandfetch.io/tutorintelligence.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tutor Intelligence" height="20" style="vertical-align:middle; margin-right:6px;"> Tutor Intelligence</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/tutorintelligence/f81c6a11-cf75-420c-bac4-ce0f21b2eb18">Not seeing a role that fits you? (San Francisco, CA)</a></div></td>
-  <td>2026-11-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/tutorintelligence"><img src="https://cdn.brandfetch.io/tutorintelligence.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tutor Intelligence" height="20" style="vertical-align:middle; margin-right:6px;"> Tutor Intelligence</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/tutorintelligence/9b05b3e6-4f91-41ea-a8eb-6597a4d7b334">Organizational Effectiveness Lead</a></div></td>
-  <td>2026-11-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/tutorintelligence"><img src="https://cdn.brandfetch.io/tutorintelligence.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tutor Intelligence" height="20" style="vertical-align:middle; margin-right:6px;"> Tutor Intelligence</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/tutorintelligence/2c465cb9-141c-4543-bd9c-18a56c1cf60c">People Operations Manager</a></div></td>
-  <td>2026-11-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/tutorintelligence"><img src="https://cdn.brandfetch.io/tutorintelligence.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tutor Intelligence" height="20" style="vertical-align:middle; margin-right:6px;"> Tutor Intelligence</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/tutorintelligence/73ddd613-fbd6-4ea2-9703-df9f1d4ed536">Perception Engineer, Robot Safety</a></div></td>
-  <td>2026-11-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/tutorintelligence"><img src="https://cdn.brandfetch.io/tutorintelligence.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tutor Intelligence" height="20" style="vertical-align:middle; margin-right:6px;"> Tutor Intelligence</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/tutorintelligence/aa957bc5-3b20-4ac3-bd0e-8ef7d9ef12cc">Production Engineer - Manufacturing Process and ECO Implementation</a></div></td>
-  <td>2026-11-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/tutorintelligence"><img src="https://cdn.brandfetch.io/tutorintelligence.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tutor Intelligence" height="20" style="vertical-align:middle; margin-right:6px;"> Tutor Intelligence</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/tutorintelligence/6a24392e-e948-48de-b55c-dd75abe720df">Production Supervisor - Robotics Assembly</a></div></td>
-  <td>2026-11-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/tutorintelligence"><img src="https://cdn.brandfetch.io/tutorintelligence.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tutor Intelligence" height="20" style="vertical-align:middle; margin-right:6px;"> Tutor Intelligence</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/tutorintelligence/66106126-f5b4-4243-a305-829fbfc879b0">Quality Manager</a></div></td>
   <td>2026-11-11</td>
 </tr>
 
