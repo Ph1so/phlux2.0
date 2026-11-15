@@ -60826,6 +60826,20 @@
         "id": "workday:JR00052474",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Ohio-United-States-of-America/Inventory-Access-Program--IAP--Specialist_JR00052474",
         "location": "Remote, Ohio, United States of America"
+      },
+      {
+        "title": "Winder-3-2",
+        "date": "2026-11-15",
+        "id": "workday:JR00053619",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MS--Columbus-Home-Office/Winder-3-2_JR00053619",
+        "location": "USA, MS, Columbus, Home Office"
+      },
+      {
+        "title": "Winder-3-1",
+        "date": "2026-11-15",
+        "id": "workday:JR00053618",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MS--Columbus-Home-Office/Winder-3-1_JR00053618",
+        "location": "USA, MS, Columbus, Home Office"
       }
     ],
     "Teradyne": [
@@ -83549,7 +83563,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5407184008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5407184008",
-        "location": "San Francisco, CA | New York City, NY | Seattle, WA"
+        "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+        "closed": "2026-11-15"
       },
       {
         "title": "Corporate Development, Deal Lead",
@@ -108444,6 +108459,13 @@
         "id": "directemployers:13D7198060F04F6E9903F46EDF896A17",
         "url": "https://jobs.sw.siemens.com/maryland-heights-mo/strategic-student-program-digital-thread-systems-engineering-internship-spring-2027-gscs/13D7198060F04F6E9903F46EDF896A17/job/",
         "location": "Maryland Heights, MO"
+      },
+      {
+        "title": "\u2b50\ufe0f Strategic Student Program: Go-To-Market Sales Execution Intern (GS&CS, Spring 2027)",
+        "date": "2026-11-15",
+        "id": "directemployers:3D3A6875AA6A4ACE950E9E4BD6D0D859",
+        "url": "https://jobs.sw.siemens.com/mason-oh/strategic-student-program-go-to-market-sales-execution-intern-gscs-spring-2027/3D3A6875AA6A4ACE950E9E4BD6D0D859/job/",
+        "location": "Mason, OH"
       }
     ],
     "X": [
@@ -113623,8 +113645,7 @@
         "date": "N/A",
         "id": "talentbrew:99041176112",
         "url": "https://jobs.boeing.com/job/everett/boeing-summer-2027-internship-program-paid-security-and-fire-operation-s-and-fo/185/99041176112",
-        "location": "Everett, WA",
-        "closed": "2026-11-15"
+        "location": "Everett, WA"
       },
       {
         "title": "\u2b50\ufe0f Engineering Internship",
