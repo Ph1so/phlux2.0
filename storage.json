@@ -8663,7 +8663,8 @@
         "date": "2026-10-13",
         "id": "eightfold:446720740636",
         "url": "https://careers.qualcomm.com/careers/job/446720740636",
-        "location": "San Diego, CA"
+        "location": "San Diego, CA",
+        "closed": "2026-11-14"
       },
       {
         "title": "\u2b50\ufe0f Modular Engineering Internship \u2013 Summer 2027",
@@ -84363,7 +84364,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5459274008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459274008",
-        "location": "San Francisco, CA | New York City, NY"
+        "location": "San Francisco, CA | New York City, NY",
+        "closed": "2026-11-14"
       },
       {
         "title": "Forward Deployed Engineer",
@@ -118285,10 +118287,6 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
-    },
-    "Bank of America": {
-      "since": "2026-11-14",
-      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://careers.bankofamerica.com/services/campusjobssearchservlet?search=jobsByLocation&searchstring=United+States&start=0&rows=100"
     }
   },
   "closures_untracked": {
