@@ -12,7 +12,7 @@
 <p>
   <a href="https://ph1so.github.io/phlux2.0/"><img src="https://img.shields.io/badge/browse-internships-1f5fff?style=flat-square" alt="Browse internships"></a>
   <a href="https://github.com/Ph1so/phlux2.0/actions/workflows/job-scraper.yml"><img src="https://img.shields.io/github/actions/workflow/status/Ph1so/phlux2.0/job-scraper.yml?branch=main&style=flat-square&label=scraper" alt="Scraper status"></a>
-  <img src="https://img.shields.io/badge/roles_tracked-38k-475467?style=flat-square" alt="37,971 roles tracked">
+  <img src="https://img.shields.io/badge/roles_tracked-38k-475467?style=flat-square" alt="37,973 roles tracked">
 </p>
 
 <p><a href="https://ph1so.github.io/phlux2.0/"><b>Website</b></a> &nbsp;·&nbsp; <a href="listings/README.md"><b>All listings</b></a></p>
@@ -21,7 +21,7 @@
 
 ## Latest roles
 
-Showing the 630 most recent of 37,971 roles tracked across 295 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
+Showing the 630 most recent of 37,973 roles tracked across 295 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
 
 
 <table>
@@ -36,6 +36,13 @@ Showing the 630 most recent of 37,971 roles tracked across 295 companies. ⭐️
 
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=apptronik"><img src="https://cdn.brandfetch.io/apptronik.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Apptronik" height="20" style="vertical-align:middle; margin-right:6px;"> Apptronik</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://boards.greenhouse.io/apptronik/jobs/6262296004?gh_jid=6262296004">Senior Financial Analyst, Strategic Finance</a></div></td>
+  <td>2026-11-15</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MS--Columbus-Home-Office/Winder-3-2_JR00053619">Winder-3-2</a></div></td>
@@ -46,6 +53,13 @@ Showing the 630 most recent of 37,971 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MS--Columbus-Home-Office/Winder-3-1_JR00053618">Winder-3-1</a></div></td>
+  <td>2026-11-15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-OH-Cleveland/Associate-Demand-Field-Service-Technician_JR00037045">Associate Demand Field Service Technician</a></div></td>
   <td>2026-11-15</td>
 </tr>
   <tr>
@@ -4428,20 +4442,6 @@ Showing the 630 most recent of 37,971 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/tutorintelligence"><img src="https://cdn.brandfetch.io/tutorintelligence.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tutor Intelligence" height="20" style="vertical-align:middle; margin-right:6px;"> Tutor Intelligence</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/tutorintelligence/3db37163-ccdf-46b2-aab2-ac586276b5f4">Head of Supply Chain</a></div></td>
-  <td>2026-11-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/tutorintelligence"><img src="https://cdn.brandfetch.io/tutorintelligence.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tutor Intelligence" height="20" style="vertical-align:middle; margin-right:6px;"> Tutor Intelligence</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/tutorintelligence/11ce838d-5df0-49be-886d-a0709b102487">Head of Technical Operations (Manufacturing, Supply Chain, Field)</a></div></td>
-  <td>2026-11-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/tutorintelligence"><img src="https://cdn.brandfetch.io/tutorintelligence.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tutor Intelligence" height="20" style="vertical-align:middle; margin-right:6px;"> Tutor Intelligence</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/tutorintelligence/81b1c21a-9ea6-4b12-80f1-0355091645a6">HR Compliance & Benefits Administrator</a></div></td>
   <td>2026-11-11</td>
 </tr>
 

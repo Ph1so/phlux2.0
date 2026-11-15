@@ -11270,7 +11270,8 @@
       {
         "title": "Field Service Technician",
         "date": "2026-10-13",
-        "id": "bamboohr:173"
+        "id": "bamboohr:173",
+        "closed": "2026-11-15"
       },
       {
         "title": "Senior DevOps Developer",
@@ -11305,7 +11306,8 @@
         "date": "2026-10-28",
         "id": "bamboohr:203",
         "url": "https://mujin.bamboohr.com/careers/203",
-        "location": "Suwanee, GA"
+        "location": "Suwanee, GA",
+        "closed": "2026-11-15"
       },
       {
         "title": "Customer Success Champion (2nd & 3rd shift)",
@@ -17018,6 +17020,13 @@
         "date": "2026-11-10",
         "id": "greenhouse:6254162004",
         "url": "https://boards.greenhouse.io/apptronik/jobs/6254162004?gh_jid=6254162004",
+        "location": "Austin, TX"
+      },
+      {
+        "title": "Senior Financial Analyst, Strategic Finance",
+        "date": "2026-11-15",
+        "id": "greenhouse:6262296004",
+        "url": "https://boards.greenhouse.io/apptronik/jobs/6262296004?gh_jid=6262296004",
         "location": "Austin, TX"
       }
     ],
@@ -54416,7 +54425,8 @@
         "date": "N/A",
         "id": "workday:R-109524",
         "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Latina-Italy/Stage-in-Packaging_R-109524",
-        "location": "Latina, Italy"
+        "location": "Latina, Italy",
+        "closed": "2026-11-15"
       },
       {
         "title": "Werkstudent:in (m/w/d) Business Excellence & Power BI",
@@ -59011,7 +59021,8 @@
         "date": "N/A",
         "id": "workday:JR00050761",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Poland/Digital-PMO-Lead_JR00050761",
-        "location": "6 Locations"
+        "location": "6 Locations",
+        "closed": "2026-11-15"
       },
       {
         "title": "Winding - Utility Technician (2nd Shift)",
@@ -60845,6 +60856,13 @@
         "id": "workday:JR00053618",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MS--Columbus-Home-Office/Winder-3-1_JR00053618",
         "location": "USA, MS, Columbus, Home Office"
+      },
+      {
+        "title": "Associate Demand Field Service Technician",
+        "date": "2026-11-15",
+        "id": "workday:JR00037045",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-OH-Cleveland/Associate-Demand-Field-Service-Technician_JR00037045",
+        "location": "USA, OH, Cleveland"
       }
     ],
     "Teradyne": [
@@ -86141,7 +86159,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5428790008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5428790008",
-        "location": "San Francisco, CA | New York City, NY"
+        "location": "San Francisco, CA | New York City, NY",
+        "closed": "2026-11-15"
       },
       {
         "title": "Salesforce Developer",
@@ -105551,7 +105570,8 @@
         "date": "N/A",
         "id": "oraclehcm:334348",
         "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334348",
-        "location": "Kansas City, MO +1"
+        "location": "Kansas City, MO +1",
+        "closed": "2026-11-15"
       },
       {
         "title": "\u2b50\ufe0f M&D Operations Analyst Intern - OVIP",
@@ -118416,6 +118436,26 @@
     "Tesla": {
       "since": "2026-11-15",
       "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
+    },
+    "Expedia": {
+      "since": "2026-11-15",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://expedia.wd108.myworkdayjobs.com/wday/cxs/expedia/search/jobs"
+    },
+    "Verizon": {
+      "since": "2026-11-15",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://verizon.wd12.myworkdayjobs.com/wday/cxs/verizon/verizon-careers/jobs"
+    },
+    "PROCEPT BioRobotics": {
+      "since": "2026-11-15",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://proceptbiorobotics.wd108.myworkdayjobs.com/wday/cxs/proceptbiorobotics/PROCEPT/jobs"
+    },
+    "Symbotic": {
+      "since": "2026-11-15",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://symbotic.wd504.myworkdayjobs.com/wday/cxs/symbotic/Symbotic/jobs"
+    },
+    "Slate Auto": {
+      "since": "2026-11-15",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
     }
   },
   "closures_untracked": {
