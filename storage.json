@@ -8657,8 +8657,7 @@
         "date": "2026-10-10",
         "id": "eightfold:446721346084",
         "url": "https://careers.qualcomm.com/careers/job/446721346084",
-        "location": "San Diego, CA",
-        "closed": "2026-11-15"
+        "location": "San Diego, CA"
       },
       {
         "title": "\u2b50\ufe0f Security (Product, Systems, Cyber) Engineering Internship - Summer 2027",
@@ -8672,8 +8671,7 @@
         "date": "2026-10-13",
         "id": "eightfold:446721246663",
         "url": "https://careers.qualcomm.com/careers/job/446721246663",
-        "location": "Los Altos, CA",
-        "closed": "2026-11-15"
+        "location": "Los Altos, CA"
       },
       {
         "title": "\u2b50\ufe0f Wireless Systems Engineering Internship - Summer 2027",
@@ -44647,7 +44645,8 @@
         "date": "2026-10-14",
         "id": "ashby:6d34a165-179d-4bb2-a862-82d6f450eca1",
         "url": "https://jobs.ashbyhq.com/standardbots/6d34a165-179d-4bb2-a862-82d6f450eca1",
-        "location": "Glen Cove, NY"
+        "location": "Glen Cove, NY",
+        "closed": "2026-11-15"
       },
       {
         "title": "Applications Engineer (Texas)",
@@ -44784,7 +44783,8 @@
         "date": "2026-10-14",
         "id": "ashby:196ba011-3864-4259-bf10-2b805ffe9e55",
         "url": "https://jobs.ashbyhq.com/standardbots/196ba011-3864-4259-bf10-2b805ffe9e55",
-        "location": "Glen Cove, NY"
+        "location": "Glen Cove, NY",
+        "closed": "2026-11-15"
       },
       {
         "title": "Brand Growth Lead",
@@ -44993,7 +44993,8 @@
         "date": "2026-11-04",
         "id": "ashby:60fe3942-ee4c-4c25-8d39-f7435056f375",
         "url": "https://jobs.ashbyhq.com/standardbots/60fe3942-ee4c-4c25-8d39-f7435056f375",
-        "location": "Glen Cove, NY"
+        "location": "Glen Cove, NY",
+        "closed": "2026-11-15"
       },
       {
         "title": "Staff Firmware Engineer - AMR",
@@ -118392,10 +118393,6 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
-    },
-    "Tesla": {
-      "since": "2026-11-15",
-      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
     }
   },
   "closures_untracked": {
