@@ -1166,8 +1166,7 @@
         "date": "2026-11-02",
         "id": "eightfold:1970393557043712",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557043712",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-14"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Explore Program Engineering Internship Opportunities: First-Year Students, Redmond",
@@ -118286,6 +118285,10 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
+    },
+    "Bank of America": {
+      "since": "2026-11-14",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://careers.bankofamerica.com/services/campusjobssearchservlet?search=jobsByLocation&searchstring=United+States&start=0&rows=100"
     }
   },
   "closures_untracked": {
