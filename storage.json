@@ -905,7 +905,8 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557022480",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557022480",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Supply Chain Program Management Intern",
@@ -1212,7 +1213,8 @@
         "date": "2026-11-02",
         "id": "eightfold:1970393557052982",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557052982",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer: Internship Opportunities",
@@ -1290,7 +1292,8 @@
         "date": "2026-11-13",
         "id": "eightfold:1970393557073455",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Marketing MBA Internship Opportunities, United States",
@@ -6986,7 +6989,8 @@
         "id": "greenhouse:8493079002",
         "url": "https://boards.greenhouse.io/spacex/jobs/8493079002?gh_jid=8493079002",
         "location": "Hawthorne, CA",
-        "early": "NEW GRADUATE ENGINEER, SOFTWARE Our SpaceX team is working on the toughest and most audacious projects on our planet: making humanity multiplanetary."
+        "early": "NEW GRADUATE ENGINEER, SOFTWARE Our SpaceX team is working on the toughest and most audacious projects on our planet: making humanity multiplanetary.",
+        "closed": "2026-11-16"
       },
       {
         "title": "New Graduate Engineer, Software - '26/'27 (Starlink)",
@@ -7237,7 +7241,8 @@
         "date": "2026-10-13",
         "id": "greenhouse:7982296003",
         "url": "https://www.zipline.com/open-roles/7982296003?gh_jid=7982296003",
-        "location": "Austin, Texas, USA; Houston, Texas, USA; Phoenix, Arizona, USA; San Antonio, Texas, USA"
+        "location": "Austin, Texas, USA; Houston, Texas, USA; Phoenix, Arizona, USA; San Antonio, Texas, USA",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Community Engagement Intern (Spring 2027)",
@@ -7272,7 +7277,8 @@
         "date": "2026-10-13",
         "id": "greenhouse:7894561003",
         "url": "https://www.zipline.com/open-roles/7894561003?gh_jid=7894561003",
-        "location": "Dallas-Fort Worth, Texas, USA"
+        "location": "Dallas-Fort Worth, Texas, USA",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Construction Management Intern (Summer 2027)",
@@ -7414,7 +7420,8 @@
         "date": "2026-10-13",
         "id": "greenhouse:7984998003",
         "url": "https://www.zipline.com/open-roles/7984998003?gh_jid=7984998003",
-        "location": "South San Francisco, California, USA"
+        "location": "South San Francisco, California, USA",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Launch & Scale Intern (Summer 2027)",
@@ -7570,14 +7577,16 @@
         "date": "2026-10-13",
         "id": "greenhouse:7929801003",
         "url": "https://www.zipline.com/open-roles/7929801003?gh_jid=7929801003",
-        "location": "South San Francisco, California, USA"
+        "location": "South San Francisco, California, USA",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer Intern (Spring 2027)",
         "date": "2026-10-13",
         "id": "greenhouse:7907191003",
         "url": "https://www.zipline.com/open-roles/7907191003?gh_jid=7907191003",
-        "location": "South San Francisco, California, USA"
+        "location": "South San Francisco, California, USA",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Software Systems Validation Intern (Spring 2027)",
@@ -7684,7 +7693,8 @@
         "date": "2026-10-13",
         "id": "greenhouse:7896577003",
         "url": "https://www.zipline.com/open-roles/7896577003?gh_jid=7896577003",
-        "location": "South San Francisco, California, USA"
+        "location": "South San Francisco, California, USA",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Zip Motion Planning Intern (Summer 2027)",
@@ -8701,8 +8711,7 @@
         "date": "2026-10-13",
         "id": "eightfold:446720740636",
         "url": "https://careers.qualcomm.com/careers/job/446720740636",
-        "location": "San Diego, CA",
-        "closed": "2026-11-16"
+        "location": "San Diego, CA"
       },
       {
         "title": "\u2b50\ufe0f Modular Engineering Internship \u2013 Summer 2027",
@@ -8730,8 +8739,7 @@
         "date": "2026-10-14",
         "id": "eightfold:446720740525",
         "url": "https://careers.qualcomm.com/careers/job/446720740525",
-        "location": "San Diego, CA +6",
-        "closed": "2026-11-16"
+        "location": "San Diego, CA +6"
       },
       {
         "title": "\u2b50\ufe0f Embedded Engineering Internship - Summer 2027",
@@ -36465,6 +36473,13 @@
         "id": "ashby:70765480-d706-49bb-abb3-1b1eb8a070c5",
         "url": "https://jobs.ashbyhq.com/bedrock-robotics/70765480-d706-49bb-abb3-1b1eb8a070c5",
         "location": "New York, NY"
+      },
+      {
+        "title": "Recruiting Coordinator (6-Month Contract)",
+        "date": "2026-11-16",
+        "id": "ashby:22125105-f0bc-40a7-82d1-ece20225e2fe",
+        "url": "https://jobs.ashbyhq.com/bedrock-robotics/22125105-f0bc-40a7-82d1-ece20225e2fe",
+        "location": "San Francisco, CA"
       }
     ],
     "Applied Intuition": [
@@ -40142,7 +40157,8 @@
         "date": "N/A",
         "id": "lever:459d3ad2-80c7-43c6-81da-10669a2950f4",
         "url": "https://jobs.lever.co/field-ai/459d3ad2-80c7-43c6-81da-10669a2950f4",
-        "location": "Irvine, CA"
+        "location": "Irvine, CA",
+        "closed": "2026-11-16"
       },
       {
         "title": "Electrical Engineer, Autonomous Vehicles (Federal)",
@@ -40795,7 +40811,8 @@
         "date": "N/A",
         "id": "lever:e78f6a36-f106-4064-90d5-1145409a6351",
         "url": "https://jobs.lever.co/field-ai/e78f6a36-f106-4064-90d5-1145409a6351",
-        "location": "Irvine, CA"
+        "location": "Irvine, CA",
+        "closed": "2026-11-16"
       },
       {
         "title": "Sr. Project Engineer - Field Application Engineering",
@@ -51803,6 +51820,13 @@
         "id": "ashby:8bc7e9ed-f0a3-41b0-9aee-56a050a08a29",
         "url": "https://jobs.ashbyhq.com/hadrian-automation/8bc7e9ed-f0a3-41b0-9aee-56a050a08a29",
         "location": "Los Angeles, CA"
+      },
+      {
+        "title": "Director, Forward Deployed Supply Chain",
+        "date": "2026-11-16",
+        "id": "ashby:96a2c7db-72dc-423e-802f-d1c8328b146a",
+        "url": "https://jobs.ashbyhq.com/hadrian-automation/96a2c7db-72dc-423e-802f-d1c8328b146a",
+        "location": "Los Angeles, CA"
       }
     ],
     "Saildrone": [
@@ -55708,8 +55732,7 @@
         "date": "2026-10-14",
         "id": "workday:R7963",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer_R7963",
-        "location": "USA Wilmington, MA - HQ",
-        "closed": "2026-11-16"
+        "location": "USA Wilmington, MA - HQ"
       },
       {
         "title": "Cell Operator",
@@ -57787,13 +57810,11 @@
         "date": "2026-10-19",
         "id": "workday:JR00050251",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-TN-Mount-Juliet/Maintenance-Technician_JR00050251",
-        "location": "USA, TN, Mount Juliet",
-        "closed": "2026-11-16"
+        "location": "USA, TN, Mount Juliet"
       },
       {
         "title": "Maintenance Technician",
-        "date": "2026-10-19",
-        "closed": "2026-11-16"
+        "date": "2026-10-19"
       },
       {
         "title": "Wastewater Technician",
@@ -58385,7 +58406,8 @@
         "date": "N/A",
         "id": "workday:JR00050436-1",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bangalore-Karnataka-India/Market-Readiness-Lead_JR00050436-1",
-        "location": "9 Locations"
+        "location": "9 Locations",
+        "closed": "2026-11-16"
       },
       {
         "title": "Machine Operator - 3rd Shift",
@@ -60013,7 +60035,8 @@
         "date": "N/A",
         "id": "workday:JR00032715",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-IL-Home-Office/Metallurgy-Area-Sales-Manager---North-America_JR00032715",
-        "location": "4 Locations"
+        "location": "4 Locations",
+        "closed": "2026-11-16"
       },
       {
         "title": "National Sales Manager, US",
@@ -61424,6 +61447,34 @@
         "id": "workday:JR00051192",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MS-Senatobia/Maintenance-PLC-Programmer_JR00051192",
         "location": "USA, MS, Senatobia"
+      },
+      {
+        "title": "1st Shift Elbows Team Lead",
+        "date": "2026-11-16",
+        "id": "workday:JR00052286",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-AR-Jonesboro/XMLNAME-1st-Shift-Elbows-Team-Lead_JR00052286",
+        "location": "USA, AR, Jonesboro"
+      },
+      {
+        "title": "Finance Analyst",
+        "date": "2026-11-16",
+        "id": "workday:JR00046949",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/New-Berlin-Wisconsin-United-States-of-America/Finance-Analyst_JR00046949",
+        "location": "New Berlin, Wisconsin, United States of America"
+      },
+      {
+        "title": "Press / Extrusion Set-Up",
+        "date": "2026-11-16",
+        "id": "workday:JR00050977-1",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Ormond-Beach-Florida-United-States-of-America/Press---Extrusion-Set-Up_JR00050977-1",
+        "location": "Ormond Beach, Florida, United States of America"
+      },
+      {
+        "title": "Field Service Manager - Emergency",
+        "date": "2026-11-16",
+        "id": "workday:JR00049047",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MI-Auburn-Hills/Field-Service-Manager---Emergency_JR00049047",
+        "location": "USA, MI, Auburn Hills"
       }
     ],
     "Teradyne": [
@@ -71179,6 +71230,13 @@
         "id": "greenhouse:5033813101",
         "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=5033813101&gh_jid=5033813101",
         "location": "Hatfield, United Kingdom"
+      },
+      {
+        "title": "Automation Technician",
+        "date": "2026-11-16",
+        "id": "greenhouse:5039487101",
+        "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=5039487101&gh_jid=5039487101",
+        "location": "Forest Park, Georgia,United States"
       }
     ],
     "Northrop Grumman": [
@@ -71693,6 +71751,13 @@
         "id": "workday:R10260895",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Georgia-Warner-Robins/XMLNAME-2027-Engineering-Intern---Warner-Robins-GA_R10260895",
         "location": "United States-Georgia-Warner Robins"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Mechanical Engineer Intern - Ocean Springs MS",
+        "date": "2026-11-16",
+        "id": "workday:R10255000-1",
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Mississippi-Ocean-Springs/XMLNAME-2027-Mechanical-Engineer-Intern---Ocean-Springs-MS_R10255000-1",
+        "location": "United States-Mississippi-Ocean Springs"
       }
     ],
     "OpenAI": [
@@ -78879,7 +78944,8 @@
         "date": "2026-11-13",
         "id": "ashby:a3ee806c-74c3-4e51-a773-203555f885fe",
         "url": "https://jobs.ashbyhq.com/openai/a3ee806c-74c3-4e51-a773-203555f885fe",
-        "location": "London, UK"
+        "location": "London, UK",
+        "closed": "2026-11-16"
       },
       {
         "title": "Customer Success Manager, Ads Solutions",
@@ -104057,8 +104123,7 @@
         "date": "N/A",
         "id": "oraclehcm:41124",
         "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41124",
-        "location": "United States",
-        "closed": "2026-11-13"
+        "location": "United States"
       },
       {
         "title": "\u2b50\ufe0f PIC Process Integration Intern",
@@ -104119,6 +104184,13 @@
         "date": "2026-11-16",
         "id": "oraclehcm:41935",
         "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41935",
+        "location": "United States"
+      },
+      {
+        "title": "\u2b50\ufe0f Mechanical Design Intern",
+        "date": "2026-11-16",
+        "id": "oraclehcm:41816",
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41816",
         "location": "United States"
       }
     ],
@@ -119618,30 +119690,6 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
-    },
-    "Unity": {
-      "since": "2026-11-16",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
-    },
-    "Razer": {
-      "since": "2026-11-16",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
-    },
-    "Samsung": {
-      "since": "2026-11-16",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
-    },
-    "General Motors": {
-      "since": "2026-11-16",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
-    },
-    "ABB": {
-      "since": "2026-11-16",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
-    },
-    "Oshkosh": {
-      "since": "2026-11-16",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs"
     }
   },
   "closures_untracked": {
