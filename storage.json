@@ -85252,7 +85252,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5407938008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5407938008",
-        "location": "San Francisco, CA | New York City, NY"
+        "location": "San Francisco, CA | New York City, NY",
+        "closed": "2026-11-15"
       },
       {
         "title": "Partnerships Manager, US Public Health",
@@ -85654,7 +85655,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5431285008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5431285008",
-        "location": "San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC"
+        "location": "San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
+        "closed": "2026-11-15"
       },
       {
         "title": "Program Specialist, M&A",
@@ -118130,6 +118132,13 @@
         "id": "lever:8a7c64cd-9f9a-493a-a274-5ca803c0195c",
         "url": "https://jobs.lever.co/tutorintelligence/8a7c64cd-9f9a-493a-a274-5ca803c0195c",
         "location": "Watertown, MA"
+      },
+      {
+        "title": "Production Program Manager \u2013 Robotics Assembly",
+        "date": "2026-11-15",
+        "id": "lever:fff04151-6936-436d-ae3e-d1b6d6aee659",
+        "url": "https://jobs.lever.co/tutorintelligence/fff04151-6936-436d-ae3e-d1b6d6aee659",
+        "location": "Watertown, MA"
       }
     ]
   },
@@ -118471,6 +118480,26 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
+    },
+    "Salesforce": {
+      "since": "2026-11-15",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs"
+    },
+    "Bose": {
+      "since": "2026-11-15",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://boseallaboutme.wd503.myworkdayjobs.com/wday/cxs/boseallaboutme/Bose_Careers/jobs"
+    },
+    "PROCEPT BioRobotics": {
+      "since": "2026-11-15",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://proceptbiorobotics.wd108.myworkdayjobs.com/wday/cxs/proceptbiorobotics/PROCEPT/jobs"
+    },
+    "Symbotic": {
+      "since": "2026-11-15",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://symbotic.wd504.myworkdayjobs.com/wday/cxs/symbotic/Symbotic/jobs"
+    },
+    "Slate Auto": {
+      "since": "2026-11-15",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
     }
   },
   "closures_untracked": {
