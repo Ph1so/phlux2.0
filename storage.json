@@ -905,8 +905,7 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557022480",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557022480",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-16"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Supply Chain Program Management Intern",
@@ -1213,8 +1212,7 @@
         "date": "2026-11-02",
         "id": "eightfold:1970393557052982",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557052982",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-16"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer: Internship Opportunities",
@@ -1292,8 +1290,7 @@
         "date": "2026-11-13",
         "id": "eightfold:1970393557073455",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-16"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Marketing MBA Internship Opportunities, United States",
@@ -3722,7 +3719,8 @@
         "date": "2026-11-03",
         "id": "meta:1450222650641899",
         "url": "https://www.metacareers.com/profile/job_details/1450222650641899/",
-        "location": "Sunnyvale, CA"
+        "location": "Sunnyvale, CA",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, Humanoid Control & Dexterous Manipulation (PhD)",
@@ -9002,6 +9000,13 @@
         "id": "lever:3a7510ff-7cef-4d6e-8c32-0b6e6b8a2476",
         "url": "https://jobs.lever.co/tri/3a7510ff-7cef-4d6e-8c32-0b6e6b8a2476",
         "location": "Cambridge, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Robotics Intern, World Models, Multimodal Sensing",
+        "date": "2026-11-16",
+        "id": "lever:c6569529-4b6b-4229-b2c9-f97467c26cd3",
+        "url": "https://jobs.lever.co/tri/c6569529-4b6b-4229-b2c9-f97467c26cd3",
+        "location": "Cambridge, MA"
       }
     ],
     "Mitsubishi Electric Research Laboratories": [
@@ -14133,6 +14138,13 @@
         "id": "greenhouse:6261282004",
         "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6261282004",
         "location": "Onsite- Salem, OR"
+      },
+      {
+        "title": "Senior Manager, Global Supply Management",
+        "date": "2026-11-16",
+        "id": "greenhouse:6261294004",
+        "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6261294004",
+        "location": "Hybrid- Fremont, CA"
       }
     ],
     "Cobot": [
@@ -16972,7 +16984,8 @@
         "date": "2026-10-16",
         "id": "greenhouse:6227425004",
         "url": "https://boards.greenhouse.io/apptronik/jobs/6227425004?gh_jid=6227425004",
-        "location": "Remote US"
+        "location": "Remote US",
+        "closed": "2026-11-16"
       },
       {
         "title": "CoRL 2026 - Robotics & AI Talent",
@@ -28781,6 +28794,13 @@
         "id": "lever:63e31038-09c5-4722-bb5f-43c8dd33fb40",
         "url": "https://jobs.lever.co/rai/63e31038-09c5-4722-bb5f-43c8dd33fb40",
         "location": "Zurich"
+      },
+      {
+        "title": "Administration Manager",
+        "date": "2026-11-16",
+        "id": "lever:e9b44d46-321f-48dc-863e-b37b2a4cd3b9",
+        "url": "https://jobs.lever.co/rai/e9b44d46-321f-48dc-863e-b37b2a4cd3b9",
+        "location": "Zurich"
       }
     ],
     "Sunday": [
@@ -29678,6 +29698,13 @@
         "date": "2026-11-16",
         "id": "greenhouse:5261735007",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5261735007?gh_jid=5261735007",
+        "location": "Costa Mesa, California, United States"
+      },
+      {
+        "title": "2027 Early Career Test & Evaluation Operations Analyst",
+        "date": "2026-11-16",
+        "id": "greenhouse:5296757007",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5296757007?gh_jid=5296757007",
         "location": "Costa Mesa, California, United States"
       }
     ],
@@ -31578,7 +31605,8 @@
         "date": "2026-10-09",
         "id": "greenhouse:8019312003",
         "url": "https://job-boards.greenhouse.io/diligentrobotics/jobs/8019312003",
-        "location": "Memphis, Tennessee, United States"
+        "location": "Memphis, Tennessee, United States",
+        "closed": "2026-11-16"
       },
       {
         "title": "Hardware R&D Tech Lead",
@@ -32532,6 +32560,13 @@
         "id": "greenhouse:5293922007",
         "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5293922007",
         "location": "Torrance, California, United States"
+      },
+      {
+        "title": "Air Force Business Development Manager",
+        "date": "2026-11-16",
+        "id": "greenhouse:5279763007",
+        "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5279763007",
+        "location": "Remote"
       }
     ],
     "Lyft": [
@@ -33828,7 +33863,8 @@
         "date": "2026-10-21",
         "id": "greenhouse:8901115002",
         "url": "https://app.careerpuck.com/job-board/lyft/job/8901115002?gh_jid=8901115002",
-        "location": "San Francisco, CA"
+        "location": "San Francisco, CA",
+        "closed": "2026-11-16"
       },
       {
         "title": "Data Scientist, Decisions - Payments",
@@ -35214,7 +35250,8 @@
         "date": "2026-10-22",
         "id": "greenhouse:8197554",
         "url": "https://careers.withwaymo.com/jobs?gh_jid=8197554",
-        "location": "Mountain View, California, United States | San Francisco, California, United States"
+        "location": "Mountain View, California, United States | San Francisco, California, United States",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern, PhD, AI Foundations - Recipes",
@@ -44186,6 +44223,13 @@
         "id": "ashby:b0de3fd2-fb06-48d4-adf9-c7964e1cbc55",
         "url": "https://jobs.ashbyhq.com/physicalintelligence/b0de3fd2-fb06-48d4-adf9-c7964e1cbc55",
         "location": "San Francisco"
+      },
+      {
+        "title": "ML Infra Engineer, Compute",
+        "date": "2026-11-16",
+        "id": "ashby:e81c8b57-4a6c-4d24-a166-e2c881718fdc",
+        "url": "https://jobs.ashbyhq.com/physicalintelligence/e81c8b57-4a6c-4d24-a166-e2c881718fdc",
+        "location": "San Francisco"
       }
     ],
     "The Bot Company": [
@@ -52582,6 +52626,13 @@
         "date": "2026-11-10",
         "id": "rippling:307979c5-973c-448e-a6ee-7fd798b3b3b2",
         "url": "https://ats.rippling.com/mytra/jobs/307979c5-973c-448e-a6ee-7fd798b3b3b2",
+        "location": "Brisbane, CA"
+      },
+      {
+        "title": "Software Engineer",
+        "date": "2026-11-16",
+        "id": "rippling:c56c1efe-84a1-48b0-825a-b837d34602ff",
+        "url": "https://ats.rippling.com/mytra/jobs/c56c1efe-84a1-48b0-825a-b837d34602ff",
         "location": "Brisbane, CA"
       }
     ],
@@ -61475,6 +61526,20 @@
         "id": "workday:JR00049047",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MI-Auburn-Hills/Field-Service-Manager---Emergency_JR00049047",
         "location": "USA, MI, Auburn Hills"
+      },
+      {
+        "title": "Water Market Specialist - Metering & AMI",
+        "date": "2026-11-16",
+        "id": "workday:JR00052492",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Illinois-United-States-of-America/Water-Market-Specialist---Metering---AMI_JR00052492",
+        "location": "6 Locations"
+      },
+      {
+        "title": "Master Data Analyst",
+        "date": "2026-11-16",
+        "id": "workday:JR00053070",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bartlesville-Oklahoma-United-States-of-America/Master-Data-Analyst_JR00053070",
+        "location": "Bartlesville, Oklahoma, United States of America"
       }
     ],
     "Teradyne": [
@@ -71452,7 +71517,8 @@
         "date": "2026-10-22",
         "id": "workday:R10257311",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311",
-        "location": "United States-Texas-San Antonio"
+        "location": "United States-Texas-San Antonio",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f 2027 Business Management Intern",
@@ -74171,7 +74237,8 @@
         "date": "2026-10-22",
         "id": "ashby:0b80474f-6438-4b41-94e4-0e653c7e3457",
         "url": "https://jobs.ashbyhq.com/openai/0b80474f-6438-4b41-94e4-0e653c7e3457",
-        "location": "Dublin, Ireland"
+        "location": "Dublin, Ireland",
+        "closed": "2026-11-16"
       },
       {
         "title": "Customer Success Manager - Ads Solutions (Spanish speaking)",
@@ -76073,7 +76140,8 @@
         "date": "2026-10-22",
         "id": "ashby:6d7ece77-bf25-4f5e-9a84-c5ce26e18c37",
         "url": "https://jobs.ashbyhq.com/openai/6d7ece77-bf25-4f5e-9a84-c5ce26e18c37",
-        "location": "US - Remote"
+        "location": "US - Remote",
+        "closed": "2026-11-16"
       },
       {
         "title": "Infrastructure Communications Lead",
@@ -78944,8 +79012,7 @@
         "date": "2026-11-13",
         "id": "ashby:a3ee806c-74c3-4e51-a773-203555f885fe",
         "url": "https://jobs.ashbyhq.com/openai/a3ee806c-74c3-4e51-a773-203555f885fe",
-        "location": "London, UK",
-        "closed": "2026-11-16"
+        "location": "London, UK"
       },
       {
         "title": "Customer Success Manager, Ads Solutions",
@@ -79107,6 +79174,13 @@
         "id": "ashby:696bb5ff-f840-4a5e-928f-e338b52b2014",
         "url": "https://jobs.ashbyhq.com/openai/696bb5ff-f840-4a5e-928f-e338b52b2014",
         "location": "Dublin, Ireland"
+      },
+      {
+        "title": "Researcher, Frontier Robustness",
+        "date": "2026-11-16",
+        "id": "ashby:ff2490f4-84db-4c2e-b41f-8247e5613601",
+        "url": "https://jobs.ashbyhq.com/openai/ff2490f4-84db-4c2e-b41f-8247e5613601",
+        "location": "San Francisco"
       }
     ],
     "John Deere": [
@@ -82472,6 +82546,13 @@
         "id": "eightfold:996477969486",
         "url": "https://lockheedmartin.eightfold.ai/careers/job/996477969486",
         "location": "Titusville, FL"
+      },
+      {
+        "title": "\u2b50\ufe0f Systems Engineer (Network & Enterprise Services) Intern",
+        "date": "2026-11-16",
+        "id": "eightfold:996477969048",
+        "url": "https://lockheedmartin.eightfold.ai/careers/job/996477969048",
+        "location": "Colorado Springs, CO"
       }
     ],
     "Vecna Robotics": [
@@ -88645,7 +88726,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5416696008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5416696008",
-        "location": "San Francisco, CA | New York City, NY"
+        "location": "San Francisco, CA | New York City, NY",
+        "closed": "2026-11-16"
       },
       {
         "title": "Warehouse and Logistics Manager - North America",
@@ -89465,6 +89547,13 @@
         "id": "greenhouse:5481842008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5481842008",
         "location": "New York City, NY; San Francisco, CA | New York City, NY"
+      },
+      {
+        "title": "Research Engineer, AI Monitoring",
+        "date": "2026-11-16",
+        "id": "greenhouse:5477416008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5477416008",
+        "location": "London, UK"
       }
     ],
     "xAI": [
@@ -95184,7 +95273,8 @@
         "date": "2026-11-02",
         "id": "workday:R49750",
         "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Marketing-Intern--Year-Round-_R49750",
-        "location": "Appleton, Wisconsin, United States"
+        "location": "Appleton, Wisconsin, United States",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Materials Management Intern (Summer 2027 or Year Round)",
@@ -104192,6 +104282,13 @@
         "id": "oraclehcm:41816",
         "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41816",
         "location": "United States"
+      },
+      {
+        "title": "\u2b50\ufe0f New Product Introduction (NPI) Specialist Summer Intern",
+        "date": "2026-11-16",
+        "id": "oraclehcm:41999",
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41999",
+        "location": "United States"
       }
     ],
     "Expedia": [
@@ -109292,7 +109389,8 @@
         "date": "N/A",
         "id": "workday:R26-8236-2",
         "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Cambridge-Ontario-Canada/Co-op--Warehouse-Engineering_R26-8236-2",
-        "location": "Cambridge, Ontario, Canada"
+        "location": "Cambridge, Ontario, Canada",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Co-op, User Experience - Robotics (Jan - Apr 2027)",
@@ -112871,6 +112969,13 @@
         "id": "workday:R-00196657",
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Atlantic-City-NJ/Integration-and-Test-Engineer-Intern_R-00196657",
         "location": "Atlantic City, NJ"
+      },
+      {
+        "title": "\u2b50\ufe0f Cybersecurity Intern",
+        "date": "2026-11-16",
+        "id": "workday:R-00197087",
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Cybersecurity-Intern_R-00197087",
+        "location": "Fort Belvoir, VA"
       }
     ],
     "Radix Trading": [
@@ -114091,49 +114196,56 @@
         "date": "N/A",
         "id": "workday:R0000449839",
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1100-S-Willow-Ave-CookevilleTN-38501-4139/Store-Executive-Intern--Store-Leadership-Intern----Knoxville--TN--Starting-Summer-2027-_R0000449839",
-        "location": "1100 S Willow Ave, Cookeville,TN 38501-4139"
+        "location": "1100 S Willow Ave, Cookeville,TN 38501-4139",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Store Executive Intern (Store Leadership Intern) - Long Island, NY (Starting Summer 2027) \u200b",
         "date": "N/A",
         "id": "workday:R0000447446",
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/3850-Hempstead-Tpke-LevittownNY-11756-1303/Store-Executive-Intern--Store-Leadership-Intern----Long-Island--NY--Starting-Summer-2027---_R0000447446",
-        "location": "20 Locations"
+        "location": "20 Locations",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Store Executive Intern (Store Leadership Intern) - Central Pennsylvania (Starting Summer 2027) \u200b",
         "date": "N/A",
         "id": "workday:R0000447455",
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/4599-Perkiomen-Ave-Reading-PA-19606-3201/Store-Executive-Intern--Store-Leadership-Intern----Central-Pennsylvania--Starting-Summer-2027---_R0000447455",
-        "location": "8 Locations"
+        "location": "8 Locations",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Store Executive Intern (Store Leadership Intern) - New York City, NY (Starting Summer 2027) \u200b",
         "date": "N/A",
         "id": "workday:R0000447441",
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/400-Grand-St-New-YorkNY-10002-3949/Store-Executive-Intern--Store-Leadership-Intern----New-York-City--NY--Starting-Summer-2027---_R0000447441",
-        "location": "33 Locations"
+        "location": "33 Locations",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Store Executive Intern (Store Leadership Intern) - New Jersey (Starting Summer 2027) \u200b",
         "date": "N/A",
         "id": "workday:R0000447448",
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/400-Ryders-Ln-MilltownNJ-08850-1700/Store-Executive-Intern--Store-Leadership-Intern----New-Jersey--Starting-Summer-2027---_R0000447448",
-        "location": "31 Locations"
+        "location": "31 Locations",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Store Executive Intern (Store Leadership Intern) - D.C & Maryland (Starting Summer 2027) \u200b",
         "date": "N/A",
         "id": "workday:R0000447453",
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/3500-East-West-Hwy-Ste-1200-HyattsvilleMD-20782-5003/Store-Executive-Intern--Store-Leadership-Intern----DC---Maryland--Starting-Summer-2027---_R0000447453",
-        "location": "5 Locations"
+        "location": "5 Locations",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Store Executive Intern (Store Leadership Intern) - Virginia (Starting Summer 2027) \u200b",
         "date": "N/A",
         "id": "workday:R0000447451",
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/4521-S-Laburnum-Ave-RichmondVA-23231-2421/Store-Executive-Intern--Store-Leadership-Intern----Virginia--Starting-Summer-2027---_R0000447451",
-        "location": "10 Locations"
+        "location": "10 Locations",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f UX Design Internship - Minneapolis, MN (Starting Summer, 2027)",
@@ -114175,7 +114287,8 @@
         "date": "N/A",
         "id": "workday:R0000448581",
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/900-Metropolitan-Ave-Ste-2Charlotte-NC-28204-3262/Store-Executive-Intern--Store-Leadership-Intern----Charlotte--NC--Starting-Summer-2027---_R0000448581",
-        "location": "5 Locations"
+        "location": "5 Locations",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Store Executive Intern (Store Leadership Intern) - Orlando, FL (Starting Summer 2027)",
@@ -114566,14 +114679,16 @@
         "date": "N/A",
         "id": "workday:R0000449831",
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/2539-Piedmont-Rd-NE-Atlanta-GA-30324-3006/Store-Executive-Intern--Store-Leadership-Intern----Atlanta--GA--Starting-Summer-2027-_R0000449831",
-        "location": "7 Locations"
+        "location": "7 Locations",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Store Executive Intern (Store Leadership Intern) \u2013 Nashville, TN (Starting Summer 2027)",
         "date": "N/A",
         "id": "workday:R0000449814",
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1701-Galleria-Blvd-FranklinTN-37067-1602/Store-Executive-Intern--Store-Leadership-Intern----Nashville--TN--Starting-Summer-2027-_R0000449814",
-        "location": "3 Locations"
+        "location": "3 Locations",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Store Executive Intern (Store Leadership Intern) \u2013 St Louis, MO (Starting Summer 2027)",
@@ -114784,7 +114899,8 @@
         "date": "N/A",
         "id": "greenhouse:7993004",
         "url": "https://job-boards.greenhouse.io/drweng/jobs/7993004",
-        "location": "Chicago, IL"
+        "location": "Chicago, IL",
+        "closed": "2026-11-16"
       }
     ],
     "Amentum": [
@@ -115464,6 +115580,13 @@
         "date": "N/A",
         "id": "ashby:ca559bda-f67e-4bbd-a9d8-4737b5fe02e0",
         "url": "https://jobs.ashbyhq.com/northwoodspace/ca559bda-f67e-4bbd-a9d8-4737b5fe02e0",
+        "location": "Torrance, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Electrical Engineering Intern (2027 Summer Internship)",
+        "date": "2026-11-16",
+        "id": "ashby:1bc230b1-5ad2-44b8-ad61-e80a730e5026",
+        "url": "https://jobs.ashbyhq.com/northwoodspace/1bc230b1-5ad2-44b8-ad61-e80a730e5026",
         "location": "Torrance, CA"
       }
     ],
@@ -119690,6 +119813,14 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
+    },
+    "Disney": {
+      "since": "2026-11-16",
+      "error": "ValueError: No #search-results section: not a TalentBrew search page"
+    },
+    "Honda Research Insitute": {
+      "since": "2026-11-16",
+      "error": "ReadTimeout: HTTPSConnectionPool(host='usa.honda-ri.com', port=443): Read timed out. (read timeout=30)"
     }
   },
   "closures_untracked": {
