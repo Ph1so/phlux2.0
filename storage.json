@@ -851,8 +851,7 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557040502",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557040502",
-        "location": "United States, Massachusetts, Cambridge +1",
-        "closed": "2026-11-16"
+        "location": "United States, Massachusetts, Cambridge +1"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Audio and Acoustics",
@@ -983,8 +982,7 @@
         "date": "2026-10-14",
         "id": "eightfold:1970393557041012",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557041012",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-16"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Researcher Intern, CoreAI",
@@ -1006,8 +1004,7 @@
         "date": "2026-10-16",
         "id": "eightfold:1970393557041730",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557045445",
-        "location": "United States, Washington, Redmond +1",
-        "closed": "2026-11-16"
+        "location": "United States, Washington, Redmond +1"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Machine Learning at MSR NYC",
@@ -1035,8 +1032,7 @@
         "date": "2026-10-19",
         "id": "eightfold:1970393557043754",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557043754",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-16"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Business Program Management INTERN",
@@ -1258,8 +1254,7 @@
         "date": "2026-11-13",
         "id": "eightfold:1970393556986148",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556986148",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-16"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - AI Coding Agents",
@@ -18518,7 +18513,9 @@
         "title": "Robot Service Technician Assistant (Weekends, PM Shift)",
         "date": "2026-09-28",
         "id": "greenhouse:4421756009",
-        "closed": "N/A"
+        "url": "https://job-boards.greenhouse.io/avride/jobs/4421756009",
+        "location": "Wilmington, North Carolina",
+        "early": "and we are hiring a motivated, entry-level Robot Service Technician Assistant to support this exciting deployment."
       },
       {
         "title": "Robot Service Technician \u2013 Full Time/Contract (Monday-Friday PM)",
@@ -28254,6 +28251,20 @@
         "id": "smartrecruiters:744000161339309",
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161339309",
         "location": "Sunnyvale, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Intern: Multimodal Foundation Models for Healthcare",
+        "date": "2026-11-16",
+        "id": "smartrecruiters:744000161844052",
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161844052",
+        "location": "Pittsburgh, PA"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Intern: Multimodal Sensor Foundation Models",
+        "date": "2026-11-16",
+        "id": "smartrecruiters:744000161841434",
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161841434",
+        "location": "Pittsburgh, PA"
       }
     ],
     "Intrinsic": [
@@ -32762,7 +32773,8 @@
         "date": "N/A",
         "id": "greenhouse:8780060002",
         "url": "https://app.careerpuck.com/job-board/lyft/job/8780060002?gh_jid=8780060002",
-        "location": "Cleveland, OH"
+        "location": "Cleveland, OH",
+        "closed": "2026-11-16"
       },
       {
         "title": "Operations Associate - Flexdrive",
@@ -33051,7 +33063,8 @@
         "date": "N/A",
         "id": "greenhouse:8639200002",
         "url": "https://app.careerpuck.com/job-board/lyft/job/8639200002?gh_jid=8639200002",
-        "location": "San Francisco, CA"
+        "location": "San Francisco, CA",
+        "closed": "2026-11-16"
       },
       {
         "title": "Senior AI Software Engineer, Risk - Insurance Claims Management",
@@ -42005,7 +42018,8 @@
         "date": "N/A",
         "id": "google:112725365423514310",
         "url": "https://www.google.com/about/careers/applications/jobs/results/112725365423514310",
-        "location": "Mountain View, CA"
+        "location": "Mountain View, CA",
+        "closed": "2026-11-16"
       },
       {
         "title": "Impact Portfolio Lead, Health, DeepMind",
@@ -43365,6 +43379,13 @@
         "id": "google:97546513718092486",
         "url": "https://www.google.com/about/careers/applications/jobs/results/97546513718092486",
         "location": "London, UK"
+      },
+      {
+        "title": "Product Manager, Cyber Gemini, DeepMind",
+        "date": "2026-11-16",
+        "id": "google:84304545428972230",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/84304545428972230",
+        "location": "Mountain View, CA +2"
       }
     ],
     "Wing": [
@@ -54913,6 +54934,48 @@
         "id": "workday:R-110651",
         "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Shanghai-China/ICO_R-110651",
         "location": "Shanghai, China"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern Market Access",
+        "date": "2026-11-16",
+        "id": "workday:R-111356-1",
+        "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Zug-Switzerland/Intern-Market-Access_R-111356-1",
+        "location": "Zug, Switzerland"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern Medical Affairs Immunology",
+        "date": "2026-11-16",
+        "id": "workday:R-110221",
+        "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Zug-Switzerland/Intern-Medical-Affairs-Immunology_R-110221",
+        "location": "Zug, Switzerland"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern (w/m/d) Medical Affairs",
+        "date": "2026-11-16",
+        "id": "workday:R-110409-1",
+        "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Zug-Switzerland/Intern--w-m-d--Medical-Affairs_R-110409-1",
+        "location": "Zug, Switzerland"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern (w/m/d) Health Economics and Market Access (HEMA)",
+        "date": "2026-11-16",
+        "id": "workday:R-110160",
+        "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Zug-Switzerland/Intern--w-m-d--Health-Economics-and-Market-Access--HEMA-_R-110160",
+        "location": "Zug, Switzerland"
+      },
+      {
+        "title": "\u2b50\ufe0f Marketing & Sales Intern",
+        "date": "2026-11-16",
+        "id": "workday:R-109016-1",
+        "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Zug-Switzerland/Marketing---Sales-Intern_R-109016-1",
+        "location": "Zug, Switzerland"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern Global Growth Marketing Trauma",
+        "date": "2026-11-16",
+        "id": "workday:R-110740",
+        "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Zuchwil-Switzerland/Intern-Global-Growth-Marketing-Trauma_R-110740",
+        "location": "Zuchwil, Switzerland"
       }
     ],
     "PlusAI": [
@@ -55689,7 +55752,8 @@
         "date": "2026-10-22",
         "id": "workday:R8162",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Remote--Travel/Manager--Commercial-Excellence-Installation-Programs_R8162",
-        "location": "USA Remote & Travel"
+        "location": "USA Remote & Travel",
+        "closed": "2026-11-16"
       },
       {
         "title": "Principal Industrial Controls Engineer",
@@ -56289,8 +56353,7 @@
         "date": "2026-11-10",
         "id": "workday:R8467",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Manchester-PA/Automation-Maintenance-Technician_R8467",
-        "location": "USA Manchester, PA",
-        "closed": "2026-11-12"
+        "location": "USA Manchester, PA"
       },
       {
         "title": "Senior Software Systems Engineer",
@@ -57163,8 +57226,7 @@
         "date": "2026-10-15",
         "id": "workday:JR00047109",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Ohio-United-States-of-America/Business-Development-Manager---Industrial-Machinery_JR00047109",
-        "location": "47 Locations",
-        "closed": "2026-11-13"
+        "location": "47 Locations"
       },
       {
         "title": "Associate Project Engineer - Automation",
@@ -57423,8 +57485,7 @@
         "date": "2026-10-19",
         "id": "workday:JR00043863",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-New-Jersey-United-States-of-America/Sales-Applications-Specialist_JR00043863",
-        "location": "5 Locations",
-        "closed": "2026-11-16"
+        "location": "5 Locations"
       },
       {
         "title": "Executive Administrative Assistant",
@@ -63489,7 +63550,8 @@
         "date": "2026-10-17",
         "id": "successfactors:1365199355",
         "url": "https://jobs.kuka.com/job/Chicago-Estimator-%28Estimating-Engineer%29-ND/1365199355/",
-        "location": "Chicago"
+        "location": "Chicago",
+        "closed": "2026-11-16"
       },
       {
         "title": "Field Service Engineer - Washington, D.C.",
@@ -64404,6 +64466,20 @@
         "date": "2026-11-13",
         "id": "adp:575622",
         "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=575622&lang=en_US",
+        "location": "Houston, TX"
+      },
+      {
+        "title": "\u2b50\ufe0f Simulation and Modeling Software Intern",
+        "date": "2026-11-16",
+        "id": "adp:575683",
+        "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=575683&lang=en_US",
+        "location": "Houston, TX"
+      },
+      {
+        "title": "\u2b50\ufe0f Flight Software Intern",
+        "date": "2026-11-16",
+        "id": "adp:575682",
+        "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=575682&lang=en_US",
         "location": "Houston, TX"
       }
     ],
@@ -78942,7 +79018,8 @@
         "date": "2026-10-22",
         "id": "lever:d8277a1c-bb21-4473-85c6-e9ae35c0f9d3",
         "url": "https://jobs.eu.lever.co/mobileye/d8277a1c-bb21-4473-85c6-e9ae35c0f9d3",
-        "location": "Jerusalem, Israel"
+        "location": "Jerusalem, Israel",
+        "closed": "2026-11-16"
       },
       {
         "title": "AI Algorithm Engineer - Vision Localization Group",
@@ -79205,7 +79282,8 @@
         "date": "2026-10-22",
         "id": "lever:032848ce-2904-4aeb-9caf-3374ddbe8ac4",
         "url": "https://jobs.eu.lever.co/mobileye/032848ce-2904-4aeb-9caf-3374ddbe8ac4",
-        "location": "Jerusalem, Israel"
+        "location": "Jerusalem, Israel",
+        "closed": "2026-11-16"
       },
       {
         "title": "AV Production Analysis",
@@ -80144,7 +80222,8 @@
         "date": "2026-11-05",
         "id": "lever:9c57eb67-ad02-455f-a13e-c113e0963405",
         "url": "https://jobs.eu.lever.co/mobileye/9c57eb67-ad02-455f-a13e-c113e0963405",
-        "location": "Jerusalem, Israel"
+        "location": "Jerusalem, Israel",
+        "closed": "2026-11-16"
       },
       {
         "title": "Senior Backend Python Developer",
@@ -81059,7 +81138,8 @@
         "date": "N/A",
         "id": "eightfold:996477889264",
         "url": "https://lockheedmartin.eightfold.ai/careers/job/996477889264",
-        "location": "Owego, NY"
+        "location": "Owego, NY",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f College Student - Quality Engineer Intern - Dallas Texas",
@@ -93041,6 +93121,13 @@
         "id": "workday:JR101681",
         "url": "https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Warsaw-Indiana/Slate-Auto-Team-Member---Crew-B--Wed-Sat-7pm---5-30am-_JR101681",
         "location": "Warsaw, Indiana"
+      },
+      {
+        "title": "Skilled Trades Maintenance Technician",
+        "date": "2026-11-16",
+        "id": "workday:JR100689",
+        "url": "https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Warsaw-Indiana/Skilled-Trades-Maintenance-Technician_JR100689",
+        "location": "Warsaw, Indiana"
       }
     ],
     "Beyond Reach Labs": [
@@ -103522,6 +103609,20 @@
         "id": "avature:216515",
         "url": "https://jobs.ea.com/en_US/careers/JobDetail/MBA-Intern-Platform-Strategy-Summer-2027/216515",
         "location": "Redwood City"
+      },
+      {
+        "title": "\u2b50\ufe0f Product Management Intern, Fan Care Community Care - Summer 2027",
+        "date": "2026-11-16",
+        "id": "avature:216182",
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern-Fan-Care-Community-Care-Summer-2027/216182",
+        "location": "Austin"
+      },
+      {
+        "title": "\u2b50\ufe0f Strategy & Program Management Intern, Fan Care Community Care - Summer 2027",
+        "date": "2026-11-16",
+        "id": "avature:216184",
+        "url": "https://jobs.ea.com/en_US/careers/JobDetail/Strategy-Program-Management-Intern-Fan-Care-Community-Care-Summer-2027/216184",
+        "location": "Austin"
       }
     ],
     "Dassault Systems": [
@@ -107044,7 +107145,8 @@
         "date": "N/A",
         "id": "jibe:11148",
         "url": "https://careers.sig.com/jobs/11148",
-        "location": "New York, NY"
+        "location": "New York, NY",
+        "closed": "2026-11-16"
       },
       {
         "title": "Senior Business Analyst/Project Manager",
@@ -109107,6 +109209,13 @@
         "date": "2026-11-16",
         "id": "eightfold:563602813827837",
         "url": "https://bostonscientific.eightfold.ai/careers/job/563602813827837",
+        "location": "Marlboro, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Product Data Analyst Intern",
+        "date": "2026-11-16",
+        "id": "eightfold:563602813864319",
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602813864319",
         "location": "Marlboro, MA"
       }
     ],
@@ -114930,7 +115039,8 @@
         "date": "N/A",
         "id": "phenom:R118015",
         "url": "https://careers.mitre.org/us/en/job/R118015/Intel-Policy-Strategy-and-Analyst-Intern",
-        "location": "McLean, VA"
+        "location": "McLean, VA",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f SATCOM Intern - Airborne SATCOM & Connectivity",
@@ -115196,7 +115306,8 @@
         "date": "N/A",
         "id": "greenhouse:4468960",
         "url": "https://www.bluerivertechnology.com/job/?gh_jid=4468960",
-        "location": "Remote-US"
+        "location": "Remote-US",
+        "closed": "2026-11-16"
       },
       {
         "title": "Field Test Operator- Excavator",
