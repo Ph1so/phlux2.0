@@ -865,7 +865,8 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557027378",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557027378",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-15"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Intern - CTJ - TS",
@@ -19941,7 +19942,8 @@
         "date": "2026-10-26",
         "id": "ashby:058e3b3a-dd13-4736-84a8-b19d5de2c9f5",
         "url": "https://jobs.ashbyhq.com/aurora-operations-inc/058e3b3a-dd13-4736-84a8-b19d5de2c9f5",
-        "location": "Mountain View, CA +1"
+        "location": "Mountain View, CA +1",
+        "closed": "2026-11-15"
       },
       {
         "title": "\u2b50\ufe0f Full Stack Intern",
@@ -87653,7 +87655,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5149802008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5149802008",
-        "location": "San Francisco, CA"
+        "location": "San Francisco, CA",
+        "closed": "2026-11-15"
       },
       {
         "title": "Treasury Director, Investments & Liquidity",
@@ -97616,7 +97619,8 @@
         "date": "N/A",
         "id": "morganstanley:22271",
         "url": "https://morganstanley.tal.net/vx/candidate/so/pm/1/pl/1/opp/22271",
-        "location": "London, United Kingdom"
+        "location": "London, United Kingdom",
+        "closed": "2026-11-15"
       },
       {
         "title": "\u2b50\ufe0f 2027 Investment Management Summer Analyst Programme - Office of the COO (London)",
@@ -118468,6 +118472,26 @@
     "Slate Auto": {
       "since": "2026-11-15",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
+    },
+    "Salesforce": {
+      "since": "2026-11-15",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs"
+    },
+    "Slack": {
+      "since": "2026-11-15",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/Slack/jobs"
+    },
+    "Expedia": {
+      "since": "2026-11-15",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://expedia.wd108.myworkdayjobs.com/wday/cxs/expedia/search/jobs"
+    },
+    "Verizon": {
+      "since": "2026-11-15",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://verizon.wd12.myworkdayjobs.com/wday/cxs/verizon/verizon-careers/jobs"
+    },
+    "Symbotic": {
+      "since": "2026-11-15",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://symbotic.wd504.myworkdayjobs.com/wday/cxs/symbotic/Symbotic/jobs"
     }
   },
   "closures_untracked": {
