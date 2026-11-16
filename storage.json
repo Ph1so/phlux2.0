@@ -6677,6 +6677,13 @@
         "url": "https://careers.roblox.com/jobs/8315883?gh_jid=8315883",
         "location": "San Mateo, CA, United States",
         "closed": "2026-11-02"
+      },
+      {
+        "title": "[2027] Data Scientist - PhD Early Career - Safety",
+        "date": "2026-11-16",
+        "id": "greenhouse:8384186",
+        "url": "https://careers.roblox.com/jobs/8384186?gh_jid=8384186",
+        "location": "San Mateo, CA, United States"
       }
     ],
     "SpaceX": [
@@ -7675,7 +7682,8 @@
         "date": "2026-10-13",
         "id": "greenhouse:7886320003",
         "url": "https://www.zipline.com/open-roles/7886320003?gh_jid=7886320003",
-        "location": "South San Francisco, California, USA"
+        "location": "South San Francisco, California, USA",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Technical Program Manager Intern (Spring 2027)",
@@ -15187,7 +15195,8 @@
         "date": "N/A",
         "id": "greenhouse:7992102003",
         "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7992102003",
-        "location": "Tucson, AZ"
+        "location": "Tucson, AZ",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Systems Engineering Intern Summer 2027",
@@ -22067,7 +22076,8 @@
         "date": "N/A",
         "id": "lever:07f0834f-06ec-44c7-a24b-3efa08589d38",
         "url": "https://jobs.lever.co/zoox/07f0834f-06ec-44c7-a24b-3efa08589d38",
-        "location": "Foster City, CA +2"
+        "location": "Foster City, CA +2",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Contract Student Worker - Data Analyst (20 hrs/wk)",
@@ -26079,6 +26089,13 @@
         "id": "greenhouse:7896050",
         "url": "https://nuro.ai/careersitem?gh_jid=7896050",
         "location": "Mountain View, California (HQ)"
+      },
+      {
+        "title": "ML Research Scientist, Active Learning",
+        "date": "2026-11-16",
+        "id": "greenhouse:8341046",
+        "url": "https://nuro.ai/careersitem?gh_jid=8341046",
+        "location": "Mountain View, California (HQ)"
       }
     ],
     "Aeva": [
@@ -29725,6 +29742,13 @@
         "id": "greenhouse:5296757007",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5296757007?gh_jid=5296757007",
         "location": "Costa Mesa, California, United States"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Deployment Operations Intern",
+        "date": "2026-11-16",
+        "id": "greenhouse:5296825007",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5296825007?gh_jid=5296825007",
+        "location": "Quincy, Massachusetts, United States"
       }
     ],
     "Matic Robots": [
@@ -30317,6 +30341,20 @@
         "id": "rippling:729692b1-7fbf-4747-a983-c12b3a9a2275",
         "url": "https://ats.rippling.com/forterra/jobs/729692b1-7fbf-4747-a983-c12b3a9a2275",
         "location": "Remote (United States)"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Intern - Electrical Engineer",
+        "date": "2026-11-16",
+        "id": "rippling:bb7de11c-a4ea-4a91-ab98-8b4a36a37311",
+        "url": "https://ats.rippling.com/forterra/jobs/bb7de11c-a4ea-4a91-ab98-8b4a36a37311",
+        "location": "Clarksburg, MD"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Intern - Software",
+        "date": "2026-11-16",
+        "id": "rippling:988bc637-2b57-4e15-b594-b2bb4b545395",
+        "url": "https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395",
+        "location": "Arlington, VA +4"
       }
     ],
     "Pickle Robot": [
@@ -45246,7 +45284,8 @@
         "date": "2026-10-14",
         "id": "ashby:43d931ad-98d9-4ab7-b056-05ce502b7d14",
         "url": "https://jobs.ashbyhq.com/standardbots/43d931ad-98d9-4ab7-b056-05ce502b7d14",
-        "location": "Glen Cove, NY"
+        "location": "Glen Cove, NY",
+        "closed": "2026-11-16"
       },
       {
         "title": "Procurement Specialist",
@@ -46003,6 +46042,13 @@
         "id": "greenhouse:4729606006",
         "url": "https://job-boards.greenhouse.io/formic/jobs/4729606006",
         "location": "Chicago, IL || Bolingbrook, IL"
+      },
+      {
+        "title": "Technical Program Manager",
+        "date": "2026-11-16",
+        "id": "greenhouse:4730086006",
+        "url": "https://job-boards.greenhouse.io/formic/jobs/4730086006",
+        "location": "San Francisco || Oakland, CA"
       }
     ],
     "Waabi": [
@@ -54926,7 +54972,8 @@
         "date": "N/A",
         "id": "workday:R-109288-1",
         "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Madrid-Spain/Customer-Service-Intern_R-109288-1",
-        "location": "Madrid, Spain"
+        "location": "Madrid, Spain",
+        "closed": "2026-11-16"
       },
       {
         "title": "[Innovative Medicine] J&J IM Search & Evaluation\u30a4\u30f3\u30bf\u30fc\u30f3(2027\u5e74)",
@@ -63033,7 +63080,8 @@
         "date": "N/A",
         "id": "successfactors:1398794800",
         "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Senior-Manager%2C-Engineering-Program-Management-%28Teradyne%2C-San-Jose%2C-CA%29-CA-95101/1398794800/",
-        "location": "San Jose, CA"
+        "location": "San Jose, CA",
+        "closed": "2026-11-16"
       },
       {
         "title": "Engineering Project Manager (CTD, North Reading, MA)",
@@ -71948,6 +71996,13 @@
         "id": "workday:R10255000-1",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Mississippi-Ocean-Springs/XMLNAME-2027-Mechanical-Engineer-Intern---Ocean-Springs-MS_R10255000-1",
         "location": "United States-Mississippi-Ocean Springs"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Mechanical Engineer Intern- Redondo beach CA",
+        "date": "2026-11-16",
+        "id": "workday:R10260955-1",
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Mechanical-Engineer-Intern--Redondo-beach-CA_R10260955-1",
+        "location": "United States-California-Redondo Beach"
       }
     ],
     "OpenAI": [
@@ -79164,7 +79219,8 @@
         "date": "2026-11-13",
         "id": "ashby:38e66047-7d81-4347-8e64-2c16bc9a803a",
         "url": "https://jobs.ashbyhq.com/openai/38e66047-7d81-4347-8e64-2c16bc9a803a",
-        "location": "Washington, DC"
+        "location": "Washington, DC",
+        "closed": "2026-11-16"
       },
       {
         "title": "Technical Operations Analyst, User Safety & Risk Operations",
@@ -82691,6 +82747,13 @@
         "id": "eightfold:996477785786",
         "url": "https://lockheedmartin.eightfold.ai/careers/job/996477785786",
         "location": "Littleton, CO"
+      },
+      {
+        "title": "\u2b50\ufe0f ASIC & FPGA Design Engineer - Intern",
+        "date": "2026-11-16",
+        "id": "eightfold:996477613394",
+        "url": "https://lockheedmartin.eightfold.ai/careers/job/996477613394",
+        "location": "Liverpool, NY"
       }
     ],
     "Vecna Robotics": [
@@ -89708,6 +89771,13 @@
         "id": "greenhouse:5482310008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5482310008",
         "location": "San Francisco, CA | New York City, NY"
+      },
+      {
+        "title": "Applied AI Architect, Beneficial Deployments (Non-Profits)",
+        "date": "2026-11-16",
+        "id": "greenhouse:5484035008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5484035008",
+        "location": "San Francisco, CA | New York City, NY"
       }
     ],
     "xAI": [
@@ -92302,6 +92372,13 @@
         "id": "greenhouse:5296414007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5296414007",
         "location": "Sao Paulo, Brazil"
+      },
+      {
+        "title": "Manager, Human Data Operations",
+        "date": "2026-11-16",
+        "id": "greenhouse:5191800007",
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5191800007",
+        "location": "Palo Alto, CA"
       }
     ],
     "Thinking Machines Lab": [
@@ -95556,7 +95633,8 @@
         "date": "2026-11-02",
         "id": "workday:R49822",
         "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Bradenton-Florida-United-States/Materials-Management-Intern--Summer-2027-_R49822",
-        "location": "Bradenton, Florida, United States"
+        "location": "Bradenton, Florida, United States",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Mechanical Design Intern (Summer 2027)",
@@ -100273,6 +100351,13 @@
         "id": "ashby:c4192057-43fa-45c9-a40e-6f29131bf11d",
         "url": "https://jobs.ashbyhq.com/cohere/c4192057-43fa-45c9-a40e-6f29131bf11d",
         "location": "New York"
+      },
+      {
+        "title": "Talent Partner, Tech",
+        "date": "2026-11-16",
+        "id": "ashby:0067eb76-92af-497e-a5f8-7521716552f9",
+        "url": "https://jobs.ashbyhq.com/cohere/0067eb76-92af-497e-a5f8-7521716552f9",
+        "location": "New York +2"
       }
     ],
     "Ramp": [
@@ -104004,6 +104089,13 @@
         "date": "2026-11-13",
         "id": "bytedance:7703925583541979445",
         "url": "https://lifeattiktok.com/search/7703925583541979445",
+        "location": "San Jose, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Client Security & Data Foundation Machine Learning Engineer - Intern (TikTok BRIC) - 2027 Start (PhD)",
+        "date": "2026-11-16",
+        "id": "bytedance:7708750900450134325",
+        "url": "https://lifeattiktok.com/search/7708750900450134325",
         "location": "San Jose, CA"
       }
     ],
@@ -110153,6 +110245,13 @@
         "id": "eightfold:563602813864319",
         "url": "https://bostonscientific.eightfold.ai/careers/job/563602813864319",
         "location": "Marlboro, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Supplier Engineering Intern",
+        "date": "2026-11-16",
+        "id": "eightfold:563602813964277",
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602813964277",
+        "location": "Arden Hills, MN"
       }
     ],
     "Cloudflare": [
@@ -115571,6 +115670,13 @@
         "id": "workday:REQ381315",
         "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Intern_REQ381315",
         "location": "Overland Park, Kansas"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Software Engineering AI Intern",
+        "date": "2026-11-16",
+        "id": "workday:REQ381273",
+        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-AI-Intern_REQ381273",
+        "location": "Atlanta, Georgia"
       }
     ],
     "Akuna Capital": [
