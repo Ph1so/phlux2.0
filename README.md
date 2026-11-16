@@ -12,7 +12,7 @@
 <p>
   <a href="https://ph1so.github.io/phlux2.0/"><img src="https://img.shields.io/badge/browse-internships-1f5fff?style=flat-square" alt="Browse internships"></a>
   <a href="https://github.com/Ph1so/phlux2.0/actions/workflows/job-scraper.yml"><img src="https://img.shields.io/github/actions/workflow/status/Ph1so/phlux2.0/job-scraper.yml?branch=main&style=flat-square&label=scraper" alt="Scraper status"></a>
-  <img src="https://img.shields.io/badge/roles_tracked-38k-475467?style=flat-square" alt="37,978 roles tracked">
+  <img src="https://img.shields.io/badge/roles_tracked-38k-475467?style=flat-square" alt="37,986 roles tracked">
 </p>
 
 <p><a href="https://ph1so.github.io/phlux2.0/"><b>Website</b></a> &nbsp;·&nbsp; <a href="listings/README.md"><b>All listings</b></a></p>
@@ -21,7 +21,7 @@
 
 ## Latest roles
 
-Showing the 629 most recent of 37,978 roles tracked across 295 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
+Showing the 630 most recent of 37,986 roles tracked across 295 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
 
 
 <table>
@@ -120,6 +120,13 @@ Showing the 629 most recent of 37,978 roles tracked across 295 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/xai"><img src="https://cdn.brandfetch.io/x.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="xAI" height="20" style="vertical-align:middle; margin-right:6px;"> xAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/xai/jobs/5295932007">Software Engineer, Super Intelligence</a></div></td>
+  <td>2026-11-15</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/?source=Careers_Website_ec"><img src="https://cdn.brandfetch.io/workday.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Workday" height="20" style="vertical-align:middle; margin-right:6px;"> Workday</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806">⭐️ Machine Learning Engineer Intern (Canada)</a></div></td>
@@ -148,6 +155,41 @@ Showing the 629 most recent of 37,978 roles tracked across 295 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/jobs"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.sig.com/jobs/13268">⭐️ Trading Operations Analyst Internship: November 2027</a></div></td>
+  <td>2026-11-15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/jobs"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.sig.com/jobs/11194">⭐️ Quantitative Trader Internship: November 2027</a></div></td>
+  <td>2026-11-15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/jobs"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.sig.com/jobs/11193">Hong Kong Quantitative Trading and Quantitative Strategy Development Discovery Program: April 2027</a></div></td>
+  <td>2026-11-15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/jobs"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.sig.com/jobs/13235">Hong Kong Trading Operations Discovery Program: April 2027</a></div></td>
+  <td>2026-11-15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/jobs"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.sig.com/jobs/11504">⭐️ Trading System Engineering Internship (C++): November 2027</a></div></td>
+  <td>2026-11-15</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.sw.siemens.com/locations/usa/jobs/?q=intern"><img src="https://cdn.brandfetch.io/siemens.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Siemens" height="20" style="vertical-align:middle; margin-right:6px;"> Siemens</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.sw.siemens.com/mason-oh/strategic-student-program-go-to-market-sales-execution-intern-gscs-spring-2027/3D3A6875AA6A4ACE950E9E4BD6D0D859/job/">⭐️ Strategic Student Program: Go-To-Market Sales Execution Intern (GS&CS, Spring 2027)</a></div></td>
@@ -158,6 +200,20 @@ Showing the 629 most recent of 37,978 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/tutorintelligence"><img src="https://cdn.brandfetch.io/tutorintelligence.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tutor Intelligence" height="20" style="vertical-align:middle; margin-right:6px;"> Tutor Intelligence</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/tutorintelligence/fff04151-6936-436d-ae3e-d1b6d6aee659">Production Program Manager – Robotics Assembly</a></div></td>
+  <td>2026-11-15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/tutorintelligence"><img src="https://cdn.brandfetch.io/tutorintelligence.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tutor Intelligence" height="20" style="vertical-align:middle; margin-right:6px;"> Tutor Intelligence</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/tutorintelligence/f018d281-4e94-411d-ae19-4d6141c09bde">AI Engineer – Manufacturing & Production</a></div></td>
+  <td>2026-11-15</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/tutorintelligence"><img src="https://cdn.brandfetch.io/tutorintelligence.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tutor Intelligence" height="20" style="vertical-align:middle; margin-right:6px;"> Tutor Intelligence</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/tutorintelligence/415c90b9-69d8-4e8e-b7ae-8fad16dce44f">Sourcing / Component Engineer</a></div></td>
   <td>2026-11-15</td>
 </tr>
   <tr>
@@ -4386,55 +4442,6 @@ Showing the 629 most recent of 37,978 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/tutorintelligence"><img src="https://cdn.brandfetch.io/tutorintelligence.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tutor Intelligence" height="20" style="vertical-align:middle; margin-right:6px;"> Tutor Intelligence</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/tutorintelligence/4c6a2fad-a7e9-44d9-9586-935f9cdefdee">Engineering Manager, Production Engineering</a></div></td>
-  <td>2026-11-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/tutorintelligence"><img src="https://cdn.brandfetch.io/tutorintelligence.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tutor Intelligence" height="20" style="vertical-align:middle; margin-right:6px;"> Tutor Intelligence</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/tutorintelligence/b0882cb4-ad50-4bd5-809e-4d1032401547">Engineering Manager, Robotics Hardware</a></div></td>
-  <td>2026-11-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/tutorintelligence"><img src="https://cdn.brandfetch.io/tutorintelligence.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tutor Intelligence" height="20" style="vertical-align:middle; margin-right:6px;"> Tutor Intelligence</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/tutorintelligence/4af44dbf-76b0-4454-8691-d1d88397eba8">Engineering Manager, Robotics Software</a></div></td>
-  <td>2026-11-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/tutorintelligence"><img src="https://cdn.brandfetch.io/tutorintelligence.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tutor Intelligence" height="20" style="vertical-align:middle; margin-right:6px;"> Tutor Intelligence</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/tutorintelligence/e5f3d97e-96a3-4186-821d-5a3bc334e532">Engineering Manager, Robotics, Fleet</a></div></td>
-  <td>2026-11-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/tutorintelligence"><img src="https://cdn.brandfetch.io/tutorintelligence.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tutor Intelligence" height="20" style="vertical-align:middle; margin-right:6px;"> Tutor Intelligence</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/tutorintelligence/481d2654-5f95-4e10-866d-4dca86e4857c">Enterprise Sales Director</a></div></td>
-  <td>2026-11-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/tutorintelligence"><img src="https://cdn.brandfetch.io/tutorintelligence.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tutor Intelligence" height="20" style="vertical-align:middle; margin-right:6px;"> Tutor Intelligence</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/tutorintelligence/951d301c-e7b5-424c-babd-45a9651bda37">Enterprise Sales Director</a></div></td>
-  <td>2026-11-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/tutorintelligence"><img src="https://cdn.brandfetch.io/tutorintelligence.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tutor Intelligence" height="20" style="vertical-align:middle; margin-right:6px;"> Tutor Intelligence</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/tutorintelligence/bad65eb2-8887-46a1-8569-1a54672ffe38">Enterprise Sales Director</a></div></td>
-  <td>2026-11-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/tutorintelligence"><img src="https://cdn.brandfetch.io/tutorintelligence.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Tutor Intelligence" height="20" style="vertical-align:middle; margin-right:6px;"> Tutor Intelligence</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/tutorintelligence/07959a87-80a3-4149-a606-7fb80b43342f">Field Reliability Engineer</a></div></td>
   <td>2026-11-11</td>
 </tr>
 

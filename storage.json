@@ -55640,7 +55640,8 @@
         "date": "2026-10-22",
         "id": "workday:R7944",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/VNM-Ho-Chi-Minh/Senior-Frontend-Engineer--Angular--React-_R7944",
-        "location": "VNM Ho Chi Minh"
+        "location": "VNM Ho Chi Minh",
+        "closed": "2026-11-15"
       },
       {
         "title": "Staff Software Engineer (C#, React)",
@@ -68303,7 +68304,8 @@
         "date": "2026-10-22",
         "id": "lever:c6afce09-c750-425e-bd1e-ee9d8d225e46",
         "url": "https://jobs.lever.co/woven-by-toyota/c6afce09-c750-425e-bd1e-ee9d8d225e46",
-        "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a"
+        "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a",
+        "closed": "2026-11-15"
       },
       {
         "title": "Head of Infrastructure Engineering",
@@ -91087,6 +91089,13 @@
         "url": "https://job-boards.greenhouse.io/xai/jobs/5214370007",
         "location": "Palo Alto, CA",
         "early": "ABOUT THE ROLE: This is an entry-level line cook position for individuals who are familiar with basic cooking principles and techniques, have a firm understanding of all basic food safety principles, and can identify a\u2026"
+      },
+      {
+        "title": "Software Engineer, Super Intelligence",
+        "date": "2026-11-15",
+        "id": "greenhouse:5295932007",
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5295932007",
+        "location": "Palo Alto, CA"
       }
     ],
     "Thinking Machines Lab": [
@@ -106487,7 +106496,8 @@
         "date": "N/A",
         "id": "jibe:11453",
         "url": "https://careers.sig.com/jobs/11453",
-        "location": "Hong Kong"
+        "location": "Hong Kong",
+        "closed": "2026-11-15"
       },
       {
         "title": "Application Support Analyst",
@@ -107728,6 +107738,41 @@
         "id": "jibe:11554",
         "url": "https://careers.sig.com/jobs/11554",
         "location": "Hong Kong"
+      },
+      {
+        "title": "\u2b50\ufe0f Trading Operations Analyst Internship: November 2027",
+        "date": "2026-11-15",
+        "id": "jibe:13268",
+        "url": "https://careers.sig.com/jobs/13268",
+        "location": "Sydney, Australia"
+      },
+      {
+        "title": "\u2b50\ufe0f Quantitative Trader Internship: November 2027",
+        "date": "2026-11-15",
+        "id": "jibe:11194",
+        "url": "https://careers.sig.com/jobs/11194",
+        "location": "Sydney, Australia"
+      },
+      {
+        "title": "Hong Kong Quantitative Trading and Quantitative Strategy Development Discovery Program: April 2027",
+        "date": "2026-11-15",
+        "id": "jibe:11193",
+        "url": "https://careers.sig.com/jobs/11193",
+        "location": "Hong Kong"
+      },
+      {
+        "title": "Hong Kong Trading Operations Discovery Program: April 2027",
+        "date": "2026-11-15",
+        "id": "jibe:13235",
+        "url": "https://careers.sig.com/jobs/13235",
+        "location": "Hong Kong"
+      },
+      {
+        "title": "\u2b50\ufe0f Trading System Engineering Internship (C++): November 2027",
+        "date": "2026-11-15",
+        "id": "jibe:11504",
+        "url": "https://careers.sig.com/jobs/11504",
+        "location": "Sydney, Australia"
       }
     ],
     "Adobe": [
@@ -117627,7 +117672,8 @@
         "date": "2026-11-11",
         "id": "lever:4c6a2fad-a7e9-44d9-9586-935f9cdefdee",
         "url": "https://jobs.lever.co/tutorintelligence/4c6a2fad-a7e9-44d9-9586-935f9cdefdee",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-15"
       },
       {
         "title": "Engineering Manager, Robotics Hardware",
@@ -117795,7 +117841,8 @@
         "date": "2026-11-11",
         "id": "lever:aa957bc5-3b20-4ac3-bd0e-8ef7d9ef12cc",
         "url": "https://jobs.lever.co/tutorintelligence/aa957bc5-3b20-4ac3-bd0e-8ef7d9ef12cc",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-15"
       },
       {
         "title": "Production Supervisor - Robotics Assembly",
@@ -118138,6 +118185,20 @@
         "date": "2026-11-15",
         "id": "lever:fff04151-6936-436d-ae3e-d1b6d6aee659",
         "url": "https://jobs.lever.co/tutorintelligence/fff04151-6936-436d-ae3e-d1b6d6aee659",
+        "location": "Watertown, MA"
+      },
+      {
+        "title": "AI Engineer \u2013 Manufacturing & Production",
+        "date": "2026-11-15",
+        "id": "lever:f018d281-4e94-411d-ae19-4d6141c09bde",
+        "url": "https://jobs.lever.co/tutorintelligence/f018d281-4e94-411d-ae19-4d6141c09bde",
+        "location": "Watertown, MA"
+      },
+      {
+        "title": "Sourcing / Component Engineer",
+        "date": "2026-11-15",
+        "id": "lever:415c90b9-69d8-4e8e-b7ae-8fad16dce44f",
+        "url": "https://jobs.lever.co/tutorintelligence/415c90b9-69d8-4e8e-b7ae-8fad16dce44f",
         "location": "Watertown, MA"
       }
     ]
@@ -118485,21 +118546,9 @@
       "since": "2026-11-15",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs"
     },
-    "Bose": {
+    "Slack": {
       "since": "2026-11-15",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://boseallaboutme.wd503.myworkdayjobs.com/wday/cxs/boseallaboutme/Bose_Careers/jobs"
-    },
-    "PROCEPT BioRobotics": {
-      "since": "2026-11-15",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://proceptbiorobotics.wd108.myworkdayjobs.com/wday/cxs/proceptbiorobotics/PROCEPT/jobs"
-    },
-    "Symbotic": {
-      "since": "2026-11-15",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://symbotic.wd504.myworkdayjobs.com/wday/cxs/symbotic/Symbotic/jobs"
-    },
-    "Slate Auto": {
-      "since": "2026-11-15",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/Slack/jobs"
     }
   },
   "closures_untracked": {
