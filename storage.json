@@ -68153,7 +68153,8 @@
         "date": "2026-10-22",
         "id": "lever:00b85096-c298-40a6-9835-587cd304a9d8",
         "url": "https://jobs.lever.co/woven-by-toyota/00b85096-c298-40a6-9835-587cd304a9d8",
-        "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a"
+        "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a",
+        "closed": "2026-11-15"
       },
       {
         "title": "\u30b7\u30cb\u30a2\u30d7\u30ed\u30c0\u30af\u30c8\u30de\u30cd\u30fc\u30b8\u30e3\u30fc\u30fbDeveloper & AI Platforms",
@@ -68925,6 +68926,20 @@
         "date": "2026-11-13",
         "id": "lever:174fb843-ef5b-488c-8c4f-4df9fac463b6",
         "url": "https://jobs.lever.co/woven-by-toyota/174fb843-ef5b-488c-8c4f-4df9fac463b6",
+        "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a"
+      },
+      {
+        "title": "Assistant Manager, Business Strategy & Operations",
+        "date": "2026-11-15",
+        "id": "lever:2a568086-c691-4331-8b2a-15cab50513ed",
+        "url": "https://jobs.lever.co/woven-by-toyota/2a568086-c691-4331-8b2a-15cab50513ed",
+        "location": "Tokyo"
+      },
+      {
+        "title": "\u30a2\u30b7\u30b9\u30bf\u30f3\u30c8\u30de\u30cd\u30fc\u30b8\u30e3\u30fc\u30fbBusiness Strategy & Operations",
+        "date": "2026-11-15",
+        "id": "lever:2cd0863a-f9ab-4782-8635-349b02b3f7f6",
+        "url": "https://jobs.lever.co/woven-by-toyota/2cd0863a-f9ab-4782-8635-349b02b3f7f6",
         "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a"
       }
     ],
@@ -85755,7 +85770,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5409299008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5409299008",
-        "location": "San Francisco, CA | New York City, NY"
+        "location": "San Francisco, CA | New York City, NY",
+        "closed": "2026-11-15"
       },
       {
         "title": "Reporting and Controls Lead, Data Center Capacity Delivery",
@@ -105599,7 +105615,8 @@
         "date": "N/A",
         "id": "oraclehcm:334390",
         "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334390",
-        "location": "Austin, TX +2"
+        "location": "Austin, TX +2",
+        "closed": "2026-11-15"
       },
       {
         "title": "\u2b50\ufe0f CEGIU Demo Data Strategy Intern - OVIP",
@@ -107688,6 +107705,20 @@
         "id": "jibe:13136",
         "url": "https://careers.sig.com/jobs/13136",
         "location": "Bala Cynwyd (Philadelphia Area), PA"
+      },
+      {
+        "title": "Hong Kong Equity Research Discovery Program: April 2027",
+        "date": "2026-11-15",
+        "id": "jibe:13202",
+        "url": "https://careers.sig.com/jobs/13202",
+        "location": "Sydney, Australia"
+      },
+      {
+        "title": "Hong Kong Trading Systems Engineer Discovery Program: April 2027",
+        "date": "2026-11-15",
+        "id": "jibe:11554",
+        "url": "https://careers.sig.com/jobs/11554",
+        "location": "Hong Kong"
       }
     ],
     "Adobe": [
@@ -113689,7 +113720,8 @@
         "date": "N/A",
         "id": "talentbrew:99041176112",
         "url": "https://jobs.boeing.com/job/everett/boeing-summer-2027-internship-program-paid-security-and-fire-operation-s-and-fo/185/99041176112",
-        "location": "Everett, WA"
+        "location": "Everett, WA",
+        "closed": "2026-11-15"
       },
       {
         "title": "\u2b50\ufe0f Engineering Internship",
@@ -118432,26 +118464,6 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
-    },
-    "Tesla": {
-      "since": "2026-11-15",
-      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
-    },
-    "Expedia": {
-      "since": "2026-11-15",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://expedia.wd108.myworkdayjobs.com/wday/cxs/expedia/search/jobs"
-    },
-    "Verizon": {
-      "since": "2026-11-15",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://verizon.wd12.myworkdayjobs.com/wday/cxs/verizon/verizon-careers/jobs"
-    },
-    "PROCEPT BioRobotics": {
-      "since": "2026-11-15",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://proceptbiorobotics.wd108.myworkdayjobs.com/wday/cxs/proceptbiorobotics/PROCEPT/jobs"
-    },
-    "Symbotic": {
-      "since": "2026-11-15",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://symbotic.wd504.myworkdayjobs.com/wday/cxs/symbotic/Symbotic/jobs"
     },
     "Slate Auto": {
       "since": "2026-11-15",
