@@ -1011,8 +1011,7 @@
         "date": "2026-10-16",
         "id": "eightfold:1970393557042145",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557042145",
-        "location": "United States, NY +1",
-        "closed": "2026-11-16"
+        "location": "United States, NY +1"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - MSR AI Interaction and Learning",
@@ -39066,6 +39065,13 @@
         "id": "ashby:e57d6415-b9d5-428e-8d13-a97c83249385",
         "url": "https://jobs.ashbyhq.com/applied/e57d6415-b9d5-428e-8d13-a97c83249385",
         "location": "Sunnyvale"
+      },
+      {
+        "title": "Legal Counsel - EMEA",
+        "date": "2026-11-16",
+        "id": "ashby:1a54b72e-22d4-491e-b0ec-826636356c8c",
+        "url": "https://jobs.ashbyhq.com/applied/1a54b72e-22d4-491e-b0ec-826636356c8c",
+        "location": "Munich +2"
       }
     ],
     "FieldAI": [
@@ -49097,6 +49103,13 @@
         "id": "ashby:675e95d5-f249-4503-a2a0-7f437b68a685",
         "url": "https://jobs.ashbyhq.com/saronic/675e95d5-f249-4503-a2a0-7f437b68a685",
         "location": "Arlington, VA"
+      },
+      {
+        "title": "Deputy Program Manager, GOCO / COCO",
+        "date": "2026-11-16",
+        "id": "ashby:937bd66a-a89c-47d5-a3d6-36dbb549ec4b",
+        "url": "https://jobs.ashbyhq.com/saronic/937bd66a-a89c-47d5-a3d6-36dbb549ec4b",
+        "location": "Austin, TX +1"
       }
     ],
     "Built Robotics": [
@@ -80336,6 +80349,20 @@
         "id": "lever:02a8ccb8-8d69-4862-a85a-5b28b5777716",
         "url": "https://jobs.eu.lever.co/mobileye/02a8ccb8-8d69-4862-a85a-5b28b5777716",
         "location": "Jerusalem, Israel"
+      },
+      {
+        "title": "Deep Learning Algorithm Engineer | Learned-Policy Group",
+        "date": "2026-11-16",
+        "id": "lever:01a16cde-2ce4-4c80-a6df-fe56bc223816",
+        "url": "https://jobs.eu.lever.co/mobileye/01a16cde-2ce4-4c80-a6df-fe56bc223816",
+        "location": "Ramat Gan, Israel"
+      },
+      {
+        "title": "Integration Engineering",
+        "date": "2026-11-16",
+        "id": "lever:7de4df6f-46b4-4804-8ab3-08811de2e99b",
+        "url": "https://jobs.eu.lever.co/mobileye/7de4df6f-46b4-4804-8ab3-08811de2e99b",
+        "location": "Detroit, USA"
       }
     ],
     "Dusty Robotics": [
@@ -107946,6 +107973,13 @@
         "id": "jibe:11504",
         "url": "https://careers.sig.com/jobs/11504",
         "location": "Sydney, Australia"
+      },
+      {
+        "title": "Bespoke Risk Analyst",
+        "date": "2026-11-16",
+        "id": "jibe:11816",
+        "url": "https://careers.sig.com/jobs/11816",
+        "location": "Bala Cynwyd (Philadelphia Area), PA"
       }
     ],
     "Adobe": [
@@ -111949,7 +111983,8 @@
         "date": "2026-11-13",
         "id": "workday:R-00196666",
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Flight-Test-and-Integration-Summer-Intern_R-00196666",
-        "location": "Huntsville, AL"
+        "location": "Huntsville, AL",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Radar Engineering Intern",
