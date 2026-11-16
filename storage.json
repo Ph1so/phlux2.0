@@ -3998,6 +3998,13 @@
         "id": "meta:971210335715482",
         "url": "https://www.metacareers.com/profile/job_details/971210335715482/",
         "location": "Redmond, WA"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Perception, Displays and Graphics (PhD)",
+        "date": "2026-11-16",
+        "id": "meta:1500136678656794",
+        "url": "https://www.metacareers.com/profile/job_details/1500136678656794/",
+        "location": "Sunnyvale, CA"
       }
     ],
     "Apple": [
@@ -10054,21 +10061,24 @@
         "date": "2026-10-13",
         "id": "tesla:287390",
         "url": "https://www.tesla.com/careers/search/job/internship-analysis-engineer-vehicle-powertrain-engineering-winter-spring-2027-287390",
-        "location": "Palo Alto, CA"
+        "location": "Palo Alto, CA",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Internship, Safety Engineer, Vehicle Engineering (Winter/Spring 2027)",
         "date": "2026-10-13",
         "id": "tesla:278628",
         "url": "https://www.tesla.com/careers/search/job/internship-safety-engineer-vehicle-engineering-winter-spring-2027-278628",
-        "location": "Fremont, CA"
+        "location": "Fremont, CA",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Internship, Thermal Modeling Engineer, Abuse Functional Safety (Winter/Spring 2027)",
         "date": "2026-10-13",
         "id": "tesla:287391",
         "url": "https://www.tesla.com/careers/search/job/internship-thermal-modeling-engineer-abuse-functional-safety-winter-spring-2027-287391",
-        "location": "Palo Alto, CA"
+        "location": "Palo Alto, CA",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Internship, Electrical Design Engineer, Vehicle Engineering (Winter/Spring 2027)",
@@ -13961,7 +13971,8 @@
         "date": "2026-10-21",
         "id": "greenhouse:6230261004",
         "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6230261004",
-        "location": "Hybrid- Salem, OR"
+        "location": "Hybrid- Salem, OR",
+        "closed": "2026-11-16"
       },
       {
         "title": "Payroll Specialist",
@@ -20335,6 +20346,13 @@
         "id": "ashby:35769ba2-aa95-42bb-b5c5-9eed3c06d30e",
         "url": "https://jobs.ashbyhq.com/aurora-operations-inc/35769ba2-aa95-42bb-b5c5-9eed3c06d30e",
         "location": "Coppell, TX"
+      },
+      {
+        "title": "Senior System Analyst, NetSuite Supply Chain",
+        "date": "2026-11-16",
+        "id": "ashby:223baeca-1df3-451b-b56c-5586fdbdadf3",
+        "url": "https://jobs.ashbyhq.com/aurora-operations-inc/223baeca-1df3-451b-b56c-5586fdbdadf3",
+        "location": "Mountain View, CA +1"
       }
     ],
     "Zoox": [
@@ -22447,7 +22465,8 @@
         "date": "N/A",
         "id": "lever:1cdcccf4-3a29-4a24-8cdc-f476da8f4821",
         "url": "https://jobs.lever.co/zoox/1cdcccf4-3a29-4a24-8cdc-f476da8f4821",
-        "location": "Fremont, CA"
+        "location": "Fremont, CA",
+        "closed": "2026-11-16"
       },
       {
         "title": "Manufacturing Test Engineer",
@@ -30769,6 +30788,13 @@
         "id": "ashby:68174db5-e077-4ab7-9b68-cbf6b230af15",
         "url": "https://jobs.ashbyhq.com/scout-ai/68174db5-e077-4ab7-9b68-cbf6b230af15",
         "location": "Remote"
+      },
+      {
+        "title": "Senior Marketing Manager",
+        "date": "2026-11-16",
+        "id": "ashby:34e55415-c268-4b71-a9fe-cc9d0aa098f5",
+        "url": "https://jobs.ashbyhq.com/scout-ai/34e55415-c268-4b71-a9fe-cc9d0aa098f5",
+        "location": "Sunnyvale, CA"
       }
     ],
     "AeroVect": [
@@ -34939,7 +34965,8 @@
         "date": "2026-10-13",
         "id": "greenhouse:8250220",
         "url": "https://careers.withwaymo.com/jobs?gh_jid=8250220",
-        "location": "Mountain View, California, United States"
+        "location": "Mountain View, California, United States",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern, MS, Software Engineering, Behavior Test",
@@ -49527,6 +49554,13 @@
         "id": "ashby:4b601575-99ba-4a5e-962f-d884bb3a85ac",
         "url": "https://jobs.ashbyhq.com/saronic/4b601575-99ba-4a5e-962f-d884bb3a85ac",
         "location": "Austin, TX"
+      },
+      {
+        "title": "Test Site Manager",
+        "date": "2026-11-16",
+        "id": "ashby:3d3e04a2-5153-4fee-93f2-b242efb5656e",
+        "url": "https://jobs.ashbyhq.com/saronic/3d3e04a2-5153-4fee-93f2-b242efb5656e",
+        "location": "Gulfport, MS"
       }
     ],
     "Built Robotics": [
@@ -57354,8 +57388,7 @@
         "date": "2026-10-14",
         "id": "workday:JR00045303",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-OH-Westerville/DCS-Business-Development-Driver_JR00045303",
-        "location": "2 Locations",
-        "closed": "2026-11-12"
+        "location": "2 Locations"
       },
       {
         "title": "Quality Engineer",
@@ -61540,6 +61573,69 @@
         "id": "workday:JR00053070",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bartlesville-Oklahoma-United-States-of-America/Master-Data-Analyst_JR00053070",
         "location": "Bartlesville, Oklahoma, United States of America"
+      },
+      {
+        "title": "Product Marketing Specialist",
+        "date": "2026-11-16",
+        "id": "workday:JR00052830",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Greenville-South-Carolina-United-States-of-America/Product-Marketing-Specialist_JR00052830",
+        "location": "2 Locations"
+      },
+      {
+        "title": "CNC Manufacturing Engineer",
+        "date": "2026-11-16",
+        "id": "workday:JR00052454",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Ormond-Beach-Florida-United-States-of-America/CNC-Manufacturing-Engineer_JR00052454",
+        "location": "Ormond Beach, Florida, United States of America"
+      },
+      {
+        "title": "Business Development Manager, Commercial End-users",
+        "date": "2026-11-16",
+        "id": "workday:JR00052989",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-California-United-States-of-America/Business-Development-Manager--Commercial-End-users_JR00052989",
+        "location": "Remote, California, United States of America"
+      },
+      {
+        "title": "Welder/Insulator-Winding Team",
+        "date": "2026-11-16",
+        "id": "workday:JR00052824",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Fort-Smith-Arkansas-United-States-of-America/Welder-Insulator-Winding-Team_JR00052824",
+        "location": "Fort Smith, Arkansas, United States of America"
+      },
+      {
+        "title": "Welder/Insulator- Winding Team",
+        "date": "2026-11-16",
+        "id": "workday:JR00052823-1",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Fort-Smith-Arkansas-United-States-of-America/Welder-Insulator--Winding-Team_JR00052823-1",
+        "location": "Fort Smith, Arkansas, United States of America"
+      },
+      {
+        "title": "Connector-Connecting Team",
+        "date": "2026-11-16",
+        "id": "workday:JR00052827-1",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Fort-Smith-Arkansas-United-States-of-America/Connector-Connecting-Team_JR00052827-1",
+        "location": "Fort Smith, Arkansas, United States of America"
+      },
+      {
+        "title": "Armature Mfg/Frame Mfg- 2nd Shift",
+        "date": "2026-11-16",
+        "id": "workday:JR00043953",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-GA-Flowery-Branch/Armature-Mfg-Frame-Mfg--2nd-Shift_JR00043953",
+        "location": "USA, GA, Flowery Branch"
+      },
+      {
+        "title": "Assembly-Line Load",
+        "date": "2026-11-16",
+        "id": "workday:JR00052662",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Fort-Smith-Arkansas-United-States-of-America/Assembly-Line-Load_JR00052662",
+        "location": "Fort Smith, Arkansas, United States of America"
+      },
+      {
+        "title": "Sales Support Specialist",
+        "date": "2026-11-16",
+        "id": "workday:JR00053528-1",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-California-United-States-of-America/Sales-Support-Specialist_JR00053528-1",
+        "location": "42 Locations"
       }
     ],
     "Teradyne": [
@@ -64989,6 +65085,34 @@
         "date": "2026-11-16",
         "id": "adp:575763",
         "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=575763&lang=en_US",
+        "location": "Houston, TX"
+      },
+      {
+        "title": "\u2b50\ufe0f Avionics Engineer \u2013 Test Engineer Intern",
+        "date": "2026-11-16",
+        "id": "adp:575784",
+        "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=575784&lang=en_US",
+        "location": "Houston, TX"
+      },
+      {
+        "title": "\u2b50\ufe0f Avionics Engineer \u2013 EE Design Engineer Intern",
+        "date": "2026-11-16",
+        "id": "adp:575783",
+        "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=575783&lang=en_US",
+        "location": "Houston, TX"
+      },
+      {
+        "title": "\u2b50\ufe0f Avionics Production/Project Engineer Intern",
+        "date": "2026-11-16",
+        "id": "adp:575782",
+        "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=575782&lang=en_US",
+        "location": "Houston, TX"
+      },
+      {
+        "title": "\u2b50\ufe0f Communications Test and Analysis Intern",
+        "date": "2026-11-16",
+        "id": "adp:575780",
+        "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=575780&lang=en_US",
         "location": "Houston, TX"
       }
     ],
@@ -79181,6 +79305,13 @@
         "id": "ashby:ff2490f4-84db-4c2e-b41f-8247e5613601",
         "url": "https://jobs.ashbyhq.com/openai/ff2490f4-84db-4c2e-b41f-8247e5613601",
         "location": "San Francisco"
+      },
+      {
+        "title": "Motion Design Producer",
+        "date": "2026-11-16",
+        "id": "ashby:db31bc85-f5ea-4703-ab78-46fcd67ac3a1",
+        "url": "https://jobs.ashbyhq.com/openai/db31bc85-f5ea-4703-ab78-46fcd67ac3a1",
+        "location": "San Francisco"
       }
     ],
     "John Deere": [
@@ -82553,6 +82684,13 @@
         "id": "eightfold:996477969048",
         "url": "https://lockheedmartin.eightfold.ai/careers/job/996477969048",
         "location": "Colorado Springs, CO"
+      },
+      {
+        "title": "\u2b50\ufe0f College Student - Systems Engineering Intern",
+        "date": "2026-11-16",
+        "id": "eightfold:996477785786",
+        "url": "https://lockheedmartin.eightfold.ai/careers/job/996477785786",
+        "location": "Littleton, CO"
       }
     ],
     "Vecna Robotics": [
@@ -83911,6 +84049,13 @@
         "date": "2026-11-13",
         "id": "greenhouse:4505109009",
         "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4505109009",
+        "location": "Cambridge, MA USA"
+      },
+      {
+        "title": "Manager / Senior Robotics Operations Manager",
+        "date": "2026-11-16",
+        "id": "greenhouse:4467396009",
+        "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4467396009",
         "location": "Cambridge, MA USA"
       }
     ],
@@ -85382,7 +85527,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5415287008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5415287008",
-        "location": "San Francisco, CA | New York City, NY"
+        "location": "San Francisco, CA | New York City, NY",
+        "closed": "2026-11-16"
       },
       {
         "title": "Executive Escalations Manager",
@@ -88450,7 +88596,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5443997008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5443997008",
-        "location": "San Francisco, CA | New York City, NY"
+        "location": "San Francisco, CA | New York City, NY",
+        "closed": "2026-11-16"
       },
       {
         "title": "Technical Program Manager, Agent Safety & Security",
@@ -89554,6 +89701,13 @@
         "id": "greenhouse:5477416008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5477416008",
         "location": "London, UK"
+      },
+      {
+        "title": "Docs Lead, Platform",
+        "date": "2026-11-16",
+        "id": "greenhouse:5482310008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5482310008",
+        "location": "San Francisco, CA | New York City, NY"
       }
     ],
     "xAI": [
@@ -96148,6 +96302,10 @@
       {
         "title": "\u00c9tudiant(e) en pharmacie, r\u00e9mun\u00e9r\u00e9(e) \u00e0 l\u2019heure \u2013 PHX temps partiel jour",
         "date": "2026-11-11"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern, Sales Operations (EMEA Markets)",
+        "date": "2026-11-16"
       }
     ],
     "Liberty Mutual": [],
@@ -106822,7 +106980,8 @@
         "date": "2026-11-13",
         "id": "oraclehcm:345686",
         "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/345686",
-        "location": "Austin, TX"
+        "location": "Austin, TX",
+        "closed": "2026-11-16"
       }
     ],
     "Susquehanna": [
@@ -114414,7 +114573,8 @@
         "date": "N/A",
         "id": "workday:R0000450440-1",
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/15450-Washington-St-ThorntonCO-80023-9719/Operation-Manager-Intern--Starting-Summer-2027--Food-Distribution-Center---Thornton--CO_R0000450440-1",
-        "location": "15450 Washington St, Thornton,CO 80023-9719"
+        "location": "15450 Washington St, Thornton,CO 80023-9719",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Operation Manager Intern (Starting Summer 2027) Regional Distribution Center - Pueblo, CO",
@@ -114519,7 +114679,8 @@
         "date": "N/A",
         "id": "workday:R0000450432",
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/3500-Marvin-Rd-NE-LaceyWA-98516-1423/Operation-Manager-Intern--Starting-Summer-2027--Upstream-Distribution-Center---Lacey--WA_R0000450432",
-        "location": "3500 Marvin Rd NE, Lacey,WA 98516-1423"
+        "location": "3500 Marvin Rd NE, Lacey,WA 98516-1423",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Operation Manager Intern (Starting Summer 2027) Food Distribution Center - Sacramento, CA",
@@ -115389,6 +115550,27 @@
         "id": "workday:REQ380654",
         "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Business-Development--Physical---Edge-AI-Internship_REQ380654",
         "location": "Bellevue, Washington"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Software Engineering Intern",
+        "date": "2026-11-16",
+        "id": "workday:REQ381368",
+        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Intern_REQ381368",
+        "location": "2 Locations"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Software Engineer Internship",
+        "date": "2026-11-16",
+        "id": "workday:REQ381357",
+        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineer-Internship_REQ381357",
+        "location": "Overland Park, Kansas"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Software Engineering Intern",
+        "date": "2026-11-16",
+        "id": "workday:REQ381315",
+        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Intern_REQ381315",
+        "location": "Overland Park, Kansas"
       }
     ],
     "Akuna Capital": [
@@ -119813,14 +119995,6 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
-    },
-    "Disney": {
-      "since": "2026-11-16",
-      "error": "ValueError: No #search-results section: not a TalentBrew search page"
-    },
-    "Honda Research Insitute": {
-      "since": "2026-11-16",
-      "error": "ReadTimeout: HTTPSConnectionPool(host='usa.honda-ri.com', port=443): Read timed out. (read timeout=30)"
     }
   },
   "closures_untracked": {
