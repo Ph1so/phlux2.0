@@ -533,7 +533,8 @@
         "date": "2026-11-10",
         "id": "workday:JR2029119-1",
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1",
-        "location": "US, CA, Santa Clara"
+        "location": "US, CA, Santa Clara",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Corporate Development MBA Intern - Summer 2027",
@@ -554,6 +555,27 @@
         "date": "2026-11-10",
         "id": "workday:JR2029541",
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Performance-Engineering-Intern--Platform-Performance-and-Power----Spring-2027_JR2029541",
+        "location": "US, CA, Santa Clara"
+      },
+      {
+        "title": "\u2b50\ufe0f Applied Research Scientist Intern, Agentic Biology - Summer 2027",
+        "date": "2026-11-16",
+        "id": "workday:JR2029307",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Scientist-Intern--Agentic-Biology---Summer-2027_JR2029307",
+        "location": "US, CA, Santa Clara"
+      },
+      {
+        "title": "\u2b50\ufe0f Enterprise Sales Intern - Summer 2027",
+        "date": "2026-11-16",
+        "id": "workday:JR2029682",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Enterprise-Sales-Intern---Summer-2027_JR2029682",
+        "location": "US, CA, Santa Clara"
+      },
+      {
+        "title": "\u2b50\ufe0f Product Marketing Manager MBA Intern, Digital Health AI - Summer 2027",
+        "date": "2026-11-16",
+        "id": "workday:JR2029509",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-Manager-MBA-Intern--Digital-Health-AI---Summer-2027_JR2029509",
         "location": "US, CA, Santa Clara"
       }
     ],
@@ -8679,7 +8701,8 @@
         "date": "2026-10-13",
         "id": "eightfold:446720740636",
         "url": "https://careers.qualcomm.com/careers/job/446720740636",
-        "location": "San Diego, CA"
+        "location": "San Diego, CA",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Modular Engineering Internship \u2013 Summer 2027",
@@ -8707,7 +8730,8 @@
         "date": "2026-10-14",
         "id": "eightfold:446720740525",
         "url": "https://careers.qualcomm.com/careers/job/446720740525",
-        "location": "San Diego, CA +6"
+        "location": "San Diego, CA +6",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Embedded Engineering Internship - Summer 2027",
@@ -18469,7 +18493,8 @@
       {
         "title": "Robot Service Technician Assistant \u2013 Part Time Weekend (PM Shift)",
         "date": "N/A",
-        "id": "greenhouse:4414391009"
+        "id": "greenhouse:4414391009",
+        "closed": "2026-11-16"
       },
       {
         "title": "Robot Service Technician \u2013 Full Time/Contract",
@@ -28969,6 +28994,13 @@
         "id": "ashby:4231d223-08dc-45cc-b91a-aa97485696de",
         "url": "https://jobs.ashbyhq.com/sunday/4231d223-08dc-45cc-b91a-aa97485696de",
         "location": "Redwood City, CA"
+      },
+      {
+        "title": "Consumer Insights",
+        "date": "2026-11-16",
+        "id": "ashby:238994b7-f60d-4231-91ff-456b4d449e61",
+        "url": "https://jobs.ashbyhq.com/sunday/238994b7-f60d-4231-91ff-456b4d449e61",
+        "location": "Redwood City, CA"
       }
     ],
     "Machina Labs": [
@@ -38346,7 +38378,8 @@
         "date": "N/A",
         "id": "ashby:2072ae04-7877-4d68-bb46-1d541232bdba",
         "url": "https://jobs.ashbyhq.com/applied/2072ae04-7877-4d68-bb46-1d541232bdba",
-        "location": "Sunnyvale"
+        "location": "Sunnyvale",
+        "closed": "2026-11-16"
       },
       {
         "title": "Systems Engineer, Vehicle OS",
@@ -45075,14 +45108,16 @@
         "date": "2026-10-14",
         "id": "ashby:eb948ca5-306f-464b-83b7-607c06139a33",
         "url": "https://jobs.ashbyhq.com/standardbots/eb948ca5-306f-464b-83b7-607c06139a33",
-        "location": "Philadelphia, PA"
+        "location": "Philadelphia, PA",
+        "closed": "2026-11-16"
       },
       {
         "title": "Technician",
         "date": "2026-10-14",
         "id": "ashby:530649a7-2179-4836-a0a5-62c3f9d87d86",
         "url": "https://jobs.ashbyhq.com/standardbots/530649a7-2179-4836-a0a5-62c3f9d87d86",
-        "location": "Philadelphia, PA"
+        "location": "Philadelphia, PA",
+        "closed": "2026-11-16"
       },
       {
         "title": "Assembly Technician",
@@ -70551,24 +70586,21 @@
         "date": "2026-10-22",
         "id": "workday:R0000391403",
         "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Product-Support-Engineering_R0000391403",
-        "location": "7 Locations",
-        "closed": "2026-11-14"
+        "location": "7 Locations"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Corporate Intern - Marketing",
         "date": "2026-10-22",
         "id": "workday:R0000391407",
         "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Marketing_R0000391407",
-        "location": "7 Locations",
-        "closed": "2026-11-14"
+        "location": "7 Locations"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Corporate Intern - Business Operations",
         "date": "2026-10-22",
         "id": "workday:R0000391405-1",
         "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Business-Operations_R0000391405-1",
-        "location": "7 Locations",
-        "closed": "2026-11-14"
+        "location": "7 Locations"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Corporate Intern - Engineering",
@@ -71342,7 +71374,8 @@
         "date": "2026-10-22",
         "id": "workday:R10253725",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/XMLNAME-2027-Engineering-Intern---Hollywood--MD---Evergreen-_R10253725",
-        "location": "United States-Maryland-Hollywood"
+        "location": "United States-Maryland-Hollywood",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f 2027 Engineering Intern - Melbourne (FL) (Evergreen)",
@@ -71360,7 +71393,8 @@
         "title": "\u2b50\ufe0f 2027 Cyber Software Engineer Intern - San Antonio TX",
         "date": "2026-10-22",
         "id": "workday:R10257311",
-        "closed": "N/A"
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311",
+        "location": "United States-Texas-San Antonio"
       },
       {
         "title": "\u2b50\ufe0f 2027 Business Management Intern",
@@ -71652,6 +71686,13 @@
         "id": "workday:R10251094",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Systems-Engineer-Intern---Baltimore-MD_R10251094",
         "location": "United States-Maryland-Baltimore"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Engineering Intern - Warner Robins GA",
+        "date": "2026-11-16",
+        "id": "workday:R10260895",
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Georgia-Warner-Robins/XMLNAME-2027-Engineering-Intern---Warner-Robins-GA_R10260895",
+        "location": "United States-Georgia-Warner Robins"
       }
     ],
     "OpenAI": [
@@ -78993,6 +79034,13 @@
         "id": "ashby:6bddd87a-0aed-415e-86f0-eccb7dbd32f7",
         "url": "https://jobs.ashbyhq.com/openai/6bddd87a-0aed-415e-86f0-eccb7dbd32f7",
         "location": "New York City"
+      },
+      {
+        "title": "Technical Operations Analyst, Automation & Evaluations",
+        "date": "2026-11-16",
+        "id": "ashby:696bb5ff-f840-4a5e-928f-e338b52b2014",
+        "url": "https://jobs.ashbyhq.com/openai/696bb5ff-f840-4a5e-928f-e338b52b2014",
+        "location": "Dublin, Ireland"
       }
     ],
     "John Deere": [
@@ -86612,7 +86660,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5399379008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5399379008",
-        "location": "Remote-Friendly, United States"
+        "location": "Remote-Friendly, United States",
+        "closed": "2026-11-16"
       },
       {
         "title": "Research Associate, Biology",
@@ -99455,7 +99504,8 @@
         "date": "N/A",
         "id": "ashby:96c74af4-b3d7-4960-a666-212ce4debac8",
         "url": "https://jobs.ashbyhq.com/cohere/96c74af4-b3d7-4960-a666-212ce4debac8",
-        "location": "Europe +6"
+        "location": "Europe +6",
+        "closed": "2026-11-16"
       },
       {
         "title": "Senior Account Executive",
@@ -115740,7 +115790,8 @@
         "date": "N/A",
         "id": "workday:JR002940",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Co-Op--Spring-2027-_JR002940",
-        "location": "Cambridge, MA"
+        "location": "Cambridge, MA",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Operating Systems and Embedded Software Development Co-Op (Spring 2027)",
@@ -115761,7 +115812,8 @@
         "date": "N/A",
         "id": "workday:JR002773-1",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/GN-C-Modeling--Simulation-and-Analysis-Intern--Summer-2027-_JR002773-1",
-        "location": "Cambridge, MA"
+        "location": "Cambridge, MA",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Space & Strategic Navigation Intern (Summer 2027)",
@@ -119567,121 +119619,25 @@
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
     },
-    "Nvidia": {
-      "since": "2026-11-16",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
-    },
-    "Salesforce": {
-      "since": "2026-11-16",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs"
-    },
-    "Intel": {
-      "since": "2026-11-16",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
-    },
-    "Blue Origin": {
-      "since": "2026-11-16",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/BlueOrigin/jobs"
-    },
-    "Snap": {
-      "since": "2026-11-16",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
-    },
-    "Workday": {
-      "since": "2026-11-16",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday_Early_Career/jobs"
-    },
-    "Slack": {
-      "since": "2026-11-16",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/Slack/jobs"
-    },
-    "Expedia": {
-      "since": "2026-11-16",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://expedia.wd108.myworkdayjobs.com/wday/cxs/expedia/search/jobs"
-    },
-    "Rockwell Automation": {
-      "since": "2026-11-16",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
-    },
     "Unity": {
       "since": "2026-11-16",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
-    },
-    "RedHat": {
-      "since": "2026-11-16",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://redhat.wd5.myworkdayjobs.com/wday/cxs/redhat/jobs/jobs"
-    },
-    "Verizon": {
-      "since": "2026-11-16",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://verizon.wd12.myworkdayjobs.com/wday/cxs/verizon/verizon-careers/jobs"
-    },
-    "Leidos": {
-      "since": "2026-11-16",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://leidos.wd5.myworkdayjobs.com/wday/cxs/leidos/External/jobs"
     },
     "Razer": {
       "since": "2026-11-16",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
     },
-    "Target": {
-      "since": "2026-11-16",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
-    },
-    "Mosaic": {
-      "since": "2026-11-16",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://mosaic.wd5.myworkdayjobs.com/wday/cxs/mosaic/mosaic/jobs"
-    },
-    "T-Mobile": {
-      "since": "2026-11-16",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://tmobile.wd1.myworkdayjobs.com/wday/cxs/tmobile/External/jobs"
-    },
     "Samsung": {
       "since": "2026-11-16",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
-    },
-    "Medtronic": {
-      "since": "2026-11-16",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://medtronic.wd1.myworkdayjobs.com/wday/cxs/medtronic/MedtronicCareers/jobs"
-    },
-    "Zillow": {
-      "since": "2026-11-16",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://zillow.wd5.myworkdayjobs.com/wday/cxs/zillow/Zillow_Group_External/jobs"
     },
     "General Motors": {
       "since": "2026-11-16",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
     },
-    "Draper": {
-      "since": "2026-11-16",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://draper.wd5.myworkdayjobs.com/wday/cxs/draper/Draper_Careers/jobs"
-    },
-    "Stryker": {
-      "since": "2026-11-16",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs"
-    },
-    "Johnson & Johnson": {
-      "since": "2026-11-16",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs"
-    },
-    "PROCEPT BioRobotics": {
-      "since": "2026-11-16",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://proceptbiorobotics.wd108.myworkdayjobs.com/wday/cxs/proceptbiorobotics/PROCEPT/jobs"
-    },
     "ABB": {
       "since": "2026-11-16",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
-    },
-    "Caterpillar": {
-      "since": "2026-11-16",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://cat.wd5.myworkdayjobs.com/wday/cxs/cat/CaterpillarCareers/jobs"
-    },
-    "Northrop Grumman": {
-      "since": "2026-11-16",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ngc.wd1.myworkdayjobs.com/wday/cxs/ngc/Northrop_Grumman_External_Site/jobs"
-    },
-    "Slate Auto": {
-      "since": "2026-11-16",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
     },
     "Oshkosh": {
       "since": "2026-11-16",
