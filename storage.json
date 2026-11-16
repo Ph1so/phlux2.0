@@ -8943,6 +8943,13 @@
         "id": "lever:6c9002a1-6ed1-42b7-829c-5ba6661446ac",
         "url": "https://jobs.lever.co/tri/6c9002a1-6ed1-42b7-829c-5ba6661446ac",
         "location": "Cambridge, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Intern, Spatial Intelligence for Robotics",
+        "date": "2026-11-16",
+        "id": "lever:2d65fd58-00bb-49bc-b4db-e381df1ebd1e",
+        "url": "https://jobs.lever.co/tri/2d65fd58-00bb-49bc-b4db-e381df1ebd1e",
+        "location": "Cambridge, MA"
       }
     ],
     "Mitsubishi Electric Research Laboratories": [
@@ -10699,20 +10706,29 @@
         "date": "2026-11-09",
         "id": "smartrecruiters:744000160747319",
         "url": "https://jobs.smartrecruiters.com/Intuitive/744000160747319",
-        "location": "Sunnyvale, CA"
+        "location": "Sunnyvale, CA",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Electrical Engineering Intern",
         "date": "2026-11-09",
         "id": "smartrecruiters:744000160746789",
         "url": "https://jobs.smartrecruiters.com/Intuitive/744000160746789",
-        "location": "Sunnyvale, CA"
+        "location": "Sunnyvale, CA",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Clinical Research Intern",
         "date": "2026-11-13",
         "id": "smartrecruiters:744000161532709",
         "url": "https://jobs.smartrecruiters.com/Intuitive/744000161532709",
+        "location": "Sunnyvale, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Clinical Research Engineering Intern",
+        "date": "2026-11-16",
+        "id": "smartrecruiters:744000161861679",
+        "url": "https://jobs.smartrecruiters.com/Intuitive/744000161861679",
         "location": "Sunnyvale, CA"
       }
     ],
@@ -13626,7 +13642,8 @@
         "date": "N/A",
         "id": "greenhouse:6105233004",
         "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6105233004",
-        "location": "Hybrid- Fremont, CA"
+        "location": "Hybrid- Fremont, CA",
+        "closed": "2026-11-16"
       },
       {
         "title": "Staff Triage & RCA Engineer",
@@ -15836,7 +15853,8 @@
         "date": "N/A",
         "id": "greenhouse:8003402003",
         "url": "https://motional.com/open-positions/?gh_jid=8003402003#/8003402003",
-        "location": "Pittsburgh, Pennsylvania, United States"
+        "location": "Pittsburgh, Pennsylvania, United States",
+        "closed": "2026-11-16"
       },
       {
         "title": "Senior C++ Software Engineer/Engineer, Cloud Apps (Embedded)",
@@ -16737,7 +16755,8 @@
         "date": "N/A",
         "id": "greenhouse:5828347004",
         "url": "https://boards.greenhouse.io/apptronik/jobs/6237444004?gh_jid=6237444004",
-        "location": "Austin, TX"
+        "location": "Austin, TX",
+        "closed": "2026-11-16"
       },
       {
         "title": "Product Quality Manager",
@@ -17055,6 +17074,13 @@
         "date": "2026-11-15",
         "id": "greenhouse:6262296004",
         "url": "https://boards.greenhouse.io/apptronik/jobs/6262296004?gh_jid=6262296004",
+        "location": "Austin, TX"
+      },
+      {
+        "title": "Staff Technical Program Manager, Robot Software",
+        "date": "2026-11-16",
+        "id": "greenhouse:6262469004",
+        "url": "https://boards.greenhouse.io/apptronik/jobs/6262469004?gh_jid=6262469004",
         "location": "Austin, TX"
       }
     ],
@@ -18773,6 +18799,14 @@
         "id": "greenhouse:4413836009",
         "url": "https://job-boards.greenhouse.io/avride/jobs/4413836009",
         "location": "Tempe, Arizona"
+      },
+      {
+        "title": "Robot Service Technician Assistant \u2013 Part Time Weekday",
+        "date": "2026-11-16",
+        "id": "greenhouse:4414491009",
+        "url": "https://job-boards.greenhouse.io/avride/jobs/4414491009",
+        "location": "Tempe, Arizona",
+        "early": "and we are hiring a motivated, entry-level Robot Service Technician Assistant to support this exciting deployment."
       }
     ],
     "May Mobility": [
@@ -29550,7 +29584,8 @@
         "date": "N/A",
         "id": "ashby:a0d77cc5-555f-46d8-89b1-e1df201a77dc",
         "url": "https://jobs.ashbyhq.com/MaticRobots/a0d77cc5-555f-46d8-89b1-e1df201a77dc",
-        "location": "Menlo Park, CA"
+        "location": "Menlo Park, CA",
+        "closed": "2026-11-16"
       },
       {
         "title": "Content Creator",
@@ -30550,7 +30585,8 @@
         "date": "N/A",
         "id": "ashby:d28628a5-bf3d-4171-a6ce-eb2db88ecf89",
         "url": "https://jobs.ashbyhq.com/AeroVect/d28628a5-bf3d-4171-a6ce-eb2db88ecf89",
-        "location": "Remote +6"
+        "location": "Remote +6",
+        "closed": "2026-11-16"
       },
       {
         "title": "Software Engineer, ML Ops",
@@ -30970,6 +31006,20 @@
         "id": "ashby:c8437753-a85c-45c8-973c-8e7f1897423f",
         "url": "https://jobs.ashbyhq.com/AeroVect/c8437753-a85c-45c8-973c-8e7f1897423f",
         "location": "Boston - Remote +17"
+      },
+      {
+        "title": "Software Engineer, Simulation",
+        "date": "2026-11-16",
+        "id": "ashby:9aa029df-2e64-42a4-8822-a7d0bb766c10",
+        "url": "https://jobs.ashbyhq.com/AeroVect/9aa029df-2e64-42a4-8822-a7d0bb766c10",
+        "location": "Remote"
+      },
+      {
+        "title": "Senior Software Engineer, Motion Planning",
+        "date": "2026-11-16",
+        "id": "ashby:85f76a52-86de-43d3-bc0d-db4bf225bb33",
+        "url": "https://jobs.ashbyhq.com/AeroVect/85f76a52-86de-43d3-bc0d-db4bf225bb33",
+        "location": "Remote"
       }
     ],
     "Gather AI": [
@@ -39110,6 +39160,27 @@
         "id": "ashby:1a54b72e-22d4-491e-b0ec-826636356c8c",
         "url": "https://jobs.ashbyhq.com/applied/1a54b72e-22d4-491e-b0ec-826636356c8c",
         "location": "Munich +2"
+      },
+      {
+        "title": "Regulatory Counsel",
+        "date": "2026-11-16",
+        "id": "ashby:1ad23b80-bd73-41ae-9f3a-50fb1bee0b69",
+        "url": "https://jobs.ashbyhq.com/applied/1ad23b80-bd73-41ae-9f3a-50fb1bee0b69",
+        "location": "Munich"
+      },
+      {
+        "title": "Regulatory Counsel",
+        "date": "2026-11-16",
+        "id": "ashby:c45db702-71b7-4146-aa66-c5c29d1d1b7a",
+        "url": "https://jobs.ashbyhq.com/applied/c45db702-71b7-4146-aa66-c5c29d1d1b7a",
+        "location": "London"
+      },
+      {
+        "title": "Regulatory Counsel",
+        "date": "2026-11-16",
+        "id": "ashby:524cc6db-8c65-48e1-bdc5-b6fe631af238",
+        "url": "https://jobs.ashbyhq.com/applied/524cc6db-8c65-48e1-bdc5-b6fe631af238",
+        "location": "Stuttgart"
       }
     ],
     "FieldAI": [
@@ -48026,7 +48097,8 @@
         "date": "2026-10-14",
         "id": "ashby:4963035d-84f5-4488-9964-c63b1e6660c9",
         "url": "https://jobs.ashbyhq.com/saronic/4963035d-84f5-4488-9964-c63b1e6660c9",
-        "location": "Portsmouth, UK"
+        "location": "Portsmouth, UK",
+        "closed": "2026-11-16"
       },
       {
         "title": "Mission Operations Specialist (Product)",
@@ -48040,15 +48112,18 @@
         "date": "2026-10-14",
         "id": "ashby:d01d4903-eef6-45f6-83b8-06b40abae2d5",
         "url": "https://jobs.ashbyhq.com/saronic/d01d4903-eef6-45f6-83b8-06b40abae2d5",
-        "location": "San Diego, CA"
+        "location": "San Diego, CA",
+        "closed": "2026-11-16"
       },
       {
         "title": "Mission Operations Specialist (Program)",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "closed": "2026-11-16"
       },
       {
         "title": "Mission Operations Specialist (Program)",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "closed": "2026-11-16"
       },
       {
         "title": "Mission Operations Specialist, Training",
@@ -49163,6 +49238,13 @@
         "id": "ashby:937bd66a-a89c-47d5-a3d6-36dbb549ec4b",
         "url": "https://jobs.ashbyhq.com/saronic/937bd66a-a89c-47d5-a3d6-36dbb549ec4b",
         "location": "Austin, TX +1"
+      },
+      {
+        "title": "IT Systems Engineer",
+        "date": "2026-11-16",
+        "id": "ashby:4b601575-99ba-4a5e-962f-d884bb3a85ac",
+        "url": "https://jobs.ashbyhq.com/saronic/4b601575-99ba-4a5e-962f-d884bb3a85ac",
+        "location": "Austin, TX"
       }
     ],
     "Built Robotics": [
@@ -49785,6 +49867,13 @@
         "id": "ashby:4116a9ff-dc37-4b8d-b227-977422d460dd",
         "url": "https://jobs.ashbyhq.com/reliable-robotics/4116a9ff-dc37-4b8d-b227-977422d460dd",
         "location": "Mountain View, CA +1"
+      },
+      {
+        "title": "\u2b50\ufe0f Displays Engineer Intern (Summer 2027)",
+        "date": "2026-11-16",
+        "id": "ashby:6112c488-7072-4ce3-8c0f-645faa0e7cf9",
+        "url": "https://jobs.ashbyhq.com/reliable-robotics/6112c488-7072-4ce3-8c0f-645faa0e7cf9",
+        "location": "Mountain View, CA"
       }
     ],
     "ANYbotics": [
@@ -52693,7 +52782,8 @@
         "date": "2026-10-14",
         "id": "bamboohr:755",
         "url": "https://berkshiregrey.bamboohr.com/careers/755",
-        "location": "Bedford, MA"
+        "location": "Bedford, MA",
+        "closed": "2026-11-16"
       },
       {
         "title": "Principal Mechanical Engineer",
@@ -55380,7 +55470,8 @@
         "date": "2026-10-14",
         "id": "workday:R7965",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Bot-Controls_R7965",
-        "location": "USA Wilmington, MA - HQ"
+        "location": "USA Wilmington, MA - HQ",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Intern - User Experience",
@@ -55392,7 +55483,8 @@
         "date": "2026-10-14",
         "id": "workday:R7963",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer_R7963",
-        "location": "USA Wilmington, MA - HQ"
+        "location": "USA Wilmington, MA - HQ",
+        "closed": "2026-11-16"
       },
       {
         "title": "Cell Operator",
@@ -55807,7 +55899,8 @@
         "date": "2026-10-22",
         "id": "workday:R7964",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Robot-Perception_R7964",
-        "location": "USA Wilmington, MA - HQ"
+        "location": "USA Wilmington, MA - HQ",
+        "closed": "2026-11-16"
       },
       {
         "title": "Senior Software Engineer (C#, React)",
@@ -56029,7 +56122,8 @@
         "date": "2026-10-22",
         "id": "workday:R7628",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Principal-Cloud-Architect_R7628",
-        "location": "USA Wilmington, MA - HQ"
+        "location": "USA Wilmington, MA - HQ",
+        "closed": "2026-11-16"
       },
       {
         "title": "Test Engineer",
@@ -61076,6 +61170,20 @@
         "id": "workday:JR00037463",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-SC-Florence/Plant-Manager_JR00037463",
         "location": "USA, SC, Florence"
+      },
+      {
+        "title": "Assembler - 3rd Shift",
+        "date": "2026-11-16",
+        "id": "workday:JR00052937",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-TN-Portland/Assembler---3rd-Shift_JR00052937",
+        "location": "USA, TN, Portland"
+      },
+      {
+        "title": "Assembler - 2nd Shift",
+        "date": "2026-11-16",
+        "id": "workday:JR00052940",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-TN-Portland/Assembler---2nd-Shift_JR00052940",
+        "location": "USA, TN, Portland"
       }
     ],
     "Teradyne": [
@@ -64481,6 +64589,20 @@
         "id": "adp:575682",
         "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=575682&lang=en_US",
         "location": "Houston, TX"
+      },
+      {
+        "title": "\u2b50\ufe0f Mission Operations Support Engineering Intern",
+        "date": "2026-11-16",
+        "id": "adp:575749",
+        "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=575749&lang=en_US",
+        "location": "Houston, TX"
+      },
+      {
+        "title": "\u2b50\ufe0f Integrated Testing Intern",
+        "date": "2026-11-16",
+        "id": "adp:575748",
+        "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=575748&lang=en_US",
+        "location": "Houston, TX"
       }
     ],
     "Zimmer Biomet": [
@@ -65556,7 +65678,8 @@
         "date": "N/A",
         "id": "greenhouse:4476494009",
         "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4476494009",
-        "location": "Pittsburgh, PA"
+        "location": "Pittsburgh, PA",
+        "closed": "2026-11-16"
       },
       {
         "title": "Project Engineer - Construction",
@@ -65994,6 +66117,13 @@
         "id": "greenhouse:4469752009",
         "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4469752009",
         "location": "Pueblo, CO"
+      },
+      {
+        "title": "IPT Lead - Operations",
+        "date": "2026-11-16",
+        "id": "greenhouse:4507267009",
+        "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4507267009",
+        "location": "Littleton, CO"
       }
     ],
     "FANUC America": [
@@ -67577,6 +67707,10 @@
       {
         "title": "Tech Talent Acquisition Partner (F/H) - CDD 12 mois",
         "date": "2026-11-15"
+      },
+      {
+        "title": "Integrator Customer Success Engineer - Warehouse Robotics Automation",
+        "date": "2026-11-16"
       }
     ],
     "Humble Robotics": [
@@ -67708,7 +67842,8 @@
         "date": "2026-10-22",
         "id": "rippling:f176aaaf-e54b-4ca6-82d8-f9b39e5e4cd8",
         "url": "https://ats.rippling.com/walden-robotics/jobs/f176aaaf-e54b-4ca6-82d8-f9b39e5e4cd8",
-        "location": "Cambridge, MA"
+        "location": "Cambridge, MA",
+        "closed": "2026-11-16"
       },
       {
         "title": "Senior Corporate Security Engineer",
@@ -71251,6 +71386,13 @@
         "id": "workday:R10260394",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Manufacturing-Engineering-Intern---Sunnyvale-CA_R10260394",
         "location": "United States-California-Sunnyvale"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Manufacturing Engineer Intern - Salt Lake City UT",
+        "date": "2026-11-16",
+        "id": "workday:R10260837",
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Salt-Lake-City/XMLNAME-2027-Manufacturing-Engineer-Intern----Salt-Lake-City-UT_R10260837",
+        "location": "United States-Utah-Salt Lake City"
       }
     ],
     "OpenAI": [
@@ -72693,7 +72835,8 @@
         "date": "2026-10-22",
         "id": "ashby:5ce0931f-aba7-4c7d-9fca-1e278bf75473",
         "url": "https://jobs.ashbyhq.com/openai/5ce0931f-aba7-4c7d-9fca-1e278bf75473",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-16"
       },
       {
         "title": "Senior Manager, Accounts Payable - Compute",
@@ -73933,7 +74076,8 @@
         "date": "2026-10-22",
         "id": "ashby:6628eb95-ede3-49ab-a11f-3d5c44b16bbb",
         "url": "https://jobs.ashbyhq.com/openai/6628eb95-ede3-49ab-a11f-3d5c44b16bbb",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-16"
       },
       {
         "title": "Regional Manager, Ads Solutions (APAC)",
@@ -73961,7 +74105,8 @@
         "date": "2026-10-22",
         "id": "ashby:d3d17f29-fbaf-4697-a6ed-aaa0055ecc5c",
         "url": "https://jobs.ashbyhq.com/openai/d3d17f29-fbaf-4697-a6ed-aaa0055ecc5c",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-16"
       },
       {
         "title": "Solutions Engineer, Ads Solutions - Singapore",
@@ -77575,7 +77720,8 @@
         "date": "2026-11-03",
         "id": "ashby:e586578c-2489-4214-92c4-d9639339fe59",
         "url": "https://jobs.ashbyhq.com/openai/e586578c-2489-4214-92c4-d9639339fe59",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-16"
       },
       {
         "title": "AI Partner Director",
@@ -78000,7 +78146,8 @@
         "date": "2026-11-09",
         "id": "ashby:eb3b695e-6c60-4875-b8bc-8f4d5d8a9bbb",
         "url": "https://jobs.ashbyhq.com/openai/eb3b695e-6c60-4875-b8bc-8f4d5d8a9bbb",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-16"
       },
       {
         "title": "Account Director, Higher Education",
@@ -78551,6 +78698,13 @@
         "id": "ashby:103402a5-6391-4cf9-8a87-634695303f04",
         "url": "https://jobs.ashbyhq.com/openai/103402a5-6391-4cf9-8a87-634695303f04",
         "location": "Delhi, India"
+      },
+      {
+        "title": "Applied AI Engineer - Startups",
+        "date": "2026-11-16",
+        "id": "ashby:980bc2ea-2c35-4546-bb48-5496a4e6847f",
+        "url": "https://jobs.ashbyhq.com/openai/980bc2ea-2c35-4546-bb48-5496a4e6847f",
+        "location": "London, UK +4"
       }
     ],
     "John Deere": [
@@ -80440,7 +80594,8 @@
         "date": "2026-11-16",
         "id": "lever:0ea9583a-7cee-48d2-91b7-efaa08725de2",
         "url": "https://jobs.eu.lever.co/mobileye/0ea9583a-7cee-48d2-91b7-efaa08725de2",
-        "location": "Jerusalem, Israel"
+        "location": "Jerusalem, Israel",
+        "closed": "2026-11-16"
       },
       {
         "title": "Algorithm Group Manager - Close Range 3D Perception",
@@ -80454,7 +80609,8 @@
         "date": "2026-11-16",
         "id": "lever:bbeb4626-09ea-4975-b5a2-56e4441b8784",
         "url": "https://jobs.eu.lever.co/mobileye/bbeb4626-09ea-4975-b5a2-56e4441b8784",
-        "location": "Jerusalem, Israel"
+        "location": "Jerusalem, Israel",
+        "closed": "2026-11-16"
       },
       {
         "title": "Data Scientist",
@@ -82762,7 +82918,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:4412075009",
         "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4412075009",
-        "location": "Cambridge, MA USA"
+        "location": "Cambridge, MA USA",
+        "closed": "2026-11-16"
       },
       {
         "title": "Senior Human Factors Engineer I/II, Robotics",
@@ -99451,7 +99608,8 @@
         "date": "N/A",
         "id": "greenhouse:8052118",
         "url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118",
-        "location": "Boston, Massachusetts, USA; New York, New York, USA"
+        "location": "Boston, Massachusetts, USA; New York, New York, USA",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Intern",
@@ -107335,7 +107493,8 @@
         "date": "N/A",
         "id": "jibe:8138",
         "url": "https://careers.sig.com/jobs/8138",
-        "location": "Bala Cynwyd (Philadelphia Area), PA"
+        "location": "Bala Cynwyd (Philadelphia Area), PA",
+        "closed": "2026-11-16"
       },
       {
         "title": "Senior Data Engineer",
@@ -109195,7 +109354,8 @@
         "date": "2026-11-13",
         "id": "eightfold:563602813519128",
         "url": "https://bostonscientific.eightfold.ai/careers/job/563602813519128",
-        "location": "Maple Grove, MN"
+        "location": "Maple Grove, MN",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f AI Acceleration Intern",
@@ -114567,6 +114727,13 @@
         "id": "workday:REQ381212",
         "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Data-Product-Internship_REQ381212",
         "location": "Bellevue, Washington"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Assoc Program Manager Internship",
+        "date": "2026-11-16",
+        "id": "workday:REQ381566",
+        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-Program-Manager-Internship_REQ381566",
+        "location": "Overland Park, Kansas"
       }
     ],
     "Akuna Capital": [
@@ -114976,7 +115143,8 @@
         "date": "N/A",
         "id": "phenom:R117565",
         "url": "https://careers.mitre.org/us/en/job/R117565/Computer-and-Data-Science-Intern",
-        "location": "Bellevue, NE +1"
+        "location": "Bellevue, NE +1",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Trustworthy AI Intern",
@@ -118965,6 +119133,10 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
+    },
+    "Tesla": {
+      "since": "2026-11-16",
+      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
     }
   },
   "closures_untracked": {
