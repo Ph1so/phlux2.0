@@ -1011,7 +1011,8 @@
         "date": "2026-10-16",
         "id": "eightfold:1970393557042145",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557042145",
-        "location": "United States, NY +1"
+        "location": "United States, NY +1",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - MSR AI Interaction and Learning",
@@ -42693,7 +42694,8 @@
         "date": "N/A",
         "id": "google:82988974666064582",
         "url": "https://www.google.com/about/careers/applications/jobs/results/82988974666064582",
-        "location": "Bengaluru, Karnataka, India"
+        "location": "Bengaluru, Karnataka, India",
+        "closed": "2026-11-16"
       },
       {
         "title": "Research Scientist, Gemini Vision, DeepMind",
@@ -57554,8 +57556,7 @@
         "date": "2026-10-20",
         "id": "workday:JR00048198",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Houston-Texas-United-States-of-America/Electrification-Sales-Internship---Summer-2027_JR00048198",
-        "location": "Houston, Texas, United States of America",
-        "closed": "2026-11-16"
+        "location": "Houston, Texas, United States of America"
       },
       {
         "title": "Global Category Manager for EMS, Motion Drive Products (multiple locations)",
@@ -58976,8 +58977,7 @@
         "date": "N/A",
         "id": "workday:JR00051359",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MA-Quincy/Engineering-Sales-Intern---Summer-2027_JR00051359",
-        "location": "USA, MA, Quincy",
-        "closed": "2026-11-16"
+        "location": "USA, MA, Quincy"
       },
       {
         "title": "Assembler",
@@ -60511,8 +60511,7 @@
         "date": "N/A",
         "id": "workday:JR00050987",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Cary/Sales-Excellence-Data-Analytics-Intern---Summer-2027_JR00050987",
-        "location": "USA, NC, Cary",
-        "closed": "2026-11-16"
+        "location": "USA, NC, Cary"
       },
       {
         "title": "Field Application Engineer",
@@ -70624,6 +70623,13 @@
         "id": "greenhouse:4979082101",
         "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=4979082101&gh_jid=4979082101",
         "location": "Hatfield, United Kingdom"
+      },
+      {
+        "title": "Senior Finance Business Partner",
+        "date": "2026-11-16",
+        "id": "greenhouse:5033813101",
+        "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=5033813101&gh_jid=5033813101",
+        "location": "Hatfield, United Kingdom"
       }
     ],
     "Northrop Grumman": [
@@ -80216,8 +80222,7 @@
         "date": "2026-11-11",
         "id": "lever:3598731b-e2b3-4bd2-8bce-7a17aecf7421",
         "url": "https://jobs.eu.lever.co/mobileye/3598731b-e2b3-4bd2-8bce-7a17aecf7421",
-        "location": "Jerusalem, Israel",
-        "closed": "2026-11-15"
+        "location": "Jerusalem, Israel"
       },
       {
         "title": "Integration and Validation Architect",
@@ -80273,7 +80278,8 @@
         "date": "2026-11-15",
         "id": "lever:0f7431cb-235a-4985-a57c-07d6cb2ceb45",
         "url": "https://jobs.eu.lever.co/mobileye/0f7431cb-235a-4985-a57c-07d6cb2ceb45",
-        "location": "Munich, Germany"
+        "location": "Munich, Germany",
+        "closed": "2026-11-16"
       },
       {
         "title": "System Integration and Testing Expert Cyber Focus (m/w/d)",
@@ -80323,6 +80329,13 @@
         "id": "lever:c57aff9f-88fb-4fa2-b970-60c59a16b58b",
         "url": "https://jobs.eu.lever.co/mobileye/c57aff9f-88fb-4fa2-b970-60c59a16b58b",
         "location": "Petah Tikva, Israel"
+      },
+      {
+        "title": "Data Product Manager",
+        "date": "2026-11-16",
+        "id": "lever:02a8ccb8-8d69-4862-a85a-5b28b5777716",
+        "url": "https://jobs.eu.lever.co/mobileye/02a8ccb8-8d69-4862-a85a-5b28b5777716",
+        "location": "Jerusalem, Israel"
       }
     ],
     "Dusty Robotics": [
@@ -111050,7 +111063,8 @@
         "date": "2026-11-13",
         "id": "talentbrew:102343795584",
         "url": "https://www.disneycareers.com/en/job/glendale/product-and-technology-software-engineering-intern-summer-2027/391/102343795584",
-        "location": "Glendale, CA +2"
+        "location": "Glendale, CA +2",
+        "closed": "2026-11-16"
       }
     ],
     "Goldman Sachs": [
@@ -118575,7 +118589,7 @@
     "ispace": "2026-11-16",
     "Pinterest": "2026-11-16",
     "Intel": "2026-11-16",
-    "LinkedIn": "2026-11-15",
+    "LinkedIn": "2026-11-16",
     "Liberty Mutual": "2026-11-16",
     "Salesforce": "2026-11-16",
     "PayPal": "2026-11-16",
