@@ -865,8 +865,7 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557027378",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557027378",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-15"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Intern - CTJ - TS",
@@ -68230,14 +68229,16 @@
         "date": "2026-10-22",
         "id": "lever:9e9570ad-2cf0-46e7-94c4-20b71a222439",
         "url": "https://jobs.lever.co/woven-by-toyota/9e9570ad-2cf0-46e7-94c4-20b71a222439",
-        "location": "Tokyo"
+        "location": "Tokyo",
+        "closed": "2026-11-15"
       },
       {
         "title": "\u30b7\u30b9\u30c6\u30e0\u8981\u6c42\u30a8\u30f3\u30b8\u30cb\u30a2\u30fbIn-Cabin Perception",
         "date": "2026-10-22",
         "id": "lever:ac4d381a-4744-4c20-9db4-63b5451f70e1",
         "url": "https://jobs.lever.co/woven-by-toyota/ac4d381a-4744-4c20-9db4-63b5451f70e1",
-        "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a"
+        "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a",
+        "closed": "2026-11-15"
       },
       {
         "title": "\u30b7\u30cb\u30a2\u30b7\u30b9\u30c6\u30e0\u8981\u4ef6\u30a8\u30f3\u30b8\u30cb\u30a2\u30fbAD/ADAS",
@@ -92983,7 +92984,8 @@
         "date": "2026-11-01",
         "id": "greenhouse:5287168008",
         "url": "https://job-boards.greenhouse.io/icarus/jobs/5287168008",
-        "location": "El Segundo"
+        "location": "El Segundo",
+        "closed": "2026-11-15"
       },
       {
         "title": "Flight Operations Generalist",
@@ -93131,7 +93133,8 @@
         "date": "2026-11-06",
         "id": "greenhouse:5281181008",
         "url": "https://job-boards.greenhouse.io/icarus/jobs/5281181008",
-        "location": "El Segundo"
+        "location": "El Segundo",
+        "closed": "2026-11-15"
       },
       {
         "title": "Head of Supply Chain",
@@ -118468,30 +118471,6 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
-    },
-    "Slate Auto": {
-      "since": "2026-11-15",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
-    },
-    "Salesforce": {
-      "since": "2026-11-15",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs"
-    },
-    "Slack": {
-      "since": "2026-11-15",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/Slack/jobs"
-    },
-    "Expedia": {
-      "since": "2026-11-15",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://expedia.wd108.myworkdayjobs.com/wday/cxs/expedia/search/jobs"
-    },
-    "Verizon": {
-      "since": "2026-11-15",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://verizon.wd12.myworkdayjobs.com/wday/cxs/verizon/verizon-careers/jobs"
-    },
-    "Symbotic": {
-      "since": "2026-11-15",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://symbotic.wd504.myworkdayjobs.com/wday/cxs/symbotic/Symbotic/jobs"
     }
   },
   "closures_untracked": {
