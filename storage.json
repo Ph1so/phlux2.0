@@ -851,7 +851,8 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557040502",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557040502",
-        "location": "United States, Massachusetts, Cambridge +1"
+        "location": "United States, Massachusetts, Cambridge +1",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Audio and Acoustics",
@@ -982,7 +983,8 @@
         "date": "2026-10-14",
         "id": "eightfold:1970393557041012",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557041012",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Researcher Intern, CoreAI",
@@ -1004,7 +1006,8 @@
         "date": "2026-10-16",
         "id": "eightfold:1970393557041730",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557045445",
-        "location": "United States, Washington, Redmond +1"
+        "location": "United States, Washington, Redmond +1",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Machine Learning at MSR NYC",
@@ -1032,7 +1035,8 @@
         "date": "2026-10-19",
         "id": "eightfold:1970393557043754",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557043754",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Business Program Management INTERN",
@@ -1254,7 +1258,8 @@
         "date": "2026-11-13",
         "id": "eightfold:1970393556986148",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556986148",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - AI Coding Agents",
@@ -12945,8 +12950,7 @@
         "date": "2026-10-22",
         "id": "workday:JR-202622372-1",
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/GVHE-Hardware-Software-Co-Optimization-Architect_JR-202622372-1",
-        "location": "Warren, Michigan, United States of America",
-        "closed": "2026-11-05"
+        "location": "Warren, Michigan, United States of America"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles",
@@ -13047,6 +13051,13 @@
         "id": "workday:JR-202624129",
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Automotive-Technician_JR-202624129",
         "location": "Milford, Michigan, United States of America"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Manufacturing Intern - University of Buffalo",
+        "date": "2026-11-16",
+        "id": "workday:JR-202623880-1",
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Lockport-New-York-United-States-of-America/XMLNAME-2027-Manufacturing-Intern---University-of-Buffalo_JR-202623880-1",
+        "location": "Lockport, New York, United States of America"
       }
     ],
     "Locus Robotics": [
@@ -14890,6 +14901,13 @@
         "id": "greenhouse:8943158002",
         "url": "https://boards.greenhouse.io/pathrobotics/jobs/8943158002?gh_jid=8943158002",
         "location": "Columbus, Ohio"
+      },
+      {
+        "title": "Robotics Software Engineer, Systems Integration",
+        "date": "2026-11-16",
+        "id": "greenhouse:8944480002",
+        "url": "https://boards.greenhouse.io/pathrobotics/jobs/8944480002?gh_jid=8944480002",
+        "location": "Columbus, Ohio"
       }
     ],
     "Figure AI": [
@@ -16288,6 +16306,13 @@
         "id": "greenhouse:8203976003",
         "url": "https://motional.com/open-positions/?gh_jid=8203976003#/8203976003",
         "location": "Las Vegas, Nevada, United States"
+      },
+      {
+        "title": "Staff Software Engineer - Data & ML Systems (Behaviors)",
+        "date": "2026-11-16",
+        "id": "greenhouse:8204928003",
+        "url": "https://motional.com/open-positions/?gh_jid=8204928003#/8204928003",
+        "location": "Singapore, Central, Singapore"
       }
     ],
     "Apptronik": [
@@ -43333,6 +43358,13 @@
         "id": "google:99377853413368518",
         "url": "https://www.google.com/about/careers/applications/jobs/results/99377853413368518",
         "location": "Mountain View, CA"
+      },
+      {
+        "title": "Research Software Engineer, Protein Design, DeepMind",
+        "date": "2026-11-16",
+        "id": "google:97546513718092486",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/97546513718092486",
+        "location": "London, UK"
       }
     ],
     "Wing": [
@@ -52911,7 +52943,8 @@
         "date": "2026-10-21",
         "id": "paylocity:4588225",
         "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4588225",
-        "location": "Remote"
+        "location": "Remote",
+        "closed": "2026-11-16"
       },
       {
         "title": "ENGINEER, EMBEDDED SYSTEMS (ELECTRONICS)",
@@ -57914,7 +57947,8 @@
         "date": "2026-10-21",
         "id": "workday:JR00050404",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-California-United-States-of-America/Pharmaceutical-Biotechnology-Segment-Leader_JR00050404",
-        "location": "183 Locations"
+        "location": "183 Locations",
+        "closed": "2026-11-16"
       },
       {
         "title": "R&D Senior Technical Specialist",
@@ -60960,6 +60994,27 @@
         "id": "workday:JR00037045",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-OH-Cleveland/Associate-Demand-Field-Service-Technician_JR00037045",
         "location": "USA, OH, Cleveland"
+      },
+      {
+        "title": "Machine Operator-CNC 1st Shift",
+        "date": "2026-11-16",
+        "id": "workday:JR00053186",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Ormond-Beach-Florida-United-States-of-America/Machine-Operator-CNC-1st-Shift_JR00053186",
+        "location": "Ormond Beach, Florida, United States of America"
+      },
+      {
+        "title": "Machine Operator-CNC 3rd Shift",
+        "date": "2026-11-16",
+        "id": "workday:JR00053181",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Ormond-Beach-Florida-United-States-of-America/Machine-Operator-CNC-3rd-Shift_JR00053181",
+        "location": "Ormond Beach, Florida, United States of America"
+      },
+      {
+        "title": "Plant Manager",
+        "date": "2026-11-16",
+        "id": "workday:JR00037463",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-SC-Florence/Plant-Manager_JR00037463",
+        "location": "USA, SC, Florence"
       }
     ],
     "Teradyne": [
@@ -63793,7 +63848,8 @@
         "date": "N/A",
         "id": "adp:575058",
         "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=575058&lang=en_US",
-        "location": "Houston, TX"
+        "location": "Houston, TX",
+        "closed": "2026-11-16"
       },
       {
         "title": "JR Spaceflight Hardware Propulsion Engineer",
@@ -64292,8 +64348,7 @@
         "date": "N/A",
         "id": "adp:559899",
         "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=559899&lang=en_US",
-        "location": "Houston, TX",
-        "closed": "2026-11-13"
+        "location": "Houston, TX"
       },
       {
         "title": "\u2b50\ufe0f Marketing & Communications Operations Intern",
@@ -80327,7 +80382,8 @@
         "date": "2026-11-16",
         "id": "lever:babc54fb-939c-44a4-ba19-fa39b10d6831",
         "url": "https://jobs.eu.lever.co/mobileye/babc54fb-939c-44a4-ba19-fa39b10d6831",
-        "location": "Ramat Gan, Israel"
+        "location": "Ramat Gan, Israel",
+        "closed": "2026-11-16"
       },
       {
         "title": "Deep Learning Developer - REM Modeling",
@@ -82158,7 +82214,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:4465070009",
         "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4465070009",
-        "location": "Cambridge, MA USA"
+        "location": "Cambridge, MA USA",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Co-Op, Characterization Electrodeposited Material",
@@ -91677,7 +91734,8 @@
         "title": "Technical Program Manager, Pre-Training",
         "date": "2026-10-29",
         "id": "ashby:5ddc26f7-f4f3-40c0-aa66-f0f04d51a218",
-        "closed": "N/A"
+        "url": "https://jobs.ashbyhq.com/ThinkingMachines/5ddc26f7-f4f3-40c0-aa66-f0f04d51a218",
+        "location": "San Francisco"
       },
       {
         "title": "Head of Revenue Operations",
@@ -94576,6 +94634,13 @@
         "id": "workday:R49617",
         "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Advanced-Manufacturing-Intern_R49617",
         "location": "McConnellsburg, Pennsylvania, United States"
+      },
+      {
+        "title": "\u2b50\ufe0f Autonomy Intern",
+        "date": "2026-11-16",
+        "id": "workday:R52031",
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Autonomy-Intern_R52031",
+        "location": "Oshkosh, Wisconsin, United States"
       }
     ],
     "General Robotics": [
@@ -106577,7 +106642,8 @@
         "date": "N/A",
         "id": "jibe:11213",
         "url": "https://careers.sig.com/jobs/11213",
-        "location": "Bala Cynwyd (Philadelphia Area), PA"
+        "location": "Bala Cynwyd (Philadelphia Area), PA",
+        "closed": "2026-11-16"
       },
       {
         "title": "Operations Analyst Program: August 2027 Start",
@@ -107790,7 +107856,8 @@
         "date": "N/A",
         "id": "jibe:9922",
         "url": "https://careers.sig.com/jobs/9922",
-        "location": "Dublin, Ireland"
+        "location": "Dublin, Ireland",
+        "closed": "2026-11-16"
       },
       {
         "title": "Software Developer Productivity Engineer | HPC | Experienced Hire",
@@ -109027,6 +109094,20 @@
         "id": "eightfold:563602813519128",
         "url": "https://bostonscientific.eightfold.ai/careers/job/563602813519128",
         "location": "Maple Grove, MN"
+      },
+      {
+        "title": "\u2b50\ufe0f AI Acceleration Intern",
+        "date": "2026-11-16",
+        "id": "eightfold:563602813862390",
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602813862390",
+        "location": "Marlboro, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f AI Engineering Intern (Generative & Agentic AI)",
+        "date": "2026-11-16",
+        "id": "eightfold:563602813827837",
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602813827837",
+        "location": "Marlboro, MA"
       }
     ],
     "Cloudflare": [
@@ -114985,6 +115066,13 @@
         "id": "workday:JR002773-1",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/GN-C-Modeling--Simulation-and-Analysis-Intern--Summer-2027-_JR002773-1",
         "location": "Cambridge, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Space & Strategic Navigation Intern (Summer 2027)",
+        "date": "2026-11-16",
+        "id": "workday:JR003137",
+        "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Space---Strategic-Navigation-Intern--Summer-2027-_JR003137",
+        "location": "Cambridge, MA"
       }
     ],
     "JP Morgan Chase": [
@@ -118416,7 +118504,8 @@
         "date": "2026-11-15",
         "id": "lever:f018d281-4e94-411d-ae19-4d6141c09bde",
         "url": "https://jobs.lever.co/tutorintelligence/f018d281-4e94-411d-ae19-4d6141c09bde",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-16"
       },
       {
         "title": "Sourcing / Component Engineer",

@@ -12,7 +12,7 @@
 <p>
   <a href="https://ph1so.github.io/phlux2.0/"><img src="https://img.shields.io/badge/browse-internships-1f5fff?style=flat-square" alt="Browse internships"></a>
   <a href="https://github.com/Ph1so/phlux2.0/actions/workflows/job-scraper.yml"><img src="https://img.shields.io/github/actions/workflow/status/Ph1so/phlux2.0/job-scraper.yml?branch=main&style=flat-square&label=scraper" alt="Scraper status"></a>
-  <img src="https://img.shields.io/badge/roles_tracked-38k-475467?style=flat-square" alt="38,012 roles tracked">
+  <img src="https://img.shields.io/badge/roles_tracked-38k-475467?style=flat-square" alt="38,022 roles tracked">
 </p>
 
 <p><a href="https://ph1so.github.io/phlux2.0/"><b>Website</b></a> &nbsp;·&nbsp; <a href="listings/README.md"><b>All listings</b></a></p>
@@ -21,7 +21,7 @@
 
 ## Latest roles
 
-Showing the 633 most recent of 38,012 roles tracked across 295 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
+Showing the 630 most recent of 38,022 roles tracked across 295 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
 
 
 <table>
@@ -39,6 +39,27 @@ Showing the 633 most recent of 38,012 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.greyorange.com/company/careers/#th-job-section"><img src="https://cdn.brandfetch.io/greyorange.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="GreyOrange" height="20" style="vertical-align:middle; margin-right:6px;"> GreyOrange</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.greyorange.com/greyorange/jobview/software-development-engineer-in-test-i-gurugram-hq-2026090419271460">Software Development Engineer in Test I</a></div></td>
+  <td>2026-11-16</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM?Location_Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=81219c91208501029134b6999c1b05d6"><img src="https://cdn.brandfetch.io/gm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="General Motors" height="20" style="vertical-align:middle; margin-right:6px;"> General Motors</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Lockport-New-York-United-States-of-America/XMLNAME-2027-Manufacturing-Intern---University-of-Buffalo_JR-202623880-1">⭐️ 2027 Manufacturing Intern - University of Buffalo</a></div></td>
+  <td>2026-11-16</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=pathrobotics"><img src="https://cdn.brandfetch.io/path-robotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Path Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Path Robotics</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://boards.greenhouse.io/pathrobotics/jobs/8944480002?gh_jid=8944480002">Robotics Software Engineer, Systems Integration</a></div></td>
+  <td>2026-11-16</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/motional"><img src="https://cdn.brandfetch.io/motional.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Motional" height="20" style="vertical-align:middle; margin-right:6px;"> Motional</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://motional.com/open-positions/?gh_jid=8204928003#/8204928003">Staff Software Engineer - Data & ML Systems (Behaviors)</a></div></td>
   <td>2026-11-16</td>
 </tr>
   <tr>
@@ -92,6 +113,13 @@ Showing the 633 most recent of 38,012 roles tracked across 295 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.google.com/about/careers/applications/jobs/results?company=DeepMind"><img src="https://cdn.brandfetch.io/deepmind.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="DeepMind" height="20" style="vertical-align:middle; margin-right:6px;"> DeepMind</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.google.com/about/careers/applications/jobs/results/97546513718092486">Research Software Engineer, Protein Design, DeepMind</a></div></td>
+  <td>2026-11-16</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/saronic"><img src="https://cdn.brandfetch.io/saronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saronic" height="20" style="vertical-align:middle; margin-right:6px;"> Saronic</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/saronic/937bd66a-a89c-47d5-a3d6-36dbb549ec4b">Deputy Program Manager, GOCO / COCO</a></div></td>
@@ -109,6 +137,27 @@ Showing the 633 most recent of 38,012 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jj.wd5.myworkdayjobs.com/en-US/JJ?workerSubType=ca32b336cc4a472a863c62c03f6e63b6&workerSubType=c8cdc206cb91013d31d96bb30f801468"><img src="https://cdn.brandfetch.io/jnj.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Johnson & Johnson" height="20" style="vertical-align:middle; margin-right:6px;"> Johnson & Johnson</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Shanghai-China/ICO_R-110651">ICO市场部实习生</a></div></td>
+  <td>2026-11-16</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Ormond-Beach-Florida-United-States-of-America/Machine-Operator-CNC-1st-Shift_JR00053186">Machine Operator-CNC 1st Shift</a></div></td>
+  <td>2026-11-16</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Ormond-Beach-Florida-United-States-of-America/Machine-Operator-CNC-3rd-Shift_JR00053181">Machine Operator-CNC 3rd Shift</a></div></td>
+  <td>2026-11-16</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-SC-Florence/Plant-Manager_JR00037463">Plant Manager</a></div></td>
   <td>2026-11-16</td>
 </tr>
   <tr>
@@ -204,6 +253,13 @@ Showing the 633 most recent of 38,012 roles tracked across 295 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh?workerSubType=247b1d93650401bb5dd910235911ff06&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/oshkoshcorp.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Oshkosh" height="20" style="vertical-align:middle; margin-right:6px;"> Oshkosh</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Autonomy-Intern_R52031">⭐️ Autonomy Intern</a></div></td>
+  <td>2026-11-16</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/cohere/"><img src="https://cdn.brandfetch.io/cohere.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Cohere" height="20" style="vertical-align:middle; margin-right:6px;"> Cohere</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/cohere/c4192057-43fa-45c9-a40e-6f29131bf11d">Staff Software Engineer, Data Infrastructure</a></div></td>
@@ -228,6 +284,27 @@ Showing the 633 most recent of 38,012 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.adobe.com/us/en/search-results?qkexperienceLevel=University%20Intern"><img src="https://cdn.brandfetch.io/adobe.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Adobe" height="20" style="vertical-align:middle; margin-right:6px;"> Adobe</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.adobe.com/us/en/job/R172703/2027-Intern-Technical-Support-Engineer">⭐️ 2027 Intern - Technical Support Engineer</a></div></td>
+  <td>2026-11-16</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://bostonscientific.eightfold.ai/careers?start=0&location=United+States&pid=563602797912246&sort_by=distance&filter_include_remote=1&filter_seniority=Intern"><img src="https://cdn.brandfetch.io/bostonscientific.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boston Scientific" height="20" style="vertical-align:middle; margin-right:6px;"> Boston Scientific</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://bostonscientific.eightfold.ai/careers/job/563602813862390">⭐️ AI Acceleration Intern</a></div></td>
+  <td>2026-11-16</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://bostonscientific.eightfold.ai/careers?start=0&location=United+States&pid=563602797912246&sort_by=distance&filter_include_remote=1&filter_seniority=Intern"><img src="https://cdn.brandfetch.io/bostonscientific.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boston Scientific" height="20" style="vertical-align:middle; margin-right:6px;"> Boston Scientific</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://bostonscientific.eightfold.ai/careers/job/563602813827837">⭐️ AI Engineering Intern (Generative & Agentic AI)</a></div></td>
+  <td>2026-11-16</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers?workerSubType=b9bd15164d241000cf9857a64e2e0000"><img src="https://cdn.brandfetch.io/draper.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Draper" height="20" style="vertical-align:middle; margin-right:6px;"> Draper</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Space---Strategic-Navigation-Intern--Summer-2027-_JR003137">⭐️ Space & Strategic Navigation Intern (Summer 2027)</a></div></td>
   <td>2026-11-16</td>
 </tr>
   <tr>
@@ -4365,104 +4442,6 @@ Showing the 633 most recent of 38,012 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/medraai"><img src="https://cdn.brandfetch.io/medra.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Medra" height="20" style="vertical-align:middle; margin-right:6px;"> Medra</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/medraai/3adae454-8f38-40af-825b-fea9a7da9a10">Research Associate, Protein Purification & Quality Control</a></div></td>
-  <td>2026-11-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/medraai"><img src="https://cdn.brandfetch.io/medra.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Medra" height="20" style="vertical-align:middle; margin-right:6px;"> Medra</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/medraai/7b68aa54-c168-41c8-a817-f80f8ff16119">Research Engineer, Post-training</a></div></td>
-  <td>2026-11-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/roboforce"><img src="https://cdn.brandfetch.io/roboforce.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RoboForce" height="20" style="vertical-align:middle; margin-right:6px;"> RoboForce</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/roboforce/jobs/5459229008">AI Resident</a></div></td>
-  <td>2026-11-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/roboforce"><img src="https://cdn.brandfetch.io/roboforce.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RoboForce" height="20" style="vertical-align:middle; margin-right:6px;"> RoboForce</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/roboforce/jobs/5198791008">Data Collection Operator - AI Robotics (Swing Shift)</a></div></td>
-  <td>2026-11-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/roboforce"><img src="https://cdn.brandfetch.io/roboforce.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RoboForce" height="20" style="vertical-align:middle; margin-right:6px;"> RoboForce</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/roboforce/jobs/5231828008">Finance and Accounting Manager</a></div></td>
-  <td>2026-11-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/roboforce"><img src="https://cdn.brandfetch.io/roboforce.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RoboForce" height="20" style="vertical-align:middle; margin-right:6px;"> RoboForce</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/roboforce/jobs/5255989008">Lead AI Native Engineer</a></div></td>
-  <td>2026-11-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/roboforce"><img src="https://cdn.brandfetch.io/roboforce.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RoboForce" height="20" style="vertical-align:middle; margin-right:6px;"> RoboForce</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/roboforce/jobs/5470001008">⭐️ Machine Learning Engineer Intern, AI & Robotics</a></div></td>
-  <td>2026-11-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/roboforce"><img src="https://cdn.brandfetch.io/roboforce.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RoboForce" height="20" style="vertical-align:middle; margin-right:6px;"> RoboForce</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/roboforce/jobs/5456318008">Office & Workplace Administrator</a></div></td>
-  <td>2026-11-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/roboforce"><img src="https://cdn.brandfetch.io/roboforce.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RoboForce" height="20" style="vertical-align:middle; margin-right:6px;"> RoboForce</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/roboforce/jobs/5181214008">⭐️ Robotics Electrical Engineering Intern (Fall/Winter 2026)</a></div></td>
-  <td>2026-11-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/roboforce"><img src="https://cdn.brandfetch.io/roboforce.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RoboForce" height="20" style="vertical-align:middle; margin-right:6px;"> RoboForce</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/roboforce/jobs/5441463008">⭐️ Robotics Mechanical Engineering Intern (Fall/Winter 2026)</a></div></td>
-  <td>2026-11-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/roboforce"><img src="https://cdn.brandfetch.io/roboforce.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RoboForce" height="20" style="vertical-align:middle; margin-right:6px;"> RoboForce</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/roboforce/jobs/5434733008">Robotics Software Engineer</a></div></td>
-  <td>2026-11-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/roboforce"><img src="https://cdn.brandfetch.io/roboforce.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RoboForce" height="20" style="vertical-align:middle; margin-right:6px;"> RoboForce</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/roboforce/jobs/5030138008">Senior / Staff AI Research Engineer, Data Infrastructure</a></div></td>
-  <td>2026-11-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/roboforce"><img src="https://cdn.brandfetch.io/roboforce.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RoboForce" height="20" style="vertical-align:middle; margin-right:6px;"> RoboForce</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/roboforce/jobs/5474720008">Senior / Staff AI Research Engineer, Real-Time Inference</a></div></td>
-  <td>2026-11-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/roboforce"><img src="https://cdn.brandfetch.io/roboforce.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RoboForce" height="20" style="vertical-align:middle; margin-right:6px;"> RoboForce</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/roboforce/jobs/4981345008">Senior / Staff AI Research Scientist, Foundation Models</a></div></td>
-  <td>2026-11-11</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/roboforce"><img src="https://cdn.brandfetch.io/roboforce.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="RoboForce" height="20" style="vertical-align:middle; margin-right:6px;"> RoboForce</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/roboforce/jobs/5449773008">Senior / Staff Manufacturing Engineer</a></div></td>
   <td>2026-11-11</td>
 </tr>
 
