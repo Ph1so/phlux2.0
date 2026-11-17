@@ -534,8 +534,7 @@
         "date": "2026-11-10",
         "id": "workday:JR2029119-1",
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1",
-        "location": "US, CA, Santa Clara",
-        "closed": "2026-11-16"
+        "location": "US, CA, Santa Clara"
       },
       {
         "title": "\u2b50\ufe0f Corporate Development MBA Intern - Summer 2027",
@@ -888,8 +887,7 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557027378",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557027378",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-17"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Intern - CTJ - TS",
@@ -920,16 +918,14 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557008574",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557008574",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-17"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Quantum Algorithms",
         "date": "2026-10-13",
         "id": "eightfold:1970393557021663",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557021663",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-17"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Product Management Intern - CTJ - TS",
@@ -9057,6 +9053,13 @@
         "id": "lever:c6569529-4b6b-4229-b2c9-f97467c26cd3",
         "url": "https://jobs.lever.co/tri/c6569529-4b6b-4229-b2c9-f97467c26cd3",
         "location": "Cambridge, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Robotics Intern, Agentic Robotics",
+        "date": "2026-11-17",
+        "id": "lever:7f676d3c-6a86-4b00-a9fd-c1009035fe49",
+        "url": "https://jobs.lever.co/tri/7f676d3c-6a86-4b00-a9fd-c1009035fe49",
+        "location": "Cambridge, MA"
       }
     ],
     "Mitsubishi Electric Research Laboratories": [
@@ -13215,6 +13218,13 @@
         "id": "workday:JR-202621977",
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Detroit-Michigan-United-States-of-America/XMLNAME-2027-Summer-Finance-Treasury-MBA-Intern_JR-202621977",
         "location": "Detroit, Michigan, United States of America"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 PhD Battery Research & Development Intern",
+        "date": "2026-11-17",
+        "id": "workday:JR-202624190",
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-PhD-Battery-Research---Development-Intern_JR-202624190",
+        "location": "Warren, Michigan, United States of America"
       }
     ],
     "Locus Robotics": [
@@ -15530,7 +15540,8 @@
         "date": "N/A",
         "id": "greenhouse:7989035003",
         "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989035003",
-        "location": "Long Beach, CA"
+        "location": "Long Beach, CA",
+        "closed": "2026-11-17"
       },
       {
         "title": "\u2b50\ufe0f Indirect Procurement Intern Summer 2027",
@@ -32030,7 +32041,8 @@
         "date": "N/A",
         "id": "greenhouse:5173059007",
         "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5173059007",
-        "location": "Torrance, California, United States"
+        "location": "Torrance, California, United States",
+        "closed": "2026-11-17"
       },
       {
         "title": "Manager, Electrical Engineering, Design Assurance",
@@ -34043,7 +34055,8 @@
         "date": "2026-10-20",
         "id": "greenhouse:8900209002",
         "url": "https://app.careerpuck.com/job-board/lyft/job/8900209002?gh_jid=8900209002",
-        "location": "San Francisco, CA"
+        "location": "San Francisco, CA",
+        "closed": "2026-11-17"
       },
       {
         "title": "Program Manager, AV Safety Policy & Programs",
@@ -34356,14 +34369,16 @@
         "date": "2026-11-12",
         "id": "greenhouse:8938627002",
         "url": "https://app.careerpuck.com/job-board/lyft/job/8938627002?gh_jid=8938627002",
-        "location": "New York, NY"
+        "location": "New York, NY",
+        "closed": "2026-11-17"
       },
       {
         "title": "Senior Account Executive, Transit & Healthcare",
         "date": "2026-11-12",
         "id": "greenhouse:8938558002",
         "url": "https://app.careerpuck.com/job-board/lyft/job/8938558002?gh_jid=8938558002",
-        "location": "San Francisco, CA"
+        "location": "San Francisco, CA",
+        "closed": "2026-11-17"
       },
       {
         "title": "Staff Technical Program Manager, Central",
@@ -36263,6 +36278,13 @@
         "date": "2026-11-13",
         "id": "ashby:da57d5dc-f228-4fa3-87b1-08685205f28f",
         "url": "https://jobs.ashbyhq.com/wayve/da57d5dc-f228-4fa3-87b1-08685205f28f",
+        "location": "Sunnyvale, California USA"
+      },
+      {
+        "title": "Senior Robotics Engineer - Offline Sensor Calibration",
+        "date": "2026-11-17",
+        "id": "ashby:1573d487-5dce-4eac-90c0-740ce0be53a1",
+        "url": "https://jobs.ashbyhq.com/wayve/1573d487-5dce-4eac-90c0-740ce0be53a1",
         "location": "Sunnyvale, California USA"
       }
     ],
@@ -42380,6 +42402,13 @@
         "id": "ashby:b07f230c-03cd-457c-b78b-51a1caab588b",
         "url": "https://jobs.ashbyhq.com/niantic-spatial/b07f230c-03cd-457c-b78b-51a1caab588b",
         "location": "San Francisco, CA"
+      },
+      {
+        "title": "Tech Partnerships Lead - Real-World Test Labs",
+        "date": "2026-11-17",
+        "id": "ashby:18179778-1d7a-471f-a06e-c9a38e21111a",
+        "url": "https://jobs.ashbyhq.com/niantic-spatial/18179778-1d7a-471f-a06e-c9a38e21111a",
+        "location": "San Francisco, CA"
       }
     ],
     "World Labs": [
@@ -44782,6 +44811,13 @@
         "date": "2026-11-13",
         "id": "ashby:04ad411f-0b1f-4c9f-bfaf-ab75d6952f7a",
         "url": "https://jobs.ashbyhq.com/dyna-robotics/04ad411f-0b1f-4c9f-bfaf-ab75d6952f7a",
+        "location": "Redwood City, CA"
+      },
+      {
+        "title": "Senior Firmware / Embedded Engineer",
+        "date": "2026-11-17",
+        "id": "ashby:7c33b1a8-f4cc-4150-9caa-049d7ca87987",
+        "url": "https://jobs.ashbyhq.com/dyna-robotics/7c33b1a8-f4cc-4150-9caa-049d7ca87987",
         "location": "Redwood City, CA"
       }
     ],
@@ -49848,6 +49884,13 @@
         "id": "ashby:6cb0bfd9-dbd3-43bb-b26d-e1e40548b57f",
         "url": "https://jobs.ashbyhq.com/saronic/6cb0bfd9-dbd3-43bb-b26d-e1e40548b57f",
         "location": "Austin, TX"
+      },
+      {
+        "title": "Mission Operation Engineer (Platform - Effectors)",
+        "date": "2026-11-17",
+        "id": "ashby:1eb72659-5b57-4f31-97e2-82fa04b0bfdf",
+        "url": "https://jobs.ashbyhq.com/saronic/1eb72659-5b57-4f31-97e2-82fa04b0bfdf",
+        "location": "Austin, TX"
       }
     ],
     "Built Robotics": [
@@ -51377,7 +51420,8 @@
         "date": "2026-10-14",
         "id": "ashby:0ad6c09f-05f2-4e55-a18d-7b75e3cf3649",
         "url": "https://jobs.ashbyhq.com/hadrian-automation/0ad6c09f-05f2-4e55-a18d-7b75e3cf3649",
-        "location": "Los Angeles, CA"
+        "location": "Los Angeles, CA",
+        "closed": "2026-11-17"
       },
       {
         "title": "Manufacturing Engineer, Factory Development",
@@ -52642,7 +52686,8 @@
         "date": "2026-10-14",
         "id": "rippling:11fb8646-7041-4ea0-9887-09c1e2e58bab",
         "url": "https://ats.rippling.com/mytra/jobs/11fb8646-7041-4ea0-9887-09c1e2e58bab",
-        "location": "Brisbane, CA"
+        "location": "Brisbane, CA",
+        "closed": "2026-11-17"
       },
       {
         "title": "Senior People Partner",
@@ -56060,7 +56105,9 @@
       {
         "title": "Automation Maintenance Technician II",
         "date": "2026-10-14",
-        "closed": "N/A"
+        "id": "workday:R8523",
+        "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Centralia-WA/Automation-Maintenance-Technician-II_R8523",
+        "location": "USA Centralia, WA"
       },
       {
         "title": "Manager, Talent Management",
@@ -57176,6 +57223,13 @@
         "id": "workday:R8517",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/VNM-Ho-Chi-Minh/Senior-Manager--Tier-3-Deployment-and-Support_R8517",
         "location": "VNM Ho Chi Minh"
+      },
+      {
+        "title": "Field Engineer",
+        "date": "2026-11-17",
+        "id": "workday:R8509",
+        "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Remote--Travel/Field-Engineer_R8509",
+        "location": "USA Remote & Travel"
       }
     ],
     "PROCEPT BioRobotics": [
@@ -62018,6 +62072,13 @@
         "id": "workday:JR00053073",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-FL-Lake-Mary/Sales-Support-Manager_JR00053073",
         "location": "USA, FL, Lake Mary"
+      },
+      {
+        "title": "Operations Data Engineering Specialist",
+        "date": "2026-11-17",
+        "id": "workday:JR00053074",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Fort-Smith-Arkansas-United-States-of-America/Operations-Data-Engineering-Specialist_JR00053074",
+        "location": "Fort Smith, Arkansas, United States of America"
       }
     ],
     "Teradyne": [
@@ -79839,7 +79900,8 @@
         "date": "2026-11-16",
         "id": "ashby:7cd8205b-fd73-4af1-9103-1b1fed3b0c22",
         "url": "https://jobs.ashbyhq.com/openai/7cd8205b-fd73-4af1-9103-1b1fed3b0c22",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-17"
       },
       {
         "title": "Customer Education Adoption Lead",
@@ -79931,6 +79993,13 @@
         "id": "ashby:04050b95-dde6-48c4-a5a2-1a9691560e82",
         "url": "https://jobs.ashbyhq.com/openai/04050b95-dde6-48c4-a5a2-1a9691560e82",
         "location": "San Francisco"
+      },
+      {
+        "title": "Marketplace Programs Manager, B2B Partnerships",
+        "date": "2026-11-17",
+        "id": "ashby:30094f74-2213-4251-a924-806cab36a8be",
+        "url": "https://jobs.ashbyhq.com/openai/30094f74-2213-4251-a924-806cab36a8be",
+        "location": "New York City +1"
       }
     ],
     "John Deere": [
@@ -80168,14 +80237,16 @@
         "date": "2026-10-22",
         "id": "lever:e5a7fb78-7847-499a-94b8-a66033db3998",
         "url": "https://jobs.eu.lever.co/mobileye/e5a7fb78-7847-499a-94b8-a66033db3998",
-        "location": "Jerusalem, Israel"
+        "location": "Jerusalem, Israel",
+        "closed": "2026-11-17"
       },
       {
         "title": "Validation Engineer & Embedded System Integration",
         "date": "2026-10-22",
         "id": "lever:7837f11d-f347-40ff-b5c7-6e296be994fb",
         "url": "https://jobs.eu.lever.co/mobileye/7837f11d-f347-40ff-b5c7-6e296be994fb",
-        "location": "Jerusalem, Israel"
+        "location": "Jerusalem, Israel",
+        "closed": "2026-11-17"
       },
       {
         "title": "Validation Engineer & Embedded System Integration (Temporary Position - Maternity Leave)",
@@ -81345,8 +81416,7 @@
         "date": "2026-10-27",
         "id": "lever:9495066e-ebcc-49ed-bac5-0480be15753f",
         "url": "https://jobs.eu.lever.co/mobileye/9495066e-ebcc-49ed-bac5-0480be15753f",
-        "location": "Jerusalem, Israel",
-        "closed": "2026-11-16"
+        "location": "Jerusalem, Israel"
       },
       {
         "title": "Production Quality Engineer",
@@ -81896,6 +81966,13 @@
         "id": "lever:115adbc6-d6e5-49fc-95e4-8b71e5b15d04",
         "url": "https://jobs.eu.lever.co/mobileye/115adbc6-d6e5-49fc-95e4-8b71e5b15d04",
         "location": "Ramat Gan, Israel"
+      },
+      {
+        "title": "Experienced Validation Engineer",
+        "date": "2026-11-17",
+        "id": "lever:628faaf0-a7df-4043-b720-e2fd3acb89b4",
+        "url": "https://jobs.eu.lever.co/mobileye/628faaf0-a7df-4043-b720-e2fd3acb89b4",
+        "location": "Jerusalem, Israel"
       }
     ],
     "Dusty Robotics": [
@@ -90386,6 +90463,20 @@
         "id": "greenhouse:5473999008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5473999008",
         "location": "London, UK"
+      },
+      {
+        "title": "Protective Intelligence Analyst",
+        "date": "2026-11-17",
+        "id": "greenhouse:5422952008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5422952008",
+        "location": "San Francisco, CA | New York City, NY | Washington, DC"
+      },
+      {
+        "title": "Web Strategy Lead",
+        "date": "2026-11-17",
+        "id": "greenhouse:5465637008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5465637008",
+        "location": "San Francisco, CA | New York City, NY"
       }
     ],
     "xAI": [
@@ -101225,7 +101316,8 @@
         "date": "N/A",
         "id": "atlassian:26266",
         "url": "https://www.atlassian.com/company/careers/details/26266",
-        "location": "San Francisco, CA +1"
+        "location": "San Francisco, CA +1",
+        "closed": "2026-11-17"
       },
       {
         "title": "\u2b50\ufe0f Product Design Intern, 2027 Summer U.S.",
@@ -105422,6 +105514,13 @@
         "id": "dassault:550909",
         "url": "https://www.3ds.com/careers/jobs/internship-industry-process-consultant-550909",
         "location": "Mason, OH"
+      },
+      {
+        "title": "\u2b50\ufe0f INTERNSHIP - V+R Scientist",
+        "date": "2026-11-17",
+        "id": "dassault:550894",
+        "url": "https://www.3ds.com/careers/jobs/internship-v-r-scientist-550894",
+        "location": "San Diego, CA"
       }
     ],
     "AMD": [],
@@ -109241,7 +109340,8 @@
         "date": "N/A",
         "id": "jibe:10966",
         "url": "https://careers.sig.com/jobs/10966",
-        "location": "Bala Cynwyd (Philadelphia Area), PA"
+        "location": "Bala Cynwyd (Philadelphia Area), PA",
+        "closed": "2026-11-17"
       },
       {
         "title": "\u2b50\ufe0f Tax Internship: Summer 2027",
@@ -110643,6 +110743,13 @@
         "id": "workday:R26-6806",
         "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/India-Gurgaon/Sales-Management-Trainee_R26-6806",
         "location": "2 Locations"
+      },
+      {
+        "title": "\u2b50\ufe0f PMB Hardware Engineering Intern",
+        "date": "2026-11-17",
+        "id": "workday:R26-8346-1",
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mequon-Wisconsin-United-States/PMB-Hardware-Engineering-Intern_R26-8346-1",
+        "location": "2 Locations"
       }
     ],
     "Siemens": [
@@ -112019,6 +112126,13 @@
         "date": "N/A",
         "id": "ashby:298db311-7d58-46f5-a6ec-8a10edcb43c2",
         "url": "https://jobs.ashbyhq.com/replit/298db311-7d58-46f5-a6ec-8a10edcb43c2",
+        "location": "Foster City, CA"
+      },
+      {
+        "title": "Senior Manager, Demand Generation",
+        "date": "2026-11-17",
+        "id": "ashby:4bba56f9-cf14-4140-83dd-eba1dea196e5",
+        "url": "https://jobs.ashbyhq.com/replit/4bba56f9-cf14-4140-83dd-eba1dea196e5",
         "location": "Foster City, CA"
       }
     ],
@@ -119245,6 +119359,13 @@
         "id": "pinpoint:620686",
         "url": "https://impulsespace.pinpointhq.com/en/postings/9b91e30c-9709-4673-a4a1-f2f936b130b9",
         "location": "Redondo Beach, CA"
+      },
+      {
+        "title": "Technical Trainer",
+        "date": "2026-11-17",
+        "id": "pinpoint:621397",
+        "url": "https://impulsespace.pinpointhq.com/en/postings/2125ab85-9af1-4739-9dbf-bc5ff07da77a",
+        "location": "Redondo Beach, CA"
       }
     ],
     "Shure": [
@@ -121000,6 +121121,10 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
+    },
+    "Tesla": {
+      "since": "2026-11-17",
+      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
     }
   },
   "closures_untracked": {
