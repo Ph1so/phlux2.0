@@ -174,7 +174,7 @@
 | <img src="https://cdn.brandfetch.io/lyft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Lyft][c8] | Manufacturing Test Engineer, Lyft Urban Solutions | N/A |
 | <img src="https://cdn.brandfetch.io/lyft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Lyft][c8] | AI Business Solutions Architect, People Technology | N/A |
 | <img src="https://cdn.brandfetch.io/lyft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Lyft][c8] | [Business Systems Engineer](<https://app.careerpuck.com/job-board/lyft/job/8772602002?gh_jid=8772602002>) | N/A |
-| <img src="https://cdn.brandfetch.io/lyft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Lyft][c8] | Business Systems Engineer, Intelligent Automation | N/A |
+| <img src="https://cdn.brandfetch.io/lyft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Lyft][c8] | [Business Systems Engineer, Intelligent Automation](<https://app.careerpuck.com/job-board/lyft/job/8790623002?gh_jid=8790623002>) | N/A |
 | <img src="https://cdn.brandfetch.io/lyft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Lyft][c8] | Business Systems Engineer, Oracle STP | N/A |
 | <img src="https://cdn.brandfetch.io/lyft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Lyft][c8] | [Marketing Technology Lead](<https://app.careerpuck.com/job-board/lyft/job/8780046002?gh_jid=8780046002>) | N/A |
 | <img src="https://cdn.brandfetch.io/lyft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Lyft][c8] | [Salesforce Architect](<https://app.careerpuck.com/job-board/lyft/job/8852959002?gh_jid=8852959002>) | N/A |
