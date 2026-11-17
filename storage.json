@@ -3228,7 +3228,8 @@
         "date": "2026-10-22",
         "id": "meta:1609178343953401",
         "url": "https://www.metacareers.com/profile/job_details/1609178343953401/",
-        "location": "Bellevue, WA +2"
+        "location": "Bellevue, WA +2",
+        "closed": "2026-11-17"
       },
       {
         "title": "\u2b50\ufe0f ASIC Engineer Intern - Infra Silicon Enablement",
@@ -3257,7 +3258,8 @@
         "date": "2026-10-22",
         "id": "meta:1442284501111979",
         "url": "https://www.metacareers.com/profile/job_details/1442284501111979/",
-        "location": "London, UK"
+        "location": "London, UK",
+        "closed": "2026-11-17"
       },
       {
         "title": "\u2b50\ufe0f Network Production Engineer Intern",
@@ -27304,7 +27306,8 @@
         "date": "2026-10-02",
         "id": "smartrecruiters:744000153195961",
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153195961",
-        "location": "Florence, KY"
+        "location": "Florence, KY",
+        "closed": "2026-11-17"
       },
       {
         "title": "\u2b50\ufe0f AM/SCC-Sales Controlling and Coordination Intern",
@@ -41740,7 +41743,8 @@
         "date": "2026-09-28",
         "id": "ashby:6a790638-b8a2-4d58-b2bd-d520a296803c",
         "url": "https://jobs.ashbyhq.com/humanoid/6a790638-b8a2-4d58-b2bd-d520a296803c",
-        "location": "UK, London"
+        "location": "UK, London",
+        "closed": "2026-11-17"
       },
       {
         "title": "Director & Associate General Counsel - North America",
@@ -59367,7 +59371,8 @@
         "date": "N/A",
         "id": "workday:JR00052652",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-AR-Jonesboro/XMLNAME-1st-Shift-Material-Handler_JR00052652",
-        "location": "USA, AR, Jonesboro"
+        "location": "USA, AR, Jonesboro",
+        "closed": "2026-11-17"
       },
       {
         "title": "\u2b50\ufe0f Finance Operations Intern \u2013 Summer 2027",
@@ -71643,6 +71648,13 @@
         "id": "greenhouse:5039487101",
         "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=5039487101&gh_jid=5039487101",
         "location": "Forest Park, Georgia,United States"
+      },
+      {
+        "title": "Lead Engineering Operations Manager",
+        "date": "2026-11-17",
+        "id": "greenhouse:5035804101",
+        "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=5035804101&gh_jid=5035804101",
+        "location": "Brondby, Denmark"
       }
     ],
     "Northrop Grumman": [
@@ -72176,6 +72188,13 @@
         "id": "workday:R10260955-1",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Mechanical-Engineer-Intern--Redondo-beach-CA_R10260955-1",
         "location": "United States-California-Redondo Beach"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Environmental Health and Safety Engineer Intern - Sunnyvale CA",
+        "date": "2026-11-17",
+        "id": "workday:R10261033",
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Environmental-Health-and-Safety-Engineer-Intern---Sunnyvale-CA_R10261033",
+        "location": "United States-California-Sunnyvale"
       }
     ],
     "OpenAI": [
@@ -109829,6 +109848,20 @@
         "id": "phenom:R173219",
         "url": "https://careers.adobe.com/us/en/job/R173219/2027-Intern-Marketing-Research-Insights-Assistant",
         "location": "London, United Kingdom"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Intern - Marketing Operations",
+        "date": "2026-11-17",
+        "id": "phenom:R173217",
+        "url": "https://careers.adobe.com/us/en/job/R173217/2027-Intern-Marketing-Operations",
+        "location": "London, United Kingdom"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Intern - International Sports Partnerships Intern",
+        "date": "2026-11-17",
+        "id": "phenom:R173218",
+        "url": "https://careers.adobe.com/us/en/job/R173218/2027-Intern-International-Sports-Partnerships-Intern",
+        "location": "London, United Kingdom"
       }
     ],
     "Databricks": [
@@ -114404,8 +114437,7 @@
         "date": "N/A",
         "id": "talentbrew:100700683792",
         "url": "https://jobs.comcast.com/job/chennai/intern/45483/100700683792",
-        "location": "Chennai, Tamil Nadu",
-        "closed": "2026-11-12"
+        "location": "Chennai, Tamil Nadu"
       },
       {
         "title": "\u2b50\ufe0f Spring Events Intern",
@@ -120565,10 +120597,6 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
-    },
-    "Tesla": {
-      "since": "2026-11-17",
-      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
     }
   },
   "closures_untracked": {
