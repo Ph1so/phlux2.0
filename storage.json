@@ -3457,7 +3457,8 @@
         "date": "2026-10-26",
         "id": "meta:1649069223327170",
         "url": "https://www.metacareers.com/profile/job_details/1649069223327170/",
-        "location": "Sunnyvale, CA +1"
+        "location": "Sunnyvale, CA +1",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, Generative Recommendation Systems (PhD)",
@@ -4005,6 +4006,13 @@
         "id": "meta:1500136678656794",
         "url": "https://www.metacareers.com/profile/job_details/1500136678656794/",
         "location": "Sunnyvale, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, LLM-Native Recommendation Systems (PhD)",
+        "date": "2026-11-16",
+        "id": "meta:1157475613903880",
+        "url": "https://www.metacareers.com/profile/job_details/1157475613903880/",
+        "location": "Singapore"
       }
     ],
     "Apple": [
@@ -28710,6 +28718,13 @@
         "id": "greenhouse:6187830004",
         "url": "https://boards.greenhouse.io/intrinsicrobotics/jobs/6187830004?gh_jid=6187830004",
         "location": "Mountain View, California"
+      },
+      {
+        "title": "Product Manager, Agentic Platform",
+        "date": "2026-11-16",
+        "id": "greenhouse:6214763004",
+        "url": "https://boards.greenhouse.io/intrinsicrobotics/jobs/6214763004?gh_jid=6214763004",
+        "location": "Mountain View, California"
       }
     ],
     "Robotics and AI Insitute": [
@@ -51990,6 +52005,13 @@
         "id": "ashby:96a2c7db-72dc-423e-802f-d1c8328b146a",
         "url": "https://jobs.ashbyhq.com/hadrian-automation/96a2c7db-72dc-423e-802f-d1c8328b146a",
         "location": "Los Angeles, CA"
+      },
+      {
+        "title": "Industrial Security Specialist",
+        "date": "2026-11-16",
+        "id": "ashby:66993080-87be-4608-82e5-780d3757358c",
+        "url": "https://jobs.ashbyhq.com/hadrian-automation/66993080-87be-4608-82e5-780d3757358c",
+        "location": "Los Angeles, CA"
       }
     ],
     "Saildrone": [
@@ -63472,7 +63494,8 @@
         "date": "N/A",
         "id": "successfactors:1434675200",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Sr_-Software-Engineer-%28Compute-Test%2C-North-Reading%29-MA/1434675200/",
-        "location": "North Reading, MA"
+        "location": "North Reading, MA",
+        "closed": "2026-11-16"
       },
       {
         "title": "Field Application Engineer (SEG; North Reading, MA)",
@@ -64020,6 +64043,13 @@
         "id": "successfactors:1443307500",
         "url": "https://jobs.teradyne.com/Teradyne/job/Agoura-Hills-Signal-and-Power-Integrity-Engineer-%28Memory-Test%2C-Agoura-Hills-or-San-Jose%2C-CA-%29-CA-91301/1443307500/",
         "location": "Agoura Hills, CA +1"
+      },
+      {
+        "title": "Customer Solutions Engineering Site Lead (IST, Bay Area, CA)",
+        "date": "2026-11-16",
+        "id": "successfactors:1444826600",
+        "url": "https://jobs.teradyne.com/Teradyne/job/Sunnyvale-Customer-Solutions-Engineering-Site-Lead-%28IST%2C-Bay-Area%2C-CA%29-CA-94085/1444826600/",
+        "location": "Sunnyvale, CA"
       }
     ],
     "KUKA": [
@@ -69919,6 +69949,13 @@
         "id": "lever:2cd0863a-f9ab-4782-8635-349b02b3f7f6",
         "url": "https://jobs.lever.co/woven-by-toyota/2cd0863a-f9ab-4782-8635-349b02b3f7f6",
         "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a"
+      },
+      {
+        "title": "HR \u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u30a2\u30ca\u30ea\u30b9\u30c8",
+        "date": "2026-11-16",
+        "id": "lever:e86913f4-b2cd-46c9-8868-19165a102438",
+        "url": "https://jobs.lever.co/woven-by-toyota/e86913f4-b2cd-46c9-8868-19165a102438",
+        "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a"
       }
     ],
     "Generalist AI": [
@@ -72391,7 +72428,8 @@
         "date": "2026-10-22",
         "id": "ashby:b00e0207-d65f-4445-87d5-798f6c895dec",
         "url": "https://jobs.ashbyhq.com/openai/b00e0207-d65f-4445-87d5-798f6c895dec",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-16"
       },
       {
         "title": "Growth - Digital Marketing (Enterprise)",
@@ -73003,7 +73041,8 @@
         "date": "2026-10-22",
         "id": "ashby:1b268692-70d8-46c2-a347-2f7705b5c174",
         "url": "https://jobs.ashbyhq.com/openai/1b268692-70d8-46c2-a347-2f7705b5c174",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-16"
       },
       {
         "title": "Operating Systems Engineer | Consumer Devices",
@@ -79430,6 +79469,20 @@
         "date": "2026-11-16",
         "id": "ashby:d78c0cd2-d0dd-4d81-8c18-3480df089b62",
         "url": "https://jobs.ashbyhq.com/openai/d78c0cd2-d0dd-4d81-8c18-3480df089b62",
+        "location": "San Francisco"
+      },
+      {
+        "title": "AI Deployment Manager - Builder (Spanish- and Portuguese-Speaking)",
+        "date": "2026-11-16",
+        "id": "ashby:88db99b3-9689-43d1-9223-215be81a0c02",
+        "url": "https://jobs.ashbyhq.com/openai/88db99b3-9689-43d1-9223-215be81a0c02",
+        "location": "San Francisco +1"
+      },
+      {
+        "title": "Builder Education",
+        "date": "2026-11-16",
+        "id": "ashby:d6fac6f4-0b96-4c09-9349-9b7fc99a6547",
+        "url": "https://jobs.ashbyhq.com/openai/d6fac6f4-0b96-4c09-9349-9b7fc99a6547",
         "location": "San Francisco"
       }
     ],
@@ -87815,7 +87868,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5420245008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5420245008",
-        "location": "San Francisco, CA; Washington, DC"
+        "location": "San Francisco, CA; Washington, DC",
+        "closed": "2026-11-16"
       },
       {
         "title": "Solutions Marketing Manager, Emerging Industries",
@@ -89841,6 +89895,13 @@
         "id": "greenhouse:5484035008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5484035008",
         "location": "San Francisco, CA | New York City, NY"
+      },
+      {
+        "title": "Head of PMO, Workplace",
+        "date": "2026-11-16",
+        "id": "greenhouse:5482207008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5482207008",
+        "location": "New York City, NY; San Francisco, CA | New York City, NY; Seattle, WA"
       }
     ],
     "xAI": [
@@ -115930,7 +115991,8 @@
         "id": "ashby:ca73b132-2264-4649-ad83-73ea3e69fe5d",
         "url": "https://jobs.ashbyhq.com/northwoodspace/ca73b132-2264-4649-ad83-73ea3e69fe5d",
         "location": "Torrance, CA",
-        "early": "0-2 + years of professional experience in electrical design"
+        "early": "0-2 + years of professional experience in electrical design",
+        "closed": "2026-11-16"
       },
       {
         "title": "Software Engineer- Early Career (Platform)",
@@ -120185,6 +120247,98 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
+    },
+    "Nvidia": {
+      "since": "2026-11-16",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
+    },
+    "Intel": {
+      "since": "2026-11-16",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
+    },
+    "Autodesk": {
+      "since": "2026-11-16",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/uni/jobs"
+    },
+    "Blue Origin": {
+      "since": "2026-11-16",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/BlueOrigin/jobs"
+    },
+    "Snap": {
+      "since": "2026-11-16",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
+    },
+    "Workday": {
+      "since": "2026-11-16",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday_Early_Career/jobs"
+    },
+    "Rockwell Automation": {
+      "since": "2026-11-16",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
+    },
+    "Unity": {
+      "since": "2026-11-16",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
+    },
+    "Boston Dynamics": {
+      "since": "2026-11-16",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://bostondynamics.wd1.myworkdayjobs.com/wday/cxs/bostondynamics/Boston_Dynamics/jobs"
+    },
+    "Razer": {
+      "since": "2026-11-16",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
+    },
+    "Sony": {
+      "since": "2026-11-16",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sonyglobal.wd1.myworkdayjobs.com/wday/cxs/sonyglobal/SonyGlobalCareers/jobs"
+    },
+    "Tesla": {
+      "since": "2026-11-16",
+      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
+    },
+    "Target": {
+      "since": "2026-11-16",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
+    },
+    "Mosaic": {
+      "since": "2026-11-16",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://mosaic.wd5.myworkdayjobs.com/wday/cxs/mosaic/mosaic/jobs"
+    },
+    "T-Mobile": {
+      "since": "2026-11-16",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://tmobile.wd1.myworkdayjobs.com/wday/cxs/tmobile/External/jobs"
+    },
+    "Samsung": {
+      "since": "2026-11-16",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
+    },
+    "General Motors": {
+      "since": "2026-11-16",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
+    },
+    "Johnson & Johnson": {
+      "since": "2026-11-16",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs"
+    },
+    "Stryker": {
+      "since": "2026-11-16",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs"
+    },
+    "ABB": {
+      "since": "2026-11-16",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
+    },
+    "Northrop Grumman": {
+      "since": "2026-11-16",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ngc.wd1.myworkdayjobs.com/wday/cxs/ngc/Northrop_Grumman_External_Site/jobs"
+    },
+    "Oshkosh": {
+      "since": "2026-11-16",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs"
+    },
+    "Slate Auto": {
+      "since": "2026-11-16",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
     }
   },
   "closures_untracked": {
