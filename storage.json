@@ -56431,7 +56431,8 @@
         "date": "2026-10-22",
         "id": "workday:R7940",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/VNM-Ho-Chi-Minh/Senior-Software-QA-Engineer--Functional-Embedded-QA-_R7940",
-        "location": "VNM Ho Chi Minh"
+        "location": "VNM Ho Chi Minh",
+        "closed": "2026-11-16"
       },
       {
         "title": "Staff Electrical Quality Engineer",
@@ -92576,6 +92577,27 @@
         "id": "greenhouse:5297207007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5297207007",
         "location": "Palo Alto, CA"
+      },
+      {
+        "title": "Software Engineer, Ads Serving",
+        "date": "2026-11-16",
+        "id": "greenhouse:5297311007",
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5297311007",
+        "location": "Palo Alto, CA"
+      },
+      {
+        "title": "Software Engineer, Safety",
+        "date": "2026-11-16",
+        "id": "greenhouse:5297316007",
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5297316007",
+        "location": "Palo Alto, CA"
+      },
+      {
+        "title": "Sr. Software Engineer, Safety",
+        "date": "2026-11-16",
+        "id": "greenhouse:5297314007",
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5297314007",
+        "location": "Palo Alto, CA"
       }
     ],
     "Thinking Machines Lab": [
@@ -98632,7 +98654,8 @@
         "date": "N/A",
         "id": "greenhouse:8108673",
         "url": "https://careers.airbnb.com/positions/8108673?gh_jid=8108673",
-        "location": "United States"
+        "location": "United States",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Advanced Analytics Intern",
@@ -113617,6 +113640,13 @@
         "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Partner-Success---Marketing-Events-Intern--Fintech-_JR2026007729",
         "location": "Singapore",
         "closed": "N/A"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Testing Intern",
+        "date": "2026-11-16",
+        "id": "workday:JR2026008030",
+        "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Shenzhen/Software-Testing-Intern_JR2026008030",
+        "location": "Shenzhen"
       }
     ],
     "Docusign": [
@@ -115485,8 +115515,7 @@
         "date": "N/A",
         "id": "talentbrew:102516884032",
         "url": "https://jobs.boeing.com/job/bristol/intern-student-engineer-systems-eng/185/102516884032",
-        "location": "Bristol, United Kingdom",
-        "closed": "2026-11-16"
+        "location": "Bristol, United Kingdom"
       },
       {
         "title": "\u2b50\ufe0f Boeing Summer 2027 Internship Program (Paid) \u2013 Security & Fire Operation (S&FO)",
@@ -120343,6 +120372,46 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
+    },
+    "Nvidia": {
+      "since": "2026-11-16",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
+    },
+    "Unity": {
+      "since": "2026-11-16",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
+    },
+    "T-Mobile": {
+      "since": "2026-11-16",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://tmobile.wd1.myworkdayjobs.com/wday/cxs/tmobile/External/jobs"
+    },
+    "Target": {
+      "since": "2026-11-16",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
+    },
+    "Samsung": {
+      "since": "2026-11-16",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
+    },
+    "General Motors": {
+      "since": "2026-11-16",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
+    },
+    "Stryker": {
+      "since": "2026-11-16",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs"
+    },
+    "ABB": {
+      "since": "2026-11-16",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
+    },
+    "Oshkosh": {
+      "since": "2026-11-16",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs"
+    },
+    "Slate Auto": {
+      "since": "2026-11-16",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
     }
   },
   "closures_untracked": {
