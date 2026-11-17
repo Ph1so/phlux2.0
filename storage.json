@@ -880,16 +880,14 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557027326",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557027326",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-16"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Brain-Computer Interfaces",
         "date": "2026-10-13",
         "id": "eightfold:1970393557027378",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557027378",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-16"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Intern - CTJ - TS",
@@ -1134,8 +1132,7 @@
         "date": "2026-10-23",
         "id": "eightfold:1970393557045963",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557045963",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-16"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Business Program Management INTERN (CO+I Exec)",
@@ -56964,6 +56961,13 @@
         "id": "workday:R8392",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer--Core-Systems---Platform-Services_R8392",
         "location": "USA Wilmington, MA - HQ"
+      },
+      {
+        "title": "Senior Manager, Tier 3 Deployment and Support",
+        "date": "2026-11-16",
+        "id": "workday:R8517",
+        "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/VNM-Ho-Chi-Minh/Senior-Manager--Tier-3-Deployment-and-Support_R8517",
+        "location": "VNM Ho Chi Minh"
       }
     ],
     "PROCEPT BioRobotics": [
@@ -65066,7 +65070,8 @@
         "date": "N/A",
         "id": "adp:564219",
         "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=564219&lang=en_US",
-        "location": "Houston, TX"
+        "location": "Houston, TX",
+        "closed": "2026-11-16"
       },
       {
         "title": "CNC Machinist, 5-Axis",
@@ -79530,6 +79535,13 @@
         "id": "ashby:66d9ba78-02a5-4b79-983e-57349914ce83",
         "url": "https://jobs.ashbyhq.com/openai/66d9ba78-02a5-4b79-983e-57349914ce83",
         "location": "San Francisco +1"
+      },
+      {
+        "title": "Workplace Operation Manager \u2014 New York City",
+        "date": "2026-11-16",
+        "id": "ashby:953a7b29-7890-47f6-aaed-a83743f8d105",
+        "url": "https://jobs.ashbyhq.com/openai/953a7b29-7890-47f6-aaed-a83743f8d105",
+        "location": "New York City"
       }
     ],
     "John Deere": [
@@ -92557,6 +92569,13 @@
         "id": "greenhouse:5191800007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5191800007",
         "location": "Palo Alto, CA"
+      },
+      {
+        "title": "Sr. Software Engineer, Ads Serving",
+        "date": "2026-11-16",
+        "id": "greenhouse:5297207007",
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5297207007",
+        "location": "Palo Alto, CA"
       }
     ],
     "Thinking Machines Lab": [
@@ -93014,6 +93033,20 @@
         "id": "ashby:5b2ee0dc-0fe5-4c5d-806d-e171187e460e",
         "url": "https://jobs.ashbyhq.com/ThinkingMachines/5b2ee0dc-0fe5-4c5d-806d-e171187e460e",
         "location": "San Francisco +1"
+      },
+      {
+        "title": "Software Engineer, Distributed Systems",
+        "date": "2026-11-16",
+        "id": "ashby:50f566c8-7fe3-4fe5-a8ca-b42503537a51",
+        "url": "https://jobs.ashbyhq.com/ThinkingMachines/50f566c8-7fe3-4fe5-a8ca-b42503537a51",
+        "location": "San Francisco +1"
+      },
+      {
+        "title": "Software Engineer, Tinker Infrastructure",
+        "date": "2026-11-16",
+        "id": "ashby:541c2fcf-e128-4442-94ee-c8298f226756",
+        "url": "https://jobs.ashbyhq.com/ThinkingMachines/541c2fcf-e128-4442-94ee-c8298f226756",
+        "location": "San Francisco"
       }
     ],
     "Bot Auto": [
@@ -115452,7 +115485,8 @@
         "date": "N/A",
         "id": "talentbrew:102516884032",
         "url": "https://jobs.boeing.com/job/bristol/intern-student-engineer-systems-eng/185/102516884032",
-        "location": "Bristol, United Kingdom"
+        "location": "Bristol, United Kingdom",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Boeing Summer 2027 Internship Program (Paid) \u2013 Security & Fire Operation (S&FO)",
@@ -120309,10 +120343,6 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
-    },
-    "Tesla": {
-      "since": "2026-11-16",
-      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
     }
   },
   "closures_untracked": {
