@@ -27349,7 +27349,8 @@
         "date": "2026-10-02",
         "id": "smartrecruiters:744000153214980",
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153214980",
-        "location": "Florence, KY"
+        "location": "Florence, KY",
+        "closed": "2026-11-17"
       },
       {
         "title": "Customer Service Representative (5:00 am - 1:30 pm)",
@@ -28546,6 +28547,13 @@
         "id": "smartrecruiters:744000161841434",
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161841434",
         "location": "Pittsburgh, PA"
+      },
+      {
+        "title": "\u2b50\ufe0f AI Application Intern (8 months/40 hours per week)",
+        "date": "2026-11-17",
+        "id": "smartrecruiters:744000162076254",
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162076254",
+        "location": "Farmington Hills, MI"
       }
     ],
     "Intrinsic": [
@@ -28890,6 +28898,20 @@
         "id": "lever:e9b44d46-321f-48dc-863e-b37b2a4cd3b9",
         "url": "https://jobs.lever.co/rai/e9b44d46-321f-48dc-863e-b37b2a4cd3b9",
         "location": "Zurich"
+      },
+      {
+        "title": "Robotics Software Engineer Interactive Mobility",
+        "date": "2026-11-17",
+        "id": "lever:7f5fc9de-bccd-4d65-93f1-8b28d93a8223",
+        "url": "https://jobs.lever.co/rai/7f5fc9de-bccd-4d65-93f1-8b28d93a8223",
+        "location": "Cambridge, MA"
+      },
+      {
+        "title": "Senior Software Engineer Interactive Mobility",
+        "date": "2026-11-17",
+        "id": "lever:65238379-4743-41e9-809f-c43663dd3b74",
+        "url": "https://jobs.lever.co/rai/65238379-4743-41e9-809f-c43663dd3b74",
+        "location": "Cambridge, MA"
       }
     ],
     "Sunday": [
@@ -54750,7 +54772,9 @@
       {
         "title": "\u2b50\ufe0f Emerging Technologies CoOp",
         "date": "2026-10-15",
-        "closed": "N/A"
+        "id": "workday:R-102739-1",
+        "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Emerging-Technologies-CoOp_R-102739-1",
+        "location": "Spring House, Pennsylvania, United States of America"
       },
       {
         "title": "Depuy Synthes Product Development Engineer",
@@ -55548,6 +55572,13 @@
         "id": "workday:R-110740",
         "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Zuchwil-Switzerland/Intern-Global-Growth-Marketing-Trauma_R-110740",
         "location": "Zuchwil, Switzerland"
+      },
+      {
+        "title": "\u2b50\ufe0f Marketing Intern \u2013 Surgical Vision Iberia",
+        "date": "2026-11-17",
+        "id": "workday:R-111604",
+        "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Madrid-Spain/Marketing-Intern---Surgical-Vision-Iberia_R-111604",
+        "location": "Madrid, Spain"
       }
     ],
     "PlusAI": [
@@ -72195,6 +72226,13 @@
         "id": "workday:R10261033",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Sunnyvale/XMLNAME-2027-Environmental-Health-and-Safety-Engineer-Intern---Sunnyvale-CA_R10261033",
         "location": "United States-California-Sunnyvale"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Manufacturing Engineer Intern - Baltimore MD",
+        "date": "2026-11-17",
+        "id": "workday:R10261045",
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Manufacturing-Engineer-Intern---Baltimore-MD_R10261045",
+        "location": "United States-Maryland-Baltimore"
       }
     ],
     "OpenAI": [
@@ -81572,7 +81610,8 @@
         "date": "2026-11-16",
         "id": "lever:02a8ccb8-8d69-4862-a85a-5b28b5777716",
         "url": "https://jobs.eu.lever.co/mobileye/02a8ccb8-8d69-4862-a85a-5b28b5777716",
-        "location": "Jerusalem, Israel"
+        "location": "Jerusalem, Israel",
+        "closed": "2026-11-17"
       },
       {
         "title": "Deep Learning Algorithm Engineer | Learned-Policy Group",
@@ -89480,7 +89519,8 @@
         "date": "2026-11-02",
         "id": "greenhouse:5469367008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5469367008",
-        "location": "London, UK"
+        "location": "London, UK",
+        "closed": "2026-11-17"
       },
       {
         "title": "Data Center Asset Management, Commercial Associate",
@@ -90082,6 +90122,13 @@
         "id": "greenhouse:5484171008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5484171008",
         "location": "Remote-Friendly, United States"
+      },
+      {
+        "title": "Partner Marketing Manager, Cloud Partners EMEA",
+        "date": "2026-11-17",
+        "id": "greenhouse:5473999008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5473999008",
+        "location": "London, UK"
       }
     ],
     "xAI": [
@@ -94448,6 +94495,13 @@
         "date": "2026-11-16",
         "id": "workday:JR100689",
         "url": "https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Warsaw-Indiana/Skilled-Trades-Maintenance-Technician_JR100689",
+        "location": "Warsaw, Indiana"
+      },
+      {
+        "title": "Industrial Engineer, Continuous Improvement",
+        "date": "2026-11-17",
+        "id": "workday:JR101712",
+        "url": "https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Warsaw-Indiana/Industrial-Engineer--Continuous-Improvement_JR101712",
         "location": "Warsaw, Indiana"
       }
     ],
@@ -100735,6 +100789,13 @@
         "id": "ashby:d5cc437c-2397-4c1a-9d12-3a2bf64d98ea",
         "url": "https://jobs.ashbyhq.com/cohere/d5cc437c-2397-4c1a-9d12-3a2bf64d98ea",
         "location": "United States +8"
+      },
+      {
+        "title": "Talent Coordinator",
+        "date": "2026-11-17",
+        "id": "ashby:74373c60-3ce9-48fd-ae8d-5235fa24c682",
+        "url": "https://jobs.ashbyhq.com/cohere/74373c60-3ce9-48fd-ae8d-5235fa24c682",
+        "location": "Germany"
       }
     ],
     "Ramp": [
@@ -113534,7 +113595,8 @@
         "date": "N/A",
         "id": "workday:R-00196247-1",
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Helpdesk-IT-Support-Intern_R-00196247-1",
-        "location": "2 Locations"
+        "location": "2 Locations",
+        "closed": "2026-11-17"
       },
       {
         "title": "\u2b50\ufe0f Energy & Infrastructure Consulting Summer Intern",
@@ -120597,6 +120659,10 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
+    },
+    "Tesla": {
+      "since": "2026-11-17",
+      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
     }
   },
   "closures_untracked": {
