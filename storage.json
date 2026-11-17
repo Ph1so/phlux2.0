@@ -11449,7 +11449,8 @@
         "date": "2026-11-02",
         "id": "bamboohr:205",
         "url": "https://mujin.bamboohr.com/careers/205",
-        "location": "Suwanee, GA"
+        "location": "Suwanee, GA",
+        "closed": "2026-11-17"
       },
       {
         "title": "Software Developer - Mobile Robot Planning",
@@ -30662,6 +30663,13 @@
         "id": "lever:aec6f73e-6a6f-4ba4-9d62-48ca9d40eb06",
         "url": "https://jobs.lever.co/picklerobot/aec6f73e-6a6f-4ba4-9d62-48ca9d40eb06",
         "location": "Charlestown, MA"
+      },
+      {
+        "title": "Deployment Engineer",
+        "date": "2026-11-17",
+        "id": "lever:64500145-17f2-49fa-81aa-90799f26d85b",
+        "url": "https://jobs.lever.co/picklerobot/64500145-17f2-49fa-81aa-90799f26d85b",
+        "location": "Greenville, SC"
       }
     ],
     "ScoutAI": [
@@ -49767,6 +49775,27 @@
         "id": "ashby:3d3e04a2-5153-4fee-93f2-b242efb5656e",
         "url": "https://jobs.ashbyhq.com/saronic/3d3e04a2-5153-4fee-93f2-b242efb5656e",
         "location": "Gulfport, MS"
+      },
+      {
+        "title": "Material Planning & Indirect Inventory Manager",
+        "date": "2026-11-17",
+        "id": "ashby:677e353f-bf04-4c17-aa52-43ae35633951",
+        "url": "https://jobs.ashbyhq.com/saronic/677e353f-bf04-4c17-aa52-43ae35633951",
+        "location": "Austin, TX"
+      },
+      {
+        "title": "Senior Test Automation Engineer",
+        "date": "2026-11-17",
+        "id": "ashby:0b9aa853-df02-4adb-a36a-b7ccac00491f",
+        "url": "https://jobs.ashbyhq.com/saronic/0b9aa853-df02-4adb-a36a-b7ccac00491f",
+        "location": "Austin, TX"
+      },
+      {
+        "title": "R&D Test Engineer",
+        "date": "2026-11-17",
+        "id": "ashby:6cb0bfd9-dbd3-43bb-b26d-e1e40548b57f",
+        "url": "https://jobs.ashbyhq.com/saronic/6cb0bfd9-dbd3-43bb-b26d-e1e40548b57f",
+        "location": "Austin, TX"
       }
     ],
     "Built Robotics": [
@@ -53380,7 +53409,8 @@
         "date": "2026-10-14",
         "id": "bamboohr:774",
         "url": "https://berkshiregrey.bamboohr.com/careers/774",
-        "location": "Bedford, MA"
+        "location": "Bedford, MA",
+        "closed": "2026-11-17"
       },
       {
         "title": "Senior Mechatronics Controls Engineer",
@@ -55630,6 +55660,13 @@
         "id": "workday:R-111604",
         "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Madrid-Spain/Marketing-Intern---Surgical-Vision-Iberia_R-111604",
         "location": "Madrid, Spain"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern (w/m/d) Trauma R&D",
+        "date": "2026-11-17",
+        "id": "workday:R-108969",
+        "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Zuchwil-Switzerland/Intern--w-m-d--Trauma-R-D_R-108969",
+        "location": "Zuchwil, Switzerland"
       }
     ],
     "PlusAI": [
@@ -57077,7 +57114,8 @@
         "date": "2026-11-16",
         "id": "workday:R8392",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer--Core-Systems---Platform-Services_R8392",
-        "location": "USA Wilmington, MA - HQ"
+        "location": "USA Wilmington, MA - HQ",
+        "closed": "2026-11-17"
       },
       {
         "title": "Senior Manager, Tier 3 Deployment and Support",
@@ -57199,7 +57237,8 @@
         "date": "2026-10-14",
         "id": "workday:2026-R210-1",
         "url": "https://proceptbiorobotics.wd108.myworkdayjobs.com/PROCEPT/job/Ohio/Senior-Territory-Manager---Detroit-Metro_2026-R210-1",
-        "location": "Ohio"
+        "location": "Ohio",
+        "closed": "2026-11-17"
       },
       {
         "title": "Senior Territory Manager- Louisiana",
@@ -58226,8 +58265,7 @@
         "date": "2026-10-19",
         "id": "workday:JR00050275",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Pinetops-North-Carolina-United-States-of-America/Category-Manager_JR00050275",
-        "location": "Pinetops, North Carolina, United States of America",
-        "closed": "2026-11-16"
+        "location": "Pinetops, North Carolina, United States of America"
       },
       {
         "title": "Tender Quotation Specialist",
@@ -59360,7 +59398,8 @@
         "date": "N/A",
         "id": "workday:JR00045823",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bartlesville-Oklahoma-United-States-of-America/SCM-Category-Specialist_JR00045823",
-        "location": "Bartlesville, Oklahoma, United States of America"
+        "location": "Bartlesville, Oklahoma, United States of America",
+        "closed": "2026-11-17"
       },
       {
         "title": "Supply Chain Manager - Instrumentation",
@@ -61496,7 +61535,8 @@
         "date": "2026-11-12",
         "id": "workday:JR00049796",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-AR-Jonesboro/Machine-Operator_JR00049796",
-        "location": "USA, AR, Jonesboro"
+        "location": "USA, AR, Jonesboro",
+        "closed": "2026-11-17"
       },
       {
         "title": "Senior Project Lead Engineer",
@@ -61890,6 +61930,27 @@
         "id": "workday:JR00053528-1",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-California-United-States-of-America/Sales-Support-Specialist_JR00053528-1",
         "location": "42 Locations"
+      },
+      {
+        "title": "Head of Gas Power & Nuclear, Energy Industries",
+        "date": "2026-11-17",
+        "id": "workday:JR00053571",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Atlanta-Georgia-United-States-of-America/Head-of-Gas-Power---Nuclear--Energy-Industries_JR00053571",
+        "location": "Atlanta, Georgia, United States of America"
+      },
+      {
+        "title": "Cutouts - Assembler - 1st Shift",
+        "date": "2026-11-17",
+        "id": "workday:JR00053904-1",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Pinetops-North-Carolina-United-States-of-America/Cutouts---Assembler---1st-Shift_JR00053904-1",
+        "location": "Pinetops, North Carolina, United States of America"
+      },
+      {
+        "title": "Warehouse/Internal Logistics Specialist",
+        "date": "2026-11-17",
+        "id": "workday:JR00053802",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Phoenix-Arizona-United-States-of-America/Warehouse-Internal-Logistics-Specialist_JR00053802",
+        "location": "Phoenix, Arizona, United States of America"
       }
     ],
     "Teradyne": [
@@ -65393,6 +65454,20 @@
         "id": "adp:575804",
         "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=575804&lang=en_US",
         "location": "Houston, TX"
+      },
+      {
+        "title": "\u2b50\ufe0f Stress Analysis Intern",
+        "date": "2026-11-17",
+        "id": "adp:575811",
+        "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=575811&lang=en_US",
+        "location": "Houston, TX"
+      },
+      {
+        "title": "\u2b50\ufe0f Structures and Design Intern",
+        "date": "2026-11-17",
+        "id": "adp:575806",
+        "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=575806&lang=en_US",
+        "location": "Houston, TX"
       }
     ],
     "Zimmer Biomet": [
@@ -68521,6 +68596,10 @@
       {
         "title": "Integrator Customer Success Engineer - Warehouse Robotics Automation",
         "date": "2026-11-16"
+      },
+      {
+        "title": "Installation Supervisor - Warehouse Automation & Robotics",
+        "date": "2026-11-17"
       }
     ],
     "Humble Robotics": [
@@ -68536,7 +68615,8 @@
         "date": "2026-10-20",
         "id": "lever:8d1fb5d7-9b07-4fac-8c39-e395dca7f2b3",
         "url": "https://jobs.lever.co/humble-robotics/8d1fb5d7-9b07-4fac-8c39-e395dca7f2b3",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-17"
       },
       {
         "title": "Entry Lever Operator",
@@ -75375,7 +75455,8 @@
         "date": "2026-10-22",
         "id": "ashby:c1d765b3-182e-4874-8316-12ce509a7f9f",
         "url": "https://jobs.ashbyhq.com/openai/c1d765b3-182e-4874-8316-12ce509a7f9f",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-17"
       },
       {
         "title": "Partner Marketing Manager, Ads",
@@ -79738,6 +79819,13 @@
         "id": "ashby:6dc6b517-c0e3-453d-924a-ffe13e36d28b",
         "url": "https://jobs.ashbyhq.com/openai/6dc6b517-c0e3-453d-924a-ffe13e36d28b",
         "location": "Singapore"
+      },
+      {
+        "title": "Global Transportation Program Manager",
+        "date": "2026-11-17",
+        "id": "ashby:a5d30d9b-0127-4682-be03-d787467e606f",
+        "url": "https://jobs.ashbyhq.com/openai/a5d30d9b-0127-4682-be03-d787467e606f",
+        "location": "San Francisco"
       }
     ],
     "John Deere": [
@@ -93709,8 +93797,7 @@
         "date": "2026-10-27",
         "id": "workday:JR100998-1",
         "url": "https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Warsaw-Indiana/Plant-Vehicle-Engineering-Technician--Electrical-Systems---Harness-Support_JR100998-1",
-        "location": "Warsaw, Indiana",
-        "closed": "2026-11-05"
+        "location": "Warsaw, Indiana"
       },
       {
         "title": "QMS, Q Excellence Lead",
@@ -94189,8 +94276,7 @@
         "date": "2026-10-27",
         "id": "workday:BENG1",
         "url": "https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Troy-Michigan/Manager-Exterior-Accessories_BENG1",
-        "location": "Troy, Michigan",
-        "closed": "2026-11-10"
+        "location": "Troy, Michigan"
       },
       {
         "title": "Sr. ADAS Release Engineer",
@@ -96883,7 +96969,8 @@
         "date": "N/A",
         "id": "workday:JR367659-1",
         "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659-1",
-        "location": "2 Locations"
+        "location": "2 Locations",
+        "closed": "2026-11-17"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Intern - Finance Operations Associate",
@@ -112918,6 +113005,20 @@
         "id": "talentbrew:103401406288",
         "url": "https://www.disneycareers.com/en/job/new-york/data-engineering-intern-summer-2027/391/103401406288",
         "location": "New York"
+      },
+      {
+        "title": "\u2b50\ufe0f Data Engineering Intern",
+        "date": "2026-11-17",
+        "id": "talentbrew:103426473040",
+        "url": "https://www.disneycareers.com/en/job/santa-monica/data-engineering-intern/391/103426473040",
+        "location": "Santa Monica, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Tech Data Analytics Intern",
+        "date": "2026-11-17",
+        "id": "talentbrew:103426473072",
+        "url": "https://www.disneycareers.com/en/job/santa-monica/tech-data-analytics-intern/391/103426473072",
+        "location": "Santa Monica, CA"
       }
     ],
     "Goldman Sachs": [
@@ -114596,7 +114697,8 @@
         "date": "2026-11-16",
         "id": "talentbrew:103390034848",
         "url": "https://jobs.comcast.com/job/philadelphia/spring-events-intern/45483/103390034848",
-        "location": "Philadelphia, PA"
+        "location": "Philadelphia, PA",
+        "closed": "2026-11-17"
       }
     ],
     "HP": [
@@ -116325,7 +116427,8 @@
         "date": "N/A",
         "id": "greenhouse:8018856",
         "url": "https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856",
-        "location": "Chicago, IL"
+        "location": "Chicago, IL",
+        "closed": "2026-11-17"
       },
       {
         "title": "\u2b50\ufe0f Quantitative Development & Strategy Intern, Summer 2027",
@@ -117429,6 +117532,13 @@
         "id": "greenhouse:7808440003",
         "url": "https://boards.greenhouse.io/morsecorp/jobs/7808440003?gh_jid=7808440003",
         "location": "Cambridge, MA"
+      },
+      {
+        "title": "Cloud Engineer",
+        "date": "2026-11-17",
+        "id": "greenhouse:8207239003",
+        "url": "https://boards.greenhouse.io/morsecorp/jobs/8207239003?gh_jid=8207239003",
+        "location": "Cambridge, MA, Arlington, VA, Seattle, WA"
       }
     ],
     "Navier": [],
@@ -120749,38 +120859,6 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
-    },
-    "Intel": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
-    },
-    "Snap": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
-    },
-    "Rockwell Automation": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
-    },
-    "Unity": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
-    },
-    "Target": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
-    },
-    "General Motors": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
-    },
-    "Stryker": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs"
-    },
-    "ABB": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
     }
   },
   "closures_untracked": {
