@@ -43293,8 +43293,7 @@
         "date": "N/A",
         "id": "google:124995998941356742",
         "url": "https://www.google.com/about/careers/applications/jobs/results/124995998941356742",
-        "location": "Mountain View, CA +1",
-        "closed": "2026-11-17"
+        "location": "Mountain View, CA +1"
       },
       {
         "title": "Research Scientist, SAMBA, DeepMind",
@@ -50506,6 +50505,13 @@
         "date": "N/A",
         "id": "lever:06e5edc9-4092-4518-8ee4-cc02a2ee4c3e",
         "url": "https://jobs.lever.co/anybotics/06e5edc9-4092-4518-8ee4-cc02a2ee4c3e",
+        "location": "Zurich, Switzerland"
+      },
+      {
+        "title": "Product Compliance and Certification Lead",
+        "date": "2026-11-17",
+        "id": "lever:9498fa1c-791c-472f-9a01-6d144713d498",
+        "url": "https://jobs.lever.co/anybotics/9498fa1c-791c-472f-9a01-6d144713d498",
         "location": "Zurich, Switzerland"
       }
     ],
@@ -70018,6 +70024,13 @@
         "id": "lever:e86913f4-b2cd-46c9-8868-19165a102438",
         "url": "https://jobs.lever.co/woven-by-toyota/e86913f4-b2cd-46c9-8868-19165a102438",
         "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a"
+      },
+      {
+        "title": "HR Operations Analyst",
+        "date": "2026-11-17",
+        "id": "lever:e777d447-c8d5-4983-8acf-884d749d861c",
+        "url": "https://jobs.lever.co/woven-by-toyota/e777d447-c8d5-4983-8acf-884d749d861c",
+        "location": "Tokyo"
       }
     ],
     "Generalist AI": [
@@ -81076,21 +81089,24 @@
         "date": "2026-10-28",
         "id": "lever:35d41f76-5f20-4fc8-b108-f761582083f2",
         "url": "https://jobs.eu.lever.co/mobileye/35d41f76-5f20-4fc8-b108-f761582083f2",
-        "location": "Jerusalem, Israel"
+        "location": "Jerusalem, Israel",
+        "closed": "2026-11-17"
       },
       {
         "title": "Talent Acquisition Partner - Temporary (1 year)",
         "date": "2026-10-28",
         "id": "lever:5aeac1a2-386c-4444-ac70-584f3a96a19d",
         "url": "https://jobs.eu.lever.co/mobileye/5aeac1a2-386c-4444-ac70-584f3a96a19d",
-        "location": "Ramat Gan, Israel"
+        "location": "Ramat Gan, Israel",
+        "closed": "2026-11-17"
       },
       {
         "title": "Talent Acquisition Partner - Temporary (1 year)",
         "date": "2026-10-28",
         "id": "lever:79932ba7-840a-4c1b-8dca-80722712d51b",
         "url": "https://jobs.eu.lever.co/mobileye/79932ba7-840a-4c1b-8dca-80722712d51b",
-        "location": "Petah Tikva, Israel"
+        "location": "Petah Tikva, Israel",
+        "closed": "2026-11-17"
       },
       {
         "title": "Experienced Algorithm & Software Engineer",
@@ -81186,7 +81202,8 @@
         "date": "2026-11-02",
         "id": "lever:72b82d00-3d08-499b-84ca-c90b12db479d",
         "url": "https://jobs.eu.lever.co/mobileye/72b82d00-3d08-499b-84ca-c90b12db479d",
-        "location": "Petah Tikva, Israel"
+        "location": "Petah Tikva, Israel",
+        "closed": "2026-11-17"
       },
       {
         "title": "\u2b50\ufe0f SOC Analyst (Student position)",
@@ -110690,6 +110707,13 @@
         "id": "greenhouse:8245211",
         "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
         "location": "In-Office"
+      },
+      {
+        "title": "\u2b50\ufe0f People Team Intern, EMEA Employment Compliance & Manager Enablement (Spring 2027)",
+        "date": "2026-11-17",
+        "id": "greenhouse:8383449",
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/8383449?gh_jid=8383449",
+        "location": "In-Office"
       }
     ],
     "Scheider Electric": [
@@ -115662,8 +115686,7 @@
         "date": "N/A",
         "id": "talentbrew:102516884032",
         "url": "https://jobs.boeing.com/job/bristol/intern-student-engineer-systems-eng/185/102516884032",
-        "location": "Bristol, United Kingdom",
-        "closed": "2026-11-17"
+        "location": "Bristol, United Kingdom"
       },
       {
         "title": "\u2b50\ufe0f Boeing Summer 2027 Internship Program (Paid) \u2013 Security & Fire Operation (S&FO)",
@@ -120260,12 +120283,12 @@
     "Boston Dynamics": "2026-11-17",
     "Scale AI": "2026-11-17",
     "Relativity": "2026-11-17",
-    "Palantir": "2026-11-16",
+    "Palantir": "2026-11-17",
     "Skydio": "2026-11-17",
     "Kodiak Robotics": "2026-11-17",
     "XPENG": "2026-11-17",
     "C3": "2026-11-17",
-    "Toyota Research Insitute": "2026-11-16",
+    "Toyota Research Insitute": "2026-11-17",
     "Qualcomm": "2026-11-17",
     "Mitsubishi Electric Research Laboratories": "2026-11-17",
     "Mujin": "2026-11-17",
@@ -120281,7 +120304,7 @@
     "GrayMatter Robotics": "2026-11-17",
     "Chef Robotics": "2026-11-17",
     "Cobot": "2026-11-17",
-    "Ambi Robotics": "2026-11-16",
+    "Ambi Robotics": "2026-11-17",
     "Apptronik": "2026-11-17",
     "Figure AI": "2026-11-17",
     "1x": "2026-11-17",
@@ -120296,27 +120319,27 @@
     "Avride": "2026-11-17",
     "May Mobility": "2026-11-17",
     "Beep": "2026-11-17",
-    "Zoox": "2026-11-16",
+    "Zoox": "2026-11-17",
     "Pony.ai": "2026-11-17",
     "Nuro": "2026-11-17",
     "Lila Sciences": "2026-11-17",
     "Serve Robotics": "2026-11-17",
     "Bosch": "2026-11-17",
     "Anduril": "2026-11-17",
-    "Aeva": "2026-11-16",
+    "Aeva": "2026-11-17",
     "Forterra": "2026-11-17",
     "Intrinsic": "2026-11-17",
     "Gecko Robotics": "2026-11-17",
-    "Robotics and AI Insitute": "2026-11-16",
+    "Robotics and AI Insitute": "2026-11-17",
     "Sunday": "2026-11-17",
-    "Machina Labs": "2026-11-16",
+    "Machina Labs": "2026-11-17",
     "Matic Robots": "2026-11-17",
     "GreyOrange": "2026-11-17",
     "ScoutAI": "2026-11-17",
     "AeroVect": "2026-11-17",
     "Gather AI": "2026-11-17",
     "Carbon Robotics": "2026-11-17",
-    "Pickle Robot": "2026-11-16",
+    "Pickle Robot": "2026-11-17",
     "Scythe Robotics": "2026-11-17",
     "Futurewei Technologies": "2026-11-17",
     "Diligent Robotics": "2026-11-17",
@@ -120324,12 +120347,12 @@
     "Neros Technologies": "2026-11-17",
     "Swarm Aero": "2026-11-17",
     "Wayve": "2026-11-17",
-    "Shield AI": "2026-11-16",
+    "Shield AI": "2026-11-17",
     "DeepMind": "2026-11-17",
     "Waymo": "2026-11-17",
     "Bedrock Robotics": "2026-11-17",
     "Applied Intuition": "2026-11-17",
-    "FieldAI": "2026-11-16",
+    "FieldAI": "2026-11-17",
     "Humanoid": "2026-11-17",
     "World Labs": "2026-11-17",
     "General Motors": "2026-11-17",
@@ -120340,9 +120363,9 @@
     "Dyna Robotics": "2026-11-17",
     "Nimble Robotics": "2026-11-17",
     "Standard Bots": "2026-11-17",
-    "Dexterity": "2026-11-16",
+    "Dexterity": "2026-11-17",
     "Formic": "2026-11-17",
-    "Bright Machines": "2026-11-16",
+    "Bright Machines": "2026-11-17",
     "Stack AV": "2026-11-17",
     "Torc Robotics": "2026-11-17",
     "Saronic": "2026-11-17",
@@ -120350,22 +120373,22 @@
     "Built Robotics": "2026-11-17",
     "Coco Robotics": "2026-11-17",
     "Mytra": "2026-11-17",
-    "Waabi": "2026-11-16",
+    "Waabi": "2026-11-17",
     "Overland AI": "2026-11-17",
     "Plus One Robotics": "2026-11-17",
     "Persona AI": "2026-11-17",
     "Ghost Robotics": "2026-11-17",
-    "PlusAI": "2026-11-16",
+    "PlusAI": "2026-11-17",
     "Miso Robotics": "2026-11-17",
     "Gatik": "2026-11-17",
-    "Humble Robotics": "2026-11-16",
+    "Humble Robotics": "2026-11-17",
     "Rhoda AI": "2026-11-17",
     "Walden Robotics": "2026-11-17",
     "Symbotic": "2026-11-17",
     "Generalist AI": "2026-11-17",
     "Genesis AI": "2026-11-17",
     "Mind Robotics": "2026-11-17",
-    "Woven by Toyota": "2026-11-16",
+    "Woven by Toyota": "2026-11-17",
     "OpenAI": "2026-11-17",
     "Ocado": "2026-11-17",
     "Caterpillar": "2026-11-17",
@@ -120389,7 +120412,7 @@
     "Beyond Reach Labs": "2026-11-17",
     "Relling": "2026-11-17",
     "Icarus": "2026-11-17",
-    "Pyka": "2026-11-16",
+    "Pyka": "2026-11-17",
     "Tuesday Labs": "2026-11-17",
     "Weave Robotics": "2026-11-17",
     "Boost Robotics": "2026-11-17",
@@ -120398,7 +120421,7 @@
     "Eka Robotics": "2026-11-17",
     "Bonsai Robotics": "2026-11-17",
     "Welch's": "2026-11-17",
-    "ispace": "2026-11-16",
+    "ispace": "2026-11-17",
     "Pinterest": "2026-11-17",
     "Intel": "2026-11-17",
     "LinkedIn": "2026-11-17",
@@ -120408,7 +120431,7 @@
     "IBM": "2026-11-17",
     "Bank of America": "2026-11-17",
     "Airbnb": "2026-11-17",
-    "Spotify": "2026-11-16",
+    "Spotify": "2026-11-17",
     "Morgan Stanley": "2026-11-17",
     "Cisco": "2026-11-17",
     "TwoSigma": "2026-11-17",
@@ -120477,7 +120500,7 @@
     "Target": "2026-11-17",
     "DRW": "2026-11-17",
     "Amentum": "2026-11-17",
-    "Mercedes Benz": "2026-11-16",
+    "Mercedes Benz": "2026-11-17",
     "Boeing": "2026-11-17",
     "Mosaic": "2026-11-17",
     "Samsung": "2026-11-17",
@@ -120499,7 +120522,7 @@
     "Morsecorp": "2026-11-17",
     "Outrider": "2026-11-17",
     "Viam": "2026-11-17",
-    "ANYbotics": "2026-11-16",
+    "ANYbotics": "2026-11-17",
     "Foxglove": "2026-11-17",
     "Impulse Space": "2026-11-17",
     "Hadrian": "2026-11-17",
@@ -120520,12 +120543,12 @@
     "ABB": "2026-11-17",
     "Exotec": "2026-11-17",
     "Lockheed Martin": "2026-11-17",
-    "Simbe Robotics": "2026-11-16",
+    "Simbe Robotics": "2026-11-17",
     "Medra": "2026-11-17",
     "RoboForce": "2026-11-17",
     "OpenMind": "2026-11-17",
     "Lightwheel": "2026-11-17",
-    "Tutor Intelligence": "2026-11-16",
+    "Tutor Intelligence": "2026-11-17",
     "AMD": "2026-11-17",
     "Unity": "2026-11-17",
     "Konrad": "2026-11-17"
@@ -120543,97 +120566,9 @@
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
     },
-    "ispace": {
+    "Tesla": {
       "since": "2026-11-17",
-      "error": "ReadTimeout: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=30)"
-    },
-    "Spotify": {
-      "since": "2026-11-17",
-      "error": "ReadTimeout: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=30)"
-    },
-    "Palantir": {
-      "since": "2026-11-17",
-      "error": "ReadTimeout: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=30)"
-    },
-    "Mercedes Benz": {
-      "since": "2026-11-17",
-      "error": "ReadTimeout: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=30)"
-    },
-    "Toyota Research Insitute": {
-      "since": "2026-11-17",
-      "error": "ReadTimeout: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=30)"
-    },
-    "Ambi Robotics": {
-      "since": "2026-11-17",
-      "error": "ReadTimeout: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=30)"
-    },
-    "Zoox": {
-      "since": "2026-11-17",
-      "error": "ReadTimeout: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=30)"
-    },
-    "Aeva": {
-      "since": "2026-11-17",
-      "error": "ReadTimeout: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=30)"
-    },
-    "Robotics and AI Insitute": {
-      "since": "2026-11-17",
-      "error": "ReadTimeout: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=30)"
-    },
-    "Machina Labs": {
-      "since": "2026-11-17",
-      "error": "ReadTimeout: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=30)"
-    },
-    "Pickle Robot": {
-      "since": "2026-11-17",
-      "error": "ReadTimeout: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=30)"
-    },
-    "Shield AI": {
-      "since": "2026-11-17",
-      "error": "ReadTimeout: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=30)"
-    },
-    "FieldAI": {
-      "since": "2026-11-17",
-      "error": "ReadTimeout: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=30)"
-    },
-    "Dexterity": {
-      "since": "2026-11-17",
-      "error": "ReadTimeout: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=30)"
-    },
-    "Bright Machines": {
-      "since": "2026-11-17",
-      "error": "ReadTimeout: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=30)"
-    },
-    "Waabi": {
-      "since": "2026-11-17",
-      "error": "ReadTimeout: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=30)"
-    },
-    "ANYbotics": {
-      "since": "2026-11-17",
-      "error": "ReadTimeout: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=30)"
-    },
-    "PlusAI": {
-      "since": "2026-11-17",
-      "error": "ReadTimeout: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=30)"
-    },
-    "Humble Robotics": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 500 Server Error: Internal Server Error for url: https://api.lever.co/v0/postings/humble-robotics?mode=json"
-    },
-    "Woven by Toyota": {
-      "since": "2026-11-17",
-      "error": "ReadTimeout: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=30)"
-    },
-    "Pyka": {
-      "since": "2026-11-17",
-      "error": "ReadTimeout: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=30)"
-    },
-    "Simbe Robotics": {
-      "since": "2026-11-17",
-      "error": "ReadTimeout: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=30)"
-    },
-    "Tutor Intelligence": {
-      "since": "2026-11-17",
-      "error": "ReadTimeout: HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=30)"
+      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
     }
   },
   "closures_untracked": {
