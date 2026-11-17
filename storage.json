@@ -1308,6 +1308,13 @@
         "id": "eightfold:1970393557074642",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557074642",
         "location": "United States, Washington, Redmond"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Intern - Frontier Tuning",
+        "date": "2026-11-17",
+        "id": "eightfold:1970393557075074",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557075074",
+        "location": "United States, Washington, Redmond +6"
       }
     ],
     "Amazon": [
@@ -1342,16 +1349,14 @@
         "date": "N/A",
         "id": "amazon:10550494",
         "url": "https://www.amazon.jobs/en/jobs/10550494/solutions-architect-intern-awsi-2027",
-        "location": "Dallas, TX",
-        "closed": "2026-11-02"
+        "location": "Dallas, TX"
       },
       {
         "title": "\u2b50\ufe0f Customer Solutions Manager Intern, AWSI - 2027",
         "date": "N/A",
         "id": "amazon:10550549",
         "url": "https://www.amazon.jobs/en/jobs/10550549/customer-solutions-manager-intern-awsi-2027",
-        "location": "Seattle, WA",
-        "closed": "2026-11-02"
+        "location": "Seattle, WA"
       },
       {
         "title": "\u2b50\ufe0f Industrial Development Engineer Intern/Co-op, ROBOTICS - 2027",
@@ -3486,7 +3491,8 @@
         "date": "2026-10-26",
         "id": "meta:1653804269586821",
         "url": "https://www.metacareers.com/profile/job_details/1653804269586821/",
-        "location": "Sunnyvale, CA"
+        "location": "Sunnyvale, CA",
+        "closed": "2026-11-17"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, Robotics",
@@ -6659,6 +6665,13 @@
         "id": "jibe:36268",
         "url": "https://careers.rivian.com/careers-home/jobs/36268",
         "location": "Champaign, IL"
+      },
+      {
+        "title": "Early Career - Structural Safety Engineer (CAE)",
+        "date": "2026-11-17",
+        "id": "jibe:35755",
+        "url": "https://careers.rivian.com/careers-home/jobs/35755",
+        "location": "Irvine, CA"
       }
     ],
     "Roblox": [
@@ -9117,6 +9130,13 @@
         "id": "lever:7f676d3c-6a86-4b00-a9fd-c1009035fe49",
         "url": "https://jobs.lever.co/tri/7f676d3c-6a86-4b00-a9fd-c1009035fe49",
         "location": "Cambridge, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Future Product Innovation Research Intern, Computational Cognitive Science",
+        "date": "2026-11-17",
+        "id": "lever:0d74ff26-05cc-4616-bda0-97d821c9452b",
+        "url": "https://jobs.lever.co/tri/0d74ff26-05cc-4616-bda0-97d821c9452b",
+        "location": "Los Altos, CA"
       }
     ],
     "Mitsubishi Electric Research Laboratories": [
@@ -15185,6 +15205,13 @@
         "date": "2026-11-17",
         "id": "greenhouse:8949018002",
         "url": "https://boards.greenhouse.io/pathrobotics/jobs/8949018002?gh_jid=8949018002",
+        "location": "Columbus, Ohio"
+      },
+      {
+        "title": "Customer Manufacturing Excellence Manager",
+        "date": "2026-11-17",
+        "id": "greenhouse:8948051002",
+        "url": "https://boards.greenhouse.io/pathrobotics/jobs/8948051002?gh_jid=8948051002",
         "location": "Columbus, Ohio"
       }
     ],
@@ -26199,7 +26226,8 @@
         "date": "N/A",
         "id": "greenhouse:8082658",
         "url": "https://nuro.ai/careersitem?gh_jid=8082658",
-        "location": "Mountain View, California (HQ)"
+        "location": "Mountain View, California (HQ)",
+        "closed": "2026-11-17"
       },
       {
         "title": "Embedded Software Engineer",
@@ -29203,7 +29231,9 @@
       {
         "title": "Assembly Associate",
         "date": "N/A",
-        "closed": "N/A"
+        "id": "ashby:89bc861e-3730-4d0e-8314-beff86ae4014",
+        "url": "https://jobs.ashbyhq.com/sunday/89bc861e-3730-4d0e-8314-beff86ae4014",
+        "location": "Redwood City, CA"
       },
       {
         "title": "Global Supply Manager (any level)",
@@ -29213,7 +29243,9 @@
       {
         "title": "Production Support Associate",
         "date": "N/A",
-        "closed": "N/A"
+        "id": "ashby:acd40199-9077-413c-89d4-0c4928402016",
+        "url": "https://jobs.ashbyhq.com/sunday/acd40199-9077-413c-89d4-0c4928402016",
+        "location": "Redwood City, CA"
       },
       {
         "title": "Robot Service Technician",
@@ -30672,6 +30704,13 @@
         "date": "2026-11-17",
         "id": "rippling:a1c15c64-7d1b-49ff-a5d8-1c478add6e4f",
         "url": "https://ats.rippling.com/forterra/jobs/a1c15c64-7d1b-49ff-a5d8-1c478add6e4f",
+        "location": "Arlington, VA"
+      },
+      {
+        "title": "Corporate Accountant",
+        "date": "2026-11-17",
+        "id": "rippling:88665f0d-74cf-4725-a027-dfd5a3059b86",
+        "url": "https://ats.rippling.com/forterra/jobs/88665f0d-74cf-4725-a027-dfd5a3059b86",
         "location": "Arlington, VA"
       }
     ],
@@ -47891,6 +47930,13 @@
         "id": "greenhouse:8947559002",
         "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8947559002",
         "location": "Montreal, Canada, Remote - Canada"
+      },
+      {
+        "title": "Senior, Systems Engineer - Functional Safety & Safety Architecture (Unstructured Environments)",
+        "date": "2026-11-17",
+        "id": "greenhouse:8927585002",
+        "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8927585002",
+        "location": "Remote - US, Blacksburg, VA"
       }
     ],
     "Saronic": [
@@ -50118,6 +50164,20 @@
         "id": "ashby:3337592f-4d22-4086-980b-e01ec0e601df",
         "url": "https://jobs.ashbyhq.com/saronic/3337592f-4d22-4086-980b-e01ec0e601df",
         "location": "Franklin, LA"
+      },
+      {
+        "title": "Teamcenter Systems Specialist",
+        "date": "2026-11-17",
+        "id": "ashby:075bb754-ad9e-448c-a2b3-4de4e435bf57",
+        "url": "https://jobs.ashbyhq.com/saronic/075bb754-ad9e-448c-a2b3-4de4e435bf57",
+        "location": "Austin, TX"
+      },
+      {
+        "title": "Commodity Manager",
+        "date": "2026-11-17",
+        "id": "ashby:6729d58a-166c-4105-bebd-260d638af0f4",
+        "url": "https://jobs.ashbyhq.com/saronic/6729d58a-166c-4105-bebd-260d638af0f4",
+        "location": "Austin, TX"
       }
     ],
     "Built Robotics": [
@@ -54387,7 +54447,8 @@
         "date": "N/A",
         "id": "workday:R572790",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Sales-Support-Analyst---Michigan_R572790",
-        "location": "Portage, Michigan"
+        "location": "Portage, Michigan",
+        "closed": "2026-11-17"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Intern - Marketing - Minnesota",
@@ -58685,7 +58746,9 @@
       {
         "title": "Product Quality Assurance Specialist",
         "date": "2026-10-20",
-        "closed": "N/A"
+        "id": "workday:JR00043597",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-SC-Florence/Product-Quality-Assurance-Specialist_JR00043597",
+        "location": "USA, SC, Florence"
       },
       {
         "title": "Continuous Improvement Specialist",
@@ -61568,8 +61631,7 @@
         "date": "N/A",
         "id": "workday:JR00047874",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-FL-Lake-Mary/Associate-Project-Manger_JR00047874",
-        "location": "USA, FL, Lake Mary",
-        "closed": "2026-11-13"
+        "location": "USA, FL, Lake Mary"
       },
       {
         "title": "Material Handler- 1st Shift",
@@ -62344,6 +62406,34 @@
         "id": "workday:JR00048974",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Mebane/ELDS-LIS-Supervisor-1st-Shift_JR00048974",
         "location": "USA, NC, Mebane"
+      },
+      {
+        "title": "Technical Design & Promotion Specialist",
+        "date": "2026-11-17",
+        "id": "workday:JR00053530-1",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Cary/Technical-Design---Promotion-Specialist_JR00053530-1",
+        "location": "184 Locations"
+      },
+      {
+        "title": "Operations Controller",
+        "date": "2026-11-17",
+        "id": "workday:JR00053731",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/New-Berlin-Wisconsin-United-States-of-America/Operations-Controller_JR00053731",
+        "location": "New Berlin, Wisconsin, United States of America"
+      },
+      {
+        "title": "Renewables Field Service Manager",
+        "date": "2026-11-17",
+        "id": "workday:JR00052962",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/New-Berlin-Wisconsin-United-States-of-America/Renewables-Field-Service-Manager_JR00052962",
+        "location": "New Berlin, Wisconsin, United States of America"
+      },
+      {
+        "title": "Lg Contractor, Electrical Equip. Sales Associate",
+        "date": "2026-11-17",
+        "id": "workday:JR00052963",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MD-Linthicum-Heights/Lg-Contractor--Electrical-Equip-Sales-Associate_JR00052963",
+        "location": "USA, MD, Linthicum Heights"
       }
     ],
     "Teradyne": [
@@ -64844,8 +64934,7 @@
         "date": "2026-10-17",
         "id": "successfactors:1365199355",
         "url": "https://jobs.kuka.com/job/Chicago-Estimator-%28Estimating-Engineer%29-ND/1365199355/",
-        "location": "Chicago",
-        "closed": "2026-11-16"
+        "location": "Chicago"
       },
       {
         "title": "Field Service Engineer - Washington, D.C.",
@@ -68375,7 +68464,8 @@
         "date": "2026-11-03",
         "id": "greenhouse:4726646006",
         "url": "https://boards.greenhouse.io/gatikaiinc/jobs/4726646006?gh_jid=4726646006",
-        "location": "Phoenix, AZ"
+        "location": "Phoenix, AZ",
+        "closed": "2026-11-17"
       },
       {
         "title": "Sr. Field Service Team Manager",
@@ -72833,6 +72923,13 @@
         "id": "workday:R10261054",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Apopka/XMLNAME-2027-Industrial-Engineer-Intern---Apopka-FL_R10261054",
         "location": "United States-Florida-Apopka"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Global Trade Intern - Linthicum MD",
+        "date": "2026-11-17",
+        "id": "workday:R10261149",
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Global-Trade-Intern---Linthicum-MD_R10261149",
+        "location": "United States-Maryland-Linthicum"
       }
     ],
     "OpenAI": [
@@ -73006,7 +73103,8 @@
         "date": "2026-10-22",
         "id": "ashby:7ba0b390-b198-4101-80bb-b49a6dd62607",
         "url": "https://jobs.ashbyhq.com/openai/7ba0b390-b198-4101-80bb-b49a6dd62607",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-17"
       },
       {
         "title": "Engineering Manager, MLE",
@@ -74253,7 +74351,8 @@
         "date": "2026-10-22",
         "id": "ashby:d49e09b0-9ebe-4ed6-bc0a-8b6a394a9756",
         "url": "https://jobs.ashbyhq.com/openai/d49e09b0-9ebe-4ed6-bc0a-8b6a394a9756",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-17"
       },
       {
         "title": "Manager, Technical & Operational Accounting",
@@ -80358,6 +80457,13 @@
         "id": "ashby:5899e8d5-132f-40b3-9ff6-37830644743f",
         "url": "https://jobs.ashbyhq.com/openai/5899e8d5-132f-40b3-9ff6-37830644743f",
         "location": "Paris, France"
+      },
+      {
+        "title": "Full Stack Software Engineer, Dots for Companies",
+        "date": "2026-11-17",
+        "id": "ashby:7447dd43-9bf5-445f-bb8c-ba57756c8d04",
+        "url": "https://jobs.ashbyhq.com/openai/7447dd43-9bf5-445f-bb8c-ba57756c8d04",
+        "location": "San Francisco"
       }
     ],
     "John Deere": [
@@ -84036,7 +84142,8 @@
         "date": "2026-10-27",
         "id": "mundane:https://mundane.co/careers/software-engineer",
         "url": "https://mundane.co/careers/software-engineer",
-        "location": "Palo Alto, CA"
+        "location": "Palo Alto, CA",
+        "closed": "2026-11-17"
       },
       {
         "title": "Mechanical Engineer, Robot Hardware",
@@ -87134,7 +87241,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5389773008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5389773008",
-        "location": "Remote-Friendly (Travel Required) | San Francisco, CA"
+        "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
+        "closed": "2026-11-17"
       },
       {
         "title": "Lead - Security Controls Assurance - SOX",
@@ -91664,8 +91772,7 @@
         "date": "2026-10-27",
         "id": "greenhouse:5264627007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5264627007",
-        "location": "Southaven, MS; Memphis, TN",
-        "closed": "2026-11-10"
+        "location": "Southaven, MS; Memphis, TN"
       },
       {
         "title": "Facilities Specialist - Memphis",
@@ -97560,7 +97667,8 @@
         "date": "N/A",
         "id": "workday:JR367659-1",
         "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659-1",
-        "location": "2 Locations"
+        "location": "2 Locations",
+        "closed": "2026-11-17"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Intern - Finance Operations Associate",
@@ -104501,7 +104609,8 @@
         "date": "N/A",
         "id": "bytedance:7675440171819960629",
         "url": "https://lifeattiktok.com/search/7675440171819960629",
-        "location": "San Jose, CA"
+        "location": "San Jose, CA",
+        "closed": "2026-11-17"
       },
       {
         "title": "Crisis Management Specialist Graduate (Global Crisis Management) - 2027 Start",
@@ -105012,7 +105121,8 @@
         "date": "N/A",
         "id": "bytedance:7673333697095469317",
         "url": "https://lifeattiktok.com/search/7673333697095469317",
-        "location": "San Jose, CA"
+        "location": "San Jose, CA",
+        "closed": "2026-11-17"
       },
       {
         "title": "Data Engineer Graduate (Data Platform - Global Live) - 2027 Start",
@@ -111538,6 +111648,13 @@
         "id": "eightfold:563602813563399",
         "url": "https://bostonscientific.eightfold.ai/careers/job/563602813563399",
         "location": "United States"
+      },
+      {
+        "title": "\u2b50\ufe0f R&D Research Data Science Intern",
+        "date": "2026-11-17",
+        "id": "eightfold:563602813968810",
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602813968810",
+        "location": "United States"
       }
     ],
     "Cloudflare": [
@@ -117375,7 +117492,8 @@
         "date": "N/A",
         "id": "workday:P751630",
         "url": "https://zillow.wd5.myworkdayjobs.com/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Software-Development-Engineer---Intern_P751630",
-        "location": "Seattle-WA-2nd Ave"
+        "location": "Seattle-WA-2nd Ave",
+        "closed": "2026-11-17"
       }
     ],
     "Mitre": [
@@ -117765,6 +117883,13 @@
         "date": "2026-11-16",
         "id": "workday:JR003137",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Space---Strategic-Navigation-Intern--Summer-2027-_JR003137",
+        "location": "Cambridge, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineering & DevOps Intern",
+        "date": "2026-11-17",
+        "id": "workday:JR003155",
+        "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Software-Engineering---DevOps-Intern_JR003155",
         "location": "Cambridge, MA"
       }
     ],
@@ -121603,122 +121728,6 @@
     "Tesla": {
       "since": "2026-11-17",
       "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
-    },
-    "Nvidia": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
-    },
-    "Salesforce": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs"
-    },
-    "Intel": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
-    },
-    "Autodesk": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/uni/jobs"
-    },
-    "Blue Origin": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/BlueOrigin/jobs"
-    },
-    "Snap": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
-    },
-    "Workday": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday_Early_Career/jobs"
-    },
-    "Slack": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/Slack/jobs"
-    },
-    "Unity": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
-    },
-    "Boston Dynamics": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://bostondynamics.wd1.myworkdayjobs.com/wday/cxs/bostondynamics/Boston_Dynamics/jobs"
-    },
-    "Rockwell Automation": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
-    },
-    "Verizon": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://verizon.wd12.myworkdayjobs.com/wday/cxs/verizon/verizon-careers/jobs"
-    },
-    "Leidos": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://leidos.wd5.myworkdayjobs.com/wday/cxs/leidos/External/jobs"
-    },
-    "Razer": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
-    },
-    "Sony": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sonyglobal.wd1.myworkdayjobs.com/wday/cxs/sonyglobal/SonyGlobalCareers/jobs"
-    },
-    "Target": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
-    },
-    "Mosaic": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://mosaic.wd5.myworkdayjobs.com/wday/cxs/mosaic/mosaic/jobs"
-    },
-    "T-Mobile": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://tmobile.wd1.myworkdayjobs.com/wday/cxs/tmobile/External/jobs"
-    },
-    "Samsung": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
-    },
-    "Medtronic": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://medtronic.wd1.myworkdayjobs.com/wday/cxs/medtronic/MedtronicCareers/jobs"
-    },
-    "General Motors": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
-    },
-    "Zillow": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://zillow.wd5.myworkdayjobs.com/wday/cxs/zillow/Zillow_Group_External/jobs"
-    },
-    "Stryker": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs"
-    },
-    "Johnson & Johnson": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs"
-    },
-    "Symbotic": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://symbotic.wd504.myworkdayjobs.com/wday/cxs/symbotic/Symbotic/jobs"
-    },
-    "ABB": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
-    },
-    "Northrop Grumman": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ngc.wd1.myworkdayjobs.com/wday/cxs/ngc/Northrop_Grumman_External_Site/jobs"
-    },
-    "Oshkosh": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs"
-    },
-    "Slate Auto": {
-      "since": "2026-11-17",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
     }
   },
   "closures_untracked": {
