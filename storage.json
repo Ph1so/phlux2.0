@@ -7605,7 +7605,8 @@
         "date": "2026-10-13",
         "id": "greenhouse:7893955003",
         "url": "https://www.zipline.com/open-roles/7893955003?gh_jid=7893955003",
-        "location": "South San Francisco, California, USA"
+        "location": "South San Francisco, California, USA",
+        "closed": "2026-11-16"
       },
       {
         "title": "\u2b50\ufe0f Software Systems Validation Intern (Summer 2027)",
@@ -11178,6 +11179,20 @@
         "id": "html:https://usa.honda-ri.com/-/research-intern-nanomaterials-synthesis?redirect=%2Fintern-positions",
         "url": "https://usa.honda-ri.com/-/research-intern-nanomaterials-synthesis?redirect=%2Fintern-positions",
         "location": "Columbus, OH"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Intern: Perception and Navigation",
+        "date": "2026-11-16",
+        "id": "html:https://usa.honda-ri.com/-/research-intern-perception-and-navigation?redirect=%2Fintern-positions",
+        "url": "https://usa.honda-ri.com/-/research-intern-perception-and-navigation?redirect=%2Fintern-positions",
+        "location": "SPRING - Mountain View, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Intern: Real-World End-to-End Autonomous ...",
+        "date": "2026-11-16",
+        "id": "html:https://usa.honda-ri.com/-/research-intern-real-world-end-to-end-autonomous-driving?redirect=%2Fintern-positions",
+        "url": "https://usa.honda-ri.com/-/research-intern-real-world-end-to-end-autonomous-driving?redirect=%2Fintern-positions",
+        "location": "SPRING - Mountain View, CA"
       }
     ],
     "iRobot": [
@@ -24104,6 +24119,13 @@
         "id": "lever:9fdd6600-099c-45e3-beab-f0ec7dbc296a",
         "url": "https://jobs.lever.co/zoox/9fdd6600-099c-45e3-beab-f0ec7dbc296a",
         "location": "Foster City, CA"
+      },
+      {
+        "title": "Software Engineer, Vehicle Deployment",
+        "date": "2026-11-16",
+        "id": "lever:15b6716e-5b08-4e04-a0c7-00532b82fa69",
+        "url": "https://jobs.lever.co/zoox/15b6716e-5b08-4e04-a0c7-00532b82fa69",
+        "location": "Foster City, CA"
       }
     ],
     "Pony.ai": [
@@ -29749,6 +29771,13 @@
         "id": "greenhouse:5296825007",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5296825007?gh_jid=5296825007",
         "location": "Quincy, Massachusetts, United States"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Mission Operations Engineer Intern",
+        "date": "2026-11-16",
+        "id": "greenhouse:5297134007",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5297134007?gh_jid=5297134007",
+        "location": "Honolulu, Hawaii, United States; Washington, District of Columbia, United States"
       }
     ],
     "Matic Robots": [
@@ -30355,6 +30384,13 @@
         "id": "rippling:988bc637-2b57-4e15-b594-b2bb4b545395",
         "url": "https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395",
         "location": "Arlington, VA +4"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Intern - Mechanical Engineer",
+        "date": "2026-11-16",
+        "id": "rippling:74bf4d28-aea6-4323-aee2-c5bded201e9d",
+        "url": "https://ats.rippling.com/forterra/jobs/74bf4d28-aea6-4323-aee2-c5bded201e9d",
+        "location": "Clarksburg, MD"
       }
     ],
     "Pickle Robot": [
@@ -42102,7 +42138,9 @@
       {
         "title": "Senior Technical Recruiter (contract, 3 months)",
         "date": "2026-09-29",
-        "closed": "N/A"
+        "id": "ashby:f2bd8dec-0978-4b36-8d72-0d9f0ad78367",
+        "url": "https://jobs.ashbyhq.com/niantic-spatial/f2bd8dec-0978-4b36-8d72-0d9f0ad78367",
+        "location": "San Francisco, CA"
       },
       {
         "title": "AI Automation Engineer, Real-World Test Lab",
@@ -51403,7 +51441,8 @@
         "date": "2026-10-14",
         "id": "ashby:96cb5763-e4c1-4d25-af7c-602213f2439c",
         "url": "https://jobs.ashbyhq.com/hadrian-automation/96cb5763-e4c1-4d25-af7c-602213f2439c",
-        "location": "Cherokee, AL"
+        "location": "Cherokee, AL",
+        "closed": "2026-11-16"
       },
       {
         "title": "Sr. Manager, Production Planning & Scheduling",
@@ -65770,7 +65809,8 @@
         "date": "N/A",
         "id": "greenhouse:4477951009",
         "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4477951009",
-        "location": "Los Angeles, CA"
+        "location": "Los Angeles, CA",
+        "closed": "2026-11-16"
       },
       {
         "title": "Electrical Engineer V",
@@ -66492,7 +66532,8 @@
         "date": "N/A",
         "id": "greenhouse:4388849009",
         "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4388849009",
-        "location": "Folsom, CA"
+        "location": "Folsom, CA",
+        "closed": "2026-11-16"
       },
       {
         "title": "Systems Engineer III - Project Engineer",
@@ -66528,7 +66569,8 @@
         "date": "N/A",
         "id": "greenhouse:4410080009",
         "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4410080009",
-        "location": "Folsom, CA; Reno, NV; Remote"
+        "location": "Folsom, CA; Reno, NV; Remote",
+        "closed": "2026-11-16"
       },
       {
         "title": "Systems Engineer IV - Test",
@@ -66684,6 +66726,13 @@
         "id": "greenhouse:4507267009",
         "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4507267009",
         "location": "Littleton, CO"
+      },
+      {
+        "title": "System Engineer",
+        "date": "2026-11-16",
+        "id": "greenhouse:4503760009",
+        "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4503760009",
+        "location": "San Diego, CA"
       }
     ],
     "FANUC America": [
@@ -79367,6 +79416,20 @@
         "date": "2026-11-16",
         "id": "ashby:db31bc85-f5ea-4703-ab78-46fcd67ac3a1",
         "url": "https://jobs.ashbyhq.com/openai/db31bc85-f5ea-4703-ab78-46fcd67ac3a1",
+        "location": "San Francisco"
+      },
+      {
+        "title": "Applied AI Architect - EDU",
+        "date": "2026-11-16",
+        "id": "ashby:7cd8205b-fd73-4af1-9103-1b1fed3b0c22",
+        "url": "https://jobs.ashbyhq.com/openai/7cd8205b-fd73-4af1-9103-1b1fed3b0c22",
+        "location": "San Francisco"
+      },
+      {
+        "title": "Customer Education Adoption Lead",
+        "date": "2026-11-16",
+        "id": "ashby:d78c0cd2-d0dd-4d81-8c18-3480df089b62",
+        "url": "https://jobs.ashbyhq.com/openai/d78c0cd2-d0dd-4d81-8c18-3480df089b62",
         "location": "San Francisco"
       }
     ],
@@ -100358,6 +100421,13 @@
         "id": "ashby:0067eb76-92af-497e-a5f8-7521716552f9",
         "url": "https://jobs.ashbyhq.com/cohere/0067eb76-92af-497e-a5f8-7521716552f9",
         "location": "New York +2"
+      },
+      {
+        "title": "Compensation Business Partner",
+        "date": "2026-11-16",
+        "id": "ashby:5a61f4d2-5a52-4c98-a8a9-71fbfd67e485",
+        "url": "https://jobs.ashbyhq.com/cohere/5a61f4d2-5a52-4c98-a8a9-71fbfd67e485",
+        "location": "New York +2"
       }
     ],
     "Ramp": [
@@ -112323,6 +112393,13 @@
         "url": "https://www.disneycareers.com/en/job/glendale/product-and-technology-software-engineering-intern-summer-2027/391/102343795584",
         "location": "Glendale, CA +2",
         "closed": "2026-11-16"
+      },
+      {
+        "title": "\u2b50\ufe0f Data Engineering Intern, Summer 2027",
+        "date": "2026-11-16",
+        "id": "talentbrew:103401406288",
+        "url": "https://www.disneycareers.com/en/job/new-york/data-engineering-intern-summer-2027/391/103401406288",
+        "location": "New York"
       }
     ],
     "Goldman Sachs": [
@@ -118345,6 +118422,13 @@
         "date": "2026-11-16",
         "id": "pinpoint:620470",
         "url": "https://impulsespace.pinpointhq.com/en/postings/829256fd-cd06-4f0d-91c9-8bb59eaf6772",
+        "location": "Redondo Beach, CA"
+      },
+      {
+        "title": "Manufacturing Engineer (Composites)",
+        "date": "2026-11-16",
+        "id": "pinpoint:620686",
+        "url": "https://impulsespace.pinpointhq.com/en/postings/9b91e30c-9709-4673-a4a1-f2f936b130b9",
         "location": "Redondo Beach, CA"
       }
     ],
