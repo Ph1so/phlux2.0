@@ -3116,7 +3116,8 @@
         "date": "2026-10-20",
         "id": "meta:1428978125312655",
         "url": "https://www.metacareers.com/profile/job_details/1428978125312655/",
-        "location": "Redmond, WA"
+        "location": "Redmond, WA",
+        "closed": "2026-11-17"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, AI-Driven Neural Interfaces (PhD)",
@@ -13531,6 +13532,13 @@
         "id": "ashby:135af00a-3c33-46ad-a534-f1d2ace599f7",
         "url": "https://jobs.ashbyhq.com/graymatter-robotics/135af00a-3c33-46ad-a534-f1d2ace599f7",
         "location": "Los Angeles - HQ"
+      },
+      {
+        "title": "Forward Deployment Engineer",
+        "date": "2026-11-17",
+        "id": "ashby:7f806a1c-2874-4a0b-a64c-d8e8e87822bf",
+        "url": "https://jobs.ashbyhq.com/graymatter-robotics/7f806a1c-2874-4a0b-a64c-d8e8e87822bf",
+        "location": "Remote - USA"
       }
     ],
     "Agility Robotics": [
@@ -19192,6 +19200,14 @@
         "id": "greenhouse:4413852009",
         "url": "https://job-boards.greenhouse.io/avride/jobs/4413852009",
         "location": "Towson, Maryland"
+      },
+      {
+        "title": "Fleet Maintenance Detailing Assistant - Part-Time/Contract",
+        "date": "2026-11-17",
+        "id": "greenhouse:4511692009",
+        "url": "https://job-boards.greenhouse.io/avride/jobs/4511692009",
+        "location": "Austin, Texas",
+        "early": "This is an entry-level, hands-on position working alongside our Fleet Maintenance and Operations teams to help ensure vehicles are clean, properly maintained, and ready for daily operations."
       }
     ],
     "May Mobility": [
@@ -28797,6 +28813,13 @@
         "id": "smartrecruiters:744000162076254",
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162076254",
         "location": "Farmington Hills, MI"
+      },
+      {
+        "title": "\u2b50\ufe0f Robot Learning Research Intern",
+        "date": "2026-11-17",
+        "id": "smartrecruiters:744000162212029",
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162212029",
+        "location": "Pittsburgh, PA"
       }
     ],
     "Intrinsic": [
@@ -30120,6 +30143,14 @@
         "id": "greenhouse:5274037007",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007",
         "location": "Santa Ana, California, United States"
+      },
+      {
+        "title": "2026 Early Career Test & Evaluation Engineer",
+        "date": "2026-11-17",
+        "id": "greenhouse:5196267007",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5196267007?gh_jid=5196267007",
+        "location": "Channel Islands, California, United States",
+        "early": "We're seeking a motivated early-career engineer who is eager to learn and contribute to the testing and refinement of our autonomous systems."
       }
     ],
     "Matic Robots": [
@@ -31986,6 +32017,27 @@
         "id": "taleo:11567",
         "url": "https://phf.tbe.taleo.net/phf01/ats/careers/v2/viewRequisition?org=FUTUREWEITECH&cws=47&rid=11567",
         "location": "San Jose, CA"
+      },
+      {
+        "title": "Senior Business Director",
+        "date": "2026-11-17",
+        "id": "taleo:11579",
+        "url": "https://phf.tbe.taleo.net/phf01/ats/careers/v2/viewRequisition?org=FUTUREWEITECH&cws=47&rid=11579",
+        "location": "Framingham, MA"
+      },
+      {
+        "title": "Senior Solution Architect",
+        "date": "2026-11-17",
+        "id": "taleo:11581",
+        "url": "https://phf.tbe.taleo.net/phf01/ats/careers/v2/viewRequisition?org=FUTUREWEITECH&cws=47&rid=11581",
+        "location": "Framingham, MA"
+      },
+      {
+        "title": "Technical AI Solution Director",
+        "date": "2026-11-17",
+        "id": "taleo:11580",
+        "url": "https://phf.tbe.taleo.net/phf01/ats/careers/v2/viewRequisition?org=FUTUREWEITECH&cws=47&rid=11580",
+        "location": "Framingham, MA"
       }
     ],
     "Diligent Robotics": [
@@ -36698,7 +36750,8 @@
         "date": "N/A",
         "id": "ashby:087f6417-5d8c-45b6-a7d0-dfaa2cc92cf8",
         "url": "https://jobs.ashbyhq.com/bedrock-robotics/087f6417-5d8c-45b6-a7d0-dfaa2cc92cf8",
-        "location": "San Francisco, CA"
+        "location": "San Francisco, CA",
+        "closed": "2026-11-17"
       },
       {
         "title": "Head of Validation and Systems Engineering",
@@ -40704,7 +40757,8 @@
         "date": "N/A",
         "id": "lever:b600a2ab-cff1-4b8f-9940-4bd851c05e37",
         "url": "https://jobs.lever.co/field-ai/b600a2ab-cff1-4b8f-9940-4bd851c05e37",
-        "location": "Irvine, CA"
+        "location": "Irvine, CA",
+        "closed": "2026-11-17"
       },
       {
         "title": "3D/AR/VR Software Engineer",
@@ -50267,6 +50321,13 @@
         "id": "ashby:d100a5a0-8448-4839-abbe-5a1ff92cbaeb",
         "url": "https://jobs.ashbyhq.com/saronic/d100a5a0-8448-4839-abbe-5a1ff92cbaeb",
         "location": "Arlington, VA"
+      },
+      {
+        "title": "IT Infrastructure Architect (Brownsville, TX)",
+        "date": "2026-11-17",
+        "id": "ashby:251fe699-486d-4b3a-9886-28d568cf5436",
+        "url": "https://jobs.ashbyhq.com/saronic/251fe699-486d-4b3a-9886-28d568cf5436",
+        "location": "Brownsville, TX"
       }
     ],
     "Built Robotics": [
@@ -84045,6 +84106,13 @@
         "id": "eightfold:996477565928",
         "url": "https://lockheedmartin.eightfold.ai/careers/job/996477565928",
         "location": "Fort Worth, TX"
+      },
+      {
+        "title": "\u2b50\ufe0f Supply Chain Management (Buyer) - Intern",
+        "date": "2026-11-17",
+        "id": "eightfold:996477411545",
+        "url": "https://lockheedmartin.eightfold.ai/careers/job/996477411545",
+        "location": "Marietta, GA"
       }
     ],
     "Vecna Robotics": [
@@ -86156,7 +86224,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5439355008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439355008",
-        "location": "San Francisco, CA | New York City, NY"
+        "location": "San Francisco, CA | New York City, NY",
+        "closed": "2026-11-17"
       },
       {
         "title": "Customer Program Manager, Executive Briefings",
@@ -90738,7 +90807,8 @@
         "date": "2026-11-06",
         "id": "greenhouse:5474544008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5474544008",
-        "location": "San Francisco, CA | New York City, NY; Washington, DC"
+        "location": "San Francisco, CA | New York City, NY; Washington, DC",
+        "closed": "2026-11-17"
       },
       {
         "title": "Brand Strategy Lead, Brand Architecture & Naming",
@@ -93762,6 +93832,13 @@
         "date": "2026-11-16",
         "id": "greenhouse:5297314007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5297314007",
+        "location": "Palo Alto, CA"
+      },
+      {
+        "title": "Business Operations Analyst (Human Data)",
+        "date": "2026-11-17",
+        "id": "greenhouse:5216863007",
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5216863007",
         "location": "Palo Alto, CA"
       }
     ],
@@ -108510,16 +108587,14 @@
         "date": "N/A",
         "id": "oraclehcm:334388",
         "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334388",
-        "location": "United States",
-        "closed": "2026-11-17"
+        "location": "United States"
       },
       {
         "title": "\u2b50\ufe0f M&D Operations Planning Intern - OVIP",
         "date": "N/A",
         "id": "oraclehcm:334366",
         "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334366",
-        "location": "United States",
-        "closed": "2026-11-17"
+        "location": "United States"
       },
       {
         "title": "\u2b50\ufe0f GDI Business Analyst Intern - OVIP",
@@ -108562,8 +108637,7 @@
         "date": "N/A",
         "id": "oraclehcm:345689",
         "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/345689",
-        "location": "Denver, CO",
-        "closed": "2026-11-17"
+        "location": "Denver, CO"
       },
       {
         "title": "\u2b50\ufe0f Sales Development Rep Intern - Santa Monica, CA- Summer 2027",
@@ -114904,6 +114978,13 @@
         "id": "workday:R-00197135",
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Poulsbo-WA/Mechanical-Engineering-Intern_R-00197135",
         "location": "Poulsbo, WA"
+      },
+      {
+        "title": "\u2b50\ufe0f Electrical Design Engineering Intern",
+        "date": "2026-11-17",
+        "id": "workday:R-00195400",
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Design-Engineering-Intern_R-00195400",
+        "location": "Huntsville, AL"
       }
     ],
     "Radix Trading": [
