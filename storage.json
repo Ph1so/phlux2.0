@@ -17409,6 +17409,20 @@
         "id": "greenhouse:6262469004",
         "url": "https://boards.greenhouse.io/apptronik/jobs/6262469004?gh_jid=6262469004",
         "location": "Austin, TX"
+      },
+      {
+        "title": "Staff Technical Program Manager, Physical AI",
+        "date": "2026-11-17",
+        "id": "greenhouse:6264814004",
+        "url": "https://boards.greenhouse.io/apptronik/jobs/6264814004?gh_jid=6264814004",
+        "location": "Austin, Texas"
+      },
+      {
+        "title": "Staff Technical Program Manager, Physical AI",
+        "date": "2026-11-17",
+        "id": "greenhouse:6264796004",
+        "url": "https://boards.greenhouse.io/apptronik/jobs/6264796004?gh_jid=6264796004",
+        "location": "Sunnyvale, CA"
       }
     ],
     "Titan Robotics": [
@@ -48486,7 +48500,8 @@
         "date": "2026-10-14",
         "id": "ashby:d20875db-2478-4591-833f-1e90dd3da431",
         "url": "https://jobs.ashbyhq.com/saronic/d20875db-2478-4591-833f-1e90dd3da431",
-        "location": "Austin, TX"
+        "location": "Austin, TX",
+        "closed": "2026-11-17"
       },
       {
         "title": "Senior Revenue Accountant",
@@ -80663,6 +80678,13 @@
         "id": "ashby:e47f0627-6aef-49b0-beea-f46cb6cc07ad",
         "url": "https://jobs.ashbyhq.com/openai/e47f0627-6aef-49b0-beea-f46cb6cc07ad",
         "location": "Seoul, South Korea"
+      },
+      {
+        "title": "Sales Manager, Large Enterprise | India",
+        "date": "2026-11-17",
+        "id": "ashby:a74e9a27-8170-47fd-8326-d2f3375ee697",
+        "url": "https://jobs.ashbyhq.com/openai/a74e9a27-8170-47fd-8326-d2f3375ee697",
+        "location": "Mumbai, India"
       }
     ],
     "John Deere": [
@@ -84125,6 +84147,13 @@
         "date": "2026-11-17",
         "id": "eightfold:996477335974",
         "url": "https://lockheedmartin.eightfold.ai/careers/job/996477335974",
+        "location": "Fort Worth, TX"
+      },
+      {
+        "title": "\u2b50\ufe0f Quality Engineer - College Student Internship",
+        "date": "2026-11-17",
+        "id": "eightfold:996477990450",
+        "url": "https://lockheedmartin.eightfold.ai/careers/job/996477990450",
         "location": "Fort Worth, TX"
       }
     ],
@@ -90280,7 +90309,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5358114008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358114008",
-        "location": "San Francisco, CA | New York City, NY | Seattle, WA"
+        "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+        "closed": "2026-11-17"
       },
       {
         "title": "User Experience Researcher, Platform",
