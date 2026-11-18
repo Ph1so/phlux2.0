@@ -15316,7 +15316,8 @@
         "date": "2026-10-15",
         "id": "greenhouse:4613067006",
         "url": "https://job-boards.greenhouse.io/figureai/jobs/4613067006",
-        "location": "San Jose, CA"
+        "location": "San Jose, CA",
+        "closed": "2026-11-17"
       },
       {
         "title": "\u2b50\ufe0f Embedded Software Engineering Intern [Winter 2027]",
@@ -35494,13 +35495,11 @@
         "date": "2026-10-13",
         "id": "greenhouse:8198218",
         "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
-        "location": "Mountain View, California, United States; San Francisco, California, United States",
-        "closed": "2026-11-04"
+        "location": "Mountain View, California, United States; San Francisco, California, United States"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern, BS/MS, Software Engineering, Commercialization",
-        "date": "2026-10-13",
-        "closed": "2026-11-04"
+        "date": "2026-10-13"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern, MBA, Operations Planning",
@@ -65301,6 +65300,13 @@
         "id": "successfactors:1377405955",
         "url": "https://jobs.kuka.com/job/Newport-News-Project-Manager-Customer-Service-VA-23601/1377405955/",
         "location": "Newport News, VA"
+      },
+      {
+        "title": "Senior Electronics Design Engineer",
+        "date": "2026-11-17",
+        "id": "successfactors:1377415055",
+        "url": "https://jobs.kuka.com/job/Denver-Senior-Electronics-Design-Engineer-NY-12421/1377415055/",
+        "location": "Denver"
       }
     ],
     "Intuitive Machines": [
@@ -84113,6 +84119,13 @@
         "id": "eightfold:996477411545",
         "url": "https://lockheedmartin.eightfold.ai/careers/job/996477411545",
         "location": "Marietta, GA"
+      },
+      {
+        "title": "\u2b50\ufe0f Manufacturing Support Team Member (F-35) - Intern",
+        "date": "2026-11-17",
+        "id": "eightfold:996477335974",
+        "url": "https://lockheedmartin.eightfold.ai/careers/job/996477335974",
+        "location": "Fort Worth, TX"
       }
     ],
     "Vecna Robotics": [
@@ -90793,7 +90806,8 @@
         "date": "2026-11-06",
         "id": "greenhouse:5470680008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5470680008",
-        "location": "Singapore"
+        "location": "Singapore",
+        "closed": "2026-11-17"
       },
       {
         "title": "Applied AI Architect, Democratic Partnerships",
@@ -97199,7 +97213,8 @@
         "date": "2026-11-16",
         "id": "workday:R52031",
         "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Autonomy-Intern_R52031",
-        "location": "Oshkosh, Wisconsin, United States"
+        "location": "Oshkosh, Wisconsin, United States",
+        "closed": "2026-11-17"
       }
     ],
     "General Robotics": [
@@ -121683,6 +121698,12 @@
         "title:\u2b50\ufe0f Supply Chain Engineering Intern \u2013 Robotics (2026 Fall)"
       ],
       "backlog": true
+    },
+    "Airbnb": {
+      "since": "2026-11-17T22:06-05:00",
+      "keys": [
+        "greenhouse:8380007"
+      ]
     }
   },
   "checked": {
