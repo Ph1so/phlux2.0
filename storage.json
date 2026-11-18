@@ -1329,6 +1329,13 @@
         "id": "eightfold:1970393557075136",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557075136",
         "location": "United States, Washington, Redmond"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Intern - Data Center and AI Networking",
+        "date": "2026-11-18",
+        "id": "eightfold:1970393557075457",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557075457",
+        "location": "United States, California, Mountain View +1"
       }
     ],
     "Amazon": [
@@ -16747,6 +16754,13 @@
         "id": "greenhouse:8208717003",
         "url": "https://motional.com/open-positions/?gh_jid=8208717003#/8208717003",
         "location": "Las Vegas, Nevada, United States"
+      },
+      {
+        "title": "Remote Vehicle Assistance Agent - R&D",
+        "date": "2026-11-18",
+        "id": "greenhouse:8208688003",
+        "url": "https://motional.com/open-positions/?gh_jid=8208688003#/8208688003",
+        "location": "Las Vegas, Nevada, United States"
       }
     ],
     "Apptronik": [
@@ -24585,6 +24599,13 @@
         "id": "lever:c6d372ce-1203-4d34-bd3e-f637e7d23483",
         "url": "https://jobs.lever.co/zoox/c6d372ce-1203-4d34-bd3e-f637e7d23483",
         "location": "Foster City, CA"
+      },
+      {
+        "title": "Senior Optical & Mechanical Engineer (Interior lighting)",
+        "date": "2026-11-18",
+        "id": "lever:8356bb90-10cf-4c91-ba81-11acff1bdf60",
+        "url": "https://jobs.lever.co/zoox/8356bb90-10cf-4c91-ba81-11acff1bdf60",
+        "location": "Foster City, CA"
       }
     ],
     "Pony.ai": [
@@ -27208,7 +27229,8 @@
         "date": "N/A",
         "id": "smartrecruiters:744000151900549",
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000151900549",
-        "location": "Plymouth, MI"
+        "location": "Plymouth, MI",
+        "closed": "2026-11-18"
       },
       {
         "title": "Product Marketing Manager / Sr Product Marketing Manager",
@@ -30995,6 +31017,13 @@
         "id": "rippling:88665f0d-74cf-4725-a027-dfd5a3059b86",
         "url": "https://ats.rippling.com/forterra/jobs/88665f0d-74cf-4725-a027-dfd5a3059b86",
         "location": "Arlington, VA"
+      },
+      {
+        "title": "Lead Systems Engineer, Drive-by-Wire and Autonomy",
+        "date": "2026-11-18",
+        "id": "rippling:b3a96cbf-6c69-48fe-b753-47b84fcad116",
+        "url": "https://ats.rippling.com/forterra/jobs/b3a96cbf-6c69-48fe-b753-47b84fcad116",
+        "location": "Clarksburg, MD"
       }
     ],
     "Pickle Robot": [
@@ -33993,11 +34022,13 @@
         "date": "N/A",
         "id": "greenhouse:8806570002",
         "url": "https://app.careerpuck.com/job-board/lyft/job/8806570002?gh_jid=8806570002",
-        "location": "San Francisco, CA"
+        "location": "San Francisco, CA",
+        "closed": "2026-11-18"
       },
       {
         "title": "Backend Software Engineer, Airports",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-18"
       },
       {
         "title": "Data Engineer",
@@ -34680,7 +34711,8 @@
         "date": "N/A",
         "id": "greenhouse:8927265002",
         "url": "https://app.careerpuck.com/job-board/lyft/job/8927265002?gh_jid=8927265002",
-        "location": "New York, NY"
+        "location": "New York, NY",
+        "closed": "2026-11-18"
       },
       {
         "title": "Directeur(trice), Appels d'offres, Strat\u00e9gie et tarification",
@@ -50689,6 +50721,41 @@
         "id": "ashby:7f71596e-9323-48ff-9f3f-9be2d2323d30",
         "url": "https://jobs.ashbyhq.com/saronic/7f71596e-9323-48ff-9f3f-9be2d2323d30",
         "location": "Austin, TX"
+      },
+      {
+        "title": "Lead Photgrapher",
+        "date": "2026-11-18",
+        "id": "ashby:d3f8e8b9-6744-4b19-98da-a0ed9208a7e3",
+        "url": "https://jobs.ashbyhq.com/saronic/d3f8e8b9-6744-4b19-98da-a0ed9208a7e3",
+        "location": "Austin, TX"
+      },
+      {
+        "title": "Learning & Development Manager, Manufacturing & Trades",
+        "date": "2026-11-18",
+        "id": "ashby:6bef57ce-d52c-40ef-bd75-3982a9ac5a7a",
+        "url": "https://jobs.ashbyhq.com/saronic/6bef57ce-d52c-40ef-bd75-3982a9ac5a7a",
+        "location": "Austin, TX"
+      },
+      {
+        "title": "Sr. Skills & Career Architecture Specialist",
+        "date": "2026-11-18",
+        "id": "ashby:f7368edd-b626-4235-a4d1-8e4dbc6e6383",
+        "url": "https://jobs.ashbyhq.com/saronic/f7368edd-b626-4235-a4d1-8e4dbc6e6383",
+        "location": "Austin, TX"
+      },
+      {
+        "title": "Lead Videographer",
+        "date": "2026-11-18",
+        "id": "ashby:a3599675-c469-405b-999e-9ad8ca50fd73",
+        "url": "https://jobs.ashbyhq.com/saronic/a3599675-c469-405b-999e-9ad8ca50fd73",
+        "location": "Austin, TX"
+      },
+      {
+        "title": "Senior Video Producer",
+        "date": "2026-11-18",
+        "id": "ashby:c44cc4bf-2d9a-4011-9e58-8071e0e385f0",
+        "url": "https://jobs.ashbyhq.com/saronic/c44cc4bf-2d9a-4011-9e58-8071e0e385f0",
+        "location": "Austin, TX"
       }
     ],
     "Built Robotics": [
@@ -53054,6 +53121,13 @@
         "id": "ashby:66993080-87be-4608-82e5-780d3757358c",
         "url": "https://jobs.ashbyhq.com/hadrian-automation/66993080-87be-4608-82e5-780d3757358c",
         "location": "Los Angeles, CA"
+      },
+      {
+        "title": "Software Engineer - Enterprise Apps",
+        "date": "2026-11-18",
+        "id": "ashby:11e18ee0-243b-46a8-a9e5-fd67095e3a15",
+        "url": "https://jobs.ashbyhq.com/hadrian-automation/11e18ee0-243b-46a8-a9e5-fd67095e3a15",
+        "location": "Los Angeles, CA +1"
       }
     ],
     "Saildrone": [
@@ -60919,8 +60993,7 @@
         "date": "N/A",
         "id": "workday:JR00047870",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-SC-Florence/Associate-Project-Manager_JR00047870",
-        "location": "USA, SC, Florence",
-        "closed": "2026-11-18"
+        "location": "USA, SC, Florence"
       },
       {
         "title": "Inside Sales Specialist",
@@ -63195,6 +63268,13 @@
         "id": "workday:JR00051936",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Houston-Texas-United-States-of-America/Sales---Business-Development-Manager--High-Speed-Synchronous-Motors---Generators_JR00051936",
         "location": "Houston, Texas, United States of America"
+      },
+      {
+        "title": "Distribution Warehouse Supervisor - 2nd Shift",
+        "date": "2026-11-18",
+        "id": "workday:JR00053196",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MS-Byhalia/Distribution-Warehouse-Supervisor---2nd-Shift_JR00053196",
+        "location": "USA, MS, Byhalia"
       }
     ],
     "Teradyne": [
@@ -75996,7 +76076,8 @@
         "date": "2026-10-22",
         "id": "ashby:56fceb8e-589b-410e-8b21-24f9945ccb9d",
         "url": "https://jobs.ashbyhq.com/openai/56fceb8e-589b-410e-8b21-24f9945ccb9d",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-18"
       },
       {
         "title": "Applied AI Architect, Education",
@@ -76010,7 +76091,8 @@
         "date": "2026-10-22",
         "id": "ashby:1953efa7-5c1f-4878-b4cb-926cd35aafdb",
         "url": "https://jobs.ashbyhq.com/openai/1953efa7-5c1f-4878-b4cb-926cd35aafdb",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-18"
       },
       {
         "title": "Applied AI Architect, Healthcare & Life Sciences",
@@ -80724,7 +80806,8 @@
         "date": "2026-11-09",
         "id": "ashby:d6fbe4bd-1b55-40b6-93c0-a296ea747ecf",
         "url": "https://jobs.ashbyhq.com/openai/d6fbe4bd-1b55-40b6-93c0-a296ea747ecf",
-        "location": "New York City +2"
+        "location": "New York City +2",
+        "closed": "2026-11-18"
       },
       {
         "title": "Community Programs Manager, Champion Network",
@@ -80979,7 +81062,8 @@
         "date": "2026-11-12",
         "id": "ashby:004959f2-4993-4671-be57-a9034c5427a9",
         "url": "https://jobs.ashbyhq.com/openai/004959f2-4993-4671-be57-a9034c5427a9",
-        "location": "San Francisco +1"
+        "location": "San Francisco +1",
+        "closed": "2026-11-18"
       },
       {
         "title": "AI Deployment Manager (Korean Speaking)",
@@ -81456,6 +81540,13 @@
         "id": "ashby:cce31320-258d-4a2f-96f7-6782208d5db6",
         "url": "https://jobs.ashbyhq.com/openai/cce31320-258d-4a2f-96f7-6782208d5db6",
         "location": "San Francisco +1"
+      },
+      {
+        "title": "Geotechnical Engineer, Data Center Development",
+        "date": "2026-11-18",
+        "id": "ashby:c389205c-b163-402f-ab8f-674b7f260c9d",
+        "url": "https://jobs.ashbyhq.com/openai/c389205c-b163-402f-ab8f-674b7f260c9d",
+        "location": "US - Remote"
       }
     ],
     "John Deere": [
@@ -89130,7 +89221,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5179891008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5179891008",
-        "location": "San Francisco, CA | New York City, NY | Seattle, WA"
+        "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+        "closed": "2026-11-18"
       },
       {
         "title": "Product Support Specialist",
@@ -97160,6 +97252,13 @@
         "id": "lever:63082f8f-bd8f-4a23-b213-89e04a12d8c2",
         "url": "https://jobs.lever.co/pyka/63082f8f-bd8f-4a23-b213-89e04a12d8c2",
         "location": "Alameda HQ"
+      },
+      {
+        "title": "Social Media Marketing Specialist (Brazil Only)",
+        "date": "2026-11-18",
+        "id": "lever:41ba9bcb-7aa9-45f3-ac7d-12b0e5f032b0",
+        "url": "https://jobs.lever.co/pyka/41ba9bcb-7aa9-45f3-ac7d-12b0e5f032b0",
+        "location": "Brazil"
       }
     ],
     "Tuesday Labs": [
@@ -102913,8 +103012,7 @@
         "date": "2026-11-13",
         "id": "ashby:2dc422bb-6759-4867-afb6-dc074af9ae58",
         "url": "https://jobs.ashbyhq.com/cohere/2dc422bb-6759-4867-afb6-dc074af9ae58",
-        "location": "San Francisco +5",
-        "closed": "2026-11-18"
+        "location": "San Francisco +5"
       },
       {
         "title": "Staff Software Engineer, Data Infrastructure",
@@ -114693,6 +114791,13 @@
         "id": "greenhouse:6174265004",
         "url": "https://epicgames.com/careers/jobs/6174265004?gh_jid=6174265004",
         "location": "Novi Sad,Vojvodina,Serbia"
+      },
+      {
+        "title": "\u2b50\ufe0f Tools Programmer Intern (Graphics)",
+        "date": "2026-11-18",
+        "id": "greenhouse:6232770004",
+        "url": "https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004",
+        "location": "Cary,North Carolina,United States"
       }
     ],
     "Vercel": [
@@ -115823,6 +115928,13 @@
         "id": "oraclehcm:189373",
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/189373",
         "location": "Albany, NY"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 | Americas | Wilmington, DE | Wealth Management, Tax and Trust Services | Summer Associate",
+        "date": "2026-11-18",
+        "id": "oraclehcm:189403",
+        "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/189403",
+        "location": "Wilmington, DE"
       }
     ],
     "Beli": [
@@ -117023,8 +117135,7 @@
         "date": "N/A",
         "id": "eightfold:43321507",
         "url": "https://apply.hp.com/careers/job/43321507",
-        "location": "Spring, TX",
-        "closed": "2026-11-18"
+        "location": "Spring, TX"
       },
       {
         "title": "\u2b50\ufe0f Chemical Engineer / Chemist Postdoctoral Intern",
@@ -118285,7 +118396,8 @@
         "date": "2026-11-18",
         "id": "talentbrew:100485360496",
         "url": "https://jobs.boeing.com/job/bristol/talent-acquisition-intern-12-month-placement/185/100485360496",
-        "location": "Bristol, United Kingdom"
+        "location": "Bristol, United Kingdom",
+        "closed": "2026-11-18"
       }
     ],
     "Mosaic": [
@@ -123237,10 +123349,6 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
-    },
-    "Tesla": {
-      "since": "2026-11-18",
-      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
     }
   },
   "closures_untracked": {
