@@ -3514,8 +3514,7 @@
         "date": "2026-10-26",
         "id": "meta:1649069223327170",
         "url": "https://www.metacareers.com/profile/job_details/1649069223327170/",
-        "location": "Sunnyvale, CA +1",
-        "closed": "2026-11-16"
+        "location": "Sunnyvale, CA +1"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, Generative Recommendation Systems (PhD)",
@@ -9509,7 +9508,8 @@
         "date": "2026-10-13",
         "id": "tesla:285350",
         "url": "https://www.tesla.com/careers/search/job/internship-aerodynamics-engineering-new-programs-engineering-winter-spring-2027-285350",
-        "location": "Hawthorne, CA"
+        "location": "Hawthorne, CA",
+        "closed": "2026-11-17"
       },
       {
         "title": "\u2b50\ufe0f Internship, Data Engineer, Data Engineering & Business Intelligence (Winter/Spring2027)",
@@ -9736,7 +9736,8 @@
         "date": "2026-10-13",
         "id": "tesla:283364",
         "url": "https://www.tesla.com/careers/search/job/internship-thermal-r-d-thermal-engineering-winter-spring-2027-283364",
-        "location": "Fremont, CA"
+        "location": "Fremont, CA",
+        "closed": "2026-11-17"
       },
       {
         "title": "\u2b50\ufe0f Internship, Product Engineer, Applications Engineering (Winter/Spring 2027)",
@@ -10460,6 +10461,13 @@
         "date": "2026-11-13",
         "id": "tesla:289951",
         "url": "https://www.tesla.com/careers/search/job/internship-electrical-engineer-high-speed-hardware-design-optimus-winter-spring-2027-289951",
+        "location": "Palo Alto, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Internship, Robotics Technical Program Manager, Optimus Hardware (Summer 2027)",
+        "date": "2026-11-17",
+        "id": "tesla:290425",
+        "url": "https://www.tesla.com/careers/search/job/internship-robotics-technical-program-manager-optimus-hardware-summer-2027-290425",
         "location": "Palo Alto, CA"
       }
     ],
@@ -34658,6 +34666,27 @@
         "id": "greenhouse:8944659002",
         "url": "https://app.careerpuck.com/job-board/lyft/job/8944659002?gh_jid=8944659002",
         "location": "Toronto, Canada"
+      },
+      {
+        "title": "People Project Coordinator",
+        "date": "2026-11-17",
+        "id": "greenhouse:8948519002",
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8948519002?gh_jid=8948519002",
+        "location": "Nashville, TN"
+      },
+      {
+        "title": "People Project Manager",
+        "date": "2026-11-17",
+        "id": "greenhouse:8948517002",
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8948517002?gh_jid=8948517002",
+        "location": "Nashville, TN"
+      },
+      {
+        "title": "Training Lead, Autonomous Vehicle Technician Operations",
+        "date": "2026-11-17",
+        "id": "greenhouse:8948514002",
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8948514002?gh_jid=8948514002",
+        "location": "Nashville, TN"
       }
     ],
     "Glydways": [
@@ -35541,7 +35570,8 @@
         "date": "2026-10-13",
         "id": "greenhouse:8199365",
         "url": "https://careers.withwaymo.com/jobs?gh_jid=8199365",
-        "location": "San Francisco, California, United States"
+        "location": "San Francisco, California, United States",
+        "closed": "2026-11-17"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Sim-Realism ML Infrastructure",
@@ -55712,7 +55742,8 @@
         "date": "N/A",
         "id": "workday:R-108887-1",
         "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Seoul-Korea-Republic-of/XMLNAME--Johnson-Johnson-MedTech--Marketing-Intern-Neurovascular--_R-108887-1",
-        "location": "Seoul, Korea, Republic of"
+        "location": "Seoul, Korea, Republic of",
+        "closed": "2026-11-17"
       },
       {
         "title": "\u2b50\ufe0f Internship: Digitalization & Operational Excellence",
@@ -66522,7 +66553,8 @@
         "date": "2026-10-15",
         "id": "greenhouse:4454592009",
         "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4454592009",
-        "location": "Reno, NV"
+        "location": "Reno, NV",
+        "closed": "2026-11-17"
       },
       {
         "title": "Precision Parts Specialist",
@@ -67409,7 +67441,8 @@
         "date": "N/A",
         "id": "greenhouse:4474576009",
         "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4474576009",
-        "location": "Folsom, CA or Reno, NV"
+        "location": "Folsom, CA or Reno, NV",
+        "closed": "2026-11-17"
       },
       {
         "title": "Systems Engineer IV \u2013 Systems",
@@ -73003,6 +73036,13 @@
         "id": "workday:R10261149",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Global-Trade-Intern---Linthicum-MD_R10261149",
         "location": "United States-Maryland-Linthicum"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Thermal / Propulsion Engineer Intern - Redondo Beach CA",
+        "date": "2026-11-17",
+        "id": "workday:R10261254",
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Thermal---Propulsion-Engineer-Intern---Redondo-Beach-CA_R10261254",
+        "location": "United States-California-Redondo Beach"
       }
     ],
     "OpenAI": [
@@ -83998,6 +84038,13 @@
         "id": "eightfold:996477907091",
         "url": "https://lockheedmartin.eightfold.ai/careers/job/996477907091",
         "location": "Mount Laurel, NJ +1"
+      },
+      {
+        "title": "\u2b50\ufe0f Global Supply Chain Intern",
+        "date": "2026-11-17",
+        "id": "eightfold:996477565928",
+        "url": "https://lockheedmartin.eightfold.ai/careers/job/996477565928",
+        "location": "Fort Worth, TX"
       }
     ],
     "Vecna Robotics": [
@@ -90491,8 +90538,7 @@
         "date": "2026-11-03",
         "id": "greenhouse:5467893008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467893008",
-        "location": "San Francisco, CA",
-        "closed": "2026-11-04"
+        "location": "San Francisco, CA"
       },
       {
         "title": "People Services Partner, Compliance",
@@ -108464,14 +108510,16 @@
         "date": "N/A",
         "id": "oraclehcm:334388",
         "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334388",
-        "location": "United States"
+        "location": "United States",
+        "closed": "2026-11-17"
       },
       {
         "title": "\u2b50\ufe0f M&D Operations Planning Intern - OVIP",
         "date": "N/A",
         "id": "oraclehcm:334366",
         "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334366",
-        "location": "United States"
+        "location": "United States",
+        "closed": "2026-11-17"
       },
       {
         "title": "\u2b50\ufe0f GDI Business Analyst Intern - OVIP",
@@ -108514,7 +108562,8 @@
         "date": "N/A",
         "id": "oraclehcm:345689",
         "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/345689",
-        "location": "Denver, CO"
+        "location": "Denver, CO",
+        "closed": "2026-11-17"
       },
       {
         "title": "\u2b50\ufe0f Sales Development Rep Intern - Santa Monica, CA- Summer 2027",
@@ -120093,6 +120142,13 @@
         "id": "pinpoint:577823",
         "url": "https://impulsespace.pinpointhq.com/en/postings/43595e29-a112-4da1-bc2f-12b55c9d49c6",
         "location": "Redondo Beach, CA"
+      },
+      {
+        "title": "Sourcing Specialist (All Levels)",
+        "date": "2026-11-17",
+        "id": "pinpoint:581785",
+        "url": "https://impulsespace.pinpointhq.com/en/postings/2b55b9e4-44ff-4961-8862-fd7c215581d8",
+        "location": "Redondo Beach, CA"
       }
     ],
     "Shure": [
@@ -121856,10 +121912,6 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
-    },
-    "Tesla": {
-      "since": "2026-11-17",
-      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
     }
   },
   "closures_untracked": {
