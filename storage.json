@@ -9147,6 +9147,13 @@
         "id": "lever:0d74ff26-05cc-4616-bda0-97d821c9452b",
         "url": "https://jobs.lever.co/tri/0d74ff26-05cc-4616-bda0-97d821c9452b",
         "location": "Los Altos, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Robotics Intern, Prototyping and Robotics Operations",
+        "date": "2026-11-18",
+        "id": "lever:b2bed6be-16bd-48ee-ba71-215307fa2ab8",
+        "url": "https://jobs.lever.co/tri/b2bed6be-16bd-48ee-ba71-215307fa2ab8",
+        "location": "Cambridge, MA"
       }
     ],
     "Mitsubishi Electric Research Laboratories": [
@@ -15253,6 +15260,13 @@
         "id": "greenhouse:8948051002",
         "url": "https://boards.greenhouse.io/pathrobotics/jobs/8948051002?gh_jid=8948051002",
         "location": "Columbus, Ohio"
+      },
+      {
+        "title": "Machine Learning Engineer, Robotics",
+        "date": "2026-11-18",
+        "id": "greenhouse:8949716002",
+        "url": "https://boards.greenhouse.io/pathrobotics/jobs/8949716002?gh_jid=8949716002",
+        "location": "Columbus, Ohio or Remote"
       }
     ],
     "Figure AI": [
@@ -16014,8 +16028,7 @@
         "date": "2026-10-05",
         "id": "greenhouse:7647987003",
         "url": "https://motional.com/open-positions/?gh_jid=7647987003#/7647987003",
-        "location": "Singapore, Central, Singapore",
-        "closed": "2026-11-06"
+        "location": "Singapore, Central, Singapore"
       },
       {
         "title": "Director, Onboard Core Software",
@@ -40808,7 +40821,8 @@
         "date": "N/A",
         "id": "lever:e22d37a0-6247-4e20-8c63-cb2d84056b85",
         "url": "https://jobs.lever.co/field-ai/e22d37a0-6247-4e20-8c63-cb2d84056b85",
-        "location": "Boston, MA"
+        "location": "Boston, MA",
+        "closed": "2026-11-18"
       },
       {
         "title": "Agentic AI/ML Engineer, Multimodal",
@@ -44429,6 +44443,13 @@
         "id": "google:79472586961887942",
         "url": "https://www.google.com/about/careers/applications/jobs/results/79472586961887942",
         "location": "Mountain View, CA"
+      },
+      {
+        "title": "Software Engineer, AI/ML, GeminiApp, DeepMind",
+        "date": "2026-11-18",
+        "id": "google:75356771341738694",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/75356771341738694",
+        "location": "Bengaluru, Karnataka, India"
       }
     ],
     "Wing": [
@@ -56294,6 +56315,13 @@
         "id": "workday:R-111779-1",
         "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Zug-Switzerland/Intern--w-m-d--Regulatory-Affairs_R-111779-1",
         "location": "Zug, Switzerland"
+      },
+      {
+        "title": "\u2b50\ufe0f Market Access Intern",
+        "date": "2026-11-18",
+        "id": "workday:R-100323",
+        "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Madrid-Spain/Market-Access-Intern_R-100323",
+        "location": "Madrid, Spain"
       }
     ],
     "PlusAI": [
@@ -59925,8 +59953,7 @@
         "date": "N/A",
         "id": "workday:JR00052195",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Mebane/ELSP-Production-Supervisor---2nd-Shift_JR00052195",
-        "location": "USA, NC, Mebane",
-        "closed": "2026-11-18"
+        "location": "USA, NC, Mebane"
       },
       {
         "title": "Testing Manager",
@@ -60047,7 +60074,8 @@
         "date": "N/A",
         "id": "workday:JR00045822-1",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bartlesville-Oklahoma-United-States-of-America/Supply-Chain-Manager---Instrumentation_JR00045822-1",
-        "location": "Bartlesville, Oklahoma, United States of America"
+        "location": "Bartlesville, Oklahoma, United States of America",
+        "closed": "2026-11-18"
       },
       {
         "title": "ELSP Warehouse/Internal Logistics Operator 2nd Shift Shipping",
@@ -60435,7 +60463,8 @@
         "date": "N/A",
         "id": "workday:JR00049448",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Mebane/ELDS-Production-Operator-Epoxy--1st-shift_JR00049448",
-        "location": "USA, NC, Mebane"
+        "location": "USA, NC, Mebane",
+        "closed": "2026-11-18"
       },
       {
         "title": "ELDS Team Leader Warehouse Internal Logistics 1st shift",
@@ -61551,7 +61580,8 @@
         "date": "N/A",
         "id": "workday:JR00038937",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Texas-United-States-of-America/Sales-Consultant---Continuous-Water-Analyzers-Southeast-Region_JR00038937",
-        "location": "2 Locations"
+        "location": "2 Locations",
+        "closed": "2026-11-18"
       },
       {
         "title": "Municipal Sales Specialist - Continuous Water Analyzers Southeast Region",
@@ -62145,15 +62175,15 @@
         "date": "2026-11-12",
         "id": "workday:JR00052675-1",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Richmond-Virginia-United-States-of-America/Lean-Challenge-Intern-Richmond--VA---Summer-2027_JR00052675-1",
-        "location": "Richmond, Virginia, United States of America",
-        "closed": "2026-11-18"
+        "location": "Richmond, Virginia, United States of America"
       },
       {
         "title": "Senior Power Systems Engineer",
         "date": "2026-11-12",
         "id": "workday:JR00039556",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Houston-Texas-United-States-of-America/Senior-Lead-Electrical-Engineer_JR00039556",
-        "location": "Houston, Texas, United States of America"
+        "location": "Houston, Texas, United States of America",
+        "closed": "2026-11-18"
       },
       {
         "title": "Sales Specialist \u2013 Continuous Gas Analyzer / CEMS",
@@ -62702,6 +62732,34 @@
         "id": "workday:JR00053237",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Pinetops-North-Carolina-United-States-of-America/Business-Excellence-Continuous-Improvement_JR00053237",
         "location": "Pinetops, North Carolina, United States of America"
+      },
+      {
+        "title": "ELDS Warehouse Internal Logistics Operator",
+        "date": "2026-11-18",
+        "id": "workday:JR00053920",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Mebane/Warehouse-Internal-Logistics-Operator_JR00053920",
+        "location": "USA, NC, Mebane"
+      },
+      {
+        "title": "ELDS Warehouse Team Leader 1st shift",
+        "date": "2026-11-18",
+        "id": "workday:JR00053921-1",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Mebane/ELDS-Warehouse-Team-Leader-1st-shift_JR00053921-1",
+        "location": "USA, NC, Mebane"
+      },
+      {
+        "title": "ELDS MV SWGR Manufacturing/Quality Tester 1st shift",
+        "date": "2026-11-18",
+        "id": "workday:JR00053923",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Mebane/ELDS-MV-SWGR-Manufacturing-Quality-Tester-1st-shift_JR00053923",
+        "location": "USA, NC, Mebane"
+      },
+      {
+        "title": "Critical Power Data Center Solution Architect Lead",
+        "date": "2026-11-18",
+        "id": "workday:JR00051531",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Georgia-United-States-of-America/Critical-Power-Data-Center-Solution-Architect-Lead_JR00051531",
+        "location": "Remote, Georgia, United States of America"
       }
     ],
     "Teradyne": [
@@ -68171,6 +68229,13 @@
         "id": "adp:5001235412006",
         "url": "https://myjobs.adp.com/fanuc/cx/job-details?reqId=5001235412006",
         "location": "Mason, OH"
+      },
+      {
+        "title": "Staff Specialist",
+        "date": "2026-11-18",
+        "id": "adp:5001204487006",
+        "url": "https://myjobs.adp.com/fanuc/cx/job-details?reqId=5001204487006",
+        "location": "Rochester Hills, MI"
       }
     ],
     "Starship Technologies": [
@@ -72278,7 +72343,8 @@
         "date": "2026-10-22",
         "id": "greenhouse:4995200101",
         "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=4995200101&gh_jid=4995200101",
-        "location": "Hatfield, United Kingdom"
+        "location": "Hatfield, United Kingdom",
+        "closed": "2026-11-18"
       },
       {
         "title": "Senior EPM Systems Manager",
@@ -72675,6 +72741,13 @@
         "date": "2026-11-18",
         "id": "greenhouse:5036245101",
         "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=5036245101&gh_jid=5036245101",
+        "location": "Hatfield, United Kingdom"
+      },
+      {
+        "title": "Enterprise Risk Manager",
+        "date": "2026-11-18",
+        "id": "greenhouse:5033882101",
+        "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=5033882101&gh_jid=5033882101",
         "location": "Hatfield, United Kingdom"
       }
     ],
@@ -94786,7 +94859,8 @@
         "date": "2026-10-27",
         "id": "workday:JR100635",
         "url": "https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Warsaw-Indiana/Industrial-Engineer---General-Assembly_JR100635",
-        "location": "Warsaw, Indiana"
+        "location": "Warsaw, Indiana",
+        "closed": "2026-11-18"
       },
       {
         "title": "Senior Equipment Engineer",
@@ -95762,8 +95836,7 @@
         "date": "2026-10-29",
         "id": "workday:JR101628",
         "url": "https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Carson-California/Packaging-Engineer---Accessories-and-Service-Parts_JR101628",
-        "location": "2 Locations",
-        "closed": "2026-11-12"
+        "location": "2 Locations"
       },
       {
         "title": "Manufacturing Quality Engineer \u2013 Electrical Systems & Software",
@@ -112434,7 +112507,8 @@
         "date": "N/A",
         "id": "jibe:135532",
         "url": "https://careers.se.com/global/jobs/135532",
-        "location": "Franklin, TN"
+        "location": "Franklin, TN",
+        "closed": "2026-11-18"
       },
       {
         "title": "\u2b50\ufe0f Environmental, Health & Safety Intern",
@@ -121944,8 +122018,8 @@
   },
   "email_threads": {
     "internship": {
-      "date": "2026-11-17",
-      "message_id": "<179491508348.2525.7702280355642118252@phlux>"
+      "date": "2026-11-18",
+      "message_id": "<179501040246.2481.13702527924164716157@phlux>"
     },
     "internship_all": {
       "date": "2026-11-18",
@@ -122280,6 +122354,10 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
+    },
+    "Tesla": {
+      "since": "2026-11-18",
+      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
     }
   },
   "closures_untracked": {
