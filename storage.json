@@ -44422,6 +44422,13 @@
         "id": "google:82538850013848262",
         "url": "https://www.google.com/about/careers/applications/jobs/results/82538850013848262",
         "location": "Mountain View, CA"
+      },
+      {
+        "title": "Research Engineer, Benchmarking, Robotics, DeepMind",
+        "date": "2026-11-18",
+        "id": "google:79472586961887942",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/79472586961887942",
+        "location": "Mountain View, CA"
       }
     ],
     "Wing": [
@@ -58491,29 +58498,25 @@
         "date": "2026-10-15",
         "id": "workday:JR00042262",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Mebane/ELDS-LV-Trainer-Wiring-2nd-shift_JR00042262",
-        "location": "USA, NC, Mebane",
-        "closed": "2026-11-12"
+        "location": "USA, NC, Mebane"
       },
       {
         "title": "ELDS MV Assembly Trainer 2nd shift",
         "date": "2026-10-15",
         "id": "workday:JR00042275",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Mebane/ELDS-MV-Assembly-Trainer-2nd-shift_JR00042275",
-        "location": "USA, NC, Mebane",
-        "closed": "2026-11-12"
+        "location": "USA, NC, Mebane"
       },
       {
         "title": "ELDS Special Processes Department- Production Operator 1st shift",
         "date": "2026-10-15",
         "id": "workday:JR00020763",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Mebane/ELDS-Special-Processes-Department--Production-Operator-1st-shift_JR00020763",
-        "location": "USA, NC, Mebane",
-        "closed": "2026-11-12"
+        "location": "USA, NC, Mebane"
       },
       {
         "title": "ELDS Special Processes Department- Production Operator 1st shift",
-        "date": "2026-10-15",
-        "closed": "2026-11-12"
+        "date": "2026-10-15"
       },
       {
         "title": "ELDS Production Operator Paint Line- 1st shift",
@@ -58544,18 +58547,15 @@
         "date": "2026-10-15",
         "id": "workday:JR00050521",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Mebane/ELDS-Fabrication-Machine-Operator-2nd-shift_JR00050521",
-        "location": "USA, NC, Mebane",
-        "closed": "2026-11-13"
+        "location": "USA, NC, Mebane"
       },
       {
         "title": "ELDS Fabrication Machine Operator 2nd shift",
-        "date": "2026-10-15",
-        "closed": "2026-11-13"
+        "date": "2026-10-15"
       },
       {
         "title": "ELDS Fabrication Machine Operator 2nd shift",
-        "date": "2026-10-15",
-        "closed": "2026-11-13"
+        "date": "2026-10-15"
       },
       {
         "title": "Business Development Manager \u2013 Food & Beverage ( VFDs)",
@@ -58945,7 +58945,9 @@
       {
         "title": "1st Shift Pipeline Machine Operator",
         "date": "2026-10-19",
-        "closed": "N/A"
+        "id": "workday:JR00053934",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-AR-Jonesboro/XMLNAME-1st-Shift-Pipeline-Machine-Operator_JR00053934",
+        "location": "USA, AR, Jonesboro"
       },
       {
         "title": "Prod Opr 2 Connect",
@@ -59923,7 +59925,8 @@
         "date": "N/A",
         "id": "workday:JR00052195",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Mebane/ELSP-Production-Supervisor---2nd-Shift_JR00052195",
-        "location": "USA, NC, Mebane"
+        "location": "USA, NC, Mebane",
+        "closed": "2026-11-18"
       },
       {
         "title": "Testing Manager",
@@ -62142,7 +62145,8 @@
         "date": "2026-11-12",
         "id": "workday:JR00052675-1",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Richmond-Virginia-United-States-of-America/Lean-Challenge-Intern-Richmond--VA---Summer-2027_JR00052675-1",
-        "location": "Richmond, Virginia, United States of America"
+        "location": "Richmond, Virginia, United States of America",
+        "closed": "2026-11-18"
       },
       {
         "title": "Senior Power Systems Engineer",
@@ -82161,7 +82165,8 @@
         "date": "2026-10-25",
         "id": "lever:c359a528-8058-4393-818b-52e162418a58",
         "url": "https://jobs.eu.lever.co/mobileye/c359a528-8058-4393-818b-52e162418a58",
-        "location": "Ramat Gan, Israel"
+        "location": "Ramat Gan, Israel",
+        "closed": "2026-11-18"
       },
       {
         "title": "Experienced Deep Learning Algorithm Developer - 3D Perception Team",
@@ -82756,7 +82761,8 @@
         "date": "2026-11-16",
         "id": "lever:01a16cde-2ce4-4c80-a6df-fe56bc223816",
         "url": "https://jobs.eu.lever.co/mobileye/01a16cde-2ce4-4c80-a6df-fe56bc223816",
-        "location": "Ramat Gan, Israel"
+        "location": "Ramat Gan, Israel",
+        "closed": "2026-11-18"
       },
       {
         "title": "Integration Engineering",
@@ -82798,6 +82804,20 @@
         "date": "2026-11-18",
         "id": "lever:eadec8b5-6b58-40f5-a024-5915cef79001",
         "url": "https://jobs.eu.lever.co/mobileye/eadec8b5-6b58-40f5-a024-5915cef79001",
+        "location": "Jerusalem, Israel"
+      },
+      {
+        "title": "Director of Release Management",
+        "date": "2026-11-18",
+        "id": "lever:7e5223a3-ffe2-4d05-8ae7-07b26e48c049",
+        "url": "https://jobs.eu.lever.co/mobileye/7e5223a3-ffe2-4d05-8ae7-07b26e48c049",
+        "location": "Petah Tikva, Israel"
+      },
+      {
+        "title": "Director of Release Management",
+        "date": "2026-11-18",
+        "id": "lever:f8acdfa6-bd0d-4a64-a3e1-709d62e4c554",
+        "url": "https://jobs.eu.lever.co/mobileye/f8acdfa6-bd0d-4a64-a3e1-709d62e4c554",
         "location": "Jerusalem, Israel"
       }
     ],
@@ -83001,7 +83021,8 @@
         "title": "\u2b50\ufe0f Project Engineer Intern",
         "date": "2026-10-22",
         "id": "eightfold:996477393061",
-        "closed": "N/A"
+        "url": "https://lockheedmartin.eightfold.ai/careers/job/996477393061",
+        "location": "Littleton, CO"
       },
       {
         "title": "\u2b50\ufe0f Supply Chain Operations Intern",
@@ -91426,6 +91447,13 @@
         "id": "greenhouse:5486380008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5486380008",
         "location": "Munich, Germany"
+      },
+      {
+        "title": "Account Executive, Quantitative Trading & Investing",
+        "date": "2026-11-18",
+        "id": "greenhouse:5484875008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5484875008",
+        "location": "London, UK"
       }
     ],
     "xAI": [
@@ -109727,7 +109755,8 @@
         "date": "N/A",
         "id": "jibe:11103",
         "url": "https://careers.sig.com/jobs/11103",
-        "location": "Dublin, Ireland"
+        "location": "Dublin, Ireland",
+        "closed": "2026-11-18"
       },
       {
         "title": "Communications & Thought Leadership Lead, EMEA",
@@ -122110,7 +122139,7 @@
     "ispace": "2026-11-18",
     "Pinterest": "2026-11-18",
     "Intel": "2026-11-18",
-    "LinkedIn": "2026-11-17",
+    "LinkedIn": "2026-11-18",
     "Liberty Mutual": "2026-11-18",
     "Salesforce": "2026-11-18",
     "PayPal": "2026-11-18",
