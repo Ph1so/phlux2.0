@@ -4,6 +4,7 @@
 
 | Company | Role | Date Found |
 | --- | --- | --- |
+| <img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [ABB][c0] | [ELSP Production Operator](<https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Mebane/ELSP-Production-Operator_JR00051682-1>) | N/A |
 | <img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [ABB][c0] | [Associate Technical Proposal Specialist](<https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Pinetops-North-Carolina-United-States-of-America/Associate-Technical-Proposal-Specialist_JR00046986>) | N/A |
 | <img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [ABB][c0] | [ELSP Production Operator](<https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Mebane/ELSP-Production-Operator_JR00051681>) | N/A |
 | <img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [ABB][c0] | [Robotics Applications Engineer](<https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-OR-Clackamas/Computer-Applications-Engineer_JR00043436>) | N/A |
@@ -1063,7 +1064,6 @@
 | <img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [IBM][c18] | [⭐️ Supply Chain Operations Intern 2027](<https://careers.ibm.com/careers/JobDetail?jobId=130998>) | N/A |
 | <img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [IBM][c18] | [IT Lab Tech Apprentice - Thermal](<https://careers.ibm.com/careers/JobDetail?jobId=140400>) | N/A |
 | <img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [IBM][c18] | [⭐️ SW Developer Intern \| Enterprise Platform-as-a-Service - Austin, TX - 2027](<https://careers.ibm.com/careers/JobDetail?jobId=131195>) | N/A |
-| <img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [IBM][c18] | [⭐️ 2027 Incentives Professional Intern](<https://careers.ibm.com/careers/JobDetail?jobId=131306>) | N/A |
 
 [c0]: https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09
 [c1]: https://jobs.teradyne.com/teradyne/search/?q=&locationsearch=United+States&sortColumn=referencedate&sortDirection=desc

@@ -4,6 +4,7 @@
 
 | Company | Role | Date Found |
 | --- | --- | --- |
+| <img src="https://cdn.brandfetch.io/aeva.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Aeva][c0] | [Senior State Estimation and Calibration Engineer - Mountain View, CA](<https://jobs.lever.co/aeva/58bf82b8-d19f-46c6-b807-b4497a437d51>) | N/A |
 | <img src="https://cdn.brandfetch.io/aeva.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Aeva][c0] | [Software Field Applications Engineer](<https://jobs.lever.co/aeva/32c5515f-ed7f-442f-a03f-111887d40914>) | N/A |
 | <img src="https://cdn.brandfetch.io/aeva.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Aeva][c0] | [Sr. Embedded Controls Engineer – Scanning Systems](<https://jobs.lever.co/aeva/406de9fa-2ec5-4aa4-a0d0-438ec3d92615>) | N/A |
 | <img src="https://cdn.brandfetch.io/aeva.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Aeva][c0] | [Staff Module Engineering Program Manager](<https://jobs.lever.co/aeva/c7d1ac3c-d5d1-4482-b23a-e863fe0bce0b>) | N/A |
@@ -1063,7 +1064,6 @@
 | <img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [ABB][c25] | [HR Generalist (Ormond Beach, FL)](<https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Ormond-Beach-Florida-United-States-of-America/HR-Generalist--Ormond-Beach--FL-_JR00050628>) | N/A |
 | <img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [ABB][c25] | [Industrial Sales Specialist - Data Centers, Renewables & Waste Water](<https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Ohio-United-States-of-America/Industrial-Sales-Specialist---Data-Centers--Renewables---Waste-Water_JR00042406>) | N/A |
 | <img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [ABB][c25] | [Resident Field Service Technician-Johnsonburg PA](<https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Pennsylvania-United-States-of-America/Resident-Field-Service-Technician-Johnsonburg-PA_JR00051225>) | N/A |
-| <img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [ABB][c25] | [ELSP Production Operator](<https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Mebane/ELSP-Production-Operator_JR00051682-1>) | N/A |
 
 [c0]: https://jobs.lever.co/aeva
 [c1]: https://jobs.lever.co/rai

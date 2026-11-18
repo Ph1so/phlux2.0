@@ -4,6 +4,7 @@
 
 | Company | Role | Date Found |
 | --- | --- | --- |
+| <img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [IBM][c0] | [⭐️ 2027 Incentives Professional Intern](<https://careers.ibm.com/careers/JobDetail?jobId=131306>) | N/A |
 | <img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [IBM][c0] | [⭐️ Intern Data Engineer - Data Services - 2027](<https://careers.ibm.com/careers/JobDetail?jobId=128824>) | N/A |
 | <img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [IBM][c0] | [⭐️ Global Sales Incentives – Sales Plan Design, Segmentation & Analytics Intern 2027](<https://careers.ibm.com/careers/JobDetail?jobId=129911>) | N/A |
 | <img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [IBM][c0] | [⭐️ AI Software Engineer Spring Co-op 2027](<https://careers.ibm.com/careers/JobDetail?jobId=137269>) | N/A |
@@ -1063,7 +1064,6 @@
 | <img src="https://cdn.brandfetch.io/bytedance.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [ByteDance][c21] | [Research Scientist Graduate (Seed Quantum Chemistry and Machine Learning) - 2027 Start (PhD)](<https://joinbytedance.com/search/7668595575944186117>) | N/A |
 | <img src="https://cdn.brandfetch.io/bytedance.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [ByteDance][c21] | [Production System Engineer Graduate (Server Management) - 2027 Start](<https://joinbytedance.com/search/7667619321477515573>) | N/A |
 | <img src="https://cdn.brandfetch.io/bytedance.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [ByteDance][c21] | [GPU Application Platform Engineer Graduate (Server Research and Development) - 2027 Start (PhD)](<https://joinbytedance.com/search/7668473918173284661>) | N/A |
-| <img src="https://cdn.brandfetch.io/bytedance.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [ByteDance][c21] | [Infrastructure Delivery Engineer Graduate (Server Delivery) - 2027 Start](<https://joinbytedance.com/search/7669854602477684997>) | N/A |
 
 [c0]: https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States
 [c1]: https://careers.bankofamerica.com/en-us/students/job-search?ref=search&rows=24&search=jobsByLocation&searchstring=United+States

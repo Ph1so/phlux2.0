@@ -1,9 +1,10 @@
 # Already open when this season began (part 5)
 
-[← All listings](README.md) · 1057 roles
+[← All listings](README.md) · 1058 roles
 
 | Company | Role | Date Found |
 | --- | --- | --- |
+| <img src="https://cdn.brandfetch.io/bytedance.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [ByteDance][c0] | [Infrastructure Delivery Engineer Graduate (Server Delivery) - 2027 Start](<https://joinbytedance.com/search/7669854602477684997>) | N/A |
 | <img src="https://cdn.brandfetch.io/bytedance.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [ByteDance][c0] | [Multi-Cloud CDN Scheduling Platform Engineer Graduate (CDN Platform) - 2027 Start](<https://joinbytedance.com/search/7670355132899526965>) | N/A |
 | <img src="https://cdn.brandfetch.io/bytedance.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [ByteDance][c0] | [Large Language Model Inference System Engineer Graduate (Applied Machine Learning) - 2027 Start](<https://joinbytedance.com/search/7667726338627356933>) | N/A |
 | <img src="https://cdn.brandfetch.io/bytedance.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [ByteDance][c0] | [Visual Generation & Multimodal Evaluation Machine Learning Engineer Graduate (AML-Ark-US) - 2027 Start](<https://joinbytedance.com/search/7671102043532462389>) | N/A |
