@@ -1315,6 +1315,13 @@
         "id": "eightfold:1970393557075074",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557075074",
         "location": "United States, Washington, Redmond +6"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Intern - Firmware Security",
+        "date": "2026-11-17",
+        "id": "eightfold:1970393557075140",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557075140",
+        "location": "United States, Washington, Redmond"
       }
     ],
     "Amazon": [
@@ -7512,14 +7519,16 @@
         "date": "2026-10-13",
         "id": "greenhouse:7894349003",
         "url": "https://www.zipline.com/open-roles/7894349003?gh_jid=7894349003",
-        "location": "South San Francisco, California, USA"
+        "location": "South San Francisco, California, USA",
+        "closed": "2026-11-17"
       },
       {
         "title": "\u2b50\ufe0f Hardware Test Intern (Summer 2027)",
         "date": "2026-10-13",
         "id": "greenhouse:7903483003",
         "url": "https://www.zipline.com/open-roles/7903483003?gh_jid=7903483003",
-        "location": "South San Francisco, California, USA"
+        "location": "South San Francisco, California, USA",
+        "closed": "2026-11-17"
       },
       {
         "title": "\u2b50\ufe0f Launch & Scale Intern (Spring 2027)",
@@ -19259,7 +19268,8 @@
         "date": "N/A",
         "id": "greenhouse:8811975002",
         "url": "https://job-boards.greenhouse.io/maymobility/jobs/8811975002",
-        "location": "USA - Remote"
+        "location": "USA - Remote",
+        "closed": "2026-11-17"
       },
       {
         "title": "Manager, Simulation Operations",
@@ -20024,7 +20034,8 @@
         "date": "N/A",
         "id": "ashby:ff34b18b-13f5-459f-8513-d6da360087f5",
         "url": "https://jobs.ashbyhq.com/aurora-operations-inc/ff34b18b-13f5-459f-8513-d6da360087f5",
-        "location": "Mountain View, CA"
+        "location": "Mountain View, CA",
+        "closed": "2026-11-17"
       },
       {
         "title": "Software Engineer, Autonomy Controls",
@@ -20571,6 +20582,13 @@
         "id": "ashby:223baeca-1df3-451b-b56c-5586fdbdadf3",
         "url": "https://jobs.ashbyhq.com/aurora-operations-inc/223baeca-1df3-451b-b56c-5586fdbdadf3",
         "location": "Mountain View, CA +1"
+      },
+      {
+        "title": "Senior Software Engineer, Vehicle Platform Integrations",
+        "date": "2026-11-17",
+        "id": "ashby:ba07e677-4c10-4554-b9b9-343d10827b9a",
+        "url": "https://jobs.ashbyhq.com/aurora-operations-inc/ba07e677-4c10-4554-b9b9-343d10827b9a",
+        "location": "Pittsburgh, PA"
       }
     ],
     "Zoox": [
@@ -24564,7 +24582,8 @@
         "date": "N/A",
         "id": "ashby:2cc4efc4-d08f-4019-a474-71d06c62e72e",
         "url": "https://jobs.ashbyhq.com/serverobotics/2cc4efc4-d08f-4019-a474-71d06c62e72e",
-        "location": "Redwood City, CA +9"
+        "location": "Redwood City, CA +9",
+        "closed": "2026-11-17"
       },
       {
         "title": "VP, Product",
@@ -39935,6 +39954,13 @@
         "id": "ashby:964a75aa-511c-437f-b7d3-0f43f999a685",
         "url": "https://jobs.ashbyhq.com/applied/964a75aa-511c-437f-b7d3-0f43f999a685",
         "location": "Sunnyvale"
+      },
+      {
+        "title": "Global Sourcing Manager - Integrated Software",
+        "date": "2026-11-17",
+        "id": "ashby:871fe356-edef-4353-a7ad-587d663c50c9",
+        "url": "https://jobs.ashbyhq.com/applied/871fe356-edef-4353-a7ad-587d663c50c9",
+        "location": "Sunnyvale"
       }
     ],
     "FieldAI": [
@@ -50204,6 +50230,13 @@
         "id": "ashby:6729d58a-166c-4105-bebd-260d638af0f4",
         "url": "https://jobs.ashbyhq.com/saronic/6729d58a-166c-4105-bebd-260d638af0f4",
         "location": "Austin, TX"
+      },
+      {
+        "title": "Proposal and Capture Manager, Shipbuilding Programs",
+        "date": "2026-11-17",
+        "id": "ashby:d100a5a0-8448-4839-abbe-5a1ff92cbaeb",
+        "url": "https://jobs.ashbyhq.com/saronic/d100a5a0-8448-4839-abbe-5a1ff92cbaeb",
+        "location": "Arlington, VA"
       }
     ],
     "Built Robotics": [
@@ -74434,7 +74467,8 @@
         "date": "2026-10-22",
         "id": "ashby:8a50f878-5252-4f65-ad84-80ae2dc5637e",
         "url": "https://jobs.ashbyhq.com/openai/8a50f878-5252-4f65-ad84-80ae2dc5637e",
-        "location": "San Francisco +1"
+        "location": "San Francisco +1",
+        "closed": "2026-11-17"
       },
       {
         "title": "Senior Manager, Extended Workforce Program",
@@ -74483,7 +74517,8 @@
         "date": "2026-10-22",
         "id": "ashby:539aa9e9-76e0-4408-b47b-3bd569a81f91",
         "url": "https://jobs.ashbyhq.com/openai/539aa9e9-76e0-4408-b47b-3bd569a81f91",
-        "location": "San Francisco +1"
+        "location": "San Francisco +1",
+        "closed": "2026-11-17"
       },
       {
         "title": "Deployment Lead (DL), FDE - Singapore",
@@ -75854,7 +75889,8 @@
         "date": "2026-10-22",
         "id": "ashby:775ef7de-c9aa-423e-b00c-a43124068bdb",
         "url": "https://jobs.ashbyhq.com/openai/775ef7de-c9aa-423e-b00c-a43124068bdb",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-17"
       },
       {
         "title": "B2B Marketing Lead, ANZ",
@@ -75923,7 +75959,8 @@
         "date": "2026-10-22",
         "id": "ashby:89b0bd3b-52ef-42c1-9a58-08ce4eb7428d",
         "url": "https://jobs.ashbyhq.com/openai/89b0bd3b-52ef-42c1-9a58-08ce4eb7428d",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-17"
       },
       {
         "title": "Events Design Producer",
@@ -76123,7 +76160,8 @@
         "date": "2026-10-22",
         "id": "ashby:67eb66cd-d89e-4312-a2cf-59e9a0a5e43f",
         "url": "https://jobs.ashbyhq.com/openai/67eb66cd-d89e-4312-a2cf-59e9a0a5e43f",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-17"
       },
       {
         "title": "Account Director, Federal Civilian",
@@ -80504,6 +80542,20 @@
         "id": "ashby:7447dd43-9bf5-445f-bb8c-ba57756c8d04",
         "url": "https://jobs.ashbyhq.com/openai/7447dd43-9bf5-445f-bb8c-ba57756c8d04",
         "location": "San Francisco"
+      },
+      {
+        "title": "Full Stack Software Engineer, DotCom",
+        "date": "2026-11-17",
+        "id": "ashby:60f8bcbc-3ca5-42f4-a73b-e864a6340a16",
+        "url": "https://jobs.ashbyhq.com/openai/60f8bcbc-3ca5-42f4-a73b-e864a6340a16",
+        "location": "San Francisco +1"
+      },
+      {
+        "title": "Deployment Lead (DL), FDE - Seoul",
+        "date": "2026-11-17",
+        "id": "ashby:e47f0627-6aef-49b0-beea-f46cb6cc07ad",
+        "url": "https://jobs.ashbyhq.com/openai/e47f0627-6aef-49b0-beea-f46cb6cc07ad",
+        "location": "Seoul, South Korea"
       }
     ],
     "John Deere": [
@@ -91027,6 +91079,13 @@
         "date": "2026-11-17",
         "id": "greenhouse:5206870008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5206870008",
+        "location": "San Francisco, CA | New York City, NY"
+      },
+      {
+        "title": "Compute Capacity Strategy & Operations",
+        "date": "2026-11-17",
+        "id": "greenhouse:5485582008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5485582008",
         "location": "San Francisco, CA | New York City, NY"
       }
     ],
@@ -101969,6 +102028,13 @@
         "id": "atlassian:26246",
         "url": "https://www.atlassian.com/company/careers/details/26246",
         "location": "San Francisco, CA +1"
+      },
+      {
+        "title": "\u2b50\ufe0f MBA Product Marketing Manager Intern- Enterprise, 2027 Summer U.S.",
+        "date": "2026-11-17",
+        "id": "atlassian:26845",
+        "url": "https://www.atlassian.com/company/careers/details/26845",
+        "location": "San Francisco, CA +1"
       }
     ],
     "Splunk": [
@@ -110870,7 +110936,8 @@
         "date": "N/A",
         "id": "greenhouse:7586263002",
         "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7586263002",
-        "location": "Bellevue, Washington; Mountain View, California; San Francisco, California"
+        "location": "Bellevue, Washington; Mountain View, California; San Francisco, California",
+        "closed": "2026-11-17"
       },
       {
         "title": "\u2b50\ufe0f Data Science Intern (2027 Start)",
@@ -119847,7 +119914,8 @@
         "date": "N/A",
         "id": "pinpoint:578974",
         "url": "https://impulsespace.pinpointhq.com/en/postings/fd2eb19d-dcbf-4153-a2d3-c6c107dc0560",
-        "location": "Redondo Beach, CA"
+        "location": "Redondo Beach, CA",
+        "closed": "2026-11-17"
       },
       {
         "title": "\u2b50\ufe0f Development Test Engineering Intern (Summer 2027)",
