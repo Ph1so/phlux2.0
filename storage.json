@@ -4107,6 +4107,13 @@
         "id": "meta:1283598853967973",
         "url": "https://www.metacareers.com/profile/job_details/1283598853967973/",
         "location": "Redmond, WA +1"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Physics-Grounded Multimodal Robot Learning",
+        "date": "2026-11-18",
+        "id": "meta:994911809842621",
+        "url": "https://www.metacareers.com/profile/job_details/994911809842621/",
+        "location": "Redmond, WA"
       }
     ],
     "Apple": [
@@ -9207,6 +9214,13 @@
         "id": "lever:b2bed6be-16bd-48ee-ba71-215307fa2ab8",
         "url": "https://jobs.lever.co/tri/b2bed6be-16bd-48ee-ba71-215307fa2ab8",
         "location": "Cambridge, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Robotics Intern, Generalist Robot Learning (GRL)",
+        "date": "2026-11-18",
+        "id": "lever:4cac9569-cc90-4dcd-96b8-d9777c35c943",
+        "url": "https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943",
+        "location": "Los Altos, CA"
       }
     ],
     "Mitsubishi Electric Research Laboratories": [
@@ -17354,7 +17368,8 @@
         "id": "greenhouse:6226572004",
         "url": "https://boards.greenhouse.io/apptronik/jobs/6226572004?gh_jid=6226572004",
         "location": "Austin, Texas & Sunnyvale, California",
-        "early": "We are actively looking for top early-career, graduate (MS/PhD), and experienced talent in robotics, autonomous systems, control theory, and perception to join our growing team."
+        "early": "We are actively looking for top early-career, graduate (MS/PhD), and experienced talent in robotics, autonomous systems, control theory, and perception to join our growing team.",
+        "closed": "2026-11-18"
       },
       {
         "title": "Staff Simulation Engineer - Core Simulation Platform",
@@ -31087,6 +31102,27 @@
         "id": "rippling:887579e1-39ee-494b-ac29-e4f7a3b5699c",
         "url": "https://ats.rippling.com/forterra/jobs/887579e1-39ee-494b-ac29-e4f7a3b5699c",
         "location": "Clarksburg, MD"
+      },
+      {
+        "title": "Body Engineer, Autonomous Vehicles",
+        "date": "2026-11-18",
+        "id": "rippling:8c1e9ece-3c0e-4e86-bc20-fb97d947fb82",
+        "url": "https://ats.rippling.com/forterra/jobs/8c1e9ece-3c0e-4e86-bc20-fb97d947fb82",
+        "location": "Clarksburg, MD"
+      },
+      {
+        "title": "Class-A Surfacing Designer, Autonomous Vehicles",
+        "date": "2026-11-18",
+        "id": "rippling:f70349f7-bf73-4783-a6fc-a207aae1a10d",
+        "url": "https://ats.rippling.com/forterra/jobs/f70349f7-bf73-4783-a6fc-a207aae1a10d",
+        "location": "Clarksburg, MD"
+      },
+      {
+        "title": "Powertrain and Electrification Lead, Autonomous Vehicles",
+        "date": "2026-11-18",
+        "id": "rippling:1b44cc4c-1aaf-4efe-b3b4-7e1b7372cc9a",
+        "url": "https://ats.rippling.com/forterra/jobs/1b44cc4c-1aaf-4efe-b3b4-7e1b7372cc9a",
+        "location": "Clarksburg, MD"
       }
     ],
     "Pickle Robot": [
@@ -33721,7 +33757,8 @@
         "date": "N/A",
         "id": "greenhouse:8780046002",
         "url": "https://app.careerpuck.com/job-board/lyft/job/8780046002?gh_jid=8780046002",
-        "location": "Toronto, Canada"
+        "location": "Toronto, Canada",
+        "closed": "2026-11-18"
       },
       {
         "title": "Salesforce Architect",
@@ -35970,7 +36007,8 @@
         "date": "2026-10-13",
         "id": "greenhouse:8205680",
         "url": "https://careers.withwaymo.com/jobs?gh_jid=8205680",
-        "location": "London, England, United Kingdom"
+        "location": "London, England, United Kingdom",
+        "closed": "2026-11-18"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Software Engineer",
@@ -42928,6 +42966,13 @@
         "id": "ashby:3a6b5e1d-fbbf-4101-ab8d-26a4255da50b",
         "url": "https://jobs.ashbyhq.com/humanoid/3a6b5e1d-fbbf-4101-ab8d-26a4255da50b",
         "location": "UK, London"
+      },
+      {
+        "title": "Senior Network Engineer",
+        "date": "2026-11-18",
+        "id": "ashby:74295ad7-7207-4022-8579-6980c79b7f72",
+        "url": "https://jobs.ashbyhq.com/humanoid/74295ad7-7207-4022-8579-6980c79b7f72",
+        "location": "UK, London"
       }
     ],
     "Niantic Spatial": [
@@ -46080,6 +46125,13 @@
         "id": "greenhouse:4507137009",
         "url": "https://job-boards.greenhouse.io/nimblerobotics/jobs/4507137009",
         "location": "Haslet, TX"
+      },
+      {
+        "title": "Operations Supervisor (San Francisco, CA)",
+        "date": "2026-11-18",
+        "id": "greenhouse:4514014009",
+        "url": "https://job-boards.greenhouse.io/nimblerobotics/jobs/4514014009",
+        "location": "South San Francisco, CA"
       }
     ],
     "Outrider": [
@@ -54182,7 +54234,8 @@
         "title": "Senior Software Engineer - Autonomy Interface",
         "date": "2026-10-14",
         "id": "rippling:16814b97-86fb-41bb-809f-83dee8c75335",
-        "closed": "N/A"
+        "url": "https://ats.rippling.com/overland-ai/jobs/16814b97-86fb-41bb-809f-83dee8c75335",
+        "location": "Seattle, WA"
       },
       {
         "title": "Senior Software Engineer - Distributed Systems",
@@ -54383,6 +54436,13 @@
         "date": "2026-11-18",
         "id": "rippling:404112fb-9a07-49a6-8cf6-ae2c81a753ba",
         "url": "https://ats.rippling.com/overland-ai/jobs/404112fb-9a07-49a6-8cf6-ae2c81a753ba",
+        "location": "Seattle, WA"
+      },
+      {
+        "title": "Senior Distributed Systems Software Engineer - Edge Data Federation",
+        "date": "2026-11-18",
+        "id": "rippling:69f9adfc-3d60-4fe8-83f1-4141bfc9913c",
+        "url": "https://ats.rippling.com/overland-ai/jobs/69f9adfc-3d60-4fe8-83f1-4141bfc9913c",
         "location": "Seattle, WA"
       }
     ],
@@ -68987,7 +69047,8 @@
         "date": "2026-10-14",
         "id": "greenhouse:4596842006",
         "url": "https://boards.greenhouse.io/gatikaiinc/jobs/4596842006?gh_jid=4596842006",
-        "location": "Santa Clara, CA"
+        "location": "Santa Clara, CA",
+        "closed": "2026-11-18"
       },
       {
         "title": "Technical Recruiter (Contract to Hire)",
@@ -81625,6 +81686,20 @@
         "id": "ashby:c389205c-b163-402f-ab8f-674b7f260c9d",
         "url": "https://jobs.ashbyhq.com/openai/c389205c-b163-402f-ab8f-674b7f260c9d",
         "location": "US - Remote"
+      },
+      {
+        "title": "Product Manager, ChatGPT Business Growth",
+        "date": "2026-11-18",
+        "id": "ashby:89959eee-bd3a-4564-9c47-e4771c6c1e0f",
+        "url": "https://jobs.ashbyhq.com/openai/89959eee-bd3a-4564-9c47-e4771c6c1e0f",
+        "location": "San Francisco +1"
+      },
+      {
+        "title": "Enablement Lead - EDU",
+        "date": "2026-11-18",
+        "id": "ashby:13e09206-133e-464a-a8d4-d306c203be03",
+        "url": "https://jobs.ashbyhq.com/openai/13e09206-133e-464a-a8d4-d306c203be03",
+        "location": "San Francisco"
       }
     ],
     "John Deere": [
@@ -97205,6 +97280,27 @@
         "id": "greenhouse:5482294008",
         "url": "https://job-boards.greenhouse.io/icarus/jobs/5482294008",
         "location": "El Segundo"
+      },
+      {
+        "title": "Avionics Technician",
+        "date": "2026-11-18",
+        "id": "greenhouse:5487269008",
+        "url": "https://job-boards.greenhouse.io/icarus/jobs/5487269008",
+        "location": "El Segundo"
+      },
+      {
+        "title": "Composites Technician",
+        "date": "2026-11-18",
+        "id": "greenhouse:5487284008",
+        "url": "https://job-boards.greenhouse.io/icarus/jobs/5487284008",
+        "location": "El Segundo"
+      },
+      {
+        "title": "Integration Technician",
+        "date": "2026-11-18",
+        "id": "greenhouse:5487279008",
+        "url": "https://job-boards.greenhouse.io/icarus/jobs/5487279008",
+        "location": "El Segundo"
       }
     ],
     "Pyka": [
@@ -103407,6 +103503,20 @@
         "id": "atlassian:26845",
         "url": "https://www.atlassian.com/company/careers/details/26845",
         "location": "San Francisco, CA +1"
+      },
+      {
+        "title": "\u2b50\ufe0f AI Buyer Journey Marketing Intern (GDC AI Lab), 2027 Summer U.S.",
+        "date": "2026-11-18",
+        "id": "atlassian:27435",
+        "url": "https://www.atlassian.com/company/careers/details/27435",
+        "location": "San Francisco, CA +1"
+      },
+      {
+        "title": "\u2b50\ufe0f MBA Product Marketing Manager Intern- Marketplace, 2027 Summer U.S.",
+        "date": "2026-11-18",
+        "id": "atlassian:27434",
+        "url": "https://www.atlassian.com/company/careers/details/27434",
+        "location": "San Francisco, CA +1"
       }
     ],
     "Splunk": [
@@ -104364,7 +104474,8 @@
         "date": "N/A",
         "id": "bytedance:7667690418804902149",
         "url": "https://lifeattiktok.com/search/7667690418804902149",
-        "location": "San Jose, CA"
+        "location": "San Jose, CA",
+        "closed": "2026-11-18"
       },
       {
         "title": "\u2b50\ufe0f Machine Learning Engineer Intern (E-Commerce Supply Chain & Logistics-LLM/Agent) - 2027 Start (PhD)",
@@ -105036,7 +105147,8 @@
         "date": "N/A",
         "id": "bytedance:7557122323507349778",
         "url": "https://lifeattiktok.com/search/7557122323507349778",
-        "location": "San Jose, CA"
+        "location": "San Jose, CA",
+        "closed": "2026-11-18"
       },
       {
         "title": "\u2b50\ufe0f Category Manager Intern (TikTok Shop - Operations, Beauty, Food & Beverage-Food & Beverage) - 2027 Summer",
@@ -106812,7 +106924,8 @@
         "date": "N/A",
         "id": "bytedance:7550798923146250504",
         "url": "https://lifeattiktok.com/search/7550798923146250504",
-        "location": "San Jose, CA"
+        "location": "San Jose, CA",
+        "closed": "2026-11-18"
       },
       {
         "title": "Machine Learning Engineer Graduate (TikTok-Data-Search-Visual Search) - 2027 Start",
@@ -106870,7 +106983,8 @@
         "date": "N/A",
         "id": "bytedance:7550790814831511815",
         "url": "https://lifeattiktok.com/search/7550790814831511815",
-        "location": "Seattle, WA"
+        "location": "Seattle, WA",
+        "closed": "2026-11-18"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer - Intern (TikTok Search) - 2027 Start",
@@ -107473,14 +107587,16 @@
         "date": "N/A",
         "id": "dassault:550524",
         "url": "https://www.3ds.com/careers/jobs/internship-data-science-550524",
-        "location": "Waltham, MA"
+        "location": "Waltham, MA",
+        "closed": "2026-11-18"
       },
       {
         "title": "\u2b50\ufe0f INTERNSHIP: Advocacy Marketing (Jan. '27)",
         "date": "N/A",
         "id": "dassault:550253",
         "url": "https://www.3ds.com/careers/jobs/internship-advocacy-marketing-jan-27-550253",
-        "location": "Waltham, MA"
+        "location": "Waltham, MA",
+        "closed": "2026-11-18"
       },
       {
         "title": "\u2b50\ufe0f INTERNSHIP: AI for CFD",
@@ -107509,7 +107625,8 @@
         "date": "N/A",
         "id": "dassault:550124",
         "url": "https://www.3ds.com/careers/jobs/internship-biovia-social-550124",
-        "location": "San Diego, CA"
+        "location": "San Diego, CA",
+        "closed": "2026-11-18"
       },
       {
         "title": "\u2b50\ufe0f INTERNSHIP - SOLIDWORKS RELOPS",
@@ -107530,7 +107647,8 @@
         "date": "2026-11-17",
         "id": "dassault:550894",
         "url": "https://www.3ds.com/careers/jobs/internship-v-r-scientist-550894",
-        "location": "San Diego, CA"
+        "location": "San Diego, CA",
+        "closed": "2026-11-18"
       }
     ],
     "AMD": [],
@@ -108261,7 +108379,8 @@
         "date": "N/A",
         "id": "bytedance:7665037087551129909",
         "url": "https://joinbytedance.com/search/7665037087551129909",
-        "location": "San Jose, CA"
+        "location": "San Jose, CA",
+        "closed": "2026-11-18"
       },
       {
         "title": "\u2b50\ufe0f Site Reliability Engineer Intern (Data Infra) - 2027 Summer",
@@ -121078,7 +121197,8 @@
         "date": "N/A",
         "id": "pinpoint:472866",
         "url": "https://impulsespace.pinpointhq.com/en/postings/fcf6a28e-3d40-4b3d-ad54-32a779f754b3",
-        "location": "Redondo Beach, CA"
+        "location": "Redondo Beach, CA",
+        "closed": "2026-11-18"
       },
       {
         "title": "Thermal Engineer",
@@ -123443,6 +123563,118 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
+    },
+    "Nvidia": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
+    },
+    "Intel": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
+    },
+    "Autodesk": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/uni/jobs"
+    },
+    "Snap": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
+    },
+    "Workday": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday_Early_Career/jobs"
+    },
+    "Rockwell Automation": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
+    },
+    "Unity": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
+    },
+    "RedHat": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://redhat.wd5.myworkdayjobs.com/wday/cxs/redhat/jobs/jobs"
+    },
+    "Boston Dynamics": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://bostondynamics.wd1.myworkdayjobs.com/wday/cxs/bostondynamics/Boston_Dynamics/jobs"
+    },
+    "Visa": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs"
+    },
+    "Leidos": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://leidos.wd5.myworkdayjobs.com/wday/cxs/leidos/External/jobs"
+    },
+    "Sony": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sonyglobal.wd1.myworkdayjobs.com/wday/cxs/sonyglobal/SonyGlobalCareers/jobs"
+    },
+    "Target": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
+    },
+    "Mosaic": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://mosaic.wd5.myworkdayjobs.com/wday/cxs/mosaic/mosaic/jobs"
+    },
+    "T-Mobile": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://tmobile.wd1.myworkdayjobs.com/wday/cxs/tmobile/External/jobs"
+    },
+    "Samsung": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
+    },
+    "Medtronic": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://medtronic.wd1.myworkdayjobs.com/wday/cxs/medtronic/MedtronicCareers/jobs"
+    },
+    "General Motors": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
+    },
+    "Zillow": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://zillow.wd5.myworkdayjobs.com/wday/cxs/zillow/Zillow_Group_External/jobs"
+    },
+    "Draper": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://draper.wd5.myworkdayjobs.com/wday/cxs/draper/Draper_Careers/jobs"
+    },
+    "Stryker": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs"
+    },
+    "Johnson & Johnson": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs"
+    },
+    "PROCEPT BioRobotics": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://proceptbiorobotics.wd108.myworkdayjobs.com/wday/cxs/proceptbiorobotics/PROCEPT/jobs"
+    },
+    "ABB": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
+    },
+    "Caterpillar": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://cat.wd5.myworkdayjobs.com/wday/cxs/cat/CaterpillarCareers/jobs"
+    },
+    "Northrop Grumman": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ngc.wd1.myworkdayjobs.com/wday/cxs/ngc/Northrop_Grumman_External_Site/jobs"
+    },
+    "Slate Auto": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
+    },
+    "Oshkosh": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs"
     }
   },
   "closures_untracked": {
