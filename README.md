@@ -12,7 +12,7 @@
 <p>
   <a href="https://ph1so.github.io/phlux2.0/"><img src="https://img.shields.io/badge/browse-internships-1f5fff?style=flat-square" alt="Browse internships"></a>
   <a href="https://github.com/Ph1so/phlux2.0/actions/workflows/job-scraper.yml"><img src="https://img.shields.io/github/actions/workflow/status/Ph1so/phlux2.0/job-scraper.yml?branch=main&style=flat-square&label=scraper" alt="Scraper status"></a>
-  <img src="https://img.shields.io/badge/roles_tracked-38.7k-475467?style=flat-square" alt="38,662 roles tracked">
+  <img src="https://img.shields.io/badge/roles_tracked-38.7k-475467?style=flat-square" alt="38,671 roles tracked">
 </p>
 
 <p><a href="https://ph1so.github.io/phlux2.0/"><b>Website</b></a> &nbsp;·&nbsp; <a href="listings/README.md"><b>All listings</b></a></p>
@@ -21,7 +21,7 @@
 
 ## Latest roles
 
-Showing the 579 most recent of 38,662 roles tracked across 295 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
+Showing the 578 most recent of 38,671 roles tracked across 295 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
 
 
 <table>
@@ -34,6 +34,13 @@ Showing the 579 most recent of 38,662 roles tracked across 295 companies. ⭐️
   </thead>
   <tbody>
 
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://apply.careers.microsoft.com/careers?query=intern&location=United%20States&sort_by=relevance"><img src="https://cdn.brandfetch.io/microsoft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Microsoft" height="20" style="vertical-align:middle; margin-right:6px;"> Microsoft</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://apply.careers.microsoft.com/careers/job/1970393557076095">⭐️ Research Intern - Deep Learning Group</a></div></td>
+  <td>2026-11-19</td>
+</tr>
   <tr>
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.amazon.jobs/en/search?base_query=intern&country%5B%5D=USA&sort=recent"><img src="https://cdn.brandfetch.io/amazon.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Amazon" height="20" style="vertical-align:middle; margin-right:6px;"> Amazon</a></div>
@@ -50,9 +57,30 @@ Showing the 579 most recent of 38,662 roles tracked across 295 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.amazon.jobs/en/search?base_query=intern&country%5B%5D=USA&sort=recent"><img src="https://cdn.brandfetch.io/amazon.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Amazon" height="20" style="vertical-align:middle; margin-right:6px;"> Amazon</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.amazon.jobs/en/jobs/10609100/university-recruiting-manager-auta-specialized-sde-recruiting">University Recruiting Manager, AUTA Specialized SDE Recruiting</a></div></td>
+  <td>2026-11-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.amazon.jobs/en/search?base_query=intern&country%5B%5D=USA&sort=recent"><img src="https://cdn.brandfetch.io/amazon.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Amazon" height="20" style="vertical-align:middle; margin-right:6px;"> Amazon</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.amazon.jobs/en/jobs/10609101/university-relations-lead-account-manager-auta-university-relations-leads">University Relations Lead - Account Manager, AUTA University Relations Leads</a></div></td>
+  <td>2026-11-19</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.metacareers.com/jobsearch/?roles[0]=Internship"><img src="https://cdn.brandfetch.io/meta.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Meta" height="20" style="vertical-align:middle; margin-right:6px;"> Meta</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.metacareers.com/profile/job_details/1766347491109788/">⭐️ Research Scientist Intern, Machine Learning for Robotics (PhD)</a></div></td>
+  <td>2026-11-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.metacareers.com/jobsearch/?roles[0]=Internship"><img src="https://cdn.brandfetch.io/meta.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Meta" height="20" style="vertical-align:middle; margin-right:6px;"> Meta</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.metacareers.com/profile/job_details/29109871588622645/">⭐️ UX Research Intern, Quantitative (Summer 2027)</a></div></td>
   <td>2026-11-19</td>
 </tr>
   <tr>
@@ -246,6 +274,13 @@ Showing the 579 most recent of 38,662 roles tracked across 295 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/hadrian-automation"><img src="https://cdn.brandfetch.io/hadrian.io/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Hadrian" height="20" style="vertical-align:middle; margin-right:6px;"> Hadrian</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/hadrian-automation/731c3572-19e0-4e45-9578-9a746a82301e">Tech Lead, Security Engineering</a></div></td>
+  <td>2026-11-19</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/persona.ai"><img src="https://cdn.brandfetch.io/personainc.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Persona AI" height="20" style="vertical-align:middle; margin-right:6px;"> Persona AI</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/persona.ai/feaa87c8-1bcc-4a0c-bd64-63164a6c755a">Senior Electrical Engineer, Sustaining</a></div></td>
@@ -274,6 +309,13 @@ Showing the 579 most recent of 38,662 roles tracked across 295 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic"><img src="https://cdn.brandfetch.io/symbotic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Symbotic" height="20" style="vertical-align:middle; margin-right:6px;"> Symbotic</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Manager--Accounting--Confidential-_R8470-1">Manager, Accounting (Confidential)</a></div></td>
+  <td>2026-11-19</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Arecibo-Puerto-Rico/Procurement-Specialist_JR00046990">Procurement Specialist</a></div></td>
@@ -291,6 +333,20 @@ Showing the 579 most recent of 38,662 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.teradyne.com/teradyne/search/?q=&locationsearch=United+States&sortColumn=referencedate&sortDirection=desc"><img src="https://cdn.brandfetch.io/teradyne.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Teradyne" height="20" style="vertical-align:middle; margin-right:6px;"> Teradyne</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.teradyne.com/Teradyne/job/North-Reading-Collaboration-IT-Architect-&amp;-Manager-%28BPIT%2C-North-Reading%29-MA/1452217200/">Collaboration IT Architect & Manager (BPIT, North Reading)</a></div></td>
+  <td>2026-11-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.teradyne.com/teradyne/search/?q=&locationsearch=United+States&sortColumn=referencedate&sortDirection=desc"><img src="https://cdn.brandfetch.io/teradyne.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Teradyne" height="20" style="vertical-align:middle; margin-right:6px;"> Teradyne</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.teradyne.com/Universal-Robots/job/North-Reading-SBM-Lead-%28Supply-Base-Management-Lead%29-%28Teradyne-Robotics%2C-N_-Reading-MA-US-Remote%29-MA/1452339300/">SBM Lead (Supply Base Management Lead) (Teradyne Robotics, N. Reading MA / US Remote)</a></div></td>
+  <td>2026-11-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/voyagertechnologiesinc"><img src="https://cdn.brandfetch.io/voyagertechnologies.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Voyager Technologies" height="20" style="vertical-align:middle; margin-right:6px;"> Voyager Technologies</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4509719009">Systems Engineer – Project Engineer VI</a></div></td>
   <td>2026-11-19</td>
 </tr>
   <tr>
@@ -564,6 +620,13 @@ Showing the 579 most recent of 38,662 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/jobs"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.sig.com/jobs/13301">Claims Specialist \| Reinsurance</a></div></td>
+  <td>2026-11-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/jobs"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.sig.com/jobs/9995">Platform Delivery Project Coordinator \| Experienced Hire</a></div></td>
   <td>2026-11-19</td>
 </tr>
   <tr>
@@ -4015,76 +4078,6 @@ Showing the 579 most recent of 38,662 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/hadrian-automation"><img src="https://cdn.brandfetch.io/hadrian.io/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Hadrian" height="20" style="vertical-align:middle; margin-right:6px;"> Hadrian</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/hadrian-automation/96a2c7db-72dc-423e-802f-d1c8328b146a">Director, Forward Deployed Supply Chain</a></div></td>
-  <td>2026-11-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/hadrian-automation"><img src="https://cdn.brandfetch.io/hadrian.io/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Hadrian" height="20" style="vertical-align:middle; margin-right:6px;"> Hadrian</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/hadrian-automation/66993080-87be-4608-82e5-780d3757358c">Industrial Security Specialist</a></div></td>
-  <td>2026-11-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://ats.rippling.com/mytra/jobs?page=0&pageSize=100"><img src="https://cdn.brandfetch.io/mytra.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mytra" height="20" style="vertical-align:middle; margin-right:6px;"> Mytra</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://ats.rippling.com/mytra/jobs/c56c1efe-84a1-48b0-825a-b837d34602ff">Software Engineer</a></div></td>
-  <td>2026-11-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jj.wd5.myworkdayjobs.com/en-US/JJ?workerSubType=ca32b336cc4a472a863c62c03f6e63b6&workerSubType=c8cdc206cb91013d31d96bb30f801468"><img src="https://cdn.brandfetch.io/jnj.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Johnson & Johnson" height="20" style="vertical-align:middle; margin-right:6px;"> Johnson & Johnson</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Latina-Italy/Stage-in-Operations-Support_R-110277">Stage in Operations Support</a></div></td>
-  <td>2026-11-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jj.wd5.myworkdayjobs.com/en-US/JJ?workerSubType=ca32b336cc4a472a863c62c03f6e63b6&workerSubType=c8cdc206cb91013d31d96bb30f801468"><img src="https://cdn.brandfetch.io/jnj.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Johnson & Johnson" height="20" style="vertical-align:middle; margin-right:6px;"> Johnson & Johnson</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Shanghai-China/ICO_R-110651">ICO市场部实习生</a></div></td>
-  <td>2026-11-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jj.wd5.myworkdayjobs.com/en-US/JJ?workerSubType=ca32b336cc4a472a863c62c03f6e63b6&workerSubType=c8cdc206cb91013d31d96bb30f801468"><img src="https://cdn.brandfetch.io/jnj.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Johnson & Johnson" height="20" style="vertical-align:middle; margin-right:6px;"> Johnson & Johnson</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Zug-Switzerland/Intern-Market-Access_R-111356-1">⭐️ Intern Market Access</a></div></td>
-  <td>2026-11-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jj.wd5.myworkdayjobs.com/en-US/JJ?workerSubType=ca32b336cc4a472a863c62c03f6e63b6&workerSubType=c8cdc206cb91013d31d96bb30f801468"><img src="https://cdn.brandfetch.io/jnj.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Johnson & Johnson" height="20" style="vertical-align:middle; margin-right:6px;"> Johnson & Johnson</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Zug-Switzerland/Intern-Medical-Affairs-Immunology_R-110221">⭐️ Intern Medical Affairs Immunology</a></div></td>
-  <td>2026-11-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jj.wd5.myworkdayjobs.com/en-US/JJ?workerSubType=ca32b336cc4a472a863c62c03f6e63b6&workerSubType=c8cdc206cb91013d31d96bb30f801468"><img src="https://cdn.brandfetch.io/jnj.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Johnson & Johnson" height="20" style="vertical-align:middle; margin-right:6px;"> Johnson & Johnson</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Zug-Switzerland/Intern--w-m-d--Medical-Affairs_R-110409-1">⭐️ Intern (w/m/d) Medical Affairs</a></div></td>
-  <td>2026-11-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jj.wd5.myworkdayjobs.com/en-US/JJ?workerSubType=ca32b336cc4a472a863c62c03f6e63b6&workerSubType=c8cdc206cb91013d31d96bb30f801468"><img src="https://cdn.brandfetch.io/jnj.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Johnson & Johnson" height="20" style="vertical-align:middle; margin-right:6px;"> Johnson & Johnson</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Zug-Switzerland/Intern--w-m-d--Health-Economics-and-Market-Access--HEMA-_R-110160">⭐️ Intern (w/m/d) Health Economics and Market Access (HEMA)</a></div></td>
-  <td>2026-11-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jj.wd5.myworkdayjobs.com/en-US/JJ?workerSubType=ca32b336cc4a472a863c62c03f6e63b6&workerSubType=c8cdc206cb91013d31d96bb30f801468"><img src="https://cdn.brandfetch.io/jnj.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Johnson & Johnson" height="20" style="vertical-align:middle; margin-right:6px;"> Johnson & Johnson</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Zug-Switzerland/Marketing---Sales-Intern_R-109016-1">⭐️ Marketing & Sales Intern</a></div></td>
-  <td>2026-11-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jj.wd5.myworkdayjobs.com/en-US/JJ?workerSubType=ca32b336cc4a472a863c62c03f6e63b6&workerSubType=c8cdc206cb91013d31d96bb30f801468"><img src="https://cdn.brandfetch.io/jnj.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Johnson & Johnson" height="20" style="vertical-align:middle; margin-right:6px;"> Johnson & Johnson</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Zuchwil-Switzerland/Intern-Global-Growth-Marketing-Trauma_R-110740">⭐️ Intern Global Growth Marketing Trauma</a></div></td>
   <td>2026-11-16</td>
 </tr>
 
