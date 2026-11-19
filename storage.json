@@ -2796,6 +2796,13 @@
         "id": "amazon:10609101",
         "url": "https://www.amazon.jobs/en/jobs/10609101/university-relations-lead-account-manager-auta-university-relations-leads",
         "location": "Seattle, WA"
+      },
+      {
+        "title": "Post-Silicon Systems Validation Engineer I, Annapurna Labs",
+        "date": "2026-11-19",
+        "id": "amazon:10502826",
+        "url": "https://www.amazon.jobs/en/jobs/10502826/post-silicon-systems-validation-engineer-i-annapurna-labs",
+        "location": "Austin, TX"
       }
     ],
     "Meta": [
@@ -4162,6 +4169,13 @@
         "id": "meta:29109871588622645",
         "url": "https://www.metacareers.com/profile/job_details/29109871588622645/",
         "location": "Menlo Park, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, AI Agents for Autonomous Laboratories (PhD)",
+        "date": "2026-11-19",
+        "id": "meta:29481973694788756",
+        "url": "https://www.metacareers.com/profile/job_details/29481973694788756/",
+        "location": "Redmond, WA"
       }
     ],
     "Apple": [
@@ -6466,7 +6480,8 @@
         "date": "2026-10-13",
         "id": "jibe:33705",
         "url": "https://careers.rivian.com/careers-home/jobs/33705",
-        "location": "Irvine, CA"
+        "location": "Irvine, CA",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Engineering Intern - Electronics Design (Spring 2027 Co-Op)",
@@ -6772,6 +6787,13 @@
         "id": "jibe:35755",
         "url": "https://careers.rivian.com/careers-home/jobs/35755",
         "location": "Irvine, CA"
+      },
+      {
+        "title": "Early Career - Electrical Engineering Failure Analysis Engineer",
+        "date": "2026-11-19",
+        "id": "jibe:30823",
+        "url": "https://careers.rivian.com/careers-home/jobs/30823",
+        "location": "Tustin, CA"
       }
     ],
     "Roblox": [
@@ -8945,7 +8967,8 @@
         "date": "2026-10-13",
         "id": "eightfold:446720740636",
         "url": "https://careers.qualcomm.com/careers/job/446720740636",
-        "location": "San Diego, CA"
+        "location": "San Diego, CA",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Modular Engineering Internship \u2013 Summer 2027",
@@ -15594,7 +15617,8 @@
         "date": "2026-10-29",
         "id": "gem:am9icG9zdDpZQw959HNc0iJ2RD_R4fN1",
         "url": "https://jobs.gem.com/chef-robotics/am9icG9zdDpZQw959HNc0iJ2RD_R4fN1",
-        "location": "Remote, United States +1"
+        "location": "Remote, United States +1",
+        "closed": "2026-11-19"
       },
       {
         "title": "Field Engineering Technician, New York Region",
@@ -23367,7 +23391,8 @@
         "date": "N/A",
         "id": "lever:2b4b5430-927c-429b-9ac3-b06bf33b7302",
         "url": "https://jobs.lever.co/zoox/2b4b5430-927c-429b-9ac3-b06bf33b7302",
-        "location": "Foster City, CA"
+        "location": "Foster City, CA",
+        "closed": "2026-11-19"
       },
       {
         "title": "Senior Sensor Hardware Functional Safety Engineer",
@@ -27374,6 +27399,13 @@
         "id": "lever:6172f57d-135b-4b4d-a6b9-2351dedaa636",
         "url": "https://jobs.lever.co/aeva/6172f57d-135b-4b4d-a6b9-2351dedaa636",
         "location": "Japan"
+      },
+      {
+        "title": "Reliability Test Technician (6 month contract)",
+        "date": "2026-11-19",
+        "id": "lever:e040b8a6-8c11-4e2b-981a-835953831239",
+        "url": "https://jobs.lever.co/aeva/e040b8a6-8c11-4e2b-981a-835953831239",
+        "location": "Milpitas, CA"
       }
     ],
     "Bosch": [
@@ -28465,7 +28497,8 @@
         "date": "2026-10-12",
         "id": "smartrecruiters:744000155101377",
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155101377",
-        "location": "Lincolnshire, IL"
+        "location": "Lincolnshire, IL",
+        "closed": "2026-11-19"
       },
       {
         "title": "Applications Engineer, Sr.",
@@ -34491,7 +34524,8 @@
         "date": "N/A",
         "id": "greenhouse:8584593002",
         "url": "https://app.careerpuck.com/job-board/lyft/job/8584593002?gh_jid=8584593002",
-        "location": "Toronto, Canada"
+        "location": "Toronto, Canada",
+        "closed": "2026-11-19"
       },
       {
         "title": "Software Engineer, Observability",
@@ -35274,6 +35308,13 @@
         "id": "greenhouse:8948820002",
         "url": "https://app.careerpuck.com/job-board/lyft/job/8948820002?gh_jid=8948820002",
         "location": "Longueuil, Canada"
+      },
+      {
+        "title": "Senior Technical Program Manager, Finance (Quote to Cash)",
+        "date": "2026-11-19",
+        "id": "greenhouse:8952093002",
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8952093002?gh_jid=8952093002",
+        "location": "Toronto, Canada"
       }
     ],
     "Glydways": [
@@ -37926,7 +37967,8 @@
         "title": "Legal Counsel - Commercial",
         "date": "N/A",
         "id": "ashby:e207518c-ebfe-498c-946f-7bbaf20035ad",
-        "closed": "N/A"
+        "url": "https://jobs.ashbyhq.com/applied/b4e9aedc-72a0-4f0a-a03f-25f16bce9e21",
+        "location": "Sunnyvale +1"
       },
       {
         "title": "Legal Operations Generalist",
@@ -48802,6 +48844,13 @@
         "id": "greenhouse:8940846002",
         "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8940846002",
         "location": "Ann Arbor, MI; Remote - US"
+      },
+      {
+        "title": "Autonomy Software Integration Engineer II",
+        "date": "2026-11-19",
+        "id": "greenhouse:8945038002",
+        "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8945038002",
+        "location": "Fort Worth, Texas"
       }
     ],
     "Saronic": [
@@ -51134,6 +51183,13 @@
         "id": "ashby:eab94f4d-a4dd-49ad-8a63-67bd4290ce67",
         "url": "https://jobs.ashbyhq.com/saronic/eab94f4d-a4dd-49ad-8a63-67bd4290ce67",
         "location": "San Diego, CA"
+      },
+      {
+        "title": "Shipyard Facilities Operations & Asset Manager",
+        "date": "2026-11-19",
+        "id": "ashby:fe030d47-6f98-498d-9b80-10d909ff1cb4",
+        "url": "https://jobs.ashbyhq.com/saronic/fe030d47-6f98-498d-9b80-10d909ff1cb4",
+        "location": "Franklin, LA"
       }
     ],
     "Built Robotics": [
@@ -54738,7 +54794,8 @@
         "date": "2026-10-14",
         "id": "bamboohr:689",
         "url": "https://berkshiregrey.bamboohr.com/careers/689",
-        "location": "Bedford, MA"
+        "location": "Bedford, MA",
+        "closed": "2026-11-19"
       },
       {
         "title": "Sales Account Director, EMEA",
@@ -54834,8 +54891,7 @@
         "date": "2026-10-14",
         "id": "bamboohr:780",
         "url": "https://berkshiregrey.bamboohr.com/careers/780",
-        "location": "Bedford, MA",
-        "closed": "2026-11-18"
+        "location": "Bedford, MA"
       },
       {
         "title": "Senior/Principal Mechanical Engineer \u2013 Stride Shuttle Sorter",
@@ -64895,8 +64951,7 @@
         "date": "N/A",
         "id": "successfactors:1437994700",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Automated-Test-Applications-Engineer-%28SW-Dev_%2C-System-Design-&-Integration-North-Reading%2C-MA%29-MA/1437994700/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-19"
+        "location": "North Reading, MA"
       },
       {
         "title": "Principal Systems Verification Architect (IST, North Reading, MA)",
@@ -64910,40 +64965,35 @@
         "date": "N/A",
         "id": "successfactors:1437792800",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Prototype-Assembler-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1437792800/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-19"
+        "location": "North Reading, MA"
       },
       {
         "title": "Area Sales Manager (UR / MiR, New York remote)",
         "date": "N/A",
         "id": "successfactors:1437713000",
         "url": "https://jobs.teradyne.com/Universal-Robots/job/Albany-Area-Sales-Manager-%28UR-MiR%2C-New-York-remote%29-NY-12201/1437713000/",
-        "location": "Albany, NY",
-        "closed": "2026-11-19"
+        "location": "Albany, NY"
       },
       {
         "title": "ASIC Bench Characterization Manager (TERADYNE, Agoura Hills, CA)",
         "date": "N/A",
         "id": "successfactors:1417873900",
         "url": "https://jobs.teradyne.com/Teradyne/job/Agoura-Hills-ASIC-Bench-Characterization-Manager-%28TERADYNE%2C-Agoura-Hills%2C-CA%29-CA-91301/1417873900/",
-        "location": "Agoura Hills, CA",
-        "closed": "2026-11-19"
+        "location": "Agoura Hills, CA"
       },
       {
         "title": "NPI Manufacturing Engineer (MEMORY TEST DIVISION, San Jose, CA)",
         "date": "N/A",
         "id": "successfactors:1417831100",
         "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-NPI-Manufacturing-Engineer-%28MEMORY-TEST-DIVISION%2C-San-Jose%2C-CA%29-CA-95101/1417831100/",
-        "location": "San Jose, CA",
-        "closed": "2026-11-19"
+        "location": "San Jose, CA"
       },
       {
         "title": "Advanced ASIC Physical Design Lead (Teradyne, North Reading, MA)",
         "date": "N/A",
         "id": "successfactors:1382950100",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Advanced-ASIC-Physical-Design-Lead-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1382950100/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-19"
+        "location": "North Reading, MA"
       },
       {
         "title": "Senior Mechanical Engineer (Teradyne, North Reading)",
@@ -64958,16 +65008,14 @@
         "date": "N/A",
         "id": "successfactors:1448103800",
         "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Senior-Hardware-Engineer%2C-Systems-Integration-%28Teradyne%2C-Sunnyvale%2C-CA%29-CA-95101/1448103800/",
-        "location": "San Jose, CA",
-        "closed": "2026-11-19"
+        "location": "San Jose, CA"
       },
       {
         "title": "Software QA Manager (Compute Test, North Reading, MA)",
         "date": "N/A",
         "id": "successfactors:1437410200",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Software-QA-Manager-%28Compute-Test%2C-North-Reading%2C-MA%29-MA/1437410200/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-19"
+        "location": "North Reading, MA"
       },
       {
         "title": "Software Engineer (Compute Test, Agoura Hills, CA)",
@@ -64989,24 +65037,21 @@
         "date": "N/A",
         "id": "successfactors:1437393300",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Reliability-Design-Engineer-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1437393300/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-19"
+        "location": "North Reading, MA"
       },
       {
         "title": "Lead Financial Analyst, Marketing Investments & Planning (Teradyne, North Reading, MA)",
         "date": "N/A",
         "id": "successfactors:1437189300",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Lead-Financial-Analyst%2C-Marketing-Investments-&-Planning-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1437189300/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-19"
+        "location": "North Reading, MA"
       },
       {
         "title": "Factory Applications Engineer (Integrated System Test; North Reading, MA)",
         "date": "N/A",
         "id": "successfactors:1399396500",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Factory-Applications-Engineer-%28Integrated-System-Test-North-Reading%2C-MA%29-MA/1399396500/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-19"
+        "location": "North Reading, MA"
       },
       {
         "title": "Software Engineer (Compute Test, Agoura Hills, CA)",
@@ -65020,16 +65065,14 @@
         "date": "N/A",
         "id": "successfactors:1437305700",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Software-Calibration-Engineer-%28Defense-&-Aerospace%2C-North-Reading%29-MA/1437305700/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-19"
+        "location": "North Reading, MA"
       },
       {
         "title": "Software Product Manager (Teradyne, North Reading)",
         "date": "N/A",
         "id": "successfactors:1437363700",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Software-Product-Manager-%28Teradyne%2C-North-Reading%29-MA/1437363700/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-19"
+        "location": "North Reading, MA"
       },
       {
         "title": "Software Engineer (Compute Test, Agoura Hills, CA)",
@@ -65066,8 +65109,7 @@
         "date": "N/A",
         "id": "successfactors:1447684100",
         "url": "https://jobs.teradyne.com/Teradyne/job/Agoura-Hills-Senior-Power-Infrastructure-Engineer-%28Teradyne%2C-Agoura-Hills%2C-CA%29-CA-91301/1447684100/",
-        "location": "Agoura Hills, CA",
-        "closed": "2026-11-19"
+        "location": "Agoura Hills, CA"
       },
       {
         "title": "Power Distribution Systems Engineerr (Teradyne, Augora Hills, CA)",
@@ -65081,40 +65123,35 @@
         "date": "N/A",
         "id": "successfactors:1447686700",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-EMCEMI-Compliance-Engineer-%28TERADYNE%2C-North-Reading%2C-MA%29-MA/1447686700/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-19"
+        "location": "North Reading, MA"
       },
       {
         "title": "Sr. Product Compliance Engineer (TERADYNE, San Jose, CA)",
         "date": "N/A",
         "id": "successfactors:1447965200",
         "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Sr_-Product-Compliance-Engineer-%28TERADYNE%2C-San-Jose%2C-CA%29-CA-95101/1447965200/",
-        "location": "San Jose, CA",
-        "closed": "2026-11-19"
+        "location": "San Jose, CA"
       },
       {
         "title": "Sales Engineer (Semi Test, San Diego, CA)",
         "date": "N/A",
         "id": "successfactors:1447644800",
         "url": "https://jobs.teradyne.com/Teradyne/job/San-Diego-Sales-Engineer-%28Semi-Test%2C-San-Diego%2C-CA%29-CA-92101/1447644800/",
-        "location": "San Diego, CA",
-        "closed": "2026-11-19"
+        "location": "San Diego, CA"
       },
       {
         "title": "Manager, Strategic Hardware Interfaces (Interface Solutions Engineering Group; North Reading, MA)",
         "date": "N/A",
         "id": "successfactors:1447699800",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Manager%2C-Strategic-Hardware-Interfaces-%28Interface-Solutions-Engineering-Group-North-Reading%2C-MA%29-MA/1447699800/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-19"
+        "location": "North Reading, MA"
       },
       {
         "title": "Americas Desktop Support Manager (BPIT, North Reading)",
         "date": "N/A",
         "id": "successfactors:1447657300",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Americas-Desktop-Support-Manager-%28BPIT%2C-North-Reading%29-MA/1447657300/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-19"
+        "location": "North Reading, MA"
       },
       {
         "title": "Field Application Engineer (SEG, San Jose, CA)",
@@ -66685,7 +66722,8 @@
         "title": "Senior Space Flight and Navigation Engineer",
         "date": "N/A",
         "id": "adp:575203",
-        "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=575203&lang=en_US"
+        "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=575203&lang=en_US",
+        "closed": "2026-11-19"
       },
       {
         "title": "Design Engineer - Mid Level",
@@ -67419,6 +67457,13 @@
         "id": "adp:575820",
         "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=575820&lang=en_US",
         "location": "Houston, TX"
+      },
+      {
+        "title": "Data Analyst",
+        "date": "2026-11-19",
+        "id": "adp:572734",
+        "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=572734&lang=en_US",
+        "location": "Phoenix, AZ"
       }
     ],
     "Zimmer Biomet": [
@@ -73485,7 +73530,8 @@
         "date": "2026-10-22",
         "id": "greenhouse:4945157101",
         "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=4945157101&gh_jid=4945157101",
-        "location": "London, United Kingdom"
+        "location": "London, United Kingdom",
+        "closed": "2026-11-19"
       },
       {
         "title": "Senior Software Engineer",
@@ -77124,7 +77170,8 @@
         "date": "2026-10-22",
         "id": "ashby:08e8d03a-df94-46af-8664-cd9aab1af445",
         "url": "https://jobs.ashbyhq.com/openai/08e8d03a-df94-46af-8664-cd9aab1af445",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-19"
       },
       {
         "title": "Manager, AI Deployment Engineering (Southeast Asia)",
@@ -82253,6 +82300,13 @@
         "id": "ashby:919b3666-14c2-4c70-b28c-7a49fedc418e",
         "url": "https://jobs.ashbyhq.com/openai/919b3666-14c2-4c70-b28c-7a49fedc418e",
         "location": "San Francisco"
+      },
+      {
+        "title": "Designer, OpenAI.com",
+        "date": "2026-11-19",
+        "id": "ashby:4e9a1479-320a-465c-887d-ebbd9249db8a",
+        "url": "https://jobs.ashbyhq.com/openai/4e9a1479-320a-465c-887d-ebbd9249db8a",
+        "location": "US - Remote"
       }
     ],
     "John Deere": [
@@ -97908,7 +97962,8 @@
         "date": "2026-11-06",
         "id": "greenhouse:5475944008",
         "url": "https://job-boards.greenhouse.io/icarus/jobs/5475944008",
-        "location": "El Segundo"
+        "location": "El Segundo",
+        "closed": "2026-11-19"
       },
       {
         "title": "IT Systems Engineer",
@@ -101930,6 +101985,13 @@
         "url": "https://careers.bankofamerica.com/en-us/students/job-detail/14894/quantitative-strategies-data-group-summer-associate-program-2027-new-york-new-york-united-states",
         "location": "New York, NY",
         "closed": "2026-11-15"
+      },
+      {
+        "title": "\u2b50\ufe0f Wealth Management Summer Analyst Program \u2013 Merrill Advisor Development 2027",
+        "date": "2026-11-19",
+        "id": "bankofamerica:15305",
+        "url": "https://careers.bankofamerica.com/en-us/students/job-detail/15305/wealth-management-summer-analyst-program-x2013-merrill-advisor-development-2027-new-york-new-york-united-states",
+        "location": "New York, NY"
       }
     ],
     "Airbnb": [
@@ -102712,7 +102774,8 @@
         "date": "N/A",
         "id": "workday:JR-0111500",
         "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/UX-Designer-Intern--Canada-_JR-0111500",
-        "location": "Canada, BC, Vancouver"
+        "location": "Canada, BC, Vancouver",
+        "closed": "2026-11-19"
       },
       {
         "title": "Business Development Representative (Swedish)",
@@ -108280,7 +108343,8 @@
         "date": "N/A",
         "id": "avature:216273",
         "url": "https://jobs.ea.com/en_US/careers/JobDetail/VFX-Intern/216273",
-        "location": "Los Angeles - Chatsworth"
+        "location": "Los Angeles - Chatsworth",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f MBA Intern, Platform Strategy (Summer 2027)",
@@ -114572,6 +114636,13 @@
         "id": "jibe:143723",
         "url": "https://careers.se.com/global/jobs/143723",
         "location": "Boston, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Mechanical Engineering Co-op",
+        "date": "2026-11-19",
+        "id": "jibe:142634",
+        "url": "https://careers.se.com/global/jobs/142634",
+        "location": "Foxboro, MA"
       }
     ],
     "Roku": [
@@ -123029,7 +123100,8 @@
         "date": "N/A",
         "id": "icims:4956",
         "url": "https://careersus-shure.icims.com/jobs/4956/application-software-engineering-intern/job",
-        "location": "Niles, IL"
+        "location": "Niles, IL",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Cloud Operations Intern",
@@ -124489,21 +124561,9 @@
       "since": "2026-11-19",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
     },
-    "Rockwell Automation": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
-    },
-    "RedHat": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://redhat.wd5.myworkdayjobs.com/wday/cxs/redhat/jobs/jobs"
-    },
     "Unity": {
       "since": "2026-11-19",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
-    },
-    "Visa": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs"
     },
     "Leidos": {
       "since": "2026-11-19",
@@ -124524,10 +124584,6 @@
     "Samsung": {
       "since": "2026-11-19",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
-    },
-    "Medtronic": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://medtronic.wd1.myworkdayjobs.com/wday/cxs/medtronic/MedtronicCareers/jobs"
     },
     "General Motors": {
       "since": "2026-11-19",
@@ -124557,33 +124613,17 @@
       "since": "2026-11-19",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/BlueOrigin/jobs"
     },
-    "Workday": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday_Early_Career/jobs"
-    },
-    "Expedia": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://expedia.wd108.myworkdayjobs.com/wday/cxs/expedia/search/jobs"
-    },
-    "Verizon": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://verizon.wd12.myworkdayjobs.com/wday/cxs/verizon/verizon-careers/jobs"
-    },
     "Johnson & Johnson": {
       "since": "2026-11-19",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs"
     },
-    "PROCEPT BioRobotics": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://proceptbiorobotics.wd108.myworkdayjobs.com/wday/cxs/proceptbiorobotics/PROCEPT/jobs"
-    },
-    "Caterpillar": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://cat.wd5.myworkdayjobs.com/wday/cxs/cat/CaterpillarCareers/jobs"
-    },
     "Northrop Grumman": {
       "since": "2026-11-19",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ngc.wd1.myworkdayjobs.com/wday/cxs/ngc/Northrop_Grumman_External_Site/jobs"
+    },
+    "Draper": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://draper.wd5.myworkdayjobs.com/wday/cxs/draper/Draper_Careers/jobs"
     }
   },
   "closures_untracked": {
