@@ -14,14 +14,24 @@ SITEMAP = """<?xml version="1.0" encoding="UTF-8"?>
   <url><loc>https://www.citadel.com/careers/details/commodities-analyst/</loc></url>
 </urlset>"""
 
+# The index robots.txt names, as citadel.com served it in Nov 2026.
+INDEX = """<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap><loc>https://www.citadel.com/sitemap/page.xml</loc></sitemap>
+  <sitemap><loc>https://www.citadel.com/sitemap/post.xml</loc></sitemap>
+  <sitemap><loc>https://www.citadel.com/sitemap/career.xml</loc></sitemap>
+  <sitemap><loc>https://www.citadel.com/sitemap/career-perspectives.xml</loc></sitemap>
+  <sitemap><loc>https://www.citadel.com/sitemap/leadership.xml</loc></sitemap>
+</sitemapindex>"""
+
 SEARCH = "https://www.citadel.com/careers/open-opportunities"
+PAGES = {"https://www.citadel.com/sitemap.xml": INDEX, "https://www.citadel.com/sitemap/career.xml": SITEMAP}
 
 
-def fetch(url):
-    response = MagicMock(text=SITEMAP)
-    with patch("phlux.adapters.citadel.get", return_value=response) as get:
+def fetch(url, pages=PAGES):
+    with patch("phlux.adapters.citadel.get", side_effect=lambda u: MagicMock(text=pages[u])) as get:
         postings = citadel.fetch(url)
-    get.assert_called_once_with("https://www.citadel.com/career-sitemap.xml")
+    assert [c.args[0] for c in get.call_args_list] == list(pages)
     return postings
 
 
@@ -63,6 +73,23 @@ class TestFetch:
     def test_office_names_map_to_regions(self):
         assert citadel.wanted_regions("london,hong-kong") == {"Europe", "Asia"}
         assert citadel.wanted_regions("") == set()
+
+
+class TestCareerSitemaps:
+    def test_found_in_the_index_without_career_stories(self):
+        with patch("phlux.adapters.citadel.get", return_value=MagicMock(text=INDEX)):
+            assert citadel.career_sitemaps("www.citadel.com") == ["https://www.citadel.com/sitemap/career.xml"]
+
+    def test_old_name_still_found(self):
+        index = "<sitemapindex><sitemap><loc>https://www.citadel.com/career-sitemap.xml</loc></sitemap></sitemapindex>"
+        with patch("phlux.adapters.citadel.get", return_value=MagicMock(text=index)):
+            assert citadel.career_sitemaps("www.citadel.com") == ["https://www.citadel.com/career-sitemap.xml"]
+
+    def test_missing_career_sitemap_is_an_error(self):
+        index = "<sitemapindex><sitemap><loc>https://www.citadel.com/sitemap/page.xml</loc></sitemap></sitemapindex>"
+        with patch("phlux.adapters.citadel.get", return_value=MagicMock(text=index)):
+            with pytest.raises(ValueError, match="No career sitemap"):
+                citadel.career_sitemaps("www.citadel.com")
 
 
 def test_location_is_the_slugs_region():
