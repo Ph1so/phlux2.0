@@ -8896,7 +8896,8 @@
         "date": "2026-10-10",
         "id": "eightfold:446721016647",
         "url": "https://careers.qualcomm.com/careers/job/446721016647",
-        "location": "San Diego, CA"
+        "location": "San Diego, CA",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Sales & Business Development Internship - Summer 2027",
@@ -8945,7 +8946,8 @@
         "date": "2026-10-14",
         "id": "eightfold:446720737089",
         "url": "https://careers.qualcomm.com/careers/job/446720737089",
-        "location": "San Diego, CA +2"
+        "location": "San Diego, CA +2",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Internship - Summer 2027",
@@ -12401,14 +12403,16 @@
         "date": "N/A",
         "id": "workday:JR-202620428",
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Austin-Texas-United-States-of-America/Data-Engineer---Data-Software-Engineering-and-Cloud-Platforms--Early-Career_JR-202620428",
-        "location": "2 Locations"
+        "location": "2 Locations",
+        "closed": "2026-11-19"
       },
       {
         "title": "Software Engineer, Data Software Engineering and Cloud Platforms, Early Careers",
         "date": "N/A",
         "id": "workday:JR-202620418",
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Austin-Texas-United-States-of-America/Software-Engineer--Data-Software-Engineering-and-Cloud-Platforms--Early-Careers_JR-202620418",
-        "location": "2 Locations"
+        "location": "2 Locations",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Student Corps Program Specialist Intern",
@@ -16849,6 +16853,20 @@
         "id": "greenhouse:8208688003",
         "url": "https://motional.com/open-positions/?gh_jid=8208688003#/8208688003",
         "location": "Las Vegas, Nevada, United States"
+      },
+      {
+        "title": "Principal Engineer - Autonomy Systems Engineering, Vehicle Platform & Control Interfaces",
+        "date": "2026-11-19",
+        "id": "greenhouse:8209264003",
+        "url": "https://motional.com/open-positions/?gh_jid=8209264003#/8209264003",
+        "location": "Boston, Massachusetts, United States; Las Vegas, Nevada, United States; Pittsburgh, Pennsylvania, United States"
+      },
+      {
+        "title": "Senior Engineer - Autonomy Systems Engineering, Vehicle Control",
+        "date": "2026-11-19",
+        "id": "greenhouse:8209236003",
+        "url": "https://motional.com/open-positions/?gh_jid=8209236003#/8209236003",
+        "location": "Boston, Massachusetts, United States; Las Vegas, Nevada, United States; Pittsburgh, Pennsylvania, United States"
       }
     ],
     "Apptronik": [
@@ -40483,6 +40501,48 @@
         "id": "ashby:871fe356-edef-4353-a7ad-587d663c50c9",
         "url": "https://jobs.ashbyhq.com/applied/871fe356-edef-4353-a7ad-587d663c50c9",
         "location": "Sunnyvale"
+      },
+      {
+        "title": "Hardware Integration Engineer, Build",
+        "date": "2026-11-19",
+        "id": "ashby:1ff4c3fe-e7a2-47fe-b7c1-7ab42bc16bfb",
+        "url": "https://jobs.ashbyhq.com/applied/1ff4c3fe-e7a2-47fe-b7c1-7ab42bc16bfb",
+        "location": "Sunnyvale"
+      },
+      {
+        "title": "Hardware Integration Engineer, Build",
+        "date": "2026-11-19",
+        "id": "ashby:98fb7878-767b-4de4-8836-d5a2ccc85098",
+        "url": "https://jobs.ashbyhq.com/applied/98fb7878-767b-4de4-8836-d5a2ccc85098",
+        "location": "Sunnyvale"
+      },
+      {
+        "title": "System Integration Engineer, Build",
+        "date": "2026-11-19",
+        "id": "ashby:28d8f916-882c-4f3a-aa57-f54b901f5e39",
+        "url": "https://jobs.ashbyhq.com/applied/28d8f916-882c-4f3a-aa57-f54b901f5e39",
+        "location": "Sunnyvale"
+      },
+      {
+        "title": "Engineering Technician \u2013 Wire Harness Manufacturing",
+        "date": "2026-11-19",
+        "id": "ashby:3d6378f8-7aed-4f13-9882-7cd56f8b4524",
+        "url": "https://jobs.ashbyhq.com/applied/3d6378f8-7aed-4f13-9882-7cd56f8b4524",
+        "location": "Sunnyvale"
+      },
+      {
+        "title": "System Integration Engineer, Build",
+        "date": "2026-11-19",
+        "id": "ashby:041cf6c9-9bf8-43a6-a539-55eec978bb7f",
+        "url": "https://jobs.ashbyhq.com/applied/041cf6c9-9bf8-43a6-a539-55eec978bb7f",
+        "location": "Sunnyvale"
+      },
+      {
+        "title": "Engineering Technician \u2013 Wire Harness Manufacturing",
+        "date": "2026-11-19",
+        "id": "ashby:09254aaa-f436-44bd-8e7a-52cea624698c",
+        "url": "https://jobs.ashbyhq.com/applied/09254aaa-f436-44bd-8e7a-52cea624698c",
+        "location": "Sunnyvale"
       }
     ],
     "FieldAI": [
@@ -42308,7 +42368,8 @@
         "date": "N/A",
         "id": "ashby:98faaec2-7d21-40bb-aee6-14b3c0f85502",
         "url": "https://jobs.ashbyhq.com/humanoid/98faaec2-7d21-40bb-aee6-14b3c0f85502",
-        "location": "UK, London"
+        "location": "UK, London",
+        "closed": "2026-11-19"
       },
       {
         "title": "Hardware Integration and Development Engineer",
@@ -51213,7 +51274,8 @@
         "date": "2026-10-14",
         "id": "ashby:dfe65004-e7db-443f-8b8b-ced2a0aef91f",
         "url": "https://jobs.ashbyhq.com/reliable-robotics/dfe65004-e7db-443f-8b8b-ced2a0aef91f",
-        "location": "Remote"
+        "location": "Remote",
+        "closed": "2026-11-19"
       },
       {
         "title": "Sr. Avionics & Harness Technician",
@@ -58429,6 +58491,13 @@
         "id": "workday:R8542-1",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Senior-Financial-Analyst_R8542-1",
         "location": "USA Wilmington, MA - HQ"
+      },
+      {
+        "title": "Staff Release Manager",
+        "date": "2026-11-19",
+        "id": "workday:R8556",
+        "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Staff-Release-Manager_R8556",
+        "location": "USA Wilmington, MA - HQ"
       }
     ],
     "PROCEPT BioRobotics": [
@@ -59284,8 +59353,7 @@
         "date": "2026-10-15",
         "id": "workday:JR00045532",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-OH-Westerville/Application-Engineer-Pulp---Paper_JR00045532",
-        "location": "USA, OH, Westerville",
-        "closed": "2026-11-13"
+        "location": "USA, OH, Westerville"
       },
       {
         "title": "Process Systems Engineer, Pulp & Paper",
@@ -64374,7 +64442,8 @@
         "date": "N/A",
         "id": "successfactors:1449428100",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-RF-Hardware-Engineer-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1449428100/",
-        "location": "North Reading, MA"
+        "location": "North Reading, MA",
+        "closed": "2026-11-19"
       },
       {
         "title": "Mixed Signal Electrical Engineer (Compute Test, North Reading, MA)",
@@ -68365,7 +68434,8 @@
         "date": "N/A",
         "id": "greenhouse:4400915009",
         "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4400915009",
-        "location": "Pueblo, CO"
+        "location": "Pueblo, CO",
+        "closed": "2026-11-19"
       },
       {
         "title": "Senior Product Manager, Agentic AI Platform",
@@ -70528,7 +70598,8 @@
         "date": "2026-10-22",
         "id": "rippling:fc5cb390-1a6c-449a-8de2-f146e515234c",
         "url": "https://ats.rippling.com/walden-robotics/jobs/fc5cb390-1a6c-449a-8de2-f146e515234c",
-        "location": "Cambridge, MA"
+        "location": "Cambridge, MA",
+        "closed": "2026-11-19"
       },
       {
         "title": "MTS: Mechatronics Technician",
@@ -72414,11 +72485,13 @@
         "date": "2026-10-22",
         "id": "ashby:66c8b2e0-9326-4cee-82de-8f810e359c3f",
         "url": "https://jobs.ashbyhq.com/genesis/66c8b2e0-9326-4cee-82de-8f810e359c3f",
-        "location": "Paris"
+        "location": "Paris",
+        "closed": "2026-11-19"
       },
       {
         "title": "Robot Teleoperation Specialist",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "closed": "2026-11-19"
       },
       {
         "title": "Robotics",
@@ -79414,7 +79487,8 @@
         "date": "2026-10-22",
         "id": "ashby:b4196174-9cc3-487d-9d21-848bc283b80f",
         "url": "https://jobs.ashbyhq.com/openai/b4196174-9cc3-487d-9d21-848bc283b80f",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-19"
       },
       {
         "title": "Strategic Finance, Emerging B2B Products",
@@ -83955,7 +84029,8 @@
         "date": "2026-11-19",
         "id": "lever:155cba8a-1894-4402-9e8f-ed52a8df00cf",
         "url": "https://jobs.eu.lever.co/mobileye/155cba8a-1894-4402-9e8f-ed52a8df00cf",
-        "location": "Jerusalem, Israel"
+        "location": "Jerusalem, Israel",
+        "closed": "2026-11-19"
       },
       {
         "title": "Algorithm Data Analyst - Objects Modeling",
@@ -86631,7 +86706,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:4277904009",
         "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4277904009",
-        "location": "Cambridge, MA USA"
+        "location": "Cambridge, MA USA",
+        "closed": "2026-11-19"
       },
       {
         "title": "Software Engineer, AI Platform",
@@ -97170,6 +97246,13 @@
         "id": "workday:JR101725",
         "url": "https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Plainfield-IN/Vinyl-Wrap-Installer_JR101725",
         "location": "Plainfield, IN"
+      },
+      {
+        "title": "Senior Supplier Quality Engineer - Interior",
+        "date": "2026-11-19",
+        "id": "workday:JR101749",
+        "url": "https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Troy-Michigan/Supplier-Quality-Engineer---Interior_JR101749",
+        "location": "Troy, Michigan"
       }
     ],
     "Beyond Reach Labs": [
@@ -107480,7 +107563,8 @@
         "date": "N/A",
         "id": "talentbrew:24406",
         "url": "https://jobs.intuit.com/job/mountain-view/summer-2027-finance-transformation-and-analytics-intern/27595/101444103184",
-        "location": "Mountain View, CA"
+        "location": "Mountain View, CA",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027: Software Engineering Intern - Cybersecurity",
@@ -107564,7 +107648,8 @@
         "date": "N/A",
         "id": "talentbrew:24314",
         "url": "https://jobs.intuit.com/job/san-diego/summer-2027-digital-procurement-and-ai-solutions-intern/27595/101362216576",
-        "location": "San Diego, CA"
+        "location": "San Diego, CA",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027: MBA Strategic Finance Intern, Corporate FP&A",
@@ -112482,6 +112567,13 @@
         "id": "jibe:13862",
         "url": "https://careers.sig.com/jobs/13862",
         "location": "Dublin, Ireland"
+      },
+      {
+        "title": "\u2b50\ufe0f Electricity + Natural Gas Analyst Internship: Summer 2027",
+        "date": "2026-11-19",
+        "id": "jibe:10945",
+        "url": "https://careers.sig.com/jobs/10945",
+        "location": "Bala Cynwyd (Philadelphia Area), PA"
       }
     ],
     "Adobe": [
@@ -114191,16 +114283,14 @@
         "date": "N/A",
         "id": "avature:374600",
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Intern-Technology-Controls-Advisory-Japanese-Services-Group-Summer-2027/374600",
-        "location": "Multiple Locations",
-        "closed": "2026-11-18"
+        "location": "Multiple Locations"
       },
       {
         "title": "\u2b50\ufe0f Audit & Assurance \u2013 Analyst \u2013 Technology Controls Advisory (Japanese Services Group) \u2013 Summer/Fall 2027, Winter 2028",
         "date": "N/A",
         "id": "avature:374597",
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Analyst-Technology-Controls-Advisory-Japanese-Services-Group-Summer-Fall-2027-Winter-2028/374597",
-        "location": "Multiple Locations",
-        "closed": "2026-11-18"
+        "location": "Multiple Locations"
       },
       {
         "title": "\u2b50\ufe0f Audit & Assurance \u2013 Analyst \u2013 Technology Controls Advisory \u2013 Summer/Fall 2026",
@@ -118141,8 +118231,7 @@
         "date": "N/A",
         "id": "workday:R0000447451",
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/4521-S-Laburnum-Ave-RichmondVA-23231-2421/Store-Executive-Intern--Store-Leadership-Intern----Virginia--Starting-Summer-2027---_R0000447451",
-        "location": "10 Locations",
-        "closed": "2026-11-16"
+        "location": "10 Locations"
       },
       {
         "title": "\u2b50\ufe0f UX Design Internship - Minneapolis, MN (Starting Summer, 2027)",
@@ -118954,7 +119043,8 @@
         "date": "2026-11-18",
         "id": "talentbrew:100485360496",
         "url": "https://jobs.boeing.com/job/bristol/talent-acquisition-intern-12-month-placement/185/100485360496",
-        "location": "Bristol, United Kingdom"
+        "location": "Bristol, United Kingdom",
+        "closed": "2026-11-19"
       }
     ],
     "Mosaic": [
@@ -123623,7 +123713,7 @@
   "checked": {
     "Google": "2026-11-19",
     "Meta": "2026-11-19",
-    "Nvidia": "2026-11-18",
+    "Nvidia": "2026-11-19",
     "AWS": "2026-11-19",
     "Amazon": "2026-11-19",
     "Netflix": "2026-11-19",
@@ -123798,7 +123888,7 @@
     "Morgan Stanley": "2026-11-19",
     "Cisco": "2026-11-19",
     "TwoSigma": "2026-11-19",
-    "Snap": "2026-11-18",
+    "Snap": "2026-11-19",
     "Workday": "2026-11-19",
     "Stripe": "2026-11-19",
     "Cohere": "2026-11-19",
@@ -123822,7 +123912,7 @@
     "Susquehanna": "2026-11-19",
     "Adobe": "2026-11-19",
     "Databricks": "2026-11-19",
-    "Rockwell Automation": "2026-11-18",
+    "Rockwell Automation": "2026-11-19",
     "Siemens": "2026-11-19",
     "X": "2026-11-19",
     "TSMC": "2026-11-19",
@@ -123928,38 +124018,6 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
-    },
-    "Nvidia": {
-      "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
-    },
-    "Snap": {
-      "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
-    },
-    "Rockwell Automation": {
-      "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
-    },
-    "Slack": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/Slack/jobs"
-    },
-    "Expedia": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://expedia.wd108.myworkdayjobs.com/wday/cxs/expedia/search/jobs"
-    },
-    "Unity": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
-    },
-    "Boston Dynamics": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://bostondynamics.wd1.myworkdayjobs.com/wday/cxs/bostondynamics/Boston_Dynamics/jobs"
-    },
-    "Visa": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs"
     }
   },
   "closures_untracked": {
