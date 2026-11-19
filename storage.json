@@ -1321,8 +1321,7 @@
         "date": "2026-11-17",
         "id": "eightfold:1970393557075140",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557075140",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-18"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Self-Improving & Secure AI Agents - Microsoft Research",
@@ -2243,7 +2242,8 @@
         "date": "N/A",
         "id": "amazon:10568006",
         "url": "https://www.amazon.jobs/en/jobs/10568006/program-manager-iii-strategic-initiatives-team",
-        "location": "Austin, TX +2"
+        "location": "Austin, TX +2",
+        "closed": "2026-11-19"
       },
       {
         "title": "Area Manager, Early Career (2027)",
@@ -2762,6 +2762,20 @@
         "id": "amazon:10607546",
         "url": "https://www.amazon.jobs/en/jobs/10607546/robotics-hardware-development-engineer",
         "location": "North Reading, MA +1"
+      },
+      {
+        "title": "Manager, Global Events and Engagements, Amazon University Talent Acquisition",
+        "date": "2026-11-19",
+        "id": "amazon:10609099",
+        "url": "https://www.amazon.jobs/en/jobs/10609099/manager-global-events-and-engagements-amazon-university-talent-acquisition",
+        "location": "Seattle, WA"
+      },
+      {
+        "title": "Recruiter, Amazon University Talent Acquisition, Amazon University Talent Acquisition",
+        "date": "2026-11-19",
+        "id": "amazon:10609097",
+        "url": "https://www.amazon.jobs/en/jobs/10609097/recruiter-amazon-university-talent-acquisition-amazon-university-talent-acquisition",
+        "location": "Seattle, WA"
       }
     ],
     "Meta": [
@@ -9457,6 +9471,36 @@
         "date": "2026-11-14",
         "id": "html:https://www.merl.com/employment/internship-openings#CV0355",
         "url": "https://www.merl.com/employment/internship-openings#CV0355"
+      },
+      {
+        "title": "\u2b50\ufe0f MS0359: Internship - Time Series Foundation Models",
+        "date": "2026-11-19",
+        "id": "html:https://www.merl.com/employment/internship-openings#MS0359",
+        "url": "https://www.merl.com/employment/internship-openings#MS0359"
+      },
+      {
+        "title": "\u2b50\ufe0f ST0360: Internship - Multimodal Tracking and Imaging",
+        "date": "2026-11-19",
+        "id": "html:https://www.merl.com/employment/internship-openings#ST0360",
+        "url": "https://www.merl.com/employment/internship-openings#ST0360"
+      },
+      {
+        "title": "\u2b50\ufe0f CV0356: Internship - Embodied Multi-Agent Cooperation",
+        "date": "2026-11-19",
+        "id": "html:https://www.merl.com/employment/internship-openings#CV0356",
+        "url": "https://www.merl.com/employment/internship-openings#CV0356"
+      },
+      {
+        "title": "\u2b50\ufe0f CV0357: Internship - Physical AI Reasoning",
+        "date": "2026-11-19",
+        "id": "html:https://www.merl.com/employment/internship-openings#CV0357",
+        "url": "https://www.merl.com/employment/internship-openings#CV0357"
+      },
+      {
+        "title": "\u2b50\ufe0f CV0358: Internship - Multimodal Instruction and Video Synthesis",
+        "date": "2026-11-19",
+        "id": "html:https://www.merl.com/employment/internship-openings#CV0358",
+        "url": "https://www.merl.com/employment/internship-openings#CV0358"
       }
     ],
     "Onward Robotics": [
@@ -13632,7 +13676,8 @@
         "date": "2026-11-17",
         "id": "ashby:7f806a1c-2874-4a0b-a64c-d8e8e87822bf",
         "url": "https://jobs.ashbyhq.com/graymatter-robotics/7f806a1c-2874-4a0b-a64c-d8e8e87822bf",
-        "location": "Remote - USA"
+        "location": "Remote - USA",
+        "closed": "2026-11-19"
       }
     ],
     "Agility Robotics": [
@@ -34663,11 +34708,13 @@
         "date": "2026-10-19",
         "id": "greenhouse:8889185002",
         "url": "https://app.careerpuck.com/job-board/lyft/job/8889185002?gh_jid=8889185002",
-        "location": "San Francisco, CA"
+        "location": "San Francisco, CA",
+        "closed": "2026-11-19"
       },
       {
         "title": "Senior Product Manager, Trust & Safety",
-        "date": "2026-10-19"
+        "date": "2026-10-19",
+        "closed": "2026-11-19"
       },
       {
         "title": "Associate Producer, Manifold",
@@ -42378,7 +42425,8 @@
         "date": "N/A",
         "id": "ashby:5a4eed85-daa1-4fc4-a487-96c9e16fc64b",
         "url": "https://jobs.ashbyhq.com/humanoid/5a4eed85-daa1-4fc4-a487-96c9e16fc64b",
-        "location": "UK, London"
+        "location": "UK, London",
+        "closed": "2026-11-19"
       },
       {
         "title": "FP&A Lead",
@@ -42413,7 +42461,8 @@
         "date": "N/A",
         "id": "ashby:7a8bc969-ad69-4cfe-b0cb-8929ce688be5",
         "url": "https://jobs.ashbyhq.com/humanoid/7a8bc969-ad69-4cfe-b0cb-8929ce688be5",
-        "location": "UK, London"
+        "location": "UK, London",
+        "closed": "2026-11-19"
       },
       {
         "title": "Compensation & Benefits Specialist",
@@ -44245,7 +44294,8 @@
         "date": "2026-10-23",
         "id": "google:97049287501718214",
         "url": "https://www.google.com/about/careers/applications/jobs/results/97049287501718214",
-        "location": "London, UK"
+        "location": "London, UK",
+        "closed": "2026-11-19"
       },
       {
         "title": "Technical Program Manager, Gemini Post-Training, Subagents, DeepMind",
@@ -44786,6 +44836,13 @@
         "id": "google:75356771341738694",
         "url": "https://www.google.com/about/careers/applications/jobs/results/75356771341738694",
         "location": "Bengaluru, Karnataka, India"
+      },
+      {
+        "title": "Research Manager, Responsibility, DeepMind",
+        "date": "2026-11-19",
+        "id": "google:136510199329366726",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/136510199329366726",
+        "location": "New York, NY +1"
       }
     ],
     "Wing": [
@@ -51716,6 +51773,13 @@
         "date": "2026-11-17",
         "id": "lever:9498fa1c-791c-472f-9a01-6d144713d498",
         "url": "https://jobs.lever.co/anybotics/9498fa1c-791c-472f-9a01-6d144713d498",
+        "location": "Zurich, Switzerland"
+      },
+      {
+        "title": "Senior Industrialization Engineer",
+        "date": "2026-11-19",
+        "id": "lever:9cf13987-8abc-4678-a0f0-c524dcf08c3e",
+        "url": "https://jobs.lever.co/anybotics/9cf13987-8abc-4678-a0f0-c524dcf08c3e",
         "location": "Zurich, Switzerland"
       }
     ],
@@ -70648,14 +70712,16 @@
         "date": "2026-10-22",
         "id": "lever:dc397ff6-f7bd-479d-88c9-474421fe3ed4",
         "url": "https://jobs.lever.co/woven-by-toyota/dc397ff6-f7bd-479d-88c9-474421fe3ed4",
-        "location": "Tokyo"
+        "location": "Tokyo",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u30d7\u30e9\u30a4\u30d0\u30b7\u30fc\u30b9\u30da\u30b7\u30e3\u30ea\u30b9\u30c8",
         "date": "2026-10-22",
         "id": "lever:abe0962f-626f-41fc-8e3b-5ed8afe67766",
         "url": "https://jobs.lever.co/woven-by-toyota/abe0962f-626f-41fc-8e3b-5ed8afe67766",
-        "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a"
+        "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u30ea\u30fc\u30ac\u30eb\u30ab\u30a6\u30f3\u30bb\u30eb",
@@ -70682,7 +70748,8 @@
         "date": "2026-10-22",
         "id": "lever:ee9bd1db-075b-46f5-a5e5-f448c0497f63",
         "url": "https://jobs.lever.co/woven-by-toyota/ee9bd1db-075b-46f5-a5e5-f448c0497f63",
-        "location": "Tokyo"
+        "location": "Tokyo",
+        "closed": "2026-11-19"
       },
       {
         "title": "Data Engineer, City Data Platform Development (Employment for People with Disabilities)",
@@ -71605,7 +71672,8 @@
         "date": "2026-10-22",
         "id": "lever:d801fa9a-ae11-4d12-a0c9-fa3cf04bec50",
         "url": "https://jobs.lever.co/woven-by-toyota/d801fa9a-ae11-4d12-a0c9-fa3cf04bec50",
-        "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a"
+        "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u30c7\u30fc\u30bf\u30a8\u30f3\u30b8\u30cb\u30a2\u30fbCity Data Platform Development\uff08\u969c\u304c\u3044\u8005\u96c7\u7528\uff09",
@@ -71844,6 +71912,20 @@
         "date": "2026-11-18",
         "id": "lever:e74f6691-4347-49ea-a315-03f1b3d0c454",
         "url": "https://jobs.lever.co/woven-by-toyota/e74f6691-4347-49ea-a315-03f1b3d0c454",
+        "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a"
+      },
+      {
+        "title": "Operation Platform Management (OPM), Platform Manager, Test Course Operations (TCO)",
+        "date": "2026-11-19",
+        "id": "lever:dad361e8-e349-41b3-839b-125fa81c5b29",
+        "url": "https://jobs.lever.co/woven-by-toyota/dad361e8-e349-41b3-839b-125fa81c5b29",
+        "location": "Tokyo"
+      },
+      {
+        "title": "\u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u30de\u30cd\u30b8\u30e1\u30f3\u30c8\u3001\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u30de\u30cd\u30fc\u30b8\u30e3\u30fc\u30fbTest Course Operations",
+        "date": "2026-11-19",
+        "id": "lever:73754a41-e55e-4bd1-9b47-bc473af5b6f2",
+        "url": "https://jobs.lever.co/woven-by-toyota/73754a41-e55e-4bd1-9b47-bc473af5b6f2",
         "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a"
       }
     ],
@@ -72545,6 +72627,13 @@
         "id": "ashby:dfe0e827-a8ee-487f-b37e-763481fabd5a",
         "url": "https://jobs.ashbyhq.com/genesis/dfe0e827-a8ee-487f-b37e-763481fabd5a",
         "location": "Paris"
+      },
+      {
+        "title": "Whole-Body Control Engineer",
+        "date": "2026-11-19",
+        "id": "ashby:3a708a57-9031-418f-a5d7-255a8dd269df",
+        "url": "https://jobs.ashbyhq.com/genesis/3a708a57-9031-418f-a5d7-255a8dd269df",
+        "location": "Paris +1"
       }
     ],
     "Mind Robotics": [
@@ -72859,7 +72948,8 @@
         "date": "2026-10-22",
         "id": "workday:R0000380423",
         "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Peoria-Illinois/XMLNAME-2027-Summer-Corporate-Intern---Communications_R0000380423",
-        "location": "2 Locations"
+        "location": "2 Locations",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Corporate Intern \u2013 Product Support Engineering",
@@ -73504,6 +73594,13 @@
         "id": "greenhouse:5041121101",
         "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=5041121101&gh_jid=5041121101",
         "location": "Piaseczno, Poland"
+      },
+      {
+        "title": "Analytics Engineer",
+        "date": "2026-11-19",
+        "id": "greenhouse:4997439101",
+        "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=4997439101&gh_jid=4997439101",
+        "location": "Hatfield, United Kingdom"
       }
     ],
     "Northrop Grumman": [
@@ -81978,8 +82075,7 @@
         "date": "2026-10-22",
         "id": "lever:7837f11d-f347-40ff-b5c7-6e296be994fb",
         "url": "https://jobs.eu.lever.co/mobileye/7837f11d-f347-40ff-b5c7-6e296be994fb",
-        "location": "Jerusalem, Israel",
-        "closed": "2026-11-17"
+        "location": "Jerusalem, Israel"
       },
       {
         "title": "Validation Engineer & Embedded System Integration (Temporary Position - Maternity Leave)",
@@ -82106,7 +82202,8 @@
         "title": "R&D Lifecycle & Process Management",
         "date": "2026-10-22",
         "id": "lever:f4c63464-9fcc-40ed-b9fd-a21d815cfdd9",
-        "closed": "N/A"
+        "url": "https://jobs.eu.lever.co/mobileye/f4c63464-9fcc-40ed-b9fd-a21d815cfdd9",
+        "location": "Jerusalem, Israel"
       },
       {
         "title": "Senior Customer Solutions Engineer",
@@ -83129,7 +83226,8 @@
         "date": "2026-10-25",
         "id": "lever:bc5af7e1-27cc-4e86-a0cc-b4e5628e81d0",
         "url": "https://jobs.eu.lever.co/mobileye/bc5af7e1-27cc-4e86-a0cc-b4e5628e81d0",
-        "location": "Ramat Gan, Israel"
+        "location": "Ramat Gan, Israel",
+        "closed": "2026-11-19"
       },
       {
         "title": "Deep Learning Algorithm Developer - M.Sc. Graduate",
@@ -83738,6 +83836,20 @@
         "id": "lever:f8acdfa6-bd0d-4a64-a3e1-709d62e4c554",
         "url": "https://jobs.eu.lever.co/mobileye/f8acdfa6-bd0d-4a64-a3e1-709d62e4c554",
         "location": "Jerusalem, Israel"
+      },
+      {
+        "title": "Automotive Supplier Quality Engineer (m/w/d)",
+        "date": "2026-11-19",
+        "id": "lever:e942d384-bc0c-4bb5-9e28-6aebdd81a059",
+        "url": "https://jobs.eu.lever.co/mobileye/e942d384-bc0c-4bb5-9e28-6aebdd81a059",
+        "location": "Munich, Germany"
+      },
+      {
+        "title": "System Integration Engineer - Temporary Position",
+        "date": "2026-11-19",
+        "id": "lever:a1fbc8e5-2ec7-4a30-b699-dc940e22e259",
+        "url": "https://jobs.eu.lever.co/mobileye/a1fbc8e5-2ec7-4a30-b699-dc940e22e259",
+        "location": "Jerusalem, Israel"
       }
     ],
     "Dusty Robotics": [
@@ -83931,7 +84043,8 @@
         "title": "\u2b50\ufe0f Electrical Engineering Intern",
         "date": "2026-10-22",
         "id": "eightfold:996477244312",
-        "closed": "N/A"
+        "url": "https://lockheedmartin.eightfold.ai/careers/job/996476821506",
+        "location": "Grand Prairie, TX"
       },
       {
         "title": "\u2b50\ufe0f Radio Frequency (RF) Engineering Intern",
@@ -84003,7 +84116,8 @@
         "date": "2026-10-22",
         "id": "eightfold:996477363008",
         "url": "https://lockheedmartin.eightfold.ai/careers/job/996477760586",
-        "location": "Lexington, KY"
+        "location": "Lexington, KY",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Engineering - Intern",
@@ -84750,7 +84864,8 @@
         "date": "N/A",
         "id": "eightfold:996477557802",
         "url": "https://lockheedmartin.eightfold.ai/careers/job/996477557802",
-        "location": "Moorestown, NJ"
+        "location": "Moorestown, NJ",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Systems Engineer (Specialty) - Intern",
@@ -84764,7 +84879,8 @@
         "date": "N/A",
         "id": "eightfold:996477634919",
         "url": "https://lockheedmartin.eightfold.ai/careers/job/996477634919",
-        "location": "Virtual Two, PA +13"
+        "location": "Virtual Two, PA +13",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Service Life Engineer - Intern",
@@ -84806,42 +84922,48 @@
         "date": "N/A",
         "id": "eightfold:996477760376",
         "url": "https://lockheedmartin.eightfold.ai/careers/job/996477760376",
-        "location": "Colorado Springs, CO"
+        "location": "Colorado Springs, CO",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Mechanical Test Engineer-INTERN",
         "date": "N/A",
         "id": "eightfold:996477635652",
         "url": "https://lockheedmartin.eightfold.ai/careers/job/996477635652",
-        "location": "Cape Canaveral, FL"
+        "location": "Cape Canaveral, FL",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Mechanical Test Engineer-INTERN",
         "date": "N/A",
         "id": "eightfold:996477635668",
         "url": "https://lockheedmartin.eightfold.ai/careers/job/996477635668",
-        "location": "Cape Canaveral, FL"
+        "location": "Cape Canaveral, FL",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f College Student - Information Technology",
         "date": "N/A",
         "id": "eightfold:996477664881",
         "url": "https://lockheedmartin.eightfold.ai/careers/job/996477664881",
-        "location": "Lexington, KY"
+        "location": "Lexington, KY",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Embedded Software Engineer Intern - Summer 2027",
         "date": "N/A",
         "id": "eightfold:996477363529",
         "url": "https://lockheedmartin.eightfold.ai/careers/job/996477363529",
-        "location": "Huntsville, AL +2"
+        "location": "Huntsville, AL +2",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Embedded Software Engineer Intern - Summer 2027",
         "date": "N/A",
         "id": "eightfold:996477363502",
         "url": "https://lockheedmartin.eightfold.ai/careers/job/996477363502",
-        "location": "Huntsville, AL +2"
+        "location": "Huntsville, AL +2",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Supply Chain Analyst (Value Engineering) - Intern",
@@ -84856,7 +84978,8 @@
         "date": "N/A",
         "id": "eightfold:996477404316",
         "url": "https://lockheedmartin.eightfold.ai/careers/job/996477404316",
-        "location": "Cape Canaveral, FL"
+        "location": "Cape Canaveral, FL",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Cyber Engineer Intern - Summer 2027",
@@ -92447,6 +92570,13 @@
         "id": "greenhouse:5483945008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5483945008",
         "location": "San Francisco, CA"
+      },
+      {
+        "title": "Sales Director",
+        "date": "2026-11-19",
+        "id": "greenhouse:5474013008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5474013008",
+        "location": "Seoul, South Korea"
       }
     ],
     "xAI": [
@@ -101405,7 +101535,8 @@
         "date": "N/A",
         "id": "morganstanley:21528",
         "url": "https://morganstanley.tal.net/vx/candidate/so/pm/1/pl/1/opp/21528",
-        "location": "Budapest, Hungary"
+        "location": "Budapest, Hungary",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f 2027 Technology Internship (Budapest)",
@@ -101671,7 +101802,8 @@
         "date": "N/A",
         "id": "morganstanley:21584",
         "url": "https://morganstanley.tal.net/vx/candidate/so/pm/1/pl/1/opp/21584",
-        "location": "Paris, France"
+        "location": "Paris, France",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f 2027 Investment Management Off-cycle Internship - Real Estate Investing (Madrid)",
@@ -101713,7 +101845,8 @@
         "date": "N/A",
         "id": "morganstanley:22313",
         "url": "https://morganstanley.tal.net/vx/candidate/so/pm/1/pl/1/opp/22313",
-        "location": "Tokyo, Japan"
+        "location": "Tokyo, Japan",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f 2027 Sales & Trading Off-Cycle Internship (Frankfurt)",
@@ -101776,7 +101909,8 @@
         "date": "N/A",
         "id": "morganstanley:21828",
         "url": "https://morganstanley.tal.net/vx/candidate/so/pm/1/pl/1/opp/21828",
-        "location": "Frankfurt, Germany"
+        "location": "Frankfurt, Germany",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f 2027 Investment Management Off-cycle Internship - Sustainability and Client Engagement (London)",
@@ -107536,6 +107670,20 @@
         "id": "workday:R-106236",
         "url": "https://expedia.wd108.myworkdayjobs.com/search/job/Brazil---Sao-Paulo/Business-Development-Intern_R-106236",
         "location": "Brazil - Sao Paulo"
+      },
+      {
+        "title": "\u2b50\ufe0f Applied Science Intern - PhD - 2027 - London",
+        "date": "2026-11-19",
+        "id": "workday:R-110737",
+        "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Applied-Science-Intern---PhD---2027---London_R-110737",
+        "location": "UK - London"
+      },
+      {
+        "title": "\u2b50\ufe0f Mobile Engineering Intern - 2027 - London",
+        "date": "2026-11-19",
+        "id": "workday:R-110545-1",
+        "url": "https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545-1",
+        "location": "UK - London"
       }
     ],
     "EA": [
@@ -110003,7 +110151,8 @@
         "date": "N/A",
         "id": "oraclehcm:334388",
         "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334388",
-        "location": "United States"
+        "location": "United States",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f M&D Operations Planning Intern - OVIP",
@@ -110026,7 +110175,8 @@
         "date": "N/A",
         "id": "oraclehcm:334396",
         "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334396",
-        "location": "Redwood City, CA +5"
+        "location": "Redwood City, CA +5",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f SkillBridge NetSuite Military Fellowship: September - November 2026",
@@ -113077,6 +113227,13 @@
         "id": "directemployers:3D3A6875AA6A4ACE950E9E4BD6D0D859",
         "url": "https://jobs.sw.siemens.com/mason-oh/strategic-student-program-go-to-market-sales-execution-intern-gscs-spring-2027/3D3A6875AA6A4ACE950E9E4BD6D0D859/job/",
         "location": "Mason, OH"
+      },
+      {
+        "title": "\u2b50\ufe0f Strategic Student Program: Thermo-Mechanical Product Engineering Internship (Spring 2027, SIM STS)",
+        "date": "2026-11-19",
+        "id": "directemployers:3FCDEFC95663489BA53C261A9C7788BE",
+        "url": "https://jobs.sw.siemens.com/maryland-heights-mo/strategic-student-program-thermo-mechanical-product-engineering-internship-spring-2027-sim-sts/3FCDEFC95663489BA53C261A9C7788BE/job/",
+        "location": "Maryland Heights, MO"
       }
     ],
     "X": [
@@ -116296,7 +116453,8 @@
         "date": "N/A",
         "id": "greenhouse:8888045002",
         "url": "https://careers.duolingo.com/jobs/8888045002?gh_jid=8888045002",
-        "location": "Pittsburgh, PA"
+        "location": "Pittsburgh, PA",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Product Designer, Thrive Intern",
@@ -116595,7 +116753,8 @@
         "date": "N/A",
         "id": "workday:JR2026007613",
         "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Lille/Marketing-Intern_JR2026007613",
-        "location": "Lille"
+        "location": "Lille",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Regional Marketing Intern",
@@ -123283,12 +123442,12 @@
   },
   "email_threads": {
     "internship": {
-      "date": "2026-11-18",
-      "message_id": "<179501040246.2481.13702527924164716157@phlux>"
+      "date": "2026-11-19",
+      "message_id": "<179508921971.2324.15856092010890886608@phlux>"
     },
     "internship_all": {
-      "date": "2026-11-18",
-      "message_id": "<179500327016.2379.4230502371652265626@phlux>"
+      "date": "2026-11-19",
+      "message_id": "<179508922082.2324.18098870930825136898@phlux>"
     }
   },
   "pending_closures": {
@@ -123312,300 +123471,300 @@
     }
   },
   "checked": {
-    "Google": "2026-11-18",
-    "Meta": "2026-11-18",
+    "Google": "2026-11-19",
+    "Meta": "2026-11-19",
     "Nvidia": "2026-11-18",
-    "AWS": "2026-11-18",
-    "Amazon": "2026-11-18",
-    "Netflix": "2026-11-18",
-    "Autodesk": "2026-11-18",
-    "Apple": "2026-11-18",
-    "Optiver": "2026-11-18",
+    "AWS": "2026-11-19",
+    "Amazon": "2026-11-19",
+    "Netflix": "2026-11-19",
+    "Autodesk": "2026-11-19",
+    "Apple": "2026-11-19",
+    "Optiver": "2026-11-19",
     "Citadel": "2026-11-12",
-    "Blue Origin": "2026-11-18",
-    "Hudson River Trading": "2026-11-18",
-    "Riot Games": "2026-11-18",
-    "DE Shaws": "2026-11-18",
-    "Doordash": "2026-11-18",
-    "Amazon Robotics": "2026-11-18",
-    "Rivian": "2026-11-18",
-    "Roblox": "2026-11-18",
-    "Jane Street": "2026-11-18",
-    "SpaceX": "2026-11-18",
-    "Neuralink": "2026-11-18",
-    "Zipline": "2026-11-18",
+    "Blue Origin": "2026-11-19",
+    "Hudson River Trading": "2026-11-19",
+    "Riot Games": "2026-11-19",
+    "DE Shaws": "2026-11-19",
+    "Doordash": "2026-11-19",
+    "Amazon Robotics": "2026-11-19",
+    "Rivian": "2026-11-19",
+    "Roblox": "2026-11-19",
+    "Jane Street": "2026-11-19",
+    "SpaceX": "2026-11-19",
+    "Neuralink": "2026-11-19",
+    "Zipline": "2026-11-19",
     "Boston Dynamics": "2026-11-18",
-    "Scale AI": "2026-11-18",
-    "Relativity": "2026-11-18",
-    "Palantir": "2026-11-18",
-    "Skydio": "2026-11-18",
-    "Kodiak Robotics": "2026-11-18",
-    "XPENG": "2026-11-18",
-    "C3": "2026-11-18",
-    "Toyota Research Insitute": "2026-11-18",
-    "Qualcomm": "2026-11-18",
-    "Mitsubishi Electric Research Laboratories": "2026-11-18",
-    "Mujin": "2026-11-18",
-    "Microsoft": "2026-11-18",
-    "Intuitive Surgical": "2026-11-18",
-    "Onward Robotics": "2026-11-18",
-    "Agility Robotics": "2026-11-18",
-    "iRobot": "2026-11-18",
-    "Honda Research Insitute": "2026-11-18",
-    "Brightpick": "2026-11-18",
-    "Locus Robotics": "2026-11-18",
-    "Path Robotics": "2026-11-18",
-    "GrayMatter Robotics": "2026-11-18",
-    "Chef Robotics": "2026-11-18",
-    "Cobot": "2026-11-18",
-    "Ambi Robotics": "2026-11-18",
-    "Apptronik": "2026-11-18",
-    "Figure AI": "2026-11-18",
-    "1x": "2026-11-18",
-    "Sanctuary AI": "2026-11-18",
-    "Motional": "2026-11-18",
-    "Lucid Motors": "2026-11-18",
-    "Titan Robotics": "2026-11-18",
-    "Near Earth Autonomy": "2026-11-18",
-    "Skild AI": "2026-11-18",
-    "Aurora Innovation": "2026-11-18",
-    "Tensor Auto": "2026-11-18",
-    "Avride": "2026-11-18",
-    "May Mobility": "2026-11-18",
-    "Beep": "2026-11-18",
-    "Zoox": "2026-11-18",
-    "Pony.ai": "2026-11-18",
-    "Nuro": "2026-11-18",
-    "Lila Sciences": "2026-11-18",
-    "Serve Robotics": "2026-11-18",
-    "Bosch": "2026-11-18",
-    "Anduril": "2026-11-18",
-    "Aeva": "2026-11-18",
-    "Forterra": "2026-11-18",
-    "Intrinsic": "2026-11-18",
-    "Gecko Robotics": "2026-11-18",
-    "Robotics and AI Insitute": "2026-11-18",
-    "Sunday": "2026-11-18",
-    "Machina Labs": "2026-11-18",
-    "Matic Robots": "2026-11-18",
-    "GreyOrange": "2026-11-18",
-    "ScoutAI": "2026-11-18",
-    "AeroVect": "2026-11-18",
-    "Gather AI": "2026-11-18",
-    "Carbon Robotics": "2026-11-18",
-    "Pickle Robot": "2026-11-18",
-    "Scythe Robotics": "2026-11-18",
-    "Futurewei Technologies": "2026-11-18",
-    "Diligent Robotics": "2026-11-18",
-    "Phantom AI": "2026-11-18",
-    "Neros Technologies": "2026-11-18",
-    "Swarm Aero": "2026-11-18",
-    "Wayve": "2026-11-18",
-    "Shield AI": "2026-11-18",
-    "DeepMind": "2026-11-18",
-    "Waymo": "2026-11-18",
-    "Bedrock Robotics": "2026-11-18",
-    "Applied Intuition": "2026-11-18",
-    "FieldAI": "2026-11-18",
-    "Humanoid": "2026-11-18",
-    "World Labs": "2026-11-18",
+    "Scale AI": "2026-11-19",
+    "Relativity": "2026-11-19",
+    "Palantir": "2026-11-19",
+    "Skydio": "2026-11-19",
+    "Kodiak Robotics": "2026-11-19",
+    "XPENG": "2026-11-19",
+    "C3": "2026-11-19",
+    "Toyota Research Insitute": "2026-11-19",
+    "Qualcomm": "2026-11-19",
+    "Mitsubishi Electric Research Laboratories": "2026-11-19",
+    "Mujin": "2026-11-19",
+    "Microsoft": "2026-11-19",
+    "Intuitive Surgical": "2026-11-19",
+    "Onward Robotics": "2026-11-19",
+    "Agility Robotics": "2026-11-19",
+    "iRobot": "2026-11-19",
+    "Honda Research Insitute": "2026-11-19",
+    "Brightpick": "2026-11-19",
+    "Locus Robotics": "2026-11-19",
+    "Path Robotics": "2026-11-19",
+    "GrayMatter Robotics": "2026-11-19",
+    "Chef Robotics": "2026-11-19",
+    "Cobot": "2026-11-19",
+    "Ambi Robotics": "2026-11-19",
+    "Apptronik": "2026-11-19",
+    "Figure AI": "2026-11-19",
+    "1x": "2026-11-19",
+    "Sanctuary AI": "2026-11-19",
+    "Motional": "2026-11-19",
+    "Lucid Motors": "2026-11-19",
+    "Titan Robotics": "2026-11-19",
+    "Near Earth Autonomy": "2026-11-19",
+    "Skild AI": "2026-11-19",
+    "Aurora Innovation": "2026-11-19",
+    "Tensor Auto": "2026-11-19",
+    "Avride": "2026-11-19",
+    "May Mobility": "2026-11-19",
+    "Beep": "2026-11-19",
+    "Zoox": "2026-11-19",
+    "Pony.ai": "2026-11-19",
+    "Nuro": "2026-11-19",
+    "Lila Sciences": "2026-11-19",
+    "Serve Robotics": "2026-11-19",
+    "Bosch": "2026-11-19",
+    "Anduril": "2026-11-19",
+    "Aeva": "2026-11-19",
+    "Forterra": "2026-11-19",
+    "Intrinsic": "2026-11-19",
+    "Gecko Robotics": "2026-11-19",
+    "Robotics and AI Insitute": "2026-11-19",
+    "Sunday": "2026-11-19",
+    "Machina Labs": "2026-11-19",
+    "Matic Robots": "2026-11-19",
+    "GreyOrange": "2026-11-19",
+    "ScoutAI": "2026-11-19",
+    "AeroVect": "2026-11-19",
+    "Gather AI": "2026-11-19",
+    "Carbon Robotics": "2026-11-19",
+    "Pickle Robot": "2026-11-19",
+    "Scythe Robotics": "2026-11-19",
+    "Futurewei Technologies": "2026-11-19",
+    "Diligent Robotics": "2026-11-19",
+    "Phantom AI": "2026-11-19",
+    "Neros Technologies": "2026-11-19",
+    "Swarm Aero": "2026-11-19",
+    "Wayve": "2026-11-19",
+    "Shield AI": "2026-11-19",
+    "DeepMind": "2026-11-19",
+    "Waymo": "2026-11-19",
+    "Bedrock Robotics": "2026-11-19",
+    "Applied Intuition": "2026-11-19",
+    "FieldAI": "2026-11-19",
+    "Humanoid": "2026-11-19",
+    "World Labs": "2026-11-19",
     "General Motors": "2026-11-18",
-    "Niantic Spatial": "2026-11-18",
-    "Wing": "2026-11-18",
-    "Physical Intelligence": "2026-11-18",
-    "The Bot Company": "2026-11-18",
-    "Dyna Robotics": "2026-11-18",
-    "Nimble Robotics": "2026-11-18",
-    "Standard Bots": "2026-11-18",
-    "Dexterity": "2026-11-18",
-    "Formic": "2026-11-18",
-    "Bright Machines": "2026-11-18",
-    "Stack AV": "2026-11-18",
-    "Torc Robotics": "2026-11-18",
-    "Saronic": "2026-11-18",
-    "Reliable Robotics": "2026-11-18",
-    "Built Robotics": "2026-11-18",
-    "Coco Robotics": "2026-11-18",
-    "Mytra": "2026-11-18",
-    "Waabi": "2026-11-18",
-    "Overland AI": "2026-11-18",
-    "Plus One Robotics": "2026-11-18",
-    "Persona AI": "2026-11-18",
-    "Ghost Robotics": "2026-11-18",
-    "PlusAI": "2026-11-18",
-    "Miso Robotics": "2026-11-18",
-    "Gatik": "2026-11-18",
-    "Humble Robotics": "2026-11-18",
-    "Rhoda AI": "2026-11-18",
-    "Walden Robotics": "2026-11-18",
-    "Symbotic": "2026-11-18",
-    "Generalist AI": "2026-11-18",
-    "Genesis AI": "2026-11-18",
-    "Mind Robotics": "2026-11-18",
-    "Woven by Toyota": "2026-11-18",
-    "OpenAI": "2026-11-18",
-    "Ocado": "2026-11-18",
-    "Caterpillar": "2026-11-18",
-    "Joby Aviation": "2026-11-18",
-    "Mobileye": "2026-11-18",
-    "Neura Robotics": "2026-11-18",
-    "Dusty Robotics": "2026-11-18",
-    "Vecna Robotics": "2026-11-18",
-    "Realtime Robotics": "2026-11-18",
-    "John Deere": "2026-11-18",
-    "Anthropic": "2026-11-18",
-    "xAI": "2026-11-18",
-    "Thinking Machines Lab": "2026-11-18",
-    "Bot Auto": "2026-11-18",
+    "Niantic Spatial": "2026-11-19",
+    "Wing": "2026-11-19",
+    "Physical Intelligence": "2026-11-19",
+    "The Bot Company": "2026-11-19",
+    "Dyna Robotics": "2026-11-19",
+    "Nimble Robotics": "2026-11-19",
+    "Standard Bots": "2026-11-19",
+    "Dexterity": "2026-11-19",
+    "Formic": "2026-11-19",
+    "Bright Machines": "2026-11-19",
+    "Stack AV": "2026-11-19",
+    "Torc Robotics": "2026-11-19",
+    "Saronic": "2026-11-19",
+    "Reliable Robotics": "2026-11-19",
+    "Built Robotics": "2026-11-19",
+    "Coco Robotics": "2026-11-19",
+    "Mytra": "2026-11-19",
+    "Waabi": "2026-11-19",
+    "Overland AI": "2026-11-19",
+    "Plus One Robotics": "2026-11-19",
+    "Persona AI": "2026-11-19",
+    "Ghost Robotics": "2026-11-19",
+    "PlusAI": "2026-11-19",
+    "Miso Robotics": "2026-11-19",
+    "Gatik": "2026-11-19",
+    "Humble Robotics": "2026-11-19",
+    "Rhoda AI": "2026-11-19",
+    "Walden Robotics": "2026-11-19",
+    "Symbotic": "2026-11-19",
+    "Generalist AI": "2026-11-19",
+    "Genesis AI": "2026-11-19",
+    "Mind Robotics": "2026-11-19",
+    "Woven by Toyota": "2026-11-19",
+    "OpenAI": "2026-11-19",
+    "Ocado": "2026-11-19",
+    "Caterpillar": "2026-11-19",
+    "Joby Aviation": "2026-11-19",
+    "Mobileye": "2026-11-19",
+    "Neura Robotics": "2026-11-19",
+    "Dusty Robotics": "2026-11-19",
+    "Vecna Robotics": "2026-11-19",
+    "Realtime Robotics": "2026-11-19",
+    "John Deere": "2026-11-19",
+    "Anthropic": "2026-11-19",
+    "xAI": "2026-11-19",
+    "Thinking Machines Lab": "2026-11-19",
+    "Bot Auto": "2026-11-19",
     "Slate Auto": "2026-11-18",
-    "Ford": "2026-11-18",
-    "Mundane": "2026-11-18",
-    "Uber": "2026-11-18",
+    "Ford": "2026-11-19",
+    "Mundane": "2026-11-19",
+    "Uber": "2026-11-19",
     "Anywhere Robotics": "2026-11-01",
-    "Tesla": "2026-11-18",
-    "Beyond Reach Labs": "2026-11-18",
-    "Relling": "2026-11-18",
-    "Icarus": "2026-11-18",
-    "Pyka": "2026-11-18",
-    "Tuesday Labs": "2026-11-18",
-    "Weave Robotics": "2026-11-18",
-    "Boost Robotics": "2026-11-18",
-    "Oshkosh": "2026-11-18",
-    "General Robotics": "2026-11-18",
-    "Eka Robotics": "2026-11-18",
-    "Bonsai Robotics": "2026-11-18",
-    "Welch's": "2026-11-18",
-    "ispace": "2026-11-18",
-    "Pinterest": "2026-11-18",
+    "Tesla": "2026-11-19",
+    "Beyond Reach Labs": "2026-11-19",
+    "Relling": "2026-11-19",
+    "Icarus": "2026-11-19",
+    "Pyka": "2026-11-19",
+    "Tuesday Labs": "2026-11-19",
+    "Weave Robotics": "2026-11-19",
+    "Boost Robotics": "2026-11-19",
+    "Oshkosh": "2026-11-19",
+    "General Robotics": "2026-11-19",
+    "Eka Robotics": "2026-11-19",
+    "Bonsai Robotics": "2026-11-19",
+    "Welch's": "2026-11-19",
+    "ispace": "2026-11-19",
+    "Pinterest": "2026-11-19",
     "Intel": "2026-11-18",
-    "LinkedIn": "2026-11-18",
-    "Liberty Mutual": "2026-11-18",
-    "Salesforce": "2026-11-18",
-    "PayPal": "2026-11-18",
-    "IBM": "2026-11-18",
-    "Bank of America": "2026-11-18",
-    "Airbnb": "2026-11-18",
-    "Spotify": "2026-11-18",
-    "Morgan Stanley": "2026-11-18",
-    "Cisco": "2026-11-18",
-    "TwoSigma": "2026-11-18",
+    "LinkedIn": "2026-11-19",
+    "Liberty Mutual": "2026-11-19",
+    "Salesforce": "2026-11-19",
+    "PayPal": "2026-11-19",
+    "IBM": "2026-11-19",
+    "Bank of America": "2026-11-19",
+    "Airbnb": "2026-11-19",
+    "Spotify": "2026-11-19",
+    "Morgan Stanley": "2026-11-19",
+    "Cisco": "2026-11-19",
+    "TwoSigma": "2026-11-19",
     "Snap": "2026-11-18",
     "Workday": "2026-11-18",
-    "Stripe": "2026-11-18",
-    "Cohere": "2026-11-18",
-    "Ramp": "2026-11-18",
-    "Slack": "2026-11-18",
-    "Datadog": "2026-11-18",
-    "Atlassian": "2026-11-18",
-    "Splunk": "2026-11-18",
-    "TikTok": "2026-11-18",
-    "MongoDB": "2026-11-18",
-    "Robinhood": "2026-11-18",
-    "Intuit": "2026-11-18",
-    "Nokia": "2026-11-18",
-    "Expedia": "2026-11-18",
-    "EA": "2026-11-18",
-    "Dassault Systems": "2026-11-18",
-    "Asana": "2026-11-18",
-    "Grammarly": "2026-11-18",
-    "ByteDance": "2026-11-18",
-    "Oracle": "2026-11-18",
-    "Susquehanna": "2026-11-18",
-    "Adobe": "2026-11-18",
-    "Databricks": "2026-11-18",
+    "Stripe": "2026-11-19",
+    "Cohere": "2026-11-19",
+    "Ramp": "2026-11-19",
+    "Slack": "2026-11-19",
+    "Datadog": "2026-11-19",
+    "Atlassian": "2026-11-19",
+    "Splunk": "2026-11-19",
+    "TikTok": "2026-11-19",
+    "MongoDB": "2026-11-19",
+    "Robinhood": "2026-11-19",
+    "Intuit": "2026-11-19",
+    "Nokia": "2026-11-19",
+    "Expedia": "2026-11-19",
+    "EA": "2026-11-19",
+    "Dassault Systems": "2026-11-19",
+    "Asana": "2026-11-19",
+    "Grammarly": "2026-11-19",
+    "ByteDance": "2026-11-19",
+    "Oracle": "2026-11-19",
+    "Susquehanna": "2026-11-19",
+    "Adobe": "2026-11-19",
+    "Databricks": "2026-11-19",
     "Rockwell Automation": "2026-11-18",
-    "Siemens": "2026-11-18",
-    "X": "2026-11-18",
-    "TSMC": "2026-11-18",
-    "Boston Scientific": "2026-11-18",
-    "Cloudflare": "2026-11-18",
-    "Scheider Electric": "2026-11-18",
-    "Roku": "2026-11-18",
-    "Deloitte": "2026-11-18",
-    "Verkada": "2026-11-18",
-    "RedHat": "2026-11-18",
-    "Capital One": "2026-11-18",
-    "Twitch": "2026-11-18",
-    "Visa": "2026-11-18",
-    "Replit": "2026-11-18",
-    "Github": "2026-11-18",
-    "Epic Games": "2026-11-18",
-    "Vercel": "2026-11-18",
-    "Notion": "2026-11-18",
-    "Hugging Face": "2026-11-18",
-    "Genesis Therapeutics": "2026-11-18",
+    "Siemens": "2026-11-19",
+    "X": "2026-11-19",
+    "TSMC": "2026-11-19",
+    "Boston Scientific": "2026-11-19",
+    "Cloudflare": "2026-11-19",
+    "Scheider Electric": "2026-11-19",
+    "Roku": "2026-11-19",
+    "Deloitte": "2026-11-19",
+    "Verkada": "2026-11-19",
+    "RedHat": "2026-11-19",
+    "Capital One": "2026-11-19",
+    "Twitch": "2026-11-19",
+    "Visa": "2026-11-19",
+    "Replit": "2026-11-19",
+    "Github": "2026-11-19",
+    "Epic Games": "2026-11-19",
+    "Vercel": "2026-11-19",
+    "Notion": "2026-11-19",
+    "Hugging Face": "2026-11-19",
+    "Genesis Therapeutics": "2026-11-19",
     "Verizon": "2026-11-18",
-    "Coinbase": "2026-11-18",
-    "Disney": "2026-11-18",
-    "Goldman Sachs": "2026-11-18",
-    "Beli": "2026-11-18",
-    "Duolingo": "2026-11-18",
-    "Leidos": "2026-11-18",
-    "Radix Trading": "2026-11-18",
-    "Razer": "2026-11-18",
-    "Docusign": "2026-11-18",
-    "Sentry": "2026-11-18",
-    "Tencent": "2026-11-18",
-    "Point72": "2026-11-18",
+    "Coinbase": "2026-11-19",
+    "Disney": "2026-11-19",
+    "Goldman Sachs": "2026-11-19",
+    "Beli": "2026-11-19",
+    "Duolingo": "2026-11-19",
+    "Leidos": "2026-11-19",
+    "Radix Trading": "2026-11-19",
+    "Razer": "2026-11-19",
+    "Docusign": "2026-11-19",
+    "Sentry": "2026-11-19",
+    "Tencent": "2026-11-19",
+    "Point72": "2026-11-19",
     "Sony": "2026-11-18",
-    "Comcast": "2026-11-18",
-    "HP": "2026-11-18",
-    "UKG": "2026-11-18",
+    "Comcast": "2026-11-19",
+    "HP": "2026-11-19",
+    "UKG": "2026-11-19",
     "Target": "2026-11-18",
-    "DRW": "2026-11-18",
-    "Amentum": "2026-11-18",
-    "Mercedes Benz": "2026-11-18",
-    "Boeing": "2026-11-18",
+    "DRW": "2026-11-19",
+    "Amentum": "2026-11-19",
+    "Mercedes Benz": "2026-11-19",
+    "Boeing": "2026-11-19",
     "Mosaic": "2026-11-18",
-    "Samsung": "2026-11-18",
-    "Medtronic": "2026-11-18",
+    "Samsung": "2026-11-19",
+    "Medtronic": "2026-11-19",
     "T-Mobile": "2026-11-18",
-    "Akuna Capital": "2026-11-18",
-    "Bose": "2026-11-18",
-    "Stoke Space": "2026-11-18",
-    "RocketLab": "2026-11-18",
-    "Northwood Space": "2026-11-18",
+    "Akuna Capital": "2026-11-19",
+    "Bose": "2026-11-19",
+    "Stoke Space": "2026-11-19",
+    "RocketLab": "2026-11-19",
+    "Northwood Space": "2026-11-19",
     "Zillow": "2026-11-18",
-    "Mitre": "2026-11-18",
+    "Mitre": "2026-11-19",
     "Draper": "2026-11-18",
-    "Lyft": "2026-11-18",
-    "Glydways": "2026-11-18",
-    "JP Morgan Chase": "2026-11-18",
-    "Blue River Technology": "2026-11-18",
-    "Lodestar": "2026-11-18",
-    "Morsecorp": "2026-11-18",
-    "Outrider": "2026-11-18",
-    "Viam": "2026-11-18",
-    "ANYbotics": "2026-11-18",
-    "Foxglove": "2026-11-18",
-    "Impulse Space": "2026-11-18",
-    "Hadrian": "2026-11-18",
-    "Saildrone": "2026-11-18",
+    "Lyft": "2026-11-19",
+    "Glydways": "2026-11-19",
+    "JP Morgan Chase": "2026-11-19",
+    "Blue River Technology": "2026-11-19",
+    "Lodestar": "2026-11-19",
+    "Morsecorp": "2026-11-19",
+    "Outrider": "2026-11-19",
+    "Viam": "2026-11-19",
+    "ANYbotics": "2026-11-19",
+    "Foxglove": "2026-11-19",
+    "Impulse Space": "2026-11-19",
+    "Hadrian": "2026-11-19",
+    "Saildrone": "2026-11-19",
     "Johnson & Johnson": "2026-11-18",
     "Stryker": "2026-11-18",
-    "PROCEPT BioRobotics": "2026-11-18",
-    "Berkshire Grey": "2026-11-18",
-    "Teradyne": "2026-11-18",
-    "KUKA": "2026-11-18",
-    "Zimmer Biomet": "2026-11-18",
-    "Intuitive Machines": "2026-11-18",
-    "Voyager Technologies": "2026-11-18",
-    "FANUC America": "2026-11-18",
-    "Starship Technologies": "2026-11-18",
-    "Shure": "2026-11-18",
+    "PROCEPT BioRobotics": "2026-11-19",
+    "Berkshire Grey": "2026-11-19",
+    "Teradyne": "2026-11-19",
+    "KUKA": "2026-11-19",
+    "Zimmer Biomet": "2026-11-19",
+    "Intuitive Machines": "2026-11-19",
+    "Voyager Technologies": "2026-11-19",
+    "FANUC America": "2026-11-19",
+    "Starship Technologies": "2026-11-19",
+    "Shure": "2026-11-19",
     "Northrop Grumman": "2026-11-18",
     "ABB": "2026-11-18",
-    "Exotec": "2026-11-18",
-    "Lockheed Martin": "2026-11-18",
-    "Simbe Robotics": "2026-11-18",
-    "Medra": "2026-11-18",
-    "RoboForce": "2026-11-18",
-    "OpenMind": "2026-11-18",
-    "Lightwheel": "2026-11-18",
-    "Tutor Intelligence": "2026-11-18",
-    "AMD": "2026-11-18",
+    "Exotec": "2026-11-19",
+    "Lockheed Martin": "2026-11-19",
+    "Simbe Robotics": "2026-11-19",
+    "Medra": "2026-11-19",
+    "RoboForce": "2026-11-19",
+    "OpenMind": "2026-11-19",
+    "Lightwheel": "2026-11-19",
+    "Tutor Intelligence": "2026-11-19",
+    "AMD": "2026-11-19",
     "Unity": "2026-11-18",
-    "Konrad": "2026-11-18"
+    "Konrad": "2026-11-19"
   },
   "failing": {
     "Anywhere Robotics": {
@@ -123627,10 +123786,6 @@
     "Intel": {
       "since": "2026-11-18",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
-    },
-    "Autodesk": {
-      "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/uni/jobs"
     },
     "Snap": {
       "since": "2026-11-18",
@@ -123656,13 +123811,53 @@
       "since": "2026-11-18",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday_Early_Career/jobs"
     },
-    "Razer": {
-      "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
+    "Boston Dynamics": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://bostondynamics.wd1.myworkdayjobs.com/wday/cxs/bostondynamics/Boston_Dynamics/jobs"
     },
-    "Samsung": {
-      "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
+    "Verizon": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://verizon.wd12.myworkdayjobs.com/wday/cxs/verizon/verizon-careers/jobs"
+    },
+    "Sony": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sonyglobal.wd1.myworkdayjobs.com/wday/cxs/sonyglobal/SonyGlobalCareers/jobs"
+    },
+    "Mosaic": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://mosaic.wd5.myworkdayjobs.com/wday/cxs/mosaic/mosaic/jobs"
+    },
+    "T-Mobile": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://tmobile.wd1.myworkdayjobs.com/wday/cxs/tmobile/External/jobs"
+    },
+    "Zillow": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://zillow.wd5.myworkdayjobs.com/wday/cxs/zillow/Zillow_Group_External/jobs"
+    },
+    "General Motors": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
+    },
+    "Draper": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://draper.wd5.myworkdayjobs.com/wday/cxs/draper/Draper_Careers/jobs"
+    },
+    "Stryker": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs"
+    },
+    "Johnson & Johnson": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs"
+    },
+    "Northrop Grumman": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ngc.wd1.myworkdayjobs.com/wday/cxs/ngc/Northrop_Grumman_External_Site/jobs"
+    },
+    "Slate Auto": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
     }
   },
   "closures_untracked": {
