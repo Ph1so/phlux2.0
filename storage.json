@@ -29898,6 +29898,13 @@
         "id": "ashby:238994b7-f60d-4231-91ff-456b4d449e61",
         "url": "https://jobs.ashbyhq.com/sunday/238994b7-f60d-4231-91ff-456b4d449e61",
         "location": "Redwood City, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Manufacturing Engineering Intern (Winter 2027)",
+        "date": "2026-11-19",
+        "id": "ashby:fc993997-fb7f-4977-bdff-f09c51d96bf6",
+        "url": "https://jobs.ashbyhq.com/sunday/fc993997-fb7f-4977-bdff-f09c51d96bf6",
+        "location": "Redwood City, CA"
       }
     ],
     "Machina Labs": [
@@ -41505,7 +41512,8 @@
         "id": "lever:e6717cef-ac78-4e67-a8de-33e195490ac8",
         "url": "https://jobs.lever.co/field-ai/e6717cef-ac78-4e67-a8de-33e195490ac8",
         "location": "Irvine, CA",
-        "early": "Experience Level: We are recruiting across a wide range of experience levels from entry level engineers to senior and staff engineers."
+        "early": "Experience Level: We are recruiting across a wide range of experience levels from entry level engineers to senior and staff engineers.",
+        "closed": "2026-11-19"
       },
       {
         "title": "Embedded Systems Engineer, Autonomous Vehicles (Federal)",
@@ -41653,7 +41661,8 @@
         "id": "lever:c6d6d504-d01a-4ba5-9b33-f3e857f630d4",
         "url": "https://jobs.lever.co/field-ai/c6d6d504-d01a-4ba5-9b33-f3e857f630d4",
         "location": "Irvine, CA",
-        "early": "Experience Level: We are recruiting across a wide range of experience levels from entry level engineers to senior and staff engineers."
+        "early": "Experience Level: We are recruiting across a wide range of experience levels from entry level engineers to senior and staff engineers.",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Mechanical Engineer, Robotics Hardware Intern",
@@ -41975,7 +41984,8 @@
         "date": "N/A",
         "id": "lever:1915cec4-ea54-4a2a-b82c-48a19428b9d3",
         "url": "https://jobs.lever.co/field-ai/1915cec4-ea54-4a2a-b82c-48a19428b9d3",
-        "location": "Irvine, CA"
+        "location": "Irvine, CA",
+        "closed": "2026-11-19"
       },
       {
         "title": "Senior Research Engineer, Humanoid Manipulation",
@@ -42061,7 +42071,8 @@
         "id": "lever:0c026e5f-99c5-419d-9458-1f2db08fcb8f",
         "url": "https://jobs.lever.co/field-ai/0c026e5f-99c5-419d-9458-1f2db08fcb8f",
         "location": "Irvine, CA",
-        "early": "Experience Level: We are recruiting across a wide range of experience levels from entry level engineers to senior and staff engineers."
+        "early": "Experience Level: We are recruiting across a wide range of experience levels from entry level engineers to senior and staff engineers.",
+        "closed": "2026-11-19"
       },
       {
         "title": "Sensor Systems Engineer, Autonomous Vehicles (Federal)",
@@ -42197,7 +42208,8 @@
         "date": "N/A",
         "id": "lever:335eb3a4-abdf-4df0-a79c-599d54fd3a4a",
         "url": "https://jobs.lever.co/field-ai/335eb3a4-abdf-4df0-a79c-599d54fd3a4a",
-        "location": "Irvine, CA"
+        "location": "Irvine, CA",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Robotics Research, Humanoid Whole Body Learning Intern (Summer 2027) PhD",
@@ -51229,6 +51241,13 @@
         "id": "ashby:4bbe46ec-e990-49e0-a774-6be667bcba63",
         "url": "https://jobs.ashbyhq.com/saronic/4bbe46ec-e990-49e0-a774-6be667bcba63",
         "location": "Austin, TX +1"
+      },
+      {
+        "title": "Senior Growth Strategy & Operations Analyst",
+        "date": "2026-11-19",
+        "id": "ashby:0385f8ff-e23c-4431-87fd-ee1acfca1706",
+        "url": "https://jobs.ashbyhq.com/saronic/0385f8ff-e23c-4431-87fd-ee1acfca1706",
+        "location": "Austin, TX"
       }
     ],
     "Built Robotics": [
@@ -51527,8 +51546,7 @@
         "date": "2026-10-14",
         "id": "ashby:2d5a10d4-0644-41fa-91ed-4abde2e13bf9",
         "url": "https://jobs.ashbyhq.com/reliable-robotics/2d5a10d4-0644-41fa-91ed-4abde2e13bf9",
-        "location": "Mountain View, CA",
-        "closed": "2026-11-19"
+        "location": "Mountain View, CA"
       },
       {
         "title": "DevOps Engineer, Flight Software",
@@ -59039,6 +59057,13 @@
         "id": "workday:2026-R353",
         "url": "https://proceptbiorobotics.wd108.myworkdayjobs.com/PROCEPT/job/Ohio/Clinical-Specialist_2026-R353",
         "location": "Ohio"
+      },
+      {
+        "title": "Director, Patient Marketing",
+        "date": "2026-11-19",
+        "id": "workday:2026-R354",
+        "url": "https://proceptbiorobotics.wd108.myworkdayjobs.com/PROCEPT/job/Headquarters/Director--Patient-Marketing_2026-R354",
+        "location": "Headquarters"
       }
     ],
     "Miso Robotics": [
@@ -117338,8 +117363,7 @@
         "date": "N/A",
         "id": "workday:R-00195576",
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00195576",
-        "location": "Fort Belvoir, VA",
-        "closed": "2026-11-18"
+        "location": "Fort Belvoir, VA"
       },
       {
         "title": "\u2b50\ufe0f Project Management Intern",
@@ -117402,7 +117426,8 @@
         "date": "2026-11-12",
         "id": "workday:R-00196510",
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510",
-        "location": "Tucson, AZ"
+        "location": "Tucson, AZ",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Chief Engineer Intern",
@@ -117468,6 +117493,27 @@
         "id": "workday:R-00197304",
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/FPGA-Engineer-Intern_R-00197304",
         "location": "Arlington, VA"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Developer Intern",
+        "date": "2026-11-19",
+        "id": "workday:R-00197399-1",
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Software-Developer-Intern_R-00197399-1",
+        "location": "Fort Belvoir, VA"
+      },
+      {
+        "title": "\u2b50\ufe0f Systems Engineer Intern",
+        "date": "2026-11-19",
+        "id": "workday:R-00197398",
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Systems-Engineer-Intern_R-00197398",
+        "location": "Fort Belvoir, VA"
+      },
+      {
+        "title": "\u2b50\ufe0f AI/ML Intern",
+        "date": "2026-11-19",
+        "id": "workday:R-00195168",
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/AI-ML-Intern_R-00195168",
+        "location": "Huntsville, AL"
       }
     ],
     "Radix Trading": [
@@ -124695,10 +124741,6 @@
       "since": "2026-11-19",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
     },
-    "Autodesk": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/uni/jobs"
-    },
     "Snap": {
       "since": "2026-11-19",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
@@ -124707,49 +124749,37 @@
       "since": "2026-11-19",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
     },
-    "Leidos": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://leidos.wd5.myworkdayjobs.com/wday/cxs/leidos/External/jobs"
-    },
     "General Motors": {
       "since": "2026-11-19",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
-    },
-    "Stryker": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs"
     },
     "ABB": {
       "since": "2026-11-19",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
     },
-    "Slate Auto": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
-    },
-    "Draper": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://draper.wd5.myworkdayjobs.com/wday/cxs/draper/Draper_Careers/jobs"
-    },
-    "Workday": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday_Early_Career/jobs"
-    },
-    "RedHat": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://redhat.wd5.myworkdayjobs.com/wday/cxs/redhat/jobs/jobs"
-    },
     "Onward Robotics": {
       "since": "2026-11-19",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://portal-applicant-tracking.us-cent.paycomonline.net/api/ats/job-posting-previews/search"
     },
-    "Mosaic": {
+    "Salesforce": {
       "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://mosaic.wd5.myworkdayjobs.com/wday/cxs/mosaic/mosaic/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs"
     },
-    "Zillow": {
+    "Slack": {
       "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://zillow.wd5.myworkdayjobs.com/wday/cxs/zillow/Zillow_Group_External/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/Slack/jobs"
+    },
+    "Target": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
+    },
+    "Medtronic": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://medtronic.wd1.myworkdayjobs.com/wday/cxs/medtronic/MedtronicCareers/jobs"
+    },
+    "Northrop Grumman": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ngc.wd1.myworkdayjobs.com/wday/cxs/ngc/Northrop_Grumman_External_Site/jobs"
     }
   },
   "closures_untracked": {
