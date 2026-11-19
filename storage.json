@@ -1264,7 +1264,8 @@
         "date": "2026-11-09",
         "id": "eightfold:1970393557070079",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557070079",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Product Manager: Internship Opportunities",
@@ -2908,7 +2909,8 @@
         "title": "\u2b50\ufe0f Thermal Engineering Intern",
         "date": "2026-10-13",
         "id": "meta:1114875338141580",
-        "closed": "N/A"
+        "url": "https://www.metacareers.com/profile/job_details/1114875338141580/",
+        "location": "Menlo Park, CA"
       },
       {
         "title": "\u2b50\ufe0f Manufacturing Test Engineering Intern, Field Requirements & Feedback",
@@ -3159,8 +3161,7 @@
         "date": "2026-10-20",
         "id": "meta:1428978125312655",
         "url": "https://www.metacareers.com/profile/job_details/1428978125312655/",
-        "location": "Redmond, WA",
-        "closed": "2026-11-17"
+        "location": "Redmond, WA"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, AI-Driven Neural Interfaces (PhD)",
@@ -4128,6 +4129,13 @@
         "id": "meta:994911809842621",
         "url": "https://www.metacareers.com/profile/job_details/994911809842621/",
         "location": "Redmond, WA"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Machine Learning for Robotics (PhD)",
+        "date": "2026-11-19",
+        "id": "meta:1766347491109788",
+        "url": "https://www.metacareers.com/profile/job_details/1766347491109788/",
+        "location": "Burlingame, CA"
       }
     ],
     "Apple": [
@@ -5959,7 +5967,8 @@
         "date": "N/A",
         "id": "janestreet:8624440002",
         "url": "https://www.janestreet.com/join-jane-street/position/8624440002/",
-        "location": "New York, NY"
+        "location": "New York, NY",
+        "closed": "2026-11-19"
       },
       {
         "title": "IT Operations Engineer",
@@ -13687,6 +13696,13 @@
         "url": "https://jobs.ashbyhq.com/graymatter-robotics/7f806a1c-2874-4a0b-a64c-d8e8e87822bf",
         "location": "Remote - USA",
         "closed": "2026-11-19"
+      },
+      {
+        "title": "Robotics Applications Engineer: Activation and Support - Aerospace & Defense",
+        "date": "2026-11-19",
+        "id": "ashby:cdb08439-5846-4c47-ae77-37fdd9ea099d",
+        "url": "https://jobs.ashbyhq.com/graymatter-robotics/cdb08439-5846-4c47-ae77-37fdd9ea099d",
+        "location": "Remote - USA"
       }
     ],
     "Agility Robotics": [
@@ -17644,6 +17660,13 @@
         "id": "greenhouse:6264819004",
         "url": "https://boards.greenhouse.io/apptronik/jobs/6264819004?gh_jid=6264819004",
         "location": "Austin, TX"
+      },
+      {
+        "title": "Senior Manager, Hardware Test",
+        "date": "2026-11-19",
+        "id": "greenhouse:6266318004",
+        "url": "https://boards.greenhouse.io/apptronik/jobs/6266318004?gh_jid=6266318004",
+        "location": "Austin, TX"
       }
     ],
     "Titan Robotics": [
@@ -19817,6 +19840,13 @@
         "id": "greenhouse:8919889002",
         "url": "https://job-boards.greenhouse.io/maymobility/jobs/8919889002",
         "location": "Ann Arbor, MI - Hybrid"
+      },
+      {
+        "title": "Manager, Autonomy Engineering",
+        "date": "2026-11-19",
+        "id": "greenhouse:8932570002",
+        "url": "https://job-boards.greenhouse.io/maymobility/jobs/8932570002",
+        "location": "Ann Arbor, MI - Remote"
       }
     ],
     "Beep": [
@@ -23889,7 +23919,8 @@
         "date": "N/A",
         "id": "lever:f1f1e6ec-6167-4369-a788-89f5d009368a",
         "url": "https://jobs.lever.co/zoox/f1f1e6ec-6167-4369-a788-89f5d009368a",
-        "location": "Foster City, CA"
+        "location": "Foster City, CA",
+        "closed": "2026-11-19"
       },
       {
         "title": "Software Engineering Manager - Service Platform",
@@ -24709,6 +24740,13 @@
         "date": "2026-11-18",
         "id": "lever:8356bb90-10cf-4c91-ba81-11acff1bdf60",
         "url": "https://jobs.lever.co/zoox/8356bb90-10cf-4c91-ba81-11acff1bdf60",
+        "location": "Foster City, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Process Improvement Intern [Summer 2027]",
+        "date": "2026-11-19",
+        "id": "lever:7ff6f68a-52bd-48ab-87d4-029bcc43fa9f",
+        "url": "https://jobs.lever.co/zoox/7ff6f68a-52bd-48ab-87d4-029bcc43fa9f",
         "location": "Foster City, CA"
       }
     ],
@@ -30487,6 +30525,13 @@
         "id": "greenhouse:5300647007",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5300647007?gh_jid=5300647007",
         "location": "Costa Mesa, California, United States"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Engineering Systems Intern",
+        "date": "2026-11-19",
+        "id": "greenhouse:5302147007",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5302147007?gh_jid=5302147007",
+        "location": "Costa Mesa, California, United States"
       }
     ],
     "Matic Robots": [
@@ -31191,6 +31236,13 @@
         "date": "2026-11-18",
         "id": "rippling:1b44cc4c-1aaf-4efe-b3b4-7e1b7372cc9a",
         "url": "https://ats.rippling.com/forterra/jobs/1b44cc4c-1aaf-4efe-b3b4-7e1b7372cc9a",
+        "location": "Clarksburg, MD"
+      },
+      {
+        "title": "Senior Staff Full Stack Engineer",
+        "date": "2026-11-19",
+        "id": "rippling:5c824862-e5b1-4d5f-b2ca-627e53727f93",
+        "url": "https://ats.rippling.com/forterra/jobs/5c824862-e5b1-4d5f-b2ca-627e53727f93",
         "location": "Clarksburg, MD"
       }
     ],
@@ -46482,7 +46534,8 @@
         "date": "2026-10-14",
         "id": "ashby:9ab0f393-4ed9-4864-99bc-61065920c073",
         "url": "https://jobs.ashbyhq.com/standardbots/9ab0f393-4ed9-4864-99bc-61065920c073",
-        "location": "Glen Cove, NY"
+        "location": "Glen Cove, NY",
+        "closed": "2026-11-19"
       },
       {
         "title": "Sr. Manufacturing Program Manager, Vertical Integration",
@@ -46729,6 +46782,13 @@
         "id": "ashby:9e728e1c-c1a4-41fd-bb61-c73c27a0fd54",
         "url": "https://jobs.ashbyhq.com/StandardBots/9e728e1c-c1a4-41fd-bb61-c73c27a0fd54",
         "location": "US (Remote)"
+      },
+      {
+        "title": "Manufacturing Quality Inspector",
+        "date": "2026-11-19",
+        "id": "ashby:199c16cb-1454-4739-82be-f30bfd6075d0",
+        "url": "https://jobs.ashbyhq.com/StandardBots/199c16cb-1454-4739-82be-f30bfd6075d0",
+        "location": "Glen Cove, NY"
       }
     ],
     "Bright Machines": [
@@ -51925,6 +51985,13 @@
         "id": "greenhouse:6145258004",
         "url": "https://job-boards.greenhouse.io/viamrobotics/jobs/6145258004",
         "location": "New York, NY"
+      },
+      {
+        "title": "Senior Events and Field Marketing Manager",
+        "date": "2026-11-19",
+        "id": "greenhouse:6266281004",
+        "url": "https://job-boards.greenhouse.io/viamrobotics/jobs/6266281004",
+        "location": "New York, NY"
       }
     ],
     "Foxglove": [
@@ -51950,22 +52017,26 @@
         "date": "2026-10-20",
         "id": "ashby:8a880bbb-759b-4f90-a874-4bc455457f8f",
         "url": "https://jobs.ashbyhq.com/foxglove/8a880bbb-759b-4f90-a874-4bc455457f8f",
-        "location": "Hong Kong"
+        "location": "Hong Kong",
+        "closed": "2026-11-19"
       },
       {
         "title": "Backend Engineer, Forward Deployed",
-        "date": "2026-10-20"
+        "date": "2026-10-20",
+        "closed": "2026-11-19"
       },
       {
         "title": "Full-Stack Engineer, Forward Deployed",
         "date": "2026-10-20",
         "id": "ashby:6c1c2a4c-aa56-4394-bd83-adbdf58747a7",
         "url": "https://jobs.ashbyhq.com/foxglove/6c1c2a4c-aa56-4394-bd83-adbdf58747a7",
-        "location": "Hong Kong"
+        "location": "Hong Kong",
+        "closed": "2026-11-19"
       },
       {
         "title": "Full-Stack Engineer, Forward Deployed",
-        "date": "2026-10-20"
+        "date": "2026-10-20",
+        "closed": "2026-11-19"
       }
     ],
     "Coco Robotics": [
@@ -52327,7 +52398,8 @@
         "date": "2026-10-14",
         "id": "ashby:7cd509b3-5e8b-476b-9a36-8293671a2454",
         "url": "https://jobs.ashbyhq.com/hadrian-automation/7cd509b3-5e8b-476b-9a36-8293671a2454",
-        "location": "Los Angeles, CA +2"
+        "location": "Los Angeles, CA +2",
+        "closed": "2026-11-19"
       },
       {
         "title": "Software Engineer, Machine Interfaces",
@@ -59909,8 +59981,7 @@
         "date": "2026-10-20",
         "id": "workday:JR00036062",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Richmond-Virginia-United-States-of-America/Test-Supervisor-Off-Shift_JR00036062",
-        "location": "Richmond, Virginia, United States of America",
-        "closed": "2026-11-19"
+        "location": "Richmond, Virginia, United States of America"
       },
       {
         "title": "Digital Solutions Consulting Leader",
@@ -60976,7 +61047,8 @@
         "date": "N/A",
         "id": "workday:JR00035950",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Cary/Strategic-Segment-Proposal-Engineer_JR00035950",
-        "location": "183 Locations"
+        "location": "183 Locations",
+        "closed": "2026-11-19"
       },
       {
         "title": "Production Operations Manager",
@@ -62785,8 +62857,7 @@
         "date": "N/A",
         "id": "workday:JR00042997",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Phoenix-Arizona-United-States-of-America/Business-Development-Manager---Southwest_JR00042997",
-        "location": "4 Locations",
-        "closed": "2026-11-19"
+        "location": "4 Locations"
       },
       {
         "title": "Technical Solutions Manager \u2013 Life Sciences",
@@ -65160,7 +65231,8 @@
         "date": "N/A",
         "id": "successfactors:1436185100",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Senior-Engineering-Project-Manager-%28Defense-&-Aerospace%2C-North-Reading%2C-MA%29-MA/1436185100/",
-        "location": "North Reading, MA"
+        "location": "North Reading, MA",
+        "closed": "2026-11-19"
       },
       {
         "title": "Sr. Software Engineer (Teradyne, Oregon)",
@@ -66497,7 +66569,8 @@
         "date": "2026-10-21",
         "id": "adp:574487",
         "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=574487&lang=en_US",
-        "location": "Houston, TX"
+        "location": "Houston, TX",
+        "closed": "2026-11-19"
       },
       {
         "title": "Logistics & Operations Project Engineer MACS",
@@ -66602,14 +66675,16 @@
         "date": "N/A",
         "id": "adp:574760",
         "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=574760&lang=en_US",
-        "location": "California +8"
+        "location": "California +8",
+        "closed": "2026-11-19"
       },
       {
         "title": "Supply Chain Analyst",
         "date": "N/A",
         "id": "adp:574540",
         "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=574540&lang=en_US",
-        "location": "Houston, TX"
+        "location": "Houston, TX",
+        "closed": "2026-11-19"
       },
       {
         "title": "Software Project Manager - Nebula",
@@ -66659,21 +66734,24 @@
         "date": "N/A",
         "id": "adp:572983",
         "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=572983&lang=en_US",
-        "location": "Glen Burnie, MD +10"
+        "location": "Glen Burnie, MD +10",
+        "closed": "2026-11-19"
       },
       {
         "title": "Senior Optical Navigation Engineer",
         "date": "N/A",
         "id": "adp:573015",
         "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=573015&lang=en_US",
-        "location": "Glen Burnie, MD +10"
+        "location": "Glen Burnie, MD +10",
+        "closed": "2026-11-19"
       },
       {
         "title": "Optical Navigation Engineer",
         "date": "N/A",
         "id": "adp:573016",
         "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=573016&lang=en_US",
-        "location": "Glen Burnie, MD +8"
+        "location": "Glen Burnie, MD +8",
+        "closed": "2026-11-19"
       },
       {
         "title": "Assembly & Integration Engineer",
@@ -66917,14 +66995,16 @@
         "date": "N/A",
         "id": "adp:569859",
         "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=569859&lang=en_US",
-        "location": "Houston, TX"
+        "location": "Houston, TX",
+        "closed": "2026-11-19"
       },
       {
         "title": "Guidance Navigations & Controls Lead",
         "date": "N/A",
         "id": "adp:569858",
         "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=569858&lang=en_US",
-        "location": "Houston, TX"
+        "location": "Houston, TX",
+        "closed": "2026-11-19"
       },
       {
         "title": "Propulsion Engineer - Plumbing Design and Fabrication",
@@ -67051,7 +67131,8 @@
         "date": "N/A",
         "id": "adp:564186",
         "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=564186&lang=en_US",
-        "location": "Houston, TX"
+        "location": "Houston, TX",
+        "closed": "2026-11-19"
       },
       {
         "title": "Propulsion Engineer \u2013 Tank Test & Development",
@@ -67079,7 +67160,8 @@
         "date": "N/A",
         "id": "adp:560016",
         "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=560016&lang=en_US",
-        "location": "Houston, TX"
+        "location": "Houston, TX",
+        "closed": "2026-11-19"
       },
       {
         "title": "Network Operations Engineer",
@@ -67247,7 +67329,8 @@
         "date": "2026-11-17",
         "id": "adp:575821",
         "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=575821&lang=en_US",
-        "location": "Houston, TX"
+        "location": "Houston, TX",
+        "closed": "2026-11-19"
       },
       {
         "title": "Sr. Subcontracts Administrator",
@@ -82024,6 +82107,13 @@
         "id": "ashby:13e09206-133e-464a-a8d4-d306c203be03",
         "url": "https://jobs.ashbyhq.com/openai/13e09206-133e-464a-a8d4-d306c203be03",
         "location": "San Francisco"
+      },
+      {
+        "title": "Manager, Forward Deployed Engineering - London",
+        "date": "2026-11-19",
+        "id": "ashby:52b96704-5944-4ade-9f0f-27438cd5b560",
+        "url": "https://jobs.ashbyhq.com/openai/52b96704-5944-4ade-9f0f-27438cd5b560",
+        "location": "London, UK"
       }
     ],
     "John Deere": [
@@ -92834,6 +92924,13 @@
         "id": "greenhouse:5486656008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5486656008",
         "location": "London, UK"
+      },
+      {
+        "title": "Head of Community Relations, Compute",
+        "date": "2026-11-19",
+        "id": "greenhouse:5456315008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456315008",
+        "location": "San Francisco, CA | New York City, NY"
       }
     ],
     "xAI": [
@@ -103684,6 +103781,13 @@
         "id": "ashby:789f7d5f-d829-45b6-a1ed-b9cff0c92389",
         "url": "https://jobs.ashbyhq.com/cohere/789f7d5f-d829-45b6-a1ed-b9cff0c92389",
         "location": "San Francisco +4"
+      },
+      {
+        "title": "Financial Analyst, G&A",
+        "date": "2026-11-19",
+        "id": "ashby:53c89232-1de7-42b5-ab9d-b5290451c7e8",
+        "url": "https://jobs.ashbyhq.com/cohere/53c89232-1de7-42b5-ab9d-b5290451c7e8",
+        "location": "United States +3"
       }
     ],
     "Ramp": [
@@ -110468,7 +110572,8 @@
         "date": "N/A",
         "id": "oraclehcm:345687",
         "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/345687",
-        "location": "Nashville, TN"
+        "location": "Nashville, TN",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Sales Development Rep Intern - Burlington, MA- Summer 2027",
@@ -110483,7 +110588,8 @@
         "date": "N/A",
         "id": "oraclehcm:345689",
         "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/345689",
-        "location": "Denver, CO"
+        "location": "Denver, CO",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Sales Development Rep Intern - Santa Monica, CA- Summer 2027",
@@ -112923,6 +113029,13 @@
         "id": "phenom:R173218",
         "url": "https://careers.adobe.com/us/en/job/R173218/2027-Intern-International-Sports-Partnerships-Intern",
         "location": "London, United Kingdom"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Intern - Video Production",
+        "date": "2026-11-19",
+        "id": "phenom:R173409",
+        "url": "https://careers.adobe.com/us/en/job/R173409/2027-Intern-Video-Production",
+        "location": "San Francisco, CA"
       }
     ],
     "Databricks": [
@@ -114179,7 +114292,8 @@
         "date": "N/A",
         "id": "jibe:138179",
         "url": "https://careers.se.com/global/jobs/138179",
-        "location": "Middletown, PA"
+        "location": "Middletown, PA",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Logistics Engineering Intern - Summer 2027",
@@ -114351,8 +114465,7 @@
         "date": "N/A",
         "id": "avature:374597",
         "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Audit-Assurance-Analyst-Technology-Controls-Advisory-Japanese-Services-Group-Summer-Fall-2027-Winter-2028/374597",
-        "location": "Multiple Locations",
-        "closed": "2026-11-19"
+        "location": "Multiple Locations"
       },
       {
         "title": "\u2b50\ufe0f Audit & Assurance \u2013 Analyst \u2013 Technology Controls Advisory \u2013 Summer/Fall 2026",
@@ -117265,6 +117378,13 @@
         "id": "jibe:30578",
         "url": "https://careers.docusign.com/careers-home/jobs/30578",
         "location": "San Francisco, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Product Data Science Intern",
+        "date": "2026-11-19",
+        "id": "jibe:31092",
+        "url": "https://careers.docusign.com/careers-home/jobs/31092",
+        "location": "San Francisco, CA"
       }
     ],
     "Konrad": [
@@ -119105,8 +119225,7 @@
         "date": "2026-11-18",
         "id": "talentbrew:100485360496",
         "url": "https://jobs.boeing.com/job/bristol/talent-acquisition-intern-12-month-placement/185/100485360496",
-        "location": "Bristol, United Kingdom",
-        "closed": "2026-11-19"
+        "location": "Bristol, United Kingdom"
       }
     ],
     "Mosaic": [
@@ -122317,6 +122436,13 @@
         "id": "pinpoint:622435",
         "url": "https://impulsespace.pinpointhq.com/en/postings/8e5915f9-150a-4408-8678-f0b59139164d",
         "location": "Redondo Beach, CA"
+      },
+      {
+        "title": "Test Technician",
+        "date": "2026-11-19",
+        "id": "pinpoint:522549",
+        "url": "https://impulsespace.pinpointhq.com/en/postings/e770e25c-2562-4712-917e-c26314f84a13",
+        "location": "Mojave, CA"
       }
     ],
     "Shure": [
@@ -123777,6 +123903,81 @@
         "title:\u2b50\ufe0f Supply Chain Engineering Intern \u2013 Robotics (2026 Fall)"
       ],
       "backlog": true
+    },
+    "Nvidia": {
+      "since": "2026-11-19T12:32-05:00",
+      "keys": [
+        "workday:JR2012398",
+        "workday:JR2016035",
+        "workday:JR2023486",
+        "workday:JR2023487-1",
+        "workday:JR2023489",
+        "workday:JR2023491",
+        "workday:JR2023492",
+        "workday:JR2023495",
+        "workday:JR2023496",
+        "workday:JR2023497-1",
+        "workday:JR2023499",
+        "workday:JR2023500",
+        "workday:JR2023501",
+        "workday:JR2023502",
+        "workday:JR2023504",
+        "workday:JR2023508-1",
+        "workday:JR2023856",
+        "workday:JR2024171",
+        "workday:JR2024174",
+        "workday:JR2025025",
+        "workday:JR2025096",
+        "workday:JR2025098",
+        "workday:JR2025103",
+        "workday:JR2025379",
+        "workday:JR2025395",
+        "workday:JR2025405",
+        "workday:JR2025406",
+        "workday:JR2025478",
+        "workday:JR2025647",
+        "workday:JR2025670-1",
+        "workday:JR2025672",
+        "workday:JR2025792",
+        "workday:JR2025893",
+        "workday:JR2025905",
+        "workday:JR2025907",
+        "workday:JR2026004",
+        "workday:JR2026471",
+        "workday:JR2026499",
+        "workday:JR2026584-1",
+        "workday:JR2026644",
+        "workday:JR2026704",
+        "workday:JR2026707",
+        "workday:JR2026708",
+        "workday:JR2026798",
+        "workday:JR2026799",
+        "workday:JR2026839-1",
+        "workday:JR2026940",
+        "workday:JR2026949",
+        "workday:JR2026962",
+        "workday:JR2027089",
+        "workday:JR2027305",
+        "workday:JR2027429",
+        "workday:JR2027548",
+        "workday:JR2027561",
+        "workday:JR2028260",
+        "workday:JR2028449",
+        "workday:JR2028530",
+        "workday:JR2028607",
+        "workday:JR2028699",
+        "workday:JR2028740",
+        "workday:JR2028995",
+        "workday:JR2029119-1",
+        "workday:JR2029220-1",
+        "workday:JR2029307",
+        "workday:JR2029509",
+        "workday:JR2029523-1",
+        "workday:JR2029532-1",
+        "workday:JR2029541",
+        "workday:JR2029628",
+        "workday:JR2029682"
+      ]
     }
   },
   "checked": {
