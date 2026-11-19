@@ -11522,6 +11522,13 @@
         "id": "talentbrew:102845405904",
         "url": "https://careers.irobot.com/job/tokyo/digital-marketing-manager/42682/102845405904",
         "location": "Tokyo"
+      },
+      {
+        "title": "Customer Care Coordinator, EMEA",
+        "date": "2026-11-19",
+        "id": "talentbrew:103509078096",
+        "url": "https://careers.irobot.com/job/las-rozas-de-madrid/customer-care-coordinator-emea/42682/103509078096",
+        "location": "Las Rozas de Madrid, Madrid"
       }
     ],
     "Mujin": [
@@ -73601,6 +73608,13 @@
         "id": "greenhouse:4997439101",
         "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=4997439101&gh_jid=4997439101",
         "location": "Hatfield, United Kingdom"
+      },
+      {
+        "title": "Information Security Analyst (Maternity cover)",
+        "date": "2026-11-19",
+        "id": "greenhouse:5027222101",
+        "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=5027222101&gh_jid=5027222101",
+        "location": "Hatfield, United Kingdom"
       }
     ],
     "Northrop Grumman": [
@@ -74137,7 +74151,8 @@
         "date": "2026-11-16",
         "id": "workday:R10260955-1",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Mechanical-Engineer-Intern--Redondo-beach-CA_R10260955-1",
-        "location": "United States-California-Redondo Beach"
+        "location": "United States-California-Redondo Beach",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f 2027 Environmental Health and Safety Engineer Intern - Sunnyvale CA",
@@ -74172,7 +74187,8 @@
         "date": "2026-11-17",
         "id": "workday:R10261149",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Global-Trade-Intern---Linthicum-MD_R10261149",
-        "location": "United States-Maryland-Linthicum"
+        "location": "United States-Maryland-Linthicum",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f 2027 Thermal / Propulsion Engineer Intern - Redondo Beach CA",
@@ -74194,6 +74210,13 @@
         "id": "workday:R10261449",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Thermal-Engineer-Intern---Azusa-CA_R10261449",
         "location": "United States-California-Azusa"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Governance & Strategy Intern - Falls Church VA",
+        "date": "2026-11-19",
+        "id": "workday:R10261466",
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Falls-Church/XMLNAME-2027-Governance---Strategy-Intern---Falls-Church-VA_R10261466",
+        "location": "United States-Virginia-Falls Church"
       }
     ],
     "OpenAI": [
@@ -83850,6 +83873,13 @@
         "id": "lever:a1fbc8e5-2ec7-4a30-b699-dc940e22e259",
         "url": "https://jobs.eu.lever.co/mobileye/a1fbc8e5-2ec7-4a30-b699-dc940e22e259",
         "location": "Jerusalem, Israel"
+      },
+      {
+        "title": "\u2b50\ufe0f Student for Technical Project Management Team",
+        "date": "2026-11-19",
+        "id": "lever:155cba8a-1894-4402-9e8f-ed52a8df00cf",
+        "url": "https://jobs.eu.lever.co/mobileye/155cba8a-1894-4402-9e8f-ed52a8df00cf",
+        "location": "Jerusalem, Israel"
       }
     ],
     "Dusty Robotics": [
@@ -85424,6 +85454,20 @@
         "id": "eightfold:996476284195",
         "url": "https://lockheedmartin.eightfold.ai/careers/job/996476284195",
         "location": "Grand Prairie, TX"
+      },
+      {
+        "title": "\u2b50\ufe0f Systems Engineering- Post Grad Intern",
+        "date": "2026-11-19",
+        "id": "eightfold:996478014823",
+        "url": "https://lockheedmartin.eightfold.ai/careers/job/996478014823",
+        "location": "Huntsville, AL"
+      },
+      {
+        "title": "\u2b50\ufe0f Production Supply Chain Management Intern",
+        "date": "2026-11-19",
+        "id": "eightfold:996476891921",
+        "url": "https://lockheedmartin.eightfold.ai/careers/job/996476891921",
+        "location": "Courtland, AL"
       }
     ],
     "Vecna Robotics": [
@@ -99190,7 +99234,8 @@
         "date": "N/A",
         "id": "workday:JR0288749",
         "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/TD-Memory-Quality-and-Reliability-PhD-Intern_JR0288749",
-        "location": "3 Locations"
+        "location": "3 Locations",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f AI Hardware Engineering Intern",
@@ -123636,7 +123681,7 @@
     "Welch's": "2026-11-19",
     "ispace": "2026-11-19",
     "Pinterest": "2026-11-19",
-    "Intel": "2026-11-18",
+    "Intel": "2026-11-19",
     "LinkedIn": "2026-11-19",
     "Liberty Mutual": "2026-11-19",
     "Salesforce": "2026-11-19",
@@ -123649,7 +123694,7 @@
     "Cisco": "2026-11-19",
     "TwoSigma": "2026-11-19",
     "Snap": "2026-11-18",
-    "Workday": "2026-11-18",
+    "Workday": "2026-11-19",
     "Stripe": "2026-11-19",
     "Cohere": "2026-11-19",
     "Ramp": "2026-11-19",
@@ -123693,7 +123738,7 @@
     "Notion": "2026-11-19",
     "Hugging Face": "2026-11-19",
     "Genesis Therapeutics": "2026-11-19",
-    "Verizon": "2026-11-18",
+    "Verizon": "2026-11-19",
     "Coinbase": "2026-11-19",
     "Disney": "2026-11-19",
     "Goldman Sachs": "2026-11-19",
@@ -123706,7 +123751,7 @@
     "Sentry": "2026-11-19",
     "Tencent": "2026-11-19",
     "Point72": "2026-11-19",
-    "Sony": "2026-11-18",
+    "Sony": "2026-11-19",
     "Comcast": "2026-11-19",
     "HP": "2026-11-19",
     "UKG": "2026-11-19",
@@ -123715,7 +123760,7 @@
     "Amentum": "2026-11-19",
     "Mercedes Benz": "2026-11-19",
     "Boeing": "2026-11-19",
-    "Mosaic": "2026-11-18",
+    "Mosaic": "2026-11-19",
     "Samsung": "2026-11-19",
     "Medtronic": "2026-11-19",
     "T-Mobile": "2026-11-18",
@@ -123726,7 +123771,7 @@
     "Northwood Space": "2026-11-19",
     "Zillow": "2026-11-18",
     "Mitre": "2026-11-19",
-    "Draper": "2026-11-18",
+    "Draper": "2026-11-19",
     "Lyft": "2026-11-19",
     "Glydways": "2026-11-19",
     "JP Morgan Chase": "2026-11-19",
@@ -123752,7 +123797,7 @@
     "FANUC America": "2026-11-19",
     "Starship Technologies": "2026-11-19",
     "Shure": "2026-11-19",
-    "Northrop Grumman": "2026-11-18",
+    "Northrop Grumman": "2026-11-19",
     "ABB": "2026-11-18",
     "Exotec": "2026-11-19",
     "Lockheed Martin": "2026-11-19",
@@ -123783,10 +123828,6 @@
       "since": "2026-11-18",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
     },
-    "Intel": {
-      "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
-    },
     "Snap": {
       "since": "2026-11-18",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
@@ -123807,25 +123848,9 @@
       "since": "2026-11-18",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
     },
-    "Workday": {
-      "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday_Early_Career/jobs"
-    },
     "Boston Dynamics": {
       "since": "2026-11-19",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://bostondynamics.wd1.myworkdayjobs.com/wday/cxs/bostondynamics/Boston_Dynamics/jobs"
-    },
-    "Verizon": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://verizon.wd12.myworkdayjobs.com/wday/cxs/verizon/verizon-careers/jobs"
-    },
-    "Sony": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sonyglobal.wd1.myworkdayjobs.com/wday/cxs/sonyglobal/SonyGlobalCareers/jobs"
-    },
-    "Mosaic": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://mosaic.wd5.myworkdayjobs.com/wday/cxs/mosaic/mosaic/jobs"
     },
     "T-Mobile": {
       "since": "2026-11-19",
@@ -123839,10 +123864,6 @@
       "since": "2026-11-19",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
     },
-    "Draper": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://draper.wd5.myworkdayjobs.com/wday/cxs/draper/Draper_Careers/jobs"
-    },
     "Stryker": {
       "since": "2026-11-19",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs"
@@ -123851,13 +123872,45 @@
       "since": "2026-11-19",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs"
     },
-    "Northrop Grumman": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ngc.wd1.myworkdayjobs.com/wday/cxs/ngc/Northrop_Grumman_External_Site/jobs"
-    },
     "Slate Auto": {
       "since": "2026-11-19",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
+    },
+    "Autodesk": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/uni/jobs"
+    },
+    "Expedia": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://expedia.wd108.myworkdayjobs.com/wday/cxs/expedia/search/jobs"
+    },
+    "RedHat": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://redhat.wd5.myworkdayjobs.com/wday/cxs/redhat/jobs/jobs"
+    },
+    "Visa": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs"
+    },
+    "Leidos": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://leidos.wd5.myworkdayjobs.com/wday/cxs/leidos/External/jobs"
+    },
+    "Tesla": {
+      "since": "2026-11-19",
+      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
+    },
+    "Medtronic": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://medtronic.wd1.myworkdayjobs.com/wday/cxs/medtronic/MedtronicCareers/jobs"
+    },
+    "PROCEPT BioRobotics": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://proceptbiorobotics.wd108.myworkdayjobs.com/wday/cxs/proceptbiorobotics/PROCEPT/jobs"
+    },
+    "Oshkosh": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs"
     }
   },
   "closures_untracked": {
