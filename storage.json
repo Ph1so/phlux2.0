@@ -20591,8 +20591,7 @@
         "date": "2026-10-26",
         "id": "ashby:058e3b3a-dd13-4736-84a8-b19d5de2c9f5",
         "url": "https://jobs.ashbyhq.com/aurora-operations-inc/058e3b3a-dd13-4736-84a8-b19d5de2c9f5",
-        "location": "Mountain View, CA +1",
-        "closed": "2026-11-15"
+        "location": "Mountain View, CA +1"
       },
       {
         "title": "\u2b50\ufe0f Full Stack Intern",
@@ -49659,11 +49658,13 @@
         "date": "2026-10-14",
         "id": "ashby:2dcd745e-ebfa-40cd-9ba4-4f4756304134",
         "url": "https://jobs.ashbyhq.com/saronic/2dcd745e-ebfa-40cd-9ba4-4f4756304134",
-        "location": "Franklin, LA"
+        "location": "Franklin, LA",
+        "closed": "2026-11-18"
       },
       {
         "title": "EHS Specialist",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "closed": "2026-11-18"
       },
       {
         "title": "EHS Trainer",
@@ -50878,6 +50879,20 @@
         "id": "ashby:c44cc4bf-2d9a-4011-9e58-8071e0e385f0",
         "url": "https://jobs.ashbyhq.com/saronic/c44cc4bf-2d9a-4011-9e58-8071e0e385f0",
         "location": "Austin, TX"
+      },
+      {
+        "title": "Depot Inventory Control & Logistics Manager",
+        "date": "2026-11-18",
+        "id": "ashby:2799ea62-9f7f-456d-a86c-518ede45eabb",
+        "url": "https://jobs.ashbyhq.com/saronic/2799ea62-9f7f-456d-a86c-518ede45eabb",
+        "location": "Virginia Beach, VA"
+      },
+      {
+        "title": "Depot Inventory Control & Logistics Manager",
+        "date": "2026-11-18",
+        "id": "ashby:eab94f4d-a4dd-49ad-8a63-67bd4290ce67",
+        "url": "https://jobs.ashbyhq.com/saronic/eab94f4d-a4dd-49ad-8a63-67bd4290ce67",
+        "location": "San Diego, CA"
       }
     ],
     "Built Robotics": [
@@ -86286,7 +86301,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:4395727009",
         "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4395727009",
-        "location": "San Francisco, CA USA"
+        "location": "San Francisco, CA USA",
+        "closed": "2026-11-18"
       },
       {
         "title": "Senior Product Designer II / Staff Product Designer",
@@ -88020,7 +88036,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5426613008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5426613008",
-        "location": "Paris, France"
+        "location": "Paris, France",
+        "closed": "2026-11-18"
       },
       {
         "title": "Enterprise Account Executive - Healthcare & Life Science",
@@ -89018,7 +89035,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5434116008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5434116008",
-        "location": "San Francisco, CA | New York City, NY"
+        "location": "San Francisco, CA | New York City, NY",
+        "closed": "2026-11-18"
       },
       {
         "title": "Partner Sales Manager, Systems Integrators",
@@ -89994,7 +90012,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5456481008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5456481008",
-        "location": "Paris, France"
+        "location": "Paris, France",
+        "closed": "2026-11-18"
       },
       {
         "title": "Sales Manager, Nonprofit, EMEA",
@@ -94079,7 +94098,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5239623007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5239623007",
-        "location": "Singapore"
+        "location": "Singapore",
+        "closed": "2026-11-18"
       },
       {
         "title": "Senior Analyst, Safety Operations (Child Safety)",
@@ -117277,7 +117297,8 @@
         "date": "N/A",
         "id": "talentbrew:100700683792",
         "url": "https://jobs.comcast.com/job/chennai/intern/45483/100700683792",
-        "location": "Chennai, Tamil Nadu"
+        "location": "Chennai, Tamil Nadu",
+        "closed": "2026-11-18"
       },
       {
         "title": "\u2b50\ufe0f Spring Events Intern",
@@ -123275,12 +123296,6 @@
         "title:\u2b50\ufe0f Supply Chain Engineering Intern \u2013 Robotics (2026 Fall)"
       ],
       "backlog": true
-    },
-    "Comcast": {
-      "since": "2026-11-18T20:47-05:00",
-      "keys": [
-        "talentbrew:100700683792"
-      ]
     }
   },
   "checked": {
@@ -123591,6 +123606,74 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
+    },
+    "Nvidia": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
+    },
+    "Intel": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
+    },
+    "Autodesk": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/uni/jobs"
+    },
+    "Snap": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
+    },
+    "Rockwell Automation": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
+    },
+    "Unity": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
+    },
+    "Visa": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs"
+    },
+    "Target": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
+    },
+    "T-Mobile": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://tmobile.wd1.myworkdayjobs.com/wday/cxs/tmobile/External/jobs"
+    },
+    "Medtronic": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://medtronic.wd1.myworkdayjobs.com/wday/cxs/medtronic/MedtronicCareers/jobs"
+    },
+    "General Motors": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
+    },
+    "Draper": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://draper.wd5.myworkdayjobs.com/wday/cxs/draper/Draper_Careers/jobs"
+    },
+    "Stryker": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs"
+    },
+    "Johnson & Johnson": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs"
+    },
+    "ABB": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
+    },
+    "Northrop Grumman": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ngc.wd1.myworkdayjobs.com/wday/cxs/ngc/Northrop_Grumman_External_Site/jobs"
+    },
+    "Slate Auto": {
+      "since": "2026-11-18",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
     }
   },
   "closures_untracked": {
