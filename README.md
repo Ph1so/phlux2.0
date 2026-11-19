@@ -12,7 +12,7 @@
 <p>
   <a href="https://ph1so.github.io/phlux2.0/"><img src="https://img.shields.io/badge/browse-internships-1f5fff?style=flat-square" alt="Browse internships"></a>
   <a href="https://github.com/Ph1so/phlux2.0/actions/workflows/job-scraper.yml"><img src="https://img.shields.io/github/actions/workflow/status/Ph1so/phlux2.0/job-scraper.yml?branch=main&style=flat-square&label=scraper" alt="Scraper status"></a>
-  <img src="https://img.shields.io/badge/roles_tracked-38.7k-475467?style=flat-square" alt="38,716 roles tracked">
+  <img src="https://img.shields.io/badge/roles_tracked-38.7k-475467?style=flat-square" alt="38,740 roles tracked">
 </p>
 
 <p><a href="https://ph1so.github.io/phlux2.0/"><b>Website</b></a> &nbsp;·&nbsp; <a href="listings/README.md"><b>All listings</b></a></p>
@@ -21,7 +21,7 @@
 
 ## Latest roles
 
-Showing the 575 most recent of 38,716 roles tracked across 295 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
+Showing the 573 most recent of 38,740 roles tracked across 295 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
 
 
 <table>
@@ -46,6 +46,13 @@ Showing the 575 most recent of 38,716 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://apply.careers.microsoft.com/careers?query=intern&location=United%20States&sort_by=relevance"><img src="https://cdn.brandfetch.io/microsoft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Microsoft" height="20" style="vertical-align:middle; margin-right:6px;"> Microsoft</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://apply.careers.microsoft.com/careers/job/1970393557076142">⭐️ Research Intern - AI Safety, Alignment, and Post-Training</a></div></td>
+  <td>2026-11-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://apply.careers.microsoft.com/careers?query=intern&location=United%20States&sort_by=relevance"><img src="https://cdn.brandfetch.io/microsoft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Microsoft" height="20" style="vertical-align:middle; margin-right:6px;"> Microsoft</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://apply.careers.microsoft.com/careers/job/1970393557076159">⭐️ Research Intern - AI /Machine Learning Numerics & Efficiency</a></div></td>
   <td>2026-11-19</td>
 </tr>
   <tr>
@@ -218,6 +225,55 @@ Showing the 575 most recent of 38,716 roles tracked across 295 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/lucidmotors"><img src="https://cdn.brandfetch.io/lucidmotors.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lucid Motors" height="20" style="vertical-align:middle; margin-right:6px;"> Lucid Motors</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007">⭐️ Intern, AI & Data (Applied AI/Machine Learning), Summer 2027</a></div></td>
+  <td>2026-11-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/lucidmotors"><img src="https://cdn.brandfetch.io/lucidmotors.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lucid Motors" height="20" style="vertical-align:middle; margin-right:6px;"> Lucid Motors</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://lucidmotors.com/careers/search/5290904007?gh_jid=5290904007">⭐️ Intern, Embedded Software, Summer 2027</a></div></td>
+  <td>2026-11-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/lucidmotors"><img src="https://cdn.brandfetch.io/lucidmotors.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lucid Motors" height="20" style="vertical-align:middle; margin-right:6px;"> Lucid Motors</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://lucidmotors.com/careers/search/5290947007?gh_jid=5290947007">⭐️ Intern, Motor Control Software Development and Validation Engineer, Summer 2027</a></div></td>
+  <td>2026-11-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/lucidmotors"><img src="https://cdn.brandfetch.io/lucidmotors.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lucid Motors" height="20" style="vertical-align:middle; margin-right:6px;"> Lucid Motors</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://lucidmotors.com/careers/search/5290917007?gh_jid=5290917007">⭐️ Intern, OTA Test and Validation Automation, Summer 2027</a></div></td>
+  <td>2026-11-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/lucidmotors"><img src="https://cdn.brandfetch.io/lucidmotors.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lucid Motors" height="20" style="vertical-align:middle; margin-right:6px;"> Lucid Motors</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://lucidmotors.com/careers/search/5290915007?gh_jid=5290915007">⭐️ Intern, Simulation & Virtualization Engineer, Summer 2027</a></div></td>
+  <td>2026-11-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/lucidmotors"><img src="https://cdn.brandfetch.io/lucidmotors.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lucid Motors" height="20" style="vertical-align:middle; margin-right:6px;"> Lucid Motors</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://lucidmotors.com/careers/search/5290911007?gh_jid=5290911007">⭐️ Intern, Software Engineer, SDET, Summer 2027</a></div></td>
+  <td>2026-11-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/lucidmotors"><img src="https://cdn.brandfetch.io/lucidmotors.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lucid Motors" height="20" style="vertical-align:middle; margin-right:6px;"> Lucid Motors</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://lucidmotors.com/careers/search/5290925007?gh_jid=5290925007">⭐️ Intern, Software QA Engineer, Infotainment, Summer 2027</a></div></td>
+  <td>2026-11-19</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/maymobility/"><img src="https://cdn.brandfetch.io/maymobility.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="May Mobility" height="20" style="vertical-align:middle; margin-right:6px;"> May Mobility</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/maymobility/jobs/8932570002">Manager, Autonomy Engineering</a></div></td>
@@ -277,6 +333,13 @@ Showing the 575 most recent of 38,716 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/lyft"><img src="https://cdn.brandfetch.io/lyft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lyft" height="20" style="vertical-align:middle; margin-right:6px;"> Lyft</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://app.careerpuck.com/job-board/lyft/job/8952244002?gh_jid=8952244002">People Business Partner</a></div></td>
+  <td>2026-11-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/waymo"><img src="https://cdn.brandfetch.io/waymo.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Waymo" height="20" style="vertical-align:middle; margin-right:6px;"> Waymo</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.withwaymo.com/jobs?gh_jid=8401116">⭐️ 2027 Summer Intern, PhD, Agentic AI</a></div></td>
   <td>2026-11-19</td>
 </tr>
   <tr>
@@ -547,9 +610,58 @@ Showing the 575 most recent of 38,716 roles tracked across 295 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&lang=en_US"><img src="https://www.google.com/s2/favicons?domain=intuitivemachines.com&sz=128" alt="Intuitive Machines" height="20" style="vertical-align:middle; margin-right:6px;"> Intuitive Machines</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&amp;ccId=19000101_000001&amp;jobId=575934&amp;lang=en_US">Composites Technician</a></div></td>
+  <td>2026-11-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&lang=en_US"><img src="https://www.google.com/s2/favicons?domain=intuitivemachines.com&sz=128" alt="Intuitive Machines" height="20" style="vertical-align:middle; margin-right:6px;"> Intuitive Machines</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&amp;ccId=19000101_000001&amp;jobId=575939&amp;lang=en_US">Software Project Manager - Nova C</a></div></td>
+  <td>2026-11-19</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/voyagertechnologiesinc"><img src="https://cdn.brandfetch.io/voyagertechnologies.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Voyager Technologies" height="20" style="vertical-align:middle; margin-right:6px;"> Voyager Technologies</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4509719009">Systems Engineer – Project Engineer VI</a></div></td>
+  <td>2026-11-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/voyagertechnologiesinc"><img src="https://cdn.brandfetch.io/voyagertechnologies.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Voyager Technologies" height="20" style="vertical-align:middle; margin-right:6px;"> Voyager Technologies</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4506035009">Associate Producer</a></div></td>
+  <td>2026-11-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/voyagertechnologiesinc"><img src="https://cdn.brandfetch.io/voyagertechnologies.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Voyager Technologies" height="20" style="vertical-align:middle; margin-right:6px;"> Voyager Technologies</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4508520009">Director / Cinematographer</a></div></td>
+  <td>2026-11-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/voyagertechnologiesinc"><img src="https://cdn.brandfetch.io/voyagertechnologies.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Voyager Technologies" height="20" style="vertical-align:middle; margin-right:6px;"> Voyager Technologies</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4506051009">Head of Digital & Social Media Marketing</a></div></td>
+  <td>2026-11-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/voyagertechnologiesinc"><img src="https://cdn.brandfetch.io/voyagertechnologies.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Voyager Technologies" height="20" style="vertical-align:middle; margin-right:6px;"> Voyager Technologies</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4505622009">Senior Designer, Brand</a></div></td>
+  <td>2026-11-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/voyagertechnologiesinc"><img src="https://cdn.brandfetch.io/voyagertechnologies.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Voyager Technologies" height="20" style="vertical-align:middle; margin-right:6px;"> Voyager Technologies</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4506071009">Senior Editor, Video and Motion Graphics</a></div></td>
   <td>2026-11-19</td>
 </tr>
   <tr>
@@ -715,6 +827,41 @@ Showing the 575 most recent of 38,716 roles tracked across 295 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/2b5587bf-9df9-4606-920b-a988e392a2d2">Art Director, Business Marketing</a></div></td>
+  <td>2026-11-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/1a17baf0-8b00-4020-acfa-fd530f20881f">Manager, Delivery Leads - NYC</a></div></td>
+  <td>2026-11-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/a1f5372d-a912-479d-8d12-7fc22298083d">Manager, Delivery Leads - San Francisco</a></div></td>
+  <td>2026-11-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/b5a6e300-5f33-4ac8-9fb3-11578e5cdd14">Community Engagement Lead, Texas</a></div></td>
+  <td>2026-11-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/ecb1119c-0439-4b8d-938b-851b3ed84a02">Community Engagement Lead, Southeast</a></div></td>
+  <td>2026-11-19</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.eu.lever.co/mobileye"><img src="https://cdn.brandfetch.io/mobileye.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mobileye" height="20" style="vertical-align:middle; margin-right:6px;"> Mobileye</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.eu.lever.co/mobileye/e942d384-bc0c-4bb5-9e28-6aebdd81a059">Automotive Supplier Quality Engineer (m/w/d)</a></div></td>
@@ -820,6 +967,13 @@ Showing the 575 most recent of 38,716 roles tracked across 295 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5483403008">Finance Systems Production Support Lead</a></div></td>
+  <td>2026-11-19</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://recar.wd108.myworkdayjobs.com/SLATEcareers"><img src="https://cdn.brandfetch.io/slate.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Slate Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Slate Auto</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Troy-Michigan/Supplier-Quality-Engineer---Interior_JR101749">Senior Supplier Quality Engineer - Interior</a></div></td>
@@ -830,6 +984,13 @@ Showing the 575 most recent of 38,716 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/pyka"><img src="https://cdn.brandfetch.io/flypyka.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Pyka" height="20" style="vertical-align:middle; margin-right:6px;"> Pyka</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/pyka/2f567b74-5165-46a4-8fdd-343c5bbd531a">Maintenance Technician</a></div></td>
+  <td>2026-11-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site?workerSubType=3a910852b2c31010f48d2cefdccd0000&CF_-_REC_-_LRV_-_Job_Posting_Anchor_-_Country_from_Job_Posting_Location_Extended=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/salesforce.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Salesforce" height="20" style="vertical-align:middle; margin-right:6px;"> Salesforce</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Virginia---Mclean/Summer-2027-Intern---Sales-Development--Public-Sector_JR360458-1">⭐️ Summer 2027 Intern - Sales Development, Public Sector</a></div></td>
   <td>2026-11-19</td>
 </tr>
   <tr>
@@ -977,6 +1138,13 @@ Showing the 575 most recent of 38,716 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers?workerSubType=7306bd11847f108d51604b3183153b95&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/sony.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sony" height="20" style="vertical-align:middle; margin-right:6px;"> Sony</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/NA--Hollywood-N-Orange-Dr-375/Intern--Creative-A-R_JR-119935-1">⭐️ Intern, Creative A&R</a></div></td>
+  <td>2026-11-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers?workerSubType=189767dd6c920145d5c3e59c2c297819&Location_Country=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/samsung.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Samsung" height="20" style="vertical-align:middle; margin-right:6px;"> Samsung</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Business-Operations---Data-Analytics-Intern_R122135">⭐️ Business Operations & Data Analytics Intern</a></div></td>
   <td>2026-11-19</td>
 </tr>
   <tr>
@@ -3875,188 +4043,6 @@ Showing the 575 most recent of 38,716 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"><img src="https://cdn.brandfetch.io/nvidia.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nvidia" height="20" style="vertical-align:middle; margin-right:6px;"> Nvidia</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Enterprise-Sales-Intern---Summer-2027_JR2029682">⭐️ Enterprise Sales Intern - Summer 2027</a></div></td>
-  <td>2026-11-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"><img src="https://cdn.brandfetch.io/nvidia.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nvidia" height="20" style="vertical-align:middle; margin-right:6px;"> Nvidia</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-Manager-MBA-Intern--Digital-Health-AI---Summer-2027_JR2029509">⭐️ Product Marketing Manager MBA Intern, Digital Health AI - Summer 2027</a></div></td>
-  <td>2026-11-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.metacareers.com/jobsearch/?roles[0]=Internship"><img src="https://cdn.brandfetch.io/meta.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Meta" height="20" style="vertical-align:middle; margin-right:6px;"> Meta</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.metacareers.com/profile/job_details/971210335715482/">⭐️ Research Scientist Intern, Intelligent Camera Systems (PhD)</a></div></td>
-  <td>2026-11-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.metacareers.com/jobsearch/?roles[0]=Internship"><img src="https://cdn.brandfetch.io/meta.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Meta" height="20" style="vertical-align:middle; margin-right:6px;"> Meta</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.metacareers.com/profile/job_details/1500136678656794/">⭐️ Research Scientist Intern, Perception, Displays and Graphics (PhD)</a></div></td>
-  <td>2026-11-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.metacareers.com/jobsearch/?roles[0]=Internship"><img src="https://cdn.brandfetch.io/meta.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Meta" height="20" style="vertical-align:middle; margin-right:6px;"> Meta</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.metacareers.com/profile/job_details/1157475613903880/">⭐️ Research Scientist Intern, LLM-Native Recommendation Systems (PhD)</a></div></td>
-  <td>2026-11-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=roblox"><img src="https://cdn.brandfetch.io/roblox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Roblox" height="20" style="vertical-align:middle; margin-right:6px;"> Roblox</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.roblox.com/jobs/8384186?gh_jid=8384186">[2027] Data Scientist - PhD Early Career - Safety</a></div></td>
-  <td>2026-11-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/tri/?commitment=Intern"><img src="https://cdn.brandfetch.io/tri.global/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Toyota Research Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Toyota Research Insitute</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/tri/2d65fd58-00bb-49bc-b4db-e381df1ebd1e">⭐️ Research Intern, Spatial Intelligence for Robotics</a></div></td>
-  <td>2026-11-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/tri/?commitment=Intern"><img src="https://cdn.brandfetch.io/tri.global/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Toyota Research Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Toyota Research Insitute</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/tri/3a7510ff-7cef-4d6e-8c32-0b6e6b8a2476">⭐️ Automated Driving Advanced Development Intern, Machine Learning Research (Cambridge)</a></div></td>
-  <td>2026-11-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/tri/?commitment=Intern"><img src="https://cdn.brandfetch.io/tri.global/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Toyota Research Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Toyota Research Insitute</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/tri/c6569529-4b6b-4229-b2c9-f97467c26cd3">⭐️ Robotics Intern, World Models, Multimodal Sensing</a></div></td>
-  <td>2026-11-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://api.smartrecruiters.com/v1/companies/Intuitive/postings?country=us&custom_field.61211d107c9ac71cd5f99177=fcd8045c-1621-41d9-8992-5dc498d4875e&custom_field.612118931fa63c295566925f=EMP2"><img src="https://cdn.brandfetch.io/intuitivesurgical.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Intuitive Surgical" height="20" style="vertical-align:middle; margin-right:6px;"> Intuitive Surgical</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.smartrecruiters.com/Intuitive/744000161861679">⭐️ Clinical Research Engineering Intern</a></div></td>
-  <td>2026-11-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://api.smartrecruiters.com/v1/companies/Intuitive/postings?country=us&custom_field.61211d107c9ac71cd5f99177=fcd8045c-1621-41d9-8992-5dc498d4875e&custom_field.612118931fa63c295566925f=EMP2"><img src="https://cdn.brandfetch.io/intuitivesurgical.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Intuitive Surgical" height="20" style="vertical-align:middle; margin-right:6px;"> Intuitive Surgical</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.smartrecruiters.com/Intuitive/744000161896235">⭐️ Mechanical Engineering Intern</a></div></td>
-  <td>2026-11-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://usa.honda-ri.com/intern-positions"><img src="https://cdn.brandfetch.io/honda-ri.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Honda Research Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Honda Research Insitute</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://usa.honda-ri.com/-/research-intern-perception-and-navigation?redirect=%2Fintern-positions">⭐️ Research Intern: Perception and Navigation</a></div></td>
-  <td>2026-11-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://usa.honda-ri.com/intern-positions"><img src="https://cdn.brandfetch.io/honda-ri.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Honda Research Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Honda Research Insitute</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://usa.honda-ri.com/-/research-intern-real-world-end-to-end-autonomous-driving?redirect=%2Fintern-positions">⭐️ Research Intern: Real-World End-to-End Autonomous ...</a></div></td>
-  <td>2026-11-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.greyorange.com/company/careers/#th-job-section"><img src="https://cdn.brandfetch.io/greyorange.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="GreyOrange" height="20" style="vertical-align:middle; margin-right:6px;"> GreyOrange</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.greyorange.com/greyorange/jobview/software-development-engineer-in-test-i-gurugram-hq-2026090419271460">Software Development Engineer in Test I</a></div></td>
-  <td>2026-11-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM?Location_Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=81219c91208501029134b6999c1b05d6"><img src="https://cdn.brandfetch.io/gm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="General Motors" height="20" style="vertical-align:middle; margin-right:6px;"> General Motors</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Lockport-New-York-United-States-of-America/XMLNAME-2027-Manufacturing-Intern---University-of-Buffalo_JR-202623880-1">⭐️ 2027 Manufacturing Intern - University of Buffalo</a></div></td>
-  <td>2026-11-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM?Location_Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=81219c91208501029134b6999c1b05d6"><img src="https://cdn.brandfetch.io/gm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="General Motors" height="20" style="vertical-align:middle; margin-right:6px;"> General Motors</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Detroit-Michigan-United-States-of-America/XMLNAME-2027-Summer-Finance-Treasury-MBA-Intern_JR-202621977">⭐️ 2027 Summer Finance Treasury MBA Intern</a></div></td>
-  <td>2026-11-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/agilityrobotics"><img src="https://cdn.brandfetch.io/agilityrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Agility Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Agility Robotics</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.agilityrobotics.com/about/job-post?gh_jid=6260690004">Facilities Maintenance Technician</a></div></td>
-  <td>2026-11-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/agilityrobotics"><img src="https://cdn.brandfetch.io/agilityrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Agility Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Agility Robotics</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.agilityrobotics.com/about/job-post?gh_jid=6261282004">Facilities Maintenance Technician</a></div></td>
-  <td>2026-11-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/agilityrobotics"><img src="https://cdn.brandfetch.io/agilityrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Agility Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Agility Robotics</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.agilityrobotics.com/about/job-post?gh_jid=6261294004">Senior Manager, Global Supply Management</a></div></td>
-  <td>2026-11-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=pathrobotics"><img src="https://cdn.brandfetch.io/path-robotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Path Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Path Robotics</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://boards.greenhouse.io/pathrobotics/jobs/8944480002?gh_jid=8944480002">Robotics Software Engineer, Systems Integration</a></div></td>
-  <td>2026-11-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/motional"><img src="https://cdn.brandfetch.io/motional.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Motional" height="20" style="vertical-align:middle; margin-right:6px;"> Motional</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://motional.com/open-positions/?gh_jid=8204928003#/8204928003">Staff Software Engineer - Data & ML Systems (Behaviors)</a></div></td>
-  <td>2026-11-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=apptronik"><img src="https://cdn.brandfetch.io/apptronik.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Apptronik" height="20" style="vertical-align:middle; margin-right:6px;"> Apptronik</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://boards.greenhouse.io/apptronik/jobs/6262469004?gh_jid=6262469004">Staff Technical Program Manager, Robot Software</a></div></td>
-  <td>2026-11-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/avride/jobs/4414491009">Robot Service Technician Assistant – Part Time Weekday</a></div></td>
-  <td>2026-11-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/avride/jobs/4508527009">Robot Service Technician Assistant (Part Time evenings, Monday-Sunday)</a></div></td>
-  <td>2026-11-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/avride/jobs/4508521009">Robot Service Technician Assistant (Part Time Weekend PM)</a></div></td>
-  <td>2026-11-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/avride/jobs/4508542009">Robot Service Technician Assistant (Part Time Weekends AM shift)</a></div></td>
-  <td>2026-11-16</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/avride/jobs/4398881009">Fleet Maintenance & Detailing Associate - Contract</a></div></td>
   <td>2026-11-16</td>
 </tr>
 
