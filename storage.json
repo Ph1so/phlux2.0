@@ -1356,6 +1356,13 @@
         "id": "eightfold:1970393557076095",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557076095",
         "location": "United States, Washington, Redmond"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Intern - AI Safety, Alignment, and Post-Training",
+        "date": "2026-11-19",
+        "id": "eightfold:1970393557076142",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557076142",
+        "location": "United States, Washington, Redmond +1"
       }
     ],
     "Amazon": [
@@ -7965,7 +7972,8 @@
         "id": "greenhouse:8040731003",
         "url": "https://www.zipline.com/open-roles/8040731003?gh_jid=8040731003",
         "location": "South San Francisco, California, USA",
-        "early": "This individual-contributor role welcomes new graduates and early-career engineers."
+        "early": "This individual-contributor role welcomes new graduates and early-career engineers.",
+        "closed": "2026-11-19"
       }
     ],
     "Boston Dynamics": [
@@ -8581,7 +8589,8 @@
         "date": "N/A",
         "id": "greenhouse:4090717009",
         "url": "https://job-boards.greenhouse.io/kodiak/jobs/4090717009",
-        "location": "Mountain View, CA"
+        "location": "Mountain View, CA",
+        "closed": "2026-11-19"
       },
       {
         "title": "IT Systems Engineer (Networking)",
@@ -8967,8 +8976,7 @@
         "date": "2026-10-13",
         "id": "eightfold:446720740636",
         "url": "https://careers.qualcomm.com/careers/job/446720740636",
-        "location": "San Diego, CA",
-        "closed": "2026-11-19"
+        "location": "San Diego, CA"
       },
       {
         "title": "\u2b50\ufe0f Modular Engineering Internship \u2013 Summer 2027",
@@ -10881,6 +10889,13 @@
         "id": "ashby:faf08b9f-05ae-40db-8d29-22a3e6fe7e07",
         "url": "https://jobs.ashbyhq.com/gecko-robotics/faf08b9f-05ae-40db-8d29-22a3e6fe7e07",
         "location": "Abu Dhabi"
+      },
+      {
+        "title": "Content Marketing Manager",
+        "date": "2026-11-19",
+        "id": "ashby:23ac74ba-9181-40e6-9b8d-bf0a86287554",
+        "url": "https://jobs.ashbyhq.com/gecko-robotics/23ac74ba-9181-40e6-9b8d-bf0a86287554",
+        "location": "New York City +1"
       }
     ],
     "Intuitive Surgical": [
@@ -17725,6 +17740,13 @@
         "id": "greenhouse:6266502004",
         "url": "https://boards.greenhouse.io/apptronik/jobs/6266502004?gh_jid=6266502004",
         "location": "Austin, TX"
+      },
+      {
+        "title": "Engineering Manager - Dexterous Manipulation",
+        "date": "2026-11-19",
+        "id": "greenhouse:6266166004",
+        "url": "https://boards.greenhouse.io/apptronik/jobs/6266166004?gh_jid=6266166004",
+        "location": "Sunnyvale, CA"
       }
     ],
     "Titan Robotics": [
@@ -28521,7 +28543,8 @@
         "date": "2026-10-12",
         "id": "smartrecruiters:744000155100809",
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155100809",
-        "location": "Lincolnshire, IL"
+        "location": "Lincolnshire, IL",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Purchasing (PUE) Intern - Summer 2027",
@@ -33834,7 +33857,8 @@
         "date": "N/A",
         "id": "greenhouse:8856442002",
         "url": "https://app.careerpuck.com/job-board/lyft/job/8856442002?gh_jid=8856442002",
-        "location": "Toronto, Canada"
+        "location": "Toronto, Canada",
+        "closed": "2026-11-19"
       },
       {
         "title": "Data Scientist, Optimization - Real-Time Supply Management",
@@ -34789,7 +34813,8 @@
         "date": "2026-10-14",
         "id": "greenhouse:8888403002",
         "url": "https://app.careerpuck.com/job-board/lyft/job/8888403002?gh_jid=8888403002",
-        "location": "Toronto, Canada"
+        "location": "Toronto, Canada",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Content Design Intern (Summer 2027)",
@@ -40675,6 +40700,13 @@
         "date": "2026-11-19",
         "id": "ashby:09254aaa-f436-44bd-8e7a-52cea624698c",
         "url": "https://jobs.ashbyhq.com/applied/09254aaa-f436-44bd-8e7a-52cea624698c",
+        "location": "Sunnyvale"
+      },
+      {
+        "title": "People Experience Project Manager",
+        "date": "2026-11-19",
+        "id": "ashby:957f00e5-a0d6-4f68-a977-324129bebe1a",
+        "url": "https://jobs.ashbyhq.com/applied/957f00e5-a0d6-4f68-a977-324129bebe1a",
         "location": "Sunnyvale"
       }
     ],
@@ -51190,6 +51222,13 @@
         "id": "ashby:fe030d47-6f98-498d-9b80-10d909ff1cb4",
         "url": "https://jobs.ashbyhq.com/saronic/fe030d47-6f98-498d-9b80-10d909ff1cb4",
         "location": "Franklin, LA"
+      },
+      {
+        "title": "Insider Threat Investigations Analyst",
+        "date": "2026-11-19",
+        "id": "ashby:4bbe46ec-e990-49e0-a774-6be667bcba63",
+        "url": "https://jobs.ashbyhq.com/saronic/4bbe46ec-e990-49e0-a774-6be667bcba63",
+        "location": "Austin, TX +1"
       }
     ],
     "Built Robotics": [
@@ -51488,7 +51527,8 @@
         "date": "2026-10-14",
         "id": "ashby:2d5a10d4-0644-41fa-91ed-4abde2e13bf9",
         "url": "https://jobs.ashbyhq.com/reliable-robotics/2d5a10d4-0644-41fa-91ed-4abde2e13bf9",
-        "location": "Mountain View, CA"
+        "location": "Mountain View, CA",
+        "closed": "2026-11-19"
       },
       {
         "title": "DevOps Engineer, Flight Software",
@@ -54164,7 +54204,8 @@
         "date": "2026-10-14",
         "id": "rippling:490c7f15-c704-4500-9038-754deed98c7e",
         "url": "https://ats.rippling.com/mytra/jobs/490c7f15-c704-4500-9038-754deed98c7e",
-        "location": "Brisbane, CA"
+        "location": "Brisbane, CA",
+        "closed": "2026-11-19"
       },
       {
         "title": "Senior Supplier Industrialization Engineer, Mechanical",
@@ -58688,6 +58729,13 @@
         "id": "workday:R8470-1",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Manager--Accounting--Confidential-_R8470-1",
         "location": "USA Wilmington, MA - HQ"
+      },
+      {
+        "title": "Staff Mechanical Engineer - Mobile Bot",
+        "date": "2026-11-19",
+        "id": "workday:R8316",
+        "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Milpitas-CA/Staff-Mechanical-Engineer---Mobile-Bot_R8316",
+        "location": "USA Milpitas, CA"
       }
     ],
     "PROCEPT BioRobotics": [
@@ -66181,6 +66229,27 @@
         "id": "successfactors:1452339300",
         "url": "https://jobs.teradyne.com/Universal-Robots/job/North-Reading-SBM-Lead-%28Supply-Base-Management-Lead%29-%28Teradyne-Robotics%2C-N_-Reading-MA-US-Remote%29-MA/1452339300/",
         "location": "North Reading, MA +5"
+      },
+      {
+        "title": "Assembly and Test Operator (Teradyne, San Jose, CA)",
+        "date": "2026-11-19",
+        "id": "successfactors:1452391300",
+        "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Assembly-and-Test-Operator-%28Teradyne%2C-San-Jose%2C-CA%29-CA-95101/1452391300/",
+        "location": "San Jose, CA"
+      },
+      {
+        "title": "Systems Engineering Manager (Compute Test, North Reading)",
+        "date": "2026-11-19",
+        "id": "successfactors:1452399800",
+        "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Systems-Engineering-Manager-%28Compute-Test%2C-North-Reading%29-MA/1452399800/",
+        "location": "North Reading, MA"
+      },
+      {
+        "title": "Staff Systems Engineer - Platform (Compute Test, North Reading)",
+        "date": "2026-11-19",
+        "id": "successfactors:1452400800",
+        "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Staff-Systems-Engineer-Platform-%28Compute-Test%2C-North-Reading%29-MA/1452400800/",
+        "location": "North Reading, MA"
       }
     ],
     "KUKA": [
@@ -67020,7 +67089,8 @@
         "date": "N/A",
         "id": "adp:571804",
         "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=571804&lang=en_US",
-        "location": "Houston, TX"
+        "location": "Houston, TX",
+        "closed": "2026-11-19"
       },
       {
         "title": "Applications Engineer - Space Networking Grou",
@@ -67207,7 +67277,8 @@
         "date": "N/A",
         "id": "adp:565474",
         "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=565474&lang=en_US",
-        "location": "Houston, TX"
+        "location": "Houston, TX",
+        "closed": "2026-11-19"
       },
       {
         "title": "Mechanical Technician \u2013 Facilities",
@@ -74562,8 +74633,7 @@
         "date": "2026-11-17",
         "id": "workday:R10261149",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Global-Trade-Intern---Linthicum-MD_R10261149",
-        "location": "United States-Maryland-Linthicum",
-        "closed": "2026-11-19"
+        "location": "United States-Maryland-Linthicum"
       },
       {
         "title": "\u2b50\ufe0f 2027 Thermal / Propulsion Engineer Intern - Redondo Beach CA",
@@ -74613,6 +74683,20 @@
         "id": "workday:R10261547",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Electrical-Engineering-Intern--Huntsville-AL_R10261547",
         "location": "United States-Alabama-Huntsville"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Financial Planning & Analysis Intern - Falls Church VA",
+        "date": "2026-11-19",
+        "id": "workday:R10261586",
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Falls-Church/XMLNAME-2027-Financial-Planning---Analysis-Intern---Falls-Church-VA_R10261586",
+        "location": "United States-Virginia-Falls Church"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 AI/ML Engineering Intern - Morrisville NC",
+        "date": "2026-11-19",
+        "id": "workday:R10261585-1",
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-AI-ML-Engineering-Intern---Morrisville-NC_R10261585-1",
+        "location": "United States-North Carolina-Morrisville"
       }
     ],
     "OpenAI": [
@@ -82307,6 +82391,27 @@
         "id": "ashby:4e9a1479-320a-465c-887d-ebbd9249db8a",
         "url": "https://jobs.ashbyhq.com/openai/4e9a1479-320a-465c-887d-ebbd9249db8a",
         "location": "US - Remote"
+      },
+      {
+        "title": "Certification Assessment Specialist",
+        "date": "2026-11-19",
+        "id": "ashby:2d286e1b-1d57-4ef9-a121-4e781c5b3896",
+        "url": "https://jobs.ashbyhq.com/openai/2d286e1b-1d57-4ef9-a121-4e781c5b3896",
+        "location": "San Francisco"
+      },
+      {
+        "title": "Technical Certification Lead",
+        "date": "2026-11-19",
+        "id": "ashby:3ee8aeab-aef0-44f7-918f-a0d6ca2fa928",
+        "url": "https://jobs.ashbyhq.com/openai/3ee8aeab-aef0-44f7-918f-a0d6ca2fa928",
+        "location": "San Francisco"
+      },
+      {
+        "title": "Certification Operations and Policy Program Manager",
+        "date": "2026-11-19",
+        "id": "ashby:4311ea62-f628-4689-bec5-de886bb1f191",
+        "url": "https://jobs.ashbyhq.com/openai/4311ea62-f628-4689-bec5-de886bb1f191",
+        "location": "San Francisco"
       }
     ],
     "John Deere": [
@@ -85939,6 +86044,27 @@
         "id": "eightfold:996476807193",
         "url": "https://lockheedmartin.eightfold.ai/careers/job/996476807193",
         "location": "Kennedy Space Center, FL"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineering Intern (Signal Processing)",
+        "date": "2026-11-19",
+        "id": "eightfold:996477891205",
+        "url": "https://lockheedmartin.eightfold.ai/careers/job/996477891205",
+        "location": "Manassas, VA"
+      },
+      {
+        "title": "\u2b50\ufe0f Radar Systems Engineer Intern",
+        "date": "2026-11-19",
+        "id": "eightfold:996477866666",
+        "url": "https://lockheedmartin.eightfold.ai/careers/job/996477866666",
+        "location": "Liverpool, NY"
+      },
+      {
+        "title": "\u2b50\ufe0f Test Engineer Intern",
+        "date": "2026-11-19",
+        "id": "eightfold:996477892880",
+        "url": "https://lockheedmartin.eightfold.ai/careers/job/996477892880",
+        "location": "Littleton, CO"
       }
     ],
     "Vecna Robotics": [
@@ -86350,7 +86476,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:4294210009",
         "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4294210009",
-        "location": "Cambridge, MA USA"
+        "location": "Cambridge, MA USA",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Co-Op, Agentic Simulations for Materials Science",
@@ -88368,7 +88495,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5441936008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5441936008",
-        "location": "San Francisco, CA | Seattle, WA"
+        "location": "San Francisco, CA | Seattle, WA",
+        "closed": "2026-11-19"
       },
       {
         "title": "Director, Infrastructure Lease Accounting",
@@ -91697,7 +91825,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5436615008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5436615008",
-        "location": "Remote-Friendly, United States"
+        "location": "Remote-Friendly, United States",
+        "closed": "2026-11-19"
       },
       {
         "title": "Strategic Account Executive, Asset & Wealth Management",
@@ -98584,7 +98713,8 @@
         "date": "2026-11-02",
         "id": "workday:R51129",
         "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Madison-Wisconsin-United-States/FEA-Engineer-Intern_R51129",
-        "location": "2 Locations"
+        "location": "2 Locations",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Engineer Intern - Mechanical (Year Round)",
@@ -99788,7 +99918,8 @@
         "date": "N/A",
         "id": "workday:JR0287651",
         "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Colorado-Fort-Collins/Design-Verification-Graduate-Intern-2027_JR0287651",
-        "location": "2 Locations"
+        "location": "2 Locations",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f AI-Driven Physical Design Engineering (PhD Intern)",
@@ -113730,7 +113861,8 @@
         "date": "2026-11-17",
         "id": "workday:R26-8346-1",
         "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mequon-Wisconsin-United-States/PMB-Hardware-Engineering-Intern_R26-8346-1",
-        "location": "2 Locations"
+        "location": "2 Locations",
+        "closed": "2026-11-19"
       }
     ],
     "Siemens": [
@@ -118028,6 +118160,13 @@
         "id": "workday:JR-119927",
         "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/NA--Hollywood-N-Orange-Dr-375/Intern--Film---TV-Sync_JR-119927",
         "location": "NA / Hollywood N Orange Dr 37.5"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern, Creative A&R",
+        "date": "2026-11-19",
+        "id": "workday:JR-119935-1",
+        "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/NA--Hollywood-N-Orange-Dr-375/Intern--Creative-A-R_JR-119935-1",
+        "location": "NA / Hollywood N Orange Dr 37.5"
       }
     ],
     "Comcast": [
@@ -119752,8 +119891,7 @@
         "date": "N/A",
         "id": "workday:REQ381393",
         "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2027-Site-Reliability-Engineering-Internship_REQ381393",
-        "location": "2 Locations",
-        "closed": "2026-11-17"
+        "location": "2 Locations"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 T-Ads Software Engineering Internship",
@@ -119792,16 +119930,14 @@
         "date": "N/A",
         "id": "workday:REQ380917",
         "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380917",
-        "location": "Bellevue, Washington",
-        "closed": "2026-11-13"
+        "location": "Bellevue, Washington"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Software Engineering Internship",
         "date": "N/A",
         "id": "workday:REQ380768",
         "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380768",
-        "location": "Bellevue, Washington",
-        "closed": "2026-11-13"
+        "location": "Bellevue, Washington"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Data Engineering Internship",
@@ -119816,32 +119952,28 @@
         "date": "N/A",
         "id": "workday:REQ380757",
         "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380757",
-        "location": "Bellevue, Washington",
-        "closed": "2026-11-13"
+        "location": "Bellevue, Washington"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Software Engineering Internship",
         "date": "N/A",
         "id": "workday:REQ380739",
         "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380739",
-        "location": "Overland Park, Kansas",
-        "closed": "2026-11-13"
+        "location": "Overland Park, Kansas"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Software Engineering Internship",
         "date": "N/A",
         "id": "workday:REQ380734",
         "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380734",
-        "location": "Overland Park, Kansas",
-        "closed": "2026-11-13"
+        "location": "Overland Park, Kansas"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Software Engineering Internship",
         "date": "N/A",
         "id": "workday:REQ380650",
         "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380650",
-        "location": "Atlanta, Georgia",
-        "closed": "2026-11-13"
+        "location": "Atlanta, Georgia"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Digital Marketing Internship",
@@ -119915,6 +120047,20 @@
         "id": "workday:REQ381316",
         "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Corporate-Development-Internship_REQ381316",
         "location": "Bellevue, Washington"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Software Engineering AI Internship",
+        "date": "2026-11-19",
+        "id": "workday:REQ382067",
+        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-AI-Internship_REQ382067",
+        "location": "Atlanta, Georgia"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 AI Engineering Internship - Site Reliability & Automation",
+        "date": "2026-11-19",
+        "id": "workday:REQ383239",
+        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-AI-Engineering-Internship---Site-Reliability---Automation_REQ383239",
+        "location": "Atlanta, Georgia"
       }
     ],
     "Akuna Capital": [
@@ -124541,10 +124687,6 @@
       "since": "2026-11-02",
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://jobs.gusto.com/boards/anyware-robotics-e7cbbd33-db1c-470e-93b3-020992d24e20"
     },
-    "Navier": {
-      "since": "2026-11-11",
-      "error": "HTTPError: 404 Client Error: Not Found for url: https://boards-api.greenhouse.io/v1/boards/navierboat/jobs?content=true"
-    },
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
@@ -124569,22 +124711,6 @@
       "since": "2026-11-19",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://leidos.wd5.myworkdayjobs.com/wday/cxs/leidos/External/jobs"
     },
-    "Razer": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
-    },
-    "Target": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
-    },
-    "T-Mobile": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://tmobile.wd1.myworkdayjobs.com/wday/cxs/tmobile/External/jobs"
-    },
-    "Samsung": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
-    },
     "General Motors": {
       "since": "2026-11-19",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
@@ -124601,29 +124727,29 @@
       "since": "2026-11-19",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
     },
-    "Oshkosh": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs"
-    },
-    "Intel": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
-    },
-    "Blue Origin": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/BlueOrigin/jobs"
-    },
-    "Johnson & Johnson": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs"
-    },
-    "Northrop Grumman": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ngc.wd1.myworkdayjobs.com/wday/cxs/ngc/Northrop_Grumman_External_Site/jobs"
-    },
     "Draper": {
       "since": "2026-11-19",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://draper.wd5.myworkdayjobs.com/wday/cxs/draper/Draper_Careers/jobs"
+    },
+    "Workday": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday_Early_Career/jobs"
+    },
+    "RedHat": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://redhat.wd5.myworkdayjobs.com/wday/cxs/redhat/jobs/jobs"
+    },
+    "Onward Robotics": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://portal-applicant-tracking.us-cent.paycomonline.net/api/ats/job-posting-previews/search"
+    },
+    "Mosaic": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://mosaic.wd5.myworkdayjobs.com/wday/cxs/mosaic/mosaic/jobs"
+    },
+    "Zillow": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://zillow.wd5.myworkdayjobs.com/wday/cxs/zillow/Zillow_Group_External/jobs"
     }
   },
   "closures_untracked": {
