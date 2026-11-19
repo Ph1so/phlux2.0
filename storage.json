@@ -42737,7 +42737,8 @@
         "date": "2026-10-06",
         "id": "ashby:16082aba-861a-4101-84f3-4738dac15d8c",
         "url": "https://jobs.ashbyhq.com/humanoid/16082aba-861a-4101-84f3-4738dac15d8c",
-        "location": "UK, London"
+        "location": "UK, London",
+        "closed": "2026-11-19"
       },
       {
         "title": "Talent Business Partner",
@@ -43029,6 +43030,13 @@
         "id": "ashby:74295ad7-7207-4022-8579-6980c79b7f72",
         "url": "https://jobs.ashbyhq.com/humanoid/74295ad7-7207-4022-8579-6980c79b7f72",
         "location": "UK, London"
+      },
+      {
+        "title": "Senior Talent Acquisition Partner - Robotics & ML",
+        "date": "2026-11-19",
+        "id": "ashby:d0ba93a2-2286-4466-bc55-5c3ac11951d2",
+        "url": "https://jobs.ashbyhq.com/humanoid/d0ba93a2-2286-4466-bc55-5c3ac11951d2",
+        "location": "US (Remote)"
       }
     ],
     "Niantic Spatial": [
@@ -44850,6 +44858,13 @@
         "id": "google:136510199329366726",
         "url": "https://www.google.com/about/careers/applications/jobs/results/136510199329366726",
         "location": "New York, NY +1"
+      },
+      {
+        "title": "Technical Program Manager, GenAI Serving Efficiency, DeepMind",
+        "date": "2026-11-19",
+        "id": "google:97220800578233030",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/97220800578233030",
+        "location": "Mountain View, CA +1"
       }
     ],
     "Wing": [
@@ -65880,7 +65895,8 @@
         "date": "2026-10-14",
         "id": "successfactors:1367940955",
         "url": "https://jobs.kuka.com/job/Denver-Software-Engineer-Sustaining-Engineering-NY-12421/1367940955/",
-        "location": "Denver"
+        "location": "Denver",
+        "closed": "2026-11-19"
       },
       {
         "title": "Buyer",
@@ -65999,7 +66015,8 @@
         "date": "2026-10-14",
         "id": "successfactors:1354731155",
         "url": "https://jobs.kuka.com/job/Denver-Software-Engineer-Full-Stack-UI-NY-12421/1354731155/",
-        "location": "Denver"
+        "location": "Denver",
+        "closed": "2026-11-19"
       },
       {
         "title": "Engineering Team Leader",
@@ -68854,8 +68871,7 @@
         "date": "N/A",
         "id": "adp:5001232010706",
         "url": "https://myjobs.adp.com/fanuc/cx/job-details?reqId=5001232010706",
-        "location": "Rochester Hills, MI",
-        "closed": "2026-11-17"
+        "location": "Rochester Hills, MI"
       },
       {
         "title": "Technical Sales Engineer - General Industry",
@@ -74217,6 +74233,13 @@
         "id": "workday:R10261466",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Falls-Church/XMLNAME-2027-Governance---Strategy-Intern---Falls-Church-VA_R10261466",
         "location": "United States-Virginia-Falls Church"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Project management Intern - Linthicum MD",
+        "date": "2026-11-19",
+        "id": "workday:R10261472",
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Project-management-Intern---Linthicum-MD_R10261472",
+        "location": "United States-Maryland-Linthicum"
       }
     ],
     "OpenAI": [
@@ -83879,6 +83902,13 @@
         "date": "2026-11-19",
         "id": "lever:155cba8a-1894-4402-9e8f-ed52a8df00cf",
         "url": "https://jobs.eu.lever.co/mobileye/155cba8a-1894-4402-9e8f-ed52a8df00cf",
+        "location": "Jerusalem, Israel"
+      },
+      {
+        "title": "Algorithm Data Analyst - Objects Modeling",
+        "date": "2026-11-19",
+        "id": "lever:a9dc5853-1894-40c8-ae40-0297a99f352e",
+        "url": "https://jobs.eu.lever.co/mobileye/a9dc5853-1894-40c8-ae40-0297a99f352e",
         "location": "Jerusalem, Israel"
       }
     ],
@@ -110673,7 +110703,8 @@
         "date": "N/A",
         "id": "jibe:11654",
         "url": "https://careers.sig.com/jobs/11654",
-        "location": "Bala Cynwyd (Philadelphia Area), PA"
+        "location": "Bala Cynwyd (Philadelphia Area), PA",
+        "closed": "2026-11-19"
       },
       {
         "title": "Compliance Analyst - Core Compliance",
@@ -112380,6 +112411,13 @@
         "id": "jibe:13103",
         "url": "https://careers.sig.com/jobs/13103",
         "location": "Bala Cynwyd (Philadelphia Area), PA"
+      },
+      {
+        "title": "Discovery Programme : Macro Analyst (On-Site)",
+        "date": "2026-11-19",
+        "id": "jibe:13862",
+        "url": "https://careers.sig.com/jobs/13862",
+        "location": "Dublin, Ireland"
       }
     ],
     "Adobe": [
@@ -115716,7 +115754,8 @@
         "date": "N/A",
         "id": "talentbrew:103123353840",
         "url": "https://www.disneycareers.com/en/job/bristol/network-engineering-intern-summer-2027/391/103123353840",
-        "location": "Bristol, CT"
+        "location": "Bristol, CT",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Broadcast Architecture Intern, Summer 2027",
@@ -123538,7 +123577,7 @@
     "SpaceX": "2026-11-19",
     "Neuralink": "2026-11-19",
     "Zipline": "2026-11-19",
-    "Boston Dynamics": "2026-11-18",
+    "Boston Dynamics": "2026-11-19",
     "Scale AI": "2026-11-19",
     "Relativity": "2026-11-19",
     "Palantir": "2026-11-19",
@@ -123661,7 +123700,7 @@
     "xAI": "2026-11-19",
     "Thinking Machines Lab": "2026-11-19",
     "Bot Auto": "2026-11-19",
-    "Slate Auto": "2026-11-18",
+    "Slate Auto": "2026-11-19",
     "Ford": "2026-11-19",
     "Mundane": "2026-11-19",
     "Uber": "2026-11-19",
@@ -123769,7 +123808,7 @@
     "Stoke Space": "2026-11-19",
     "RocketLab": "2026-11-19",
     "Northwood Space": "2026-11-19",
-    "Zillow": "2026-11-18",
+    "Zillow": "2026-11-19",
     "Mitre": "2026-11-19",
     "Draper": "2026-11-19",
     "Lyft": "2026-11-19",
@@ -123808,7 +123847,7 @@
     "Lightwheel": "2026-11-19",
     "Tutor Intelligence": "2026-11-19",
     "AMD": "2026-11-19",
-    "Unity": "2026-11-18",
+    "Unity": "2026-11-19",
     "Konrad": "2026-11-19"
   },
   "failing": {
@@ -123836,10 +123875,6 @@
       "since": "2026-11-18",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
     },
-    "Unity": {
-      "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
-    },
     "Target": {
       "since": "2026-11-18",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
@@ -123848,17 +123883,9 @@
       "since": "2026-11-18",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
     },
-    "Boston Dynamics": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://bostondynamics.wd1.myworkdayjobs.com/wday/cxs/bostondynamics/Boston_Dynamics/jobs"
-    },
     "T-Mobile": {
       "since": "2026-11-19",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://tmobile.wd1.myworkdayjobs.com/wday/cxs/tmobile/External/jobs"
-    },
-    "Zillow": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://zillow.wd5.myworkdayjobs.com/wday/cxs/zillow/Zillow_Group_External/jobs"
     },
     "General Motors": {
       "since": "2026-11-19",
@@ -123872,45 +123899,29 @@
       "since": "2026-11-19",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs"
     },
-    "Slate Auto": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
-    },
     "Autodesk": {
       "since": "2026-11-19",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/uni/jobs"
     },
-    "Expedia": {
+    "Blue Origin": {
       "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://expedia.wd108.myworkdayjobs.com/wday/cxs/expedia/search/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/BlueOrigin/jobs"
     },
-    "RedHat": {
+    "Workday": {
       "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://redhat.wd5.myworkdayjobs.com/wday/cxs/redhat/jobs/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday_Early_Career/jobs"
     },
-    "Visa": {
+    "Slack": {
       "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/Slack/jobs"
     },
-    "Leidos": {
+    "Razer": {
       "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://leidos.wd5.myworkdayjobs.com/wday/cxs/leidos/External/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
     },
-    "Tesla": {
+    "Sony": {
       "since": "2026-11-19",
-      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
-    },
-    "Medtronic": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://medtronic.wd1.myworkdayjobs.com/wday/cxs/medtronic/MedtronicCareers/jobs"
-    },
-    "PROCEPT BioRobotics": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://proceptbiorobotics.wd108.myworkdayjobs.com/wday/cxs/proceptbiorobotics/PROCEPT/jobs"
-    },
-    "Oshkosh": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sonyglobal.wd1.myworkdayjobs.com/wday/cxs/sonyglobal/SonyGlobalCareers/jobs"
     }
   },
   "closures_untracked": {
