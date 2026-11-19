@@ -1,9 +1,12 @@
 """Citadel careers, read from the site's job sitemap.
 
 Every page on citadel.com, the job search included, answers scripted requests
-with a Cloudflare challenge; the WordPress sitemaps do not. Its
-``/career-sitemap.xml`` lists every open job as ``/careers/details/<slug>/``,
-and each slug ends in the job's region, e.g. ``software-engineer-intern-us``.
+with a Cloudflare challenge; the sitemaps do not. The sitemap index at
+``/sitemap.xml`` (the one robots.txt names) points to a career sitemap, which
+lists every open job as ``/careers/details/<slug>/``, and each slug ends in the
+job's region, e.g. ``software-engineer-intern-us``. The career sitemap has
+moved before (``/career-sitemap.xml`` until Nov 2026, then
+``/sitemap/career.xml``), so it is looked up in the index each run.
 
 So the row's Link stays the job search a person would open, and its filters
 are applied to the slugs: ``experience-filter=internships`` keeps slugs with
@@ -23,7 +26,9 @@ from ..models import Posting
 from .base import adapter, first, get, query
 
 NAME = "citadel"
-SITEMAP = "https://{host}/career-sitemap.xml"
+SITEMAP_INDEX = "https://{host}/sitemap.xml"
+# A child of the sitemap index whose file name mentions careers, e.g. /sitemap/career.xml.
+CAREER_SITEMAP = re.compile(r"<loc>\s*(https?://[^<]*/[^/<]*career[^/<]*\.xml)\s*</loc>", re.I)
 JOB_URL = re.compile(r"<loc>\s*(https?://[^<]+/careers/details/([^/<]+)/?)\s*</loc>")
 
 # The region a slug ends in, by the search page's location filter values.
@@ -40,6 +45,15 @@ EXPERIENCE = {"internships": "intern", "new-graduates": "graduate", "graduates":
 # Slug words that are acronyms rather than capitalized words.
 SPELLING = {w: w.upper() for w in ("us", "bs", "ms", "mba", "ml", "ai", "emea", "apac", "it", "hr")}
 SPELLING["phd"] = "PhD"
+
+
+def career_sitemaps(host: str) -> List[str]:
+    """Return the career sitemaps the site's sitemap index lists (career stories left out)."""
+    index = get(SITEMAP_INDEX.format(host=host)).text
+    found = [u for u in CAREER_SITEMAP.findall(index) if "perspective" not in u.lower()]
+    if not found:
+        raise ValueError(f"No career sitemap in {SITEMAP_INDEX.format(host=host)}")
+    return found
 
 
 def slug_region(slug: str) -> Optional[str]:
@@ -75,7 +89,7 @@ def fetch(url: str, arg: str = "") -> List[Posting]:
     params = query(url)
     marker = EXPERIENCE.get(first(params, "experience-filter").lower())
     regions = wanted_regions(first(params, "location-filter"))
-    sitemap = get(SITEMAP.format(host=urlsplit(url).netloc)).text
+    sitemap = "\n".join(get(u).text for u in career_sitemaps(urlsplit(url).netloc))
 
     postings: List[Posting] = []
     seen: Set[str] = set()

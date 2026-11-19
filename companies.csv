@@ -21,7 +21,7 @@ Blue Origin,https://blueorigin.wd5.myworkdayjobs.com/BlueOrigin?q=undergraduate&
 Liberty Mutual,https://searchjobs.libertymutualgroup.com/careers?query=Internship&department=Technology&domain=libertymutual.com,@eightfold
 Optiver,https://job-boards.greenhouse.io/optiverus,@greenhouse->FILTER:intern|new grad|early career|entry|junior|university grad|college grad
 PayPal,https://paypal.eightfold.ai/careers?query=intern&location=United%20States&domain=paypal.com&sort_by=relevance,@eightfold->FILTER:intern
-Wayfair,https://www.wayfair.com/careers/jobs?countryIds=1&selectedJobTypeIds=8,CSS:.j3rpje110_714._1yimfeh6_714._1yimfehe_714._1yimfehk_714
+Wayfair,https://www.wayfair.com/careers/jobs?countryIds=1&selectedJobTypeIds=8,CSS:a[href*='/careers/job/'] h2
 Citadel,"https://www.citadel.com/careers/open-opportunities?experience-filter=internships&location-filter=americas,chicago,greenwich,houston,miami,new-york&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter->https://www.citadel.com/careers/open-opportunities?experience-filter=new-graduates&location-filter=americas,chicago,greenwich,houston,miami,new-york&selected-job-sections=388,389,387,390&current_page=1&sort_order=DESC&per_page=10&action=careers_listing_filter",@citadel
 Airbnb,https://job-boards.greenhouse.io/airbnb?departments%5B%5D=73700&offices%5B%5D=63868,@greenhouse
 Cisco,https://careers.cisco.com/global/en/search-results?keywords=intern&qcountry=United%20States%20of%20America,@phenom->FILTER:intern
@@ -194,7 +194,7 @@ Phantom AI,https://job-boards.greenhouse.io/phantomai/,@greenhouse
 Neros Technologies,https://job-boards.greenhouse.io/nerostechnologies/,@greenhouse
 Swarm Aero,https://jobs.ashbyhq.com/swarmaero,@ashby->FILTER:intern|new grad|early career|entry|junior|university grad|college grad
 Glydways,https://job-boards.greenhouse.io/glydways/,@greenhouse
-Navier,https://job-boards.greenhouse.io/navierboat/,@greenhouse
+Navier,https://www.navierboat.com/careers,CSS:a[href*='/job-post/']
 Blue River Technology,https://job-boards.greenhouse.io/embed/job_board?for=bluerivertech,@greenhouse
 Lodestar,https://job-boards.eu.greenhouse.io/lodestarspace/,@greenhouse
 Morsecorp,https://job-boards.greenhouse.io/embed/job_board?for=morsecorp,@greenhouse
