@@ -8600,7 +8600,8 @@
         "date": "2026-10-02",
         "id": "greenhouse:4430607009",
         "url": "https://job-boards.greenhouse.io/kodiak/jobs/4430607009",
-        "location": "Mountain View, CA"
+        "location": "Mountain View, CA",
+        "closed": "2026-11-18"
       },
       {
         "title": "Software Quality Triage Specialist",
@@ -44853,7 +44854,8 @@
         "date": "2026-10-13",
         "id": "greenhouse:8885631002",
         "url": "https://wing.com/careers/8885631002?gh_jid=8885631002",
-        "location": "Palo Alto, California"
+        "location": "Palo Alto, California",
+        "closed": "2026-11-18"
       },
       {
         "title": "\u2b50\ufe0f Logistics Systems Intern, Summer 2027",
@@ -63405,6 +63407,13 @@
         "id": "workday:JR00053196",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MS-Byhalia/Distribution-Warehouse-Supervisor---2nd-Shift_JR00053196",
         "location": "USA, MS, Byhalia"
+      },
+      {
+        "title": "Robotics Project Manager - Consumer Industries",
+        "date": "2026-11-18",
+        "id": "workday:JR00051917",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MI-Auburn-Hills/Robotics-Project-Manager---Consumer-Industries_JR00051917",
+        "location": "USA, MI, Auburn Hills"
       }
     ],
     "Teradyne": [
@@ -73488,7 +73497,8 @@
         "title": "\u2b50\ufe0f 2027 Structural / Electromechanical Engineer Intern - Redondo Beach CA",
         "date": "2026-10-22",
         "id": "workday:R10257211",
-        "closed": "N/A"
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Structural---Electromechanical-Engineer-Intern---Redondo-Beach-CA_R10261454",
+        "location": "United States-California-Redondo Beach"
       },
       {
         "title": "\u2b50\ufe0f 2027 Electrical Engineer Intern - Redondo Beach CA",
@@ -74066,6 +74076,13 @@
         "id": "workday:R10261436",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Edwards-AFB/XMLNAME-2027-Propulsion-Test-Engineer-Intern---Edwards-AFB-CA_R10261436",
         "location": "United States-California-Edwards AFB"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Thermal Engineer Intern - Azusa CA",
+        "date": "2026-11-18",
+        "id": "workday:R10261449",
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Thermal-Engineer-Intern---Azusa-CA_R10261449",
+        "location": "United States-California-Azusa"
       }
     ],
     "OpenAI": [
@@ -88965,7 +88982,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5452909008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452909008",
-        "location": "San Francisco, CA | New York City, NY"
+        "location": "San Francisco, CA | New York City, NY",
+        "closed": "2026-11-18"
       },
       {
         "title": "Partner Account Manager, Systems Integrators",
@@ -118509,6 +118527,10 @@
       {
         "title": "\u2b50\ufe0f Intern - Immersive Imagery SW/HW Lab Development Spring Intern",
         "date": "2026-11-18"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern - Propulsion Dynamics Graduate Intern",
+        "date": "2026-11-18"
       }
     ],
     "Mercedes Benz": [],
@@ -123253,6 +123275,12 @@
         "title:\u2b50\ufe0f Supply Chain Engineering Intern \u2013 Robotics (2026 Fall)"
       ],
       "backlog": true
+    },
+    "Comcast": {
+      "since": "2026-11-18T20:47-05:00",
+      "keys": [
+        "talentbrew:100700683792"
+      ]
     }
   },
   "checked": {
@@ -123564,117 +123592,9 @@
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
     },
-    "Nvidia": {
+    "Tesla": {
       "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
-    },
-    "Intel": {
-      "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
-    },
-    "Autodesk": {
-      "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/uni/jobs"
-    },
-    "Snap": {
-      "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
-    },
-    "Workday": {
-      "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday_Early_Career/jobs"
-    },
-    "Rockwell Automation": {
-      "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
-    },
-    "Unity": {
-      "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
-    },
-    "RedHat": {
-      "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://redhat.wd5.myworkdayjobs.com/wday/cxs/redhat/jobs/jobs"
-    },
-    "Boston Dynamics": {
-      "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://bostondynamics.wd1.myworkdayjobs.com/wday/cxs/bostondynamics/Boston_Dynamics/jobs"
-    },
-    "Visa": {
-      "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs"
-    },
-    "Leidos": {
-      "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://leidos.wd5.myworkdayjobs.com/wday/cxs/leidos/External/jobs"
-    },
-    "Sony": {
-      "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sonyglobal.wd1.myworkdayjobs.com/wday/cxs/sonyglobal/SonyGlobalCareers/jobs"
-    },
-    "Target": {
-      "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
-    },
-    "Mosaic": {
-      "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://mosaic.wd5.myworkdayjobs.com/wday/cxs/mosaic/mosaic/jobs"
-    },
-    "T-Mobile": {
-      "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://tmobile.wd1.myworkdayjobs.com/wday/cxs/tmobile/External/jobs"
-    },
-    "Samsung": {
-      "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
-    },
-    "Medtronic": {
-      "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://medtronic.wd1.myworkdayjobs.com/wday/cxs/medtronic/MedtronicCareers/jobs"
-    },
-    "General Motors": {
-      "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
-    },
-    "Zillow": {
-      "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://zillow.wd5.myworkdayjobs.com/wday/cxs/zillow/Zillow_Group_External/jobs"
-    },
-    "Draper": {
-      "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://draper.wd5.myworkdayjobs.com/wday/cxs/draper/Draper_Careers/jobs"
-    },
-    "Stryker": {
-      "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs"
-    },
-    "Johnson & Johnson": {
-      "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs"
-    },
-    "PROCEPT BioRobotics": {
-      "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://proceptbiorobotics.wd108.myworkdayjobs.com/wday/cxs/proceptbiorobotics/PROCEPT/jobs"
-    },
-    "ABB": {
-      "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
-    },
-    "Caterpillar": {
-      "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://cat.wd5.myworkdayjobs.com/wday/cxs/cat/CaterpillarCareers/jobs"
-    },
-    "Northrop Grumman": {
-      "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ngc.wd1.myworkdayjobs.com/wday/cxs/ngc/Northrop_Grumman_External_Site/jobs"
-    },
-    "Slate Auto": {
-      "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
-    },
-    "Oshkosh": {
-      "since": "2026-11-18",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs"
+      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
     }
   },
   "closures_untracked": {
