@@ -56374,8 +56374,7 @@
         "date": "N/A",
         "id": "workday:R-108903",
         "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Shanghai-China/Channel-Compliance-Intern_R-108903",
-        "location": "Shanghai, China",
-        "closed": "2026-11-12"
+        "location": "Shanghai, China"
       },
       {
         "title": "\u2b50\ufe0f External Research Student Placement 2027",
@@ -76468,7 +76467,8 @@
         "date": "2026-10-22",
         "id": "ashby:43174eb6-0ffe-4744-9323-c7969e7ea2e1",
         "url": "https://jobs.ashbyhq.com/openai/43174eb6-0ffe-4744-9323-c7969e7ea2e1",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-18"
       },
       {
         "title": "Business Development Manager, Product Partnerships",
@@ -94740,7 +94740,8 @@
         "date": "2026-11-04",
         "id": "greenhouse:5212968007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5212968007",
-        "location": "Memphis, TN"
+        "location": "Memphis, TN",
+        "closed": "2026-11-18"
       },
       {
         "title": "Safety Trainer, X Money",
@@ -107605,16 +107606,14 @@
         "date": "N/A",
         "id": "dassault:550524",
         "url": "https://www.3ds.com/careers/jobs/internship-data-science-550524",
-        "location": "Waltham, MA",
-        "closed": "2026-11-18"
+        "location": "Waltham, MA"
       },
       {
         "title": "\u2b50\ufe0f INTERNSHIP: Advocacy Marketing (Jan. '27)",
         "date": "N/A",
         "id": "dassault:550253",
         "url": "https://www.3ds.com/careers/jobs/internship-advocacy-marketing-jan-27-550253",
-        "location": "Waltham, MA",
-        "closed": "2026-11-18"
+        "location": "Waltham, MA"
       },
       {
         "title": "\u2b50\ufe0f INTERNSHIP: AI for CFD",
@@ -107643,8 +107642,7 @@
         "date": "N/A",
         "id": "dassault:550124",
         "url": "https://www.3ds.com/careers/jobs/internship-biovia-social-550124",
-        "location": "San Diego, CA",
-        "closed": "2026-11-18"
+        "location": "San Diego, CA"
       },
       {
         "title": "\u2b50\ufe0f INTERNSHIP - SOLIDWORKS RELOPS",
@@ -107665,8 +107663,7 @@
         "date": "2026-11-17",
         "id": "dassault:550894",
         "url": "https://www.3ds.com/careers/jobs/internship-v-r-scientist-550894",
-        "location": "San Diego, CA",
-        "closed": "2026-11-18"
+        "location": "San Diego, CA"
       }
     ],
     "AMD": [],
@@ -111179,7 +111176,8 @@
         "date": "N/A",
         "id": "jibe:11244",
         "url": "https://careers.sig.com/jobs/11244",
-        "location": "Hong Kong"
+        "location": "Hong Kong",
+        "closed": "2026-11-18"
       },
       {
         "title": "Application Support Engineer",
@@ -119284,7 +119282,8 @@
         "date": "2026-11-16",
         "id": "ashby:1bc230b1-5ad2-44b8-ad61-e80a730e5026",
         "url": "https://jobs.ashbyhq.com/northwoodspace/1bc230b1-5ad2-44b8-ad61-e80a730e5026",
-        "location": "Torrance, CA"
+        "location": "Torrance, CA",
+        "closed": "2026-11-18"
       }
     ],
     "Zillow": [
@@ -120946,7 +120945,8 @@
         "date": "N/A",
         "id": "pinpoint:599847",
         "url": "https://impulsespace.pinpointhq.com/en/postings/39489597-c542-4fda-91b7-c04a7e4e22dd",
-        "location": "Redondo Beach, CA"
+        "location": "Redondo Beach, CA",
+        "closed": "2026-11-18"
       },
       {
         "title": "Production Control Scheduler (Manufacturing)",
@@ -123591,10 +123591,6 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
-    },
-    "Tesla": {
-      "since": "2026-11-18",
-      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
     }
   },
   "closures_untracked": {
