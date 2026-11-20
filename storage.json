@@ -21,7 +21,8 @@
         "date": "N/A",
         "id": "workday:JR2026004",
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Quantum-Simulation-and-AI---2027_JR2026004",
-        "location": "US, CA, Santa Clara"
+        "location": "US, CA, Santa Clara",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Product Design Intern, AI Infrastructure - Summer 2027",
@@ -92,7 +93,8 @@
         "date": "N/A",
         "id": "workday:JR2023856",
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Summer-Internships--PhD-Engineering_JR2023856",
-        "location": "US, CA, Santa Clara"
+        "location": "US, CA, Santa Clara",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f PhD Research Intern, Autonomous Systems and Physical AI Research - 2027",
@@ -268,7 +270,8 @@
         "date": "2026-10-12",
         "id": "workday:JR2023502",
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Mixed-Signal-Design_JR2023502",
-        "location": "US, CA, Santa Clara"
+        "location": "US, CA, Santa Clara",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f NVIDIA Spring 2027 Internships: Developer and Performance Technology",
@@ -397,7 +400,8 @@
         "date": "2026-10-22",
         "id": "workday:JR2012398",
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Deep-Learning-PhD-Research-Intern--Reinforcement-Learning-for-LLMs---Fall-2026_JR2012398",
-        "location": "US, CA, Santa Clara"
+        "location": "US, CA, Santa Clara",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f PhD Research Intern, Generative AI - 2026",
@@ -576,6 +580,13 @@
         "date": "2026-11-16",
         "id": "workday:JR2029509",
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-Manager-MBA-Intern--Digital-Health-AI---Summer-2027_JR2029509",
+        "location": "US, CA, Santa Clara"
+      },
+      {
+        "title": "\u2b50\ufe0f Product Management MBA Intern, GenAI Data Strategy - Summer 2027",
+        "date": "2026-11-19",
+        "id": "workday:JR2029639",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--GenAI-Data-Strategy---Summer-2027_JR2029639",
         "location": "US, CA, Santa Clara"
       }
     ],
@@ -8381,8 +8392,7 @@
         "date": "N/A",
         "id": "greenhouse:4312761009",
         "url": "https://job-boards.greenhouse.io/kodiak/jobs/4312761009",
-        "location": "Mountain View, CA",
-        "closed": "2026-11-09"
+        "location": "Mountain View, CA"
       },
       {
         "title": "Staff Software Engineer, Controls",
@@ -10677,6 +10687,13 @@
         "date": "2026-11-17",
         "id": "tesla:290425",
         "url": "https://www.tesla.com/careers/search/job/internship-robotics-technical-program-manager-optimus-hardware-summer-2027-290425",
+        "location": "Palo Alto, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Internship, Software Engineer, SI Hardware Architecture Simulation (Winter/Spring 2027)",
+        "date": "2026-11-19",
+        "id": "tesla:290756",
+        "url": "https://www.tesla.com/careers/search/job/internship-software-engineer-si-hardware-architecture-simulation-winter-spring-2027-290756",
         "location": "Palo Alto, CA"
       }
     ],
@@ -16189,6 +16206,13 @@
         "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8013612003",
         "location": "Auckland, NZ",
         "early": "This is an entry-level role."
+      },
+      {
+        "title": "\u2b50\ufe0f Total Rewards Intern Summer 2027",
+        "date": "2026-11-19",
+        "id": "greenhouse:8208976003",
+        "url": "https://job-boards.greenhouse.io/rocketlab/jobs/8208976003",
+        "location": "Long Beach, CA"
       }
     ],
     "Motional": [
@@ -19620,7 +19644,8 @@
         "id": "greenhouse:4511692009",
         "url": "https://job-boards.greenhouse.io/avride/jobs/4511692009",
         "location": "Austin, Texas",
-        "early": "This is an entry-level, hands-on position working alongside our Fleet Maintenance and Operations teams to help ensure vehicles are clean, properly maintained, and ready for daily operations."
+        "early": "This is an entry-level, hands-on position working alongside our Fleet Maintenance and Operations teams to help ensure vehicles are clean, properly maintained, and ready for daily operations.",
+        "closed": "2026-11-19"
       },
       {
         "title": "Senior HR Generalist",
@@ -34384,11 +34409,13 @@
         "date": "N/A",
         "id": "greenhouse:8843527002",
         "url": "https://app.careerpuck.com/job-board/lyft/job/8843527002?gh_jid=8843527002",
-        "location": "San Francisco, CA"
+        "location": "San Francisco, CA",
+        "closed": "2026-11-19"
       },
       {
         "title": "Senior Account Executive",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-19"
       },
       {
         "title": "Security Analyst",
@@ -35030,7 +35057,8 @@
         "date": "2026-10-21",
         "id": "greenhouse:8905092002",
         "url": "https://app.careerpuck.com/job-board/lyft/job/8905092002?gh_jid=8905092002",
-        "location": "Toronto, Canada"
+        "location": "Toronto, Canada",
+        "closed": "2026-11-19"
       },
       {
         "title": "Lead, Executive Support",
@@ -47539,6 +47567,27 @@
         "id": "greenhouse:4730505006",
         "url": "https://job-boards.greenhouse.io/formic/jobs/4730505006",
         "location": "San Francisco, CA || Oakland, CA"
+      },
+      {
+        "title": "Robotics Field Service Engineer - Road Warrior",
+        "date": "2026-11-19",
+        "id": "greenhouse:4731106006",
+        "url": "https://job-boards.greenhouse.io/formic/jobs/4731106006",
+        "location": "Salt Lake City, UT"
+      },
+      {
+        "title": "Robotics Field Service Engineer - Road Warrior",
+        "date": "2026-11-19",
+        "id": "greenhouse:4731095006",
+        "url": "https://job-boards.greenhouse.io/formic/jobs/4731095006",
+        "location": "Charlotte, NC"
+      },
+      {
+        "title": "Robotics Field Service Engineer - Road Warrior",
+        "date": "2026-11-19",
+        "id": "greenhouse:4731105006",
+        "url": "https://job-boards.greenhouse.io/formic/jobs/4731105006",
+        "location": "Seattle, WA"
       }
     ],
     "Waabi": [
@@ -56716,7 +56765,8 @@
         "date": "2026-10-20",
         "id": "workday:R-105666",
         "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/High-Wycombe-Buckinghamshire-United-Kingdom/Integrated-Data-Analytics-and-Reporting--IDAR--Student-Placement---Clinical-and-Statistical-Programming--C-SP-_R-105666",
-        "location": "2 Locations"
+        "location": "2 Locations",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Business Support Internship",
@@ -66412,6 +66462,13 @@
         "date": "2026-11-19",
         "id": "successfactors:1452400800",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Staff-Systems-Engineer-Platform-%28Compute-Test%2C-North-Reading%29-MA/1452400800/",
+        "location": "North Reading, MA"
+      },
+      {
+        "title": "Sr. Analyst, Corporate FP&A (Teradyne, North Reading, MA)",
+        "date": "2026-11-19",
+        "id": "successfactors:1452453200",
+        "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Sr_-Analyst%2C-Corporate-FP&A-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1452453200/",
         "location": "North Reading, MA"
       }
     ],
@@ -104571,7 +104628,8 @@
         "date": "N/A",
         "id": "atlassian:26274",
         "url": "https://www.atlassian.com/company/careers/details/26274",
-        "location": "San Francisco, CA +1"
+        "location": "San Francisco, CA +1",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Customer Engagement Marketing Intern, 2027 Summer U.S.",
@@ -108539,7 +108597,8 @@
         "date": "N/A",
         "id": "oraclehcm:41196",
         "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41196",
-        "location": "United States"
+        "location": "United States",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Wi-Fi Research Co-op",
@@ -108815,7 +108874,8 @@
         "date": "N/A",
         "id": "dassault:550072",
         "url": "https://www.3ds.com/careers/jobs/internship-solidworks-relops-550072",
-        "location": "Waltham, MA"
+        "location": "Waltham, MA",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f INTERNSHIP: Industry Process Consultant",
@@ -120889,6 +120949,20 @@
         "id": "phenom:R118073",
         "url": "https://careers.mitre.org/us/en/job/R118073/Health-Policy-Graduate-Intern-McLean-Baltimore",
         "location": "McLean, VA"
+      },
+      {
+        "title": "\u2b50\ufe0f Quantum Optics Student Researcher",
+        "date": "2026-11-19",
+        "id": "phenom:R118056",
+        "url": "https://careers.mitre.org/us/en/job/R118056/Quantum-Optics-Student-Researcher",
+        "location": "Bedford, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Optics and Photonics Student Researcher",
+        "date": "2026-11-19",
+        "id": "phenom:R117986",
+        "url": "https://careers.mitre.org/us/en/job/R117986/Optics-and-Photonics-Student-Researcher",
+        "location": "Bedford, MA"
       }
     ],
     "Draper": [
@@ -122946,8 +123020,7 @@
         "date": "N/A",
         "id": "pinpoint:590465",
         "url": "https://impulsespace.pinpointhq.com/en/postings/d466f97d-0d4a-479d-b764-acf687745208",
-        "location": "Redondo Beach, CA",
-        "closed": "2026-11-18"
+        "location": "Redondo Beach, CA"
       },
       {
         "title": "\u2b50\ufe0f Enterprise Software Engineering Intern (Summer 2027)",
@@ -123139,6 +123212,13 @@
         "date": "2026-11-19",
         "id": "pinpoint:623150",
         "url": "https://impulsespace.pinpointhq.com/en/postings/c6338a72-706f-422c-a4c6-03e30e3c79be",
+        "location": "Redondo Beach, CA"
+      },
+      {
+        "title": "Senior Manufacturing Engineer (Tank Weldment/Primary Structure)",
+        "date": "2026-11-19",
+        "id": "pinpoint:623337",
+        "url": "https://impulsespace.pinpointhq.com/en/postings/8ecc3233-03ea-4b82-a9fd-bb8c232c7785",
         "location": "Redondo Beach, CA"
       }
     ],
@@ -124602,81 +124682,6 @@
         "title:\u2b50\ufe0f Supply Chain Engineering Intern \u2013 Robotics (2026 Fall)"
       ],
       "backlog": true
-    },
-    "Nvidia": {
-      "since": "2026-11-19T12:32-05:00",
-      "keys": [
-        "workday:JR2012398",
-        "workday:JR2016035",
-        "workday:JR2023486",
-        "workday:JR2023487-1",
-        "workday:JR2023489",
-        "workday:JR2023491",
-        "workday:JR2023492",
-        "workday:JR2023495",
-        "workday:JR2023496",
-        "workday:JR2023497-1",
-        "workday:JR2023499",
-        "workday:JR2023500",
-        "workday:JR2023501",
-        "workday:JR2023502",
-        "workday:JR2023504",
-        "workday:JR2023508-1",
-        "workday:JR2023856",
-        "workday:JR2024171",
-        "workday:JR2024174",
-        "workday:JR2025025",
-        "workday:JR2025096",
-        "workday:JR2025098",
-        "workday:JR2025103",
-        "workday:JR2025379",
-        "workday:JR2025395",
-        "workday:JR2025405",
-        "workday:JR2025406",
-        "workday:JR2025478",
-        "workday:JR2025647",
-        "workday:JR2025670-1",
-        "workday:JR2025672",
-        "workday:JR2025792",
-        "workday:JR2025893",
-        "workday:JR2025905",
-        "workday:JR2025907",
-        "workday:JR2026004",
-        "workday:JR2026471",
-        "workday:JR2026499",
-        "workday:JR2026584-1",
-        "workday:JR2026644",
-        "workday:JR2026704",
-        "workday:JR2026707",
-        "workday:JR2026708",
-        "workday:JR2026798",
-        "workday:JR2026799",
-        "workday:JR2026839-1",
-        "workday:JR2026940",
-        "workday:JR2026949",
-        "workday:JR2026962",
-        "workday:JR2027089",
-        "workday:JR2027305",
-        "workday:JR2027429",
-        "workday:JR2027548",
-        "workday:JR2027561",
-        "workday:JR2028260",
-        "workday:JR2028449",
-        "workday:JR2028530",
-        "workday:JR2028607",
-        "workday:JR2028699",
-        "workday:JR2028740",
-        "workday:JR2028995",
-        "workday:JR2029119-1",
-        "workday:JR2029220-1",
-        "workday:JR2029307",
-        "workday:JR2029509",
-        "workday:JR2029523-1",
-        "workday:JR2029532-1",
-        "workday:JR2029541",
-        "workday:JR2029628",
-        "workday:JR2029682"
-      ]
     }
   },
   "checked": {
@@ -124984,10 +124989,6 @@
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
     },
-    "Nvidia": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
-    },
     "Snap": {
       "since": "2026-11-19",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
@@ -125004,29 +125005,13 @@
       "since": "2026-11-19",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
     },
-    "Target": {
+    "Leidos": {
       "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://leidos.wd5.myworkdayjobs.com/wday/cxs/leidos/External/jobs"
     },
-    "Razer": {
+    "Samsung": {
       "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
-    },
-    "Blue Origin": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/BlueOrigin/jobs"
-    },
-    "Boston Dynamics": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://bostondynamics.wd1.myworkdayjobs.com/wday/cxs/bostondynamics/Boston_Dynamics/jobs"
-    },
-    "Visa": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs"
-    },
-    "Stryker": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
     }
   },
   "closures_untracked": {
