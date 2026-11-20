@@ -18979,6 +18979,41 @@
         "id": "greenhouse:5290925007",
         "url": "https://lucidmotors.com/careers/search/5290925007?gh_jid=5290925007",
         "location": "Newark, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern, ADAS Systems, Summer 2027",
+        "date": "2026-11-19",
+        "id": "greenhouse:5290790007",
+        "url": "https://lucidmotors.com/careers/search/5290790007?gh_jid=5290790007",
+        "location": "Newark, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern, Embedded Software \u2013 BSP/Platform (ADAS/Autonomous Driving), Summer 2027",
+        "date": "2026-11-19",
+        "id": "greenhouse:5290800007",
+        "url": "https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007",
+        "location": "Newark, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern, Infotainment Software, Summer 2027",
+        "date": "2026-11-19",
+        "id": "greenhouse:5290921007",
+        "url": "https://lucidmotors.com/careers/search/5290921007?gh_jid=5290921007",
+        "location": "Newark, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern, Infotainment SW Validation Automation, Summer 2027",
+        "date": "2026-11-19",
+        "id": "greenhouse:5290937007",
+        "url": "https://lucidmotors.com/careers/search/5290937007?gh_jid=5290937007",
+        "location": "Newark, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Product Security Engineering Intern, Summer 2027",
+        "date": "2026-11-19",
+        "id": "greenhouse:5290941007",
+        "url": "https://lucidmotors.com/careers/search/5290941007?gh_jid=5290941007",
+        "location": "Newark, CA"
       }
     ],
     "Avride": [
@@ -46069,6 +46104,13 @@
         "id": "ashby:7c33b1a8-f4cc-4150-9caa-049d7ca87987",
         "url": "https://jobs.ashbyhq.com/dyna-robotics/7c33b1a8-f4cc-4150-9caa-049d7ca87987",
         "location": "Redwood City, CA"
+      },
+      {
+        "title": "Logistics & Inventory Specialist",
+        "date": "2026-11-19",
+        "id": "ashby:477872e8-44ba-430f-8efc-ad239e7acd69",
+        "url": "https://jobs.ashbyhq.com/dyna-robotics/477872e8-44ba-430f-8efc-ad239e7acd69",
+        "location": "Redwood City, CA"
       }
     ],
     "Dexterity": [
@@ -47588,6 +47630,13 @@
         "id": "greenhouse:4731105006",
         "url": "https://job-boards.greenhouse.io/formic/jobs/4731105006",
         "location": "Seattle, WA"
+      },
+      {
+        "title": "Product Manager - Robotic Automation for CPG",
+        "date": "2026-11-19",
+        "id": "greenhouse:4730494006",
+        "url": "https://job-boards.greenhouse.io/formic/jobs/4730494006",
+        "location": "Chicago, IL || Bolingbrook, IL"
       }
     ],
     "Waabi": [
@@ -56982,7 +57031,8 @@
         "date": "N/A",
         "id": "workday:R-109190",
         "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Beijing-China/Derm-Marketing-Intern_R-109190",
-        "location": "Beijing, China"
+        "location": "Beijing, China",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f [Johnson&Johnson MedTech] Marketing Intern(Neurovascular) \ucc44\uc6a9",
@@ -66773,7 +66823,8 @@
         "date": "N/A",
         "id": "successfactors:1365744055",
         "url": "https://jobs.kuka.com/job/Denver-Field-Service-Technician-Sacramento%2C-California-Transport-Automation-NY-12421/1365744055/",
-        "location": "Denver"
+        "location": "Denver",
+        "closed": "2026-11-19"
       },
       {
         "title": "Field Service Engineer - Tampa, Florida, US",
@@ -100394,6 +100445,10 @@
       {
         "title": "\u2b50\ufe0f Systems & Infrastructure Engineer Intern, Masters - Summer 2027 (Mountain View, CA)",
         "date": "2026-11-18"
+      },
+      {
+        "title": "\u2b50\ufe0f AI/ML Engineer Intern \u2013 Search and Recommender Systems, PhD \u2013 Summer 2027 (Mountain View, CA)",
+        "date": "2026-11-19"
       }
     ],
     "Liberty Mutual": [],
@@ -108244,6 +108299,13 @@
         "date": "2026-11-18",
         "id": "bytedance:7669654422861383941",
         "url": "https://lifeattiktok.com/search/7669654422861383941",
+        "location": "San Jose, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Talent Acquisition Intern (TikTok Shop) - 2027 Start",
+        "date": "2026-11-19",
+        "id": "bytedance:7709668540185856261",
+        "url": "https://lifeattiktok.com/search/7709668540185856261",
         "location": "San Jose, CA"
       }
     ],
@@ -125005,13 +125067,37 @@
       "since": "2026-11-19",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
     },
-    "Leidos": {
+    "Apple": {
       "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://leidos.wd5.myworkdayjobs.com/wday/cxs/leidos/External/jobs"
+      "error": "ReadTimeout: HTTPSConnectionPool(host='jobs.apple.com', port=443): Read timed out. (read timeout=30)"
     },
-    "Samsung": {
+    "Nvidia": {
       "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
+    },
+    "Expedia": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://expedia.wd108.myworkdayjobs.com/wday/cxs/expedia/search/jobs"
+    },
+    "RedHat": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://redhat.wd5.myworkdayjobs.com/wday/cxs/redhat/jobs/jobs"
+    },
+    "Rockwell Automation": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
+    },
+    "Razer": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
+    },
+    "Bose": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://boseallaboutme.wd503.myworkdayjobs.com/wday/cxs/boseallaboutme/Bose_Careers/jobs"
+    },
+    "Stryker": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs"
     }
   },
   "closures_untracked": {
