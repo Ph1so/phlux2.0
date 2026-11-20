@@ -12,7 +12,7 @@
 <p>
   <a href="https://ph1so.github.io/phlux2.0/"><img src="https://img.shields.io/badge/browse-internships-1f5fff?style=flat-square" alt="Browse internships"></a>
   <a href="https://github.com/Ph1so/phlux2.0/actions/workflows/job-scraper.yml"><img src="https://img.shields.io/github/actions/workflow/status/Ph1so/phlux2.0/job-scraper.yml?branch=main&style=flat-square&label=scraper" alt="Scraper status"></a>
-  <img src="https://img.shields.io/badge/roles_tracked-38.8k-475467?style=flat-square" alt="38,769 roles tracked">
+  <img src="https://img.shields.io/badge/roles_tracked-38.8k-475467?style=flat-square" alt="38,771 roles tracked">
 </p>
 
 <p><a href="https://ph1so.github.io/phlux2.0/"><b>Website</b></a> &nbsp;·&nbsp; <a href="listings/README.md"><b>All listings</b></a></p>
@@ -21,7 +21,7 @@
 
 ## Latest roles
 
-Showing the 571 most recent of 38,769 roles tracked across 295 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
+Showing the 572 most recent of 38,771 roles tracked across 295 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
 
 
 <table>
@@ -1166,6 +1166,20 @@ Showing the 571 most recent of 38,769 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/pyka"><img src="https://cdn.brandfetch.io/flypyka.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Pyka" height="20" style="vertical-align:middle; margin-right:6px;"> Pyka</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/pyka/2f567b74-5165-46a4-8fdd-343c5bbd531a">Maintenance Technician</a></div></td>
+  <td>2026-11-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://app.dover.com/jobs/weaverobotics"><img src="https://cdn.brandfetch.io/weaverobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Weave Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Weave Robotics</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://app.dover.com/apply/Weave%20Robotics/ed12571e-6c37-40b2-abc5-2aa43c7ba57c/">Industrial Designer, CMF</a></div></td>
+  <td>2026-11-19</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://app.dover.com/jobs/weaverobotics"><img src="https://cdn.brandfetch.io/weaverobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Weave Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Weave Robotics</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://app.dover.com/apply/Weave%20Robotics/90fb3e3b-f11e-4089-8627-f7cee876ae51/">⭐️ Industrial Designer, Intern</a></div></td>
   <td>2026-11-19</td>
 </tr>
   <tr>
@@ -4022,13 +4036,6 @@ Showing the 571 most recent of 38,769 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers"><img src="https://cdn.brandfetch.io/rockwellautomation.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Rockwell Automation" height="20" style="vertical-align:middle; margin-right:6px;"> Rockwell Automation</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/India-Gurgaon/Sales-Management-Trainee_R26-6804">Sales Management Trainee</a></div></td>
-  <td>2026-11-17</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers"><img src="https://cdn.brandfetch.io/rockwellautomation.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Rockwell Automation" height="20" style="vertical-align:middle; margin-right:6px;"> Rockwell Automation</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/India-Gurgaon/Sales-Management-Trainee_R26-6806">Sales Management Trainee</a></div></td>
   <td>2026-11-17</td>
 </tr>
 

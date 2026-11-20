@@ -56985,7 +56985,8 @@
         "date": "N/A",
         "id": "workday:R-110135-1",
         "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Chiyoda-Tokyo-Japan/XMLNAME--Innovative-Medicine--J-J-IM-Search---Evaluation-2027-_R-110135-1",
-        "location": "2 Locations"
+        "location": "2 Locations",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Environmental, Health & Safety (EHS) Summer Intern",
@@ -99030,6 +99031,20 @@
         "id": "dover:f0f8d836-8314-42e9-af42-68a9c8dab545",
         "url": "https://app.dover.com/apply/Weave%20Robotics/f0f8d836-8314-42e9-af42-68a9c8dab545/",
         "location": "San Francisco, CA"
+      },
+      {
+        "title": "Industrial Designer, CMF",
+        "date": "2026-11-19",
+        "id": "dover:ed12571e-6c37-40b2-abc5-2aa43c7ba57c",
+        "url": "https://app.dover.com/apply/Weave%20Robotics/ed12571e-6c37-40b2-abc5-2aa43c7ba57c/",
+        "location": "San Francisco, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Industrial Designer, Intern",
+        "date": "2026-11-19",
+        "id": "dover:90fb3e3b-f11e-4089-8627-f7cee876ae51",
+        "url": "https://app.dover.com/apply/Weave%20Robotics/90fb3e3b-f11e-4089-8627-f7cee876ae51/",
+        "location": "San Francisco, CA"
       }
     ],
     "Boost Robotics": [
@@ -125149,10 +125164,6 @@
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
     },
-    "Unity": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
-    },
     "General Motors": {
       "since": "2026-11-19",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
@@ -125169,41 +125180,13 @@
       "since": "2026-11-19",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
     },
-    "Target": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
-    },
-    "Johnson & Johnson": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs"
-    },
-    "Autodesk": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/uni/jobs"
-    },
-    "Blue Origin": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/BlueOrigin/jobs"
-    },
-    "Slack": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/Slack/jobs"
-    },
-    "Snap": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
-    },
-    "Draper": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://draper.wd5.myworkdayjobs.com/wday/cxs/draper/Draper_Careers/jobs"
-    },
-    "Oshkosh": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs"
-    },
     "Slate Auto": {
       "since": "2026-11-19",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
+    },
+    "Samsung": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
     }
   },
   "closures_untracked": {
