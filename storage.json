@@ -8909,6 +8909,13 @@
         "id": "greenhouse:4511215009",
         "url": "https://job-boards.greenhouse.io/kodiak/jobs/4511215009",
         "location": "Mountain View, CA"
+      },
+      {
+        "title": "Vehicle Integration Engineer",
+        "date": "2026-11-20",
+        "id": "greenhouse:4511823009",
+        "url": "https://job-boards.greenhouse.io/kodiak/jobs/4511823009",
+        "location": "Mountain View, CA"
       }
     ],
     "XPENG": [
@@ -16565,7 +16572,8 @@
         "date": "N/A",
         "id": "greenhouse:7767449003",
         "url": "https://motional.com/open-positions/?gh_jid=7767449003#/7767449003",
-        "location": "Pittsburgh, Pennsylvania, United States; Remote U.S."
+        "location": "Pittsburgh, Pennsylvania, United States; Remote U.S.",
+        "closed": "2026-11-20"
       },
       {
         "title": "Senior Engineer, ML Data Services",
@@ -45111,7 +45119,8 @@
         "date": "2026-11-10",
         "id": "google:116759032009499334",
         "url": "https://www.google.com/about/careers/applications/jobs/results/116759032009499334",
-        "location": "London, UK"
+        "location": "London, UK",
+        "closed": "2026-11-20"
       },
       {
         "title": "Product Manager, Agentic Capability, DeepMind",
@@ -45352,6 +45361,13 @@
         "id": "google:96059303982441158",
         "url": "https://www.google.com/about/careers/applications/jobs/results/96059303982441158",
         "location": "New York, NY"
+      },
+      {
+        "title": "Technical Program Manager, Frontier AI, DeepMind",
+        "date": "2026-11-20",
+        "id": "google:140824270639899334",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/140824270639899334",
+        "location": "London, UK"
       }
     ],
     "Wing": [
@@ -47204,7 +47220,8 @@
         "date": "2026-10-14",
         "id": "lever:166f6aea-7dd0-4369-82bd-bb0bee75c93c",
         "url": "https://jobs.lever.co/brightmachines/166f6aea-7dd0-4369-82bd-bb0bee75c93c",
-        "location": "Guadalajara Area, Mexico"
+        "location": "Guadalajara Area, Mexico",
+        "closed": "2026-11-20"
       },
       {
         "title": "Assembly Technicians - Night Shift",
@@ -55950,14 +55967,16 @@
         "date": "N/A",
         "id": "workday:R572951",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Denver-Colorado/Summer-2027-Internship---Foot---Ankle-Sales---Colorado_R572951",
-        "location": "Denver, Colorado"
+        "location": "Denver, Colorado",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Foot & Ankle Sales - Tampa, FL",
         "date": "N/A",
         "id": "workday:R572948",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tampa-Florida/Summer-2027-Internship---Foot---Ankle-Sales---Tampa--FL_R572948",
-        "location": "Tampa, Florida"
+        "location": "Tampa, Florida",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Foot & Ankle Sales- San Jose, CA",
@@ -55992,7 +56011,8 @@
         "date": "N/A",
         "id": "workday:R572882",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Chicago-Illinois/Summer-2027-Internship---Joint-Replacement-Sales---Chicago--IL_R572882",
-        "location": "Chicago, Illinois"
+        "location": "Chicago, Illinois",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Upper Extremities Sales - OKC, OK",
@@ -56006,7 +56026,8 @@
         "date": "N/A",
         "id": "workday:R572856",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Houston-Texas/Summer-2027-Internship--Joint-Replacement-Sales---Houston--TX_R572856",
-        "location": "Houston, Texas"
+        "location": "Houston, Texas",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Upper Extremities Sales- Denver, CO",
@@ -56104,7 +56125,8 @@
         "date": "N/A",
         "id": "workday:R572800",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/New-York-New-York/Summer-2027-Internship---Upper-Extremities-Sales---New-York--NY_R572800",
-        "location": "New York, New York"
+        "location": "New York, New York",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Mechanical Engineering - New Jersey",
@@ -56140,7 +56162,8 @@
         "date": "N/A",
         "id": "workday:R572796",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Philadelphia-Pennsylvania/Summer-2027-Internship---Upper-Extremities-Sales---Philadelphia--PA_R572796",
-        "location": "Philadelphia, Pennsylvania"
+        "location": "Philadelphia, Pennsylvania",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Joint Replacement Sales - Philadelphia, PA",
@@ -56154,7 +56177,8 @@
         "date": "N/A",
         "id": "workday:R572789",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Canton-Massachusetts/Summer-2027-Internship---Joint-Replacement-Sales---Canton--MA_R572789",
-        "location": "Canton, Massachusetts"
+        "location": "Canton, Massachusetts",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Joint Replacement Sales -Houston, TX",
@@ -57600,7 +57624,8 @@
         "date": "2026-11-18",
         "id": "workday:R-100323",
         "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Madrid-Spain/Market-Access-Intern_R-100323",
-        "location": "Madrid, Spain"
+        "location": "Madrid, Spain",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Technology 2027 Spring Co-Op",
@@ -60556,8 +60581,7 @@
         "date": "2026-10-20",
         "id": "workday:JR00041157",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Pinetops-North-Carolina-United-States-of-America/Project-Manager---Operations_JR00041157",
-        "location": "Pinetops, North Carolina, United States of America",
-        "closed": "2026-11-16"
+        "location": "Pinetops, North Carolina, United States of America"
       },
       {
         "title": "Test Supervisor",
@@ -62641,8 +62665,7 @@
         "date": "N/A",
         "id": "workday:JR00037020",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Pinetops-North-Carolina-United-States-of-America/Continuous-Improvement-Specialist---Building-B_JR00037020",
-        "location": "Pinetops, North Carolina, United States of America",
-        "closed": "2026-11-17"
+        "location": "Pinetops, North Carolina, United States of America"
       },
       {
         "title": "Hands On Circuit Breaker Shop Supervisor",
@@ -66760,6 +66783,13 @@
         "id": "successfactors:1452453200",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Sr_-Analyst%2C-Corporate-FP&A-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1452453200/",
         "location": "North Reading, MA"
+      },
+      {
+        "title": "Field Application Engineer (Product Test; Plano, TX)",
+        "date": "2026-11-20",
+        "id": "successfactors:1452538900",
+        "url": "https://jobs.teradyne.com/Teradyne/job/Plano-Field-Application-Engineer-%28Product-Test-Plano%2C-TX%29-TX/1452538900/",
+        "location": "Plano, TX"
       }
     ],
     "KUKA": [
@@ -70104,6 +70134,13 @@
         "id": "teamtailor:7552490",
         "url": "https://starship.teamtailor.com/jobs/7552490-area-mapper",
         "location": "Hamburg, Germany"
+      },
+      {
+        "title": "Field Assistant",
+        "date": "2026-11-20",
+        "id": "teamtailor:8775802",
+        "url": "https://starship.teamtailor.com/jobs/8775802-field-assistant",
+        "location": "Jyvaskyla, Finland"
       }
     ],
     "Gatik": [
@@ -71411,7 +71448,8 @@
         "date": "2026-10-22",
         "id": "rippling:be20eb3c-d633-4dd2-9d31-52b12a728afc",
         "url": "https://ats.rippling.com/walden-robotics/jobs/be20eb3c-d633-4dd2-9d31-52b12a728afc",
-        "location": "Cambridge, MA"
+        "location": "Cambridge, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Environmental Health & Safety Lead",
@@ -71505,7 +71543,8 @@
         "date": "2026-10-22",
         "id": "rippling:17a283f6-2bc6-46d3-9a09-cc0a0a601216",
         "url": "https://ats.rippling.com/walden-robotics/jobs/17a283f6-2bc6-46d3-9a09-cc0a0a601216",
-        "location": "Cambridge, MA"
+        "location": "Cambridge, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Deployment Engineer",
@@ -71645,7 +71684,8 @@
         "date": "2026-10-30",
         "id": "rippling:8e0a24ca-914b-415b-ab96-ed8b1c61d641",
         "url": "https://ats.rippling.com/walden-robotics/jobs/8e0a24ca-914b-415b-ab96-ed8b1c61d641",
-        "location": "Cambridge, MA"
+        "location": "Cambridge, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Senior Manager, Data Collections Operations",
@@ -82680,7 +82720,8 @@
         "date": "2026-11-16",
         "id": "ashby:db31bc85-f5ea-4703-ab78-46fcd67ac3a1",
         "url": "https://jobs.ashbyhq.com/openai/db31bc85-f5ea-4703-ab78-46fcd67ac3a1",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-20"
       },
       {
         "title": "Applied AI Architect - EDU",
@@ -83081,6 +83122,13 @@
         "id": "ashby:f68233de-f299-4732-ae4e-cee354159d4a",
         "url": "https://jobs.ashbyhq.com/openai/f68233de-f299-4732-ae4e-cee354159d4a",
         "location": "London, UK"
+      },
+      {
+        "title": "Data Scientist, Integrity",
+        "date": "2026-11-20",
+        "id": "ashby:f6cada21-0f54-4d8a-884e-e3c64edd4789",
+        "url": "https://jobs.ashbyhq.com/openai/f6cada21-0f54-4d8a-884e-e3c64edd4789",
+        "location": "San Francisco"
       }
     ],
     "John Deere": [
@@ -93066,7 +93114,8 @@
         "date": "2026-10-29",
         "id": "greenhouse:5461024008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5461024008",
-        "location": "London, UK"
+        "location": "London, UK",
+        "closed": "2026-11-20"
       },
       {
         "title": "Performance & Talent Programs Manager",
@@ -115374,7 +115423,8 @@
         "date": "N/A",
         "id": "jibe:134478",
         "url": "https://careers.se.com/global/jobs/134478",
-        "location": "Foxboro, MA"
+        "location": "Foxboro, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Project Execution Technical Co-Op",
@@ -116736,7 +116786,8 @@
         "date": "N/A",
         "id": "greenhouse:6183401004",
         "url": "https://epicgames.com/careers/jobs/6183401004?gh_jid=6183401004",
-        "location": "Cary,North Carolina,United States"
+        "location": "Cary,North Carolina,United States",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Web Engineer Intern",
@@ -120664,7 +120715,8 @@
         "date": "N/A",
         "id": "workday:R77124",
         "url": "https://medtronic.wd1.myworkdayjobs.com/MedtronicCareers/job/Ponce-Puerto-Rico-United-States-of-America/Medtronic-Summer-Internship-PR-2027--Ponce-and-Villalba-Site_R77124",
-        "location": "2 Locations"
+        "location": "2 Locations",
+        "closed": "2026-11-20"
       }
     ],
     "T-Mobile": [
@@ -121631,6 +121683,13 @@
         "date": "2026-11-17",
         "id": "workday:JR003155",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Software-Engineering---DevOps-Intern_JR003155",
+        "location": "Cambridge, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Process Automation Co-Op",
+        "date": "2026-11-20",
+        "id": "workday:JR003160",
+        "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Process-Automation-Co-Op_JR003160",
         "location": "Cambridge, MA"
       }
     ],
