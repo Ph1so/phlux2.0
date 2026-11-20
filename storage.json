@@ -884,7 +884,8 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557040502",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557040502",
-        "location": "United States, Massachusetts, Cambridge +1"
+        "location": "United States, Massachusetts, Cambridge +1",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Audio and Acoustics",
@@ -3284,7 +3285,8 @@
         "date": "2026-10-21",
         "id": "meta:27730225806654441",
         "url": "https://www.metacareers.com/profile/job_details/27730225806654441/",
-        "location": "Redmond, WA"
+        "location": "Redmond, WA",
+        "closed": "2026-11-19"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, Low-Power Scene Reconstruction for AR/VR",
@@ -33791,6 +33793,20 @@
         "id": "greenhouse:5279763007",
         "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5279763007",
         "location": "Remote"
+      },
+      {
+        "title": "Mission Operations Associate - MENA",
+        "date": "2026-11-19",
+        "id": "greenhouse:5302761007",
+        "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5302761007",
+        "location": "Swindon, England, United Kingdom"
+      },
+      {
+        "title": "Mission Operations Lead- EMEA",
+        "date": "2026-11-19",
+        "id": "greenhouse:5302762007",
+        "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5302762007",
+        "location": "Swindon, England, United Kingdom"
       }
     ],
     "Lyft": [
@@ -78258,7 +78274,8 @@
         "date": "2026-10-22",
         "id": "ashby:910b44fb-6af7-4d26-8e25-9ba814fe5fd5",
         "url": "https://jobs.ashbyhq.com/openai/910b44fb-6af7-4d26-8e25-9ba814fe5fd5",
-        "location": "Washington, DC"
+        "location": "Washington, DC",
+        "closed": "2026-11-19"
       },
       {
         "title": "Program Manager, Government Trusted Access",
@@ -82769,6 +82786,20 @@
         "date": "2026-11-19",
         "id": "ashby:ecb1119c-0439-4b8d-938b-851b3ed84a02",
         "url": "https://jobs.ashbyhq.com/openai/ecb1119c-0439-4b8d-938b-851b3ed84a02",
+        "location": "US - Remote"
+      },
+      {
+        "title": "Product Manager, Native Learning and Credentials",
+        "date": "2026-11-19",
+        "id": "ashby:43d75302-2eef-46b6-b991-611e705f9fb1",
+        "url": "https://jobs.ashbyhq.com/openai/43d75302-2eef-46b6-b991-611e705f9fb1",
+        "location": "San Francisco"
+      },
+      {
+        "title": "Manufacturing Quality Engineer, Data Center Modular Builds",
+        "date": "2026-11-19",
+        "id": "ashby:5a693757-8c54-43a2-abd7-44ab598d4c6e",
+        "url": "https://jobs.ashbyhq.com/openai/5a693757-8c54-43a2-abd7-44ab598d4c6e",
         "location": "US - Remote"
       }
     ],
@@ -90282,7 +90313,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5453573008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5453573008",
-        "location": "San Francisco, CA | New York City, NY | Washington, DC"
+        "location": "San Francisco, CA | New York City, NY | Washington, DC",
+        "closed": "2026-11-19"
       },
       {
         "title": "Policy Development, Technical AI Governance",
@@ -91073,7 +91105,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5410006008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5410006008",
-        "location": "San Francisco, CA | New York City, NY | Washington, DC"
+        "location": "San Francisco, CA | New York City, NY | Washington, DC",
+        "closed": "2026-11-19"
       },
       {
         "title": "Safeguards Enforcement Analyst, Cyber Harm",
@@ -93621,6 +93654,20 @@
         "id": "greenhouse:5483403008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5483403008",
         "location": "San Francisco, CA | Seattle, WA"
+      },
+      {
+        "title": "Applied AI Architect, Beneficial Deployment",
+        "date": "2026-11-19",
+        "id": "greenhouse:5486780008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5486780008",
+        "location": "Sydney, Australia"
+      },
+      {
+        "title": "Corporate Network Engineer",
+        "date": "2026-11-19",
+        "id": "greenhouse:5489564008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5489564008",
+        "location": "Remote-Friendly (Travel Required) | San Francisco, CA"
       }
     ],
     "xAI": [
@@ -121992,7 +122039,8 @@
         "date": "N/A",
         "id": "pinpoint:596087",
         "url": "https://impulsespace.pinpointhq.com/en/postings/f9dd5869-8d18-4645-8176-d48a0ba20ffb",
-        "location": "Redondo Beach, CA"
+        "location": "Redondo Beach, CA",
+        "closed": "2026-11-19"
       },
       {
         "title": "Software Release Manager",
@@ -125051,10 +125099,6 @@
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
     },
-    "Snap": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
-    },
     "Unity": {
       "since": "2026-11-19",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
@@ -125067,37 +125111,45 @@
       "since": "2026-11-19",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
     },
-    "Apple": {
-      "since": "2026-11-19",
-      "error": "ReadTimeout: HTTPSConnectionPool(host='jobs.apple.com', port=443): Read timed out. (read timeout=30)"
-    },
     "Nvidia": {
       "since": "2026-11-19",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
-    },
-    "Expedia": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://expedia.wd108.myworkdayjobs.com/wday/cxs/expedia/search/jobs"
-    },
-    "RedHat": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://redhat.wd5.myworkdayjobs.com/wday/cxs/redhat/jobs/jobs"
-    },
-    "Rockwell Automation": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
     },
     "Razer": {
       "since": "2026-11-19",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
     },
-    "Bose": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://boseallaboutme.wd503.myworkdayjobs.com/wday/cxs/boseallaboutme/Bose_Careers/jobs"
-    },
     "Stryker": {
       "since": "2026-11-19",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs"
+    },
+    "Boston Dynamics": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://bostondynamics.wd1.myworkdayjobs.com/wday/cxs/bostondynamics/Boston_Dynamics/jobs"
+    },
+    "Verizon": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://verizon.wd12.myworkdayjobs.com/wday/cxs/verizon/verizon-careers/jobs"
+    },
+    "Leidos": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://leidos.wd5.myworkdayjobs.com/wday/cxs/leidos/External/jobs"
+    },
+    "Target": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
+    },
+    "Samsung": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
+    },
+    "Zillow": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://zillow.wd5.myworkdayjobs.com/wday/cxs/zillow/Zillow_Group_External/jobs"
+    },
+    "Johnson & Johnson": {
+      "since": "2026-11-19",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs"
     }
   },
   "closures_untracked": {
