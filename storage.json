@@ -898,16 +898,14 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557040502",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557040502",
-        "location": "United States, Massachusetts, Cambridge +1",
-        "closed": "2026-11-20"
+        "location": "United States, Massachusetts, Cambridge +1"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Audio and Acoustics",
         "date": "2026-10-13",
         "id": "eightfold:1970393557027326",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557027326",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-20"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Brain-Computer Interfaces",
@@ -1081,8 +1079,7 @@
         "date": "2026-10-19",
         "id": "eightfold:1970393557043754",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557043754",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-20"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Business Program Management INTERN",
@@ -1341,8 +1338,7 @@
         "date": "2026-11-17",
         "id": "eightfold:1970393557075074",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557075074",
-        "location": "United States, Washington, Redmond +6",
-        "closed": "2026-11-20"
+        "location": "United States, Washington, Redmond +6"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Firmware Security",
@@ -6861,6 +6857,13 @@
         "id": "jibe:30823",
         "url": "https://careers.rivian.com/careers-home/jobs/30823",
         "location": "Tustin, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineering Intern - AI Platform, Autonomy (Summer 2027)",
+        "date": "2026-11-20",
+        "id": "jibe:37339",
+        "url": "https://careers.rivian.com/careers-home/jobs/37339",
+        "location": "Palo Alto, CA"
       }
     ],
     "Roblox": [
@@ -7467,7 +7470,8 @@
         "date": "2026-10-13",
         "id": "greenhouse:7986848003",
         "url": "https://www.zipline.com/open-roles/7986848003?gh_jid=7986848003",
-        "location": "South San Francisco, California, USA"
+        "location": "South San Francisco, California, USA",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Applications Engineer Intern (Spring 2027)",
@@ -9369,6 +9373,13 @@
         "date": "2026-11-18",
         "id": "lever:4cac9569-cc90-4dcd-96b8-d9777c35c943",
         "url": "https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943",
+        "location": "Los Altos, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Robotics Intern, UX Design",
+        "date": "2026-11-20",
+        "id": "lever:2d9833d5-a940-4862-b13b-a1ecc9378fea",
+        "url": "https://jobs.lever.co/tri/2d9833d5-a940-4862-b13b-a1ecc9378fea",
         "location": "Los Altos, CA"
       }
     ],
@@ -13643,6 +13654,13 @@
         "date": "2026-11-17",
         "id": "workday:JR-202624190",
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-PhD-Battery-Research---Development-Intern_JR-202624190",
+        "location": "Warren, Michigan, United States of America"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern - Cybersecurity Education & Awareness Program Intern",
+        "date": "2026-11-20",
+        "id": "workday:JR-202624606",
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Cybersecurity-Education---Awareness-Program-Intern_JR-202624606",
         "location": "Warren, Michigan, United States of America"
       }
     ],
@@ -21207,6 +21225,20 @@
         "id": "ashby:ba07e677-4c10-4554-b9b9-343d10827b9a",
         "url": "https://jobs.ashbyhq.com/aurora-operations-inc/ba07e677-4c10-4554-b9b9-343d10827b9a",
         "location": "Pittsburgh, PA"
+      },
+      {
+        "title": "Senior Program Manager, Mapping Operations",
+        "date": "2026-11-20",
+        "id": "ashby:18e56154-6bd9-4668-a046-1616ef6950a5",
+        "url": "https://jobs.ashbyhq.com/aurora-operations-inc/18e56154-6bd9-4668-a046-1616ef6950a5",
+        "location": "Mountain View, CA +1"
+      },
+      {
+        "title": "Staff Process Operations Engineer",
+        "date": "2026-11-20",
+        "id": "ashby:2d50e4c7-1fdc-49c8-8e83-81fc6c80b2a1",
+        "url": "https://jobs.ashbyhq.com/aurora-operations-inc/2d50e4c7-1fdc-49c8-8e83-81fc6c80b2a1",
+        "location": "Dallas, TX"
       }
     ],
     "Zoox": [
@@ -30141,6 +30173,13 @@
         "id": "ashby:fc993997-fb7f-4977-bdff-f09c51d96bf6",
         "url": "https://jobs.ashbyhq.com/sunday/fc993997-fb7f-4977-bdff-f09c51d96bf6",
         "location": "Redwood City, CA"
+      },
+      {
+        "title": "Test Operations Lead",
+        "date": "2026-11-20",
+        "id": "ashby:ce2dc91d-4a6f-44fc-8f88-5cbf4cdc7c8f",
+        "url": "https://jobs.ashbyhq.com/sunday/ce2dc91d-4a6f-44fc-8f88-5cbf4cdc7c8f",
+        "location": "Redwood City, CA"
       }
     ],
     "Machina Labs": [
@@ -31616,6 +31655,13 @@
         "date": "2026-11-20",
         "id": "rippling:7130f751-84c8-49a9-85e3-83f3fe4c32aa",
         "url": "https://ats.rippling.com/forterra/jobs/7130f751-84c8-49a9-85e3-83f3fe4c32aa",
+        "location": "Clarksburg, MD"
+      },
+      {
+        "title": "Technical Program Manager",
+        "date": "2026-11-20",
+        "id": "rippling:161eb630-37d5-4e30-954a-9eca7e21b34b",
+        "url": "https://ats.rippling.com/forterra/jobs/161eb630-37d5-4e30-954a-9eca7e21b34b",
         "location": "Clarksburg, MD"
       }
     ],
@@ -45004,14 +45050,16 @@
         "date": "2026-10-28",
         "id": "google:111033915765859014",
         "url": "https://www.google.com/about/careers/applications/jobs/results/111033915765859014",
-        "location": "London, UK"
+        "location": "London, UK",
+        "closed": "2026-11-20"
       },
       {
         "title": "Research Engineer, Bioresilience, DeepMind",
         "date": "2026-10-28",
         "id": "google:121101044229776070",
         "url": "https://www.google.com/about/careers/applications/jobs/results/121101044229776070",
-        "location": "London, UK"
+        "location": "London, UK",
+        "closed": "2026-11-20"
       },
       {
         "title": "Game Designer, Inception, DeepMind",
@@ -51709,6 +51757,13 @@
         "id": "ashby:2727c0ce-1217-4f3f-aebe-22e136e2954f",
         "url": "https://jobs.ashbyhq.com/saronic/2727c0ce-1217-4f3f-aebe-22e136e2954f",
         "location": "Austin, TX"
+      },
+      {
+        "title": "Infrastructure Superintendent",
+        "date": "2026-11-20",
+        "id": "ashby:d0de917d-7bd5-4734-a60a-f009ed08b1d2",
+        "url": "https://jobs.ashbyhq.com/saronic/d0de917d-7bd5-4734-a60a-f009ed08b1d2",
+        "location": "Austin, TX"
       }
     ],
     "Built Robotics": [
@@ -52607,6 +52662,13 @@
         "id": "greenhouse:6266281004",
         "url": "https://job-boards.greenhouse.io/viamrobotics/jobs/6266281004",
         "location": "New York, NY"
+      },
+      {
+        "title": "Product Marketing Manager, Developer Platform",
+        "date": "2026-11-20",
+        "id": "greenhouse:6267231004",
+        "url": "https://job-boards.greenhouse.io/viamrobotics/jobs/6267231004",
+        "location": "New York, NY"
       }
     ],
     "Foxglove": [
@@ -52697,6 +52759,13 @@
         "id": "ashby:6f701c03-581a-4796-b78e-dd62700d03d0",
         "url": "https://jobs.ashbyhq.com/cocodelivery/6f701c03-581a-4796-b78e-dd62700d03d0",
         "location": "LA"
+      },
+      {
+        "title": "Senior Full-Cycle Recruiter",
+        "date": "2026-11-20",
+        "id": "ashby:4b9db225-b7ee-4bd2-9fe8-fc5fa9e337b6",
+        "url": "https://jobs.ashbyhq.com/cocodelivery/4b9db225-b7ee-4bd2-9fe8-fc5fa9e337b6",
+        "location": "Remote"
       }
     ],
     "Hadrian": [
@@ -54118,6 +54187,13 @@
         "id": "ashby:d058506b-21bd-4267-b5f3-18cd1b8f4165",
         "url": "https://jobs.ashbyhq.com/hadrian-automation/d058506b-21bd-4267-b5f3-18cd1b8f4165",
         "location": "Los Angeles, CA"
+      },
+      {
+        "title": "EHS Coordinator",
+        "date": "2026-11-20",
+        "id": "ashby:eb2db845-d9b7-43d8-9419-aa89c0c07713",
+        "url": "https://jobs.ashbyhq.com/hadrian-automation/eb2db845-d9b7-43d8-9419-aa89c0c07713",
+        "location": "Los Angeles, CA"
       }
     ],
     "Saildrone": [
@@ -54722,7 +54798,8 @@
         "date": "2026-10-14",
         "id": "rippling:afc0caf2-9d51-40ee-844c-0ee7dc952d7b",
         "url": "https://ats.rippling.com/mytra/jobs/afc0caf2-9d51-40ee-844c-0ee7dc952d7b",
-        "location": "Brisbane, CA"
+        "location": "Brisbane, CA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Product Manager",
@@ -64620,6 +64697,34 @@
         "id": "workday:JR00054333",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Ormond-Beach-Florida-United-States-of-America/Machine-Operator---Molding_JR00054333",
         "location": "Ormond Beach, Florida, United States of America"
+      },
+      {
+        "title": "Corporate Account Manager, PowerGen",
+        "date": "2026-11-20",
+        "id": "workday:JR00043640",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Houston-Texas-United-States-of-America/Corporate-Account-Manager--PowerGen_JR00043640",
+        "location": "2 Locations"
+      },
+      {
+        "title": "Operations Systems Specialist",
+        "date": "2026-11-20",
+        "id": "workday:JR00053557-1",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Fort-Smith-Arkansas-United-States-of-America/Operations-Systems-Specialist_JR00053557-1",
+        "location": "Fort Smith, Arkansas, United States of America"
+      },
+      {
+        "title": "ABB Conversion - Material Handler",
+        "date": "2026-11-20",
+        "id": "workday:JR00054338",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NM-Albuquerque/ABB-Conversion---Material-Handler_JR00054338",
+        "location": "USA, NM, Albuquerque"
+      },
+      {
+        "title": "ELSP Production Operator 2nd Shift",
+        "date": "2026-11-20",
+        "id": "workday:JR00049014",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Mebane/ELSP-Production-Operator-2nd-Shift_JR00049014",
+        "location": "USA, NC, Mebane"
       }
     ],
     "Teradyne": [
@@ -68338,6 +68443,13 @@
         "id": "adp:575645",
         "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=575645&lang=en_US",
         "location": "Glen Burnie, MD"
+      },
+      {
+        "title": "Executive Assistant",
+        "date": "2026-11-20",
+        "id": "adp:575969",
+        "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=575969&lang=en_US",
+        "location": "Houston, TX"
       }
     ],
     "Zimmer Biomet": [
@@ -69812,7 +69924,8 @@
         "date": "N/A",
         "id": "greenhouse:4313824009",
         "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4313824009",
-        "location": "Penrose, CO"
+        "location": "Penrose, CO",
+        "closed": "2026-11-20"
       },
       {
         "title": "Workday Administrator",
@@ -79362,7 +79475,8 @@
         "date": "2026-10-22",
         "id": "ashby:1c516e9f-c97d-4a40-8529-9871dac615a5",
         "url": "https://jobs.ashbyhq.com/openai/1c516e9f-c97d-4a40-8529-9871dac615a5",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-20"
       },
       {
         "title": "Research Engineer / Research Scientist, Health",
@@ -83393,6 +83507,20 @@
         "date": "2026-11-20",
         "id": "ashby:f6cada21-0f54-4d8a-884e-e3c64edd4789",
         "url": "https://jobs.ashbyhq.com/openai/f6cada21-0f54-4d8a-884e-e3c64edd4789",
+        "location": "San Francisco"
+      },
+      {
+        "title": "Marketing Science Lead, APAC",
+        "date": "2026-11-20",
+        "id": "ashby:fab4e858-fe9b-4f84-bf33-e41f1455bdb9",
+        "url": "https://jobs.ashbyhq.com/openai/fab4e858-fe9b-4f84-bf33-e41f1455bdb9",
+        "location": "Singapore"
+      },
+      {
+        "title": "Engineering Manager, Robotics Embedded Systems",
+        "date": "2026-11-20",
+        "id": "ashby:70cfa7de-bf97-41e3-9784-8e123439a1d8",
+        "url": "https://jobs.ashbyhq.com/openai/70cfa7de-bf97-41e3-9784-8e123439a1d8",
         "location": "San Francisco"
       }
     ],
@@ -90132,14 +90260,16 @@
         "date": "2026-10-27",
         "id": "greenhouse:5390956008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390956008",
-        "location": "San Francisco, CA | New York City, NY"
+        "location": "San Francisco, CA | New York City, NY",
+        "closed": "2026-11-20"
       },
       {
         "title": "GTM Strategy & Operations, FDE",
         "date": "2026-10-27",
         "id": "greenhouse:5427938008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5427938008",
-        "location": "San Francisco, CA | New York City, NY"
+        "location": "San Francisco, CA | New York City, NY",
+        "closed": "2026-11-20"
       },
       {
         "title": "GTM Strategy & Operations, Frontier",
@@ -94178,7 +94308,8 @@
         "date": "2026-11-17",
         "id": "greenhouse:5483359008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5483359008",
-        "location": "San Francisco, CA | New York City, NY"
+        "location": "San Francisco, CA | New York City, NY",
+        "closed": "2026-11-20"
       },
       {
         "title": "Developer Relations, Platform",
@@ -94305,6 +94436,13 @@
         "id": "greenhouse:5485188008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5485188008",
         "location": "San Francisco, CA"
+      },
+      {
+        "title": "GTM Strategy & Operations Business Partner",
+        "date": "2026-11-20",
+        "id": "greenhouse:5485591008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5485591008",
+        "location": "San Francisco, CA | New York City, NY | Washington, DC"
       }
     ],
     "xAI": [
@@ -97878,8 +98016,7 @@
         "date": "2026-10-27",
         "id": "workday:JR100998-1",
         "url": "https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Warsaw-Indiana/Plant-Vehicle-Engineering-Technician--Electrical-Systems---Harness-Support_JR100998-1",
-        "location": "Warsaw, Indiana",
-        "closed": "2026-11-18"
+        "location": "Warsaw, Indiana"
       },
       {
         "title": "QMS, Q Excellence Lead",
@@ -103283,6 +103420,13 @@
         "id": "ibm:145296",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=145296",
         "location": "Poughkeepsie"
+      },
+      {
+        "title": "\u2b50\ufe0f Technical Support Intern- Tucson-AZ",
+        "date": "2026-11-20",
+        "id": "ibm:135996",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=135996",
+        "location": "Tucson"
       }
     ],
     "Bank of America": [
@@ -120837,6 +120981,20 @@
         "id": "workday:R0000450139",
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1-Walker-Way-West-JeffersonOH-43162-9406/Operations-Manager-Intern--Starting-Summer-2027--Regional-Distribution-Center--West-Jefferson--OH_R0000450139",
         "location": "1 Walker Way, West Jefferson,OH 43162-9406"
+      },
+      {
+        "title": "\u2b50\ufe0f Operation Manager Intern (Starting Summer 2027) Regional Distribution Center - Phoenix, AZ",
+        "date": "2026-11-20",
+        "id": "workday:R0000450404",
+        "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/25-N-75th-Ave-PhoenixAZ-85043-2109/Operation-Manager-Intern--Starting-Summer-2027--Regional-Distribution-Center---Phoenix--AZ_R0000450404",
+        "location": "25 N 75th Ave, Phoenix,AZ 85043-2109"
+      },
+      {
+        "title": "\u2b50\ufe0f Operation Manager Intern (Starting Summer 2027) Last Mile Distribution Center - Minneapolis, MN",
+        "date": "2026-11-20",
+        "id": "workday:R0000450437",
+        "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/2700-Winter-St-NE-MinneapolisMN-55413-2945/Operation-Manager-Intern--Starting-Summer-2027--Last-Mile-Distribution-Center---Minneapolis--MN_R0000450437",
+        "location": "2700 Winter St NE, Minneapolis,MN 55413-2945"
       }
     ],
     "DRW": [
@@ -121572,6 +121730,13 @@
         "id": "workday:REQ383239",
         "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-AI-Engineering-Internship---Site-Reliability---Automation_REQ383239",
         "location": "Atlanta, Georgia"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Fiber Technical Engineering Operations Internship",
+        "date": "2026-11-20",
+        "id": "workday:REQ383611",
+        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Fiber-Technical-Engineering-Operations-Internship_REQ383611",
+        "location": "Overland Park, Kansas"
       }
     ],
     "Akuna Capital": [
@@ -124909,6 +125074,13 @@
         "id": "lever:392ebce2-31d5-443b-9f78-727539ef3c75",
         "url": "https://jobs.lever.co/SimbeRobotics/392ebce2-31d5-443b-9f78-727539ef3c75",
         "location": "San Francisco Bay Area"
+      },
+      {
+        "title": "Senior Fleet Operations Engineer - West Coast",
+        "date": "2026-11-20",
+        "id": "lever:c14e2f1b-83c5-4b3f-a4c4-eabfd5b92f31",
+        "url": "https://jobs.lever.co/SimbeRobotics/c14e2f1b-83c5-4b3f-a4c4-eabfd5b92f31",
+        "location": "Portland, OR +2"
       }
     ],
     "Medra": [
@@ -126165,10 +126337,6 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
-    },
-    "Lockheed Martin": {
-      "since": "2026-11-20",
-      "error": "ReadTimeout: HTTPSConnectionPool(host='lockheedmartin.eightfold.ai', port=443): Read timed out. (read timeout=30)"
     }
   },
   "closures_untracked": {
