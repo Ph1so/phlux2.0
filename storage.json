@@ -10044,7 +10044,8 @@
         "date": "2026-10-13",
         "id": "tesla:281634",
         "url": "https://www.tesla.com/careers/search/job/start-optimus-service-technician-winter-2027-281634",
-        "location": "Fremont, CA"
+        "location": "Fremont, CA",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Internship, Data Engineer, Fleet Analytics (Winter/Spring 2027)",
@@ -17891,6 +17892,13 @@
         "date": "2026-11-20",
         "id": "greenhouse:6267259004",
         "url": "https://boards.greenhouse.io/apptronik/jobs/6267259004?gh_jid=6267259004",
+        "location": "Austin, TX"
+      },
+      {
+        "title": "Staff Mechanical Engineer \u2013 Torso",
+        "date": "2026-11-20",
+        "id": "greenhouse:6266320004",
+        "url": "https://boards.greenhouse.io/apptronik/jobs/6266320004?gh_jid=6266320004",
         "location": "Austin, TX"
       }
     ],
@@ -33626,7 +33634,8 @@
         "date": "N/A",
         "id": "greenhouse:5235164007",
         "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5235164007",
-        "location": "Torrance, California, United States"
+        "location": "Torrance, California, United States",
+        "closed": "2026-11-20"
       },
       {
         "title": "Manager, Supply Chain Planning & Systems",
@@ -36769,7 +36778,8 @@
         "date": "2026-10-13",
         "id": "greenhouse:8189848",
         "url": "https://careers.withwaymo.com/jobs?gh_jid=8189848",
-        "location": "Mountain View, California"
+        "location": "Mountain View, California",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern, MS/PhD, Semantics",
@@ -44002,7 +44012,8 @@
         "date": "N/A",
         "id": "google:107224573174260422",
         "url": "https://www.google.com/about/careers/applications/jobs/results/107224573174260422",
-        "location": "San Francisco, CA +2"
+        "location": "San Francisco, CA +2",
+        "closed": "2026-11-20"
       },
       {
         "title": "Senior Staff Research Scientist, Recommendation Systems, DeepMind",
@@ -44551,7 +44562,8 @@
         "date": "N/A",
         "id": "google:99346641080722118",
         "url": "https://www.google.com/about/careers/applications/jobs/results/99346641080722118",
-        "location": "Bengaluru, Karnataka, India"
+        "location": "Bengaluru, Karnataka, India",
+        "closed": "2026-11-20"
       },
       {
         "title": "Research Scientist, Gemini Commercial Intelligence, DeepMind",
@@ -45110,7 +45122,8 @@
         "date": "2026-10-30",
         "id": "google:101218541104964294",
         "url": "https://www.google.com/about/careers/applications/jobs/results/101218541104964294",
-        "location": "London, UK"
+        "location": "London, UK",
+        "closed": "2026-11-20"
       },
       {
         "title": "Senior Software Engineer, Data and Infrastructure, Professional Intelligence, DeepMind",
@@ -64725,6 +64738,13 @@
         "id": "workday:JR00049014",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Mebane/ELSP-Production-Operator-2nd-Shift_JR00049014",
         "location": "USA, NC, Mebane"
+      },
+      {
+        "title": "Associate HSE Specialist",
+        "date": "2026-11-20",
+        "id": "workday:JR00054227",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/New-Berlin-Wisconsin-United-States-of-America/Associate-HSE-Specialist_JR00054227",
+        "location": "New Berlin, Wisconsin, United States of America"
       }
     ],
     "Teradyne": [
@@ -67139,6 +67159,20 @@
         "id": "successfactors:1452623000",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Assistant-Corporate-Controller-%28Teradyne%2C-N_-Reading-MA%29-MA/1452623000/",
         "location": "North Reading, MA"
+      },
+      {
+        "title": "Traffic Controller (Teradyne, N. Reading, MA)",
+        "date": "2026-11-20",
+        "id": "successfactors:1452667000",
+        "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Traffic-Controller-%28Teradyne%2C-N_-Reading%2C-MA%29-MA/1452667000/",
+        "location": "North Reading, MA"
+      },
+      {
+        "title": "Senior Mechanical Engineer (Teradyne, San Jose, CA)",
+        "date": "2026-11-20",
+        "id": "successfactors:1452679600",
+        "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Senior-Mechanical-Engineer-%28Teradyne%2C-San-Jose%2C-CA%29-CA-95101/1452679600/",
+        "location": "San Jose, CA"
       }
     ],
     "KUKA": [
@@ -68530,7 +68564,8 @@
         "date": "N/A",
         "id": "phenom:13480",
         "url": "https://careers.zimmerbiomet.com/us/en/job/13480/2027-Summer-Intern-Human-Resources",
-        "location": "Warsaw, IN +1"
+        "location": "Warsaw, IN +1",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Operations Efficiency Intern",
@@ -83522,6 +83557,20 @@
         "id": "ashby:70cfa7de-bf97-41e3-9784-8e123439a1d8",
         "url": "https://jobs.ashbyhq.com/openai/70cfa7de-bf97-41e3-9784-8e123439a1d8",
         "location": "San Francisco"
+      },
+      {
+        "title": "Product Marketing Manager, SMB",
+        "date": "2026-11-20",
+        "id": "ashby:894ba35c-c6b6-4cf0-9451-f996aa695e49",
+        "url": "https://jobs.ashbyhq.com/openai/894ba35c-c6b6-4cf0-9451-f996aa695e49",
+        "location": "San Francisco"
+      },
+      {
+        "title": "Lauch Producer, Business Marketing",
+        "date": "2026-11-20",
+        "id": "ashby:5ebe5049-19e5-469e-a7bd-d8e34524220c",
+        "url": "https://jobs.ashbyhq.com/openai/5ebe5049-19e5-469e-a7bd-d8e34524220c",
+        "location": "US - Remote"
       }
     ],
     "John Deere": [
@@ -94442,7 +94491,8 @@
         "date": "2026-11-20",
         "id": "greenhouse:5485591008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5485591008",
-        "location": "San Francisco, CA | New York City, NY | Washington, DC"
+        "location": "San Francisco, CA | New York City, NY | Washington, DC",
+        "closed": "2026-11-20"
       }
     ],
     "xAI": [
@@ -94930,7 +94980,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5253475007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5253475007",
-        "location": "Palo Alto, CA"
+        "location": "Palo Alto, CA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Corporate Counsel",
@@ -97129,6 +97180,13 @@
         "id": "greenhouse:5090998007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5090998007",
         "location": "Austin, TX; New York, NY; Palo Alto, CA; Seattle, WA; Washington, DC"
+      },
+      {
+        "title": "Lead Operations Engineer, Construction & Site Efficiency - Memphis",
+        "date": "2026-11-20",
+        "id": "greenhouse:5303782007",
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5303782007",
+        "location": "Southaven, MS; Memphis, TN"
       }
     ],
     "Thinking Machines Lab": [
@@ -115707,8 +115765,7 @@
         "date": "2026-11-12",
         "id": "eightfold:563602813674227",
         "url": "https://bostonscientific.eightfold.ai/careers/job/563602813674227",
-        "location": "Marlboro, MA",
-        "closed": "2026-11-18"
+        "location": "Marlboro, MA"
       },
       {
         "title": "\u2b50\ufe0f R&D Leads Sustaining Engineer Intern",
@@ -121737,6 +121794,20 @@
         "id": "workday:REQ383611",
         "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Fiber-Technical-Engineering-Operations-Internship_REQ383611",
         "location": "Overland Park, Kansas"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Data Analyst Internship",
+        "date": "2026-11-20",
+        "id": "workday:REQ383587",
+        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Data-Analyst-Internship_REQ383587",
+        "location": "Bellevue, Washington"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Data Analyst Internship",
+        "date": "2026-11-20",
+        "id": "workday:REQ383588",
+        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Data-Analyst-Internship_REQ383588",
+        "location": "Bellevue, Washington"
       }
     ],
     "Akuna Capital": [
@@ -122015,7 +122086,8 @@
         "date": "N/A",
         "id": "phenom:R117897",
         "url": "https://careers.mitre.org/us/en/job/R117897/GMD-TDA-Nuclear-Survivability-Internship",
-        "location": "Bedford, MA +1"
+        "location": "Bedford, MA +1",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Internships in Generative and Agentic AI",
@@ -122955,7 +123027,8 @@
         "date": "N/A",
         "id": "pinpoint:429164",
         "url": "https://impulsespace.pinpointhq.com/en/postings/a381de62-90c2-480d-aba5-9fd5210f22da",
-        "location": "Redondo Beach, CA"
+        "location": "Redondo Beach, CA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Spacecraft Integration Specialist (Avionics)",
@@ -126031,6 +126104,23 @@
         "title:\u2b50\ufe0f Supply Chain Engineering Intern \u2013 Robotics (2026 Fall)"
       ],
       "backlog": true
+    },
+    "Serve Robotics": {
+      "since": "2026-11-20T14:12-05:00",
+      "keys": [
+        "ashby:037bc041-c616-466a-83b5-cb7950fdc704",
+        "ashby:845d4e3d-620a-493b-af4e-90c585a28c93",
+        "ashby:882e6b27-c3ea-4c72-a2ce-22d4cc601b33",
+        "ashby:9062f31f-5614-4f86-af20-842b3b1a3ac5",
+        "ashby:affbda32-d839-44bc-952b-62eae06844d0",
+        "ashby:b4c268eb-cbd2-458f-9b79-5953f5cbe73d",
+        "ashby:b74bd993-16fd-44f7-a71c-33b85d1345e6",
+        "ashby:ce91f6a2-a1e7-4e42-8993-334274dbace9",
+        "ashby:ec1672c7-39a8-4c53-b8af-6540fbde44e1",
+        "title:Operations Coordinator",
+        "title:Operations Coordinator",
+        "title:Operations Coordinator"
+      ]
     }
   },
   "checked": {
