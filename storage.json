@@ -1373,7 +1373,8 @@
         "date": "2026-11-18",
         "id": "eightfold:1970393557075527",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557075527",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Deep Learning Group",
@@ -2229,7 +2230,8 @@
         "date": "N/A",
         "id": "amazon:10581786",
         "url": "https://www.amazon.jobs/en/jobs/10581786/recruiter-university-talent-acquisition-auta-field-recruting-team",
-        "location": "Seattle, WA +2"
+        "location": "Seattle, WA +2",
+        "closed": "2026-11-20"
       },
       {
         "title": "Controls Integration Engineer, One MHS | Systems Integration and Flow",
@@ -11852,7 +11854,8 @@
         "date": "2026-10-13",
         "id": "bamboohr:183",
         "url": "https://mujin.bamboohr.com/careers/183",
-        "location": "Suwanee, GA"
+        "location": "Suwanee, GA",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer Internship 2027- Interest Form",
@@ -14606,7 +14609,8 @@
         "date": "2026-11-04",
         "id": "greenhouse:6242109004",
         "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6242109004",
-        "location": "Remote"
+        "location": "Remote",
+        "closed": "2026-11-20"
       },
       {
         "title": "Software Engineer III, Simulation",
@@ -19126,6 +19130,20 @@
         "date": "2026-11-20",
         "id": "greenhouse:5290923007",
         "url": "https://lucidmotors.com/careers/search/5290923007?gh_jid=5290923007",
+        "location": "Newark, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern, Vehicle Motion Controls Engineer, Summer 2027",
+        "date": "2026-11-20",
+        "id": "greenhouse:5290899007",
+        "url": "https://lucidmotors.com/careers/search/5290899007?gh_jid=5290899007",
+        "location": "Newark, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Power Electronics Control Engineer Intern, Summer 2027",
+        "date": "2026-11-20",
+        "id": "greenhouse:5290949007",
+        "url": "https://lucidmotors.com/careers/search/5290949007?gh_jid=5290949007",
         "location": "Newark, CA"
       }
     ],
@@ -51369,7 +51387,8 @@
         "date": "2026-11-02",
         "id": "ashby:5e4bd0fe-95f8-4bac-a378-d0b812cba9e8",
         "url": "https://jobs.ashbyhq.com/saronic/5e4bd0fe-95f8-4bac-a378-d0b812cba9e8",
-        "location": "Austin, TX"
+        "location": "Austin, TX",
+        "closed": "2026-11-20"
       },
       {
         "title": "Senior Program Scheduler",
@@ -51777,6 +51796,34 @@
         "id": "ashby:d0de917d-7bd5-4734-a60a-f009ed08b1d2",
         "url": "https://jobs.ashbyhq.com/saronic/d0de917d-7bd5-4734-a60a-f009ed08b1d2",
         "location": "Austin, TX"
+      },
+      {
+        "title": "Senior People Business Partner",
+        "date": "2026-11-20",
+        "id": "ashby:0923b6cb-00ff-4bc5-ac9f-51cf2952eb6f",
+        "url": "https://jobs.ashbyhq.com/saronic/0923b6cb-00ff-4bc5-ac9f-51cf2952eb6f",
+        "location": "Arlington, VA"
+      },
+      {
+        "title": "Staff SCADA Integration Engineer",
+        "date": "2026-11-20",
+        "id": "ashby:d6a97fee-c56b-4495-8805-a4535ec18f96",
+        "url": "https://jobs.ashbyhq.com/saronic/d6a97fee-c56b-4495-8805-a4535ec18f96",
+        "location": "Austin, TX"
+      },
+      {
+        "title": "Staff Data Engineer",
+        "date": "2026-11-20",
+        "id": "ashby:aafcc246-a98a-4433-ab6f-2eb420368254",
+        "url": "https://jobs.ashbyhq.com/saronic/aafcc246-a98a-4433-ab6f-2eb420368254",
+        "location": "Austin, TX"
+      },
+      {
+        "title": "Program Operations Analyst",
+        "date": "2026-11-20",
+        "id": "ashby:7adbf108-33b8-4c32-97ca-70cf2722b47e",
+        "url": "https://jobs.ashbyhq.com/saronic/7adbf108-33b8-4c32-97ca-70cf2722b47e",
+        "location": "Austin, TX +1"
       }
     ],
     "Built Robotics": [
@@ -54207,6 +54254,13 @@
         "id": "ashby:eb2db845-d9b7-43d8-9419-aa89c0c07713",
         "url": "https://jobs.ashbyhq.com/hadrian-automation/eb2db845-d9b7-43d8-9419-aa89c0c07713",
         "location": "Los Angeles, CA"
+      },
+      {
+        "title": "Factory Lead, F2",
+        "date": "2026-11-20",
+        "id": "ashby:e2091049-02be-469e-9ed1-0f01f48142a5",
+        "url": "https://jobs.ashbyhq.com/hadrian-automation/e2091049-02be-469e-9ed1-0f01f48142a5",
+        "location": "Los Angeles, CA"
       }
     ],
     "Saildrone": [
@@ -54982,6 +55036,13 @@
         "id": "rippling:5e479468-c622-4d2b-8789-89fbc14f3292",
         "url": "https://ats.rippling.com/mytra/jobs/5e479468-c622-4d2b-8789-89fbc14f3292",
         "location": "Brisbane, CA"
+      },
+      {
+        "title": "Senior Systems Engineer, Safety",
+        "date": "2026-11-20",
+        "id": "rippling:65530ed2-4286-4bfd-bc53-498838750f14",
+        "url": "https://ats.rippling.com/mytra/jobs/65530ed2-4286-4bfd-bc53-498838750f14",
+        "location": "Brisbane, CA"
       }
     ],
     "Overland AI": [
@@ -55413,6 +55474,13 @@
         "id": "rippling:d43a62ae-461c-4600-a2b0-64fae5a46759",
         "url": "https://ats.rippling.com/overland-ai/jobs/d43a62ae-461c-4600-a2b0-64fae5a46759",
         "location": "Seattle, WA"
+      },
+      {
+        "title": "Manager of Strategy and Operations",
+        "date": "2026-11-20",
+        "id": "rippling:58239f92-5928-4057-a151-8f43bdc228eb",
+        "url": "https://ats.rippling.com/overland-ai/jobs/58239f92-5928-4057-a151-8f43bdc228eb",
+        "location": "Seattle, WA"
       }
     ],
     "Berkshire Grey": [
@@ -55767,7 +55835,8 @@
         "date": "2026-10-14",
         "id": "workday:R572838",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Project-Management---California_R572838",
-        "location": "San Jose, California"
+        "location": "San Jose, California",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Quality Engineering - California",
@@ -55811,14 +55880,16 @@
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Project Management - California",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Supply Chain - Florida",
         "date": "2026-10-14",
         "id": "workday:R572738",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Weston-Florida/Summer-2027-Internship---Supply-Chain---Florida_R572738",
-        "location": "Weston, Florida"
+        "location": "Weston, Florida",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Upper Extremities Sales - Pittsburgh, PA",
@@ -56074,14 +56145,16 @@
         "date": "N/A",
         "id": "workday:R572586",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Supply-Chain---California_R572586",
-        "location": "2 Locations"
+        "location": "2 Locations",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Supply Chain - Michigan",
         "date": "N/A",
         "id": "workday:R572585",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Supply-Chain---Michigan_R572585",
-        "location": "Portage, Michigan"
+        "location": "Portage, Michigan",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Advanced Operations Summer Intern",
@@ -56135,7 +56208,8 @@
         "date": "N/A",
         "id": "workday:R572587-1",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Project-Management---Michigan_R572587-1",
-        "location": "Portage, Michigan"
+        "location": "Portage, Michigan",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Finance - Michigan",
@@ -59465,6 +59539,13 @@
         "id": "workday:R8572",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington-MA---ITC/Warranty-Administrator_R8572",
         "location": "USA Wilmington, MA - ITC"
+      },
+      {
+        "title": "Inventory Specialist",
+        "date": "2026-11-20",
+        "id": "workday:R8543",
+        "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmer-TX/Inventory-Specialist_R8543",
+        "location": "USA Wilmer, TX"
       }
     ],
     "PROCEPT BioRobotics": [
@@ -64745,6 +64826,20 @@
         "id": "workday:JR00054227",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/New-Berlin-Wisconsin-United-States-of-America/Associate-HSE-Specialist_JR00054227",
         "location": "New Berlin, Wisconsin, United States of America"
+      },
+      {
+        "title": "Senior Marine Commissioning Engineer",
+        "date": "2026-11-20",
+        "id": "workday:JR00052483",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Miramar-Florida-United-States-of-America/Senior-Marine-Commissioning-Engineer_JR00052483",
+        "location": "2 Locations"
+      },
+      {
+        "title": "HSE Administrative Assistant",
+        "date": "2026-11-20",
+        "id": "workday:JR00040430",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MS-Senatobia/HSE-Administrative-Assistant_JR00040430",
+        "location": "USA, MS, Senatobia"
       }
     ],
     "Teradyne": [
@@ -67718,7 +67813,8 @@
         "title": "Senior Space Flight and Navigation Engineer",
         "date": "N/A",
         "id": "adp:575203",
-        "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=575203&lang=en_US"
+        "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=575203&lang=en_US",
+        "closed": "2026-11-20"
       },
       {
         "title": "Design Engineer - Mid Level",
@@ -75855,7 +75951,8 @@
         "date": "2026-10-22",
         "id": "ashby:acbf80cd-20a7-47fe-aaf9-3e9224d1570c",
         "url": "https://jobs.ashbyhq.com/openai/acbf80cd-20a7-47fe-aaf9-3e9224d1570c",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-20"
       },
       {
         "title": "Developer Experience Engineer, Cyber",
@@ -77582,7 +77679,8 @@
         "date": "2026-10-22",
         "id": "ashby:07fb9365-8e80-48fe-86df-08d60dd46f43",
         "url": "https://jobs.ashbyhq.com/openai/07fb9365-8e80-48fe-86df-08d60dd46f43",
-        "location": "San Francisco +3"
+        "location": "San Francisco +3",
+        "closed": "2026-11-20"
       },
       {
         "title": "Account Director, Digital Natives",
@@ -81221,7 +81319,8 @@
         "date": "2026-10-22",
         "id": "ashby:6aa78bd0-98d6-4671-a98f-d1010c627eb5",
         "url": "https://jobs.ashbyhq.com/openai/6aa78bd0-98d6-4671-a98f-d1010c627eb5",
-        "location": "Ontario - Remote"
+        "location": "Ontario - Remote",
+        "closed": "2026-11-20"
       },
       {
         "title": "Service Designer, Support",
@@ -82026,7 +82125,8 @@
         "date": "2026-11-02",
         "id": "ashby:961d2951-ff59-494f-971e-fe25414c234c",
         "url": "https://jobs.ashbyhq.com/openai/961d2951-ff59-494f-971e-fe25414c234c",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-20"
       },
       {
         "title": "Growth Lead, Brazil",
@@ -82481,7 +82581,8 @@
         "date": "2026-11-06",
         "id": "ashby:41408133-b45f-4c7b-a0df-c050f16d92de",
         "url": "https://jobs.ashbyhq.com/openai/41408133-b45f-4c7b-a0df-c050f16d92de",
-        "location": "New York City"
+        "location": "New York City",
+        "closed": "2026-11-20"
       },
       {
         "title": "Civil & Structural Architect, Power Generation",
@@ -83571,6 +83672,20 @@
         "id": "ashby:5ebe5049-19e5-469e-a7bd-d8e34524220c",
         "url": "https://jobs.ashbyhq.com/openai/5ebe5049-19e5-469e-a7bd-d8e34524220c",
         "location": "US - Remote"
+      },
+      {
+        "title": "Manager, Data Engineering, Trust & Safety",
+        "date": "2026-11-20",
+        "id": "ashby:019170f9-ae56-49fc-8450-f505d39180bb",
+        "url": "https://jobs.ashbyhq.com/openai/019170f9-ae56-49fc-8450-f505d39180bb",
+        "location": "San Francisco"
+      },
+      {
+        "title": "GTM Operations & Agentic Workflows",
+        "date": "2026-11-20",
+        "id": "ashby:970e547c-5eda-4ab3-8a4d-c080a18eb4ac",
+        "url": "https://jobs.ashbyhq.com/openai/970e547c-5eda-4ab3-8a4d-c080a18eb4ac",
+        "location": "San Francisco"
       }
     ],
     "John Deere": [
@@ -93983,7 +94098,8 @@
         "date": "2026-11-06",
         "id": "greenhouse:5475321008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5475321008",
-        "location": "San Francisco, CA | New York City, NY"
+        "location": "San Francisco, CA | New York City, NY",
+        "closed": "2026-11-20"
       },
       {
         "title": "Finance Systems Lead, International",
@@ -94493,6 +94609,13 @@
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5485591008",
         "location": "San Francisco, CA | New York City, NY | Washington, DC",
         "closed": "2026-11-20"
+      },
+      {
+        "title": "Commercial Counsel, GTM Strategic Alliances",
+        "date": "2026-11-20",
+        "id": "greenhouse:5490950008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490950008",
+        "location": "San Francisco, CA | New York City, NY | Seattle, WA"
       }
     ],
     "xAI": [
@@ -101439,6 +101562,20 @@
         "id": "workday:JR360458-1",
         "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Virginia---Mclean/Summer-2027-Intern---Sales-Development--Public-Sector_JR360458-1",
         "location": "Virginia - Mclean"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Intern - Product Marketing, Missionforce",
+        "date": "2026-11-20",
+        "id": "workday:JR369152-1",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Product-Marketing--Missionforce_JR369152-1",
+        "location": "California - San Francisco"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Intern - Field Marketing, Missionforce",
+        "date": "2026-11-20",
+        "id": "workday:JR369144-1",
+        "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Virginia---Mclean/Summer-2027-Intern---Field-Marketing--Missionforce_JR369144-1",
+        "location": "Virginia - Mclean"
       }
     ],
     "PayPal": [
@@ -104391,7 +104528,8 @@
         "date": "N/A",
         "id": "workday:JR-0109860",
         "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-UT-Salt-Lake-City/Associate-Sales-Development-Representative--New-University-Graduate_JR-0109860",
-        "location": "5 Locations"
+        "location": "5 Locations",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Machine Learning Engineer Intern (Canada)",
@@ -116162,7 +116300,8 @@
         "date": "N/A",
         "id": "jibe:135251",
         "url": "https://careers.se.com/global/jobs/135251",
-        "location": "Boston, MA +2"
+        "location": "Boston, MA +2",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Electronics Hardware Engineer Co-Op",
@@ -116347,6 +116486,13 @@
         "id": "jibe:136185",
         "url": "https://careers.se.com/global/jobs/136185",
         "location": "El Paso, TX"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Electro-Mechanical Design Engineer Intern",
+        "date": "2026-11-20",
+        "id": "jibe:143232",
+        "url": "https://careers.se.com/global/jobs/143232",
+        "location": "Morristown, NJ"
       }
     ],
     "Roku": [
@@ -126427,6 +126573,14 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
+    },
+    "General Motors": {
+      "since": "2026-11-20",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
+    },
+    "Slate Auto": {
+      "since": "2026-11-20",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
     }
   },
   "closures_untracked": {
