@@ -588,6 +588,20 @@
         "id": "workday:JR2029639",
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--GenAI-Data-Strategy---Summer-2027_JR2029639",
         "location": "US, CA, Santa Clara"
+      },
+      {
+        "title": "\u2b50\ufe0f Cost Accountant Intern, Global Operations and Manufacturing - Summer 2027",
+        "date": "2026-11-20",
+        "id": "workday:JR2028934-1",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cost-Accountant-Intern--Global-Operations-and-Manufacturing---Summer-2027_JR2028934-1",
+        "location": "US, CA, Santa Clara"
+      },
+      {
+        "title": "\u2b50\ufe0f Finance AI Engineering Intern - Summer 2027",
+        "date": "2026-11-20",
+        "id": "workday:JR2029131",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Finance-AI-Engineering-Intern---Summer-2027_JR2029131",
+        "location": "US, CA, Santa Clara"
       }
     ],
     "Google": [
@@ -12863,7 +12877,8 @@
         "date": "2026-09-30",
         "id": "workday:JR-202618057",
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Rotational-Program---Finance-Operations_JR-202618057",
-        "location": "Warren, Michigan, United States of America"
+        "location": "Warren, Michigan, United States of America",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Becario (a) de Comunicaci\u00f3n Interna",
@@ -13571,7 +13586,8 @@
         "date": "2026-11-06",
         "id": "workday:JR-202623745",
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Mainframe-Systems-Engineer_JR-202623745",
-        "location": "Warren, Michigan, United States of America"
+        "location": "Warren, Michigan, United States of America",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - Machine Learning Engineer, Embodied AI",
@@ -45137,7 +45153,8 @@
         "date": "2026-11-11",
         "id": "google:143922037276975814",
         "url": "https://www.google.com/about/careers/applications/jobs/results/143922037276975814",
-        "location": "New York, NY"
+        "location": "New York, NY",
+        "closed": "2026-11-20"
       },
       {
         "title": "Technical Program Manager, Gemma, DeepMind",
@@ -45328,6 +45345,13 @@
         "id": "google:123677111926825670",
         "url": "https://www.google.com/about/careers/applications/jobs/results/123677111926825670",
         "location": "San Francisco, CA"
+      },
+      {
+        "title": "Senior Data Scientist, Research and Development Infrastructure, DeepMind",
+        "date": "2026-11-20",
+        "id": "google:96059303982441158",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/96059303982441158",
+        "location": "New York, NY"
       }
     ],
     "Wing": [
@@ -55495,7 +55519,8 @@
         "date": "2026-10-14",
         "id": "workday:R572610",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Quality-Engineering---California_R572610",
-        "location": "2 Locations"
+        "location": "2 Locations",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Digital Marketing - New Jersey",
@@ -55510,21 +55535,24 @@
         "date": "2026-10-14",
         "id": "workday:R572901",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fort-Wayne-Indiana/Data-Engineering-Intern_R572901",
-        "location": "Fort Wayne, Indiana"
+        "location": "Fort Wayne, Indiana",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Advanced Support Tools - Indiana",
         "date": "2026-10-14",
         "id": "workday:R572915",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fort-Wayne-Indiana/Summer-2027-Internship---Advanced-Support-Tools---Indiana_R572915",
-        "location": "Fort Wayne, Indiana"
+        "location": "Fort Wayne, Indiana",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Sales Systems Engineer - Michigan",
         "date": "2026-10-14",
         "id": "workday:R572850",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Sales-Systems-Engineer---Michigan_R572850",
-        "location": "Portage, Michigan"
+        "location": "Portage, Michigan",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Project Management - California",
@@ -55604,7 +55632,8 @@
         "date": "2026-10-14",
         "id": "workday:R572881",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tempe-Arizona/Intern--Process-Engineering--Advanced-Operations_R572881",
-        "location": "Tempe, Arizona"
+        "location": "Tempe, Arizona",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Finance Intern",
@@ -55616,49 +55645,56 @@
         "date": "N/A",
         "id": "workday:R573345",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Massachusetts-Virtual-Address/Summer-2027-Internship---Mechanical-Engineer_R573345",
-        "location": "Massachusetts, Virtual Address"
+        "location": "Massachusetts, Virtual Address",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Post Market Quality Engineering Intern",
         "date": "N/A",
         "id": "workday:R572871",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Redmond-Washington/Post-Market-Quality-Engineering-Intern_R572871",
-        "location": "Redmond, Washington"
+        "location": "Redmond, Washington",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship R&D engineer - Columbia City, IN",
         "date": "N/A",
         "id": "workday:R572950",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Columbia-City-Indiana/Summer-2027-Internship-R-D-engineer---Columbia-City--IN_R572950",
-        "location": "Columbia City, Indiana"
+        "location": "Columbia City, Indiana",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Interaction Design - Washington",
         "date": "N/A",
         "id": "workday:R572870",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Redmond-Washington/Summer-2027-Internship---Interaction-Design---Washington_R572870",
-        "location": "Redmond, Washington"
+        "location": "Redmond, Washington",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Industrial Design Intern - Michigan",
         "date": "N/A",
         "id": "workday:R572730",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Industrial-Design-Intern---Portage--MI_R572730",
-        "location": "Portage, Michigan"
+        "location": "Portage, Michigan",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Electrical Engineering - Florida",
         "date": "N/A",
         "id": "workday:R572740",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Weston-Florida/Electrical-Engineering-Intern---Weston--FL_R572740",
-        "location": "Weston, Florida"
+        "location": "Weston, Florida",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Software Engineering, Commercial Operations - Texas",
         "date": "N/A",
         "id": "workday:R572941",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Flower-Mound-Texas/Commercial-Operations-Software-Engineering-Intern---Flower-Mound--TX_R572941",
-        "location": "Flower Mound, Texas"
+        "location": "Flower Mound, Texas",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Intern - Industrial Design, User Experience - Michigan",
@@ -55672,14 +55708,16 @@
         "date": "N/A",
         "id": "workday:R572734",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cary-Illinois/Customer-One-Intern--Data-Analyst----Cary--IL_R572734",
-        "location": "Cary, Illinois"
+        "location": "Cary, Illinois",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Biomedical Engineering - Florida",
         "date": "N/A",
         "id": "workday:R572592",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Biomedical-Engineering---Florida_R572592",
-        "location": "Fort Lauderdale, Florida"
+        "location": "Fort Lauderdale, Florida",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f R&D Intern",
@@ -55694,63 +55732,72 @@
         "date": "N/A",
         "id": "workday:R572877",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Redmond-Washington/Summer-2027-Internship---Quality-Assurance-Engineer---Washington--_R572877",
-        "location": "Redmond, Washington"
+        "location": "Redmond, Washington",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Engineering Intern, Product Quality",
         "date": "N/A",
         "id": "workday:R572940",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tempe-Arizona/Engineering-Intern--Product-Quality_R572940",
-        "location": "Tempe, Arizona"
+        "location": "Tempe, Arizona",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Packaging Engineering Intern",
         "date": "N/A",
         "id": "workday:R572830",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tempe-Arizona/Packaging-Engineering-Intern_R572830",
-        "location": "Tempe, Arizona"
+        "location": "Tempe, Arizona",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Quality Engineering Intern, Microbiology (or Sterility Assurance) Intern",
         "date": "N/A",
         "id": "workday:R572937",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572937",
-        "location": "Arlington, Tennessee"
+        "location": "Arlington, Tennessee",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Quality Engineering Intern, Microbiology (or Sterility Assurance) Intern",
         "date": "N/A",
         "id": "workday:R572936",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Arlington-Tennessee/Quality-Engineering-Intern--Microbiology--or-Sterility-Assurance--Intern_R572936",
-        "location": "Arlington, Tennessee"
+        "location": "Arlington, Tennessee",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Mechanical Engineering Intern",
         "date": "N/A",
         "id": "workday:R572943-1",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Massachusetts-Virtual-Address/Mechanical-Engineering-Intern_R572943-1",
-        "location": "Massachusetts, Virtual Address"
+        "location": "Massachusetts, Virtual Address",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Manufacturing Engineering Intern",
         "date": "N/A",
         "id": "workday:R572922",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cary-Illinois/Manufacturing-Engineering-Intern_R572922",
-        "location": "Cary, Illinois"
+        "location": "Cary, Illinois",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Manufacturing Engineering Intern",
         "date": "N/A",
         "id": "workday:R572846",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Redmond-Washington/Manufacturing-Engineering-Intern_R572846",
-        "location": "Redmond, Washington"
+        "location": "Redmond, Washington",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f R&D Operations Intern",
         "date": "N/A",
         "id": "workday:R572768",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Salt-Lake-City-Utah/R-D-Operations-Intern_R572768",
-        "location": "Salt Lake City, Utah"
+        "location": "Salt Lake City, Utah",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Finance - Texas",
@@ -55785,28 +55832,32 @@
         "date": "N/A",
         "id": "workday:R572732",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Weston-Florida/Advanced-Operations-Summer-Intern_R572732",
-        "location": "Weston, Florida"
+        "location": "Weston, Florida",
+        "closed": "2026-11-20"
       },
       {
         "title": "R&D Lab Analyst",
         "date": "N/A",
         "id": "workday:R572947",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tennessee-Virtual-Address/R-D-Lab-Analyst_R572947",
-        "location": "Tennessee, Virtual Address"
+        "location": "Tennessee, Virtual Address",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - R&D Process & Technology Development",
         "date": "N/A",
         "id": "workday:R572905",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Salt-Lake-City-Utah/XMLNAME-2027-Summer-Intern---R-D-Process---Technology-Development_R572905",
-        "location": "Salt Lake City, Utah"
+        "location": "Salt Lake City, Utah",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Quality Engineering Intern",
         "date": "N/A",
         "id": "workday:R572886",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Flower-Mound-Texas/Quality-Engineering-Intern_R572886",
-        "location": "Flower Mound, Texas"
+        "location": "Flower Mound, Texas",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Statistical Programming - California",
@@ -55820,7 +55871,8 @@
         "date": "N/A",
         "id": "workday:R572728",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Redmond-Washington/Mechanical-Engineering-Intern_R572728",
-        "location": "Redmond, Washington"
+        "location": "Redmond, Washington",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Project Management - Michigan",
@@ -55968,7 +56020,8 @@
         "date": "N/A",
         "id": "workday:R572595",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Kalamazoo-Michigan/Summer-2027-Internship---Manufacturing-Engineering---Michigan_R572595",
-        "location": "2 Locations"
+        "location": "2 Locations",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Upper Extremities Sales - Fremont, CA",
@@ -55989,14 +56042,16 @@
         "date": "N/A",
         "id": "workday:R572593",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cary-Illinois/Summer-2027-Internship---Biomedical-Engineering---Illinois_R572593",
-        "location": "Cary, Illinois"
+        "location": "Cary, Illinois",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Biomedical Engineering - New Jersey",
         "date": "N/A",
         "id": "workday:R572594-1",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Mahwah-New-Jersey/Summer-2027-Internship---Biomedical-Engineering---New-Jersey_R572594-1",
-        "location": "Mahwah, New Jersey"
+        "location": "Mahwah, New Jersey",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Sage Sales- Cary, IL",
@@ -56010,7 +56065,8 @@
         "date": "N/A",
         "id": "workday:R572599",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tempe-Arizona/Summer-2027-Internship---Mechanical-Engineering---Arizona_R572599",
-        "location": "Tempe, Arizona"
+        "location": "Tempe, Arizona",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Sage Sales - Cary, IL",
@@ -56024,21 +56080,24 @@
         "date": "N/A",
         "id": "workday:R572600",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Mechanical-Engineering---California_R572600",
-        "location": "2 Locations"
+        "location": "2 Locations",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Mechanical Engineering - Illinois",
         "date": "N/A",
         "id": "workday:R572602",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cary-Illinois/Summer-2027-Internship---Mechanical-Engineering---Illinois_R572602",
-        "location": "Cary, Illinois"
+        "location": "Cary, Illinois",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Mechanical Engineering - Michigan",
         "date": "N/A",
         "id": "workday:R572603",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Mechanical-Engineering---Michigan_R572603",
-        "location": "Portage, Michigan"
+        "location": "Portage, Michigan",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Upper Extremities Sales - New York, NY",
@@ -56052,7 +56111,8 @@
         "date": "N/A",
         "id": "workday:R572605-1",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Mahwah-New-Jersey/Summer-2027-Internship---Mechanical-Engineering---New-Jersey_R572605-1",
-        "location": "Mahwah, New Jersey"
+        "location": "Mahwah, New Jersey",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Clinical Affairs - New Jersey",
@@ -56193,7 +56253,8 @@
         "date": "N/A",
         "id": "workday:R572604",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Electrical-Engineering---California_R572604",
-        "location": "2 Locations"
+        "location": "2 Locations",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship \u2013 Finance \u2013 California",
@@ -56207,7 +56268,8 @@
         "date": "N/A",
         "id": "workday:R572624",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624",
-        "location": "2 Locations"
+        "location": "2 Locations",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Downstream Marketing - Illinois",
@@ -56221,35 +56283,40 @@
         "date": "N/A",
         "id": "workday:R572601",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Data-Analytics---Michigan_R572601",
-        "location": "Portage, Michigan"
+        "location": "Portage, Michigan",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Electrical Engineering - Michigan",
         "date": "N/A",
         "id": "workday:R572609",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Electrical-Engineering---Michigan_R572609",
-        "location": "Portage, Michigan"
+        "location": "Portage, Michigan",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Software Engineering - Florida",
         "date": "N/A",
         "id": "workday:R572629-1",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1",
-        "location": "Fort Lauderdale, Florida"
+        "location": "Fort Lauderdale, Florida",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Software Engineering - Indiana",
         "date": "N/A",
         "id": "workday:R572631",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fort-Wayne-Indiana/Summer-2027-Internship---Software-Engineering---Indiana_R572631",
-        "location": "Fort Wayne, Indiana"
+        "location": "Fort Wayne, Indiana",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Software Engineering - Michigan",
         "date": "N/A",
         "id": "workday:R572632-1",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Software-Engineering---Michigan_R572632-1",
-        "location": "Portage, Michigan"
+        "location": "Portage, Michigan",
+        "closed": "2026-11-20"
       }
     ],
     "Persona AI": [
@@ -57035,7 +57102,8 @@
         "date": "N/A",
         "id": "workday:R-097289",
         "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Danvers-Massachusetts-United-States-of-America/Innovation-Excellence-Co-op_R-097289",
-        "location": "Danvers, Massachusetts, United States of America"
+        "location": "Danvers, Massachusetts, United States of America",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Software Test Engineering Co-op (RLM)",
@@ -57276,7 +57344,8 @@
         "date": "N/A",
         "id": "workday:R-098266",
         "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Clinical-Pharmacology-and-Pharmacometrics-Intern---Summer-2027_R-098266",
-        "location": "5 Locations"
+        "location": "5 Locations",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Internship Business Assistant",
@@ -57291,28 +57360,32 @@
         "date": "N/A",
         "id": "workday:R-096743",
         "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op-Summer-2027_R-096743",
-        "location": "Cincinnati, Ohio, United States of America"
+        "location": "Cincinnati, Ohio, United States of America",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Electrical Engineering Co-Op, Summer 2027",
         "date": "N/A",
         "id": "workday:R-096736",
         "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Electrical-Engineering-Co-Op--Summer-2027_R-096736",
-        "location": "Cincinnati, Ohio, United States of America"
+        "location": "Cincinnati, Ohio, United States of America",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Data Science Co-Op, Summer 2027",
         "date": "N/A",
         "id": "workday:R-096746",
         "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Summer-2027_R-096746",
-        "location": "Cincinnati, Ohio, United States of America"
+        "location": "Cincinnati, Ohio, United States of America",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Design and Development Co-Op, Summer 2027",
         "date": "N/A",
         "id": "workday:R-096727",
         "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cincinnati-Ohio-United-States-of-America/Design-and-Development-Co-Op--Summer-2027_R-096727",
-        "location": "Cincinnati, Ohio, United States of America"
+        "location": "Cincinnati, Ohio, United States of America",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern - MBA Finance Leadership Development Program",
@@ -57545,6 +57618,13 @@
         "id": "workday:R-111669-1",
         "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Milano-Italy/Stage-in-Medical-Affairs--Pharma-_R-111669-1",
         "location": "Milano, Italy"
+      },
+      {
+        "title": "\u2b50\ufe0f Design Engineering Student Placement 2027",
+        "date": "2026-11-20",
+        "id": "workday:R-110497-1",
+        "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Leeds-West-Yorkshire-United-Kingdom/Design-Engineering-Student-Placement-2027_R-110497-1",
+        "location": "Leeds, West Yorkshire, United Kingdom"
       }
     ],
     "PlusAI": [
@@ -59055,6 +59135,13 @@
         "id": "workday:R8571",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington-MA---ITC/Lead-Mechanical-Engineering-Technician---Mobile-Bots_R8571",
         "location": "USA Wilmington, MA - ITC"
+      },
+      {
+        "title": "Atlassian Administrator",
+        "date": "2026-11-20",
+        "id": "workday:R8576",
+        "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Atlassian-Administrator_R8576",
+        "location": "USA Wilmington, MA - HQ"
       }
     ],
     "PROCEPT BioRobotics": [
@@ -59624,7 +59711,8 @@
         "date": "2026-10-14",
         "id": "workday:JR00045303",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-OH-Westerville/DCS-Business-Development-Driver_JR00045303",
-        "location": "2 Locations"
+        "location": "2 Locations",
+        "closed": "2026-11-20"
       },
       {
         "title": "Quality Engineer",
@@ -59638,8 +59726,7 @@
         "date": "2026-10-14",
         "id": "workday:JR00037650",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Louisiana-United-States-of-America/Resident-Service-Site-Manager_JR00037650",
-        "location": "Remote, Louisiana, United States of America",
-        "closed": "2026-11-12"
+        "location": "Remote, Louisiana, United States of America"
       },
       {
         "title": "Contractor Key Account Manager - West",
@@ -59656,8 +59743,7 @@
         "date": "2026-10-14",
         "id": "workday:JR00046300",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Raleigh/Power-Electronics-Scientist_JR00046300",
-        "location": "USA, NC, Raleigh",
-        "closed": "2026-11-13"
+        "location": "USA, NC, Raleigh"
       },
       {
         "title": "Medium Voltage - Production Operator Entry - 2nd Shift",
@@ -59739,7 +59825,8 @@
         "date": "2026-10-14",
         "id": "workday:JR00051261",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MS-Senatobia/Warehouse-Internal-Logistics-Operator_JR00051261",
-        "location": "USA, MS, Senatobia"
+        "location": "USA, MS, Senatobia",
+        "closed": "2026-11-20"
       },
       {
         "title": "Associate Mechanical Design Engineer",
@@ -59889,7 +59976,8 @@
         "date": "2026-10-15",
         "id": "workday:JR00047109",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Ohio-United-States-of-America/Business-Development-Manager---Industrial-Machinery_JR00047109",
-        "location": "47 Locations"
+        "location": "47 Locations",
+        "closed": "2026-11-20"
       },
       {
         "title": "Associate Project Engineer - Automation",
@@ -59925,8 +60013,7 @@
         "date": "2026-10-15",
         "id": "workday:JR00045530",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-OH-Westerville/Systems-Engineer-Pulp-Paper-and-Fiber_JR00045530",
-        "location": "2 Locations",
-        "closed": "2026-11-13"
+        "location": "2 Locations"
       },
       {
         "title": "Process Engineer",
@@ -60082,8 +60169,7 @@
         "date": "2026-10-16",
         "id": "workday:JR00043055",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Richmond-Virginia-United-States-of-America/Installed-Base-Manager_JR00043055",
-        "location": "Richmond, Virginia, United States of America",
-        "closed": "2026-11-19"
+        "location": "Richmond, Virginia, United States of America"
       },
       {
         "title": "Project Manager - Robotics and Automation",
@@ -60285,8 +60371,7 @@
         "date": "2026-10-20",
         "id": "workday:JR00047327",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Mebane/Senior-Project-Engineer---Mechanical-Design-Automation_JR00047327",
-        "location": "USA, NC, Mebane",
-        "closed": "2026-11-17"
+        "location": "USA, NC, Mebane"
       },
       {
         "title": "Head of Global Segment Sales - Paper & Metals",
@@ -60377,15 +60462,18 @@
         "date": "2026-10-20",
         "id": "workday:JR00050997",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Mebane/Customer-Account-Manager_JR00050997",
-        "location": "USA, NC, Mebane"
+        "location": "USA, NC, Mebane",
+        "closed": "2026-11-20"
       },
       {
         "title": "Customer Account Manager",
-        "date": "2026-10-20"
+        "date": "2026-10-20",
+        "closed": "2026-11-20"
       },
       {
         "title": "Customer Account Manager",
-        "date": "2026-10-20"
+        "date": "2026-10-20",
+        "closed": "2026-11-20"
       },
       {
         "title": "Assembler- 1st Shift",
@@ -60494,8 +60582,7 @@
         "date": "2026-10-20",
         "id": "workday:JR00046159",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Richmond-Virginia-United-States-of-America/Internal-Logistic-Manager_JR00046159",
-        "location": "Richmond, Virginia, United States of America",
-        "closed": "2026-11-19"
+        "location": "Richmond, Virginia, United States of America"
       },
       {
         "title": "Order Handling Specialist",
@@ -61063,7 +61150,8 @@
         "date": "N/A",
         "id": "workday:JR00039009",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-TN-Memphis/Internal-Communications-Intern--Spring-2027_JR00039009",
-        "location": "USA, TN, Memphis"
+        "location": "USA, TN, Memphis",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Systems Engineering Intern Houston - Summer 2027",
@@ -61190,7 +61278,8 @@
         "date": "N/A",
         "id": "workday:JR00052476",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MI-Auburn-Hills/Global-Key-Account-Manager---KAM-Excellence-Lead--ABB-Robotics_JR00052476",
-        "location": "USA, MI, Auburn Hills"
+        "location": "USA, MI, Auburn Hills",
+        "closed": "2026-11-20"
       },
       {
         "title": "US Midstream Account Manager",
@@ -61819,7 +61908,8 @@
         "date": "N/A",
         "id": "workday:JR00035253-1",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-North-Carolina-USA/Key-Account-Manager---Data-Centers_JR00035253-1",
-        "location": "Remote, North Carolina, USA"
+        "location": "Remote, North Carolina, USA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Manufacturing Process Engineer",
@@ -62174,7 +62264,8 @@
         "date": "N/A",
         "id": "workday:JR00045829",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Fort-Smith-Arkansas-United-States-of-America/Maintenance-A-3rd-Shift_JR00045829",
-        "location": "Fort Smith, Arkansas, United States of America"
+        "location": "Fort Smith, Arkansas, United States of America",
+        "closed": "2026-11-20"
       },
       {
         "title": "Quality Electrical Engineer",
@@ -62343,7 +62434,8 @@
         "date": "N/A",
         "id": "workday:JR00051272",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MS-Senatobia/Assembler-II_JR00051272",
-        "location": "USA, MS, Senatobia"
+        "location": "USA, MS, Senatobia",
+        "closed": "2026-11-20"
       },
       {
         "title": "Contracts Manager, EL Solutions",
@@ -62442,14 +62534,16 @@
         "date": "N/A",
         "id": "workday:JR00046526",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Mebane/R-D-Intern-Mebane--Summer-2027_JR00046526",
-        "location": "USA, NC, Mebane"
+        "location": "USA, NC, Mebane",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Quotations Support Intern - Summer 2027",
         "date": "N/A",
         "id": "workday:JR00046563",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Houston-Texas-United-States-of-America/Quotations-Support-Intern---Summer-2027_JR00046563",
-        "location": "4 Locations"
+        "location": "4 Locations",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Finance Operations Intern \u2013 Summer 2027",
@@ -62463,7 +62557,8 @@
         "date": "N/A",
         "id": "workday:JR00045706",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Alpharetta-Georgia-United-States-of-America/Application-Engineering-Intern---Summer-2027_JR00045706",
-        "location": "2 Locations"
+        "location": "2 Locations",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Automation Engineer Intern - Summer 2027",
@@ -62491,14 +62586,16 @@
         "date": "N/A",
         "id": "workday:JR00040981",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-TN-Selmer/Engineering-Intern--Fall-2026_JR00040981",
-        "location": "USA, TN, Selmer"
+        "location": "USA, TN, Selmer",
+        "closed": "2026-11-20"
       },
       {
         "title": "Machine Operator- 2nd Shift",
         "date": "N/A",
         "id": "workday:JR00048021",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-GA-Flowery-Branch/Machine-Operator--2nd-Shift_JR00048021",
-        "location": "USA, GA, Flowery Branch"
+        "location": "USA, GA, Flowery Branch",
+        "closed": "2026-11-20"
       },
       {
         "title": "HR Business Partner",
@@ -62570,7 +62667,8 @@
         "date": "N/A",
         "id": "workday:JR00049326",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Pennsylvania-United-States-of-America/Field-Application-Engineer---Philadelphia_JR00049326",
-        "location": "Remote, Pennsylvania, United States of America"
+        "location": "Remote, Pennsylvania, United States of America",
+        "closed": "2026-11-20"
       },
       {
         "title": "Quality and Process Technician",
@@ -62642,21 +62740,24 @@
         "date": "N/A",
         "id": "workday:JR00045726",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Fort-Smith-Arkansas-United-States-of-America/Electrical-Design-Engineer-Intern--Summer-2027_JR00045726",
-        "location": "Fort Smith, Arkansas, United States of America"
+        "location": "Fort Smith, Arkansas, United States of America",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Sales Digital Tools & Technology Intern- Summer 2027",
         "date": "N/A",
         "id": "workday:JR00045318",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Fort-Smith-Arkansas-United-States-of-America/Sales-Digital-Tools---Technology-Intern--Summer-2027_JR00045318",
-        "location": "Fort Smith, Arkansas, United States of America"
+        "location": "Fort Smith, Arkansas, United States of America",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Mechanical Design Engineer Intern- Summer 2027",
         "date": "N/A",
         "id": "workday:JR00045727",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Fort-Smith-Arkansas-United-States-of-America/Mechanical-Design-Engineer-Intern--Summer-2027_JR00045727",
-        "location": "Fort Smith, Arkansas, United States of America"
+        "location": "Fort Smith, Arkansas, United States of America",
+        "closed": "2026-11-20"
       },
       {
         "title": "Technical Trainer",
@@ -62670,49 +62771,56 @@
         "date": "N/A",
         "id": "workday:JR00047388",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-OH-Cleveland/Systems-Engineering-Intern---Summer-2027_JR00047388",
-        "location": "USA, OH, Cleveland"
+        "location": "USA, OH, Cleveland",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f IS Common Infrastructure Intern- Summer 2027",
         "date": "N/A",
         "id": "workday:JR00047125",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Cary/IS-Common-Infrastructure-Intern--Summer-2027_JR00047125",
-        "location": "USA, NC, Cary"
+        "location": "USA, NC, Cary",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Chemist/Chemical Engineer Intern - Summer 2027",
         "date": "N/A",
         "id": "workday:JR00047103-1",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bartlesville-Oklahoma-United-States-of-America/Chemist-Chemical-Engineer-Intern---Summer-2027_JR00047103-1",
-        "location": "Bartlesville, Oklahoma, United States of America"
+        "location": "Bartlesville, Oklahoma, United States of America",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f R&D Intern - Summer 2026",
         "date": "N/A",
         "id": "workday:JR00047257",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-CT-Bloomfield/R-D-Intern---Summer-2026_JR00047257",
-        "location": "USA, CT, Bloomfield"
+        "location": "USA, CT, Bloomfield",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f R&D Intern Florence-- Summer 2027",
         "date": "N/A",
         "id": "workday:JR00046528",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-SC-Florence/R-D-Intern--Florence---Summer-2027_JR00046528",
-        "location": "USA, SC, Florence"
+        "location": "USA, SC, Florence",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Procurement Specialist Intern - Spring 2027",
         "date": "N/A",
         "id": "workday:JR00038667",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MS-Senatobia/Procurement-Specialist-Intern---Fall-2026_JR00038667",
-        "location": "USA, MS, Senatobia"
+        "location": "USA, MS, Senatobia",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f R&D Intern Bloomfield - Summer 2027",
         "date": "N/A",
         "id": "workday:JR00046279",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-CT-Bloomfield/R-D-Intern-Bloomfield---Summer-2027_JR00046279",
-        "location": "USA, CT, Bloomfield"
+        "location": "USA, CT, Bloomfield",
+        "closed": "2026-11-20"
       },
       {
         "title": "Test Technician",
@@ -62740,14 +62848,16 @@
         "date": "N/A",
         "id": "workday:JR00051090",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/New-Berlin-Wisconsin-United-States-of-America/LV-Tester-3_JR00051090",
-        "location": "New Berlin, Wisconsin, United States of America"
+        "location": "New Berlin, Wisconsin, United States of America",
+        "closed": "2026-11-20"
       },
       {
         "title": "MV Tester 3",
         "date": "N/A",
         "id": "workday:JR00051085-1",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/New-Berlin-Wisconsin-United-States-of-America/MV-Tester-3_JR00051085-1",
-        "location": "New Berlin, Wisconsin, United States of America"
+        "location": "New Berlin, Wisconsin, United States of America",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Product Management Intern Drive Products - Summer 2027",
@@ -62859,7 +62969,8 @@
         "date": "N/A",
         "id": "workday:JR00042288-1",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-California-United-States-of-America/Strategic-Accounts-Manager--Data-Centers---US-Robotics-West-Coast_JR00042288-1",
-        "location": "2 Locations"
+        "location": "2 Locations",
+        "closed": "2026-11-20"
       },
       {
         "title": "Material Flow Specialist",
@@ -62965,14 +63076,16 @@
         "date": "N/A",
         "id": "workday:JR00034248",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MI-Auburn-Hills/Sales-Account-Manager---US-Automotive-Robotics--Tier-I_JR00034248",
-        "location": "USA, MI, Auburn Hills"
+        "location": "USA, MI, Auburn Hills",
+        "closed": "2026-11-20"
       },
       {
         "title": "Sales Manager - US Automotive Robotics",
         "date": "N/A",
         "id": "workday:JR00036078-1",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MI-Auburn-Hills/Sales-Manager---US-Automotive-Robotics_JR00036078-1",
-        "location": "USA, MI, Auburn Hills"
+        "location": "USA, MI, Auburn Hills",
+        "closed": "2026-11-20"
       },
       {
         "title": "ELDS LV SWGR Team Leader 1st shift",
@@ -63050,40 +63163,35 @@
         "date": "N/A",
         "id": "workday:JR00049725-1",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MO-Saint-Louis/Tool-and-Die-Maker_JR00049725-1",
-        "location": "USA, MO, Saint Louis",
-        "closed": "2026-11-19"
+        "location": "USA, MO, Saint Louis"
       },
       {
         "title": "Tool and Die Designer",
         "date": "N/A",
         "id": "workday:JR00050121",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MO-Saint-Louis/Tool-and-Die-Designer_JR00050121",
-        "location": "USA, MO, Saint Louis",
-        "closed": "2026-11-19"
+        "location": "USA, MO, Saint Louis"
       },
       {
         "title": "Tool and Die Designer",
         "date": "N/A",
         "id": "workday:JR00049945",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MO-Saint-Louis/Tool-and-Die-Designer_JR00049945",
-        "location": "USA, MO, Saint Louis",
-        "closed": "2026-11-19"
+        "location": "USA, MO, Saint Louis"
       },
       {
         "title": "Tool & Die Maker",
         "date": "N/A",
         "id": "workday:JR00049877",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MO-Saint-Louis/Tool---Die-Maker_JR00049877",
-        "location": "USA, MO, Saint Louis",
-        "closed": "2026-11-19"
+        "location": "USA, MO, Saint Louis"
       },
       {
         "title": "Tool Room Manager",
         "date": "N/A",
         "id": "workday:JR00049723",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MO-Saint-Louis/Tool-Room-Manager_JR00049723",
-        "location": "USA, MO, Saint Louis",
-        "closed": "2026-11-19"
+        "location": "USA, MO, Saint Louis"
       },
       {
         "title": "Assembler- 2nd Shift",
@@ -63098,28 +63206,32 @@
         "date": "N/A",
         "id": "workday:JR00032155",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-OH-Cleveland/Senior-Systems-Project-Engineer_JR00032155",
-        "location": "USA, OH, Cleveland"
+        "location": "USA, OH, Cleveland",
+        "closed": "2026-11-20"
       },
       {
         "title": "Applications Technologist",
         "date": "N/A",
         "id": "workday:JR00050277",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bartlesville-Oklahoma-United-States-of-America/Applications-Technologist_JR00050277",
-        "location": "2 Locations"
+        "location": "2 Locations",
+        "closed": "2026-11-20"
       },
       {
         "title": "Instrumentation Product Specialist",
         "date": "N/A",
         "id": "workday:JR00050399-1",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bartlesville-Oklahoma-United-States-of-America/Instrumentation-Product-Specialist_JR00050399-1",
-        "location": "2 Locations"
+        "location": "2 Locations",
+        "closed": "2026-11-20"
       },
       {
         "title": "ELDS LIS Production Scheduler 1st shift",
         "date": "N/A",
         "id": "workday:JR00051473",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Mebane/ELDS-LIS-Production-Scheduler-1st-shift_JR00051473",
-        "location": "USA, NC, Mebane"
+        "location": "USA, NC, Mebane",
+        "closed": "2026-11-20"
       },
       {
         "title": "ELDS LV SWGR Production Operator 1st shift",
@@ -63148,42 +63260,48 @@
         "date": "N/A",
         "id": "workday:JR00050996",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Tennessee-United-States-of-America/Commercial---Industrial-Account-Manager_JR00050996",
-        "location": "Remote, Tennessee, United States of America"
+        "location": "Remote, Tennessee, United States of America",
+        "closed": "2026-11-20"
       },
       {
         "title": "Senior Technical Business Developer \u2013 Grid Automation",
         "date": "N/A",
         "id": "workday:JR00039399",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Cary/Senior-Technical-Business-Developer---Grid-Automation_JR00039399",
-        "location": "183 Locations"
+        "location": "183 Locations",
+        "closed": "2026-11-20"
       },
       {
         "title": "Senior Technical Business Developer \u2013 Sub-transmission Products",
         "date": "N/A",
         "id": "workday:JR00039388",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Cary/Senior-Technical-Business-Developer---Sub-transmission-Products_JR00039388",
-        "location": "183 Locations"
+        "location": "183 Locations",
+        "closed": "2026-11-20"
       },
       {
         "title": "Site Manager",
         "date": "N/A",
         "id": "workday:JR00049178",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Utah-United-States-of-America/Site-Manager_JR00049178",
-        "location": "Remote, Utah, United States of America"
+        "location": "Remote, Utah, United States of America",
+        "closed": "2026-11-20"
       },
       {
         "title": "QCS Resident Field Service Technician-De Pere, WI",
         "date": "N/A",
         "id": "workday:JR00043877",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Kaukauna-Wisconsin-USA/QCS-Resident-Field-Service-Technician-De-Pere--WI_JR00043877",
-        "location": "Kaukauna, Wisconsin, USA"
+        "location": "Kaukauna, Wisconsin, USA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Assembler II",
         "date": "N/A",
         "id": "workday:JR00051260",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MS-Senatobia/Assembler-II_JR00051260",
-        "location": "USA, MS, Senatobia"
+        "location": "USA, MS, Senatobia",
+        "closed": "2026-11-20"
       },
       {
         "title": "Chief of Staff",
@@ -63226,7 +63344,8 @@
         "date": "N/A",
         "id": "workday:JR00045127-1",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Mebane/ELDS-LIS-SWGR-Production-Operator-1st-shift_JR00045127-1",
-        "location": "USA, NC, Mebane"
+        "location": "USA, NC, Mebane",
+        "closed": "2026-11-20"
       },
       {
         "title": "ELDS LV SWGR Production Operator 1st shift",
@@ -63334,7 +63453,8 @@
         "date": "N/A",
         "id": "workday:JR00050391",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-California-United-States-of-America/Field-Application-Engineer_JR00050391",
-        "location": "Remote, California, United States of America"
+        "location": "Remote, California, United States of America",
+        "closed": "2026-11-20"
       },
       {
         "title": "Business Development Manager - Southwest",
@@ -63363,14 +63483,16 @@
         "date": "N/A",
         "id": "workday:JR00045827",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Texas-United-States-of-America/OEM-Business-Development-Manager---West_JR00045827",
-        "location": "Remote, Texas, United States of America"
+        "location": "Remote, Texas, United States of America",
+        "closed": "2026-11-20"
       },
       {
         "title": "OEM Business Development Manager - East",
         "date": "N/A",
         "id": "workday:JR00045828",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Illinois-United-States-of-America/OEM-Business-Development-Manager---East_JR00045828",
-        "location": "Remote, Illinois, United States of America"
+        "location": "Remote, Illinois, United States of America",
+        "closed": "2026-11-20"
       },
       {
         "title": "R&D Manager - Instrumentation Products",
@@ -63407,8 +63529,7 @@
         "date": "N/A",
         "id": "workday:JR00040115",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Richmond-Virginia-United-States-of-America/Test-Engineer---Electrical_JR00040115",
-        "location": "Richmond, Virginia, United States of America",
-        "closed": "2026-11-19"
+        "location": "Richmond, Virginia, United States of America"
       },
       {
         "title": "Vice-President, Sales & Channel Strategy, Motion Drive Products",
@@ -63559,7 +63680,8 @@
         "date": "2026-11-12",
         "id": "workday:JR00043867",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/New-Berlin-Wisconsin-United-States-of-America/VFD-Support-Specialist_JR00043867",
-        "location": "50 Locations"
+        "location": "50 Locations",
+        "closed": "2026-11-20"
       },
       {
         "title": "Project Engineer",
@@ -63720,7 +63842,8 @@
         "date": "2026-11-13",
         "id": "workday:JR00033942",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Florida-United-States-of-America/Commercial-Proposal-Engineer_JR00033942",
-        "location": "172 Locations"
+        "location": "172 Locations",
+        "closed": "2026-11-20"
       },
       {
         "title": "Sr. Field Service Technician - Western US",
@@ -63909,7 +64032,8 @@
         "date": "2026-11-16",
         "id": "workday:JR00052662",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Fort-Smith-Arkansas-United-States-of-America/Assembly-Line-Load_JR00052662",
-        "location": "Fort Smith, Arkansas, United States of America"
+        "location": "Fort Smith, Arkansas, United States of America",
+        "closed": "2026-11-20"
       },
       {
         "title": "Sales Support Specialist",
@@ -64085,8 +64209,7 @@
         "date": "2026-11-18",
         "id": "workday:JR00046147",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MS-Senatobia/Process-Quality-Engineer_JR00046147",
-        "location": "USA, MS, Senatobia",
-        "closed": "2026-11-18"
+        "location": "USA, MS, Senatobia"
       },
       {
         "title": "R&D Software Engineer",
@@ -64199,6 +64322,48 @@
         "id": "workday:JR00045142-1",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Ozark-Arkansas-USA/HSE-Manager_JR00045142-1",
         "location": "Ozark, Arkansas, USA"
+      },
+      {
+        "title": "Customer Quality Technician",
+        "date": "2026-11-20",
+        "id": "workday:JR00053959",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MS-Senatobia/Customer-Quality-Technician_JR00053959",
+        "location": "USA, MS, Senatobia"
+      },
+      {
+        "title": "Supply Chain Excellence Specialist",
+        "date": "2026-11-20",
+        "id": "workday:JR00053462",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/New-Berlin-Wisconsin-United-States-of-America/Supply-Chain-Excellence-Specialist_JR00053462",
+        "location": "New Berlin, Wisconsin, United States of America"
+      },
+      {
+        "title": "National Account Manager, Graybar",
+        "date": "2026-11-20",
+        "id": "workday:JR00041620",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Tennessee-United-States-of-America/National-Account-Manager--Graybar_JR00041620",
+        "location": "Remote, Tennessee, United States of America"
+      },
+      {
+        "title": "Robotics Aftermarket - Inside Sales Representative",
+        "date": "2026-11-20",
+        "id": "workday:JR00047875",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MI-Auburn-Hills/Robotics-Aftermarket---Inside-Sales-Representative_JR00047875",
+        "location": "USA, MI, Auburn Hills"
+      },
+      {
+        "title": "Robotics Business Development Manager, General Industries North West US",
+        "date": "2026-11-20",
+        "id": "workday:JR00043615",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Washington-United-States-of-America/Robotics-Business-Development-Manager--General-Industries-North-West-US_JR00043615",
+        "location": "2 Locations"
+      },
+      {
+        "title": "Warehouse/Internal Logistics Operator - 3rd Shift",
+        "date": "2026-11-20",
+        "id": "workday:JR00041807",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-TN-Portland/Warehouse-Internal-Logistics-Operator---3rd-Shift_JR00041807",
+        "location": "USA, TN, Portland"
       }
     ],
     "Teradyne": [
@@ -74954,14 +75119,16 @@
         "date": "2026-11-16",
         "id": "workday:R10260837",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Salt-Lake-City/XMLNAME-2027-Manufacturing-Engineer-Intern----Salt-Lake-City-UT_R10260837",
-        "location": "United States-Utah-Salt Lake City"
+        "location": "United States-Utah-Salt Lake City",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f 2027 Environmental Safety Fire Protection Intern - Rolling Meadows IL",
         "date": "2026-11-16",
         "id": "workday:R10260856",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Environmental-Safety-Fire-Protection-Intern---Rolling-Meadows-IL_R10260856",
-        "location": "United States-Illinois-Rolling Meadows"
+        "location": "United States-Illinois-Rolling Meadows",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f 2027 Mechanical Engineer Intern - Baltimore MD",
@@ -74984,14 +75151,16 @@
         "date": "2026-11-16",
         "id": "workday:R10260895",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Georgia-Warner-Robins/XMLNAME-2027-Engineering-Intern---Warner-Robins-GA_R10260895",
-        "location": "United States-Georgia-Warner Robins"
+        "location": "United States-Georgia-Warner Robins",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f 2027 Mechanical Engineer Intern - Ocean Springs MS",
         "date": "2026-11-16",
         "id": "workday:R10255000-1",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Mississippi-Ocean-Springs/XMLNAME-2027-Mechanical-Engineer-Intern---Ocean-Springs-MS_R10255000-1",
-        "location": "United States-Mississippi-Ocean Springs"
+        "location": "United States-Mississippi-Ocean Springs",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f 2027 Mechanical Engineer Intern- Redondo beach CA",
@@ -75041,7 +75210,8 @@
         "date": "2026-11-17",
         "id": "workday:R10261254",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Thermal---Propulsion-Engineer-Intern---Redondo-Beach-CA_R10261254",
-        "location": "United States-California-Redondo Beach"
+        "location": "United States-California-Redondo Beach",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f 2027 Propulsion Test Engineer Intern - Edwards AFB CA",
@@ -112696,7 +112866,8 @@
         "date": "N/A",
         "id": "jibe:11186",
         "url": "https://careers.sig.com/jobs/11186",
-        "location": "Dublin, Ireland"
+        "location": "Dublin, Ireland",
+        "closed": "2026-11-20"
       },
       {
         "title": "Legal Counsel (Financial)",
@@ -118171,7 +118342,8 @@
         "date": "N/A",
         "id": "workday:JR2026007834",
         "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Public-Relations-Intern--Global-Product-_JR2026007834",
-        "location": "Singapore"
+        "location": "Singapore",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Marketing Intern",
@@ -118257,6 +118429,69 @@
         "id": "workday:JR2026008030",
         "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Shenzhen/Software-Testing-Intern_JR2026008030",
         "location": "Shenzhen"
+      },
+      {
+        "title": "\u2b50\ufe0f Manual Software Testing Intern",
+        "date": "2026-11-20",
+        "id": "workday:JR2026008108",
+        "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Manual-Software-Testing-Intern_JR2026008108",
+        "location": "Singapore"
+      },
+      {
+        "title": "\u2b50\ufe0f Manual Software Testing Intern",
+        "date": "2026-11-20",
+        "id": "workday:JR2026008126",
+        "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Manual-Software-Testing-Intern_JR2026008126",
+        "location": "Singapore"
+      },
+      {
+        "title": "\u2b50\ufe0f PQ Automation Intern (Keyboards & Mice)",
+        "date": "2026-11-20",
+        "id": "workday:JR2026008056",
+        "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/PQ-Automation-Intern--Keyboards---Mice-_JR2026008056",
+        "location": "Singapore"
+      },
+      {
+        "title": "\u2b50\ufe0f Repair Operations Intern",
+        "date": "2026-11-20",
+        "id": "workday:JR2026008123",
+        "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Repair-Operations-Intern_JR2026008123",
+        "location": "Singapore"
+      },
+      {
+        "title": "\u2b50\ufe0f Ecommerce Platform Intern",
+        "date": "2026-11-20",
+        "id": "workday:JR2026008149",
+        "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Ecommerce-Platform-Intern_JR2026008149",
+        "location": "Singapore"
+      },
+      {
+        "title": "\u2b50\ufe0f PQ Automation Intern (Audio & Others)",
+        "date": "2026-11-20",
+        "id": "workday:JR2026008054",
+        "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/PQ-Automation-Intern--Audio---Others-_JR2026008054",
+        "location": "Singapore"
+      },
+      {
+        "title": "\u2b50\ufe0f Live Commerce Intern",
+        "date": "2026-11-20",
+        "id": "workday:JR2026008094-1",
+        "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Live-Commerce-Intern_JR2026008094-1",
+        "location": "Singapore"
+      },
+      {
+        "title": "\u2b50\ufe0f Product Marketing Intern (AI Wearables)",
+        "date": "2026-11-20",
+        "id": "workday:JR2026008073",
+        "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Product-Marketing-Intern--AI-Wearables-_JR2026008073",
+        "location": "Singapore"
+      },
+      {
+        "title": "\u2b50\ufe0f Product Marketing Intern (Productivity)",
+        "date": "2026-11-20",
+        "id": "workday:JR2026008145",
+        "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Product-Marketing-Intern--Productivity-_JR2026008145",
+        "location": "Singapore"
       }
     ],
     "Docusign": [
@@ -120488,7 +120723,8 @@
         "date": "N/A",
         "id": "workday:REQ381221",
         "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Corporate-Strategy-Internship_REQ381221",
-        "location": "Bellevue, Washington"
+        "location": "Bellevue, Washington",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Procurement Operations \u2013 Vendor Management Internship",
@@ -124972,7 +125208,7 @@
   "checked": {
     "Google": "2026-11-20",
     "Meta": "2026-11-20",
-    "Nvidia": "2026-11-19",
+    "Nvidia": "2026-11-20",
     "AWS": "2026-11-20",
     "Amazon": "2026-11-20",
     "Netflix": "2026-11-20",
@@ -125067,7 +125303,7 @@
     "FieldAI": "2026-11-20",
     "Humanoid": "2026-11-20",
     "World Labs": "2026-11-20",
-    "General Motors": "2026-11-19",
+    "General Motors": "2026-11-20",
     "Niantic Spatial": "2026-11-20",
     "Wing": "2026-11-20",
     "Physical Intelligence": "2026-11-20",
@@ -125115,7 +125351,7 @@
     "xAI": "2026-11-20",
     "Thinking Machines Lab": "2026-11-20",
     "Bot Auto": "2026-11-20",
-    "Slate Auto": "2026-11-19",
+    "Slate Auto": "2026-11-20",
     "Ford": "2026-11-20",
     "Mundane": "2026-11-20",
     "Uber": "2026-11-20",
@@ -125128,7 +125364,7 @@
     "Tuesday Labs": "2026-11-20",
     "Weave Robotics": "2026-11-20",
     "Boost Robotics": "2026-11-20",
-    "Oshkosh": "2026-11-19",
+    "Oshkosh": "2026-11-20",
     "General Robotics": "2026-11-20",
     "Eka Robotics": "2026-11-20",
     "Bonsai Robotics": "2026-11-20",
@@ -125136,7 +125372,7 @@
     "ispace": "2026-11-20",
     "Pinterest": "2026-11-20",
     "Intel": "2026-11-20",
-    "LinkedIn": "2026-11-19",
+    "LinkedIn": "2026-11-20",
     "Liberty Mutual": "2026-11-20",
     "Salesforce": "2026-11-20",
     "PayPal": "2026-11-20",
@@ -125147,7 +125383,7 @@
     "Morgan Stanley": "2026-11-20",
     "Cisco": "2026-11-20",
     "TwoSigma": "2026-11-20",
-    "Snap": "2026-11-19",
+    "Snap": "2026-11-20",
     "Workday": "2026-11-20",
     "Stripe": "2026-11-20",
     "Cohere": "2026-11-20",
@@ -125184,7 +125420,7 @@
     "RedHat": "2026-11-20",
     "Capital One": "2026-11-20",
     "Twitch": "2026-11-20",
-    "Visa": "2026-11-19",
+    "Visa": "2026-11-20",
     "Replit": "2026-11-20",
     "Github": "2026-11-20",
     "Epic Games": "2026-11-20",
@@ -125198,9 +125434,9 @@
     "Goldman Sachs": "2026-11-20",
     "Beli": "2026-11-20",
     "Duolingo": "2026-11-20",
-    "Leidos": "2026-11-19",
+    "Leidos": "2026-11-20",
     "Radix Trading": "2026-11-20",
-    "Razer": "2026-11-19",
+    "Razer": "2026-11-20",
     "Docusign": "2026-11-20",
     "Sentry": "2026-11-20",
     "Tencent": "2026-11-20",
@@ -125209,15 +125445,15 @@
     "Comcast": "2026-11-20",
     "HP": "2026-11-20",
     "UKG": "2026-11-20",
-    "Target": "2026-11-19",
+    "Target": "2026-11-20",
     "DRW": "2026-11-20",
     "Amentum": "2026-11-20",
     "Mercedes Benz": "2026-11-20",
     "Boeing": "2026-11-20",
     "Mosaic": "2026-11-20",
-    "Samsung": "2026-11-19",
+    "Samsung": "2026-11-20",
     "Medtronic": "2026-11-20",
-    "T-Mobile": "2026-11-19",
+    "T-Mobile": "2026-11-20",
     "Akuna Capital": "2026-11-20",
     "Bose": "2026-11-20",
     "Stoke Space": "2026-11-20",
@@ -125239,8 +125475,8 @@
     "Impulse Space": "2026-11-20",
     "Hadrian": "2026-11-20",
     "Saildrone": "2026-11-20",
-    "Johnson & Johnson": "2026-11-19",
-    "Stryker": "2026-11-19",
+    "Johnson & Johnson": "2026-11-20",
+    "Stryker": "2026-11-20",
     "PROCEPT BioRobotics": "2026-11-20",
     "Berkshire Grey": "2026-11-20",
     "Teradyne": "2026-11-20",
@@ -125251,8 +125487,8 @@
     "FANUC America": "2026-11-20",
     "Starship Technologies": "2026-11-20",
     "Shure": "2026-11-20",
-    "Northrop Grumman": "2026-11-19",
-    "ABB": "2026-11-19",
+    "Northrop Grumman": "2026-11-20",
+    "ABB": "2026-11-20",
     "Exotec": "2026-11-20",
     "Lockheed Martin": "2026-11-20",
     "Simbe Robotics": "2026-11-20",
@@ -125262,7 +125498,7 @@
     "Lightwheel": "2026-11-20",
     "Tutor Intelligence": "2026-11-20",
     "AMD": "2026-11-20",
-    "Unity": "2026-11-19",
+    "Unity": "2026-11-20",
     "Konrad": "2026-11-20"
   },
   "failing": {
@@ -125273,70 +125509,6 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
-    },
-    "General Motors": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
-    },
-    "ABB": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
-    },
-    "Nvidia": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
-    },
-    "Razer": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
-    },
-    "Slate Auto": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
-    },
-    "Samsung": {
-      "since": "2026-11-19",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
-    },
-    "Snap": {
-      "since": "2026-11-20",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
-    },
-    "Unity": {
-      "since": "2026-11-20",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
-    },
-    "Visa": {
-      "since": "2026-11-20",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs"
-    },
-    "Leidos": {
-      "since": "2026-11-20",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://leidos.wd5.myworkdayjobs.com/wday/cxs/leidos/External/jobs"
-    },
-    "Target": {
-      "since": "2026-11-20",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
-    },
-    "T-Mobile": {
-      "since": "2026-11-20",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://tmobile.wd1.myworkdayjobs.com/wday/cxs/tmobile/External/jobs"
-    },
-    "Johnson & Johnson": {
-      "since": "2026-11-20",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs"
-    },
-    "Stryker": {
-      "since": "2026-11-20",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs"
-    },
-    "Northrop Grumman": {
-      "since": "2026-11-20",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ngc.wd1.myworkdayjobs.com/wday/cxs/ngc/Northrop_Grumman_External_Site/jobs"
-    },
-    "Oshkosh": {
-      "since": "2026-11-20",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs"
     }
   },
   "closures_untracked": {
