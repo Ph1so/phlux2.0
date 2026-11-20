@@ -12,7 +12,7 @@
 <p>
   <a href="https://ph1so.github.io/phlux2.0/"><img src="https://img.shields.io/badge/browse-internships-1f5fff?style=flat-square" alt="Browse internships"></a>
   <a href="https://github.com/Ph1so/phlux2.0/actions/workflows/job-scraper.yml"><img src="https://img.shields.io/github/actions/workflow/status/Ph1so/phlux2.0/job-scraper.yml?branch=main&style=flat-square&label=scraper" alt="Scraper status"></a>
-  <img src="https://img.shields.io/badge/roles_tracked-38.9k-475467?style=flat-square" alt="38,937 roles tracked">
+  <img src="https://img.shields.io/badge/roles_tracked-38.9k-475467?style=flat-square" alt="38,944 roles tracked">
 </p>
 
 <p><a href="https://ph1so.github.io/phlux2.0/"><b>Website</b></a> &nbsp;·&nbsp; <a href="listings/README.md"><b>All listings</b></a></p>
@@ -21,7 +21,7 @@
 
 ## Latest roles
 
-Showing the 563 most recent of 38,937 roles tracked across 295 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
+Showing the 565 most recent of 38,944 roles tracked across 295 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
 
 
 <table>
@@ -109,6 +109,13 @@ Showing the 563 most recent of 38,937 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.merl.com/employment/internship-openings"><img src="https://cdn.brandfetch.io/mitsubishielectric.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mitsubishi Electric Research Laboratories" height="20" style="vertical-align:middle; margin-right:6px;"> Mitsubishi Electric Research Laboratories</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.merl.com/employment/internship-openings#OR0362">⭐️ OR0362: Internship - Robot Learning</a></div></td>
+  <td>2026-11-20</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://api.smartrecruiters.com/v1/companies/Intuitive/postings?country=us&custom_field.61211d107c9ac71cd5f99177=fcd8045c-1621-41d9-8992-5dc498d4875e&custom_field.612118931fa63c295566925f=EMP2"><img src="https://cdn.brandfetch.io/intuitivesurgical.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Intuitive Surgical" height="20" style="vertical-align:middle; margin-right:6px;"> Intuitive Surgical</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.smartrecruiters.com/Intuitive/744000162832659">⭐️ Data Engineering Intern</a></div></td>
   <td>2026-11-20</td>
 </tr>
   <tr>
@@ -302,9 +309,30 @@ Showing the 563 most recent of 38,937 roles tracked across 295 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/applied/"><img src="https://cdn.brandfetch.io/appliedintuition.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Applied Intuition" height="20" style="vertical-align:middle; margin-right:6px;"> Applied Intuition</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/applied/306f7bf2-12a5-489d-bd7a-f5a4e4185e7e">Workplace Front End Coordinator</a></div></td>
+  <td>2026-11-20</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/humanoid/"><img src="https://cdn.brandfetch.io/thehumanoid.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Humanoid" height="20" style="vertical-align:middle; margin-right:6px;"> Humanoid</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/humanoid/99b83f86-a0c5-49c4-a7c3-2ea6d4eb9ef9">Receptionist</a></div></td>
+  <td>2026-11-20</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/humanoid/"><img src="https://cdn.brandfetch.io/thehumanoid.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Humanoid" height="20" style="vertical-align:middle; margin-right:6px;"> Humanoid</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/humanoid/1ba80e1e-90c8-4968-bcf3-b548d8baa786">Senior Corporate Counsel / Deputy Company Secretary</a></div></td>
+  <td>2026-11-20</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/humanoid/"><img src="https://cdn.brandfetch.io/thehumanoid.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Humanoid" height="20" style="vertical-align:middle; margin-right:6px;"> Humanoid</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/humanoid/2b9b546b-e2a3-40b8-9f81-002b30670aa7">Senior Counsel, Contracts</a></div></td>
   <td>2026-11-20</td>
 </tr>
   <tr>
@@ -792,6 +820,13 @@ Showing the 563 most recent of 38,937 roles tracked across 295 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/f26bd8f0-5440-46bd-b6c0-8b7465f8e6dc">Treasury, Trade Finance & Cash Flow Forecasting</a></div></td>
+  <td>2026-11-20</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5480875008">Strategic Account Executive, Financial Services</a></div></td>
@@ -984,6 +1019,20 @@ Showing the 563 most recent of 38,937 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.cisco.com/global/en/search-results?keywords=intern&qcountry=United%20States%20of%20America"><img src="https://cdn.brandfetch.io/cisco.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Cisco" height="20" style="vertical-align:middle; margin-right:6px;"> Cisco</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.cisco.com/global/en/job/2032691/Data-Science-Analyst-II-Intern-Untied-States">⭐️ Data Science Analyst II (Intern) – Untied States</a></div></td>
+  <td>2026-11-20</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.cisco.com/global/en/search-results?keywords=intern&qcountry=United%20States%20of%20America"><img src="https://cdn.brandfetch.io/cisco.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Cisco" height="20" style="vertical-align:middle; margin-right:6px;"> Cisco</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.cisco.com/global/en/job/2032666/Technical-Sales-I-Intern-United-States">⭐️ Technical Sales I (Intern) - United States</a></div></td>
+  <td>2026-11-20</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.cisco.com/global/en/search-results?keywords=intern&qcountry=United%20States%20of%20America"><img src="https://cdn.brandfetch.io/cisco.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Cisco" height="20" style="vertical-align:middle; margin-right:6px;"> Cisco</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.cisco.com/global/en/job/2032668/Field-Sales-I-Intern-United-States">⭐️ Field Sales I (Intern) - United States</a></div></td>
   <td>2026-11-20</td>
 </tr>
   <tr>
@@ -3938,41 +3987,6 @@ Showing the 563 most recent of 38,937 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.se.com/global/jobs?keywords=internship&sortBy=relevance&page=1&country=United%20States&tags1=Intern"><img src="https://cdn.brandfetch.io/se.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Scheider Electric" height="20" style="vertical-align:middle; margin-right:6px;"> Scheider Electric</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.se.com/global/jobs/143723">⭐️ Corporate Strategic Intelligence Intern</a></div></td>
-  <td>2026-11-18</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://visa.wd5.myworkdayjobs.com/Visa?jobFamily=2745bc1368021016a99151158b7a3a64"><img src="https://cdn.brandfetch.io/visa.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Visa" height="20" style="vertical-align:middle; margin-right:6px;"> Visa</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://visa.wd5.myworkdayjobs.com/Visa/job/NL---Amsterdam-Netherlands/Consulting---Analytics-Summer-Intern_REF089622W-2">⭐️ Consulting & Analytics Summer Intern (Dutch Speakers)</a></div></td>
-  <td>2026-11-18</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://visa.wd5.myworkdayjobs.com/Visa?jobFamily=2745bc1368021016a99151158b7a3a64"><img src="https://cdn.brandfetch.io/visa.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Visa" height="20" style="vertical-align:middle; margin-right:6px;"> Visa</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://visa.wd5.myworkdayjobs.com/Visa/job/NL---Amsterdam-Netherlands/Visa-Implementation-Services-Summer-Intern--Dutch-speakers-_REF089620W-1">⭐️ Visa Implementation Services Summer Intern (Dutch speakers)</a></div></td>
-  <td>2026-11-18</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/replit/"><img src="https://cdn.brandfetch.io/replit.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Replit" height="20" style="vertical-align:middle; margin-right:6px;"> Replit</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/replit/9b211cc2-dcb2-4902-b84f-a5a2d5d0705f">Business Operations Analyst</a></div></td>
-  <td>2026-11-18</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/replit/"><img src="https://cdn.brandfetch.io/replit.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Replit" height="20" style="vertical-align:middle; margin-right:6px;"> Replit</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/replit/fa9ee306-7e2b-4d94-87d1-0db292102f03">Senior / Staff Software Engineer, Connectors Platform</a></div></td>
-  <td>2026-11-18</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/epicgames?offices%5B%5D=4008800004"><img src="https://cdn.brandfetch.io/epicgames.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Epic Games" height="20" style="vertical-align:middle; margin-right:6px;"> Epic Games</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004">⭐️ Tools Programmer Intern (Graphics)</a></div></td>
   <td>2026-11-18</td>
 </tr>
 

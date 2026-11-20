@@ -2324,8 +2324,7 @@
         "date": "N/A",
         "id": "amazon:10575017",
         "url": "https://www.amazon.jobs/en/jobs/10575017/recruiting-coordinator-amazon-university",
-        "location": "Arlington, VA",
-        "closed": "2026-11-09"
+        "location": "Arlington, VA"
       },
       {
         "title": "Cloud Hardware Development Engineer I, Annapurna Labs, Early Career - 2027",
@@ -3818,7 +3817,8 @@
         "date": "2026-10-29",
         "id": "meta:2355649268510104",
         "url": "https://www.metacareers.com/profile/job_details/2355649268510104/",
-        "location": "Menlo Park, CA"
+        "location": "Menlo Park, CA",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, Agent for Recommendation (PhD)",
@@ -11284,6 +11284,13 @@
         "date": "2026-11-18",
         "id": "smartrecruiters:744000162406479",
         "url": "https://jobs.smartrecruiters.com/Intuitive/744000162406479",
+        "location": "Sunnyvale, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Data Engineering Intern",
+        "date": "2026-11-20",
+        "id": "smartrecruiters:744000162832659",
+        "url": "https://jobs.smartrecruiters.com/Intuitive/744000162832659",
         "location": "Sunnyvale, CA"
       }
     ],
@@ -36542,7 +36549,8 @@
         "date": "2026-10-13",
         "id": "greenhouse:8210170",
         "url": "https://careers.withwaymo.com/jobs?gh_jid=8210170",
-        "location": "Mountain View, California"
+        "location": "Mountain View, California",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern, BS/MS, Software Engineer, RO Performance team, Release Evaluation (Simulation)",
@@ -36801,14 +36809,16 @@
         "date": "2026-10-13",
         "id": "greenhouse:8234670",
         "url": "https://careers.withwaymo.com/jobs?gh_jid=8234670",
-        "location": "San Francisco, California"
+        "location": "San Francisco, California",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern, PhD, Perception/Road Understanding, ML Engineer",
         "date": "2026-10-13",
         "id": "greenhouse:8224746",
         "url": "https://careers.withwaymo.com/jobs?gh_jid=8224746",
-        "location": "Mountain View, California"
+        "location": "Mountain View, California",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern, PhD, Planner Machine Learning",
@@ -41202,6 +41212,13 @@
         "id": "ashby:c490ee87-d220-4971-be06-f75729d06099",
         "url": "https://jobs.ashbyhq.com/applied/c490ee87-d220-4971-be06-f75729d06099",
         "location": "Sunnyvale"
+      },
+      {
+        "title": "Workplace Front End Coordinator",
+        "date": "2026-11-20",
+        "id": "ashby:306f7bf2-12a5-489d-bd7a-f5a4e4185e7e",
+        "url": "https://jobs.ashbyhq.com/applied/306f7bf2-12a5-489d-bd7a-f5a4e4185e7e",
+        "location": "Sunnyvale"
       }
     ],
     "FieldAI": [
@@ -43776,6 +43793,20 @@
         "date": "2026-11-20",
         "id": "ashby:99b83f86-a0c5-49c4-a7c3-2ea6d4eb9ef9",
         "url": "https://jobs.ashbyhq.com/humanoid/99b83f86-a0c5-49c4-a7c3-2ea6d4eb9ef9",
+        "location": "UK, London"
+      },
+      {
+        "title": "Senior Corporate Counsel / Deputy Company Secretary",
+        "date": "2026-11-20",
+        "id": "ashby:1ba80e1e-90c8-4968-bcf3-b548d8baa786",
+        "url": "https://jobs.ashbyhq.com/humanoid/1ba80e1e-90c8-4968-bcf3-b548d8baa786",
+        "location": "UK, London"
+      },
+      {
+        "title": "Senior Counsel, Contracts",
+        "date": "2026-11-20",
+        "id": "ashby:2b9b546b-e2a3-40b8-9f81-002b30670aa7",
+        "url": "https://jobs.ashbyhq.com/humanoid/2b9b546b-e2a3-40b8-9f81-002b30670aa7",
         "location": "UK, London"
       }
     ],
@@ -47197,7 +47228,8 @@
         "date": "2026-10-14",
         "id": "ashby:c910393d-40fc-4398-a444-116db87c907d",
         "url": "https://jobs.ashbyhq.com/standardbots/c910393d-40fc-4398-a444-116db87c907d",
-        "location": "Glen Cove, NY"
+        "location": "Glen Cove, NY",
+        "closed": "2026-11-20"
       },
       {
         "title": "Senior Quality Inspector (Mechanical)",
@@ -56018,7 +56050,8 @@
         "date": "2026-10-14",
         "id": "workday:R572746-1",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Market-Development---Michigan_R572746-1",
-        "location": "Portage, Michigan"
+        "location": "Portage, Michigan",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship Human Factors Engineering - Washington",
@@ -66921,7 +66954,8 @@
         "date": "N/A",
         "id": "successfactors:1362945700",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Hardware-Engineer-PCB-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1362945700/",
-        "location": "North Reading, MA"
+        "location": "North Reading, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Automated Test Applications Engineer (SW Dev., System Design & Integration; North Reading, MA))",
@@ -80461,7 +80495,8 @@
         "date": "2026-10-22",
         "id": "ashby:f386b209-1259-4b79-bf5a-aa97fc7ce77b",
         "url": "https://jobs.ashbyhq.com/openai/f386b209-1259-4b79-bf5a-aa97fc7ce77b",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-20"
       },
       {
         "title": "Software Engineer, Agent Infrastructure",
@@ -83807,6 +83842,13 @@
         "id": "ashby:ebe31cd6-0b6a-4214-b3c1-7dd7074753d6",
         "url": "https://jobs.ashbyhq.com/openai/ebe31cd6-0b6a-4214-b3c1-7dd7074753d6",
         "location": "San Francisco"
+      },
+      {
+        "title": "Treasury, Trade Finance & Cash Flow Forecasting",
+        "date": "2026-11-20",
+        "id": "ashby:f26bd8f0-5440-46bd-b6c0-8b7465f8e6dc",
+        "url": "https://jobs.ashbyhq.com/openai/f26bd8f0-5440-46bd-b6c0-8b7465f8e6dc",
+        "location": "San Francisco +2"
       }
     ],
     "John Deere": [
@@ -104437,8 +104479,7 @@
         "date": "N/A",
         "id": "phenom:2025611",
         "url": "https://careers.cisco.com/global/en/job/2025611/Software-Engineer-Data-AI-PhD-Intern-United-States",
-        "location": "San Jose, CA +2",
-        "closed": "2026-11-13"
+        "location": "San Jose, CA +2"
       },
       {
         "title": "\u2b50\ufe0f Hardware Engineer PhD (Intern) - United States",
@@ -104555,6 +104596,20 @@
         "id": "phenom:2032691",
         "url": "https://careers.cisco.com/global/en/job/2032691/Data-Science-Analyst-II-Intern-Untied-States",
         "location": "San Jose, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Technical Sales I (Intern) - United States",
+        "date": "2026-11-20",
+        "id": "phenom:2032666",
+        "url": "https://careers.cisco.com/global/en/job/2032666/Technical-Sales-I-Intern-United-States",
+        "location": "Research Triangle Park, NC"
+      },
+      {
+        "title": "\u2b50\ufe0f Field Sales I (Intern) - United States",
+        "date": "2026-11-20",
+        "id": "phenom:2032668",
+        "url": "https://careers.cisco.com/global/en/job/2032668/Field-Sales-I-Intern-United-States",
+        "location": "Research Triangle Park, NC"
       }
     ],
     "TwoSigma": [
@@ -105556,7 +105611,8 @@
         "date": "N/A",
         "id": "ashby:31bfc2b4-472f-4921-86b1-010daa2da1e8",
         "url": "https://jobs.ashbyhq.com/cohere/31bfc2b4-472f-4921-86b1-010daa2da1e8",
-        "location": "United States +4"
+        "location": "United States +4",
+        "closed": "2026-11-20"
       },
       {
         "title": "Senior Account Executive",
@@ -114848,8 +114904,7 @@
         "date": "N/A",
         "id": "phenom:R170977",
         "url": "https://careers.adobe.com/us/en/job/R170977/2027-Intern-Adobe-Sales-Academy-BDR",
-        "location": "San Jose, CA +3",
-        "closed": "2026-11-17"
+        "location": "San Jose, CA +3"
       },
       {
         "title": "\u2b50\ufe0f 2027 Intern - Machine Learning Engineer",
@@ -124183,7 +124238,8 @@
         "date": "N/A",
         "id": "pinpoint:502499",
         "url": "https://impulsespace.pinpointhq.com/en/postings/4add9920-a929-4b2b-969d-669817305279",
-        "location": "Redondo Beach, CA"
+        "location": "Redondo Beach, CA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Senior Flight Reliability Engineer",
@@ -126823,10 +126879,6 @@
       "since": "2026-11-20",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
     },
-    "Unity": {
-      "since": "2026-11-20",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
-    },
     "Samsung": {
       "since": "2026-11-20",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
@@ -126835,53 +126887,9 @@
       "since": "2026-11-20",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
     },
-    "Nvidia": {
+    "Razer": {
       "since": "2026-11-20",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
-    },
-    "Blue Origin": {
-      "since": "2026-11-20",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/BlueOrigin/jobs"
-    },
-    "Snap": {
-      "since": "2026-11-20",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
-    },
-    "RedHat": {
-      "since": "2026-11-20",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://redhat.wd5.myworkdayjobs.com/wday/cxs/redhat/jobs/jobs"
-    },
-    "Boston Dynamics": {
-      "since": "2026-11-20",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://bostondynamics.wd1.myworkdayjobs.com/wday/cxs/bostondynamics/Boston_Dynamics/jobs"
-    },
-    "Tesla": {
-      "since": "2026-11-20",
-      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
-    },
-    "Target": {
-      "since": "2026-11-20",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
-    },
-    "T-Mobile": {
-      "since": "2026-11-20",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://tmobile.wd1.myworkdayjobs.com/wday/cxs/tmobile/External/jobs"
-    },
-    "Bose": {
-      "since": "2026-11-20",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://boseallaboutme.wd503.myworkdayjobs.com/wday/cxs/boseallaboutme/Bose_Careers/jobs"
-    },
-    "Johnson & Johnson": {
-      "since": "2026-11-20",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs"
-    },
-    "Oshkosh": {
-      "since": "2026-11-20",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs"
-    },
-    "Slate Auto": {
-      "since": "2026-11-20",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
     }
   },
   "closures_untracked": {
