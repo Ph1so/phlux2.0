@@ -3911,7 +3911,8 @@
         "date": "2026-11-03",
         "id": "meta:1832390484751700",
         "url": "https://www.metacareers.com/profile/job_details/1832390484751700/",
-        "location": "Redmond, WA"
+        "location": "Redmond, WA",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, Ads Quality (PhD)",
@@ -9010,14 +9011,16 @@
         "date": "2026-10-10",
         "id": "eightfold:446721159170",
         "url": "https://careers.qualcomm.com/careers/job/446721159170",
-        "location": "San Diego, CA"
+        "location": "San Diego, CA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Modem Systems Engineer",
         "date": "2026-10-10",
         "id": "eightfold:446721016647",
         "url": "https://careers.qualcomm.com/careers/job/446721016647",
-        "location": "San Diego, CA"
+        "location": "San Diego, CA",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Sales & Business Development Internship - Summer 2027",
@@ -9045,7 +9048,8 @@
         "date": "2026-10-13",
         "id": "eightfold:446720740637",
         "url": "https://careers.qualcomm.com/careers/job/446720740637",
-        "location": "San Diego, CA +3"
+        "location": "San Diego, CA +3",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Multimedia Engineering Internship \u2013 Summer 2027",
@@ -9059,35 +9063,40 @@
         "date": "2026-10-14",
         "id": "eightfold:446720740525",
         "url": "https://careers.qualcomm.com/careers/job/446720740525",
-        "location": "San Diego, CA +6"
+        "location": "San Diego, CA +6",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Embedded Engineering Internship - Summer 2027",
         "date": "2026-10-14",
         "id": "eightfold:446720737089",
         "url": "https://careers.qualcomm.com/careers/job/446720737089",
-        "location": "San Diego, CA +2"
+        "location": "San Diego, CA +2",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Internship - Summer 2027",
         "date": "2026-10-14",
         "id": "eightfold:446720740529",
         "url": "https://careers.qualcomm.com/careers/job/446720740529",
-        "location": "San Diego, CA +7"
+        "location": "San Diego, CA +7",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Qualcomm Government Technologies (QGOV) Engineering Internship \u2013 Summer 2027 (San Diego or Boulder) | US CITIZENSHIP REQUIRED",
         "date": "2026-10-14",
         "id": "eightfold:446720740540",
         "url": "https://careers.qualcomm.com/careers/job/446720740540",
-        "location": "San Diego, CA"
+        "location": "San Diego, CA",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Automotive Engineering Internship \u2013 Summer 2027",
         "date": "2026-10-14",
         "id": "eightfold:446720740553",
         "url": "https://careers.qualcomm.com/careers/job/446720740553",
-        "location": "San Diego, CA"
+        "location": "San Diego, CA",
+        "closed": "2026-11-20"
       }
     ],
     "Toyota Research Insitute": [
@@ -13694,6 +13703,13 @@
         "id": "greenhouse:5271052007",
         "url": "https://job-boards.greenhouse.io/locusrobotics/jobs/5271052007",
         "location": "United States"
+      },
+      {
+        "title": "Senior Manufacturing Test Engineer - Robotics",
+        "date": "2026-11-20",
+        "id": "greenhouse:5285813007",
+        "url": "https://job-boards.greenhouse.io/locusrobotics/jobs/5285813007",
+        "location": "Wilmington, MA"
       }
     ],
     "GrayMatter Robotics": [
@@ -17845,7 +17861,15 @@
         "date": "2026-11-20",
         "id": "greenhouse:6267153004",
         "url": "https://boards.greenhouse.io/apptronik/jobs/6267153004?gh_jid=6267153004",
-        "location": "United States"
+        "location": "United States",
+        "closed": "2026-11-20"
+      },
+      {
+        "title": "Mechanical Engineer \u2013 Structural Simulation & Analysis",
+        "date": "2026-11-20",
+        "id": "greenhouse:6267259004",
+        "url": "https://boards.greenhouse.io/apptronik/jobs/6267259004?gh_jid=6267259004",
+        "location": "Austin, TX"
       }
     ],
     "Titan Robotics": [
@@ -19746,6 +19770,13 @@
         "date": "2026-11-20",
         "id": "greenhouse:4502926009",
         "url": "https://job-boards.greenhouse.io/avride/jobs/4502926009",
+        "location": "Austin, Texas"
+      },
+      {
+        "title": "Research Engineer, Computer Vision",
+        "date": "2026-11-20",
+        "id": "greenhouse:4516788009",
+        "url": "https://job-boards.greenhouse.io/avride/jobs/4516788009",
         "location": "Austin, Texas"
       }
     ],
@@ -32124,7 +32155,8 @@
         "date": "N/A",
         "id": "ashby:a245c891-e718-4976-b85c-5a5020788102",
         "url": "https://jobs.ashbyhq.com/AeroVect/a245c891-e718-4976-b85c-5a5020788102",
-        "location": "Remote +4"
+        "location": "Remote +4",
+        "closed": "2026-11-20"
       },
       {
         "title": "Senior Staff Software Engineer, Perception",
@@ -51593,6 +51625,13 @@
         "id": "ashby:4ecbef20-0a2e-4f3c-bf09-252a788a4e08",
         "url": "https://jobs.ashbyhq.com/saronic/4ecbef20-0a2e-4f3c-bf09-252a788a4e08",
         "location": "Austin, TX"
+      },
+      {
+        "title": "Senior Manager, Strategic Initiatives",
+        "date": "2026-11-20",
+        "id": "ashby:2727c0ce-1217-4f3f-aebe-22e136e2954f",
+        "url": "https://jobs.ashbyhq.com/saronic/2727c0ce-1217-4f3f-aebe-22e136e2954f",
+        "location": "Austin, TX"
       }
     ],
     "Built Robotics": [
@@ -55545,14 +55584,16 @@
         "date": "2026-10-14",
         "id": "workday:R574070",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Downstream-Marketing---Michigan_R574070",
-        "location": "Portage, Michigan"
+        "location": "Portage, Michigan",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Joint Replacement Sales - New York, NY",
         "date": "2026-10-14",
         "id": "workday:R575079",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/New-York-New-York/Summer-2027-Internship---Joint-Replacement-Sales---New-York--NY_R575079",
-        "location": "New York, New York"
+        "location": "New York, New York",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Project Management - California",
@@ -55617,7 +55658,8 @@
         "date": "2026-10-14",
         "id": "workday:R573050",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Export-Pennsylvania/Summer-2027-Internship---Upper-Extremities-Sales---Pittsburgh--PA_R573050",
-        "location": "Export, Pennsylvania"
+        "location": "Export, Pennsylvania",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship-Medical Education-New Jersey",
@@ -55954,21 +55996,24 @@
         "date": "N/A",
         "id": "workday:R572921",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Columbia-City-Indiana/Summer-2027-Internship---Upstream-Marketing-Intern---Columbia-City--IN_R572921",
-        "location": "Columbia City, Indiana"
+        "location": "Columbia City, Indiana",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Downstream Marketing Intern - Texas",
         "date": "N/A",
         "id": "workday:R572807",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Flower-Mound-Texas/Summer-2027-Internship---Downstream-Marketing-Intern---Texas_R572807",
-        "location": "Flower Mound, Texas"
+        "location": "Flower Mound, Texas",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Sales Support Analyst - Mahwah, NJ",
         "date": "N/A",
         "id": "workday:R572855",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Mahwah-New-Jersey/Summer-2027-Internship---Sales-Support-Analyst---Mahwah--NJ_R572855",
-        "location": "Mahwah, New Jersey"
+        "location": "Mahwah, New Jersey",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Sales Support Analyst - Michigan",
@@ -55983,14 +56028,16 @@
         "date": "N/A",
         "id": "workday:R572990",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Bloomington-Minnesota/Summer-2027-Intern---Marketing---Minnesota_R572990",
-        "location": "Bloomington, Minnesota"
+        "location": "Bloomington, Minnesota",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Upper Extremities Sales - Kansas City, MO",
         "date": "N/A",
         "id": "workday:R572956",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Kansas-City-Missouri/Summer-2027-Internship---Upper-Extremities-Sales---Kansas-City--MO_R572956",
-        "location": "Kansas City, Missouri"
+        "location": "Kansas City, Missouri",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Foot & Ankle Sales - Colorado",
@@ -56013,28 +56060,32 @@
         "date": "N/A",
         "id": "workday:R572949",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Foot---Ankle-Sales--San-Jose--CA_R572949",
-        "location": "San Jose, California"
+        "location": "San Jose, California",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Foot & Ankle Sales -",
         "date": "N/A",
         "id": "workday:R572946",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Morristown-New-Jersey/Summer-2027-Internship---Foot---Ankle-Sales--_R572946",
-        "location": "Morristown, New Jersey"
+        "location": "Morristown, New Jersey",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Upper Extremities Sales - Seattle, WA",
         "date": "N/A",
         "id": "workday:R572955",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Seattle-Washington/Summer-2027-Internship---Upper-Extremities-Sales---Seattle--WA_R572955",
-        "location": "Seattle, Washington"
+        "location": "Seattle, Washington",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Foot and Ankle Sales - Chicago, IL",
         "date": "N/A",
         "id": "workday:R572945",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Chicago-Illinois/Summer-2027-Internship---Foot-and-Ankle-Sales---Chicago--IL_R572945",
-        "location": "Chicago, Illinois"
+        "location": "Chicago, Illinois",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Joint Replacement Sales - Chicago, IL",
@@ -56049,7 +56100,8 @@
         "date": "N/A",
         "id": "workday:R572865",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Oklahoma-City-Oklahoma/Summer-2027-Internship---Upper-Extremities-Sales---OKC--OK_R572865",
-        "location": "Oklahoma City, Oklahoma"
+        "location": "Oklahoma City, Oklahoma",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship -Joint Replacement Sales - Houston, TX",
@@ -56064,7 +56116,8 @@
         "date": "N/A",
         "id": "workday:R572810",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Denver-Colorado/Summer-2027-Internship---Upper-Extremities-Sales--Denver--CO_R572810",
-        "location": "Denver, Colorado"
+        "location": "Denver, Colorado",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Manufacturing Engineering - Michigan",
@@ -56079,14 +56132,16 @@
         "date": "N/A",
         "id": "workday:R572834-1",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fremont-California/Summer-2027-Internship---Upper-Extremities-Sales---Fremont--CA_R572834-1",
-        "location": "Fremont, California"
+        "location": "Fremont, California",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Joint Replacement Sales - Philadelphia, PA",
         "date": "N/A",
         "id": "workday:R572794",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Philadelphia-Pennsylvania/Summer-2027-Internship---Joint-Replacement-Sales---Philadelphia--PA_R572794",
-        "location": "Philadelphia, Pennsylvania"
+        "location": "Philadelphia, Pennsylvania",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Biomedical Engineering - Illinois",
@@ -56109,7 +56164,8 @@
         "date": "N/A",
         "id": "workday:R572758",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cary-Illinois/Summer-2027-Internship---Sage-Sales--Cary--IL_R572758",
-        "location": "Cary, Illinois"
+        "location": "Cary, Illinois",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Mechanical Engineering - Arizona",
@@ -56124,7 +56180,8 @@
         "date": "N/A",
         "id": "workday:R572759",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cary-Illinois/Summer-2027-Internship---Sage-Sales---Cary--IL_R572759",
-        "location": "Cary, Illinois"
+        "location": "Cary, Illinois",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Mechanical Engineering - California",
@@ -56200,7 +56257,8 @@
         "date": "N/A",
         "id": "workday:R572793",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Philadelphia-Pennsylvania/Summer-2027-Internship---Joint-Replacement-Sales---Philadelphia--PA_R572793",
-        "location": "Philadelphia, Pennsylvania"
+        "location": "Philadelphia, Pennsylvania",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Joint Replacement Sales - Canton, MA",
@@ -56215,35 +56273,40 @@
         "date": "N/A",
         "id": "workday:R572857",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Houston-Texas/Summer-2027-Internship---Joint-Replacement-Sales--Houston--TX_R572857",
-        "location": "Houston, Texas"
+        "location": "Houston, Texas",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship -Joint Replacement Sales - Bloomfield, CT",
         "date": "N/A",
         "id": "workday:R572780-1",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Bloomfield-Connecticut/Summer-2027-Internship--Joint-Replacement-Sales---Bloomfield--CT_R572780-1",
-        "location": "Bloomfield, Connecticut"
+        "location": "Bloomfield, Connecticut",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Joint Replacement Sales - Los Angeles, CA",
         "date": "N/A",
         "id": "workday:R572781",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Los-Angeles-California/Summer-2026-Internship---Joint-Replacement-Sales---Los-Angeles--CA_R572781",
-        "location": "Los Angeles, California"
+        "location": "Los Angeles, California",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Joint Replacement Sales - Lenexa. KS",
         "date": "N/A",
         "id": "workday:R572778",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Lenexa-Kansas/Summer-2027-Internship---Joint-Replacement-Sales---Lenexa-KS_R572778",
-        "location": "Lenexa, Kansas"
+        "location": "Lenexa, Kansas",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Joint Replacement Sales - Minneapolis, MN",
         "date": "N/A",
         "id": "workday:R572775",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Minneapolis-Minnesota/Summer-2027-Internship---Joint-Replacement-Sales---Minneapolis--MN_R572775",
-        "location": "Minneapolis, Minnesota"
+        "location": "Minneapolis, Minnesota",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Upper Extremities Sales - Charlotte, NC",
@@ -56258,21 +56321,24 @@
         "date": "N/A",
         "id": "workday:R572777",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/St-Louis-Missouri/Summer-2027-Internship---Joint-Replacement-Sales---St-Louis--MO_R572777",
-        "location": "St Louis, Missouri"
+        "location": "St Louis, Missouri",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship- Upper Extremities Sales - Richmond, VA",
         "date": "N/A",
         "id": "workday:R572770",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Richmond-Virginia/Summer-2027-Internship--Upper-Extremities-Sales---Richmond--VA_R572770",
-        "location": "Richmond, Virginia"
+        "location": "Richmond, Virginia",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Downstream Marketing - Arizona",
         "date": "N/A",
         "id": "workday:R572860-1",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tempe-Arizona/Summer-2027-Internship---Downstream-Marketing---Arizona_R572860-1",
-        "location": "Tempe, Arizona"
+        "location": "Tempe, Arizona",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Upstream Marketing & Marketing Communication - Michigan",
@@ -56334,7 +56400,8 @@
         "date": "N/A",
         "id": "workday:R572533",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Cary-Illinois/Summer-2027-Internship---Downstream-Marketing---Illinois_R572533",
-        "location": "Cary, Illinois"
+        "location": "Cary, Illinois",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Data Analytics - Michigan",
@@ -59195,7 +59262,8 @@
         "date": "2026-11-19",
         "id": "workday:R8470-1",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Manager--Accounting--Confidential-_R8470-1",
-        "location": "USA Wilmington, MA - HQ"
+        "location": "USA Wilmington, MA - HQ",
+        "closed": "2026-11-20"
       },
       {
         "title": "Staff Mechanical Engineer - Mobile Bot",
@@ -59224,6 +59292,13 @@
         "id": "workday:R8567-1",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1",
         "location": "USA Austin, TX"
+      },
+      {
+        "title": "Warranty Administrator",
+        "date": "2026-11-20",
+        "id": "workday:R8572",
+        "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington-MA---ITC/Warranty-Administrator_R8572",
+        "location": "USA Wilmington, MA - ITC"
       }
     ],
     "PROCEPT BioRobotics": [
@@ -60562,8 +60637,7 @@
         "date": "2026-10-20",
         "id": "workday:JR00047836",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-GA-Flowery-Branch/Assembler--1st-Shift_JR00047836",
-        "location": "USA, GA, Flowery Branch",
-        "closed": "2026-11-19"
+        "location": "USA, GA, Flowery Branch"
       },
       {
         "title": "Tool and Die - Maintenance Specialist",
@@ -60604,8 +60678,7 @@
         "date": "2026-10-20",
         "id": "workday:JR00049608",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-North-Carolina-United-States-of-America/Data-Center-COE-Project-Specialist_JR00049608",
-        "location": "11 Locations",
-        "closed": "2026-11-15"
+        "location": "11 Locations"
       },
       {
         "title": "Internal Logistic Supervisor",
@@ -63424,8 +63497,7 @@
         "date": "N/A",
         "id": "workday:JR00045127-1",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Mebane/ELDS-LIS-SWGR-Production-Operator-1st-shift_JR00045127-1",
-        "location": "USA, NC, Mebane",
-        "closed": "2026-11-20"
+        "location": "USA, NC, Mebane"
       },
       {
         "title": "ELDS LV SWGR Production Operator 1st shift",
@@ -64444,6 +64516,20 @@
         "id": "workday:JR00041807",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-TN-Portland/Warehouse-Internal-Logistics-Operator---3rd-Shift_JR00041807",
         "location": "USA, TN, Portland"
+      },
+      {
+        "title": "Regional Managing Director Americas",
+        "date": "2026-11-20",
+        "id": "workday:JR00053412",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Alpharetta-Georgia-United-States-of-America/Regional-Managing-Director-Americas_JR00053412",
+        "location": "Alpharetta, Georgia, United States of America"
+      },
+      {
+        "title": "Cores Production Operator- Insulation-3rd Shift",
+        "date": "2026-11-20",
+        "id": "workday:JR00053958",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Pinetops-North-Carolina-United-States-of-America/Cores-Production-Operator--Insulation-3rd-Shift_JR00053958",
+        "location": "Pinetops, North Carolina, United States of America"
       }
     ],
     "Teradyne": [
@@ -66716,7 +66802,8 @@
         "date": "2026-11-13",
         "id": "successfactors:1428942300",
         "url": "https://jobs.teradyne.com/Teradyne/job/Wixom-Warehouse-Operations-Specialist-%28Teradyne-Robotics%2C-Wixom%2C-MI%29-MI/1428942300/",
-        "location": "Wixom, MI"
+        "location": "Wixom, MI",
+        "closed": "2026-11-20"
       },
       {
         "title": "NPI Manufacturing Engineer (TERADYNE, Deer Park, IL)",
@@ -66843,6 +66930,13 @@
         "id": "successfactors:1452540200",
         "url": "https://jobs.teradyne.com/Teradyne/job/Agoura-Hills-Engineering-Manager-Signal-Delivery-%28Compute-Test%2C-Agoura-Hills%29-CA-91301/1452540200/",
         "location": "Agoura Hills, CA +1"
+      },
+      {
+        "title": "RF Hardware Engineering Manager (Teradyne, North Reading, MA)",
+        "date": "2026-11-20",
+        "id": "successfactors:1452575000",
+        "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-RF-Hardware-Engineering-Manager-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1452575000/",
+        "location": "North Reading, MA"
       }
     ],
     "KUKA": [
@@ -70153,6 +70247,13 @@
         "id": "adp:5001236475106",
         "url": "https://myjobs.adp.com/fanuc/cx/job-details?reqId=5001236475106",
         "location": "Auburn Hills, MI"
+      },
+      {
+        "title": "Associate CNC Field Service Engineer",
+        "date": "2026-11-20",
+        "id": "adp:5001238553006",
+        "url": "https://myjobs.adp.com/fanuc/cx/job-details?reqId=5001238553006",
+        "location": "Rochester Hills, MI"
       }
     ],
     "Starship Technologies": [
@@ -73046,6 +73147,13 @@
         "id": "lever:73754a41-e55e-4bd1-9b47-bc473af5b6f2",
         "url": "https://jobs.lever.co/woven-by-toyota/73754a41-e55e-4bd1-9b47-bc473af5b6f2",
         "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a"
+      },
+      {
+        "title": "Software Engineer, Automated Driving Vehicle Platform",
+        "date": "2026-11-20",
+        "id": "lever:4e4a9515-5470-4219-9ae5-45a79ba92b49",
+        "url": "https://jobs.lever.co/woven-by-toyota/4e4a9515-5470-4219-9ae5-45a79ba92b49",
+        "location": "Ann Arbor, MI"
       }
     ],
     "Generalist AI": [
@@ -75372,6 +75480,13 @@
         "id": "workday:R10261585-1",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-AI-ML-Engineering-Intern---Morrisville-NC_R10261585-1",
         "location": "United States-North Carolina-Morrisville"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Critical Skills Development Intern - Remote",
+        "date": "2026-11-20",
+        "id": "workday:R10261601",
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Remote/XMLNAME-2027-Critical-Skills-Development-Intern---Remote_R10261601",
+        "location": "United States-Remote"
       }
     ],
     "OpenAI": [
@@ -94078,6 +94193,13 @@
         "id": "greenhouse:5480893008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5480893008",
         "location": "San Francisco, CA | New York City, NY"
+      },
+      {
+        "title": "Strategic Account Executive, Hedge Funds",
+        "date": "2026-11-20",
+        "id": "greenhouse:5490572008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490572008",
+        "location": "New York City, NY"
       }
     ],
     "xAI": [
@@ -99792,7 +99914,8 @@
         "date": "2026-11-02",
         "id": "workday:R49493",
         "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/San-Francisco-California-United-States/Software-Engineering-Intern_R49493",
-        "location": "San Francisco, California, United States"
+        "location": "San Francisco, California, United States",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Electrification Engineering Intern",
@@ -100754,8 +100877,7 @@
         "date": "N/A",
         "id": "workday:JR0287651",
         "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Colorado-Fort-Collins/Design-Verification-Graduate-Intern-2027_JR0287651",
-        "location": "2 Locations",
-        "closed": "2026-11-19"
+        "location": "2 Locations"
       },
       {
         "title": "\u2b50\ufe0f AI-Driven Physical Design Engineering (PhD Intern)",
@@ -100826,6 +100948,13 @@
         "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836",
         "location": "5 Locations",
         "closed": "2026-11-13"
+      },
+      {
+        "title": "\u2b50\ufe0f Foundry Construction, Supply Chain and Sourcing Intern \u2013 Graduate",
+        "date": "2026-11-20",
+        "id": "workday:JR0287924",
+        "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Foundry-Construction--Supply-Chain-and-Sourcing-Intern---Graduate_JR0287924",
+        "location": "5 Locations"
       }
     ],
     "LinkedIn": [
@@ -102466,8 +102595,7 @@
         "date": "N/A",
         "id": "ibm:128628",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=128628",
-        "location": "Durham",
-        "closed": "2026-11-13"
+        "location": "Durham"
       },
       {
         "title": "Associate Data Engineer 2027 - AI & Data Analytics",
@@ -102720,8 +102848,7 @@
         "date": "N/A",
         "id": "ibm:138632",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=138632",
-        "location": "Yorktown Heights",
-        "closed": "2026-11-14"
+        "location": "Yorktown Heights"
       },
       {
         "title": "Associate Security Consultant - Strategy, Risk & Compliance 2027",
@@ -102918,6 +103045,69 @@
         "id": "ibm:143344",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=143344",
         "location": "Rochester"
+      },
+      {
+        "title": "\u2b50\ufe0f Hardware Developer Intern - Austin, TX - 2027",
+        "date": "2026-11-20",
+        "id": "ibm:130094",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=130094",
+        "location": "Austin"
+      },
+      {
+        "title": "\u2b50\ufe0f Manufacturing Quality Engineer Intern",
+        "date": "2026-11-20",
+        "id": "ibm:145318",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=145318",
+        "location": "Poughkeepsie"
+      },
+      {
+        "title": "\u2b50\ufe0f QA/Test Developer ELH - Return Intern",
+        "date": "2026-11-20",
+        "id": "ibm:141093",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=141093",
+        "location": "Multiple Cities"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern Business Transformation Consultant 2027 \u2013 IBM Tech",
+        "date": "2026-11-20",
+        "id": "ibm:129133",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=129133",
+        "location": "Multiple Cities"
+      },
+      {
+        "title": "Entry Level Supply Chain Hardware Developer AZ",
+        "date": "2026-11-20",
+        "id": "ibm:145322",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=145322",
+        "location": "Tucson"
+      },
+      {
+        "title": "Quantum Algorithm Engineer",
+        "date": "2026-11-20",
+        "id": "ibm:143389",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143389",
+        "location": "Multiple Cities"
+      },
+      {
+        "title": "Entry Level Human Resources Professional: HR Business Partner",
+        "date": "2026-11-20",
+        "id": "ibm:145298",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=145298",
+        "location": "Armonk"
+      },
+      {
+        "title": "Entry Level Technical Support Professional-Tucson-AZ",
+        "date": "2026-11-20",
+        "id": "ibm:130361",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=130361",
+        "location": "Tucson"
+      },
+      {
+        "title": "Procurement Entry Level Hire 2027",
+        "date": "2026-11-20",
+        "id": "ibm:143308",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=143308",
+        "location": "Research Triangle Park"
       }
     ],
     "Bank of America": [
@@ -108823,6 +109013,13 @@
         "id": "greenhouse:8301842",
         "url": "https://www.mongodb.com/careers/job/?gh_jid=8301842",
         "location": "New York City"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 - Finance Intern, San Francisco",
+        "date": "2026-11-20",
+        "id": "greenhouse:8346144",
+        "url": "https://www.mongodb.com/careers/job/?gh_jid=8346144",
+        "location": "San Francisco"
       }
     ],
     "Robinhood": [
@@ -114386,7 +114583,8 @@
         "id": "greenhouse:6866549002",
         "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6866549002",
         "location": "Amsterdam, Netherlands",
-        "early": "\u2026erating in production Build solutions with a high level of reliability, scalability, and security What we look for: You will graduate between fall 2026 and summer 2027 with a degree in Computer Science, Engineering, or\u2026"
+        "early": "\u2026erating in production Build solutions with a high level of reliability, scalability, and security What we look for: You will graduate between fall 2026 and summer 2027 with a degree in Computer Science, Engineering, or\u2026",
+        "closed": "2026-11-20"
       },
       {
         "title": "Software Engineer - New Grad (2027 Start) - Berlin",
@@ -114394,7 +114592,8 @@
         "id": "greenhouse:6886281002",
         "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6886281002",
         "location": "Berlin, Germany",
-        "early": "\u2026erating in production Build solutions with a high level of reliability, scalability, and security What we look for: You will graduate between fall 2026 and summer 2027 with a degree in Computer Science, Engineering, or\u2026"
+        "early": "\u2026erating in production Build solutions with a high level of reliability, scalability, and security What we look for: You will graduate between fall 2026 and summer 2027 with a degree in Computer Science, Engineering, or\u2026",
+        "closed": "2026-11-20"
       },
       {
         "title": "Software Engineer - New Grad (2027 Start) - London",
@@ -114747,6 +114946,33 @@
         "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mequon-Wisconsin-United-States/PMB-Hardware-Engineering-Intern_R26-8346-1",
         "location": "2 Locations",
         "closed": "2026-11-19"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern, Remote Support (LCS)",
+        "date": "2026-11-20",
+        "id": "workday:R26-5025-1",
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Intern--Remote-Support--LCS-_R26-5025-1"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern - Embedded Controls Engineering",
+        "date": "2026-11-20",
+        "id": "workday:R26-5043-1",
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Orlando-Florida-United-States/Intern---Embedded-Controls-Engineering_R26-5043-1",
+        "location": "Orlando, Florida, United States"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern, Cyber Professional Services (LCS)",
+        "date": "2026-11-20",
+        "id": "workday:R26-5042-1",
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Intern--Cyber-Professional-Services--LCS-_R26-5042-1",
+        "location": "Mayfield Heights, Ohio, United States"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern, Content IDE Software Development (LCS)",
+        "date": "2026-11-20",
+        "id": "workday:R26-5010-1",
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-1",
+        "location": "Mayfield Heights, Ohio, United States"
       }
     ],
     "Siemens": [
@@ -115171,6 +115397,13 @@
         "url": "https://bostonscientific.eightfold.ai/careers/job/563602813547669",
         "location": "Arden Hills, MN",
         "closed": "2026-11-20"
+      },
+      {
+        "title": "\u2b50\ufe0f AI Solutions Engineering Intern",
+        "date": "2026-11-20",
+        "id": "eightfold:563602813547675",
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602813547675",
+        "location": "Arden Hills, MN"
       }
     ],
     "Cloudflare": [
@@ -120770,6 +121003,20 @@
         "id": "workday:R122135",
         "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Business-Operations---Data-Analytics-Intern_R122135",
         "location": "6555 Excellence Way, Plano, TX, USA"
+      },
+      {
+        "title": "\u2b50\ufe0f Product Management Tools and Automation Intern",
+        "date": "2026-11-20",
+        "id": "workday:R122022",
+        "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Product-Management-Tools-and-Automation-Intern_R122022",
+        "location": "6555 Excellence Way, Plano, TX, USA"
+      },
+      {
+        "title": "Software Developer Engineer",
+        "date": "2026-11-20",
+        "id": "workday:R122139",
+        "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Software-Developer-Engineer_R122139",
+        "location": "6555 Excellence Way, Plano, TX, USA"
       }
     ],
     "Medtronic": [
@@ -125365,39 +125612,6 @@
         "title:\u2b50\ufe0f Supply Chain Engineering Intern \u2013 Robotics (2026 Fall)"
       ],
       "backlog": true
-    },
-    "Stryker": {
-      "since": "2026-11-20T10:15-05:00",
-      "keys": [
-        "workday:R572533",
-        "workday:R572758",
-        "workday:R572759",
-        "workday:R572770",
-        "workday:R572775",
-        "workday:R572777",
-        "workday:R572778",
-        "workday:R572780-1",
-        "workday:R572781",
-        "workday:R572793",
-        "workday:R572794",
-        "workday:R572807",
-        "workday:R572810",
-        "workday:R572834-1",
-        "workday:R572855",
-        "workday:R572857",
-        "workday:R572860-1",
-        "workday:R572865",
-        "workday:R572921",
-        "workday:R572945",
-        "workday:R572946",
-        "workday:R572949",
-        "workday:R572955",
-        "workday:R572956",
-        "workday:R572990",
-        "workday:R573050",
-        "workday:R574070",
-        "workday:R575079"
-      ]
     }
   },
   "checked": {
