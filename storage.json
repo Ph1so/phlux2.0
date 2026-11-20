@@ -898,14 +898,16 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557040502",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557040502",
-        "location": "United States, Massachusetts, Cambridge +1"
+        "location": "United States, Massachusetts, Cambridge +1",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Audio and Acoustics",
         "date": "2026-10-13",
         "id": "eightfold:1970393557027326",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557027326",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Brain-Computer Interfaces",
@@ -1079,7 +1081,8 @@
         "date": "2026-10-19",
         "id": "eightfold:1970393557043754",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557043754",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Business Program Management INTERN",
@@ -1338,7 +1341,8 @@
         "date": "2026-11-17",
         "id": "eightfold:1970393557075074",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557075074",
-        "location": "United States, Washington, Redmond +6"
+        "location": "United States, Washington, Redmond +6",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Firmware Security",
@@ -4232,6 +4236,13 @@
         "id": "meta:29481973694788756",
         "url": "https://www.metacareers.com/profile/job_details/29481973694788756/",
         "location": "Redmond, WA"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Scientist Intern, Security & Integrity (PhD)",
+        "date": "2026-11-20",
+        "id": "meta:4110138665949300",
+        "url": "https://www.metacareers.com/profile/job_details/4110138665949300/",
+        "location": "Redmond, WA +1"
       }
     ],
     "Apple": [
@@ -8032,7 +8043,8 @@
         "date": "2026-10-26",
         "id": "workday:R3312",
         "url": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Systems-Test-Engineer---Co-Op_R3312",
-        "location": "Waltham Office (POST)"
+        "location": "Waltham Office (POST)",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Electrical Engineer Co-Op",
@@ -9011,16 +9023,14 @@
         "date": "2026-10-10",
         "id": "eightfold:446721159170",
         "url": "https://careers.qualcomm.com/careers/job/446721159170",
-        "location": "San Diego, CA",
-        "closed": "2026-11-20"
+        "location": "San Diego, CA"
       },
       {
         "title": "Modem Systems Engineer",
         "date": "2026-10-10",
         "id": "eightfold:446721016647",
         "url": "https://careers.qualcomm.com/careers/job/446721016647",
-        "location": "San Diego, CA",
-        "closed": "2026-11-20"
+        "location": "San Diego, CA"
       },
       {
         "title": "\u2b50\ufe0f Sales & Business Development Internship - Summer 2027",
@@ -9048,8 +9058,7 @@
         "date": "2026-10-13",
         "id": "eightfold:446720740637",
         "url": "https://careers.qualcomm.com/careers/job/446720740637",
-        "location": "San Diego, CA +3",
-        "closed": "2026-11-20"
+        "location": "San Diego, CA +3"
       },
       {
         "title": "\u2b50\ufe0f Multimedia Engineering Internship \u2013 Summer 2027",
@@ -9063,40 +9072,35 @@
         "date": "2026-10-14",
         "id": "eightfold:446720740525",
         "url": "https://careers.qualcomm.com/careers/job/446720740525",
-        "location": "San Diego, CA +6",
-        "closed": "2026-11-20"
+        "location": "San Diego, CA +6"
       },
       {
         "title": "\u2b50\ufe0f Embedded Engineering Internship - Summer 2027",
         "date": "2026-10-14",
         "id": "eightfold:446720737089",
         "url": "https://careers.qualcomm.com/careers/job/446720737089",
-        "location": "San Diego, CA +2",
-        "closed": "2026-11-20"
+        "location": "San Diego, CA +2"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Internship - Summer 2027",
         "date": "2026-10-14",
         "id": "eightfold:446720740529",
         "url": "https://careers.qualcomm.com/careers/job/446720740529",
-        "location": "San Diego, CA +7",
-        "closed": "2026-11-20"
+        "location": "San Diego, CA +7"
       },
       {
         "title": "\u2b50\ufe0f Qualcomm Government Technologies (QGOV) Engineering Internship \u2013 Summer 2027 (San Diego or Boulder) | US CITIZENSHIP REQUIRED",
         "date": "2026-10-14",
         "id": "eightfold:446720740540",
         "url": "https://careers.qualcomm.com/careers/job/446720740540",
-        "location": "San Diego, CA",
-        "closed": "2026-11-20"
+        "location": "San Diego, CA"
       },
       {
         "title": "\u2b50\ufe0f Automotive Engineering Internship \u2013 Summer 2027",
         "date": "2026-10-14",
         "id": "eightfold:446720740553",
         "url": "https://careers.qualcomm.com/careers/job/446720740553",
-        "location": "San Diego, CA",
-        "closed": "2026-11-20"
+        "location": "San Diego, CA"
       }
     ],
     "Toyota Research Insitute": [
@@ -19089,6 +19093,13 @@
         "date": "2026-11-19",
         "id": "greenhouse:5290941007",
         "url": "https://lucidmotors.com/careers/search/5290941007?gh_jid=5290941007",
+        "location": "Newark, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern, AI/ML, Vehicle Infotainment, Summer 2027",
+        "date": "2026-11-20",
+        "id": "greenhouse:5290923007",
+        "url": "https://lucidmotors.com/careers/search/5290923007?gh_jid=5290923007",
         "location": "Newark, CA"
       }
     ],
@@ -30755,7 +30766,8 @@
         "date": "2026-11-09",
         "id": "greenhouse:5290310007",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5290310007?gh_jid=5290310007",
-        "location": "Costa Mesa, California, United States"
+        "location": "Costa Mesa, California, United States",
+        "closed": "2026-11-20"
       },
       {
         "title": "2027 New Grad Information Security Engineer",
@@ -30857,6 +30869,27 @@
         "date": "2026-11-19",
         "id": "greenhouse:5302147007",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5302147007?gh_jid=5302147007",
+        "location": "Costa Mesa, California, United States"
+      },
+      {
+        "title": "Mission Systems Engineer, Early Career",
+        "date": "2026-11-20",
+        "id": "greenhouse:5303479007",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5303479007?gh_jid=5303479007",
+        "location": "Costa Mesa, California, United States"
+      },
+      {
+        "title": "Radar Systems Engineer, Early Career",
+        "date": "2026-11-20",
+        "id": "greenhouse:5303553007",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5303553007?gh_jid=5303553007",
+        "location": "Costa Mesa, California, United States"
+      },
+      {
+        "title": "RF Integration Systems Engineer, Early Career",
+        "date": "2026-11-20",
+        "id": "greenhouse:5303550007",
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5303550007?gh_jid=5303550007",
         "location": "Costa Mesa, California, United States"
       }
     ],
@@ -31569,6 +31602,20 @@
         "date": "2026-11-19",
         "id": "rippling:5c824862-e5b1-4d5f-b2ca-627e53727f93",
         "url": "https://ats.rippling.com/forterra/jobs/5c824862-e5b1-4d5f-b2ca-627e53727f93",
+        "location": "Clarksburg, MD"
+      },
+      {
+        "title": "Industrial Designer",
+        "date": "2026-11-20",
+        "id": "rippling:0935d4e4-5635-4623-8436-78d0bc7b760e",
+        "url": "https://ats.rippling.com/forterra/jobs/0935d4e4-5635-4623-8436-78d0bc7b760e",
+        "location": "Clarksburg, MD"
+      },
+      {
+        "title": "Simulation Test Engineering Lead",
+        "date": "2026-11-20",
+        "id": "rippling:7130f751-84c8-49a9-85e3-83f3fe4c32aa",
+        "url": "https://ats.rippling.com/forterra/jobs/7130f751-84c8-49a9-85e3-83f3fe4c32aa",
         "location": "Clarksburg, MD"
       }
     ],
@@ -32572,6 +32619,27 @@
         "id": "greenhouse:5280050007",
         "url": "https://job-boards.greenhouse.io/gatherai/jobs/5280050007",
         "location": "Pittsburgh, PA"
+      },
+      {
+        "title": "Future Opportunity - Customer, Brand and People",
+        "date": "2026-11-20",
+        "id": "greenhouse:5293745007",
+        "url": "https://job-boards.greenhouse.io/gatherai/jobs/5293745007",
+        "location": "Pittsburgh, PA; Remote (India); Remote (USA)"
+      },
+      {
+        "title": "Future Opportunity: Product, Program and Operations",
+        "date": "2026-11-20",
+        "id": "greenhouse:5293748007",
+        "url": "https://job-boards.greenhouse.io/gatherai/jobs/5293748007",
+        "location": "Pittsburgh, PA; Remote (India); Remote (USA)"
+      },
+      {
+        "title": "Future Opportunity: Technical",
+        "date": "2026-11-20",
+        "id": "greenhouse:5293629007",
+        "url": "https://job-boards.greenhouse.io/gatherai/jobs/5293629007",
+        "location": "Pittsburgh, PA; Remote (India); Remote (USA)"
       }
     ],
     "Carbon Robotics": [
@@ -37497,6 +37565,13 @@
         "date": "2026-11-17",
         "id": "ashby:1573d487-5dce-4eac-90c0-740ce0be53a1",
         "url": "https://jobs.ashbyhq.com/wayve/1573d487-5dce-4eac-90c0-740ce0be53a1",
+        "location": "Sunnyvale, California USA"
+      },
+      {
+        "title": "Senior Software Engineer - Sensor Systems, Robot Software",
+        "date": "2026-11-20",
+        "id": "ashby:7706d2b1-2d19-4b88-b1ac-845e7ef17f3c",
+        "url": "https://jobs.ashbyhq.com/wayve/7706d2b1-2d19-4b88-b1ac-845e7ef17f3c",
         "location": "Sunnyvale, California USA"
       }
     ],
@@ -43522,7 +43597,8 @@
         "date": "2026-11-11",
         "id": "ashby:d9202f9d-0581-4216-916d-f11c34abf772",
         "url": "https://jobs.ashbyhq.com/humanoid/d9202f9d-0581-4216-916d-f11c34abf772",
-        "location": "UK, London"
+        "location": "UK, London",
+        "closed": "2026-11-20"
       },
       {
         "title": "Buyer - Directs (FTC)",
@@ -47332,7 +47408,8 @@
       },
       {
         "title": "Staff Platform Engineer",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "closed": "2026-11-20"
       },
       {
         "title": "Trade Analyst",
@@ -59262,8 +59339,7 @@
         "date": "2026-11-19",
         "id": "workday:R8470-1",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Manager--Accounting--Confidential-_R8470-1",
-        "location": "USA Wilmington, MA - HQ",
-        "closed": "2026-11-20"
+        "location": "USA Wilmington, MA - HQ"
       },
       {
         "title": "Staff Mechanical Engineer - Mobile Bot",
@@ -63229,8 +63305,7 @@
         "date": "N/A",
         "id": "workday:JR00034248",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MI-Auburn-Hills/Sales-Account-Manager---US-Automotive-Robotics--Tier-I_JR00034248",
-        "location": "USA, MI, Auburn Hills",
-        "closed": "2026-11-20"
+        "location": "USA, MI, Auburn Hills"
       },
       {
         "title": "Sales Manager - US Automotive Robotics",
@@ -63966,7 +64041,8 @@
         "date": "2026-11-13",
         "id": "workday:JR00053405",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-AR-Jonesboro/XMLNAME-3rd-Shift-Galv-Machine-Operator_JR00053405",
-        "location": "USA, AR, Jonesboro"
+        "location": "USA, AR, Jonesboro",
+        "closed": "2026-11-20"
       },
       {
         "title": "2nd Shift CNC Operator",
@@ -64530,6 +64606,20 @@
         "id": "workday:JR00053958",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Pinetops-North-Carolina-United-States-of-America/Cores-Production-Operator--Insulation-3rd-Shift_JR00053958",
         "location": "Pinetops, North Carolina, United States of America"
+      },
+      {
+        "title": "ELSP Craft Worker",
+        "date": "2026-11-20",
+        "id": "workday:JR00054326",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Mebane/ELSP-Craft-Worker_JR00054326",
+        "location": "USA, NC, Mebane"
+      },
+      {
+        "title": "Machine Operator - Molding",
+        "date": "2026-11-20",
+        "id": "workday:JR00054333",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Ormond-Beach-Florida-United-States-of-America/Machine-Operator---Molding_JR00054333",
+        "location": "Ormond Beach, Florida, United States of America"
       }
     ],
     "Teradyne": [
@@ -66936,6 +67026,13 @@
         "date": "2026-11-20",
         "id": "successfactors:1452575000",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-RF-Hardware-Engineering-Manager-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1452575000/",
+        "location": "North Reading, MA"
+      },
+      {
+        "title": "Assistant Corporate Controller (Teradyne, N. Reading MA)",
+        "date": "2026-11-20",
+        "id": "successfactors:1452623000",
+        "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Assistant-Corporate-Controller-%28Teradyne%2C-N_-Reading-MA%29-MA/1452623000/",
         "location": "North Reading, MA"
       }
     ],
@@ -91942,7 +92039,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5098092008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5098092008",
-        "location": "San Francisco, CA | New York City, NY"
+        "location": "San Francisco, CA | New York City, NY",
+        "closed": "2026-11-20"
       },
       {
         "title": "Software Engineer, Labs",
@@ -94200,6 +94298,13 @@
         "id": "greenhouse:5490572008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490572008",
         "location": "New York City, NY"
+      },
+      {
+        "title": "Research Engineer, Beneficial Deployments",
+        "date": "2026-11-20",
+        "id": "greenhouse:5485188008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5485188008",
+        "location": "San Francisco, CA"
       }
     ],
     "xAI": [
@@ -101391,7 +101496,8 @@
         "date": "N/A",
         "id": "ibm:128737",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=128737",
-        "location": "University Park"
+        "location": "University Park",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Procurement Intern: 2027",
@@ -101483,7 +101589,8 @@
         "date": "N/A",
         "id": "ibm:141091",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=141091",
-        "location": "Multiple Cities"
+        "location": "Multiple Cities",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Product Management Intern 2027",
@@ -101526,7 +101633,8 @@
         "date": "N/A",
         "id": "ibm:130735",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=130735",
-        "location": "Austin"
+        "location": "Austin",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Intern Application Developer \u2013 Oracle - 2027",
@@ -101547,7 +101655,8 @@
         "date": "N/A",
         "id": "ibm:128784",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=128784",
-        "location": "Baton Rouge"
+        "location": "Baton Rouge",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Portfolio Development Intern 2027",
@@ -101568,7 +101677,8 @@
         "date": "N/A",
         "id": "ibm:128541",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=128541",
-        "location": "University Park"
+        "location": "University Park",
+        "closed": "2026-11-20"
       },
       {
         "title": "Technical Solution Specialist Apprentice",
@@ -101619,8 +101729,7 @@
         "date": "N/A",
         "id": "ibm:139671",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=139671",
-        "location": "New York",
-        "closed": "2026-11-14"
+        "location": "New York"
       },
       {
         "title": "\u2b50\ufe0f Consultant Intern \u2013 SAP 2027",
@@ -101690,7 +101799,8 @@
         "date": "N/A",
         "id": "ibm:129781",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=129781",
-        "location": "Poughkeepsie"
+        "location": "Poughkeepsie",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Hardware Intern 2027: Advanced Solder Processes",
@@ -101725,7 +101835,8 @@
         "date": "N/A",
         "id": "ibm:137428",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=137428",
-        "location": "Poughkeepsie"
+        "location": "Poughkeepsie",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f AI Foundations - Research Scientist - Research Internship - 2027",
@@ -101802,7 +101913,8 @@
         "date": "N/A",
         "id": "ibm:128547",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=128547",
-        "location": "Chicago"
+        "location": "Chicago",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Research Intern: Linear Algebra and Hamiltonian Simulation - 2027",
@@ -101816,7 +101928,8 @@
         "date": "N/A",
         "id": "ibm:129227",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=129227",
-        "location": "University Park"
+        "location": "University Park",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Intern Data Engineers - AI & Analytics - 2027",
@@ -101830,7 +101943,8 @@
         "date": "N/A",
         "id": "ibm:128716",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=128716",
-        "location": "New York"
+        "location": "New York",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Silicon Technology Research and Development Software Engineering Intern - 2027",
@@ -101851,14 +101965,16 @@
         "date": "N/A",
         "id": "ibm:128757",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=128757",
-        "location": "University Park"
+        "location": "University Park",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Quantum Lab Assistant - Intern 2027",
         "date": "N/A",
         "id": "ibm:133089",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=133089",
-        "location": "Yorktown Heights"
+        "location": "Yorktown Heights",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Strategy Consultant Intern 2027",
@@ -101887,7 +102003,8 @@
         "date": "N/A",
         "id": "ibm:131176",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=131176",
-        "location": "Austin"
+        "location": "Austin",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f AI Native Systems Research Scientist Intern 2027",
@@ -101964,7 +102081,8 @@
         "date": "N/A",
         "id": "ibm:131072",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=131072",
-        "location": "Tucson"
+        "location": "Tucson",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Site Reliability Engineer Intern - OneIT - Rochester, MN",
@@ -101999,7 +102117,8 @@
         "date": "N/A",
         "id": "ibm:128770",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=128770",
-        "location": "University Park"
+        "location": "University Park",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f 2027 Intern \u2013 Motion Designer",
@@ -102083,14 +102202,16 @@
         "date": "N/A",
         "id": "ibm:128771",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=128771",
-        "location": "University Park"
+        "location": "University Park",
+        "closed": "2026-11-20"
       },
       {
         "title": "Software Engineer Apprentice",
         "date": "N/A",
         "id": "ibm:137919",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=137919",
-        "location": "Armonk"
+        "location": "Armonk",
+        "closed": "2026-11-20"
       },
       {
         "title": "Mainframe System Verification Tester Apprentice-2nd Shift",
@@ -102104,14 +102225,16 @@
         "date": "N/A",
         "id": "ibm:128728",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=128728",
-        "location": "Chicago"
+        "location": "Chicago",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Co-Op Data Scientist - AI & Analytics 2027",
         "date": "N/A",
         "id": "ibm:128649",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=128649",
-        "location": "University Park"
+        "location": "University Park",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Technical Sales Engineer Intern - Entry-Level Sales Program 2027",
@@ -102252,7 +102375,8 @@
         "date": "N/A",
         "id": "ibm:131205",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=131205",
-        "location": "Durham"
+        "location": "Durham",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Intern Consultant Oracle Cloud - 2027",
@@ -102280,7 +102404,8 @@
         "date": "N/A",
         "id": "ibm:128527",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=128527",
-        "location": "New York"
+        "location": "New York",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f UX Designer Intern 2027",
@@ -102294,7 +102419,8 @@
         "date": "N/A",
         "id": "ibm:135618",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=135618",
-        "location": "Research Triangle Park"
+        "location": "Research Triangle Park",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Supply Chain Operations Intern 2027",
@@ -102315,14 +102441,16 @@
         "date": "N/A",
         "id": "ibm:131195",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=131195",
-        "location": "Austin"
+        "location": "Austin",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f 2027 Incentives Professional Intern",
         "date": "N/A",
         "id": "ibm:131306",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=131306",
-        "location": "Armonk"
+        "location": "Armonk",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Intern Data Engineer - Data Services - 2027",
@@ -102378,7 +102506,8 @@
         "date": "N/A",
         "id": "ibm:128711",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=128711",
-        "location": "University Park"
+        "location": "University Park",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Quantum Runtime Framework Intern 2027",
@@ -102399,7 +102528,8 @@
         "date": "N/A",
         "id": "ibm:128551",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=128551",
-        "location": "Chicago"
+        "location": "Chicago",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Intern Application Developer 2027 \u2013 DPE",
@@ -102455,7 +102585,8 @@
         "date": "N/A",
         "id": "ibm:128765",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=128765",
-        "location": "University Park"
+        "location": "University Park",
+        "closed": "2026-11-20"
       },
       {
         "title": "Systems Support Apprentice",
@@ -102490,7 +102621,8 @@
         "date": "N/A",
         "id": "ibm:130114",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=130114",
-        "location": "Multiple Cities"
+        "location": "Multiple Cities",
+        "closed": "2026-11-20"
       },
       {
         "title": "Infrastructure Lab Technician Apprentice",
@@ -102504,7 +102636,8 @@
         "date": "N/A",
         "id": "ibm:130110",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=130110",
-        "location": "Austin"
+        "location": "Austin",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f 2027 Intern \u2013 Copywriter",
@@ -102553,7 +102686,8 @@
         "date": "N/A",
         "id": "ibm:129131",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=129131",
-        "location": "Baton Rouge"
+        "location": "Baton Rouge",
+        "closed": "2026-11-20"
       },
       {
         "title": "Recruiter \u2013 Technology Hiring",
@@ -102616,7 +102750,8 @@
         "date": "N/A",
         "id": "ibm:128743",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=128743",
-        "location": "Dallas"
+        "location": "Dallas",
+        "closed": "2026-11-20"
       },
       {
         "title": "Qubit Characterization Engineer",
@@ -102637,7 +102772,8 @@
         "date": "N/A",
         "id": "ibm:128778",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=128778",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-20"
       },
       {
         "title": "Data Scientist",
@@ -102708,7 +102844,8 @@
         "date": "N/A",
         "id": "ibm:129121",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=129121",
-        "location": "Baton Rouge"
+        "location": "Baton Rouge",
+        "closed": "2026-11-20"
       },
       {
         "title": "Associate SAP Technology Specialist \u2013 2027",
@@ -102729,7 +102866,8 @@
         "date": "N/A",
         "id": "ibm:130070",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=130070",
-        "location": "New York"
+        "location": "New York",
+        "closed": "2026-11-20"
       },
       {
         "title": "Associate Application Developer Salesforce -2027",
@@ -102750,7 +102888,8 @@
         "date": "N/A",
         "id": "ibm:128732",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=128732",
-        "location": "Baton Rouge"
+        "location": "Baton Rouge",
+        "closed": "2026-11-20"
       },
       {
         "title": "Federal Associate Technical Specialist (Rocket Center, WV)",
@@ -102771,7 +102910,8 @@
         "date": "N/A",
         "id": "ibm:130367",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=130367",
-        "location": "Baton Rouge"
+        "location": "Baton Rouge",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Cloud Developer Intern - Storage - Austin, TX - 2027",
@@ -102813,7 +102953,8 @@
         "date": "N/A",
         "id": "ibm:141137",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=141137",
-        "location": "Austin"
+        "location": "Austin",
+        "closed": "2026-11-20"
       },
       {
         "title": "Entry Level AI-First Transformation \u2013 Strategy Consultant 2027",
@@ -102827,7 +102968,8 @@
         "date": "N/A",
         "id": "ibm:140605",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=140605",
-        "location": "Albany"
+        "location": "Albany",
+        "closed": "2026-11-20"
       },
       {
         "title": "Quantum Demonstration Experimentalist",
@@ -102855,7 +102997,8 @@
         "date": "N/A",
         "id": "ibm:128546",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=128546",
-        "location": "Chicago"
+        "location": "Chicago",
+        "closed": "2026-11-20"
       },
       {
         "title": "Associate Data Scientist 2027 - AI & Data Analytics",
@@ -102883,7 +103026,8 @@
         "date": "N/A",
         "id": "ibm:131165",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=131165",
-        "location": "Austin"
+        "location": "Austin",
+        "closed": "2026-11-20"
       },
       {
         "title": "Threat Hunter - IBM CISO",
@@ -102932,7 +103076,8 @@
         "date": "N/A",
         "id": "ibm:129116",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=129116",
-        "location": "Chicago"
+        "location": "Chicago",
+        "closed": "2026-11-20"
       },
       {
         "title": "Associate Data Engineer \u2013 AI & Analytics - 2027",
@@ -103002,7 +103147,8 @@
         "date": "2026-11-12",
         "id": "ibm:136982",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=136982",
-        "location": "Rochester"
+        "location": "Rochester",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f IBM Z Engineering System Test QA/Test Developer Intern - Poughkeepsie, NY - 2027",
@@ -103037,7 +103183,8 @@
         "date": "2026-11-13",
         "id": "ibm:132703",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=132703",
-        "location": "Multiple Cities"
+        "location": "Multiple Cities",
+        "closed": "2026-11-20"
       },
       {
         "title": "Entry Level Analog Circuit Design Engineer 2027 -Rochester, MN",
@@ -103108,6 +103255,34 @@
         "id": "ibm:143308",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=143308",
         "location": "Research Triangle Park"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Developer Intern 2027 - Austin",
+        "date": "2026-11-20",
+        "id": "ibm:133131",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=133131",
+        "location": "Austin"
+      },
+      {
+        "title": "Research Scientist - AI foundations",
+        "date": "2026-11-20",
+        "id": "ibm:142303",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=142303",
+        "location": "Cambridge"
+      },
+      {
+        "title": "Entry Level Supply Chain Software Developer",
+        "date": "2026-11-20",
+        "id": "ibm:145319",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=145319",
+        "location": "Multiple Cities"
+      },
+      {
+        "title": "Entry Level Manufacturing Quality Engineer Hardware Developer",
+        "date": "2026-11-20",
+        "id": "ibm:145296",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=145296",
+        "location": "Poughkeepsie"
       }
     ],
     "Bank of America": [
@@ -114973,6 +115148,75 @@
         "id": "workday:R26-5010-1",
         "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-1",
         "location": "Mayfield Heights, Ohio, United States"
+      },
+      {
+        "title": "Lifecycle Services Leadership Development Program: Delivery Engineer",
+        "date": "2026-11-20",
+        "id": "workday:R26-5070-1",
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Lifecycle-Services-Leadership-Development-Program--Delivery-Engineer_R26-5070-1",
+        "location": "Mayfield Heights, Ohio, United States"
+      },
+      {
+        "title": "Lifecycle Services Leadership Development - Managed Support Services Project Management",
+        "date": "2026-11-20",
+        "id": "workday:R26-5830-1",
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Lifecycle-Services-Leadership-Development---Managed-Support-Services-Project-Management_R26-5830-1",
+        "location": "Mayfield Heights, Ohio, United States"
+      },
+      {
+        "title": "Lifecycle Services Leadership Development Program: Managed Support Services",
+        "date": "2026-11-20",
+        "id": "workday:R26-4854-2",
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Lifecycle-Services-Leadership-Development-Program--Managed-Support-Services_R26-4854-2",
+        "location": "Mayfield Heights, Ohio, United States"
+      },
+      {
+        "title": "Lifecycle Services Leadership Development Program: Professional Services",
+        "date": "2026-11-20",
+        "id": "workday:R26-4851-1",
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Lifecycle-Services-Leadership-Development-Program--Professional-Services_R26-4851-1"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern - ISM, Cyber Security and AI",
+        "date": "2026-11-20",
+        "id": "workday:R26-5040-1",
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mayfield-Heights-Ohio-United-States/Intern---ISM--Cyber-Security-and-AI_R26-5040-1",
+        "location": "Mayfield Heights, Ohio, United States"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern, Market Access Strategy (LCS)",
+        "date": "2026-11-20",
+        "id": "workday:R26-5069-1",
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Milwaukee-Wisconsin-United-States/Intern--Market-Access-Strategy--LCS-_R26-5069-1",
+        "location": "Milwaukee, Wisconsin, United States"
+      },
+      {
+        "title": "\u2b50\ufe0f Consulting Analyst Intern (LCS)",
+        "date": "2026-11-20",
+        "id": "workday:R26-5073-2",
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Columbus-Ohio-United-States/Consulting-Analyst-Intern--LCS-_R26-5073-2",
+        "location": "2 Locations"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern, Commercial Operations (LCS)",
+        "date": "2026-11-20",
+        "id": "workday:R26-5067-1",
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Chelmsford-Massachusetts-United-States/Intern--Commercial-Operations--LCS-_R26-5067-1",
+        "location": "2 Locations"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern, Market Intelligence (LCS)",
+        "date": "2026-11-20",
+        "id": "workday:R26-5032-2",
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Milwaukee-Wisconsin-United-States/Intern--Market-Intelligence--LCS-_R26-5032-2",
+        "location": "Milwaukee, Wisconsin, United States"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern, Field Service (LCS)",
+        "date": "2026-11-20",
+        "id": "workday:R26-5034-1",
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/St-Louis-Missouri-United-States/Intern--Field-Service--LCS-_R26-5034-1",
+        "location": "6 Locations"
       }
     ],
     "Siemens": [
@@ -115335,8 +115579,7 @@
         "date": "2026-11-13",
         "id": "eightfold:563602813519128",
         "url": "https://bostonscientific.eightfold.ai/careers/job/563602813519128",
-        "location": "Maple Grove, MN",
-        "closed": "2026-11-16"
+        "location": "Maple Grove, MN"
       },
       {
         "title": "\u2b50\ufe0f AI Acceleration Intern",
@@ -117708,7 +117951,8 @@
         "date": "N/A",
         "id": "oraclehcm:188644",
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/188644",
-        "location": "New York, NY"
+        "location": "New York, NY",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f 2026 | Americas | Sao Paulo | Engineering | Seasonal/Off Cycle Internship",
@@ -117729,7 +117973,8 @@
         "date": "N/A",
         "id": "oraclehcm:188207",
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/188207",
-        "location": "New York, NY"
+        "location": "New York, NY",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f 2026 | Americas | Lima | Investment Banking | Seasonal/Off Cycle Internship",
@@ -123215,7 +123460,8 @@
         "date": "N/A",
         "id": "pinpoint:591352",
         "url": "https://impulsespace.pinpointhq.com/en/postings/98b28ee4-77f0-46ea-8009-67ffa3cbf560",
-        "location": "Redondo Beach, CA"
+        "location": "Redondo Beach, CA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Avionics Technician (Second shift)",
@@ -124148,7 +124394,8 @@
         "date": "2026-11-20",
         "id": "pinpoint:517994",
         "url": "https://impulsespace.pinpointhq.com/en/postings/371a9faa-4ba8-49aa-ad13-6d12478bfde4",
-        "location": "Redondo Beach, CA"
+        "location": "Redondo Beach, CA",
+        "closed": "2026-11-20"
       }
     ],
     "Shure": [
@@ -125918,6 +126165,10 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
+    },
+    "Lockheed Martin": {
+      "since": "2026-11-20",
+      "error": "ReadTimeout: HTTPSConnectionPool(host='lockheedmartin.eightfold.ai', port=443): Read timed out. (read timeout=30)"
     }
   },
   "closures_untracked": {
