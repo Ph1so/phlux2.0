@@ -56225,28 +56225,32 @@
         "date": "N/A",
         "id": "workday:R572619",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Upstream-Marketing---Marketing-Communication---Michigan_R572619",
-        "location": "Portage, Michigan"
+        "location": "Portage, Michigan",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Upstream Marketing & Marketing Communication - New Jersey",
         "date": "N/A",
         "id": "workday:R572622",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Mahwah-New-Jersey/Summer-2027-Internship---Upstream-Marketing---Marketing-Communication---New-Jersey_R572622",
-        "location": "Mahwah, New Jersey"
+        "location": "Mahwah, New Jersey",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Medical Education - Michigan",
         "date": "N/A",
         "id": "workday:R572626-1",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Medical-Education---Michigan_R572626-1",
-        "location": "Portage, Michigan"
+        "location": "Portage, Michigan",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Customer Success - Michigan",
         "date": "N/A",
         "id": "workday:R572633",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Customer-Success---Michigan_R572633",
-        "location": "Portage, Michigan"
+        "location": "Portage, Michigan",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Electrical Engineering - California",
@@ -57625,6 +57629,13 @@
         "id": "workday:R-110497-1",
         "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Leeds-West-Yorkshire-United-Kingdom/Design-Engineering-Student-Placement-2027_R-110497-1",
         "location": "Leeds, West Yorkshire, United Kingdom"
+      },
+      {
+        "title": "Trainee Quality Control - New Product Introduction",
+        "date": "2026-11-20",
+        "id": "workday:R-112143",
+        "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Schaffhausen-Switzerland/Trainee-Quality-Control---New-Product-Introduction_R-112143",
+        "location": "Schaffhausen, Switzerland"
       }
     ],
     "PlusAI": [
