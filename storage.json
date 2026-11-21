@@ -602,6 +602,27 @@
         "id": "workday:JR2029131",
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Finance-AI-Engineering-Intern---Summer-2027_JR2029131",
         "location": "US, CA, Santa Clara"
+      },
+      {
+        "title": "\u2b50\ufe0f Product Marketing Intern, DGX Products - Summer 2027",
+        "date": "2026-11-21",
+        "id": "workday:JR2029456-1",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-Intern--DGX-Products---Summer-2027_JR2029456-1",
+        "location": "US, CA, Santa Clara"
+      },
+      {
+        "title": "\u2b50\ufe0f Accounting AI Solution Engineer Intern - Summer 2027",
+        "date": "2026-11-21",
+        "id": "workday:JR2029155-1",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Accounting-AI-Solution-Engineer-Intern---Summer-2027_JR2029155-1",
+        "location": "US, CA, Santa Clara"
+      },
+      {
+        "title": "\u2b50\ufe0f Technical Marketing Engineering Intern, Digital Biology and Scientific Computing - Summer 2027",
+        "date": "2026-11-21",
+        "id": "workday:JR2029793",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Digital-Biology-and-Scientific-Computing---Summer-2027_JR2029793",
+        "location": "US, CA, Santa Clara"
       }
     ],
     "Google": [
@@ -886,8 +907,7 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557040333",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557040333",
-        "location": "United States, Massachusetts, Cambridge",
-        "closed": "2026-11-21"
+        "location": "United States, Massachusetts, Cambridge"
       },
       {
         "title": "\u2b50\ufe0f Cloud Network Engineering Internship Opportunities",
@@ -1269,8 +1289,7 @@
         "date": "2026-11-03",
         "id": "eightfold:1970393557037859",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557037859",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-21"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Research in Software Engineering, ML Systems, Agents",
@@ -1384,8 +1403,7 @@
         "date": "2026-11-19",
         "id": "eightfold:1970393557076095",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557076095",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-21"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - AI Safety, Alignment, and Post-Training",
@@ -102389,7 +102407,8 @@
         "date": "N/A",
         "id": "ibm:133797",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=133797",
-        "location": "Multiple Cities"
+        "location": "Multiple Cities",
+        "closed": "2026-11-21"
       },
       {
         "title": "\u2b50\ufe0f 2027 FLDP Summer Intern",
@@ -122984,6 +123003,13 @@
         "id": "phenom:R117986",
         "url": "https://careers.mitre.org/us/en/job/R117986/Optics-and-Photonics-Student-Researcher",
         "location": "Bedford, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Underwater Sensors Engineer Intern",
+        "date": "2026-11-21",
+        "id": "phenom:R118077",
+        "url": "https://careers.mitre.org/us/en/job/R118077/Underwater-Sensors-Engineer-Intern",
+        "location": "Bedford, MA"
       }
     ],
     "Draper": [
@@ -126806,12 +126832,12 @@
   },
   "email_threads": {
     "internship": {
-      "date": "2026-11-20",
-      "message_id": "<179517431949.2304.17609156330430438993@phlux>"
+      "date": "2026-11-21",
+      "message_id": "<179527367497.2515.10211521079623480819@phlux>"
     },
     "internship_all": {
-      "date": "2026-11-20",
-      "message_id": "<179517432165.2304.17464799696898347156@phlux>"
+      "date": "2026-11-21",
+      "message_id": "<179527367748.2515.18070822624706762836@phlux>"
     }
   },
   "pending_closures": {
@@ -126837,7 +126863,7 @@
   "checked": {
     "Google": "2026-11-21",
     "Meta": "2026-11-21",
-    "Nvidia": "2026-11-20",
+    "Nvidia": "2026-11-21",
     "AWS": "2026-11-21",
     "Amazon": "2026-11-21",
     "Netflix": "2026-11-21",
@@ -127151,13 +127177,37 @@
       "since": "2026-11-20",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
     },
-    "Nvidia": {
+    "Slack": {
       "since": "2026-11-21",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/Slack/jobs"
     },
-    "Autodesk": {
+    "Boston Dynamics": {
       "since": "2026-11-21",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/uni/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://bostondynamics.wd1.myworkdayjobs.com/wday/cxs/bostondynamics/Boston_Dynamics/jobs"
+    },
+    "Razer": {
+      "since": "2026-11-21",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
+    },
+    "Target": {
+      "since": "2026-11-21",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
+    },
+    "Samsung": {
+      "since": "2026-11-21",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
+    },
+    "Stryker": {
+      "since": "2026-11-21",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs"
+    },
+    "General Motors": {
+      "since": "2026-11-21",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
+    },
+    "Oshkosh": {
+      "since": "2026-11-21",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs"
     }
   },
   "closures_untracked": {
