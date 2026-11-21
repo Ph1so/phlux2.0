@@ -9069,32 +9069,28 @@
         "date": "2026-10-09",
         "id": "eightfold:446720740649",
         "url": "https://careers.qualcomm.com/careers/job/446720740649",
-        "location": "San Diego, CA +4",
-        "closed": "2026-11-21"
+        "location": "San Diego, CA +4"
       },
       {
         "title": "\u2b50\ufe0f RF/Analog Design/Mixed-Signal Engineering Internship \u2013 Summer 2027",
         "date": "2026-10-09",
         "id": "eightfold:446720740912",
         "url": "https://careers.qualcomm.com/careers/job/446720740912",
-        "location": "San Diego, CA +3",
-        "closed": "2026-11-21"
+        "location": "San Diego, CA +3"
       },
       {
         "title": "\u2b50\ufe0f IT Infrastructure & Cloud Engineering Internship \u2013 Summer 2027",
         "date": "2026-10-09",
         "id": "eightfold:446720741668",
         "url": "https://careers.qualcomm.com/careers/job/446720741668",
-        "location": "San Diego, CA",
-        "closed": "2026-11-21"
+        "location": "San Diego, CA"
       },
       {
         "title": "\u2b50\ufe0f Mechanical Engineering Internship \u2013 Summer 2027",
         "date": "2026-10-09",
         "id": "eightfold:446720741704",
         "url": "https://careers.qualcomm.com/careers/job/446720741704",
-        "location": "San Diego, CA +2",
-        "closed": "2026-11-21"
+        "location": "San Diego, CA +2"
       },
       {
         "title": "\u2b50\ufe0f Product Management Internship - Summer 2027",
@@ -9150,16 +9146,14 @@
         "date": "2026-10-13",
         "id": "eightfold:446720740637",
         "url": "https://careers.qualcomm.com/careers/job/446720740637",
-        "location": "San Diego, CA +3",
-        "closed": "2026-11-21"
+        "location": "San Diego, CA +3"
       },
       {
         "title": "\u2b50\ufe0f Multimedia Engineering Internship \u2013 Summer 2027",
         "date": "2026-10-13",
         "id": "eightfold:446720740640",
         "url": "https://careers.qualcomm.com/careers/job/446720740640",
-        "location": "San Diego, CA +1",
-        "closed": "2026-11-21"
+        "location": "San Diego, CA +1"
       },
       {
         "title": "\u2b50\ufe0f Machine Learning & Artificial Intelligence Engineering Internship \u2013 Summer 2027",
@@ -127209,17 +127203,33 @@
       "since": "2026-11-20",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
     },
-    "Autodesk": {
+    "Blue Origin": {
       "since": "2026-11-21",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/uni/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/BlueOrigin/jobs"
     },
-    "Target": {
+    "Snap": {
       "since": "2026-11-21",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
     },
-    "Mosaic": {
+    "Unity": {
       "since": "2026-11-21",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://mosaic.wd5.myworkdayjobs.com/wday/cxs/mosaic/mosaic/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
+    },
+    "Razer": {
+      "since": "2026-11-21",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
+    },
+    "Samsung": {
+      "since": "2026-11-21",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
+    },
+    "General Motors": {
+      "since": "2026-11-21",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
+    },
+    "Slate Auto": {
+      "since": "2026-11-21",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
     }
   },
   "closures_untracked": {
