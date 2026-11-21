@@ -21352,6 +21352,13 @@
         "id": "ashby:656da25a-f807-4f1c-b3c9-d6af8cc935ee",
         "url": "https://jobs.ashbyhq.com/aurora-operations-inc/656da25a-f807-4f1c-b3c9-d6af8cc935ee",
         "location": "Mountain View, CA +2"
+      },
+      {
+        "title": "\u2b50\ufe0f Hardware Systems Engineering Intern",
+        "date": "2026-11-20",
+        "id": "ashby:f1c72f1c-8270-4526-a642-fcb61a4b4d26",
+        "url": "https://jobs.ashbyhq.com/aurora-operations-inc/f1c72f1c-8270-4526-a642-fcb61a4b4d26",
+        "location": "Pittsburgh, PA"
       }
     ],
     "Zoox": [
@@ -127106,29 +127113,9 @@
       "since": "2026-11-20",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
     },
-    "Samsung": {
-      "since": "2026-11-20",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
-    },
-    "Medtronic": {
-      "since": "2026-11-20",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://medtronic.wd1.myworkdayjobs.com/wday/cxs/medtronic/MedtronicCareers/jobs"
-    },
     "General Motors": {
       "since": "2026-11-20",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
-    },
-    "Zillow": {
-      "since": "2026-11-20",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://zillow.wd5.myworkdayjobs.com/wday/cxs/zillow/Zillow_Group_External/jobs"
-    },
-    "Draper": {
-      "since": "2026-11-20",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://draper.wd5.myworkdayjobs.com/wday/cxs/draper/Draper_Careers/jobs"
-    },
-    "Ford": {
-      "since": "2026-11-20",
-      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://efds.fa.em5.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLoca"
     },
     "ABB": {
       "since": "2026-11-20",
@@ -127137,6 +127124,30 @@
     "Slate Auto": {
       "since": "2026-11-20",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
+    },
+    "Autodesk": {
+      "since": "2026-11-20",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/uni/jobs"
+    },
+    "Rockwell Automation": {
+      "since": "2026-11-20",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
+    },
+    "Razer": {
+      "since": "2026-11-20",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
+    },
+    "Target": {
+      "since": "2026-11-20",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
+    },
+    "Stryker": {
+      "since": "2026-11-20",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs"
+    },
+    "Johnson & Johnson": {
+      "since": "2026-11-20",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs"
     }
   },
   "closures_untracked": {
