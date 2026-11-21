@@ -879,8 +879,7 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557040344",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557040344",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-21"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Machine Learning for Biology and Healthcare",
@@ -1067,8 +1066,7 @@
         "date": "2026-10-16",
         "id": "eightfold:1970393557042156",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557042156",
-        "location": "United States, Washington, Redmond +1",
-        "closed": "2026-11-21"
+        "location": "United States, Washington, Redmond +1"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Algorithms Group: Generative Modeling",
@@ -1277,8 +1275,7 @@
         "date": "2026-11-04",
         "id": "eightfold:1970393557054069",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-21"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - AI & Human Systems",
@@ -94943,6 +94940,13 @@
         "id": "greenhouse:5490492008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490492008",
         "location": "Remote-Friendly, United States"
+      },
+      {
+        "title": "Research Engineer, Finetuning",
+        "date": "2026-11-21",
+        "id": "greenhouse:5489567008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5489567008",
+        "location": "San Francisco, CA | New York City, NY | Seattle, WA"
       }
     ],
     "xAI": [
@@ -126838,7 +126842,7 @@
     "AWS": "2026-11-21",
     "Amazon": "2026-11-21",
     "Netflix": "2026-11-21",
-    "Autodesk": "2026-11-20",
+    "Autodesk": "2026-11-21",
     "Apple": "2026-11-21",
     "Optiver": "2026-11-21",
     "Citadel": "2026-11-12",
@@ -127000,7 +127004,7 @@
     "Intel": "2026-11-21",
     "LinkedIn": "2026-11-21",
     "Liberty Mutual": "2026-11-21",
-    "Salesforce": "2026-11-20",
+    "Salesforce": "2026-11-21",
     "PayPal": "2026-11-21",
     "IBM": "2026-11-21",
     "Bank of America": "2026-11-21",
@@ -127010,11 +127014,11 @@
     "Cisco": "2026-11-21",
     "TwoSigma": "2026-11-21",
     "Snap": "2026-11-20",
-    "Workday": "2026-11-20",
+    "Workday": "2026-11-21",
     "Stripe": "2026-11-21",
     "Cohere": "2026-11-21",
     "Ramp": "2026-11-21",
-    "Slack": "2026-11-20",
+    "Slack": "2026-11-21",
     "Datadog": "2026-11-21",
     "Atlassian": "2026-11-21",
     "Splunk": "2026-11-21",
@@ -127043,7 +127047,7 @@
     "Roku": "2026-11-21",
     "Deloitte": "2026-11-21",
     "Verkada": "2026-11-21",
-    "RedHat": "2026-11-20",
+    "RedHat": "2026-11-21",
     "Capital One": "2026-11-21",
     "Twitch": "2026-11-21",
     "Visa": "2026-11-21",
@@ -127062,7 +127066,7 @@
     "Duolingo": "2026-11-21",
     "Leidos": "2026-11-21",
     "Radix Trading": "2026-11-21",
-    "Razer": "2026-11-20",
+    "Razer": "2026-11-21",
     "Docusign": "2026-11-21",
     "Sentry": "2026-11-21",
     "Tencent": "2026-11-21",
@@ -127077,7 +127081,7 @@
     "Mercedes Benz": "2026-11-21",
     "Boeing": "2026-11-21",
     "Mosaic": "2026-11-21",
-    "Samsung": "2026-11-20",
+    "Samsung": "2026-11-21",
     "Medtronic": "2026-11-21",
     "T-Mobile": "2026-11-21",
     "Akuna Capital": "2026-11-21",
@@ -127152,49 +127156,29 @@
       "since": "2026-11-20",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
     },
-    "Autodesk": {
-      "since": "2026-11-20",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/uni/jobs"
-    },
     "Rockwell Automation": {
       "since": "2026-11-20",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
-    },
-    "Razer": {
-      "since": "2026-11-20",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
     },
     "Target": {
       "since": "2026-11-20",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
     },
-    "Salesforce": {
-      "since": "2026-11-21",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs"
-    },
     "Nvidia": {
       "since": "2026-11-21",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
-    },
-    "Workday": {
-      "since": "2026-11-21",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday_Early_Career/jobs"
-    },
-    "Slack": {
-      "since": "2026-11-21",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/Slack/jobs"
-    },
-    "RedHat": {
-      "since": "2026-11-21",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://redhat.wd5.myworkdayjobs.com/wday/cxs/redhat/jobs/jobs"
     },
     "Sony": {
       "since": "2026-11-21",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sonyglobal.wd1.myworkdayjobs.com/wday/cxs/sonyglobal/SonyGlobalCareers/jobs"
     },
-    "Samsung": {
+    "Johnson & Johnson": {
       "since": "2026-11-21",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs"
+    },
+    "Slate Auto": {
+      "since": "2026-11-21",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
     }
   },
   "closures_untracked": {
