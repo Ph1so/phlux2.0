@@ -21294,7 +21294,8 @@
         "date": "2026-11-13",
         "id": "ashby:8bd8b0b9-143a-400d-97d0-b3f70d9ee868",
         "url": "https://jobs.ashbyhq.com/aurora-operations-inc/8bd8b0b9-143a-400d-97d0-b3f70d9ee868",
-        "location": "Bozeman, MT"
+        "location": "Bozeman, MT",
+        "closed": "2026-11-20"
       },
       {
         "title": "Software Engineer II - Compute",
@@ -89983,7 +89984,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5184585008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5184585008",
-        "location": "San Francisco, CA"
+        "location": "San Francisco, CA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Data Scientist, Growth",
@@ -104867,35 +104869,40 @@
         "date": "N/A",
         "id": "workday:JR-0110813",
         "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Product-Manager-Intern_JR-0110813",
-        "location": "USA, CA, Pleasanton"
+        "location": "USA, CA, Pleasanton",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Software Development Engineer Intern",
         "date": "N/A",
         "id": "workday:JR-0110810",
         "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810",
-        "location": "USA, CA, Pleasanton"
+        "location": "USA, CA, Pleasanton",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Machine Learning Engineer Intern",
         "date": "N/A",
         "id": "workday:JR-0110812",
         "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812",
-        "location": "USA, CA, Pleasanton"
+        "location": "USA, CA, Pleasanton",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Software Application Development Engineer Intern",
         "date": "N/A",
         "id": "workday:JR-0110811",
         "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811",
-        "location": "USA, CA, Pleasanton"
+        "location": "USA, CA, Pleasanton",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Cybersecurity Engineer Intern",
         "date": "N/A",
         "id": "workday:JR-0110809",
         "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Cybersecurity-Engineer-Intern_JR-0110809",
-        "location": "USA, CA, Pleasanton"
+        "location": "USA, CA, Pleasanton",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Technical Support Delivery Intern",
@@ -126111,14 +126118,16 @@
         "date": "2026-11-11",
         "id": "lever:f2aede76-d9cc-41b7-9943-26473635a2c3",
         "url": "https://jobs.lever.co/tutorintelligence/f2aede76-d9cc-41b7-9943-26473635a2c3",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Applied AI Engineer, Go-to-Market",
         "date": "2026-11-11",
         "id": "lever:d095e01f-802b-43f0-9939-d97161084f23",
         "url": "https://jobs.lever.co/tutorintelligence/d095e01f-802b-43f0-9939-d97161084f23",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Controller",
@@ -126213,7 +126222,8 @@
         "date": "2026-11-11",
         "id": "lever:3f819be3-461c-4081-a2f1-52f21adaae47",
         "url": "https://jobs.lever.co/tutorintelligence/3f819be3-461c-4081-a2f1-52f21adaae47",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Head of Company Operations",
@@ -126268,7 +126278,8 @@
         "date": "2026-11-11",
         "id": "lever:81b1c21a-9ea6-4b12-80f1-0355091645a6",
         "url": "https://jobs.lever.co/tutorintelligence/81b1c21a-9ea6-4b12-80f1-0355091645a6",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Lead Hardware Engineer \u2013 Production",
@@ -126315,14 +126326,16 @@
         "date": "2026-11-11",
         "id": "lever:9b05b3e6-4f91-41ea-a8eb-6597a4d7b334",
         "url": "https://jobs.lever.co/tutorintelligence/9b05b3e6-4f91-41ea-a8eb-6597a4d7b334",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "People Operations Manager",
         "date": "2026-11-11",
         "id": "lever:2c465cb9-141c-4543-bd9c-18a56c1cf60c",
         "url": "https://jobs.lever.co/tutorintelligence/2c465cb9-141c-4543-bd9c-18a56c1cf60c",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Perception Engineer, Robot Safety",
@@ -126377,14 +126390,16 @@
         "date": "2026-11-11",
         "id": "lever:89213901-e04c-43af-8937-392a9f63dabd",
         "url": "https://jobs.lever.co/tutorintelligence/89213901-e04c-43af-8937-392a9f63dabd",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Research Scientist, Robotics",
         "date": "2026-11-11",
         "id": "lever:cabe6bf9-9175-4810-af41-a7178025705b",
         "url": "https://jobs.lever.co/tutorintelligence/cabe6bf9-9175-4810-af41-a7178025705b",
-        "location": "San Francisco, CA"
+        "location": "San Francisco, CA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Robot Support Specialist",
@@ -126487,7 +126502,8 @@
         "date": "2026-11-11",
         "id": "lever:8038158d-8875-4dbd-a2b1-d7bec224a82b",
         "url": "https://jobs.lever.co/tutorintelligence/8038158d-8875-4dbd-a2b1-d7bec224a82b",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Senior Mechanical Engineer, Research Hardware",
@@ -126526,14 +126542,16 @@
         "date": "2026-11-11",
         "id": "lever:f772d72b-0662-410e-b708-ce7ed3b7f163",
         "url": "https://jobs.lever.co/tutorintelligence/f772d72b-0662-410e-b708-ce7ed3b7f163",
-        "location": "Watertown, MA +1"
+        "location": "Watertown, MA +1",
+        "closed": "2026-11-20"
       },
       {
         "title": "Senior Software Engineer, Full Stack",
         "date": "2026-11-11",
         "id": "lever:6589d15e-6927-4548-9bd6-2af1ec1eb7c8",
         "url": "https://jobs.lever.co/tutorintelligence/6589d15e-6927-4548-9bd6-2af1ec1eb7c8",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Senior Software Engineer, Robotics",
@@ -126556,14 +126574,16 @@
         "date": "2026-11-11",
         "id": "lever:6a8564af-d2bd-4171-8e9d-9b01dfae56a0",
         "url": "https://jobs.lever.co/tutorintelligence/6a8564af-d2bd-4171-8e9d-9b01dfae56a0",
-        "location": "San Francisco, CA"
+        "location": "San Francisco, CA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Senior/Staff Software Engineer, Platform",
         "date": "2026-11-11",
         "id": "lever:905cb2ee-9e54-4cb1-91c5-c622e829327a",
         "url": "https://jobs.lever.co/tutorintelligence/905cb2ee-9e54-4cb1-91c5-c622e829327a",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Senior/Staff Software Engineer, Robotics",
@@ -126586,7 +126606,8 @@
         "date": "2026-11-11",
         "id": "lever:3ef7dbd4-19fc-4375-941c-70c7b97430b4",
         "url": "https://jobs.lever.co/tutorintelligence/3ef7dbd4-19fc-4375-941c-70c7b97430b4",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Software Engineer, Robotics",
@@ -126617,14 +126638,16 @@
         "date": "2026-11-11",
         "id": "lever:5957da70-b13f-415e-9f3f-8e920daf9030",
         "url": "https://jobs.lever.co/tutorintelligence/5957da70-b13f-415e-9f3f-8e920daf9030",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Strategic Projects Associate (San Francisco, CA)",
         "date": "2026-11-11",
         "id": "lever:fc2e871a-f016-4e40-9cf7-117196304c70",
         "url": "https://jobs.lever.co/tutorintelligence/fc2e871a-f016-4e40-9cf7-117196304c70",
-        "location": "San Francisco, CA"
+        "location": "San Francisco, CA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Supply Chain Manager",
@@ -126671,7 +126694,8 @@
         "date": "2026-11-11",
         "id": "lever:6dcff1e7-75fc-4bc5-be54-65c78154bd30",
         "url": "https://jobs.lever.co/tutorintelligence/6dcff1e7-75fc-4bc5-be54-65c78154bd30",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Technical Program Manager, Fleet Reliability",
@@ -126686,7 +126710,8 @@
         "date": "2026-11-11",
         "id": "lever:7692dc62-7175-4cca-8879-50630daa2ec1",
         "url": "https://jobs.lever.co/tutorintelligence/7692dc62-7175-4cca-8879-50630daa2ec1",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Technical Support Engineer (Robotics)",
@@ -126701,7 +126726,8 @@
         "date": "2026-11-11",
         "id": "lever:2458b2e9-6508-4e48-8a8f-5061b3da743d",
         "url": "https://jobs.lever.co/tutorintelligence/2458b2e9-6508-4e48-8a8f-5061b3da743d",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Finance Builder / Engineer",
@@ -126765,40 +126791,6 @@
         "title:\u2b50\ufe0f Supply Chain Engineering Intern \u2013 Robotics (2026 Fall)"
       ],
       "backlog": true
-    },
-    "Tutor Intelligence": {
-      "since": "2026-11-20T20:08-05:00",
-      "keys": [
-        "lever:2458b2e9-6508-4e48-8a8f-5061b3da743d",
-        "lever:2c465cb9-141c-4543-bd9c-18a56c1cf60c",
-        "lever:3ef7dbd4-19fc-4375-941c-70c7b97430b4",
-        "lever:3f819be3-461c-4081-a2f1-52f21adaae47",
-        "lever:5957da70-b13f-415e-9f3f-8e920daf9030",
-        "lever:6589d15e-6927-4548-9bd6-2af1ec1eb7c8",
-        "lever:6a8564af-d2bd-4171-8e9d-9b01dfae56a0",
-        "lever:6dcff1e7-75fc-4bc5-be54-65c78154bd30",
-        "lever:7692dc62-7175-4cca-8879-50630daa2ec1",
-        "lever:8038158d-8875-4dbd-a2b1-d7bec224a82b",
-        "lever:81b1c21a-9ea6-4b12-80f1-0355091645a6",
-        "lever:89213901-e04c-43af-8937-392a9f63dabd",
-        "lever:905cb2ee-9e54-4cb1-91c5-c622e829327a",
-        "lever:9b05b3e6-4f91-41ea-a8eb-6597a4d7b334",
-        "lever:cabe6bf9-9175-4810-af41-a7178025705b",
-        "lever:d095e01f-802b-43f0-9939-d97161084f23",
-        "lever:f2aede76-d9cc-41b7-9943-26473635a2c3",
-        "lever:f772d72b-0662-410e-b708-ce7ed3b7f163",
-        "lever:fc2e871a-f016-4e40-9cf7-117196304c70"
-      ]
-    },
-    "Workday": {
-      "since": "2026-11-20T21:05-05:00",
-      "keys": [
-        "workday:JR-0110809",
-        "workday:JR-0110810",
-        "workday:JR-0110811",
-        "workday:JR-0110812",
-        "workday:JR-0110813"
-      ]
     }
   },
   "checked": {
@@ -127105,6 +127097,46 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
+    },
+    "Snap": {
+      "since": "2026-11-20",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
+    },
+    "Unity": {
+      "since": "2026-11-20",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
+    },
+    "Samsung": {
+      "since": "2026-11-20",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
+    },
+    "Medtronic": {
+      "since": "2026-11-20",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://medtronic.wd1.myworkdayjobs.com/wday/cxs/medtronic/MedtronicCareers/jobs"
+    },
+    "General Motors": {
+      "since": "2026-11-20",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
+    },
+    "Zillow": {
+      "since": "2026-11-20",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://zillow.wd5.myworkdayjobs.com/wday/cxs/zillow/Zillow_Group_External/jobs"
+    },
+    "Draper": {
+      "since": "2026-11-20",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://draper.wd5.myworkdayjobs.com/wday/cxs/draper/Draper_Careers/jobs"
+    },
+    "Ford": {
+      "since": "2026-11-20",
+      "error": "HTTPError: 503 Server Error: Service Unavailable for url: https://efds.fa.em5.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.secondaryLoca"
+    },
+    "ABB": {
+      "since": "2026-11-20",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
+    },
+    "Slate Auto": {
+      "since": "2026-11-20",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
     }
   },
   "closures_untracked": {
