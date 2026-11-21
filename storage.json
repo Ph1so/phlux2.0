@@ -9069,28 +9069,32 @@
         "date": "2026-10-09",
         "id": "eightfold:446720740649",
         "url": "https://careers.qualcomm.com/careers/job/446720740649",
-        "location": "San Diego, CA +4"
+        "location": "San Diego, CA +4",
+        "closed": "2026-11-21"
       },
       {
         "title": "\u2b50\ufe0f RF/Analog Design/Mixed-Signal Engineering Internship \u2013 Summer 2027",
         "date": "2026-10-09",
         "id": "eightfold:446720740912",
         "url": "https://careers.qualcomm.com/careers/job/446720740912",
-        "location": "San Diego, CA +3"
+        "location": "San Diego, CA +3",
+        "closed": "2026-11-21"
       },
       {
         "title": "\u2b50\ufe0f IT Infrastructure & Cloud Engineering Internship \u2013 Summer 2027",
         "date": "2026-10-09",
         "id": "eightfold:446720741668",
         "url": "https://careers.qualcomm.com/careers/job/446720741668",
-        "location": "San Diego, CA"
+        "location": "San Diego, CA",
+        "closed": "2026-11-21"
       },
       {
         "title": "\u2b50\ufe0f Mechanical Engineering Internship \u2013 Summer 2027",
         "date": "2026-10-09",
         "id": "eightfold:446720741704",
         "url": "https://careers.qualcomm.com/careers/job/446720741704",
-        "location": "San Diego, CA +2"
+        "location": "San Diego, CA +2",
+        "closed": "2026-11-21"
       },
       {
         "title": "\u2b50\ufe0f Product Management Internship - Summer 2027",
@@ -9146,14 +9150,16 @@
         "date": "2026-10-13",
         "id": "eightfold:446720740637",
         "url": "https://careers.qualcomm.com/careers/job/446720740637",
-        "location": "San Diego, CA +3"
+        "location": "San Diego, CA +3",
+        "closed": "2026-11-21"
       },
       {
         "title": "\u2b50\ufe0f Multimedia Engineering Internship \u2013 Summer 2027",
         "date": "2026-10-13",
         "id": "eightfold:446720740640",
         "url": "https://careers.qualcomm.com/careers/job/446720740640",
-        "location": "San Diego, CA +1"
+        "location": "San Diego, CA +1",
+        "closed": "2026-11-21"
       },
       {
         "title": "\u2b50\ufe0f Machine Learning & Artificial Intelligence Engineering Internship \u2013 Summer 2027",
@@ -34193,6 +34199,27 @@
         "id": "greenhouse:5304406007",
         "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5304406007",
         "location": "Torrance, California, United States"
+      },
+      {
+        "title": "\u2b50\ufe0f Autonomy Intern - Summer 2027",
+        "date": "2026-11-21",
+        "id": "greenhouse:5273167007",
+        "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5273167007",
+        "location": "Torrance, California, United States"
+      },
+      {
+        "title": "\u2b50\ufe0f Electrical Engineering Intern - Summer 2027",
+        "date": "2026-11-21",
+        "id": "greenhouse:5273149007",
+        "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5273149007",
+        "location": "Torrance, California, United States"
+      },
+      {
+        "title": "\u2b50\ufe0f Mechanical Engineer Intern - Summer 2027",
+        "date": "2026-11-21",
+        "id": "greenhouse:4648209007",
+        "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/4648209007",
+        "location": "Torrance, California, United States"
       }
     ],
     "Lyft": [
@@ -38577,7 +38604,8 @@
         "date": "N/A",
         "id": "ashby:fe5052b6-9e08-4f64-833b-9aff99f1dee5",
         "url": "https://jobs.ashbyhq.com/applied/fe5052b6-9e08-4f64-833b-9aff99f1dee5",
-        "location": "Sunnyvale"
+        "location": "Sunnyvale",
+        "closed": "2026-11-21"
       },
       {
         "title": "Global People Business Partner",
@@ -40941,7 +40969,8 @@
         "date": "2026-10-20",
         "id": "ashby:88ac465c-29f4-495c-b76f-9eda8bb9ff07",
         "url": "https://jobs.ashbyhq.com/applied/88ac465c-29f4-495c-b76f-9eda8bb9ff07",
-        "location": "Munich"
+        "location": "Munich",
+        "closed": "2026-11-21"
       },
       {
         "title": "Engineering Manager - Autonomy Storage Infra",
@@ -40983,7 +41012,8 @@
         "date": "2026-10-22",
         "id": "ashby:9625dc95-7e97-4706-841b-f25c50ad8aad",
         "url": "https://jobs.ashbyhq.com/applied/9625dc95-7e97-4706-841b-f25c50ad8aad",
-        "location": "Sunnyvale"
+        "location": "Sunnyvale",
+        "closed": "2026-11-21"
       },
       {
         "title": "System Validation Engineer - Autonomous Driving",
@@ -127048,7 +127078,7 @@
     "Morgan Stanley": "2026-11-21",
     "Cisco": "2026-11-21",
     "TwoSigma": "2026-11-21",
-    "Snap": "2026-11-20",
+    "Snap": "2026-11-21",
     "Workday": "2026-11-21",
     "Stripe": "2026-11-21",
     "Cohere": "2026-11-21",
@@ -127175,21 +127205,21 @@
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
     },
-    "Snap": {
-      "since": "2026-11-20",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
-    },
     "ABB": {
       "since": "2026-11-20",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
     },
-    "Razer": {
+    "Autodesk": {
       "since": "2026-11-21",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/uni/jobs"
     },
-    "General Motors": {
+    "Target": {
       "since": "2026-11-21",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
+    },
+    "Mosaic": {
+      "since": "2026-11-21",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://mosaic.wd5.myworkdayjobs.com/wday/cxs/mosaic/mosaic/jobs"
     }
   },
   "closures_untracked": {
