@@ -872,7 +872,8 @@
         "date": "2026-10-12",
         "id": "eightfold:1970393557039243",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557039243",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Agentic Data Memory",
@@ -1402,6 +1403,13 @@
         "id": "eightfold:1970393557076525",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557076525",
         "location": "United States, Washington, Redmond"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Intern - AI System Architecture Modeling and Performance",
+        "date": "2026-11-20",
+        "id": "eightfold:1970393557077583",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557077583",
+        "location": "United States, Oregon, Hillsboro"
       }
     ],
     "Amazon": [
@@ -2863,6 +2871,13 @@
         "id": "amazon:10555349",
         "url": "https://www.amazon.jobs/en/jobs/10555349/software-dev-engineer-ii-last-mile-planning-emerging-markets-outbound-tech",
         "location": "Bellevue, WA"
+      },
+      {
+        "title": "\u2b50\ufe0f Design Technologist Intern FY2027 (Summer)",
+        "date": "2026-11-20",
+        "id": "amazon:10610836",
+        "url": "https://www.amazon.jobs/en/jobs/10610836/design-technologist-intern-fy2027-summer",
+        "location": "Seattle, WA"
       }
     ],
     "Meta": [
@@ -6880,6 +6895,13 @@
         "id": "jibe:37688",
         "url": "https://careers.rivian.com/careers-home/jobs/37688",
         "location": "Palo Alto, CA"
+      },
+      {
+        "title": "Early Career - Vehicle Features & Systems Engineer",
+        "date": "2026-11-20",
+        "id": "jibe:37510",
+        "url": "https://careers.rivian.com/careers-home/jobs/37510",
+        "location": "Irvine, CA"
       }
     ],
     "Roblox": [
@@ -7592,7 +7614,8 @@
         "date": "2026-10-13",
         "id": "greenhouse:7904720003",
         "url": "https://www.zipline.com/open-roles/7904720003?gh_jid=7904720003",
-        "location": "South San Francisco, California, USA"
+        "location": "South San Francisco, California, USA",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Construction Management Intern (Spring 2027)",
@@ -8265,7 +8288,8 @@
         "date": "2026-10-26",
         "id": "ashby:ec82eb16-a5b4-46e7-827a-326b33d7d2cb",
         "url": "https://jobs.ashbyhq.com/skydio/ec82eb16-a5b4-46e7-827a-326b33d7d2cb",
-        "location": "San Mateo, California, United States"
+        "location": "San Mateo, California, United States",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Autonomy Engineer Intern, Autonomy Infrastructure, Systems and Tools, 2027 (Zurich)",
@@ -8293,14 +8317,16 @@
         "date": "2026-10-26",
         "id": "ashby:6f5caf41-fa1d-4208-9bdc-82c72e5d3f17",
         "url": "https://jobs.ashbyhq.com/skydio/6f5caf41-fa1d-4208-9bdc-82c72e5d3f17",
-        "location": "San Mateo, California, United States"
+        "location": "San Mateo, California, United States",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Autonomy Engineer Intern, Reinforcement Learning, 2027 (HQ)",
         "date": "2026-10-26",
         "id": "ashby:19352f5e-c30d-4184-a070-3c25b0ebc048",
         "url": "https://jobs.ashbyhq.com/skydio/19352f5e-c30d-4184-a070-3c25b0ebc048",
-        "location": "San Mateo, California, United States"
+        "location": "San Mateo, California, United States",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Manufacturing Intern - Summer 2027",
@@ -24035,7 +24061,8 @@
         "date": "N/A",
         "id": "lever:4f5492ab-a8d0-4d28-9d77-67a1d033ea81",
         "url": "https://jobs.lever.co/zoox/4f5492ab-a8d0-4d28-9d77-67a1d033ea81",
-        "location": "Foster City, CA"
+        "location": "Foster City, CA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Senior/Staff Design Project Manager, Places & Build",
@@ -26748,7 +26775,8 @@
         "title": "Senior/Staff Software Engineer, AI Agent Infrastructure",
         "date": "N/A",
         "id": "greenhouse:8097555",
-        "closed": "N/A"
+        "url": "https://nuro.ai/careersitem?gh_jid=8097555",
+        "location": "Mountain View, California (HQ)"
       },
       {
         "title": "Senior/Staff Software Engineer, Applied Controls",
@@ -26881,7 +26909,8 @@
         "title": "Software Engineer, Applied AI Infrastructure",
         "date": "N/A",
         "id": "greenhouse:8122990",
-        "closed": "N/A"
+        "url": "https://nuro.ai/careersitem?gh_jid=8122990",
+        "location": "Mountain View, California (HQ)"
       },
       {
         "title": "Software Engineer, Autonomy Visualization",
@@ -31193,7 +31222,9 @@
       {
         "title": "\u2b50\ufe0f Manufacturing Design Engineer Intern",
         "date": "2026-10-19",
-        "closed": "N/A"
+        "id": "ashby:92a24480-15df-4413-9736-91a4efd5058a",
+        "url": "https://jobs.ashbyhq.com/MaticRobots/92a24480-15df-4413-9736-91a4efd5058a",
+        "location": "Menlo Park, CA"
       },
       {
         "title": "\u2b50\ufe0f Mechanical Design Engineer Intern",
@@ -34097,6 +34128,13 @@
         "id": "greenhouse:5302762007",
         "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5302762007",
         "location": "Swindon, England, United Kingdom"
+      },
+      {
+        "title": "Motor Manufacturing Manager",
+        "date": "2026-11-20",
+        "id": "greenhouse:5304406007",
+        "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5304406007",
+        "location": "Torrance, California, United States"
       }
     ],
     "Lyft": [
@@ -35805,6 +35843,13 @@
         "id": "greenhouse:8952244002",
         "url": "https://app.careerpuck.com/job-board/lyft/job/8952244002?gh_jid=8952244002",
         "location": "Nashville, TN"
+      },
+      {
+        "title": "Director, Data Science, EU",
+        "date": "2026-11-20",
+        "id": "greenhouse:8957556002",
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8957556002?gh_jid=8957556002",
+        "location": "San Francisco, CA"
       }
     ],
     "Glydways": [
@@ -56587,7 +56632,8 @@
         "date": "N/A",
         "id": "workday:R572589",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Mahwah-New-Jersey/Summer-2027-Internship---Clinical-Affairs---New-Jersey_R572589",
-        "location": "Mahwah, New Jersey"
+        "location": "Mahwah, New Jersey",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - RA/QA - Regulatory Affairs - Michigan",
@@ -67392,6 +67438,13 @@
         "id": "successfactors:1452679600",
         "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Senior-Mechanical-Engineer-%28Teradyne%2C-San-Jose%2C-CA%29-CA-95101/1452679600/",
         "location": "San Jose, CA"
+      },
+      {
+        "title": "Customer Production Support Engineer (Global Customer Service) - San Jose, CA",
+        "date": "2026-11-20",
+        "id": "successfactors:1452817100",
+        "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Customer-Production-Support-Engineer-%28Global-Customer-Service%29-San-Jose%2C-CA-CA-95101/1452817100/",
+        "location": "San Jose, CA"
       }
     ],
     "KUKA": [
@@ -70323,6 +70376,13 @@
         "id": "greenhouse:4510590009",
         "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4510590009",
         "location": "Reno, NV; Folsom, CA; Huntsville, AL"
+      },
+      {
+        "title": "Propulsion Engineer",
+        "date": "2026-11-20",
+        "id": "greenhouse:4515486009",
+        "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4515486009",
+        "location": "Pittsburgh, PA"
       }
     ],
     "FANUC America": [
@@ -79276,7 +79336,8 @@
         "date": "2026-10-22",
         "id": "ashby:1aa89889-9323-44eb-a3fb-042c68c45252",
         "url": "https://jobs.ashbyhq.com/openai/1aa89889-9323-44eb-a3fb-042c68c45252",
-        "location": "New York City +1"
+        "location": "New York City +1",
+        "closed": "2026-11-20"
       },
       {
         "title": "Physical Engineering Business Lead (Special Situations)",
@@ -80227,7 +80288,8 @@
         "date": "2026-10-22",
         "id": "ashby:3a415c1d-4f66-4578-8eb3-8b15ef0ab52b",
         "url": "https://jobs.ashbyhq.com/openai/3a415c1d-4f66-4578-8eb3-8b15ef0ab52b",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-20"
       },
       {
         "title": "Development Lead",
@@ -88041,8 +88103,7 @@
         "date": "2026-10-27",
         "id": "greenhouse:4291695009",
         "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4291695009",
-        "location": "Cambridge, MA USA",
-        "closed": "2026-11-18"
+        "location": "Cambridge, MA USA"
       },
       {
         "title": "Engineer II/ Senior Engineer, Robotics Platform Evaluation",
@@ -101429,6 +101490,13 @@
         "id": "greenhouse:8214783",
         "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8214783",
         "location": "San Francisco, CA, US; Remote, US"
+      },
+      {
+        "title": "Solutions Engineer - Ads Product & Innovation",
+        "date": "2026-11-20",
+        "id": "greenhouse:8356222",
+        "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8356222",
+        "location": "San Francisco, CA, US; Remote, US"
       }
     ],
     "Intel": [
@@ -103532,15 +103600,15 @@
         "date": "N/A",
         "id": "ibm:131165",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=131165",
-        "location": "Austin",
-        "closed": "2026-11-20"
+        "location": "Austin"
       },
       {
         "title": "Threat Hunter - IBM CISO",
         "date": "N/A",
         "id": "ibm:132429",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=132429",
-        "location": "Austin"
+        "location": "Austin",
+        "closed": "2026-11-20"
       },
       {
         "title": "Firmware Development Tester - Austin Tx",
@@ -103796,6 +103864,27 @@
         "id": "ibm:135996",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=135996",
         "location": "Tucson"
+      },
+      {
+        "title": "\u2b50\ufe0f Technical Support Intern - RTP, Durham, Poughkeepsie & Tucson 2027",
+        "date": "2026-11-20",
+        "id": "ibm:129909",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=129909",
+        "location": "Multiple Cities"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern Data Scientist 2027 \u2013 AI & Data Analytics",
+        "date": "2026-11-20",
+        "id": "ibm:128613",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=128613",
+        "location": "Dallas"
+      },
+      {
+        "title": "Entry Level Software Developer 2027",
+        "date": "2026-11-20",
+        "id": "ibm:145974",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=145974",
+        "location": "San Jose"
       }
     ],
     "Bank of America": [
@@ -104609,6 +104698,13 @@
         "date": "2026-11-20",
         "id": "phenom:2032668",
         "url": "https://careers.cisco.com/global/en/job/2032668/Field-Sales-I-Intern-United-States",
+        "location": "Research Triangle Park, NC"
+      },
+      {
+        "title": "\u2b50\ufe0f AI Cybersecurity Engineer I (Intern) \u2013 United States",
+        "date": "2026-11-20",
+        "id": "phenom:2030295",
+        "url": "https://careers.cisco.com/global/en/job/2030295/AI-Cybersecurity-Engineer-I-Intern-United-States",
         "location": "Research Triangle Park, NC"
       }
     ],
@@ -125032,6 +125128,13 @@
         "id": "pinpoint:623946",
         "url": "https://impulsespace.pinpointhq.com/en/postings/c3a457fd-1d4b-42f4-a22b-eadceba6ed9e",
         "location": "Redondo Beach, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Supply Chain Data Analytics Intern (Summer 2027)",
+        "date": "2026-11-20",
+        "id": "pinpoint:624039",
+        "url": "https://impulsespace.pinpointhq.com/en/postings/1f5c4103-b81e-4564-a40d-97b86263169c",
+        "location": "Redondo Beach, CA"
       }
     ],
     "Shure": [
@@ -125893,14 +125996,16 @@
         "date": "2026-11-11",
         "id": "lever:0e325304-1d44-4354-b1ef-7619ace3a9aa",
         "url": "https://jobs.lever.co/tutorintelligence/0e325304-1d44-4354-b1ef-7619ace3a9aa",
-        "location": "Los Angeles, CA"
+        "location": "Los Angeles, CA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Account Executive",
         "date": "2026-11-11",
         "id": "lever:f69b1ae3-0790-4f37-aa83-feb2304f393d",
         "url": "https://jobs.lever.co/tutorintelligence/f69b1ae3-0790-4f37-aa83-feb2304f393d",
-        "location": "Atlanta, GA"
+        "location": "Atlanta, GA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Applied AI Engineer, Finance",
@@ -125921,21 +126026,24 @@
         "date": "2026-11-11",
         "id": "lever:1d83fdae-e6a8-4d97-91bb-3a99076255f8",
         "url": "https://jobs.lever.co/tutorintelligence/1d83fdae-e6a8-4d97-91bb-3a99076255f8",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Controls Engineer, Robotics",
         "date": "2026-11-11",
         "id": "lever:19cf5cea-3da1-44b3-99e4-fd791c4f3bd3",
         "url": "https://jobs.lever.co/tutorintelligence/19cf5cea-3da1-44b3-99e4-fd791c4f3bd3",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Engineering Manager, Platform & Infrastructure",
         "date": "2026-11-11",
         "id": "lever:7bb8415b-8446-48ca-918d-a7a5a40a0e86",
         "url": "https://jobs.lever.co/tutorintelligence/7bb8415b-8446-48ca-918d-a7a5a40a0e86",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Engineering Manager, Production Engineering",
@@ -125950,49 +126058,56 @@
         "date": "2026-11-11",
         "id": "lever:b0882cb4-ad50-4bd5-809e-4d1032401547",
         "url": "https://jobs.lever.co/tutorintelligence/b0882cb4-ad50-4bd5-809e-4d1032401547",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Engineering Manager, Robotics Software",
         "date": "2026-11-11",
         "id": "lever:4af44dbf-76b0-4454-8691-d1d88397eba8",
         "url": "https://jobs.lever.co/tutorintelligence/4af44dbf-76b0-4454-8691-d1d88397eba8",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Engineering Manager, Robotics, Fleet",
         "date": "2026-11-11",
         "id": "lever:e5f3d97e-96a3-4186-821d-5a3bc334e532",
         "url": "https://jobs.lever.co/tutorintelligence/e5f3d97e-96a3-4186-821d-5a3bc334e532",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Enterprise Sales Director",
         "date": "2026-11-11",
         "id": "lever:481d2654-5f95-4e10-866d-4dca86e4857c",
         "url": "https://jobs.lever.co/tutorintelligence/481d2654-5f95-4e10-866d-4dca86e4857c",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Enterprise Sales Director",
         "date": "2026-11-11",
         "id": "lever:951d301c-e7b5-424c-babd-45a9651bda37",
         "url": "https://jobs.lever.co/tutorintelligence/951d301c-e7b5-424c-babd-45a9651bda37",
-        "location": "Atlanta, GA"
+        "location": "Atlanta, GA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Enterprise Sales Director",
         "date": "2026-11-11",
         "id": "lever:bad65eb2-8887-46a1-8569-1a54672ffe38",
         "url": "https://jobs.lever.co/tutorintelligence/bad65eb2-8887-46a1-8569-1a54672ffe38",
-        "location": "Los Angeles, CA"
+        "location": "Los Angeles, CA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Field Reliability Engineer",
         "date": "2026-11-11",
         "id": "lever:07959a87-80a3-4149-a606-7fb80b43342f",
         "url": "https://jobs.lever.co/tutorintelligence/07959a87-80a3-4149-a606-7fb80b43342f",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "GTM Builder / Engineer",
@@ -126006,42 +126121,48 @@
         "date": "2026-11-11",
         "id": "lever:ded72d52-4a77-4722-9f8e-cdf106b20e70",
         "url": "https://jobs.lever.co/tutorintelligence/ded72d52-4a77-4722-9f8e-cdf106b20e70",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Head of Hardware Engineering",
         "date": "2026-11-11",
         "id": "lever:6f01b814-9fd4-4f96-8372-e71a6d3d1f50",
         "url": "https://jobs.lever.co/tutorintelligence/6f01b814-9fd4-4f96-8372-e71a6d3d1f50",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Head of Marketing",
         "date": "2026-11-11",
         "id": "lever:25cb9789-9f57-40e5-a7e3-d6b0890e5011",
         "url": "https://jobs.lever.co/tutorintelligence/25cb9789-9f57-40e5-a7e3-d6b0890e5011",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Head of Quality",
         "date": "2026-11-11",
         "id": "lever:891b15af-e99a-4f61-b250-0d90dcce96ba",
         "url": "https://jobs.lever.co/tutorintelligence/891b15af-e99a-4f61-b250-0d90dcce96ba",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Head of Supply Chain",
         "date": "2026-11-11",
         "id": "lever:3db37163-ccdf-46b2-aab2-ac586276b5f4",
         "url": "https://jobs.lever.co/tutorintelligence/3db37163-ccdf-46b2-aab2-ac586276b5f4",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Head of Technical Operations (Manufacturing, Supply Chain, Field)",
         "date": "2026-11-11",
         "id": "lever:11ce838d-5df0-49be-886d-a0709b102487",
         "url": "https://jobs.lever.co/tutorintelligence/11ce838d-5df0-49be-886d-a0709b102487",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "HR Compliance & Benefits Administrator",
@@ -126055,35 +126176,40 @@
         "date": "2026-11-11",
         "id": "lever:9d0edff2-bce8-4277-a150-840235cd0204",
         "url": "https://jobs.lever.co/tutorintelligence/9d0edff2-bce8-4277-a150-840235cd0204",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Machine Learning Engineer, Robotics",
         "date": "2026-11-11",
         "id": "lever:3efd648e-4dbe-4bcf-a33e-b6ac5f03649a",
         "url": "https://jobs.lever.co/tutorintelligence/3efd648e-4dbe-4bcf-a33e-b6ac5f03649a",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Manufacturing Test Engineer \u2013 Robotics",
         "date": "2026-11-11",
         "id": "lever:852e359a-af13-4111-a530-0cddaf798392",
         "url": "https://jobs.lever.co/tutorintelligence/852e359a-af13-4111-a530-0cddaf798392",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Not seeing a role that fits you?",
         "date": "2026-11-11",
         "id": "lever:8ddecc24-28e0-44e6-aa83-0425d668a5b2",
         "url": "https://jobs.lever.co/tutorintelligence/8ddecc24-28e0-44e6-aa83-0425d668a5b2",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Not seeing a role that fits you? (San Francisco, CA)",
         "date": "2026-11-11",
         "id": "lever:f81c6a11-cf75-420c-bac4-ce0f21b2eb18",
         "url": "https://jobs.lever.co/tutorintelligence/f81c6a11-cf75-420c-bac4-ce0f21b2eb18",
-        "location": "San Francisco, CA"
+        "location": "San Francisco, CA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Organizational Effectiveness Lead",
@@ -126104,7 +126230,8 @@
         "date": "2026-11-11",
         "id": "lever:73ddd613-fbd6-4ea2-9703-df9f1d4ed536",
         "url": "https://jobs.lever.co/tutorintelligence/73ddd613-fbd6-4ea2-9703-df9f1d4ed536",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Production Engineer - Manufacturing Process and ECO Implementation",
@@ -126119,28 +126246,32 @@
         "date": "2026-11-11",
         "id": "lever:6a24392e-e948-48de-b55c-dd75abe720df",
         "url": "https://jobs.lever.co/tutorintelligence/6a24392e-e948-48de-b55c-dd75abe720df",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Quality Manager",
         "date": "2026-11-11",
         "id": "lever:66106126-f5b4-4243-a305-829fbfc879b0",
         "url": "https://jobs.lever.co/tutorintelligence/66106126-f5b4-4243-a305-829fbfc879b0",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Recruiter - Hardware, Manufacturing & Technical Support",
         "date": "2026-11-11",
         "id": "lever:8524b406-3289-411c-bb0e-1b6382d65893",
         "url": "https://jobs.lever.co/tutorintelligence/8524b406-3289-411c-bb0e-1b6382d65893",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Recruiting Coordinator",
         "date": "2026-11-11",
         "id": "lever:9d9e346c-c9b4-47f0-853e-2ea7feed3f1f",
         "url": "https://jobs.lever.co/tutorintelligence/9d9e346c-c9b4-47f0-853e-2ea7feed3f1f",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Research Scientist, Robotics",
@@ -126161,84 +126292,96 @@
         "date": "2026-11-11",
         "id": "lever:a99e4299-28a5-4ec5-abca-d60281397d12",
         "url": "https://jobs.lever.co/tutorintelligence/a99e4299-28a5-4ec5-abca-d60281397d12",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Robotics Deployment Manager",
         "date": "2026-11-11",
         "id": "lever:e5ff994b-7a7d-4bda-a558-c983a8faf69d",
         "url": "https://jobs.lever.co/tutorintelligence/e5ff994b-7a7d-4bda-a558-c983a8faf69d",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Robotics Maintenance & Field Service Technician II / III - Mid Atlantic",
         "date": "2026-11-11",
         "id": "lever:bf45f5f9-660f-429e-861b-03d1ce9c3d56",
         "url": "https://jobs.lever.co/tutorintelligence/bf45f5f9-660f-429e-861b-03d1ce9c3d56",
-        "location": "Philadelphia, PA"
+        "location": "Philadelphia, PA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Robotics Maintenance & Field Service Technician II / III - MidWest",
         "date": "2026-11-11",
         "id": "lever:f84a0657-21f7-4db6-8c4d-c191e95241a1",
         "url": "https://jobs.lever.co/tutorintelligence/f84a0657-21f7-4db6-8c4d-c191e95241a1",
-        "location": "Chicago, IL"
+        "location": "Chicago, IL",
+        "closed": "2026-11-20"
       },
       {
         "title": "Robotics Maintenance & Field Service Technician II / III - South",
         "date": "2026-11-11",
         "id": "lever:b5d2be7a-8cb8-44f2-b58d-77c1c7fd2c34",
         "url": "https://jobs.lever.co/tutorintelligence/b5d2be7a-8cb8-44f2-b58d-77c1c7fd2c34",
-        "location": "Dallas\u2013Fort Worth, TX"
+        "location": "Dallas\u2013Fort Worth, TX",
+        "closed": "2026-11-20"
       },
       {
         "title": "Robotics Maintenance & Field Service Technician II / III - South East",
         "date": "2026-11-11",
         "id": "lever:f4f64e0d-79cf-4f32-ad1e-4fc8d18f9827",
         "url": "https://jobs.lever.co/tutorintelligence/f4f64e0d-79cf-4f32-ad1e-4fc8d18f9827",
-        "location": "Atlanta, GA"
+        "location": "Atlanta, GA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Robotics Product Marketing Lead",
         "date": "2026-11-11",
         "id": "lever:08bd8119-f585-472d-9068-6601048f50b6",
         "url": "https://jobs.lever.co/tutorintelligence/08bd8119-f585-472d-9068-6601048f50b6",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Robotics Technician II/III \u2013 Test & Troubleshooting",
         "date": "2026-11-11",
         "id": "lever:f6a903f2-538c-4f5d-927c-c4d92942209a",
         "url": "https://jobs.lever.co/tutorintelligence/f6a903f2-538c-4f5d-927c-c4d92942209a",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Sales Development Representative",
         "date": "2026-11-11",
         "id": "lever:a1ca1d6d-d9b2-446d-827b-0cba40ecf215",
         "url": "https://jobs.lever.co/tutorintelligence/a1ca1d6d-d9b2-446d-827b-0cba40ecf215",
-        "location": "Atlanta, GA"
+        "location": "Atlanta, GA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Sales Development Representative (SDR)",
         "date": "2026-11-11",
         "id": "lever:c03d8c28-c173-4fd8-a633-b77eaf45f467",
         "url": "https://jobs.lever.co/tutorintelligence/c03d8c28-c173-4fd8-a633-b77eaf45f467",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Senior Electrical Engineer, Research Hardware",
         "date": "2026-11-11",
         "id": "lever:a4c58d4a-361b-4b25-83bb-2d3fe038f744",
         "url": "https://jobs.lever.co/tutorintelligence/a4c58d4a-361b-4b25-83bb-2d3fe038f744",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Senior Electrical Engineer, Robotics",
         "date": "2026-11-11",
         "id": "lever:2de718df-0a92-4144-936c-33405ae238d2",
         "url": "https://jobs.lever.co/tutorintelligence/2de718df-0a92-4144-936c-33405ae238d2",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Senior IT & Security Engineer",
@@ -126252,28 +126395,32 @@
         "date": "2026-11-11",
         "id": "lever:9e010ddf-bcd9-46fa-be85-9e0e6b611ab6",
         "url": "https://jobs.lever.co/tutorintelligence/9e010ddf-bcd9-46fa-be85-9e0e6b611ab6",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Senior Mechanical Engineer, Robotics",
         "date": "2026-11-11",
         "id": "lever:42f72e5c-4183-4dcb-85dc-7180d509c447",
         "url": "https://jobs.lever.co/tutorintelligence/42f72e5c-4183-4dcb-85dc-7180d509c447",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Senior Research Engineer, Computer Vision",
         "date": "2026-11-11",
         "id": "lever:f922edc4-cf80-4392-9c6a-f57ed1bb3d12",
         "url": "https://jobs.lever.co/tutorintelligence/f922edc4-cf80-4392-9c6a-f57ed1bb3d12",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Senior Research Engineer, Infrastructure",
         "date": "2026-11-11",
         "id": "lever:17909bb1-3f32-46b6-89c9-83b68d00a3dd",
         "url": "https://jobs.lever.co/tutorintelligence/17909bb1-3f32-46b6-89c9-83b68d00a3dd",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Senior Research Engineer, Robotics",
@@ -126294,14 +126441,16 @@
         "date": "2026-11-11",
         "id": "lever:167eeb43-975c-4d2d-9d5f-f85f926e6daf",
         "url": "https://jobs.lever.co/tutorintelligence/167eeb43-975c-4d2d-9d5f-f85f926e6daf",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Senior Technical Program Manager",
         "date": "2026-11-11",
         "id": "lever:e346bab3-42e0-478c-8ec5-55bbb40eefbc",
         "url": "https://jobs.lever.co/tutorintelligence/e346bab3-42e0-478c-8ec5-55bbb40eefbc",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Senior/Staff Software Engineer, Platform",
@@ -126322,14 +126471,16 @@
         "date": "2026-11-11",
         "id": "lever:3458df4c-bea7-4d50-baae-9a82da8c2830",
         "url": "https://jobs.lever.co/tutorintelligence/3458df4c-bea7-4d50-baae-9a82da8c2830",
-        "location": "San Francisco, CA"
+        "location": "San Francisco, CA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Senior/Staff Software Engineer, Robotics",
         "date": "2026-11-11",
         "id": "lever:80edb4bf-c3dc-4167-be83-340024a0c47f",
         "url": "https://jobs.lever.co/tutorintelligence/80edb4bf-c3dc-4167-be83-340024a0c47f",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Shop Steward",
@@ -126343,21 +126494,24 @@
         "date": "2026-11-11",
         "id": "lever:1cc8dee5-ec0a-4a17-b360-ea79fea57c46",
         "url": "https://jobs.lever.co/tutorintelligence/1cc8dee5-ec0a-4a17-b360-ea79fea57c46",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Software Engineer, Robotics Infrastructure",
         "date": "2026-11-11",
         "id": "lever:fdb1c47e-4685-4ac7-b57f-f1ba1077c3ec",
         "url": "https://jobs.lever.co/tutorintelligence/fdb1c47e-4685-4ac7-b57f-f1ba1077c3ec",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Software Engineer, XR Applications",
         "date": "2026-11-11",
         "id": "lever:9b79768a-5107-495c-a8e1-a79a60681252",
         "url": "https://jobs.lever.co/tutorintelligence/9b79768a-5107-495c-a8e1-a79a60681252",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Strategic Accounts Development Manager",
@@ -126378,35 +126532,40 @@
         "date": "2026-11-11",
         "id": "lever:2f867566-0f5a-4a8e-829a-c7ba6ec3040b",
         "url": "https://jobs.lever.co/tutorintelligence/2f867566-0f5a-4a8e-829a-c7ba6ec3040b",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Support Manager, Sonny Team",
         "date": "2026-11-11",
         "id": "lever:f1abe6db-7357-4d65-b7b2-08856cac5b36",
         "url": "https://jobs.lever.co/tutorintelligence/f1abe6db-7357-4d65-b7b2-08856cac5b36",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Sustaining Engineering Manager, Robotics",
         "date": "2026-11-11",
         "id": "lever:4f497302-2fe2-43c3-866e-ee2291199d79",
         "url": "https://jobs.lever.co/tutorintelligence/4f497302-2fe2-43c3-866e-ee2291199d79",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Systems Integration Engineer, Hardware (Mandarin)",
         "date": "2026-11-11",
         "id": "lever:bfe5d45b-69b4-4835-9370-038125c25c49",
         "url": "https://jobs.lever.co/tutorintelligence/bfe5d45b-69b4-4835-9370-038125c25c49",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Technical Customer Engineer",
         "date": "2026-11-11",
         "id": "lever:9b3f4378-b90d-453a-8169-1cb2b384e0da",
         "url": "https://jobs.lever.co/tutorintelligence/9b3f4378-b90d-453a-8169-1cb2b384e0da",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Technical Program Manager",
@@ -126420,7 +126579,8 @@
         "date": "2026-11-11",
         "id": "lever:ef8784b4-af3a-4661-b63b-ee1f6f21ab1d",
         "url": "https://jobs.lever.co/tutorintelligence/ef8784b4-af3a-4661-b63b-ee1f6f21ab1d",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Technical Recruiter",
@@ -126434,7 +126594,8 @@
         "date": "2026-11-11",
         "id": "lever:c183ed86-da17-4268-80ad-5253fa4fc202",
         "url": "https://jobs.lever.co/tutorintelligence/c183ed86-da17-4268-80ad-5253fa4fc202",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "VR Robot Operator and Support Technician",
@@ -126448,14 +126609,16 @@
         "date": "2026-11-13",
         "id": "lever:8a7c64cd-9f9a-493a-a274-5ca803c0195c",
         "url": "https://jobs.lever.co/tutorintelligence/8a7c64cd-9f9a-493a-a274-5ca803c0195c",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Production Program Manager \u2013 Robotics Assembly",
         "date": "2026-11-15",
         "id": "lever:fff04151-6936-436d-ae3e-d1b6d6aee659",
         "url": "https://jobs.lever.co/tutorintelligence/fff04151-6936-436d-ae3e-d1b6d6aee659",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       },
       {
         "title": "AI Engineer \u2013 Manufacturing & Production",
@@ -126470,7 +126633,8 @@
         "date": "2026-11-15",
         "id": "lever:415c90b9-69d8-4e8e-b7ae-8fad16dce44f",
         "url": "https://jobs.lever.co/tutorintelligence/415c90b9-69d8-4e8e-b7ae-8fad16dce44f",
-        "location": "Watertown, MA"
+        "location": "Watertown, MA",
+        "closed": "2026-11-20"
       }
     ]
   },
@@ -126502,72 +126666,6 @@
         "title:\u2b50\ufe0f Supply Chain Engineering Intern \u2013 Robotics (2026 Fall)"
       ],
       "backlog": true
-    },
-    "Tutor Intelligence": {
-      "since": "2026-11-20T17:22-05:00",
-      "keys": [
-        "lever:07959a87-80a3-4149-a606-7fb80b43342f",
-        "lever:08bd8119-f585-472d-9068-6601048f50b6",
-        "lever:0e325304-1d44-4354-b1ef-7619ace3a9aa",
-        "lever:11ce838d-5df0-49be-886d-a0709b102487",
-        "lever:167eeb43-975c-4d2d-9d5f-f85f926e6daf",
-        "lever:17909bb1-3f32-46b6-89c9-83b68d00a3dd",
-        "lever:19cf5cea-3da1-44b3-99e4-fd791c4f3bd3",
-        "lever:1cc8dee5-ec0a-4a17-b360-ea79fea57c46",
-        "lever:1d83fdae-e6a8-4d97-91bb-3a99076255f8",
-        "lever:25cb9789-9f57-40e5-a7e3-d6b0890e5011",
-        "lever:2de718df-0a92-4144-936c-33405ae238d2",
-        "lever:2f867566-0f5a-4a8e-829a-c7ba6ec3040b",
-        "lever:3458df4c-bea7-4d50-baae-9a82da8c2830",
-        "lever:3db37163-ccdf-46b2-aab2-ac586276b5f4",
-        "lever:3efd648e-4dbe-4bcf-a33e-b6ac5f03649a",
-        "lever:415c90b9-69d8-4e8e-b7ae-8fad16dce44f",
-        "lever:42f72e5c-4183-4dcb-85dc-7180d509c447",
-        "lever:481d2654-5f95-4e10-866d-4dca86e4857c",
-        "lever:4af44dbf-76b0-4454-8691-d1d88397eba8",
-        "lever:4f497302-2fe2-43c3-866e-ee2291199d79",
-        "lever:66106126-f5b4-4243-a305-829fbfc879b0",
-        "lever:6a24392e-e948-48de-b55c-dd75abe720df",
-        "lever:6f01b814-9fd4-4f96-8372-e71a6d3d1f50",
-        "lever:73ddd613-fbd6-4ea2-9703-df9f1d4ed536",
-        "lever:7bb8415b-8446-48ca-918d-a7a5a40a0e86",
-        "lever:80edb4bf-c3dc-4167-be83-340024a0c47f",
-        "lever:8524b406-3289-411c-bb0e-1b6382d65893",
-        "lever:852e359a-af13-4111-a530-0cddaf798392",
-        "lever:891b15af-e99a-4f61-b250-0d90dcce96ba",
-        "lever:8a7c64cd-9f9a-493a-a274-5ca803c0195c",
-        "lever:8ddecc24-28e0-44e6-aa83-0425d668a5b2",
-        "lever:951d301c-e7b5-424c-babd-45a9651bda37",
-        "lever:9b3f4378-b90d-453a-8169-1cb2b384e0da",
-        "lever:9b79768a-5107-495c-a8e1-a79a60681252",
-        "lever:9d0edff2-bce8-4277-a150-840235cd0204",
-        "lever:9d9e346c-c9b4-47f0-853e-2ea7feed3f1f",
-        "lever:9e010ddf-bcd9-46fa-be85-9e0e6b611ab6",
-        "lever:a1ca1d6d-d9b2-446d-827b-0cba40ecf215",
-        "lever:a4c58d4a-361b-4b25-83bb-2d3fe038f744",
-        "lever:a99e4299-28a5-4ec5-abca-d60281397d12",
-        "lever:b0882cb4-ad50-4bd5-809e-4d1032401547",
-        "lever:b5d2be7a-8cb8-44f2-b58d-77c1c7fd2c34",
-        "lever:bad65eb2-8887-46a1-8569-1a54672ffe38",
-        "lever:bf45f5f9-660f-429e-861b-03d1ce9c3d56",
-        "lever:bfe5d45b-69b4-4835-9370-038125c25c49",
-        "lever:c03d8c28-c173-4fd8-a633-b77eaf45f467",
-        "lever:c183ed86-da17-4268-80ad-5253fa4fc202",
-        "lever:ded72d52-4a77-4722-9f8e-cdf106b20e70",
-        "lever:e346bab3-42e0-478c-8ec5-55bbb40eefbc",
-        "lever:e5f3d97e-96a3-4186-821d-5a3bc334e532",
-        "lever:e5ff994b-7a7d-4bda-a558-c983a8faf69d",
-        "lever:ef8784b4-af3a-4661-b63b-ee1f6f21ab1d",
-        "lever:f1abe6db-7357-4d65-b7b2-08856cac5b36",
-        "lever:f4f64e0d-79cf-4f32-ad1e-4fc8d18f9827",
-        "lever:f69b1ae3-0790-4f37-aa83-feb2304f393d",
-        "lever:f6a903f2-538c-4f5d-927c-c4d92942209a",
-        "lever:f81c6a11-cf75-420c-bac4-ce0f21b2eb18",
-        "lever:f84a0657-21f7-4db6-8c4d-c191e95241a1",
-        "lever:f922edc4-cf80-4392-9c6a-f57ed1bb3d12",
-        "lever:fdb1c47e-4685-4ac7-b57f-f1ba1077c3ec",
-        "lever:fff04151-6936-436d-ae3e-d1b6d6aee659"
-      ]
     }
   },
   "checked": {
@@ -126890,6 +126988,18 @@
     "Razer": {
       "since": "2026-11-20",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
+    },
+    "Rockwell Automation": {
+      "since": "2026-11-20",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
+    },
+    "Unity": {
+      "since": "2026-11-20",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
+    },
+    "Zillow": {
+      "since": "2026-11-20",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://zillow.wd5.myworkdayjobs.com/wday/cxs/zillow/Zillow_Group_External/jobs"
     }
   },
   "closures_untracked": {

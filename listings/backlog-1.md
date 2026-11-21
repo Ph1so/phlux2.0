@@ -1006,7 +1006,7 @@
 | <img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Nuro][c39] | [Senior Software Engineer, Pose](<https://nuro.ai/careersitem?gh_jid=8263455>) | N/A |
 | <img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Nuro][c39] | [Senior Software Reliability Engineer](<https://nuro.ai/careersitem?gh_jid=7875059>) | N/A |
 | <img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Nuro][c39] | [Senior/Staff Machine Learning Engineer, Sensor Simulation](<https://nuro.ai/careersitem?gh_jid=8049931>) | N/A |
-| <img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Nuro][c39] | Senior/Staff Software Engineer, AI Agent Infrastructure | N/A |
+| <img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Nuro][c39] | [Senior/Staff Software Engineer, AI Agent Infrastructure](<https://nuro.ai/careersitem?gh_jid=8097555>) | N/A |
 | <img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Nuro][c39] | [Senior/Staff Software Engineer, Applied Controls](<https://nuro.ai/careersitem?gh_jid=8263453>) | N/A |
 | <img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Nuro][c39] | [Senior/Staff Software Engineer, ML Inference Platform](<https://nuro.ai/careersitem?gh_jid=8122528>) | N/A |
 | <img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Nuro][c39] | [Senior/Staff Systems Engineer, Platform Systems](<https://nuro.ai/careersitem?gh_jid=8161813>) | N/A |
@@ -1016,7 +1016,7 @@
 | <img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Nuro][c39] | [Shift Supervisor, On-Road Operations (Overnight)](<https://nuro.ai/careersitem?gh_jid=8049766>) | N/A |
 | <img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Nuro][c39] | [⭐️ Social Media Intern](<https://nuro.ai/careersitem?gh_jid=8222063>) | N/A |
 | <img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Nuro][c39] | [⭐️ Software Engineer, AI Platform - Intern](<https://nuro.ai/careersitem?gh_jid=7351061>) | N/A |
-| <img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Nuro][c39] | Software Engineer, Applied AI Infrastructure | N/A |
+| <img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Nuro][c39] | [Software Engineer, Applied AI Infrastructure](<https://nuro.ai/careersitem?gh_jid=8122990>) | N/A |
 | <img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Nuro][c39] | [Software Engineer, Cloud Infrastructure and Observability](<https://nuro.ai/careersitem?gh_jid=8221208>) | N/A |
 | <img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Nuro][c39] | Software Engineer, Data Platform | N/A |
 | <img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="" height="16"> [Nuro][c39] | Software Engineer, ML Data Infrastructure | N/A |
