@@ -127183,25 +127183,13 @@
       "since": "2026-11-20",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
     },
-    "Nvidia": {
+    "Razer": {
       "since": "2026-11-21",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
     },
-    "Samsung": {
+    "General Motors": {
       "since": "2026-11-21",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
-    },
-    "Expedia": {
-      "since": "2026-11-21",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://expedia.wd108.myworkdayjobs.com/wday/cxs/expedia/search/jobs"
-    },
-    "Verizon": {
-      "since": "2026-11-21",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://verizon.wd12.myworkdayjobs.com/wday/cxs/verizon/verizon-careers/jobs"
-    },
-    "PROCEPT BioRobotics": {
-      "since": "2026-11-21",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://proceptbiorobotics.wd108.myworkdayjobs.com/wday/cxs/proceptbiorobotics/PROCEPT/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
     }
   },
   "closures_untracked": {
