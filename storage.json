@@ -872,8 +872,7 @@
         "date": "2026-10-12",
         "id": "eightfold:1970393557039243",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557039243",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-20"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Agentic Data Memory",
@@ -1059,7 +1058,8 @@
         "date": "2026-10-16",
         "id": "eightfold:1970393557042145",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557042145",
-        "location": "United States, NY +1"
+        "location": "United States, NY +1",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - MSR AI Interaction and Learning",
@@ -6915,14 +6915,16 @@
         "date": "N/A",
         "id": "greenhouse:8143982",
         "url": "https://careers.roblox.com/jobs/8143982?gh_jid=8143982",
-        "location": "San Mateo, CA, United States"
+        "location": "San Mateo, CA, United States",
+        "closed": "2026-11-20"
       },
       {
         "title": "[2027] Associate Product Manager, Early Career",
         "date": "N/A",
         "id": "greenhouse:8143976",
         "url": "https://careers.roblox.com/jobs/8143976?gh_jid=8143976",
-        "location": "San Mateo, CA, United States"
+        "location": "San Mateo, CA, United States",
+        "closed": "2026-11-20"
       },
       {
         "title": "[2027] Senior Machine Learning Engineer - PhD Early Career",
@@ -7298,8 +7300,7 @@
         "id": "greenhouse:8517361002",
         "url": "https://boards.greenhouse.io/spacex/jobs/8517361002?gh_jid=8517361002",
         "location": "Hawthorne, CA",
-        "early": "NEW GRADUATE PROPULSION ENGINEER, RAPTOR Join the forefront of space exploration at SpaceX as a member of the Raptor team \u2013 the worlds most advanced rocket engine powering Starship\u2019s journey in making humanity multipla\u2026",
-        "closed": "2026-11-13"
+        "early": "NEW GRADUATE PROPULSION ENGINEER, RAPTOR Join the forefront of space exploration at SpaceX as a member of the Raptor team \u2013 the worlds most advanced rocket engine powering Starship\u2019s journey in making humanity multipla\u2026"
       },
       {
         "title": "New Graduate Engineer, Propulsion (Starship)",
@@ -7607,7 +7608,8 @@
         "date": "2026-10-13",
         "id": "greenhouse:7904605003",
         "url": "https://www.zipline.com/open-roles/7904605003?gh_jid=7904605003",
-        "location": "South San Francisco, California, USA"
+        "location": "South San Francisco, California, USA",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Computational Physics Intern (Summer 2027)",
@@ -7977,7 +7979,8 @@
         "date": "2026-10-13",
         "id": "greenhouse:7978795003",
         "url": "https://www.zipline.com/open-roles/7978795003?gh_jid=7978795003",
-        "location": "South San Francisco, California, USA"
+        "location": "South San Francisco, California, USA",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Supplier Industrialization Engineering Intern (Spring 2027)",
@@ -12967,8 +12970,7 @@
         "date": "2026-09-30",
         "id": "workday:JR-202618057",
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Rotational-Program---Finance-Operations_JR-202618057",
-        "location": "Warren, Michigan, United States of America",
-        "closed": "2026-11-20"
+        "location": "Warren, Michigan, United States of America"
       },
       {
         "title": "\u2b50\ufe0f Becario (a) de Comunicaci\u00f3n Interna",
@@ -20710,7 +20712,8 @@
         "date": "N/A",
         "id": "ashby:9c08c03d-f22a-46ac-bee7-56119c3b072c",
         "url": "https://jobs.ashbyhq.com/aurora-operations-inc/9c08c03d-f22a-46ac-bee7-56119c3b072c",
-        "location": "Pittsburgh, PA"
+        "location": "Pittsburgh, PA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Senior Software Engineer, Geometric Generation",
@@ -35850,6 +35853,20 @@
         "id": "greenhouse:8957556002",
         "url": "https://app.careerpuck.com/job-board/lyft/job/8957556002?gh_jid=8957556002",
         "location": "San Francisco, CA"
+      },
+      {
+        "title": "Account Manager, Lyft Ads",
+        "date": "2026-11-20",
+        "id": "greenhouse:8952328002",
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8952328002?gh_jid=8952328002",
+        "location": "San Francisco, CA"
+      },
+      {
+        "title": "Senior Director, Infrastructure Engineering",
+        "date": "2026-11-20",
+        "id": "greenhouse:8957597002",
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8957597002?gh_jid=8957597002",
+        "location": "San Francisco, CA"
       }
     ],
     "Glydways": [
@@ -45823,7 +45840,8 @@
         "date": "2026-10-13",
         "id": "greenhouse:8872579002",
         "url": "https://wing.com/careers/8872579002?gh_jid=8872579002",
-        "location": "Palo Alto, California"
+        "location": "Palo Alto, California",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f Motion Planning Software Engineering Intern, Summer 2027",
@@ -45866,7 +45884,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:8918078002",
         "url": "https://wing.com/careers/8918078002?gh_jid=8918078002",
-        "location": "Palo Alto, California"
+        "location": "Palo Alto, California",
+        "closed": "2026-11-20"
       }
     ],
     "Physical Intelligence": [
@@ -63233,8 +63252,7 @@
         "date": "N/A",
         "id": "workday:JR00049326",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Pennsylvania-United-States-of-America/Field-Application-Engineer---Philadelphia_JR00049326",
-        "location": "Remote, Pennsylvania, United States of America",
-        "closed": "2026-11-20"
+        "location": "Remote, Pennsylvania, United States of America"
       },
       {
         "title": "Quality and Process Technician",
@@ -64017,8 +64035,7 @@
         "date": "N/A",
         "id": "workday:JR00050391",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-California-United-States-of-America/Field-Application-Engineer_JR00050391",
-        "location": "Remote, California, United States of America",
-        "closed": "2026-11-20"
+        "location": "Remote, California, United States of America"
       },
       {
         "title": "Business Development Manager - Southwest",
@@ -65006,6 +65023,27 @@
         "id": "workday:JR00040430",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MS-Senatobia/HSE-Administrative-Assistant_JR00040430",
         "location": "USA, MS, Senatobia"
+      },
+      {
+        "title": "Production Unit Manager",
+        "date": "2026-11-20",
+        "id": "workday:JR00050976",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MS-Senatobia/Production-Unit-Manager_JR00050976",
+        "location": "USA, MS, Senatobia"
+      },
+      {
+        "title": "Service Project Manager - Mining and Materials",
+        "date": "2026-11-20",
+        "id": "workday:JR00028016",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Utah-United-States-of-America/Service-Project-Manager---Mining-and-Materials_JR00028016",
+        "location": "4 Locations"
+      },
+      {
+        "title": "Maintenance Specialist",
+        "date": "2026-11-20",
+        "id": "workday:JR00053758",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-SC-Florence/Maintenance-Specialist_JR00053758",
+        "location": "USA, SC, Florence"
       }
     ],
     "Teradyne": [
@@ -66846,7 +66884,8 @@
         "date": "N/A",
         "id": "successfactors:1397007100",
         "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Sr_-Staff-Hardware-Engineer-%28Teradyne%2C-San-Jose%2C-CA%29-CA-95101/1397007100/",
-        "location": "San Jose, CA"
+        "location": "San Jose, CA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Principal Hardware Engineer (Teradyne, San Jose, CA)",
@@ -67497,7 +67536,9 @@
       {
         "title": "Customer Service Account Manager",
         "date": "2026-10-14",
-        "closed": "N/A"
+        "id": "successfactors:1364653655",
+        "url": "https://jobs.kuka.com/job/Atlanta-Customer-Service-Account-Manager-GA-30301/1364653655/",
+        "location": "Atlanta"
       },
       {
         "title": "Revenue Operations Analyst",
@@ -83217,7 +83258,8 @@
         "date": "2026-11-12",
         "id": "ashby:9d9d9fba-e955-4c4d-8e6f-e7fc80d7a919",
         "url": "https://jobs.ashbyhq.com/openai/9d9d9fba-e955-4c4d-8e6f-e7fc80d7a919",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-20"
       },
       {
         "title": "Partner Director, IBM North America",
@@ -83911,6 +83953,13 @@
         "id": "ashby:f26bd8f0-5440-46bd-b6c0-8b7465f8e6dc",
         "url": "https://jobs.ashbyhq.com/openai/f26bd8f0-5440-46bd-b6c0-8b7465f8e6dc",
         "location": "San Francisco +2"
+      },
+      {
+        "title": "Researcher, Cyber Safety Training",
+        "date": "2026-11-20",
+        "id": "ashby:0503a31f-5550-44e8-bec3-99b493532000",
+        "url": "https://jobs.ashbyhq.com/openai/0503a31f-5550-44e8-bec3-99b493532000",
+        "location": "San Francisco"
       }
     ],
     "John Deere": [
@@ -94262,7 +94311,8 @@
         "date": "2026-11-05",
         "id": "greenhouse:5358096008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358096008",
-        "location": "San Francisco, CA"
+        "location": "San Francisco, CA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Research Scientist, Discovery (Engineering & Applied Sciences)",
@@ -94844,6 +94894,13 @@
         "id": "greenhouse:5490950008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490950008",
         "location": "San Francisco, CA | New York City, NY | Seattle, WA"
+      },
+      {
+        "title": "Research Operations, External Artifacts",
+        "date": "2026-11-20",
+        "id": "greenhouse:5490492008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490492008",
+        "location": "Remote-Friendly, United States"
       }
     ],
     "xAI": [
@@ -98217,6 +98274,13 @@
         "date": "2026-11-10",
         "id": "greenhouse:5478642008",
         "url": "https://job-boards.greenhouse.io/botauto/jobs/5478642008",
+        "location": "Houston, TX"
+      },
+      {
+        "title": "Software Engineer, Data Infrastructure (C++)",
+        "date": "2026-11-20",
+        "id": "greenhouse:5491569008",
+        "url": "https://job-boards.greenhouse.io/botauto/jobs/5491569008",
         "location": "Houston, TX"
       }
     ],
@@ -121920,7 +121984,8 @@
         "date": "2026-11-13",
         "id": "workday:R122243",
         "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/3900-N-Capital-of-Texas-Hwy-Austin-TX-USA/XMLNAME-2027-SARC-ACL-R-D-Internship-Program---Multiple-Engineering-Teams_R122243",
-        "location": "2 Locations"
+        "location": "2 Locations",
+        "closed": "2026-11-20"
       },
       {
         "title": "\u2b50\ufe0f RAN System Performance Intern",
@@ -126666,6 +126731,30 @@
         "title:\u2b50\ufe0f Supply Chain Engineering Intern \u2013 Robotics (2026 Fall)"
       ],
       "backlog": true
+    },
+    "Tutor Intelligence": {
+      "since": "2026-11-20T20:08-05:00",
+      "keys": [
+        "lever:2458b2e9-6508-4e48-8a8f-5061b3da743d",
+        "lever:2c465cb9-141c-4543-bd9c-18a56c1cf60c",
+        "lever:3ef7dbd4-19fc-4375-941c-70c7b97430b4",
+        "lever:3f819be3-461c-4081-a2f1-52f21adaae47",
+        "lever:5957da70-b13f-415e-9f3f-8e920daf9030",
+        "lever:6589d15e-6927-4548-9bd6-2af1ec1eb7c8",
+        "lever:6a8564af-d2bd-4171-8e9d-9b01dfae56a0",
+        "lever:6dcff1e7-75fc-4bc5-be54-65c78154bd30",
+        "lever:7692dc62-7175-4cca-8879-50630daa2ec1",
+        "lever:8038158d-8875-4dbd-a2b1-d7bec224a82b",
+        "lever:81b1c21a-9ea6-4b12-80f1-0355091645a6",
+        "lever:89213901-e04c-43af-8937-392a9f63dabd",
+        "lever:905cb2ee-9e54-4cb1-91c5-c622e829327a",
+        "lever:9b05b3e6-4f91-41ea-a8eb-6597a4d7b334",
+        "lever:cabe6bf9-9175-4810-af41-a7178025705b",
+        "lever:d095e01f-802b-43f0-9939-d97161084f23",
+        "lever:f2aede76-d9cc-41b7-9943-26473635a2c3",
+        "lever:f772d72b-0662-410e-b708-ce7ed3b7f163",
+        "lever:fc2e871a-f016-4e40-9cf7-117196304c70"
+      ]
     }
   },
   "checked": {
@@ -126972,34 +127061,6 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
-    },
-    "General Motors": {
-      "since": "2026-11-20",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
-    },
-    "Samsung": {
-      "since": "2026-11-20",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
-    },
-    "ABB": {
-      "since": "2026-11-20",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
-    },
-    "Razer": {
-      "since": "2026-11-20",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
-    },
-    "Rockwell Automation": {
-      "since": "2026-11-20",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
-    },
-    "Unity": {
-      "since": "2026-11-20",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
-    },
-    "Zillow": {
-      "since": "2026-11-20",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://zillow.wd5.myworkdayjobs.com/wday/cxs/zillow/Zillow_Group_External/jobs"
     }
   },
   "closures_untracked": {

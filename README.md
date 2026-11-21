@@ -12,7 +12,7 @@
 <p>
   <a href="https://ph1so.github.io/phlux2.0/"><img src="https://img.shields.io/badge/browse-internships-1f5fff?style=flat-square" alt="Browse internships"></a>
   <a href="https://github.com/Ph1so/phlux2.0/actions/workflows/job-scraper.yml"><img src="https://img.shields.io/github/actions/workflow/status/Ph1so/phlux2.0/job-scraper.yml?branch=main&style=flat-square&label=scraper" alt="Scraper status"></a>
-  <img src="https://img.shields.io/badge/roles_tracked-39k-475467?style=flat-square" alt="38,957 roles tracked">
+  <img src="https://img.shields.io/badge/roles_tracked-39k-475467?style=flat-square" alt="38,965 roles tracked">
 </p>
 
 <p><a href="https://ph1so.github.io/phlux2.0/"><b>Website</b></a> &nbsp;·&nbsp; <a href="listings/README.md"><b>All listings</b></a></p>
@@ -21,7 +21,7 @@
 
 ## Latest roles
 
-Showing the 565 most recent of 38,957 roles tracked across 295 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
+Showing the 564 most recent of 38,965 roles tracked across 295 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
 
 
 <table>
@@ -319,6 +319,20 @@ Showing the 565 most recent of 38,957 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/lyft"><img src="https://cdn.brandfetch.io/lyft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lyft" height="20" style="vertical-align:middle; margin-right:6px;"> Lyft</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://app.careerpuck.com/job-board/lyft/job/8957556002?gh_jid=8957556002">Director, Data Science, EU</a></div></td>
+  <td>2026-11-20</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/lyft"><img src="https://cdn.brandfetch.io/lyft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lyft" height="20" style="vertical-align:middle; margin-right:6px;"> Lyft</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://app.careerpuck.com/job-board/lyft/job/8952328002?gh_jid=8952328002">Account Manager, Lyft Ads</a></div></td>
+  <td>2026-11-20</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/lyft"><img src="https://cdn.brandfetch.io/lyft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lyft" height="20" style="vertical-align:middle; margin-right:6px;"> Lyft</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://app.careerpuck.com/job-board/lyft/job/8957597002?gh_jid=8957597002">Senior Director, Infrastructure Engineering</a></div></td>
   <td>2026-11-20</td>
 </tr>
   <tr>
@@ -680,6 +694,27 @@ Showing the 565 most recent of 38,957 roles tracked across 295 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MS-Senatobia/Production-Unit-Manager_JR00050976">Production Unit Manager</a></div></td>
+  <td>2026-11-20</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Utah-United-States-of-America/Service-Project-Manager---Mining-and-Materials_JR00028016">Service Project Manager - Mining and Materials</a></div></td>
+  <td>2026-11-20</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-SC-Florence/Maintenance-Specialist_JR00053758">Maintenance Specialist</a></div></td>
+  <td>2026-11-20</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.teradyne.com/teradyne/search/?q=&locationsearch=United+States&sortColumn=referencedate&sortDirection=desc"><img src="https://cdn.brandfetch.io/teradyne.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Teradyne" height="20" style="vertical-align:middle; margin-right:6px;"> Teradyne</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.teradyne.com/Teradyne/job/Plano-Field-Application-Engineer-%28Product-Test-Plano%2C-TX%29-TX/1452538900/">Field Application Engineer (Product Test; Plano, TX)</a></div></td>
@@ -876,6 +911,13 @@ Showing the 565 most recent of 38,957 roles tracked across 295 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/0503a31f-5550-44e8-bec3-99b493532000">Researcher, Cyber Safety Training</a></div></td>
+  <td>2026-11-20</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5480875008">Strategic Account Executive, Financial Services</a></div></td>
@@ -918,9 +960,23 @@ Showing the 565 most recent of 38,957 roles tracked across 295 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5490492008">Research Operations, External Artifacts</a></div></td>
+  <td>2026-11-20</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/xai"><img src="https://cdn.brandfetch.io/x.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="xAI" height="20" style="vertical-align:middle; margin-right:6px;"> xAI</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/xai/jobs/5303782007">Lead Operations Engineer, Construction & Site Efficiency - Memphis</a></div></td>
+  <td>2026-11-20</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/botauto"><img src="https://cdn.brandfetch.io/bot.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bot Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Bot Auto</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/botauto/jobs/5491569008">Software Engineer, Data Infrastructure (C++)</a></div></td>
   <td>2026-11-20</td>
 </tr>
   <tr>
@@ -3924,69 +3980,6 @@ Showing the 565 most recent of 38,957 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/xai"><img src="https://cdn.brandfetch.io/x.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="xAI" height="20" style="vertical-align:middle; margin-right:6px;"> xAI</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/xai/jobs/5300875007">Technical Program Manager, Safety Compliance</a></div></td>
-  <td>2026-11-18</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/xai"><img src="https://cdn.brandfetch.io/x.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="xAI" height="20" style="vertical-align:middle; margin-right:6px;"> xAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/xai/jobs/5090998007">Infrastructure Security Engineer</a></div></td>
-  <td>2026-11-18</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://recar.wd108.myworkdayjobs.com/SLATEcareers"><img src="https://cdn.brandfetch.io/slate.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Slate Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Slate Auto</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Troy-Michigan/Accessories-Senior-Buyer_JR101722-1">Accessories Senior Buyer</a></div></td>
-  <td>2026-11-18</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://recar.wd108.myworkdayjobs.com/SLATEcareers"><img src="https://cdn.brandfetch.io/slate.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Slate Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Slate Auto</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Ontario-CA/Vinyl-Wrap-Installer_JR101734">Vinyl Wrap Installer (Ontario, CA)</a></div></td>
-  <td>2026-11-18</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://recar.wd108.myworkdayjobs.com/SLATEcareers"><img src="https://cdn.brandfetch.io/slate.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Slate Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Slate Auto</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Plainfield-IN/Vinyl-Wrap-Installer_JR101725">Vinyl Wrap Installer</a></div></td>
-  <td>2026-11-18</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/beyondreachlabs"><img src="https://cdn.brandfetch.io/beyondreachlabs.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Beyond Reach Labs" height="20" style="vertical-align:middle; margin-right:6px;"> Beyond Reach Labs</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/beyondreachlabs/44f9f2f2-93c4-40a3-b867-672a3c9214c7">Senior Manufacturing Engineer</a></div></td>
-  <td>2026-11-18</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/icarus"><img src="https://www.google.com/s2/favicons?domain=icarus.one&sz=128" alt="Icarus" height="20" style="vertical-align:middle; margin-right:6px;"> Icarus</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/icarus/jobs/5487269008">Avionics Technician</a></div></td>
-  <td>2026-11-18</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/icarus"><img src="https://www.google.com/s2/favicons?domain=icarus.one&sz=128" alt="Icarus" height="20" style="vertical-align:middle; margin-right:6px;"> Icarus</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/icarus/jobs/5487284008">Composites Technician</a></div></td>
-  <td>2026-11-18</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/icarus"><img src="https://www.google.com/s2/favicons?domain=icarus.one&sz=128" alt="Icarus" height="20" style="vertical-align:middle; margin-right:6px;"> Icarus</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/icarus/jobs/5487279008">Integration Technician</a></div></td>
-  <td>2026-11-18</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/pyka"><img src="https://cdn.brandfetch.io/flypyka.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Pyka" height="20" style="vertical-align:middle; margin-right:6px;"> Pyka</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/pyka/41ba9bcb-7aa9-45f3-ac7d-12b0e5f032b0">Social Media Marketing Specialist (Brazil Only)</a></div></td>
   <td>2026-11-18</td>
 </tr>
 
