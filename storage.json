@@ -1058,8 +1058,7 @@
         "date": "2026-10-16",
         "id": "eightfold:1970393557042145",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557042145",
-        "location": "United States, NY +1",
-        "closed": "2026-11-20"
+        "location": "United States, NY +1"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - MSR AI Interaction and Learning",
@@ -19202,6 +19201,20 @@
         "id": "greenhouse:5290949007",
         "url": "https://lucidmotors.com/careers/search/5290949007?gh_jid=5290949007",
         "location": "Newark, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern, ADAS Platform Tools, Summer 2027",
+        "date": "2026-11-20",
+        "id": "greenhouse:5290796007",
+        "url": "https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007",
+        "location": "Newark, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern, Exterior Design, Sumer 2027",
+        "date": "2026-11-20",
+        "id": "greenhouse:5290848007",
+        "url": "https://lucidmotors.com/careers/search/5290848007?gh_jid=5290848007",
+        "location": "Newark, CA"
       }
     ],
     "Avride": [
@@ -25214,7 +25227,8 @@
         "date": "N/A",
         "id": "workable:4C1F53EF5D",
         "url": "https://apply.workable.com/pony-dot-ai/j/4C1F53EF5D/",
-        "location": "Fremont, CA"
+        "location": "Fremont, CA",
+        "closed": "2026-11-20"
       },
       {
         "title": "Senior Software Engineer - Evaluation",
@@ -34972,8 +34986,7 @@
         "date": "N/A",
         "id": "greenhouse:8445493002",
         "url": "https://app.careerpuck.com/job-board/lyft/job/8445493002?gh_jid=8445493002",
-        "location": "San Francisco, CA",
-        "closed": "2026-11-19"
+        "location": "San Francisco, CA"
       },
       {
         "title": "Senior Software Engineer, Marketplace",
@@ -83960,6 +83973,13 @@
         "id": "ashby:0503a31f-5550-44e8-bec3-99b493532000",
         "url": "https://jobs.ashbyhq.com/openai/0503a31f-5550-44e8-bec3-99b493532000",
         "location": "San Francisco"
+      },
+      {
+        "title": "Integrated Marketing Manager",
+        "date": "2026-11-20",
+        "id": "ashby:62032f94-87e8-45b8-968c-db9b8893e907",
+        "url": "https://jobs.ashbyhq.com/openai/62032f94-87e8-45b8-968c-db9b8893e907",
+        "location": "San Francisco"
       }
     ],
     "John Deere": [
@@ -99970,6 +99990,13 @@
         "date": "2026-11-19",
         "id": "lever:2f567b74-5165-46a4-8fdd-343c5bbd531a",
         "url": "https://jobs.lever.co/pyka/2f567b74-5165-46a4-8fdd-343c5bbd531a",
+        "location": "Alameda HQ"
+      },
+      {
+        "title": "Senior Software Engineer, Mapping",
+        "date": "2026-11-20",
+        "id": "lever:ea5c8e16-7853-4655-bb6d-237cbef4f414",
+        "url": "https://jobs.lever.co/pyka/ea5c8e16-7853-4655-bb6d-237cbef4f414",
         "location": "Alameda HQ"
       }
     ],
@@ -116351,6 +116378,13 @@
         "url": "https://bostonscientific.eightfold.ai/careers/job/563602813547675",
         "location": "Arden Hills, MN",
         "closed": "2026-11-20"
+      },
+      {
+        "title": "Sr. Indirect Sourcing Specialist - Facilities & Global Ops",
+        "date": "2026-11-20",
+        "id": "eightfold:563602813942394",
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602813942394",
+        "location": "Marlboro, MA"
       }
     ],
     "Cloudflare": [
@@ -126754,6 +126788,16 @@
         "lever:f2aede76-d9cc-41b7-9943-26473635a2c3",
         "lever:f772d72b-0662-410e-b708-ce7ed3b7f163",
         "lever:fc2e871a-f016-4e40-9cf7-117196304c70"
+      ]
+    },
+    "Workday": {
+      "since": "2026-11-20T21:05-05:00",
+      "keys": [
+        "workday:JR-0110809",
+        "workday:JR-0110810",
+        "workday:JR-0110811",
+        "workday:JR-0110812",
+        "workday:JR-0110813"
       ]
     }
   },
