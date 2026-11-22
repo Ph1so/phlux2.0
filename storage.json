@@ -14917,7 +14917,8 @@
         "date": "2026-10-22",
         "id": "ashby:67aea2dd-efd0-4aaf-8d20-a225dc96e0c4",
         "url": "https://jobs.ashbyhq.com/cobot/67aea2dd-efd0-4aaf-8d20-a225dc96e0c4",
-        "location": "Santa Clara"
+        "location": "Santa Clara",
+        "closed": "2026-11-22"
       },
       {
         "title": "Site Operation Manager",
@@ -15012,7 +15013,8 @@
         "date": "2026-10-13",
         "id": "teamio:2000835660",
         "url": "https://brightpick.ai/careers/?r=detail&id=2000835660",
-        "location": "Bratislava-Ru\u017einov, Slovensko"
+        "location": "Bratislava-Ru\u017einov, Slovensko",
+        "closed": "2026-11-22"
       },
       {
         "title": "Robotics Field Technician/On-site Service Technician [Broomfield, CO]",
@@ -45469,8 +45471,7 @@
         "date": "2026-11-03",
         "id": "google:129187054603903686",
         "url": "https://www.google.com/about/careers/applications/jobs/results/129187054603903686",
-        "location": "Paris, France +3",
-        "closed": "2026-11-22"
+        "location": "Paris, France +3"
       },
       {
         "title": "Research Scientist, Harmful Manipulation, DeepMind",
@@ -45520,8 +45521,7 @@
         "date": "2026-11-05",
         "id": "google:88601134075126470",
         "url": "https://www.google.com/about/careers/applications/jobs/results/88601134075126470",
-        "location": "Mountain View, CA +1",
-        "closed": "2026-11-22"
+        "location": "Mountain View, CA +1"
       },
       {
         "title": "Senior Network Engineer, Robotics, Enterprise Engineering, DeepMind",
@@ -58170,7 +58170,8 @@
         "date": "2026-11-16",
         "id": "workday:R-110277",
         "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Latina-Italy/Stage-in-Operations-Support_R-110277",
-        "location": "Latina, Italy"
+        "location": "Latina, Italy",
+        "closed": "2026-11-22"
       },
       {
         "title": "ICO\u5e02\u573a\u90e8\u5b9e\u4e60\u751f",
@@ -72320,8 +72321,7 @@
         "date": "2026-10-22",
         "id": "rippling:f176aaaf-e54b-4ca6-82d8-f9b39e5e4cd8",
         "url": "https://ats.rippling.com/walden-robotics/jobs/f176aaaf-e54b-4ca6-82d8-f9b39e5e4cd8",
-        "location": "Cambridge, MA",
-        "closed": "2026-11-16"
+        "location": "Cambridge, MA"
       },
       {
         "title": "Senior Corporate Security Engineer",
@@ -127344,33 +127344,13 @@
       "since": "2026-11-22",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
     },
-    "Snap": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
-    },
-    "Unity": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
-    },
     "Razer": {
       "since": "2026-11-22",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
     },
-    "Rockwell Automation": {
+    "Samsung": {
       "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
-    },
-    "General Motors": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
-    },
-    "Oshkosh": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs"
-    },
-    "Slate Auto": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
     }
   },
   "closures_untracked": {
