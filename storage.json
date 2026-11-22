@@ -54530,6 +54530,13 @@
         "id": "ashby:e2091049-02be-469e-9ed1-0f01f48142a5",
         "url": "https://jobs.ashbyhq.com/hadrian-automation/e2091049-02be-469e-9ed1-0f01f48142a5",
         "location": "Los Angeles, CA"
+      },
+      {
+        "title": "Counsel, Intellectual Property",
+        "date": "2026-11-22",
+        "id": "ashby:8d300218-a859-4db0-ae9e-092d0b722a5d",
+        "url": "https://jobs.ashbyhq.com/hadrian-automation/8d300218-a859-4db0-ae9e-092d0b722a5d",
+        "location": "Los Angeles, CA +2"
       }
     ],
     "Saildrone": [
@@ -127347,9 +127354,25 @@
       "since": "2026-11-22",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
     },
-    "Salesforce": {
+    "Autodesk": {
       "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/uni/jobs"
+    },
+    "Rockwell Automation": {
+      "since": "2026-11-22",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
+    },
+    "Target": {
+      "since": "2026-11-22",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
+    },
+    "Samsung": {
+      "since": "2026-11-22",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
+    },
+    "General Motors": {
+      "since": "2026-11-22",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
     }
   },
   "closures_untracked": {
