@@ -34214,6 +34214,13 @@
         "id": "greenhouse:4648209007",
         "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/4648209007",
         "location": "Torrance, California, United States"
+      },
+      {
+        "title": "\u2b50\ufe0f Firmware/Embedded Software Engineer Intern - Summer 2027",
+        "date": "2026-11-21",
+        "id": "greenhouse:5278981007",
+        "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007",
+        "location": "Torrance, California, United States"
       }
     ],
     "Lyft": [
@@ -125120,7 +125127,8 @@
         "date": "N/A",
         "id": "pinpoint:590465",
         "url": "https://impulsespace.pinpointhq.com/en/postings/d466f97d-0d4a-479d-b764-acf687745208",
-        "location": "Redondo Beach, CA"
+        "location": "Redondo Beach, CA",
+        "closed": "2026-11-21"
       },
       {
         "title": "\u2b50\ufe0f Enterprise Software Engineering Intern (Summer 2027)",
@@ -127207,29 +127215,29 @@
       "since": "2026-11-21",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
     },
-    "Razer": {
-      "since": "2026-11-21",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
-    },
-    "Samsung": {
-      "since": "2026-11-21",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
-    },
     "General Motors": {
       "since": "2026-11-21",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
-    },
-    "Nvidia": {
-      "since": "2026-11-21",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
     },
     "Rockwell Automation": {
       "since": "2026-11-21",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
     },
-    "Oshkosh": {
+    "Intel": {
       "since": "2026-11-21",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
+    },
+    "Unity": {
+      "since": "2026-11-21",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
+    },
+    "Mosaic": {
+      "since": "2026-11-21",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://mosaic.wd5.myworkdayjobs.com/wday/cxs/mosaic/mosaic/jobs"
+    },
+    "T-Mobile": {
+      "since": "2026-11-21",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://tmobile.wd1.myworkdayjobs.com/wday/cxs/tmobile/External/jobs"
     }
   },
   "closures_untracked": {
