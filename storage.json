@@ -45469,7 +45469,8 @@
         "date": "2026-11-03",
         "id": "google:129187054603903686",
         "url": "https://www.google.com/about/careers/applications/jobs/results/129187054603903686",
-        "location": "Paris, France +3"
+        "location": "Paris, France +3",
+        "closed": "2026-11-22"
       },
       {
         "title": "Research Scientist, Harmful Manipulation, DeepMind",
@@ -45519,7 +45520,8 @@
         "date": "2026-11-05",
         "id": "google:88601134075126470",
         "url": "https://www.google.com/about/careers/applications/jobs/results/88601134075126470",
-        "location": "Mountain View, CA +1"
+        "location": "Mountain View, CA +1",
+        "closed": "2026-11-22"
       },
       {
         "title": "Senior Network Engineer, Robotics, Enterprise Engineering, DeepMind",
@@ -104402,7 +104404,8 @@
         "date": "N/A",
         "id": "morganstanley:21636",
         "url": "https://morganstanley.tal.net/vx/candidate/so/pm/1/pl/1/opp/21636",
-        "location": "London, United Kingdom"
+        "location": "London, United Kingdom",
+        "closed": "2026-11-22"
       },
       {
         "title": "\u2b50\ufe0f 2027 Quantitative Finance Off-Cycle Internship (Paris)",
@@ -104430,7 +104433,8 @@
         "date": "N/A",
         "id": "morganstanley:21615",
         "url": "https://morganstanley.tal.net/vx/candidate/so/pm/1/pl/1/opp/21615",
-        "location": "London, United Kingdom"
+        "location": "London, United Kingdom",
+        "closed": "2026-11-22"
       },
       {
         "title": "\u2b50\ufe0f 2027 Fixed Income Off-Cycle Internship (Copenhagen)",
@@ -104827,7 +104831,8 @@
         "date": "2026-11-18",
         "id": "morganstanley:22480",
         "url": "https://morganstanley.tal.net/vx/candidate/so/pm/1/pl/1/opp/22480",
-        "location": "Mumbai, India"
+        "location": "Mumbai, India",
+        "closed": "2026-11-22"
       },
       {
         "title": "\u2b50\ufe0f 2027 Investment Management Off-Cycle Internship - UK Institutional Sales (London)",
@@ -124569,7 +124574,8 @@
         "date": "N/A",
         "id": "pinpoint:603818",
         "url": "https://impulsespace.pinpointhq.com/en/postings/1e754a84-c304-4535-bd2b-e8dfadd9556d",
-        "location": "Redondo Beach, CA"
+        "location": "Redondo Beach, CA",
+        "closed": "2026-11-22"
       },
       {
         "title": "Propulsion Technician (Engine Final Assembly)",
@@ -127338,10 +127344,6 @@
       "since": "2026-11-22",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
     },
-    "Nvidia": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
-    },
     "Snap": {
       "since": "2026-11-22",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
@@ -127354,25 +127356,21 @@
       "since": "2026-11-22",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
     },
-    "Autodesk": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/uni/jobs"
-    },
     "Rockwell Automation": {
       "since": "2026-11-22",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
     },
-    "Target": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
-    },
-    "Samsung": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
-    },
     "General Motors": {
       "since": "2026-11-22",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
+    },
+    "Oshkosh": {
+      "since": "2026-11-22",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs"
+    },
+    "Slate Auto": {
+      "since": "2026-11-22",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
     }
   },
   "closures_untracked": {
