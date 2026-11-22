@@ -79944,14 +79944,16 @@
         "date": "2026-10-22",
         "id": "ashby:29074a51-9cb3-47c9-a8a7-f283cd14fa6c",
         "url": "https://jobs.ashbyhq.com/openai/29074a51-9cb3-47c9-a8a7-f283cd14fa6c",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-22"
       },
       {
         "title": "Research Engineer / Research Scientist - Personal AGI, Personalization",
         "date": "2026-10-22",
         "id": "ashby:1bf678c5-1058-45ca-b9bd-b0029fccd60e",
         "url": "https://jobs.ashbyhq.com/openai/1bf678c5-1058-45ca-b9bd-b0029fccd60e",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-22"
       },
       {
         "title": "Research Engineer / Research Scientist / AI Systems Engineer, RSI",
@@ -79994,14 +79996,16 @@
         "date": "2026-10-22",
         "id": "ashby:171ebca6-de53-4d6e-a312-30332f353957",
         "url": "https://jobs.ashbyhq.com/openai/171ebca6-de53-4d6e-a312-30332f353957",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-22"
       },
       {
         "title": "Research Engineer/Research Scientist- Personal AGI, Model Experience",
         "date": "2026-10-22",
         "id": "ashby:872ca3d0-c8c0-4585-9a34-7f9ed6b4dbf9",
         "url": "https://jobs.ashbyhq.com/openai/872ca3d0-c8c0-4585-9a34-7f9ed6b4dbf9",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-22"
       },
       {
         "title": "Research Engineer/Research Scientist, RL/Reasoning",
@@ -84080,6 +84084,34 @@
         "date": "2026-11-20",
         "id": "ashby:62032f94-87e8-45b8-968c-db9b8893e907",
         "url": "https://jobs.ashbyhq.com/openai/62032f94-87e8-45b8-968c-db9b8893e907",
+        "location": "San Francisco"
+      },
+      {
+        "title": "Research Engineer / Research Scientist, Post-Training \u2014 Collective Alignment (User Signals)",
+        "date": "2026-11-22",
+        "id": "ashby:ce15d226-65db-43f1-98ec-078e96a3a281",
+        "url": "https://jobs.ashbyhq.com/openai/ce15d226-65db-43f1-98ec-078e96a3a281",
+        "location": "San Francisco"
+      },
+      {
+        "title": "Research Engineer/Research Scientist-Post Training, Proactivity",
+        "date": "2026-11-22",
+        "id": "ashby:d1906ab2-b829-4a13-b1f2-f4af97d699fa",
+        "url": "https://jobs.ashbyhq.com/openai/d1906ab2-b829-4a13-b1f2-f4af97d699fa",
+        "location": "San Francisco"
+      },
+      {
+        "title": "Research Engineer/Research Scientist- Post Training, Model Experience",
+        "date": "2026-11-22",
+        "id": "ashby:bc85c1a9-0f75-4c3a-807b-6d2bb26c8445",
+        "url": "https://jobs.ashbyhq.com/openai/bc85c1a9-0f75-4c3a-807b-6d2bb26c8445",
+        "location": "San Francisco"
+      },
+      {
+        "title": "Research Engineer / Research Scientist - Post Training, Memory",
+        "date": "2026-11-22",
+        "id": "ashby:ecfe655c-1369-4bcd-aae0-4a3b75fdf61b",
+        "url": "https://jobs.ashbyhq.com/openai/ecfe655c-1369-4bcd-aae0-4a3b75fdf61b",
         "location": "San Francisco"
       }
     ],
@@ -127277,17 +127309,97 @@
       "since": "2026-11-22",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
     },
-    "Autodesk": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/uni/jobs"
-    },
     "Razer": {
       "since": "2026-11-22",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
     },
-    "Samsung": {
+    "Uber": {
       "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://jobs.uber.com/api/jobs/search/?countries=United+States&team=University&page=1"
+    },
+    "Nvidia": {
+      "since": "2026-11-22",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
+    },
+    "Salesforce": {
+      "since": "2026-11-22",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs"
+    },
+    "Intel": {
+      "since": "2026-11-22",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
+    },
+    "Blue Origin": {
+      "since": "2026-11-22",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/BlueOrigin/jobs"
+    },
+    "Snap": {
+      "since": "2026-11-22",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
+    },
+    "Workday": {
+      "since": "2026-11-22",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday_Early_Career/jobs"
+    },
+    "Rockwell Automation": {
+      "since": "2026-11-22",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
+    },
+    "Unity": {
+      "since": "2026-11-22",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
+    },
+    "Hugging Face": {
+      "since": "2026-11-22",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/huggingface/jobs"
+    },
+    "Verizon": {
+      "since": "2026-11-22",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://verizon.wd12.myworkdayjobs.com/wday/cxs/verizon/verizon-careers/jobs"
+    },
+    "Leidos": {
+      "since": "2026-11-22",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://leidos.wd5.myworkdayjobs.com/wday/cxs/leidos/External/jobs"
+    },
+    "Sony": {
+      "since": "2026-11-22",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sonyglobal.wd1.myworkdayjobs.com/wday/cxs/sonyglobal/SonyGlobalCareers/jobs"
+    },
+    "Mosaic": {
+      "since": "2026-11-22",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://mosaic.wd5.myworkdayjobs.com/wday/cxs/mosaic/mosaic/jobs"
+    },
+    "Target": {
+      "since": "2026-11-22",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
+    },
+    "General Motors": {
+      "since": "2026-11-22",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
+    },
+    "Pony.ai": {
+      "since": "2026-11-22",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/pony-dot-ai/jobs"
+    },
+    "Johnson & Johnson": {
+      "since": "2026-11-22",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs"
+    },
+    "Stryker": {
+      "since": "2026-11-22",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs"
+    },
+    "Realtime Robotics": {
+      "since": "2026-11-22",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/realtime-robotics/jobs"
+    },
+    "Slate Auto": {
+      "since": "2026-11-22",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
+    },
+    "Oshkosh": {
+      "since": "2026-11-22",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs"
     }
   },
   "closures_untracked": {
