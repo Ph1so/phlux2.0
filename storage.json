@@ -882,8 +882,7 @@
         "date": "2026-10-09",
         "id": "eightfold:1970393557037649",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557037649",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-22"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Cloud Network Engineering Internship Oportunities",
@@ -45520,8 +45519,7 @@
         "date": "2026-11-05",
         "id": "google:88601134075126470",
         "url": "https://www.google.com/about/careers/applications/jobs/results/88601134075126470",
-        "location": "Mountain View, CA +1",
-        "closed": "2026-11-22"
+        "location": "Mountain View, CA +1"
       },
       {
         "title": "Senior Network Engineer, Robotics, Enterprise Engineering, DeepMind",
@@ -127275,73 +127273,21 @@
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
     },
-    "General Motors": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
-    },
     "ABB": {
       "since": "2026-11-22",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
-    },
-    "Slate Auto": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
-    },
-    "Rockwell Automation": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
-    },
-    "Intel": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
     },
     "Autodesk": {
       "since": "2026-11-22",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/uni/jobs"
     },
-    "Nvidia": {
+    "Razer": {
       "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
     },
-    "Blue Origin": {
+    "Samsung": {
       "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/BlueOrigin/jobs"
-    },
-    "Unity": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
-    },
-    "Hugging Face": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/huggingface/jobs"
-    },
-    "Leidos": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://leidos.wd5.myworkdayjobs.com/wday/cxs/leidos/External/jobs"
-    },
-    "Tesla": {
-      "since": "2026-11-22",
-      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
-    },
-    "Target": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
-    },
-    "Pony.ai": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/pony-dot-ai/jobs"
-    },
-    "Stryker": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs"
-    },
-    "Realtime Robotics": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/realtime-robotics/jobs"
-    },
-    "Oshkosh": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
     }
   },
   "closures_untracked": {
