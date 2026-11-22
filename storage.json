@@ -84491,7 +84491,8 @@
         "date": "2026-10-22",
         "id": "lever:813744d9-4a1c-4f6a-9980-8658b0f842b2",
         "url": "https://jobs.eu.lever.co/mobileye/813744d9-4a1c-4f6a-9980-8658b0f842b2",
-        "location": "Haifa, Israel"
+        "location": "Haifa, Israel",
+        "closed": "2026-11-22"
       },
       {
         "title": "Software Execution Project Manager - Camera Team",
@@ -89784,7 +89785,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5452922008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452922008",
-        "location": "Remote-Friendly, United States"
+        "location": "Remote-Friendly, United States",
+        "closed": "2026-11-22"
       },
       {
         "title": "Community Engagement Manager, Data Centers (Texas)",
@@ -91638,7 +91640,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5451081008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5451081008",
-        "location": "San Francisco, CA | New York City, NY | Washington, DC"
+        "location": "San Francisco, CA | New York City, NY | Washington, DC",
+        "closed": "2026-11-22"
       },
       {
         "title": "Policy Program Manager, Safeguards Regulatory",
@@ -127269,57 +127272,17 @@
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
     },
-    "Autodesk": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/uni/jobs"
-    },
-    "Blue Origin": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/BlueOrigin/jobs"
-    },
     "Snap": {
       "since": "2026-11-22",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
-    },
-    "Workday": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday_Early_Career/jobs"
-    },
-    "Expedia": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://expedia.wd108.myworkdayjobs.com/wday/cxs/expedia/search/jobs"
-    },
-    "Rockwell Automation": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
     },
     "Unity": {
       "since": "2026-11-22",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
     },
-    "RedHat": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://redhat.wd5.myworkdayjobs.com/wday/cxs/redhat/jobs/jobs"
-    },
     "Boston Dynamics": {
       "since": "2026-11-22",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://bostondynamics.wd1.myworkdayjobs.com/wday/cxs/bostondynamics/Boston_Dynamics/jobs"
-    },
-    "Visa": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs"
-    },
-    "Hugging Face": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/huggingface/jobs"
-    },
-    "Leidos": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://leidos.wd5.myworkdayjobs.com/wday/cxs/leidos/External/jobs"
-    },
-    "Razer": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
     },
     "Tesla": {
       "since": "2026-11-22",
@@ -127349,18 +127312,6 @@
       "since": "2026-11-22",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
     },
-    "Pony.ai": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/pony-dot-ai/jobs"
-    },
-    "Draper": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://draper.wd5.myworkdayjobs.com/wday/cxs/draper/Draper_Careers/jobs"
-    },
-    "Stryker": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs"
-    },
     "Johnson & Johnson": {
       "since": "2026-11-22",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs"
@@ -127369,17 +127320,9 @@
       "since": "2026-11-22",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://symbotic.wd504.myworkdayjobs.com/wday/cxs/symbotic/Symbotic/jobs"
     },
-    "PROCEPT BioRobotics": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://proceptbiorobotics.wd108.myworkdayjobs.com/wday/cxs/proceptbiorobotics/PROCEPT/jobs"
-    },
     "ABB": {
       "since": "2026-11-22",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
-    },
-    "Realtime Robotics": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/realtime-robotics/jobs"
     },
     "Oshkosh": {
       "since": "2026-11-22",
@@ -127388,6 +127331,10 @@
     "Slate Auto": {
       "since": "2026-11-22",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
+    },
+    "Nvidia": {
+      "since": "2026-11-22",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
     }
   },
   "closures_untracked": {
