@@ -908,8 +908,7 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557040333",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557040333",
-        "location": "United States, Massachusetts, Cambridge",
-        "closed": "2026-11-22"
+        "location": "United States, Massachusetts, Cambridge"
       },
       {
         "title": "\u2b50\ufe0f Cloud Network Engineering Internship Opportunities",
@@ -1405,8 +1404,7 @@
         "date": "2026-11-19",
         "id": "eightfold:1970393557076095",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557076095",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-22"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - AI Safety, Alignment, and Post-Training",
@@ -16752,8 +16750,7 @@
         "date": "N/A",
         "id": "greenhouse:7834591003",
         "url": "https://motional.com/open-positions/?gh_jid=7834591003#/7834591003",
-        "location": "Singapore, Central, Singapore",
-        "closed": "2026-11-22"
+        "location": "Singapore, Central, Singapore"
       },
       {
         "title": "Senior Manager, Commercial Product Development",
@@ -127365,21 +127362,9 @@
       "since": "2026-11-22",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
     },
-    "General Motors": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
-    },
     "Snap": {
       "since": "2026-11-22",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
-    },
-    "Unity": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
-    },
-    "Stryker": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs"
     }
   },
   "closures_untracked": {
