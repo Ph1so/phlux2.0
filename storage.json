@@ -9898,7 +9898,8 @@
         "date": "2026-10-13",
         "id": "tesla:281951",
         "url": "https://www.tesla.com/careers/search/job/internship-software-engineer-core-si-compiler-runtime-winter-spring-2027-281951",
-        "location": "Palo Alto, CA"
+        "location": "Palo Alto, CA",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f Internship, Software Engineer, SI Inference Co Design (Winter/Spring 2027)",
@@ -10422,7 +10423,8 @@
         "date": "2026-10-13",
         "id": "tesla:278962",
         "url": "https://www.tesla.com/careers/search/job/internship-powertrain-energy-products-manufacturing-engineering-winter-spring-2027-278962",
-        "location": "Fremont, CA"
+        "location": "Fremont, CA",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f Internship, Electromagnetic Compatibility Engineer (Winter/Spring 2027)",
@@ -10534,7 +10536,8 @@
         "date": "2026-10-13",
         "id": "tesla:278946",
         "url": "https://www.tesla.com/careers/search/job/internship-mechanical-design-engineer-vehicle-engineering-winter-spring-2027-278946",
-        "location": "Fremont, CA"
+        "location": "Fremont, CA",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f Internship, Automation Development & Tooling Engineer (Winter/Spring 2027)",
@@ -13441,8 +13444,7 @@
         "date": "2026-10-12",
         "id": "workday:JR-202621817",
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level---Defense-Lab-Modeling-and-Simulation-Researcher_JR-202621817",
-        "location": "Warren, Michigan, United States of America",
-        "closed": "2026-11-23"
+        "location": "Warren, Michigan, United States of America"
       },
       {
         "title": "Entry-Level - Compute Platforms & SoC/MCU Semiconductor Systems Researcher",
@@ -24360,7 +24362,8 @@
         "date": "N/A",
         "id": "lever:2ed8a665-cee8-4d70-bcb1-e96b6214b371",
         "url": "https://jobs.lever.co/zoox/2ed8a665-cee8-4d70-bcb1-e96b6214b371",
-        "location": "Foster City, CA +1"
+        "location": "Foster City, CA +1",
+        "closed": "2026-11-23"
       },
       {
         "title": "Senior/Staff Software Engineer, ML Training Optimization",
@@ -24578,7 +24581,8 @@
         "date": "N/A",
         "id": "lever:bc11276c-8db7-426e-9d00-d41c2097723a",
         "url": "https://jobs.lever.co/zoox/bc11276c-8db7-426e-9d00-d41c2097723a",
-        "location": "Foster City, CA"
+        "location": "Foster City, CA",
+        "closed": "2026-11-23"
       },
       {
         "title": "Software Engineer, ML Training Optimization",
@@ -49952,6 +49956,20 @@
         "id": "greenhouse:8945038002",
         "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8945038002",
         "location": "Fort Worth, Texas"
+      },
+      {
+        "title": "Gestionnaire, Annotation",
+        "date": "2026-11-23",
+        "id": "greenhouse:8959353002",
+        "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8959353002",
+        "location": "Montreal, Canada"
+      },
+      {
+        "title": "Manager, Data Annotation",
+        "date": "2026-11-23",
+        "id": "greenhouse:8958232002",
+        "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8958232002",
+        "location": "Montreal, Canada"
       }
     ],
     "Saronic": [
@@ -65627,6 +65645,27 @@
         "id": "workday:JR00053243",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-TN-Selmer/Business-Excellence-Manager---Busway_JR00053243",
         "location": "USA, TN, Selmer"
+      },
+      {
+        "title": "Testing Engineering Lead",
+        "date": "2026-11-23",
+        "id": "workday:JR00051477",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Richmond-Virginia-United-States-of-America/Testing-Engineering-Lead_JR00051477",
+        "location": "Richmond, Virginia, United States of America"
+      },
+      {
+        "title": "Engineering and Technical Services Manager",
+        "date": "2026-11-23",
+        "id": "workday:JR00053432",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-TN-Athens-260-Dennis-St/Engineering-and-Technical-Services-Manager_JR00053432",
+        "location": "USA, TN, Athens, 260 Dennis St."
+      },
+      {
+        "title": "Senior Legal Counsel",
+        "date": "2026-11-23",
+        "id": "workday:JR00053741",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Houston-Texas-United-States-of-America/Senior-Legal-Counsel_JR00053741",
+        "location": "2 Locations"
       }
     ],
     "Teradyne": [
@@ -78880,7 +78919,8 @@
         "date": "2026-10-22",
         "id": "ashby:78a49da9-b768-427e-ad01-3e61d80cfea8",
         "url": "https://jobs.ashbyhq.com/openai/78a49da9-b768-427e-ad01-3e61d80cfea8",
-        "location": "London, UK"
+        "location": "London, UK",
+        "closed": "2026-11-23"
       },
       {
         "title": "APAC Sales Development Leader",
@@ -83314,7 +83354,8 @@
         "date": "2026-11-04",
         "id": "ashby:73a111f9-e83d-4cce-9148-2a32ccf1d251",
         "url": "https://jobs.ashbyhq.com/openai/73a111f9-e83d-4cce-9148-2a32ccf1d251",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-23"
       },
       {
         "title": "Intercompany Accountant",
@@ -83498,7 +83539,8 @@
         "date": "2026-11-05",
         "id": "ashby:cda6eab0-edab-4dfc-8923-40ca3b0928b5",
         "url": "https://jobs.ashbyhq.com/openai/cda6eab0-edab-4dfc-8923-40ca3b0928b5",
-        "location": "San Francisco +1"
+        "location": "San Francisco +1",
+        "closed": "2026-11-23"
       },
       {
         "title": "Account Director, Startups | New Business - France",
@@ -84813,6 +84855,20 @@
         "id": "ashby:490c443e-d555-4fd0-a5c8-d754f6ba6d23",
         "url": "https://jobs.ashbyhq.com/openai/490c443e-d555-4fd0-a5c8-d754f6ba6d23",
         "location": "New York City"
+      },
+      {
+        "title": "Applied AI Engineer, Mid-Market Enterprise",
+        "date": "2026-11-23",
+        "id": "ashby:1af2996f-046c-466f-bf35-4b13da116af4",
+        "url": "https://jobs.ashbyhq.com/openai/1af2996f-046c-466f-bf35-4b13da116af4",
+        "location": "San Francisco +2"
+      },
+      {
+        "title": "Optical Mechanical Engineer",
+        "date": "2026-11-23",
+        "id": "ashby:0cbc1196-37ee-4c41-b02b-12653309a8f7",
+        "url": "https://jobs.ashbyhq.com/openai/0cbc1196-37ee-4c41-b02b-12653309a8f7",
+        "location": "San Francisco"
       }
     ],
     "John Deere": [
@@ -111966,7 +112022,8 @@
         "date": "N/A",
         "id": "bytedance:7672394389001816325",
         "url": "https://joinbytedance.com/search/7672394389001816325",
-        "location": "Seattle, WA"
+        "location": "Seattle, WA",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer Intern (AI Infra Compute) - 2027 Summer",
@@ -112078,7 +112135,8 @@
         "date": "N/A",
         "id": "bytedance:7671109787509213445",
         "url": "https://joinbytedance.com/search/7671109787509213445",
-        "location": "San Jose, CA"
+        "location": "San Jose, CA",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f Agent Evaluation & Evolution Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer",
@@ -112810,7 +112868,8 @@
         "id": "bytedance:7672398686110910773",
         "url": "https://joinbytedance.com/search/7672398686110910773",
         "location": "Seattle, WA",
-        "early": "Please state your availability and graduation date clearly in your resume."
+        "early": "Please state your availability and graduation date clearly in your resume.",
+        "closed": "2026-11-23"
       },
       {
         "title": "Multi-Cloud CDN Scheduling Platform Engineer Graduate (CDN Platform) - 2027 Start",
@@ -113137,7 +113196,8 @@
         "id": "bytedance:7672395094280063285",
         "url": "https://joinbytedance.com/search/7672395094280063285",
         "location": "Seattle, WA",
-        "early": "Please state your availability and graduation date clearly in your resume."
+        "early": "Please state your availability and graduation date clearly in your resume.",
+        "closed": "2026-11-23"
       },
       {
         "title": "Research Scientist Computational Imaging Graduate (Pico) - 2027 Start (PhD) - Graduate (PICO Lab) - 2027 Start (PhD)",
@@ -113241,7 +113301,8 @@
         "id": "bytedance:7671108456554432773",
         "url": "https://joinbytedance.com/search/7671108456554432773",
         "location": "San Jose, CA",
-        "early": "Please state your availability and graduation date clearly in your resume."
+        "early": "Please state your availability and graduation date clearly in your resume.",
+        "closed": "2026-11-23"
       },
       {
         "title": "Software Engineer Graduate (AML-Engine-Orchestration) - 2027 Start",
@@ -113619,7 +113680,8 @@
         "id": "bytedance:7671107540954777861",
         "url": "https://joinbytedance.com/search/7671107540954777861",
         "location": "San Jose, CA",
-        "early": "Please state your availability and graduation date clearly in your resume."
+        "early": "Please state your availability and graduation date clearly in your resume.",
+        "closed": "2026-11-23"
       },
       {
         "title": "ASIC Design Engineer Graduate (Video Silicon IP) - 2027 Start",
@@ -116723,7 +116785,8 @@
         "date": "N/A",
         "id": "workday:R26-6971",
         "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mequon-Wisconsin-United-States/Intern--Product-Management_R26-6971",
-        "location": "Mequon, Wisconsin, United States"
+        "location": "Mequon, Wisconsin, United States",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f Intern, Engineering (Independent Cart Technology)",
@@ -121803,7 +121866,8 @@
         "date": "N/A",
         "id": "eightfold:45106011",
         "url": "https://apply.hp.com/careers/job/45106011",
-        "location": "Fort Collins, CO"
+        "location": "Fort Collins, CO",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f Product Marketing Intern",
@@ -124591,6 +124655,13 @@
         "url": "https://www.bluerivertechnology.com/job/?gh_jid=8260048",
         "location": "Santa Clara, CA",
         "early": "Summary We are seeking a highly motivated individual to join our team as a junior/early-career Test Automation Engineer."
+      },
+      {
+        "title": "Sr Robotics Software Manager, Perception",
+        "date": "2026-11-23",
+        "id": "greenhouse:8412537",
+        "url": "https://www.bluerivertechnology.com/job/?gh_jid=8412537",
+        "location": "Remote-US"
       }
     ],
     "Lodestar": [
@@ -126531,6 +126602,20 @@
         "date": "2026-11-23",
         "id": "pinpoint:624818",
         "url": "https://impulsespace.pinpointhq.com/en/postings/48a65117-77e4-44aa-8e26-bf9680989fb0",
+        "location": "Redondo Beach, CA"
+      },
+      {
+        "title": "Ground Support Equipment Engineer",
+        "date": "2026-11-23",
+        "id": "pinpoint:624966",
+        "url": "https://impulsespace.pinpointhq.com/en/postings/eef4f244-592c-4ae4-af29-7cbe296a224d",
+        "location": "Redondo Beach, CA"
+      },
+      {
+        "title": "Optical Test Lead Engineer",
+        "date": "2026-11-23",
+        "id": "pinpoint:624972",
+        "url": "https://impulsespace.pinpointhq.com/en/postings/4e7b0f92-7315-4975-8afa-7c9926f5c332",
         "location": "Redondo Beach, CA"
       }
     ],
