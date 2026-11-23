@@ -1283,7 +1283,8 @@
         "date": "2026-11-02",
         "id": "eightfold:1970393557053024",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557053024",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-22"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer, Teamwork Experiences Internship Opportunities",
@@ -1326,7 +1327,8 @@
         "date": "2026-11-13",
         "id": "eightfold:1970393556986148",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556986148",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-22"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - AI Coding Agents",
@@ -52094,6 +52096,13 @@
         "id": "ashby:7324a3ee-666b-4c5f-afc8-7ec53a0f6157",
         "url": "https://jobs.ashbyhq.com/saronic/7324a3ee-666b-4c5f-afc8-7ec53a0f6157",
         "location": "Austin, TX"
+      },
+      {
+        "title": "Director of Growth Innovation",
+        "date": "2026-11-22",
+        "id": "ashby:a3312344-2cb9-40c0-b9a7-724de2fa97ee",
+        "url": "https://jobs.ashbyhq.com/saronic/a3312344-2cb9-40c0-b9a7-724de2fa97ee",
+        "location": "San Diego, CA"
       }
     ],
     "Built Robotics": [
@@ -57952,7 +57961,8 @@
         "date": "N/A",
         "id": "workday:R-103793-1",
         "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/High-Wycombe-Buckinghamshire-United-Kingdom/Clinical-Trial-Assistant---Student-Placement_R-103793-1",
-        "location": "2 Locations"
+        "location": "2 Locations",
+        "closed": "2026-11-22"
       },
       {
         "title": "Pharmazeut im Praktikum 2028",
@@ -119484,7 +119494,8 @@
         "date": "N/A",
         "id": "oraclehcm:182573",
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/182573",
-        "location": "Sao Paulo, Brazil"
+        "location": "Sao Paulo, Brazil",
+        "closed": "2026-11-22"
       },
       {
         "title": "\u2b50\ufe0f 2027 | Americas | San Francisco | Investment Banking | Summer Associate",
@@ -127351,6 +127362,10 @@
     "Samsung": {
       "since": "2026-11-22",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
+    },
+    "Nvidia": {
+      "since": "2026-11-22",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
     }
   },
   "closures_untracked": {
