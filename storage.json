@@ -1283,8 +1283,7 @@
         "date": "2026-11-02",
         "id": "eightfold:1970393557053024",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557053024",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-22"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer, Teamwork Experiences Internship Opportunities",
@@ -1327,8 +1326,7 @@
         "date": "2026-11-13",
         "id": "eightfold:1970393556986148",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556986148",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-22"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - AI Coding Agents",
@@ -17483,7 +17481,8 @@
         "date": "N/A",
         "id": "greenhouse:6207268004",
         "url": "https://boards.greenhouse.io/apptronik/jobs/6207268004?gh_jid=6207268004",
-        "location": "Austin, TX"
+        "location": "Austin, TX",
+        "closed": "2026-11-22"
       },
       {
         "title": "Senior Compensation Business Partner",
@@ -127355,10 +127354,6 @@
       "since": "2026-11-22",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
     },
-    "Razer": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
-    },
     "Samsung": {
       "since": "2026-11-22",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
@@ -127366,6 +127361,18 @@
     "Nvidia": {
       "since": "2026-11-22",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
+    },
+    "Blue Origin": {
+      "since": "2026-11-22",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/BlueOrigin/jobs"
+    },
+    "General Motors": {
+      "since": "2026-11-22",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
+    },
+    "Slate Auto": {
+      "since": "2026-11-22",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
     }
   },
   "closures_untracked": {
