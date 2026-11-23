@@ -43788,7 +43788,8 @@
         "date": "2026-10-20",
         "id": "ashby:9528d281-080c-4586-a5c1-d05a5ddf4081",
         "url": "https://jobs.ashbyhq.com/humanoid/9528d281-080c-4586-a5c1-d05a5ddf4081",
-        "location": "UK, London"
+        "location": "UK, London",
+        "closed": "2026-11-23"
       },
       {
         "title": "Robotics Simulation & RL Engineer",
@@ -67663,6 +67664,20 @@
         "id": "successfactors:1452817100",
         "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Customer-Production-Support-Engineer-%28Global-Customer-Service%29-San-Jose%2C-CA-CA-95101/1452817100/",
         "location": "San Jose, CA"
+      },
+      {
+        "title": "IT GRC & Resiliency Analyst II",
+        "date": "2026-11-23",
+        "id": "successfactors:1452913400",
+        "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-IT-GRC-&-Resiliency-Analyst-II-MA/1452913400/",
+        "location": "North Reading, MA"
+      },
+      {
+        "title": "Data Analytics Lead Engineer (Integrated System Test, North Reading)",
+        "date": "2026-11-23",
+        "id": "successfactors:1452913300",
+        "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Data-Analytics-Lead-Engineer-%28Integrated-System-Test%2C-North-Reading%29-MA/1452913300/",
+        "location": "North Reading, MA"
       }
     ],
     "KUKA": [
@@ -75156,18 +75171,21 @@
         "date": "2026-10-22",
         "id": "greenhouse:5011898101",
         "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=5011898101&gh_jid=5011898101",
-        "location": "Krakow, Poland"
+        "location": "Krakow, Poland",
+        "closed": "2026-11-23"
       },
       {
         "title": "Senior Data Engineer",
-        "date": "2026-10-22"
+        "date": "2026-10-22",
+        "closed": "2026-11-23"
       },
       {
         "title": "Senior Data Platform Engineer",
         "date": "2026-10-22",
         "id": "greenhouse:5001758101",
         "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=5001758101&gh_jid=5001758101",
-        "location": "Krakow, Poland"
+        "location": "Krakow, Poland",
+        "closed": "2026-11-23"
       },
       {
         "title": "Commercial Senior Finance Manager",
@@ -85619,7 +85637,8 @@
         "date": "2026-10-27",
         "id": "lever:9495066e-ebcc-49ed-bac5-0480be15753f",
         "url": "https://jobs.eu.lever.co/mobileye/9495066e-ebcc-49ed-bac5-0480be15753f",
-        "location": "Jerusalem, Israel"
+        "location": "Jerusalem, Israel",
+        "closed": "2026-11-23"
       },
       {
         "title": "Production Quality Engineer",
@@ -85938,7 +85957,8 @@
         "date": "2026-11-09",
         "id": "lever:02a48a84-5044-42c0-b179-cda1399dbdd2",
         "url": "https://jobs.eu.lever.co/mobileye/02a48a84-5044-42c0-b179-cda1399dbdd2",
-        "location": "Koblenz, Germany"
+        "location": "Koblenz, Germany",
+        "closed": "2026-11-23"
       },
       {
         "title": "Experienced Software Engineer - Data Infrastructure",
@@ -86081,14 +86101,16 @@
         "date": "2026-11-15",
         "id": "lever:0f7431cb-235a-4985-a57c-07d6cb2ceb45",
         "url": "https://jobs.eu.lever.co/mobileye/0f7431cb-235a-4985-a57c-07d6cb2ceb45",
-        "location": "Munich, Germany"
+        "location": "Munich, Germany",
+        "closed": "2026-11-23"
       },
       {
         "title": "System Integration and Testing Expert Cyber Focus (m/w/d)",
         "date": "2026-11-15",
         "id": "lever:3c6b8b90-1034-4027-864d-63fbf4660e53",
         "url": "https://jobs.eu.lever.co/mobileye/3c6b8b90-1034-4027-864d-63fbf4660e53",
-        "location": "Munich, Germany"
+        "location": "Munich, Germany",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f Algorithm Developer Student",
@@ -86263,6 +86285,13 @@
         "date": "2026-11-23",
         "id": "lever:4e512957-1993-4606-bd4e-4f271c38943b",
         "url": "https://jobs.eu.lever.co/mobileye/4e512957-1993-4606-bd4e-4f271c38943b",
+        "location": "Jerusalem, Israel"
+      },
+      {
+        "title": "Production Worker",
+        "date": "2026-11-23",
+        "id": "lever:9d4bd6c6-0545-46d9-ae8e-9cac047c5063",
+        "url": "https://jobs.eu.lever.co/mobileye/9d4bd6c6-0545-46d9-ae8e-9cac047c5063",
         "location": "Jerusalem, Israel"
       }
     ],
@@ -127435,6 +127464,70 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
+    },
+    "Nvidia": {
+      "since": "2026-11-23",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
+    },
+    "Blue Origin": {
+      "since": "2026-11-23",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/BlueOrigin/jobs"
+    },
+    "Snap": {
+      "since": "2026-11-23",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
+    },
+    "Workday": {
+      "since": "2026-11-23",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday_Early_Career/jobs"
+    },
+    "Slack": {
+      "since": "2026-11-23",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/Slack/jobs"
+    },
+    "Rockwell Automation": {
+      "since": "2026-11-23",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
+    },
+    "Visa": {
+      "since": "2026-11-23",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs"
+    },
+    "Unity": {
+      "since": "2026-11-23",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
+    },
+    "Razer": {
+      "since": "2026-11-23",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
+    },
+    "Leidos": {
+      "since": "2026-11-23",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://leidos.wd5.myworkdayjobs.com/wday/cxs/leidos/External/jobs"
+    },
+    "Target": {
+      "since": "2026-11-23",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
+    },
+    "Samsung": {
+      "since": "2026-11-23",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
+    },
+    "General Motors": {
+      "since": "2026-11-23",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
+    },
+    "Stryker": {
+      "since": "2026-11-23",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs"
+    },
+    "ABB": {
+      "since": "2026-11-23",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
+    },
+    "Slate Auto": {
+      "since": "2026-11-23",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
     }
   },
   "closures_untracked": {
