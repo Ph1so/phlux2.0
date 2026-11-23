@@ -908,7 +908,8 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557040333",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557040333",
-        "location": "United States, Massachusetts, Cambridge"
+        "location": "United States, Massachusetts, Cambridge",
+        "closed": "2026-11-22"
       },
       {
         "title": "\u2b50\ufe0f Cloud Network Engineering Internship Opportunities",
@@ -1404,7 +1405,8 @@
         "date": "2026-11-19",
         "id": "eightfold:1970393557076095",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557076095",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-22"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - AI Safety, Alignment, and Post-Training",
@@ -16750,7 +16752,8 @@
         "date": "N/A",
         "id": "greenhouse:7834591003",
         "url": "https://motional.com/open-positions/?gh_jid=7834591003#/7834591003",
-        "location": "Singapore, Central, Singapore"
+        "location": "Singapore, Central, Singapore",
+        "closed": "2026-11-22"
       },
       {
         "title": "Senior Manager, Commercial Product Development",
@@ -57808,7 +57811,8 @@
         "date": "N/A",
         "id": "workday:R-108903",
         "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Shanghai-China/Channel-Compliance-Intern_R-108903",
-        "location": "Shanghai, China"
+        "location": "Shanghai, China",
+        "closed": "2026-11-22"
       },
       {
         "title": "\u2b50\ufe0f External Research Student Placement 2027",
@@ -110107,6 +110111,13 @@
         "id": "bytedance:7709668540185856261",
         "url": "https://lifeattiktok.com/search/7709668540185856261",
         "location": "San Jose, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Client Security & Data Foundation Software Engineer - Intern (TikTok BRIC) - 2027 Start",
+        "date": "2026-11-22",
+        "id": "bytedance:7705023349533346101",
+        "url": "https://lifeattiktok.com/search/7705023349533346101",
+        "location": "San Jose, CA"
       }
     ],
     "MongoDB": [
@@ -127354,25 +127365,21 @@
       "since": "2026-11-22",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
     },
-    "Samsung": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
-    },
-    "Nvidia": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
-    },
-    "Blue Origin": {
-      "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/BlueOrigin/jobs"
-    },
     "General Motors": {
       "since": "2026-11-22",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
     },
-    "Slate Auto": {
+    "Snap": {
       "since": "2026-11-22",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
+    },
+    "Unity": {
+      "since": "2026-11-22",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
+    },
+    "Stryker": {
+      "since": "2026-11-22",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs"
     }
   },
   "closures_untracked": {
