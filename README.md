@@ -12,7 +12,7 @@
 <p>
   <a href="https://ph1so.github.io/phlux2.0/"><img src="https://img.shields.io/badge/browse-internships-1f5fff?style=flat-square" alt="Browse internships"></a>
   <a href="https://github.com/Ph1so/phlux2.0/actions/workflows/job-scraper.yml"><img src="https://img.shields.io/github/actions/workflow/status/Ph1so/phlux2.0/job-scraper.yml?branch=main&style=flat-square&label=scraper" alt="Scraper status"></a>
-  <img src="https://img.shields.io/badge/roles_tracked-39k-475467?style=flat-square" alt="39,009 roles tracked">
+  <img src="https://img.shields.io/badge/roles_tracked-39k-475467?style=flat-square" alt="39,014 roles tracked">
 </p>
 
 <p><a href="https://ph1so.github.io/phlux2.0/"><b>Website</b></a> &nbsp;·&nbsp; <a href="listings/README.md"><b>All listings</b></a></p>
@@ -21,7 +21,7 @@
 
 ## Latest roles
 
-Showing the 560 most recent of 39,009 roles tracked across 295 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
+Showing the 562 most recent of 39,014 roles tracked across 295 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
 
 
 <table>
@@ -34,6 +34,20 @@ Showing the 560 most recent of 39,009 roles tracked across 295 companies. ⭐️
   </thead>
   <tbody>
 
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.metacareers.com/jobsearch/?roles[0]=Internship"><img src="https://cdn.brandfetch.io/meta.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Meta" height="20" style="vertical-align:middle; margin-right:6px;"> Meta</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.metacareers.com/profile/job_details/1296888565955935/">⭐️ Research Scientist Intern, uLED Display Characterization (PhD)</a></div></td>
+  <td>2026-11-23</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.irobot.com/search-jobs"><img src="https://cdn.brandfetch.io/irobot.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="iRobot" height="20" style="vertical-align:middle; margin-right:6px;"> iRobot</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.irobot.com/job/united-states/customer-care-program-coordinator/42682/103685412896">Customer Care Program Coordinator</a></div></td>
+  <td>2026-11-23</td>
+</tr>
   <tr>
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.google.com/about/careers/applications/jobs/results?company=DeepMind"><img src="https://cdn.brandfetch.io/deepmind.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="DeepMind" height="20" style="vertical-align:middle; margin-right:6px;"> DeepMind</a></div>
@@ -92,6 +106,13 @@ Showing the 560 most recent of 39,009 roles tracked across 295 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=ocadogroup"><img src="https://cdn.brandfetch.io/ocado.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Ocado" height="20" style="vertical-align:middle; margin-right:6px;"> Ocado</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ocadogroup.com/jobs/details?gh_jid=5042296101&amp;gh_jid=5042296101">Commercial Finance Manager</a></div></td>
+  <td>2026-11-23</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site?workerSubType=a111b0a898f10129e4db58f2e700d97a"><img src="https://cdn.brandfetch.io/northropgrumman.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Northrop Grumman" height="20" style="vertical-align:middle; margin-right:6px;"> Northrop Grumman</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern---Roy-UT_R10261728">⭐️ 2027 Software Test Engineering Intern - Roy UT</a></div></td>
@@ -123,6 +144,20 @@ Showing the 560 most recent of 39,009 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.eu.lever.co/mobileye"><img src="https://cdn.brandfetch.io/mobileye.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mobileye" height="20" style="vertical-align:middle; margin-right:6px;"> Mobileye</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.eu.lever.co/mobileye/52e503fe-c6a7-4df9-bd51-eb187a286716">AV Perception Product Manager</a></div></td>
+  <td>2026-11-23</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh?workerSubType=247b1d93650401bb5dd910235911ff06&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/oshkoshcorp.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Oshkosh" height="20" style="vertical-align:middle; margin-right:6px;"> Oshkosh</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Product-Intern---Summer-2027_R50276">⭐️ Product Intern - Summer 2027</a></div></td>
+  <td>2026-11-23</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.mitre.org/us/en/search-results?keywords=student"><img src="https://cdn.brandfetch.io/mitre.org/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mitre" height="20" style="vertical-align:middle; margin-right:6px;"> Mitre</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.mitre.org/us/en/job/R118104/Sensor-Engineer-Intern">⭐️ Sensor Engineer - Intern</a></div></td>
   <td>2026-11-23</td>
 </tr>
   <tr>
@@ -3931,27 +3966,6 @@ Showing the 560 most recent of 39,009 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Houston-Texas-United-States-of-America/Sales---Business-Development-Manager--High-Speed-Synchronous-Motors---Generators_JR00051936">Sales & Business Development Manager, High Speed Synchronous Motors & Generators</a></div></td>
-  <td>2026-11-18</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MS-Byhalia/Distribution-Warehouse-Supervisor---2nd-Shift_JR00053196">Distribution Warehouse Supervisor - 2nd Shift</a></div></td>
-  <td>2026-11-18</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MI-Auburn-Hills/Robotics-Project-Manager---Consumer-Industries_JR00051917">Robotics Project Manager - Consumer Industries</a></div></td>
-  <td>2026-11-18</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.teradyne.com/teradyne/search/?q=&locationsearch=United+States&sortColumn=referencedate&sortDirection=desc"><img src="https://cdn.brandfetch.io/teradyne.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Teradyne" height="20" style="vertical-align:middle; margin-right:6px;"> Teradyne</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.teradyne.com/Teradyne/job/North-Reading-Engineering-Project-Manager-%28Defense-&amp;-Aerospace%2C-North-Reading%2C-MA%29-MA/1451735500/">Engineering Project Manager (Defense & Aerospace, North Reading, MA)</a></div></td>
   <td>2026-11-18</td>
 </tr>
 
