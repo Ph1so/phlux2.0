@@ -2909,6 +2909,13 @@
         "id": "amazon:10611936",
         "url": "https://www.amazon.jobs/en/jobs/10611936/pr-specialist-aws-press-office-aws-global-communications-aws-corporate-communications",
         "location": "Seattle, WA +1"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Development Engineer Intern - Artificial General Intelligence (Summer 2027)",
+        "date": "2026-11-23",
+        "id": "amazon:10606968",
+        "url": "https://www.amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027",
+        "location": "Sunnyvale, CA +3"
       }
     ],
     "Meta": [
@@ -3693,7 +3700,8 @@
         "date": "2026-10-26",
         "id": "meta:1649069223327170",
         "url": "https://www.metacareers.com/profile/job_details/1649069223327170/",
-        "location": "Sunnyvale, CA +1"
+        "location": "Sunnyvale, CA +1",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, Generative Recommendation Systems (PhD)",
@@ -6947,6 +6955,13 @@
         "date": "2026-11-20",
         "id": "jibe:37510",
         "url": "https://careers.rivian.com/careers-home/jobs/37510",
+        "location": "Irvine, CA"
+      },
+      {
+        "title": "Early Career- Global Supply Manager, Fasteners",
+        "date": "2026-11-23",
+        "id": "jibe:37655",
+        "url": "https://careers.rivian.com/careers-home/jobs/37655",
         "location": "Irvine, CA"
       }
     ],
@@ -11303,7 +11318,8 @@
         "date": "2026-10-28",
         "id": "smartrecruiters:744000158313717",
         "url": "https://jobs.smartrecruiters.com/Intuitive/744000158313717",
-        "location": "Sunnyvale, CA"
+        "location": "Sunnyvale, CA",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f Reinforcement Learning Intern",
@@ -15799,6 +15815,20 @@
         "id": "greenhouse:8950251002",
         "url": "https://boards.greenhouse.io/pathrobotics/jobs/8950251002?gh_jid=8950251002",
         "location": "Columbus, Ohio"
+      },
+      {
+        "title": "Accounts Payable & Billing Specialist",
+        "date": "2026-11-23",
+        "id": "greenhouse:8959009002",
+        "url": "https://boards.greenhouse.io/pathrobotics/jobs/8959009002?gh_jid=8959009002",
+        "location": "Columbus, OH"
+      },
+      {
+        "title": "Welding Solutions Sales Engineer",
+        "date": "2026-11-23",
+        "id": "greenhouse:8950674002",
+        "url": "https://boards.greenhouse.io/pathrobotics/jobs/8950674002?gh_jid=8950674002",
+        "location": "Columbus, Ohio"
       }
     ],
     "Figure AI": [
@@ -20233,15 +20263,18 @@
         "date": "N/A",
         "id": "greenhouse:8755629002",
         "url": "https://job-boards.greenhouse.io/maymobility/jobs/8755629002",
-        "location": "Atlanta, GA - Onsite"
+        "location": "Atlanta, GA - Onsite",
+        "closed": "2026-11-23"
       },
       {
         "title": "Autonomous Vehicle Operations Specialist",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-23"
       },
       {
         "title": "Autonomous Vehicle Operations Specialist",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-23"
       },
       {
         "title": "Autonomous Vehicle Operations Specialist II",
@@ -20291,7 +20324,8 @@
         "date": "N/A",
         "id": "greenhouse:8631044002",
         "url": "https://job-boards.greenhouse.io/maymobility/jobs/8631044002",
-        "location": "Ann Arbor, MI - Hybrid"
+        "location": "Ann Arbor, MI - Hybrid",
+        "closed": "2026-11-23"
       },
       {
         "title": "Senior Product Safety Architect II",
@@ -21064,7 +21098,8 @@
         "date": "N/A",
         "id": "ashby:e17fa4e1-00ef-455e-abd7-ed0727b1e7f8",
         "url": "https://jobs.ashbyhq.com/aurora-operations-inc/e17fa4e1-00ef-455e-abd7-ed0727b1e7f8",
-        "location": "Dallas, TX"
+        "location": "Dallas, TX",
+        "closed": "2026-11-23"
       },
       {
         "title": "Tactical Development Truck Operator",
@@ -21445,7 +21480,8 @@
         "date": "2026-11-16",
         "id": "ashby:35769ba2-aa95-42bb-b5c5-9eed3c06d30e",
         "url": "https://jobs.ashbyhq.com/aurora-operations-inc/35769ba2-aa95-42bb-b5c5-9eed3c06d30e",
-        "location": "Coppell, TX"
+        "location": "Coppell, TX",
+        "closed": "2026-11-23"
       },
       {
         "title": "Senior System Analyst, NetSuite Supply Chain",
@@ -41061,7 +41097,8 @@
         "date": "2026-10-16",
         "id": "ashby:7a55ee96-e732-4ada-a86c-3fbfb969f8aa",
         "url": "https://jobs.ashbyhq.com/applied/7a55ee96-e732-4ada-a86c-3fbfb969f8aa",
-        "location": "Poway, CA"
+        "location": "Poway, CA",
+        "closed": "2026-11-23"
       },
       {
         "title": "Hardware Systems Lead, Drone",
@@ -55551,7 +55588,8 @@
         "date": "2026-11-10",
         "id": "rippling:307979c5-973c-448e-a6ee-7fd798b3b3b2",
         "url": "https://ats.rippling.com/mytra/jobs/307979c5-973c-448e-a6ee-7fd798b3b3b2",
-        "location": "Brisbane, CA"
+        "location": "Brisbane, CA",
+        "closed": "2026-11-23"
       },
       {
         "title": "Software Engineer",
@@ -60453,8 +60491,7 @@
         "date": "2026-11-23",
         "id": "workday:2026-R356",
         "url": "https://proceptbiorobotics.wd108.myworkdayjobs.com/PROCEPT/job/California---San-Jose/Director--Commercial-Intelligence---Advanced-Analytics_2026-R356",
-        "location": "California - San Jose",
-        "closed": "2026-11-23"
+        "location": "California - San Jose"
       }
     ],
     "Miso Robotics": [
@@ -65558,8 +65595,7 @@
         "date": "2026-10-14",
         "id": "successfactors:1439867900",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Software-Engineer-%28Compute-Test%2C-North-Reading%29-MA/1439867900/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Senior Mechanical Engineer (Teradyne, North Reading, MA)",
@@ -65573,8 +65609,7 @@
         "date": "2026-10-14",
         "id": "successfactors:1392829100",
         "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Senior-Field-Service-Engineer-%28GCS-Field-San-Jose%2C-CA%29-CA-95101/1392829100/",
-        "location": "San Jose, CA",
-        "closed": "2026-11-23"
+        "location": "San Jose, CA"
       },
       {
         "title": "Field Application Engineer (SEG, Austin)",
@@ -65593,16 +65628,14 @@
         "date": "2026-10-14",
         "id": "successfactors:1392849400",
         "url": "https://jobs.teradyne.com/Universal-Robots/job/North-Reading-Global-Tech-Lead-for-Salesforce-%28TER-Robotics%2C-North-Reading%2C-MA%29-MA/1392849400/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Supply Line Engineer (TERADYNE, North Reading, MA)",
         "date": "2026-10-14",
         "id": "successfactors:1376112400",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Supply-Line-Engineer-%28TERADYNE%2C-North-Reading%2C-MA%29-MA/1376112400/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Hardware Engineer, (Defense & Aerospace, North Reading, MA)",
@@ -65616,8 +65649,7 @@
         "date": "2026-10-14",
         "id": "successfactors:1439496600",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Lab-Manager-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1439496600/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Mechanical Quality Engineer (Teradyne, Agoura Hills, CA)",
@@ -65629,24 +65661,21 @@
         "date": "2026-10-14",
         "id": "successfactors:1439534700",
         "url": "https://jobs.teradyne.com/Teradyne/job/Agoura-Hills-Thermal-Engineer-%28Teradyne%2C-Agoura-Hills%2C-CA%29-CA-91301/1439534700/",
-        "location": "Agoura Hills, CA",
-        "closed": "2026-11-23"
+        "location": "Agoura Hills, CA"
       },
       {
         "title": "Senior Software Engineer (Integrated System Test, North Reading)",
         "date": "2026-10-14",
         "id": "successfactors:1439486100",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Senior-Software-Engineer-%28Integrated-System-Test%2C-North-Reading%29-MA/1439486100/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Software Engineer (Integrated System Test, North Reading)",
         "date": "2026-10-14",
         "id": "successfactors:1439485900",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Software-Engineer-%28Integrated-System-Test%2C-North-Reading%29-MA/1439485900/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Software Engineer (Memory Test, San Jose, CA)",
@@ -65655,24 +65684,21 @@
       },
       {
         "title": "Thermal Engineer (Teradyne, Agoura Hills, CA)",
-        "date": "2026-10-14",
-        "closed": "2026-11-23"
+        "date": "2026-10-14"
       },
       {
         "title": "Mechanical Engineer (Teradyne, Agoura Hills, CA)",
         "date": "2026-10-14",
         "id": "successfactors:1439513600",
         "url": "https://jobs.teradyne.com/Teradyne/job/Agoura-Hills-Mechanical-Engineer-%28Teradyne%2C-Agoura-Hills%2C-CA%29-CA-91301/1439513600/",
-        "location": "Agoura Hills, CA",
-        "closed": "2026-11-23"
+        "location": "Agoura Hills, CA"
       },
       {
         "title": "Hardware Verification Engineer, New College Graduate, (Teradyne, North Reading, MA)",
         "date": "2026-10-14",
         "id": "successfactors:1439675600",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Hardware-Verification-Engineer%2C-New-College-Graduate%2C-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1439675600/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "RTL Design Engineer (TERADYNE, North Reading, MA)",
@@ -65686,8 +65712,7 @@
         "date": "2026-10-14",
         "id": "successfactors:1392434800",
         "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Senior-Software-Engineer-Tech-Lead-%28Memory-Test%2C-San-Jose%2C-CA%29-CA-95101/1392434800/",
-        "location": "San Jose, CA +1",
-        "closed": "2026-11-23"
+        "location": "San Jose, CA +1"
       },
       {
         "title": "Senior FPGA Architect (Compute Test, North Reading)",
@@ -65699,16 +65724,14 @@
         "date": "2026-10-14",
         "id": "successfactors:1410133800",
         "url": "https://jobs.teradyne.com/Teradyne/job/Tualatin-Digital-Verification-Engineer-Lead-%28MTD%2C-Tualatin%2C-OR%29-OR/1410133800/",
-        "location": "Tualatin, OR",
-        "closed": "2026-11-23"
+        "location": "Tualatin, OR"
       },
       {
         "title": "Digital Verification Engineer (MTD, San Jose, CA)",
         "date": "2026-10-14",
         "id": "successfactors:1410125900",
         "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Digital-Verification-Engineer-%28MTD%2C-San-Jose%2C-CA%29-CA-95101/1410125900/",
-        "location": "San Jose, CA",
-        "closed": "2026-11-23"
+        "location": "San Jose, CA"
       },
       {
         "title": "Analog Design Engineer (TERADYNE, Agoura Hills, CA)",
@@ -65741,24 +65764,21 @@
         "date": "2026-10-14",
         "id": "successfactors:1430163900",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-SupplierPlanner-%28Teradyne%2C-N_-Reading-MA%29-MA/1430163900/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Sr. Packaging Engineer (TERADYNE, North Reading, MA)",
         "date": "2026-10-14",
         "id": "successfactors:1420393900",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Sr_-Packaging-Engineer-%28TERADYNE%2C-North-Reading%2C-MA%29-MA/1420393900/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Software Engineering Manager (Innovation Lab, North Reading)",
         "date": "2026-10-14",
         "id": "successfactors:1430421900",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Software-Engineering-Manager-%28Innovation-Lab%2C-North-Reading%29-MA/1430421900/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Manufacturing Engineer (TERADYNE, North Reading, MA)",
@@ -65784,16 +65804,14 @@
       },
       {
         "title": "Supplier/Planner (Teradyne, N. Reading MA)",
-        "date": "2026-10-14",
-        "closed": "2026-11-23"
+        "date": "2026-10-14"
       },
       {
         "title": "Optical Engineering Manager (Teradyne, North Reading, MA)",
         "date": "2026-10-14",
         "id": "successfactors:1430269000",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Optical-Engineering-Manager-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1430269000/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Mechanical Engineer (Teradyne, North Reading, MA)",
@@ -65804,16 +65822,14 @@
         "date": "2026-10-14",
         "id": "successfactors:1393526900",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Engineering-Lab-Assistant-%28Teradyne%2C-North-Reading%2C-MA-MA/1393526900/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Senior Systems Quality Engineer (Integrated System Test, Sunnyvale)",
         "date": "2026-10-14",
         "id": "successfactors:1418018200",
         "url": "https://jobs.teradyne.com/Teradyne/job/Sunnyvale-Senior-Systems-Quality-Engineer-%28Integrated-System-Test%2C-Sunnyvale%29-CA-94085/1418018200/",
-        "location": "Sunnyvale, CA",
-        "closed": "2026-11-23"
+        "location": "Sunnyvale, CA"
       },
       {
         "title": "Robotics Software Engineer (Integrated System Test, North Reading)",
@@ -65825,16 +65841,14 @@
         "date": "2026-10-14",
         "id": "successfactors:1430158900",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Data-Governance-Analyst-%28Teradyne%2C-North-Reading%29-MA/1430158900/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "ASIC Verification Engineer (TERADYNE, North Reading, MA)",
         "date": "2026-10-14",
         "id": "successfactors:1430378300",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-ASIC-Verification-Engineer-%28TERADYNE%2C-North-Reading%2C-MA%29-MA/1430378300/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "NPI Manufacturing Engineer (TERADYNE, Agoura Hills, CA)",
@@ -65846,16 +65860,14 @@
         "date": "2026-10-14",
         "id": "successfactors:1419938800",
         "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Field-Application-Engineer-Technical-Pre-Sales-%28Teradyne%2C-San-Jose%2C-CA%29-CA-95101/1419938800/",
-        "location": "San Jose, CA",
-        "closed": "2026-11-23"
+        "location": "San Jose, CA"
       },
       {
         "title": "Hardware Engineering Manager (MEMORY TEST DIVISION, San Jose, CA)",
         "date": "2026-10-14",
         "id": "successfactors:1420149900",
         "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Hardware-Engineering-Manager-%28MEMORY-TEST-DIVISION%2C-San-Jose%2C-CA%29-CA-95101/1420149900/",
-        "location": "San Jose, CA",
-        "closed": "2026-11-23"
+        "location": "San Jose, CA"
       },
       {
         "title": "Throughput Architect (Compute Test, North Reading)",
@@ -65867,8 +65879,7 @@
         "date": "2026-10-14",
         "id": "successfactors:1440131800",
         "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Sales-Support-Administrator-%28Teradyne%2C-San-Jose%2C-CA%29-CA-95101/1440131800/",
-        "location": "San Jose, CA",
-        "closed": "2026-11-23"
+        "location": "San Jose, CA"
       },
       {
         "title": "Head of Application Engineering, North America (Teradyne Robotics, US remote)",
@@ -65885,16 +65896,14 @@
         "date": "2026-10-15",
         "id": "successfactors:1367838300",
         "url": "https://jobs.teradyne.com/Universal-Robots/job/North-Reading-Technical-Engineering-Manager%2C-Physical-AI-Solutions-%28UR-&-MiR%2C-North-Reading%2C-MA%29-MA/1367838300/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Senior QA Validation Engineer for AI Initiatives (Teradyne, North Reading, MA)",
         "date": "2026-10-15",
         "id": "successfactors:1420853500",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Senior-QA-Validation-Engineer-for-AI-Initiatives-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1420853500/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Global Key Account Manager (Teradyne Robotics, Seattle WA remote)",
@@ -65918,8 +65927,7 @@
         "date": "2026-10-15",
         "id": "successfactors:1440730000",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Automated-Test-Applications-Architect-%28Mil-Aero-Software-Development%2C-System-Design-&-Integration%29-MA/1440730000/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Operations Project Manager (TERADYNE, Agoura Hills, CA)",
@@ -65941,48 +65949,42 @@
         "date": "2026-10-16",
         "id": "successfactors:1431018300",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Product-Engineering-Manager%2C-Customer-Solutions-%28IST%2C-North-Reading%2C-MA%29-MA/1431018300/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Supply Line Engineer - Signal Delivery (Teradyne, Agoura Hills, CA)",
         "date": "2026-10-16",
         "id": "successfactors:1431079000",
         "url": "https://jobs.teradyne.com/Teradyne/job/Agoura-Hills-Supply-Line-Engineer-Signal-Delivery-%28Teradyne%2C-Agoura-Hills%2C-CA%29-CA-91301/1431079000/",
-        "location": "Agoura Hills, CA",
-        "closed": "2026-11-23"
+        "location": "Agoura Hills, CA"
       },
       {
         "title": "Test Engineer (Teradyne, North Reading, MA)",
         "date": "2026-10-16",
         "id": "successfactors:1431031700",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Test-Engineer-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1431031700/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Field Application Engineer (SEG; Arizona)",
         "date": "2026-10-16",
         "id": "successfactors:1431016200",
         "url": "https://jobs.teradyne.com/Teradyne/job/Chandler-Field-Application-Engineer-%28SEG-Arizona%29-AZ-85224/1431016200/",
-        "location": "Chandler, AZ",
-        "closed": "2026-11-23"
+        "location": "Chandler, AZ"
       },
       {
         "title": "Mechanical - Supply Line Engineer (Teradyne, North Reading, MA)",
         "date": "2026-10-16",
         "id": "successfactors:1431101000",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Mechanical-Supply-Line-Engineer-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1431101000/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Electro-Mechanical - Supply Line Engineer (Teradyne, Agoura Hills, CA)",
         "date": "2026-10-16",
         "id": "successfactors:1431110300",
         "url": "https://jobs.teradyne.com/Teradyne/job/Agoura-Hills-Electro-Mechanical-Supply-Line-Engineer-%28Teradyne%2C-Agoura-Hills%2C-CA%29-CA-91301/1431110300/",
-        "location": "Agoura Hills, CA",
-        "closed": "2026-11-23"
+        "location": "Agoura Hills, CA"
       },
       {
         "title": "Senior Product Compliance Engineer (TERADYNE, Agoura Hills, CA)",
@@ -65999,21 +66001,18 @@
         "date": "2026-10-16",
         "id": "successfactors:1420883200",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Photonics-Field-Product-Specialist-Technical-Pre-Sales-%28Teradyne%2C-Austin%2C-TX-OR-North-Reading%2C-MA%29-MA/1420883200/",
-        "location": "North Reading, MA +1",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA +1"
       },
       {
         "title": "Systems Engineer - Field Integration (SiPh Test Solutions, North Reading, MA)",
         "date": "2026-10-16",
         "id": "successfactors:1420893200",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Systems-Engineer-Field-Integration-%28SiPh-Test-Solutions%2C-North-Reading%2C-MA%29-MA/1420893200/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Systems Engineer - Field Integration (SiPh Test Solutions, North Reading, MA)",
-        "date": "2026-10-16",
-        "closed": "2026-11-23"
+        "date": "2026-10-16"
       },
       {
         "title": "Senior EMC/EMI Compliance Engineer (TERADYNE, North Reading, MA)",
@@ -66030,8 +66029,7 @@
         "date": "2026-10-16",
         "id": "successfactors:1440995900",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Software-Engineer-C-%28SiPh-Test-Solutions%2C-North-Reading%2C-MA%29-MA/1440995900/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Senior Calibration Engineer (Compute Test, Agoura Hills, CA)",
@@ -66066,24 +66064,21 @@
         "date": "2026-10-17",
         "id": "successfactors:1431595700",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Senior-SignalPower-Integrity-Engineer%2C-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1431595700/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Product Compliance Engineer (TERADYNE, North Reading, MA)",
         "date": "2026-10-17",
         "id": "successfactors:1411455600",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Product-Compliance-Engineer-%28TERADYNE%2C-North-Reading%2C-MA%29-MA/1411455600/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Hardware Engineer (Memory Test Division, San Jose, CA)",
         "date": "2026-10-17",
         "id": "successfactors:1411741100",
         "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Hardware-Engineer-%28Memory-Test-Division%2C-San-Jose%2C-CA%29-CA-95101/1411741100/",
-        "location": "San Jose, CA",
-        "closed": "2026-11-23"
+        "location": "San Jose, CA"
       },
       {
         "title": "Training Developer (Teradyne, N. Reading MA)",
@@ -66100,8 +66095,7 @@
         "date": "2026-10-17",
         "id": "successfactors:1441106000",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Oracle-Fusion-Release-Manager-%28BPIT%2C-North-Reading%29-MA/1441106000/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Senior Business Analyst (Teradyne, San Jose, CA)",
@@ -66113,16 +66107,14 @@
         "date": "2026-10-18",
         "id": "successfactors:1421876800",
         "url": "https://jobs.teradyne.com/Teradyne/job/Agoura-Hills-Sr_-Analog-Design-Engineer-%28TERADYNE%2C-Agoura-Hills%2C-CA%29-CA-91301/1421876800/",
-        "location": "Agoura Hills, CA",
-        "closed": "2026-11-23"
+        "location": "Agoura Hills, CA"
       },
       {
         "title": "Senior Product and Segment Manager (Teradyne, San Jose, CA)",
         "date": "2026-10-18",
         "id": "successfactors:1403113200",
         "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Senior-Product-and-Segment-Manager-%28Teradyne%2C-San-Jose%2C-CA%29-CA-95101/1403113200/",
-        "location": "San Jose, CA",
-        "closed": "2026-11-23"
+        "location": "San Jose, CA"
       },
       {
         "title": "Sr. System Quality Engineer (Integrated System Test, North Reading)",
@@ -66142,8 +66134,7 @@
         "date": "2026-10-19",
         "id": "successfactors:1412392400",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Technical-Program-Manager-Silicon-Photonics-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1412392400/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Process Development Engineer (TERADYNE, Agoura Hills, CA)",
@@ -66160,16 +66151,14 @@
         "date": "2026-10-19",
         "id": "successfactors:1441382800",
         "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Mechanical-Engineering-Manager-%28Memory-Test%2C-San-Jose%2C-CA%29-CA-95101/1441382800/",
-        "location": "San Jose, CA",
-        "closed": "2026-11-23"
+        "location": "San Jose, CA"
       },
       {
         "title": "Strategic Business Development Manager (Defense & Aerospace, North Reading)",
         "date": "2026-10-19",
         "id": "successfactors:1441473300",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Strategic-Business-Development-Manager-%28Defense-&-Aerospace%2C-North-Reading%29-MA/1441473300/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Optical Systems Engineer",
@@ -66211,8 +66200,7 @@
         "date": "2026-10-20",
         "id": "successfactors:1421436600",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Training-Developer-%28Teradyne%2C-N_-Reading-MA-Agoura-Hills-CA-Deer-Park-IL%29-MA/1421436600/",
-        "location": "North Reading, MA +2",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA +2"
       },
       {
         "title": "Mechanical Engineer, New College Graduate, (Teradyne, North Reading, MA)",
@@ -66370,16 +66358,14 @@
         "date": "N/A",
         "id": "successfactors:1429903500",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Senior-Material-Planner-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1429903500/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Senior Compensation Analyst (Teradyne, North Reading, MA)",
         "date": "N/A",
         "id": "successfactors:1449691900",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Senior-Compensation-Analyst-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1449691900/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Director Supply and Demand Planning (Teradyne, North Reading, MA)",
@@ -67387,64 +67373,56 @@
         "date": "N/A",
         "id": "successfactors:1444748000",
         "url": "https://jobs.teradyne.com/Teradyne/job/Sunnyvale-Senior-Robotics-Software-Engineer-%28Integrated-System-Test%2C-Sunnyvale%29-CA-94085/1444748000/",
-        "location": "Sunnyvale, CA",
-        "closed": "2026-11-23"
+        "location": "Sunnyvale, CA"
       },
       {
         "title": "Technical Writer, New College Graduate, (Teradyne, North Reading, MA)",
         "date": "N/A",
         "id": "successfactors:1444529800",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Technical-Writer%2C-New-College-Graduate%2C-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1444529800/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Senior Robotics Software Engineer (Integrated System Test, North Reading)",
         "date": "N/A",
         "id": "successfactors:1444769700",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Senior-Robotics-Software-Engineer-%28Integrated-System-Test%2C-North-Reading%29-MA/1444769700/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Senior Mechanical Engineer (Teradyne, Agoura Hills, CA)",
         "date": "N/A",
         "id": "successfactors:1434477800",
         "url": "https://jobs.teradyne.com/Teradyne/job/Agoura-Hills-Senior-Mechanical-Engineer-%28Teradyne%2C-Agoura-Hills%2C-CA%29-CA-91301/1434477800/",
-        "location": "Agoura Hills, CA",
-        "closed": "2026-11-23"
+        "location": "Agoura Hills, CA"
       },
       {
         "title": "Engineering Program Lead - Silicon Photonics (Teradyne, North Reading, MA)",
         "date": "N/A",
         "id": "successfactors:1434460600",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Engineering-Program-Lead-Silicon-Photonics-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1434460600/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Product Manager, Test Cell (Teradyne, MA, CA, OR)",
         "date": "N/A",
         "id": "successfactors:1434533400",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Product-Manager%2C-Test-Cell-%28Teradyne%2C-MA%2C-CA%2C-OR%29-MA/1434533400/",
-        "location": "North Reading, MA +4",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA +4"
       },
       {
         "title": "Senor Mixed-Signal System Design Engineer (Compute Test Division: N. Reading, MA))",
         "date": "N/A",
         "id": "successfactors:1380319000",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Senor-Mixed-Signal-System-Design-Engineer-%28Compute-Test-Division-N_-Reading%2C-MA%29%29-MA/1380319000/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Senior Hardware Engineer (Teradyne, San Jose, CA)",
         "date": "N/A",
         "id": "successfactors:1397000400",
         "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Senior-Hardware-Engineer-%28Teradyne%2C-San-Jose%2C-CA%29-CA-95101/1397000400/",
-        "location": "San Jose, CA",
-        "closed": "2026-11-23"
+        "location": "San Jose, CA"
       },
       {
         "title": "Sr. Staff Hardware Engineer (Teradyne, San Jose, CA)",
@@ -67459,16 +67437,14 @@
         "date": "N/A",
         "id": "successfactors:1396995700",
         "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Principal-Hardware-Engineer-%28Teradyne%2C-San-Jose%2C-CA%29-CA-95101/1396995700/",
-        "location": "San Jose, CA",
-        "closed": "2026-11-23"
+        "location": "San Jose, CA"
       },
       {
         "title": "Memory Test Business Development Manager (MTD, San Jose, CA)",
         "date": "N/A",
         "id": "successfactors:1397030500",
         "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Memory-Test-Business-Development-Manager-%28MTD%2C-San-Jose%2C-CA%29-CA-95101/1397030500/",
-        "location": "San Jose, CA",
-        "closed": "2026-11-23"
+        "location": "San Jose, CA"
       },
       {
         "title": "Senior Hardware Circuit Design Engineer (Memory Test, Teradyne, Tualatin, OR)",
@@ -67482,72 +67458,63 @@
         "date": "N/A",
         "id": "successfactors:1444041900",
         "url": "https://jobs.teradyne.com/Teradyne/job/Plano-Product-Support-Team-Leader-%28GCS-Plano%2C-TX%29-TX/1444041900/",
-        "location": "Plano, TX",
-        "closed": "2026-11-23"
+        "location": "Plano, TX"
       },
       {
         "title": "Applications Engineer - Rotational Development Program, New College Graduate, (North Reading, MA)",
         "date": "N/A",
         "id": "successfactors:1444242500",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Applications-Engineer-Rotational-Development-Program%2C-New-College-Graduate%2C-%28North-Reading%2C-MA%29-MA/1444242500/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Thermal Mechanical Engineer (Teradyne, Agoura Hills, CA)",
         "date": "N/A",
         "id": "successfactors:1414530000",
         "url": "https://jobs.teradyne.com/Teradyne/job/Agoura-Hills-Thermal-Mechanical-Engineer-%28Teradyne%2C-Agoura-Hills%2C-CA%29-CA-91301/1414530000/",
-        "location": "Agoura Hills, CA",
-        "closed": "2026-11-23"
+        "location": "Agoura Hills, CA"
       },
       {
         "title": "Factory Applications Engineer (NEXTEST; San Jose, CA)",
         "date": "N/A",
         "id": "successfactors:1396215100",
         "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Factory-Applications-Engineer-%28NEXTEST-San-Jose%2C-CA%29-CA-95101/1396215100/",
-        "location": "San Jose, CA",
-        "closed": "2026-11-23"
+        "location": "San Jose, CA"
       },
       {
         "title": "\u2b50\ufe0f Quality Applications Engineering Co-Op, Spring 2026, (Teradyne, North Reading, MA)",
         "date": "N/A",
         "id": "successfactors:1443702500",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Quality-Applications-Engineering-Co-Op%2C-Spring-2026%2C-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1443702500/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Engineering Manager - High-Speed Digital & Optical Solutions (Teradyne, North Reading, MA)",
         "date": "N/A",
         "id": "successfactors:1443907300",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Engineering-Manager-High-Speed-Digital-&-Optical-Solutions-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1443907300/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Senior Hardware Engineer (Teradyne, North Reading, MA)",
         "date": "N/A",
         "id": "successfactors:1443853200",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Senior-Hardware-Engineer-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1443853200/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Senior Principal Hardware Engineer (Teradyne, North Reading, MA)",
         "date": "N/A",
         "id": "successfactors:1443869600",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Senior-Principal-Hardware-Engineer-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1443869600/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Customer Production Support Manager (Global Customer Service) - Austin, TX",
         "date": "N/A",
         "id": "successfactors:1443884300",
         "url": "https://jobs.teradyne.com/Teradyne/job/Austin-Customer-Production-Support-Manager-%28Global-Customer-Service%29-Austin%2C-TX-TX-73301/1443884300/",
-        "location": "Austin, TX",
-        "closed": "2026-11-23"
+        "location": "Austin, TX"
       },
       {
         "title": "Senior Director, Strategic Planning & Corporate Development (Teradyne)",
@@ -67808,104 +67775,91 @@
         "date": "N/A",
         "id": "successfactors:1416401100",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Engineering-Program-Management-Department-Manager-%28IST%2C-North-Reading%2C-MA%29-MA/1416401100/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Senior Product Compliance Engineer (TERADYNE, San Jose, CA)",
         "date": "N/A",
         "id": "successfactors:1410927300",
         "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Senior-Product-Compliance-Engineer-%28TERADYNE%2C-San-Jose%2C-CA%29-CA-95101/1410927300/",
-        "location": "San Jose, CA +1",
-        "closed": "2026-11-23"
+        "location": "San Jose, CA +1"
       },
       {
         "title": "Senior Optical Global Account Manager (Product Test Group, San Jose, CA)",
         "date": "N/A",
         "id": "successfactors:1401907100",
         "url": "https://jobs.teradyne.com/LitePoint/job/San-Jose-Senior-Optical-Global-Account-Manager-%28Product-Test-Group%2C-San-Jose%2C-CA%29-CA-95101/1401907100/",
-        "location": "San Jose, CA",
-        "closed": "2026-11-23"
+        "location": "San Jose, CA"
       },
       {
         "title": "Calibration Engineer (Compute Test, Agoura Hills, CA)",
         "date": "N/A",
         "id": "successfactors:1441017800",
         "url": "https://jobs.teradyne.com/Teradyne/job/Agoura-Hills-Calibration-Engineer-%28Compute-Test%2C-Agoura-Hills%2C-CA%29-CA-91301/1441017800/",
-        "location": "Agoura Hills, CA",
-        "closed": "2026-11-23"
+        "location": "Agoura Hills, CA"
       },
       {
         "title": "NPI Master Scheduler (Teradyne, N. Reading MA)",
         "date": "N/A",
         "id": "successfactors:1430153100",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-NPI-Master-Scheduler-%28Teradyne%2C-N_-Reading-MA%29-MA/1430153100/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Windows Performance Architect (Compute Test, North Reading)",
         "date": "N/A",
         "id": "successfactors:1440026900",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Windows-Performance-Architect-%28Compute-Test%2C-North-Reading%29-MA/1440026900/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Commodity Manager (IST Group)(Teradyne, North Reading, MA)",
         "date": "N/A",
         "id": "successfactors:1437913500",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Commodity-Manager-%28IST-Group%29%28Teradyne%2C-North-Reading%2C-MA%29-MA/1437913500/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Senior Director, Product Quality (Compute Test, North Reading)",
         "date": "2026-11-12",
         "id": "successfactors:1450196100",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Senior-Director%2C-Product-Quality-%28Compute-Test%2C-North-Reading%29-MA/1450196100/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "New Product Master Scheduler (Teradyne, Agoura Hills CA)",
         "date": "2026-11-12",
         "id": "successfactors:1450346200",
         "url": "https://jobs.teradyne.com/Teradyne/job/Agoura-Hills-New-Product-Master-Scheduler-%28Teradyne%2C-Agoura-Hills-CA%29-CA-91301/1450346200/",
-        "location": "Agoura Hills, CA",
-        "closed": "2026-11-23"
+        "location": "Agoura Hills, CA"
       },
       {
         "title": "New Product Master Scheduler (Teradyne, N. Reading MA)",
         "date": "2026-11-12",
         "id": "successfactors:1450343300",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-New-Product-Master-Scheduler-%28Teradyne%2C-N_-Reading-MA%29-MA/1450343300/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Project Manager (Semi Test, North Reading, MA)",
         "date": "2026-11-12",
         "id": "successfactors:1450369000",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Project-Manager-%28Semi-Test%2C-North-Reading%2C-MA%29-MA/1450369000/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Material Handler (Litepoint, San Jose, CA)",
         "date": "2026-11-13",
         "id": "successfactors:1450590600",
         "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Material-Handler-%28Litepoint%2C-San-Jose%2C-CA%29-CA-95101/1450590600/",
-        "location": "San Jose, CA",
-        "closed": "2026-11-23"
+        "location": "San Jose, CA"
       },
       {
         "title": "Senior Software Machine Learning Engineer",
         "date": "2026-11-13",
         "id": "successfactors:1450563600",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Senior-Software-Machine-Learning-Engineer-MA/1450563600/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Warehouse Operations Specialist (Teradyne Robotics, Wixom, MI)",
@@ -67927,24 +67881,21 @@
         "date": "2026-11-13",
         "id": "successfactors:1403434600",
         "url": "https://jobs.teradyne.com/Teradyne/job/Agoura-Hills-Senior-NPI-Manufacturing-Engineer-%28TERADYNE%2C-Agoura-Hills%2C-CA%29-CA-91301/1403434600/",
-        "location": "Agoura Hills, CA",
-        "closed": "2026-11-23"
+        "location": "Agoura Hills, CA"
       },
       {
         "title": "Software Project Manager (Compute Test - Agoura Hills, CA)",
         "date": "2026-11-13",
         "id": "successfactors:1450746900",
         "url": "https://jobs.teradyne.com/Teradyne/job/Agoura-Hills-Software-Project-Manager-%28Compute-Test-Agoura-Hills%2C-CA%29-CA-91301/1450746900/",
-        "location": "Agoura Hills, CA",
-        "closed": "2026-11-23"
+        "location": "Agoura Hills, CA"
       },
       {
         "title": "Senior Silicon Photonics PIC Design Engineer (Teradyne, North Reading, MA)",
         "date": "2026-11-16",
         "id": "successfactors:1451000600",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Senior-Silicon-Photonics-PIC-Design-Engineer-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1451000600/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Signal and Power Integrity Engineer (Memory Test, Agoura Hills or San Jose, CA )",
@@ -67972,8 +67923,7 @@
         "date": "2026-11-18",
         "id": "successfactors:1451771900",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Factory-Applications-Engineer-%28Production-Board-Test%2C-North-Reading%2C-MA%29-MA/1451771900/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Factory Applications Engineer (CATG; North Reading, MA)",
@@ -67987,8 +67937,7 @@
         "date": "2026-11-18",
         "id": "successfactors:1451905800",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Software-Engineer-Technical-Project-Leader-%28Compute-Test%2C-North-Reading%29-MA/1451905800/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-23"
+        "location": "North Reading, MA"
       },
       {
         "title": "Collaboration IT Architect & Manager (BPIT, North Reading)",
@@ -68993,7 +68942,8 @@
         "date": "N/A",
         "id": "adp:571425",
         "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=571425&lang=en_US",
-        "location": "Houston, TX"
+        "location": "Houston, TX",
+        "closed": "2026-11-23"
       },
       {
         "title": "Talent Acquisition Manager",
@@ -71133,7 +71083,8 @@
         "date": "2026-10-14",
         "id": "adp:5001222971006",
         "url": "https://myjobs.adp.com/fanuc/cx/job-details?reqId=5001222971006",
-        "location": "Rochester Hills, MI"
+        "location": "Rochester Hills, MI",
+        "closed": "2026-11-23"
       },
       {
         "title": "District Account Manager",
@@ -72143,6 +72094,13 @@
         "id": "greenhouse:4730101006",
         "url": "https://boards.greenhouse.io/gatikaiinc/jobs/4730101006?gh_jid=4730101006",
         "location": "Santa Clara, CA or Phoenix, AZ or Fort Worth, TX"
+      },
+      {
+        "title": "Senior Manager, Training (Learning & Development)",
+        "date": "2026-11-23",
+        "id": "greenhouse:4731764006",
+        "url": "https://boards.greenhouse.io/gatikaiinc/jobs/4731764006?gh_jid=4731764006",
+        "location": "Phoenix, AZ or Dallas, TX or Santa Clara, CA"
       }
     ],
     "Exotec": [
@@ -74965,7 +74923,8 @@
         "date": "2026-10-22",
         "id": "ashby:dd081d3d-58d4-42ff-9379-c3f62d5a4873",
         "url": "https://jobs.ashbyhq.com/genesis/dd081d3d-58d4-42ff-9379-c3f62d5a4873",
-        "location": "Bay Area"
+        "location": "Bay Area",
+        "closed": "2026-11-23"
       },
       {
         "title": "Senior Data Collection Operator",
@@ -75102,6 +75061,13 @@
         "id": "ashby:3a708a57-9031-418f-a5d7-255a8dd269df",
         "url": "https://jobs.ashbyhq.com/genesis/3a708a57-9031-418f-a5d7-255a8dd269df",
         "location": "Paris +1"
+      },
+      {
+        "title": "Data Collection Operator, Deployment",
+        "date": "2026-11-23",
+        "id": "ashby:8c29dfb5-1424-4994-86ab-4f1aa7cd281a",
+        "url": "https://jobs.ashbyhq.com/genesis/8c29dfb5-1424-4994-86ab-4f1aa7cd281a",
+        "location": "San Carlos, CA"
       }
     ],
     "Mind Robotics": [
@@ -81651,7 +81617,8 @@
         "date": "2026-10-22",
         "id": "ashby:d8794980-1d3f-4d82-8b48-811449b6c492",
         "url": "https://jobs.ashbyhq.com/openai/d8794980-1d3f-4d82-8b48-811449b6c492",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-23"
       },
       {
         "title": "Workforce Development & Education Manager, Infrastructure Sites",
@@ -84495,7 +84462,8 @@
         "date": "2026-11-19",
         "id": "ashby:4e9a1479-320a-465c-887d-ebbd9249db8a",
         "url": "https://jobs.ashbyhq.com/openai/4e9a1479-320a-465c-887d-ebbd9249db8a",
-        "location": "US - Remote"
+        "location": "US - Remote",
+        "closed": "2026-11-23"
       },
       {
         "title": "Certification Assessment Specialist",
@@ -84769,6 +84737,20 @@
         "id": "ashby:b40efa93-da3c-4593-bc98-03d203cd0488",
         "url": "https://jobs.ashbyhq.com/openai/b40efa93-da3c-4593-bc98-03d203cd0488",
         "location": "Dublin, Ireland"
+      },
+      {
+        "title": "Sr Structured Finance Execution Lead",
+        "date": "2026-11-23",
+        "id": "ashby:b57d8763-c8aa-47db-b8c5-9f1807499372",
+        "url": "https://jobs.ashbyhq.com/openai/b57d8763-c8aa-47db-b8c5-9f1807499372",
+        "location": "San Francisco"
+      },
+      {
+        "title": "GTM Strategy & Operations, Enterprise",
+        "date": "2026-11-23",
+        "id": "ashby:490c443e-d555-4fd0-a5c8-d754f6ba6d23",
+        "url": "https://jobs.ashbyhq.com/openai/490c443e-d555-4fd0-a5c8-d754f6ba6d23",
+        "location": "New York City"
       }
     ],
     "John Deere": [
@@ -88500,6 +88482,41 @@
         "id": "eightfold:996477890799",
         "url": "https://lockheedmartin.eightfold.ai/careers/job/996477890799",
         "location": "Owego, NY"
+      },
+      {
+        "title": "\u2b50\ufe0f Post Grad Student - Technical Intern",
+        "date": "2026-11-23",
+        "id": "eightfold:996478059368",
+        "url": "https://lockheedmartin.eightfold.ai/careers/job/996478059368",
+        "location": "Littleton, CO"
+      },
+      {
+        "title": "\u2b50\ufe0f Post Grad Student - Technical Intern",
+        "date": "2026-11-23",
+        "id": "eightfold:996478059907",
+        "url": "https://lockheedmartin.eightfold.ai/careers/job/996478059907",
+        "location": "Littleton, CO"
+      },
+      {
+        "title": "\u2b50\ufe0f College Student - Technical Summer Intern",
+        "date": "2026-11-23",
+        "id": "eightfold:996478059121",
+        "url": "https://lockheedmartin.eightfold.ai/careers/job/996478059121",
+        "location": "Littleton, CO"
+      },
+      {
+        "title": "\u2b50\ufe0f Post Grad Student - Technical Intern",
+        "date": "2026-11-23",
+        "id": "eightfold:996478059987",
+        "url": "https://lockheedmartin.eightfold.ai/careers/job/996478059987",
+        "location": "Littleton, CO"
+      },
+      {
+        "title": "\u2b50\ufe0f College Intern - Scientist",
+        "date": "2026-11-23",
+        "id": "eightfold:996477675469",
+        "url": "https://lockheedmartin.eightfold.ai/careers/job/996477675469",
+        "location": "Sunnyvale, CA"
       }
     ],
     "Vecna Robotics": [
@@ -89265,14 +89282,16 @@
         "date": "2026-10-27",
         "id": "greenhouse:4339607009",
         "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4339607009",
-        "location": "Cambridge, MA USA; San Francisco, CA USA"
+        "location": "Cambridge, MA USA; San Francisco, CA USA",
+        "closed": "2026-11-23"
       },
       {
         "title": "Research Product Manager, Post Training",
         "date": "2026-10-27",
         "id": "greenhouse:4310498009",
         "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4310498009",
-        "location": "Cambridge, MA USA; San Francisco, CA USA"
+        "location": "Cambridge, MA USA; San Francisco, CA USA",
+        "closed": "2026-11-23"
       },
       {
         "title": "Research Scientist, Computational Condensed Matter Physics",
@@ -95850,6 +95869,13 @@
         "id": "greenhouse:5293104008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5293104008",
         "location": "San Francisco, CA | New York City, NY"
+      },
+      {
+        "title": "Applied AI Architect, Technology Partnerships",
+        "date": "2026-11-23",
+        "id": "greenhouse:5491480008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5491480008",
+        "location": "San Francisco, CA | New York City, NY"
       }
     ],
     "xAI": [
@@ -99544,7 +99570,8 @@
         "date": "2026-10-27",
         "id": "workday:JR101490",
         "url": "https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Warsaw-Indiana/Senior-Manager--Yard-Operations_JR101490",
-        "location": "Warsaw, Indiana"
+        "location": "Warsaw, Indiana",
+        "closed": "2026-11-23"
       },
       {
         "title": "Facilities Coordinator",
@@ -103182,7 +103209,8 @@
         "date": "N/A",
         "id": "ibm:128767",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=128767",
-        "location": "Multiple Cities"
+        "location": "Multiple Cities",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f Quantum Control Systems Modeling Internship 2027",
@@ -103203,8 +103231,7 @@
         "date": "N/A",
         "id": "ibm:141091",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=141091",
-        "location": "Multiple Cities",
-        "closed": "2026-11-20"
+        "location": "Multiple Cities"
       },
       {
         "title": "\u2b50\ufe0f Product Management Intern 2027",
@@ -103351,7 +103378,8 @@
         "date": "N/A",
         "id": "ibm:128775",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=128775",
-        "location": "Columbia"
+        "location": "Columbia",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f Technical Sales Engineer - Spring Co-op Sales Program 2027",
@@ -103696,8 +103724,7 @@
         "date": "N/A",
         "id": "ibm:131072",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=131072",
-        "location": "Tucson",
-        "closed": "2026-11-20"
+        "location": "Tucson"
       },
       {
         "title": "\u2b50\ufe0f Site Reliability Engineer Intern - OneIT - Rochester, MN",
@@ -104772,7 +104799,8 @@
         "date": "2026-11-12",
         "id": "ibm:129927",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=129927",
-        "location": "Poughkeepsie"
+        "location": "Poughkeepsie",
+        "closed": "2026-11-23"
       },
       {
         "title": "Printed Circuit Board Technician Apprentice",
@@ -116110,8 +116138,7 @@
         "date": "N/A",
         "id": "phenom:R170977",
         "url": "https://careers.adobe.com/us/en/job/R170977/2027-Intern-Adobe-Sales-Academy-BDR",
-        "location": "San Jose, CA +3",
-        "closed": "2026-11-22"
+        "location": "San Jose, CA +3"
       },
       {
         "title": "\u2b50\ufe0f 2027 Intern - Machine Learning Engineer",
@@ -120746,6 +120773,20 @@
         "id": "workday:R-00197526",
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineering-Intern_R-00197526",
         "location": "Arlington, VA"
+      },
+      {
+        "title": "\u2b50\ufe0f Mechanical Design Intern",
+        "date": "2026-11-23",
+        "id": "workday:R-00197572",
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Mechanical-Design-Intern_R-00197572",
+        "location": "Huntsville, AL"
+      },
+      {
+        "title": "\u2b50\ufe0f Mechanical Analysis Intern",
+        "date": "2026-11-23",
+        "id": "workday:R-00197567",
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Mechanical-Analysis-Intern_R-00197567",
+        "location": "Huntsville, AL"
       }
     ],
     "Radix Trading": [
@@ -122563,8 +122604,7 @@
         "date": "N/A",
         "id": "workday:R0000450574",
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Financial-Analyst-Intern----Minneapolis--MN--Starting-Summer--2027-_R0000450574",
-        "location": "1000 Nicollet Mall, Minneapolis,MN 55403-2542",
-        "closed": "2026-11-12"
+        "location": "1000 Nicollet Mall, Minneapolis,MN 55403-2542"
       },
       {
         "title": "\u2b50\ufe0f Store Executive Intern (Store Leadership Intern) \u2013 Fresno, CA (Starting Summer 2027)",
@@ -124237,6 +124277,13 @@
         "id": "workday:JR003182",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Operational-Analysis-Intern--Summer-2027-_JR003182",
         "location": "Cambridge, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Space GNC Intern (Summer 2027)",
+        "date": "2026-11-23",
+        "id": "workday:JR003127",
+        "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Houston-TX/Space-GNC-Intern--Summer-2027-_JR003127",
+        "location": "Houston, TX"
       }
     ],
     "JP Morgan Chase": [
@@ -128240,6 +128287,30 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
+    },
+    "Autodesk": {
+      "since": "2026-11-23",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/uni/jobs"
+    },
+    "Snap": {
+      "since": "2026-11-23",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
+    },
+    "Samsung": {
+      "since": "2026-11-23",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
+    },
+    "ABB": {
+      "since": "2026-11-23",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
+    },
+    "General Motors": {
+      "since": "2026-11-23",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
+    },
+    "Oshkosh": {
+      "since": "2026-11-23",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs"
     }
   },
   "closures_untracked": {
