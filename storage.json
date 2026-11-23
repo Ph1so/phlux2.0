@@ -52959,6 +52959,13 @@
         "id": "lever:1a5abe1a-e520-4467-b701-509cbd171dd7",
         "url": "https://jobs.lever.co/anybotics/1a5abe1a-e520-4467-b701-509cbd171dd7",
         "location": "Barcelona, Catalonia"
+      },
+      {
+        "title": "Robotics Systems Engineer (Mechanical)",
+        "date": "2026-11-23",
+        "id": "lever:430256dc-e9b8-4673-8ec4-b48b16cee5eb",
+        "url": "https://jobs.lever.co/anybotics/430256dc-e9b8-4673-8ec4-b48b16cee5eb",
+        "location": "Zurich, Switzerland"
       }
     ],
     "Viam": [
@@ -58333,6 +58340,13 @@
         "id": "workday:R-112102",
         "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Schaffhausen-Switzerland/Supply-Chain-Intern_R-112102",
         "location": "Schaffhausen, Switzerland"
+      },
+      {
+        "title": "CA Industrial Trainee",
+        "date": "2026-11-23",
+        "id": "workday:R-096566",
+        "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Mumbai-India/CA-Industrial-Trainee_R-096566",
+        "location": "Mumbai, India"
       }
     ],
     "PlusAI": [
@@ -85950,7 +85964,8 @@
         "date": "2026-11-09",
         "id": "lever:c4572587-c353-43fb-b69a-e43b3fcc595f",
         "url": "https://jobs.eu.lever.co/mobileye/c4572587-c353-43fb-b69a-e43b3fcc595f",
-        "location": "Koblenz, Germany"
+        "location": "Koblenz, Germany",
+        "closed": "2026-11-23"
       },
       {
         "title": "AUTOSAR Embedded Software Engineer (m/w/d)",
@@ -86293,6 +86308,20 @@
         "id": "lever:9d4bd6c6-0545-46d9-ae8e-9cac047c5063",
         "url": "https://jobs.eu.lever.co/mobileye/9d4bd6c6-0545-46d9-ae8e-9cac047c5063",
         "location": "Jerusalem, Israel"
+      },
+      {
+        "title": "\u2b50\ufe0f Algorithm/Software Developer Student \u2013 REM West Team",
+        "date": "2026-11-23",
+        "id": "lever:c19f0a29-016b-429c-b4c4-1356b21ab2ad",
+        "url": "https://jobs.eu.lever.co/mobileye/c19f0a29-016b-429c-b4c4-1356b21ab2ad",
+        "location": "Jerusalem, Israel"
+      },
+      {
+        "title": "AV Perception Product Manager",
+        "date": "2026-11-23",
+        "id": "lever:52e503fe-c6a7-4df9-bd51-eb187a286716",
+        "url": "https://jobs.eu.lever.co/mobileye/52e503fe-c6a7-4df9-bd51-eb187a286716",
+        "location": "Ramat Gan, Israel"
       }
     ],
     "Dusty Robotics": [
@@ -86574,7 +86603,8 @@
         "title": "\u2b50\ufe0f Aeronautical Engineering Intern",
         "date": "2026-10-22",
         "id": "eightfold:996477362692",
-        "closed": "N/A"
+        "url": "https://lockheedmartin.eightfold.ai/careers/job/996478125490",
+        "location": "King of Prussia, PA"
       },
       {
         "title": "\u2b50\ufe0f Finance Intern",
@@ -114094,7 +114124,8 @@
         "date": "N/A",
         "id": "jibe:11452",
         "url": "https://careers.sig.com/jobs/11452",
-        "location": "Dublin, Ireland"
+        "location": "Dublin, Ireland",
+        "closed": "2026-11-23"
       },
       {
         "title": "Hong Kong + Singapore Discovery Program: April 2027",
@@ -127132,8 +127163,8 @@
   },
   "email_threads": {
     "internship": {
-      "date": "2026-11-21",
-      "message_id": "<179527367497.2515.10211521079623480819@phlux>"
+      "date": "2026-11-23",
+      "message_id": "<179544014988.2596.7104192017520940238@phlux>"
     },
     "internship_all": {
       "date": "2026-11-23",
@@ -127469,46 +127500,6 @@
       "since": "2026-11-23",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
     },
-    "Blue Origin": {
-      "since": "2026-11-23",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/BlueOrigin/jobs"
-    },
-    "Snap": {
-      "since": "2026-11-23",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
-    },
-    "Workday": {
-      "since": "2026-11-23",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday_Early_Career/jobs"
-    },
-    "Slack": {
-      "since": "2026-11-23",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/Slack/jobs"
-    },
-    "Rockwell Automation": {
-      "since": "2026-11-23",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
-    },
-    "Visa": {
-      "since": "2026-11-23",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs"
-    },
-    "Unity": {
-      "since": "2026-11-23",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
-    },
-    "Razer": {
-      "since": "2026-11-23",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
-    },
-    "Leidos": {
-      "since": "2026-11-23",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://leidos.wd5.myworkdayjobs.com/wday/cxs/leidos/External/jobs"
-    },
-    "Target": {
-      "since": "2026-11-23",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
-    },
     "Samsung": {
       "since": "2026-11-23",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
@@ -127517,17 +127508,13 @@
       "since": "2026-11-23",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
     },
-    "Stryker": {
-      "since": "2026-11-23",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs"
-    },
     "ABB": {
       "since": "2026-11-23",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
     },
-    "Slate Auto": {
+    "Verizon": {
       "since": "2026-11-23",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://verizon.wd12.myworkdayjobs.com/wday/cxs/verizon/verizon-careers/jobs"
     }
   },
   "closures_untracked": {
