@@ -14927,6 +14927,13 @@
         "id": "greenhouse:6266523004",
         "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6266523004",
         "location": "Hybrid- Fremont, CA; Hybrid- Pittsburgh, PA; Hybrid- Salem, OR"
+      },
+      {
+        "title": "Senior Director, Business Development",
+        "date": "2026-11-24",
+        "id": "greenhouse:6208286004",
+        "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6208286004",
+        "location": "Remote"
       }
     ],
     "Cobot": [
@@ -25465,6 +25472,13 @@
         "date": "2026-11-23",
         "id": "lever:3557050a-a45c-4cf4-8c9b-0e4156e72626",
         "url": "https://jobs.lever.co/zoox/3557050a-a45c-4cf4-8c9b-0e4156e72626",
+        "location": "Foster City, CA"
+      },
+      {
+        "title": "Operations Program Manager, Manufacturing Operations",
+        "date": "2026-11-24",
+        "id": "lever:9794061d-dde9-42d1-996a-8e21d5ac2433",
+        "url": "https://jobs.lever.co/zoox/9794061d-dde9-42d1-996a-8e21d5ac2433",
         "location": "Foster City, CA"
       }
     ],
@@ -49385,6 +49399,13 @@
         "id": "lever:a5a30846-7b4c-48c3-9d4c-1f715a1b0328",
         "url": "https://jobs.lever.co/waabi/a5a30846-7b4c-48c3-9d4c-1f715a1b0328",
         "location": "San Francisco, CA +3"
+      },
+      {
+        "title": "Senior / Staff Software Engineer, Camera Integration",
+        "date": "2026-11-24",
+        "id": "lever:58f4183f-c47c-4c8a-b741-a8b5ac91f762",
+        "url": "https://jobs.lever.co/waabi/58f4183f-c47c-4c8a-b741-a8b5ac91f762",
+        "location": "San Francisco, CA +2"
       }
     ],
     "Stack AV": [
@@ -54238,7 +54259,8 @@
         "date": "2026-10-14",
         "id": "ashby:115d8734-0f96-4375-b27d-6a4d62956b04",
         "url": "https://jobs.ashbyhq.com/hadrian-automation/115d8734-0f96-4375-b27d-6a4d62956b04",
-        "location": "Los Angeles, CA"
+        "location": "Los Angeles, CA",
+        "closed": "2026-11-24"
       },
       {
         "title": "Pay Transparency",
@@ -56746,7 +56768,8 @@
         "date": "2026-10-14",
         "id": "workday:R572868",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Clinical-Affairs---Michigan_R572868",
-        "location": "Portage, Michigan"
+        "location": "Portage, Michigan",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Process Engineer - Florida",
@@ -57034,7 +57057,8 @@
         "date": "N/A",
         "id": "workday:R572769",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Irvine-California/Summer-2027-Internship---Statistical-Programming---California_R572769",
-        "location": "Irvine, California"
+        "location": "Irvine, California",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f Mechanical Engineering Intern",
@@ -58656,7 +58680,8 @@
         "date": "N/A",
         "id": "workday:R-055837",
         "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Neuss-North-Rhine-Westphalia-Germany/Pharmazeut--m-w-d--im-Praktikum_R-055837",
-        "location": "Neuss, North Rhine-Westphalia, Germany"
+        "location": "Neuss, North Rhine-Westphalia, Germany",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f Intern",
@@ -101976,14 +102001,16 @@
         "date": "2026-11-02",
         "id": "workday:R51241",
         "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Bradenton-Florida-United-States/Student-Electrician---1st-Shift_R51241",
-        "location": "Bradenton, Florida, United States"
+        "location": "Bradenton, Florida, United States",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f Student Welder - 1st Shift",
         "date": "2026-11-02",
         "id": "workday:R51239",
         "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Bradenton-Florida-United-States/Student-Welder---1st-Shift_R51239",
-        "location": "Bradenton, Florida, United States"
+        "location": "Bradenton, Florida, United States",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f Student Painter - 1st Shift",
@@ -112269,6 +112296,13 @@
         "date": "2026-11-22",
         "id": "jibe:89557",
         "url": "https://careers.amd.com/careers-home/jobs/89557",
+        "location": "Austin, TX"
+      },
+      {
+        "title": "\u2b50\ufe0f Spring/Summer 2027 Masters AI Rack/Cluster Design Engineering Co-Op",
+        "date": "2026-11-24",
+        "id": "jibe:89564",
+        "url": "https://careers.amd.com/careers-home/jobs/89564",
         "location": "Austin, TX"
       }
     ],
@@ -129108,10 +129142,6 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.citadel.com/sitemap/career.xml"
-    },
-    "Tesla": {
-      "since": "2026-11-24",
-      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
     }
   },
   "closures_untracked": {
