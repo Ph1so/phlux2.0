@@ -9182,8 +9182,7 @@
         "date": "2026-10-10",
         "id": "eightfold:446721016647",
         "url": "https://careers.qualcomm.com/careers/job/446721016647",
-        "location": "San Diego, CA",
-        "closed": "2026-11-24"
+        "location": "San Diego, CA"
       },
       {
         "title": "\u2b50\ufe0f Sales & Business Development Internship - Summer 2027",
@@ -46202,6 +46201,13 @@
         "id": "google:127687090962866886",
         "url": "https://www.google.com/about/careers/applications/jobs/results/127687090962866886",
         "location": "Mountain View, CA"
+      },
+      {
+        "title": "Group Product Manager, Gemini on Devices, Gemini App, DeepMind",
+        "date": "2026-11-24",
+        "id": "google:86879541531681478",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/86879541531681478",
+        "location": "Mountain View, CA +1"
       }
     ],
     "Wing": [
@@ -56492,6 +56498,13 @@
         "id": "bamboohr:645",
         "url": "https://berkshiregrey.bamboohr.com/careers/645",
         "location": "Bedford, MA"
+      },
+      {
+        "title": "Senior Software Engineer, Applications",
+        "date": "2026-11-24",
+        "id": "bamboohr:798",
+        "url": "https://berkshiregrey.bamboohr.com/careers/798",
+        "location": "Bedford, MA"
       }
     ],
     "Plus One Robotics": [
@@ -58829,6 +58842,20 @@
         "id": "workday:R-112310-1",
         "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Zuchwil-Switzerland/Intern-Trauma-R-D_R-112310-1",
         "location": "Zuchwil, Switzerland"
+      },
+      {
+        "title": "\u2b50\ufe0f Internship Business Finance",
+        "date": "2026-11-24",
+        "id": "workday:R-103997",
+        "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Madrid-Spain/Internship-Business-Finance_R-103997",
+        "location": "Madrid, Spain"
+      },
+      {
+        "title": "\u2b50\ufe0f Medical Affairs Operations Excellence Intern",
+        "date": "2026-11-24",
+        "id": "workday:R-111613",
+        "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Dubai-United-Arab-Emirates/Medical-Affairs-Operations-Excellence-Intern_R-111613",
+        "location": "Dubai, United Arab Emirates"
       }
     ],
     "PlusAI": [
@@ -60838,8 +60865,7 @@
         "date": "2026-10-14",
         "id": "workday:JR00046252",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MO-Saint-Louis/Auto-Punch--Press-Operator_JR00046252",
-        "location": "USA, MO, Saint Louis",
-        "closed": "2026-11-19"
+        "location": "USA, MO, Saint Louis"
       },
       {
         "title": "Director of Strategic Planning, ELDS NAM",
@@ -86297,8 +86323,7 @@
         "date": "2026-10-22",
         "id": "lever:5b373ab2-fb86-4ce5-a393-5d838e28b2c4",
         "url": "https://jobs.eu.lever.co/mobileye/5b373ab2-fb86-4ce5-a393-5d838e28b2c4",
-        "location": "Jerusalem, Israel",
-        "closed": "2026-11-18"
+        "location": "Jerusalem, Israel"
       },
       {
         "title": "Experienced Software Engineer - Data Systems & Tools",
@@ -96385,6 +96410,13 @@
         "date": "2026-11-24",
         "id": "greenhouse:5490494008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490494008",
+        "location": "San Francisco, CA"
+      },
+      {
+        "title": "Life Sciences Operator, External Research",
+        "date": "2026-11-24",
+        "id": "greenhouse:5490502008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490502008",
         "location": "San Francisco, CA"
       }
     ],
@@ -116785,7 +116817,8 @@
         "date": "N/A",
         "id": "phenom:R172468",
         "url": "https://careers.adobe.com/us/en/job/R172468/2027-Intern-Security-Engineer",
-        "location": "Bucharest, Romania"
+        "location": "Bucharest, Romania",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f 2027 Intern - Security Engineer",
@@ -118299,7 +118332,8 @@
         "date": "N/A",
         "id": "jibe:141893",
         "url": "https://careers.se.com/global/jobs/141893",
-        "location": "Morristown, NJ"
+        "location": "Morristown, NJ",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f Technical Writer Intern",
