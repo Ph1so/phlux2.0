@@ -883,7 +883,8 @@
         "date": "2026-10-09",
         "id": "eightfold:1970393557037649",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557037649",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f Cloud Network Engineering Internship Oportunities",
@@ -953,7 +954,8 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557022480",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557022480",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f Supply Chain Program Management Intern",
@@ -1060,15 +1062,15 @@
         "date": "2026-10-15",
         "id": "eightfold:1970393557027387",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557027387",
-        "location": "United States, Washington, Redmond +1",
-        "closed": "2026-11-16"
+        "location": "United States, Washington, Redmond +1"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Efficient AI Software Systems",
         "date": "2026-10-15",
         "id": "eightfold:1970393557041731",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Gray Systems Lab (GSL)",
@@ -1181,7 +1183,8 @@
         "date": "2026-10-23",
         "id": "eightfold:1970393557045963",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557045963",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f Business Program Management INTERN (CO+I Exec)",
@@ -1305,7 +1308,8 @@
         "date": "2026-11-06",
         "id": "eightfold:1970393557056017",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557056017",
-        "location": "United States, NY +1"
+        "location": "United States, NY +1",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Next-Generation AI Agents",
@@ -9224,28 +9228,32 @@
         "date": "2026-10-14",
         "id": "eightfold:446720740525",
         "url": "https://careers.qualcomm.com/careers/job/446720740525",
-        "location": "San Diego, CA +6"
+        "location": "San Diego, CA +6",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f Embedded Engineering Internship - Summer 2027",
         "date": "2026-10-14",
         "id": "eightfold:446720737089",
         "url": "https://careers.qualcomm.com/careers/job/446720737089",
-        "location": "San Diego, CA +2"
+        "location": "San Diego, CA +2",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Internship - Summer 2027",
         "date": "2026-10-14",
         "id": "eightfold:446720740529",
         "url": "https://careers.qualcomm.com/careers/job/446720740529",
-        "location": "San Diego, CA +7"
+        "location": "San Diego, CA +7",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f Qualcomm Government Technologies (QGOV) Engineering Internship \u2013 Summer 2027 (San Diego or Boulder) | US CITIZENSHIP REQUIRED",
         "date": "2026-10-14",
         "id": "eightfold:446720740540",
         "url": "https://careers.qualcomm.com/careers/job/446720740540",
-        "location": "San Diego, CA"
+        "location": "San Diego, CA",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f Automotive Engineering Internship \u2013 Summer 2027",
@@ -16453,7 +16461,8 @@
         "date": "N/A",
         "id": "greenhouse:7996578003",
         "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7996578003",
-        "location": "Albuquerque, NM"
+        "location": "Albuquerque, NM",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f R&D Engineering Intern Summer 2027",
@@ -27478,6 +27487,20 @@
         "id": "greenhouse:8412577",
         "url": "https://nuro.ai/careersitem?gh_jid=8412577",
         "location": "Mountain View, California (HQ)"
+      },
+      {
+        "title": "Director of Engineering, Autonomy",
+        "date": "2026-11-23",
+        "id": "greenhouse:8357716",
+        "url": "https://nuro.ai/careersitem?gh_jid=8357716",
+        "location": "Mountain View, California (HQ)"
+      },
+      {
+        "title": "Director of Engineering, Perception",
+        "date": "2026-11-23",
+        "id": "greenhouse:8357718",
+        "url": "https://nuro.ai/careersitem?gh_jid=8357718",
+        "location": "Mountain View, California (HQ)"
       }
     ],
     "Aeva": [
@@ -34418,7 +34441,8 @@
         "date": "2026-11-20",
         "id": "greenhouse:5304406007",
         "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5304406007",
-        "location": "Torrance, California, United States"
+        "location": "Torrance, California, United States",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f Autonomy Intern - Summer 2027",
@@ -41239,8 +41263,7 @@
         "date": "2026-10-21",
         "id": "ashby:5cf62afc-d9c4-4590-9fe8-f3f367ec5636",
         "url": "https://jobs.ashbyhq.com/applied/5cf62afc-d9c4-4590-9fe8-f3f367ec5636",
-        "location": "Sunnyvale",
-        "closed": "2026-11-23"
+        "location": "Sunnyvale"
       },
       {
         "title": "Senior Mechanical Engineer, Drone",
@@ -43395,7 +43418,8 @@
         "date": "N/A",
         "id": "ashby:08e53cbd-9bc8-4d36-8228-2e5fe08ece4e",
         "url": "https://jobs.ashbyhq.com/humanoid/08e53cbd-9bc8-4d36-8228-2e5fe08ece4e",
-        "location": "US, San Diego, CA"
+        "location": "US, San Diego, CA",
+        "closed": "2026-11-23"
       },
       {
         "title": "Software Engineer - Data & Sensors",
@@ -49686,7 +49710,8 @@
         "id": "greenhouse:8864848002",
         "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8881987002",
         "location": "Ann Arbor, MI",
-        "early": "What You\u2019ll Need to Succeed Bachelor\u2019s Degree in Computer Science, Robotics, Electrical Engineering or related technical field, plus demonstrates competencies and technical proficiencies typically acquired through 0-3+\u2026"
+        "early": "What You\u2019ll Need to Succeed Bachelor\u2019s Degree in Computer Science, Robotics, Electrical Engineering or related technical field, plus demonstrates competencies and technical proficiencies typically acquired through 0-3+\u2026",
+        "closed": "2026-11-23"
       },
       {
         "title": "Director of Engineering, TorcOS",
@@ -65666,6 +65691,13 @@
         "id": "workday:JR00053741",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Houston-Texas-United-States-of-America/Senior-Legal-Counsel_JR00053741",
         "location": "2 Locations"
+      },
+      {
+        "title": "Service Coordinator- MV/LV Drives & Motors Service",
+        "date": "2026-11-23",
+        "id": "workday:JR00051683",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/New-Berlin-Wisconsin-United-States-of-America/Service-Coordinator--MV-LV-Drives---Motors-Service_JR00051683",
+        "location": "2 Locations"
       }
     ],
     "Teradyne": [
@@ -74445,6 +74477,13 @@
         "id": "lever:4e4a9515-5470-4219-9ae5-45a79ba92b49",
         "url": "https://jobs.lever.co/woven-by-toyota/4e4a9515-5470-4219-9ae5-45a79ba92b49",
         "location": "Ann Arbor, MI"
+      },
+      {
+        "title": "Integration Software Engineer II, Arene Applied Engineering",
+        "date": "2026-11-23",
+        "id": "lever:beb88d3e-3f05-4e2d-9718-2a7520cce9a0",
+        "url": "https://jobs.lever.co/woven-by-toyota/beb88d3e-3f05-4e2d-9718-2a7520cce9a0",
+        "location": "Ann Arbor, MI"
       }
     ],
     "Generalist AI": [
@@ -79641,7 +79680,8 @@
         "date": "2026-10-22",
         "id": "ashby:49ae54dc-3d33-4107-8112-63fac1ee86ca",
         "url": "https://jobs.ashbyhq.com/openai/49ae54dc-3d33-4107-8112-63fac1ee86ca",
-        "location": "San Francisco +1"
+        "location": "San Francisco +1",
+        "closed": "2026-11-23"
       },
       {
         "title": "ITAV Deployment Engineer",
@@ -84869,6 +84909,13 @@
         "id": "ashby:0cbc1196-37ee-4c41-b02b-12653309a8f7",
         "url": "https://jobs.ashbyhq.com/openai/0cbc1196-37ee-4c41-b02b-12653309a8f7",
         "location": "San Francisco"
+      },
+      {
+        "title": "Cyber Partner Applied AI Architect",
+        "date": "2026-11-23",
+        "id": "ashby:aa22d0b6-38e9-4853-aff6-bc891ccc9747",
+        "url": "https://jobs.ashbyhq.com/openai/aa22d0b6-38e9-4853-aff6-bc891ccc9747",
+        "location": "Washington, DC +1"
       }
     ],
     "John Deere": [
@@ -93349,7 +93396,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5410004008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5410004008",
-        "location": "San Francisco, CA | New York City, NY | Washington, DC"
+        "location": "San Francisco, CA | New York City, NY | Washington, DC",
+        "closed": "2026-11-23"
       },
       {
         "title": "Sales Director, Enterprise",
@@ -105082,6 +105130,13 @@
         "id": "ibm:130903",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=130903",
         "location": "Austin"
+      },
+      {
+        "title": "Federal Associate Developer - Digital Product Engineering iX",
+        "date": "2026-11-23",
+        "id": "ibm:146459",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=146459",
+        "location": "Herndon"
       }
     ],
     "Bank of America": [
@@ -107225,6 +107280,13 @@
         "id": "ashby:bb10d507-b8ca-4c48-a137-333b710b6908",
         "url": "https://jobs.ashbyhq.com/cohere/bb10d507-b8ca-4c48-a137-333b710b6908",
         "location": "United States +1"
+      },
+      {
+        "title": "Senior Global Benefits Specialist",
+        "date": "2026-11-23",
+        "id": "ashby:33dfe3cc-1fd2-4ba3-8c7c-e7e19cd477d7",
+        "url": "https://jobs.ashbyhq.com/cohere/33dfe3cc-1fd2-4ba3-8c7c-e7e19cd477d7",
+        "location": "United States +3"
       }
     ],
     "Ramp": [
@@ -116089,7 +116151,8 @@
         "date": "N/A",
         "id": "jibe:9168",
         "url": "https://careers.sig.com/jobs/9168",
-        "location": "Dublin, Ireland"
+        "location": "Dublin, Ireland",
+        "closed": "2026-11-23"
       },
       {
         "title": "HR Business Partner",
@@ -116456,7 +116519,8 @@
         "date": "N/A",
         "id": "phenom:R172064",
         "url": "https://careers.adobe.com/us/en/job/R172064/2027-Intern-Applied-and-Research-Scientist-Engineer",
-        "location": "San Jose, CA +5"
+        "location": "San Jose, CA +5",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f 2027 Intern - Solutions Consulting",
@@ -124951,7 +125015,8 @@
         "date": "N/A",
         "id": "pinpoint:290785",
         "url": "https://impulsespace.pinpointhq.com/en/postings/3ab1fb8a-6f79-4e03-87c3-9dbfba1b1f07",
-        "location": "Redondo Beach, CA"
+        "location": "Redondo Beach, CA",
+        "closed": "2026-11-23"
       },
       {
         "title": "Automation & Controls Specialist",
@@ -125127,7 +125192,8 @@
         "date": "N/A",
         "id": "pinpoint:577780",
         "url": "https://impulsespace.pinpointhq.com/en/postings/c593edd9-8306-4509-9300-d5af1787567a",
-        "location": "Redondo Beach, CA"
+        "location": "Redondo Beach, CA",
+        "closed": "2026-11-23"
       },
       {
         "title": "Spacecraft Testbed Engineer",
@@ -125301,7 +125367,8 @@
         "date": "N/A",
         "id": "pinpoint:606072",
         "url": "https://impulsespace.pinpointhq.com/en/postings/d81245f6-a6d4-432f-b301-83be3007cebe",
-        "location": "Redondo Beach, CA"
+        "location": "Redondo Beach, CA",
+        "closed": "2026-11-23"
       },
       {
         "title": "Embedded Linux Software Engineer",
@@ -126302,7 +126369,8 @@
         "date": "N/A",
         "id": "pinpoint:569266",
         "url": "https://impulsespace.pinpointhq.com/en/postings/65b48a6e-c427-4362-afad-7b9010d331ea",
-        "location": "Redondo Beach, CA"
+        "location": "Redondo Beach, CA",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f Propulsion Test Engineering Intern (Mojave - Summer 2027)",
@@ -126344,7 +126412,8 @@
         "date": "N/A",
         "id": "pinpoint:577742",
         "url": "https://impulsespace.pinpointhq.com/en/postings/33e7fd60-0859-4f90-9c7b-f456431893ef",
-        "location": "Redondo Beach, CA"
+        "location": "Redondo Beach, CA",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f Avionics Mechanical Engineering Intern (Summer 2027)",
@@ -126616,6 +126685,13 @@
         "date": "2026-11-23",
         "id": "pinpoint:624972",
         "url": "https://impulsespace.pinpointhq.com/en/postings/4e7b0f92-7315-4975-8afa-7c9926f5c332",
+        "location": "Redondo Beach, CA"
+      },
+      {
+        "title": "Development Test Engineer (All Levels)",
+        "date": "2026-11-23",
+        "id": "pinpoint:624989",
+        "url": "https://impulsespace.pinpointhq.com/en/postings/a3f9c1ec-0cdd-4687-ac20-01651ae22e49",
         "location": "Redondo Beach, CA"
       }
     ],
