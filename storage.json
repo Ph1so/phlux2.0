@@ -15545,7 +15545,8 @@
         "date": "N/A",
         "id": "greenhouse:8345923002",
         "url": "https://boards.greenhouse.io/pathrobotics/jobs/8345923002?gh_jid=8345923002",
-        "location": "Columbus, Ohio"
+        "location": "Columbus, Ohio",
+        "closed": "2026-11-24"
       },
       {
         "title": "Early Career & University Relations Recruiter",
@@ -41223,8 +41224,7 @@
         "date": "2026-10-16",
         "id": "ashby:7a55ee96-e732-4ada-a86c-3fbfb969f8aa",
         "url": "https://jobs.ashbyhq.com/applied/7a55ee96-e732-4ada-a86c-3fbfb969f8aa",
-        "location": "Poway, CA",
-        "closed": "2026-11-23"
+        "location": "Poway, CA"
       },
       {
         "title": "Hardware Systems Lead, Drone",
@@ -52600,6 +52600,27 @@
         "id": "ashby:1ef2c166-09df-4eaf-9070-b41fe271e5b5",
         "url": "https://jobs.ashbyhq.com/saronic/1ef2c166-09df-4eaf-9070-b41fe271e5b5",
         "location": "Austin, TX"
+      },
+      {
+        "title": "Expansion Specialist",
+        "date": "2026-11-24",
+        "id": "ashby:78aa2d16-1bf1-4525-bdd0-65827dcc0cbe",
+        "url": "https://jobs.ashbyhq.com/saronic/78aa2d16-1bf1-4525-bdd0-65827dcc0cbe",
+        "location": "Austin, TX"
+      },
+      {
+        "title": "Counsel, Employment",
+        "date": "2026-11-24",
+        "id": "ashby:e411fd7d-90d8-4481-ac33-292672ef1599",
+        "url": "https://jobs.ashbyhq.com/saronic/e411fd7d-90d8-4481-ac33-292672ef1599",
+        "location": "Austin, TX"
+      },
+      {
+        "title": "Principal, Strategic Partnerships - Europe",
+        "date": "2026-11-24",
+        "id": "ashby:b205896d-4bf3-4462-9e3a-6cb4268ff590",
+        "url": "https://jobs.ashbyhq.com/saronic/b205896d-4bf3-4462-9e3a-6cb4268ff590",
+        "location": "London, UK"
       }
     ],
     "Built Robotics": [
@@ -53448,6 +53469,13 @@
         "id": "lever:430256dc-e9b8-4673-8ec4-b48b16cee5eb",
         "url": "https://jobs.lever.co/anybotics/430256dc-e9b8-4673-8ec4-b48b16cee5eb",
         "location": "Zurich, Switzerland"
+      },
+      {
+        "title": "\u2b50\ufe0f Marketing Intern - Events & Community",
+        "date": "2026-11-24",
+        "id": "lever:d5b4a438-2d8f-4964-8adf-21bd697f5338",
+        "url": "https://jobs.lever.co/anybotics/d5b4a438-2d8f-4964-8adf-21bd697f5338",
+        "location": "Zurich"
       }
     ],
     "Viam": [
@@ -56797,8 +56825,7 @@
         "date": "2026-10-14",
         "id": "workday:R572746-1",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Market-Development---Michigan_R572746-1",
-        "location": "Portage, Michigan",
-        "closed": "2026-11-20"
+        "location": "Portage, Michigan"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship Human Factors Engineering - Washington",
@@ -57089,14 +57116,16 @@
         "date": "N/A",
         "id": "workday:R572897",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fremont-California/Summer-2027-Internship---Regulatory-Affairs---California_R572897",
-        "location": "Fremont, California"
+        "location": "Fremont, California",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Regulatory Affairs - Arizona",
         "date": "N/A",
         "id": "workday:R572939",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Tempe-Arizona/Summer-2027-Internship---Regulatory-Affairs---Arizona_R572939",
-        "location": "Tempe, Arizona"
+        "location": "Tempe, Arizona",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship - Upstream Marketing Intern - Columbia City, IN",
@@ -60803,6 +60832,13 @@
         "id": "workday:2026-R356",
         "url": "https://proceptbiorobotics.wd108.myworkdayjobs.com/PROCEPT/job/California---San-Jose/Director--Commercial-Intelligence---Advanced-Analytics_2026-R356",
         "location": "California - San Jose"
+      },
+      {
+        "title": "Clinical Specialist - Central Florida",
+        "date": "2026-11-24",
+        "id": "workday:2026-R352",
+        "url": "https://proceptbiorobotics.wd108.myworkdayjobs.com/PROCEPT/job/Florida/Clinical-Specialist----Central-Florida_2026-R352",
+        "location": "Florida"
       }
     ],
     "Miso Robotics": [
@@ -62343,7 +62379,8 @@
         "date": "N/A",
         "id": "workday:JR00053090",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Cary-North-Carolina-USA/Talent-Partner_JR00053090",
-        "location": "2 Locations"
+        "location": "2 Locations",
+        "closed": "2026-11-24"
       },
       {
         "title": "Regional Service Manager",
@@ -64089,8 +64126,7 @@
         "date": "N/A",
         "id": "workday:JR00051524",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Pinetops-North-Carolina-United-States-of-America/Plastic-Case-Production-Operator--1st-shift_JR00051524",
-        "location": "Pinetops, North Carolina, United States of America",
-        "closed": "2026-11-23"
+        "location": "Pinetops, North Carolina, United States of America"
       },
       {
         "title": "ELDS LV SWGR Quality Control Inspector Wiring 2nd shift",
@@ -64201,8 +64237,7 @@
         "date": "N/A",
         "id": "workday:JR00037970",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/New-Berlin-Wisconsin-United-States-of-America/Test-Technician_JR00037970",
-        "location": "New Berlin, Wisconsin, United States of America",
-        "closed": "2026-11-24"
+        "location": "New Berlin, Wisconsin, United States of America"
       },
       {
         "title": "Warranty Customer Care Representative",
@@ -65976,6 +66011,27 @@
         "id": "workday:JR00053234",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Raleigh/Senior-R-D-Electronics-Engineer_JR00053234",
         "location": "USA, NC, Raleigh"
+      },
+      {
+        "title": "Master Data Specialist",
+        "date": "2026-11-24",
+        "id": "workday:JR00054323",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Richmond-Virginia-United-States-of-America/Master-Data-Specialist_JR00054323",
+        "location": "Richmond, Virginia, United States of America"
+      },
+      {
+        "title": "Electro-Mechanical Maintenance Technician",
+        "date": "2026-11-24",
+        "id": "workday:JR00054665",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MO-Saint-Louis/Electro-Mechanical-Maintenance-Technician_JR00054665",
+        "location": "USA, MO, Saint Louis"
+      },
+      {
+        "title": "Metallurgy Area Sales Manager",
+        "date": "2026-11-24",
+        "id": "workday:JR00053772",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-IL-Home-Office/Metallurgy-Area-Sales-Manager_JR00053772",
+        "location": "4 Locations"
       }
     ],
     "Teradyne": [
@@ -66113,7 +66169,8 @@
         "date": "2026-10-14",
         "id": "successfactors:1410133800",
         "url": "https://jobs.teradyne.com/Teradyne/job/Tualatin-Digital-Verification-Engineer-Lead-%28MTD%2C-Tualatin%2C-OR%29-OR/1410133800/",
-        "location": "Tualatin, OR"
+        "location": "Tualatin, OR",
+        "closed": "2026-11-24"
       },
       {
         "title": "Digital Verification Engineer (MTD, San Jose, CA)",
@@ -68440,6 +68497,20 @@
         "id": "successfactors:1453019100",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Field-Application-Engineer-%28Defense-&-Aerospace-TX%2C-NC%2C-SC%2C-GA%2C-FL%2C-MA%2C-NJ%29-MA/1453019100/",
         "location": "North Reading, MA +5"
+      },
+      {
+        "title": "Strategic Account Manager (Semi Sales, San Jose, CA)",
+        "date": "2026-11-24",
+        "id": "successfactors:1453430500",
+        "url": "https://jobs.teradyne.com/Teradyne/job/Sunnyvale-Strategic-Account-Manager-%28Semi-Sales%2C-San-Jose%2C-CA%29-CA-94085/1453430500/",
+        "location": "Sunnyvale, CA"
+      },
+      {
+        "title": "Digital Verification Engineer (MTD, San Jose, Ca)",
+        "date": "2026-11-24",
+        "id": "successfactors:1453442100",
+        "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Digital-Verification-Engineer-%28MTD%2C-San-Jose%2C-Ca%29-CA-95101/1453442100/",
+        "location": "San Jose, CA"
       }
     ],
     "KUKA": [
@@ -70211,7 +70282,8 @@
         "date": "2026-10-14",
         "id": "greenhouse:4209149009",
         "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4209149009",
-        "location": "Long Beach, CA"
+        "location": "Long Beach, CA",
+        "closed": "2026-11-24"
       },
       {
         "title": "Chief Engineer",
@@ -71460,6 +71532,20 @@
         "id": "greenhouse:4511132009",
         "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4511132009",
         "location": "Remote"
+      },
+      {
+        "title": "Senior Forward Deployed Engineer \u2013 Space Electronics (Lead)",
+        "date": "2026-11-24",
+        "id": "greenhouse:4510105009",
+        "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4510105009",
+        "location": "Remote"
+      },
+      {
+        "title": "Senior Manufacturing and Process Engineer \u2013 Space-Class SMT (IPC Class 3/3A)",
+        "date": "2026-11-24",
+        "id": "greenhouse:4509398009",
+        "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4509398009",
+        "location": "Long Beach, CA"
       }
     ],
     "FANUC America": [
@@ -81882,7 +81968,8 @@
         "date": "2026-10-22",
         "id": "ashby:f3ddd41c-541f-485e-90d6-86c26e018e9f",
         "url": "https://jobs.ashbyhq.com/openai/f3ddd41c-541f-485e-90d6-86c26e018e9f",
-        "location": "San Francisco +1"
+        "location": "San Francisco +1",
+        "closed": "2026-11-24"
       },
       {
         "title": "Software Engineer, GPU Infrastructure - HPC",
@@ -83148,7 +83235,8 @@
         "date": "2026-10-27",
         "id": "ashby:a57bb806-0d67-48ba-96cc-695667eae41a",
         "url": "https://jobs.ashbyhq.com/openai/a57bb806-0d67-48ba-96cc-695667eae41a",
-        "location": "Singapore"
+        "location": "Singapore",
+        "closed": "2026-11-24"
       },
       {
         "title": "Content Designer",
@@ -85354,6 +85442,20 @@
         "date": "2026-11-24",
         "id": "ashby:07fddd60-30a7-45fb-8564-f0ad1cd75716",
         "url": "https://jobs.ashbyhq.com/openai/07fddd60-30a7-45fb-8564-f0ad1cd75716",
+        "location": "San Francisco"
+      },
+      {
+        "title": "Program Manager, People Innovation Labs",
+        "date": "2026-11-24",
+        "id": "ashby:49095b0c-ffea-41be-9cf9-93cb73e40490",
+        "url": "https://jobs.ashbyhq.com/openai/49095b0c-ffea-41be-9cf9-93cb73e40490",
+        "location": "San Francisco"
+      },
+      {
+        "title": "Cloud GTM Program Lead",
+        "date": "2026-11-24",
+        "id": "ashby:76709e27-2fe8-4930-ac87-76a8ef484a67",
+        "url": "https://jobs.ashbyhq.com/openai/76709e27-2fe8-4930-ac87-76a8ef484a67",
         "location": "San Francisco"
       }
     ],
@@ -88050,7 +88152,8 @@
         "title": "\u2b50\ufe0f Systems Engineer Intern - Summer 2027",
         "date": "2026-10-26",
         "id": "eightfold:996477472821",
-        "closed": "N/A"
+        "url": "https://lockheedmartin.eightfold.ai/careers/job/996478146174",
+        "location": "King of Prussia, PA"
       },
       {
         "title": "\u2b50\ufe0f Test-Intern",
@@ -89139,6 +89242,13 @@
         "id": "eightfold:996477675469",
         "url": "https://lockheedmartin.eightfold.ai/careers/job/996477675469",
         "location": "Sunnyvale, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Digital Signal Processing Spring Internship",
+        "date": "2026-11-24",
+        "id": "eightfold:996478132057",
+        "url": "https://lockheedmartin.eightfold.ai/careers/job/996478132057",
+        "location": "Cherry Hill, NJ"
       }
     ],
     "Vecna Robotics": [
@@ -101019,6 +101129,13 @@
         "id": "workday:JR101753",
         "url": "https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Louisville-Kentucky/Manager--Facilities-Operations_JR101753",
         "location": "Louisville, Kentucky"
+      },
+      {
+        "title": "Head of Electrical and Software Engineering",
+        "date": "2026-11-24",
+        "id": "workday:JR101754",
+        "url": "https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Troy-Michigan/Head-of-Electrical-and-Software-Engineering_JR101754",
+        "location": "Troy, Michigan"
       }
     ],
     "Beyond Reach Labs": [
@@ -102017,7 +102134,8 @@
         "date": "2026-11-02",
         "id": "workday:R51238",
         "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Bradenton-Florida-United-States/Student-Painter---1st-Shift_R51238",
-        "location": "Bradenton, Florida, United States"
+        "location": "Bradenton, Florida, United States",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f Industrial Design Intern",
@@ -122441,6 +122559,13 @@
         "url": "https://jobs.comcast.com/job/philadelphia/spring-events-intern/45483/103390034848",
         "location": "Philadelphia, PA",
         "closed": "2026-11-17"
+      },
+      {
+        "title": "\u2b50\ufe0f Spring 2027 Accounting Intern",
+        "date": "2026-11-24",
+        "id": "talentbrew:103732997952",
+        "url": "https://jobs.comcast.com/job/philadelphia/spring-2027-accounting-intern/45483/103732997952",
+        "location": "Philadelphia, PA"
       }
     ],
     "HP": [
@@ -122513,7 +122638,8 @@
         "date": "N/A",
         "id": "eightfold:43321507",
         "url": "https://apply.hp.com/careers/job/43321507",
-        "location": "Spring, TX"
+        "location": "Spring, TX",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f Chemical Engineer / Chemist Postdoctoral Intern",
@@ -122973,7 +123099,8 @@
         "date": "N/A",
         "id": "workday:R0000447451",
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/4521-S-Laburnum-Ave-RichmondVA-23231-2421/Store-Executive-Intern--Store-Leadership-Intern----Virginia--Starting-Summer-2027---_R0000447451",
-        "location": "10 Locations"
+        "location": "10 Locations",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f UX Design Internship - Minneapolis, MN (Starting Summer, 2027)",
@@ -123065,7 +123192,8 @@
         "date": "N/A",
         "id": "workday:R0000449251",
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/900-Nicollet-Mall-MinneapolisMN-55403-2530/Store-Executive-Intern--Store-Leadership-Intern----Greater-Minneapolis--MN--Starting-Summer-2027------_R0000449251",
-        "location": "42 Locations"
+        "location": "42 Locations",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f Store Executive Intern (Store Leadership Intern) - Algonquin, IL (Starting Summer 2027) \u200b \u200b",
@@ -123079,7 +123207,8 @@
         "date": "N/A",
         "id": "workday:R0000449243",
         "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/201-Junction-Rd-MadisonWI-53717-2615/Store-Executive-Intern--Store-Leadership-Intern----Madison--WI--Starting-Summer-2027------_R0000449243",
-        "location": "10 Locations"
+        "location": "10 Locations",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f Store Executive Intern (Store Leadership Intern) - Cedar Rapids, IA (Starting Summer 2027) \u200b \u200b",
@@ -123707,6 +123836,10 @@
       {
         "title": "\u2b50\ufe0f Intern - Propulsion Dynamics Graduate Intern",
         "date": "2026-11-18"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern - Electrical/Imagery Test & Design Engineer Spring Intern",
+        "date": "2026-11-24"
       }
     ],
     "Mercedes Benz": [],
@@ -124842,14 +124975,16 @@
         "date": "N/A",
         "id": "phenom:R117860",
         "url": "https://careers.mitre.org/us/en/job/R117860/National-and-Defense-Intelligence-Intern",
-        "location": "McLean, VA +1"
+        "location": "McLean, VA +1",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f National and Defense Intelligence Intern",
         "date": "N/A",
         "id": "phenom:R117405",
         "url": "https://careers.mitre.org/us/en/job/R117405/National-and-Defense-Intelligence-Intern",
-        "location": "McLean, VA +1"
+        "location": "McLean, VA +1",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f Wireless Communications Modeling & Simulation Intern",
@@ -125097,6 +125232,13 @@
         "date": "2026-11-24",
         "id": "workday:JR003188",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/HWIL---Real-Time-Simulation-Intern--Summer-2027-_JR003188",
+        "location": "Cambridge, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Simulation Engineering Intern (Summer 2027)",
+        "date": "2026-11-24",
+        "id": "workday:JR003181",
+        "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Simulation-Engineering-Intern--Summer-2027-_JR003181",
         "location": "Cambridge, MA"
       }
     ],
