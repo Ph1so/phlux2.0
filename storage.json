@@ -1311,8 +1311,7 @@
         "date": "2026-11-09",
         "id": "eightfold:1970393557070079",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557070079",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-24"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Product Manager: Internship Opportunities",
@@ -8215,6 +8214,13 @@
         "id": "workday:R3380",
         "url": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Advanced-Manufacturing-Engineering-Co-Op_R3380",
         "location": "Waltham Office (POST)"
+      },
+      {
+        "title": "\u2b50\ufe0f Platform Mechanical Engineer Co-Op",
+        "date": "2026-11-24",
+        "id": "workday:R3416",
+        "url": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Platform-Mechanical-Engineer-Co-Op_R3416",
+        "location": "Waltham Office (POST)"
       }
     ],
     "Skydio": [
@@ -14432,7 +14438,8 @@
         "date": "N/A",
         "id": "greenhouse:5986772004",
         "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=5986772004",
-        "location": "Hybrid- Fremont, CA"
+        "location": "Hybrid- Fremont, CA",
+        "closed": "2026-11-24"
       },
       {
         "title": "Robot Operator II",
@@ -15614,7 +15621,8 @@
         "date": "2026-10-20",
         "id": "greenhouse:8902739002",
         "url": "https://boards.greenhouse.io/pathrobotics/jobs/8902739002?gh_jid=8902739002",
-        "location": "Columbus, Ohio"
+        "location": "Columbus, Ohio",
+        "closed": "2026-11-24"
       },
       {
         "title": "Account Executive, Northeast Territory",
@@ -17045,7 +17053,8 @@
         "date": "N/A",
         "id": "greenhouse:7994169003",
         "url": "https://motional.com/open-positions/?gh_jid=7994169003#/7994169003",
-        "location": "Boston, Massachusetts, United States; Las Vegas, Nevada, United States; Pittsburgh, Pennsylvania, United States"
+        "location": "Boston, Massachusetts, United States; Las Vegas, Nevada, United States; Pittsburgh, Pennsylvania, United States",
+        "closed": "2026-11-24"
       },
       {
         "title": "Senior Systems Engineer, Robotaxi Systems",
@@ -47570,6 +47579,13 @@
         "id": "greenhouse:4514014009",
         "url": "https://job-boards.greenhouse.io/nimblerobotics/jobs/4514014009",
         "location": "South San Francisco, CA"
+      },
+      {
+        "title": "Maintenance Development Engineer",
+        "date": "2026-11-24",
+        "id": "greenhouse:4520309009",
+        "url": "https://job-boards.greenhouse.io/nimblerobotics/jobs/4520309009",
+        "location": "Haslet, TX"
       }
     ],
     "Outrider": [
@@ -52556,6 +52572,13 @@
         "id": "ashby:cd639be2-3b9e-4e88-9776-93092aebe939",
         "url": "https://jobs.ashbyhq.com/saronic/cd639be2-3b9e-4e88-9776-93092aebe939",
         "location": "Arlington, VA"
+      },
+      {
+        "title": "Quality Assurance Engineer",
+        "date": "2026-11-24",
+        "id": "ashby:1ef2c166-09df-4eaf-9070-b41fe271e5b5",
+        "url": "https://jobs.ashbyhq.com/saronic/1ef2c166-09df-4eaf-9070-b41fe271e5b5",
+        "location": "Austin, TX"
       }
     ],
     "Built Robotics": [
@@ -63803,8 +63826,7 @@
         "date": "N/A",
         "id": "workday:JR00049611",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Arizona-United-States-of-America/CoE-Field-Service-Operations-Manager---Data-Center-Division_JR00049611",
-        "location": "54 Locations",
-        "closed": "2026-11-22"
+        "location": "54 Locations"
       },
       {
         "title": "ELDS MV SWGR Production Operator- 2nd shift",
@@ -64481,8 +64503,7 @@
         "date": "N/A",
         "id": "workday:JR00047579",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-CT-Bloomfield/R-D-Early-Career-Program--US--2027-Cohort_JR00047579",
-        "location": "5 Locations",
-        "closed": "2026-11-23"
+        "location": "5 Locations"
       },
       {
         "title": "Discovery Information Systems Track - 2027",
@@ -65628,8 +65649,7 @@
         "date": "2026-11-18",
         "id": "workday:JR00053794",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Fort-Smith-Arkansas-United-States-of-America/TTX-Varnish-Stator-Turn-Team--3rd-Shift-_JR00053794",
-        "location": "Fort Smith, Arkansas, United States of America",
-        "closed": "2026-11-23"
+        "location": "Fort Smith, Arkansas, United States of America"
       },
       {
         "title": "Area Sales Manager - OEM",
@@ -67566,7 +67586,8 @@
         "date": "N/A",
         "id": "successfactors:1436064900",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Sr_-AI-Software-Engineer-%28Compute-Test%2C-North-Reading%29-MA/1436064900/",
-        "location": "North Reading, MA"
+        "location": "North Reading, MA",
+        "closed": "2026-11-24"
       },
       {
         "title": "Engineering Project Manager (Teradyne, North Reading, MA)",
@@ -67695,8 +67716,7 @@
         "date": "N/A",
         "id": "successfactors:1434675200",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Sr_-Software-Engineer-%28Compute-Test%2C-North-Reading%29-MA/1434675200/",
-        "location": "North Reading, MA",
-        "closed": "2026-11-16"
+        "location": "North Reading, MA"
       },
       {
         "title": "Field Application Engineer (SEG; North Reading, MA)",
@@ -71393,6 +71413,27 @@
         "date": "2026-11-23",
         "id": "greenhouse:4509639009",
         "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4509639009",
+        "location": "Remote"
+      },
+      {
+        "title": "Forward Deployed Engineer \u2013 Space Electronics",
+        "date": "2026-11-24",
+        "id": "greenhouse:4510109009",
+        "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4510109009",
+        "location": "Remote"
+      },
+      {
+        "title": "Staff Agentic Engineer \u2013 Assured Software & Formal Methods (Lead)",
+        "date": "2026-11-24",
+        "id": "greenhouse:4511191009",
+        "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4511191009",
+        "location": "Remote"
+      },
+      {
+        "title": "Staff Agentic Systems Engineer",
+        "date": "2026-11-24",
+        "id": "greenhouse:4511132009",
+        "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4511132009",
         "location": "Remote"
       }
     ],
@@ -77158,6 +77199,13 @@
         "id": "workday:R10261918",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs-CO_R10261918",
         "location": "United States-Colorado-Colorado Springs"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Financial Reporting Intern - McLean VA",
+        "date": "2026-11-24",
+        "id": "workday:R10261891",
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/XMLNAME-2027-Financial-Reporting-Intern---McLean-VA_R10261891",
+        "location": "United States-Virginia-McLean"
       }
     ],
     "OpenAI": [
@@ -85268,6 +85316,20 @@
         "id": "ashby:27ffc700-ce7c-47e1-bb92-7a9ed846669b",
         "url": "https://jobs.ashbyhq.com/openai/27ffc700-ce7c-47e1-bb92-7a9ed846669b",
         "location": "Singapore"
+      },
+      {
+        "title": "Integrations Architect - Enterprise Systems",
+        "date": "2026-11-24",
+        "id": "ashby:f772d873-6bfb-4ed1-bfae-af9fafc3e561",
+        "url": "https://jobs.ashbyhq.com/openai/f772d873-6bfb-4ed1-bfae-af9fafc3e561",
+        "location": "San Francisco"
+      },
+      {
+        "title": "Global Head of Applied AI Engineering, SMB / Mid-Market",
+        "date": "2026-11-24",
+        "id": "ashby:07fddd60-30a7-45fb-8564-f0ad1cd75716",
+        "url": "https://jobs.ashbyhq.com/openai/07fddd60-30a7-45fb-8564-f0ad1cd75716",
+        "location": "San Francisco"
       }
     ],
     "John Deere": [
@@ -89259,6 +89321,13 @@
         "id": "ashby:ecf265c6-e2da-44ba-a63e-349d424e74b8",
         "url": "https://jobs.ashbyhq.com/neura-robotics-gmbh/ecf265c6-e2da-44ba-a63e-349d424e74b8",
         "location": "I14"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern - System Testing",
+        "date": "2026-11-24",
+        "id": "ashby:2e7c60de-bdf4-487b-8e88-61c93a746f45",
+        "url": "https://jobs.ashbyhq.com/neura-robotics-gmbh/2e7c60de-bdf4-487b-8e88-61c93a746f45",
+        "location": "Metzingen / Riederich"
       }
     ],
     "Mundane": [
@@ -128707,8 +128776,8 @@
   },
   "email_threads": {
     "internship": {
-      "date": "2026-11-23",
-      "message_id": "<179544014988.2596.7104192017520940238@phlux>"
+      "date": "2026-11-24",
+      "message_id": "<179553411170.2470.14739651950242610064@phlux>"
     },
     "internship_all": {
       "date": "2026-11-24",
@@ -129038,11 +129107,11 @@
     },
     "Citadel": {
       "since": "2026-11-12",
-      "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
+      "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.citadel.com/sitemap/career.xml"
     },
     "Tesla": {
       "since": "2026-11-24",
-      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: HTTP 403; undetected-chromedriver: Refused: page denied)"
+      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
     }
   },
   "closures_untracked": {
