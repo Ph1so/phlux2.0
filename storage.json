@@ -1081,7 +1081,8 @@
         "date": "2026-10-16",
         "id": "eightfold:1970393557041730",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557045445",
-        "location": "United States, Washington, Redmond +1"
+        "location": "United States, Washington, Redmond +1",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Machine Learning at MSR NYC",
@@ -6530,8 +6531,7 @@
         "date": "N/A",
         "id": "jibe:32103",
         "url": "https://careers.rivian.com/careers-home/jobs/32103",
-        "location": "Seattle, WA +4",
-        "closed": "2026-11-20"
+        "location": "Seattle, WA +4"
       },
       {
         "title": "Early Career - Resident Engineer, Exteriors",
@@ -10659,7 +10659,8 @@
         "date": "2026-10-13",
         "id": "tesla:253454",
         "url": "https://www.tesla.com/careers/search/job/internship-reinforcement-learning-engineer-optimus-summer-2026-253454",
-        "location": "Palo Alto, CA"
+        "location": "Palo Alto, CA",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f Internship, Technical Program Manager, Optimus (Fall 2026)",
@@ -14248,7 +14249,8 @@
         "date": "N/A",
         "id": "greenhouse:5986750004",
         "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=5986750004",
-        "location": "Hybrid- Fremont, CA"
+        "location": "Hybrid- Fremont, CA",
+        "closed": "2026-11-24"
       },
       {
         "title": "Staff Electrical Engineer",
@@ -14797,7 +14799,8 @@
         "date": "2026-10-16",
         "id": "greenhouse:6227252004",
         "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6227252004",
-        "location": "Hybrid- Fremont, CA"
+        "location": "Hybrid- Fremont, CA",
+        "closed": "2026-11-24"
       },
       {
         "title": "Manager. Accounts Payable",
@@ -15020,6 +15023,27 @@
         "id": "greenhouse:6208286004",
         "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6208286004",
         "location": "Remote"
+      },
+      {
+        "title": "Cost Engineer",
+        "date": "2026-11-24",
+        "id": "greenhouse:6268875004",
+        "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6268875004",
+        "location": "Hybrid- Fremont, CA"
+      },
+      {
+        "title": "Manager, Supplier Industrialization Engineering",
+        "date": "2026-11-24",
+        "id": "greenhouse:6269237004",
+        "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6269237004",
+        "location": "Remote"
+      },
+      {
+        "title": "Senior Mechanical Engineer",
+        "date": "2026-11-24",
+        "id": "greenhouse:6270730004",
+        "url": "https://www.agilityrobotics.com/about/job-post?gh_jid=6270730004",
+        "location": "Hybrid- Fremont, CA"
       }
     ],
     "Cobot": [
@@ -25101,7 +25125,8 @@
         "date": "2026-10-29",
         "id": "lever:8703109b-1cb5-4e78-999a-7093ca4407e2",
         "url": "https://jobs.lever.co/zoox/8703109b-1cb5-4e78-999a-7093ca4407e2",
-        "location": "Foster City, CA"
+        "location": "Foster City, CA",
+        "closed": "2026-11-24"
       },
       {
         "title": "Systems Engineer, Motion Controls Safety",
@@ -25579,6 +25604,13 @@
         "date": "2026-11-24",
         "id": "lever:6a06c4b3-a7f3-4726-a64f-6696c25bb45a",
         "url": "https://jobs.lever.co/zoox/6a06c4b3-a7f3-4726-a64f-6696c25bb45a",
+        "location": "Foster City, CA"
+      },
+      {
+        "title": "Manager/Technical Lead, System Safety (Ops & Cloud SW)",
+        "date": "2026-11-24",
+        "id": "lever:6da01a1b-2917-478d-8955-d1d1494944a3",
+        "url": "https://jobs.lever.co/zoox/6da01a1b-2917-478d-8955-d1d1494944a3",
         "location": "Foster City, CA"
       }
     ],
@@ -39389,7 +39421,8 @@
         "date": "N/A",
         "id": "ashby:c3543196-e23c-4f4b-b460-fca476ffead6",
         "url": "https://jobs.ashbyhq.com/applied/c3543196-e23c-4f4b-b460-fca476ffead6",
-        "location": "Sunnyvale"
+        "location": "Sunnyvale",
+        "closed": "2026-11-24"
       },
       {
         "title": "Software Engineer (SDS Hardware-in-the-Loop)",
@@ -46368,6 +46401,20 @@
         "date": "2026-11-24",
         "id": "google:136050801037451974",
         "url": "https://www.google.com/about/careers/applications/jobs/results/136050801037451974",
+        "location": "Mountain View, CA"
+      },
+      {
+        "title": "Principal Engineer, Agent Harness and Capabilities, GeminiApp, DeepMind",
+        "date": "2026-11-24",
+        "id": "google:122416307097215686",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/122416307097215686",
+        "location": "Mountain View, CA"
+      },
+      {
+        "title": "Director, Engineering, GeminiApp Ads, DeepMind",
+        "date": "2026-11-24",
+        "id": "google:117956687934956230",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/117956687934956230",
         "location": "Mountain View, CA"
       }
     ],
@@ -80684,7 +80731,8 @@
         "date": "2026-10-22",
         "id": "ashby:a73cfbfc-aeed-4bad-b57d-79fd30dcd9c8",
         "url": "https://jobs.ashbyhq.com/openai/a73cfbfc-aeed-4bad-b57d-79fd30dcd9c8",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-24"
       },
       {
         "title": "Global Head of Events",
@@ -85856,6 +85904,34 @@
         "id": "ashby:c7af5de8-ecd3-4d0e-99fb-72a8d81111e3",
         "url": "https://jobs.ashbyhq.com/openai/c7af5de8-ecd3-4d0e-99fb-72a8d81111e3",
         "location": "Washington, DC"
+      },
+      {
+        "title": "Forward Deployed Engineer (FDE), Life Sciences - London",
+        "date": "2026-11-24",
+        "id": "ashby:d2ab1c9b-5c0c-4b43-a7c3-c9301854c023",
+        "url": "https://jobs.ashbyhq.com/openai/d2ab1c9b-5c0c-4b43-a7c3-c9301854c023",
+        "location": "London, UK"
+      },
+      {
+        "title": "Software Engineer, Full Stack \u2014 ChatGPT Voice",
+        "date": "2026-11-24",
+        "id": "ashby:0d06daee-298b-4594-a67b-8955d07adb22",
+        "url": "https://jobs.ashbyhq.com/openai/0d06daee-298b-4594-a67b-8955d07adb22",
+        "location": "San Francisco"
+      },
+      {
+        "title": "Software Engineer, Backend \u2014 ChatGPT Voice",
+        "date": "2026-11-24",
+        "id": "ashby:d22b6934-3bdc-459f-b801-87195d79be8a",
+        "url": "https://jobs.ashbyhq.com/openai/d22b6934-3bdc-459f-b801-87195d79be8a",
+        "location": "San Francisco"
+      },
+      {
+        "title": "Senior Commercial Counsel, EMEA",
+        "date": "2026-11-24",
+        "id": "ashby:30e110bf-c2d8-4458-a7de-9a26b0968bd1",
+        "url": "https://jobs.ashbyhq.com/openai/30e110bf-c2d8-4458-a7de-9a26b0968bd1",
+        "location": "Munich, Germany +1"
       }
     ],
     "John Deere": [
@@ -89656,6 +89732,13 @@
         "id": "eightfold:996477597621",
         "url": "https://lockheedmartin.eightfold.ai/careers/job/996477597621",
         "location": "King of Prussia, PA"
+      },
+      {
+        "title": "\u2b50\ufe0f Satellite Operations Intern",
+        "date": "2026-11-24",
+        "id": "eightfold:996477890213",
+        "url": "https://lockheedmartin.eightfold.ai/careers/job/996477890213",
+        "location": "Sunnyvale, CA"
       }
     ],
     "Vecna Robotics": [
@@ -94353,14 +94436,16 @@
         "title": "Safeguards Enforcement Analyst, Cyber Harm",
         "date": "2026-10-27",
         "id": "greenhouse:5311159008",
-        "closed": "N/A"
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5311159008",
+        "location": "Boston, MA; San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC"
       },
       {
         "title": "Safeguards Enforcement Analyst, Integrity & Authenticity",
         "date": "2026-10-27",
         "id": "greenhouse:5311149008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5311149008",
-        "location": "San Francisco, CA | New York City, NY | Washington, DC"
+        "location": "San Francisco, CA | New York City, NY | Washington, DC",
+        "closed": "2026-11-24"
       },
       {
         "title": "Safeguards Enforcement Analyst, Safety Evaluations",
@@ -97042,6 +97127,27 @@
         "id": "greenhouse:5490502008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5490502008",
         "location": "San Francisco, CA"
+      },
+      {
+        "title": "Engineering Manager, Cybersecurity Products",
+        "date": "2026-11-24",
+        "id": "greenhouse:5494120008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5494120008",
+        "location": "San Francisco, CA | New York City, NY"
+      },
+      {
+        "title": "Manager, Compliance & Regulatory Operations",
+        "date": "2026-11-24",
+        "id": "greenhouse:5489900008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5489900008",
+        "location": "San Francisco, CA | New York City, NY | Washington, DC"
+      },
+      {
+        "title": "Program Operations, Coordination & Logistics, Claude Frontier Academy",
+        "date": "2026-11-24",
+        "id": "greenhouse:5391277008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391277008",
+        "location": "San Francisco, CA | New York City, NY"
       }
     ],
     "xAI": [
@@ -99756,6 +99862,20 @@
         "id": "greenhouse:5308378007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5308378007",
         "location": "Austin, TX"
+      },
+      {
+        "title": "Lead Automation & Controls Engineer, Data Center Facilities",
+        "date": "2026-11-24",
+        "id": "greenhouse:5308892007",
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5308892007",
+        "location": "Memphis, TN"
+      },
+      {
+        "title": "Lead Automation & Controls Engineer, Data Center Facilities",
+        "date": "2026-11-24",
+        "id": "greenhouse:5301426007",
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5301426007",
+        "location": "Memphis, TN"
       }
     ],
     "Thinking Machines Lab": [
@@ -127004,7 +127124,8 @@
         "date": "N/A",
         "id": "pinpoint:592195",
         "url": "https://impulsespace.pinpointhq.com/en/postings/ec4478ff-fcbf-4b9e-968d-83317925e706",
-        "location": "Redondo Beach, CA"
+        "location": "Redondo Beach, CA",
+        "closed": "2026-11-24"
       },
       {
         "title": "Facilities Technician",
@@ -129855,10 +129976,6 @@
       "since": "2026-11-24",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
     },
-    "Stryker": {
-      "since": "2026-11-24",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs"
-    },
     "ABB": {
       "since": "2026-11-24",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
@@ -129866,6 +129983,54 @@
     "General Motors": {
       "since": "2026-11-24",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
+    },
+    "Intel": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
+    },
+    "Autodesk": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/uni/jobs"
+    },
+    "Blue Origin": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/BlueOrigin/jobs"
+    },
+    "Workday": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday_Early_Career/jobs"
+    },
+    "Slack": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/Slack/jobs"
+    },
+    "Rockwell Automation": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
+    },
+    "RedHat": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://redhat.wd5.myworkdayjobs.com/wday/cxs/redhat/jobs/jobs"
+    },
+    "Boston Dynamics": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://bostondynamics.wd1.myworkdayjobs.com/wday/cxs/bostondynamics/Boston_Dynamics/jobs"
+    },
+    "Visa": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs"
+    },
+    "Verizon": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://verizon.wd12.myworkdayjobs.com/wday/cxs/verizon/verizon-careers/jobs"
+    },
+    "Northrop Grumman": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ngc.wd1.myworkdayjobs.com/wday/cxs/ngc/Northrop_Grumman_External_Site/jobs"
+    },
+    "Slate Auto": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
     }
   },
   "closures_untracked": {
