@@ -12,7 +12,7 @@
 <p>
   <a href="https://ph1so.github.io/phlux2.0/"><img src="https://img.shields.io/badge/browse-internships-1f5fff?style=flat-square" alt="Browse internships"></a>
   <a href="https://github.com/Ph1so/phlux2.0/actions/workflows/job-scraper.yml"><img src="https://img.shields.io/github/actions/workflow/status/Ph1so/phlux2.0/job-scraper.yml?branch=main&style=flat-square&label=scraper" alt="Scraper status"></a>
-  <img src="https://img.shields.io/badge/roles_tracked-39.1k-475467?style=flat-square" alt="39,137 roles tracked">
+  <img src="https://img.shields.io/badge/roles_tracked-39.1k-475467?style=flat-square" alt="39,145 roles tracked">
 </p>
 
 <p><a href="https://ph1so.github.io/phlux2.0/"><b>Website</b></a> &nbsp;·&nbsp; <a href="listings/README.md"><b>All listings</b></a></p>
@@ -21,7 +21,7 @@
 
 ## Latest roles
 
-Showing the 567 most recent of 39,137 roles tracked across 295 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
+Showing the 569 most recent of 39,145 roles tracked across 295 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
 
 
 <table>
@@ -330,6 +330,27 @@ Showing the 567 most recent of 39,137 roles tracked across 295 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/saronic"><img src="https://cdn.brandfetch.io/saronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saronic" height="20" style="vertical-align:middle; margin-right:6px;"> Saronic</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/saronic/ce956db8-03bd-47e5-b8d9-8d0fe6717295">Senior Manager, Maritime Regulatory Affairs</a></div></td>
+  <td>2026-11-23</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/saronic"><img src="https://cdn.brandfetch.io/saronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saronic" height="20" style="vertical-align:middle; margin-right:6px;"> Saronic</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/saronic/86188e89-145c-4cbe-943c-41b6fe5f4503">Senior Manager, U.S. Defense Market Strategy</a></div></td>
+  <td>2026-11-23</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/saronic"><img src="https://cdn.brandfetch.io/saronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saronic" height="20" style="vertical-align:middle; margin-right:6px;"> Saronic</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/saronic/cd639be2-3b9e-4e88-9776-93092aebe939">Manager, U.S. Defense Market Strategy</a></div></td>
+  <td>2026-11-23</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/anybotics"><img src="https://cdn.brandfetch.io/anybotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ANYbotics" height="20" style="vertical-align:middle; margin-right:6px;"> ANYbotics</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/anybotics/1a5abe1a-e520-4467-b701-509cbd171dd7">IT Security & Systems Specialist</a></div></td>
@@ -610,6 +631,20 @@ Showing the 567 most recent of 39,137 roles tracked across 295 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/mindrobotics"><img src="https://cdn.brandfetch.io/mech-mind.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mind Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Mind Robotics</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/mindrobotics/338ae6e0-e7ca-4004-92dd-f8eed6707be8">Senior Character & Motion Designer – Robotics</a></div></td>
+  <td>2026-11-23</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/mindrobotics"><img src="https://cdn.brandfetch.io/mech-mind.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mind Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Mind Robotics</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/mindrobotics/9e2b54b5-cd74-475e-ae2b-6c106e73c3ea">Senior Industrial Designer- Robotics</a></div></td>
+  <td>2026-11-23</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=ocadogroup"><img src="https://cdn.brandfetch.io/ocado.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Ocado" height="20" style="vertical-align:middle; margin-right:6px;"> Ocado</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ocadogroup.com/jobs/details?gh_jid=5042296101&amp;gh_jid=5042296101">Commercial Finance Manager</a></div></td>
@@ -725,6 +760,20 @@ Showing the 567 most recent of 39,137 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/aa22d0b6-38e9-4853-aff6-bc891ccc9747">Cyber Partner Applied AI Architect</a></div></td>
+  <td>2026-11-23</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/544f33f5-c3f1-47db-b4c0-ef5f82ac618e">Channel Lead, Hardware</a></div></td>
+  <td>2026-11-23</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/d7a54e99-137c-4608-af98-5ff88df54685">Visual Merchant, Hardware</a></div></td>
   <td>2026-11-23</td>
 </tr>
   <tr>
@@ -900,6 +949,13 @@ Showing the 567 most recent of 39,137 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers"><img src="https://cdn.brandfetch.io/rockwellautomation.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Rockwell Automation" height="20" style="vertical-align:middle; margin-right:6px;"> Rockwell Automation</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Milwaukee-Wisconsin-United-States/Intern--Software-Engineer_R26-5303-1">⭐️ Intern, Software Engineer</a></div></td>
+  <td>2026-11-23</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers"><img src="https://cdn.brandfetch.io/rockwellautomation.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Rockwell Automation" height="20" style="vertical-align:middle; margin-right:6px;"> Rockwell Automation</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mequon-Wisconsin-United-States/Intern--Mechatronics---Electromagnetics_R26-8372-1">⭐️ Intern, Mechatronics & Electromagnetics</a></div></td>
   <td>2026-11-23</td>
 </tr>
   <tr>
@@ -3959,48 +4015,6 @@ Showing the 567 most recent of 39,137 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/cohere/"><img src="https://cdn.brandfetch.io/cohere.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Cohere" height="20" style="vertical-align:middle; margin-right:6px;"> Cohere</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/cohere/53c89232-1de7-42b5-ab9d-b5290451c7e8">Financial Analyst, G&A</a></div></td>
-  <td>2026-11-19</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://lifeattiktok.com/search?recruitment_id_list=202%2C301&job_category_id_list=&subject_id_list=7459985269216905480%2C7459988146945116434%2C7602165694751705397%2C7602166391986194741%2C7602165701485299973%2C7602165694713678133&location_code_list=CT_247%2CCT_94%2CCT_243%2CCT_104%2CCT_114%2CCT_75%2CCT_1103355%2CCT_157%2CCT_233&limit=12&offset=0"><img src="https://cdn.brandfetch.io/tiktok.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="TikTok" height="20" style="vertical-align:middle; margin-right:6px;"> TikTok</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://lifeattiktok.com/search/7709668540185856261">⭐️ Talent Acquisition Intern (TikTok Shop) - 2027 Start</a></div></td>
-  <td>2026-11-19</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/mongodb"><img src="https://cdn.brandfetch.io/mongodb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="MongoDB" height="20" style="vertical-align:middle; margin-right:6px;"> MongoDB</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.mongodb.com/careers/job/?gh_jid=8346138">⭐️ 2027 - AI and People Transformation Intern, NYC</a></div></td>
-  <td>2026-11-19</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/mongodb"><img src="https://cdn.brandfetch.io/mongodb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="MongoDB" height="20" style="vertical-align:middle; margin-right:6px;"> MongoDB</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.mongodb.com/careers/job/?gh_jid=8301842">⭐️ 2027 - Tax Intern, New York City</a></div></td>
-  <td>2026-11-19</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://expedia.wd108.myworkdayjobs.com/search?workerSubType=c553432013ba103b0b56537ed4c71d12"><img src="https://cdn.brandfetch.io/expediagroup.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Expedia" height="20" style="vertical-align:middle; margin-right:6px;"> Expedia</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Applied-Science-Intern---PhD---2027---London_R-110737">⭐️ Applied Science Intern - PhD - 2027 - London</a></div></td>
-  <td>2026-11-19</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://expedia.wd108.myworkdayjobs.com/search?workerSubType=c553432013ba103b0b56537ed4c71d12"><img src="https://cdn.brandfetch.io/expediagroup.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Expedia" height="20" style="vertical-align:middle; margin-right:6px;"> Expedia</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545-1">⭐️ Mobile Engineering Intern - 2027 - London</a></div></td>
-  <td>2026-11-19</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/jobs"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.sig.com/jobs/13862">Discovery Programme : Macro Analyst (On-Site)</a></div></td>
   <td>2026-11-19</td>
 </tr>
 

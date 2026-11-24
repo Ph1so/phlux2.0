@@ -883,8 +883,7 @@
         "date": "2026-10-09",
         "id": "eightfold:1970393557037649",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557037649",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-23"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Cloud Network Engineering Internship Oportunities",
@@ -943,13 +942,11 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393556983221",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-23"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Intern - CTJ - TS",
-        "date": "2026-10-13",
-        "closed": "2026-11-23"
+        "date": "2026-10-13"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Security Research Group, Microsoft Research Redmond",
@@ -1063,15 +1060,15 @@
         "date": "2026-10-15",
         "id": "eightfold:1970393557027387",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557027387",
-        "location": "United States, Washington, Redmond +1",
-        "closed": "2026-11-23"
+        "location": "United States, Washington, Redmond +1"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Efficient AI Software Systems",
         "date": "2026-10-15",
         "id": "eightfold:1970393557041731",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Gray Systems Lab (GSL)",
@@ -1184,8 +1181,7 @@
         "date": "2026-10-23",
         "id": "eightfold:1970393557045963",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557045963",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-23"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Business Program Management INTERN (CO+I Exec)",
@@ -1243,8 +1239,7 @@
         "date": "2026-11-02",
         "id": "eightfold:1970393557043712",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557043712",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-23"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Explore Program Engineering Internship Opportunities: First-Year Students, Redmond",
@@ -1282,14 +1277,16 @@
         "date": "2026-11-02",
         "id": "eightfold:1970393557053016",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557053016",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Coding Agents & Post-Training Optimization",
         "date": "2026-11-02",
         "id": "eightfold:1970393557053024",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557053024",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer, Teamwork Experiences Internship Opportunities",
@@ -1375,8 +1372,7 @@
         "date": "2026-11-17",
         "id": "eightfold:1970393557075140",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557075140",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-23"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Self-Improving & Secure AI Agents - Microsoft Research",
@@ -19360,7 +19356,8 @@
         "date": "2026-11-19",
         "id": "greenhouse:5290800007",
         "url": "https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007",
-        "location": "Newark, CA"
+        "location": "Newark, CA",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f Intern, Infotainment Software, Summer 2027",
@@ -52473,6 +52470,27 @@
         "id": "ashby:5cd3fc86-39bc-4787-aaac-2e6d58f12f90",
         "url": "https://jobs.ashbyhq.com/saronic/5cd3fc86-39bc-4787-aaac-2e6d58f12f90",
         "location": "Arlington, VA"
+      },
+      {
+        "title": "Senior Manager, Maritime Regulatory Affairs",
+        "date": "2026-11-23",
+        "id": "ashby:ce956db8-03bd-47e5-b8d9-8d0fe6717295",
+        "url": "https://jobs.ashbyhq.com/saronic/ce956db8-03bd-47e5-b8d9-8d0fe6717295",
+        "location": "Arlington, VA +2"
+      },
+      {
+        "title": "Senior Manager, U.S. Defense Market Strategy",
+        "date": "2026-11-23",
+        "id": "ashby:86188e89-145c-4cbe-943c-41b6fe5f4503",
+        "url": "https://jobs.ashbyhq.com/saronic/86188e89-145c-4cbe-943c-41b6fe5f4503",
+        "location": "Arlington, VA"
+      },
+      {
+        "title": "Manager, U.S. Defense Market Strategy",
+        "date": "2026-11-23",
+        "id": "ashby:cd639be2-3b9e-4e88-9776-93092aebe939",
+        "url": "https://jobs.ashbyhq.com/saronic/cd639be2-3b9e-4e88-9776-93092aebe939",
+        "location": "Arlington, VA"
       }
     ],
     "Built Robotics": [
@@ -75523,6 +75541,20 @@
         "id": "ashby:85209949-0189-4031-a192-01d8dea7dd98",
         "url": "https://jobs.ashbyhq.com/mindrobotics/85209949-0189-4031-a192-01d8dea7dd98",
         "location": "San Francisco, CA"
+      },
+      {
+        "title": "Senior Character & Motion Designer \u2013 Robotics",
+        "date": "2026-11-23",
+        "id": "ashby:338ae6e0-e7ca-4004-92dd-f8eed6707be8",
+        "url": "https://jobs.ashbyhq.com/mindrobotics/338ae6e0-e7ca-4004-92dd-f8eed6707be8",
+        "location": "Palo Alto"
+      },
+      {
+        "title": "Senior Industrial Designer- Robotics",
+        "date": "2026-11-23",
+        "id": "ashby:9e2b54b5-cd74-475e-ae2b-6c106e73c3ea",
+        "url": "https://jobs.ashbyhq.com/mindrobotics/9e2b54b5-cd74-475e-ae2b-6c106e73c3ea",
+        "location": "Palo Alto"
       }
     ],
     "Caterpillar": [
@@ -79003,8 +79035,7 @@
         "date": "2026-10-22",
         "id": "ashby:78a49da9-b768-427e-ad01-3e61d80cfea8",
         "url": "https://jobs.ashbyhq.com/openai/78a49da9-b768-427e-ad01-3e61d80cfea8",
-        "location": "London, UK",
-        "closed": "2026-11-23"
+        "location": "London, UK"
       },
       {
         "title": "APAC Sales Development Leader",
@@ -79896,7 +79927,8 @@
         "date": "2026-10-22",
         "id": "ashby:96f3c3a6-9951-4db7-8125-8c0f16e8af62",
         "url": "https://jobs.ashbyhq.com/openai/96f3c3a6-9951-4db7-8125-8c0f16e8af62",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-23"
       },
       {
         "title": "Enterprise Field Marketer",
@@ -84962,6 +84994,20 @@
         "id": "ashby:aa22d0b6-38e9-4853-aff6-bc891ccc9747",
         "url": "https://jobs.ashbyhq.com/openai/aa22d0b6-38e9-4853-aff6-bc891ccc9747",
         "location": "Washington, DC +1"
+      },
+      {
+        "title": "Channel Lead, Hardware",
+        "date": "2026-11-23",
+        "id": "ashby:544f33f5-c3f1-47db-b4c0-ef5f82ac618e",
+        "url": "https://jobs.ashbyhq.com/openai/544f33f5-c3f1-47db-b4c0-ef5f82ac618e",
+        "location": "San Francisco"
+      },
+      {
+        "title": "Visual Merchant, Hardware",
+        "date": "2026-11-23",
+        "id": "ashby:d7a54e99-137c-4608-af98-5ff88df54685",
+        "url": "https://jobs.ashbyhq.com/openai/d7a54e99-137c-4608-af98-5ff88df54685",
+        "location": "San Francisco"
       }
     ],
     "John Deere": [
@@ -116565,8 +116611,7 @@
         "date": "N/A",
         "id": "phenom:R172064",
         "url": "https://careers.adobe.com/us/en/job/R172064/2027-Intern-Applied-and-Research-Scientist-Engineer",
-        "location": "San Jose, CA +5",
-        "closed": "2026-11-23"
+        "location": "San Jose, CA +5"
       },
       {
         "title": "\u2b50\ufe0f 2027 Intern - Solutions Consulting",
@@ -117251,6 +117296,13 @@
         "id": "workday:R26-5303-1",
         "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Milwaukee-Wisconsin-United-States/Intern--Software-Engineer_R26-5303-1",
         "location": "Milwaukee, Wisconsin, United States"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern, Mechatronics & Electromagnetics",
+        "date": "2026-11-23",
+        "id": "workday:R26-8372-1",
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mequon-Wisconsin-United-States/Intern--Mechatronics---Electromagnetics_R26-8372-1",
+        "location": "Mequon, Wisconsin, United States"
       }
     ],
     "Siemens": [
