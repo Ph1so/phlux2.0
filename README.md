@@ -12,7 +12,7 @@
 <p>
   <a href="https://ph1so.github.io/phlux2.0/"><img src="https://img.shields.io/badge/browse-internships-1f5fff?style=flat-square" alt="Browse internships"></a>
   <a href="https://github.com/Ph1so/phlux2.0/actions/workflows/job-scraper.yml"><img src="https://img.shields.io/github/actions/workflow/status/Ph1so/phlux2.0/job-scraper.yml?branch=main&style=flat-square&label=scraper" alt="Scraper status"></a>
-  <img src="https://img.shields.io/badge/roles_tracked-39.2k-475467?style=flat-square" alt="39,216 roles tracked">
+  <img src="https://img.shields.io/badge/roles_tracked-39.2k-475467?style=flat-square" alt="39,223 roles tracked">
 </p>
 
 <p><a href="https://ph1so.github.io/phlux2.0/"><b>Website</b></a> &nbsp;·&nbsp; <a href="listings/README.md"><b>All listings</b></a></p>
@@ -21,7 +21,7 @@
 
 ## Latest roles
 
-Showing the 568 most recent of 39,216 roles tracked across 295 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
+Showing the 570 most recent of 39,223 roles tracked across 295 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
 
 
 <table>
@@ -34,6 +34,13 @@ Showing the 568 most recent of 39,216 roles tracked across 295 companies. ⭐️
   </thead>
   <tbody>
 
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.amazon.jobs/en/search?base_query=intern&country%5B%5D=USA&sort=recent"><img src="https://cdn.brandfetch.io/amazon.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Amazon" height="20" style="vertical-align:middle; margin-right:6px;"> Amazon</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.amazon.jobs/en/jobs/10612929/systems-development-engineer-systems-operations-and-scaling-one-mhs">Systems Development Engineer, Systems Operations and Scaling, One MHS</a></div></td>
+  <td>2026-11-24</td>
+</tr>
   <tr>
   <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/?workerSubType=fbfd99a3c13201ab06a11542991f9208"><img src="https://cdn.brandfetch.io/bostondynamics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boston Dynamics" height="20" style="vertical-align:middle; margin-right:6px;"> Boston Dynamics</a></div>
@@ -53,6 +60,20 @@ Showing the 568 most recent of 39,216 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/zoox/9794061d-dde9-42d1-996a-8e21d5ac2433">Operations Program Manager, Manufacturing Operations</a></div></td>
+  <td>2026-11-24</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/zoox/6a06c4b3-a7f3-4726-a64f-6696c25bb45a">Director, Advanced Hardware Manufacturing</a></div></td>
+  <td>2026-11-24</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/serverobotics/"><img src="https://cdn.brandfetch.io/serverobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Serve Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Serve Robotics</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/serverobotics/63d46677-1de0-45eb-8aa5-818f5250b163">Director, Government Affairs</a></div></td>
   <td>2026-11-24</td>
 </tr>
   <tr>
@@ -330,6 +351,20 @@ Showing the 568 most recent of 39,216 roles tracked across 295 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site?workerSubType=a111b0a898f10129e4db58f2e700d97a"><img src="https://cdn.brandfetch.io/northropgrumman.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Northrop Grumman" height="20" style="vertical-align:middle; margin-right:6px;"> Northrop Grumman</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Cybersecurity-Intern---Linthicum-MD_R10261960">⭐️ 2027 Cybersecurity Intern - Linthicum MD</a></div></td>
+  <td>2026-11-24</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site?workerSubType=a111b0a898f10129e4db58f2e700d97a"><img src="https://cdn.brandfetch.io/northropgrumman.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Northrop Grumman" height="20" style="vertical-align:middle; margin-right:6px;"> Northrop Grumman</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Computer-Systems-Intern---Linthicum-MD_R10261959">⭐️ 2027 Computer Systems Intern - Linthicum MD</a></div></td>
+  <td>2026-11-24</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/f5a29cef-1699-4619-ab8f-06b7038038ff">VC Partnerships Lead</a></div></td>
@@ -498,6 +533,13 @@ Showing the 568 most recent of 39,216 roles tracked across 295 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.morganstanley.com/careers/career-opportunities-search?opportunity=sg#"><img src="https://cdn.brandfetch.io/morganstanley.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Morgan Stanley" height="20" style="vertical-align:middle; margin-right:6px;"> Morgan Stanley</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://morganstanley.tal.net/vx/candidate/so/pm/1/pl/1/opp/21601">⭐️ 2027 Sales & Trading Off-Cycle Internship (Zurich)</a></div></td>
+  <td>2026-11-24</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.amd.com/careers-home/jobs?categories=Student%20%2F%20Intern%20%2F%20Temp&tags1=No&country=United%20States"><img src="https://cdn.brandfetch.io/amd.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="AMD" height="20" style="vertical-align:middle; margin-right:6px;"> AMD</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.amd.com/careers-home/jobs/89564">⭐️ Spring/Summer 2027 Masters AI Rack/Cluster Design Engineering Co-Op</a></div></td>
@@ -508,6 +550,13 @@ Showing the 568 most recent of 39,216 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/jobs"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.sig.com/jobs/14555">Discovery Event: Women at Susquehanna (Virtual)</a></div></td>
+  <td>2026-11-24</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/jobs"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.sig.com/jobs/12047">Data Engineer \| Compliance Technology \| Experienced Hire</a></div></td>
   <td>2026-11-24</td>
 </tr>
   <tr>
@@ -3973,41 +4022,6 @@ Showing the 568 most recent of 39,216 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jj.wd5.myworkdayjobs.com/en-US/JJ?workerSubType=ca32b336cc4a472a863c62c03f6e63b6&workerSubType=c8cdc206cb91013d31d96bb30f801468"><img src="https://cdn.brandfetch.io/jnj.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Johnson & Johnson" height="20" style="vertical-align:middle; margin-right:6px;"> Johnson & Johnson</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Milano-Italy/Stage-in-Medical-Affairs--Pharma-_R-111669-1">Stage in Medical Affairs (Pharma)</a></div></td>
-  <td>2026-11-19</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic"><img src="https://cdn.brandfetch.io/symbotic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Symbotic" height="20" style="vertical-align:middle; margin-right:6px;"> Symbotic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Staff-Release-Manager_R8556">Staff Release Manager</a></div></td>
-  <td>2026-11-19</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic"><img src="https://cdn.brandfetch.io/symbotic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Symbotic" height="20" style="vertical-align:middle; margin-right:6px;"> Symbotic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Manager--Accounting--Confidential-_R8470-1">Manager, Accounting (Confidential)</a></div></td>
-  <td>2026-11-19</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic"><img src="https://cdn.brandfetch.io/symbotic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Symbotic" height="20" style="vertical-align:middle; margin-right:6px;"> Symbotic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Milpitas-CA/Staff-Mechanical-Engineer---Mobile-Bot_R8316">Staff Mechanical Engineer - Mobile Bot</a></div></td>
-  <td>2026-11-19</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://proceptbiorobotics.wd108.myworkdayjobs.com/PROCEPT?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/procept-biorobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="PROCEPT BioRobotics" height="20" style="vertical-align:middle; margin-right:6px;"> PROCEPT BioRobotics</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://proceptbiorobotics.wd108.myworkdayjobs.com/PROCEPT/job/Headquarters/Director--Patient-Marketing_2026-R354">Director, Patient Marketing</a></div></td>
-  <td>2026-11-19</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Arecibo-Puerto-Rico/Procurement-Specialist_JR00046990">Procurement Specialist</a></div></td>
   <td>2026-11-19</td>
 </tr>
 

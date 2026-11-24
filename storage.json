@@ -2922,6 +2922,13 @@
         "id": "amazon:10612193",
         "url": "https://www.amazon.jobs/en/jobs/10612193/human-resources-partner-intern-nationwide-summer-2027",
         "location": "Austin, TX +5"
+      },
+      {
+        "title": "Systems Development Engineer, Systems Operations and Scaling, One MHS",
+        "date": "2026-11-24",
+        "id": "amazon:10612929",
+        "url": "https://www.amazon.jobs/en/jobs/10612929/systems-development-engineer-systems-operations-and-scaling-one-mhs",
+        "location": "Nashville, TN"
       }
     ],
     "Meta": [
@@ -8176,7 +8183,8 @@
         "date": "2026-10-27",
         "id": "workday:R3315",
         "url": "https://bostondynamics.wd1.myworkdayjobs.com/Boston_Dynamics/job/Waltham-Office-POST/Electrical-Engineer-Co-Op_R3315",
-        "location": "Waltham Office (POST)"
+        "location": "Waltham Office (POST)",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f Mechanical Engineer, Atlas Hardware Co-Op",
@@ -25481,6 +25489,13 @@
         "id": "lever:9794061d-dde9-42d1-996a-8e21d5ac2433",
         "url": "https://jobs.lever.co/zoox/9794061d-dde9-42d1-996a-8e21d5ac2433",
         "location": "Foster City, CA"
+      },
+      {
+        "title": "Director, Advanced Hardware Manufacturing",
+        "date": "2026-11-24",
+        "id": "lever:6a06c4b3-a7f3-4726-a64f-6696c25bb45a",
+        "url": "https://jobs.lever.co/zoox/6a06c4b3-a7f3-4726-a64f-6696c25bb45a",
+        "location": "Foster City, CA"
       }
     ],
     "Pony.ai": [
@@ -25835,6 +25850,13 @@
         "id": "ashby:e679069a-8dd8-455f-b004-e3af9edf061e",
         "url": "https://jobs.ashbyhq.com/serverobotics/e679069a-8dd8-455f-b004-e3af9edf061e",
         "location": "DC"
+      },
+      {
+        "title": "Director, Government Affairs",
+        "date": "2026-11-24",
+        "id": "ashby:63d46677-1de0-45eb-8aa5-818f5250b163",
+        "url": "https://jobs.ashbyhq.com/serverobotics/63d46677-1de0-45eb-8aa5-818f5250b163",
+        "location": "USA (remote)"
       }
     ],
     "Nuro": [
@@ -44704,7 +44726,8 @@
         "date": "N/A",
         "id": "google:128200673756881606",
         "url": "https://www.google.com/about/careers/applications/jobs/results/128200673756881606",
-        "location": "Mountain View, CA"
+        "location": "Mountain View, CA",
+        "closed": "2026-11-24"
       },
       {
         "title": "Robotics Platform Software Engineer, DeepMind",
@@ -54007,7 +54030,8 @@
         "date": "2026-10-14",
         "id": "ashby:aab01960-02b3-4f94-bba4-8e8bf1eefc92",
         "url": "https://jobs.ashbyhq.com/hadrian-automation/aab01960-02b3-4f94-bba4-8e8bf1eefc92",
-        "location": "Los Angeles, CA"
+        "location": "Los Angeles, CA",
+        "closed": "2026-11-24"
       },
       {
         "title": "Brand Designer",
@@ -56017,7 +56041,8 @@
         "date": "2026-10-14",
         "id": "rippling:a3f2e3e3-eb97-493d-bbe6-a9b51340c540",
         "url": "https://ats.rippling.com/overland-ai/jobs/a3f2e3e3-eb97-493d-bbe6-a9b51340c540",
-        "location": "Ellensburg, WA"
+        "location": "Ellensburg, WA",
+        "closed": "2026-11-24"
       },
       {
         "title": "Head of Production",
@@ -77317,6 +77342,20 @@
         "id": "workday:R10261891",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/XMLNAME-2027-Financial-Reporting-Intern---McLean-VA_R10261891",
         "location": "United States-Virginia-McLean"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Cybersecurity Intern - Linthicum MD",
+        "date": "2026-11-24",
+        "id": "workday:R10261960",
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Cybersecurity-Intern---Linthicum-MD_R10261960",
+        "location": "United States-Maryland-Linthicum"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Computer Systems Intern - Linthicum MD",
+        "date": "2026-11-24",
+        "id": "workday:R10261959",
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Computer-Systems-Intern---Linthicum-MD_R10261959",
+        "location": "United States-Maryland-Linthicum"
       }
     ],
     "OpenAI": [
@@ -88140,7 +88179,8 @@
         "title": "\u2b50\ufe0f Electrical Engineer - Intern",
         "date": "2026-10-26",
         "id": "eightfold:996477466557",
-        "closed": "N/A"
+        "url": "https://lockheedmartin.eightfold.ai/careers/job/996478129419",
+        "location": "Owego, NY"
       },
       {
         "title": "\u2b50\ufe0f Mechanical Engineer - Intern",
@@ -91692,7 +91732,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5432845008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432845008",
-        "location": "San Francisco, CA | Washington, DC"
+        "location": "San Francisco, CA | Washington, DC",
+        "closed": "2026-11-24"
       },
       {
         "title": "Director, Finance Systems - Revenue Systems Engineering",
@@ -104248,7 +104289,8 @@
         "date": "N/A",
         "id": "ibm:128754",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=128754",
-        "location": "Multiple Cities"
+        "location": "Multiple Cities",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f Quote to Cash Intern 2027",
@@ -105001,7 +105043,8 @@
         "date": "N/A",
         "id": "ibm:130759",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=130759",
-        "location": "Poughkeepsie"
+        "location": "Poughkeepsie",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f QA/Test Automation Developer Intern - Tucson, AZ",
@@ -105147,7 +105190,8 @@
         "date": "N/A",
         "id": "ibm:137572",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=137572",
-        "location": "Poughkeepsie"
+        "location": "Poughkeepsie",
+        "closed": "2026-11-24"
       },
       {
         "title": "Entry Level Back End Developer 2026",
@@ -105415,7 +105459,8 @@
         "date": "N/A",
         "id": "ibm:136009",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=136009",
-        "location": "Multiple Cities"
+        "location": "Multiple Cities",
+        "closed": "2026-11-24"
       },
       {
         "title": "Entry Level Hardware Developer 2027 -Poughkeepsie",
@@ -106453,6 +106498,13 @@
         "id": "morganstanley:21547",
         "url": "https://morganstanley.tal.net/vx/candidate/so/pm/1/pl/1/opp/21547",
         "location": "Budapest, Hungary"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Sales & Trading Off-Cycle Internship (Zurich)",
+        "date": "2026-11-24",
+        "id": "morganstanley:21601",
+        "url": "https://morganstanley.tal.net/vx/candidate/so/pm/1/pl/1/opp/21601",
+        "location": "Zurich, Switzerland"
       }
     ],
     "Cisco": [
@@ -106609,8 +106661,7 @@
         "date": "2026-11-20",
         "id": "phenom:2032666",
         "url": "https://careers.cisco.com/global/en/job/2032666/Technical-Sales-I-Intern-United-States",
-        "location": "Research Triangle Park, NC",
-        "closed": "2026-11-23"
+        "location": "Research Triangle Park, NC"
       },
       {
         "title": "\u2b50\ufe0f Field Sales I (Intern) - United States",
@@ -107712,7 +107763,8 @@
         "date": "N/A",
         "id": "ashby:5dcad8a9-5daf-4e28-b315-ee91b5f98512",
         "url": "https://jobs.ashbyhq.com/cohere/5dcad8a9-5daf-4e28-b315-ee91b5f98512",
-        "location": "Toronto +3"
+        "location": "Toronto +3",
+        "closed": "2026-11-24"
       },
       {
         "title": "Public Sector Delivery Analyst",
@@ -116988,6 +117040,13 @@
         "id": "jibe:14555",
         "url": "https://careers.sig.com/jobs/14555",
         "location": "Dublin, Ireland"
+      },
+      {
+        "title": "Data Engineer | Compliance Technology | Experienced Hire",
+        "date": "2026-11-24",
+        "id": "jibe:12047",
+        "url": "https://careers.sig.com/jobs/12047",
+        "location": "Bala Cynwyd (Greater Philadelphia), PA"
       }
     ],
     "Adobe": [
@@ -118024,7 +118083,8 @@
         "date": "2026-11-24",
         "id": "directemployers:E6D4898D8AD64CEBBE48E74C227B84FE",
         "url": "https://jobs.sw.siemens.com/maryland-heights-mo/strategic-student-program-electronics-reliability-product-engineering-internship-spring-2027-sim-sts/E6D4898D8AD64CEBBE48E74C227B84FE/job/",
-        "location": "Maryland Heights, MO"
+        "location": "Maryland Heights, MO",
+        "closed": "2026-11-24"
       }
     ],
     "X": [
@@ -129284,6 +129344,50 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.citadel.com/sitemap/career.xml"
+    },
+    "Blue Origin": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/BlueOrigin/jobs"
+    },
+    "Nvidia": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
+    },
+    "Snap": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
+    },
+    "Expedia": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://expedia.wd108.myworkdayjobs.com/wday/cxs/expedia/search/jobs"
+    },
+    "Unity": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
+    },
+    "Rockwell Automation": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
+    },
+    "Samsung": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
+    },
+    "General Motors": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
+    },
+    "PROCEPT BioRobotics": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://proceptbiorobotics.wd108.myworkdayjobs.com/wday/cxs/proceptbiorobotics/PROCEPT/jobs"
+    },
+    "ABB": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
+    },
+    "Symbotic": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://symbotic.wd504.myworkdayjobs.com/wday/cxs/symbotic/Symbotic/jobs"
     }
   },
   "closures_untracked": {
