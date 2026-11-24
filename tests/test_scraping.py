@@ -740,13 +740,20 @@ class TestScrapeCompaniesClosures:
 class TestTrackFailures:
     WHEN = pytz.timezone("US/Eastern").localize(datetime(2026, 11, 2, 9, 0))
 
-    def test_records_the_first_failure_only(self):
+    def test_same_error_again_changes_nothing(self):
         from phlux.scraping import track_failures
         data = {}
         track_failures(data, "Uber", "HTTPError: 403 Client Error:\n Forbidden", now=self.WHEN)
         first = copy.deepcopy(data)
-        track_failures(data, "Uber", "HTTPError: 500 Server Error", now=self.WHEN.replace(day=3))
+        track_failures(data, "Uber", "HTTPError: 403 Client Error: Forbidden", now=self.WHEN.replace(day=3))
         assert data == first == {"failing": {"Uber": {"since": "2026-11-02", "error": "HTTPError: 403 Client Error: Forbidden"}}}
+
+    def test_new_error_replaces_the_old_one_but_keeps_the_date(self):
+        from phlux.scraping import track_failures
+        data = {}
+        track_failures(data, "Uber", "HTTPError: 404 Client Error", now=self.WHEN)
+        track_failures(data, "Uber", "HTTPError: 403 Client Error", now=self.WHEN.replace(day=3))
+        assert data == {"failing": {"Uber": {"since": "2026-11-02", "error": "HTTPError: 403 Client Error"}}}
 
     def test_success_clears_it(self):
         from phlux.scraping import track_failures

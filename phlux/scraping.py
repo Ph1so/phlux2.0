@@ -314,7 +314,12 @@ def get_jobs_headless(
                         jobs.extend(API_SCRAPERS[scraper_name](driver, arg))
 
             except TimeoutException:
-                logger.warning("Timeout for %s at %s", name, url)
+                # The title tells a slow page from a bot check ("Access denied"…).
+                try:
+                    title = driver.title
+                except Exception:
+                    title = "?"
+                logger.warning("Timeout for %s at %s (page title: %r)", name, url, title)
                 continue
 
     finally:
@@ -550,9 +555,10 @@ def process_jobs(data: dict, result: ScrapeResult, new_jobs: Dict, seed: bool = 
 def track_failures(data: dict, name: str, error: str | None = None, now: datetime | None = None) -> None:
     """Record when a company's scrape starts failing, and forget it once it works again.
 
-    Only the first failure is written (its date and error), so a company that
-    fails every run changes storage once rather than on every run (each bot
-    commit starts another run).
+    The date of the first failure is kept. The error is replaced only when it
+    changes (a fix that moves the failure somewhere new should show the new
+    error), so a company that fails the same way every run changes storage once
+    rather than on every run.
 
     Args:
         data: Mutable ``storage.json`` contents.
@@ -563,9 +569,13 @@ def track_failures(data: dict, name: str, error: str | None = None, now: datetim
     failing = data.setdefault(FAILING_KEY, {})
     if error is None:
         failing.pop(name, None)
-    elif name not in failing:
-        today = (now or datetime.now(EASTERN)).date().isoformat()
-        failing[name] = {"since": today, "error": " ".join(error.split())[:200]}
+    else:
+        detail = " ".join(error.split())[:200]
+        if name not in failing:
+            today = (now or datetime.now(EASTERN)).date().isoformat()
+            failing[name] = {"since": today, "error": detail}
+        elif failing[name].get("error") != detail:
+            failing[name]["error"] = detail
 
 
 def _posting_key(entry: dict) -> str:
