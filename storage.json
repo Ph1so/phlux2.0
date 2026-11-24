@@ -1067,8 +1067,7 @@
         "date": "2026-10-15",
         "id": "eightfold:1970393557041731",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-23"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Gray Systems Lab (GSL)",
@@ -1277,16 +1276,14 @@
         "date": "2026-11-02",
         "id": "eightfold:1970393557053016",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557053016",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-23"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Coding Agents & Post-Training Optimization",
         "date": "2026-11-02",
         "id": "eightfold:1970393557053024",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557053024",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-23"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer, Teamwork Experiences Internship Opportunities",
@@ -85008,6 +85005,13 @@
         "id": "ashby:d7a54e99-137c-4608-af98-5ff88df54685",
         "url": "https://jobs.ashbyhq.com/openai/d7a54e99-137c-4608-af98-5ff88df54685",
         "location": "San Francisco"
+      },
+      {
+        "title": "Manager, Applied AI Architects (Singapore)",
+        "date": "2026-11-23",
+        "id": "ashby:143198ab-45e9-4ece-8604-d402b50cc3a9",
+        "url": "https://jobs.ashbyhq.com/openai/143198ab-45e9-4ece-8604-d402b50cc3a9",
+        "location": "Singapore"
       }
     ],
     "John Deere": [
@@ -95712,7 +95716,8 @@
         "date": "2026-11-10",
         "id": "greenhouse:5394611008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5394611008",
-        "location": "New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY"
+        "location": "New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY",
+        "closed": "2026-11-23"
       },
       {
         "title": "Product Manager, Seller Experience",
@@ -97560,7 +97565,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5229363007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5229363007",
-        "location": "Southaven, MS; Memphis, TN"
+        "location": "Southaven, MS; Memphis, TN",
+        "closed": "2026-11-23"
       },
       {
         "title": "Plant Technician (Power Generation) - Memphis",
@@ -103808,7 +103814,8 @@
         "date": "N/A",
         "id": "ibm:129926",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=129926",
-        "location": "Poughkeepsie"
+        "location": "Poughkeepsie",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f Intern Package Consultant - Salesforce 2027",
@@ -123331,7 +123338,8 @@
         "date": "2026-11-18",
         "id": "talentbrew:100485360496",
         "url": "https://jobs.boeing.com/job/bristol/talent-acquisition-intern-12-month-placement/185/100485360496",
-        "location": "Bristol, United Kingdom"
+        "location": "Bristol, United Kingdom",
+        "closed": "2026-11-23"
       }
     ],
     "Mosaic": [
@@ -126510,7 +126518,8 @@
         "date": "N/A",
         "id": "pinpoint:573628",
         "url": "https://impulsespace.pinpointhq.com/en/postings/d4fdab1d-254b-44a4-96bf-875ebd5b8cd7",
-        "location": "Redondo Beach, CA"
+        "location": "Redondo Beach, CA",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f EMC Engineering Intern (Summer 2027)",
@@ -128654,6 +128663,58 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
+    },
+    "Nvidia": {
+      "since": "2026-11-23",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
+    },
+    "Blue Origin": {
+      "since": "2026-11-23",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/BlueOrigin/jobs"
+    },
+    "Snap": {
+      "since": "2026-11-23",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
+    },
+    "Rockwell Automation": {
+      "since": "2026-11-23",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
+    },
+    "Unity": {
+      "since": "2026-11-23",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
+    },
+    "Boston Dynamics": {
+      "since": "2026-11-23",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://bostondynamics.wd1.myworkdayjobs.com/wday/cxs/bostondynamics/Boston_Dynamics/jobs"
+    },
+    "Razer": {
+      "since": "2026-11-23",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
+    },
+    "General Motors": {
+      "since": "2026-11-23",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
+    },
+    "Draper": {
+      "since": "2026-11-23",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://draper.wd5.myworkdayjobs.com/wday/cxs/draper/Draper_Careers/jobs"
+    },
+    "Johnson & Johnson": {
+      "since": "2026-11-23",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs"
+    },
+    "ABB": {
+      "since": "2026-11-23",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
+    },
+    "Northrop Grumman": {
+      "since": "2026-11-23",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ngc.wd1.myworkdayjobs.com/wday/cxs/ngc/Northrop_Grumman_External_Site/jobs"
+    },
+    "Slate Auto": {
+      "since": "2026-11-23",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
     }
   },
   "closures_untracked": {
