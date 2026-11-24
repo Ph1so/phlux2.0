@@ -2363,7 +2363,8 @@
         "date": "N/A",
         "id": "amazon:10575017",
         "url": "https://www.amazon.jobs/en/jobs/10575017/recruiting-coordinator-amazon-university",
-        "location": "Arlington, VA"
+        "location": "Arlington, VA",
+        "closed": "2026-11-24"
       },
       {
         "title": "Cloud Hardware Development Engineer I, Annapurna Labs, Early Career - 2027",
@@ -2937,6 +2938,13 @@
         "id": "amazon:10612929",
         "url": "https://www.amazon.jobs/en/jobs/10612929/systems-development-engineer-systems-operations-and-scaling-one-mhs",
         "location": "Nashville, TN"
+      },
+      {
+        "title": "\u2b50\ufe0f Front-End Engineer Internship \u2013 2027 (US)",
+        "date": "2026-11-24",
+        "id": "amazon:10609992",
+        "url": "https://www.amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us",
+        "location": "Seattle, WA +2"
       }
     ],
     "Meta": [
@@ -8546,6 +8554,27 @@
         "id": "greenhouse:8957614002",
         "url": "https://boards.greenhouse.io/relativity/jobs/8957614002?gh_jid=8957614002",
         "location": "Long Beach, California, United States"
+      },
+      {
+        "title": "New Grad 2027 - Certification Engineer I",
+        "date": "2026-11-24",
+        "id": "greenhouse:8960850002",
+        "url": "https://boards.greenhouse.io/relativity/jobs/8960850002?gh_jid=8960850002",
+        "location": "Long Beach, California, United States"
+      },
+      {
+        "title": "New Grad 2027 - Mission Reliability Engineer I",
+        "date": "2026-11-24",
+        "id": "greenhouse:8960854002",
+        "url": "https://boards.greenhouse.io/relativity/jobs/8960854002?gh_jid=8960854002",
+        "location": "Long Beach, California, United States"
+      },
+      {
+        "title": "New Grad 2027 - NDE Engineer I",
+        "date": "2026-11-24",
+        "id": "greenhouse:8960741002",
+        "url": "https://boards.greenhouse.io/relativity/jobs/8960741002?gh_jid=8960741002",
+        "location": "Long Beach, California, United States"
       }
     ],
     "Kodiak Robotics": [
@@ -9215,8 +9244,7 @@
         "date": "2026-10-09",
         "id": "eightfold:446720741704",
         "url": "https://careers.qualcomm.com/careers/job/446720741704",
-        "location": "San Diego, CA +2",
-        "closed": "2026-11-24"
+        "location": "San Diego, CA +2"
       },
       {
         "title": "\u2b50\ufe0f Product Management Internship - Summer 2027",
@@ -9230,8 +9258,7 @@
         "date": "2026-10-09",
         "id": "eightfold:446720741716",
         "url": "https://careers.qualcomm.com/careers/job/446720741716",
-        "location": "San Diego, CA",
-        "closed": "2026-11-24"
+        "location": "San Diego, CA"
       },
       {
         "title": "\u2b50\ufe0f Finance & Accounting Internship - Summer 2027",
@@ -9245,8 +9272,7 @@
         "date": "2026-10-10",
         "id": "eightfold:446721016647",
         "url": "https://careers.qualcomm.com/careers/job/446721016647",
-        "location": "San Diego, CA",
-        "closed": "2026-11-24"
+        "location": "San Diego, CA"
       },
       {
         "title": "\u2b50\ufe0f Sales & Business Development Internship - Summer 2027",
@@ -28932,7 +28958,8 @@
         "date": "2026-10-05",
         "id": "smartrecruiters:744000153601138",
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153601138",
-        "location": "Charleston, SC"
+        "location": "Charleston, SC",
+        "closed": "2026-11-24"
       },
       {
         "title": "3rd Shift Material Handler",
@@ -32188,8 +32215,7 @@
         "date": "2026-11-19",
         "id": "rippling:5c824862-e5b1-4d5f-b2ca-627e53727f93",
         "url": "https://ats.rippling.com/forterra/jobs/5c824862-e5b1-4d5f-b2ca-627e53727f93",
-        "location": "Clarksburg, MD",
-        "closed": "2026-11-24"
+        "location": "Clarksburg, MD"
       },
       {
         "title": "Industrial Designer",
@@ -34587,8 +34613,7 @@
         "date": "2026-11-20",
         "id": "greenhouse:5304406007",
         "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5304406007",
-        "location": "Torrance, California, United States",
-        "closed": "2026-11-23"
+        "location": "Torrance, California, United States"
       },
       {
         "title": "\u2b50\ufe0f Autonomy Intern - Summer 2027",
@@ -52741,6 +52766,13 @@
         "id": "ashby:b0b3302b-a6ea-4fe0-bef8-b4c045850dc4",
         "url": "https://jobs.ashbyhq.com/saronic/b0b3302b-a6ea-4fe0-bef8-b4c045850dc4",
         "location": "Austin, TX"
+      },
+      {
+        "title": "Facilities Coordinator",
+        "date": "2026-11-24",
+        "id": "ashby:037bb80c-ff9c-461b-bd0c-203b4e4a3cd3",
+        "url": "https://jobs.ashbyhq.com/saronic/037bb80c-ff9c-461b-bd0c-203b4e4a3cd3",
+        "location": "Austin, TX"
       }
     ],
     "Built Robotics": [
@@ -56028,6 +56060,13 @@
         "date": "2026-11-20",
         "id": "rippling:65530ed2-4286-4bfd-bc53-498838750f14",
         "url": "https://ats.rippling.com/mytra/jobs/65530ed2-4286-4bfd-bc53-498838750f14",
+        "location": "Brisbane, CA"
+      },
+      {
+        "title": "Senior Recruiter",
+        "date": "2026-11-24",
+        "id": "rippling:e1c15021-af46-45d9-bc23-b6cecc46a2f9",
+        "url": "https://ats.rippling.com/mytra/jobs/e1c15021-af46-45d9-bc23-b6cecc46a2f9",
         "location": "Brisbane, CA"
       }
     ],
@@ -60745,7 +60784,8 @@
         "date": "2026-10-14",
         "id": "workday:2026-R241",
         "url": "https://proceptbiorobotics.wd108.myworkdayjobs.com/PROCEPT/job/California---San-Jose/Manager--SEC-Reporting---Technical-Accounting_2026-R241",
-        "location": "California - San Jose"
+        "location": "California - San Jose",
+        "closed": "2026-11-24"
       },
       {
         "title": "Salesforce Administrator",
@@ -70052,6 +70092,13 @@
         "id": "adp:575985",
         "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=575985&lang=en_US",
         "location": "Houston, TX"
+      },
+      {
+        "title": "Operations Manager - Flight Dynamics Interpla",
+        "date": "2026-11-24",
+        "id": "adp:576154",
+        "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=576154&lang=en_US",
+        "location": "Colorado"
       }
     ],
     "Zimmer Biomet": [
@@ -71678,7 +71725,8 @@
         "date": "2026-11-20",
         "id": "greenhouse:4515486009",
         "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4515486009",
-        "location": "Pittsburgh, PA"
+        "location": "Pittsburgh, PA",
+        "closed": "2026-11-24"
       },
       {
         "title": "Configuration/Data Manager (D&NS)",
@@ -84644,7 +84692,8 @@
         "date": "2026-11-10",
         "id": "ashby:bb4e2d58-d481-4e81-ac69-0d99bbf5808e",
         "url": "https://jobs.ashbyhq.com/openai/bb4e2d58-d481-4e81-ac69-0d99bbf5808e",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-24"
       },
       {
         "title": "Project Manager, Compute Transformation",
@@ -85800,6 +85849,13 @@
         "id": "ashby:607078a7-0b16-4615-8d5b-55c89853d3ff",
         "url": "https://jobs.ashbyhq.com/openai/607078a7-0b16-4615-8d5b-55c89853d3ff",
         "location": "San Francisco"
+      },
+      {
+        "title": "Executive Business Partner, OpenAI for Government",
+        "date": "2026-11-24",
+        "id": "ashby:c7af5de8-ecd3-4d0e-99fb-72a8d81111e3",
+        "url": "https://jobs.ashbyhq.com/openai/c7af5de8-ecd3-4d0e-99fb-72a8d81111e3",
+        "location": "Washington, DC"
       }
     ],
     "John Deere": [
@@ -89081,14 +89137,16 @@
         "date": "N/A",
         "id": "eightfold:996477529495",
         "url": "https://lockheedmartin.eightfold.ai/careers/job/996477529495",
-        "location": "Highlands Ranch, CO +1"
+        "location": "Highlands Ranch, CO +1",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer (Embedded) Intern - Summer 2027",
         "date": "N/A",
         "id": "eightfold:996477529588",
         "url": "https://lockheedmartin.eightfold.ai/careers/job/996477529588",
-        "location": "Huntsville, AL"
+        "location": "Huntsville, AL",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f Manufacturing Engineering - Intern",
@@ -89103,7 +89161,8 @@
         "date": "N/A",
         "id": "eightfold:996477461772",
         "url": "https://lockheedmartin.eightfold.ai/careers/job/996477461772",
-        "location": "Littleton, CO"
+        "location": "Littleton, CO",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f Supply Chain Intern",
@@ -94265,7 +94324,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5319696008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5319696008",
-        "location": "San Francisco, CA | New York City, NY | Washington, DC"
+        "location": "San Francisco, CA | New York City, NY | Washington, DC",
+        "closed": "2026-11-24"
       },
       {
         "title": "Safeguards Enforcement Analyst, Chem & Explosives Harms",
@@ -97688,14 +97748,16 @@
         "date": "2026-10-27",
         "id": "greenhouse:5263495007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5263495007",
-        "location": "New York, NY"
+        "location": "New York, NY",
+        "closed": "2026-11-24"
       },
       {
         "title": "Events Lead",
         "date": "2026-10-27",
         "id": "greenhouse:5251158007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5251158007",
-        "location": "San Francisco, California"
+        "location": "San Francisco, California",
+        "closed": "2026-11-24"
       },
       {
         "title": "Executive Chef - Memphis",
@@ -98659,7 +98721,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5097907007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5097907007",
-        "location": "Austin, TX; Bastrop, TX"
+        "location": "Austin, TX; Bastrop, TX",
+        "closed": "2026-11-24"
       },
       {
         "title": "Senior BSA/AML Investigator",
@@ -118643,7 +118706,8 @@
         "date": "2026-11-12",
         "id": "eightfold:563602813674227",
         "url": "https://bostonscientific.eightfold.ai/careers/job/563602813674227",
-        "location": "Marlboro, MA"
+        "location": "Marlboro, MA",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f R&D Leads Sustaining Engineer Intern",
@@ -125374,7 +125438,8 @@
         "date": "N/A",
         "id": "phenom:R117401",
         "url": "https://careers.mitre.org/us/en/job/R117401/Modeling-Simulation-and-Analysis-Intern",
-        "location": "McLean, VA"
+        "location": "McLean, VA",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f Finance Intern",
@@ -129765,6 +129830,42 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.citadel.com/sitemap/career.xml"
+    },
+    "Nvidia": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
+    },
+    "Snap": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
+    },
+    "Razer": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
+    },
+    "Unity": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
+    },
+    "Target": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
+    },
+    "Samsung": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
+    },
+    "Stryker": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs"
+    },
+    "ABB": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
+    },
+    "General Motors": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
     }
   },
   "closures_untracked": {
