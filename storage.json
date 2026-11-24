@@ -943,19 +943,20 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393556983221",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Intern - CTJ - TS",
-        "date": "2026-10-13"
+        "date": "2026-10-13",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Security Research Group, Microsoft Research Redmond",
         "date": "2026-10-13",
         "id": "eightfold:1970393557022480",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557022480",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-23"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Supply Chain Program Management Intern",
@@ -1062,15 +1063,15 @@
         "date": "2026-10-15",
         "id": "eightfold:1970393557027387",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557027387",
-        "location": "United States, Washington, Redmond +1"
+        "location": "United States, Washington, Redmond +1",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Efficient AI Software Systems",
         "date": "2026-10-15",
         "id": "eightfold:1970393557041731",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-23"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Gray Systems Lab (GSL)",
@@ -1242,7 +1243,8 @@
         "date": "2026-11-02",
         "id": "eightfold:1970393557043712",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557043712",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f Explore Program Engineering Internship Opportunities: First-Year Students, Redmond",
@@ -1308,8 +1310,7 @@
         "date": "2026-11-06",
         "id": "eightfold:1970393557056017",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557056017",
-        "location": "United States, NY +1",
-        "closed": "2026-11-23"
+        "location": "United States, NY +1"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Next-Generation AI Agents",
@@ -1374,7 +1375,8 @@
         "date": "2026-11-17",
         "id": "eightfold:1970393557075140",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557075140",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-23"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Self-Improving & Secure AI Agents - Microsoft Research",
@@ -9228,32 +9230,28 @@
         "date": "2026-10-14",
         "id": "eightfold:446720740525",
         "url": "https://careers.qualcomm.com/careers/job/446720740525",
-        "location": "San Diego, CA +6",
-        "closed": "2026-11-23"
+        "location": "San Diego, CA +6"
       },
       {
         "title": "\u2b50\ufe0f Embedded Engineering Internship - Summer 2027",
         "date": "2026-10-14",
         "id": "eightfold:446720737089",
         "url": "https://careers.qualcomm.com/careers/job/446720737089",
-        "location": "San Diego, CA +2",
-        "closed": "2026-11-23"
+        "location": "San Diego, CA +2"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Internship - Summer 2027",
         "date": "2026-10-14",
         "id": "eightfold:446720740529",
         "url": "https://careers.qualcomm.com/careers/job/446720740529",
-        "location": "San Diego, CA +7",
-        "closed": "2026-11-23"
+        "location": "San Diego, CA +7"
       },
       {
         "title": "\u2b50\ufe0f Qualcomm Government Technologies (QGOV) Engineering Internship \u2013 Summer 2027 (San Diego or Boulder) | US CITIZENSHIP REQUIRED",
         "date": "2026-10-14",
         "id": "eightfold:446720740540",
         "url": "https://careers.qualcomm.com/careers/job/446720740540",
-        "location": "San Diego, CA",
-        "closed": "2026-11-23"
+        "location": "San Diego, CA"
       },
       {
         "title": "\u2b50\ufe0f Automotive Engineering Internship \u2013 Summer 2027",
@@ -19419,6 +19417,20 @@
         "id": "greenhouse:5290848007",
         "url": "https://lucidmotors.com/careers/search/5290848007?gh_jid=5290848007",
         "location": "Newark, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern, Automotive Interior Design, Summer 2027",
+        "date": "2026-11-23",
+        "id": "greenhouse:5290844007",
+        "url": "https://lucidmotors.com/careers/search/5290844007?gh_jid=5290844007",
+        "location": "Newark, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern, IT Help Desk Level 3, Summer 2027",
+        "date": "2026-11-23",
+        "id": "greenhouse:5290780007",
+        "url": "https://lucidmotors.com/careers/search/5290780007?gh_jid=5290780007",
+        "location": "Casa Grande, AZ"
       }
     ],
     "Avride": [
@@ -38124,6 +38136,13 @@
         "id": "ashby:08c7e37b-417f-44f5-9b2c-bec77f9d8f58",
         "url": "https://jobs.ashbyhq.com/wayve/08c7e37b-417f-44f5-9b2c-bec77f9d8f58",
         "location": "Sunnyvale, California USA"
+      },
+      {
+        "title": "Robotaxi Technical Operations Manager",
+        "date": "2026-11-23",
+        "id": "ashby:a12149f3-41a8-4bb1-acfb-f28861b9eea5",
+        "url": "https://jobs.ashbyhq.com/wayve/a12149f3-41a8-4bb1-acfb-f28861b9eea5",
+        "location": "Sunnyvale, California USA"
       }
     ],
     "Bedrock Robotics": [
@@ -42706,14 +42725,16 @@
         "date": "N/A",
         "id": "lever:00be5e27-c434-4cde-b367-f1688aa7bd2b",
         "url": "https://jobs.lever.co/field-ai/00be5e27-c434-4cde-b367-f1688aa7bd2b",
-        "location": "Irvine, CA"
+        "location": "Irvine, CA",
+        "closed": "2026-11-23"
       },
       {
         "title": "Robotics Autonomy Engineer, Manipulation",
         "date": "N/A",
         "id": "lever:669f149b-a7a9-4f6e-8080-79b8b7903c83",
         "url": "https://jobs.lever.co/field-ai/669f149b-a7a9-4f6e-8080-79b8b7903c83",
-        "location": "Irvine, CA +1"
+        "location": "Irvine, CA +1",
+        "closed": "2026-11-23"
       },
       {
         "title": "Robotics Autonomy Engineer, Perception",
@@ -42733,7 +42754,8 @@
         "date": "N/A",
         "id": "lever:259708a4-dd2b-4c23-b300-f81fec383541",
         "url": "https://jobs.lever.co/field-ai/259708a4-dd2b-4c23-b300-f81fec383541",
-        "location": "Irvine, CA"
+        "location": "Irvine, CA",
+        "closed": "2026-11-23"
       },
       {
         "title": "Robotics Autonomy Engineer, Planning & Control (Federal)",
@@ -42833,7 +42855,8 @@
         "date": "N/A",
         "id": "lever:b5f58151-9a46-441f-badf-2e91244bfd39",
         "url": "https://jobs.lever.co/field-ai/b5f58151-9a46-441f-badf-2e91244bfd39",
-        "location": "Irvine, CA"
+        "location": "Irvine, CA",
+        "closed": "2026-11-23"
       },
       {
         "title": "Robotics Software Engineer, Vision-Language Reasoning & Behaviors",
@@ -44324,7 +44347,8 @@
         "date": "2026-09-29",
         "id": "ashby:f2bd8dec-0978-4b36-8d72-0d9f0ad78367",
         "url": "https://jobs.ashbyhq.com/niantic-spatial/f2bd8dec-0978-4b36-8d72-0d9f0ad78367",
-        "location": "San Francisco, CA"
+        "location": "San Francisco, CA",
+        "closed": "2026-11-23"
       },
       {
         "title": "AI Automation Engineer, Real-World Test Lab",
@@ -52435,6 +52459,20 @@
         "id": "ashby:5045e397-6285-43c4-9023-ba66dbc9ae57",
         "url": "https://jobs.ashbyhq.com/saronic/5045e397-6285-43c4-9023-ba66dbc9ae57",
         "location": "Austin, TX"
+      },
+      {
+        "title": "Strategic Operations Manager",
+        "date": "2026-11-23",
+        "id": "ashby:3c3dbc5a-5774-42c4-a0e2-2ea9f31d9d54",
+        "url": "https://jobs.ashbyhq.com/saronic/3c3dbc5a-5774-42c4-a0e2-2ea9f31d9d54",
+        "location": "Arlington, VA +1"
+      },
+      {
+        "title": "Corporate Counsel, Government Contracts",
+        "date": "2026-11-23",
+        "id": "ashby:5cd3fc86-39bc-4787-aaac-2e6d58f12f90",
+        "url": "https://jobs.ashbyhq.com/saronic/5cd3fc86-39bc-4787-aaac-2e6d58f12f90",
+        "location": "Arlington, VA"
       }
     ],
     "Built Robotics": [
@@ -54910,6 +54948,13 @@
         "id": "ashby:ba101435-b691-48ff-8234-2049684aa414",
         "url": "https://jobs.ashbyhq.com/hadrian-automation/ba101435-b691-48ff-8234-2049684aa414",
         "location": "Los Angeles, CA"
+      },
+      {
+        "title": "Counsel, Real Estate",
+        "date": "2026-11-23",
+        "id": "ashby:e152d9b1-0fbf-485d-b24f-cf8164a652f1",
+        "url": "https://jobs.ashbyhq.com/hadrian-automation/e152d9b1-0fbf-485d-b24f-cf8164a652f1",
+        "location": "Los Angeles, CA +2"
       }
     ],
     "Saildrone": [
@@ -83278,7 +83323,8 @@
         "date": "2026-11-03",
         "id": "ashby:b6736e0a-db0b-428f-ad14-448353a92243",
         "url": "https://jobs.ashbyhq.com/openai/b6736e0a-db0b-428f-ad14-448353a92243",
-        "location": "New York City +1"
+        "location": "New York City +1",
+        "closed": "2026-11-23"
       },
       {
         "title": "ML Silicon Performance Lead",
@@ -117644,6 +117690,13 @@
         "id": "eightfold:563602813942394",
         "url": "https://bostonscientific.eightfold.ai/careers/job/563602813942394",
         "location": "Marlboro, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Test Engineer Co-op (Jan- Aug)",
+        "date": "2026-11-23",
+        "id": "eightfold:563602813632172",
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602813632172",
+        "location": "Waltham, US-MA, USA"
       }
     ],
     "Cloudflare": [
