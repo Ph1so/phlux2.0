@@ -1311,7 +1311,8 @@
         "date": "2026-11-09",
         "id": "eightfold:1970393557070079",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557070079",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f Product Manager: Internship Opportunities",
@@ -32225,7 +32226,8 @@
         "date": "N/A",
         "id": "lever:1f65235f-a297-4230-acd1-70ac520ec8e9",
         "url": "https://jobs.lever.co/picklerobot/1f65235f-a297-4230-acd1-70ac520ec8e9",
-        "location": "Charlestown, MA"
+        "location": "Charlestown, MA",
+        "closed": "2026-11-24"
       },
       {
         "title": "Physical AI Architect",
@@ -32239,7 +32241,8 @@
         "date": "N/A",
         "id": "lever:918b1ea6-5eb8-46d0-b024-888d9cd82ef6",
         "url": "https://jobs.lever.co/picklerobot/918b1ea6-5eb8-46d0-b024-888d9cd82ef6",
-        "location": "Charlestown, MA"
+        "location": "Charlestown, MA",
+        "closed": "2026-11-24"
       },
       {
         "title": "Senior Machine Learning Engineer - Perception",
@@ -46352,7 +46355,8 @@
         "date": "2026-10-14",
         "id": "greenhouse:8872472002",
         "url": "https://wing.com/careers/8872472002?gh_jid=8872472002",
-        "location": "Palo Alto, California"
+        "location": "Palo Alto, California",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f Intern",
@@ -56448,7 +56452,8 @@
         "date": "2026-10-19",
         "id": "bamboohr:787",
         "url": "https://berkshiregrey.bamboohr.com/careers/787",
-        "location": "Bedford, MA"
+        "location": "Bedford, MA",
+        "closed": "2026-11-24"
       },
       {
         "title": "Senior Project Manager, Warehouse Automation & Robotics Deployments",
@@ -56462,7 +56467,8 @@
         "date": "N/A",
         "id": "bamboohr:791",
         "url": "https://berkshiregrey.bamboohr.com/careers/791",
-        "location": "Bedford, MA"
+        "location": "Bedford, MA",
+        "closed": "2026-11-24"
       },
       {
         "title": "Senior Robotics Technical Support Engineer",
@@ -56483,7 +56489,8 @@
         "date": "N/A",
         "id": "bamboohr:795",
         "url": "https://berkshiregrey.bamboohr.com/careers/795",
-        "location": "Bedford, MA"
+        "location": "Bedford, MA",
+        "closed": "2026-11-24"
       },
       {
         "title": "Principal Applications Engineer",
@@ -56504,6 +56511,13 @@
         "date": "2026-11-24",
         "id": "bamboohr:798",
         "url": "https://berkshiregrey.bamboohr.com/careers/798",
+        "location": "Bedford, MA"
+      },
+      {
+        "title": "Technical Program Manager",
+        "date": "2026-11-24",
+        "id": "bamboohr:799",
+        "url": "https://berkshiregrey.bamboohr.com/careers/799",
         "location": "Bedford, MA"
       }
     ],
@@ -59439,7 +59453,8 @@
         "date": "2026-10-19",
         "id": "workday:R8260",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Senior-Mechanical-Engineer---Robotics-Fleet_R8260",
-        "location": "USA Wilmington, MA - HQ"
+        "location": "USA Wilmington, MA - HQ",
+        "closed": "2026-11-24"
       },
       {
         "title": "Sr. Test Engineer (Electrical)",
@@ -61308,8 +61323,7 @@
         "date": "2026-10-15",
         "id": "workday:JR00044376",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/New-Berlin-Wisconsin-United-States-of-America/Process-Engineer_JR00044376",
-        "location": "New Berlin, Wisconsin, United States of America",
-        "closed": "2026-11-13"
+        "location": "New Berlin, Wisconsin, United States of America"
       },
       {
         "title": "Production Supervisor - Weekend Shift",
@@ -61523,7 +61537,8 @@
         "date": "2026-10-19",
         "id": "workday:JR00043863",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-New-Jersey-United-States-of-America/Sales-Applications-Specialist_JR00043863",
-        "location": "5 Locations"
+        "location": "5 Locations",
+        "closed": "2026-11-24"
       },
       {
         "title": "Executive Administrative Assistant",
@@ -62567,8 +62582,7 @@
         "date": "N/A",
         "id": "workday:JR00052476",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MI-Auburn-Hills/Global-Key-Account-Manager---KAM-Excellence-Lead--ABB-Robotics_JR00052476",
-        "location": "USA, MI, Auburn Hills",
-        "closed": "2026-11-20"
+        "location": "USA, MI, Auburn Hills"
       },
       {
         "title": "US Midstream Account Manager",
@@ -65607,8 +65621,7 @@
         "date": "2026-11-18",
         "id": "workday:JR00053797",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Fort-Smith-Arkansas-United-States-of-America/Balancer-Balancing-Team_JR00053797",
-        "location": "Fort Smith, Arkansas, United States of America",
-        "closed": "2026-11-23"
+        "location": "Fort Smith, Arkansas, United States of America"
       },
       {
         "title": "TTX Varnish-Stator Turn Team (3rd Shift)",
@@ -83539,8 +83552,7 @@
         "date": "2026-11-03",
         "id": "ashby:b6736e0a-db0b-428f-ad14-448353a92243",
         "url": "https://jobs.ashbyhq.com/openai/b6736e0a-db0b-428f-ad14-448353a92243",
-        "location": "New York City +1",
-        "closed": "2026-11-23"
+        "location": "New York City +1"
       },
       {
         "title": "ML Silicon Performance Lead",
@@ -88590,16 +88602,14 @@
         "date": "N/A",
         "id": "eightfold:996477386288",
         "url": "https://lockheedmartin.eightfold.ai/careers/job/996477386288",
-        "location": "San Luis Obispo, CA",
-        "closed": "2026-11-15"
+        "location": "San Luis Obispo, CA"
       },
       {
         "title": "\u2b50\ufe0f sUAS/Drone Software Engineer - Intern",
         "date": "N/A",
         "id": "eightfold:996477676855",
         "url": "https://lockheedmartin.eightfold.ai/careers/job/996477676855",
-        "location": "San Luis Obispo, CA",
-        "closed": "2026-11-15"
+        "location": "San Luis Obispo, CA"
       },
       {
         "title": "\u2b50\ufe0f Subcontract Mgmt - Intern",
@@ -96913,7 +96923,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5247536007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5247536007",
-        "location": "Palo Alto, CA; Austin, TX; New York, NY; Washington, DC"
+        "location": "Palo Alto, CA; Austin, TX; New York, NY; Washington, DC",
+        "closed": "2026-11-24"
       },
       {
         "title": "Corporate Paralegal",
@@ -97210,7 +97221,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5264627007",
         "url": "https://job-boards.greenhouse.io/xai/jobs/5264627007",
-        "location": "Southaven, MS; Memphis, TN"
+        "location": "Southaven, MS; Memphis, TN",
+        "closed": "2026-11-24"
       },
       {
         "title": "Facilities Specialist - Memphis",
@@ -102602,6 +102614,13 @@
         "id": "workday:R50276",
         "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Product-Intern---Summer-2027_R50276",
         "location": "New Hudson, Michigan, United States"
+      },
+      {
+        "title": "S2W- Assembler Apprentice",
+        "date": "2026-11-24",
+        "id": "workday:R52249",
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Jefferson-City-Tennessee-United-States/Assembler-Apprentice_R52249",
+        "location": "Jefferson City, Tennessee, United States"
       }
     ],
     "General Robotics": [
@@ -103223,6 +103242,20 @@
         "id": "workday:JR0287924",
         "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Foundry-Construction--Supply-Chain-and-Sourcing-Intern---Graduate_JR0287924",
         "location": "5 Locations"
+      },
+      {
+        "title": "\u2b50\ufe0f Design Verification Intern 2027",
+        "date": "2026-11-24",
+        "id": "workday:JR0287637",
+        "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Colorado-Fort-Collins/Design-Verification-Intern-2027_JR0287637",
+        "location": "4 Locations"
+      },
+      {
+        "title": "\u2b50\ufe0f Design Verification Intern 2027",
+        "date": "2026-11-24",
+        "id": "workday:JR0287646",
+        "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Colorado-Fort-Collins/Design-Verification-Intern-2027_JR0287646",
+        "location": "4 Locations"
       }
     ],
     "LinkedIn": [
@@ -103774,7 +103807,8 @@
         "date": "N/A",
         "id": "ibm:141091",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=141091",
-        "location": "Multiple Cities"
+        "location": "Multiple Cities",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f Product Management Intern 2027",
@@ -104269,7 +104303,8 @@
         "date": "N/A",
         "id": "ibm:131072",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=131072",
-        "location": "Tucson"
+        "location": "Tucson",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f Site Reliability Engineer Intern - OneIT - Rochester, MN",
@@ -104701,7 +104736,8 @@
         "date": "N/A",
         "id": "ibm:133669",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=133669",
-        "location": "Yorktown Heights"
+        "location": "Yorktown Heights",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f Back End Developer Intern - NY POK RK - 2027",
@@ -105517,6 +105553,13 @@
         "id": "ibm:146459",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=146459",
         "location": "Herndon"
+      },
+      {
+        "title": "Associate Project Manager Apprentice",
+        "date": "2026-11-24",
+        "id": "ibm:142035",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=142035",
+        "location": "Poughkeepsie"
       }
     ],
     "Bank of America": [
@@ -116717,6 +116760,13 @@
         "id": "jibe:14291",
         "url": "https://careers.sig.com/jobs/14291",
         "location": "Dublin, Ireland"
+      },
+      {
+        "title": "Discovery Event: Women at Susquehanna (Virtual)",
+        "date": "2026-11-24",
+        "id": "jibe:14555",
+        "url": "https://careers.sig.com/jobs/14555",
+        "location": "Dublin, Ireland"
       }
     ],
     "Adobe": [
@@ -121392,7 +121442,8 @@
         "date": "2026-11-23",
         "id": "workday:R-00197572",
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Mechanical-Design-Intern_R-00197572",
-        "location": "Huntsville, AL"
+        "location": "Huntsville, AL",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f Mechanical Analysis Intern",
@@ -124182,6 +124233,13 @@
         "id": "workday:REQ380920",
         "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Database-Platform-Engineering-Site-Reliability-Engineering---SRE--Internship_REQ380920",
         "location": "Atlanta, Georgia"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer 2027 Finance Internship",
+        "date": "2026-11-24",
+        "id": "workday:REQ384255",
+        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Finance-Internship_REQ384255",
+        "location": "3 Locations"
       }
     ],
     "Akuna Capital": [
@@ -124929,6 +124987,13 @@
         "date": "2026-11-23",
         "id": "workday:JR003177",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Materials-and-Chemistry-Engineering-Intern--Summer-2027-_JR003177",
+        "location": "Cambridge, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f HWIL & Real Time Simulation Intern (Summer 2027)",
+        "date": "2026-11-24",
+        "id": "workday:JR003188",
+        "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/HWIL---Real-Time-Simulation-Intern--Summer-2027-_JR003188",
         "location": "Cambridge, MA"
       }
     ],
@@ -128974,6 +129039,10 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 404 Client Error: Not Found for url: https://www.citadel.com/career-sitemap.xml"
+    },
+    "Tesla": {
+      "since": "2026-11-24",
+      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: HTTP 403; undetected-chromedriver: Refused: page denied)"
     }
   },
   "closures_untracked": {
