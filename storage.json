@@ -2987,6 +2987,13 @@
         "id": "amazon:10609992",
         "url": "https://www.amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us",
         "location": "Seattle, WA +2"
+      },
+      {
+        "title": "\u2b50\ufe0f Area Manager Intern - Summer 2027 (Colorado), University Recruiting",
+        "date": "2026-11-25",
+        "id": "amazon:10614085",
+        "url": "https://www.amazon.jobs/en/jobs/10614085/area-manager-intern-summer-2027-colorado-university-recruiting",
+        "location": "Loveland, CO +6"
       }
     ],
     "Meta": [
@@ -10113,7 +10120,8 @@
         "date": "2026-10-13",
         "id": "tesla:277009",
         "url": "https://www.tesla.com/careers/search/job/internship-software-integration-engineer-si-platforms-winter-spring-2027-277009",
-        "location": "Palo Alto, CA"
+        "location": "Palo Alto, CA",
+        "closed": "2026-11-25"
       },
       {
         "title": "\u2b50\ufe0f Internship, Grid Compliance Test Engineer, Energy Engineering (Winter/Spring 2027)",
@@ -31009,7 +31017,8 @@
         "date": "2026-10-14",
         "id": "greenhouse:5265127007",
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007",
-        "location": "Santa Ana, California, United States"
+        "location": "Santa Ana, California, United States",
+        "closed": "2026-11-25"
       },
       {
         "title": "IT Asset Technician I",
@@ -49101,7 +49110,8 @@
         "date": "2026-10-14",
         "id": "lever:4235ba79-00f1-4755-be14-88f10e9e662a",
         "url": "https://jobs.lever.co/waabi/4235ba79-00f1-4755-be14-88f10e9e662a",
-        "location": "Pittsburgh, PA"
+        "location": "Pittsburgh, PA",
+        "closed": "2026-11-25"
       },
       {
         "title": "Senior / Staff Manufacturing Engineer (NPI)",
@@ -49197,14 +49207,16 @@
         "date": "2026-10-14",
         "id": "lever:6c88edff-7632-45e6-afe0-19bf1704a298",
         "url": "https://jobs.lever.co/waabi/6c88edff-7632-45e6-afe0-19bf1704a298",
-        "location": "Dallas, TX"
+        "location": "Dallas, TX",
+        "closed": "2026-11-25"
       },
       {
         "title": "Autonomous Semi Technician - Swing Shift",
         "date": "2026-10-14",
         "id": "lever:91b310b8-a286-4476-8326-e7ed044a50be",
         "url": "https://jobs.lever.co/waabi/91b310b8-a286-4476-8326-e7ed044a50be",
-        "location": "Dallas, TX"
+        "location": "Dallas, TX",
+        "closed": "2026-11-25"
       },
       {
         "title": "Dispatcher - Day Shift",
@@ -52992,6 +53004,13 @@
         "id": "ashby:037bb80c-ff9c-461b-bd0c-203b4e4a3cd3",
         "url": "https://jobs.ashbyhq.com/saronic/037bb80c-ff9c-461b-bd0c-203b4e4a3cd3",
         "location": "Austin, TX"
+      },
+      {
+        "title": "Supply Planning Manager",
+        "date": "2026-11-25",
+        "id": "ashby:47b5a36b-56bb-4fda-91fa-3cecfccd5a4d",
+        "url": "https://jobs.ashbyhq.com/saronic/47b5a36b-56bb-4fda-91fa-3cecfccd5a4d",
+        "location": "Franklin, LA"
       }
     ],
     "Built Robotics": [
@@ -68957,7 +68976,8 @@
         "date": "2026-11-16",
         "id": "successfactors:1443307500",
         "url": "https://jobs.teradyne.com/Teradyne/job/Agoura-Hills-Signal-and-Power-Integrity-Engineer-%28Memory-Test%2C-Agoura-Hills-or-San-Jose%2C-CA-%29-CA-91301/1443307500/",
-        "location": "Agoura Hills, CA +1"
+        "location": "Agoura Hills, CA +1",
+        "closed": "2026-11-25"
       },
       {
         "title": "Customer Solutions Engineering Site Lead (IST, Bay Area, CA)",
@@ -69968,7 +69988,8 @@
         "date": "N/A",
         "id": "adp:572622",
         "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&jobId=572622&lang=en_US",
-        "location": "Houston, TX"
+        "location": "Houston, TX",
+        "closed": "2026-11-25"
       },
       {
         "title": "Data Engineer",
@@ -91201,7 +91222,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:4300718009",
         "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4300718009",
-        "location": "Cambridge, MA USA"
+        "location": "Cambridge, MA USA",
+        "closed": "2026-11-25"
       },
       {
         "title": "Senior / Engineer II, AI Lab Research Engineer",
@@ -91704,6 +91726,21 @@
         "id": "greenhouse:4509101009",
         "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4509101009",
         "location": "Cambridge, MA USA"
+      },
+      {
+        "title": "ML Scientist, Retrieval & RAG for Scientific Literature",
+        "date": "2026-11-25",
+        "id": "greenhouse:4477299009",
+        "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4477299009",
+        "location": "Cambridge, MA USA; San Francisco, CA USA",
+        "early": "Recent graduates welcome."
+      },
+      {
+        "title": "Scientist II/ Senior ML Scientist, Multimodal Scientific Data Extraction & Understanding",
+        "date": "2026-11-25",
+        "id": "greenhouse:4477297009",
+        "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4477297009",
+        "location": "Cambridge, MA USA; San Francisco, CA USA"
       }
     ],
     "Anthropic": [
@@ -103957,7 +103994,8 @@
         "date": "2026-11-23",
         "id": "workday:R50276",
         "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Product-Intern---Summer-2027_R50276",
-        "location": "New Hudson, Michigan, United States"
+        "location": "New Hudson, Michigan, United States",
+        "closed": "2026-11-25"
       },
       {
         "title": "S2W- Assembler Apprentice",
@@ -116799,8 +116837,7 @@
         "date": "N/A",
         "id": "jibe:11491",
         "url": "https://careers.sig.com/jobs/11491",
-        "location": "Bala Cynwyd (Philadelphia Area), PA",
-        "closed": "2026-11-23"
+        "location": "Bala Cynwyd (Philadelphia Area), PA"
       },
       {
         "title": "FIX Onboarder",
@@ -119534,7 +119571,8 @@
         "date": "N/A",
         "id": "greenhouse:8350166",
         "url": "https://boards.greenhouse.io/cloudflare/jobs/8350166?gh_jid=8350166",
-        "location": "In-Office"
+        "location": "In-Office",
+        "closed": "2026-11-25"
       },
       {
         "title": "\u2b50\ufe0f Product Manager Intern (2027) - Austin, TX",
@@ -119693,7 +119731,8 @@
         "date": "N/A",
         "id": "jibe:137743",
         "url": "https://careers.se.com/global/jobs/137743",
-        "location": "Mechanicsburg, PA"
+        "location": "Mechanicsburg, PA",
+        "closed": "2026-11-25"
       },
       {
         "title": "\u2b50\ufe0f Logistics Quality Engineering Intern - Spring 2027",
@@ -126518,6 +126557,13 @@
         "id": "workday:JR003181",
         "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Simulation-Engineering-Intern--Summer-2027-_JR003181",
         "location": "Cambridge, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Cyber Effects Engineering Intern (Summer 2027)",
+        "date": "2026-11-25",
+        "id": "workday:JR003189",
+        "url": "https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Cyber-Effects-Engineering-Intern--Summer-2027-_JR003189",
+        "location": "Cambridge, MA"
       }
     ],
     "JP Morgan Chase": [
@@ -130241,8 +130287,8 @@
   },
   "email_threads": {
     "internship": {
-      "date": "2026-11-24",
-      "message_id": "<179553411170.2470.14739651950242610064@phlux>"
+      "date": "2026-11-25",
+      "message_id": "<179562485899.2521.7708836495896049461@phlux>"
     },
     "internship_all": {
       "date": "2026-11-25",
@@ -130573,6 +130619,46 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.citadel.com/sitemap/career.xml"
+    },
+    "Siemens": {
+      "since": "2026-11-25",
+      "error": "HTTPError: 504 Server Error: Gateway Time-out for url: https://prod-search-api.jobsyn.org/api/v1/solr/search?q=intern&location=usa&page=3"
+    },
+    "Rockwell Automation": {
+      "since": "2026-11-25",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
+    },
+    "Unity": {
+      "since": "2026-11-25",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
+    },
+    "Boston Dynamics": {
+      "since": "2026-11-25",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://bostondynamics.wd1.myworkdayjobs.com/wday/cxs/bostondynamics/Boston_Dynamics/jobs"
+    },
+    "Medtronic": {
+      "since": "2026-11-25",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://medtronic.wd1.myworkdayjobs.com/wday/cxs/medtronic/MedtronicCareers/jobs"
+    },
+    "Samsung": {
+      "since": "2026-11-25",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
+    },
+    "Target": {
+      "since": "2026-11-25",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
+    },
+    "General Motors": {
+      "since": "2026-11-25",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
+    },
+    "ABB": {
+      "since": "2026-11-25",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
+    },
+    "Slate Auto": {
+      "since": "2026-11-25",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
     }
   },
   "closures_untracked": {
