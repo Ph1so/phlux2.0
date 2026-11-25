@@ -1454,6 +1454,20 @@
         "id": "eightfold:1970393557079428",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557079428",
         "location": "United States, Washington, Redmond"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Intern - CXL Memory",
+        "date": "2026-11-24",
+        "id": "eightfold:1970393557079445",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557079445",
+        "location": "United States, California, Mountain View"
+      },
+      {
+        "title": "\u2b50\ufe0f Research Intern - Memory Pathfinding",
+        "date": "2026-11-24",
+        "id": "eightfold:1970393557079448",
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557079448",
+        "location": "United States, California, Mountain View"
       }
     ],
     "Amazon": [
@@ -32545,7 +32559,9 @@
       {
         "title": "Full Stack Software Engineer",
         "date": "N/A",
-        "closed": "N/A"
+        "id": "ashby:e0557d08-8678-40b6-b5b2-d24f9028b629",
+        "url": "https://jobs.ashbyhq.com/scout-ai/e0557d08-8678-40b6-b5b2-d24f9028b629",
+        "location": "Sunnyvale, CA"
       },
       {
         "title": "GTM Senior Program Manager",
@@ -55372,6 +55388,34 @@
         "id": "ashby:30c6bf6d-a43b-4d53-9116-d82623b53172",
         "url": "https://jobs.ashbyhq.com/hadrian-automation/30c6bf6d-a43b-4d53-9116-d82623b53172",
         "location": "Los Angeles, CA +2"
+      },
+      {
+        "title": "Casting Engineer, Product",
+        "date": "2026-11-24",
+        "id": "ashby:3a5cfcc9-7e46-4226-825e-4062ea570893",
+        "url": "https://jobs.ashbyhq.com/hadrian-automation/3a5cfcc9-7e46-4226-825e-4062ea570893",
+        "location": "Los Angeles, CA"
+      },
+      {
+        "title": "Casting Engineer, Product",
+        "date": "2026-11-24",
+        "id": "ashby:30bba173-c9ab-4be3-8f35-afe7dedcf3bc",
+        "url": "https://jobs.ashbyhq.com/hadrian-automation/30bba173-c9ab-4be3-8f35-afe7dedcf3bc",
+        "location": "Kutztown. PA"
+      },
+      {
+        "title": "Casting Engineer, Process Control",
+        "date": "2026-11-24",
+        "id": "ashby:e86dd81c-259e-4558-8b67-82d85a39e1ef",
+        "url": "https://jobs.ashbyhq.com/hadrian-automation/e86dd81c-259e-4558-8b67-82d85a39e1ef",
+        "location": "Los Angeles, CA"
+      },
+      {
+        "title": "Casting Engineer, Process Control",
+        "date": "2026-11-24",
+        "id": "ashby:4e3fb09b-ad39-4c9c-8231-bf1906a2c3b9",
+        "url": "https://jobs.ashbyhq.com/hadrian-automation/4e3fb09b-ad39-4c9c-8231-bf1906a2c3b9",
+        "location": "Kutztown. PA"
       }
     ],
     "Saildrone": [
@@ -61153,7 +61197,8 @@
         "date": "2026-11-24",
         "id": "workday:2026-R337",
         "url": "https://proceptbiorobotics.wd108.myworkdayjobs.com/PROCEPT/job/Connecticut/Senior-Clinical-Specialist---Connecticut_2026-R337",
-        "location": "Connecticut"
+        "location": "Connecticut",
+        "closed": "2026-11-24"
       }
     ],
     "Miso Robotics": [
@@ -75330,7 +75375,8 @@
         "date": "2026-11-19",
         "id": "lever:dad361e8-e349-41b3-839b-125fa81c5b29",
         "url": "https://jobs.lever.co/woven-by-toyota/dad361e8-e349-41b3-839b-125fa81c5b29",
-        "location": "Tokyo"
+        "location": "Tokyo",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u30aa\u30da\u30ec\u30fc\u30b7\u30e7\u30f3\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u30de\u30cd\u30b8\u30e1\u30f3\u30c8\u3001\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u30de\u30cd\u30fc\u30b8\u30e3\u30fc\u30fbTest Course Operations",
@@ -86089,6 +86135,13 @@
         "id": "ashby:f3f3ba4c-cc37-44fe-a8b1-5aa4553c3092",
         "url": "https://jobs.ashbyhq.com/openai/f3f3ba4c-cc37-44fe-a8b1-5aa4553c3092",
         "location": "Seattle"
+      },
+      {
+        "title": "Head of Applied AI Architects \u2013 Commercial Sales (Midmarket, SMB)",
+        "date": "2026-11-24",
+        "id": "ashby:c58aecd7-b306-4c06-9648-8090d0a93217",
+        "url": "https://jobs.ashbyhq.com/openai/c58aecd7-b306-4c06-9648-8090d0a93217",
+        "location": "US - Remote +1"
       }
     ],
     "John Deere": [
@@ -97312,6 +97365,13 @@
         "id": "greenhouse:5369102008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5369102008",
         "location": "San Francisco, CA | New York City, NY"
+      },
+      {
+        "title": "Safeguards Enforcement Analyst, Targeting, Tracking & Surveillance",
+        "date": "2026-11-24",
+        "id": "greenhouse:5494145008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5494145008",
+        "location": "Boston, MA; San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC"
       }
     ],
     "xAI": [
@@ -130139,18 +130199,6 @@
       "since": "2026-11-24",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
     },
-    "Autodesk": {
-      "since": "2026-11-24",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/uni/jobs"
-    },
-    "Slack": {
-      "since": "2026-11-24",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/Slack/jobs"
-    },
-    "Rockwell Automation": {
-      "since": "2026-11-24",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
-    },
     "Samsung": {
       "since": "2026-11-24",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
@@ -130159,13 +130207,45 @@
       "since": "2026-11-24",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
     },
-    "Johnson & Johnson": {
-      "since": "2026-11-24",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs"
-    },
     "ABB": {
       "since": "2026-11-24",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
+    },
+    "Workday": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday_Early_Career/jobs"
+    },
+    "Snap": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
+    },
+    "Unity": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
+    },
+    "Visa": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs"
+    },
+    "Leidos": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://leidos.wd5.myworkdayjobs.com/wday/cxs/leidos/External/jobs"
+    },
+    "Razer": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
+    },
+    "T-Mobile": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://tmobile.wd1.myworkdayjobs.com/wday/cxs/tmobile/External/jobs"
+    },
+    "Zillow": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://zillow.wd5.myworkdayjobs.com/wday/cxs/zillow/Zillow_Group_External/jobs"
+    },
+    "General Motors": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
     }
   },
   "closures_untracked": {
