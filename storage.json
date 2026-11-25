@@ -58832,7 +58832,8 @@
         "date": "N/A",
         "id": "workday:R-109267",
         "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Leeds-West-Yorkshire-United-Kingdom/External-Research-Student-Placement-2027_R-109267",
-        "location": "Leeds, West Yorkshire, United Kingdom"
+        "location": "Leeds, West Yorkshire, United Kingdom",
+        "closed": "2026-11-25"
       },
       {
         "title": "\u2b50\ufe0f Derm Marketing Intern",
@@ -59291,7 +59292,8 @@
         "date": "2026-11-18",
         "id": "workday:R-111973",
         "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/New-Brunswick-New-Jersey-United-States-of-America/Technology-2027-Spring-Co-Op_R-111973",
-        "location": "10 Locations"
+        "location": "10 Locations",
+        "closed": "2026-11-25"
       },
       {
         "title": "\u2b50\ufe0f Oncology Discovery Scientist Summer Intern",
@@ -59356,6 +59358,13 @@
         "id": "workday:R-111613",
         "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Dubai-United-Arab-Emirates/Medical-Affairs-Operations-Excellence-Intern_R-111613",
         "location": "Dubai, United Arab Emirates"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern Marketing Surgery",
+        "date": "2026-11-25",
+        "id": "workday:R-113090-1",
+        "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Zug-Switzerland/Intern-Marketing-Surgery_R-113090-1",
+        "location": "Zug, Switzerland"
       }
     ],
     "PlusAI": [
@@ -60945,6 +60954,13 @@
         "id": "workday:R8588",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Remote--Travel/Senior-Business-Intelligence-Analyst_R8588",
         "location": "USA Remote & Travel"
+      },
+      {
+        "title": "Staff UX Researcher",
+        "date": "2026-11-25",
+        "id": "workday:R8606",
+        "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Staff-UX-Researcher_R8606",
+        "location": "USA Wilmington, MA - HQ"
       }
     ],
     "PROCEPT BioRobotics": [
@@ -67140,14 +67156,16 @@
         "date": "2026-10-20",
         "id": "successfactors:1441869000",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Strategic-HR-Business-Partner-Mergers-&-Acquisitions-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1441869000/",
-        "location": "North Reading, MA"
+        "location": "North Reading, MA",
+        "closed": "2026-11-25"
       },
       {
         "title": "Hardware Verification Engineer, New College Graduate, (Teradyne, Agoura Hills, CA)",
         "date": "2026-10-20",
         "id": "successfactors:1441953400",
         "url": "https://jobs.teradyne.com/Teradyne/job/Agoura-Hills-Hardware-Verification-Engineer%2C-New-College-Graduate%2C-%28Teradyne%2C-Agoura-Hills%2C-CA%29-CA-91301/1441953400/",
-        "location": "Agoura Hills, CA"
+        "location": "Agoura Hills, CA",
+        "closed": "2026-11-25"
       },
       {
         "title": "Training Developer (Teradyne, N. Reading MA; Agoura Hills CA; Deer Park IL)",
@@ -67166,28 +67184,32 @@
         "date": "2026-10-20",
         "id": "successfactors:1442091100",
         "url": "https://jobs.teradyne.com/Teradyne/job/Austin-Customer-Account-Support-Specialist-%28Global-Customer-Services-GCS%29-Austin%2C-TX-TX-73301/1442091100/",
-        "location": "Austin, TX"
+        "location": "Austin, TX",
+        "closed": "2026-11-25"
       },
       {
         "title": "Customer Account Support Specialist (Global Customer Services GCS) - San Jose, CA",
         "date": "2026-10-20",
         "id": "successfactors:1442092300",
         "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Customer-Account-Support-Specialist-%28Global-Customer-Services-GCS%29-San-Jose%2C-CA-CA-95101/1442092300/",
-        "location": "San Jose, CA"
+        "location": "San Jose, CA",
+        "closed": "2026-11-25"
       },
       {
         "title": "Customer Account Support Specialist (Global Customer Services GCS) - Chandler, AZ",
         "date": "2026-10-20",
         "id": "successfactors:1442093500",
         "url": "https://jobs.teradyne.com/Teradyne/job/Chandler-Customer-Account-Support-Specialist-%28Global-Customer-Services-GCS%29-Chandler%2C-AZ-AZ-85224/1442093500/",
-        "location": "Chandler, AZ"
+        "location": "Chandler, AZ",
+        "closed": "2026-11-25"
       },
       {
         "title": "Senior Product Support Engineer / Team Lead (Memory Test Division - San Jose, CA",
         "date": "2026-10-20",
         "id": "successfactors:1442113900",
         "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Senior-Product-Support-Engineer-Team-Lead-%28Memory-Test-Division-San-Jose%2C-CA-CA-95101/1442113900/",
-        "location": "San Jose, CA"
+        "location": "San Jose, CA",
+        "closed": "2026-11-25"
       },
       {
         "title": "DevOps Engineer (Integrated System Test, North Reading)",
@@ -67230,21 +67252,24 @@
         "date": "2026-10-21",
         "id": "successfactors:1361371400",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-NPI-Test-Process-Development-Engineer-%28Teradyne%2C-N_-Reading%2C-MA%2C-Agoura-Hills%2C-CA-or-Deer-Park%2C-IL%29-MA/1361371400/",
-        "location": "North Reading, MA +2"
+        "location": "North Reading, MA +2",
+        "closed": "2026-11-25"
       },
       {
         "title": "NPI DFM Process Development Engineer (Teradyne, N. Reading, MA, Agoura Hills, CA or Deer Park, IL)",
         "date": "2026-10-21",
         "id": "successfactors:1361372000",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-NPI-DFM-Process-Development-Engineer-%28Teradyne%2C-N_-Reading%2C-MA%2C-Agoura-Hills%2C-CA-or-Deer-Park%2C-IL%29-MA/1361372000/",
-        "location": "North Reading, MA +2"
+        "location": "North Reading, MA +2",
+        "closed": "2026-11-25"
       },
       {
         "title": "Test Architect (CTD; Austin, TX)",
         "date": "2026-10-21",
         "id": "successfactors:1432467100",
         "url": "https://jobs.teradyne.com/Teradyne/job/Austin-Test-Architect-%28CTD-Austin%2C-TX%29-TX-73301/1432467100/",
-        "location": "Austin, TX"
+        "location": "Austin, TX",
+        "closed": "2026-11-25"
       },
       {
         "title": "Test Architect (CTD; San Jose, CA)",
@@ -67268,14 +67293,16 @@
         "date": "2026-10-21",
         "id": "successfactors:1442386300",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Global-Semiconductor-Supply-Planner-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1442386300/",
-        "location": "North Reading, MA"
+        "location": "North Reading, MA",
+        "closed": "2026-11-25"
       },
       {
         "title": "Field Applications Engineer, New College Graduate, (Teradyne, Plano TX)",
         "date": "2026-10-21",
         "id": "successfactors:1442389200",
         "url": "https://jobs.teradyne.com/Teradyne/job/Plano-Field-Applications-Engineer%2C-New-College-Graduate%2C-%28Teradyne%2C-Plano-TX%29-TX/1442389200/",
-        "location": "Plano, TX"
+        "location": "Plano, TX",
+        "closed": "2026-11-25"
       },
       {
         "title": "Senior Mechanical Engineer (Memory Test, Agoura Hills, CA)",
@@ -67287,21 +67314,24 @@
         "date": "2026-10-21",
         "id": "successfactors:1442500600",
         "url": "https://jobs.teradyne.com/Teradyne/job/Agoura-Hills-Principal-High-Speed-Board-Designer-%28TERADYNE%2C-Agoura-Hills%2C-CA%29-CA-91301/1442500600/",
-        "location": "Agoura Hills, CA"
+        "location": "Agoura Hills, CA",
+        "closed": "2026-11-25"
       },
       {
         "title": "Product Engineering Manager (IST, North Reading, MA)",
         "date": "2026-10-21",
         "id": "successfactors:1442500700",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Product-Engineering-Manager-%28IST%2C-North-Reading%2C-MA%29-MA/1442500700/",
-        "location": "North Reading, MA"
+        "location": "North Reading, MA",
+        "closed": "2026-11-25"
       },
       {
         "title": "Engineering Project Manager (Memory Test, Tualatin, OR)",
         "date": "2026-10-21",
         "id": "successfactors:1442515800",
         "url": "https://jobs.teradyne.com/Teradyne/job/Tualatin-Engineering-Project-Manager-%28Memory-Test%2C-Tualatin%2C-OR%29-OR/1442515800/",
-        "location": "Tualatin, OR"
+        "location": "Tualatin, OR",
+        "closed": "2026-11-25"
       },
       {
         "title": "\u2b50\ufe0f Electrical Engineering Intern, Spring 2027, (Teradyne, North Reading, MA)",
@@ -68723,7 +68753,8 @@
         "date": "N/A",
         "id": "successfactors:1422588800",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Commodity-Manager-D%2BA-%28Teradyne%2C-North-Reading%2C-MA%29-MA/1422588800/",
-        "location": "North Reading, MA"
+        "location": "North Reading, MA",
+        "closed": "2026-11-25"
       },
       {
         "title": "Engineering Program Management Department Manager (IST, North Reading, MA)",
@@ -68828,7 +68859,8 @@
         "date": "2026-11-13",
         "id": "successfactors:1386762400",
         "url": "https://jobs.teradyne.com/Teradyne/job/Deer-Park-NPI-Manufacturing-Engineer-%28TERADYNE%2C-Deer-Park%2C-IL%29-IL/1386762400/",
-        "location": "Deer Park, IL"
+        "location": "Deer Park, IL",
+        "closed": "2026-11-25"
       },
       {
         "title": "Senior NPI Manufacturing Engineer (TERADYNE, Agoura Hills, CA)",
@@ -68870,7 +68902,8 @@
         "date": "2026-11-18",
         "id": "successfactors:1451735500",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Engineering-Project-Manager-%28Defense-&-Aerospace%2C-North-Reading%2C-MA%29-MA/1451735500/",
-        "location": "North Reading, MA"
+        "location": "North Reading, MA",
+        "closed": "2026-11-25"
       },
       {
         "title": "Factory Applications Engineer (Production Board Test, North Reading, MA)",
@@ -68884,49 +68917,56 @@
         "date": "2026-11-18",
         "id": "successfactors:1451816700",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Factory-Applications-Engineer-%28CATG-North-Reading%2C-MA%29-MA/1451816700/",
-        "location": "North Reading, MA"
+        "location": "North Reading, MA",
+        "closed": "2026-11-25"
       },
       {
         "title": "Software Engineer - Technical Project Leader (Compute Test, North Reading)",
         "date": "2026-11-18",
         "id": "successfactors:1451905800",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Software-Engineer-Technical-Project-Leader-%28Compute-Test%2C-North-Reading%29-MA/1451905800/",
-        "location": "North Reading, MA"
+        "location": "North Reading, MA",
+        "closed": "2026-11-25"
       },
       {
         "title": "Collaboration IT Architect & Manager (BPIT, North Reading)",
         "date": "2026-11-19",
         "id": "successfactors:1452217200",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Collaboration-IT-Architect-&-Manager-%28BPIT%2C-North-Reading%29-MA/1452217200/",
-        "location": "North Reading, MA"
+        "location": "North Reading, MA",
+        "closed": "2026-11-25"
       },
       {
         "title": "SBM Lead (Supply Base Management Lead) (Teradyne Robotics, N. Reading MA / US Remote)",
         "date": "2026-11-19",
         "id": "successfactors:1452339300",
         "url": "https://jobs.teradyne.com/Universal-Robots/job/North-Reading-SBM-Lead-%28Supply-Base-Management-Lead%29-%28Teradyne-Robotics%2C-N_-Reading-MA-US-Remote%29-MA/1452339300/",
-        "location": "North Reading, MA +5"
+        "location": "North Reading, MA +5",
+        "closed": "2026-11-25"
       },
       {
         "title": "Assembly and Test Operator (Teradyne, San Jose, CA)",
         "date": "2026-11-19",
         "id": "successfactors:1452391300",
         "url": "https://jobs.teradyne.com/Teradyne/job/San-Jose-Assembly-and-Test-Operator-%28Teradyne%2C-San-Jose%2C-CA%29-CA-95101/1452391300/",
-        "location": "San Jose, CA"
+        "location": "San Jose, CA",
+        "closed": "2026-11-25"
       },
       {
         "title": "Systems Engineering Manager (Compute Test, North Reading)",
         "date": "2026-11-19",
         "id": "successfactors:1452399800",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Systems-Engineering-Manager-%28Compute-Test%2C-North-Reading%29-MA/1452399800/",
-        "location": "North Reading, MA"
+        "location": "North Reading, MA",
+        "closed": "2026-11-25"
       },
       {
         "title": "Staff Systems Engineer - Platform (Compute Test, North Reading)",
         "date": "2026-11-19",
         "id": "successfactors:1452400800",
         "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Staff-Systems-Engineer-Platform-%28Compute-Test%2C-North-Reading%29-MA/1452400800/",
-        "location": "North Reading, MA"
+        "location": "North Reading, MA",
+        "closed": "2026-11-25"
       },
       {
         "title": "Sr. Analyst, Corporate FP&A (Teradyne, North Reading, MA)",
@@ -77298,6 +77338,13 @@
         "id": "greenhouse:5033885101",
         "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=5033885101&gh_jid=5033885101",
         "location": "Hatfield, United Kingdom"
+      },
+      {
+        "title": "Senior GRC Analyst",
+        "date": "2026-11-25",
+        "id": "greenhouse:5042361101",
+        "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=5042361101&gh_jid=5042361101",
+        "location": "Hatfield, United Kingdom"
       }
     ],
     "Northrop Grumman": [
@@ -77960,7 +78007,8 @@
         "date": "2026-11-20",
         "id": "workday:R10261601",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Remote/XMLNAME-2027-Critical-Skills-Development-Intern---Remote_R10261601",
-        "location": "United States-Remote"
+        "location": "United States-Remote",
+        "closed": "2026-11-25"
       },
       {
         "title": "\u2b50\ufe0f 2027 Software Test Engineering Intern - Roy UT",
@@ -87995,8 +88043,7 @@
         "date": "2026-11-08",
         "id": "lever:342bbac1-839f-4aff-a050-ceb39ceef9aa",
         "url": "https://jobs.eu.lever.co/mobileye/342bbac1-839f-4aff-a050-ceb39ceef9aa",
-        "location": "Jerusalem, Israel",
-        "closed": "2026-11-10"
+        "location": "Jerusalem, Israel"
       },
       {
         "title": "Embedded Systems Software Architect - OS Group",
@@ -130078,8 +130125,8 @@
       "message_id": "<179553411170.2470.14739651950242610064@phlux>"
     },
     "internship_all": {
-      "date": "2026-11-24",
-      "message_id": "<179549711305.2506.442802220290319569@phlux>"
+      "date": "2026-11-25",
+      "message_id": "<179561058157.2502.16856918618527611699@phlux>"
     }
   },
   "pending_closures": {
@@ -130105,7 +130152,7 @@
   "checked": {
     "Google": "2026-11-25",
     "Meta": "2026-11-25",
-    "Nvidia": "2026-11-24",
+    "Nvidia": "2026-11-25",
     "AWS": "2026-11-25",
     "Amazon": "2026-11-25",
     "Netflix": "2026-11-25",
@@ -130113,7 +130160,7 @@
     "Apple": "2026-11-25",
     "Optiver": "2026-11-25",
     "Citadel": "2026-11-12",
-    "Blue Origin": "2026-11-24",
+    "Blue Origin": "2026-11-25",
     "Hudson River Trading": "2026-11-25",
     "Riot Games": "2026-11-25",
     "DE Shaws": "2026-11-25",
@@ -130268,7 +130315,7 @@
     "Welch's": "2026-11-25",
     "ispace": "2026-11-25",
     "Pinterest": "2026-11-25",
-    "Intel": "2026-11-24",
+    "Intel": "2026-11-25",
     "LinkedIn": "2026-11-25",
     "Liberty Mutual": "2026-11-25",
     "Salesforce": "2026-11-25",
@@ -130331,7 +130378,7 @@
     "Goldman Sachs": "2026-11-25",
     "Beli": "2026-11-25",
     "Duolingo": "2026-11-25",
-    "Leidos": "2026-11-24",
+    "Leidos": "2026-11-25",
     "Radix Trading": "2026-11-25",
     "Razer": "2026-11-24",
     "Docusign": "2026-11-25",
@@ -130347,7 +130394,7 @@
     "Amentum": "2026-11-25",
     "Mercedes Benz": "2026-11-25",
     "Boeing": "2026-11-25",
-    "Mosaic": "2026-11-24",
+    "Mosaic": "2026-11-25",
     "Samsung": "2026-11-24",
     "Medtronic": "2026-11-25",
     "T-Mobile": "2026-11-25",
@@ -130356,7 +130403,7 @@
     "Stoke Space": "2026-11-25",
     "RocketLab": "2026-11-25",
     "Northwood Space": "2026-11-25",
-    "Zillow": "2026-11-24",
+    "Zillow": "2026-11-25",
     "Mitre": "2026-11-25",
     "Draper": "2026-11-25",
     "Lyft": "2026-11-25",
@@ -130372,7 +130419,7 @@
     "Impulse Space": "2026-11-25",
     "Hadrian": "2026-11-25",
     "Saildrone": "2026-11-25",
-    "Johnson & Johnson": "2026-11-24",
+    "Johnson & Johnson": "2026-11-25",
     "Stryker": "2026-11-25",
     "PROCEPT BioRobotics": "2026-11-25",
     "Berkshire Grey": "2026-11-25",
@@ -130384,7 +130431,7 @@
     "FANUC America": "2026-11-25",
     "Starship Technologies": "2026-11-25",
     "Shure": "2026-11-25",
-    "Northrop Grumman": "2026-11-24",
+    "Northrop Grumman": "2026-11-25",
     "ABB": "2026-11-24",
     "Exotec": "2026-11-25",
     "Lockheed Martin": "2026-11-25",
@@ -130395,7 +130442,7 @@
     "Lightwheel": "2026-11-25",
     "Tutor Intelligence": "2026-11-25",
     "AMD": "2026-11-25",
-    "Unity": "2026-11-24",
+    "Unity": "2026-11-25",
     "Konrad": "2026-11-25"
   },
   "failing": {
@@ -130423,26 +130470,6 @@
       "since": "2026-11-24",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
     },
-    "Intel": {
-      "since": "2026-11-25",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
-    },
-    "Nvidia": {
-      "since": "2026-11-25",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
-    },
-    "Blue Origin": {
-      "since": "2026-11-25",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/BlueOrigin/jobs"
-    },
-    "Unity": {
-      "since": "2026-11-25",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
-    },
-    "Leidos": {
-      "since": "2026-11-25",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://leidos.wd5.myworkdayjobs.com/wday/cxs/leidos/External/jobs"
-    },
     "Razer": {
       "since": "2026-11-25",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
@@ -130451,29 +130478,17 @@
       "since": "2026-11-25",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
     },
-    "Mosaic": {
-      "since": "2026-11-25",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://mosaic.wd5.myworkdayjobs.com/wday/cxs/mosaic/mosaic/jobs"
-    },
     "General Motors": {
       "since": "2026-11-25",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
     },
-    "Zillow": {
-      "since": "2026-11-25",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://zillow.wd5.myworkdayjobs.com/wday/cxs/zillow/Zillow_Group_External/jobs"
-    },
-    "Johnson & Johnson": {
-      "since": "2026-11-25",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs"
-    },
-    "Northrop Grumman": {
-      "since": "2026-11-25",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ngc.wd1.myworkdayjobs.com/wday/cxs/ngc/Northrop_Grumman_External_Site/jobs"
-    },
     "Oshkosh": {
       "since": "2026-11-25",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs"
+    },
+    "Slack": {
+      "since": "2026-11-25",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/Slack/jobs"
     }
   },
   "closures_untracked": {
