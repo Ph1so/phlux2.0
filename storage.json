@@ -3009,7 +3009,8 @@
         "date": "2026-10-12",
         "id": "meta:1123001263407222",
         "url": "https://www.metacareers.com/profile/job_details/1123001263407222/",
-        "location": "Sunnyvale, CA +2"
+        "location": "Sunnyvale, CA +2",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f Data Center Technician, Intern",
@@ -9285,7 +9286,8 @@
         "date": "2026-10-09",
         "id": "eightfold:446720741706",
         "url": "https://careers.qualcomm.com/careers/job/446720741706",
-        "location": "San Diego, CA"
+        "location": "San Diego, CA",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f Information Technology (IT) Internship \u2013 Summer 2027",
@@ -9299,7 +9301,8 @@
         "date": "2026-10-10",
         "id": "eightfold:446721159170",
         "url": "https://careers.qualcomm.com/careers/job/446721159170",
-        "location": "San Diego, CA"
+        "location": "San Diego, CA",
+        "closed": "2026-11-24"
       },
       {
         "title": "Modem Systems Engineer",
@@ -9320,7 +9323,8 @@
         "date": "2026-10-13",
         "id": "eightfold:446720740636",
         "url": "https://careers.qualcomm.com/careers/job/446720740636",
-        "location": "San Diego, CA"
+        "location": "San Diego, CA",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f Modular Engineering Internship \u2013 Summer 2027",
@@ -9348,7 +9352,8 @@
         "date": "2026-10-14",
         "id": "eightfold:446720740525",
         "url": "https://careers.qualcomm.com/careers/job/446720740525",
-        "location": "San Diego, CA +6"
+        "location": "San Diego, CA +6",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f Embedded Engineering Internship - Summer 2027",
@@ -9376,7 +9381,8 @@
         "date": "2026-10-14",
         "id": "eightfold:446720740553",
         "url": "https://careers.qualcomm.com/careers/job/446720740553",
-        "location": "San Diego, CA"
+        "location": "San Diego, CA",
+        "closed": "2026-11-24"
       }
     ],
     "Toyota Research Insitute": [
@@ -33478,6 +33484,13 @@
         "id": "ashby:e868c382-99c1-4665-9fd5-ac214513f84a",
         "url": "https://jobs.ashbyhq.com/carbon-robotics/e868c382-99c1-4665-9fd5-ac214513f84a",
         "location": "Amsterdam, Netherlands"
+      },
+      {
+        "title": "Manager, Technical Support",
+        "date": "2026-11-24",
+        "id": "ashby:a1b98040-69c0-47b8-ae77-c26f2383a743",
+        "url": "https://jobs.ashbyhq.com/carbon-robotics/a1b98040-69c0-47b8-ae77-c26f2383a743",
+        "location": "Seattle, WA"
       }
     ],
     "Anywhere Robotics": [
@@ -75180,7 +75193,8 @@
         "date": "2026-10-30",
         "id": "lever:6e3dc171-c199-4c4c-b6a4-e9f250d56f62",
         "url": "https://jobs.lever.co/woven-by-toyota/6e3dc171-c199-4c4c-b6a4-e9f250d56f62",
-        "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a +1"
+        "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a +1",
+        "closed": "2026-11-24"
       },
       {
         "title": "Head Engineer, Automated Driving",
@@ -108751,6 +108765,13 @@
         "id": "ashby:03cd844a-ab8d-42f0-b1f6-4b933ee7859e",
         "url": "https://jobs.ashbyhq.com/cohere/03cd844a-ab8d-42f0-b1f6-4b933ee7859e",
         "location": "United States +1"
+      },
+      {
+        "title": "Senior Manager, Talent Development",
+        "date": "2026-11-24",
+        "id": "ashby:7c05d8d1-f288-404b-8142-1be372ae6354",
+        "url": "https://jobs.ashbyhq.com/cohere/7c05d8d1-f288-404b-8142-1be372ae6354",
+        "location": "Toronto +3"
       }
     ],
     "Ramp": [
@@ -130214,10 +130235,6 @@
       "since": "2026-11-24",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
     },
-    "Target": {
-      "since": "2026-11-24",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
-    },
     "ABB": {
       "since": "2026-11-24",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
@@ -130230,29 +130247,17 @@
       "since": "2026-11-24",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
     },
-    "Unity": {
-      "since": "2026-11-24",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
-    },
-    "Leidos": {
-      "since": "2026-11-24",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://leidos.wd5.myworkdayjobs.com/wday/cxs/leidos/External/jobs"
-    },
     "General Motors": {
       "since": "2026-11-24",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
     },
-    "Autodesk": {
+    "Salesforce": {
       "since": "2026-11-24",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/uni/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs"
     },
-    "PROCEPT BioRobotics": {
+    "Slack": {
       "since": "2026-11-24",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://proceptbiorobotics.wd108.myworkdayjobs.com/wday/cxs/proceptbiorobotics/PROCEPT/jobs"
-    },
-    "Slate Auto": {
-      "since": "2026-11-24",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/Slack/jobs"
     }
   },
   "closures_untracked": {
