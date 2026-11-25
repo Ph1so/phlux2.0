@@ -638,6 +638,20 @@
         "id": "workday:JR2030055-1",
         "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Influencer-Marketing-MBA-Intern---Summer-2027_JR2030055-1",
         "location": "US, CA, Santa Clara"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Engineering Intern, Simulation Technology - Summer 2027",
+        "date": "2026-11-24",
+        "id": "workday:JR2029531",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Simulation-Technology---Summer-2027_JR2029531",
+        "location": "US, CA, Santa Clara"
+      },
+      {
+        "title": "\u2b50\ufe0f AI and Quant DevTech Engineering Intern \u2013 Summer 2027",
+        "date": "2026-11-24",
+        "id": "workday:JR2030517",
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-Quant-DevTech-Engineering-Intern---Summer-2027_JR2030517",
+        "location": "US, CA, Santa Clara"
       }
     ],
     "Google": [
@@ -3832,7 +3846,8 @@
         "date": "2026-10-27",
         "id": "meta:1881250979530334",
         "url": "https://www.metacareers.com/profile/job_details/1881250979530334/",
-        "location": "Sunnyvale, CA"
+        "location": "Sunnyvale, CA",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f Research Scientist Intern, AI Research - Speech & Audio (PhD)",
@@ -9286,8 +9301,7 @@
         "date": "2026-10-09",
         "id": "eightfold:446720741706",
         "url": "https://careers.qualcomm.com/careers/job/446720741706",
-        "location": "San Diego, CA",
-        "closed": "2026-11-24"
+        "location": "San Diego, CA"
       },
       {
         "title": "\u2b50\ufe0f Information Technology (IT) Internship \u2013 Summer 2027",
@@ -9301,8 +9315,7 @@
         "date": "2026-10-10",
         "id": "eightfold:446721159170",
         "url": "https://careers.qualcomm.com/careers/job/446721159170",
-        "location": "San Diego, CA",
-        "closed": "2026-11-24"
+        "location": "San Diego, CA"
       },
       {
         "title": "Modem Systems Engineer",
@@ -9323,8 +9336,7 @@
         "date": "2026-10-13",
         "id": "eightfold:446720740636",
         "url": "https://careers.qualcomm.com/careers/job/446720740636",
-        "location": "San Diego, CA",
-        "closed": "2026-11-24"
+        "location": "San Diego, CA"
       },
       {
         "title": "\u2b50\ufe0f Modular Engineering Internship \u2013 Summer 2027",
@@ -9352,8 +9364,7 @@
         "date": "2026-10-14",
         "id": "eightfold:446720740525",
         "url": "https://careers.qualcomm.com/careers/job/446720740525",
-        "location": "San Diego, CA +6",
-        "closed": "2026-11-24"
+        "location": "San Diego, CA +6"
       },
       {
         "title": "\u2b50\ufe0f Embedded Engineering Internship - Summer 2027",
@@ -9381,8 +9392,7 @@
         "date": "2026-10-14",
         "id": "eightfold:446720740553",
         "url": "https://careers.qualcomm.com/careers/job/446720740553",
-        "location": "San Diego, CA",
-        "closed": "2026-11-24"
+        "location": "San Diego, CA"
       }
     ],
     "Toyota Research Insitute": [
@@ -11050,6 +11060,13 @@
         "id": "tesla:290741",
         "url": "https://www.tesla.com/careers/search/job/start-optimus-service-technician-spring-2027-290741",
         "location": "Fremont, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Internship, Robotics Electronic Design Engineer, Optimus (Summer 2027)",
+        "date": "2026-11-24",
+        "id": "tesla:291226",
+        "url": "https://www.tesla.com/careers/search/job/internship-robotics-electronic-design-engineer-optimus-summer-2027-291226",
+        "location": "Palo Alto, CA"
       }
     ],
     "Gecko Robotics": [
@@ -13401,8 +13418,7 @@
         "date": "2026-10-02",
         "id": "workday:JR-202621696",
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696",
-        "location": "2 Locations",
-        "closed": "2026-11-13"
+        "location": "2 Locations"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Intern \u2013 Software Verification Engineer, AV/AI Platform",
@@ -50773,7 +50789,8 @@
         "date": "2026-10-14",
         "id": "ashby:0d610e35-2ee3-4a65-b813-cf3691bc2257",
         "url": "https://jobs.ashbyhq.com/saronic/0d610e35-2ee3-4a65-b813-cf3691bc2257",
-        "location": "Austin, TX"
+        "location": "Austin, TX",
+        "closed": "2026-11-24"
       },
       {
         "title": "Senior Systems Engineer",
@@ -75415,6 +75432,20 @@
         "id": "lever:beb88d3e-3f05-4e2d-9718-2a7520cce9a0",
         "url": "https://jobs.lever.co/woven-by-toyota/beb88d3e-3f05-4e2d-9718-2a7520cce9a0",
         "location": "Ann Arbor, MI"
+      },
+      {
+        "title": "Staff Technical Program Manager - Autonomy Features",
+        "date": "2026-11-24",
+        "id": "lever:0a6da2d8-5866-4949-9538-a3f54b99fd91",
+        "url": "https://jobs.lever.co/woven-by-toyota/0a6da2d8-5866-4949-9538-a3f54b99fd91",
+        "location": "Tokyo"
+      },
+      {
+        "title": "\u81ea\u52d5\u904b\u8ee2\u6a5f\u80fd\u62c5\u5f53 \u30b9\u30bf\u30c3\u30d5\u30c6\u30af\u30cb\u30ab\u30eb\u30d7\u30ed\u30b0\u30e9\u30e0\u30de\u30cd\u30fc\u30b8\u30e3\u30fc",
+        "date": "2026-11-24",
+        "id": "lever:bbb78eef-7b0f-4f41-8a9c-3dbab8313196",
+        "url": "https://jobs.lever.co/woven-by-toyota/bbb78eef-7b0f-4f41-8a9c-3dbab8313196",
+        "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a"
       }
     ],
     "Generalist AI": [
@@ -130227,10 +130258,6 @@
       "since": "2026-11-12",
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.citadel.com/sitemap/career.xml"
     },
-    "Nvidia": {
-      "since": "2026-11-24",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
-    },
     "Samsung": {
       "since": "2026-11-24",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
@@ -130239,25 +130266,17 @@
       "since": "2026-11-24",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
     },
-    "Workday": {
-      "since": "2026-11-24",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday_Early_Career/jobs"
-    },
     "Snap": {
       "since": "2026-11-24",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
     },
-    "General Motors": {
+    "Rockwell Automation": {
       "since": "2026-11-24",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
     },
-    "Salesforce": {
+    "Slate Auto": {
       "since": "2026-11-24",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs"
-    },
-    "Slack": {
-      "since": "2026-11-24",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/Slack/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
     }
   },
   "closures_untracked": {
