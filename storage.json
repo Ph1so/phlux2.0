@@ -10605,7 +10605,8 @@
         "date": "2026-10-13",
         "id": "tesla:279991",
         "url": "https://www.tesla.com/careers/search/job/internship-firmware-engineer-new-programs-engineering-winter-spring-2027-279991",
-        "location": "Fremont, CA"
+        "location": "Fremont, CA",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f Internship, Electronic Design Engineer, Radio Frequency (Winter/Spring 2027)",
@@ -75171,7 +75172,8 @@
         "date": "2026-10-30",
         "id": "lever:49ca6b64-6884-48cb-a5a4-4d86cf984d82",
         "url": "https://jobs.lever.co/woven-by-toyota/49ca6b64-6884-48cb-a5a4-4d86cf984d82",
-        "location": "Tokyo +1"
+        "location": "Tokyo +1",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u30d0\u30c3\u30af\u30a8\u30f3\u30c9\u30a8\u30f3\u30b8\u30cb\u30a2\u3001\u7d71\u5408\u30e2\u30d3\u30ea\u30c6\u30a3\u30a4\u30f3\u30d5\u30e9\u30fbFacility Service System",
@@ -75383,7 +75385,8 @@
         "date": "2026-11-19",
         "id": "lever:73754a41-e55e-4bd1-9b47-bc473af5b6f2",
         "url": "https://jobs.lever.co/woven-by-toyota/73754a41-e55e-4bd1-9b47-bc473af5b6f2",
-        "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a"
+        "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a",
+        "closed": "2026-11-24"
       },
       {
         "title": "Software Engineer, Automated Driving Vehicle Platform",
@@ -84736,8 +84739,7 @@
         "date": "2026-11-09",
         "id": "ashby:eb3b695e-6c60-4875-b8bc-8f4d5d8a9bbb",
         "url": "https://jobs.ashbyhq.com/openai/eb3b695e-6c60-4875-b8bc-8f4d5d8a9bbb",
-        "location": "San Francisco",
-        "closed": "2026-11-16"
+        "location": "San Francisco"
       },
       {
         "title": "Account Director, Higher Education",
@@ -89949,6 +89951,13 @@
         "id": "eightfold:996477890213",
         "url": "https://lockheedmartin.eightfold.ai/careers/job/996477890213",
         "location": "Sunnyvale, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f Finance Summer Intern",
+        "date": "2026-11-24",
+        "id": "eightfold:996478041163",
+        "url": "https://lockheedmartin.eightfold.ai/careers/job/996478041163",
+        "location": "Troy, AL"
       }
     ],
     "Vecna Robotics": [
@@ -123150,14 +123159,16 @@
         "date": "N/A",
         "id": "greenhouse:8491138002",
         "url": "https://boards.greenhouse.io/point72/jobs/8491138002?gh_jid=8491138002",
-        "location": "Japan"
+        "location": "Japan",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f 2027 Point72 Academy Investment Analyst Summer Internship Program - Japan (BCF)",
         "date": "N/A",
         "id": "greenhouse:8729717002",
         "url": "https://boards.greenhouse.io/point72/jobs/8729717002?gh_jid=8729717002",
-        "location": "Japan"
+        "location": "Japan",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f 2027 Summer Internship - Investment Services",
@@ -130223,29 +130234,25 @@
       "since": "2026-11-24",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
     },
-    "Visa": {
-      "since": "2026-11-24",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs"
-    },
     "Leidos": {
       "since": "2026-11-24",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://leidos.wd5.myworkdayjobs.com/wday/cxs/leidos/External/jobs"
     },
-    "Razer": {
-      "since": "2026-11-24",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
-    },
-    "T-Mobile": {
-      "since": "2026-11-24",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://tmobile.wd1.myworkdayjobs.com/wday/cxs/tmobile/External/jobs"
-    },
-    "Zillow": {
-      "since": "2026-11-24",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://zillow.wd5.myworkdayjobs.com/wday/cxs/zillow/Zillow_Group_External/jobs"
-    },
     "General Motors": {
       "since": "2026-11-24",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
+    },
+    "Autodesk": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/uni/jobs"
+    },
+    "PROCEPT BioRobotics": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://proceptbiorobotics.wd108.myworkdayjobs.com/wday/cxs/proceptbiorobotics/PROCEPT/jobs"
+    },
+    "Slate Auto": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
     }
   },
   "closures_untracked": {
