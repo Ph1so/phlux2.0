@@ -6536,6 +6536,13 @@
         "id": "greenhouse:5469305003",
         "url": "https://boards.greenhouse.io/neuralink/jobs/5469305003?gh_jid=5469305003",
         "location": "Austin, Texas, United States; South San Francisco, California, United States"
+      },
+      {
+        "title": "\u2b50\ufe0f Electrical Test Engineer Intern",
+        "date": "2026-11-24",
+        "id": "greenhouse:8197808003",
+        "url": "https://boards.greenhouse.io/neuralink/jobs/8197808003?gh_jid=8197808003",
+        "location": "South San Francisco, California, United States"
       }
     ],
     "Rivian": [
@@ -56167,6 +56174,13 @@
         "id": "rippling:272b9a69-5666-4134-9585-a40a2096b4cf",
         "url": "https://ats.rippling.com/mytra/jobs/272b9a69-5666-4134-9585-a40a2096b4cf",
         "location": "Brisbane, CA"
+      },
+      {
+        "title": "Business Development Director",
+        "date": "2026-11-24",
+        "id": "rippling:c6abb44a-0492-4425-a04a-a3edeea0ef91",
+        "url": "https://ats.rippling.com/mytra/jobs/c6abb44a-0492-4425-a04a-a3edeea0ef91",
+        "location": "Brisbane, CA"
       }
     ],
     "Overland AI": [
@@ -77827,6 +77841,34 @@
         "id": "workday:R10262079",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Electrical-Engineer-Intern---Gilbert-AZ_R10262079",
         "location": "United States-Arizona-Gilbert"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Industrial Engineering Internship - Baltimore MD",
+        "date": "2026-11-24",
+        "id": "workday:R10262103",
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Industrial-Engineering-Internship---Baltimore-MD_R10262103",
+        "location": "United States-Maryland-Baltimore"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Human Resources Intern - Linthicum MD",
+        "date": "2026-11-24",
+        "id": "workday:R10262072",
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Human-Resources-Intern---Linthicum-MD_R10262072",
+        "location": "United States-Maryland-Linthicum"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Human Resource Intern - Rolling Meadows IL",
+        "date": "2026-11-24",
+        "id": "workday:R10262063",
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Human-Resource-Intern---Rolling-Meadows-IL_R10262063",
+        "location": "United States-Illinois-Rolling Meadows"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Human Resource Intern - Linthicum MD",
+        "date": "2026-11-24",
+        "id": "workday:R10262069",
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Human-Resource-Intern---Linthicum-MD_R10262069",
+        "location": "United States-Maryland-Linthicum"
       }
     ],
     "OpenAI": [
@@ -83755,7 +83797,8 @@
         "date": "2026-10-27",
         "id": "ashby:3942de32-739a-409a-841c-828af04bad83",
         "url": "https://jobs.ashbyhq.com/openai/3942de32-739a-409a-841c-828af04bad83",
-        "location": "San Francisco"
+        "location": "San Francisco",
+        "closed": "2026-11-24"
       },
       {
         "title": "Core Operations Lead, Community & Culture",
@@ -97261,6 +97304,13 @@
         "date": "2026-11-24",
         "id": "greenhouse:5391277008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391277008",
+        "location": "San Francisco, CA | New York City, NY"
+      },
+      {
+        "title": "Engineering Manager, Labs",
+        "date": "2026-11-24",
+        "id": "greenhouse:5369102008",
+        "url": "https://job-boards.greenhouse.io/anthropic/jobs/5369102008",
         "location": "San Francisco, CA | New York City, NY"
       }
     ],
@@ -123482,7 +123532,8 @@
         "date": "N/A",
         "id": "eightfold:43322647",
         "url": "https://apply.hp.com/careers/job/43322647",
-        "location": "San Francisco, CA"
+        "location": "San Francisco, CA",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f Software Product Security Engineer Intern",
@@ -123545,7 +123596,8 @@
         "date": "N/A",
         "id": "eightfold:43322792",
         "url": "https://apply.hp.com/careers/job/43322792",
-        "location": "San Francisco, CA"
+        "location": "San Francisco, CA",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f Software Product Security Intern - HP IQ",
@@ -123566,7 +123618,8 @@
         "date": "N/A",
         "id": "eightfold:43322821",
         "url": "https://apply.hp.com/careers/job/43322821",
-        "location": "San Francisco, CA"
+        "location": "San Francisco, CA",
+        "closed": "2026-11-24"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Intern, Connectivity - HP IQ",
@@ -127608,7 +127661,8 @@
         "date": "N/A",
         "id": "pinpoint:580091",
         "url": "https://impulsespace.pinpointhq.com/en/postings/0af2e1a3-89a2-4cdb-897f-979064fbc224",
-        "location": "Redondo Beach, CA"
+        "location": "Redondo Beach, CA",
+        "closed": "2026-11-24"
       },
       {
         "title": "Senior Structural Analyst",
@@ -130080,6 +130134,38 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.citadel.com/sitemap/career.xml"
+    },
+    "Nvidia": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
+    },
+    "Autodesk": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/uni/jobs"
+    },
+    "Slack": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/Slack/jobs"
+    },
+    "Rockwell Automation": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
+    },
+    "Samsung": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
+    },
+    "Target": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
+    },
+    "Johnson & Johnson": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs"
+    },
+    "ABB": {
+      "since": "2026-11-24",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
     }
   },
   "closures_untracked": {
