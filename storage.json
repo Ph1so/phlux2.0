@@ -15904,7 +15904,8 @@
         "date": "2026-10-30",
         "id": "greenhouse:8925231002",
         "url": "https://boards.greenhouse.io/pathrobotics/jobs/8925231002?gh_jid=8925231002",
-        "location": "Columbus, Ohio"
+        "location": "Columbus, Ohio",
+        "closed": "2026-11-25"
       },
       {
         "title": "Global Supply Manager",
@@ -46560,6 +46561,13 @@
         "id": "google:131561271722943174",
         "url": "https://www.google.com/about/careers/applications/jobs/results/131561271722943174",
         "location": "Mountain View, CA"
+      },
+      {
+        "title": "Member of Technical Staff, AI Studio, DeepMind",
+        "date": "2026-11-25",
+        "id": "google:76410318229512902",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/76410318229512902",
+        "location": "New York, NY +1"
       }
     ],
     "Wing": [
@@ -53838,6 +53846,13 @@
         "id": "lever:9236afb8-8439-4dee-98e9-9a2fe7e5dbcd",
         "url": "https://jobs.lever.co/anybotics/9236afb8-8439-4dee-98e9-9a2fe7e5dbcd",
         "location": "Zurich +1"
+      },
+      {
+        "title": "Onboard Software, Technical Manager",
+        "date": "2026-11-25",
+        "id": "lever:4b8431a5-565d-4c8f-ab1b-aa66e9861b7a",
+        "url": "https://jobs.lever.co/anybotics/4b8431a5-565d-4c8f-ab1b-aa66e9861b7a",
+        "location": "Barcelona"
       }
     ],
     "Viam": [
@@ -59740,11 +59755,13 @@
         "date": "2026-10-14",
         "id": "workday:R8261",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Brooksville-FL/Co-Op--System-Engineer_R8261",
-        "location": "USA Brooksville, FL"
+        "location": "USA Brooksville, FL",
+        "closed": "2026-11-25"
       },
       {
         "title": "\u2b50\ufe0f Co-Op- System Engineer",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "closed": "2026-11-25"
       },
       {
         "title": "\u2b50\ufe0f Intern- Project Manager",
@@ -61716,7 +61733,8 @@
         "date": "2026-10-15",
         "id": "workday:JR00038212",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Fort-Smith-Arkansas-United-States-of-America/Segment-Sales-Manager---Defense--Nuclear---Specialty-Solutions_JR00038212",
-        "location": "2 Locations"
+        "location": "2 Locations",
+        "closed": "2026-11-25"
       },
       {
         "title": "Product Group Manager - Variable Speed Technology",
@@ -62698,7 +62716,8 @@
         "date": "N/A",
         "id": "workday:JR00036758",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-TN-Selmer/Team-Leader---2nd-Shift-Plugs-Assembly_JR00036758",
-        "location": "USA, TN, Selmer"
+        "location": "USA, TN, Selmer",
+        "closed": "2026-11-25"
       },
       {
         "title": "Learning Technology Specialist",
@@ -63755,7 +63774,8 @@
         "date": "N/A",
         "id": "workday:JR00045987",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Houston-Texas-United-States-of-America/Tender-Quotation-Specialist_JR00045987",
-        "location": "Houston, Texas, United States of America"
+        "location": "Houston, Texas, United States of America",
+        "closed": "2026-11-25"
       },
       {
         "title": "Key Account Manager - Data Centers",
@@ -63892,7 +63912,8 @@
         "date": "N/A",
         "id": "workday:JR00051082",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Pinetops-North-Carolina-United-States-of-America/XMLNAME-2nd-Shift-Maintenance-Specialist_JR00051082",
-        "location": "Pinetops, North Carolina, United States of America"
+        "location": "Pinetops, North Carolina, United States of America",
+        "closed": "2026-11-25"
       },
       {
         "title": "PIM Senior Admin",
@@ -63914,7 +63935,8 @@
         "date": "N/A",
         "id": "workday:JR00050983",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-GA-Flowery-Branch/IS-Specialist_JR00050983",
-        "location": "USA, GA, Flowery Branch"
+        "location": "USA, GA, Flowery Branch",
+        "closed": "2026-11-25"
       },
       {
         "title": "Lead Technical Trainer",
@@ -64006,7 +64028,8 @@
         "date": "N/A",
         "id": "workday:JR00050041",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Fort-Smith-Arkansas-United-States-of-America/Production-Supervisor---2nd-Shift_JR00050041",
-        "location": "Fort Smith, Arkansas, United States of America"
+        "location": "Fort Smith, Arkansas, United States of America",
+        "closed": "2026-11-25"
       },
       {
         "title": "HR Generalist (Ormond Beach, FL)",
@@ -64213,28 +64236,32 @@
         "date": "N/A",
         "id": "workday:JR00043094",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bartlesville-Oklahoma-United-States-of-America/Process-Engineer_JR00043094",
-        "location": "Bartlesville, Oklahoma, United States of America"
+        "location": "Bartlesville, Oklahoma, United States of America",
+        "closed": "2026-11-25"
       },
       {
         "title": "Staff Application Engineer",
         "date": "N/A",
         "id": "workday:JR00047287",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bartlesville-Oklahoma-United-States-of-America/Staff-Application-Engineer_JR00047287",
-        "location": "2 Locations"
+        "location": "2 Locations",
+        "closed": "2026-11-25"
       },
       {
         "title": "Industry & Account Manager",
         "date": "N/A",
         "id": "workday:JR00040894",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Texas-United-States-of-America/Industry---Account-Manager_JR00040894",
-        "location": "5 Locations"
+        "location": "5 Locations",
+        "closed": "2026-11-25"
       },
       {
         "title": "Planning & Fulfillment Specialist",
         "date": "N/A",
         "id": "workday:JR00048215",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Lancaster-Texas-USA/Planning---Fulfillment-Specialist_JR00048215",
-        "location": "Lancaster, Texas, USA"
+        "location": "Lancaster, Texas, USA",
+        "closed": "2026-11-25"
       },
       {
         "title": "\u2b50\ufe0f Health, Safety & Environment Intern Mebane, NC - Summer",
@@ -64263,7 +64290,8 @@
         "date": "N/A",
         "id": "workday:JR00051530",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MS-Senatobia/Senior-Maintenance-A-Shift-5AM---3PM_JR00051530",
-        "location": "USA, MS, Senatobia"
+        "location": "USA, MS, Senatobia",
+        "closed": "2026-11-25"
       },
       {
         "title": "R&D Power System Control Engineer",
@@ -64313,7 +64341,8 @@
         "date": "N/A",
         "id": "workday:JR00049620",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-OH-Cleveland/Senior-Commissioning-Technician_JR00049620",
-        "location": "USA, OH, Cleveland"
+        "location": "USA, OH, Cleveland",
+        "closed": "2026-11-25"
       },
       {
         "title": "Project Engineer - Automation",
@@ -64327,7 +64356,8 @@
         "date": "N/A",
         "id": "workday:JR00047891",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-IL-Lombard/Sales-Engineer_JR00047891",
-        "location": "2 Locations"
+        "location": "2 Locations",
+        "closed": "2026-11-25"
       },
       {
         "title": "Metallurgy Sales Manager",
@@ -64395,7 +64425,8 @@
         "date": "N/A",
         "id": "workday:JR00051790",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Mebane/ELDS-MV-SWGR-Team-Leader-1st-shift_JR00051790",
-        "location": "USA, NC, Mebane"
+        "location": "USA, NC, Mebane",
+        "closed": "2026-11-25"
       },
       {
         "title": "\u2b50\ufe0f R&D Intern Mebane- Summer 2027",
@@ -64484,7 +64515,8 @@
         "date": "N/A",
         "id": "workday:JR00048460",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Indiana-United-States-of-America/Resident-Field-Service-Technician-Gary--IN_JR00048460",
-        "location": "3 Locations"
+        "location": "3 Locations",
+        "closed": "2026-11-25"
       },
       {
         "title": "HR Business Partner (Flowery Branch, GA)",
@@ -64528,7 +64560,8 @@
         "date": "N/A",
         "id": "workday:JR00050125",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-MO-Saint-Louis/Utility-19--Material-Handler_JR00050125",
-        "location": "USA, MO, Saint Louis"
+        "location": "USA, MO, Saint Louis",
+        "closed": "2026-11-25"
       },
       {
         "title": "Field Application Engineer",
@@ -64542,7 +64575,8 @@
         "date": "N/A",
         "id": "workday:JR00051483",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-AR-Jonesboro/Quality-and-Process-Technician_JR00051483",
-        "location": "USA, AR, Jonesboro"
+        "location": "USA, AR, Jonesboro",
+        "closed": "2026-11-25"
       },
       {
         "title": "Account Manager",
@@ -64891,8 +64925,7 @@
         "date": "N/A",
         "id": "workday:JR00051103",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-TN-Selmer/Production-Data-Validator_JR00051103",
-        "location": "USA, TN, Selmer",
-        "closed": "2026-11-24"
+        "location": "USA, TN, Selmer"
       },
       {
         "title": "ELSP Quality Control Technician",
@@ -66569,6 +66602,20 @@
         "id": "workday:JR00045059",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/New-Berlin-Wisconsin-United-States-of-America/VFD-Support-Specialist-II_JR00045059",
         "location": "43 Locations"
+      },
+      {
+        "title": "2nd Shift Galvanizer Machine Operator",
+        "date": "2026-11-25",
+        "id": "workday:JR00054681",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-AR-Jonesboro/XMLNAME-2nd-Shift-Galvanizer-Machine-Operator_JR00054681",
+        "location": "USA, AR, Jonesboro"
+      },
+      {
+        "title": "Global Project Director",
+        "date": "2026-11-25",
+        "id": "workday:JR00042077",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Texas-United-States-of-America/Global-Project-Director_JR00042077",
+        "location": "6 Locations"
       }
     ],
     "Teradyne": [
@@ -88466,6 +88513,13 @@
         "id": "lever:39cca7a2-8673-457f-b115-347131b17c67",
         "url": "https://jobs.eu.lever.co/mobileye/39cca7a2-8673-457f-b115-347131b17c67",
         "location": "Shanghai, China"
+      },
+      {
+        "title": "Experienced Bookkeeper",
+        "date": "2026-11-25",
+        "id": "lever:abe9ac0a-0991-47fb-a7c4-633ce93b1e55",
+        "url": "https://jobs.eu.lever.co/mobileye/abe9ac0a-0991-47fb-a7c4-633ce93b1e55",
+        "location": "Jerusalem, Israel"
       }
     ],
     "Dusty Robotics": [
@@ -90190,6 +90244,13 @@
         "id": "eightfold:996478041163",
         "url": "https://lockheedmartin.eightfold.ai/careers/job/996478041163",
         "location": "Troy, AL"
+      },
+      {
+        "title": "\u2b50\ufe0f Systems Engineer (Network) - Intern",
+        "date": "2026-11-25",
+        "id": "eightfold:996478006526",
+        "url": "https://lockheedmartin.eightfold.ai/careers/job/996478006526",
+        "location": "Mount Laurel, NJ"
       }
     ],
     "Vecna Robotics": [
@@ -106439,7 +106500,8 @@
         "date": "N/A",
         "id": "ibm:140605",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=140605",
-        "location": "Albany"
+        "location": "Albany",
+        "closed": "2026-11-25"
       },
       {
         "title": "Quantum Demonstration Experimentalist",
@@ -122915,7 +122977,8 @@
         "date": "N/A",
         "id": "workday:JR2026007795",
         "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Data-Science-Intern_JR2026007795",
-        "location": "Singapore"
+        "location": "Singapore",
+        "closed": "2026-11-25"
       },
       {
         "title": "\u2b50\ufe0f Visual Merchandising Intern",
@@ -123040,7 +123103,8 @@
         "date": "2026-11-20",
         "id": "workday:JR2026008145",
         "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Product-Marketing-Intern--Productivity-_JR2026008145",
-        "location": "Singapore"
+        "location": "Singapore",
+        "closed": "2026-11-25"
       }
     ],
     "Docusign": [
@@ -130255,7 +130319,7 @@
     "FieldAI": "2026-11-25",
     "Humanoid": "2026-11-25",
     "World Labs": "2026-11-25",
-    "General Motors": "2026-11-24",
+    "General Motors": "2026-11-25",
     "Niantic Spatial": "2026-11-25",
     "Wing": "2026-11-25",
     "Physical Intelligence": "2026-11-25",
@@ -130388,7 +130452,7 @@
     "Duolingo": "2026-11-25",
     "Leidos": "2026-11-25",
     "Radix Trading": "2026-11-25",
-    "Razer": "2026-11-24",
+    "Razer": "2026-11-25",
     "Docusign": "2026-11-25",
     "Sentry": "2026-11-25",
     "Tencent": "2026-11-25",
@@ -130403,7 +130467,7 @@
     "Mercedes Benz": "2026-11-25",
     "Boeing": "2026-11-25",
     "Mosaic": "2026-11-25",
-    "Samsung": "2026-11-24",
+    "Samsung": "2026-11-25",
     "Medtronic": "2026-11-25",
     "T-Mobile": "2026-11-25",
     "Akuna Capital": "2026-11-25",
@@ -130440,7 +130504,7 @@
     "Starship Technologies": "2026-11-25",
     "Shure": "2026-11-25",
     "Northrop Grumman": "2026-11-25",
-    "ABB": "2026-11-24",
+    "ABB": "2026-11-25",
     "Exotec": "2026-11-25",
     "Lockheed Martin": "2026-11-25",
     "Simbe Robotics": "2026-11-25",
@@ -130461,54 +130525,6 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.citadel.com/sitemap/career.xml"
-    },
-    "Samsung": {
-      "since": "2026-11-24",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
-    },
-    "ABB": {
-      "since": "2026-11-24",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
-    },
-    "Razer": {
-      "since": "2026-11-25",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
-    },
-    "General Motors": {
-      "since": "2026-11-25",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
-    },
-    "Nvidia": {
-      "since": "2026-11-25",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
-    },
-    "Salesforce": {
-      "since": "2026-11-25",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs"
-    },
-    "Intel": {
-      "since": "2026-11-25",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
-    },
-    "Workday": {
-      "since": "2026-11-25",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday_Early_Career/jobs"
-    },
-    "Unity": {
-      "since": "2026-11-25",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
-    },
-    "Zillow": {
-      "since": "2026-11-25",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://zillow.wd5.myworkdayjobs.com/wday/cxs/zillow/Zillow_Group_External/jobs"
-    },
-    "Johnson & Johnson": {
-      "since": "2026-11-25",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs"
-    },
-    "Slate Auto": {
-      "since": "2026-11-25",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
     }
   },
   "closures_untracked": {
