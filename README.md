@@ -12,7 +12,7 @@
 <p>
   <a href="https://ph1so.github.io/phlux2.0/"><img src="https://img.shields.io/badge/browse-internships-1f5fff?style=flat-square" alt="Browse internships"></a>
   <a href="https://github.com/Ph1so/phlux2.0/actions/workflows/job-scraper.yml"><img src="https://img.shields.io/github/actions/workflow/status/Ph1so/phlux2.0/job-scraper.yml?branch=main&style=flat-square&label=scraper" alt="Scraper status"></a>
-  <img src="https://img.shields.io/badge/roles_tracked-39.4k-475467?style=flat-square" alt="39,361 roles tracked">
+  <img src="https://img.shields.io/badge/roles_tracked-39.4k-475467?style=flat-square" alt="39,367 roles tracked">
 </p>
 
 <p><a href="https://ph1so.github.io/phlux2.0/"><b>Website</b></a> &nbsp;·&nbsp; <a href="listings/README.md"><b>All listings</b></a></p>
@@ -21,7 +21,7 @@
 
 ## Latest roles
 
-Showing the 569 most recent of 39,361 roles tracked across 295 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
+Showing the 568 most recent of 39,367 roles tracked across 295 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
 
 
 <table>
@@ -85,6 +85,20 @@ Showing the 569 most recent of 39,361 roles tracked across 295 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.google.com/about/careers/applications/jobs/results?company=DeepMind"><img src="https://cdn.brandfetch.io/deepmind.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="DeepMind" height="20" style="vertical-align:middle; margin-right:6px;"> DeepMind</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.google.com/about/careers/applications/jobs/results/107901430760645318">Research Engineer, Media Forensics and Information Quality, DeepMind</a></div></td>
+  <td>2026-11-25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/torcrobotics"><img src="https://cdn.brandfetch.io/torc.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Torc Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Torc Robotics</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/torcrobotics/jobs/8958644002">CDL Driver 1, Class A</a></div></td>
+  <td>2026-11-25</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/anybotics"><img src="https://cdn.brandfetch.io/anybotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ANYbotics" height="20" style="vertical-align:middle; margin-right:6px;"> ANYbotics</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/anybotics/8ba02712-b54a-4447-a73e-6384563feda1">Senior Procurement Specialist</a></div></td>
@@ -120,6 +134,13 @@ Showing the 569 most recent of 39,361 roles tracked across 295 companies. ⭐️
 </tr>
   <tr>
   <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic"><img src="https://cdn.brandfetch.io/symbotic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Symbotic" height="20" style="vertical-align:middle; margin-right:6px;"> Symbotic</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Manager--Mobile-Robotics-Controls_R8617">Manager, Mobile Robotics Controls</a></div></td>
+  <td>2026-11-25</td>
+</tr>
+  <tr>
+  <td>
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-AR-Jonesboro/XMLNAME-2nd-Shift-Galvanizer-Machine-Operator_JR00054681">2nd Shift Galvanizer Machine Operator</a></div></td>
@@ -130,6 +151,13 @@ Showing the 569 most recent of 39,361 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Texas-United-States-of-America/Global-Project-Director_JR00042077">Global Project Director</a></div></td>
+  <td>2026-11-25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.teradyne.com/teradyne/search/?q=&locationsearch=United+States&sortColumn=referencedate&sortDirection=desc"><img src="https://cdn.brandfetch.io/teradyne.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Teradyne" height="20" style="vertical-align:middle; margin-right:6px;"> Teradyne</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.teradyne.com/Teradyne/job/North-Reading-Equipment-Engineer-%28IST-North-Reading%2C-MA%29-MA/1453772200/">Equipment Engineer (IST; North Reading, MA)</a></div></td>
   <td>2026-11-25</td>
 </tr>
   <tr>
@@ -186,6 +214,20 @@ Showing the 569 most recent of 39,361 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site?workerSubType=a111b0a898f10129e4db58f2e700d97a"><img src="https://cdn.brandfetch.io/northropgrumman.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Northrop Grumman" height="20" style="vertical-align:middle; margin-right:6px;"> Northrop Grumman</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Falls-Church/XMLNAME-2027-Configuration-Management-Data-Analyst-Intern---Falls-Church-VA_R10262117">⭐️ 2027 Configuration Management Data Analyst Intern - Falls Church VA</a></div></td>
+  <td>2026-11-25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site?workerSubType=a111b0a898f10129e4db58f2e700d97a"><img src="https://cdn.brandfetch.io/northropgrumman.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Northrop Grumman" height="20" style="vertical-align:middle; margin-right:6px;"> Northrop Grumman</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Falls-Church/XMLNAME-2027-Computer-Systems-Intern_R10262127">⭐️ 2027 Computer Systems Intern</a></div></td>
+  <td>2026-11-25</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site?workerSubType=a111b0a898f10129e4db58f2e700d97a"><img src="https://cdn.brandfetch.io/northropgrumman.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Northrop Grumman" height="20" style="vertical-align:middle; margin-right:6px;"> Northrop Grumman</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Falls-Church/XMLNAME-2027-Enterprise-Productivity-Solutions-Intern---Falls-Church-VA_R10262125">⭐️ 2027 Enterprise Productivity Solutions Intern - Falls Church VA</a></div></td>
   <td>2026-11-25</td>
 </tr>
   <tr>
@@ -3966,55 +4008,6 @@ Showing the 569 most recent of 39,361 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ibm.com/careers/JobDetail?jobId=145322">Entry Level Supply Chain Hardware Developer AZ</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ibm.com/careers/JobDetail?jobId=143389">Quantum Algorithm Engineer</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ibm.com/careers/JobDetail?jobId=145298">Entry Level Human Resources Professional: HR Business Partner</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ibm.com/careers/JobDetail?jobId=130361">Entry Level Technical Support Professional-Tucson-AZ</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ibm.com/careers/JobDetail?jobId=143308">Procurement Entry Level Hire 2027</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ibm.com/careers/JobDetail?jobId=133131">⭐️ Software Developer Intern 2027 - Austin</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ibm.com/careers/JobDetail?jobId=142303">Research Scientist - AI foundations</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ibm.com/careers/JobDetail?jobId=145319">Entry Level Supply Chain Software Developer</a></div></td>
   <td>2026-11-20</td>
 </tr>
 

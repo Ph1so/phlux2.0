@@ -45971,7 +45971,8 @@
         "date": "2026-10-29",
         "id": "google:117631466568852166",
         "url": "https://www.google.com/about/careers/applications/jobs/results/117631466568852166",
-        "location": "Mountain View, CA"
+        "location": "Mountain View, CA",
+        "closed": "2026-11-25"
       },
       {
         "title": "Robotics Embedded Software Tech Lead, DeepMind",
@@ -46568,6 +46569,13 @@
         "id": "google:76410318229512902",
         "url": "https://www.google.com/about/careers/applications/jobs/results/76410318229512902",
         "location": "New York, NY +1"
+      },
+      {
+        "title": "Research Engineer, Media Forensics and Information Quality, DeepMind",
+        "date": "2026-11-25",
+        "id": "google:107901430760645318",
+        "url": "https://www.google.com/about/careers/applications/jobs/results/107901430760645318",
+        "location": "San Francisco, CA +1"
       }
     ],
     "Wing": [
@@ -50098,7 +50106,8 @@
         "id": "greenhouse:8646178002",
         "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8646178002",
         "location": "Fort Worth, Texas",
-        "early": "Demonstrates competences and technical proficiencies typically acquired through BS+ 0-3+ years of experience."
+        "early": "Demonstrates competences and technical proficiencies typically acquired through BS+ 0-3+ years of experience.",
+        "closed": "2026-11-25"
       },
       {
         "title": "Logistics Manager 1",
@@ -50456,6 +50465,14 @@
         "id": "greenhouse:8958232002",
         "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8958232002",
         "location": "Montreal, Canada"
+      },
+      {
+        "title": "CDL Driver 1, Class A",
+        "date": "2026-11-25",
+        "id": "greenhouse:8958644002",
+        "url": "https://job-boards.greenhouse.io/torcrobotics/jobs/8958644002",
+        "location": "Fort Worth, Texas",
+        "early": "Demonstrates competences and technical proficiencies typically acquired through BS+ 0-3+ years of experience."
       }
     ],
     "Saronic": [
@@ -60991,6 +61008,13 @@
         "id": "workday:R8606",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Staff-UX-Researcher_R8606",
         "location": "USA Wilmington, MA - HQ"
+      },
+      {
+        "title": "Manager, Mobile Robotics Controls",
+        "date": "2026-11-25",
+        "id": "workday:R8617",
+        "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Manager--Mobile-Robotics-Controls_R8617",
+        "location": "USA Wilmington, MA - HQ"
       }
     ],
     "PROCEPT BioRobotics": [
@@ -69123,6 +69147,13 @@
         "id": "successfactors:1453536800",
         "url": "https://jobs.teradyne.com/Teradyne/job/Deer-Park-Quality-Engineer-%28Teradyne%2C-Deer-Park%2C-IL%29-IL/1453536800/",
         "location": "Deer Park, IL"
+      },
+      {
+        "title": "Equipment Engineer (IST; North Reading, MA)",
+        "date": "2026-11-25",
+        "id": "successfactors:1453772200",
+        "url": "https://jobs.teradyne.com/Teradyne/job/North-Reading-Equipment-Engineer-%28IST-North-Reading%2C-MA%29-MA/1453772200/",
+        "location": "North Reading, MA"
       }
     ],
     "KUKA": [
@@ -72562,7 +72593,8 @@
         "date": "N/A",
         "id": "adp:5001120355006",
         "url": "https://myjobs.adp.com/fanuc/cx/job-details?reqId=5001120355006",
-        "location": "Mississauga, Canada +8"
+        "location": "Mississauga, Canada +8",
+        "closed": "2026-11-25"
       },
       {
         "title": "CNC Application Engineer",
@@ -72576,7 +72608,8 @@
         "date": "N/A",
         "id": "adp:5001120440406",
         "url": "https://myjobs.adp.com/fanuc/cx/job-details?reqId=5001120440406",
-        "location": "Mississauga, Canada +8"
+        "location": "Mississauga, Canada +8",
+        "closed": "2026-11-25"
       },
       {
         "title": "Software Developer",
@@ -78151,6 +78184,20 @@
         "id": "workday:R10262117",
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Falls-Church/XMLNAME-2027-Configuration-Management-Data-Analyst-Intern---Falls-Church-VA_R10262117",
         "location": "United States-Virginia-Falls Church"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Computer Systems Intern",
+        "date": "2026-11-25",
+        "id": "workday:R10262127",
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Falls-Church/XMLNAME-2027-Computer-Systems-Intern_R10262127",
+        "location": "7 Locations"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Enterprise Productivity Solutions Intern - Falls Church VA",
+        "date": "2026-11-25",
+        "id": "workday:R10262125",
+        "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Falls-Church/XMLNAME-2027-Enterprise-Productivity-Solutions-Intern---Falls-Church-VA_R10262125",
+        "location": "United States-Virginia-Falls Church"
       }
     ],
     "OpenAI": [
@@ -81064,7 +81111,8 @@
         "date": "2026-10-22",
         "id": "ashby:4c72816b-d04f-4fee-b8eb-fa18fddac043",
         "url": "https://jobs.ashbyhq.com/openai/4c72816b-d04f-4fee-b8eb-fa18fddac043",
-        "location": "Sydney, Australia"
+        "location": "Sydney, Australia",
+        "closed": "2026-11-25"
       },
       {
         "title": "B2B Marketing Lead, India",
@@ -88212,8 +88260,7 @@
         "date": "2026-11-11",
         "id": "lever:3598731b-e2b3-4bd2-8bce-7a17aecf7421",
         "url": "https://jobs.eu.lever.co/mobileye/3598731b-e2b3-4bd2-8bce-7a17aecf7421",
-        "location": "Jerusalem, Israel",
-        "closed": "2026-11-22"
+        "location": "Jerusalem, Israel"
       },
       {
         "title": "Integration and Validation Architect",
@@ -92738,7 +92785,8 @@
         "date": "2026-10-27",
         "id": "greenhouse:5076754008",
         "url": "https://job-boards.greenhouse.io/anthropic/jobs/5076754008",
-        "location": "San Francisco, CA | Seattle, WA"
+        "location": "San Francisco, CA | Seattle, WA",
+        "closed": "2026-11-25"
       },
       {
         "title": "Director, SOX Infrastructure",
@@ -106097,7 +106145,8 @@
         "date": "N/A",
         "id": "ibm:142564",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=142564",
-        "location": "Tucson"
+        "location": "Tucson",
+        "closed": "2026-11-25"
       },
       {
         "title": "\u2b50\ufe0f Product Manager Spring Co-op 2027",
@@ -108631,7 +108680,8 @@
         "date": "N/A",
         "id": "ashby:0342fd5f-3760-4dcb-b026-333c7b63fc8d",
         "url": "https://jobs.ashbyhq.com/cohere/0342fd5f-3760-4dcb-b026-333c7b63fc8d",
-        "location": "United States +2"
+        "location": "United States +2",
+        "closed": "2026-11-25"
       },
       {
         "title": "Partner Development Manager - Berlin",
@@ -119431,8 +119481,7 @@
         "date": "2026-11-17",
         "id": "eightfold:563602813563399",
         "url": "https://bostonscientific.eightfold.ai/careers/job/563602813563399",
-        "location": "United States",
-        "closed": "2026-11-21"
+        "location": "United States"
       },
       {
         "title": "\u2b50\ufe0f R&D Research Data Science Intern",
@@ -127727,8 +127776,7 @@
         "date": "N/A",
         "id": "pinpoint:603830",
         "url": "https://impulsespace.pinpointhq.com/en/postings/712a1427-ef43-40b2-992c-9777e88f7de2",
-        "location": "Redondo Beach, CA",
-        "closed": "2026-11-25"
+        "location": "Redondo Beach, CA"
       },
       {
         "title": "Senior Manufacturing Engineer (Composites)",
