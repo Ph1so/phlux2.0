@@ -1396,7 +1396,8 @@
         "date": "2026-11-17",
         "id": "eightfold:1970393557075140",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557075140",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-25"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Self-Improving & Secure AI Agents - Microsoft Research",
@@ -1459,7 +1460,8 @@
         "date": "2026-11-20",
         "id": "eightfold:1970393557077583",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557077583",
-        "location": "United States, Oregon, Hillsboro"
+        "location": "United States, Oregon, Hillsboro",
+        "closed": "2026-11-25"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - AI Systems Architecture and Efficient LLM Inference",
@@ -27117,7 +27119,8 @@
         "date": "N/A",
         "id": "greenhouse:8249825",
         "url": "https://nuro.ai/careersitem?gh_jid=8249825",
-        "location": "Mountain View, California (HQ)"
+        "location": "Mountain View, California (HQ)",
+        "closed": "2026-11-25"
       },
       {
         "title": "Senior Program Manager, Perception Data Operations",
@@ -75925,6 +75928,13 @@
         "id": "lever:027c8b7f-ce6e-4688-83e9-7248a5bb943b",
         "url": "https://jobs.lever.co/woven-by-toyota/027c8b7f-ce6e-4688-83e9-7248a5bb943b",
         "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a"
+      },
+      {
+        "title": "SIL Environment Development Engineer, Automated Driving",
+        "date": "2026-11-25",
+        "id": "lever:23a6f817-a26f-48af-b320-97725c2ec56c",
+        "url": "https://jobs.lever.co/woven-by-toyota/23a6f817-a26f-48af-b320-97725c2ec56c",
+        "location": "Tokyo"
       }
     ],
     "Generalist AI": [
@@ -108204,6 +108214,13 @@
         "id": "phenom:2025885",
         "url": "https://careers.cisco.com/global/en/job/2025885/Security-Engineer-I-Intern-United-States",
         "location": "Research Triangle Park, NC"
+      },
+      {
+        "title": "\u2b50\ufe0f Project Specialist I (Intern) - United States",
+        "date": "2026-11-25",
+        "id": "phenom:2029711",
+        "url": "https://careers.cisco.com/global/en/job/2029711/Project-Specialist-I-Intern-United-States",
+        "location": "Research Triangle Park, NC"
       }
     ],
     "TwoSigma": [
@@ -131103,10 +131120,6 @@
       "since": "2026-11-12",
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.citadel.com/sitemap/career.xml"
     },
-    "Target": {
-      "since": "2026-11-25",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
-    },
     "General Motors": {
       "since": "2026-11-25",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
@@ -131114,14 +131127,6 @@
     "ABB": {
       "since": "2026-11-25",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
-    },
-    "Nvidia": {
-      "since": "2026-11-25",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
-    },
-    "Workday": {
-      "since": "2026-11-25",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday_Early_Career/jobs"
     },
     "Snap": {
       "since": "2026-11-25",
@@ -131131,25 +131136,17 @@
       "since": "2026-11-25",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
     },
-    "Visa": {
-      "since": "2026-11-25",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs"
-    },
-    "Tesla": {
-      "since": "2026-11-25",
-      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
-    },
     "Samsung": {
       "since": "2026-11-25",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
     },
-    "Slate Auto": {
+    "Autodesk": {
       "since": "2026-11-25",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/uni/jobs"
     },
-    "Oshkosh": {
+    "Razer": {
       "since": "2026-11-25",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
     }
   },
   "closures_untracked": {
