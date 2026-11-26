@@ -44675,7 +44675,8 @@
         "id": "ashby:dec81d75-8b17-4361-9b82-e0cc6118c618",
         "url": "https://jobs.ashbyhq.com/humanoid/dec81d75-8b17-4361-9b82-e0cc6118c618",
         "location": "Canada, Vancouver, BC",
-        "early": "This opportunity is ideal for an early-career or intermediate engineer who enjoys practical engineering challenges, wants to strengthen their robotics expertise, and is excited to learn from a highly experienced multid\u2026"
+        "early": "This opportunity is ideal for an early-career or intermediate engineer who enjoys practical engineering challenges, wants to strengthen their robotics expertise, and is excited to learn from a highly experienced multid\u2026",
+        "closed": "2026-11-26"
       },
       {
         "title": "Test and Validation Engineer - Contract",
@@ -131442,18 +131443,6 @@
       "since": "2026-11-26",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
     },
-    "Autodesk": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/uni/jobs"
-    },
-    "Blue Origin": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/BlueOrigin/jobs"
-    },
-    "Expedia": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://expedia.wd108.myworkdayjobs.com/wday/cxs/expedia/search/jobs"
-    },
     "Zillow": {
       "since": "2026-11-26",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://zillow.wd5.myworkdayjobs.com/wday/cxs/zillow/Zillow_Group_External/jobs"
@@ -131461,6 +131450,22 @@
     "Slate Auto": {
       "since": "2026-11-26",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
+    },
+    "Nvidia": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
+    },
+    "Unity": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
+    },
+    "Rockwell Automation": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
+    },
+    "Razer": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
     }
   },
   "closures_untracked": {
