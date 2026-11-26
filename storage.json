@@ -910,8 +910,7 @@
         "date": "2026-10-09",
         "id": "eightfold:1970393557037649",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557037649",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-26"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Cloud Network Engineering Internship Oportunities",
@@ -1088,8 +1087,7 @@
         "date": "2026-10-15",
         "id": "eightfold:1970393557027387",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557027387",
-        "location": "United States, Washington, Redmond +1",
-        "closed": "2026-11-26"
+        "location": "United States, Washington, Redmond +1"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Efficient AI Software Systems",
@@ -19665,6 +19663,13 @@
         "id": "greenhouse:5290780007",
         "url": "https://lucidmotors.com/careers/search/5290780007?gh_jid=5290780007",
         "location": "Casa Grande, AZ"
+      },
+      {
+        "title": "\u2b50\ufe0f Logistics Operation Intern",
+        "date": "2026-11-26",
+        "id": "greenhouse:5306584007",
+        "url": "https://lucidmotors.com/careers/search/5306584007?gh_jid=5306584007",
+        "location": "Amsterdam, NH"
       }
     ],
     "Avride": [
@@ -59053,8 +59058,7 @@
         "date": "N/A",
         "id": "workday:R-109816-1",
         "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Neuss-North-Rhine-Westphalia-Germany/Praktikant-in---Marketing--w-m-d-_R-109816-1",
-        "location": "Neuss, North Rhine-Westphalia, Germany",
-        "closed": "2026-11-25"
+        "location": "Neuss, North Rhine-Westphalia, Germany"
       },
       {
         "title": "Stage in Marketing Immunology (IBD) Pharma",
@@ -88910,7 +88914,8 @@
         "date": "2026-11-23",
         "id": "lever:4e512957-1993-4606-bd4e-4f271c38943b",
         "url": "https://jobs.eu.lever.co/mobileye/4e512957-1993-4606-bd4e-4f271c38943b",
-        "location": "Jerusalem, Israel"
+        "location": "Jerusalem, Israel",
+        "closed": "2026-11-26"
       },
       {
         "title": "Production Worker",
@@ -109685,6 +109690,13 @@
         "id": "ashby:e0c52579-05a3-4a54-b960-258cf67eb81e",
         "url": "https://jobs.ashbyhq.com/cohere/e0c52579-05a3-4a54-b960-258cf67eb81e",
         "location": "United States +1"
+      },
+      {
+        "title": "Account Executive Korea",
+        "date": "2026-11-26",
+        "id": "ashby:82bd297a-9fc4-48f7-ac05-ea39e51c74d2",
+        "url": "https://jobs.ashbyhq.com/cohere/82bd297a-9fc4-48f7-ac05-ea39e51c74d2",
+        "location": "Korea"
       }
     ],
     "Ramp": [
@@ -114177,7 +114189,8 @@
         "date": "2026-11-20",
         "id": "jibe:89816",
         "url": "https://careers.amd.com/careers-home/jobs/89816",
-        "location": "Austin, TX"
+        "location": "Austin, TX",
+        "closed": "2026-11-26"
       },
       {
         "title": "\u2b50\ufe0f Spring/Summer 2027 Undergrad BIOS Engineering Co-Op",
@@ -114192,14 +114205,16 @@
         "date": "2026-11-22",
         "id": "jibe:89557",
         "url": "https://careers.amd.com/careers-home/jobs/89557",
-        "location": "Austin, TX"
+        "location": "Austin, TX",
+        "closed": "2026-11-26"
       },
       {
         "title": "\u2b50\ufe0f Spring/Summer 2027 Masters AI Rack/Cluster Design Engineering Co-Op",
         "date": "2026-11-24",
         "id": "jibe:89564",
         "url": "https://careers.amd.com/careers-home/jobs/89564",
-        "location": "Austin, TX"
+        "location": "Austin, TX",
+        "closed": "2026-11-26"
       }
     ],
     "Asana": [],
@@ -119684,6 +119699,27 @@
         "id": "workday:R26-8372-1",
         "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mequon-Wisconsin-United-States/Intern--Mechatronics---Electromagnetics_R26-8372-1",
         "location": "Mequon, Wisconsin, United States"
+      },
+      {
+        "title": "Engineer in Training - Proposal",
+        "date": "2026-11-26",
+        "id": "workday:R26-8803",
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Seoul-South-Korea/Engineer-in-Training---Proposal_R26-8803",
+        "location": "Seoul, South Korea"
+      },
+      {
+        "title": "Engineer in Training",
+        "date": "2026-11-26",
+        "id": "workday:R26-8756-1",
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Seoul-South-Korea/Engineer-in-Training_R26-8756-1",
+        "location": "2 Locations"
+      },
+      {
+        "title": "Engineer in Training \u2013 Field Service (Perth, WA)",
+        "date": "2026-11-26",
+        "id": "workday:R26-8796",
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Perth-Western-Australia-Australia/Engineer-in-Training---Field-Service--Perth--WA-_R26-8796",
+        "location": "Perth, Western Australia, Australia"
       }
     ],
     "Siemens": [
@@ -130931,8 +130967,8 @@
   },
   "email_threads": {
     "internship": {
-      "date": "2026-11-25",
-      "message_id": "<179562485899.2521.7708836495896049461@phlux>"
+      "date": "2026-11-26",
+      "message_id": "<179570050942.2390.2936139066745562674@phlux>"
     },
     "internship_all": {
       "date": "2026-11-26",
@@ -130957,14 +130993,6 @@
         "title:\u2b50\ufe0f Supply Chain Engineering Intern \u2013 Robotics (2026 Fall)"
       ],
       "backlog": true
-    },
-    "AMD": {
-      "since": "2026-11-26T06:41-05:00",
-      "keys": [
-        "jibe:89557",
-        "jibe:89564",
-        "jibe:89816"
-      ]
     }
   },
   "checked": {
@@ -131271,6 +131299,10 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.citadel.com/sitemap/career.xml"
+    },
+    "Tesla": {
+      "since": "2026-11-26",
+      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: HTTP 403; undetected-chromedriver: Refused: page denied)"
     }
   },
   "closures_untracked": {
