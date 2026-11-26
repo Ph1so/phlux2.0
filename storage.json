@@ -11611,6 +11611,13 @@
         "id": "smartrecruiters:744000162832659",
         "url": "https://jobs.smartrecruiters.com/Intuitive/744000162832659",
         "location": "Sunnyvale, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f HEOR Intern",
+        "date": "2026-11-26",
+        "id": "smartrecruiters:744000163908429",
+        "url": "https://jobs.smartrecruiters.com/Intuitive/744000163908429",
+        "location": "Sunnyvale, CA"
       }
     ],
     "Stoke Space": [
@@ -19732,6 +19739,13 @@
         "date": "2026-11-26",
         "id": "greenhouse:5306856007",
         "url": "https://lucidmotors.com/careers/search/5306856007?gh_jid=5306856007",
+        "location": "Amsterdam, NH"
+      },
+      {
+        "title": "\u2b50\ufe0f Instructional Designer Intern",
+        "date": "2026-11-26",
+        "id": "greenhouse:5306676007",
+        "url": "https://lucidmotors.com/careers/search/5306676007?gh_jid=5306676007",
         "location": "Amsterdam, NH"
       }
     ],
@@ -107071,7 +107085,8 @@
         "date": "N/A",
         "id": "ibm:138954",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=138954",
-        "location": "Raleigh"
+        "location": "Raleigh",
+        "closed": "2026-11-26"
       },
       {
         "title": "Integration Strategy Consultant \u2013 2027 Full Time ELH",
@@ -107749,7 +107764,8 @@
         "date": "N/A",
         "id": "morganstanley:22238",
         "url": "https://morganstanley.tal.net/vx/candidate/so/pm/1/pl/1/opp/22238",
-        "location": "Paris, France"
+        "location": "Paris, France",
+        "closed": "2026-11-26"
       },
       {
         "title": "\u2b50\ufe0f 2027 Institutional Equities Trading Off-Cycle Internship (Paris)",
@@ -131389,6 +131405,78 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.citadel.com/sitemap/career.xml"
+    },
+    "Slack": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/Slack/jobs"
+    },
+    "Expedia": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://expedia.wd108.myworkdayjobs.com/wday/cxs/expedia/search/jobs"
+    },
+    "Snap": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
+    },
+    "Unity": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
+    },
+    "Rockwell Automation": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
+    },
+    "Boston Dynamics": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://bostondynamics.wd1.myworkdayjobs.com/wday/cxs/bostondynamics/Boston_Dynamics/jobs"
+    },
+    "Leidos": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://leidos.wd5.myworkdayjobs.com/wday/cxs/leidos/External/jobs"
+    },
+    "Sony": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sonyglobal.wd1.myworkdayjobs.com/wday/cxs/sonyglobal/SonyGlobalCareers/jobs"
+    },
+    "Target": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
+    },
+    "Mosaic": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://mosaic.wd5.myworkdayjobs.com/wday/cxs/mosaic/mosaic/jobs"
+    },
+    "T-Mobile": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://tmobile.wd1.myworkdayjobs.com/wday/cxs/tmobile/External/jobs"
+    },
+    "Samsung": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
+    },
+    "Medtronic": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://medtronic.wd1.myworkdayjobs.com/wday/cxs/medtronic/MedtronicCareers/jobs"
+    },
+    "Zillow": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://zillow.wd5.myworkdayjobs.com/wday/cxs/zillow/Zillow_Group_External/jobs"
+    },
+    "General Motors": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
+    },
+    "ABB": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
+    },
+    "Oshkosh": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs"
+    },
+    "Slate Auto": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
     }
   },
   "closures_untracked": {
