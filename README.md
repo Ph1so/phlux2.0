@@ -12,7 +12,7 @@
 <p>
   <a href="https://ph1so.github.io/phlux2.0/"><img src="https://img.shields.io/badge/browse-internships-1f5fff?style=flat-square" alt="Browse internships"></a>
   <a href="https://github.com/Ph1so/phlux2.0/actions/workflows/job-scraper.yml"><img src="https://img.shields.io/github/actions/workflow/status/Ph1so/phlux2.0/job-scraper.yml?branch=main&style=flat-square&label=scraper" alt="Scraper status"></a>
-  <img src="https://img.shields.io/badge/roles_tracked-39.5k-475467?style=flat-square" alt="39,461 roles tracked">
+  <img src="https://img.shields.io/badge/roles_tracked-39.5k-475467?style=flat-square" alt="39,462 roles tracked">
 </p>
 
 <p><a href="https://ph1so.github.io/phlux2.0/"><b>Website</b></a> &nbsp;·&nbsp; <a href="listings/README.md"><b>All listings</b></a></p>
@@ -21,7 +21,7 @@
 
 ## Latest roles
 
-Showing the 572 most recent of 39,461 roles tracked across 295 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
+Showing the 572 most recent of 39,462 roles tracked across 295 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
 
 
 <table>
@@ -144,6 +144,13 @@ Showing the 572 most recent of 39,461 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.google.com/about/careers/applications/jobs/results?company=DeepMind"><img src="https://cdn.brandfetch.io/deepmind.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="DeepMind" height="20" style="vertical-align:middle; margin-right:6px;"> DeepMind</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.google.com/about/careers/applications/jobs/results/83811612032410310">Frontier AI Safety and Alignment Research Scientist, DeepMind</a></div></td>
+  <td>2026-11-26</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/thebotcompany"><img src="https://cdn.brandfetch.io/bot.co/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="The Bot Company" height="20" style="vertical-align:middle; margin-right:6px;"> The Bot Company</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/thebotcompany/0d77886e-8801-4b4d-a7d4-467f15208e65">Manufacturing Engineer, NPI</a></div></td>
   <td>2026-11-26</td>
 </tr>
   <tr>
@@ -4029,13 +4036,6 @@ Showing the 572 most recent of 39,461 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/humanoid/"><img src="https://cdn.brandfetch.io/thehumanoid.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Humanoid" height="20" style="vertical-align:middle; margin-right:6px;"> Humanoid</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/humanoid/1ba80e1e-90c8-4968-bcf3-b548d8baa786">Senior Corporate Counsel / Deputy Company Secretary</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/humanoid/"><img src="https://cdn.brandfetch.io/thehumanoid.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Humanoid" height="20" style="vertical-align:middle; margin-right:6px;"> Humanoid</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/humanoid/2b9b546b-e2a3-40b8-9f81-002b30670aa7">Senior Counsel, Contracts</a></div></td>
   <td>2026-11-20</td>
 </tr>
 

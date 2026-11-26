@@ -1431,7 +1431,8 @@
         "date": "2026-11-19",
         "id": "eightfold:1970393557076095",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557076095",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-26"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - AI Safety, Alignment, and Post-Training",
@@ -9331,7 +9332,8 @@
         "date": "2026-10-09",
         "id": "eightfold:446720741716",
         "url": "https://careers.qualcomm.com/careers/job/446720741716",
-        "location": "San Diego, CA"
+        "location": "San Diego, CA",
+        "closed": "2026-11-26"
       },
       {
         "title": "\u2b50\ufe0f Finance & Accounting Internship - Summer 2027",
@@ -12020,7 +12022,8 @@
         "date": "N/A",
         "id": "talentbrew:98739712096",
         "url": "https://careers.irobot.com/job/tokyo/sr-logistics-specialist/42682/98739712096",
-        "location": "Tokyo"
+        "location": "Tokyo",
+        "closed": "2026-11-26"
       },
       {
         "title": "Sr. Customer Support Specialist",
@@ -15356,7 +15359,8 @@
         "date": "2026-10-13",
         "id": "teamio:2000452074",
         "url": "https://brightpick.ai/careers/?r=detail&id=2000452074",
-        "location": "Bratislava-Ru\u017einov, Slovensko"
+        "location": "Bratislava-Ru\u017einov, Slovensko",
+        "closed": "2026-11-26"
       },
       {
         "title": "Operations Coordinator to COO",
@@ -47422,6 +47426,13 @@
         "id": "ashby:a7475ed8-b2b3-4393-aba1-d18ae44f732a",
         "url": "https://jobs.ashbyhq.com/thebotcompany/a7475ed8-b2b3-4393-aba1-d18ae44f732a",
         "location": "San Francisco"
+      },
+      {
+        "title": "Manufacturing Engineer, NPI",
+        "date": "2026-11-26",
+        "id": "ashby:0d77886e-8801-4b4d-a7d4-467f15208e65",
+        "url": "https://jobs.ashbyhq.com/thebotcompany/0d77886e-8801-4b4d-a7d4-467f15208e65",
+        "location": "San Francisco"
       }
     ],
     "Dyna Robotics": [
@@ -59625,7 +59636,8 @@
         "date": "2026-11-13",
         "id": "workday:R-110492",
         "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Allschwil-Basel-Country-Switzerland/Epidemiology-Trainee_R-110492",
-        "location": "Allschwil, Basel-Country, Switzerland"
+        "location": "Allschwil, Basel-Country, Switzerland",
+        "closed": "2026-11-26"
       },
       {
         "title": "Stage in Operations Support",
@@ -59756,7 +59768,8 @@
         "date": "2026-11-20",
         "id": "workday:R-112143",
         "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Schaffhausen-Switzerland/Trainee-Quality-Control---New-Product-Introduction_R-112143",
-        "location": "Schaffhausen, Switzerland"
+        "location": "Schaffhausen, Switzerland",
+        "closed": "2026-11-26"
       },
       {
         "title": "\u2b50\ufe0f Supply Chain Intern",
@@ -106646,7 +106659,8 @@
         "date": "N/A",
         "id": "ibm:130998",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=130998",
-        "location": "Multiple Cities"
+        "location": "Multiple Cities",
+        "closed": "2026-11-26"
       },
       {
         "title": "IT Lab Tech Apprentice - Thermal",
@@ -131439,33 +131453,21 @@
       "since": "2026-11-26",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs"
     },
-    "Intel": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
-    },
-    "Zillow": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://zillow.wd5.myworkdayjobs.com/wday/cxs/zillow/Zillow_Group_External/jobs"
-    },
-    "Slate Auto": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
-    },
     "Nvidia": {
       "since": "2026-11-26",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
     },
-    "Unity": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
-    },
-    "Rockwell Automation": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
-    },
     "Razer": {
       "since": "2026-11-26",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
+    },
+    "Tesla": {
+      "since": "2026-11-26",
+      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
+    },
+    "Target": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
     }
   },
   "closures_untracked": {
