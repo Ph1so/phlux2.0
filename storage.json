@@ -49159,7 +49159,8 @@
         "date": "2026-10-14",
         "id": "lever:01ee26ae-76e5-41df-a5d1-d03dbb88ac36",
         "url": "https://jobs.lever.co/waabi/01ee26ae-76e5-41df-a5d1-d03dbb88ac36",
-        "location": "San Francisco, CA +1"
+        "location": "San Francisco, CA +1",
+        "closed": "2026-11-25"
       },
       {
         "title": "Staff Commercial Product Manager, Trucking",
@@ -57525,7 +57526,8 @@
         "date": "2026-10-14",
         "id": "workday:R572746-1",
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Market-Development---Michigan_R572746-1",
-        "location": "Portage, Michigan"
+        "location": "Portage, Michigan",
+        "closed": "2026-11-25"
       },
       {
         "title": "\u2b50\ufe0f Summer 2027 Internship Human Factors Engineering - Washington",
@@ -58290,6 +58292,13 @@
         "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Sales-Operations-Intern---San-Jose--CA_R572806",
         "location": "San Jose, California",
         "closed": "2026-11-23"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern, Mechanical Engineering",
+        "date": "2026-11-25",
+        "id": "workday:R572896",
+        "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Intern--Mechanical-Engineering_R572896",
+        "location": "Portage, Michigan"
       }
     ],
     "Persona AI": [
@@ -124195,7 +124204,8 @@
         "date": "2026-11-19",
         "id": "workday:JR-119935-1",
         "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/NA--Hollywood-N-Orange-Dr-375/Intern--Creative-A-R_JR-119935-1",
-        "location": "NA / Hollywood N Orange Dr 37.5"
+        "location": "NA / Hollywood N Orange Dr 37.5",
+        "closed": "2026-11-25"
       }
     ],
     "Comcast": [
@@ -127242,6 +127252,13 @@
         "date": "2026-11-23",
         "id": "greenhouse:8412537",
         "url": "https://www.bluerivertechnology.com/job/?gh_jid=8412537",
+        "location": "Remote-US"
+      },
+      {
+        "title": "Business Development Manager, Autonomy",
+        "date": "2026-11-25",
+        "id": "greenhouse:8418287",
+        "url": "https://www.bluerivertechnology.com/job/?gh_jid=8418287",
         "location": "Remote-US"
       }
     ],
@@ -131086,10 +131103,6 @@
       "since": "2026-11-12",
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.citadel.com/sitemap/career.xml"
     },
-    "Boston Dynamics": {
-      "since": "2026-11-25",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://bostondynamics.wd1.myworkdayjobs.com/wday/cxs/bostondynamics/Boston_Dynamics/jobs"
-    },
     "Target": {
       "since": "2026-11-25",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
@@ -131102,17 +131115,41 @@
       "since": "2026-11-25",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
     },
-    "Razer": {
+    "Nvidia": {
       "since": "2026-11-25",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
     },
-    "Sony": {
+    "Workday": {
       "since": "2026-11-25",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sonyglobal.wd1.myworkdayjobs.com/wday/cxs/sonyglobal/SonyGlobalCareers/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday_Early_Career/jobs"
     },
-    "Stryker": {
+    "Snap": {
       "since": "2026-11-25",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
+    },
+    "Unity": {
+      "since": "2026-11-25",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
+    },
+    "Visa": {
+      "since": "2026-11-25",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs"
+    },
+    "Tesla": {
+      "since": "2026-11-25",
+      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
+    },
+    "Samsung": {
+      "since": "2026-11-25",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
+    },
+    "Slate Auto": {
+      "since": "2026-11-25",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
+    },
+    "Oshkosh": {
+      "since": "2026-11-25",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs"
     }
   },
   "closures_untracked": {
