@@ -1265,7 +1265,8 @@
         "date": "2026-11-02",
         "id": "eightfold:1970393557043712",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557043712",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-26"
       },
       {
         "title": "\u2b50\ufe0f Explore Program Engineering Internship Opportunities: First-Year Students, Redmond",
@@ -1288,7 +1289,8 @@
         "date": "2026-11-02",
         "id": "eightfold:1970393557052982",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557052982",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-26"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer: Internship Opportunities",
@@ -1310,7 +1312,8 @@
         "date": "2026-11-02",
         "id": "eightfold:1970393557053024",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557053024",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-26"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer, Teamwork Experiences Internship Opportunities",
@@ -1324,7 +1327,8 @@
         "date": "2026-11-04",
         "id": "eightfold:1970393557054069",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-26"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - AI & Human Systems",
@@ -1353,7 +1357,8 @@
         "date": "2026-11-13",
         "id": "eightfold:1970393556986148",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556986148",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-26"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - AI Coding Agents",
@@ -1396,7 +1401,8 @@
         "date": "2026-11-17",
         "id": "eightfold:1970393557075140",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557075140",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-26"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Self-Improving & Secure AI Agents - Microsoft Research",
@@ -1452,14 +1458,16 @@
         "date": "2026-11-20",
         "id": "eightfold:1970393557076525",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557076525",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-26"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - AI System Architecture Modeling and Performance",
         "date": "2026-11-20",
         "id": "eightfold:1970393557077583",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557077583",
-        "location": "United States, Oregon, Hillsboro"
+        "location": "United States, Oregon, Hillsboro",
+        "closed": "2026-11-26"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - AI Systems Architecture and Efficient LLM Inference",
@@ -27890,7 +27898,8 @@
         "date": "2026-11-24",
         "id": "greenhouse:7665848",
         "url": "https://nuro.ai/careersitem?gh_jid=7665848",
-        "location": "California - SF"
+        "location": "California - SF",
+        "closed": "2026-11-26"
       }
     ],
     "Aeva": [
@@ -43997,7 +44006,8 @@
         "date": "N/A",
         "id": "ashby:790a3b57-19da-4b83-9ab5-2f039e20aaf7",
         "url": "https://jobs.ashbyhq.com/humanoid/790a3b57-19da-4b83-9ab5-2f039e20aaf7",
-        "location": "UK, London"
+        "location": "UK, London",
+        "closed": "2026-11-26"
       },
       {
         "title": "Senior Hardware Test Engineer",
@@ -131406,57 +131416,13 @@
       "since": "2026-11-12",
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.citadel.com/sitemap/career.xml"
     },
-    "Slack": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/Slack/jobs"
-    },
-    "Expedia": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://expedia.wd108.myworkdayjobs.com/wday/cxs/expedia/search/jobs"
-    },
-    "Snap": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
-    },
-    "Unity": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
-    },
-    "Rockwell Automation": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
-    },
-    "Boston Dynamics": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://bostondynamics.wd1.myworkdayjobs.com/wday/cxs/bostondynamics/Boston_Dynamics/jobs"
-    },
-    "Leidos": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://leidos.wd5.myworkdayjobs.com/wday/cxs/leidos/External/jobs"
-    },
-    "Sony": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sonyglobal.wd1.myworkdayjobs.com/wday/cxs/sonyglobal/SonyGlobalCareers/jobs"
-    },
     "Target": {
       "since": "2026-11-26",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
     },
-    "Mosaic": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://mosaic.wd5.myworkdayjobs.com/wday/cxs/mosaic/mosaic/jobs"
-    },
-    "T-Mobile": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://tmobile.wd1.myworkdayjobs.com/wday/cxs/tmobile/External/jobs"
-    },
     "Samsung": {
       "since": "2026-11-26",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
-    },
-    "Medtronic": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://medtronic.wd1.myworkdayjobs.com/wday/cxs/medtronic/MedtronicCareers/jobs"
     },
     "Zillow": {
       "since": "2026-11-26",
@@ -131470,13 +131436,13 @@
       "since": "2026-11-26",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
     },
-    "Oshkosh": {
+    "TikTok": {
       "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs"
+      "error": "ValueError: https://lifeattiktok.com/search?keyword=&recruitment_id_list=201&job_category_id_list=&subject_id_list=7459985269216905480%2C7459988146945116434%2C7602165694751705397%2C7602166391986194741"
     },
-    "Slate Auto": {
+    "Draper": {
       "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://draper.wd5.myworkdayjobs.com/wday/cxs/draper/Draper_Careers/jobs"
     }
   },
   "closures_untracked": {
