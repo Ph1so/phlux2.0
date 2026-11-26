@@ -19670,6 +19670,48 @@
         "id": "greenhouse:5306584007",
         "url": "https://lucidmotors.com/careers/search/5306584007?gh_jid=5306584007",
         "location": "Amsterdam, NH"
+      },
+      {
+        "title": "\u2b50\ufe0f Financial Planning & Analysis Intern",
+        "date": "2026-11-26",
+        "id": "greenhouse:5306601007",
+        "url": "https://lucidmotors.com/careers/search/5306601007?gh_jid=5306601007",
+        "location": "Amsterdam, NH"
+      },
+      {
+        "title": "\u2b50\ufe0f Financial Services Operations Intern",
+        "date": "2026-11-26",
+        "id": "greenhouse:5306670007",
+        "url": "https://lucidmotors.com/careers/search/5306670007?gh_jid=5306670007",
+        "location": "Amsterdam, NH"
+      },
+      {
+        "title": "\u2b50\ufe0f Fleet Operations Intern",
+        "date": "2026-11-26",
+        "id": "greenhouse:5306660007",
+        "url": "https://lucidmotors.com/careers/search/5306660007?gh_jid=5306660007",
+        "location": "Amsterdam, NH"
+      },
+      {
+        "title": "\u2b50\ufe0f HR & Internal Communications Intern",
+        "date": "2026-11-26",
+        "id": "greenhouse:5306664007",
+        "url": "https://lucidmotors.com/careers/search/5306664007?gh_jid=5306664007",
+        "location": "Amsterdam, NH"
+      },
+      {
+        "title": "\u2b50\ufe0f Marketing Operations, Retail & Experiential Intern",
+        "date": "2026-11-26",
+        "id": "greenhouse:5306590007",
+        "url": "https://lucidmotors.com/careers/search/5306590007?gh_jid=5306590007",
+        "location": "Amsterdam, NH"
+      },
+      {
+        "title": "\u2b50\ufe0f Network Analytics & Reporting Intern",
+        "date": "2026-11-26",
+        "id": "greenhouse:5306687007",
+        "url": "https://lucidmotors.com/careers/search/5306687007?gh_jid=5306687007",
+        "location": "Amsterdam, NH"
       }
     ],
     "Avride": [
@@ -87377,7 +87419,8 @@
         "date": "2026-10-22",
         "id": "lever:7a25ec5f-8955-4538-94bd-5c0e847475b4",
         "url": "https://jobs.eu.lever.co/mobileye/7a25ec5f-8955-4538-94bd-5c0e847475b4",
-        "location": "Ramat Gan, Israel"
+        "location": "Ramat Gan, Israel",
+        "closed": "2026-11-26"
       },
       {
         "title": "Deep Learning Algorithm Engineer - REM Semantics",
@@ -88885,8 +88928,7 @@
         "date": "2026-11-19",
         "id": "lever:a9dc5853-1894-40c8-ae40-0297a99f352e",
         "url": "https://jobs.eu.lever.co/mobileye/a9dc5853-1894-40c8-ae40-0297a99f352e",
-        "location": "Jerusalem, Israel",
-        "closed": "2026-11-22"
+        "location": "Jerusalem, Israel"
       },
       {
         "title": "3D Deep Learning Algorithm Developer",
@@ -107895,7 +107937,8 @@
         "date": "N/A",
         "id": "morganstanley:22423",
         "url": "https://morganstanley.tal.net/vx/candidate/so/pm/1/pl/1/opp/22423",
-        "location": "Sydney, Australia"
+        "location": "Sydney, Australia",
+        "closed": "2026-11-26"
       },
       {
         "title": "\u2b50\ufe0f 2027 Investment Banking Off-Cycle Internship (Frankfurt or Munich)",
@@ -117821,14 +117864,16 @@
         "date": "N/A",
         "id": "jibe:11085",
         "url": "https://careers.sig.com/jobs/11085",
-        "location": "London, United Kingdom"
+        "location": "London, United Kingdom",
+        "closed": "2026-11-26"
       },
       {
         "title": "\u2b50\ufe0f Equity Research Analyst Internship: Summer 2027",
         "date": "N/A",
         "id": "jibe:10876",
         "url": "https://careers.sig.com/jobs/10876",
-        "location": "Dublin, Ireland"
+        "location": "Dublin, Ireland",
+        "closed": "2026-11-26"
       },
       {
         "title": "Quantitative Trader - Graduate: 2027",
@@ -131300,9 +131345,53 @@
       "since": "2026-11-12",
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.citadel.com/sitemap/career.xml"
     },
-    "Tesla": {
+    "Nvidia": {
       "since": "2026-11-26",
-      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: HTTP 403; undetected-chromedriver: Refused: page denied)"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
+    },
+    "Blue Origin": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/BlueOrigin/jobs"
+    },
+    "Snap": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
+    },
+    "Rockwell Automation": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
+    },
+    "Unity": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
+    },
+    "Visa": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs"
+    },
+    "Target": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
+    },
+    "Samsung": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
+    },
+    "General Motors": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
+    },
+    "ABB": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
+    },
+    "Northrop Grumman": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ngc.wd1.myworkdayjobs.com/wday/cxs/ngc/Northrop_Grumman_External_Site/jobs"
+    },
+    "Slate Auto": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
     }
   },
   "closures_untracked": {
