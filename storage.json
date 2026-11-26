@@ -910,7 +910,8 @@
         "date": "2026-10-09",
         "id": "eightfold:1970393557037649",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557037649",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-26"
       },
       {
         "title": "\u2b50\ufe0f Cloud Network Engineering Internship Oportunities",
@@ -1087,7 +1088,8 @@
         "date": "2026-10-15",
         "id": "eightfold:1970393557027387",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557027387",
-        "location": "United States, Washington, Redmond +1"
+        "location": "United States, Washington, Redmond +1",
+        "closed": "2026-11-26"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Efficient AI Software Systems",
@@ -44457,8 +44459,7 @@
         "date": "2026-10-12",
         "id": "ashby:a6925005-037b-4d39-8323-071ca3c61c7b",
         "url": "https://jobs.ashbyhq.com/humanoid/a6925005-037b-4d39-8323-071ca3c61c7b",
-        "location": "UK, London",
-        "closed": "2026-11-23"
+        "location": "UK, London"
       },
       {
         "title": "Business Development Specialist - UK",
@@ -46638,7 +46639,8 @@
         "date": "2026-11-24",
         "id": "google:79469932672099014",
         "url": "https://www.google.com/about/careers/applications/jobs/results/79469932672099014",
-        "location": "Mountain View, CA"
+        "location": "Mountain View, CA",
+        "closed": "2026-11-26"
       },
       {
         "title": "Senior UX Designer, Antigravity, DeepMind",
@@ -88979,7 +88981,8 @@
         "date": "2026-11-26",
         "id": "lever:8bf135f8-0f0d-4749-8ce1-a19247db64f4",
         "url": "https://jobs.eu.lever.co/mobileye/8bf135f8-0f0d-4749-8ce1-a19247db64f4",
-        "location": "Jerusalem, Israel"
+        "location": "Jerusalem, Israel",
+        "closed": "2026-11-26"
       },
       {
         "title": "Platform Deployment Technical Lead (m/w/d)",
@@ -88987,6 +88990,13 @@
         "id": "lever:e9798a49-299d-465e-a00c-c5270381c0e6",
         "url": "https://jobs.eu.lever.co/mobileye/e9798a49-299d-465e-a00c-c5270381c0e6",
         "location": "Munich, Germany"
+      },
+      {
+        "title": "Senior Signal Processing Algorithm Developer",
+        "date": "2026-11-26",
+        "id": "lever:b5f72105-89cb-49a4-ac8a-2422a6142db1",
+        "url": "https://jobs.eu.lever.co/mobileye/b5f72105-89cb-49a4-ac8a-2422a6142db1",
+        "location": "Petah Tikva, Israel"
       }
     ],
     "Dusty Robotics": [
@@ -131108,7 +131118,7 @@
     "Mundane": "2026-11-26",
     "Uber": "2026-11-26",
     "Anywhere Robotics": "2026-11-01",
-    "Tesla": "2026-11-25",
+    "Tesla": "2026-11-26",
     "Beyond Reach Labs": "2026-11-26",
     "Relling": "2026-11-26",
     "Icarus": "2026-11-26",
@@ -131261,10 +131271,6 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.citadel.com/sitemap/career.xml"
-    },
-    "Tesla": {
-      "since": "2026-11-25",
-      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
     }
   },
   "closures_untracked": {
