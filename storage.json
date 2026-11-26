@@ -9069,7 +9069,8 @@
         "date": "N/A",
         "id": "greenhouse:4423600009",
         "url": "https://job-boards.greenhouse.io/kodiak/jobs/4423600009",
-        "location": "Mountain View, CA"
+        "location": "Mountain View, CA",
+        "closed": "2026-11-26"
       },
       {
         "title": "Head of Hardware TPM",
@@ -108029,7 +108030,8 @@
         "date": "N/A",
         "id": "morganstanley:22233",
         "url": "https://morganstanley.tal.net/vx/candidate/so/pm/1/pl/1/opp/22233",
-        "location": "London, United Kingdom"
+        "location": "London, United Kingdom",
+        "closed": "2026-11-26"
       },
       {
         "title": "\u2b50\ufe0f 2027 Investment Management Off-cycle Internship - Real Estate Investing (London)",
@@ -108043,7 +108045,8 @@
         "date": "N/A",
         "id": "morganstanley:22234",
         "url": "https://morganstanley.tal.net/vx/candidate/so/pm/1/pl/1/opp/22234",
-        "location": "London, United Kingdom"
+        "location": "London, United Kingdom",
+        "closed": "2026-11-26"
       },
       {
         "title": "\u2b50\ufe0f 2027 Investment Management Off-cycle Internship - Office of COO (Dublin)",
@@ -131431,10 +131434,6 @@
       "since": "2026-11-26",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
     },
-    "Intel": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
-    },
     "Nvidia": {
       "since": "2026-11-26",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
@@ -131451,17 +131450,21 @@
       "since": "2026-11-26",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
     },
-    "PROCEPT BioRobotics": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://proceptbiorobotics.wd108.myworkdayjobs.com/wday/cxs/proceptbiorobotics/PROCEPT/jobs"
-    },
     "Oshkosh": {
       "since": "2026-11-26",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs"
     },
-    "Slate Auto": {
+    "Razer": {
       "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
+    },
+    "Sony": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sonyglobal.wd1.myworkdayjobs.com/wday/cxs/sonyglobal/SonyGlobalCareers/jobs"
+    },
+    "T-Mobile": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://tmobile.wd1.myworkdayjobs.com/wday/cxs/tmobile/External/jobs"
     }
   },
   "closures_untracked": {
