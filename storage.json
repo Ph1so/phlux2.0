@@ -1396,8 +1396,7 @@
         "date": "2026-11-17",
         "id": "eightfold:1970393557075140",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557075140",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-25"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Self-Improving & Secure AI Agents - Microsoft Research",
@@ -1460,8 +1459,7 @@
         "date": "2026-11-20",
         "id": "eightfold:1970393557077583",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557077583",
-        "location": "United States, Oregon, Hillsboro",
-        "closed": "2026-11-25"
+        "location": "United States, Oregon, Hillsboro"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - AI Systems Architecture and Efficient LLM Inference",
@@ -9297,14 +9295,16 @@
         "date": "2026-10-09",
         "id": "eightfold:446720740649",
         "url": "https://careers.qualcomm.com/careers/job/446720740649",
-        "location": "San Diego, CA +4"
+        "location": "San Diego, CA +4",
+        "closed": "2026-11-25"
       },
       {
         "title": "\u2b50\ufe0f RF/Analog Design/Mixed-Signal Engineering Internship \u2013 Summer 2027",
         "date": "2026-10-09",
         "id": "eightfold:446720740912",
         "url": "https://careers.qualcomm.com/careers/job/446720740912",
-        "location": "San Diego, CA +3"
+        "location": "San Diego, CA +3",
+        "closed": "2026-11-25"
       },
       {
         "title": "\u2b50\ufe0f IT Infrastructure & Cloud Engineering Internship \u2013 Summer 2027",
@@ -74703,8 +74703,7 @@
         "date": "2026-10-22",
         "id": "lever:84925f74-a6aa-4b90-a92b-7006f1f88779",
         "url": "https://jobs.lever.co/woven-by-toyota/84925f74-a6aa-4b90-a92b-7006f1f88779",
-        "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a",
-        "closed": "2026-11-16"
+        "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a"
       },
       {
         "title": "Data Scientist, ML Perception & Data Pipelines",
@@ -117367,7 +117366,8 @@
         "date": "N/A",
         "id": "jibe:11375",
         "url": "https://careers.sig.com/jobs/11375",
-        "location": "Sydney, Australia"
+        "location": "Sydney, Australia",
+        "closed": "2026-11-25"
       },
       {
         "title": "Software Engineer| Tactical Python Developer | Experienced Hire",
@@ -123662,6 +123662,13 @@
         "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Product-Marketing-Intern--Productivity-_JR2026008145",
         "location": "Singapore",
         "closed": "2026-11-25"
+      },
+      {
+        "title": "\u2b50\ufe0f Public Relations Intern (Corporate Communications)",
+        "date": "2026-11-25",
+        "id": "workday:JR2026007832",
+        "url": "https://razer.wd3.myworkdayjobs.com/Careers/job/Singapore/Public-Relations-Intern--Corporate-Communications-_JR2026007832",
+        "location": "Singapore"
       }
     ],
     "Docusign": [
@@ -130791,8 +130798,8 @@
       "message_id": "<179562485899.2521.7708836495896049461@phlux>"
     },
     "internship_all": {
-      "date": "2026-11-25",
-      "message_id": "<179561058157.2502.16856918618527611699@phlux>"
+      "date": "2026-11-26",
+      "message_id": "<179566938607.2587.9521768416869636071@phlux>"
     }
   },
   "pending_closures": {
@@ -130950,34 +130957,34 @@
     "OpenAI": "2026-11-25",
     "Ocado": "2026-11-25",
     "Caterpillar": "2026-11-25",
-    "Joby Aviation": "2026-11-25",
-    "Mobileye": "2026-11-25",
-    "Neura Robotics": "2026-11-25",
-    "Dusty Robotics": "2026-11-25",
-    "Vecna Robotics": "2026-11-25",
+    "Joby Aviation": "2026-11-26",
+    "Mobileye": "2026-11-26",
+    "Neura Robotics": "2026-11-26",
+    "Dusty Robotics": "2026-11-26",
+    "Vecna Robotics": "2026-11-26",
     "Realtime Robotics": "2026-11-25",
-    "John Deere": "2026-11-25",
-    "Anthropic": "2026-11-25",
-    "xAI": "2026-11-25",
-    "Thinking Machines Lab": "2026-11-25",
-    "Bot Auto": "2026-11-25",
+    "John Deere": "2026-11-26",
+    "Anthropic": "2026-11-26",
+    "xAI": "2026-11-26",
+    "Thinking Machines Lab": "2026-11-26",
+    "Bot Auto": "2026-11-26",
     "Slate Auto": "2026-11-25",
-    "Ford": "2026-11-25",
-    "Mundane": "2026-11-25",
+    "Ford": "2026-11-26",
+    "Mundane": "2026-11-26",
     "Uber": "2026-11-25",
     "Anywhere Robotics": "2026-11-01",
     "Tesla": "2026-11-25",
-    "Beyond Reach Labs": "2026-11-25",
-    "Relling": "2026-11-25",
-    "Icarus": "2026-11-25",
-    "Pyka": "2026-11-25",
-    "Tuesday Labs": "2026-11-25",
-    "Weave Robotics": "2026-11-25",
-    "Boost Robotics": "2026-11-25",
+    "Beyond Reach Labs": "2026-11-26",
+    "Relling": "2026-11-26",
+    "Icarus": "2026-11-26",
+    "Pyka": "2026-11-26",
+    "Tuesday Labs": "2026-11-26",
+    "Weave Robotics": "2026-11-26",
+    "Boost Robotics": "2026-11-26",
     "Oshkosh": "2026-11-25",
-    "General Robotics": "2026-11-25",
-    "Eka Robotics": "2026-11-25",
-    "Bonsai Robotics": "2026-11-25",
+    "General Robotics": "2026-11-26",
+    "Eka Robotics": "2026-11-26",
+    "Bonsai Robotics": "2026-11-26",
     "Welch's": "2026-11-25",
     "ispace": "2026-11-25",
     "Pinterest": "2026-11-25",
@@ -131099,14 +131106,14 @@
     "Shure": "2026-11-25",
     "Northrop Grumman": "2026-11-25",
     "ABB": "2026-11-25",
-    "Exotec": "2026-11-25",
-    "Lockheed Martin": "2026-11-25",
-    "Simbe Robotics": "2026-11-25",
-    "Medra": "2026-11-25",
-    "RoboForce": "2026-11-25",
-    "OpenMind": "2026-11-25",
-    "Lightwheel": "2026-11-25",
-    "Tutor Intelligence": "2026-11-25",
+    "Exotec": "2026-11-26",
+    "Lockheed Martin": "2026-11-26",
+    "Simbe Robotics": "2026-11-26",
+    "Medra": "2026-11-26",
+    "RoboForce": "2026-11-26",
+    "OpenMind": "2026-11-26",
+    "Lightwheel": "2026-11-26",
+    "Tutor Intelligence": "2026-11-26",
     "AMD": "2026-11-25",
     "Unity": "2026-11-25",
     "Konrad": "2026-11-25"
@@ -131144,9 +131151,69 @@
       "since": "2026-11-25",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/uni/jobs"
     },
-    "Razer": {
+    "Salesforce": {
       "since": "2026-11-25",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs"
+    },
+    "Intel": {
+      "since": "2026-11-25",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
+    },
+    "Nvidia": {
+      "since": "2026-11-25",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
+    },
+    "Rockwell Automation": {
+      "since": "2026-11-25",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
+    },
+    "Boston Dynamics": {
+      "since": "2026-11-25",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://bostondynamics.wd1.myworkdayjobs.com/wday/cxs/bostondynamics/Boston_Dynamics/jobs"
+    },
+    "Hugging Face": {
+      "since": "2026-11-25",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/huggingface/jobs"
+    },
+    "Tesla": {
+      "since": "2026-11-25",
+      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
+    },
+    "Sony": {
+      "since": "2026-11-25",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sonyglobal.wd1.myworkdayjobs.com/wday/cxs/sonyglobal/SonyGlobalCareers/jobs"
+    },
+    "Medtronic": {
+      "since": "2026-11-25",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://medtronic.wd1.myworkdayjobs.com/wday/cxs/medtronic/MedtronicCareers/jobs"
+    },
+    "Pony.ai": {
+      "since": "2026-11-25",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/pony-dot-ai/jobs"
+    },
+    "Stryker": {
+      "since": "2026-11-25",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs"
+    },
+    "Symbotic": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://symbotic.wd504.myworkdayjobs.com/wday/cxs/symbotic/Symbotic/jobs"
+    },
+    "Northrop Grumman": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ngc.wd1.myworkdayjobs.com/wday/cxs/ngc/Northrop_Grumman_External_Site/jobs"
+    },
+    "Realtime Robotics": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://apply.workable.com/api/v3/accounts/realtime-robotics/jobs"
+    },
+    "Slate Auto": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
+    },
+    "Oshkosh": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs"
     }
   },
   "closures_untracked": {
