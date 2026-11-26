@@ -19712,6 +19712,27 @@
         "id": "greenhouse:5306687007",
         "url": "https://lucidmotors.com/careers/search/5306687007?gh_jid=5306687007",
         "location": "Amsterdam, NH"
+      },
+      {
+        "title": "\u2b50\ufe0f Business Analyst Intern",
+        "date": "2026-11-26",
+        "id": "greenhouse:5306854007",
+        "url": "https://lucidmotors.com/careers/search/5306854007?gh_jid=5306854007",
+        "location": "Amsterdam, NH"
+      },
+      {
+        "title": "\u2b50\ufe0f Salesforce Engineer Intern",
+        "date": "2026-11-26",
+        "id": "greenhouse:5306844007",
+        "url": "https://lucidmotors.com/careers/search/5306844007?gh_jid=5306844007",
+        "location": "Amsterdam, NH"
+      },
+      {
+        "title": "\u2b50\ufe0f Sales Strategy, Planning & Analytics Intern",
+        "date": "2026-11-26",
+        "id": "greenhouse:5306856007",
+        "url": "https://lucidmotors.com/careers/search/5306856007?gh_jid=5306856007",
+        "location": "Amsterdam, NH"
       }
     ],
     "Avride": [
@@ -33625,7 +33646,8 @@
         "date": "N/A",
         "id": "ashby:c43d40de-ccde-4e4e-a48a-72e6f3e0e08a",
         "url": "https://jobs.ashbyhq.com/carbon-robotics/c43d40de-ccde-4e4e-a48a-72e6f3e0e08a",
-        "location": "Amsterdam, Netherlands"
+        "location": "Amsterdam, Netherlands",
+        "closed": "2026-11-26"
       },
       {
         "title": "Sr. Territory Account Manager, Tri-Cities",
@@ -33634,7 +33656,8 @@
       },
       {
         "title": "Sales Development Representative",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-26"
       },
       {
         "title": "Sr. Manager, Autonomous Support Operations",
@@ -44744,6 +44767,13 @@
         "id": "ashby:2b9b546b-e2a3-40b8-9f81-002b30670aa7",
         "url": "https://jobs.ashbyhq.com/humanoid/2b9b546b-e2a3-40b8-9f81-002b30670aa7",
         "location": "UK, London"
+      },
+      {
+        "title": "Field Operations Manager",
+        "date": "2026-11-26",
+        "id": "ashby:45992ce5-981f-4641-a626-59933e80768b",
+        "url": "https://jobs.ashbyhq.com/humanoid/45992ce5-981f-4641-a626-59933e80768b",
+        "location": "Germany"
       }
     ],
     "Niantic Spatial": [
@@ -119157,6 +119187,13 @@
         "id": "phenom:R173409",
         "url": "https://careers.adobe.com/us/en/job/R173409/2027-Intern-Video-Production",
         "location": "San Francisco, CA"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Intern - Finance",
+        "date": "2026-11-26",
+        "id": "phenom:R172470",
+        "url": "https://careers.adobe.com/us/en/job/R172470/2027-Intern-Finance",
+        "location": "Dublin, Ireland"
       }
     ],
     "Databricks": [
@@ -121123,6 +121160,13 @@
         "id": "workday:REF089620W-1",
         "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/NL---Amsterdam-Netherlands/Visa-Implementation-Services-Summer-Intern--Dutch-speakers-_REF089620W-1",
         "location": "NL - Amsterdam, Netherlands"
+      },
+      {
+        "title": "\u2b50\ufe0f Portfolio optimization Intern",
+        "date": "2026-11-26",
+        "id": "workday:REF089913W-1",
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/DE---Frankfurt-Germany/Portfolio-optimization-Intern_REF089913W-1",
+        "location": "DE - Frankfurt, Germany"
       }
     ],
     "Replit": [
@@ -131344,54 +131388,6 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.citadel.com/sitemap/career.xml"
-    },
-    "Nvidia": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
-    },
-    "Blue Origin": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/BlueOrigin/jobs"
-    },
-    "Snap": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
-    },
-    "Rockwell Automation": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
-    },
-    "Unity": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
-    },
-    "Visa": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs"
-    },
-    "Target": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
-    },
-    "Samsung": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
-    },
-    "General Motors": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
-    },
-    "ABB": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
-    },
-    "Northrop Grumman": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ngc.wd1.myworkdayjobs.com/wday/cxs/ngc/Northrop_Grumman_External_Site/jobs"
-    },
-    "Slate Auto": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
     }
   },
   "closures_untracked": {
