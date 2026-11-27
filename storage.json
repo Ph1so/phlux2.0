@@ -3000,6 +3000,13 @@
         "id": "amazon:10615065",
         "url": "https://www.amazon.jobs/en/jobs/10615065/software-development-manager-aws-identity-access-aws-iam-identity-center",
         "location": "Seattle, WA"
+      },
+      {
+        "title": "Software Development Engineer, Aurora Control Plane",
+        "date": "2026-11-27",
+        "id": "amazon:10608779",
+        "url": "https://www.amazon.jobs/en/jobs/10608779/software-development-engineer-aurora-control-plane",
+        "location": "Seattle, WA"
       }
     ],
     "Meta": [
@@ -35367,11 +35374,13 @@
         "date": "N/A",
         "id": "greenhouse:8792126002",
         "url": "https://app.careerpuck.com/job-board/lyft/job/8792126002?gh_jid=8792126002",
-        "location": "Nashville, TN"
+        "location": "Nashville, TN",
+        "closed": "2026-11-27"
       },
       {
         "title": "Legal Operations Specialist",
-        "date": "N/A"
+        "date": "N/A",
+        "closed": "2026-11-27"
       },
       {
         "title": "Growth Marketing Manager, Lifecycle",
@@ -45162,7 +45171,8 @@
         "date": "N/A",
         "id": "google:124901724409209542",
         "url": "https://www.google.com/about/careers/applications/jobs/results/124901724409209542",
-        "location": "London, UK"
+        "location": "London, UK",
+        "closed": "2026-11-27"
       },
       {
         "title": "Semiconductor Material Science Research Scientist, DeepMind",
@@ -46375,7 +46385,8 @@
         "date": "2026-11-05",
         "id": "google:88601134075126470",
         "url": "https://www.google.com/about/careers/applications/jobs/results/88601134075126470",
-        "location": "Mountain View, CA +1"
+        "location": "Mountain View, CA +1",
+        "closed": "2026-11-27"
       },
       {
         "title": "Senior Network Engineer, Robotics, Enterprise Engineering, DeepMind",
@@ -46755,7 +46766,8 @@
         "date": "2026-11-24",
         "id": "google:136050801037451974",
         "url": "https://www.google.com/about/careers/applications/jobs/results/136050801037451974",
-        "location": "Mountain View, CA"
+        "location": "Mountain View, CA",
+        "closed": "2026-11-27"
       },
       {
         "title": "Principal Engineer, Agent Harness and Capabilities, GeminiApp, DeepMind",
@@ -72793,6 +72805,13 @@
         "id": "greenhouse:4516541009",
         "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4516541009",
         "location": "Los Angeles, CA"
+      },
+      {
+        "title": "Property Administrator III \u2013 Strategic Systems",
+        "date": "2026-11-27",
+        "id": "greenhouse:4512579009",
+        "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4512579009",
+        "location": "Pueblo, CO; Reno, NV ; Folsom, CA"
       }
     ],
     "FANUC America": [
@@ -117629,7 +117648,8 @@
         "date": "N/A",
         "id": "jibe:11491",
         "url": "https://careers.sig.com/jobs/11491",
-        "location": "Bala Cynwyd (Philadelphia Area), PA"
+        "location": "Bala Cynwyd (Philadelphia Area), PA",
+        "closed": "2026-11-27"
       },
       {
         "title": "FIX Onboarder",
@@ -131554,6 +131574,10 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.citadel.com/sitemap/career.xml"
+    },
+    "Tesla": {
+      "since": "2026-11-27",
+      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
     }
   },
   "closures_untracked": {
