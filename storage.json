@@ -929,8 +929,7 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557040344",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557040344",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-27"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Machine Learning for Biology and Healthcare",
@@ -1109,8 +1108,7 @@
         "date": "2026-10-16",
         "id": "eightfold:1970393557042145",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557042145",
-        "location": "United States, NY +1",
-        "closed": "2026-11-27"
+        "location": "United States, NY +1"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - MSR AI Interaction and Learning",
@@ -66210,14 +66208,16 @@
         "date": "2026-11-13",
         "id": "workday:JR00050298-1",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bangalore-Karnataka-India/Head-of-Cyber-Security_JR00050298-1",
-        "location": "9 Locations"
+        "location": "9 Locations",
+        "closed": "2026-11-27"
       },
       {
         "title": "Head of Quality Engineering",
         "date": "2026-11-13",
         "id": "workday:JR00050304-1",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bangalore-Karnataka-India/Head-of-Quality-Engineering_JR00050304-1",
-        "location": "8 Locations"
+        "location": "8 Locations",
+        "closed": "2026-11-27"
       },
       {
         "title": "Automation Engineer",
@@ -126192,6 +126192,13 @@
         "id": "talentbrew:100464598128",
         "url": "https://jobs.boeing.com/job/gosport/supply-chain-management-intern-vertical-lift-12-month-placement/185/100464598128",
         "location": "Gosport, United Kingdom"
+      },
+      {
+        "title": "\u2b50\ufe0f Intern Software Engineer",
+        "date": "2026-11-27",
+        "id": "talentbrew:103871599200",
+        "url": "https://jobs.boeing.com/job/gdansk/intern-software-engineer/185/103871599200",
+        "location": "Gdansk, Poland"
       }
     ],
     "Mosaic": [
