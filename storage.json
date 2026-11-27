@@ -1354,7 +1354,8 @@
         "date": "2026-11-13",
         "id": "eightfold:1970393556986148",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556986148",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-27"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - AI Coding Agents",
@@ -131787,7 +131788,8 @@
         "date": "2026-11-27",
         "id": "successfactors:1452263100",
         "url": "https://careers.ll.mit.edu/job/Lexington-Satellite-Communication-Systems-Technical-Staff-MA-02420/1452263100/",
-        "location": "Lexington, MA"
+        "location": "Lexington, MA",
+        "closed": "2026-11-27"
       },
       {
         "title": "Assistant Staff 1/2 - Thermal Engineer",
@@ -133401,10 +133403,6 @@
       "since": "2026-11-12",
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.citadel.com/sitemap/career.xml"
     },
-    "Blue Origin": {
-      "since": "2026-11-27",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/BlueOrigin/jobs"
-    },
     "Samsung": {
       "since": "2026-11-27",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
@@ -133416,6 +133414,22 @@
     "ABB": {
       "since": "2026-11-27",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
+    },
+    "Snap": {
+      "since": "2026-11-27",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
+    },
+    "Rockwell Automation": {
+      "since": "2026-11-27",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
+    },
+    "Razer": {
+      "since": "2026-11-27",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
+    },
+    "Slate Auto": {
+      "since": "2026-11-27",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
     }
   },
   "closures_untracked": {
