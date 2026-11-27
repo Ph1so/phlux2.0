@@ -44182,8 +44182,7 @@
         "date": "N/A",
         "id": "ashby:d4829366-a249-439b-be54-a56c7376372c",
         "url": "https://jobs.ashbyhq.com/humanoid/d4829366-a249-439b-be54-a56c7376372c",
-        "location": "UK, London",
-        "closed": "2026-11-23"
+        "location": "UK, London"
       },
       {
         "title": "Senior Financial Analyst",
@@ -44796,6 +44795,13 @@
         "id": "ashby:45992ce5-981f-4641-a626-59933e80768b",
         "url": "https://jobs.ashbyhq.com/humanoid/45992ce5-981f-4641-a626-59933e80768b",
         "location": "Germany"
+      },
+      {
+        "title": "VP of UAE",
+        "date": "2026-11-27",
+        "id": "ashby:201a5fd7-47cf-4ff7-8eb9-a7a75ad396f4",
+        "url": "https://jobs.ashbyhq.com/humanoid/201a5fd7-47cf-4ff7-8eb9-a7a75ad396f4",
+        "location": "UK, London +1"
       }
     ],
     "Niantic Spatial": [
@@ -85660,7 +85666,8 @@
         "date": "2026-11-09",
         "id": "ashby:3b85fc17-403b-4ca0-81e3-21c2aec9c052",
         "url": "https://jobs.ashbyhq.com/openai/3b85fc17-403b-4ca0-81e3-21c2aec9c052",
-        "location": "London, UK"
+        "location": "London, UK",
+        "closed": "2026-11-27"
       },
       {
         "title": "Product Engagement Manager, User Operations",
@@ -87099,7 +87106,8 @@
         "date": "2026-10-22",
         "id": "icims:5483",
         "url": "https://careers-jobyaviation.icims.com/jobs/5483/flight-test-intern-%28dec-2026-feb-2027%29/job",
-        "location": "Marina, CA"
+        "location": "Marina, CA",
+        "closed": "2026-11-27"
       },
       {
         "title": "\u2b50\ufe0f Mechanical Engineer Intern, Autonomy (Summer 2027)",
@@ -131546,10 +131554,6 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.citadel.com/sitemap/career.xml"
-    },
-    "Tesla": {
-      "since": "2026-11-27",
-      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
     }
   },
   "closures_untracked": {
