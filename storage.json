@@ -16104,7 +16104,8 @@
         "date": "2026-10-12",
         "id": "greenhouse:4721113006",
         "url": "https://job-boards.greenhouse.io/figureai/jobs/4721113006",
-        "location": "San Jose, CA"
+        "location": "San Jose, CA",
+        "closed": "2026-11-26"
       },
       {
         "title": "\u2b50\ufe0f Commercial Operations Intern [Winter 2027]",
@@ -131454,6 +131455,38 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.citadel.com/sitemap/career.xml"
+    },
+    "Nvidia": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
+    },
+    "Unity": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
+    },
+    "Razer": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
+    },
+    "Sony": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sonyglobal.wd1.myworkdayjobs.com/wday/cxs/sonyglobal/SonyGlobalCareers/jobs"
+    },
+    "Target": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
+    },
+    "Samsung": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
+    },
+    "General Motors": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
+    },
+    "ABB": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
     }
   },
   "closures_untracked": {
