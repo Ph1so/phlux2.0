@@ -61983,7 +61983,8 @@
         "date": "2026-10-14",
         "id": "workday:JR00050091",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Vaasa-Ostrobothnia-Finland/Implementation-Manager---Quote-to-Order_JR00050091",
-        "location": "3 Locations"
+        "location": "3 Locations",
+        "closed": "2026-11-26"
       },
       {
         "title": "R&D Engineer",
@@ -63148,7 +63149,8 @@
         "date": "N/A",
         "id": "workday:JR00050436-1",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Bangalore-Karnataka-India/Market-Readiness-Lead_JR00050436-1",
-        "location": "9 Locations"
+        "location": "9 Locations",
+        "closed": "2026-11-26"
       },
       {
         "title": "Machine Operator - 3rd Shift",
@@ -67101,6 +67103,20 @@
         "date": "2026-11-26",
         "id": "workday:JR00045794",
         "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Texas-United-States-of-America/Regional-Technical-Advisor_JR00045794",
+        "location": "2 Locations"
+      },
+      {
+        "title": "Technical Sales Specialist - Material Handling",
+        "date": "2026-11-26",
+        "id": "workday:JR00053424",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-UT-Salt-Lake-City/Technical-Sales-Specialist---Material-Handling_JR00053424",
+        "location": "2 Locations"
+      },
+      {
+        "title": "Digital Sales Specialist",
+        "date": "2026-11-26",
+        "id": "workday:JR00053423",
+        "url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Arizona-United-States-of-America/Digital-Sales-Specialist_JR00053423",
         "location": "2 Locations"
       }
     ],
@@ -108165,7 +108181,8 @@
         "date": "N/A",
         "id": "morganstanley:22047",
         "url": "https://morganstanley.tal.net/vx/candidate/so/pm/1/pl/1/opp/22047",
-        "location": "London, United Kingdom"
+        "location": "London, United Kingdom",
+        "closed": "2026-11-26"
       },
       {
         "title": "\u2b50\ufe0f 2027 Investment Banking Internship Program (Mexico City)",
@@ -131432,14 +131449,6 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.citadel.com/sitemap/career.xml"
-    },
-    "Samsung": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
-    },
-    "ABB": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
     }
   },
   "closures_untracked": {
