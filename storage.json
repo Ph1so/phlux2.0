@@ -30132,7 +30132,8 @@
         "date": "2026-10-22",
         "id": "smartrecruiters:744000146546699",
         "url": "https://jobs.smartrecruiters.com/BoschGroup/744000146546699",
-        "location": "Farmington Hills, MI"
+        "location": "Farmington Hills, MI",
+        "closed": "2026-11-27"
       },
       {
         "title": "\u2b50\ufe0f Mechanical Design Engineering Intern",
@@ -48200,7 +48201,8 @@
         "date": "2026-11-13",
         "id": "greenhouse:4507137009",
         "url": "https://job-boards.greenhouse.io/nimblerobotics/jobs/4507137009",
-        "location": "Haslet, TX"
+        "location": "Haslet, TX",
+        "closed": "2026-11-27"
       },
       {
         "title": "Operations Supervisor (San Francisco, CA)",
@@ -71217,26 +71219,31 @@
         "date": "2026-10-14",
         "id": "greenhouse:4409692009",
         "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4409692009",
-        "location": "Folsom, CA"
+        "location": "Folsom, CA",
+        "closed": "2026-11-27"
       },
       {
         "title": "Contract Manager",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "closed": "2026-11-27"
       },
       {
         "title": "Contracts Specialist",
         "date": "2026-10-14",
         "id": "greenhouse:4410096009",
         "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4410096009",
-        "location": "Folsom, CA"
+        "location": "Folsom, CA",
+        "closed": "2026-11-27"
       },
       {
         "title": "Contracts Specialist",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "closed": "2026-11-27"
       },
       {
         "title": "Contracts Specialist",
-        "date": "2026-10-14"
+        "date": "2026-10-14",
+        "closed": "2026-11-27"
       },
       {
         "title": "Master Scheduling Analyst III",
@@ -71795,7 +71802,8 @@
         "date": "N/A",
         "id": "greenhouse:4470886009",
         "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4470886009",
-        "location": "Folsom, CA; Reno, NV; Penrose, CO; Pueblo, CO"
+        "location": "Folsom, CA; Reno, NV; Penrose, CO; Pueblo, CO",
+        "closed": "2026-11-27"
       },
       {
         "title": "Infrastructure Engineering Manager",
@@ -109825,7 +109833,8 @@
         "date": "2026-11-17",
         "id": "ashby:74373c60-3ce9-48fd-ae8d-5235fa24c682",
         "url": "https://jobs.ashbyhq.com/cohere/74373c60-3ce9-48fd-ae8d-5235fa24c682",
-        "location": "Germany"
+        "location": "Germany",
+        "closed": "2026-11-27"
       },
       {
         "title": "Direct Strategic Sourcing Lead",
@@ -119310,6 +119319,13 @@
         "id": "phenom:R172470",
         "url": "https://careers.adobe.com/us/en/job/R172470/2027-Intern-Finance",
         "location": "Dublin, Ireland"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Intern - Digital Strategy Analyst",
+        "date": "2026-11-27",
+        "id": "phenom:R173321",
+        "url": "https://careers.adobe.com/us/en/job/R173321/2027-Intern-Digital-Strategy-Analyst",
+        "location": "London, United Kingdom"
       }
     ],
     "Databricks": [
@@ -131202,8 +131218,8 @@
       "message_id": "<179570050942.2390.2936139066745562674@phlux>"
     },
     "internship_all": {
-      "date": "2026-11-26",
-      "message_id": "<179566938607.2587.9521768416869636071@phlux>"
+      "date": "2026-11-27",
+      "message_id": "<179579279404.2452.15946351208318259865@phlux>"
     }
   },
   "pending_closures": {
