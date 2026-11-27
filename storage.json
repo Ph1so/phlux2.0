@@ -44641,7 +44641,8 @@
         "date": "2026-10-22",
         "id": "ashby:a464dfbe-50c6-4194-893a-8a01241e992c",
         "url": "https://jobs.ashbyhq.com/humanoid/a464dfbe-50c6-4194-893a-8a01241e992c",
-        "location": "UK, London"
+        "location": "UK, London",
+        "closed": "2026-11-27"
       },
       {
         "title": "Senior Robotics Integration Engineer",
@@ -77789,7 +77790,8 @@
         "date": "2026-11-02",
         "id": "greenhouse:4854790101",
         "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=4854790101&gh_jid=4854790101",
-        "location": "Sofia, Bulgaria"
+        "location": "Sofia, Bulgaria",
+        "closed": "2026-11-27"
       },
       {
         "title": "Software Engineering Graduate 2027",
@@ -77972,6 +77974,13 @@
         "date": "2026-11-25",
         "id": "greenhouse:5042361101",
         "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=5042361101&gh_jid=5042361101",
+        "location": "Hatfield, United Kingdom"
+      },
+      {
+        "title": "Director for Proposition & Growth",
+        "date": "2026-11-27",
+        "id": "greenhouse:5049102101",
+        "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=5049102101&gh_jid=5049102101",
         "location": "Hatfield, United Kingdom"
       }
     ],
@@ -108596,7 +108605,8 @@
         "date": "N/A",
         "id": "workday:JR-0110193",
         "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Ireland-Dublin/Business-Development-Representative--Swedish-_JR-0110193",
-        "location": "Ireland, Dublin"
+        "location": "Ireland, Dublin",
+        "closed": "2026-11-27"
       },
       {
         "title": "\u2b50\ufe0f Product Manager Intern",
@@ -131209,11 +131219,11 @@
   "checked": {
     "Google": "2026-11-27",
     "Meta": "2026-11-27",
-    "Nvidia": "2026-11-26",
+    "Nvidia": "2026-11-27",
     "AWS": "2026-11-27",
     "Amazon": "2026-11-27",
     "Netflix": "2026-11-27",
-    "Autodesk": "2026-11-26",
+    "Autodesk": "2026-11-27",
     "Apple": "2026-11-27",
     "Optiver": "2026-11-27",
     "Citadel": "2026-11-12",
@@ -131229,7 +131239,7 @@
     "SpaceX": "2026-11-27",
     "Neuralink": "2026-11-27",
     "Zipline": "2026-11-27",
-    "Boston Dynamics": "2026-11-26",
+    "Boston Dynamics": "2026-11-27",
     "Scale AI": "2026-11-27",
     "Relativity": "2026-11-27",
     "Palantir": "2026-11-27",
@@ -131357,7 +131367,7 @@
     "Mundane": "2026-11-27",
     "Uber": "2026-11-27",
     "Anywhere Robotics": "2026-11-01",
-    "Tesla": "2026-11-26",
+    "Tesla": "2026-11-27",
     "Beyond Reach Labs": "2026-11-27",
     "Relling": "2026-11-27",
     "Icarus": "2026-11-27",
@@ -131372,20 +131382,20 @@
     "Welch's": "2026-11-27",
     "ispace": "2026-11-27",
     "Pinterest": "2026-11-27",
-    "Intel": "2026-11-26",
+    "Intel": "2026-11-27",
     "LinkedIn": "2026-11-27",
     "Liberty Mutual": "2026-11-27",
     "Salesforce": "2026-11-27",
     "PayPal": "2026-11-27",
     "IBM": "2026-11-27",
-    "Bank of America": "2026-11-26",
+    "Bank of America": "2026-11-27",
     "Airbnb": "2026-11-27",
     "Spotify": "2026-11-27",
     "Morgan Stanley": "2026-11-27",
     "Cisco": "2026-11-27",
     "TwoSigma": "2026-11-27",
-    "Snap": "2026-11-26",
-    "Workday": "2026-11-26",
+    "Snap": "2026-11-27",
+    "Workday": "2026-11-27",
     "Stripe": "2026-11-27",
     "Cohere": "2026-11-27",
     "Ramp": "2026-11-27",
@@ -131408,7 +131418,7 @@
     "Susquehanna": "2026-11-27",
     "Adobe": "2026-11-27",
     "Databricks": "2026-11-27",
-    "Rockwell Automation": "2026-11-26",
+    "Rockwell Automation": "2026-11-27",
     "Siemens": "2026-11-27",
     "X": "2026-11-27",
     "TSMC": "2026-11-27",
@@ -131499,7 +131509,7 @@
     "Lightwheel": "2026-11-27",
     "Tutor Intelligence": "2026-11-27",
     "AMD": "2026-11-27",
-    "Unity": "2026-11-26",
+    "Unity": "2026-11-27",
     "Konrad": "2026-11-27"
   },
   "failing": {
@@ -131510,46 +131520,6 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.citadel.com/sitemap/career.xml"
-    },
-    "Nvidia": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
-    },
-    "Unity": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
-    },
-    "Bank of America": {
-      "since": "2026-11-27",
-      "error": "HTTPError: 403 Client Error: Forbidden for url: https://careers.bankofamerica.com/services/campusjobssearchservlet?search=jobsByLocation&searchstring=United+States&start=0&rows=100"
-    },
-    "Intel": {
-      "since": "2026-11-27",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
-    },
-    "Autodesk": {
-      "since": "2026-11-27",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/uni/jobs"
-    },
-    "Snap": {
-      "since": "2026-11-27",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
-    },
-    "Workday": {
-      "since": "2026-11-27",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday_Early_Career/jobs"
-    },
-    "Rockwell Automation": {
-      "since": "2026-11-27",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
-    },
-    "Boston Dynamics": {
-      "since": "2026-11-27",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://bostondynamics.wd1.myworkdayjobs.com/wday/cxs/bostondynamics/Boston_Dynamics/jobs"
-    },
-    "Tesla": {
-      "since": "2026-11-27",
-      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
     }
   },
   "closures_untracked": {
