@@ -44641,8 +44641,7 @@
         "date": "2026-10-22",
         "id": "ashby:a464dfbe-50c6-4194-893a-8a01241e992c",
         "url": "https://jobs.ashbyhq.com/humanoid/a464dfbe-50c6-4194-893a-8a01241e992c",
-        "location": "UK, London",
-        "closed": "2026-11-27"
+        "location": "UK, London"
       },
       {
         "title": "Senior Robotics Integration Engineer",
@@ -131520,6 +131519,10 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.citadel.com/sitemap/career.xml"
+    },
+    "Tesla": {
+      "since": "2026-11-27",
+      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
     }
   },
   "closures_untracked": {
