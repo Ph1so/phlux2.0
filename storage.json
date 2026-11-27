@@ -929,7 +929,8 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557040344",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557040344",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-27"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Machine Learning for Biology and Healthcare",
@@ -1108,7 +1109,8 @@
         "date": "2026-10-16",
         "id": "eightfold:1970393557042145",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557042145",
-        "location": "United States, NY +1"
+        "location": "United States, NY +1",
+        "closed": "2026-11-27"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - MSR AI Interaction and Learning",
@@ -45171,8 +45173,7 @@
         "date": "N/A",
         "id": "google:124901724409209542",
         "url": "https://www.google.com/about/careers/applications/jobs/results/124901724409209542",
-        "location": "London, UK",
-        "closed": "2026-11-27"
+        "location": "London, UK"
       },
       {
         "title": "Semiconductor Material Science Research Scientist, DeepMind",
@@ -46385,8 +46386,7 @@
         "date": "2026-11-05",
         "id": "google:88601134075126470",
         "url": "https://www.google.com/about/careers/applications/jobs/results/88601134075126470",
-        "location": "Mountain View, CA +1",
-        "closed": "2026-11-27"
+        "location": "Mountain View, CA +1"
       },
       {
         "title": "Senior Network Engineer, Robotics, Enterprise Engineering, DeepMind",
@@ -46766,8 +46766,7 @@
         "date": "2026-11-24",
         "id": "google:136050801037451974",
         "url": "https://www.google.com/about/careers/applications/jobs/results/136050801037451974",
-        "location": "Mountain View, CA",
-        "closed": "2026-11-27"
+        "location": "Mountain View, CA"
       },
       {
         "title": "Principal Engineer, Agent Harness and Capabilities, GeminiApp, DeepMind",
@@ -60443,7 +60442,8 @@
         "date": "2026-10-19",
         "id": "workday:R7136",
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington-MA---ITC/Sr-Test-Engineer--Electrical-_R7136",
-        "location": "USA Wilmington, MA - ITC"
+        "location": "USA Wilmington, MA - ITC",
+        "closed": "2026-11-27"
       },
       {
         "title": "\u2b50\ufe0f Intern- Robot Manipulation",
@@ -87033,6 +87033,13 @@
         "id": "ashby:c58aecd7-b306-4c06-9648-8090d0a93217",
         "url": "https://jobs.ashbyhq.com/openai/c58aecd7-b306-4c06-9648-8090d0a93217",
         "location": "US - Remote +1"
+      },
+      {
+        "title": "Program Manager, Recruiting Events",
+        "date": "2026-11-27",
+        "id": "ashby:1f1ea997-283b-4d49-b25b-e8dbe2491938",
+        "url": "https://jobs.ashbyhq.com/openai/1f1ea997-283b-4d49-b25b-e8dbe2491938",
+        "location": "San Francisco +1"
       }
     ],
     "John Deere": [
@@ -131574,10 +131581,6 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.citadel.com/sitemap/career.xml"
-    },
-    "Tesla": {
-      "since": "2026-11-27",
-      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
     }
   },
   "closures_untracked": {
