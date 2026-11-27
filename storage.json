@@ -75229,7 +75229,8 @@
         "date": "2026-10-22",
         "id": "lever:56dde3b9-4dc1-4b54-836b-f2fba109308a",
         "url": "https://jobs.lever.co/woven-by-toyota/56dde3b9-4dc1-4b54-836b-f2fba109308a",
-        "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a"
+        "location": "\u6771\u4eac\u90fd\u4e2d\u592e\u533a",
+        "closed": "2026-11-26"
       },
       {
         "title": "\u30af\u30e9\u30a6\u30c9\u30a8\u30f3\u30b8\u30cb\u30a2",
@@ -112730,7 +112731,8 @@
         "date": "N/A",
         "id": "bytedance:7667565696079874309",
         "url": "https://lifeattiktok.com/search/7667565696079874309",
-        "location": "Los Angeles, CA"
+        "location": "Los Angeles, CA",
+        "closed": "2026-11-26"
       },
       {
         "title": "Machine Learning Engineer Graduate (TikTok Trust and Safety) - 2027 Start",
@@ -119839,21 +119841,24 @@
         "date": "2026-11-26",
         "id": "workday:R26-8803",
         "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Seoul-South-Korea/Engineer-in-Training---Proposal_R26-8803",
-        "location": "Seoul, South Korea"
+        "location": "Seoul, South Korea",
+        "closed": "2026-11-26"
       },
       {
         "title": "Engineer in Training",
         "date": "2026-11-26",
         "id": "workday:R26-8756-1",
         "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Seoul-South-Korea/Engineer-in-Training_R26-8756-1",
-        "location": "2 Locations"
+        "location": "2 Locations",
+        "closed": "2026-11-26"
       },
       {
         "title": "Engineer in Training \u2013 Field Service (Perth, WA)",
         "date": "2026-11-26",
         "id": "workday:R26-8796",
         "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Perth-Western-Australia-Australia/Engineer-in-Training---Field-Service--Perth--WA-_R26-8796",
-        "location": "Perth, Western Australia, Australia"
+        "location": "Perth, Western Australia, Australia",
+        "closed": "2026-11-26"
       }
     ],
     "Siemens": [
