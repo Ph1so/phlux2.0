@@ -118365,7 +118365,8 @@
         "date": "N/A",
         "id": "jibe:10944",
         "url": "https://careers.sig.com/jobs/10944",
-        "location": "Bala Cynwyd (Philadelphia Area), PA"
+        "location": "Bala Cynwyd (Philadelphia Area), PA",
+        "closed": "2026-11-27"
       },
       {
         "title": "Machine Learning Engineer- Inference Optimization | Experienced Hire",
@@ -119910,8 +119911,7 @@
         "date": "2026-11-26",
         "id": "workday:R26-8756-1",
         "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Seoul-South-Korea/Engineer-in-Training_R26-8756-1",
-        "location": "2 Locations",
-        "closed": "2026-11-26"
+        "location": "2 Locations"
       },
       {
         "title": "Engineer in Training \u2013 Field Service (Perth, WA)",
@@ -119920,6 +119920,13 @@
         "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Perth-Western-Australia-Australia/Engineer-in-Training---Field-Service--Perth--WA-_R26-8796",
         "location": "Perth, Western Australia, Australia",
         "closed": "2026-11-26"
+      },
+      {
+        "title": "Engineer In Training",
+        "date": "2026-11-27",
+        "id": "workday:R26-8765",
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/India-New-Delhi-Noida/Engineer-In-Training_R26-8765",
+        "location": "3 Locations"
       }
     ],
     "Siemens": [
@@ -120932,28 +120939,32 @@
         "date": "N/A",
         "id": "greenhouse:8345947",
         "url": "https://www.weareroku.com/jobs/8345947?gh_jid=8345947",
-        "location": "Cambridge, United Kingdom"
+        "location": "Cambridge, United Kingdom",
+        "closed": "2026-11-27"
       },
       {
         "title": "\u2b50\ufe0f AI Engineering Internship Program (Summer 2027)",
         "date": "N/A",
         "id": "greenhouse:8345954",
         "url": "https://www.weareroku.com/jobs/8345954?gh_jid=8345954",
-        "location": "Manchester, United Kingdom"
+        "location": "Manchester, United Kingdom",
+        "closed": "2026-11-27"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Internship Program (Summer 2027)",
         "date": "N/A",
         "id": "greenhouse:8345963",
         "url": "https://www.weareroku.com/jobs/8345963?gh_jid=8345963",
-        "location": "Cambridge, United Kingdom"
+        "location": "Cambridge, United Kingdom",
+        "closed": "2026-11-27"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Internship Program (Summer 2027)",
         "date": "N/A",
         "id": "greenhouse:8345967",
         "url": "https://www.weareroku.com/jobs/8345967?gh_jid=8345967",
-        "location": "Manchester, United Kingdom"
+        "location": "Manchester, United Kingdom",
+        "closed": "2026-11-27"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer Intern, AI Engineering",
