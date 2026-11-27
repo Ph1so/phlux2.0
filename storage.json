@@ -1431,8 +1431,7 @@
         "date": "2026-11-19",
         "id": "eightfold:1970393557076095",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557076095",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-26"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - AI Safety, Alignment, and Post-Training",
@@ -9332,8 +9331,7 @@
         "date": "2026-10-09",
         "id": "eightfold:446720741716",
         "url": "https://careers.qualcomm.com/careers/job/446720741716",
-        "location": "San Diego, CA",
-        "closed": "2026-11-26"
+        "location": "San Diego, CA"
       },
       {
         "title": "\u2b50\ufe0f Finance & Accounting Internship - Summer 2027",
@@ -123289,7 +123287,8 @@
         "date": "2026-11-17",
         "id": "oraclehcm:182574",
         "url": "https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/182574",
-        "location": "Sao Paulo, Brazil"
+        "location": "Sao Paulo, Brazil",
+        "closed": "2026-11-26"
       },
       {
         "title": "\u2b50\ufe0f 2027 | Americas | Albany | Engineering | Summer Analyst",
@@ -124869,7 +124868,8 @@
         "date": "N/A",
         "id": "eightfold:43322353",
         "url": "https://apply.hp.com/careers/job/43322353",
-        "location": "San Francisco, CA"
+        "location": "San Francisco, CA",
+        "closed": "2026-11-26"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Intern - HP IQ",
@@ -131445,29 +131445,21 @@
       "since": "2026-11-26",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
     },
-    "Snap": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
-    },
-    "Oshkosh": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs"
-    },
-    "Nvidia": {
-      "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
-    },
     "Razer": {
       "since": "2026-11-26",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
     },
     "Tesla": {
       "since": "2026-11-26",
-      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
+      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: HTTP 403; undetected-chromedriver: Refused: page denied)"
     },
-    "Target": {
+    "Unity": {
       "since": "2026-11-26",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
+    },
+    "Slate Auto": {
+      "since": "2026-11-26",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
     }
   },
   "closures_untracked": {
