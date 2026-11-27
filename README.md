@@ -12,7 +12,7 @@
 <p>
   <a href="https://ph1so.github.io/phlux2.0/"><img src="https://img.shields.io/badge/browse-internships-1f5fff?style=flat-square" alt="Browse internships"></a>
   <a href="https://github.com/Ph1so/phlux2.0/actions/workflows/job-scraper.yml"><img src="https://img.shields.io/github/actions/workflow/status/Ph1so/phlux2.0/job-scraper.yml?branch=main&style=flat-square&label=scraper" alt="Scraper status"></a>
-  <img src="https://img.shields.io/badge/roles_tracked-39.7k-475467?style=flat-square" alt="39,709 roles tracked">
+  <img src="https://img.shields.io/badge/roles_tracked-39.7k-475467?style=flat-square" alt="39,710 roles tracked">
 </p>
 
 <p><a href="https://ph1so.github.io/phlux2.0/"><b>Website</b></a> &nbsp;·&nbsp; <a href="listings/README.md"><b>All listings</b></a></p>
@@ -21,7 +21,7 @@
 
 ## Latest roles
 
-Showing the 524 most recent of 39,709 roles tracked across 296 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
+Showing the 524 most recent of 39,710 roles tracked across 296 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
 
 
 <table>
@@ -74,6 +74,13 @@ Showing the 524 most recent of 39,709 roles tracked across 296 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/cohere/"><img src="https://cdn.brandfetch.io/cohere.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Cohere" height="20" style="vertical-align:middle; margin-right:6px;"> Cohere</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/cohere/d24de9b2-35b6-456a-843e-a9e01d2facf2">Technical Program Manager, Model Delivery</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://joinbytedance.com/search?limit=12&offset=0&location_code_list=CT_1103355%2CCT_157%2CCT_94%2CCT_114%2CCT_100764%2CCT_75%2CCT_233%2CCT_203&recruitment_id_list=202%2C301"><img src="https://cdn.brandfetch.io/bytedance.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ByteDance" height="20" style="vertical-align:middle; margin-right:6px;"> ByteDance</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://joinbytedance.com/search/7712328735974574341">⭐️ Fashion Vertical Content Operation Project Intern (Lemon8 US) - 2027 Start</a></div></td>
   <td>2026-11-27</td>
 </tr>
   <tr>
@@ -3693,13 +3700,6 @@ Showing the 524 most recent of 39,709 roles tracked across 296 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/mindrobotics"><img src="https://cdn.brandfetch.io/mech-mind.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mind Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Mind Robotics</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/mindrobotics/e2278425-01cf-41fb-a96e-d7a72371acf6">⭐️ Supply Chain Intern, Mechanical & Actuators</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=ocadogroup"><img src="https://cdn.brandfetch.io/ocado.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Ocado" height="20" style="vertical-align:middle; margin-right:6px;"> Ocado</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ocadogroup.com/jobs/details?gh_jid=5042387101&amp;gh_jid=5042387101">Tax Manager</a></div></td>
   <td>2026-11-24</td>
 </tr>
 
