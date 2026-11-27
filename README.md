@@ -12,7 +12,7 @@
 <p>
   <a href="https://ph1so.github.io/phlux2.0/"><img src="https://img.shields.io/badge/browse-internships-1f5fff?style=flat-square" alt="Browse internships"></a>
   <a href="https://github.com/Ph1so/phlux2.0/actions/workflows/job-scraper.yml"><img src="https://img.shields.io/github/actions/workflow/status/Ph1so/phlux2.0/job-scraper.yml?branch=main&style=flat-square&label=scraper" alt="Scraper status"></a>
-  <img src="https://img.shields.io/badge/roles_tracked-39.5k-475467?style=flat-square" alt="39,470 roles tracked">
+  <img src="https://img.shields.io/badge/roles_tracked-39.7k-475467?style=flat-square" alt="39,708 roles tracked">
 </p>
 
 <p><a href="https://ph1so.github.io/phlux2.0/"><b>Website</b></a> &nbsp;·&nbsp; <a href="listings/README.md"><b>All listings</b></a></p>
@@ -21,7 +21,7 @@
 
 ## Latest roles
 
-Showing the 570 most recent of 39,470 roles tracked across 295 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
+Showing the 524 most recent of 39,708 roles tracked across 296 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
 
 
 <table>
@@ -88,6 +88,1812 @@ Showing the 570 most recent of 39,470 roles tracked across 295 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.boeing.com/search-jobs?acm=9287"><img src="https://cdn.brandfetch.io/boeing.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boeing" height="20" style="vertical-align:middle; margin-right:6px;"> Boeing</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.boeing.com/job/gdansk/intern-software-engineer/185/103871599200">⭐️ Intern Software Engineer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-BusinessSystems-Analyst-Accounts-Payable-Systems-MA-02420/1444912200/">Business/Systems Analyst-Accounts Payable Systems</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Department-Business-Manager-MA-02420/1444569600/">Department Business Manager</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Space-Tactics-and-Test-%28Group-09-93%29-MA-02420/1444442100/">⭐️ Summer Research Program Intern 2027, Space Tactics and Test (Group 09-93)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Tactical-Satellite-Communications-%28Group-06-64%29-MA-02420/1444691700/">⭐️ Summer Research Program Intern 2027, Tactical Satellite Communications (Group 06-64)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Electric-Grid-Communications-Security%2C-Energy-Systems-%28Gr-47%29-MA-02420/1444706900/">⭐️ Summer Research Program Intern 2027, Electric Grid Communications Security, Energy Systems (Gr 47)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Homeland-Sensors-and-Analytics-%28Group-45%29-MA-02420/1444705100/">⭐️ Summer Research Program Intern 2027, Homeland Sensors and Analytics (Group 45)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-CI-Cybersecurity%2C-Energy-Systems-%28Group-47%29-MA-02420/1444705900/">⭐️ Summer Research Program Intern 2027, CI Cybersecurity, Energy Systems (Group 47)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Enterprise-Collaboration-&amp;-Web-Services-Co-op-%28Fall-2026%29-Group-11-80-MA-02420/1425057500/">⭐️ Enterprise Collaboration & Web Services Co-op (Fall 2026) - Group 11-80</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Cyber-Security-Co-op-%28WinterSpring-2027%29-Group-11-10-MA-02420/1425058400/">⭐️ Cyber Security Co-op (Winter/Spring 2027) - Group 11-10</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Laser-Communications-Intern-%28Summer-2027%29-Group-66-MA-02420/1425055300/">⭐️ Laser Communications Intern (Summer 2027) - Group 66</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Associate-Staff-%28Space-Tactics-and-Test-Group%29-MA-02420/1425100200/">Associate Staff (Space Tactics and Test Group)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Strategic-&amp;-Long-Range-Communications-Intern-%28Summer-2027%29-Group-61-MA-02420/1435095600/">⭐️ Strategic & Long-Range Communications Intern (Summer 2027) - Group 61</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Optical-Engineering-Intern-Optical-Specialist-%28Summer-2027%29-Group-78-MA-02420/1435096800/">⭐️ Optical Engineering Intern - Optical Specialist (Summer 2027) - Group 78</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Inspector-B-%28Mechanical%29-MA-02420/1411530400/">Inspector B (Mechanical)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Technician-A-%28E-M%29-MA-02420/1409232500/">Technician A (E-M)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Mechanical-Engineering-%28Group-07-71%29-MA-02420/1434255400/">⭐️ Summer Research Program Intern 2027, Mechanical Engineering (Group 07-71)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Microelectronics-Intern-2027%2C-Advanced-Imager-Technology-%28Group-08-87%29-MA-02420/1434255100/">⭐️ Summer Research Program Microelectronics Intern 2027, Advanced Imager Technology (Group 08-87)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Air-Traffic-Control-Systems-%28Group-04-43%29-MA-02420/1434254800/">⭐️ Summer Research Program Intern 2027, Air Traffic Control Systems (Group 04-43)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Mechanical-Engineering-Co-Op-%28WinterSpring-2027%29-Group-07-71-MA-02420/1434254300/">⭐️ Mechanical Engineering Co-Op (Winter/Spring 2027) - Group 07-71</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Homeland-Protection-Systems-Student-Technical-Assistant-%28Fall-2026%29-Group-04-46-MA-02420/1434252400/">⭐️ Homeland Protection Systems Student Technical Assistant (Fall 2026) - Group 04-46</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Systems-&amp;-Architectures-%28Group-03-31%29-MA-02420/1434252800/">⭐️ Summer Research Program Intern 2027, Systems & Architectures (Group 03-31)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Senior-Subcontracts-Administrator-MA-02420/1434581400/">Senior Subcontracts Administrator</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Advanced-Undersea-Systems-and-Technology-%28Group-03-37%29-MA-02420/1434253400/">⭐️ Summer Research Program Intern 2027, Advanced Undersea Systems and Technology (Group 03-37)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Ft-Meade-Cyber-Defense-Specialist-MD-20755/1288813200/">Cyber Defense Specialist</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Assistant-Staff-12-Electronics%2C-Circuits-&amp;-Test-Engineer-MA-02420/1453686000/">Assistant Staff 1/2 - Electronics, Circuits & Test Engineer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-91Associate-Staff-34-%28GNC%29-MA-02420/1453852100/">91:Associate Staff 3/4 (GNC)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Engineering-Design-Team-Leader-MA-02420/1453876600/">Engineering Design Team Leader</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Associate-Staff-34-MA-02420/1453832200/">Associate Staff 3/4</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Integrated-RF-&amp;-Photonics-%28Group-08-85%29-MA-02420/1443775500/">⭐️ Summer Research Program Intern 2027, Integrated RF & Photonics (Group 08-85)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Administrative-Assistant-V-MA-02420/1453509900/">Administrative Assistant V</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Industrial-Security-Risk-Specialist-MA-02420/1453469300/">Industrial Security Risk Specialist</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Collateral-Information-System-Security-Officer-MA-02420/1453464700/">Collateral Information System Security Officer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Optical-Fabrication-Specialist-MA-02420/1453473300/">Optical Fabrication Specialist</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Assistant-Business-Manager-MA-02420/1453474900/">Assistant Business Manager</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Assistant-Staff-12-Experimentalist-MA-02420/1453267000/">Assistant Staff 1/2 - Experimentalist</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Group-Administrative-Assistant-%28Software-and-Electronics-Engineering-Group%29-MA-02420/1443429600/">Group Administrative Assistant (Software and Electronics Engineering Group)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Information-System-Security-Officer-MA-02420/1414255100/">Information System Security Officer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Assistant-Staff-12-Signal-Processing-&amp;-Software-Engineer-MA-02420/1453264600/">Assistant Staff 1/2 - Signal Processing & Software Engineer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Technical-Staff-%28Level-5%29-MA-02420/1453094000/">Technical Staff (Level 5)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Financial-Manager-FPS-MA-02420/1413787000/">Financial Manager - FPS</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Lab-Manager-MA-02420/1424084300/">Lab Manager</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Senior-Electronics-Engineer-Technical-Staff-MA-02420/1370697200/">Senior Electronics Engineer-Technical Staff</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Cyber-Operations-and-Analysis-Technology-%28Group-05-57%29-MA-02420/1443329200/">⭐️ Summer Research Program Intern 2027, Cyber Operations and Analysis Technology (Group 05-57)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Systems-Administrator-MA-02420/1423383200/">Systems Administrator</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Optical-Engineering-Intern-Optical-Engineer-%28Summer-2027%29-Group-78-MA-02420/1433573800/">⭐️ Optical Engineering Intern - Optical Engineer (Summer 2027) - Group 78</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Special-Security-Representative-MA-02420/1433582300/">Special Security Representative</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Interceptor-and-Sensor-Technology-%28Group-03-38%29-MA-02420/1433606100/">⭐️ Summer Research Program Intern 2027, Interceptor and Sensor Technology (Group 03-38)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Advanced-Electro-Optical-Systems-%28Group-09-99%29-MA-02420/1442772900/">⭐️ Summer Research Program Intern 2027, Advanced Electro-Optical Systems (Group 09-99)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-AI-and-Geospatial-Analysis-for-Natural-Hazards-%2804-47%29-MA-02420/1442894100/">⭐️ Summer Research Program Intern 2027, AI and Geospatial Analysis for Natural Hazards (04-47)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Information-System-Security-Officer-MA-02420/1442633000/">Information System Security Officer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Systems-Engineer-Identity-Management-Systems-MA-02420/1442755100/">Systems Engineer-Identity Management Systems</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-BusinessSystems-Analyst-Co-Op%2C-Compliance-&amp;-Data-%28January-June-2027%29-Group-16-40-MA-02420/1442888600/">⭐️ Business/Systems Analyst Co-Op, Compliance & Data (January - June 2027) - Group 16-40</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Rapid-Prototyping-AeroMech-Co-Op-Group-77-MA-02420/1423005300/">⭐️ Rapid Prototyping Aero/Mech Co-Op - Group 77</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-G94-Technician-A-%28Electronic%29-MA-02420/1432873200/">G94 Technician A (Electronic)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Systems-Analyst-Associate-Staff-MA-02420/1452551800/">Systems Analyst-Associate Staff</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Medical-Imaging-AI-MA-02420/1452552800/">Medical Imaging AI</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Embedded-and-AI-Systems-%28Group-10-02%29-MA-02420/1452673700/">⭐️ Summer Research Program Intern 2027, Embedded and AI Systems (Group 10-02)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Full-Staff-Cybersecurity-Research-Scientist-Engineer-Secure-Systems-MA-02420/1452795600/">Full Staff: Cybersecurity Research Scientist / Engineer: Secure Systems</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Associate-Staff-Cybersecurity-Researcher-Engineer-Secure-Systems-MA-02420/1452795800/">Associate Staff: Cybersecurity Researcher / Engineer: Secure Systems</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Assistant-Business-Manager-MA-02420/1452562400/">Assistant Business Manager</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Tactical-Satellite-Communications-Co-Op%2C-Spring-2027-%28Group-06-64%29-MA-02420/1452675600/">⭐️ Tactical Satellite Communications Co-Op, Spring 2027 (Group 06-64)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Staff-Scientist-Systems-Analyst-MA-02420/1452759700/">Staff Scientist - Systems Analyst</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Assistant-Staff-12-Facilities-and-Operations-Engineer-MA-02420/1452772600/">Assistant Staff 1/2 - Facilities and Operations Engineer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Retirement-&amp;-Benefits-Representative-MA-02420/1452749200/">Retirement & Benefits Representative</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Data-Analyst-MA-02420/1452537000/">Data Analyst</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Senior-IT-Systems-Engineer-MA-02420/1442450300/">Senior IT Systems Engineer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Structural-&amp;-Thermal-Fluids-Engineering-%28Group-Group-07-74%29-MA-02420/1442417400/">⭐️ Summer Research Program Intern 2027, Structural & Thermal-Fluids Engineering (Group Group 07-74)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Biological-and-Chemical-Technologies-%28Group-02-23%29-MA-02420/1442387900/">⭐️ Summer Research Program Intern 2027, Biological and Chemical Technologies (Group 02-23)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Assistant-Business-Manager-MA-02420/1422336300/">Assistant Business Manager</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Technical-Staff-56-Thermal-Fluids-and-Space-Thermal-Engineer-MA-02420/1452091800/">Technical Staff 5/6 - Thermal-Fluids and Space Thermal Engineer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Prototype-Engineer-MA-02420/1452128300/">Prototype Engineer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Technical-Staff-56-Hypersonic-and-multi-physics-simulation-MA-02420/1452092200/">Technical Staff 5/6 - Hypersonic and multi-physics simulation</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Associate-Staff-34-Systems-Engineer-MA-02420/1452092800/">Associate Staff 3/4 - Systems Engineer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Technical-Staff-56-Systems-Engineer-MA-02420/1452093000/">Technical Staff 5/6 - Systems Engineer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Software-Developer-MA-02420/1452130100/">Software Developer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Satellite-Communication-Systems-Technical-Staff-MA-02420/1452263100/">Satellite Communication Systems-Technical Staff</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Assistant-Staff-12-Thermal-Engineer-MA-02420/1452091600/">Assistant Staff 1/2 - Thermal Engineer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Tactical-Autonomy-Co-Op-%28Spring-2027%29-Group-10-03-MA-02420/1452276600/">⭐️ Tactical Autonomy Co-Op (Spring 2027) - Group 10-03</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Software-Architect-MA-02420/1452408800/">Software Architect</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-AIML-Research-Scientist-MA-02420/1452306800/">AI/ML Research Scientist</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Technical-Staff-Space-Electronics-Lead-Engineer-MA-02420/1431810500/">Technical Staff - Space Electronics Lead Engineer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Laser-Technology-&amp;-Applications-%28Group-08-82%29-MA-02420/1441840000/">⭐️ Summer Research Program Intern 2027, Laser Technology & Applications (Group 08-82)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Software-Engineer-%28AIML%29-Group-04-47-MA-02420/1441840900/">⭐️ Summer Research Program Intern 2027, Software Engineer (AI/ML) - Group 04-47</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Human-Health-and-Performance-Systems-Co-op-%28January-August-2027%29-Group-02-24-MA-02420/1441842300/">⭐️ Human Health and Performance Systems Co-op (January - August 2027) - Group 02-24</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Associate-Staff-34-Radar-Engineer-%28Space-Surveillance-Systems%29-MA-02420/1451871100/">Associate Staff 3/4 - Radar Engineer (Space Surveillance Systems)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Structural-&amp;-Thermal-Fluids-Engineering-Co-Op-%28SpringSummer-2027%29-Group-07-74-MA-02420/1451968600/">⭐️ Structural & Thermal-Fluids Engineering Co-Op (Spring/Summer 2027) - Group 07-74</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Communications-&amp;-Networks-Systems-Development-Engineer-Associate-Staff-MA-02420/1451785200/">Communications & Networks Systems Development Engineer-Associate Staff</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Communications-&amp;-Networks-Systems-Analysis-and-Design-Engineer-Technical-Staff-MA-02420/1451786600/">Communications & Networks Systems Analysis and Design Engineer-Technical Staff</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Autonomy-Engineer-Technical-Staff-MA-02420/1451770000/">Autonomy Engineer-Technical Staff</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Technical-Staff-56-%28Advanced-Electro-Optical-Systems-Group%29-MA-02420/1451694800/">Technical Staff 5/6 (Advanced Electro-Optical Systems Group)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Associate-Staff-34-%28Advanced-Electro-Optical-Systems-Group%29-MA-02420/1451695200/">Associate Staff 3/4 (Advanced Electro-Optical Systems Group)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Radar-Signal-Processing-Engineer-Associate-Staff-MA-02420/1451776900/">Radar Signal Processing Engineer-Associate Staff</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Radar-Systems-Analyst-Associate-Staff-MA-02420/1451775500/">Radar Systems Analyst-Associate Staff</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Assistant-Staff-12-%28-Advanced-Electro-Optical-Systems%29-MA-02420/1451788400/">Assistant Staff 1/2 ( Advanced Electro-Optical Systems)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Superconducting-Qubit-Process-Integration-Engineer-MA-02420/1451995700/">Superconducting Qubit Process Integration Engineer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-General-Aircraft-Mechanic-MA-02420/1452007600/">General Aircraft Mechanic</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Quantum-Applications-Scientist-MA-02420/1451987400/">Quantum Applications Scientist</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Physics-and-Defense-Technology-Analyst-Technical-Staff-MA-02420/1451779700/">Physics and Defense Technology Analyst-Technical Staff</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Communications-and-Networks-Software-Development-Engineer-Assistant-Staff-MA-02420/1451789000/">Communications and Networks Software Development Engineer-Assistant Staff</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-GNC-and-Autonomy-Engineer-Associate-Staff-MA-02420/1451772700/">GNC and Autonomy Engineer-Associate Staff</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Physics-and-Technology-Analyst-Technical-Staff-MA-02420/1451766300/">Physics and Technology Analyst-Technical Staff</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Systems-Analyst-MA-02420/1451805300/">Systems Analyst</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Systems-Analyst-Technical-Staff-MA-02420/1451768400/">Systems Analyst-Technical Staff</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Technical-Staff-56-Radar-Systems-Engineer-MA-02420/1451873400/">Technical Staff 5/6 - Radar Systems Engineer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Electro-Optical-Infrared-%28EOIR%29-Imaging-MA-02420/1451806000/">Electro-Optical / Infrared (EO/IR) Imaging</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Physics-and-Technology-Analyst-Associate-Staff-MA-02420/1451765100/">Physics and Technology Analyst-Associate Staff</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Senior-Subcontracts-Administrator-MA-02420/1451763000/">Senior Subcontracts Administrator</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Westford-Assistant-Staff-12-Programming-%28LSSC%29-MA-01886/1451869400/">Assistant Staff 1/2 - Programming (LSSC)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Space-Systems-Analysis-and-Test-%28Group-09-95%29-MA-02420/1441316600/">⭐️ Summer Research Program Intern 2027, Space Systems Analysis and Test (Group 09-95)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Advanced-Sensor-Systems-and-Test-Beds-%28Group-03-33%29-MA-02420/1441287700/">⭐️ Summer Research Program Intern 2027, Advanced Sensor Systems and Test Beds (Group 03-33)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-HVAC-Technician-MA-02420/1394325400/">HVAC Technician</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-G98-Assistant-Staff-Quantum-Science-and-Engineering-1-MA-02420/1403237900/">G98: Assistant Staff Quantum Science and Engineering 1</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Westford-Technician-A-%28Elec%29-MA-01886/1394389200/">Technician A (Elec)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Systems-Administrator-MA-02420/1376213600/">Systems Administrator</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Software-Architect-MA-02420/1451578900/">Software Architect</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Electrical-Engineer-MA-02420/1451608300/">Electrical Engineer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Senior-BusinessSystems-Analyst-MA-02420/1451570300/">Senior Business/Systems Analyst</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Associate-Staff-34-Electronics%2C-Circuits-&amp;-Test-Engineer-MA-02420/1451381200/">Associate Staff 3/4 - Electronics, Circuits & Test Engineer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Systems-Administrator-%28IT-IC2%2C-Tactical-Space-Systems%29-MA-02420/1451399900/">Systems Administrator (IT-IC2, Tactical Space Systems)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Rapid-Prototyping-Electrical-Engineer-Co-Op-%28SpringSummer%29-Group-07-77-MA-02420/1451381000/">⭐️ Rapid Prototyping Electrical Engineer Co-Op (Spring/Summer) - Group 07-77</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-AI-ResearcherPrototyping-Engineer-MA-02420/1451559500/">AI Researcher/Prototyping Engineer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Technical-Staff-MA-02420/1421897400/">Technical Staff</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-VTC-%28video-teleconferencing%29-Specialist-MA-02420/1450913500/">VTC (video teleconferencing) Specialist</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Software-Engineer-MA-02420/1451122700/">Software Engineer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Business-Administrator-MA-02420/1450953400/">Business Administrator</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Superconducting-Materials-Scientist-MA-02420/1450902400/">Superconducting Materials Scientist</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-RF-Engineer-Associate-Staff-MA-02420/1451112000/">RF Engineer-Associate Staff</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-AI-and-Data-Science-Solution-Engineer-MA-02420/1451063900/">AI and Data Science Solution Engineer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Software-Engineer-%28AI-Data-Engineering%29-MA-02420/1451183700/">Software Engineer (AI / Data Engineering)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Cyber-System-Exploitation-Co-Op-%28Jan-June-2027%29-Group-05-59-MA-02420/1431432100/">⭐️ Cyber System Exploitation Co-Op (Jan - June 2027) - Group 05-59</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Cyber-System-Exploitation-Co-Op-RE-%28Jan-June-2027%29-Group-05-59-MA-02420/1431433100/">⭐️ Cyber System Exploitation Co-Op RE (Jan - June 2027) - Group 05-59</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Cyber-System-Assessments-Intern%2C-Summer-Research-Program-2027-Group-05-59-MA-02420/1431430900/">⭐️ Cyber System Assessments Intern, Summer Research Program 2027 - Group 05-59</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Printed%C2%A0Circuit%C2%A0Board-Designer-Co-Op-%286-month-term%29-Group-07-76-MA-02420/1431440800/">⭐️ Printed Circuit Board Designer Co-Op (6-month term) - Group 07-76</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Contracting-and-Logistics-Department-Co-Op-%28Jan-June-2027%29-Group-16-01-MA-02420/1431441500/">⭐️ Contracting and Logistics Department Co-Op (Jan - June 2027) - Group 16-01</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Assistant-Staff-RF-Systems-and-Electromagnetic-Spectrum-Operations-MA-02420/1431322600/">Assistant Staff - RF Systems and Electromagnetic Spectrum Operations</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Technical-Staff-RF-System-Design-and-Electromagnetic-Spectrum-Operations-MA-02420/1431321800/">Technical Staff - RF System Design and Electromagnetic Spectrum Operations</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Associate-Staff-RF-System-Design-and-Electromagnetic-Spectrum-Operations-MA-02420/1431322000/">Associate Staff - RF System Design and Electromagnetic Spectrum Operations</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Technical-Staff-Radar-Systems-Engineer-MA-02420/1431189100/">Technical Staff-Radar Systems Engineer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Assistant-Staff-%28Space-Tactics-and-Test%29-MA-02420/1431200800/">Assistant Staff (Space Tactics and Test)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Engineering-Specialist-%28I%29-MA-02420/1441022600/">Engineering Specialist (I)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Associate-Staff-Space-Systems-Engineer-MA-02420/1431319700/">Associate Staff - Space Systems Engineer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Associate-Staff-Space-Systems-Engineer-MA-02420/1431325200/">Associate Staff - Space Systems Engineer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Optical-&amp;-Quantum-Communications-Intern-%28Summer-2027%29-Group-67-MA-02420/1421248300/">⭐️ Optical & Quantum Communications Intern (Summer 2027) - Group 67</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Technical-Staff-Embedded-Systems-Architect-MA-02420/1431322800/">Technical Staff - Embedded Systems Architect</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Technical-Staff-Space-Systems-Engineer-MA-02420/1431323500/">Technical Staff - Space Systems Engineer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-AI-Technology-and-Systems-Co-Op-%28WinterSpring-2027%29-Group-05-52-MA-02420/1440734200/">⭐️ AI Technology and Systems Co-Op (Winter/Spring 2027) - Group 05-52</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Undergraduate-Intern-2027%2C-Integrated-Missile-Defense-Technology-%28-Gr-03-36%29-MA-02420/1440808500/">⭐️ Summer Research Program Undergraduate Intern 2027, Integrated Missile Defense Technology ( Gr 03-36)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Associate-Staff-Signal-Processing-&amp;-Software-Engineer-MA-02420/1431321000/">Associate Staff - Signal Processing & Software Engineer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Technical-Staff-Signal-Processing-&amp;-Software-Engineer-MA-02420/1431320000/">Technical Staff - Signal Processing & Software Engineer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Cyber-Resilience-and-Operations-Assistant-Researcher-MA-02420/1450676600/">Cyber Resilience and Operations Assistant Researcher</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-IT-CO-OP%2C-Advanced-Sensors-and-Techniques-%28January-June-2027%29-Group-09-92-MA-02420/1450677600/">⭐️ IT CO-OP, Advanced Sensors and Techniques (January - June 2027) - Group 09-92</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Associate-Staff-3-Quantum-Science-and-Engineering-MA-02420/1450423000/">Associate Staff 3: Quantum Science and Engineering</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Prototype-Engineer-MA-02420/1450731800/">Prototype Engineer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Integrated-Circuit-Designer-MA-02420/1450582800/">Integrated Circuit Designer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Biomedical-Image-Processing-&amp;-Machine-Learning-Co-Op%2C-%28Jan-Aug-2027%29-Group-02-24-MA-02420/1450626100/">⭐️ Biomedical Image Processing & Machine Learning Co-Op, (Jan - Aug 2027) - Group 02-24</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Technical-Staff-56-Lead-Systems-Engineer-Advanced-Space-Technologies-MA-02420/1450578100/">Technical Staff 5/6 - Lead Systems Engineer - Advanced Space Technologies</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Energy-Manager-MA-02420/1450514900/">Energy Manager</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Cyber-Resilience-and-Operations-Researcher-Technical-Staff-MA-02420/1450655100/">Cyber Resilience and Operations Researcher: Technical Staff</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Applied-AICyber-Researcher-Technical-Staff-MA-02420/1450663800/">Applied AI/Cyber Researcher: Technical Staff</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Operational-Technology-Cyber-Resilience-Researcher-Technical-Staff-MA-02420/1450672500/">Operational Technology Cyber Resilience Researcher: Technical Staff</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Cyber-Resilience-and-Operations-Associate-Researcher-MA-02420/1450695200/">Cyber Resilience and Operations Associate Researcher</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Sr-Technician-%28E-M%29-MA-02420/1440028600/">Sr Technician (E-M)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Quantum-Enabled-Computation-%28Group-08-89%29-MA-02420/1440162000/">⭐️ Summer Research Program Intern 2027, Quantum-Enabled Computation (Group 08-89)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Embedded-Systems-Specialist-MA-02420/1430224500/">Embedded Systems Specialist</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Cyber-Security-Analyst-MA-02420/1430096100/">Cyber Security Analyst</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Westford-Summer-Research-Program-Intern-2027%2C-Lincoln-Space-Surveillance-Complex-%28Group-09-92%29-MA-01886/1440116800/">⭐️ Summer Research Program Intern 2027, Lincoln Space Surveillance Complex (Group 09-92)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Associate-Staff-34-Orbital-Dynamics-MA-02420/1450418300/">Associate Staff 3/4 - Orbital Dynamics</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Systems-Analysis-Technical-Staff-56-MA-02420/1450419300/">Systems Analysis: Technical Staff 5/6</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Electrical-Engineer-%28Associate-Staff-34%29-MA-02420/1450419000/">Electrical Engineer (Associate Staff 3/4)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Project-Coordinator-SPMO-MA-02420/1450252900/">Project Coordinator - SPMO</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Information-Systems-Security-Manager-MA-02420/1450248400/">Information Systems Security Manager</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Data-Scientist-Systems-Analyst-MA-02420/1450392900/">Data Scientist / Systems Analyst</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Group-Administrative-Assistant-%28Space-Tactics-and-Test-Group%29-MA-02420/1450416700/">Group Administrative Assistant (Space Tactics and Test Group)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-IT-Risk-Assessment-Auditor-Special-Programs-MA-02420/1450247000/">IT Risk Assessment Auditor -Special Programs</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Information-System-Security-Officer-MA-02420/1450250800/">Information System Security Officer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Microfabrication-Engineering-Co-Op%2C-August-2027-December-2027-%28Group-08-84%29-MA-02420/1450306500/">⭐️ Microfabrication Engineering Co-Op, August 2027 - December 2027 (Group 08-84)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Information-System-Security-Engineer-MA-02420/1450251800/">Information System Security Engineer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Microfabrication-Industrial-Engineering-Co-Op%2C-June-2027-Dec-2027-%28Group-08-84%29-MA-02420/1450305200/">⭐️ Microfabrication Industrial Engineering Co-Op, June 2027 - Dec 2027 (Group 08-84)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Tactical-Autonomy-%28Group-10-03%29-MA-02420/1439585400/">⭐️ Summer Research Program Intern 2027, Tactical Autonomy (Group 10-03)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-91-Technical-Staff-Space-Systems-Engineering%2C-Integration%2C-and-Flight-Test-Operations-MA-02420/1439772400/">91: Technical Staff - Space Systems Engineering, Integration, and Flight Test Operations</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Systems-&amp;-Analysis-%28Group-10-09%29-MA-02420/1439633800/">⭐️ Summer Research Program Intern 2027, Systems & Analysis (Group 10-09)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-RF%2C-Radar%2C-and-Signal-Processing-%28Group-10-07%29-MA-02420/1439640600/">⭐️ Summer Research Program Intern 2027, - RF, Radar, and Signal Processing (Group 10-07)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Graduate-Intern-2027%2C-Integrated-Missile-Defense-Technology-%28Group-03-36%29-MA-02420/1439751400/">⭐️ Summer Research Program Graduate Intern 2027, Integrated Missile Defense Technology (Group 03-36)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Machinist-A-MA-02420/1449475200/">Machinist A</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Student-Technical-Assistant%2C-Computational-ScientistEngineer-%28Supercomputing-Center-Group-05-99%29-MA-02420/1449397400/">⭐️ Student Technical Assistant, Computational Scientist/Engineer (Supercomputing Center - Group 05-99)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-UAVSensor-Development%2C-Prototyping%2C-and-Testing-Assistant-Staff-MA-02420/1449336400/">UAV/Sensor Development, Prototyping, and Testing-Assistant Staff</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-2027%2C-Cyber-Physical-Systems-%28Group-05-51%29-MA-02420/1449398400/">Summer Research Program 2027, Cyber-Physical Systems (Group 05-51)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-UAVSensor-Development%2C-Prototyping%2C-and-Testing-Associate-Staff-MA-02420/1449338400/">UAV/Sensor Development, Prototyping, and Testing-Associate Staff</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-UAVSensor-Development%2C-Prototyping%2C-and-Testing-Technical-Staff-MA-02420/1449334000/">UAV/Sensor Development, Prototyping, and Testing-Technical Staff</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Full-Spectrum-Cyber-Capability-and-Operations-Expert-MA-02420/1449559700/">Full Spectrum Cyber Capability and Operations Expert</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Systems-Administrator-IT-IC3%2C-Group-95-%28Top-Secret%29-MA-02420/1409945300/">Systems Administrator-IT-IC3, Group 95 (Top Secret)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Cyber-Security-Manager-Special-Programs-MA-02420/1448990700/">Cyber Security Manager Special Programs</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Systems-Analyst-Technical-Staff-MA-02420/1449015800/">Systems Analyst - Technical Staff</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Systems-Analyst-Associate-Staff-MA-02420/1449007000/">Systems Analyst - Associate Staff</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Cyber-Systems-Exploitation-Researcher-MA-02420/1449120300/">Cyber Systems Exploitation Researcher</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Associate-Staff-34-Engineering-MA-02420/1448914400/">Associate Staff 3/4 - Engineering</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Real-Time-CC%2B%2B-Software-Engineer-MA-02420/1448931100/">Real-Time C/C++ Software Engineer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Systems-Analyst-Assistant-Staff-MA-02420/1448989900/">Systems Analyst - Assistant Staff</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Staff-Scientist-AI-ML-Developer-MA-02420/1448929600/">Staff Scientist - AI / ML Developer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Trapped-ion-Experimentalist-%28Assistant-Staff-12%29-MA-02420/1449003300/">Trapped-ion Experimentalist (Assistant Staff 1/2)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Trapped-ion-Experimental-Physicist-%28Technical-Staff-56%29-MA-02420/1449003700/">Trapped-ion Experimental Physicist (Technical Staff 5/6)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Ft-Meade-Cyber-Systems-Exploitation-Researcher-%28-Fort-Meade%2C-MD%29-MD-20755/1449113100/">Cyber Systems Exploitation Researcher ( Fort Meade, MD)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Ft-Meade-Integrated-Cyber-Exploitation-Researcher-%28Fort-Meade%2C-MD%29-MD-20755/1449135900/">Integrated Cyber Exploitation Researcher (Fort Meade, MD)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Cyber-Systems-Exploitation-Researcher-MA-02420/1449100000/">Cyber Systems Exploitation Researcher</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Cyber-Systems-Exploitation-Researcher-MA-02420/1449104100/">Cyber Systems Exploitation Researcher</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-PCB-Process-Engineer-Specialist-II-MA-02420/1409174900/">PCB Process Engineer - Specialist II</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Associate-Staff-Straylight-Analysis-%28Optical-Engineering-Group%29-MA-02420/1409269700/">Associate Staff - Straylight Analysis (Optical Engineering Group)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-AI-&amp;-Machine-Learning-Researcher-%28Group-05-52%29-MA-02420/1438250000/">⭐️ Summer Research Program Intern 2027, AI & Machine Learning Researcher (Group 05-52)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Communications-Networks-&amp;-Analysis-%28Group-06-65%29-MA-02420/1438265400/">⭐️ Summer Research Program Intern 2027, Communications Networks & Analysis (Group 06-65)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Project-Machinist-MA-02420/1418356100/">Project Machinist</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Fabrication-Engineering-Integration-%28Group-07-72%29-MA-02420/1448734700/">⭐️ Summer Research Program Intern 2027, Fabrication Engineering Integration (Group 07-72)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Lasercom-R&amp;D-Engineer-Assistant-Staff-MA-02420/1448647800/">Lasercom R&D Engineer-Assistant Staff</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Advanced-Concepts-and-Technologies-%28Group-03-39%29-MA-02420/1448622600/">⭐️ Summer Research Program Intern 2027, Advanced Concepts and Technologies (Group 03-39)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Human-Health-and-Performance-Systems-Co-op-%28June-December-2027%29-Group-02-24-MA-02420/1448624200/">⭐️ Human Health and Performance Systems Co-op (June - December 2027) - Group 02-24</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Image-Sensor-Characterization-Engineer-MA-02420/1448658900/">Image Sensor Characterization Engineer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Fabrication-Engineering%2C-Facilities-and-Logistics-%28Group-07-72%29-MA-02420/1448735400/">⭐️ Summer Research Program Intern 2027, Fabrication Engineering, Facilities and Logistics (Group 07-72)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Fabrication-Engineering-Digital-Architecture-%28Group-07-72%29-MA-02420/1448736300/">⭐️ Summer Research Program Intern 2027, Fabrication Engineering - Digital Architecture (Group 07-72)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Electrical-Physics-Engineer-Advanced-Imaging-MA-02420/1448657700/">Electrical / Physics Engineer Advanced Imaging</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-RF-Communications-System-Analyst-Technical-Staff-MA-02420/1448639700/">RF Communications System Analyst-Technical Staff</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-NC3-Systems-Analyst-Technical-Staff-MA-02420/1448644300/">NC3 Systems Analyst-Technical Staff</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-PointingAcquisitionTracking-and-Controls-Engineer-Technical-Staff-MA-02420/1448651100/">Pointing/Acquisition/Tracking and Controls Engineer-Technical Staff</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-ISR-Systems-&amp;-Architectures-%28Group-10-01%29-MA-02420/1437705000/">⭐️ Summer Research Program Intern 2027, ISR Systems & Architectures (Group 10-01)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Airborne-Radar-Systems-and-Techniques-%28Group-10-05%29-MA-02420/1437798100/">⭐️ Summer Research Program Intern 2027, Airborne Radar Systems and Techniques (Group 10-05)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Radar-Systems-Engineer-MA-02420/1427595100/">Radar Systems Engineer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Inspector-A-%28Mech%29-MA-02420/1437940900/">Inspector A (Mech)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Energy-Systems-%28Group-04-47%29-MA-02420/1437696200/">⭐️ Summer Research Program Intern 2027, Energy Systems (Group 04-47)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-2027%2C-Graphic-Artist-Intern%2C-ISR-Systems-&amp;-Architectures-%28Group-10-01%29-MA-02420/1437796400/">⭐️ Summer Research Program 2027, Graphic Artist Intern, ISR Systems & Architectures (Group 10-01)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-RF-Communications-System-EngineerAnalyst-Associate-Staff-MA-02420/1448047700/">RF Communications System Engineer/Analyst-Associate Staff</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Robotics-and-Autonomy-Assistant-Staff-MA-02420/1448148800/">Robotics and Autonomy-Assistant Staff</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Systems-Analyst-MA-02420/1448251200/">Systems Analyst</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Administrative-Assistant-MA-02420/1448269000/">Administrative Assistant</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Machine-Learning-Developer-MA-02420/1448348200/">Machine Learning Developer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-UXHuman-Factors-Engineer-MA-02420/1448357300/">UX/Human Factors Engineer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Senior-Subcontracts-Administrator-MA-02420/1448229100/">Senior Subcontracts Administrator</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Software-Developer-MA-02420/1448346200/">Software Developer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Westford-Technician-A-%28Electronics%29-MA-01886/1448187000/">Technician A (Electronics)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Applied-AIML-Researcher-MA-02420/1448035200/">Applied AI/ML Researcher</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Cyber%2C-RF%2C-Electronic-Engineer-MA-02420/1448035500/">Cyber, RF, Electronic Engineer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Advanced-Capabilities-and-Technologies-%28Group-09-91%29-MA-02420/1437408800/">⭐️ Summer Research Program Intern 2027, Advanced Capabilities and Technologies (Group 09-91)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Lead-Planner-Fabrication-Engineering-Group-%28Specialist-II%29-MA-02420/1437450000/">Lead Planner - Fabrication Engineering Group (Specialist II)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Secure-Resilient-Systems-and-Technology-%28Group-05-53%29-MA-02420/1437449200/">⭐️ Summer Research Program Intern 2027, Secure Resilient Systems and Technology (Group 05-53)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Tactical-Edge-Communications-%28Group-06-62%29-MA-02420/1437454900/">⭐️ Summer Research Program Intern 2027, Tactical Edge Communications (Group 06-62)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Active-Optical-Systems%2C-ITSystems-Administrator-Co-Op-%28Spring-2027%29-Group-10-06-MA-02420/1437456600/">⭐️ Active Optical Systems, IT/Systems Administrator Co-Op (Spring 2027) - Group 10-06</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Space-Surveillance-Systems-%28Group-09-92%29-MA-02420/1437460500/">⭐️ Summer Research Program Intern 2027, Space Surveillance Systems (Group 09-92)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Senior-Network-Engineer-MA-02420/1437180200/">Senior Network Engineer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Technician-A-%28E-M%29-MA-02420/1447840600/">Technician A (E-M)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-AI-and-Data-Science-Solution-Engineer-MA-02420/1447777400/">AI and Data Science Solution Engineer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Data-Analysts-MA-02420/1447775200/">Data Analysts</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Systems-Analyst-MA-02420/1447769400/">Systems Analyst</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-PhysicistSystems-Analyst-MA-02420/1447727700/">Physicist/Systems Analyst</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Senior-Machinist-MA-02420/1398999900/">Senior Machinist</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Machinist-A-MA-02420/1398969300/">Machinist A</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-IT-Co-Op%2C-Advanced-Sensor-Systems-and-Test-Beds-%28Dec-2026-June-2027%29-Group-03-33-MA-02420/1437026100/">⭐️ IT Co-Op, Advanced Sensor Systems and Test Beds (Dec 2026 - June 2027) - Group 03-33</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Subcontracts-Manager-MA-02420/1447167400/">Subcontracts Manager</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Tactical-Defense-Systems-%28Group-10-08%29-MA-02420/1446803200/">⭐️ Summer Research Program Intern 2027, Tactical Defense Systems (Group 10-08)</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Systems-Administrator-MA-02420/1426755700/">Systems Administrator</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Information-System-Security-Officer-MA-02420/1416164800/">Information System Security Officer</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc"><img src="https://www.google.com/s2/favicons?domain=www.ll.mit.edu&sz=128" alt="MIT Lincoln Laboratory" height="20" style="vertical-align:middle; margin-right:6px;"> MIT Lincoln Laboratory</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Graduate-Intern-2027%2C-Tactical-Defense-Systems-%28Group-10-08%29-MA-02420/1446454700/">⭐️ Summer Research Program Graduate Intern 2027, Tactical Defense Systems (Group 10-08)</a></div></td>
   <td>2026-11-27</td>
 </tr>
   <tr>
@@ -1895,2134 +3701,6 @@ Showing the 570 most recent of 39,470 roles tracked across 295 companies. ⭐️
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs-CO_R10261918">⭐️ 2027 Software Engineering Intern - Colorado Springs CO</a></div></td>
   <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site?workerSubType=a111b0a898f10129e4db58f2e700d97a"><img src="https://cdn.brandfetch.io/northropgrumman.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Northrop Grumman" height="20" style="vertical-align:middle; margin-right:6px;"> Northrop Grumman</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/XMLNAME-2027-Financial-Reporting-Intern---McLean-VA_R10261891">⭐️ 2027 Financial Reporting Intern - McLean VA</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site?workerSubType=a111b0a898f10129e4db58f2e700d97a"><img src="https://cdn.brandfetch.io/northropgrumman.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Northrop Grumman" height="20" style="vertical-align:middle; margin-right:6px;"> Northrop Grumman</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Cybersecurity-Intern---Linthicum-MD_R10261960">⭐️ 2027 Cybersecurity Intern - Linthicum MD</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site?workerSubType=a111b0a898f10129e4db58f2e700d97a"><img src="https://cdn.brandfetch.io/northropgrumman.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Northrop Grumman" height="20" style="vertical-align:middle; margin-right:6px;"> Northrop Grumman</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Computer-Systems-Intern---Linthicum-MD_R10261959">⭐️ 2027 Computer Systems Intern - Linthicum MD</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site?workerSubType=a111b0a898f10129e4db58f2e700d97a"><img src="https://cdn.brandfetch.io/northropgrumman.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Northrop Grumman" height="20" style="vertical-align:middle; margin-right:6px;"> Northrop Grumman</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Guidance-Navigation-and-Controls-Intern---Chandler-AZ_R10262021">⭐️ 2027 Guidance Navigation and Controls Intern - Chandler AZ</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site?workerSubType=a111b0a898f10129e4db58f2e700d97a"><img src="https://cdn.brandfetch.io/northropgrumman.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Northrop Grumman" height="20" style="vertical-align:middle; margin-right:6px;"> Northrop Grumman</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Electrical-Engineer-Intern---Gilbert-AZ_R10262079">⭐️ 2027 Electrical Engineer Intern - Gilbert AZ</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site?workerSubType=a111b0a898f10129e4db58f2e700d97a"><img src="https://cdn.brandfetch.io/northropgrumman.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Northrop Grumman" height="20" style="vertical-align:middle; margin-right:6px;"> Northrop Grumman</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Industrial-Engineering-Internship---Baltimore-MD_R10262103">⭐️ 2027 Industrial Engineering Internship - Baltimore MD</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site?workerSubType=a111b0a898f10129e4db58f2e700d97a"><img src="https://cdn.brandfetch.io/northropgrumman.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Northrop Grumman" height="20" style="vertical-align:middle; margin-right:6px;"> Northrop Grumman</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Human-Resources-Intern---Linthicum-MD_R10262072">⭐️ 2027 Human Resources Intern - Linthicum MD</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site?workerSubType=a111b0a898f10129e4db58f2e700d97a"><img src="https://cdn.brandfetch.io/northropgrumman.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Northrop Grumman" height="20" style="vertical-align:middle; margin-right:6px;"> Northrop Grumman</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Human-Resource-Intern---Rolling-Meadows-IL_R10262063">⭐️ 2027 Human Resource Intern - Rolling Meadows IL</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site?workerSubType=a111b0a898f10129e4db58f2e700d97a"><img src="https://cdn.brandfetch.io/northropgrumman.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Northrop Grumman" height="20" style="vertical-align:middle; margin-right:6px;"> Northrop Grumman</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Human-Resource-Intern---Linthicum-MD_R10262069">⭐️ 2027 Human Resource Intern - Linthicum MD</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/f5a29cef-1699-4619-ab8f-06b7038038ff">VC Partnerships Lead</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/0c190360-7ba6-423d-94da-5ffa33e4ddf3">Core Startups, Account Director</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/78822bd3-039e-4eb6-8957-75bc86e6c341">Greenfield Startups, Account Director</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/da30ac77-307b-4ffb-9e47-d5df9dd191d2">Greenfield Startups, Account Director</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/45729308-98e6-4104-8899-2392a76ddb2f">Ecosystem Startups, Account Director</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/d2dbafba-8ef1-48ac-82b2-ad44d34a6c08">Ecosystem Startups, Account Director</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/c233b365-dcda-4104-b6c1-793cf20c2b1b">Greenfield Startups, Account Director</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/27ffc700-ce7c-47e1-bb92-7a9ed846669b">Startups Manager, Greenfield</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/f772d873-6bfb-4ed1-bfae-af9fafc3e561">Integrations Architect - Enterprise Systems</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/07fddd60-30a7-45fb-8564-f0ad1cd75716">Global Head of Applied AI Engineering, SMB / Mid-Market</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/49095b0c-ffea-41be-9cf9-93cb73e40490">Program Manager, People Innovation Labs</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/76709e27-2fe8-4930-ac87-76a8ef484a67">Cloud GTM Program Lead</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/2ff3536b-633d-4d02-b492-f6ed92b823b4">Partner Director, BCG AMER</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/faaf4418-8fea-4781-95b7-8cfc40f8c818">Associate General Counsel, Security & National Security</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/2c4516ae-b440-40b3-8068-8131772f36ae">Organizational Design Lead</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/607078a7-0b16-4615-8d5b-55c89853d3ff">Business Development Lead, Compute Strategy & Partnerships</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/c7af5de8-ecd3-4d0e-99fb-72a8d81111e3">Executive Business Partner, OpenAI for Government</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/d2ab1c9b-5c0c-4b43-a7c3-c9301854c023">Forward Deployed Engineer (FDE), Life Sciences - London</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/0d06daee-298b-4594-a67b-8955d07adb22">Software Engineer, Full Stack — ChatGPT Voice</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/d22b6934-3bdc-459f-b801-87195d79be8a">Software Engineer, Backend — ChatGPT Voice</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/30e110bf-c2d8-4458-a7de-9a26b0968bd1">Senior Commercial Counsel, EMEA</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/e1823ba3-a94c-410f-b064-217a1d71c866">Software Engineer, Space Foundations — Real-Time Systems</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/f3f3ba4c-cc37-44fe-a8b1-5aa4553c3092">Software Engineer, Space Foundations — Search & Databases</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/c58aecd7-b306-4c06-9648-8090d0a93217">Head of Applied AI Architects – Commercial Sales (Midmarket, SMB)</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.eu.lever.co/mobileye"><img src="https://cdn.brandfetch.io/mobileye.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mobileye" height="20" style="vertical-align:middle; margin-right:6px;"> Mobileye</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.eu.lever.co/mobileye/fb6ae5c4-6bcc-46a9-8107-ac537b8a546e">C++ Embedded Software Team Leader – In-Vehicle HD Maps</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.eu.lever.co/mobileye"><img src="https://cdn.brandfetch.io/mobileye.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mobileye" height="20" style="vertical-align:middle; margin-right:6px;"> Mobileye</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.eu.lever.co/mobileye/fffb9601-ec01-4f84-b021-905146110b25">IT DevOps Team Lead</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://lockheedmartin.eightfold.ai/careers?location=United%20States&levelOfExperience=Intern,Co-Op/Summer%20Intern&sort_by=timestamp"><img src="https://cdn.brandfetch.io/lockheedmartin.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lockheed Martin" height="20" style="vertical-align:middle; margin-right:6px;"> Lockheed Martin</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://lockheedmartin.eightfold.ai/careers/job/996478132057">⭐️ Digital Signal Processing Spring Internship</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://lockheedmartin.eightfold.ai/careers?location=United%20States&levelOfExperience=Intern,Co-Op/Summer%20Intern&sort_by=timestamp"><img src="https://cdn.brandfetch.io/lockheedmartin.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lockheed Martin" height="20" style="vertical-align:middle; margin-right:6px;"> Lockheed Martin</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477597621">⭐️ Test/Networking Intern</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://lockheedmartin.eightfold.ai/careers?location=United%20States&levelOfExperience=Intern,Co-Op/Summer%20Intern&sort_by=timestamp"><img src="https://cdn.brandfetch.io/lockheedmartin.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lockheed Martin" height="20" style="vertical-align:middle; margin-right:6px;"> Lockheed Martin</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477890213">⭐️ Satellite Operations Intern</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://lockheedmartin.eightfold.ai/careers?location=United%20States&levelOfExperience=Intern,Co-Op/Summer%20Intern&sort_by=timestamp"><img src="https://cdn.brandfetch.io/lockheedmartin.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lockheed Martin" height="20" style="vertical-align:middle; margin-right:6px;"> Lockheed Martin</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://lockheedmartin.eightfold.ai/careers/job/996478041163">⭐️ Finance Summer Intern</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/neura-robotics-gmbh"><img src="https://cdn.brandfetch.io/neura-robotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Neura Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Neura Robotics</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/neura-robotics-gmbh/2e7c60de-bdf4-487b-8e88-61c93a746f45">⭐️ Intern - System Testing</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5490494008">Head of Laboratory Facilities</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5490502008">Life Sciences Operator, External Research</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5494120008">Engineering Manager, Cybersecurity Products</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5489900008">Manager, Compliance & Regulatory Operations</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5391277008">Program Operations, Coordination & Logistics, Claude Frontier Academy</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5369102008">Engineering Manager, Labs</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5494145008">Safeguards Enforcement Analyst, Targeting, Tracking & Surveillance</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/xai"><img src="https://cdn.brandfetch.io/x.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="xAI" height="20" style="vertical-align:middle; margin-right:6px;"> xAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/xai/jobs/5308291007">Brand Strategist, Mexico City</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/xai"><img src="https://cdn.brandfetch.io/x.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="xAI" height="20" style="vertical-align:middle; margin-right:6px;"> xAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/xai/jobs/5308378007">Global Supervisor, Law Enforcement Response Team</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/xai"><img src="https://cdn.brandfetch.io/x.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="xAI" height="20" style="vertical-align:middle; margin-right:6px;"> xAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/xai/jobs/5308892007">Lead Automation & Controls Engineer, Data Center Facilities</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/xai"><img src="https://cdn.brandfetch.io/x.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="xAI" height="20" style="vertical-align:middle; margin-right:6px;"> xAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/xai/jobs/5301426007">Lead Automation & Controls Engineer, Data Center Facilities</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/thinkingmachines"><img src="https://cdn.brandfetch.io/thinkingmachines.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Thinking Machines Lab" height="20" style="vertical-align:middle; margin-right:6px;"> Thinking Machines Lab</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/ThinkingMachines/8d9a8793-f914-4327-9393-7851ec18cc66">Research, Model Behavior</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://recar.wd108.myworkdayjobs.com/SLATEcareers"><img src="https://cdn.brandfetch.io/slate.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Slate Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Slate Auto</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Troy-Michigan/Head-of-Electrical-and-Software-Engineering_JR101754">Head of Electrical and Software Engineering</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh?workerSubType=247b1d93650401bb5dd910235911ff06&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/oshkoshcorp.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Oshkosh" height="20" style="vertical-align:middle; margin-right:6px;"> Oshkosh</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Jefferson-City-Tennessee-United-States/Assembler-Apprentice_R52249">S2W- Assembler Apprentice</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://intel.wd1.myworkdayjobs.com/External?workerSubType=dc8bf79476611087dfde99931439ae75&locations=1e4a4eb3adf10118b1dfe877bf8162d0"><img src="https://cdn.brandfetch.io/intel.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Intel" height="20" style="vertical-align:middle; margin-right:6px;"> Intel</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Colorado-Fort-Collins/Design-Verification-Intern-2027_JR0287637">⭐️ Design Verification Intern 2027</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://intel.wd1.myworkdayjobs.com/External?workerSubType=dc8bf79476611087dfde99931439ae75&locations=1e4a4eb3adf10118b1dfe877bf8162d0"><img src="https://cdn.brandfetch.io/intel.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Intel" height="20" style="vertical-align:middle; margin-right:6px;"> Intel</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://intel.wd1.myworkdayjobs.com/External/job/US-Colorado-Fort-Collins/Design-Verification-Intern-2027_JR0287646">⭐️ Design Verification Intern 2027</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ibm.com/careers/JobDetail?jobId=142035">Associate Project Manager Apprentice</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.morganstanley.com/careers/career-opportunities-search?opportunity=sg#"><img src="https://cdn.brandfetch.io/morganstanley.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Morgan Stanley" height="20" style="vertical-align:middle; margin-right:6px;"> Morgan Stanley</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://morganstanley.tal.net/vx/candidate/so/pm/1/pl/1/opp/21547">⭐️ 2027 Corporate Services Internship Program - (Budapest)</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.morganstanley.com/careers/career-opportunities-search?opportunity=sg#"><img src="https://cdn.brandfetch.io/morganstanley.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Morgan Stanley" height="20" style="vertical-align:middle; margin-right:6px;"> Morgan Stanley</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://morganstanley.tal.net/vx/candidate/so/pm/1/pl/1/opp/21601">⭐️ 2027 Sales & Trading Off-Cycle Internship (Zurich)</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/cohere/"><img src="https://cdn.brandfetch.io/cohere.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Cohere" height="20" style="vertical-align:middle; margin-right:6px;"> Cohere</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/cohere/03cd844a-ab8d-42f0-b1f6-4b933ee7859e">Accounts Payable Manager</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/cohere/"><img src="https://cdn.brandfetch.io/cohere.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Cohere" height="20" style="vertical-align:middle; margin-right:6px;"> Cohere</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/cohere/7c05d8d1-f288-404b-8142-1be372ae6354">Senior Manager, Talent Development</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://expedia.wd108.myworkdayjobs.com/search?workerSubType=c553432013ba103b0b56537ed4c71d12"><img src="https://cdn.brandfetch.io/expediagroup.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Expedia" height="20" style="vertical-align:middle; margin-right:6px;"> Expedia</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://expedia.wd108.myworkdayjobs.com/search/job/Austin-Domain-11---HomeAway/Applied-Science-Intern---PhD---2027---Austin--San-Jose--Seattle_R-110382-1">⭐️ Applied Science Intern - PhD - 2027 - Austin, San Jose, Seattle</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.amd.com/careers-home/jobs?categories=Student%20%2F%20Intern%20%2F%20Temp&tags1=No&country=United%20States"><img src="https://cdn.brandfetch.io/amd.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="AMD" height="20" style="vertical-align:middle; margin-right:6px;"> AMD</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.amd.com/careers-home/jobs/89564">⭐️ Spring/Summer 2027 Masters AI Rack/Cluster Design Engineering Co-Op</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/jobs"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.sig.com/jobs/14555">Discovery Event: Women at Susquehanna (Virtual)</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/jobs"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.sig.com/jobs/12047">Data Engineer \| Compliance Technology \| Experienced Hire</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.sw.siemens.com/locations/usa/jobs/?q=intern"><img src="https://cdn.brandfetch.io/siemens.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Siemens" height="20" style="vertical-align:middle; margin-right:6px;"> Siemens</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.sw.siemens.com/maryland-heights-mo/strategic-student-program-electronics-reliability-product-engineering-internship-spring-2027-sim-sts/E6D4898D8AD64CEBBE48E74C227B84FE/job/">⭐️ Strategic Student Program: Electronics Reliability Product Engineering Internship (Spring 2027, SIM STS)</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://apply.deloitte.com/en_US/careers/SearchJobs/?9339=%5B480%2C477%2C478%5D&9339_format=5915&26444=%5B113185584%2C113185586%2C113185566%2C113185568%2C113185564%5D&26444_format=44221&listFilterMode=1&jobRecordsPerPage=10&sort=relevancy"><img src="https://cdn.brandfetch.io/deloitte.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Deloitte" height="20" style="vertical-align:middle; margin-right:6px;"> Deloitte</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://apply.deloitte.com/en_US/careers/JobDetail/Internal-Services-Junior-Specialist-AV-Engineering-Summer-Fall-2027/376520">⭐️ Internal Services - Junior Specialist - AV Engineering - Summer/Fall 2027</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://apply.deloitte.com/en_US/careers/SearchJobs/?9339=%5B480%2C477%2C478%5D&9339_format=5915&26444=%5B113185584%2C113185586%2C113185566%2C113185568%2C113185564%5D&26444_format=44221&listFilterMode=1&jobRecordsPerPage=10&sort=relevancy"><img src="https://cdn.brandfetch.io/deloitte.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Deloitte" height="20" style="vertical-align:middle; margin-right:6px;"> Deloitte</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://apply.deloitte.com/en_US/careers/JobDetail/Internal-Services-Associate-Software-Engineering-Summer-Fall-2027/376512">⭐️ Internal Services - Associate - Software Engineering - Summer/Fall 2027</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://apply.deloitte.com/en_US/careers/SearchJobs/?9339=%5B480%2C477%2C478%5D&9339_format=5915&26444=%5B113185584%2C113185586%2C113185566%2C113185568%2C113185564%5D&26444_format=44221&listFilterMode=1&jobRecordsPerPage=10&sort=relevancy"><img src="https://cdn.brandfetch.io/deloitte.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Deloitte" height="20" style="vertical-align:middle; margin-right:6px;"> Deloitte</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://apply.deloitte.com/en_US/careers/JobDetail/Internal-Services-Associate-Infrastructure-Engineering-Summer-Fall-2027/376511">⭐️ Internal Services - Associate - Infrastructure Engineering - Summer/Fall 2027</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://apply.deloitte.com/en_US/careers/SearchJobs/?9339=%5B480%2C477%2C478%5D&9339_format=5915&26444=%5B113185584%2C113185586%2C113185566%2C113185568%2C113185564%5D&26444_format=44221&listFilterMode=1&jobRecordsPerPage=10&sort=relevancy"><img src="https://cdn.brandfetch.io/deloitte.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Deloitte" height="20" style="vertical-align:middle; margin-right:6px;"> Deloitte</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://apply.deloitte.com/en_US/careers/JobDetail/Internal-Services-Associate-Analyst-Cybersecurity-Architecture-Summer-Fall-2027/376510">⭐️ Internal Services - Associate Analyst - Cybersecurity Architecture - Summer/Fall 2027</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?k=intern&alrpm=6252001"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.disneycareers.com/en/job/the-woodlands/media-engineering-intern/391/103741798672">⭐️ Media Engineering Intern</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://leidos.wd5.myworkdayjobs.com/External?jobFamilyGroup=628672aa96cf106cf05cd4c3de06246b&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/leidos.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Leidos" height="20" style="vertical-align:middle; margin-right:6px;"> Leidos</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Missile-Systems-Engineer-Intern_R-00195265">⭐️ Missile Systems Engineer Intern</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/point72"><img src="https://cdn.brandfetch.io/point72.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Point72" height="20" style="vertical-align:middle; margin-right:6px;"> Point72</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://boards.greenhouse.io/point72/jobs/8959709002?gh_jid=8959709002">⭐️ 2027 Asia Economist Intern</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.comcast.com/search-jobs?acm=ALL&alrpm=ALL&ascf=[%7B%22key%22:%22custom_fields.InternRotational%22,%22value%22:%22Intern%22%7D]"><img src="https://www.google.com/s2/favicons?domain=corporate.comcast.com&sz=128" alt="Comcast" height="20" style="vertical-align:middle; margin-right:6px;"> Comcast</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.comcast.com/job/philadelphia/spring-2027-accounting-intern/45483/103732997952">⭐️ Spring 2027 Accounting Intern</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.amentumcareers.com/jobs/search?page=1&country_codes%5B%5D=US&query=%22Intern%22"><img src="https://cdn.brandfetch.io/amentum.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Amentum" height="20" style="vertical-align:middle; margin-right:6px;"> Amentum</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Intern - Electrical/Imagery Test & Design Engineer Spring Intern</div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.amentumcareers.com/jobs/search?page=1&country_codes%5B%5D=US&query=%22Intern%22"><img src="https://cdn.brandfetch.io/amentum.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Amentum" height="20" style="vertical-align:middle; margin-right:6px;"> Amentum</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;">⭐️ Intern - GN&C Spring Intern</div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.boeing.com/search-jobs?acm=9287"><img src="https://cdn.brandfetch.io/boeing.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boeing" height="20" style="vertical-align:middle; margin-right:6px;"> Boeing</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.boeing.com/job/lossiemouth/test-and-evaluation-intern-2027-12-month-placement/185/103739522960">⭐️ Test & Evaluation Intern 2027 - 12 Month Placement</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://tmobile.wd1.myworkdayjobs.com/External?Job_Family_Group=426b19690b7b1036f85c59a787b10a19"><img src="https://cdn.brandfetch.io/t-mobile.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="T-Mobile" height="20" style="vertical-align:middle; margin-right:6px;"> T-Mobile</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Finance-Internship_REQ384255">⭐️ Summer 2027 Finance Internship</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers?workerSubType=b9bd15164d241000cf9857a64e2e0000"><img src="https://cdn.brandfetch.io/draper.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Draper" height="20" style="vertical-align:middle; margin-right:6px;"> Draper</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/HWIL---Real-Time-Simulation-Intern--Summer-2027-_JR003188">⭐️ HWIL & Real Time Simulation Intern (Summer 2027)</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers?workerSubType=b9bd15164d241000cf9857a64e2e0000"><img src="https://cdn.brandfetch.io/draper.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Draper" height="20" style="vertical-align:middle; margin-right:6px;"> Draper</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Simulation-Engineering-Intern--Summer-2027-_JR003181">⭐️ Simulation Engineering Intern (Summer 2027)</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://impulsespace.pinpointhq.com/"><img src="https://cdn.brandfetch.io/impulsespace.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Impulse Space" height="20" style="vertical-align:middle; margin-right:6px;"> Impulse Space</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://impulsespace.pinpointhq.com/en/postings/ef8af7e4-3749-4d5c-af1c-d85e46f53bfb">Electromagnetic Effects Engineer</a></div></td>
-  <td>2026-11-24</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.amazon.jobs/en/search?base_query=intern&country%5B%5D=USA&sort=recent"><img src="https://cdn.brandfetch.io/amazon.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Amazon" height="20" style="vertical-align:middle; margin-right:6px;"> Amazon</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.amazon.jobs/en/jobs/10611936/pr-specialist-aws-press-office-aws-global-communications-aws-corporate-communications">PR Specialist, AWS Press Office , AWS Global Communications, AWS Corporate Communications</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.amazon.jobs/en/search?base_query=intern&country%5B%5D=USA&sort=recent"><img src="https://cdn.brandfetch.io/amazon.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Amazon" height="20" style="vertical-align:middle; margin-right:6px;"> Amazon</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027">⭐️ Software Development Engineer Intern - Artificial General Intelligence (Summer 2027)</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.amazon.jobs/en/search?base_query=intern&country%5B%5D=USA&sort=recent"><img src="https://cdn.brandfetch.io/amazon.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Amazon" height="20" style="vertical-align:middle; margin-right:6px;"> Amazon</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.amazon.jobs/en/jobs/10612193/human-resources-partner-intern-nationwide-summer-2027">⭐️ Human Resources Partner Intern, (Nationwide) - Summer 2027</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.metacareers.com/jobsearch/?roles[0]=Internship"><img src="https://cdn.brandfetch.io/meta.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Meta" height="20" style="vertical-align:middle; margin-right:6px;"> Meta</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.metacareers.com/profile/job_details/1296888565955935/">⭐️ Research Scientist Intern, uLED Display Characterization (PhD)</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.metacareers.com/jobsearch/?roles[0]=Internship"><img src="https://cdn.brandfetch.io/meta.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Meta" height="20" style="vertical-align:middle; margin-right:6px;"> Meta</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.metacareers.com/profile/job_details/2357948038329505/">⭐️ Research Scientist Intern, Spatial-temporal Consistent 4D Generation (PhD)</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.rivian.com/careers-home/jobs?sortBy=relevance&page=1&limit=100&categories=Internships%20%26%20Early%20Career"><img src="https://cdn.brandfetch.io/rivian.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Rivian" height="20" style="vertical-align:middle; margin-right:6px;"> Rivian</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.rivian.com/careers-home/jobs/37655">Early Career- Global Supply Manager, Fasteners</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/kodiak"><img src="https://cdn.brandfetch.io/kodiak.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Kodiak Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Kodiak Robotics</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/kodiak/jobs/4518075009">Senior Mechanical Engineer</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/kodiak"><img src="https://cdn.brandfetch.io/kodiak.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Kodiak Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Kodiak Robotics</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/kodiak/jobs/4518079009">Software Quality Simulation Specialist</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.irobot.com/search-jobs"><img src="https://cdn.brandfetch.io/irobot.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="iRobot" height="20" style="vertical-align:middle; margin-right:6px;"> iRobot</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.irobot.com/job/united-states/customer-care-program-coordinator/42682/103685412896">Customer Care Program Coordinator</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.irobot.com/search-jobs"><img src="https://cdn.brandfetch.io/irobot.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="iRobot" height="20" style="vertical-align:middle; margin-right:6px;"> iRobot</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.irobot.com/job/bedford/sr-electrical-systems-engineer-innovation/42682/103698165040">Sr. Electrical Systems Engineer - Innovation</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM?Location_Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=81219c91208501029134b6999c1b05d6"><img src="https://cdn.brandfetch.io/gm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="General Motors" height="20" style="vertical-align:middle; margin-right:6px;"> General Motors</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Global-Product-Development_JR-202624624">⭐️ 2027 Summer Intern – Global Product Development</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/locusrobotics"><img src="https://cdn.brandfetch.io/locusrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Locus Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Locus Robotics</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/locusrobotics/jobs/5289379007">Field Service Technician, Europe</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/graymatter-robotics/"><img src="https://cdn.brandfetch.io/graymatter-robotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="GrayMatter Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> GrayMatter Robotics</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/graymatter-robotics/347cbb66-c542-4c41-bdfc-3f9fa242b20b">⭐️ Robotics Engineering Intern: Systems & Applications - Winter '27 - January Start</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/agilityrobotics"><img src="https://cdn.brandfetch.io/agilityrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Agility Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Agility Robotics</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.agilityrobotics.com/about/job-post?gh_jid=6267614004">Brand Designer III</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/agilityrobotics"><img src="https://cdn.brandfetch.io/agilityrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Agility Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Agility Robotics</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.agilityrobotics.com/about/job-post?gh_jid=6266523004">Senior Manager, Environmental, Health & Safety</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=pathrobotics"><img src="https://cdn.brandfetch.io/path-robotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Path Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Path Robotics</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://boards.greenhouse.io/pathrobotics/jobs/8959009002?gh_jid=8959009002">Accounts Payable & Billing Specialist</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=pathrobotics"><img src="https://cdn.brandfetch.io/path-robotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Path Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Path Robotics</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://boards.greenhouse.io/pathrobotics/jobs/8950674002?gh_jid=8950674002">Welding Solutions Sales Engineer</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=pathrobotics"><img src="https://cdn.brandfetch.io/path-robotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Path Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Path Robotics</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://boards.greenhouse.io/pathrobotics/jobs/8959186002?gh_jid=8959186002">Mechanical Engineer, Sensing & Mobile Welding Robotics</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=pathrobotics"><img src="https://cdn.brandfetch.io/path-robotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Path Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Path Robotics</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://boards.greenhouse.io/pathrobotics/jobs/8959233002?gh_jid=8959233002">Software Support Engineer, Sensing & Robotics</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/lucidmotors"><img src="https://cdn.brandfetch.io/lucidmotors.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lucid Motors" height="20" style="vertical-align:middle; margin-right:6px;"> Lucid Motors</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://lucidmotors.com/careers/search/5290844007?gh_jid=5290844007">⭐️ Intern, Automotive Interior Design, Summer 2027</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/lucidmotors"><img src="https://cdn.brandfetch.io/lucidmotors.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lucid Motors" height="20" style="vertical-align:middle; margin-right:6px;"> Lucid Motors</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://lucidmotors.com/careers/search/5290780007?gh_jid=5290780007">⭐️ Intern, IT Help Desk Level 3, Summer 2027</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/zoox/d5926930-cbe2-4cfc-b0a1-d2e8ea54e398">Senior/Staff Technical Program Manager - City Launch & Growth</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/zoox"><img src="https://cdn.brandfetch.io/zoox.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Zoox" height="20" style="vertical-align:middle; margin-right:6px;"> Zoox</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/zoox/3557050a-a45c-4cf4-8c9b-0e4156e72626">Senior/Staff Systems Engineer - System Safety Engineering and Analysis</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/nuro"><img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nuro" height="20" style="vertical-align:middle; margin-right:6px;"> Nuro</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://nuro.ai/careersitem?gh_jid=8412577">⭐️ Technical Program Manager, Systems Intern</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/nuro"><img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nuro" height="20" style="vertical-align:middle; margin-right:6px;"> Nuro</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://nuro.ai/careersitem?gh_jid=8357716">Director of Engineering, Autonomy</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/nuro"><img src="https://cdn.brandfetch.io/nuro.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nuro" height="20" style="vertical-align:middle; margin-right:6px;"> Nuro</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://nuro.ai/careersitem?gh_jid=8357718">Director of Engineering, Perception</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/aeva"><img src="https://cdn.brandfetch.io/aeva.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Aeva" height="20" style="vertical-align:middle; margin-right:6px;"> Aeva</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/aeva/b852976f-c78c-4aaf-942a-58cd2e8a5d06">Principal Embedded Software Engineer</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/aeva"><img src="https://cdn.brandfetch.io/aeva.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Aeva" height="20" style="vertical-align:middle; margin-right:6px;"> Aeva</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/aeva/be2091ad-7617-43a4-a0d3-20ba581d43db">Senior Manager, ASIC Design</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/picklerobot"><img src="https://cdn.brandfetch.io/picklerobot.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Pickle Robot" height="20" style="vertical-align:middle; margin-right:6px;"> Pickle Robot</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/picklerobot/eed4ba70-2055-43f9-a57d-3fb5f6a2a897">Senior Software Quality Assurance Engineer</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/nerostechnologies/"><img src="https://cdn.brandfetch.io/nerostechnologies.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Neros Technologies" height="20" style="vertical-align:middle; margin-right:6px;"> Neros Technologies</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/nerostechnologies/jobs/5307031007">UAV Technician - Ukraine</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/wayve?locationId=a937431a-b165-4153-8c67-a6808a6eb679"><img src="https://cdn.brandfetch.io/wayve.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Wayve" height="20" style="vertical-align:middle; margin-right:6px;"> Wayve</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/wayve/08c7e37b-417f-44f5-9b2c-bec77f9d8f58">Head of Marketing</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/wayve?locationId=a937431a-b165-4153-8c67-a6808a6eb679"><img src="https://cdn.brandfetch.io/wayve.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Wayve" height="20" style="vertical-align:middle; margin-right:6px;"> Wayve</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/wayve/a12149f3-41a8-4bb1-acfb-f28861b9eea5">Robotaxi Technical Operations Manager</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/applied/"><img src="https://cdn.brandfetch.io/appliedintuition.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Applied Intuition" height="20" style="vertical-align:middle; margin-right:6px;"> Applied Intuition</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/applied/d3e131d6-e01d-47a9-a0a3-a78871896f42">Sensor Validation Engineer</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.google.com/about/careers/applications/jobs/results?company=DeepMind"><img src="https://cdn.brandfetch.io/deepmind.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="DeepMind" height="20" style="vertical-align:middle; margin-right:6px;"> DeepMind</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.google.com/about/careers/applications/jobs/results/100168617022104262">Senior Software Engineer, AI/ML, GeminiApp, DeepMind</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.google.com/about/careers/applications/jobs/results?company=DeepMind"><img src="https://cdn.brandfetch.io/deepmind.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="DeepMind" height="20" style="vertical-align:middle; margin-right:6px;"> DeepMind</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.google.com/about/careers/applications/jobs/results/126417086313308870">Technical Program Manager, Deployment Infrastructure, DeepMind</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.google.com/about/careers/applications/jobs/results?company=DeepMind"><img src="https://cdn.brandfetch.io/deepmind.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="DeepMind" height="20" style="vertical-align:middle; margin-right:6px;"> DeepMind</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.google.com/about/careers/applications/jobs/results/119529470599013062">Staff Scientist Developer Relations, DeepMind</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/brightmachines"><img src="https://cdn.brandfetch.io/brightmachines.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bright Machines" height="20" style="vertical-align:middle; margin-right:6px;"> Bright Machines</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/brightmachines/e0bfa4e8-2a21-47c7-865d-0e0fa67f6937">Staff IT Engineer</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/torcrobotics"><img src="https://cdn.brandfetch.io/torc.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Torc Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Torc Robotics</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/torcrobotics/jobs/8959353002">Gestionnaire, Annotation</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/torcrobotics"><img src="https://cdn.brandfetch.io/torc.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Torc Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Torc Robotics</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/torcrobotics/jobs/8958232002">Manager, Data Annotation</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/saronic"><img src="https://cdn.brandfetch.io/saronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saronic" height="20" style="vertical-align:middle; margin-right:6px;"> Saronic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/saronic/5045e397-6285-43c4-9023-ba66dbc9ae57">Road Test Examiner</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/saronic"><img src="https://cdn.brandfetch.io/saronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saronic" height="20" style="vertical-align:middle; margin-right:6px;"> Saronic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/saronic/3c3dbc5a-5774-42c4-a0e2-2ea9f31d9d54">Strategic Operations Manager</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/saronic"><img src="https://cdn.brandfetch.io/saronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saronic" height="20" style="vertical-align:middle; margin-right:6px;"> Saronic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/saronic/5cd3fc86-39bc-4787-aaac-2e6d58f12f90">Corporate Counsel, Government Contracts</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/saronic"><img src="https://cdn.brandfetch.io/saronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saronic" height="20" style="vertical-align:middle; margin-right:6px;"> Saronic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/saronic/ce956db8-03bd-47e5-b8d9-8d0fe6717295">Senior Manager, Maritime Regulatory Affairs</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/saronic"><img src="https://cdn.brandfetch.io/saronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saronic" height="20" style="vertical-align:middle; margin-right:6px;"> Saronic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/saronic/86188e89-145c-4cbe-943c-41b6fe5f4503">Senior Manager, U.S. Defense Market Strategy</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/saronic"><img src="https://cdn.brandfetch.io/saronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saronic" height="20" style="vertical-align:middle; margin-right:6px;"> Saronic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/saronic/cd639be2-3b9e-4e88-9776-93092aebe939">Manager, U.S. Defense Market Strategy</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/anybotics"><img src="https://cdn.brandfetch.io/anybotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ANYbotics" height="20" style="vertical-align:middle; margin-right:6px;"> ANYbotics</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/anybotics/1a5abe1a-e520-4467-b701-509cbd171dd7">IT Security & Systems Specialist</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/anybotics"><img src="https://cdn.brandfetch.io/anybotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ANYbotics" height="20" style="vertical-align:middle; margin-right:6px;"> ANYbotics</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/anybotics/430256dc-e9b8-4673-8ec4-b48b16cee5eb">Robotics Systems Engineer (Mechanical)</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/hadrian-automation"><img src="https://cdn.brandfetch.io/hadrian.io/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Hadrian" height="20" style="vertical-align:middle; margin-right:6px;"> Hadrian</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/hadrian-automation/cd59b2b7-bd40-4ee7-b73c-6e272ee5e15f">Factory Lead, FX (Shipping, Receiving and Inventory)</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/hadrian-automation"><img src="https://cdn.brandfetch.io/hadrian.io/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Hadrian" height="20" style="vertical-align:middle; margin-right:6px;"> Hadrian</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/hadrian-automation/ba101435-b691-48ff-8234-2049684aa414">Manufacturing Engineer, Customer Success</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/hadrian-automation"><img src="https://cdn.brandfetch.io/hadrian.io/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Hadrian" height="20" style="vertical-align:middle; margin-right:6px;"> Hadrian</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/hadrian-automation/e152d9b1-0fbf-485d-b24f-cf8164a652f1">Counsel, Real Estate</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://berkshiregrey.bamboohr.com/careers"><img src="https://cdn.brandfetch.io/berkshiregrey.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Berkshire Grey" height="20" style="vertical-align:middle; margin-right:6px;"> Berkshire Grey</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://berkshiregrey.bamboohr.com/careers/645">Sales Executive</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jj.wd5.myworkdayjobs.com/en-US/JJ?workerSubType=ca32b336cc4a472a863c62c03f6e63b6&workerSubType=c8cdc206cb91013d31d96bb30f801468"><img src="https://cdn.brandfetch.io/jnj.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Johnson & Johnson" height="20" style="vertical-align:middle; margin-right:6px;"> Johnson & Johnson</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Schaffhausen-Switzerland/Supply-Chain-Intern_R-112102">⭐️ Supply Chain Intern</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jj.wd5.myworkdayjobs.com/en-US/JJ?workerSubType=ca32b336cc4a472a863c62c03f6e63b6&workerSubType=c8cdc206cb91013d31d96bb30f801468"><img src="https://cdn.brandfetch.io/jnj.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Johnson & Johnson" height="20" style="vertical-align:middle; margin-right:6px;"> Johnson & Johnson</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Mumbai-India/CA-Industrial-Trainee_R-096566">CA Industrial Trainee</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic"><img src="https://cdn.brandfetch.io/symbotic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Symbotic" height="20" style="vertical-align:middle; margin-right:6px;"> Symbotic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Principal--Engineering-Strategy---Operations_R8564">Principal, Engineering Strategy & Operations</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic"><img src="https://cdn.brandfetch.io/symbotic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Symbotic" height="20" style="vertical-align:middle; margin-right:6px;"> Symbotic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/MX-Huamantla-Tlaxcala/Maintenance-Technician-I_R8579">Maintenance Technician I</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic"><img src="https://cdn.brandfetch.io/symbotic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Symbotic" height="20" style="vertical-align:middle; margin-right:6px;"> Symbotic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Manager--Bot-Reliability-Engineering_R8597">Manager, Bot Reliability Engineering</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://proceptbiorobotics.wd108.myworkdayjobs.com/PROCEPT?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/procept-biorobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="PROCEPT BioRobotics" height="20" style="vertical-align:middle; margin-right:6px;"> PROCEPT BioRobotics</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://proceptbiorobotics.wd108.myworkdayjobs.com/PROCEPT/job/California---San-Jose/Director--Commercial-Intelligence---Advanced-Analytics_2026-R356">Director, Commercial Intelligence & Advanced Analytics</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Texas-United-States-of-America/Regional-Sales-Manager---West-Region--Pulp-and-Paper_JR00050141">Regional Sales Manager - West Region, Pulp and Paper</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Houston-Texas-United-States-of-America/Service-Project-Manager_JR00053805">Service Project Manager</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Mebane/ELDS-MV-SWGR-Manufacturing-Quality-Tester-2nd-shift_JR00054493">ELDS MV SWGR Manufacturing/Quality Tester 2nd shift</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Mebane/ELDS-MV-SWGR-Manufacturing-Quality-Tester-2nd-shift_JR00054494">ELDS MV SWGR Manufacturing/Quality Tester 2nd shift</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Mebane/ELDS-MV-SWGR-Manufacturing-Quality-Tester-2nd-shift_JR00054495">ELDS MV SWGR Manufacturing/Quality Tester 2nd shift</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Remote-Ohio-United-States-of-America/Service-Segment-Manager_JR00054066">Service Segment Manager</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Mebane/ELDS-MV-SWGR-Production-Scheduler-2nd-shift_JR00054479">ELDS MV SWGR Production Scheduler 2nd shift</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Mebane/ELDS-Maintenance-Specialist-2nd-shift_JR00054345-1">ELDS Maintenance Specialist 2nd shift</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-TN-Selmer/Business-Excellence-Manager---Busway_JR00053243">Business Excellence Manager - Busway</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Richmond-Virginia-United-States-of-America/Testing-Engineering-Lead_JR00051477">Testing Engineering Lead</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-TN-Athens-260-Dennis-St/Engineering-and-Technical-Services-Manager_JR00053432">Engineering and Technical Services Manager</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Houston-Texas-United-States-of-America/Senior-Legal-Counsel_JR00053741">Senior Legal Counsel</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page?locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/abb.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="ABB" height="20" style="vertical-align:middle; margin-right:6px;"> ABB</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/New-Berlin-Wisconsin-United-States-of-America/Service-Coordinator--MV-LV-Drives---Motors-Service_JR00051683">Service Coordinator- MV/LV Drives & Motors Service</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.teradyne.com/teradyne/search/?q=&locationsearch=United+States&sortColumn=referencedate&sortDirection=desc"><img src="https://cdn.brandfetch.io/teradyne.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Teradyne" height="20" style="vertical-align:middle; margin-right:6px;"> Teradyne</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.teradyne.com/Teradyne/job/North-Reading-IT-GRC-&amp;-Resiliency-Analyst-II-MA/1452913400/">IT GRC & Resiliency Analyst II</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.teradyne.com/teradyne/search/?q=&locationsearch=United+States&sortColumn=referencedate&sortDirection=desc"><img src="https://cdn.brandfetch.io/teradyne.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Teradyne" height="20" style="vertical-align:middle; margin-right:6px;"> Teradyne</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.teradyne.com/Teradyne/job/North-Reading-Data-Analytics-Lead-Engineer-%28Integrated-System-Test%2C-North-Reading%29-MA/1452913300/">Data Analytics Lead Engineer (Integrated System Test, North Reading)</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.teradyne.com/teradyne/search/?q=&locationsearch=United+States&sortColumn=referencedate&sortDirection=desc"><img src="https://cdn.brandfetch.io/teradyne.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Teradyne" height="20" style="vertical-align:middle; margin-right:6px;"> Teradyne</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.teradyne.com/Teradyne/job/North-Reading-Field-Application-Engineer-%28Defense-&amp;-Aerospace-TX%2C-NC%2C-SC%2C-GA%2C-FL%2C-MA%2C-NJ%29-MA/1453019100/">Field Application Engineer (Defense & Aerospace; TX, NC, SC, GA, FL, MA, NJ)</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&ccId=19000101_000001&lang=en_US"><img src="https://www.google.com/s2/favicons?domain=intuitivemachines.com&sz=128" alt="Intuitive Machines" height="20" style="vertical-align:middle; margin-right:6px;"> Intuitive Machines</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b0e24f83-6e4d-492d-9d6a-bc0fea197d6a&amp;ccId=19000101_000001&amp;jobId=575985&amp;lang=en_US">Facilities Maintenance Electrician</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/voyagertechnologiesinc"><img src="https://cdn.brandfetch.io/voyagertechnologies.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Voyager Technologies" height="20" style="vertical-align:middle; margin-right:6px;"> Voyager Technologies</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4400124009">Configuration/Data Manager (D&NS)</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/voyagertechnologiesinc"><img src="https://cdn.brandfetch.io/voyagertechnologies.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Voyager Technologies" height="20" style="vertical-align:middle; margin-right:6px;"> Voyager Technologies</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4509343009">Agentic Manufacturing Test & Data Engineer – Line Telemetry & Analytics</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/voyagertechnologiesinc"><img src="https://cdn.brandfetch.io/voyagertechnologies.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Voyager Technologies" height="20" style="vertical-align:middle; margin-right:6px;"> Voyager Technologies</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4509499009">Software Engineer – Agentic Computational Engineering</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/voyagertechnologiesinc"><img src="https://cdn.brandfetch.io/voyagertechnologies.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Voyager Technologies" height="20" style="vertical-align:middle; margin-right:6px;"> Voyager Technologies</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4509297009">Staff Software Engineer – Agentic Platform Core</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/voyagertechnologiesinc"><img src="https://cdn.brandfetch.io/voyagertechnologies.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Voyager Technologies" height="20" style="vertical-align:middle; margin-right:6px;"> Voyager Technologies</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4510103009">Senior Aerospace Engineer – Structural, Thermal & Flow Analysis</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/voyagertechnologiesinc"><img src="https://cdn.brandfetch.io/voyagertechnologies.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Voyager Technologies" height="20" style="vertical-align:middle; margin-right:6px;"> Voyager Technologies</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4509545009">Senior Agentic Mechanical & Thermal Engineer</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/voyagertechnologiesinc"><img src="https://cdn.brandfetch.io/voyagertechnologies.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Voyager Technologies" height="20" style="vertical-align:middle; margin-right:6px;"> Voyager Technologies</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4509639009">Staff Agentic Electrical Engineer</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=gatikaiinc"><img src="https://cdn.brandfetch.io/gatik.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Gatik" height="20" style="vertical-align:middle; margin-right:6px;"> Gatik</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://boards.greenhouse.io/gatikaiinc/jobs/4731764006?gh_jid=4731764006">Senior Manager, Training (Learning & Development)</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/woven-by-toyota"><img src="https://cdn.brandfetch.io/woven-city.global/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Woven by Toyota" height="20" style="vertical-align:middle; margin-right:6px;"> Woven by Toyota</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/woven-by-toyota/beb88d3e-3f05-4e2d-9718-2a7520cce9a0">Integration Software Engineer II, Arene Applied Engineering</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/generalist"><img src="https://cdn.brandfetch.io/generalistai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Generalist AI" height="20" style="vertical-align:middle; margin-right:6px;"> Generalist AI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/generalist/eee7278e-29b8-406e-81b3-8bb2bcb76ec1">Lead Robotics Engineer, Deployments</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/genesis"><img src="https://cdn.brandfetch.io/genesis-ai.company/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Genesis AI" height="20" style="vertical-align:middle; margin-right:6px;"> Genesis AI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/genesis/8c29dfb5-1424-4994-86ab-4f1aa7cd281a">Data Collection Operator, Deployment</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/mindrobotics"><img src="https://cdn.brandfetch.io/mech-mind.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mind Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Mind Robotics</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/mindrobotics/338ae6e0-e7ca-4004-92dd-f8eed6707be8">Senior Character & Motion Designer – Robotics</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/mindrobotics"><img src="https://cdn.brandfetch.io/mech-mind.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mind Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Mind Robotics</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/mindrobotics/9e2b54b5-cd74-475e-ae2b-6c106e73c3ea">Senior Industrial Designer- Robotics</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=ocadogroup"><img src="https://cdn.brandfetch.io/ocado.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Ocado" height="20" style="vertical-align:middle; margin-right:6px;"> Ocado</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ocadogroup.com/jobs/details?gh_jid=5042296101&amp;gh_jid=5042296101">Commercial Finance Manager</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site?workerSubType=a111b0a898f10129e4db58f2e700d97a"><img src="https://cdn.brandfetch.io/northropgrumman.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Northrop Grumman" height="20" style="vertical-align:middle; margin-right:6px;"> Northrop Grumman</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern---Roy-UT_R10261728">⭐️ 2027 Software Test Engineering Intern - Roy UT</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site?workerSubType=a111b0a898f10129e4db58f2e700d97a"><img src="https://cdn.brandfetch.io/northropgrumman.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Northrop Grumman" height="20" style="vertical-align:middle; margin-right:6px;"> Northrop Grumman</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471">⭐️ 2027 Cyber Systems Engineer Intern - Roy UT</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site?workerSubType=a111b0a898f10129e4db58f2e700d97a"><img src="https://cdn.brandfetch.io/northropgrumman.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Northrop Grumman" height="20" style="vertical-align:middle; margin-right:6px;"> Northrop Grumman</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Engineer-Intern---Chantilly-VA_R10255633">⭐️ 2027 Systems Engineer Intern - Chantilly VA</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site?workerSubType=a111b0a898f10129e4db58f2e700d97a"><img src="https://cdn.brandfetch.io/northropgrumman.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Northrop Grumman" height="20" style="vertical-align:middle; margin-right:6px;"> Northrop Grumman</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Intern-Test---Evaluation-Oklahoma-City--Part-Time-_R10261915">⭐️ 2027 Intern Test & Evaluation Oklahoma City (Part-Time)</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/811d3085-41fb-4e6d-8003-617fbde96818">Global Events Strategy & Operations Lead</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/26aa2f13-c8b1-4abd-a94c-7be0c453d824">Product Marketing Manager, Hardware (Japan)</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/0ec48064-8816-4df1-af2e-30fdc01ca4af">Growth Client Partner, Scaled Ads (MM - UKI)</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/ecb9e67e-8842-472b-a928-0291304ea7e5">Growth Client Partner, Scaled Ads (MM - French Market)</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/972ad402-3747-41d3-8407-51ac6178aa9c">Growth Client Partner, Scaled Ads (MM - DACH Market)</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/8afcc20f-c4ca-4c9e-959c-2447b1c5c8da">Product Marketing Manager, Hardware (Korea)</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/1dcee8e6-4543-4d01-bc0e-a230bd54b263">Strategic Sourcing Lead, Engineering & Research Technology</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/b40efa93-da3c-4593-bc98-03d203cd0488">Forward Deployed Engineer - Dublin</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/b57d8763-c8aa-47db-b8c5-9f1807499372">Sr Structured Finance Execution Lead</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/490c443e-d555-4fd0-a5c8-d754f6ba6d23">GTM Strategy & Operations, Enterprise</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/1af2996f-046c-466f-bf35-4b13da116af4">Applied AI Engineer, Mid-Market Enterprise</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/0cbc1196-37ee-4c41-b02b-12653309a8f7">Optical Mechanical Engineer</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/aa22d0b6-38e9-4853-aff6-bc891ccc9747">Cyber Partner Applied AI Architect</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/544f33f5-c3f1-47db-b4c0-ef5f82ac618e">Channel Lead, Hardware</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/d7a54e99-137c-4608-af98-5ff88df54685">Visual Merchant, Hardware</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/143198ab-45e9-4ece-8604-d402b50cc3a9">Manager, Applied AI Architects (Singapore)</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.eu.lever.co/mobileye"><img src="https://cdn.brandfetch.io/mobileye.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mobileye" height="20" style="vertical-align:middle; margin-right:6px;"> Mobileye</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.eu.lever.co/mobileye/4e512957-1993-4606-bd4e-4f271c38943b">Image Quality Verification and Validation Engineer</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.eu.lever.co/mobileye"><img src="https://cdn.brandfetch.io/mobileye.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mobileye" height="20" style="vertical-align:middle; margin-right:6px;"> Mobileye</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.eu.lever.co/mobileye/9d4bd6c6-0545-46d9-ae8e-9cac047c5063">Production Worker</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.eu.lever.co/mobileye"><img src="https://cdn.brandfetch.io/mobileye.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mobileye" height="20" style="vertical-align:middle; margin-right:6px;"> Mobileye</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.eu.lever.co/mobileye/c19f0a29-016b-429c-b4c4-1356b21ab2ad">⭐️ Algorithm/Software Developer Student – REM West Team</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.eu.lever.co/mobileye"><img src="https://cdn.brandfetch.io/mobileye.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mobileye" height="20" style="vertical-align:middle; margin-right:6px;"> Mobileye</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.eu.lever.co/mobileye/52e503fe-c6a7-4df9-bd51-eb187a286716">AV Perception Product Manager</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://lockheedmartin.eightfold.ai/careers?location=United%20States&levelOfExperience=Intern,Co-Op/Summer%20Intern&sort_by=timestamp"><img src="https://cdn.brandfetch.io/lockheedmartin.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lockheed Martin" height="20" style="vertical-align:middle; margin-right:6px;"> Lockheed Martin</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477890799">⭐️ EMI/Power Electrical Engineer - Intern</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://lockheedmartin.eightfold.ai/careers?location=United%20States&levelOfExperience=Intern,Co-Op/Summer%20Intern&sort_by=timestamp"><img src="https://cdn.brandfetch.io/lockheedmartin.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lockheed Martin" height="20" style="vertical-align:middle; margin-right:6px;"> Lockheed Martin</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://lockheedmartin.eightfold.ai/careers/job/996478059368">⭐️ Post Grad Student - Technical Intern</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://lockheedmartin.eightfold.ai/careers?location=United%20States&levelOfExperience=Intern,Co-Op/Summer%20Intern&sort_by=timestamp"><img src="https://cdn.brandfetch.io/lockheedmartin.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lockheed Martin" height="20" style="vertical-align:middle; margin-right:6px;"> Lockheed Martin</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://lockheedmartin.eightfold.ai/careers/job/996478059907">⭐️ Post Grad Student - Technical Intern</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://lockheedmartin.eightfold.ai/careers?location=United%20States&levelOfExperience=Intern,Co-Op/Summer%20Intern&sort_by=timestamp"><img src="https://cdn.brandfetch.io/lockheedmartin.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lockheed Martin" height="20" style="vertical-align:middle; margin-right:6px;"> Lockheed Martin</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://lockheedmartin.eightfold.ai/careers/job/996478059121">⭐️ College Student - Technical Summer Intern</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://lockheedmartin.eightfold.ai/careers?location=United%20States&levelOfExperience=Intern,Co-Op/Summer%20Intern&sort_by=timestamp"><img src="https://cdn.brandfetch.io/lockheedmartin.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lockheed Martin" height="20" style="vertical-align:middle; margin-right:6px;"> Lockheed Martin</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://lockheedmartin.eightfold.ai/careers/job/996478059987">⭐️ Post Grad Student - Technical Intern</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://lockheedmartin.eightfold.ai/careers?location=United%20States&levelOfExperience=Intern,Co-Op/Summer%20Intern&sort_by=timestamp"><img src="https://cdn.brandfetch.io/lockheedmartin.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lockheed Martin" height="20" style="vertical-align:middle; margin-right:6px;"> Lockheed Martin</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://lockheedmartin.eightfold.ai/careers/job/996477675469">⭐️ College Intern - Scientist</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/lilasciences/"><img src="https://cdn.brandfetch.io/lila.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lila Sciences" height="20" style="vertical-align:middle; margin-right:6px;"> Lila Sciences</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4472546009">Associate Director, Agentic Computational Platform</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/lilasciences/"><img src="https://cdn.brandfetch.io/lila.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lila Sciences" height="20" style="vertical-align:middle; margin-right:6px;"> Lila Sciences</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/lilasciences/jobs/4509101009">Lab Operations Manager</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5487188008">Software Engineer, Model-to-Product Behavior Engineering</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5293104008">Industry Principal, Insurance</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5491480008">Applied AI Architect, Technology Partnerships</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://recar.wd108.myworkdayjobs.com/SLATEcareers"><img src="https://cdn.brandfetch.io/slate.auto/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Slate Auto" height="20" style="vertical-align:middle; margin-right:6px;"> Slate Auto</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://recar.wd108.myworkdayjobs.com/SLATEcareers/job/Louisville-Kentucky/Manager--Facilities-Operations_JR101753">Manager, Facilities Operations</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh?workerSubType=247b1d93650401bb5dd910235911ff06&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/oshkoshcorp.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Oshkosh" height="20" style="vertical-align:middle; margin-right:6px;"> Oshkosh</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Product-Intern---Summer-2027_R50276">⭐️ Product Intern - Summer 2027</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ibm.com/careers/JobDetail?jobId=130903">Entry Level Product Manager, IBM Power - Austin, TX - 2027</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.ibm.com/careers/search?field_keyword_18[0]=Internship&field_keyword_05[0]=United%20States"><img src="https://cdn.brandfetch.io/ibm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="IBM" height="20" style="vertical-align:middle; margin-right:6px;"> IBM</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.ibm.com/careers/JobDetail?jobId=146459">Federal Associate Developer - Digital Product Engineering iX</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.morganstanley.com/careers/career-opportunities-search?opportunity=sg#"><img src="https://cdn.brandfetch.io/morganstanley.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Morgan Stanley" height="20" style="vertical-align:middle; margin-right:6px;"> Morgan Stanley</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://morganstanley.tal.net/vx/candidate/so/pm/1/pl/1/opp/22458">2027 Operations Off Cycle Analyst Programme (Luxembourg)</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.morganstanley.com/careers/career-opportunities-search?opportunity=sg#"><img src="https://cdn.brandfetch.io/morganstanley.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Morgan Stanley" height="20" style="vertical-align:middle; margin-right:6px;"> Morgan Stanley</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://morganstanley.tal.net/vx/candidate/so/pm/1/pl/1/opp/22455">⭐️ 2027 Investment Management Off-cycle Internship Channel Marketing (London)</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/cohere/"><img src="https://cdn.brandfetch.io/cohere.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Cohere" height="20" style="vertical-align:middle; margin-right:6px;"> Cohere</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/cohere/bb10d507-b8ca-4c48-a137-333b710b6908">Finance Systems Senior Analyst</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/cohere/"><img src="https://cdn.brandfetch.io/cohere.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Cohere" height="20" style="vertical-align:middle; margin-right:6px;"> Cohere</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/cohere/33dfe3cc-1fd2-4ba3-8c7c-e7e19cd477d7">Senior Global Benefits Specialist</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.sig.com/jobs"><img src="https://cdn.brandfetch.io/sig.com/w/320/h/320?c=1id3bKTXJOZMzbEUjOA" alt="Susquehanna" height="20" style="vertical-align:middle; margin-right:6px;"> Susquehanna</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.sig.com/jobs/14291">Discovery Programme: Trading System Engineer (On-site)</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers"><img src="https://cdn.brandfetch.io/rockwellautomation.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Rockwell Automation" height="20" style="vertical-align:middle; margin-right:6px;"> Rockwell Automation</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Milwaukee-Wisconsin-United-States/Intern--Software-Engineer_R26-5303-1">⭐️ Intern, Software Engineer</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers"><img src="https://cdn.brandfetch.io/rockwellautomation.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Rockwell Automation" height="20" style="vertical-align:middle; margin-right:6px;"> Rockwell Automation</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://rockwellautomation.wd1.myworkdayjobs.com/External-Rockwell-Automation-Early-Careers/job/Mequon-Wisconsin-United-States/Intern--Mechatronics---Electromagnetics_R26-8372-1">⭐️ Intern, Mechatronics & Electromagnetics</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://bostonscientific.eightfold.ai/careers?start=0&location=United+States&pid=563602797912246&sort_by=distance&filter_include_remote=1&filter_seniority=Intern"><img src="https://cdn.brandfetch.io/bostonscientific.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Boston Scientific" height="20" style="vertical-align:middle; margin-right:6px;"> Boston Scientific</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://bostonscientific.eightfold.ai/careers/job/563602813632172">⭐️ Software Test Engineer Co-op (Jan- Aug)</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.disneycareers.com/en/search-jobs?k=intern&alrpm=6252001"><img src="https://cdn.brandfetch.io/thewaltdisneycompany.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Disney" height="20" style="vertical-align:middle; margin-right:6px;"> Disney</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.disneycareers.com/en/job/glendale/product-design-accessories-intern-spring-2027/391/101275223024">⭐️ Product Design (Accessories) Intern, Spring 2027</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://leidos.wd5.myworkdayjobs.com/External?jobFamilyGroup=628672aa96cf106cf05cd4c3de06246b&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/leidos.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Leidos" height="20" style="vertical-align:middle; margin-right:6px;"> Leidos</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Network-Engineering---Operations-Intern_R-00197462">⭐️ Network Engineering & Operations Intern</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://leidos.wd5.myworkdayjobs.com/External?jobFamilyGroup=628672aa96cf106cf05cd4c3de06246b&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/leidos.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Leidos" height="20" style="vertical-align:middle; margin-right:6px;"> Leidos</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://leidos.wd5.myworkdayjobs.com/External/job/Clarksburg-WV/System-Administration-Cybersecurity-Intern_R-00197267">⭐️ System Administration/Cybersecurity Intern</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://leidos.wd5.myworkdayjobs.com/External?jobFamilyGroup=628672aa96cf106cf05cd4c3de06246b&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/leidos.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Leidos" height="20" style="vertical-align:middle; margin-right:6px;"> Leidos</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/SharePoint---Systems-Engineering-Intern_R-00197543">⭐️ SharePoint & Systems Engineering Intern</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://leidos.wd5.myworkdayjobs.com/External?jobFamilyGroup=628672aa96cf106cf05cd4c3de06246b&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/leidos.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Leidos" height="20" style="vertical-align:middle; margin-right:6px;"> Leidos</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Software-Engineering-Intern_R-00197526">⭐️ Software Engineering Intern</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://leidos.wd5.myworkdayjobs.com/External?jobFamilyGroup=628672aa96cf106cf05cd4c3de06246b&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/leidos.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Leidos" height="20" style="vertical-align:middle; margin-right:6px;"> Leidos</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Mechanical-Design-Intern_R-00197572">⭐️ Mechanical Design Intern</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://leidos.wd5.myworkdayjobs.com/External?jobFamilyGroup=628672aa96cf106cf05cd4c3de06246b&locationCountry=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/leidos.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Leidos" height="20" style="vertical-align:middle; margin-right:6px;"> Leidos</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Mechanical-Analysis-Intern_R-00197567">⭐️ Mechanical Analysis Intern</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://apply.hp.com/careers?query=internship&domain=hp.com&filter_seniority=internship&location=United%20States&sort_by=relevance"><img src="https://cdn.brandfetch.io/hp.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="HP" height="20" style="vertical-align:middle; margin-right:6px;"> HP</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://apply.hp.com/careers/job/45651652">⭐️ Personal Systems Engineering Internship</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers?workerSubType=189767dd6c920145d5c3e59c2c297819&Location_Country=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/samsung.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Samsung" height="20" style="vertical-align:middle; margin-right:6px;"> Samsung</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Software-Development-Engineer---Intern_R122018">⭐️ Software Development Engineer - Intern</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers?workerSubType=189767dd6c920145d5c3e59c2c297819&Location_Country=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/samsung.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Samsung" height="20" style="vertical-align:middle; margin-right:6px;"> Samsung</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/XMLNAME-5G-vRAN-Automation-Intern_R122025">⭐️ 5G vRAN Automation Intern</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers?workerSubType=189767dd6c920145d5c3e59c2c297819&Location_Country=bc33aa3152ec42d4995f4791a106ed09"><img src="https://cdn.brandfetch.io/samsung.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Samsung" height="20" style="vertical-align:middle; margin-right:6px;"> Samsung</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6555-Excellence-Way-Plano-TX-USA/Data-Engineer-Intern_R122374">⭐️ Data Engineer Intern</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://tmobile.wd1.myworkdayjobs.com/External?Job_Family_Group=426b19690b7b1036f85c59a787b10a19"><img src="https://cdn.brandfetch.io/t-mobile.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="T-Mobile" height="20" style="vertical-align:middle; margin-right:6px;"> T-Mobile</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Database-Platform-Engineering-Site-Reliability-Engineering---SRE---Internship_REQ380923">⭐️ Summer 2027 Database Platform Engineering Site Reliability Engineering \| SRE \| Internship</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://tmobile.wd1.myworkdayjobs.com/External?Job_Family_Group=426b19690b7b1036f85c59a787b10a19"><img src="https://cdn.brandfetch.io/t-mobile.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="T-Mobile" height="20" style="vertical-align:middle; margin-right:6px;"> T-Mobile</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Database-Platform-Engineering-Site-Reliability-Engineering---SRE--Internship_REQ380920">⭐️ Summer 2027 Database Platform Engineering Site Reliability Engineering \| SRE\| Internship</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/jobs?workerSubType=1f9406d5717e109875eae116f2c007e5"><img src="https://cdn.brandfetch.io/bose.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Bose" height="20" style="vertical-align:middle; margin-right:6px;"> Bose</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MI---Bloomfield-Hills/Associate-Customer-Quality-Engineer-Co-op_R29223">⭐️ Associate Customer Quality Engineer Co-op</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.mitre.org/us/en/search-results?keywords=student"><img src="https://cdn.brandfetch.io/mitre.org/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mitre" height="20" style="vertical-align:middle; margin-right:6px;"> Mitre</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.mitre.org/us/en/job/R118104/Sensor-Engineer-Intern">⭐️ Sensor Engineer - Intern</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.mitre.org/us/en/search-results?keywords=student"><img src="https://cdn.brandfetch.io/mitre.org/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mitre" height="20" style="vertical-align:middle; margin-right:6px;"> Mitre</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.mitre.org/us/en/job/R118091/Life-Sciences-Intern">⭐️ Life Sciences Intern</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers?workerSubType=b9bd15164d241000cf9857a64e2e0000"><img src="https://cdn.brandfetch.io/draper.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Draper" height="20" style="vertical-align:middle; margin-right:6px;"> Draper</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Houston-TX/Space-GNC-Intern--Summer-2027-_JR003127">⭐️ Space GNC Intern (Summer 2027)</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers?workerSubType=b9bd15164d241000cf9857a64e2e0000"><img src="https://cdn.brandfetch.io/draper.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Draper" height="20" style="vertical-align:middle; margin-right:6px;"> Draper</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://draper.wd5.myworkdayjobs.com/en-US/Draper_Careers/job/Cambridge-MA/Materials-and-Chemistry-Engineering-Intern--Summer-2027-_JR003177">⭐️ Materials and Chemistry Engineering Intern (Summer 2027)</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=bluerivertech"><img src="https://cdn.brandfetch.io/bluerivertechnology.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Blue River Technology" height="20" style="vertical-align:middle; margin-right:6px;"> Blue River Technology</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.bluerivertechnology.com/job/?gh_jid=8412537">Sr Robotics Software Manager, Perception</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://impulsespace.pinpointhq.com/"><img src="https://cdn.brandfetch.io/impulsespace.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Impulse Space" height="20" style="vertical-align:middle; margin-right:6px;"> Impulse Space</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://impulsespace.pinpointhq.com/en/postings/48a65117-77e4-44aa-8e26-bf9680989fb0">Facilities Project Manager</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://impulsespace.pinpointhq.com/"><img src="https://cdn.brandfetch.io/impulsespace.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Impulse Space" height="20" style="vertical-align:middle; margin-right:6px;"> Impulse Space</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://impulsespace.pinpointhq.com/en/postings/eef4f244-592c-4ae4-af29-7cbe296a224d">Ground Support Equipment Engineer</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://impulsespace.pinpointhq.com/"><img src="https://cdn.brandfetch.io/impulsespace.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Impulse Space" height="20" style="vertical-align:middle; margin-right:6px;"> Impulse Space</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://impulsespace.pinpointhq.com/en/postings/4e7b0f92-7315-4975-8afa-7c9926f5c332">Optical Test Lead Engineer</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://impulsespace.pinpointhq.com/"><img src="https://cdn.brandfetch.io/impulsespace.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Impulse Space" height="20" style="vertical-align:middle; margin-right:6px;"> Impulse Space</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://impulsespace.pinpointhq.com/en/postings/a3f9c1ec-0cdd-4687-ac20-01651ae22e49">Development Test Engineer (All Levels)</a></div></td>
-  <td>2026-11-23</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/saronic"><img src="https://cdn.brandfetch.io/saronic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Saronic" height="20" style="vertical-align:middle; margin-right:6px;"> Saronic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/saronic/a3312344-2cb9-40c0-b9a7-724de2fa97ee">Director of Growth Innovation</a></div></td>
-  <td>2026-11-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/hadrian-automation"><img src="https://cdn.brandfetch.io/hadrian.io/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Hadrian" height="20" style="vertical-align:middle; margin-right:6px;"> Hadrian</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/hadrian-automation/8d300218-a859-4db0-ae9e-092d0b722a5d">Counsel, Intellectual Property</a></div></td>
-  <td>2026-11-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/ce15d226-65db-43f1-98ec-078e96a3a281">Research Engineer / Research Scientist, Post-Training — Collective Alignment (User Signals)</a></div></td>
-  <td>2026-11-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/d1906ab2-b829-4a13-b1f2-f4af97d699fa">Research Engineer/Research Scientist-Post Training, Proactivity</a></div></td>
-  <td>2026-11-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/bc85c1a9-0f75-4c3a-807b-6d2bb26c8445">Research Engineer/Research Scientist- Post Training, Model Experience</a></div></td>
-  <td>2026-11-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/openai"><img src="https://cdn.brandfetch.io/openai.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="OpenAI" height="20" style="vertical-align:middle; margin-right:6px;"> OpenAI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/openai/ecfe655c-1369-4bcd-aae0-4a3b75fdf61b">Research Engineer / Research Scientist - Post Training, Memory</a></div></td>
-  <td>2026-11-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.eu.lever.co/mobileye"><img src="https://cdn.brandfetch.io/mobileye.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mobileye" height="20" style="vertical-align:middle; margin-right:6px;"> Mobileye</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.eu.lever.co/mobileye/7aa00e13-3ae1-4dd7-a853-cb5b2a535c6a">3D Deep Learning Algorithm Developer</a></div></td>
-  <td>2026-11-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.eu.lever.co/mobileye"><img src="https://cdn.brandfetch.io/mobileye.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mobileye" height="20" style="vertical-align:middle; margin-right:6px;"> Mobileye</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.eu.lever.co/mobileye/d32309a5-c166-4289-ba2b-1a23c07f1b9c">IT Support Specialist</a></div></td>
-  <td>2026-11-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.eu.lever.co/mobileye"><img src="https://cdn.brandfetch.io/mobileye.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mobileye" height="20" style="vertical-align:middle; margin-right:6px;"> Mobileye</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.eu.lever.co/mobileye/476f6623-79ac-4aa5-9e63-a49375e16df6">Technical Product Manager - AI & Algorithms</a></div></td>
-  <td>2026-11-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5491575008">Campaign Manager</a></div></td>
-  <td>2026-11-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5491578008">Head of Campaign Operations</a></div></td>
-  <td>2026-11-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5491573008">Program Manager, Cloud Partners</a></div></td>
-  <td>2026-11-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://lifeattiktok.com/search?recruitment_id_list=202%2C301&job_category_id_list=&subject_id_list=7459985269216905480%2C7459988146945116434%2C7602165694751705397%2C7602166391986194741%2C7602165701485299973%2C7602165694713678133&location_code_list=CT_247%2CCT_94%2CCT_243%2CCT_104%2CCT_114%2CCT_75%2CCT_1103355%2CCT_157%2CCT_233&limit=12&offset=0"><img src="https://cdn.brandfetch.io/tiktok.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="TikTok" height="20" style="vertical-align:middle; margin-right:6px;"> TikTok</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://lifeattiktok.com/search/7705023349533346101">⭐️ Client Security & Data Foundation Software Engineer - Intern (TikTok BRIC) - 2027 Start</a></div></td>
-  <td>2026-11-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.amd.com/careers-home/jobs?categories=Student%20%2F%20Intern%20%2F%20Temp&tags1=No&country=United%20States"><img src="https://cdn.brandfetch.io/amd.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="AMD" height="20" style="vertical-align:middle; margin-right:6px;"> AMD</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.amd.com/careers-home/jobs/90475">⭐️ Spring/Summer 2027 Undergrad BIOS Engineering Co-Op</a></div></td>
-  <td>2026-11-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.amd.com/careers-home/jobs?categories=Student%20%2F%20Intern%20%2F%20Temp&tags1=No&country=United%20States"><img src="https://cdn.brandfetch.io/amd.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="AMD" height="20" style="vertical-align:middle; margin-right:6px;"> AMD</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.amd.com/careers-home/jobs/89557">⭐️ Spring/Summer 2027 Masters AI Rack & Cluster Thermal Engineering Co-Op</a></div></td>
-  <td>2026-11-22</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"><img src="https://cdn.brandfetch.io/nvidia.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nvidia" height="20" style="vertical-align:middle; margin-right:6px;"> Nvidia</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-Intern--DGX-Products---Summer-2027_JR2029456-1">⭐️ Product Marketing Intern, DGX Products - Summer 2027</a></div></td>
-  <td>2026-11-21</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"><img src="https://cdn.brandfetch.io/nvidia.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nvidia" height="20" style="vertical-align:middle; margin-right:6px;"> Nvidia</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Accounting-AI-Solution-Engineer-Intern---Summer-2027_JR2029155-1">⭐️ Accounting AI Solution Engineer Intern - Summer 2027</a></div></td>
-  <td>2026-11-21</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"><img src="https://cdn.brandfetch.io/nvidia.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nvidia" height="20" style="vertical-align:middle; margin-right:6px;"> Nvidia</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Marketing-Engineering-Intern--Digital-Biology-and-Scientific-Computing---Summer-2027_JR2029793">⭐️ Technical Marketing Engineering Intern, Digital Biology and Scientific Computing - Summer 2027</a></div></td>
-  <td>2026-11-21</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/spacex"><img src="https://cdn.brandfetch.io/spacex.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="SpaceX" height="20" style="vertical-align:middle; margin-right:6px;"> SpaceX</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://boards.greenhouse.io/spacex/jobs/8957873002?gh_jid=8957873002">New Graduate Engineer, Electrical (Starfall)</a></div></td>
-  <td>2026-11-21</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/nerostechnologies/"><img src="https://cdn.brandfetch.io/nerostechnologies.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Neros Technologies" height="20" style="vertical-align:middle; margin-right:6px;"> Neros Technologies</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/nerostechnologies/jobs/5273167007">⭐️ Autonomy Intern - Summer 2027</a></div></td>
-  <td>2026-11-21</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/nerostechnologies/"><img src="https://cdn.brandfetch.io/nerostechnologies.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Neros Technologies" height="20" style="vertical-align:middle; margin-right:6px;"> Neros Technologies</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/nerostechnologies/jobs/5273149007">⭐️ Electrical Engineering Intern - Summer 2027</a></div></td>
-  <td>2026-11-21</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/nerostechnologies/"><img src="https://cdn.brandfetch.io/nerostechnologies.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Neros Technologies" height="20" style="vertical-align:middle; margin-right:6px;"> Neros Technologies</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/nerostechnologies/jobs/4648209007">⭐️ Mechanical Engineer Intern - Summer 2027</a></div></td>
-  <td>2026-11-21</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/nerostechnologies/"><img src="https://cdn.brandfetch.io/nerostechnologies.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Neros Technologies" height="20" style="vertical-align:middle; margin-right:6px;"> Neros Technologies</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007">⭐️ Firmware/Embedded Software Engineer Intern - Summer 2027</a></div></td>
-  <td>2026-11-21</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/anthropic"><img src="https://cdn.brandfetch.io/anthropic.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anthropic" height="20" style="vertical-align:middle; margin-right:6px;"> Anthropic</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/anthropic/jobs/5489567008">Research Engineer, Finetuning</a></div></td>
-  <td>2026-11-21</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.mitre.org/us/en/search-results?keywords=student"><img src="https://cdn.brandfetch.io/mitre.org/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mitre" height="20" style="vertical-align:middle; margin-right:6px;"> Mitre</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.mitre.org/us/en/job/R118077/Underwater-Sensors-Engineer-Intern">⭐️ Underwater Sensors Engineer Intern</a></div></td>
-  <td>2026-11-21</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"><img src="https://cdn.brandfetch.io/nvidia.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nvidia" height="20" style="vertical-align:middle; margin-right:6px;"> Nvidia</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Cost-Accountant-Intern--Global-Operations-and-Manufacturing---Summer-2027_JR2028934-1">⭐️ Cost Accountant Intern, Global Operations and Manufacturing - Summer 2027</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8"><img src="https://cdn.brandfetch.io/nvidia.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Nvidia" height="20" style="vertical-align:middle; margin-right:6px;"> Nvidia</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Finance-AI-Engineering-Intern---Summer-2027_JR2029131">⭐️ Finance AI Engineering Intern - Summer 2027</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://apply.careers.microsoft.com/careers?query=intern&location=United%20States&sort_by=relevance"><img src="https://cdn.brandfetch.io/microsoft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Microsoft" height="20" style="vertical-align:middle; margin-right:6px;"> Microsoft</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://apply.careers.microsoft.com/careers/job/1970393557076525">⭐️ Research Intern - Quantum Applications</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://apply.careers.microsoft.com/careers?query=intern&location=United%20States&sort_by=relevance"><img src="https://cdn.brandfetch.io/microsoft.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Microsoft" height="20" style="vertical-align:middle; margin-right:6px;"> Microsoft</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://apply.careers.microsoft.com/careers/job/1970393557077583">⭐️ Research Intern - AI System Architecture Modeling and Performance</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.amazon.jobs/en/search?base_query=intern&country%5B%5D=USA&sort=recent"><img src="https://cdn.brandfetch.io/amazon.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Amazon" height="20" style="vertical-align:middle; margin-right:6px;"> Amazon</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.amazon.jobs/en/jobs/10610836/design-technologist-intern-fy2027-summer">⭐️ Design Technologist Intern FY2027 (Summer)</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.metacareers.com/jobsearch/?roles[0]=Internship"><img src="https://cdn.brandfetch.io/meta.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Meta" height="20" style="vertical-align:middle; margin-right:6px;"> Meta</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.metacareers.com/profile/job_details/4110138665949300/">⭐️ Research Scientist Intern, Security & Integrity (PhD)</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.rivian.com/careers-home/jobs?sortBy=relevance&page=1&limit=100&categories=Internships%20%26%20Early%20Career"><img src="https://cdn.brandfetch.io/rivian.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Rivian" height="20" style="vertical-align:middle; margin-right:6px;"> Rivian</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.rivian.com/careers-home/jobs/37339">⭐️ Software Engineering Intern - AI Platform, Autonomy (Summer 2027)</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.rivian.com/careers-home/jobs?sortBy=relevance&page=1&limit=100&categories=Internships%20%26%20Early%20Career"><img src="https://cdn.brandfetch.io/rivian.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Rivian" height="20" style="vertical-align:middle; margin-right:6px;"> Rivian</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.rivian.com/careers-home/jobs/37688">Early Career - AI Platform, Autonomy</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://careers.rivian.com/careers-home/jobs?sortBy=relevance&page=1&limit=100&categories=Internships%20%26%20Early%20Career"><img src="https://cdn.brandfetch.io/rivian.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Rivian" height="20" style="vertical-align:middle; margin-right:6px;"> Rivian</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://careers.rivian.com/careers-home/jobs/37510">Early Career - Vehicle Features & Systems Engineer</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/kodiak"><img src="https://cdn.brandfetch.io/kodiak.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Kodiak Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Kodiak Robotics</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/kodiak/jobs/4511823009">Vehicle Integration Engineer</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/kodiak"><img src="https://cdn.brandfetch.io/kodiak.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Kodiak Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Kodiak Robotics</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/kodiak/jobs/4517637009">Autonomous Fleet Specialist</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.lever.co/tri/?commitment=Intern"><img src="https://cdn.brandfetch.io/tri.global/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Toyota Research Insitute" height="20" style="vertical-align:middle; margin-right:6px;"> Toyota Research Insitute</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.lever.co/tri/2d9833d5-a940-4862-b13b-a1ecc9378fea">⭐️ Robotics Intern, UX Design</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.merl.com/employment/internship-openings"><img src="https://cdn.brandfetch.io/mitsubishielectric.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mitsubishi Electric Research Laboratories" height="20" style="vertical-align:middle; margin-right:6px;"> Mitsubishi Electric Research Laboratories</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.merl.com/employment/internship-openings#CV0361">⭐️ CV0361: Internship - Training Efficient Vision + Language Reasoning Models</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.merl.com/employment/internship-openings"><img src="https://cdn.brandfetch.io/mitsubishielectric.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Mitsubishi Electric Research Laboratories" height="20" style="vertical-align:middle; margin-right:6px;"> Mitsubishi Electric Research Laboratories</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.merl.com/employment/internship-openings#OR0362">⭐️ OR0362: Internship - Robot Learning</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://api.smartrecruiters.com/v1/companies/Intuitive/postings?country=us&custom_field.61211d107c9ac71cd5f99177=fcd8045c-1621-41d9-8992-5dc498d4875e&custom_field.612118931fa63c295566925f=EMP2"><img src="https://cdn.brandfetch.io/intuitivesurgical.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Intuitive Surgical" height="20" style="vertical-align:middle; margin-right:6px;"> Intuitive Surgical</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.smartrecruiters.com/Intuitive/744000162832659">⭐️ Data Engineering Intern</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM?Location_Country=bc33aa3152ec42d4995f4791a106ed09&jobFamilyGroup=81219c91208501029134b6999c1b05d6"><img src="https://cdn.brandfetch.io/gm.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="General Motors" height="20" style="vertical-align:middle; margin-right:6px;"> General Motors</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Cybersecurity-Education---Awareness-Program-Intern_JR-202624606">⭐️ 2027 Summer Intern - Cybersecurity Education & Awareness Program Intern</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/locusrobotics"><img src="https://cdn.brandfetch.io/locusrobotics.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Locus Robotics" height="20" style="vertical-align:middle; margin-right:6px;"> Locus Robotics</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/locusrobotics/jobs/5285813007">Senior Manufacturing Test Engineer - Robotics</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=apptronik"><img src="https://cdn.brandfetch.io/apptronik.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Apptronik" height="20" style="vertical-align:middle; margin-right:6px;"> Apptronik</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://boards.greenhouse.io/apptronik/jobs/6267153004?gh_jid=6267153004">Director of Social Media and Content</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=apptronik"><img src="https://cdn.brandfetch.io/apptronik.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Apptronik" height="20" style="vertical-align:middle; margin-right:6px;"> Apptronik</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://boards.greenhouse.io/apptronik/jobs/6267259004?gh_jid=6267259004">Mechanical Engineer – Structural Simulation & Analysis</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=apptronik"><img src="https://cdn.brandfetch.io/apptronik.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Apptronik" height="20" style="vertical-align:middle; margin-right:6px;"> Apptronik</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://boards.greenhouse.io/apptronik/jobs/6266320004?gh_jid=6266320004">Staff Mechanical Engineer – Torso</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/lucidmotors"><img src="https://cdn.brandfetch.io/lucidmotors.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lucid Motors" height="20" style="vertical-align:middle; margin-right:6px;"> Lucid Motors</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://lucidmotors.com/careers/search/5290923007?gh_jid=5290923007">⭐️ Intern, AI/ML, Vehicle Infotainment, Summer 2027</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/lucidmotors"><img src="https://cdn.brandfetch.io/lucidmotors.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lucid Motors" height="20" style="vertical-align:middle; margin-right:6px;"> Lucid Motors</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://lucidmotors.com/careers/search/5290899007?gh_jid=5290899007">⭐️ Intern, Vehicle Motion Controls Engineer, Summer 2027</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/lucidmotors"><img src="https://cdn.brandfetch.io/lucidmotors.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lucid Motors" height="20" style="vertical-align:middle; margin-right:6px;"> Lucid Motors</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://lucidmotors.com/careers/search/5290949007?gh_jid=5290949007">⭐️ Power Electronics Control Engineer Intern, Summer 2027</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/lucidmotors"><img src="https://cdn.brandfetch.io/lucidmotors.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lucid Motors" height="20" style="vertical-align:middle; margin-right:6px;"> Lucid Motors</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://lucidmotors.com/careers/search/5290796007?gh_jid=5290796007">⭐️ Intern, ADAS Platform Tools, Summer 2027</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/lucidmotors"><img src="https://cdn.brandfetch.io/lucidmotors.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Lucid Motors" height="20" style="vertical-align:middle; margin-right:6px;"> Lucid Motors</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://lucidmotors.com/careers/search/5290848007?gh_jid=5290848007">⭐️ Intern, Exterior Design, Sumer 2027</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/avride/jobs/4502926009">AV Quality Control Technician - Contract</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/avride/"><img src="https://cdn.brandfetch.io/avride.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Avride" height="20" style="vertical-align:middle; margin-right:6px;"> Avride</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/avride/jobs/4516788009">Research Engineer, Computer Vision</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/aurora-operations-inc/"><img src="https://cdn.brandfetch.io/aurora.tech/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Aurora Innovation" height="20" style="vertical-align:middle; margin-right:6px;"> Aurora Innovation</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/aurora-operations-inc/18e56154-6bd9-4668-a046-1616ef6950a5">Senior Program Manager, Mapping Operations</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/aurora-operations-inc/"><img src="https://cdn.brandfetch.io/aurora.tech/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Aurora Innovation" height="20" style="vertical-align:middle; margin-right:6px;"> Aurora Innovation</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/aurora-operations-inc/2d50e4c7-1fdc-49c8-8e83-81fc6c80b2a1">Staff Process Operations Engineer</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/aurora-operations-inc/"><img src="https://cdn.brandfetch.io/aurora.tech/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Aurora Innovation" height="20" style="vertical-align:middle; margin-right:6px;"> Aurora Innovation</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/aurora-operations-inc/45e34669-2700-4201-8cc2-efeb77d53b8a">Procurement Specialist</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/aurora-operations-inc/"><img src="https://cdn.brandfetch.io/aurora.tech/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Aurora Innovation" height="20" style="vertical-align:middle; margin-right:6px;"> Aurora Innovation</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/aurora-operations-inc/656da25a-f807-4f1c-b3c9-d6af8cc935ee">Manager, Mapping Programs</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/aurora-operations-inc/"><img src="https://cdn.brandfetch.io/aurora.tech/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Aurora Innovation" height="20" style="vertical-align:middle; margin-right:6px;"> Aurora Innovation</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/aurora-operations-inc/f1c72f1c-8270-4526-a642-fcb61a4b4d26">⭐️ Hardware Systems Engineering Intern</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/sunday/"><img src="https://cdn.brandfetch.io/sunday.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Sunday" height="20" style="vertical-align:middle; margin-right:6px;"> Sunday</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/sunday/ce2dc91d-4a6f-44fc-8f88-5cbf4cdc7c8f">Test Operations Lead</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=andurilindustries"><img src="https://cdn.brandfetch.io/anduril.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anduril" height="20" style="vertical-align:middle; margin-right:6px;"> Anduril</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5303479007?gh_jid=5303479007">Mission Systems Engineer, Early Career</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=andurilindustries"><img src="https://cdn.brandfetch.io/anduril.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anduril" height="20" style="vertical-align:middle; margin-right:6px;"> Anduril</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5303553007?gh_jid=5303553007">Radar Systems Engineer, Early Career</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/embed/job_board?for=andurilindustries"><img src="https://cdn.brandfetch.io/anduril.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Anduril" height="20" style="vertical-align:middle; margin-right:6px;"> Anduril</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://boards.greenhouse.io/andurilindustries/jobs/5303550007?gh_jid=5303550007">RF Integration Systems Engineer, Early Career</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://ats.rippling.com/forterra/jobs?page=0&searchQuery=&workplaceType=&country=&state=&city=&pageSize=100"><img src="https://cdn.brandfetch.io/forterra.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Forterra" height="20" style="vertical-align:middle; margin-right:6px;"> Forterra</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://ats.rippling.com/forterra/jobs/0935d4e4-5635-4623-8436-78d0bc7b760e">Industrial Designer</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://ats.rippling.com/forterra/jobs?page=0&searchQuery=&workplaceType=&country=&state=&city=&pageSize=100"><img src="https://cdn.brandfetch.io/forterra.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Forterra" height="20" style="vertical-align:middle; margin-right:6px;"> Forterra</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://ats.rippling.com/forterra/jobs/7130f751-84c8-49a9-85e3-83f3fe4c32aa">Simulation Test Engineering Lead</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://ats.rippling.com/forterra/jobs?page=0&searchQuery=&workplaceType=&country=&state=&city=&pageSize=100"><img src="https://cdn.brandfetch.io/forterra.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Forterra" height="20" style="vertical-align:middle; margin-right:6px;"> Forterra</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://ats.rippling.com/forterra/jobs/161eb630-37d5-4e30-954a-9eca7e21b34b">Technical Program Manager</a></div></td>
-  <td>2026-11-20</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://job-boards.greenhouse.io/gatherai/?offices%5B%5D=4001902007"><img src="https://cdn.brandfetch.io/gather.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Gather AI" height="20" style="vertical-align:middle; margin-right:6px;"> Gather AI</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://job-boards.greenhouse.io/gatherai/jobs/5293745007">Future Opportunity - Customer, Brand and People</a></div></td>
-  <td>2026-11-20</td>
 </tr>
 
   </tbody>

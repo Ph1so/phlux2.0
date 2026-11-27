@@ -948,7 +948,8 @@
         "date": "2026-10-13",
         "id": "eightfold:1970393557040502",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557040502",
-        "location": "United States, Massachusetts, Cambridge +1"
+        "location": "United States, Massachusetts, Cambridge +1",
+        "closed": "2026-11-27"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Audio and Acoustics",
@@ -109101,7 +109102,8 @@
         "date": "N/A",
         "id": "ashby:a3a69960-3c85-4b11-b9b7-d4056d406c2e",
         "url": "https://jobs.ashbyhq.com/cohere/a3a69960-3c85-4b11-b9b7-d4056d406c2e",
-        "location": "New York +2"
+        "location": "New York +2",
+        "closed": "2026-11-27"
       },
       {
         "title": "Forward Deployed Engineer, Agentic Platform",
@@ -109825,7 +109827,8 @@
         "date": "2026-11-13",
         "id": "ashby:2dc422bb-6759-4867-afb6-dc074af9ae58",
         "url": "https://jobs.ashbyhq.com/cohere/2dc422bb-6759-4867-afb6-dc074af9ae58",
-        "location": "San Francisco +5"
+        "location": "San Francisco +5",
+        "closed": "2026-11-27"
       },
       {
         "title": "Staff Software Engineer, Data Infrastructure",
@@ -131252,12 +131255,1820 @@
         "location": "Watertown, MA",
         "closed": "2026-11-20"
       }
+    ],
+    "MIT Lincoln Laboratory": [
+      {
+        "title": "Business/Systems Analyst-Accounts Payable Systems",
+        "date": "2026-11-27",
+        "id": "successfactors:1444912200",
+        "url": "https://careers.ll.mit.edu/job/Lexington-BusinessSystems-Analyst-Accounts-Payable-Systems-MA-02420/1444912200/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Department Business Manager",
+        "date": "2026-11-27",
+        "id": "successfactors:1444569600",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Department-Business-Manager-MA-02420/1444569600/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, Space Tactics and Test (Group 09-93)",
+        "date": "2026-11-27",
+        "id": "successfactors:1444442100",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Space-Tactics-and-Test-%28Group-09-93%29-MA-02420/1444442100/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, Tactical Satellite Communications (Group 06-64)",
+        "date": "2026-11-27",
+        "id": "successfactors:1444691700",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Tactical-Satellite-Communications-%28Group-06-64%29-MA-02420/1444691700/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, Electric Grid Communications Security, Energy Systems (Gr 47)",
+        "date": "2026-11-27",
+        "id": "successfactors:1444706900",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Electric-Grid-Communications-Security%2C-Energy-Systems-%28Gr-47%29-MA-02420/1444706900/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, Homeland Sensors and Analytics (Group 45)",
+        "date": "2026-11-27",
+        "id": "successfactors:1444705100",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Homeland-Sensors-and-Analytics-%28Group-45%29-MA-02420/1444705100/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, CI Cybersecurity, Energy Systems (Group 47)",
+        "date": "2026-11-27",
+        "id": "successfactors:1444705900",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-CI-Cybersecurity%2C-Energy-Systems-%28Group-47%29-MA-02420/1444705900/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Enterprise Collaboration & Web Services Co-op (Fall 2026) - Group 11-80",
+        "date": "2026-11-27",
+        "id": "successfactors:1425057500",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Enterprise-Collaboration-&-Web-Services-Co-op-%28Fall-2026%29-Group-11-80-MA-02420/1425057500/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Cyber Security Co-op (Winter/Spring 2027) - Group 11-10",
+        "date": "2026-11-27",
+        "id": "successfactors:1425058400",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Cyber-Security-Co-op-%28WinterSpring-2027%29-Group-11-10-MA-02420/1425058400/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Laser Communications Intern (Summer 2027) - Group 66",
+        "date": "2026-11-27",
+        "id": "successfactors:1425055300",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Laser-Communications-Intern-%28Summer-2027%29-Group-66-MA-02420/1425055300/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Associate Staff (Space Tactics and Test Group)",
+        "date": "2026-11-27",
+        "id": "successfactors:1425100200",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Associate-Staff-%28Space-Tactics-and-Test-Group%29-MA-02420/1425100200/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Strategic & Long-Range Communications Intern (Summer 2027) - Group 61",
+        "date": "2026-11-27",
+        "id": "successfactors:1435095600",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Strategic-&-Long-Range-Communications-Intern-%28Summer-2027%29-Group-61-MA-02420/1435095600/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Optical Engineering Intern - Optical Specialist (Summer 2027) - Group 78",
+        "date": "2026-11-27",
+        "id": "successfactors:1435096800",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Optical-Engineering-Intern-Optical-Specialist-%28Summer-2027%29-Group-78-MA-02420/1435096800/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Inspector B (Mechanical)",
+        "date": "2026-11-27",
+        "id": "successfactors:1411530400",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Inspector-B-%28Mechanical%29-MA-02420/1411530400/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Technician A (E-M)",
+        "date": "2026-11-27",
+        "id": "successfactors:1409232500",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Technician-A-%28E-M%29-MA-02420/1409232500/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, Mechanical Engineering (Group 07-71)",
+        "date": "2026-11-27",
+        "id": "successfactors:1434255400",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Mechanical-Engineering-%28Group-07-71%29-MA-02420/1434255400/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Microelectronics Intern 2027, Advanced Imager Technology (Group 08-87)",
+        "date": "2026-11-27",
+        "id": "successfactors:1434255100",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Microelectronics-Intern-2027%2C-Advanced-Imager-Technology-%28Group-08-87%29-MA-02420/1434255100/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, Air Traffic Control Systems (Group 04-43)",
+        "date": "2026-11-27",
+        "id": "successfactors:1434254800",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Air-Traffic-Control-Systems-%28Group-04-43%29-MA-02420/1434254800/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Mechanical Engineering Co-Op (Winter/Spring 2027) - Group 07-71",
+        "date": "2026-11-27",
+        "id": "successfactors:1434254300",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Mechanical-Engineering-Co-Op-%28WinterSpring-2027%29-Group-07-71-MA-02420/1434254300/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Homeland Protection Systems Student Technical Assistant (Fall 2026) - Group 04-46",
+        "date": "2026-11-27",
+        "id": "successfactors:1434252400",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Homeland-Protection-Systems-Student-Technical-Assistant-%28Fall-2026%29-Group-04-46-MA-02420/1434252400/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, Systems & Architectures (Group 03-31)",
+        "date": "2026-11-27",
+        "id": "successfactors:1434252800",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Systems-&-Architectures-%28Group-03-31%29-MA-02420/1434252800/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Senior Subcontracts Administrator",
+        "date": "2026-11-27",
+        "id": "successfactors:1434581400",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Senior-Subcontracts-Administrator-MA-02420/1434581400/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, Advanced Undersea Systems and Technology (Group 03-37)",
+        "date": "2026-11-27",
+        "id": "successfactors:1434253400",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Advanced-Undersea-Systems-and-Technology-%28Group-03-37%29-MA-02420/1434253400/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Cyber Defense Specialist",
+        "date": "2026-11-27",
+        "id": "successfactors:1288813200",
+        "url": "https://careers.ll.mit.edu/job/Ft-Meade-Cyber-Defense-Specialist-MD-20755/1288813200/",
+        "location": "Ft Meade, MD"
+      },
+      {
+        "title": "Assistant Staff 1/2 - Electronics, Circuits & Test Engineer",
+        "date": "2026-11-27",
+        "id": "successfactors:1453686000",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Assistant-Staff-12-Electronics%2C-Circuits-&-Test-Engineer-MA-02420/1453686000/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "91:Associate Staff 3/4 (GNC)",
+        "date": "2026-11-27",
+        "id": "successfactors:1453852100",
+        "url": "https://careers.ll.mit.edu/job/Lexington-91Associate-Staff-34-%28GNC%29-MA-02420/1453852100/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Engineering Design Team Leader",
+        "date": "2026-11-27",
+        "id": "successfactors:1453876600",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Engineering-Design-Team-Leader-MA-02420/1453876600/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Associate Staff 3/4",
+        "date": "2026-11-27",
+        "id": "successfactors:1453832200",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Associate-Staff-34-MA-02420/1453832200/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, Integrated RF & Photonics (Group 08-85)",
+        "date": "2026-11-27",
+        "id": "successfactors:1443775500",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Integrated-RF-&-Photonics-%28Group-08-85%29-MA-02420/1443775500/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Administrative Assistant V",
+        "date": "2026-11-27",
+        "id": "successfactors:1453509900",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Administrative-Assistant-V-MA-02420/1453509900/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Industrial Security Risk Specialist",
+        "date": "2026-11-27",
+        "id": "successfactors:1453469300",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Industrial-Security-Risk-Specialist-MA-02420/1453469300/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Collateral Information System Security Officer",
+        "date": "2026-11-27",
+        "id": "successfactors:1453464700",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Collateral-Information-System-Security-Officer-MA-02420/1453464700/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Optical Fabrication Specialist",
+        "date": "2026-11-27",
+        "id": "successfactors:1453473300",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Optical-Fabrication-Specialist-MA-02420/1453473300/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Assistant Business Manager",
+        "date": "2026-11-27",
+        "id": "successfactors:1453474900",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Assistant-Business-Manager-MA-02420/1453474900/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Assistant Staff 1/2 - Experimentalist",
+        "date": "2026-11-27",
+        "id": "successfactors:1453267000",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Assistant-Staff-12-Experimentalist-MA-02420/1453267000/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Group Administrative Assistant (Software and Electronics Engineering Group)",
+        "date": "2026-11-27",
+        "id": "successfactors:1443429600",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Group-Administrative-Assistant-%28Software-and-Electronics-Engineering-Group%29-MA-02420/1443429600/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Information System Security Officer",
+        "date": "2026-11-27",
+        "id": "successfactors:1414255100",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Information-System-Security-Officer-MA-02420/1414255100/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Assistant Staff 1/2 - Signal Processing & Software Engineer",
+        "date": "2026-11-27",
+        "id": "successfactors:1453264600",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Assistant-Staff-12-Signal-Processing-&-Software-Engineer-MA-02420/1453264600/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Technical Staff (Level 5)",
+        "date": "2026-11-27",
+        "id": "successfactors:1453094000",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Technical-Staff-%28Level-5%29-MA-02420/1453094000/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Financial Manager - FPS",
+        "date": "2026-11-27",
+        "id": "successfactors:1413787000",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Financial-Manager-FPS-MA-02420/1413787000/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Lab Manager",
+        "date": "2026-11-27",
+        "id": "successfactors:1424084300",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Lab-Manager-MA-02420/1424084300/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Senior Electronics Engineer-Technical Staff",
+        "date": "2026-11-27",
+        "id": "successfactors:1370697200",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Senior-Electronics-Engineer-Technical-Staff-MA-02420/1370697200/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, Cyber Operations and Analysis Technology (Group 05-57)",
+        "date": "2026-11-27",
+        "id": "successfactors:1443329200",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Cyber-Operations-and-Analysis-Technology-%28Group-05-57%29-MA-02420/1443329200/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Systems Administrator",
+        "date": "2026-11-27",
+        "id": "successfactors:1423383200",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Systems-Administrator-MA-02420/1423383200/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Optical Engineering Intern - Optical Engineer (Summer 2027) - Group 78",
+        "date": "2026-11-27",
+        "id": "successfactors:1433573800",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Optical-Engineering-Intern-Optical-Engineer-%28Summer-2027%29-Group-78-MA-02420/1433573800/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Special Security Representative",
+        "date": "2026-11-27",
+        "id": "successfactors:1433582300",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Special-Security-Representative-MA-02420/1433582300/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, Interceptor and Sensor Technology (Group 03-38)",
+        "date": "2026-11-27",
+        "id": "successfactors:1433606100",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Interceptor-and-Sensor-Technology-%28Group-03-38%29-MA-02420/1433606100/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, Advanced Electro-Optical Systems (Group 09-99)",
+        "date": "2026-11-27",
+        "id": "successfactors:1442772900",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Advanced-Electro-Optical-Systems-%28Group-09-99%29-MA-02420/1442772900/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, AI and Geospatial Analysis for Natural Hazards (04-47)",
+        "date": "2026-11-27",
+        "id": "successfactors:1442894100",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-AI-and-Geospatial-Analysis-for-Natural-Hazards-%2804-47%29-MA-02420/1442894100/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Information System Security Officer",
+        "date": "2026-11-27",
+        "id": "successfactors:1442633000",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Information-System-Security-Officer-MA-02420/1442633000/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Systems Engineer-Identity Management Systems",
+        "date": "2026-11-27",
+        "id": "successfactors:1442755100",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Systems-Engineer-Identity-Management-Systems-MA-02420/1442755100/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Business/Systems Analyst Co-Op, Compliance & Data (January - June 2027) - Group 16-40",
+        "date": "2026-11-27",
+        "id": "successfactors:1442888600",
+        "url": "https://careers.ll.mit.edu/job/Lexington-BusinessSystems-Analyst-Co-Op%2C-Compliance-&-Data-%28January-June-2027%29-Group-16-40-MA-02420/1442888600/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Rapid Prototyping Aero/Mech Co-Op - Group 77",
+        "date": "2026-11-27",
+        "id": "successfactors:1423005300",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Rapid-Prototyping-AeroMech-Co-Op-Group-77-MA-02420/1423005300/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "G94 Technician A (Electronic)",
+        "date": "2026-11-27",
+        "id": "successfactors:1432873200",
+        "url": "https://careers.ll.mit.edu/job/Lexington-G94-Technician-A-%28Electronic%29-MA-02420/1432873200/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Systems Analyst-Associate Staff",
+        "date": "2026-11-27",
+        "id": "successfactors:1452551800",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Systems-Analyst-Associate-Staff-MA-02420/1452551800/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Medical Imaging AI",
+        "date": "2026-11-27",
+        "id": "successfactors:1452552800",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Medical-Imaging-AI-MA-02420/1452552800/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, Embedded and AI Systems (Group 10-02)",
+        "date": "2026-11-27",
+        "id": "successfactors:1452673700",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Embedded-and-AI-Systems-%28Group-10-02%29-MA-02420/1452673700/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Full Staff: Cybersecurity Research Scientist / Engineer: Secure Systems",
+        "date": "2026-11-27",
+        "id": "successfactors:1452795600",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Full-Staff-Cybersecurity-Research-Scientist-Engineer-Secure-Systems-MA-02420/1452795600/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Associate Staff: Cybersecurity Researcher / Engineer: Secure Systems",
+        "date": "2026-11-27",
+        "id": "successfactors:1452795800",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Associate-Staff-Cybersecurity-Researcher-Engineer-Secure-Systems-MA-02420/1452795800/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Assistant Business Manager",
+        "date": "2026-11-27",
+        "id": "successfactors:1452562400",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Assistant-Business-Manager-MA-02420/1452562400/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Tactical Satellite Communications Co-Op, Spring 2027 (Group 06-64)",
+        "date": "2026-11-27",
+        "id": "successfactors:1452675600",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Tactical-Satellite-Communications-Co-Op%2C-Spring-2027-%28Group-06-64%29-MA-02420/1452675600/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Staff Scientist - Systems Analyst",
+        "date": "2026-11-27",
+        "id": "successfactors:1452759700",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Staff-Scientist-Systems-Analyst-MA-02420/1452759700/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Assistant Staff 1/2 - Facilities and Operations Engineer",
+        "date": "2026-11-27",
+        "id": "successfactors:1452772600",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Assistant-Staff-12-Facilities-and-Operations-Engineer-MA-02420/1452772600/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Retirement & Benefits Representative",
+        "date": "2026-11-27",
+        "id": "successfactors:1452749200",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Retirement-&-Benefits-Representative-MA-02420/1452749200/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Data Analyst",
+        "date": "2026-11-27",
+        "id": "successfactors:1452537000",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Data-Analyst-MA-02420/1452537000/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Senior IT Systems Engineer",
+        "date": "2026-11-27",
+        "id": "successfactors:1442450300",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Senior-IT-Systems-Engineer-MA-02420/1442450300/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, Structural & Thermal-Fluids Engineering (Group Group 07-74)",
+        "date": "2026-11-27",
+        "id": "successfactors:1442417400",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Structural-&-Thermal-Fluids-Engineering-%28Group-Group-07-74%29-MA-02420/1442417400/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, Biological and Chemical Technologies (Group 02-23)",
+        "date": "2026-11-27",
+        "id": "successfactors:1442387900",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Biological-and-Chemical-Technologies-%28Group-02-23%29-MA-02420/1442387900/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Assistant Business Manager",
+        "date": "2026-11-27",
+        "id": "successfactors:1422336300",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Assistant-Business-Manager-MA-02420/1422336300/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Technical Staff 5/6 - Thermal-Fluids and Space Thermal Engineer",
+        "date": "2026-11-27",
+        "id": "successfactors:1452091800",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Technical-Staff-56-Thermal-Fluids-and-Space-Thermal-Engineer-MA-02420/1452091800/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Prototype Engineer",
+        "date": "2026-11-27",
+        "id": "successfactors:1452128300",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Prototype-Engineer-MA-02420/1452128300/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Technical Staff 5/6 - Hypersonic and multi-physics simulation",
+        "date": "2026-11-27",
+        "id": "successfactors:1452092200",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Technical-Staff-56-Hypersonic-and-multi-physics-simulation-MA-02420/1452092200/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Associate Staff 3/4 - Systems Engineer",
+        "date": "2026-11-27",
+        "id": "successfactors:1452092800",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Associate-Staff-34-Systems-Engineer-MA-02420/1452092800/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Technical Staff 5/6 - Systems Engineer",
+        "date": "2026-11-27",
+        "id": "successfactors:1452093000",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Technical-Staff-56-Systems-Engineer-MA-02420/1452093000/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Software Developer",
+        "date": "2026-11-27",
+        "id": "successfactors:1452130100",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Software-Developer-MA-02420/1452130100/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Satellite Communication Systems-Technical Staff",
+        "date": "2026-11-27",
+        "id": "successfactors:1452263100",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Satellite-Communication-Systems-Technical-Staff-MA-02420/1452263100/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Assistant Staff 1/2 - Thermal Engineer",
+        "date": "2026-11-27",
+        "id": "successfactors:1452091600",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Assistant-Staff-12-Thermal-Engineer-MA-02420/1452091600/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Tactical Autonomy Co-Op (Spring 2027) - Group 10-03",
+        "date": "2026-11-27",
+        "id": "successfactors:1452276600",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Tactical-Autonomy-Co-Op-%28Spring-2027%29-Group-10-03-MA-02420/1452276600/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Software Architect",
+        "date": "2026-11-27",
+        "id": "successfactors:1452408800",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Software-Architect-MA-02420/1452408800/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "AI/ML Research Scientist",
+        "date": "2026-11-27",
+        "id": "successfactors:1452306800",
+        "url": "https://careers.ll.mit.edu/job/Lexington-AIML-Research-Scientist-MA-02420/1452306800/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Technical Staff - Space Electronics Lead Engineer",
+        "date": "2026-11-27",
+        "id": "successfactors:1431810500",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Technical-Staff-Space-Electronics-Lead-Engineer-MA-02420/1431810500/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, Laser Technology & Applications (Group 08-82)",
+        "date": "2026-11-27",
+        "id": "successfactors:1441840000",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Laser-Technology-&-Applications-%28Group-08-82%29-MA-02420/1441840000/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, Software Engineer (AI/ML) - Group 04-47",
+        "date": "2026-11-27",
+        "id": "successfactors:1441840900",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Software-Engineer-%28AIML%29-Group-04-47-MA-02420/1441840900/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Human Health and Performance Systems Co-op (January - August 2027) - Group 02-24",
+        "date": "2026-11-27",
+        "id": "successfactors:1441842300",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Human-Health-and-Performance-Systems-Co-op-%28January-August-2027%29-Group-02-24-MA-02420/1441842300/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Associate Staff 3/4 - Radar Engineer (Space Surveillance Systems)",
+        "date": "2026-11-27",
+        "id": "successfactors:1451871100",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Associate-Staff-34-Radar-Engineer-%28Space-Surveillance-Systems%29-MA-02420/1451871100/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Structural & Thermal-Fluids Engineering Co-Op (Spring/Summer 2027) - Group 07-74",
+        "date": "2026-11-27",
+        "id": "successfactors:1451968600",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Structural-&-Thermal-Fluids-Engineering-Co-Op-%28SpringSummer-2027%29-Group-07-74-MA-02420/1451968600/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Communications & Networks Systems Development Engineer-Associate Staff",
+        "date": "2026-11-27",
+        "id": "successfactors:1451785200",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Communications-&-Networks-Systems-Development-Engineer-Associate-Staff-MA-02420/1451785200/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Communications & Networks Systems Analysis and Design Engineer-Technical Staff",
+        "date": "2026-11-27",
+        "id": "successfactors:1451786600",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Communications-&-Networks-Systems-Analysis-and-Design-Engineer-Technical-Staff-MA-02420/1451786600/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Autonomy Engineer-Technical Staff",
+        "date": "2026-11-27",
+        "id": "successfactors:1451770000",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Autonomy-Engineer-Technical-Staff-MA-02420/1451770000/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Technical Staff 5/6 (Advanced Electro-Optical Systems Group)",
+        "date": "2026-11-27",
+        "id": "successfactors:1451694800",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Technical-Staff-56-%28Advanced-Electro-Optical-Systems-Group%29-MA-02420/1451694800/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Associate Staff 3/4 (Advanced Electro-Optical Systems Group)",
+        "date": "2026-11-27",
+        "id": "successfactors:1451695200",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Associate-Staff-34-%28Advanced-Electro-Optical-Systems-Group%29-MA-02420/1451695200/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Radar Signal Processing Engineer-Associate Staff",
+        "date": "2026-11-27",
+        "id": "successfactors:1451776900",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Radar-Signal-Processing-Engineer-Associate-Staff-MA-02420/1451776900/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Radar Systems Analyst-Associate Staff",
+        "date": "2026-11-27",
+        "id": "successfactors:1451775500",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Radar-Systems-Analyst-Associate-Staff-MA-02420/1451775500/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Assistant Staff 1/2 ( Advanced Electro-Optical Systems)",
+        "date": "2026-11-27",
+        "id": "successfactors:1451788400",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Assistant-Staff-12-%28-Advanced-Electro-Optical-Systems%29-MA-02420/1451788400/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Superconducting Qubit Process Integration Engineer",
+        "date": "2026-11-27",
+        "id": "successfactors:1451995700",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Superconducting-Qubit-Process-Integration-Engineer-MA-02420/1451995700/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "General Aircraft Mechanic",
+        "date": "2026-11-27",
+        "id": "successfactors:1452007600",
+        "url": "https://careers.ll.mit.edu/job/Lexington-General-Aircraft-Mechanic-MA-02420/1452007600/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Quantum Applications Scientist",
+        "date": "2026-11-27",
+        "id": "successfactors:1451987400",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Quantum-Applications-Scientist-MA-02420/1451987400/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Physics and Defense Technology Analyst-Technical Staff",
+        "date": "2026-11-27",
+        "id": "successfactors:1451779700",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Physics-and-Defense-Technology-Analyst-Technical-Staff-MA-02420/1451779700/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Communications and Networks Software Development Engineer-Assistant Staff",
+        "date": "2026-11-27",
+        "id": "successfactors:1451789000",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Communications-and-Networks-Software-Development-Engineer-Assistant-Staff-MA-02420/1451789000/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "GNC and Autonomy Engineer-Associate Staff",
+        "date": "2026-11-27",
+        "id": "successfactors:1451772700",
+        "url": "https://careers.ll.mit.edu/job/Lexington-GNC-and-Autonomy-Engineer-Associate-Staff-MA-02420/1451772700/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Physics and Technology Analyst-Technical Staff",
+        "date": "2026-11-27",
+        "id": "successfactors:1451766300",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Physics-and-Technology-Analyst-Technical-Staff-MA-02420/1451766300/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Systems Analyst",
+        "date": "2026-11-27",
+        "id": "successfactors:1451805300",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Systems-Analyst-MA-02420/1451805300/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Systems Analyst-Technical Staff",
+        "date": "2026-11-27",
+        "id": "successfactors:1451768400",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Systems-Analyst-Technical-Staff-MA-02420/1451768400/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Technical Staff 5/6 - Radar Systems Engineer",
+        "date": "2026-11-27",
+        "id": "successfactors:1451873400",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Technical-Staff-56-Radar-Systems-Engineer-MA-02420/1451873400/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Electro-Optical / Infrared (EO/IR) Imaging",
+        "date": "2026-11-27",
+        "id": "successfactors:1451806000",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Electro-Optical-Infrared-%28EOIR%29-Imaging-MA-02420/1451806000/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Physics and Technology Analyst-Associate Staff",
+        "date": "2026-11-27",
+        "id": "successfactors:1451765100",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Physics-and-Technology-Analyst-Associate-Staff-MA-02420/1451765100/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Senior Subcontracts Administrator",
+        "date": "2026-11-27",
+        "id": "successfactors:1451763000",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Senior-Subcontracts-Administrator-MA-02420/1451763000/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Assistant Staff 1/2 - Programming (LSSC)",
+        "date": "2026-11-27",
+        "id": "successfactors:1451869400",
+        "url": "https://careers.ll.mit.edu/job/Westford-Assistant-Staff-12-Programming-%28LSSC%29-MA-01886/1451869400/",
+        "location": "Westford, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, Space Systems Analysis and Test (Group 09-95)",
+        "date": "2026-11-27",
+        "id": "successfactors:1441316600",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Space-Systems-Analysis-and-Test-%28Group-09-95%29-MA-02420/1441316600/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, Advanced Sensor Systems and Test Beds (Group 03-33)",
+        "date": "2026-11-27",
+        "id": "successfactors:1441287700",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Advanced-Sensor-Systems-and-Test-Beds-%28Group-03-33%29-MA-02420/1441287700/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "HVAC Technician",
+        "date": "2026-11-27",
+        "id": "successfactors:1394325400",
+        "url": "https://careers.ll.mit.edu/job/Lexington-HVAC-Technician-MA-02420/1394325400/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "G98: Assistant Staff Quantum Science and Engineering 1",
+        "date": "2026-11-27",
+        "id": "successfactors:1403237900",
+        "url": "https://careers.ll.mit.edu/job/Lexington-G98-Assistant-Staff-Quantum-Science-and-Engineering-1-MA-02420/1403237900/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Technician A (Elec)",
+        "date": "2026-11-27",
+        "id": "successfactors:1394389200",
+        "url": "https://careers.ll.mit.edu/job/Westford-Technician-A-%28Elec%29-MA-01886/1394389200/",
+        "location": "Westford, MA"
+      },
+      {
+        "title": "Systems Administrator",
+        "date": "2026-11-27",
+        "id": "successfactors:1376213600",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Systems-Administrator-MA-02420/1376213600/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Software Architect",
+        "date": "2026-11-27",
+        "id": "successfactors:1451578900",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Software-Architect-MA-02420/1451578900/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Electrical Engineer",
+        "date": "2026-11-27",
+        "id": "successfactors:1451608300",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Electrical-Engineer-MA-02420/1451608300/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Senior Business/Systems Analyst",
+        "date": "2026-11-27",
+        "id": "successfactors:1451570300",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Senior-BusinessSystems-Analyst-MA-02420/1451570300/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Associate Staff 3/4 - Electronics, Circuits & Test Engineer",
+        "date": "2026-11-27",
+        "id": "successfactors:1451381200",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Associate-Staff-34-Electronics%2C-Circuits-&-Test-Engineer-MA-02420/1451381200/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Systems Administrator (IT-IC2, Tactical Space Systems)",
+        "date": "2026-11-27",
+        "id": "successfactors:1451399900",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Systems-Administrator-%28IT-IC2%2C-Tactical-Space-Systems%29-MA-02420/1451399900/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Rapid Prototyping Electrical Engineer Co-Op (Spring/Summer) - Group 07-77",
+        "date": "2026-11-27",
+        "id": "successfactors:1451381000",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Rapid-Prototyping-Electrical-Engineer-Co-Op-%28SpringSummer%29-Group-07-77-MA-02420/1451381000/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "AI Researcher/Prototyping Engineer",
+        "date": "2026-11-27",
+        "id": "successfactors:1451559500",
+        "url": "https://careers.ll.mit.edu/job/Lexington-AI-ResearcherPrototyping-Engineer-MA-02420/1451559500/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Technical Staff",
+        "date": "2026-11-27",
+        "id": "successfactors:1421897400",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Technical-Staff-MA-02420/1421897400/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "VTC (video teleconferencing) Specialist",
+        "date": "2026-11-27",
+        "id": "successfactors:1450913500",
+        "url": "https://careers.ll.mit.edu/job/Lexington-VTC-%28video-teleconferencing%29-Specialist-MA-02420/1450913500/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Software Engineer",
+        "date": "2026-11-27",
+        "id": "successfactors:1451122700",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Software-Engineer-MA-02420/1451122700/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Business Administrator",
+        "date": "2026-11-27",
+        "id": "successfactors:1450953400",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Business-Administrator-MA-02420/1450953400/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Superconducting Materials Scientist",
+        "date": "2026-11-27",
+        "id": "successfactors:1450902400",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Superconducting-Materials-Scientist-MA-02420/1450902400/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "RF Engineer-Associate Staff",
+        "date": "2026-11-27",
+        "id": "successfactors:1451112000",
+        "url": "https://careers.ll.mit.edu/job/Lexington-RF-Engineer-Associate-Staff-MA-02420/1451112000/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "AI and Data Science Solution Engineer",
+        "date": "2026-11-27",
+        "id": "successfactors:1451063900",
+        "url": "https://careers.ll.mit.edu/job/Lexington-AI-and-Data-Science-Solution-Engineer-MA-02420/1451063900/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Software Engineer (AI / Data Engineering)",
+        "date": "2026-11-27",
+        "id": "successfactors:1451183700",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Software-Engineer-%28AI-Data-Engineering%29-MA-02420/1451183700/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Cyber System Exploitation Co-Op (Jan - June 2027) - Group 05-59",
+        "date": "2026-11-27",
+        "id": "successfactors:1431432100",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Cyber-System-Exploitation-Co-Op-%28Jan-June-2027%29-Group-05-59-MA-02420/1431432100/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Cyber System Exploitation Co-Op RE (Jan - June 2027) - Group 05-59",
+        "date": "2026-11-27",
+        "id": "successfactors:1431433100",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Cyber-System-Exploitation-Co-Op-RE-%28Jan-June-2027%29-Group-05-59-MA-02420/1431433100/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Cyber System Assessments Intern, Summer Research Program 2027 - Group 05-59",
+        "date": "2026-11-27",
+        "id": "successfactors:1431430900",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Cyber-System-Assessments-Intern%2C-Summer-Research-Program-2027-Group-05-59-MA-02420/1431430900/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Printed Circuit Board Designer Co-Op (6-month term) - Group 07-76",
+        "date": "2026-11-27",
+        "id": "successfactors:1431440800",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Printed%C2%A0Circuit%C2%A0Board-Designer-Co-Op-%286-month-term%29-Group-07-76-MA-02420/1431440800/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Contracting and Logistics Department Co-Op (Jan - June 2027) - Group 16-01",
+        "date": "2026-11-27",
+        "id": "successfactors:1431441500",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Contracting-and-Logistics-Department-Co-Op-%28Jan-June-2027%29-Group-16-01-MA-02420/1431441500/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Assistant Staff - RF Systems and Electromagnetic Spectrum Operations",
+        "date": "2026-11-27",
+        "id": "successfactors:1431322600",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Assistant-Staff-RF-Systems-and-Electromagnetic-Spectrum-Operations-MA-02420/1431322600/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Technical Staff - RF System Design and Electromagnetic Spectrum Operations",
+        "date": "2026-11-27",
+        "id": "successfactors:1431321800",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Technical-Staff-RF-System-Design-and-Electromagnetic-Spectrum-Operations-MA-02420/1431321800/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Associate Staff - RF System Design and Electromagnetic Spectrum Operations",
+        "date": "2026-11-27",
+        "id": "successfactors:1431322000",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Associate-Staff-RF-System-Design-and-Electromagnetic-Spectrum-Operations-MA-02420/1431322000/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Technical Staff-Radar Systems Engineer",
+        "date": "2026-11-27",
+        "id": "successfactors:1431189100",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Technical-Staff-Radar-Systems-Engineer-MA-02420/1431189100/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Assistant Staff (Space Tactics and Test)",
+        "date": "2026-11-27",
+        "id": "successfactors:1431200800",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Assistant-Staff-%28Space-Tactics-and-Test%29-MA-02420/1431200800/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Engineering Specialist (I)",
+        "date": "2026-11-27",
+        "id": "successfactors:1441022600",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Engineering-Specialist-%28I%29-MA-02420/1441022600/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Associate Staff - Space Systems Engineer",
+        "date": "2026-11-27",
+        "id": "successfactors:1431319700",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Associate-Staff-Space-Systems-Engineer-MA-02420/1431319700/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Associate Staff - Space Systems Engineer",
+        "date": "2026-11-27",
+        "id": "successfactors:1431325200",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Associate-Staff-Space-Systems-Engineer-MA-02420/1431325200/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Optical & Quantum Communications Intern (Summer 2027) - Group 67",
+        "date": "2026-11-27",
+        "id": "successfactors:1421248300",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Optical-&-Quantum-Communications-Intern-%28Summer-2027%29-Group-67-MA-02420/1421248300/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Technical Staff - Embedded Systems Architect",
+        "date": "2026-11-27",
+        "id": "successfactors:1431322800",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Technical-Staff-Embedded-Systems-Architect-MA-02420/1431322800/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Technical Staff - Space Systems Engineer",
+        "date": "2026-11-27",
+        "id": "successfactors:1431323500",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Technical-Staff-Space-Systems-Engineer-MA-02420/1431323500/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f AI Technology and Systems Co-Op (Winter/Spring 2027) - Group 05-52",
+        "date": "2026-11-27",
+        "id": "successfactors:1440734200",
+        "url": "https://careers.ll.mit.edu/job/Lexington-AI-Technology-and-Systems-Co-Op-%28WinterSpring-2027%29-Group-05-52-MA-02420/1440734200/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Undergraduate Intern 2027, Integrated Missile Defense Technology ( Gr 03-36)",
+        "date": "2026-11-27",
+        "id": "successfactors:1440808500",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Undergraduate-Intern-2027%2C-Integrated-Missile-Defense-Technology-%28-Gr-03-36%29-MA-02420/1440808500/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Associate Staff - Signal Processing & Software Engineer",
+        "date": "2026-11-27",
+        "id": "successfactors:1431321000",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Associate-Staff-Signal-Processing-&-Software-Engineer-MA-02420/1431321000/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Technical Staff - Signal Processing & Software Engineer",
+        "date": "2026-11-27",
+        "id": "successfactors:1431320000",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Technical-Staff-Signal-Processing-&-Software-Engineer-MA-02420/1431320000/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Cyber Resilience and Operations Assistant Researcher",
+        "date": "2026-11-27",
+        "id": "successfactors:1450676600",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Cyber-Resilience-and-Operations-Assistant-Researcher-MA-02420/1450676600/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f IT CO-OP, Advanced Sensors and Techniques (January - June 2027) - Group 09-92",
+        "date": "2026-11-27",
+        "id": "successfactors:1450677600",
+        "url": "https://careers.ll.mit.edu/job/Lexington-IT-CO-OP%2C-Advanced-Sensors-and-Techniques-%28January-June-2027%29-Group-09-92-MA-02420/1450677600/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Associate Staff 3: Quantum Science and Engineering",
+        "date": "2026-11-27",
+        "id": "successfactors:1450423000",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Associate-Staff-3-Quantum-Science-and-Engineering-MA-02420/1450423000/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Prototype Engineer",
+        "date": "2026-11-27",
+        "id": "successfactors:1450731800",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Prototype-Engineer-MA-02420/1450731800/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Integrated Circuit Designer",
+        "date": "2026-11-27",
+        "id": "successfactors:1450582800",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Integrated-Circuit-Designer-MA-02420/1450582800/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Biomedical Image Processing & Machine Learning Co-Op, (Jan - Aug 2027) - Group 02-24",
+        "date": "2026-11-27",
+        "id": "successfactors:1450626100",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Biomedical-Image-Processing-&-Machine-Learning-Co-Op%2C-%28Jan-Aug-2027%29-Group-02-24-MA-02420/1450626100/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Technical Staff 5/6 - Lead Systems Engineer - Advanced Space Technologies",
+        "date": "2026-11-27",
+        "id": "successfactors:1450578100",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Technical-Staff-56-Lead-Systems-Engineer-Advanced-Space-Technologies-MA-02420/1450578100/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Energy Manager",
+        "date": "2026-11-27",
+        "id": "successfactors:1450514900",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Energy-Manager-MA-02420/1450514900/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Cyber Resilience and Operations Researcher: Technical Staff",
+        "date": "2026-11-27",
+        "id": "successfactors:1450655100",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Cyber-Resilience-and-Operations-Researcher-Technical-Staff-MA-02420/1450655100/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Applied AI/Cyber Researcher: Technical Staff",
+        "date": "2026-11-27",
+        "id": "successfactors:1450663800",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Applied-AICyber-Researcher-Technical-Staff-MA-02420/1450663800/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Operational Technology Cyber Resilience Researcher: Technical Staff",
+        "date": "2026-11-27",
+        "id": "successfactors:1450672500",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Operational-Technology-Cyber-Resilience-Researcher-Technical-Staff-MA-02420/1450672500/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Cyber Resilience and Operations Associate Researcher",
+        "date": "2026-11-27",
+        "id": "successfactors:1450695200",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Cyber-Resilience-and-Operations-Associate-Researcher-MA-02420/1450695200/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Sr Technician (E-M)",
+        "date": "2026-11-27",
+        "id": "successfactors:1440028600",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Sr-Technician-%28E-M%29-MA-02420/1440028600/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, Quantum-Enabled Computation (Group 08-89)",
+        "date": "2026-11-27",
+        "id": "successfactors:1440162000",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Quantum-Enabled-Computation-%28Group-08-89%29-MA-02420/1440162000/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Embedded Systems Specialist",
+        "date": "2026-11-27",
+        "id": "successfactors:1430224500",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Embedded-Systems-Specialist-MA-02420/1430224500/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Cyber Security Analyst",
+        "date": "2026-11-27",
+        "id": "successfactors:1430096100",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Cyber-Security-Analyst-MA-02420/1430096100/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, Lincoln Space Surveillance Complex (Group 09-92)",
+        "date": "2026-11-27",
+        "id": "successfactors:1440116800",
+        "url": "https://careers.ll.mit.edu/job/Westford-Summer-Research-Program-Intern-2027%2C-Lincoln-Space-Surveillance-Complex-%28Group-09-92%29-MA-01886/1440116800/",
+        "location": "Westford, MA"
+      },
+      {
+        "title": "Associate Staff 3/4 - Orbital Dynamics",
+        "date": "2026-11-27",
+        "id": "successfactors:1450418300",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Associate-Staff-34-Orbital-Dynamics-MA-02420/1450418300/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Systems Analysis: Technical Staff 5/6",
+        "date": "2026-11-27",
+        "id": "successfactors:1450419300",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Systems-Analysis-Technical-Staff-56-MA-02420/1450419300/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Electrical Engineer (Associate Staff 3/4)",
+        "date": "2026-11-27",
+        "id": "successfactors:1450419000",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Electrical-Engineer-%28Associate-Staff-34%29-MA-02420/1450419000/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Project Coordinator - SPMO",
+        "date": "2026-11-27",
+        "id": "successfactors:1450252900",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Project-Coordinator-SPMO-MA-02420/1450252900/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Information Systems Security Manager",
+        "date": "2026-11-27",
+        "id": "successfactors:1450248400",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Information-Systems-Security-Manager-MA-02420/1450248400/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Data Scientist / Systems Analyst",
+        "date": "2026-11-27",
+        "id": "successfactors:1450392900",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Data-Scientist-Systems-Analyst-MA-02420/1450392900/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Group Administrative Assistant (Space Tactics and Test Group)",
+        "date": "2026-11-27",
+        "id": "successfactors:1450416700",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Group-Administrative-Assistant-%28Space-Tactics-and-Test-Group%29-MA-02420/1450416700/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "IT Risk Assessment Auditor -Special Programs",
+        "date": "2026-11-27",
+        "id": "successfactors:1450247000",
+        "url": "https://careers.ll.mit.edu/job/Lexington-IT-Risk-Assessment-Auditor-Special-Programs-MA-02420/1450247000/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Information System Security Officer",
+        "date": "2026-11-27",
+        "id": "successfactors:1450250800",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Information-System-Security-Officer-MA-02420/1450250800/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Microfabrication Engineering Co-Op, August 2027 - December 2027 (Group 08-84)",
+        "date": "2026-11-27",
+        "id": "successfactors:1450306500",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Microfabrication-Engineering-Co-Op%2C-August-2027-December-2027-%28Group-08-84%29-MA-02420/1450306500/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Information System Security Engineer",
+        "date": "2026-11-27",
+        "id": "successfactors:1450251800",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Information-System-Security-Engineer-MA-02420/1450251800/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Microfabrication Industrial Engineering Co-Op, June 2027 - Dec 2027 (Group 08-84)",
+        "date": "2026-11-27",
+        "id": "successfactors:1450305200",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Microfabrication-Industrial-Engineering-Co-Op%2C-June-2027-Dec-2027-%28Group-08-84%29-MA-02420/1450305200/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, Tactical Autonomy (Group 10-03)",
+        "date": "2026-11-27",
+        "id": "successfactors:1439585400",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Tactical-Autonomy-%28Group-10-03%29-MA-02420/1439585400/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "91: Technical Staff - Space Systems Engineering, Integration, and Flight Test Operations",
+        "date": "2026-11-27",
+        "id": "successfactors:1439772400",
+        "url": "https://careers.ll.mit.edu/job/Lexington-91-Technical-Staff-Space-Systems-Engineering%2C-Integration%2C-and-Flight-Test-Operations-MA-02420/1439772400/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, Systems & Analysis (Group 10-09)",
+        "date": "2026-11-27",
+        "id": "successfactors:1439633800",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Systems-&-Analysis-%28Group-10-09%29-MA-02420/1439633800/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, - RF, Radar, and Signal Processing (Group 10-07)",
+        "date": "2026-11-27",
+        "id": "successfactors:1439640600",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-RF%2C-Radar%2C-and-Signal-Processing-%28Group-10-07%29-MA-02420/1439640600/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Graduate Intern 2027, Integrated Missile Defense Technology (Group 03-36)",
+        "date": "2026-11-27",
+        "id": "successfactors:1439751400",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Graduate-Intern-2027%2C-Integrated-Missile-Defense-Technology-%28Group-03-36%29-MA-02420/1439751400/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Machinist A",
+        "date": "2026-11-27",
+        "id": "successfactors:1449475200",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Machinist-A-MA-02420/1449475200/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Student Technical Assistant, Computational Scientist/Engineer (Supercomputing Center - Group 05-99)",
+        "date": "2026-11-27",
+        "id": "successfactors:1449397400",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Student-Technical-Assistant%2C-Computational-ScientistEngineer-%28Supercomputing-Center-Group-05-99%29-MA-02420/1449397400/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "UAV/Sensor Development, Prototyping, and Testing-Assistant Staff",
+        "date": "2026-11-27",
+        "id": "successfactors:1449336400",
+        "url": "https://careers.ll.mit.edu/job/Lexington-UAVSensor-Development%2C-Prototyping%2C-and-Testing-Assistant-Staff-MA-02420/1449336400/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Summer Research Program 2027, Cyber-Physical Systems (Group 05-51)",
+        "date": "2026-11-27",
+        "id": "successfactors:1449398400",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-2027%2C-Cyber-Physical-Systems-%28Group-05-51%29-MA-02420/1449398400/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "UAV/Sensor Development, Prototyping, and Testing-Associate Staff",
+        "date": "2026-11-27",
+        "id": "successfactors:1449338400",
+        "url": "https://careers.ll.mit.edu/job/Lexington-UAVSensor-Development%2C-Prototyping%2C-and-Testing-Associate-Staff-MA-02420/1449338400/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "UAV/Sensor Development, Prototyping, and Testing-Technical Staff",
+        "date": "2026-11-27",
+        "id": "successfactors:1449334000",
+        "url": "https://careers.ll.mit.edu/job/Lexington-UAVSensor-Development%2C-Prototyping%2C-and-Testing-Technical-Staff-MA-02420/1449334000/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Full Spectrum Cyber Capability and Operations Expert",
+        "date": "2026-11-27",
+        "id": "successfactors:1449559700",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Full-Spectrum-Cyber-Capability-and-Operations-Expert-MA-02420/1449559700/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Systems Administrator-IT-IC3, Group 95 (Top Secret)",
+        "date": "2026-11-27",
+        "id": "successfactors:1409945300",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Systems-Administrator-IT-IC3%2C-Group-95-%28Top-Secret%29-MA-02420/1409945300/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Cyber Security Manager Special Programs",
+        "date": "2026-11-27",
+        "id": "successfactors:1448990700",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Cyber-Security-Manager-Special-Programs-MA-02420/1448990700/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Systems Analyst - Technical Staff",
+        "date": "2026-11-27",
+        "id": "successfactors:1449015800",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Systems-Analyst-Technical-Staff-MA-02420/1449015800/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Systems Analyst - Associate Staff",
+        "date": "2026-11-27",
+        "id": "successfactors:1449007000",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Systems-Analyst-Associate-Staff-MA-02420/1449007000/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Cyber Systems Exploitation Researcher",
+        "date": "2026-11-27",
+        "id": "successfactors:1449120300",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Cyber-Systems-Exploitation-Researcher-MA-02420/1449120300/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Associate Staff 3/4 - Engineering",
+        "date": "2026-11-27",
+        "id": "successfactors:1448914400",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Associate-Staff-34-Engineering-MA-02420/1448914400/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Real-Time C/C++ Software Engineer",
+        "date": "2026-11-27",
+        "id": "successfactors:1448931100",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Real-Time-CC%2B%2B-Software-Engineer-MA-02420/1448931100/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Systems Analyst - Assistant Staff",
+        "date": "2026-11-27",
+        "id": "successfactors:1448989900",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Systems-Analyst-Assistant-Staff-MA-02420/1448989900/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Staff Scientist - AI / ML Developer",
+        "date": "2026-11-27",
+        "id": "successfactors:1448929600",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Staff-Scientist-AI-ML-Developer-MA-02420/1448929600/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Trapped-ion Experimentalist (Assistant Staff 1/2)",
+        "date": "2026-11-27",
+        "id": "successfactors:1449003300",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Trapped-ion-Experimentalist-%28Assistant-Staff-12%29-MA-02420/1449003300/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Trapped-ion Experimental Physicist (Technical Staff 5/6)",
+        "date": "2026-11-27",
+        "id": "successfactors:1449003700",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Trapped-ion-Experimental-Physicist-%28Technical-Staff-56%29-MA-02420/1449003700/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Cyber Systems Exploitation Researcher ( Fort Meade, MD)",
+        "date": "2026-11-27",
+        "id": "successfactors:1449113100",
+        "url": "https://careers.ll.mit.edu/job/Ft-Meade-Cyber-Systems-Exploitation-Researcher-%28-Fort-Meade%2C-MD%29-MD-20755/1449113100/",
+        "location": "Ft Meade, MD"
+      },
+      {
+        "title": "Integrated Cyber Exploitation Researcher (Fort Meade, MD)",
+        "date": "2026-11-27",
+        "id": "successfactors:1449135900",
+        "url": "https://careers.ll.mit.edu/job/Ft-Meade-Integrated-Cyber-Exploitation-Researcher-%28Fort-Meade%2C-MD%29-MD-20755/1449135900/",
+        "location": "Ft Meade, MD"
+      },
+      {
+        "title": "Cyber Systems Exploitation Researcher",
+        "date": "2026-11-27",
+        "id": "successfactors:1449100000",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Cyber-Systems-Exploitation-Researcher-MA-02420/1449100000/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Cyber Systems Exploitation Researcher",
+        "date": "2026-11-27",
+        "id": "successfactors:1449104100",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Cyber-Systems-Exploitation-Researcher-MA-02420/1449104100/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "PCB Process Engineer - Specialist II",
+        "date": "2026-11-27",
+        "id": "successfactors:1409174900",
+        "url": "https://careers.ll.mit.edu/job/Lexington-PCB-Process-Engineer-Specialist-II-MA-02420/1409174900/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Associate Staff - Straylight Analysis (Optical Engineering Group)",
+        "date": "2026-11-27",
+        "id": "successfactors:1409269700",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Associate-Staff-Straylight-Analysis-%28Optical-Engineering-Group%29-MA-02420/1409269700/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, AI & Machine Learning Researcher (Group 05-52)",
+        "date": "2026-11-27",
+        "id": "successfactors:1438250000",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-AI-&-Machine-Learning-Researcher-%28Group-05-52%29-MA-02420/1438250000/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, Communications Networks & Analysis (Group 06-65)",
+        "date": "2026-11-27",
+        "id": "successfactors:1438265400",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Communications-Networks-&-Analysis-%28Group-06-65%29-MA-02420/1438265400/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Project Machinist",
+        "date": "2026-11-27",
+        "id": "successfactors:1418356100",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Project-Machinist-MA-02420/1418356100/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, Fabrication Engineering Integration (Group 07-72)",
+        "date": "2026-11-27",
+        "id": "successfactors:1448734700",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Fabrication-Engineering-Integration-%28Group-07-72%29-MA-02420/1448734700/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Lasercom R&D Engineer-Assistant Staff",
+        "date": "2026-11-27",
+        "id": "successfactors:1448647800",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Lasercom-R&D-Engineer-Assistant-Staff-MA-02420/1448647800/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, Advanced Concepts and Technologies (Group 03-39)",
+        "date": "2026-11-27",
+        "id": "successfactors:1448622600",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Advanced-Concepts-and-Technologies-%28Group-03-39%29-MA-02420/1448622600/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Human Health and Performance Systems Co-op (June - December 2027) - Group 02-24",
+        "date": "2026-11-27",
+        "id": "successfactors:1448624200",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Human-Health-and-Performance-Systems-Co-op-%28June-December-2027%29-Group-02-24-MA-02420/1448624200/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Image Sensor Characterization Engineer",
+        "date": "2026-11-27",
+        "id": "successfactors:1448658900",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Image-Sensor-Characterization-Engineer-MA-02420/1448658900/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, Fabrication Engineering, Facilities and Logistics (Group 07-72)",
+        "date": "2026-11-27",
+        "id": "successfactors:1448735400",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Fabrication-Engineering%2C-Facilities-and-Logistics-%28Group-07-72%29-MA-02420/1448735400/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, Fabrication Engineering - Digital Architecture (Group 07-72)",
+        "date": "2026-11-27",
+        "id": "successfactors:1448736300",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Fabrication-Engineering-Digital-Architecture-%28Group-07-72%29-MA-02420/1448736300/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Electrical / Physics Engineer Advanced Imaging",
+        "date": "2026-11-27",
+        "id": "successfactors:1448657700",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Electrical-Physics-Engineer-Advanced-Imaging-MA-02420/1448657700/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "RF Communications System Analyst-Technical Staff",
+        "date": "2026-11-27",
+        "id": "successfactors:1448639700",
+        "url": "https://careers.ll.mit.edu/job/Lexington-RF-Communications-System-Analyst-Technical-Staff-MA-02420/1448639700/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "NC3 Systems Analyst-Technical Staff",
+        "date": "2026-11-27",
+        "id": "successfactors:1448644300",
+        "url": "https://careers.ll.mit.edu/job/Lexington-NC3-Systems-Analyst-Technical-Staff-MA-02420/1448644300/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Pointing/Acquisition/Tracking and Controls Engineer-Technical Staff",
+        "date": "2026-11-27",
+        "id": "successfactors:1448651100",
+        "url": "https://careers.ll.mit.edu/job/Lexington-PointingAcquisitionTracking-and-Controls-Engineer-Technical-Staff-MA-02420/1448651100/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, ISR Systems & Architectures (Group 10-01)",
+        "date": "2026-11-27",
+        "id": "successfactors:1437705000",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-ISR-Systems-&-Architectures-%28Group-10-01%29-MA-02420/1437705000/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, Airborne Radar Systems and Techniques (Group 10-05)",
+        "date": "2026-11-27",
+        "id": "successfactors:1437798100",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Airborne-Radar-Systems-and-Techniques-%28Group-10-05%29-MA-02420/1437798100/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Radar Systems Engineer",
+        "date": "2026-11-27",
+        "id": "successfactors:1427595100",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Radar-Systems-Engineer-MA-02420/1427595100/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Inspector A (Mech)",
+        "date": "2026-11-27",
+        "id": "successfactors:1437940900",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Inspector-A-%28Mech%29-MA-02420/1437940900/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, Energy Systems (Group 04-47)",
+        "date": "2026-11-27",
+        "id": "successfactors:1437696200",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Energy-Systems-%28Group-04-47%29-MA-02420/1437696200/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program 2027, Graphic Artist Intern, ISR Systems & Architectures (Group 10-01)",
+        "date": "2026-11-27",
+        "id": "successfactors:1437796400",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-2027%2C-Graphic-Artist-Intern%2C-ISR-Systems-&-Architectures-%28Group-10-01%29-MA-02420/1437796400/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "RF Communications System Engineer/Analyst-Associate Staff",
+        "date": "2026-11-27",
+        "id": "successfactors:1448047700",
+        "url": "https://careers.ll.mit.edu/job/Lexington-RF-Communications-System-EngineerAnalyst-Associate-Staff-MA-02420/1448047700/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Robotics and Autonomy-Assistant Staff",
+        "date": "2026-11-27",
+        "id": "successfactors:1448148800",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Robotics-and-Autonomy-Assistant-Staff-MA-02420/1448148800/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Systems Analyst",
+        "date": "2026-11-27",
+        "id": "successfactors:1448251200",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Systems-Analyst-MA-02420/1448251200/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Administrative Assistant",
+        "date": "2026-11-27",
+        "id": "successfactors:1448269000",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Administrative-Assistant-MA-02420/1448269000/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Machine Learning Developer",
+        "date": "2026-11-27",
+        "id": "successfactors:1448348200",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Machine-Learning-Developer-MA-02420/1448348200/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "UX/Human Factors Engineer",
+        "date": "2026-11-27",
+        "id": "successfactors:1448357300",
+        "url": "https://careers.ll.mit.edu/job/Lexington-UXHuman-Factors-Engineer-MA-02420/1448357300/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Senior Subcontracts Administrator",
+        "date": "2026-11-27",
+        "id": "successfactors:1448229100",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Senior-Subcontracts-Administrator-MA-02420/1448229100/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Software Developer",
+        "date": "2026-11-27",
+        "id": "successfactors:1448346200",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Software-Developer-MA-02420/1448346200/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Technician A (Electronics)",
+        "date": "2026-11-27",
+        "id": "successfactors:1448187000",
+        "url": "https://careers.ll.mit.edu/job/Westford-Technician-A-%28Electronics%29-MA-01886/1448187000/",
+        "location": "Westford, MA"
+      },
+      {
+        "title": "Applied AI/ML Researcher",
+        "date": "2026-11-27",
+        "id": "successfactors:1448035200",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Applied-AIML-Researcher-MA-02420/1448035200/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Cyber, RF, Electronic Engineer",
+        "date": "2026-11-27",
+        "id": "successfactors:1448035500",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Cyber%2C-RF%2C-Electronic-Engineer-MA-02420/1448035500/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, Advanced Capabilities and Technologies (Group 09-91)",
+        "date": "2026-11-27",
+        "id": "successfactors:1437408800",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Advanced-Capabilities-and-Technologies-%28Group-09-91%29-MA-02420/1437408800/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Lead Planner - Fabrication Engineering Group (Specialist II)",
+        "date": "2026-11-27",
+        "id": "successfactors:1437450000",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Lead-Planner-Fabrication-Engineering-Group-%28Specialist-II%29-MA-02420/1437450000/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, Secure Resilient Systems and Technology (Group 05-53)",
+        "date": "2026-11-27",
+        "id": "successfactors:1437449200",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Secure-Resilient-Systems-and-Technology-%28Group-05-53%29-MA-02420/1437449200/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, Tactical Edge Communications (Group 06-62)",
+        "date": "2026-11-27",
+        "id": "successfactors:1437454900",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Tactical-Edge-Communications-%28Group-06-62%29-MA-02420/1437454900/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Active Optical Systems, IT/Systems Administrator Co-Op (Spring 2027) - Group 10-06",
+        "date": "2026-11-27",
+        "id": "successfactors:1437456600",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Active-Optical-Systems%2C-ITSystems-Administrator-Co-Op-%28Spring-2027%29-Group-10-06-MA-02420/1437456600/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, Space Surveillance Systems (Group 09-92)",
+        "date": "2026-11-27",
+        "id": "successfactors:1437460500",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Space-Surveillance-Systems-%28Group-09-92%29-MA-02420/1437460500/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Senior Network Engineer",
+        "date": "2026-11-27",
+        "id": "successfactors:1437180200",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Senior-Network-Engineer-MA-02420/1437180200/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Technician A (E-M)",
+        "date": "2026-11-27",
+        "id": "successfactors:1447840600",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Technician-A-%28E-M%29-MA-02420/1447840600/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "AI and Data Science Solution Engineer",
+        "date": "2026-11-27",
+        "id": "successfactors:1447777400",
+        "url": "https://careers.ll.mit.edu/job/Lexington-AI-and-Data-Science-Solution-Engineer-MA-02420/1447777400/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Data Analysts",
+        "date": "2026-11-27",
+        "id": "successfactors:1447775200",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Data-Analysts-MA-02420/1447775200/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Systems Analyst",
+        "date": "2026-11-27",
+        "id": "successfactors:1447769400",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Systems-Analyst-MA-02420/1447769400/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Physicist/Systems Analyst",
+        "date": "2026-11-27",
+        "id": "successfactors:1447727700",
+        "url": "https://careers.ll.mit.edu/job/Lexington-PhysicistSystems-Analyst-MA-02420/1447727700/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Senior Machinist",
+        "date": "2026-11-27",
+        "id": "successfactors:1398999900",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Senior-Machinist-MA-02420/1398999900/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Machinist A",
+        "date": "2026-11-27",
+        "id": "successfactors:1398969300",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Machinist-A-MA-02420/1398969300/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f IT Co-Op, Advanced Sensor Systems and Test Beds (Dec 2026 - June 2027) - Group 03-33",
+        "date": "2026-11-27",
+        "id": "successfactors:1437026100",
+        "url": "https://careers.ll.mit.edu/job/Lexington-IT-Co-Op%2C-Advanced-Sensor-Systems-and-Test-Beds-%28Dec-2026-June-2027%29-Group-03-33-MA-02420/1437026100/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Subcontracts Manager",
+        "date": "2026-11-27",
+        "id": "successfactors:1447167400",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Subcontracts-Manager-MA-02420/1447167400/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Intern 2027, Tactical Defense Systems (Group 10-08)",
+        "date": "2026-11-27",
+        "id": "successfactors:1446803200",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Intern-2027%2C-Tactical-Defense-Systems-%28Group-10-08%29-MA-02420/1446803200/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Systems Administrator",
+        "date": "2026-11-27",
+        "id": "successfactors:1426755700",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Systems-Administrator-MA-02420/1426755700/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "Information System Security Officer",
+        "date": "2026-11-27",
+        "id": "successfactors:1416164800",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Information-System-Security-Officer-MA-02420/1416164800/",
+        "location": "Lexington, MA"
+      },
+      {
+        "title": "\u2b50\ufe0f Summer Research Program Graduate Intern 2027, Tactical Defense Systems (Group 10-08)",
+        "date": "2026-11-27",
+        "id": "successfactors:1446454700",
+        "url": "https://careers.ll.mit.edu/job/Lexington-Summer-Research-Program-Graduate-Intern-2027%2C-Tactical-Defense-Systems-%28Group-10-08%29-MA-02420/1446454700/",
+        "location": "Lexington, MA"
+      }
     ]
   },
   "email_threads": {
     "internship": {
-      "date": "2026-11-26",
-      "message_id": "<179570050942.2390.2936139066745562674@phlux>"
+      "date": "2026-11-27",
+      "message_id": "<179581003691.2598.9556425142592110631@phlux>"
     },
     "internship_all": {
       "date": "2026-11-27",
@@ -131578,7 +133389,8 @@
     "Tutor Intelligence": "2026-11-27",
     "AMD": "2026-11-27",
     "Unity": "2026-11-27",
-    "Konrad": "2026-11-27"
+    "Konrad": "2026-11-27",
+    "MIT Lincoln Laboratory": "2026-11-27"
   },
   "failing": {
     "Anywhere Robotics": {
@@ -131588,6 +133400,22 @@
     "Citadel": {
       "since": "2026-11-12",
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.citadel.com/sitemap/career.xml"
+    },
+    "Blue Origin": {
+      "since": "2026-11-27",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/BlueOrigin/jobs"
+    },
+    "Samsung": {
+      "since": "2026-11-27",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
+    },
+    "General Motors": {
+      "since": "2026-11-27",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
+    },
+    "ABB": {
+      "since": "2026-11-27",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
     }
   },
   "closures_untracked": {
