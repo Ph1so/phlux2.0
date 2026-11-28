@@ -1250,8 +1250,7 @@
         "date": "2026-10-30",
         "id": "eightfold:1970393557051409",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557051409",
-        "location": "United States, Washington, Redmond +1",
-        "closed": "2026-11-27"
+        "location": "United States, Washington, Redmond +1"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
@@ -1354,8 +1353,7 @@
         "date": "2026-11-13",
         "id": "eightfold:1970393556986148",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556986148",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-27"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - AI Coding Agents",
@@ -1461,8 +1459,7 @@
         "date": "2026-11-20",
         "id": "eightfold:1970393557077583",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557077583",
-        "location": "United States, Oregon, Hillsboro",
-        "closed": "2026-11-27"
+        "location": "United States, Oregon, Hillsboro"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - AI Systems Architecture and Efficient LLM Inference",
@@ -71142,7 +71139,8 @@
         "date": "N/A",
         "id": "phenom:13323",
         "url": "https://careers.zimmerbiomet.com/us/en/job/13323/Tenders-Administrator-Intern-Finnish-Speaker",
-        "location": "Gothenburg, Sweden"
+        "location": "Gothenburg, Sweden",
+        "closed": "2026-11-27"
       },
       {
         "title": "Trainee for 2027(\u7b2c\u4e8c\u65b0\u5352)",
@@ -105930,8 +105928,7 @@
         "date": "N/A",
         "id": "ibm:141091",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=141091",
-        "location": "Multiple Cities",
-        "closed": "2026-11-24"
+        "location": "Multiple Cities"
       },
       {
         "title": "\u2b50\ufe0f Product Management Intern 2027",
@@ -106041,8 +106038,7 @@
         "date": "N/A",
         "id": "ibm:130049",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=130049",
-        "location": "Poughkeepsie",
-        "closed": "2026-11-12"
+        "location": "Poughkeepsie"
       },
       {
         "title": "\u2b50\ufe0f Silicon Technology Research and Development Research Scientist Intern - 2027",
@@ -106842,8 +106838,7 @@
         "date": "N/A",
         "id": "ibm:137080",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=137080",
-        "location": "Poughkeepsie",
-        "closed": "2026-11-25"
+        "location": "Poughkeepsie"
       },
       {
         "title": "\u2b50\ufe0f Strategy Consultant Intern 2027 \u2013 Enterprise Application Integration (EAI)",
@@ -106957,8 +106952,7 @@
         "date": "N/A",
         "id": "ibm:137812",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=137812",
-        "location": "Poughkeepsie",
-        "closed": "2026-11-22"
+        "location": "Poughkeepsie"
       },
       {
         "title": "\u2b50\ufe0f Product Manager Intern 2027 - Lowell",
@@ -107331,16 +107325,14 @@
         "date": "N/A",
         "id": "ibm:140605",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=140605",
-        "location": "Albany",
-        "closed": "2026-11-25"
+        "location": "Albany"
       },
       {
         "title": "Quantum Demonstration Experimentalist",
         "date": "N/A",
         "id": "ibm:136009",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=136009",
-        "location": "Multiple Cities",
-        "closed": "2026-11-24"
+        "location": "Multiple Cities"
       },
       {
         "title": "Entry Level Hardware Developer 2027 -Poughkeepsie",
@@ -107625,8 +107617,7 @@
         "date": "2026-11-20",
         "id": "ibm:143308",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=143308",
-        "location": "Research Triangle Park",
-        "closed": "2026-11-24"
+        "location": "Research Triangle Park"
       },
       {
         "title": "\u2b50\ufe0f Software Developer Intern 2027 - Austin",
@@ -107706,6 +107697,55 @@
         "id": "ibm:142035",
         "url": "https://careers.ibm.com/careers/JobDetail?jobId=142035",
         "location": "Poughkeepsie"
+      },
+      {
+        "title": "IT Lab Technician Apprentice - Power Card",
+        "date": "2026-11-27",
+        "id": "ibm:146299",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=146299",
+        "location": "Poughkeepsie"
+      },
+      {
+        "title": "\u2b50\ufe0f Software Developer Intern (IBM Enterprise AI & Infrastructure) - Poughkeepsie - 2027",
+        "date": "2026-11-27",
+        "id": "ibm:146392",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=146392",
+        "location": "Poughkeepsie"
+      },
+      {
+        "title": "IT Lab Technician \u2013 General Apprentice",
+        "date": "2026-11-27",
+        "id": "ibm:146394",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=146394",
+        "location": "Rochester"
+      },
+      {
+        "title": "\u2b50\ufe0f Software and Go-To-Market Strategy Summer Intern",
+        "date": "2026-11-27",
+        "id": "ibm:138967",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=138967",
+        "location": "Cambridge"
+      },
+      {
+        "title": "Reporting Analyst Entry Level 2027",
+        "date": "2026-11-27",
+        "id": "ibm:131912",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=131912",
+        "location": "Multiple Cities"
+      },
+      {
+        "title": "Capabilities Theory Research Scientist",
+        "date": "2026-11-27",
+        "id": "ibm:138795",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=138795",
+        "location": "Multiple Cities"
+      },
+      {
+        "title": "Risk Management & Controls Professional 2027 \u2013 Americas",
+        "date": "2026-11-27",
+        "id": "ibm:131535",
+        "url": "https://careers.ibm.com/careers/JobDetail?jobId=131535",
+        "location": "Armonk"
       }
     ],
     "Bank of America": [
@@ -136140,13 +136180,17 @@
       "since": "2026-11-27",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
     },
-    "Target": {
-      "since": "2026-11-27",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
-    },
     "Samsung": {
       "since": "2026-11-27",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
+    },
+    "Nvidia": {
+      "since": "2026-11-27",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
+    },
+    "Unity": {
+      "since": "2026-11-27",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
     }
   },
   "closures_untracked": {
