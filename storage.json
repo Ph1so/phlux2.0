@@ -1250,8 +1250,7 @@
         "date": "2026-10-30",
         "id": "eightfold:1970393557051409",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557051409",
-        "location": "United States, Washington, Redmond +1",
-        "closed": "2026-11-27"
+        "location": "United States, Washington, Redmond +1"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
@@ -140720,6 +140719,14 @@
     "Samsung": {
       "since": "2026-11-27",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
+    },
+    "Unity": {
+      "since": "2026-11-27",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
+    },
+    "General Motors": {
+      "since": "2026-11-27",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
     }
   },
   "closures_untracked": {
