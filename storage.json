@@ -9332,14 +9332,16 @@
         "date": "2026-10-09",
         "id": "eightfold:446720741706",
         "url": "https://careers.qualcomm.com/careers/job/446720741706",
-        "location": "San Diego, CA"
+        "location": "San Diego, CA",
+        "closed": "2026-11-28"
       },
       {
         "title": "\u2b50\ufe0f Information Technology (IT) Internship \u2013 Summer 2027",
         "date": "2026-10-09",
         "id": "eightfold:446720741716",
         "url": "https://careers.qualcomm.com/careers/job/446720741716",
-        "location": "San Diego, CA"
+        "location": "San Diego, CA",
+        "closed": "2026-11-28"
       },
       {
         "title": "\u2b50\ufe0f Finance & Accounting Internship - Summer 2027",
@@ -140736,7 +140738,7 @@
     },
     "Tesla": {
       "since": "2026-11-28",
-      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
+      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: HTTP 403; undetected-chromedriver: Refused: page denied)"
     },
     "Samsung": {
       "since": "2026-11-28",
@@ -140745,6 +140747,34 @@
     "Razer": {
       "since": "2026-11-28",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
+    },
+    "Workday": {
+      "since": "2026-11-28",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday_Early_Career/jobs"
+    },
+    "Rockwell Automation": {
+      "since": "2026-11-28",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/cxs/rockwellautomation/External-Rockwell-Automation-Early-Careers/jobs"
+    },
+    "Unity": {
+      "since": "2026-11-28",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
+    },
+    "Target": {
+      "since": "2026-11-28",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
+    },
+    "T-Mobile": {
+      "since": "2026-11-28",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://tmobile.wd1.myworkdayjobs.com/wday/cxs/tmobile/External/jobs"
+    },
+    "Johnson & Johnson": {
+      "since": "2026-11-28",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs"
+    },
+    "Oshkosh": {
+      "since": "2026-11-28",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs"
     }
   },
   "closures_untracked": {
