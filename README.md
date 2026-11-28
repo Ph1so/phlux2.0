@@ -12,7 +12,7 @@
 <p>
   <a href="https://ph1so.github.io/phlux2.0/"><img src="https://img.shields.io/badge/browse-internships-1f5fff?style=flat-square" alt="Browse internships"></a>
   <a href="https://github.com/Ph1so/phlux2.0/actions/workflows/job-scraper.yml"><img src="https://img.shields.io/github/actions/workflow/status/Ph1so/phlux2.0/job-scraper.yml?branch=main&style=flat-square&label=scraper" alt="Scraper status"></a>
-  <img src="https://img.shields.io/badge/roles_tracked-40.1k-475467?style=flat-square" alt="40,080 roles tracked">
+  <img src="https://img.shields.io/badge/roles_tracked-40.7k-475467?style=flat-square" alt="40,732 roles tracked">
 </p>
 
 <p><a href="https://ph1so.github.io/phlux2.0/"><b>Website</b></a> &nbsp;·&nbsp; <a href="listings/README.md"><b>All listings</b></a></p>
@@ -21,7 +21,7 @@
 
 ## Latest roles
 
-Showing the 614 most recent of 40,080 roles tracked across 309 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
+Showing the 616 most recent of 40,732 roles tracked across 309 companies. ⭐️ marks internships and co-ops. See [all listings](listings/README.md) for the full history.
 
 
 <table>
@@ -39,6 +39,76 @@ Showing the 614 most recent of 40,080 roles tracked across 309 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://www.amazon.jobs/en/search?base_query=intern&country%5B%5D=USA&sort=recent"><img src="https://cdn.brandfetch.io/amazon.com/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Amazon" height="20" style="vertical-align:middle; margin-right:6px;"> Amazon</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://www.amazon.jobs/en/jobs/10608779/software-development-engineer-aurora-control-plane">Software Development Engineer, Aurora Control Plane</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/shield"><img src="https://cdn.brandfetch.io/shield.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Shield AI" height="20" style="vertical-align:middle; margin-right:6px;"> Shield AI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/shield/7c6f4d6d-fac0-4d71-9d4e-7581db11dc33">⭐️ Electrical Engineering - 2027 January Co-Op</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/shield"><img src="https://cdn.brandfetch.io/shield.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Shield AI" height="20" style="vertical-align:middle; margin-right:6px;"> Shield AI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/shield/af061c1a-f291-4540-be30-2df5adc22cc5">⭐️ Program Manager, Intern Experience</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/shield"><img src="https://cdn.brandfetch.io/shield.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Shield AI" height="20" style="vertical-align:middle; margin-right:6px;"> Shield AI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/shield/e7d4bfb2-db9c-47ae-a5d0-8c9ce6a702d0">⭐️ June 2027 Co-Op - Electrical Engineering Inter</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/shield"><img src="https://cdn.brandfetch.io/shield.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Shield AI" height="20" style="vertical-align:middle; margin-right:6px;"> Shield AI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/shield/aa894b5e-8101-4980-a716-785ce34e1286">⭐️ 2027 Summer Intern - X-BAT Engineering Avionics - 5923</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/shield"><img src="https://cdn.brandfetch.io/shield.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Shield AI" height="20" style="vertical-align:middle; margin-right:6px;"> Shield AI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/shield/f96617c2-a120-4b3b-844d-790fcda42503">⭐️ 2027 Summer Intern - Software Engineering - 5815</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/shield"><img src="https://cdn.brandfetch.io/shield.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Shield AI" height="20" style="vertical-align:middle; margin-right:6px;"> Shield AI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/shield/683deced-ddc9-4857-8783-323994263f2a">⭐️ 2027 Summer Intern - Operational Analysis - 6538</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/shield"><img src="https://cdn.brandfetch.io/shield.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Shield AI" height="20" style="vertical-align:middle; margin-right:6px;"> Shield AI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/shield/2d4c1eef-2569-46e1-9924-23588d5c5e86">⭐️ 2027 Summer Intern - Software Test Automation - 5796</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/shield"><img src="https://cdn.brandfetch.io/shield.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Shield AI" height="20" style="vertical-align:middle; margin-right:6px;"> Shield AI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/shield/7378153f-32ca-426c-a157-8069d5b284c8">⭐️ June 2027 Co-op - Mission Systems Engineering - 5813</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/shield"><img src="https://cdn.brandfetch.io/shield.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Shield AI" height="20" style="vertical-align:middle; margin-right:6px;"> Shield AI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/shield/13a615e3-acc0-4e5e-a829-51a54dde80ed">⭐️ 2027 Summer Intern - Aerostructures Intern - 6472 - 6427 - 6415</a></div></td>
+  <td>2026-11-27</td>
+</tr>
+  <tr>
+  <td>
+  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/shield"><img src="https://cdn.brandfetch.io/shield.ai/w/400/h/400?c=1id3bKTXJOZMzbEUjOA" alt="Shield AI" height="20" style="vertical-align:middle; margin-right:6px;"> Shield AI</a></div>
+</td>
+  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/shield/d5931c9e-b020-46f1-9344-9ea17768fad8">⭐️ 2027 Summer Intern - Mechanical Engineering - 6436</a></div></td>
   <td>2026-11-27</td>
 </tr>
   <tr>
@@ -4274,62 +4344,6 @@ Showing the 614 most recent of 40,080 roles tracked across 309 companies. ⭐️
   <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/embo"><img src="https://www.google.com/s2/favicons?domain=embo.com&sz=128" alt="Embo" height="20" style="vertical-align:middle; margin-right:6px;"> Embo</a></div>
 </td>
   <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/Embo/066cf984-7866-404e-a64b-bbdfa9e9e0a3">Research Scientist, Data</a></div></td>
-  <td>2026-11-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/embo"><img src="https://www.google.com/s2/favicons?domain=embo.com&sz=128" alt="Embo" height="20" style="vertical-align:middle; margin-right:6px;"> Embo</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/Embo/45492eff-6a6b-4bb3-aefa-53aea81b7eed">Hardware, Mechatronics Engineer</a></div></td>
-  <td>2026-11-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/embo"><img src="https://www.google.com/s2/favicons?domain=embo.com&sz=128" alt="Embo" height="20" style="vertical-align:middle; margin-right:6px;"> Embo</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/Embo/c2c18109-9c6e-4531-88e5-450be281f9e1">Research Scientist, Evals</a></div></td>
-  <td>2026-11-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/embo"><img src="https://www.google.com/s2/favicons?domain=embo.com&sz=128" alt="Embo" height="20" style="vertical-align:middle; margin-right:6px;"> Embo</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/Embo/937f005a-ea9a-4f2e-a727-90c2235aad96">Hardware, Robot Technician</a></div></td>
-  <td>2026-11-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/embo"><img src="https://www.google.com/s2/favicons?domain=embo.com&sz=128" alt="Embo" height="20" style="vertical-align:middle; margin-right:6px;"> Embo</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/Embo/2dbaffe1-da7c-43b4-9f46-2c640f88454e">Research Scientist, Pretraining</a></div></td>
-  <td>2026-11-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/embo"><img src="https://www.google.com/s2/favicons?domain=embo.com&sz=128" alt="Embo" height="20" style="vertical-align:middle; margin-right:6px;"> Embo</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/Embo/41e84cff-1d20-4c48-845d-70e2efeb6500">Research Scientist, Reinforcement Learning</a></div></td>
-  <td>2026-11-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/embo"><img src="https://www.google.com/s2/favicons?domain=embo.com&sz=128" alt="Embo" height="20" style="vertical-align:middle; margin-right:6px;"> Embo</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/Embo/df85eec9-9f2a-40f9-aaea-a1ed10cb71c9">Software Engineer, Infrastructure</a></div></td>
-  <td>2026-11-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/embo"><img src="https://www.google.com/s2/favicons?domain=embo.com&sz=128" alt="Embo" height="20" style="vertical-align:middle; margin-right:6px;"> Embo</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/Embo/c9a89327-a749-44e9-9299-0bc524f006d2">Software Engineer, Apps</a></div></td>
-  <td>2026-11-27</td>
-</tr>
-  <tr>
-  <td>
-  <div style="display: inline-flex; align-items: center; white-space: nowrap;"><a href="https://jobs.ashbyhq.com/embo"><img src="https://www.google.com/s2/favicons?domain=embo.com&sz=128" alt="Embo" height="20" style="vertical-align:middle; margin-right:6px;"> Embo</a></div>
-</td>
-  <td><div style="max-height:4.5em; overflow:auto; white-space:normal;"><a href="https://jobs.ashbyhq.com/Embo/76f6f763-28d1-494b-94d8-acf2c93b4bed">General Application</a></div></td>
   <td>2026-11-27</td>
 </tr>
 

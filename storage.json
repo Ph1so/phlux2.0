@@ -1250,7 +1250,8 @@
         "date": "2026-10-30",
         "id": "eightfold:1970393557051409",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557051409",
-        "location": "United States, Washington, Redmond +1"
+        "location": "United States, Washington, Redmond +1",
+        "closed": "2026-11-27"
       },
       {
         "title": "\u2b50\ufe0f Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
@@ -37315,7 +37316,8 @@
         "date": "2026-11-13",
         "id": "ashby:7e0ae8a3-4872-431c-a04a-2f2b8988b527",
         "url": "https://jobs.ashbyhq.com/shield/7e0ae8a3-4872-431c-a04a-2f2b8988b527",
-        "location": "Arlington, VA, US"
+        "location": "Arlington, VA, US",
+        "early": "This is a hands-on role for a new graduate or early-career engineer interested in software development, integration, automated testing, and autonomous systems."
       },
       {
         "title": "Senior Engineer, AI Engineering (R5450)",
@@ -41843,6 +41845,76 @@
         "date": "N/A",
         "id": "ashby:92a94f2d-5920-41d7-b620-58eb083a42a4",
         "url": "https://jobs.ashbyhq.com/shield/92a94f2d-5920-41d7-b620-58eb083a42a4",
+        "location": "Dallas, TX, US"
+      },
+      {
+        "title": "\u2b50\ufe0f Electrical Engineering - 2027 January Co-Op",
+        "date": "2026-11-27",
+        "id": "ashby:7c6f4d6d-fac0-4d71-9d4e-7581db11dc33",
+        "url": "https://jobs.ashbyhq.com/shield/7c6f4d6d-fac0-4d71-9d4e-7581db11dc33",
+        "location": "Dallas, TX, US"
+      },
+      {
+        "title": "\u2b50\ufe0f Program Manager, Intern Experience",
+        "date": "2026-11-27",
+        "id": "ashby:af061c1a-f291-4540-be30-2df5adc22cc5",
+        "url": "https://jobs.ashbyhq.com/shield/af061c1a-f291-4540-be30-2df5adc22cc5",
+        "location": "Seattle, WA, US"
+      },
+      {
+        "title": "\u2b50\ufe0f June 2027 Co-Op - Electrical Engineering Inter",
+        "date": "2026-11-27",
+        "id": "ashby:e7d4bfb2-db9c-47ae-a5d0-8c9ce6a702d0",
+        "url": "https://jobs.ashbyhq.com/shield/e7d4bfb2-db9c-47ae-a5d0-8c9ce6a702d0",
+        "location": "Dallas, TX, US"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern - X-BAT Engineering Avionics - 5923",
+        "date": "2026-11-27",
+        "id": "ashby:aa894b5e-8101-4980-a716-785ce34e1286",
+        "url": "https://jobs.ashbyhq.com/shield/aa894b5e-8101-4980-a716-785ce34e1286",
+        "location": "Dallas, TX, US"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern - Software Engineering - 5815",
+        "date": "2026-11-27",
+        "id": "ashby:f96617c2-a120-4b3b-844d-790fcda42503",
+        "url": "https://jobs.ashbyhq.com/shield/f96617c2-a120-4b3b-844d-790fcda42503",
+        "location": "Dallas, TX, US"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern - Operational Analysis - 6538",
+        "date": "2026-11-27",
+        "id": "ashby:683deced-ddc9-4857-8783-323994263f2a",
+        "url": "https://jobs.ashbyhq.com/shield/683deced-ddc9-4857-8783-323994263f2a",
+        "location": "Arlington, VA, US"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern - Software Test Automation - 5796",
+        "date": "2026-11-27",
+        "id": "ashby:2d4c1eef-2569-46e1-9924-23588d5c5e86",
+        "url": "https://jobs.ashbyhq.com/shield/2d4c1eef-2569-46e1-9924-23588d5c5e86",
+        "location": "Dallas, TX, US"
+      },
+      {
+        "title": "\u2b50\ufe0f June 2027 Co-op - Mission Systems Engineering - 5813",
+        "date": "2026-11-27",
+        "id": "ashby:7378153f-32ca-426c-a157-8069d5b284c8",
+        "url": "https://jobs.ashbyhq.com/shield/7378153f-32ca-426c-a157-8069d5b284c8",
+        "location": "Dallas, TX, US"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern - Aerostructures Intern - 6472 - 6427 - 6415",
+        "date": "2026-11-27",
+        "id": "ashby:13a615e3-acc0-4e5e-a829-51a54dde80ed",
+        "url": "https://jobs.ashbyhq.com/shield/13a615e3-acc0-4e5e-a829-51a54dde80ed",
+        "location": "Seattle, WA, US +1"
+      },
+      {
+        "title": "\u2b50\ufe0f 2027 Summer Intern - Mechanical Engineering - 6436",
+        "date": "2026-11-27",
+        "id": "ashby:d5931c9e-b020-46f1-9344-9ea17768fad8",
+        "url": "https://jobs.ashbyhq.com/shield/d5931c9e-b020-46f1-9344-9ea17768fad8",
         "location": "Dallas, TX, US"
       }
     ],
@@ -140637,17 +140709,9 @@
       "since": "2026-11-12",
       "error": "HTTPError: 403 Client Error: Forbidden for url: https://www.citadel.com/sitemap/career.xml"
     },
-    "General Motors": {
-      "since": "2026-11-27",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
-    },
     "ABB": {
       "since": "2026-11-27",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/External_Career_Page/jobs"
-    },
-    "Snap": {
-      "since": "2026-11-27",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
     },
     "Razer": {
       "since": "2026-11-27",
@@ -140656,14 +140720,6 @@
     "Samsung": {
       "since": "2026-11-27",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
-    },
-    "Nvidia": {
-      "since": "2026-11-27",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
-    },
-    "Unity": {
-      "since": "2026-11-27",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
     }
   },
   "closures_untracked": {
