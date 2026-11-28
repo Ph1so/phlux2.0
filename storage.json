@@ -1095,7 +1095,8 @@
         "date": "2026-10-15",
         "id": "eightfold:1970393557041731",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-        "location": "United States, Washington, Redmond"
+        "location": "United States, Washington, Redmond",
+        "closed": "2026-11-28"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Gray Systems Lab (GSL)",
@@ -9332,16 +9333,14 @@
         "date": "2026-10-09",
         "id": "eightfold:446720741706",
         "url": "https://careers.qualcomm.com/careers/job/446720741706",
-        "location": "San Diego, CA",
-        "closed": "2026-11-28"
+        "location": "San Diego, CA"
       },
       {
         "title": "\u2b50\ufe0f Information Technology (IT) Internship \u2013 Summer 2027",
         "date": "2026-10-09",
         "id": "eightfold:446720741716",
         "url": "https://careers.qualcomm.com/careers/job/446720741716",
-        "location": "San Diego, CA",
-        "closed": "2026-11-28"
+        "location": "San Diego, CA"
       },
       {
         "title": "\u2b50\ufe0f Finance & Accounting Internship - Summer 2027",
@@ -9404,21 +9403,24 @@
         "date": "2026-10-14",
         "id": "eightfold:446720737089",
         "url": "https://careers.qualcomm.com/careers/job/446720737089",
-        "location": "San Diego, CA +2"
+        "location": "San Diego, CA +2",
+        "closed": "2026-11-28"
       },
       {
         "title": "\u2b50\ufe0f Software Engineering Internship - Summer 2027",
         "date": "2026-10-14",
         "id": "eightfold:446720740529",
         "url": "https://careers.qualcomm.com/careers/job/446720740529",
-        "location": "San Diego, CA +7"
+        "location": "San Diego, CA +7",
+        "closed": "2026-11-28"
       },
       {
         "title": "\u2b50\ufe0f Qualcomm Government Technologies (QGOV) Engineering Internship \u2013 Summer 2027 (San Diego or Boulder) | US CITIZENSHIP REQUIRED",
         "date": "2026-10-14",
         "id": "eightfold:446720740540",
         "url": "https://careers.qualcomm.com/careers/job/446720740540",
-        "location": "San Diego, CA"
+        "location": "San Diego, CA",
+        "closed": "2026-11-28"
       },
       {
         "title": "\u2b50\ufe0f Automotive Engineering Internship \u2013 Summer 2027",
@@ -140560,7 +140562,7 @@
     "Mundane": "2026-11-28",
     "Uber": "2026-11-28",
     "Anywhere Robotics": "2026-11-01",
-    "Tesla": "2026-11-27",
+    "Tesla": "2026-11-28",
     "Beyond Reach Labs": "2026-11-28",
     "Relling": "2026-11-28",
     "Icarus": "2026-11-28",
@@ -140736,17 +140738,9 @@
       "since": "2026-11-27",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors/Careers_GM/jobs"
     },
-    "Tesla": {
-      "since": "2026-11-28",
-      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: HTTP 403; undetected-chromedriver: Refused: page denied)"
-    },
     "Samsung": {
       "since": "2026-11-28",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
-    },
-    "Razer": {
-      "since": "2026-11-28",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://razer.wd3.myworkdayjobs.com/wday/cxs/razer/Careers/jobs"
     },
     "Workday": {
       "since": "2026-11-28",
@@ -140760,21 +140754,49 @@
       "since": "2026-11-28",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unitytech/Unity/jobs"
     },
-    "Target": {
-      "since": "2026-11-28",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
-    },
-    "T-Mobile": {
-      "since": "2026-11-28",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://tmobile.wd1.myworkdayjobs.com/wday/cxs/tmobile/External/jobs"
-    },
     "Johnson & Johnson": {
       "since": "2026-11-28",
       "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs"
     },
-    "Oshkosh": {
+    "Nvidia": {
       "since": "2026-11-28",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
+    },
+    "Salesforce": {
+      "since": "2026-11-28",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs"
+    },
+    "Autodesk": {
+      "since": "2026-11-28",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/uni/jobs"
+    },
+    "Blue Origin": {
+      "since": "2026-11-28",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/BlueOrigin/jobs"
+    },
+    "Snap": {
+      "since": "2026-11-28",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://snapchat.wd1.myworkdayjobs.com/wday/cxs/snapchat/snap/jobs"
+    },
+    "Visa": {
+      "since": "2026-11-28",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs"
+    },
+    "Sony": {
+      "since": "2026-11-28",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sonyglobal.wd1.myworkdayjobs.com/wday/cxs/sonyglobal/SonyGlobalCareers/jobs"
+    },
+    "PROCEPT BioRobotics": {
+      "since": "2026-11-28",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://proceptbiorobotics.wd108.myworkdayjobs.com/wday/cxs/proceptbiorobotics/PROCEPT/jobs"
+    },
+    "Northrop Grumman": {
+      "since": "2026-11-28",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ngc.wd1.myworkdayjobs.com/wday/cxs/ngc/Northrop_Grumman_External_Site/jobs"
+    },
+    "Slate Auto": {
+      "since": "2026-11-28",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
     }
   },
   "closures_untracked": {
