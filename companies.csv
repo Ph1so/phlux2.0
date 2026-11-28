@@ -200,7 +200,7 @@ Lodestar,https://job-boards.eu.greenhouse.io/lodestarspace/,@greenhouse
 Morsecorp,https://job-boards.greenhouse.io/embed/job_board?for=morsecorp,@greenhouse
 Impulse Space,https://impulsespace.pinpointhq.com/,@pinpoint
 Wayve,https://jobs.ashbyhq.com/wayve?locationId=a937431a-b165-4153-8c67-a6808a6eb679,@ashby
-Shield AI,https://jobs.lever.co/shieldai?commitment=Intern->https://jobs.lever.co/shieldai?keyword=new%20grad&keyword=early%20career&keyword=entry&keyword=junior&keyword=university%20grad&keyword=college%20grad,@lever
+Shield AI,https://jobs.ashbyhq.com/shield,@ashby
 DeepMind,https://www.google.com/about/careers/applications/jobs/results?company=DeepMind,@google
 Waymo,https://job-boards.greenhouse.io/waymo,@greenhouse->FILTER:intern|new grad|early career|entry|junior|university grad|college grad
 Bedrock Robotics,https://jobs.ashbyhq.com/bedrock-robotics/,@ashby
@@ -294,7 +294,7 @@ Simbe Robotics,https://jobs.lever.co/SimbeRobotics,@lever
 Medra,https://jobs.ashbyhq.com/medraai,@ashby
 RoboForce,https://job-boards.greenhouse.io/roboforce,@greenhouse
 OpenMind,https://jobs.ashbyhq.com/openmind,@ashby
-Tutor Intelligence,https://jobs.lever.co/tutorintelligence,@lever
+Tutor Intelligence,https://jobs.ashbyhq.com/tutor-intelligence,@ashby
 Lightwheel,https://jobs.ashbyhq.com/lightwheel,@ashby
 MIT Lincoln Laboratory,https://careers.ll.mit.edu/search/?q=&sortColumn=referencedate&sortDirection=desc,@successfactors
 General Intuition,https://jobs.ashbyhq.com/generalintuition-medal,@ashby
