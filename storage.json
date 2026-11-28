@@ -1123,8 +1123,7 @@
         "date": "2026-10-19",
         "id": "eightfold:1970393557043740",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557043740",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-28"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Research Intern - Extended Perception Interaction Cognition (EPIC)",
@@ -1369,8 +1368,7 @@
         "date": "2026-11-13",
         "id": "eightfold:1970393557073455",
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
-        "location": "United States, Washington, Redmond",
-        "closed": "2026-11-28"
+        "location": "United States, Washington, Redmond"
       },
       {
         "title": "\u2b50\ufe0f Marketing MBA Internship Opportunities, United States",
@@ -9376,7 +9374,8 @@
         "date": "2026-10-13",
         "id": "eightfold:446721246663",
         "url": "https://careers.qualcomm.com/careers/job/446721246663",
-        "location": "Los Altos, CA"
+        "location": "Los Altos, CA",
+        "closed": "2026-11-28"
       },
       {
         "title": "\u2b50\ufe0f Wireless Systems Engineering Internship - Summer 2027",
@@ -9397,7 +9396,8 @@
         "date": "2026-10-14",
         "id": "eightfold:446720740525",
         "url": "https://careers.qualcomm.com/careers/job/446720740525",
-        "location": "San Diego, CA +6"
+        "location": "San Diego, CA +6",
+        "closed": "2026-11-28"
       },
       {
         "title": "\u2b50\ufe0f Embedded Engineering Internship - Summer 2027",
@@ -140568,7 +140568,7 @@
     "Tuesday Labs": "2026-11-28",
     "Weave Robotics": "2026-11-28",
     "Boost Robotics": "2026-11-28",
-    "Oshkosh": "2026-11-27",
+    "Oshkosh": "2026-11-28",
     "General Robotics": "2026-11-28",
     "Eka Robotics": "2026-11-28",
     "Bonsai Robotics": "2026-11-28",
@@ -140649,7 +140649,7 @@
     "Comcast": "2026-11-28",
     "HP": "2026-11-28",
     "UKG": "2026-11-28",
-    "Target": "2026-11-27",
+    "Target": "2026-11-28",
     "DRW": "2026-11-28",
     "Amentum": "2026-11-28",
     "Mercedes Benz": "2026-11-28",
@@ -140679,7 +140679,7 @@
     "Impulse Space": "2026-11-28",
     "Hadrian": "2026-11-28",
     "Saildrone": "2026-11-28",
-    "Johnson & Johnson": "2026-11-27",
+    "Johnson & Johnson": "2026-11-28",
     "Stryker": "2026-11-28",
     "PROCEPT BioRobotics": "2026-11-28",
     "Berkshire Grey": "2026-11-28",
@@ -140754,19 +140754,31 @@
     },
     "Tesla": {
       "since": "2026-11-28",
-      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: HTTP 403; undetected-chromedriver: Refused: page denied)"
+      "error": "RuntimeError: Tesla refused every browser (undetected-chromedriver: Refused: page denied; nodriver: Refused: page denied; undetected-chromedriver: Refused: page denied)"
     },
-    "Target": {
+    "Boston Dynamics": {
       "since": "2026-11-28",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://bostondynamics.wd1.myworkdayjobs.com/wday/cxs/bostondynamics/Boston_Dynamics/jobs"
     },
-    "Johnson & Johnson": {
+    "Medtronic": {
       "since": "2026-11-28",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://medtronic.wd1.myworkdayjobs.com/wday/cxs/medtronic/MedtronicCareers/jobs"
     },
-    "Oshkosh": {
+    "Samsung": {
       "since": "2026-11-28",
-      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshcorporation/Oshkosh/jobs"
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_Careers/jobs"
+    },
+    "Stryker": {
+      "since": "2026-11-28",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://stryker.wd1.myworkdayjobs.com/wday/cxs/stryker/StrykerCareers/jobs"
+    },
+    "Symbotic": {
+      "since": "2026-11-28",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://symbotic.wd504.myworkdayjobs.com/wday/cxs/symbotic/Symbotic/jobs"
+    },
+    "Slate Auto": {
+      "since": "2026-11-28",
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SLATEcareers/jobs"
     }
   },
   "closures_untracked": {
